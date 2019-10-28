@@ -123,7 +123,7 @@ def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
 
 
 def get_examples(EXAMPLE_DIR="examples/"):
-    example_files = glob.glob(EXAMPLE_DIR + "*_before.json")
+    example_files = glob.glob(EXAMPLE_DIR + "*.json")
     exs = []
 
     for FILE in example_files:
