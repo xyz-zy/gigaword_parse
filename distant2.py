@@ -8,7 +8,7 @@ FILE = SOURCE + "_" + LABEL + ".txt"
 TMP_PATH = "./" + LABEL + "_tmp/"
 failed_event_parse = 0
 
-INPUT_FILE = SOURCE + "_" + LABEL + ".txt"
+INPUT_FILE = "filtered/" + SOURCE + "_" + LABEL + ".txt"
 OUTPUT_FILE = "examples/" + SOURCE + "_" + LABEL + ".json"
 
 def main():
