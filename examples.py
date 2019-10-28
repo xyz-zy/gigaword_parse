@@ -35,15 +35,46 @@ class Example:
         # print(self.valid)
         return self.valid
 
+classes = ["AFTER", "BEFORE", "EQUAL", "VAGUE"]
 
-def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
-                                 doc_stride, is_training, segment_ids=False):
+class InputFeatures(object):
+    """Object containing the features for one example/data."""
+
+    def __init__(self,
+                 unique_id,
+                 example_index,
+                 tokens,
+                 input_ids,
+                 input_mask,
+                 segment_ids,
+                 label,
+                 e1_position=None,
+                 e2_position=None
+                 ):
+        self.unique_id = unique_id
+        self.example_index = example_index
+        self.tokens = tokens
+        self.input_ids = input_ids
+        self.input_mask = input_mask
+
+        # Indicates sentence A or sentence B.
+        self.segment_ids = segment_ids
+        self.label = label
+        self.e1_position = e1_position
+        self.e2_position = e2_position
+
+    def __repr__(self):
+        return str(self.tokens) + "\n" + str(self.e1_position) + ", " + str(self.e2_position) + ", " + str(self.label)
+
+
+def convert_examples_to_features(examples, tokenizer, max_seq_length,
+                                 doc_stride, is_training, segment_ids=False, mask=False):
     """Loads a data file into a list of InputFeatures."""
 
     unique_id = 1000000000
 
     features = []
-                
+
     # Generates features from examples.
     for (example_index, example) in enumerate(examples):
         input_tokens = list(itertools.chain.from_iterable([tokenizer.tokenize(w) for w in example.tokens]))
@@ -58,6 +89,10 @@ def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
             unique_id += 1
             continue
  
+        if mask:
+            rel_idx = input_tokens.index(example.label)
+            input_tokens[rel_idx] = "[MASK]"
+
         # Creates mappings from words in original text to tokens.
         tok_to_orig_index = []
         orig_to_tok_index = []
@@ -72,7 +107,7 @@ def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
         # + 1 accounts for CLS token
         tok_e1_pos = orig_to_tok_index[example.e1_pos] + 1
         tok_e2_pos = orig_to_tok_index[example.e2_pos] + 1
-       
+
 
         # The -3 accounts for [CLS], [SEP] and [SEP]
         segment = 0
@@ -103,7 +138,15 @@ def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
         assert len(segment_ids) == max_seq_length
         assert tok_e1_pos < max_seq_length
         assert tok_e2_pos < max_seq_length
- 
+
+        label=-1
+        if example.label == "before":
+            label = classes.index("BEFORE")
+        elif example.label == "after":
+            label = classes.index("AFTER")
+        elif example.label == "during":
+            label = classes.index("EQUAL")
+
         features.append(
             InputFeatures(
                 unique_id=unique_id,
@@ -112,7 +155,7 @@ def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
                 input_ids=input_ids,
                 input_mask=input_mask,
                 segment_ids=segment_ids,
-                label=example.int_label,
+                label=label,
                 e1_position=tok_e1_pos,
                 e2_position=tok_e2_pos
             )
