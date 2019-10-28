@@ -2,8 +2,10 @@ import glob
 import itertools
 import json
 
+from distant import Example
 
-from data.timeml import TimeMLExample
+
+# from data.timeml import TimeMLExample
 
 # class TimeMLExample(object):
 #     """
