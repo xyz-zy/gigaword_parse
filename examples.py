@@ -2,30 +2,39 @@ import glob
 import itertools
 import json
 
-from distant import Example
+## TODO: this code is taken from distant.py
+class Example:
+    def __init__(self, tokens, e1, e1_pos, e2, e2_pos, label):
+        self.valid = e1 is not None and e1_pos is not None and e2 is not None and e2_pos is not None
+        self.tokens = tokens
+        self.e1 = e1
+        self.e1_pos = e1_pos
+        self.e2 = e2
+        self.e2_pos = e2_pos
+        self.label = label
 
+    def to_json(self):
+        out_obj = {"tokens": self.tokens, "e1_text" : self.e1, "e1_pos": self.e1_pos,
+                   "e2_text" : self.e2, "e2_pos" : self.e2_pos, "label" : self.label}
+        return json.dumps(out_obj)
 
-# from data.timeml import TimeMLExample
+    def from_json(json_obj):
+        return Example(json_obj["tokens"], json_obj["e1_text"], json_obj["e1_pos"],
+                       json_obj["e2_text"], json_obj["e2_pos"], json_obj["label"])
 
-# class TimeMLExample(object):
-#     """
-#     A single training/test example for the TimeML dataset.
-#     """
-#     def __init__(self, text, e1_pos, e2_pos, label):
-#         self.text = text
-#         self.e1_pos = e1_pos
-#         self.e2_pos = e2_pos
-#         self.str_label = label
-#         self.int_label = None
+    def __repr__(self):
+        e1 = self.e1 if self.e1 else "None"
+        e1_pos = str(self.e1_pos) if self.e1_pos is not None else "None"
+        e2 = self.e2 if self.e2 else "None"
+        e2_pos = str(self.e2_pos) if self.e2_pos is not None else "None"
 
-#         self.sentences = None
-#         self.e1_sentence_num = None
-#         self.e1_sentence_pos= None
-#         self.e2_sentence_num = None
-#         self.e2_sentence_pos = None
+        return str(self.tokens) + "\n (" + e1 + ", " + e1_pos + \
+               ") (" + e2+ ", " + e2_pos + ")"
 
-#     def __str__(self):
-#         return self.text + "\n" + str(self.e1_pos) + " " + str(self.e2_pos) + " " + self.str_label
+    def __bool__(self):
+        # print(self.valid)
+        return self.valid
+
 
 def g_convert_examples_to_features(examples, tokenizer, max_seq_length,
                                  doc_stride, is_training, segment_ids=False):
