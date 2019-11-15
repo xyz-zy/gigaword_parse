@@ -14,13 +14,13 @@ from nltk import Tree, ParentedTree
 # INPUT_FILE = "filtered/" + SOURCE + "_" + LABEL + ".txt"
 # OUTPUT_FILE = "examples/" + SOURCE + "_" + LABEL + ".json"
 
-def parse_file(input_filename):
+def parse_file(parser, input_filename):
     total_sents = 0
     num_examples = 0
 
     output_filename = "examples/" + input_filename[len("filtered/"):-3] + ".json"
 
-    if os.exists(output_file):
+    if os.path.exists(output_filename):
         return
 
     output_file = open(output_filename, "w")
@@ -39,8 +39,8 @@ def parse_file(input_filename):
 
             if example:
                 if num_examples > 0:
-                    print(",", file=output_filename)
-                print(example.to_json(), file=output_filename)
+                    print(",", file=output_file)
+                print(example.to_json(), file=output_file)
                 num_examples += 1
 
 
@@ -53,7 +53,7 @@ def main():
     parser = CoreNLPParser(url='http://localhost:9000')
 
     for filename in glob.glob("filtered/*.txt"):
-        parse_file(filename)
+        parse_file(parser, filename)
 
 
 if __name__ == "__main__":
