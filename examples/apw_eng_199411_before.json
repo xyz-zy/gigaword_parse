@@ -1,0 +1,66 @@
+[
+{"tokens": ["The", "FA", "said", "it", "would", "not", "take", "any", "action", "against", "Grobbelaar", "before", "having", "a", "hearing", "with", "the", "player", ",", "presumably", "after", "he", "returns", "from", "Zimbabwe", "next", "week", "."], "e1_text": "take", "e1_pos": 6, "e2_text": "returns", "e2_pos": 22, "label": "after"}
+,
+{"tokens": ["``", "We", "will", "continue", "our", "quest", "for", "peace", ",", "recognizing", "that", "the", "path", "is", "a", "difficult", "and", "tortuous", "one", ",", "''", "Kumaratunga", "said", "in", "a", "television", "address", "after", "taking", "the", "oath", "of", "office", "before", "hundreds", "of", "people", "in", "a", "rainstorm", "."], "e1_text": "said", "e1_pos": 22, "e2_text": "taking", "e2_pos": 28, "label": "after"}
+,
+{"tokens": ["``", "We", "will", "continue", "our", "quest", "for", "peace", ",", "recognizing", "that", "the", "path", "is", "a", "difficult", "and", "tortuous", "one", ",", "''", "Kumaratunga", "said", "in", "a", "television", "address", "after", "taking", "the", "oath", "of", "office", "before", "hundreds", "of", "people", "in", "a", "rainstorm", "."], "e1_text": "said", "e1_pos": 22, "e2_text": "taking", "e2_pos": 28, "label": "after"}
+,
+{"tokens": ["Ballesteros", "made", "a", "move", "midway", "through", "the", "round", "and", "closed", "to", "within", "three", "shots", "of", "the", "lead", "before", "he", "took", "a", "watery", "double-bogey", "on", "the", "420-yard", ",", "par-4", ",", "16th", "hole", "after", "finding", "a", "pond", "with", "his", "second", "shot", "."], "e1_text": "took", "e1_pos": 19, "e2_text": "finding", "e2_pos": 32, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "18th-century", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "18th-century", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "18th-century", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "18th-century", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["``", "We", "will", "continue", "our", "quest", "for", "peace", ",", "recognizing", "that", "the", "path", "is", "a", "difficult", "and", "tortuous", "one", ",", "''", "Kumaratunga", "said", "in", "a", "television", "address", "after", "taking", "the", "oath", "of", "office", "Saturday", "before", "hundreds", "of", "people", "in", "a", "rainstorm", "."], "e1_text": "said", "e1_pos": 22, "e2_text": "taking", "e2_pos": 28, "label": "after"}
+,
+{"tokens": ["The", "protests", "erupted", "two", "days", "before", "Asian", "and", "Pacific", "leaders", "attend", "a", "summit", "in", "Indonesia", "and", "a", "day", "after", "the", "third", "anniversary", "of", "a", "massacre", "in", "which", "soldiers", "killed", "scores", "of", "unarmed", "civilians", "at", "Santa", "Cruz", "cemetary", "in", "Dili", "."], "e1_text": "attend", "e1_pos": 10, "e2_text": "killed", "e2_pos": 28, "label": "after"}
+,
+{"tokens": ["The", "protests", "erupted", "two", "days", "before", "Asian", "and", "Pacific", "leaders", "attend", "a", "summit", "in", "Indonesia", "and", "a", "day", "after", "the", "third", "anniversary", "of", "a", "massacre", "in", "which", "soldiers", "killed", "scores", "of", "unarmed", "civilians", "at", "Santa", "Cruz", "cemetary", "in", "Dili", "."], "e1_text": "attend", "e1_pos": 10, "e2_text": "killed", "e2_pos": 28, "label": "after"}
+,
+{"tokens": ["Kumaratunga", "said", "in", "a", "television", "address", "after", "taking", "the", "oath", "of", "office", "Saturday", "before", "hundreds", "of", "people", "in", "a", "rainstorm", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "taking", "e2_pos": 7, "label": "after"}
+,
+{"tokens": ["Kumaratunga", "said", "in", "a", "television", "address", "after", "taking", "the", "oath", "of", "office", "Saturday", "before", "hundreds", "of", "people", "in", "a", "rainstorm", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "taking", "e2_pos": 7, "label": "after"}
+,
+{"tokens": ["The", "protests", "in", "Dili", "erupted", "two", "days", "before", "Asian", "and", "Pacific", "leaders", "attend", "a", "summit", "in", "Indonesia", "and", "a", "day", "after", "the", "third", "anniversary", "of", "a", "massacre", "in", "which", "soldiers", "killed", "dozens", "of", "unarmed", "civilians", "in", "Dili", "."], "e1_text": "attend", "e1_pos": 12, "e2_text": "killed", "e2_pos": 30, "label": "after"}
+,
+{"tokens": ["Renberg", "scored", "Lulea", "'s", "final", "goal", "at", "13:56", "in", "the", "second", "period", "after", "setting", "up", "Mikael", "Engstrom", "seven", "minutes", "earlier", "before", "a", "sellout", "crowd", "of", "5,379", "."], "e1_text": "scored", "e1_pos": 1, "e2_text": "setting", "e2_pos": 13, "label": "after"}
+,
+{"tokens": ["Renberg", "scored", "Lulea", "'s", "final", "goal", "at", "13:56", "in", "the", "second", "period", "after", "setting", "up", "Mikael", "Engstrom", "seven", "minutes", "earlier", "before", "a", "sellout", "crowd", "of", "5,379", "."], "e1_text": "scored", "e1_pos": 1, "e2_text": "setting", "e2_pos": 13, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["The", "fire", ",", "which", "started", "two", "hours", "after", "the", "riot", "broke", "out", "mid-afternoon", "Friday", ",", "burned", "through", "the", "night", "in", "the", "concrete-and-wood", "prison", "and", "part", "of", "the", "police", "station", "before", "it", "was", "extinguished", "by", "mid-morning", "Saturday", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "broke", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["The", "first", "disturbing", "fact", "is", "the", "following", ":", "before", "and", "after", "Italy", "was", "united", ",", "the", "regions", "of", "Piedmont", ",", "Lombardy", ",", "Venice", "and", "Tuscany", "were", "perfect", "models", "of", "how", "regions", "should", "be", "run", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["Officers", "narrowly", "missed", "capturing", "him", "two", "hours", "before", "the", "shootout", "after", "he", "forced", "a", "woman", "from", "her", "Lexus", "in", "Mountain", "View", ",", "about", "35", "miles", "-LRB-", "55", "kilometers", "-RRB-", "south", "of", "San", "Francisco", "."], "e1_text": "missed", "e1_pos": 2, "e2_text": "forced", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["Officers", "narrowly", "missed", "capturing", "him", "two", "hours", "before", "the", "shootout", "after", "he", "forced", "a", "woman", "from", "her", "Lexus", "in", "Mountain", "View", ",", "about", "35", "miles", "-LRB-", "55", "kilometers", "-RRB-", "south", "of", "San", "Francisco", "."], "e1_text": "missed", "e1_pos": 2, "e2_text": "forced", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["Officers", "narrowly", "missed", "capturing", "him", "two", "hours", "before", "the", "shootout", "after", "he", "forced", "a", "woman", "from", "her", "Lexus", "in", "Mountain", "View", ",", "about", "35", "miles", "-LRB-", "55", "kilometers", "-RRB-", "south", "of", "San", "Francisco", "."], "e1_text": "missed", "e1_pos": 2, "e2_text": "forced", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["``", "A", "number", "of", "patients", "were", "given", "a", "series", "of", "psycho-motor", "tests", "to", "perform", "before", "and", "after", "receiving", "specified", "doses", "''", "of", "total-body", "radiation", ",", "said", "the", "staff", "report", "."], "e1_text": "perform", "e1_pos": 13, "e2_text": "receiving", "e2_pos": 17, "label": "after"}
+,
+{"tokens": ["The", "county-owned", "Kingdome", "was", "closed", "for", "four", "months", "after", "several", "ceiling", "tiles", "fell", "into", "the", "stands", "shortly", "before", "a", "scheduled", "Mariners", "game", "on", "July", "19", "."], "e1_text": "closed", "e1_pos": 4, "e2_text": "fell", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["Minoso", "never", "got", "to", "play", "in", "the", "tournament", "after", "spraining", "his", "left", "knee", "during", "practice", "the", "day", "before", "it", "began", "on", "Oct.", "."], "e1_text": "play", "e1_pos": 4, "e2_text": "spraining", "e2_pos": 9, "label": "after"}
+,
+{"tokens": ["Even", "before", "the", "Jewish", "ghetto", "was", "created", "in", "Budapest", ",", "almost", "90", "percent", "of", "Hungary", "'s", "Jews", "were", "deported", "to", "death", "camps", "after", "the", "Germans", "occupied", "Hungary", "in", "March", "1944", "."], "e1_text": "deported", "e1_pos": 18, "e2_text": "occupied", "e2_pos": 25, "label": "after"}
+,
+{"tokens": ["Brown", "is", "visiting", "Malaysia", "after", "attending", "a", "ministerial", "meeting", "before", "the", "Asia", "Pacific", "Economic", "Cooperation", "summit", "in", "Indonesia", "."], "e1_text": "visiting", "e1_pos": 2, "e2_text": "attending", "e2_pos": 5, "label": "after"}
+,
+{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
+,
+{"tokens": ["Word", "of", "Van", "Boven", "'s", "departure", "came", "only", "a", "week", "after", "the", "Tribunal", "issued", "its", "first", "indictment", "and", "months", "before", "the", "first", "defendant", "is", "expected", "in", "its", "rented", "courtroom", "in", "an", "insurance", "company", "office", "building", "here", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "issued", "e2_pos": 13, "label": "after"}
+,
+{"tokens": ["The", "rebels", ",", "who", "fled", "to", "Croatia", "after", "their", "renegade", "Muslim", "commander", "lost", "control", "of", "the", "Bihac", "region", "in", "August", ",", "have", "backed", "Bosnian", "Serbs", "before", "."], "e1_text": "fled", "e1_pos": 4, "e2_text": "lost", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["The", "rebels", ",", "who", "fled", "to", "Croatia", "after", "their", "renegade", "Muslim", "commander", "lost", "control", "of", "the", "Bihac", "region", "in", "August", ",", "have", "backed", "Bosnian", "Serbs", "before", "."], "e1_text": "fled", "e1_pos": 4, "e2_text": "lost", "e2_pos": 12, "label": "after"}
