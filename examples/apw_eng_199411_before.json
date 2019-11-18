@@ -64,3 +64,4 @@
 {"tokens": ["The", "rebels", ",", "who", "fled", "to", "Croatia", "after", "their", "renegade", "Muslim", "commander", "lost", "control", "of", "the", "Bihac", "region", "in", "August", ",", "have", "backed", "Bosnian", "Serbs", "before", "."], "e1_text": "fled", "e1_pos": 4, "e2_text": "lost", "e2_pos": 12, "label": "after"}
 ,
 {"tokens": ["The", "rebels", ",", "who", "fled", "to", "Croatia", "after", "their", "renegade", "Muslim", "commander", "lost", "control", "of", "the", "Bihac", "region", "in", "August", ",", "have", "backed", "Bosnian", "Serbs", "before", "."], "e1_text": "fled", "e1_pos": 4, "e2_text": "lost", "e2_pos": 12, "label": "after"}
+]

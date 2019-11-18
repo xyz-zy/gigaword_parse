@@ -48,3 +48,4 @@
 {"tokens": ["Italian", "ace", "Baldasere", "Monti", "also", "is", "in", "a", "stable", "condition", "in", "the", "same", "hospital", "after", "suffering", "head", "injuries", "in", "a", "crash", "during", "practice", ",", "but", "Aberdeen", "rider", "Rob", "Mitchell", "is", "in", "a", "critical", "condition", "after", "crashing", "during", "practice", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "suffering", "e2_pos": 15, "label": "after"}
 ,
 {"tokens": ["Jackson", "has", "withdrawn", "after", "straining", "a", "hamstring", "during", "training", "on", "Sunday", "."], "e1_text": "withdrawn", "e1_pos": 2, "e2_text": "straining", "e2_pos": 4, "label": "after"}
+]
