@@ -53,11 +53,9 @@
 ,
 {"tokens": ["Brown", "is", "visiting", "Malaysia", "after", "attending", "a", "ministerial", "meeting", "before", "the", "Asia", "Pacific", "Economic", "Cooperation", "summit", "in", "Indonesia", "."], "e1_text": "visiting", "e1_pos": 2, "e2_text": "attending", "e2_pos": 5, "label": "after"}
 ,
-{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
+{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs.", "The", "action", "agenda", ",", "a", "plan", "for", "implementing", "the", "APEC", "market", "liberalization", "agreement", ",", "is", "to", "be", "hammered", "out", "in", "meetings", "of", "ministers", "and", "senior", "officials", "before", "next", "year", "'s", "APEC", "meeting", ",", "in", "Osaka", ",", "Japan", "."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
 ,
-{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
-,
-{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
+{"tokens": ["Scott", "before", "meeting", "Lippard", "and", "found", "out", "soon", "after", "he", "started", "seeing", "Lippard", "that", "Mrs.", "Former", "communications", "minister", "Alain", "Carignon", ",", "forced", "to", "resign", "over", "a", "corruption", "scandal", ",", "is", "currently", "locked", "up", "to", "prevent", "evidence", "tampering", "before", "he", "goes", "to", "trial", "."], "e1_text": "found", "e1_pos": 5, "e2_text": "started", "e2_pos": 10, "label": "after"}
 ,
 {"tokens": ["Word", "of", "Van", "Boven", "'s", "departure", "came", "only", "a", "week", "after", "the", "Tribunal", "issued", "its", "first", "indictment", "and", "months", "before", "the", "first", "defendant", "is", "expected", "in", "its", "rented", "courtroom", "in", "an", "insurance", "company", "office", "building", "here", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "issued", "e2_pos": 13, "label": "after"}
 ,

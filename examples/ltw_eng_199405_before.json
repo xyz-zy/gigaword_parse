@@ -1,0 +1,15 @@
+[
+{"tokens": ["-LRB-", "On", "Southwest", "Airlines", ",", "the", "average", "passenger", "gets", "a", "free", "trip", "after", "7,104", "miles", "because", "freebies", "are", "awarded", "by", "that", "carrier", "after", "eight", "round", "trips", "rather", "than", "a", "mileage", "minimum", ".", "-RRB-"], "e1_text": "gets", "e1_pos": 8, "e2_text": "are", "e2_pos": 17, "label": "after"}
+,
+{"tokens": ["He", "and", "his", "accomplices", "also", "objected", "that", "after", "firing", "their", "court-appointed", "lawyers", "two", "months", "ago", ",", "Duffy", "prohibited", "them", "from", "retaining", "famed", "civil", "rights", "lawyer", "William", "Kunstler", "to", "handle", "their", "appeals", "."], "e1_text": "objected", "e1_pos": 5, "e2_text": "firing", "e2_pos": 8, "label": "after"}
+,
+{"tokens": ["But", "Hillary", "Clinton", "had", "to", "face", "such", "questions", "before", "and", "after", "her", "husband", "came", "to", "office", "."], "e1_text": "face", "e1_pos": 5, "e2_text": "came", "e2_pos": 13, "label": "after"}
+,
+{"tokens": ["When", "Midler", "and", "Martin", "von", "Haselberg", "reconnected", "in", "October", "1984", ",", "after", "having", "met", "briefly", "once", "before", ",", "sparks", "flew", "."], "e1_text": "reconnected", "e1_pos": 6, "e2_text": "having", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["The", "spokesman", "added", "that", "even", "before", "the", "Justice", "Department", "made", "its", "appeal", ",", "the", "panel", "had", "not", "contemplated", "asking", "Ames", "to", "appear", "until", "after", "the", "government", "had", "concluded", "its", "questioning", "and", "the", "committee", "staff", "reviewed", "the", "results", "."], "e1_text": "appear", "e1_pos": 21, "e2_text": "had", "e2_pos": 15, "label": "after"}
+,
+{"tokens": ["Patrick", "said", "that", "Harcourt", "cooperated", "fully", "to", "settle", "the", "complaint", ",", "entering", "into", "negotiations", "promptly", "after", "being", "notified", "of", "its", "alleged", "violations", "and", "implementing", "many", "of", "the", "new", "procedures", "months", "before", "the", "final", "settlement", "."], "e1_text": "entering", "e1_pos": 11, "e2_text": "being", "e2_pos": 16, "label": "after"}
+,
+{"tokens": ["I", "phoned", "and", "faxed", "Italy", "weeks", "before", "I", "left", "home", ",", "but", "failed", "to", "book", "a", "seat", "until", "the", "last", "minute", "--", "and", "then", "only", "after", "I", "showed", "up", "at", "the", "box", "office", "."], "e1_text": "faxed", "e1_pos": 3, "e2_text": "showed", "e2_pos": 27, "label": "after"}
+]

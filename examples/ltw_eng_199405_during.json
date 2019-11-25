@@ -1,0 +1,13 @@
+[
+{"tokens": ["Administration", "officials", "have", "said", "the", "United", "States", "will", "not", "establish", "formal", "diplomatic", "relations", "with", "Vietnam", "until", "after", "Hanoi", "cooperates", "further", "in", "the", "task", "of", "accounting", "for", "Americans", "missing", "in", "action", "during", "the", "war", "."], "e1_text": "establish", "e1_pos": 9, "e2_text": "cooperates", "e2_pos": 18, "label": "after"}
+,
+{"tokens": ["U.S.", "District", "Judge", "Kevin", "Duffy", ",", "who", "angrily", "addressed", "the", "defendants", "after", "overseeing", "the", "5", "1/2", "-", "month", "trial", ",", "called", "the", "four", "``", "cowards", "''", "for", "planting", "a", "bomb", "during", "the", "lunch", "hour", "of", "Feb.", "``", "Dr.", "Perry", ",", "Mr.", "Deutch", "and", "Dr.", "Jones", "did", "not", "have", "any", "personal", "involvement", "relative", "to", "the", "Air", "Force", "contract", "during", "their", "service", "on", "the", "SAIC", "board", ",", "''", "the", "statement", "said", "."], "e1_text": "addressed", "e1_pos": 8, "e2_text": "overseeing", "e2_pos": 12, "label": "after"}
+,
+{"tokens": ["Arafat", "and", "Halima", "'s", "other", "stepson", ",", "Sabar", ",", "25", ",", "are", "almost", "home", "after", "serving", "in", "exiled", "Palestinian", "brigades", "in", "Iraq", "and", "Libya", "both", "during", "and", "after", "the", "1991", "Persian", "Gulf", "War", "."], "e1_text": "are", "e1_pos": 11, "e2_text": "serving", "e2_pos": 15, "label": "after"}
+,
+{"tokens": ["The", "arrests", "came", "nine", "days", "after", "the", "Germans", "were", "attacked", "during", "an", "apparent", "robbery", ",", "which", "left", "Gisela", "Pfleger", "dead", "from", "gunshot", "wounds", "to", "her", "head", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 8, "label": "after"}
+,
+{"tokens": ["Kennedy", "turned", "to", "Hatch", "for", "counsel", "and", "help", "after", "the", "1991", "incident", "during", "which", "his", "nephew", ",", "William", "Kennedy", "Smith", ",", "was", "charged", "with", "rape", ",", "Hatch", "said", "."], "e1_text": "turned", "e1_pos": 1, "e2_text": "was", "e2_pos": 21, "label": "after"}
+,
+{"tokens": ["At", "a", "special", "time", "Wednesday", ",", "NBC", "'s", "``", "Now", "With", "Tom", "Brokaw", "and", "Katie", "Couric", "''", "has", "an", "emotional", "reunion", "of", "two", "vets", "who", "had", "not", "seen", "each", "other", "for", "50", "years", "after", "having", "become", "friends", "during", "battle", "in", "World", "War", "II", "."], "e1_text": "seen", "e1_pos": 27, "e2_text": "having", "e2_pos": 34, "label": "after"}
+]

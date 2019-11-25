@@ -1,19 +1,17 @@
 [
+{"tokens": ["Shelling", "resumes", "after", "calmer", "night", "in", "wake", "of", "ceasefire", "ADEN", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Fighting", "between", "northern", "and", "southern", "Yemenis", "resumed", "at", "dawn", "Friday", "on", "the", "outskirts", "of", "Aden", "after", "a", "lull", "overnight", "in", "the", "wake", "of", "a", "ceasefire", "agreement", "concluded", "Thursday", "in", "Moscow", "."], "e1_text": "resumes", "e1_pos": 1, "e2_text": "resumed", "e2_pos": 22, "label": "after"}
+,
 {"tokens": ["And", "then", "along", "came", "Maradona", "again", "--", "back", "into", "the", "gutter", "after", "testing", "positive", "for", "ephedrine", "in", "a", "random", "control", "following", "the", "second", "game", "against", "Nigeria", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "testing", "e2_pos": 12, "label": "after"}
 ,
 {"tokens": ["It", "had", "all", "ended", "in", "tears", ",", "as", "it", "did", "in", "1990", "when", "he", "cried", "after", "Argentina", "lost", "in", "the", "final", "to", "Germany", "."], "e1_text": "cried", "e1_pos": 14, "e2_text": "lost", "e2_pos": 17, "label": "after"}
-,
-{"tokens": ["Banned", "after", "a", "thigh-high", "tackle", "on", "Switzerland", "'s", "Christophe", "Ohrel", ",", "he", "was", "sent", "home", "after", "fighting", "with", "an", "assistant", "coach", "who", "accused", "him", "of", "letting", "the", "team", "down", "."], "e1_text": "Banned", "e1_pos": 0, "e2_text": "tackle", "e2_pos": 4, "label": "after"}
 ,
 {"tokens": ["Greece", "were", "the", "first", "European", "qualifiers", "and", "the", "first", "to", "exit", "after", "finding", "they", "were", "out", "of", "their", "depth", "."], "e1_text": "exit", "e1_pos": 10, "e2_text": "finding", "e2_pos": 12, "label": "after"}
 ,
 {"tokens": ["FIFA", "revenge", "came", "after", "his", "touchline", "row", "with", "an", "official", "and", "linesman", "in", "the", "defeat", "by", "Mexico", "brought", "a", "one-match", "ban", "from", "the", "dug-out", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "brought", "e2_pos": 17, "label": "after"}
 ,
-{"tokens": ["They", "began", "with", "a", "hollow", "1-0", "win", "over", "Bolivia", "after", "a", "terrible", "blunder", "by", "Bolivian", "goalkeeper", "Carlos", "Trucco", "allowed", "Jurgen", "Klinsmann", "to", "roll", "the", "ball", "into", "an", "empty", "net", "."], "e1_text": "win", "e1_pos": 6, "e2_text": "allowed", "e2_pos": 18, "label": "after"}
+{"tokens": ["They", "began", "with", "a", "hollow", "1-0", "win", "over", "Bolivia", "after", "a", "terrible", "blunder", "by", "Bolivian", "goalkeeper", "Carlos", "Trucco", "allowed", "Jurgen", "Klinsmann", "to", "roll", "the", "ball", "into", "an", "empty", "net", "."], "e1_text": "began", "e1_pos": 1, "e2_text": "allowed", "e2_pos": 18, "label": "after"}
 ,
 {"tokens": ["-LRB-", "LOS", "ANGELES", "-RRB-", "Italy", "'s", "first-choice", "keeper", ",", "Gianluca", "Pagliuca", ",", "still", "has", "one", "match", "to", "run", "on", "a", "two-match", "ban", "after", "being", "sent", "off", "in", "the", "1-0", "victory", "over", "Norway", "."], "e1_text": "run", "e1_pos": 17, "e2_text": "being", "e2_pos": 23, "label": "after"}
-,
-{"tokens": ["Mexican", "Joaquin", "Del", "Olmo", "and", "Jan", "Wouters", ",", "of", "Holland", ",", "are", "also", "suspended", "after", "two", "cautions", "."], "e1_text": "suspended", "e1_pos": 13, "e2_text": "cautions", "e2_pos": 16, "label": "after"}
 ,
 {"tokens": ["Ireland", "'s", "Denis", "Irwin", "and", "Terry", "Phelan", ",", "Sweden", "'s", "Martin", "Dahlin", "and", "Saudi", "goalscorer", "Fuad", "Amin", "Anwar", "will", "also", "return", "after", "missing", "their", "final", "group", "matches", "."], "e1_text": "return", "e1_pos": 20, "e2_text": "missing", "e2_pos": 22, "label": "after"}
 ,
@@ -26,6 +24,8 @@
 {"tokens": ["The", "finance", "department", "said", "that", "Finance", "Secretary", "Roberto", "de", "Ocampo", "and", "Central", "Bank", "Governor", "Gabriel", "Singson", "had", "written", "to", "Christian", "Noyer", ",", "the", "French", "chairman", "of", "the", "Paris", "Club", ",", "after", "Manila", "had", "secured", "International", "Monetary", "Fund", "-LRB-", "IMF", "-RRB-", "approval", "for", "its", "economic", "programme", "last", "month", "."], "e1_text": "written", "e1_pos": 17, "e2_text": "had", "e2_pos": 16, "label": "after"}
 ,
 {"tokens": ["The", "PLO", "'s", "information", "office", "in", "Cairo", "said", "Arafat", "would", "arrive", "at", "the", "Rafah", "border", "crossing", ",", "on", "the", "Egyptian", "border", "with", "the", "Gaza", "Strip", ",", "at", "2:30", "p.m.", "-LRB-", "1130", "GMT", "-RRB-", "Friday", ",", "after", "leaving", "Cairo", "at", "1:30", "p.m.", "-LRB-", "1030", "GMT", "-RRB-", "."], "e1_text": "crossing", "e1_pos": 15, "e2_text": "leaving", "e2_pos": 36, "label": "after"}
+,
+{"tokens": ["Davies", "told", "government-run", "RTHK", "radio", "that", "there", "were", "regular", "contacts", "with", "the", "Chinese", "side", "after", "last", "week", "'s", "meeting", "failed", "to", "reach", "agreement", "on", "financing", "Hong", "Kong", "'s", "20.3", "billion", "US", "dollar", "airport", "project", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "failed", "e2_pos": 19, "label": "after"}
 ,
 {"tokens": ["China", "is", "wary", "of", "any", "deal", "that", "would", "leave", "Hong", "Kong", "with", "too", "much", "debt", "to", "repay", "after", "it", "takes", "back", "the", "British", "colony", "in", "July", "1997", "--", "around", "the", "same", "time", "the", "airport", "is", "scheduled", "to", "open", "."], "e1_text": "repay", "e1_pos": 16, "e2_text": "takes", "e2_pos": 19, "label": "after"}
 ,
@@ -41,9 +41,9 @@
 ,
 {"tokens": ["It", "will", "be", "his", "first", "visit", "to", "Gaza", "since", "Israel", "captured", "it", "in", "the", "1967", "war", "and", "comes", "almost", "two", "months", "after", "Arafat", "signed", "in", "Cairo", "the", "accord", "launching", "limited", "Palestinian", "autonomy", "in", "Gaza", "and", "the", "West", "Bank", "town", "of", "Jericho", "."], "e1_text": "comes", "e1_pos": 17, "e2_text": "signed", "e2_pos": 23, "label": "after"}
 ,
-{"tokens": ["Boris", "Nemtsov", ",", "governor", "of", "the", "central", "region", "of", "Nizhni-Novgorod", ",", "has", "called", "for", "an", "enquiry", "after", "Zhirinovsky", ",", "accompanied", "by", "his", "bodyguards", ",", "had", "stormed", "into", "Nemtsov", "'s", "office", "to", "complain", "about", "``", "the", "actions", "taken", "by", "the", "administration", "to", "undermine", "his", "authority", ".", "''"], "e1_text": "called", "e1_pos": 12, "e2_text": "had", "e2_pos": 24, "label": "after"}
+{"tokens": ["Another", "police", "officer", "quoted", "by", "Interfax", "said", "the", "accident", "happened", "some", "100", "kilometres", "-LRB-", "62", "miles", "-RRB-", "south", "of", "the", "Russian", "capital", "on", "the", "main", "road", "to", "Kiev", "after", "a", "car", "cut", "across", "Zhirinovsky", "'s", "motorcade", "."], "e1_text": "happened", "e1_pos": 9, "e2_text": "cut", "e2_pos": 31, "label": "after"}
 ,
-{"tokens": ["Man", "stabbed", "after", "World", "Cup", "row", "KUALA", "LUMPUR", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "A", "Malaysian", "was", "stabbed", "with", "a", "pair", "of", "scissors", "by", "his", "cousin", "following", "a", "quarrel", "over", "which", "World", "Cup", "match", "to", "watch", "on", "television", ",", "a", "newspaper", "reported", "Friday", "."], "e1_text": "stabbed", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "after"}
+{"tokens": ["Boris", "Nemtsov", ",", "governor", "of", "the", "central", "region", "of", "Nizhni-Novgorod", ",", "has", "called", "for", "an", "enquiry", "after", "Zhirinovsky", ",", "accompanied", "by", "his", "bodyguards", ",", "had", "stormed", "into", "Nemtsov", "'s", "office", "to", "complain", "about", "``", "the", "actions", "taken", "by", "the", "administration", "to", "undermine", "his", "authority", ".", "''"], "e1_text": "called", "e1_pos": 12, "e2_text": "had", "e2_pos": 24, "label": "after"}
 ,
 {"tokens": ["Yap", "Ngon", "Hing", ",", "36", ",", "was", "stabbed", "while", "watching", "the", "Morocco", "v", "Holland", "match", "on", "one", "side", "after", "quarrelling", "with", "his", "cousin", "who", "wanted", "to", "see", "the", "other", "match", ",", "a", "police", "officer", "in", "the", "northern", "town", "of", "Rawang", "was", "quoted", "as", "saying", "."], "e1_text": "watching", "e1_pos": 9, "e2_text": "quarrelling", "e2_pos": 19, "label": "after"}
 ,
@@ -75,8 +75,6 @@
 ,
 {"tokens": ["Colonel", "H", ",", "in", "charge", "of", "the", "Israeli", "side", ",", "met", "briefly", "with", "Palestinian", "police", "chief", "general", "Nasser", "Yussef", "on", "Friday", "after", "a", "liaison", "committee", "ironed", "out", "arrangements", "the", "day", "before", "."], "e1_text": "met", "e1_pos": 10, "e2_text": "ironed", "e2_pos": 25, "label": "after"}
 ,
-{"tokens": ["A", "salvo", "of", "five", "Katyusha", "rockets", "hit", "Aden", "20", "minutes", "after", "a", "midnight", "-LRB-", "2100", "GMT", "-RRB-", "ceasefire", "deadline", "set", "by", "the", "warring", "sides", "following", "Russian-brokered", "talks", "in", "Moscow", "Thursday", "."], "e1_text": "hit", "e1_pos": 6, "e2_text": "set", "e2_pos": 19, "label": "after"}
-,
 {"tokens": ["The", "positions", "on", "the", "frontline", "were", "unchanged", "Friday", ",", "after", "northern", "forces", "advanced", "to", "within", "one", "kilometre", "-LRB-", "less", "than", "a", "mile", "-RRB-", "of", "the", "city", "Thursday", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "advanced", "e2_pos": 12, "label": "after"}
 ,
 {"tokens": ["Occhetto", "stepped", "down", "after", "his", "party", "suffered", "an", "electoral", "setback", "in", "the", "June", "12", "European", "elections", ",", "dipping", "lower", "than", "in", "landmark", "legislative", "elections", "last", "March", "which", "brought", "Prime", "Minister", "Silvio", "Berlusconi", "'s", "right-wing", "alliance", "to", "power", "."], "e1_text": "stepped", "e1_pos": 1, "e2_text": "suffered", "e2_pos": 6, "label": "after"}
@@ -91,13 +89,11 @@
 ,
 {"tokens": ["His", "popular", "and", "well-respected", "predecessor", "retired", "after", "serving", "the", "maximum", "possible", "two", "terms", "."], "e1_text": "retired", "e1_pos": 5, "e2_text": "serving", "e2_pos": 7, "label": "after"}
 ,
-{"tokens": ["The", "province", "in", "western", "Romania", "was", "transferred", "from", "Hungarian", "to", "Romanian", "control", "under", "the", "1920", "Treaty", "of", "Trianon", ",", "after", "Budapest", "backed", "the", "losing", "side", "in", "World", "War", "I."], "e1_text": "transferred", "e1_pos": 6, "e2_text": "backed", "e2_pos": 21, "label": "after"}
+{"tokens": ["The", "province", "in", "western", "Romania", "was", "transferred", "from", "Hungarian", "to", "Romanian", "control", "under", "the", "1920", "Treaty", "of", "Trianon", ",", "after", "Budapest", "backed", "the", "losing", "side", "in", "World", "War", "I", "."], "e1_text": "transferred", "e1_pos": 6, "e2_text": "backed", "e2_pos": 21, "label": "after"}
 ,
 {"tokens": ["He", "was", "returning", "almost", "two", "months", "after", "signing", "the", "deal", "with", "Israeli", "Prime", "Minister", "Yitzhak", "Rabin", "in", "Cairo", "on", "May", "4", "which", "launched", "Palestinian", "autonomy", "in", "Gaza", "and", "the", "West", "Bank", "town", "of", "Jericho", "and", "ended", "Israeli", "rule", "."], "e1_text": "returning", "e1_pos": 2, "e2_text": "signing", "e2_pos": 7, "label": "after"}
 ,
 {"tokens": ["She", "has", "an", "astonishing", "record", "after", "22", "visits", "to", "the", "Championships", "having", "been", "beaten", "only", "12", "times", "against", "119", "victories", "."], "e1_text": "has", "e1_pos": 1, "e2_text": "having", "e2_pos": 11, "label": "after"}
-,
-{"tokens": ["In", "pharmaceuticals", ",", "Wellcome", "was", "off", "three", "pence", "to", "587", ",", "after", "the", "US", "Food", "and", "Drug", "Administration", "approved", "SmithKline", "Beecham", "'s", "anti-", "herpetic", "drug", "on", "Thursday", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "approved", "e2_pos": 18, "label": "after"}
 ,
 {"tokens": ["In", "Paris", ",", "shares", "were", "hesitantly", "higher", "in", "the", "first", "part", "of", "the", "Friday", "session", ",", "after", "opening", "lower", ",", "as", "the", "market", "traded", "uncertainly", "in", "the", "wake", "of", "turbulence", "on", "foreign", "exchange", "markets", ",", "dealers", "said", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "opening", "e2_pos": 17, "label": "after"}
 ,
@@ -109,15 +105,13 @@
 ,
 {"tokens": ["Arafat", "'s", "long", "road", "to", "Palestine", "BEIRUT", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "PLO", "chairman", "Yasser", "Arafat", "returned", "to", "the", "Gaza", "Strip", "on", "Friday", ",", "40", "years", "after", "issuing", "his", "first", "call", "for", "an", "armed", "struggle", "to", "liberate", "every", "inch", "of", "his", "Palestinian", "homeland", "."], "e1_text": "returned", "e1_pos": 17, "e2_text": "issuing", "e2_pos": 28, "label": "after"}
 ,
-{"tokens": ["A", "workaholic", ",", "Arafat", "toured", "the", "globe", "to", "plead", "for", "his", "cause", "and", "secure", "funds", "for", "his", "Palestine", "Liberation", "Organisation", "after", "it", "was", "driven", "out", "of", "Lebanon", "in", "an", "Israeli", "invasion", "in", "1982", "."], "e1_text": "plead", "e1_pos": 8, "e2_text": "was", "e2_pos": 22, "label": "after"}
+{"tokens": ["A", "workaholic", ",", "Arafat", "toured", "the", "globe", "to", "plead", "for", "his", "cause", "and", "secure", "funds", "for", "his", "Palestine", "Liberation", "Organisation", "after", "it", "was", "driven", "out", "of", "Lebanon", "in", "an", "Israeli", "invasion", "in", "1982", "."], "e1_text": "secure", "e1_pos": 13, "e2_text": "was", "e2_pos": 22, "label": "after"}
 ,
 {"tokens": ["-", "June", "1967", ":", "Following", "the", "Arab", "defeat", "in", "the", "Six-Day", "War", ",", "Arafat", "reappears", "after", "two", "years", "in", "hiding", "with", "the", "nom", "de", "guerre", "Abu", "Ammar", "."], "e1_text": "reappears", "e1_pos": 14, "e2_text": "hiding", "e2_pos": 19, "label": "after"}
 ,
 {"tokens": ["-LRB-", "BEIRUT", "-RRB-", "-", "September", "1970", ":", "Arafat", "sets", "up", "the", "PLO", "'s", "headquarters", "in", "Beirut", "after", "being", "chased", "out", "of", "Jordan", ",", "where", "thousands", "of", "Palestinians", "are", "massacred", "during", "confrontations", "with", "the", "Jordanian", "army", "."], "e1_text": "sets", "e1_pos": 8, "e2_text": "being", "e2_pos": 17, "label": "after"}
 ,
 {"tokens": ["-", "September", "22", ",", "1978", ":", "Arafat", "is", "strongly", "criticised", "by", "PLO", "members", "after", "meeting", "with", "Jordan", "'s", "King", "Hussein", "for", "the", "first", "time", "in", "eight", "years", "."], "e1_text": "criticised", "e1_pos": 9, "e2_text": "meeting", "e2_pos": 14, "label": "after"}
-,
-{"tokens": ["At", "least", "30", "boatpeople", "drown", "after", "being", "fired", "on", "PORT-AU-PRINCE", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "At", "least", "30", "Haitian", "refugees", "drowned", "Wednesday", "when", "a", "boat", "carrying", "some", "400", "people", "capsized", "after", "it", "was", "fired", "on", "by", "police", ",", "sources", "said", "Friday", "."], "e1_text": "drown", "e1_pos": 4, "e2_text": "being", "e2_pos": 6, "label": "after"}
 ,
 {"tokens": ["Zielinski", "was", "arrested", "last", "September", "after", "being", "caught", "red-handed", "as", "he", "was", "passing", "on", "documents", "to", "a", "Russian", "contact", ",", "the", "Russian", "embassy", "military", "attache", "in", "Warsaw", ",", "Vladimir", "Lomakin", "."], "e1_text": "arrested", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"}
 ,
@@ -127,15 +121,13 @@
 ,
 {"tokens": ["One", "operator", "said", "that", "the", "lack", "of", "a", "technical", "rally", "on", "Friday", "after", "the", "sharp", "2.29", "percent", "plunge", "on", "Thursday", "-", "which", "had", "been", "due", "mostly", "to", "technical", "factors", "such", "as", "settlement", "of", "futures", "and", "options", "at", "the", "end", "of", "the", "first", "half-year", "-", "``", "illustrates", "the", "confusion", "now", "reigning", "on", "the", "financial", "markets", "''", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "had", "e2_pos": 22, "label": "after"}
 ,
-{"tokens": ["A", "salvo", "of", "five", "Katyusha", "rockets", "hit", "Aden", "20", "minutes", "after", "a", "midnight", "-LRB-", "2100", "GMT", "-RRB-", "ceasefire", "deadline", "set", "by", "the", "warring", "sides", "following", "Russian-brokered", "talks", "in", "Moscow", "."], "e1_text": "hit", "e1_pos": 6, "e2_text": "set", "e2_pos": 19, "label": "after"}
-,
 {"tokens": ["But", "the", "parole", "board", "ordered", "him", "back", "to", "prison", "in", "March", "1991", "after", "he", "committed", "crimes", "while", "free", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "committed", "e2_pos": 14, "label": "after"}
 ,
 {"tokens": ["Settlers", "attack", "Palestinian", "bus", "in", "Gaza", "Strip", "GAZA", "CITY", ",", "Gaza", "Strip", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Jewish", "settlers", "attacked", "a", "bus", "carrying", "Palestinians", "in", "the", "Gaza", "Strip", "Friday", "after", "PLO", "chairman", "Yasser", "Arafat", "arrived", "in", "the", "territory", "for", "the", "first", "time", "in", "27", "years", "."], "e1_text": "carrying", "e1_pos": 23, "e2_text": "arrived", "e2_pos": 35, "label": "after"}
 ,
-{"tokens": ["HAMAS", "spearheads", "the", "continued", "struggle", "against", "Israel", "after", "rejecting", "the", "peace", "process", "and", "Palestinian", "self-rule", "which", "was", "launched", "on", "May", "4", "."], "e1_text": "spearheads", "e1_pos": 1, "e2_text": "rejecting", "e2_pos": 8, "label": "after"}
+{"tokens": ["Hingis", "cops", "a", "warning", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Martina", "Hingis", ",", "a", "13-year-old", "Czech-born", "Swiss", "player", ",", "who", "was", "named", "after", "nine-times", "women", "'s", "champion", "Martina", "Navratilova", ",", "swept", "into", "the", "junior", "singles", "semi-finals", "at", "Wimbledon", "on", "Friday", "."], "e1_text": "named", "e1_pos": 22, "e2_text": "swept", "e2_pos": 31, "label": "after"}
 ,
-{"tokens": ["With", "the", "main", "roads", "closed", "off", "by", "police", ",", "many", "others", "decided", "to", "walk", "it", "and", "trickled", "in", "after", "Arafat", "began", "his", "address", ",", "just", "a", "couple", "of", "hours", "after", "entering", "the", "Strip", "form", "Egypt", "."], "e1_text": "trickled", "e1_pos": 16, "e2_text": "began", "e2_pos": 20, "label": "after"}
+{"tokens": ["HAMAS", "spearheads", "the", "continued", "struggle", "against", "Israel", "after", "rejecting", "the", "peace", "process", "and", "Palestinian", "self-rule", "which", "was", "launched", "on", "May", "4", "."], "e1_text": "spearheads", "e1_pos": 1, "e2_text": "rejecting", "e2_pos": 8, "label": "after"}
 ,
 {"tokens": ["Coffee", "reaches", "eight-year", "boiling", "point", "on", "cold", "grounds", "By", "Olivier", "Thibault", "and", "Heather", "Prentice", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Coffee", "prices", "reached", "boiling", "point", "at", "the", "beginning", "of", "the", "week", "--", "soaring", "to", "their", "highest", "level", "for", "eight", "years", "--", "after", "a", "cold", "snap", "hit", "Brazil", ",", "the", "world", "'s", "premier", "coffee", "producer", "."], "e1_text": "reached", "e1_pos": 23, "e2_text": "hit", "e2_pos": 46, "label": "after"}
 ,
@@ -161,9 +153,7 @@
 ,
 {"tokens": ["He", "was", "speaking", "as", "he", "returned", "to", "the", "Gaza", "Strip", "for", "the", "first", "time", "in", "27", "years", ",", "and", "almost", "two", "months", "after", "he", "signed", "the", "Israel-PLO", "autonomy", "accord", "which", "launched", "self-rule", "on", "the", "Strip", "and", "in", "Jericho", "."], "e1_text": "speaking", "e1_pos": 2, "e2_text": "signed", "e2_pos": 24, "label": "after"}
 ,
-{"tokens": ["With", "the", "main", "roads", "closed", "off", "by", "police", ",", "many", "others", "decided", "to", "walk", "it", "and", "trickled", "in", "after", "Arafat", "began", "his", "address", ",", "just", "a", "couple", "of", "hours", "after", "entering", "the", "Strip", "from", "Egypt", "via", "Rafah", "."], "e1_text": "trickled", "e1_pos": 16, "e2_text": "began", "e2_pos": 20, "label": "after"}
-,
-{"tokens": ["Wall", "Street", "up", "17.16", "points", "at", "midday", "NEW", "YORK", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Wall", "Street", "prices", "were", "up", "at", "midday", "Friday", "in", "quiet", "trading", ",", "firmed", "by", "steadied", "long-term", "interest", "rates", "after", "economic", "figures", "showed", "US", "growth", "was", "slowing", "."], "e1_text": "steadied", "e1_pos": 29, "e2_text": "showed", "e2_pos": 36, "label": "after"}
+{"tokens": ["Wall", "Street", "up", "17.16", "points", "at", "midday", "NEW", "YORK", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Wall", "Street", "prices", "were", "up", "at", "midday", "Friday", "in", "quiet", "trading", ",", "firmed", "by", "steadied", "long-term", "interest", "rates", "after", "economic", "figures", "showed", "US", "growth", "was", "slowing", "."], "e1_text": "firmed", "e1_pos": 27, "e2_text": "showed", "e2_pos": 36, "label": "after"}
 ,
 {"tokens": ["Arafat", "returns", "to", "tumultuous", "Palestinian", "homecoming", "by", "Barry", "Parker", "GAZA", "CITY", ",", "Gaza", "Strip", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "A", "smiling", "and", "waving", "PLO", "chairman", "Yasser", "Arafat", "called", "here", "Friday", "for", "Palestinian", "unity", "after", "electrifying", "the", "Gaza", "Strip", "with", "his", "return", "from", "27", "years", "in", "exile", "."], "e1_text": "called", "e1_pos": 28, "e2_text": "electrifying", "e2_pos": 35, "label": "after"}
 ,
@@ -175,11 +165,13 @@
 ,
 {"tokens": ["The", "positions", "on", "the", "frontline", "were", "unchanged", "Friday", ",", "after", "northern", "forces", "advanced", "to", "within", "one", "kilometre", "-LRB-", "less", "than", "a", "mile", "-RRB-", "of", "the", "city", "Thursday", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "advanced", "e2_pos": 12, "label": "after"}
 ,
+{"tokens": ["The", "report", "came", "hours", "after", "the", "UN", "Security", "Council", "praised", "the", "efforts", "of", "Russia", "in", "the", "Georgian", "civil", "war", ",", "in", "what", "diplomats", "said", "was", "an", "implicit", "UN", "blessing", "for", "the", "military", "deployment", "ordered", "there", "by", "Moscow", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "praised", "e2_pos": 9, "label": "after"}
+,
 {"tokens": ["Fighting", "broke", "out", "between", "Abkazian", "forces", "and", "Georgian", "government", "troops", "in", "August", "1992", ",", "one", "month", "after", "the", "Abkhazian", "parliament", "declared", "sovereignty", "."], "e1_text": "broke", "e1_pos": 1, "e2_text": "declared", "e2_pos": 20, "label": "after"}
 ,
 {"tokens": ["European", "stock", "markets", "mixed", "-", "London", "gains", "0.6", "percent", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Leading", "European", "stock", "markets", "were", "mixed", "on", "Friday", ",", "as", "prices", "gained", "0.6", "percent", "in", "London", "and", "0.55", "percent", "in", "Frankfurt", ",", "but", "the", "Paris", "Bourse", "lost", "1.01", "percent", "after", "having", "been", "around", "the", "breakeven", "point", "a", "large", "part", "of", "the", "session", "."], "e1_text": "lost", "e1_pos": 42, "e2_text": "having", "e2_pos": 46, "label": "after"}
 ,
-{"tokens": ["As", "Enterprise", "Oil", "'s", "hostile", "takeover", "bid", "for", "Lasmo", "expired", "on", "Friday", ",", "Lasmo", "gained", "1.5", "pence", "on", "the", "day", "to", "end", "at", "136", "while", "Enterprise", "was", "down", "9.5", "pence", "to", "finish", "at", "398.5", ".", "Enterprise", "announced", "after", "the", "market", "closed", "that", "its", "1.6-billion", "-", "pound", "bid", "for", "competitor", "Lasmo", "had", "failed", ",", "as", "it", "brought", "in", "only", "23", "percent", "of", "the", "capital", "."], "e1_text": "announced", "e1_pos": 36, "e2_text": "closed", "e2_pos": 40, "label": "after"}
+{"tokens": ["Enterprise", "announced", "after", "the", "market", "closed", "that", "its", "1.6-billion", "-", "pound", "bid", "for", "competitor", "Lasmo", "had", "failed", ",", "as", "it", "brought", "in", "only", "23", "percent", "of", "the", "capital", "."], "e1_text": "announced", "e1_pos": 1, "e2_text": "closed", "e2_pos": 5, "label": "after"}
 ,
 {"tokens": ["Charter", "industrial", "group", "shed", "26", "pence", "to", "673", "after", "going", "ex-dividend", "."], "e1_text": "shed", "e1_pos": 3, "e2_text": "going", "e2_pos": 9, "label": "after"}
 ,
@@ -193,8 +185,6 @@
 ,
 {"tokens": ["Enterprise", "Oil", "dipped", "0.5", "pence", "to", "398.5", "after", "its", "hostile", "takeover", "bid", "on", "British", "rival", "Lasmo", "expired", "on", "Friday", "."], "e1_text": "dipped", "e1_pos": 2, "e2_text": "expired", "e2_pos": 16, "label": "after"}
 ,
-{"tokens": ["In", "pharmaceuticals", ",", "Wellcome", "was", "off", "10", "pence", "to", "398.5", ",", "after", "the", "US", "Food", "and", "Drug", "Administration", "approved", "SmithKline", "Beecham", "'s", "anti-", "herpetic", "drug", "on", "Thursday", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "approved", "e2_pos": 18, "label": "after"}
-,
 {"tokens": ["Enterprise", "Oil", "bid", "for", "Lasmo", "fails", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "British", "company", "Enterprise", "Oil", ",", "which", "specialises", "in", "oil", "and", "gas", "exploration", ",", "said", "Friday", "its", "1.6-billion-pound", "hostile", "bid", "for", "rival", "Lasmo", "had", "failed", "after", "it", "received", "acceptances", "for", "only", "23", "percent", "of", "the", "share", "capital", "."], "e1_text": "failed", "e1_pos": 36, "e2_text": "received", "e2_pos": 39, "label": "after"}
 ,
 {"tokens": ["Enterprise", "Oil", "bid", "for", "Lasmo", "fails", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "British", "company", "Enterprise", "Oil", ",", "which", "specialises", "in", "oil", "and", "gas", "exploration", ",", "said", "Friday", "its", "1.6-billion-pound", "hostile", "bid", "for", "British", "rival", "Lasmo", "had", "failed", "after", "it", "received", "options", "on", "only", "23", "percent", "of", "the", "share", "capital", "."], "e1_text": "failed", "e1_pos": 37, "e2_text": "received", "e2_pos": 40, "label": "after"}
@@ -202,8 +192,6 @@
 {"tokens": ["Aluminium", "soars", "to", "March", "1991", "closing", "high", "LONDON", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Prices", "on", "the", "London", "Metals", "Exchange", "rose", "further", "on", "Friday", "after", "aluminium", "soared", "to", "a", "closing", "high", "since", "March", "1991", ",", "encouraged", "by", "a", "massive", "drawdown", "in", "stocks", ",", "dealers", "said", "."], "e1_text": "rose", "e1_pos": 20, "e2_text": "soared", "e2_pos": 26, "label": "after"}
 ,
 {"tokens": ["Aluminium", "rose", "13", "dollars", "to", "1,511", "dollars", "per", "tonne", "after", "expectations", "of", "large", "stock", "downdraws", "were", "confirmed", "."], "e1_text": "rose", "e1_pos": 1, "e2_text": "were", "e2_pos": 15, "label": "after"}
-,
-{"tokens": ["Copper", "was", "five", "dollars", "higher", "at", "2,442", "dollars", "per", "tonne", "after", "a", "feeble", "downdraw", "in", "stocks", "and", "as", "dealers", "worried", "that", "the", "dollar", "'s", "collapse", "could", "see", "higher", "US", "interest", "rates", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "worried", "e2_pos": 19, "label": "after"}
 ,
 {"tokens": ["UNITA", "resumed", "fighting", "in", "1992", "soon", "after", "losing", "UN-supervised", "elections", "to", "the", "ruling", "MPLA", "government", "."], "e1_text": "fighting", "e1_pos": 2, "e2_text": "losing", "e2_pos": 7, "label": "after"}
 ,
@@ -217,13 +205,15 @@
 ,
 {"tokens": ["``", "There", "could", "well", "be", "a", "follow-on", "ministerial", "meeting", "later", "in", "July", "after", "the", "parties", "have", "had", "some", "time", "to", "reflect", "on", "what", "the", "ministers", "had", "approved", ".", "''"], "e1_text": "be", "e1_pos": 4, "e2_text": "have", "e2_pos": 15, "label": "after"}
 ,
+{"tokens": ["South", "Africa", "scoreboard", "HOVE", ",", "England", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Final", "scoreboard", "after", "the", "three-day", "South", "Africa", "tour", "match", "against", "Sussex", "here", "on", "Friday", ":", "South", "Africa", "first", "innings", "A.C.", "Hudson", "c", "Moores", "b", "Jarvis", "2", "G", "."], "e1_text": "scoreboard", "e1_pos": 2, "e2_text": "match", "e2_pos": 20, "label": "after"}
+,
 {"tokens": ["Atrash", "was", "released", "from", "hospital", "after", "being", "treated", "for", "cuts", "and", "bruises", ",", "but", "the", "others", "were", "kept", "in", "."], "e1_text": "released", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"}
 ,
 {"tokens": ["Arafat", "in", "state", "of", "``", "euphoric", "happiness", "''", "GAZA", "CITY", ",", "Gaza", "Strip", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "PLO", "chairman", "Yasser", "Arafat", "was", "in", "a", "``", "state", "of", "euphoric", "happiness", "''", "after", "returning", "to", "a", "triumphant", "welcome", "to", "the", "Gaza", "Strip", "on", "Friday", ",", "his", "chief", "adviser", "said", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "returning", "e2_pos": 33, "label": "after"}
 ,
 {"tokens": ["Argentine", "officials", "dropped", "Maradona", "from", "their", "roster", "Thursday", "after", "he", "tested", "positive", "for", "five", "banned", "drugs", ",", "all", "related", "to", "the", "stimulant", "ephedrine", "."], "e1_text": "dropped", "e1_pos": 2, "e2_text": "tested", "e2_pos": 10, "label": "after"}
 ,
-{"tokens": ["Kosmina", ",", "who", "played", "for", "Australia", "in", "two", "World", "Cup", "campaigns", ",", "added", ":", "``", "He", "must", "have", "known", "he", "would", "be", "a", "target", "for", "testing", "after", "he", "had", "already", "served", "time", "for", "another", "offence", "before", "this", ".", "''"], "e1_text": "be", "e1_pos": 21, "e2_text": "had", "e2_pos": 28, "label": "after"}
+{"tokens": ["Kosmina", ",", "who", "played", "for", "Australia", "in", "two", "World", "Cup", "campaigns", ",", "added", ":", "``", "He", "must", "have", "known", "he", "would", "be", "a", "target", "for", "testing", "after", "he", "had", "already", "served", "time", "for", "another", "offence", "before", "this", ".", "''"], "e1_text": "testing", "e1_pos": 25, "e2_text": "had", "e2_pos": 28, "label": "after"}
 ,
 {"tokens": ["It", "was", "a", "``", "part", "of", "a", "conspiracy", "to", "discredit", "the", "superstar", ",", "''", "the", "supporters", "alleged", "after", "marching", "through", "Pabna", "district", "'s", "major", "streets", ",", "the", "United", "News", "of", "Bangladesh", "agency", "reported", "."], "e1_text": "alleged", "e1_pos": 16, "e2_text": "marching", "e2_pos": 18, "label": "after"}
 ,
@@ -251,8 +241,6 @@
 ,
 {"tokens": ["The", "dollar", "traded", "at", "98.65", "yen", "in", "New", "York", ",", "up", "from", "98.47", "late", "Thursday", ",", "after", "hitting", "historic", "lows", "against", "the", "Japanese", "currency", "this", "week", "."], "e1_text": "traded", "e1_pos": 2, "e2_text": "hitting", "e2_pos": 17, "label": "after"}
 ,
-{"tokens": ["-LRB-", "new", "series", "-RRB-", "At", "least", "30", "boatpeople", "drown", "after", "being", "fired", "on", "PORT-AU-PRINCE", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "At", "least", "30", "Haitians", "drowned", "Wednesday", "when", "a", "boat", "carrying", "some", "400", "people", "fleeing", "the", "impoverished", "country", "capsized", "after", "it", "was", "fired", "on", "by", "police", ",", "sources", "said", "Friday", "."], "e1_text": "drown", "e1_pos": 8, "e2_text": "being", "e2_pos": 10, "label": "after"}
-,
 {"tokens": ["Boston", "players", "Mo", "Vaughn", "and", "Damon", "Berryhill", "grabbed", "Hobson", "after", "he", "began", "shoving", "umpire", "Larry", "Barnett", "in", "a", "10-4", "loss", "to", "the", "New", "York", "Yankees", "on", "Tuesday", "."], "e1_text": "grabbed", "e1_pos": 7, "e2_text": "began", "e2_pos": 11, "label": "after"}
 ,
 {"tokens": ["Hobson", "was", "thrown", "out", "of", "the", "game", "by", "home", "plate", "umpire", "Greg", "Kosc", "after", "coming", "onto", "the", "field", "to", "argue", "a", "warning", "to", "Boston", "pitcher", "Sergio", "Valdez", "."], "e1_text": "thrown", "e1_pos": 2, "e2_text": "coming", "e2_pos": 14, "label": "after"}
@@ -265,11 +253,11 @@
 ,
 {"tokens": ["The", "judge", "cut", "short", "the", "session", "after", "the", "prosecution", "complained", "there", "was", "insufficent", "time", "to", "review", "taped", "witness", "interviews", "produced", "by", "the", "defense", "."], "e1_text": "cut", "e1_pos": 2, "e2_text": "complained", "e2_pos": 9, "label": "after"}
 ,
-{"tokens": ["-LRB-", "Correcting", "ex-Port-au-Prince", "-RRB-", "In", "Haiti-boat", "please", "read", "in", "lead", "x", "x", "x", "after", "police", "fired", "warning", "shots", ",", "sources", "said", "Friday", "-LRB-", "clarifying", "to", "show", "it", "was", "warning", "shots", "-RRB-", "pm/rl"], "e1_text": "read", "e1_pos": 7, "e2_text": "fired", "e2_pos": 15, "label": "after"}
+{"tokens": ["-LRB-", "Correcting", "ex-Port-au-Prince", "-RRB-", "In", "Haiti-boat", "please", "read", "in", "lead", "x", "x", "x", "after", "police", "fired", "warning", "shots", ",", "sources", "said", "Friday", "-LRB-", "clarifying", "to", "show", "it", "was", "warning", "shots", "-RRB-", "pm/rl", "The", "White", "House", "meeting", "also", "came", "amid", "reports", "that", "at", "least", "30", "Haitians", "drowned", "Wednesday", "when", "a", "boat", "carrying", "some", "400", "refugees", "capsized", "after", "police", "fired", "warning", "shots", "at", "the", "vessel", "."], "e1_text": "x", "e1_pos": 11, "e2_text": "fired", "e2_pos": 15, "label": "after"}
 ,
 {"tokens": ["Clinton", ",", "speaking", "in", "an", "interview", "with", "German", "television", ",", "said", "Arafat", "'s", "return", "to", "Gaza", "after", "a", "27-year", "absence", "``", "is", "a", "tribute", "to", "the", "courage", "of", "the", "Israelis", "and", "the", "Palestinians", ",", "and", "to", "their", "leaders", "--", "to", "Mr.", "Arafat", "and", "to", "-LRB-", "Israeli", "-RRB-", "Prime", "Minister", "Yitzhak", "Rabin", ".", "''"], "e1_text": "said", "e1_pos": 10, "e2_text": "is", "e2_pos": 21, "label": "after"}
 ,
-{"tokens": ["It", "also", "comes", "shortly", "after", "lawmakers", "here", "legalized", "abortion", ",", "a", "practice", "opposed", "by", "the", "church", "."], "e1_text": "comes", "e1_pos": 2, "e2_text": "legalized", "e2_pos": 7, "label": "after"}
+{"tokens": ["YOUNGSTOWN", ",", "Ohio", ",", "July", "1", "-LRB-", "AFP", "-RRB-", "Scores", "after", "the", "first", "round", "of", "the", "550,000-dollar", "LPGA", "Youngstown", "Classic", "here", "Friday", "-LRB-", "USA", "unless", "noted", "-RRB-", ":", "67", "-", "Tammie", "Green", "68", "-", "Tina", "Tombs", ",", "Colleen", "Walker", ",", "Dottie", "Mochrie", ",", "Caroline", "Keggi", ",", "Jean", "Zedlitz", ",", "Julie", "Larsen", "69", "-", "Barb", "Thomas", ",", "Val", "Skinner", ",", "Kay", "Cockrill", ",", "Cathy", "Johnston-Forbes", ",", "Katie", "Peterson-Parker", ",", "Kim", "Shipman", ",", "Marty", "Dickerson", ",", "Muffin", "Spencer", "-", "Devlin", ",", "Rosie", "Jones", "...", "It", "also", "comes", "shortly", "after", "lawmakers", "here", "legalized", "abortion", ",", "a", "practice", "opposed", "by", "the", "church", "."], "e1_text": "Scores", "e1_pos": 9, "e2_text": "noted", "e2_pos": 25, "label": "after"}
 ,
 {"tokens": ["Brazil", "easily", "qualified", "after", "winning", "two", "and", "drawing", "one", "of", "their", "group", "matches", ",", "but", "the", "Brazilian", "press", "has", "heaped", "criticism", "on", "their", "supposed", "lack", "of", "style", "."], "e1_text": "qualified", "e1_pos": 2, "e2_text": "matches", "e2_pos": 12, "label": "after"}
 ,
@@ -309,9 +297,13 @@
 ,
 {"tokens": ["An", "aide", "said", "Arafat", "was", "in", "a", "``", "state", "of", "euphoric", "happiness", "''", "after", "returning", "to", "a", "triumphant", "welcome", "to", "Gaza", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "returning", "e2_pos": 14, "label": "after"}
 ,
+{"tokens": ["The", "White", "House", "meeting", "also", "came", "amid", "reports", "that", "at", "least", "30", "Haitians", "drowned", "Wednesday", "when", "a", "boat", "carrying", "some", "400", "refugees", "capsized", "after", "police", "fired", "warning", "shots", "at", "the", "vessel", "."], "e1_text": "capsized", "e1_pos": 22, "e2_text": "fired", "e2_pos": 25, "label": "after"}
+,
 {"tokens": ["Szimkus", "was", "arrested", "in", "1989", ",", "and", "condemned", "to", "death", "in", "December", "1993", "after", "being", "found", "guilty", "of", "spying", "."], "e1_text": "condemned", "e1_pos": 7, "e2_text": "being", "e2_pos": 14, "label": "after"}
 ,
 {"tokens": ["The", "support", "rate", "was", "far", "lower", "than", "the", "56.8", "percent", "given", "to", "the", "cabinet", "of", "Murayama", "'s", "predecessor", "Tsutomu", "Hata", "shortly", "after", "he", "came", "to", "power", "in", "late", "April", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "came", "e2_pos": 23, "label": "after"}
+,
+{"tokens": ["On", "Tuesday", ",", "the", "two", "Koreas", "agreed", "on", "the", "summit", "in", "Pyongyang", "after", "former", "US", "president", "Jimmy", "Carter", "brokered", "direct", "inter-Korean", "contact", "by", "visiting", "the", "two", "capitals", "in", "mid-June", "."], "e1_text": "agreed", "e1_pos": 6, "e2_text": "brokered", "e2_pos": 18, "label": "after"}
 ,
 {"tokens": ["The", "judicial", "authorities", "suspect", "money", "was", "diverted", "to", "fund", "political", "activities", "after", "contracts", "totalling", "19.2", "million", "Belgian", "francs", "-LRB-", "590,000", "dollars", "-RRB-", "were", "awarded", "to", "a", "polling", "institute", ",", "INUSOP", ",", "in", "1989", ",", "when", "Claes", "was", "minister", "for", "economic", "affairs", "."], "e1_text": "fund", "e1_pos": 8, "e2_text": "were", "e2_pos": 22, "label": "after"}
 ,
@@ -323,9 +315,7 @@
 ,
 {"tokens": ["The", "14-member", "delegation", ",", "including", "Hershel", "Gober", ",", "deputy", "secretary", "at", "the", "department", "of", "veterans", "affairs", "and", "Winston", "Lord", ",", "the", "assistant", "secretary", "of", "state", "for", "East", "Asian", "and", "Pacific", "Affairs", ",", "held", "four", "hours", "of", "talks", "after", "being", "briefed", "by", "members", "of", "the", "US", "military", "search", "team", "."], "e1_text": "held", "e1_pos": 32, "e2_text": "being", "e2_pos": 38, "label": "after"}
 ,
-{"tokens": ["Engineers", "begin", "repairing", "war-damaged", "Marib", "oil", "equipment", "SANAA", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Engineers", "have", "started", "repairing", "a", "pumping", "station", "in", "the", "Marib", "oil", "field", "east", "of", "the", "Yemeni", "capital", "Sanaa", "after", "it", "was", "damaged", "in", "an", "air", "raid", "by", "southern", "warplanes", ",", "the", "official", "northern", "news", "agency", "SABA", "reported", "Saturday", "."], "e1_text": "repairing", "e1_pos": 2, "e2_text": "was", "e2_pos": 34, "label": "after"}
-,
-{"tokens": ["Postal", "union", "calls", "off", "strikes", "after", "agreement", "FRANKFURT", ",", "Germany", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Negotiators", "in", "Germany", "'s", "postal", "dispute", "reached", "agreement", "overnight", "on", "employment", "guarantees", "when", "the", "service", "is", "privatized", "in", "1995", ",", "ending", "a", "month-long", "work", "slowdown", ",", "a", "union", "source", "said", "Saturday", "."], "e1_text": "calls", "e1_pos": 2, "e2_text": "reached", "e2_pos": 22, "label": "after"}
+{"tokens": ["Engineers", "begin", "repairing", "war-damaged", "Marib", "oil", "equipment", "SANAA", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Engineers", "have", "started", "repairing", "a", "pumping", "station", "in", "the", "Marib", "oil", "field", "east", "of", "the", "Yemeni", "capital", "Sanaa", "after", "it", "was", "damaged", "in", "an", "air", "raid", "by", "southern", "warplanes", ",", "the", "official", "northern", "news", "agency", "SABA", "reported", "Saturday", "."], "e1_text": "started", "e1_pos": 16, "e2_text": "was", "e2_pos": 34, "label": "after"}
 ,
 {"tokens": ["Senior", "German", "envoy", "arrives", "in", "Tehran", "after", "engineer", "freed", "TEHRAN", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "A", "senior", "German", "envoy", "arrived", "here", "Saturday", "only", "hours", "after", "the", "release", "of", "a", "German", "engineer", ",", "Helmut", "Szimkus", ",", "who", "was", "sentenced", "to", "death", "in", "1993", "for", "spying", "for", "Iraq", "then", "pardoned", "last", "month", "."], "e1_text": "arrives", "e1_pos": 3, "e2_text": "freed", "e2_pos": 8, "label": "after"}
 ,
@@ -339,17 +329,19 @@
 ,
 {"tokens": ["Officials", "of", "the", "two", "Koreas", "signed", "the", "14-point", "agreement", "at", "the", "border", "truce", "vilage", "of", "Panmunjom", "after", "overcoming", "sticky", "protocol", "issues", "and", "rules", "on", "television", "coverage", "of", "the", "summit", ",", "scheduled", "for", "July", "25-27", "in", "Pyongyang", "."], "e1_text": "signed", "e1_pos": 5, "e2_text": "overcoming", "e2_pos": 17, "label": "after"}
 ,
+{"tokens": ["Arafat", "to", "tour", "refugee", "camp", "where", "Palestinian", "revolt", "erupted", "by", "Acil", "Tabbara", "GAZA", "CITY", ",", "Gaza", "Strip", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "PLO", "chairman", "Yasser", "Arafat", "prepared", "Saturday", "to", "re-discover", "the", "Gaza", "Strip", "after", "27", "years", "away", "with", "a", "visit", "to", "the", "refugee", "camp", "where", "the", "Palestinian", "revolt", "began", ",", "his", "spokesman", "said", "."], "e1_text": "re-discover", "e1_pos": 30, "e2_text": "said", "e2_pos": 53, "label": "after"}
+,
 {"tokens": ["Auriol", "gunning", "for", "victory", "CORDOBA", ",", "Argentina", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Frenchman", "Didier", "Auriol", "was", "lining", "up", "his", "second", "victory", "of", "the", "season", "here", "on", "Saturday", ",", "after", "chasing", "down", "Carlos", "Sainz", "in", "the", "Rally", "of", "Argentina", "."], "e1_text": "lining", "e1_pos": 17, "e2_text": "chasing", "e2_pos": 30, "label": "after"}
 ,
 {"tokens": ["Former", "Albanian", "prime", "minister", "Adil", "Carcani", ",", "and", "former", "deputy", "prime", "minister", "Manush", "Muftiu", ",", "were", "given", "a", "five", "years", "suspended", "sentence", ",", "after", "their", "lawyers", "claimed", "that", "both", "were", "in", "poor", "health", "."], "e1_text": "given", "e1_pos": 16, "e2_text": "claimed", "e2_pos": 26, "label": "after"}
 ,
 {"tokens": ["Peres", ",", "who", "will", "be", "making", "his", "first", "visit", "to", "Uzbekistan", "after", "the", "two", "countries", "established", "diplomatic", "relations", "in", "February", "1992", ",", "was", "to", "visit", "an", "Israeli-funded", "center", "that", "assists", "emigrants", "."], "e1_text": "making", "e1_pos": 5, "e2_text": "established", "e2_pos": 15, "label": "after"}
 ,
-{"tokens": ["Palestinian", "police", "free", "two", "Israeli", "TV", "guards", "JERUSALEM", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Two", "guards", "hired", "by", "Israeli", "television", "were", "released", "early", "Saturday", "after", "being", "held", "for", "six", "hours", "by", "Palestinian", "police", "on", "the", "orders", "of", "PLO", "chairman", "Yasser", "Arafat", ",", "an", "Israeli", "radio", "official", "said", "."], "e1_text": "released", "e1_pos": 21, "e2_text": "being", "e2_pos": 25, "label": "after"}
+{"tokens": ["Palestinian", "police", "free", "two", "Israeli", "TV", "guards", "JERUSALEM", ",", "July", "2", "-LRB-", "AFP", "-RRB-", "Two", "guards", "hired", "by", "Israeli", "television", "were", "released", "early", "Saturday", "after", "being", "held", "for", "six", "hours", "by", "Palestinian", "police", "on", "the", "orders", "of", "PLO", "chairman", "Yasser", "Arafat", ",", "an", "Israeli", "radio", "official", "said", "."], "e1_text": "guards", "e1_pos": 6, "e2_text": "being", "e2_pos": 25, "label": "after"}
 ,
 {"tokens": ["The", "spokesman", "described", "the", "area", "as", "calm", "early", "Saturday", "after", "a", "night", "of", "gun", "battles", "which", "started", "at", "midnight", "between", "pro-African", "National", "Congress", "-LRB-", "ANC", "-RRB-", "residents", "and", "inmates", "of", "migrant", "workers", "hostels", ",", "mostly", "supporters", "of", "the", "Zulu-based", "Inkatha", "Freedom", "Party", "-LRB-", "IFP", "-RRB-", "."], "e1_text": "described", "e1_pos": 2, "e2_text": "started", "e2_pos": 16, "label": "after"}
 ,
-{"tokens": ["Meanwhile", ",", "engineers", "began", "repairing", "a", "pumping", "station", "in", "the", "Marib", "oil", "field", "east", "of", "Sanaa", "after", "it", "was", "damaged", "in", "an", "air", "raid", "by", "southern", "warplanes", ",", "the", "official", "northern", "news", "agency", "SABA", "reported", "."], "e1_text": "repairing", "e1_pos": 4, "e2_text": "was", "e2_pos": 18, "label": "after"}
+{"tokens": ["Meanwhile", ",", "engineers", "began", "repairing", "a", "pumping", "station", "in", "the", "Marib", "oil", "field", "east", "of", "Sanaa", "after", "it", "was", "damaged", "in", "an", "air", "raid", "by", "southern", "warplanes", ",", "the", "official", "northern", "news", "agency", "SABA", "reported", "."], "e1_text": "began", "e1_pos": 3, "e2_text": "was", "e2_pos": 18, "label": "after"}
 ,
 {"tokens": ["Saudi", "team", "members", "will", "now", "have", "to", "build", "extensions", "on", "their", "garages", "--", "the", "royal", "family", "gave", "each", "player", "a", "Mercedes", "after", "qualifying", "for", "the", "finals", "."], "e1_text": "gave", "e1_pos": 16, "e2_text": "qualifying", "e2_pos": 22, "label": "after"}
 ,
