@@ -103,7 +103,7 @@ def get_token_position(root, token_parent, pos=0):
             pos += 1
     return pos, False
 
-def match_pattern(root, tree):
+def match_pattern(root, tree, label):
     rel_parent = get_rel_parent(tree)
     # print(rel_parent)
     parent_vp = get_parent_vp(rel_parent)
@@ -118,16 +118,16 @@ def match_pattern(root, tree):
         e1_pos, e1_found = get_token_position(root, e1_parent)
         e2_pos, e2_found = get_token_position(root, e2_parent)
 
-    return Example(root.leaves(), e1, e1_pos, e2, e2_pos, LABEL)
+    return Example(root.leaves(), e1, e1_pos, e2, e2_pos, label)
 
 
-def get_relation(file, tree):
+def get_relation(tree, label):
     global failed_event_parse
 
-    label_st = tree.subtrees(filter=lambda t: LABEL in t.leaves() and t.height() == 2)
+    label_st = tree.subtrees(filter=lambda t: label in t.leaves() and t.height() == 2)
     example = None
     for t in label_st:
-        example = match_pattern(tree, t)
+        example = match_pattern(tree, t, label)
         break
 
 
@@ -137,8 +137,8 @@ def get_relation(file, tree):
         pass
     else:
         failed_event_parse += 1
-        # print("ERROR IN PARSING")
-        # print(tree.leaves())
+        print("ERROR IN PARSING")
+        print(tree.leaves())
 
     return example
 
@@ -239,7 +239,7 @@ def main():
         parse = soup.parse.string
 
         t = ParentedTree.fromstring(parse)
-        example = get_relation(file, t)
+        example = get_relation(t, LABEL)
         if example:
             if num_examples > 0:
                 print(",", file=EXAMPLE_OUT)
