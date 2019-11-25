@@ -208,3 +208,4 @@
 {"tokens": ["The", "RPF-led", "government", ",", "made", "up", "of", "Tutsis", "and", "moderate", "Hutus", ",", "came", "to", "power", "earlier", "this", "month", "after", "the", "military", "defeat", "of", "the", "former", "Hutu", "-", "led", "interim", "administration", "in", "power", "during", "the", "civil", "war", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "led", "e2_pos": 27, "label": "after"}
 ,
 {"tokens": ["The", "prime", "minister", "was", "hospitalized", "briefly", "in", "Naples", ",", "Italy", "earlier", "this", "month", "after", "attending", "a", "working", "dinner", "during", "the", "summit", "of", "the", "Group", "of", "Seven", "-LRB-", "G7", "-RRB-", "industrialized", "countries", "."], "e1_text": "hospitalized", "e1_pos": 4, "e2_text": "attending", "e2_pos": 14, "label": "after"}
+]
