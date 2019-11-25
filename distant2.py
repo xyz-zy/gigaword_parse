@@ -6,7 +6,7 @@ from distant import Example, get_relation
 from nltk import Tree, ParentedTree
 
 # SOURCE = "afp_eng_199406"
-# LABEL = "after"
+LABEL = "after"
 # FILE = SOURCE + "_" + LABEL + ".txt"
 # TMP_PATH = "./" + LABEL + "_tmp/"
 # failed_event_parse = 0
@@ -35,7 +35,7 @@ def parse_file(parser, input_filename):
             parse = next(parser.raw_parse(line))
             # print(parse)
             tree = ParentedTree.fromstring(parse.__str__())
-            example = get_relation(input_file, tree)
+            example = get_relation(tree, LABEL)
 
             if example:
                 if num_examples > 0:
