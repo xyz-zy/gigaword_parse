@@ -9,10 +9,12 @@ PATH = "filtered/"
 
 def process_tree(tree_str, label):
     # print(tree_str)
-
-    tree = ParentedTree.fromstring(tree_str.__str__())
-    example = get_relation(tree, label)
-
+    example = None
+    try:
+        tree = ParentedTree.fromstring(tree_str.__str__())
+        example = get_relation(tree, label)
+    except ValueError:
+        pass
     return example
 
 
