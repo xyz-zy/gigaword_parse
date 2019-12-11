@@ -4,7 +4,7 @@ import os
 from distant import Example, get_relation
 from nltk import Tree, ParentedTree
 
-PATH = "filtered/"
+PATH = "tree/"
 
 
 def process_tree(tree_str, label):
@@ -41,7 +41,7 @@ def process_trees(filename):
     num_examples = 0
     label = get_label(filename)
 
-    output_filename = "examples/" + filename[len("filtered/"):-5] + ".json"
+    output_filename = "examples/" + filename[len(PATH):-5] + ".json"
     if os.path.exists(output_filename):
         return
     output_file = open(output_filename, "w")
