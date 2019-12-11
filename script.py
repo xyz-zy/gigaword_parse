@@ -31,37 +31,42 @@ def filter_file(filename, source, doc):
 
     for doc in parser.docs:
         total_sent_count += len(doc.sents)
-        after_sent_count += len(doc.after_sents)
-        before_sent_count += len(doc.before_sents)
-        during_sent_count += len(doc.during_sents)
 
-    print("File ", filename)
-    print("total sent count: ", total_sent_count)
-    print("after sent count: ", after_sent_count)
-    print("before sent count: ", before_sent_count)
-    print("during sent count: ", during_sent_count)
 
-    after_sents = []
-    before_sents = []
-    during_sents = []
+    after_sents = set()
+    before_sents = set()
+    during_sents = set()
     for doc in parser.docs:
-        after_sents.extend(doc.after_sents)
-        before_sents.extend(doc.before_sents)
-        during_sents.extend(doc.during_sents)
+        after_sents.update(doc.after_sents)
+        before_sents.update(doc.before_sents)
+        during_sents.update(doc.during_sents)
+    after_sents = list(after_sents)
+    before_sents = list(before_sents)
+    during_sents = list(during_sents)
 
     write("filtered/" + SOURCE + "_" + DOC + "_after", after_sents)
     write("filtered/" + SOURCE + "_" + DOC + "_before", before_sents)
     write("filtered/" + SOURCE + "_" + DOC + "_during", during_sents)
 
+
+    print("File ", filename)
+    print("total sent count: ", total_sent_count)
+    print("after sent count: ", len(after_sents))
+    print("before sent count: ", len(before_sents))
+    print("during sent count: ", len(during_sents))
+
 parser = argparse.ArgumentParser()
-parser.add_argument('--dir', help='gigaword,matres')
-parser.add_argument('--source', help='afp_eng,apw_eng,cna_eng,ltw_eng,nyt_eng,wpb_eng,xin_eng')
-parser.add_argument('--date', help='YYYYMM')
+parser.add_argument('--dir', help='path to gigaword/data/')
+parser.add_argument('--source', nargs="?", help='afp_eng,apw_eng,cna_eng,ltw_eng,nyt_eng,wpb_eng,xin_eng')
+parser.add_argument('--date', nargs="+", help='YYYYMM')
 args = parser.parse_args()
 
-DATA_DIR = args.dir if args.dir else "../gigaword_eng_5/data/"
-SOURCE = args.source if args.source else "nyt_eng"
-DOC = args.date if args.date else "199409"
-FILE = DATA_DIR + SOURCE + "/"  + SOURCE + "_" + DOC
 
-filter_file(FILE, SOURCE, DOC)
+DATA_DIR = args.dir if args.dir else "../gigaword_eng_5/data/"
+SOURCE = args.source
+
+for date in args.date:
+    DOC = date
+    FILE = DATA_DIR + SOURCE + "/"  + SOURCE + "_" + DOC
+
+    filter_file(FILE, SOURCE, DOC)

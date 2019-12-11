@@ -9,15 +9,14 @@ class Document():
         self.text = ""
         self.sents = []
 
-        self.before_sents = []
-        self.after_sents = []
-        self.during_sents = []
+        self.before_sents = set()
+        self.after_sents = set()
+        self.during_sents = set()
 
     def append(self, text):
         self.text += text.replace("\n", " ")
 
     def process_text(self):
-        # print(self.text)
         buffer = re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", self.text)
 
         self.sents = []
@@ -32,11 +31,11 @@ class Document():
 
         for sent in self.sents:
             if " after " in sent:
-                self.after_sents.append(sent)
+                self.after_sents.add(sent)
             if "before" in sent:
-                self.before_sents.append(sent)
+                self.before_sents.add(sent)
             if "during" in sent:
-                self.during_sents.append(sent)
+                self.during_sents.add(sent)
 
     def __str__(self):
         return self.name
@@ -63,8 +62,13 @@ class Parser(HTMLParser):
             if self.current_doc:
                 self.current_doc.process_text()
                 self.docs.append(self.current_doc)
-            doc = Document(attrs[0][1], attrs[1][1])
-            self.current_doc = doc
+
+            new_doc_type = attrs[1][1]
+            if new_doc_type != "story":
+                self.current_doc = None
+            else: 
+                doc = Document(attrs[0][1], attrs[1][1])
+                self.current_doc = doc
         if tag == "headline":
             self.current_tag = "headline"
             # print("headline")
@@ -77,7 +81,8 @@ class Parser(HTMLParser):
 
 
     def handle_data(self, data):
-        # print(data)
+        if not self.current_doc:
+            return
         if not data or data.isspace():
             return
         if self.current_tag == "text":
