@@ -32,7 +32,6 @@ def filter_file(filename, source, doc):
     for doc in parser.docs:
         total_sent_count += len(doc.sents)
 
-
     after_sents = set()
     before_sents = set()
     during_sents = set()
@@ -48,7 +47,6 @@ def filter_file(filename, source, doc):
     write("filtered/" + SOURCE + "_" + DOC + "_before", before_sents)
     write("filtered/" + SOURCE + "_" + DOC + "_during", during_sents)
 
-
     print("File ", filename)
     print("total sent count: ", total_sent_count)
     print("after sent count: ", len(after_sents))
@@ -61,12 +59,10 @@ parser.add_argument('--source', nargs="?", help='afp_eng,apw_eng,cna_eng,ltw_eng
 parser.add_argument('--date', nargs="+", help='YYYYMM')
 args = parser.parse_args()
 
-
 DATA_DIR = args.dir if args.dir else "../gigaword_eng_5/data/"
 SOURCE = args.source
 
 for date in args.date:
     DOC = date
     FILE = DATA_DIR + SOURCE + "/"  + SOURCE + "_" + DOC
-
     filter_file(FILE, SOURCE, DOC)

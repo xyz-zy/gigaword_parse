@@ -29,7 +29,7 @@ class Example:
         e2_pos = str(self.e2_pos) if self.e2_pos is not None else "None"
 
         return str(self.tokens) + "\n (" + e1 + ", " + e1_pos + \
-               ") (" + e2+ ", " + e2_pos + ")"
+               ") (" + e2+ ", " + e2_pos + ") " + self.label
 
     def __bool__(self):
         # print(self.valid)
@@ -165,15 +165,45 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
     return features
 
 
-def get_examples(EXAMPLE_DIR="examples/"):
+def get_examples(EXAMPLE_DIR="examples/", num_examples=None):
     example_files = glob.glob(EXAMPLE_DIR + "*.json")
-    exs = []
+
+    d = 0.04
+    a = 0.48
+    b = 0.48
+
+    after_exs = []
+    before_exs = []
+    during_exs = []
 
     for FILE in example_files:
+        if "after" in FILE:
+            exs = after_exs
+        elif "before" in FILE:
+            exs = before_exs
+        elif "during" in FILE:
+            exs = during_exs
+            # continue
+        else:
+            continue
+
         with open(FILE) as file:
             exs_list = json.load(file)
 
             for ex_json in exs_list:
                 example = Example.from_json(ex_json)
                 exs.append(example)
-    return exs
+
+    if num_examples:
+        d = int(d * num_examples)
+        a = int(a * num_examples)
+        b = int(b * num_examples)
+
+        # print(d, a, b)
+
+        return during_exs[:d] + after_exs[:a] + before_exs[:b]
+
+    else:
+        ab_cap = min(len(after_exs), len(before_exs))
+        d_cap = int(ab_cap * 0.05)
+        return during_exs[:d_cap] + after_exs[:ab_cap] + before_exs[:ab_cap]
