@@ -78,8 +78,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
     # Generates features from examples.
     for (example_index, example) in enumerate(examples):
         input_tokens = list(itertools.chain.from_iterable([tokenizer.tokenize(w) for w in example.tokens]))
-        # input_tokens = tokenizer.tokenize(example.text)
-        
+
         # Maximum number of tokens that an example may have. This is equal to 
         # the maximum token length less 3 tokens for [CLS], [SEP], [SEP].
         max_tokens_for_doc = max_seq_length - 3
@@ -199,11 +198,13 @@ def get_examples(EXAMPLE_DIR="examples/", num_examples=None):
         a = int(a * num_examples)
         b = int(b * num_examples)
 
-        # print(d, a, b)
+        #print(d, a, b)
 
         return during_exs[:d] + after_exs[:a] + before_exs[:b]
 
     else:
         ab_cap = min(len(after_exs), len(before_exs))
         d_cap = int(ab_cap * 0.05)
+        #print(ab_cap, d_cap)
         return during_exs[:d_cap] + after_exs[:ab_cap] + before_exs[:ab_cap]
+
