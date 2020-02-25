@@ -45,8 +45,8 @@ class InputFeatures(object):
                  example_index,
                  tokens,
                  input_ids,
-                 input_mask,
-                 segment_ids,
+                 attention_mask,
+                 token_type_ids,
                  label,
                  e1_position=None,
                  e2_position=None
@@ -55,10 +55,10 @@ class InputFeatures(object):
         self.example_index = example_index
         self.tokens = tokens
         self.input_ids = input_ids
-        self.input_mask = input_mask
+        self.attention_mask = attention_mask
 
         # Indicates sentence A or sentence B.
-        self.segment_ids = segment_ids
+        self.token_type_ids = token_type_ids
         self.label = label
         self.e1_position = e1_position
         self.e2_position = e2_position
