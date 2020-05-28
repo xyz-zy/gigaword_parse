@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "Chandler", ",", "Arizona", "today", "for", "business", "and", "tried", "this", "place", "out", "after", "hearing", "about", "it", "online", "."], "e1_text": "tried", "e1_pos": 10, "e2_text": "hearing", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "lard", "manifests", "itself", "in", "a", "greasiness", "that", "is", "still", "in", "your", "mouth", "after", "you", "'ve", "eaten", "."], "e1_text": "is", "e1_pos": 8, "e2_text": "'ve", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "''", "``", "com", "tam", "bi", "cha", "thit", "nuong", "''", "''", "OMG", "the", "''", "``", "cha", "''", "''", "tasted", "like", "it", "has", "been", "frozen", "for", "2", "months", "and", "reheated", "in", "the", "microwave", "before", "serving", "it", "to", "us", "the", "''", "``", "bi", "''", "''", "did", "not", "have", "any", "taste", "the", "''", "``", "thit", "nuong", "''", "''", "was", "not", "palatable"], "e1_text": "reheated", "e1_pos": 29, "e2_text": "serving", "e2_pos": 34, "label": "before"}
+]

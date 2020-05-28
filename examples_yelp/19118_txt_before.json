@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "it", "was", "what", "happened", "that", "night", "before", "our", "rehearsal", "dinner", "that", "ruined", "this", "place", "for", "us", "."], "e1_text": "happened", "e1_pos": 4, "e2_text": "ruined", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "got", "an", "email", "less", "than", "24", "hours", "before", "our", "dinner", "asking", "if", "they", "could", "move", "us", "to", "a", "smaller", "space", "at", "the", "restaurant", ",", "Rende-Vous", ",", "instead", "of", "Les", "Deux", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "asking", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "had", "Beef", "and", "Broccoli", "at", "other", "restaurants", "before", "and", "I", "'ve", "also", "made", "it", "at", "home", "and", "this", "was", "the", "blandest", "by", "far", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "suppose", "you", "just", "have", "to", "know", "to", "ask", "for", "what", "you", "want", "before", "you", "walk", "out", "."], "e1_text": "want", "e1_pos": 12, "e2_text": "walk", "e2_pos": 15, "label": "before"}
+]

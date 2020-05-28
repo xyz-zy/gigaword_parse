@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", ",", "thankfully", ",", "took", "my", "car", "and", "only", "after", "I", "tipped", "him", ",", "did", "he", "offer", "the", "''", "``", "Total", "Rewards", "''", "''", "valet", "ticket", "."], "e1_text": "took", "e1_pos": 4, "e2_text": "tipped", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "is", "after", "I", "was", "told", "it", "would", "be", "only", "24", "hours", "before", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "was", "e2_pos": 4, "label": "after"}
+]

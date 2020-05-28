@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "friend", "of", "mine", "raved", "about", "it", ",", "but", "I", "absolutely", "hated", "it", "-LRB-", "which", "is", "a", "shame", "because", "like", "a", "moron", ",", "I", "prepaid", "for", "an", "unlimited", "month", "before", "I", "even", "tried", "it", "--", "I", "ended", "up", "wasting", "$", "100", "-RRB-", "."], "e1_text": "prepaid", "e1_pos": 24, "e2_text": "tried", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "a", "large", "business", "dinner", "going", "on", "and", "almost", "everyone", "else", "in", "the", "restaurant", "was", "there", "to", "redeem", "their", "Groupon", "before", "it", "expired", "today", "-LRB-", "8\\/20\\/14", "-RRB-", "."], "e1_text": "redeem", "e1_pos": 18, "e2_text": "expired", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "had", "to", "wait", "about", "15", "minutes", "before", "they", "got", "around", "to", "clearing", "off", "a", "table", "for", "us", ",", "however", ",", "once", "we", "got", "seated", ",", "the", "service", "was", "at", "a", "slow", "pace", ",", "but", "bearable", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

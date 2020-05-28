@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "for", "Thanksgiving", ",", "we", "decide", "to", "order", "food", "out", "so", "that", "my", "mom", "will", "not", "have", "to", "cook", "anything", "since", "she", "has", "been", "very", "busy", "since", "my", "dad", "came", "home", "just", "several", "days", "before", "."], "e1_text": "been", "e1_pos": 23, "e2_text": "came", "e2_pos": 29, "label": "before"},
+{"tokens": ["Joji", "-", "Mama", "does", "n't", "like", "the", "BBQ", "at", "Green", "Valley", "Resort", "-LRB-", "Red", "Rock", "sister", "resort", "-RRB-", ",", "How", "about", "Aloha", "A", "Go", "Go", ",", "they", "have", "been", "there", "before", "."], "e1_text": "like", "e1_pos": 5, "e2_text": "have", "e2_pos": 27, "label": "before"}
+]

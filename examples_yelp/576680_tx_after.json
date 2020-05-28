@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "not", "receive", "a", "glass", "of", "water", "or", "cocktails", "-LRB-", "ordered", "soon", "after", "sitting", "down", "-RRB-", "until", "well", "after", "the", "food", "had", "arrived", "and", "a", "complaint", "was", "made", "."], "e1_text": "ordered", "e1_pos": 11, "e2_text": "sitting", "e2_pos": 14, "label": "after"},
+{"tokens": ["Actually", ",", "the", "re-fried", "beans", "did", "come", "out", "hot", ",", "10", "minutes", "after", "the", "rest", "of", "the", "food", "had", "already", "been", "dropped", "off", "."], "e1_text": "did", "e1_pos": 5, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

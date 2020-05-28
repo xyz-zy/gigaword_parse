@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "did", "not", "help", "that", "about", "10", "minutes", "after", "arriving", "one", "of", "the", "waitresses", "started", "a", "pretty", "loud", "mini", "vacuum", "that", "was", "extremely", "distracting", "to", "dinner", "conversation", "and", "many", "patrons", "seemed", "very", "displeased", "that", "she", "was", "vacuuming", "around", "our", "tables", "while", "we", "were", "trying", "to", "enjoy", "dinner", "."], "e1_text": "help", "e1_pos": 3, "e2_text": "arriving", "e2_pos": 9, "label": "after"}
+]

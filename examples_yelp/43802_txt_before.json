@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Flo", "'s", "was", "the", "head", "to", "destination", "for", "food", "after", "landing", "at", "Sky", "Harbor", "when", "visiting", "my", "boyfriend", "before", "moving", "here", "back", "in", "August", ".", "-RRB-"], "e1_text": "visiting", "e1_pos": 16, "e2_text": "moving", "e2_pos": 20, "label": "before"}
+]

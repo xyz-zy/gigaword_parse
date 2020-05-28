@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "absolutely", "must", ",", "since", "this", "is", "one", "culinary", "experience", "I", "think", "everyone", "should", "have", "before", "they", "die", "."], "e1_text": "have", "e1_pos": 14, "e2_text": "die", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", ",", "what", "you", "should", "do", ":", "-", "If", "you", "have", "n't", "had", "anything", "here", "before", ",", "get", "the", "smoked", "meat", "-LRB-", "bread", "-", "optional", ",", "fries", "-", "optional", ",", "black", "cherry", "or", "diet", "black", "cherry", "cola", "or", "beverage", "of", "choice", "-", "optional", ",", "it", "wo", "n't", "matter", "what", "you", "have", "with", "this", ",", "anything", "good", "winds", "up", "complementing", "the", "meat", ",", "anything", "bad", "throws", "it", "'s", "awesomeness", "further", "into", "relief", "-RRB-", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "being", "seated", ",", "it", "was", "approximately", "5", "minutes", "before", "our", "server", "came", "to", "the", "table", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["Our", "wine", "and", "water", "came", "NINE", "minutes", "later", "...", "a", "total", "of", "over", "30", "minutes", "since", "we", "entered", "the", "restaurant", "before", "we", "received", "our", "first", "beverage", "."], "e1_text": "entered", "e1_pos": 17, "e2_text": "received", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "tried", "to", "stop", "here", "with", "my", "husband", "for", "an", "appetizer", "and", "a", "drink", "before", "heading", "into", "the", "theater", "district", "-", "bad", "move", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "heading", "e2_pos": 15, "label": "before"},
+{"tokens": ["For", "reasons", "I", "truly", "ca", "n't", "explain", ",", "we", "decided", "to", "stay", "for", "a", "beer", "before", "heading", "to", "our", "destination", "."], "e1_text": "stay", "e1_pos": 11, "e2_text": "heading", "e2_pos": 16, "label": "before"},
+{"tokens": ["His", "warm-up", "sounded", "good", "but", "we", "left", "before", "he", "really", "got", "started", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

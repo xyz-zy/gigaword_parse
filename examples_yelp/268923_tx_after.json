@@ -1,0 +1,3 @@
+[
+{"tokens": ["ALL", "of", "the", "employees", "were", "super", "nice", "to", "me", "and", "after", "seeing", "a", "couple", "of", "the", "customers", "I", "understand", "why", ",", "I", "was", "offered", "free", "samples", "and", "on", "one", "of", "my", "purchases", "that", "was", "60", "%", "off", "there", "was", "a", "slight", "problem", "I", "asked", "the", "employe", "about", "it", "and", "she", "marked", "an", "additional", "15", "%", "off", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "already", "had", "a", "bad", "taste", "in", "my", "mouth", "even", "before", "walking", "in", "after", "seeing", "the", "large", "banner", "advertising", "that", "this", "establishment", "is", "the", "best", "Vietnamese", "restaurant", "in", "Las", "Vegas", "."], "e1_text": "walking", "e1_pos": 11, "e2_text": "seeing", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "waited", "approximately", "ten", "to", "fifteen", "minutes", "for", "a", "table", ",", "which", "was", "n't", "too", "bad", "after", "hearing", "of", "the", "epic", "wait", "times", "for", "a", "table", "here", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "wait", "e2_pos": 21, "label": "after"}
+]

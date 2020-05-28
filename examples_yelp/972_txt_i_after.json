@@ -1,0 +1,3 @@
+[
+{"tokens": ["Wednesday", "is", "1\\/2", "price", "for", "ladies", "-LRB-", "but", "only", "after", "they", "pay", "full", "price", "on", "the", "first", "visit", "-RRB-", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "pay", "e2_pos": 11, "label": "after"}
+]

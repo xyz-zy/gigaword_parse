@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "meet", "the", "$", "20", "minimum", ",", "I", "tell", "her", "to", "add", "a", "small", "order", "of", "fries", "-LRB-", "which", "I", "do", "not", "want", ",", "seeing", "as", "the", "burgers", "are", "already", "big", "and", "their", "fries", "are", "not", "the", "best", ",", "especially", "after", "they", "have", "been", "delivered", "-RRB-", "."], "e1_text": "are", "e1_pos": 28, "e2_text": "have", "e2_pos": 42, "label": "after"}
+]

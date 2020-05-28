@@ -1,0 +1,3 @@
+[
+{"tokens": ["it", "was", "AMAZE", "then", "too", ",", "i", "took", "a", "few", "bites", "-LRB-", "it", "was", "hard", "to", "eat", "more", "pizza", "after", "i", "consumed", "so", "much", "while", "at", "Bianco", "-RRB-", "the", "hype", "is", "for", "real", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "consumed", "e2_pos": 21, "label": "after"}
+]

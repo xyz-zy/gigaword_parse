@@ -1,0 +1,3 @@
+[
+{"tokens": ["Firstly", ",", "I", "never", "received", "an", "email", "confirmation", "after", "placing", "my", "order", ";", "I", "had", "to", "call", "them", "to", "convince", "myself", "that", "they", "had", "my", "order", "."], "e1_text": "received", "e1_pos": 4, "e2_text": "placing", "e2_pos": 9, "label": "after"}
+]

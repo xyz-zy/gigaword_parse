@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "began", "seeing", "VWFW", "to", "have", "my", "IUD", "removed", "and", "then", "for", "my", "prenatal", "care", "after", "I", "got", "pregnant", "."], "e1_text": "began", "e1_pos": 1, "e2_text": "got", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "was", "in", "excruciating", "pain", "-LRB-", "turns", "out", "those", "were", "contractions", "-RRB-", "and", "two", "hours", "after", "I", "arrived", "I", "delivered", "my", "son", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 17, "label": "after"}
+]

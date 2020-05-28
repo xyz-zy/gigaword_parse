@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "sales", "are", "final", "so", "make", "sure", "you", "take", "a", "look", "at", "your", "item", "with", "a", "microscopic", "eye", "before", "you", "buy", "!"], "e1_text": "take", "e1_pos": 8, "e2_text": "buy", "e2_pos": 20, "label": "before"}
+]

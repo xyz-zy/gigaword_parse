@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "walked", "around", "extremely", "confused", "before", "we", "found", "the", "damn", "pool", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "found", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "told", "him", "that", "it", "was", "way", "too", "early", "and", "we", "were", "sleeping", "and", "the", "front", "desk", "needs", "to", "call", "us", "and", "explain", "the", "situation", "before", "just", "sending", "someone", "up", "to", "bang", "on", "our", "door", "at", "4am", "."], "e1_text": "explain", "e1_pos": 22, "e2_text": "sending", "e2_pos": 27, "label": "before"}
+]

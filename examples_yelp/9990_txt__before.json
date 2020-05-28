@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "for", "lunch", "with", "two", "co-workers", ",", "checked", "Yelp", "before", "we", "went", "and", "the", "reviews", "were", "very", "positive", "so", "we", "decided", "to", "give", "it", "a", "try", "."], "e1_text": "checked", "e1_pos": 8, "e2_text": "went", "e2_pos": 12, "label": "before"},
+{"tokens": ["There", "are", "other", "restaurants", "on", "this", "street\\/highway", ",", "I", "'d", "give", "them", "a", "try", "before", "I", "stopped", "here", "."], "e1_text": "give", "e1_pos": 10, "e2_text": "stopped", "e2_pos": 16, "label": "before"}
+]

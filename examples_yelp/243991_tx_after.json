@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "great", "the", "first", "year", "we", "lived", "here", "but", "after", "we", "renewed", "our", "lease", "the", "property", "had", "changed", "a", "lot", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "renewed", "e2_pos": 12, "label": "after"}
+]

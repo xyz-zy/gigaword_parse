@@ -1,0 +1,3 @@
+[
+{"tokens": ["Additionally", ",", "there", "were", "snacks", "and", "drinks", "available", "for", "those", "having", "to", "wait", "to", "be", "seated", "-LRB-", "Note", "to", "Chandler", "location", ":", "this", "is", "extremely", "helpful", "when", "people", "are", "hungry", "and", "not", "expecting", "a", "long", "wait", "time", "after", "booking", "a", "reservation", "-RRB-", "."], "e1_text": "expecting", "e1_pos": 32, "e2_text": "booking", "e2_pos": 38, "label": "after"}
+]

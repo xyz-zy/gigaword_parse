@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "my", "friend", "after", "she", "finished", "her", "own", "prime", "rib", "if", "she", "felt", "it", "was", "the", "same", "to", "her", "and", "she", "said", "she", "had", "the", "same", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "finished", "e2_pos": 6, "label": "after"}
+]

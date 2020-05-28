@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "visited", "here", "before", "it", "was", "the", "old", ",", "same-named", ",", "Southern", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["What", "we", "now", "have", "is", "a", "very", "warm", ",", "nicely", "decorated", ",", "welcoming", "and", "quite", "big", "bar", "that", "has", "a", "great", "range", "of", "beers", ",", "with", "rotating", "ales", ",", "and", "as", "Alex", "R", "has", "said", ",", "they", "'ll", "let", "you", "try", "beers", "before", "you", "buy", "."], "e1_text": "try", "e1_pos": 40, "e2_text": "buy", "e2_pos": 44, "label": "before"}
+]

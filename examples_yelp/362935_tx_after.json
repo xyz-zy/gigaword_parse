@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "told", "off", "by", "the", "owner", "because", "I", "had", "a", "little", "dog", "outside", "table", "and", "that", "was", "right", "after", "I", "finished", "paying", "for", "an", "overpriced", "breakfast", "dish", "and", "coffee", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "finished", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "went", "here", "before", "that", "on", "several", "occasions", "and", "many", "times", "my", "order", "was", "forgotten", ",", "after", "paying", "...", "and", "the", "staff", "is", "real", "unprofessional", "blasting", "music", "at", "nightclub", "volume", "at", "early", "breakfast", "and", "lunch", "times", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "paying", "e2_pos": 17, "label": "after"}
+]

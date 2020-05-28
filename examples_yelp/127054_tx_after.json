@@ -1,0 +1,3 @@
+[
+{"tokens": ["Over", "the", "dining", "table", "is", "a", "chandelier", ",", "which", "became", "quite", "a", "dangerous", "thing", "after", "we", "had", "to", "move", "the", "table", "to", "use", "the", "murphy", "bed", "because", "everyone", "in", "our", "group", "ended", "up", "hitting", "their", "head", "on", "the", "light", "fixture", "-LRB-", "more", "than", "once", ";-RRB-", "therefore", ",", "this", "fixture", "should", "be", "completely", "removed", "or", "raised", "a", "few", "inches", "higher", "."], "e1_text": "became", "e1_pos": 9, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

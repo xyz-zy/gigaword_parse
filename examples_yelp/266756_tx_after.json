@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "did", "n't", "apologize", "for", "the", "mistake", "or", "even", "said", "anything", "to", "us", "after", "we", "told", "her", "there", "was", "a", "mistake", "."], "e1_text": "said", "e1_pos": 9, "e2_text": "told", "e2_pos": 15, "label": "after"},
+{"tokens": ["You", "'re", "going", "to", "make", "us", "pay", "an", "11", "cent", "price", "difference", "on", "a", "mistake", "YOU", "made", "AND", "after", "we", "tipped", "your", "rude", "ass", "already", "?"], "e1_text": "made", "e1_pos": 16, "e2_text": "tipped", "e2_pos": 20, "label": "after"}
+]

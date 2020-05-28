@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "attempted", "to", "go", "to", "the", "one", "in", "New", "York", "before", "but", "since", "the", "wait", "was", "so", "long", ",", "I", "failed", "to", "try", "it", "out", "!"], "e1_text": "go", "e1_pos": 4, "e2_text": "failed", "e2_pos": 21, "label": "before"}
+]

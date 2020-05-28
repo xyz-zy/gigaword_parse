@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "even", "get", "my", "financial", "aid", "processed", "until", "the", "week", "before", "classes", "started", "."], "e1_text": "processed", "e1_pos": 8, "e2_text": "started", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'m", "not", "going", "to", "end", "up", "falling", "behind", "before", "the", "semester", "even", "really", "gets", "going", "because", "of", "these", "clowns", "in", "administration", "."], "e1_text": "falling", "e1_pos": 7, "e2_text": "gets", "e2_pos": 14, "label": "before"}
+]

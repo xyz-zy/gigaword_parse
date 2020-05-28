@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "as", "if", "he", "had", "already", "diagnosed", "her", "before", "we", "even", "spoke", "to", "him", "."], "e1_text": "diagnosed", "e1_pos": 7, "e2_text": "spoke", "e2_pos": 12, "label": "before"},
+{"tokens": ["She", "has", "epilepsy", "already", "but", "never", "had", "a", "seizure", "like", "that", "before", "and", "I", "tried", "to", "explain", "that", "to", "him", "and", "tell", "him", "I", "was", "confused", "as", "to", "what", "I", "had", "seen", "but", "he", "was", "too", "busy", "and", "important", "to", "hear", "me", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

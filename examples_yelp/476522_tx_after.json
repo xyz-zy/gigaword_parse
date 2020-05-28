@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "3", "-RRB-", "My", "friend", "did", "not", "receive", "his", "coat", "after", "handing", "the", "bouncer", "his", "voucher", "."], "e1_text": "receive", "e1_pos": 7, "e2_text": "handing", "e2_pos": 11, "label": "after"},
+{"tokens": ["When", "he", "realized", "he", "did", "not", "have", "his", "coat", ",", "he", "was", "told", "that", "he", "would", "have", "to", "return", "at", "3:15", "to", "retrieve", "it", "after", "the", "club", "had", "closed", "."], "e1_text": "retrieve", "e1_pos": 22, "e2_text": "had", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "app", "and", "salad", "came", "out", "quick", "but", "our", "sever", "forgot", "to", "put", "our", "food", "order", "in", "and", "we", "had", "to", "wait", "and", "additional", "20", "minutes", "for", "entrees", "that", "is", "with", "our", "app", "being", "boxed", "up", "for", "over", "10", "minutes", "before", "he", "acknowledged", "to", "put", "the", "order", "in", ",", "meaning", "over", "30", "minutes", "for", "our", "entrees", "!!!!", "."], "e1_text": "boxed", "e1_pos": 34, "e2_text": "acknowledged", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "eggs", "were", "fine", "and", "cooked", "as", "ordered", "but", "even", "after", "trying", "all", "3", "of", "the", "salt", "shakers", "on", "the", "counter", ",", "I", "could", "n't", "get", "enought", "salt", "without", "opening", "the", "shaker", ",", "and", "though", "I", "am", "not", "a", "heavy", "salter", ",", "everything", "needed", "salt", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "trying", "e2_pos": 11, "label": "after"}
+]

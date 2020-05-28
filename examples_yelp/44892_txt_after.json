@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sushi", ",", "on", "the", "other", "hand", ",", "was", "served", "at", "a", "varying", "rate", "which", "I", "found", "a", "bit", "annoying", "because", "some", "people", "got", "their", "food", "really", "quick", "while", "others", "had", "to", "eat", "after", "the", "rest", "of", "our", "group", "had", "finished", "eating", "."], "e1_text": "eat", "e1_pos": 31, "e2_text": "had", "e2_pos": 29, "label": "after"},
+{"tokens": ["I", "'ll", "probably", "give", "it", "another", "try", "after", "I", "explore", "some", "other", "restaurants", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "explore", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "state", "that", "it", "is", "in", "a", "bigger", "strip", "mall", "type", "of", "area", "and", "so", "therefore", "you", "can", "pass", "it", "a", "couple", "of", "times", "before", "actually", "finding", "it", "."], "e1_text": "pass", "e1_pos": 19, "e2_text": "finding", "e2_pos": 27, "label": "before"},
+{"tokens": ["My", "daughter", "and", "I", "talked", "about", "our", "family", "history", "when", "he", "overheard", "me", "state", "that", "my", "grandma", "was", "from", "Bayamon", ",", "PR", "and", "he", "chimed", "in", "stating", "that", "he", "was", "there", "for", "many", "years", "before", "coming", "to", "the", "states", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "coming", "e2_pos": 35, "label": "before"}
+]

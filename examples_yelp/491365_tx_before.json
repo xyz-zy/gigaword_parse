@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "asked", "our", "waitress", "for", "the", "check", "which", "they", "run", "our", "cards", "on", "iPads", ",", "something", "I", "have", "n't", "seen", "before", "which", "was", "cool", "."], "e1_text": "seen", "e1_pos": 20, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["Our", "total", "bill", "came", "to", "$", "65", "with", "the", "tip", "but", "with", "all", "the", "talking", "the", "bartender\\/waitress", "did", "she", "never", "minded", "to", "ask", "us", "how", "or", "rolls", "were", "so", "I", "made", "sure", "to", "let", "her", "know", "how", "sick", "I", "was", "before", "I", "gave", "her", "my", "card", "to", "pay", "."], "e1_text": "was", "e1_pos": 39, "e2_text": "gave", "e2_pos": 42, "label": "before"}
+]

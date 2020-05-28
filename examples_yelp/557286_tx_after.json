@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "I", "must", "recognize", "that", "when", "I", "buy", "produce", "in", "a", "discount", "store", ",", "I", "must", "be", "extra", "vigilant", ",", "I", "have", "been", "bitten", "twice", "even", "after", "rooting", "through", "each", "choice", "in", "the", "bin", "."], "e1_text": "bitten", "e1_pos": 23, "e2_text": "rooting", "e2_pos": 27, "label": "after"}
+]

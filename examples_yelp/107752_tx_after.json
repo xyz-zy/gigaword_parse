@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", "I", "did", "n't", "need", "a", "membership", "to", "have", "my", "personal", "training", "sessions", ",", "and", "then", "a", "couple", "weeks", "later", "after", "I", "signed", "agreement", "got", "a", "notice", "that", "this", "was", "n't", "true", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "signed", "e2_pos": 25, "label": "after"}
+]

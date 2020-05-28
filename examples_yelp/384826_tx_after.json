@@ -1,0 +1,5 @@
+[
+{"tokens": ["None", "of", "us", "had", "ever", "been", "before", ";", "it", "was", "my", "suggestion", "after", "hearing", "about", "it", "from", "a", "friend", "of", "mine", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "hearing", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "ran", "out", "of", "the", "king", "crab", "legs", "just", "after", "I", "got", "my", "first", "plate", "-", "I", "would", "have", "stocked", "up", "if", "I", "knew", "that", "was", "going", "to", "happen", "!"], "e1_text": "ran", "e1_pos": 1, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "hope", "you", "'re", "flying", "home", "because", "I", "felt", "bad", "for", "my", "friends", "who", "had", "to", "drive", "us", "back", "to", "LA", "after", "stuffing", "their", "faces", "at", "this", "place", "."], "e1_text": "drive", "e1_pos": 16, "e2_text": "stuffing", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "you", "arrive", ",", "it", "is", "important", "to", "get", "a", "number", "for", "an", "open", "table", "before", "you", "order", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "order", "e2_pos": 17, "label": "before"},
+{"tokens": ["Also", ",", "the", "menu", "is", "fairly", "long", ",", "so", "it", "is", "best", "to", "get", "a", "paper", "copy", "and", "figure", "out", "what", "you", "want", "before", "getting", "in", "line", "."], "e1_text": "want", "e1_pos": 22, "e2_text": "getting", "e2_pos": 24, "label": "before"}
+]

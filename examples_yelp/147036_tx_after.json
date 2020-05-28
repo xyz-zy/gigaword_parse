@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", "let", "me", "start", "by", "saying", "I", "spent", "900", "$", "on", "an", "extension", "application", "done", "by", "Andrea", "and", "I", "feel", "it", "was", "a", "complete", "robbery", "and", "the", "salon", "did", "not", "stand", "behind", "their", "stylist", "and", "even", "try", "to", "fix", "it", "or", "mend", "our", "clearly", "broken", "relationship", "after", "spending", "900", "$", "."], "e1_text": "mend", "e1_pos": 43, "e2_text": "spending", "e2_pos": 49, "label": "after"}
+]

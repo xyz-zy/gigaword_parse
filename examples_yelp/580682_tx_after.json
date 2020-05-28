@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "forgot", "what", "i", "asked", "for", "so", "i", "repeated", "what", "i", "wanted", "and", "he", "repeated", "what", "i", "requested", ",", "then", "he", "was", "going", "to", "give", "me", "the", "wrong", "tequila", "that", "I", "ordered", "even", "after", "repeating", "my", "request", "for", "what", "I", "asked", "for", "."], "e1_text": "ordered", "e1_pos": 32, "e2_text": "repeating", "e2_pos": 35, "label": "after"}
+]

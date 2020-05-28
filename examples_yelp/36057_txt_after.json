@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "is", "my", "detailed", "review", ":", "I", "went", "here", "for", "my", "birthday", "with", "my", "wife", "after", "reading", "the", "great", "reviews", "of", "this", "place", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "reading", "e2_pos": 16, "label": "after"}
+]

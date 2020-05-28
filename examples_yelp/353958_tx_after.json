@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "for", "students", "after", "exams", "are", "over", ",", "and", "they", "become", "possessed", "with", "an", "overwhelming", "desire", "to", "get", "so", "inebriated", ",", "their", "gait", "and", "mannerisms", "would", "make", "the", "famous", "monster", "articulate", "and", "agile", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "are", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "truth", "is", "that", "I", "would", "not", "be", "caught", "dead", "in", "Frankenstein", "after", "10:00", "pm", "given", "the", "obvious", "demographics", "that", "would", "congregate", "within", "it", "...", "but", "until", "then", ",", "I", "would", "definitely", "love", "to", "book", "it", "for", "my", "next", "birthday", "."], "e1_text": "caught", "e1_pos": 8, "e2_text": "given", "e2_pos": 15, "label": "after"}
+]

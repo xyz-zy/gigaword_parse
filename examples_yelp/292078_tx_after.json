@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "from", "Goober", "Pet", "Direct", "after", "receiving", "a", "10.00", "off", "coupon", "at", "a", "pet", "expo", "I", "attended", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 7, "label": "after"}
+]

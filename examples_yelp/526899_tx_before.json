@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiter", "asked", "us", "if", "our", "food", "was", "good", "before", "we", "even", "had", "time", "to", "take", "a", "bite", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "hostess", "looked", "positively", "miserable", "the", "entire", "time", "we", "were", "there", "and", "when", "we", "tried", "to", "eat", "here", "once", "before", "another", "hostess", "sat", "us", "in", "a", "high-top", "bar", "table", "without", "even", "asking", "if", "this", "was", "acceptable", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "sat", "e2_pos": 22, "label": "before"}
+]

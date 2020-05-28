@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "find", "3", "and", "are", "told", "after", "sitting\\/sanding", "there", "for", "3", "minutes", "that", "it", "is", "a", "service", "well", "and", "we", "will", "not", "be", "served", "if", "we", "sit", "there", "."], "e1_text": "told", "e1_pos": 5, "e2_text": "sitting\\/sanding", "e2_pos": 7, "label": "after"}
+]

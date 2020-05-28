@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "can", "not", "rave", "about", "this", "golden", "gem", "enough", "after", "eating", "here", "3", "days", "out", "of", "a", "4", "day", "visit", "to", "Edinburgh", "."], "e1_text": "rave", "e1_pos": 3, "e2_text": "eating", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "was", "informed", "after", "my", "meal", "they", "only", "accepted", "cash", "."], "e1_text": "informed", "e1_pos": 2, "e2_text": "accepted", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "off", ",", "my", "dad", "has", "made", "a", "reservation", "on", "booking", "before", "he", "let", "me", "know", "."], "e1_text": "booking", "e1_pos": 10, "e2_text": "let", "e2_pos": 13, "label": "before"},
+{"tokens": ["Stay", "away", "from", "it", ",", "before", "you", "regret", "it", "like", "me", "..."], "e1_text": "Stay", "e1_pos": 0, "e2_text": "regret", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "happened", "the", "first", "time", "shortly", "after", "I", "moved", "my", "items", "in-I", "believe", "the", "rule", "is", "after", "6", "months-then", "again", "some", "months", "later", ";", "causing", "me", "to", "reevaluate", "my", "unit", "and", "downsize", "to", "a", "smaller", "unit", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "moved", "e2_pos": 8, "label": "after"},
+{"tokens": ["You", "are", "notified", "about", "the", "''", "``", "fee", "increase", "''", "''", "a", "month", "out", ",", "which", "does", "not", "give", "the", "average", "person", "a", "lot", "of", "time", "to", "look", "for", "another", "storage", ",", "coordinate", "the", "move", ",", "and", "just", "get", "their", "head", "around", "the", "whole", "moving", "experience", "so", "soon", "after", "moving", "their", "items", "in", "!"], "e1_text": "get", "e1_pos": 38, "e2_text": "moving", "e2_pos": 44, "label": "after"}
+]

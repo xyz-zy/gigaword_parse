@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "times", "-LRB-", "once", "probably", "2", "years", "ago", "and", "once", "just", "this", "week", "-RRB-", "I", "'ve", "gone", "there", "during", "lunch", ",", "the", "restaurant", "was", "practically", "empty", ",", "and", "we", "still", "had", "to", "wait", "30-35", "minutes", "for", "our", "meals", "after", "ordering", "."], "e1_text": "wait", "e1_pos": 32, "e2_text": "ordering", "e2_pos": 39, "label": "after"}
+]

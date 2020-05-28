@@ -1,0 +1,3 @@
+[
+{"tokens": ["no", "chips", "and", "salsa", "were", "served", "and", "chips", "and", "salsa", "have", "to", "be", "ordered", "as", "an", "extra", "cost", "...", "most", "mexican", "restaurants", "will", "serve", "chips", "and", "salsa", "before", "you", "order", "...", "."], "e1_text": "serve", "e1_pos": 23, "e2_text": "order", "e2_pos": 29, "label": "before"}
+]

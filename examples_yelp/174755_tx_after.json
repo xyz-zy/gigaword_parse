@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "time", "one", "person", "waits", "for", "a", "car", "to", "back", "out", "-LRB-", "after", "taking", "five", "minutes", "to", "put", "in", "the", "baby", "seat", "-RRB-", ",", "the", "entire", "line", "of", "cars", "going", "in", "gets", "held", "up", "."], "e1_text": "waits", "e1_pos": 4, "e2_text": "taking", "e2_pos": 13, "label": "after"}
+]

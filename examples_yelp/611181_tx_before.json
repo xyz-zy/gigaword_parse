@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "needed", "a", "room", "quickly", ",", "and", "cheap", ",", "just", "to", "crash", "in", "before", "we", "got", "to", "our", "planned", "hotel", "."], "e1_text": "crash", "e1_pos": 11, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["You", "could", "live", "here", "-", "and", "people", "likely", "did", ",", "since", "this", "was", "an", "extended", "stay", "before", "it", "was", "an", "inn", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "can", "barely", "sleep", "with", "my", "gf", "on", "a", "queen", "without", "being", "continually", "pushed", "and", "prodded", "into", "the", "far", "recesses", "of", "the", "bedside", ",", "so", "a", "double", "bed", "would", "likely", "mean", "I", "'d", "wind", "up", "on", "the", "floor", "before", "the", "night", "was", "through", "."], "e1_text": "wind", "e1_pos": 33, "e2_text": "was", "e2_pos": 41, "label": "before"}
+]

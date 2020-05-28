@@ -1,0 +1,4 @@
+[
+{"tokens": ["1", "-RRB-", "Original", "telephone", "lasted", "1", "year", "before", "having", "issues", "2", "-RRB-", "First", "Warranty", "telephone", "lasted", "1", "day", "before", "having", "issues", "3", "-RRB-", "Second", "Warranty", "telephone", "...", "to", "be", "determined", "."], "e1_text": "lasted", "e1_pos": 4, "e2_text": "having", "e2_pos": 8, "label": "before"},
+{"tokens": ["Think", "really", "hard", "and", "long", "before", "dealing", "with", "anything", "that", "says", "Verizon", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "dealing", "e2_pos": 6, "label": "before"}
+]

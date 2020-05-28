@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "was", "pretty", "nice", "and", "pretty", "patient", "with", "us", "because", "we", "spent", "so", "much", "time", "chit", "chatting", "and", "catching", "up", "that", "she", "had", "to", "return", "at", "least", "5", "times", "before", "we", "were", "actually", "ready", "to", "order", "."], "e1_text": "return", "e1_pos": 25, "e2_text": "were", "e2_pos": 32, "label": "before"}
+]

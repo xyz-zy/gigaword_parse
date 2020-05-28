@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "example", ",", "I", "asked", "for", "an", "itemized", "receipt", "before", "paying", "for", "my", "alterations", "and", "rather", "than", "walking", "me", "through", "all", "of", "the", "charges", ",", "the", "owner", "just", "said", "that", "I", "'d", "receive", "a", "receipt", "in", "my", "inbox", "-", "no", "further", "explanation", "was", "provided", "."], "e1_text": "asked", "e1_pos": 4, "e2_text": "paying", "e2_pos": 10, "label": "before"}
+]

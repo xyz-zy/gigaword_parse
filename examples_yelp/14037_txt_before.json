@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "family", "have", "been", "going", "to", "Matador", "since", "before", "my", "parents", "were", "born", "!"], "e1_text": "Matador", "e1_pos": 6, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["And", "this", "is", "so", "because", "this", "place", "has", "n't", "been", "redecorated", "since", "before", "I", "was", "born", "!"], "e1_text": "redecorated", "e1_pos": 10, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

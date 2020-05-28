@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "had", "this", "treatment", "done", "several", "times", "at", "another", "salon", ",", "and", "I", "asked", "the", "salon", "before", "I", "even", "bought", "the", "Groupon", "if", "their", "treatment", "was", "the", "same", "."], "e1_text": "asked", "e1_pos": 14, "e2_text": "bought", "e2_pos": 20, "label": "before"}
+]

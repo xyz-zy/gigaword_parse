@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "to", "bite", "the", "dog", "that", "bit", "me", "-RRB-", "We", "were", "told", "the", "wait", "would", "be", "thirty", "minutes", "-LRB-", "which", "the", "hostess", "said", "was", "not", "too", "bad", ",", "often", "you", "had", "to", "wait", "for", "an", "hour", "or", "more", "for", "a", "table", "-RRB-", ",", "so", "we", "sat", "down", "after", "I", "got", "my", "drink", "."], "e1_text": "sat", "e1_pos": 45, "e2_text": "got", "e2_pos": 49, "label": "after"}
+]

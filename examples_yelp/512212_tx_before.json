@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "some", "hushpuppies", "before", "the", "meal", "they", "were", "very", "good", "served", "with", "their", "signature", "tomato", "based", "sauce", "-LRB-", "which", "is", "GOOD", "I", "took", "a", "pint", "home", "with", "me", "-RRB-", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "served", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "'m", "going", "to", "try", "REAL", "hard", "to", "make", "it", "back", "before", "I", "leave", "town", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "leave", "e2_pos": 13, "label": "before"}
+]

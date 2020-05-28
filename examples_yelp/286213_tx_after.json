@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "at", "Dick", "'s", "is", "very", "average", ",", "but", "they", "bring", "it", "out", "quickly", "after", "you", "order", "and", "they", "make", "strong", "drinks", "--", "so", "we", "were", "satisfied", "!"], "e1_text": "bring", "e1_pos": 11, "e2_text": "order", "e2_pos": 17, "label": "after"}
+]

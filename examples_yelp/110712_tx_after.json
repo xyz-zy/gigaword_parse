@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "then", "told", "after", "checking", "out", "that", "I", "could", "have", "avoided", "that", "fee", "of", "using", "their", "computer", "by", "having", "an", "attendant", "print", "my", "stuff", "for", "me", ",", "which", "would", "normally", "have", "a", "turn", "around", "time", ",", "but", "since", "there", "was", "no", "one", "there", ",", "it", "would", "have", "taken", "no", "time", "at", "all", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "checking", "e2_pos": 5, "label": "after"}
+]

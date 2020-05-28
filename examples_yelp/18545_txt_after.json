@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "did", "n't", "tell", "me", "when", "my", "order", "would", "be", "ready", "until", "I", "came", "back", "into", "the", "store", "to", "ask", "after", "having", "gotten", "into", "my", "car", "."], "e1_text": "ask", "e1_pos": 19, "e2_text": "having", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "salads", "were", "good", ",", "but", "then", "we", "sat", "for", "20", "minutes", "before", "they", "picked", "up", "the", "salad", "plates", "and", "trying", "to", "get", "their", "attention", "was", "impossible", "."], "e1_text": "sat", "e1_pos": 8, "e2_text": "picked", "e2_pos": 14, "label": "before"}
+]

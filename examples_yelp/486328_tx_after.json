@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "second", "issue", "was", ",", "after", "getting", "a", "bunch", "of", "blood", "work", "done", ",", "I", "never", "received", "a", "call", "notifying", "me", "of", "my", "results", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "getting", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "know", "no", "news", "is", "good", "news", ",", "but", "I", "would", "still", "appreciate", "a", "call", "after", "it", "'s", "been", "3", "weeks", "just", "for", "some", "peace", "of", "mind", "."], "e1_text": "appreciate", "e1_pos": 12, "e2_text": "'s", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Visiting", "Charlotte", "for", "the", "2nd", "time", "and", "I", "made", "this", "place", "a", "must", "stop", "after", "seeing", "it", "featured", "on", "the", "Food", "Network", "a", "few", "years", "a", "go", "."], "e1_text": "stop", "e1_pos": 13, "e2_text": "seeing", "e2_pos": 15, "label": "after"},
+{"tokens": ["One", "of", "the", "retired", "owners", "came", "over", "and", "carried", "on", "a", "conversation", ",", "especially", "after", "finding", "out", "we", "were", "not", "Charlotte", "natives", ",", "but", "visiting", "after", "asking", "us", "if", "we", "were", "enjoying", "our", "food", "as", "we", "were", "munching", "down", "!"], "e1_text": "carried", "e1_pos": 8, "e2_text": "finding", "e2_pos": 15, "label": "after"}
+]

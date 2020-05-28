@@ -1,0 +1,4 @@
+[
+{"tokens": ["Never", "heard", "of", "the", "Montelucia", "before", "until", "I", "was", "invited", "to", "a", "2012", "New", "Years", "Eve", "party", "that", "my", "friend", "ordered", "bottle", "service", "for", "."], "e1_text": "heard", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["Waited", "5", "minutes", "before", "we", "were", "even", "handed", "a", "drink", "menu", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "were", "e2_pos": 5, "label": "before"}
+]

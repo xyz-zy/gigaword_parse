@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "server", "did", "not", "come", "to", "greet", "me", "until", "10", "minutes", "after", "I", "joined", "my", "friends", "at", "their", "table", ",", "and", "it", "took", "at", "least", "15", "minutes", "for", "me", "just", "to", "get", "some", "water", "and", "a", "coffee", "mug", "."], "e1_text": "greet", "e1_pos": 6, "e2_text": "joined", "e2_pos": 13, "label": "after"}
+]

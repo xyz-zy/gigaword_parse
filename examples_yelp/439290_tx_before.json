@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "intend", "to", "make", "sure", "this", "person", "is", "fired", "before", "I", "am", "finished", "with", "them", "."], "e1_text": "fired", "e1_pos": 8, "e2_text": "am", "e2_pos": 11, "label": "before"}
+]

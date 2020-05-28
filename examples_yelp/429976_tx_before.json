@@ -1,0 +1,4 @@
+[
+{"tokens": ["Forget", "that", "she", "was", "in", "distress", "before", "they", "did", "anything", ",", "forget", "that", "I", "was", "in", "a", "labor", "room", "the", "whole", "time", ",", "forget", "that", "my", "blood", "pressure", "dropped", "so", "low", "that", "my", "brother", "had", "to", "alert", "them", "that", "I", "was", "passing", "out", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "did", "e2_pos": 8, "label": "before"},
+{"tokens": ["``", "I", "got", "Mercer", "infection", "before", "I", "left", "the", "hospital", "and", "it", "was", "dismissed", "''", "''", "When", "I", "called", "infectious", "deseases", ",", "they", "did", "n't", "even", "want", "to", "hear", "it", ",", "they", "never", "called", "me", "back", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "left", "e2_pos": 7, "label": "before"}
+]

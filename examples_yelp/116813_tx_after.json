@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "hear", "the", "fried", "chicken", "is", "what", "'s", "popular", "but", "of", "course", "did", "n't", "know", "that", "until", "after", "I", "had", "already", "eaten", "."], "e1_text": "know", "e1_pos": 15, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

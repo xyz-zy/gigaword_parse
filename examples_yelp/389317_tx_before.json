@@ -1,0 +1,3 @@
+[
+{"tokens": ["a.", "Called", "when", "I", "made", "the", "reservation", "b.", "Called", "the", "day", "before", "arrival", "c.", "Asked", "at", "front", "desk", "-", "He", "had", "no", "idea", "which", "room", "had", "it", "but", "assured", "me", "one", "of", "the", "rooms", "had", "the", "birthday", "package", "d.", "no", "birthday", "package", "in", "either", "room", ":-LRB-", "2", "-RRB-", "Dirty", "Linens", "a.", "Pulled", "of", "the", "top", "cover", "to", "find", "it", "stained", "and", "dirty", "."], "e1_text": "Called", "e1_pos": 1, "e2_text": "Asked", "e2_pos": 14, "label": "before"}
+]

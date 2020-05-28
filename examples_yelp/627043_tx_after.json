@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "family", "and", "I", "were", "looking", "for", "a", "place", "to", "eat", "after", "visiting", "the", "zoo", "and", "found", "Gino", "'s", "by", "accident", ";", "it", "was", "a", "very", "pleasant", "surprise", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "visiting", "e2_pos": 12, "label": "after"}
+]

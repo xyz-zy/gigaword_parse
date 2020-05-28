@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "DID", "NOT", "call", "over", "the", "Master", "Stylist", "to", "conference", "with", "before", "she", "took", "her", "first", "cut", "."], "e1_text": "call", "e1_pos": 3, "e2_text": "took", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "master", "stylist", "should", "have", "looked", "at", "the", "picture", "before", "she", "cut", "it", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "cut", "e2_pos": 11, "label": "before"}
+]

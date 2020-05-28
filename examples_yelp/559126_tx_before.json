@@ -1,0 +1,3 @@
+[
+{"tokens": ["Apparently", "there", "is", "some", "fine", "print", "somewhere", "in", "the", "contract", "stating", "that", "the", "money", "will", "continue", "to", "be", "withdrawn", "from", "the", "account", "UNLESS", "you", "submit", "a", "Certified", "letter", "-LRB-", "to", "the", "Surprise", ",", "Arizona", "location", "-RRB-", "one", "month", "before", "the", "contract", "ends", "."], "e1_text": "submit", "e1_pos": 24, "e2_text": "ends", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "have", "always", "preferred", "my", "beef", "medium", "rare", "--", "even", "on", "hamburgers", "--", "and", "before", "now", "had", "never", "encountered", "a", "well", "done", "hamburger", "that", "could", "even", "be", "remotely", "construed", "as", "juicy", "."], "e1_text": "preferred", "e1_pos": 3, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "found", "myself", "grabbing", "for", "peanuts", "instead", "of", "fries", "as", "I", "intended", ",", "and", "once", "just", "caught", "myself", "before", "immersing", "a", "peanut", "in", "ketchup", "."], "e1_text": "caught", "e1_pos": 16, "e2_text": "immersing", "e2_pos": 19, "label": "before"},
+{"tokens": ["The", "tall", "paper", "receptable", "we", "received", "was", "jam-packed", "with", "fries", ",", "but", "the", "two", "of", "us", "had", "no", "problem", "finishing", "every", "last", "one", "of", "them", "before", "leaving", "."], "e1_text": "finishing", "e1_pos": 19, "e2_text": "leaving", "e2_pos": 26, "label": "before"}
+]

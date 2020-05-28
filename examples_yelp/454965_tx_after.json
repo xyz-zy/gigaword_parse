@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "our", "meal", ",", "we", "could", "n't", "find", "a", "cab", "to", "go", "back", "to", "the", "strip", "even", "after", "calling", "10", "different", "taxi", "companies", ",", "luckily", "for", "us", ",", "we", "found", "a", "taxi", "waiting", "at", "the", "local", "dentist", "."], "e1_text": "go", "e1_pos": 11, "e2_text": "found", "e2_pos": 29, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "my", "friend", "Austin", "was", "here", "in", "town", ",", "he", "had", "wanted", "to", "eat", "at", "Matt", "'s", "big", "breakfast", "after", "hearing", "about", "it", "on", "a", "travel", "channel", "show", "."], "e1_text": "eat", "e1_pos": 13, "e2_text": "hearing", "e2_pos": 20, "label": "after"},
+{"tokens": ["Eventually", ",", "we", "sat", "at", "the", "bar", "after", "waiting", "about", "15", "minutes", "in", "the", "sun", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

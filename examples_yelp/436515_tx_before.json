@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "family", "had", "a", "made", "a", "reservation", "before", "flying", "into", "Vegas", ";", "we", "arrived", "and", "had", "to", "drive", "to", "the", "Fox", "rental", "yard", "to", "be", "told", "that", "there", "were", "n't", "any", "cars", "available", ",", "come", "back", "tomorrow", "."], "e1_text": "made", "e1_pos": 4, "e2_text": "flying", "e2_pos": 8, "label": "before"}
+]

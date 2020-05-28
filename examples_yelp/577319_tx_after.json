@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "hit", "on", "my", "husband", ",", "took", "20", "minutes", "to", "get", "us", "water", ",", "then", "passed", "us", "off", "to", "another", "waiter", "who", "claimed", "she", "had", "to", "leave", "-LRB-", "she", "did", "n't", "-", "she", "was", "there", "well", "after", "we", "left", "-RRB-", "."], "e1_text": "was", "e1_pos": 34, "e2_text": "left", "e2_pos": 39, "label": "after"}
+]

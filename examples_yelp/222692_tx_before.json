@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "ungracious", "experience", "begins", "as", "you", "walk", "through", "the", "doors", "and", "are", "barked", "at", "by", "the", "host", "and", "hostess", "who", "do", "not", "have", "the", "courtesy", "to", "allow", "guests", "to", "fully", "enter", "the", "doors", "before", "immediately", "questioning", "you", "about", "reservations", "."], "e1_text": "enter", "e1_pos": 30, "e2_text": "questioning", "e2_pos": 35, "label": "before"}
+]

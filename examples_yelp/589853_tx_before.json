@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "to", "fill", "up", "before", "heading", "out", "to", "dance", "at", "a", "club", "til", "4AM", "but", "ended", "up", "being", "disappointed", "."], "e1_text": "fill", "e1_pos": 4, "e2_text": "heading", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'ve", "never", "had", "bad", "pepperoni", "pizza", "before", "but", "this", "one", "I", "had", "to", "force", "myself", "to", "eat", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

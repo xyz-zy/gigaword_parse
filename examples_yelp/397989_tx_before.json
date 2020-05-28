@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "reason", "I", "'m", "only", "giving", "this", "wonderful", "place", "only", "four", "stars", "is", "because", "-LRB-", "a", "-RRB-", "I", "had", "to", "spend", "almost", "$", "15", "before", "being", "satisfied", "-LRB-", "the", "profile", "here", "shows", "it", "as", "$", ",", "when", "it", "should", "clearly", "be", "$", "$", "-RRB-", ",", "and", "-LRB-", "b", "-RRB-", "there", "were", "no", "fountain", "beverages", ",", "only", "water", "and", "bottled\\/canned", "drinks", "."], "e1_text": "spend", "e1_pos": 20, "e2_text": "being", "e2_pos": 25, "label": "before"}
+]

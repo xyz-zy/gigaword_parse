@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "just", "before", "New", "Year", "'s", "to", "look", "at", "ovens", "and", "stoves", "after", "ours", "simply", "died", "."], "e1_text": "look", "e1_pos": 9, "e2_text": "died", "e2_pos": 17, "label": "after"},
+{"tokens": ["Today", "we", "came", "back", "to", "upgrade", "one", "of", "our", "iPhones", ",", "after", "the", "www.BestBuy.com", "goofed", "the", "order", "and", "the", "store", "-LRB-", "see", "photo", "-RRB-", "had", "to", "fix", "it", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "goofed", "e2_pos": 14, "label": "after"}
+]

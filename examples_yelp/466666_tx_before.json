@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "arrived", ",", "our", "table", "was", "not", "available", "-", "the", "group", "before", "us", "''", "``", "took", "longer", "than", "expected", "''", "''", "-", "so", "we", "had", "to", "wait", "at", "the", "bar", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "took", "e2_pos": 16, "label": "before"},
+{"tokens": ["A", "near-400", "$", "bill", "for", "a", "table", "of", "four", ",", "took", "an", "hour", "before", "our", "order", "was", "taken", ",", "salty", "food", ",", "and", "being", "asked", "to", "leave", "the", "table", "15", "minutes", "after", "dessert", "is", "served", "...", "There", "are", "too", "many", "good", "restaurants", "in", "the", "area", "-LRB-", "graziella", ",", "local", ",", "l'appart", ",", "helena", ",", "...", "-RRB-", "to", "go", "back", "to", "this", "grange", "!"], "e1_text": "took", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

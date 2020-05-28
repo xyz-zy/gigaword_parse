@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "of", "note", ":", "both", "fish", "we", "ordered", "were", "cooked", "whole", ",", "with", "head", "on", ",", "eye", "balls", "intact", "-", "so", "if", "this", "makes", "you", "squeamy", ",", "ask", "about", "how", "your", "fish", "is", "cooked", "before", "ordering", "-RRB-", "Service", "was", "also", "very", "nice", "and", "friendly", "."], "e1_text": "cooked", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 35, "label": "before"},
+{"tokens": ["But", ",", "again", ",", "if", "that", "bothers", "you", "and", "is", "something", "that", "will", "affect", "your", "enjoyment", "of", "the", "meal\\/wine", ",", "check", "before", "you", "order", "your", "wine", "."], "e1_text": "check", "e1_pos": 20, "e2_text": "order", "e2_pos": 23, "label": "before"}
+]

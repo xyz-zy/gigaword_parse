@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "dropped", "my", "gun", "off", "to", "get", "work", "done", "and", "before", "I", "left", "to", "go", "to", "Tempe", "paintball", "to", "pick", "it", "up", "I", "notified", "the", "one", "employee", "on", "staff", "that", "I", "would", "be", "coming", "."], "e1_text": "dropped", "e1_pos": 1, "e2_text": "left", "e2_pos": 12, "label": "before"}
+]

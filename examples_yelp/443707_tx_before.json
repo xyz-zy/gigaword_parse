@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "glasses", "were", "extremely", "dirty", "-LRB-", "all", "three", ",", "one", "had", "dried", "food", "pieces", "on", "it", "-RRB-", "and", "the", "server", "proceeded", "to", "pour", "what", "amounted", "to", "be", "$", "20", "worth", "of", "wine", "into", "one", "of", "the", "glasses", "before", "we", "noticed", "the", "dried", "food", "piece", "mid-pour", "."], "e1_text": "amounted", "e1_pos": 24, "e2_text": "noticed", "e2_pos": 39, "label": "before"}
+]

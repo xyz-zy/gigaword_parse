@@ -1,0 +1,4 @@
+[
+{"tokens": ["there", "'s", "a", "few", "things", "that", "'ll", "start", "to", "give", "u", "stars", "before", "i", "even", "walk", "in", "the", "door", ":", "1", "."], "e1_text": "give", "e1_pos": 9, "e2_text": "walk", "e2_pos": 15, "label": "before"},
+{"tokens": ["on", "a", "corner", "-", "partly", "'cause", "that", "means", "more", "windows", "and", "partly", "'cause", "i", "have", "a", "thing", "for", "corners", "and", "there", "'s", "a", "few", "things", "that", "'ll", "give", "u", "stars", "before", "i", "even", "try", "your", "food", "or", "drink", ":", "1", "."], "e1_text": "give", "e1_pos": 27, "e2_text": "try", "e2_pos": 33, "label": "before"}
+]

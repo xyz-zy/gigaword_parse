@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "always", "take", "the", "clothes", "home", "and", "wash\\/sanitize", "them", "first", "before", "I", "wear", "them", "."], "e1_text": "wash\\/sanitize", "e1_pos": 7, "e2_text": "wear", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["OK", "so", "I", "went", "here", "late", "at", "night", "at", "about", "12", "am", "on", "a", "Friday", "night", "right", "after", "checking", "out", "the", "Interview", "over", "at", "the", "theater", "across", "the", "st.", "The", "security", "of", "this", "place", "is", "absolutely", "crazy", ",", "which", "makes", "sense", "given", "that", "when", "we", "went", "all", "the", "college", "kids", "were", "off", "from", "school", ",", "meaning", "party", "time", "...", "which", "is", "basically", "what", "we", "walked", "into", "after", "showing", "our", "IDs", "to", "the", "bouncer", "."], "e1_text": "am", "e1_pos": 11, "e2_text": "checking", "e2_pos": 18, "label": "after"}
+]

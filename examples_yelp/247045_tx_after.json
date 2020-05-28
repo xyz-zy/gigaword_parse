@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "are", "not", "allowed", "to", "look", "at", "the", "cards", "until", "after", "you", "buy", "them", ";", "meanwhile", ",", "the", "staff", "has", "already", "Pre-sorted", "the", "cards", "''", "``", "to", "guarantee", "you", "get", "a", "certain", "number", "of", "rares", ",", "etc", "''", "''", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "buy", "e2_pos": 12, "label": "after"}
+]

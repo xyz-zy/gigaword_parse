@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "me", "and", "a", "couple", "buddies", "and", "ones", "fiance", "after", "a", "night", "of", "drinking", "a", "few", "brews", "."], "e1_text": "fiance", "e1_pos": 9, "e2_text": "drinking", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "waters", "are", "big", "which", "is", "very", "nice", "after", "a", "night", "of", "drinking", "and", "becoming", "dehydrated", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "drinking", "e2_pos": 12, "label": "after"}
+]

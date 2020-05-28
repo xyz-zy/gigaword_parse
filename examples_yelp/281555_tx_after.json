@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "told", "by", "reviewer", "after", "management", "reviewed", "his", "pictures", "that", "I", "caused", "the", "damage", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "reviewed", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "do", "not", "have", "children", ",", "nor", "do", "I", "leave", "puddles", "of", "water", "on", "table", "after", "cleaning", "and", "drying", "my", "table", "."], "e1_text": "leave", "e1_pos": 9, "e2_text": "cleaning", "e2_pos": 16, "label": "after"}
+]

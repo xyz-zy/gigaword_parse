@@ -1,0 +1,3 @@
+[
+{"tokens": ["!!", "Then", "they", "are", "rude", "if", "you", "do", "n't", "tip", "or", "only", "give", "them", "$", "2", "-", "$", "3", "after", "waiting", "15min", "for", "someone", "when", "the", "place", "is", "empty", "not", "cause", "they", "'re", "busy", ".", "."], "e1_text": "give", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 20, "label": "after"}
+]

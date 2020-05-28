@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "greeted", "in", "a", "timely", "fashion", "for", "our", "appointment", "but", "we", "arrived", "before", "many", "of", "the", "employees", "did", "for", "an", "11", "o'clock", "opening", "time", "."], "e1_text": "arrived", "e1_pos": 12, "e2_text": "did", "e2_pos": 18, "label": "before"},
+{"tokens": ["Then", "I", "waited", "for", "several", "minutes", "to", "pay", "as", "they", "just", "moved", "on", "to", "the", "next", "group", "of", "people", "before", "finishing", "with", "us", "."], "e1_text": "moved", "e1_pos": 11, "e2_text": "finishing", "e2_pos": 20, "label": "before"}
+]

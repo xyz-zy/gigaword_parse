@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lost", "a", "year", "because", "she", "was", "ignorant", "before", "I", "learned", "to", "never", "listen", "to", "her", "again", "-RRB-", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "learned", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "only", "thing", "I", "thank", "god", "for", "every", "day", "is", "that", "I", "spent", "2", "years", "at", "Scottsdale", "Community", "College", "before", "transferring", "in", "."], "e1_text": "spent", "e1_pos": 12, "e2_text": "transferring", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "asked", "for", "a", "second", "round", "of", "drinks", "before", "we", "were", "half", "way", "done", "with", "the", "first", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["She", "cleared", "plates", "and", "brought", "the", "desert", "menu", "before", "I", "was", "done", "eating", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

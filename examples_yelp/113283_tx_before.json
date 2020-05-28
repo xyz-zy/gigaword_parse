@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "like", "to", "see", "some", "real", "strawberries", "blended", "into", "it", "before", "I", "order", "it", "again", "."], "e1_text": "see", "e1_pos": 4, "e2_text": "order", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "'ve", "never", "seen", "or", "even", "heard", "of", "them", "running", "out", "of", "bread", "before", "I", "read", "those", "reviews", "...", "Not", "sure", "what", "was", "wrong", "on", "those", "nights", ",", "but", "I", "'ve", "never", "seen", "it", "happen", "in", "all", "my", "years", "of", "going", "to", "Monti", "'s", "."], "e1_text": "running", "e1_pos": 9, "e2_text": "read", "e2_pos": 15, "label": "before"}
+]

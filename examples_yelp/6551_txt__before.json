@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "wait", "a", "good", "while", "before", "our", "waitress", "appeared", "-LRB-", "frankly", "we", "had", "to", "ask", "if", "she", "'s", "our", "waitress", "as", "she", "walked", "right", "by", "us", "without", "acknowledging", "anyone", "-RRB-", ",", "who", "was", "n't", "at", "all", "enthusiastic", "or", "apologetic", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "appeared", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "waited", "table", "before", ",", "4", "tops", "are", "n't", "difficult", "to", "manage", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "are", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Thanks", "a", "lot", "to", "The", "Bank", "for", "giving", "this", "to", "the", "idiot", "who", "shot", "me", "and", "thanks", "to", "the", "idiot", "who", "shot", "me", "in", "the", "foot", "after", "working", "the", "entire", "week", "standing", "at", "CES", "."], "e1_text": "shot", "e1_pos": 13, "e2_text": "working", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "bought", "a", "friend", "a", "drink", "and", "the", "bartender", "-LRB-", "after", "10", "min", "of", "processing", "my", "credit", "card", "-RRB-", "charged", "me", "for", "2", "drinks", "!"], "e1_text": "bought", "e1_pos": 1, "e2_text": "processing", "e2_pos": 14, "label": "after"}
+]

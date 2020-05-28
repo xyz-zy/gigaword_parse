@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dinner", "for", "two", "-LRB-", "two", "burgers", ",", "two", "sides", ",", "four", "beers", "-RRB-", "was", "over", "$", "57", "-", "before", "a", "$", "4", "fry", "was", "removed", "from", "the", "tab", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

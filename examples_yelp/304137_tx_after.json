@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "got", "there", "at", "7:30", "this", "morning", "to", "find", "them", "closed", "-LRB-", "after", "confirming", "on", "their", "website", "that", "they", "open", "at", "6", "am", "-RRB-", ",", "I", "ended", "up", "driving", "another", "couple", "miles", "to", "Extreme", "Bean", "."], "e1_text": "find", "e1_pos": 9, "e2_text": "confirming", "e2_pos": 14, "label": "after"}
+]

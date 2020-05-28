@@ -1,0 +1,4 @@
+[
+{"tokens": ["Pragmatic", "and", "easygoing", ",", "like", "most", "people", "who", "have", "had", "a", "drop", "or", "two", "of", "blood", "project", "into", "the", "eye", "from", "a", "bit", "too", "much", "fun-loving", "roughhousing", "after", "someone", "shows", "up", "with", "a", "lighter", "load", "than", "they", "should", "have", "."], "e1_text": "roughhousing", "e1_pos": 26, "e2_text": "shows", "e2_pos": 29, "label": "after"},
+{"tokens": ["We", "went", "to", "Beef", "and", "Bottle", "after", "my", "head", "cleared", "a", "little", "and", "I", "was", "able", "to", "tell", "my", "associates", "what", "I", "'d", "remembered", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "cleared", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "actually", "think", "my", "tongue", "was", "numb", "after", "eating", "half", "the", "bowl", "-LRB-", "could", "n't", "take", "any", "more", "than", "that", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "waiter", "was", "visibly", "annoyed", "when", "I", "failed", "to", "order", "a", "glass", "of", "water", "after", "pursuing", "the", "wine", "menu", "--", "sorry", ",", "but", "nothing", "struck", "my", "fancy", "."], "e1_text": "order", "e1_pos": 9, "e2_text": "pursuing", "e2_pos": 15, "label": "after"}
+]

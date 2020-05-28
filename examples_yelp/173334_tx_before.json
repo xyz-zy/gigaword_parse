@@ -1,0 +1,4 @@
+[
+{"tokens": ["Getting", "to", "the", "restaurant", "is", "a", "relative", "maze", "and", "fortunately", "having", "been", "their", "before", "I", "helped", "guide", "us", "thru", "the", "treacherous", "mazeways", "that", "is", "the", "Venetian", "hotel", "."], "e1_text": "been", "e1_pos": 11, "e2_text": "helped", "e2_pos": 15, "label": "before"},
+{"tokens": ["Ah", "what", "a", "delicious", "heart", "attack", "in", "a", "mini", "baking", "tin", "Cod", "brandade", "beignets", "with", "tomato", "confit", "&", "fried", "sage", "-", "I", "had", "no", "idea", "what", "to", "expect", "but", "these", "were", "n't", "like", "the", "beignets", "I", "'ve", "tried", "before", ",", "almost", "like", "a", "light", ",", "crispy", "potato", "or", "taro", "fritter", "and", "also", "really", "good", "."], "e1_text": "were", "e1_pos": 30, "e2_text": "'ve", "e2_pos": 36, "label": "before"}
+]

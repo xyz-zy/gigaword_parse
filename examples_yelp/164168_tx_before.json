@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "managed", "to", "sleep", "shortly", "after", "but", "the", "alarm", "went", "off", "stating", "the", "problem", "was", "resolved", "repeating", "the", "phrase", "three", "times", "before", "going", "off", "!"], "e1_text": "repeating", "e1_pos": 16, "e2_text": "going", "e2_pos": 22, "label": "before"}
+]

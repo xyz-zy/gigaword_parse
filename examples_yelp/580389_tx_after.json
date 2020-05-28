@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "there", "for", "the", "buffet", "today", "after", "we", "had", "two", "enjoyable", "dinners", "previously", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "had", "e2_pos": 8, "label": "after"},
+{"tokens": ["They", "had", "no", "naan", "until", "45", "minutes", "after", "we", "got", "there", "and", "I", "swear", "it", "was", "frozen", "and", "reheated", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "after"}
+]

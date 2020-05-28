@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "I", "believe", "they", "were", "just", "buying", "time", "until", "the", "warranty", "expired", "because", "after", "the", "warranty", "expired", "overdrive", "went", "out", "in", "the", "car", "."], "e1_text": "expired", "e1_pos": 11, "e2_text": "expired", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "took", "car", "to", "another", "shop", "after", "this", "one", "refused", "to", "fix", "it", "for", "free", "or", "for", "a", "reduced", "cost", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "refused", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "'ve", "been", "a", "customer", "for", "a", "long", "time", "and", "they", "never", "notified", "me", "that", "their", "Terms", "and", "Conditions", "had", "changed", ",", "which", "I", "read", "before", "the", "new", "policy", "was", "added", "-RRB-", "."], "e1_text": "read", "e1_pos": 25, "e2_text": "was", "e2_pos": 30, "label": "before"}
+]

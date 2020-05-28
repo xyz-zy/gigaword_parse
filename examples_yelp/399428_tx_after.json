@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "quickly", "5", "minutes", "after", "someone", "walked", "up", "to", "the", "hostess", "booth", ",", "said", "''", "``", "HI", "''", "''", "&", "''", "``", "just", "a", "moment", "''", "''", ",", "then", "walked", "away", ",", "we", "were", "then", "seated", "by", ",", "I", "assume", ",", "the", "MGR", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "said", "e2_pos": 15, "label": "after"},
+{"tokens": ["They", "came", "right", "after", "I", "came", "back", "to", "sit", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "came", "e2_pos": 1, "label": "after"}
+]

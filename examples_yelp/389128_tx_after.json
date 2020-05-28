@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "a", "little", "over", "an", "hour", "after", "they", "had", "opened", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "probably", "should", "have", "eaten", "this", "right", "after", "I", "got", "home", ",", "but", "it", "was", "still", "good", "the", "next", "morning", "after", "heating", "it", "up", "in", "the", "microwave", "."], "e1_text": "eaten", "e1_pos": 4, "e2_text": "got", "e2_pos": 9, "label": "after"}
+]

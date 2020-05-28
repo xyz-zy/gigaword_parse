@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "our", "coffees", "arrived", "about", "half", "an", "hour", "after", "we", "were", "seated", "-LRB-", "and", "had", "asked", "for", "coffee", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "were", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "cutlery", "arrived", "almost", "half", "an", "hour", "after", "the", "first", "meal", "was", "served", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

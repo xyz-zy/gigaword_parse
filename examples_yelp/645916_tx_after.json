@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "into", "them", "to", "inquire", ",", "waited", "12", "minutes", "and", "after", "about", "2", "minutes", "of", "actual", "discussion", "with", "a", "customer", "service", "rep", "the", "call", "was", "abruptly", "disconnected", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 25, "label": "after"}
+]

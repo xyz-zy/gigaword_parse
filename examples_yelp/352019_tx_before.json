@@ -1,0 +1,3 @@
+[
+{"tokens": ["True", "Foods", ",", "a", "name", "I", "'d", "heard", "seven", "million", "times", "before", "finally", "stopping", "in", "as", "a", "part", "of", "my", "''", "``", "AZ", "Healthfood", "Tour", "''", "''", ",", "this", "was", "my", "first", "visit", "to", "the", "Phoenix", "location", "and", "this", "place", "had", "a", "lot", "of", "hype", "to", "live", "up", "to", "."], "e1_text": "heard", "e1_pos": 7, "e2_text": "stopping", "e2_pos": 13, "label": "before"}
+]

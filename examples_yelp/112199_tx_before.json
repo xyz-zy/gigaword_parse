@@ -1,0 +1,5 @@
+[
+{"tokens": ["i", "ordered", "take-out", "before", "I", "got", "a", "good", "look", "at", "the", "place", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "got", "e2_pos": 5, "label": "before"},
+{"tokens": ["There", "are", "stacks", "of", "sodas", "with", "a", "stained", "apron", "tossed", "onto", "the", "top", "of", "them", "-", "better", "wipe", "those", "bitches", "down", "good", "before", "you", "slurp", ",", "people", "!!", "The", "license", "on", "the", "wall", "reads", "2008", "."], "e1_text": "wipe", "e1_pos": 17, "e2_text": "slurp", "e2_pos": 24, "label": "before"},
+{"tokens": ["Even", "my", "dog", "wouldnt", "eat", "there", "...", "but", "since", "he", "'s", "missing", "a", "leg", ",", "he", "might", "need", "to", "steer", "clear", "of", "this", "place", "before", "they", "try", "to", "stew", "him", "up", "."], "e1_text": "steer", "e1_pos": 19, "e2_text": "try", "e2_pos": 26, "label": "before"}
+]

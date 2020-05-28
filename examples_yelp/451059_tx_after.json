@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "the", "other", "couple", "received", "their", "meal", "before", "us", "even", "though", "we", "ordered", "way", "before", "them", ",", "so", "after", "mentioning", "that", "to", "the", "server", "he", "came", "back", "a", "few", "minutes", "later", "with", "cold", "food", "that", "had", "to", "be", "sitting", "there", "waiting", "to", "be", "picked", "up", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "mentioning", "e2_pos": 19, "label": "after"}
+]

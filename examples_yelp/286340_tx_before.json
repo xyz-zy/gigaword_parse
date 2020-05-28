@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "say", "that", "I", "have", "ever", "really", "noticed", "Dish", "before", "even", "though", "I", "have", "to", "have", "been", "past", "it", "before", "."], "e1_text": "noticed", "e1_pos": 9, "e2_text": "have", "e2_pos": 6, "label": "before"},
+{"tokens": ["It", "also", "carried", "much", "of", "the", "same", "flavors", "that", "I", "so", "enjoyed", "with", "the", "crostini", "and", "before", "long", "there", "was", "nothing", "left", "on", "my", "plate", "and", "I", "was", "full", "."], "e1_text": "carried", "e1_pos": 2, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

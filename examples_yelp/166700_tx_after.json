@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "suppose", "the", "issue", "was", "that", "I", "did", "n't", "complain", "shortly", "after", "checking", "in", "."], "e1_text": "complain", "e1_pos": 9, "e2_text": "checking", "e2_pos": 12, "label": "after"},
+{"tokens": ["Lesson", "learned", ":", "check", "your", "room", "ASAP", "after", "entering", "and", "report", "any", "dissatisfactory", "conditions", "immediately", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "entering", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["he", "got", "3", "drinks", "in", "before", "he", "was", "hammered", "though", "-LRB-", "his", "first", "time", "ever", "drinking", ",", "i", "got", "him", "a", "patron", "shot", ",", "AMF", ",", "and", "some", "drink", "that", "i", "still", "do", "not", "know", "what", "all", "was", "in", "it", ",", "but", "it", "was", "all", "hard", "alcohol", ",", "i", "got", "2", "of", "each", "drink", "and", "i", "drank", "with", "him", "-RRB-", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

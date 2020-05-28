@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "in", "line", "before", "it", "opened", "for", "dinner", "at", "5", "pm", "because", "we", "thought", "the", "line", "would", "be", "long", "but", "around", "6", ",", "we", "looked", "out", "the", "door", "and", "saw", "that", "there", "was", "no", "line", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "opened", "e2_pos": 6, "label": "before"}
+]

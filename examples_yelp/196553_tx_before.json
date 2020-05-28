@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hash", "browns", "seemed", "like", "they", "had", "been", "prepared", "for", "some", "time", "before", "actually", "reaching", "my", "plate", "."], "e1_text": "prepared", "e1_pos": 8, "e2_text": "reaching", "e2_pos": 14, "label": "before"}
+]

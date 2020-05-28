@@ -1,0 +1,4 @@
+[
+{"tokens": ["Strange", ",", "usually", "I", "have", "to", "order", "a", "pizza", "before", "I", "go", "get", "it", "."], "e1_text": "order", "e1_pos": 6, "e2_text": "go", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "was", "kinda", "cold", ",", "the", "crust", "obviously", "came", "out", "frozen", "from", "a", "box", "before", "being", "topped", "with", "the", "crappiest", ",", "greasiest", "cheese", "ever", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "being", "e2_pos": 15, "label": "before"}
+]

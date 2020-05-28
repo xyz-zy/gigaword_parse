@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "also", "dropped", "our", "car", "off", "and", "tried", "to", "use", "their", "service", "that", "will", "take", "you", "to", "your", "destination", "however", "after", "waiting", "45min", "wait", "we", "just", "called", "a", "cab", "."], "e1_text": "tried", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "mean", "obviously", "you", "have", "to", "wait", "in", "line", "at", "one", "point", "or", "another", "but", "after", "buying", "your", "tickets", "theres", "really", "only", "one", "way", "to", "go", "...", "which", "would", "be", "into", "the", "club", "...", "so", "why", "would", "you", "need", "to", "check", "them", "?"], "e1_text": "wait", "e1_pos": 6, "e2_text": "buying", "e2_pos": 16, "label": "after"},
+{"tokens": ["Get", "them", "drunk", "then", "have", "them", "make", "$", "500", "bets", "on", "blackjack", ",", "duh", "!!", "Last", "but", "not", "least", ",", "after", "a", "couple", "hours", "of", "dancing", "the", "last", "thing", "I", "want", "to", "do", "is", "walk", "down", "a", "crowded", "flight", "of", "stairs", ",", "let", "me", "take", "the", "damn", "elevator", "."], "e1_text": "make", "e1_pos": 6, "e2_text": "is", "e2_pos": 33, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Wrong", "order", ",", "app", "brought", "out", "early", "when", "it", "was", "asked", "to", "be", "an", "entree", ",", "again", "took", "for", "ever", "to", "get", "my", "second", "drink", "...", "Oh", "and", "my", "entree", "came", "15", "minutes", "after", "everyone", "else", "'s", "even", "though", "we", "ordered", "together", "."], "e1_text": "came", "e1_pos": 30, "e2_text": "'s", "e2_pos": 36, "label": "after"}
+]

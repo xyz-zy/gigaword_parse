@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "back", "at", "1132pm", "and", "was", "told", "the", "shuttle", "is", "a", "shared", "shuttle", "and", "I", "would", "have", "to", "wait", "and", "that", "I", "had", "enough", "time", "before", "my", "flight", "departed", "."], "e1_text": "had", "e1_pos": 23, "e2_text": "departed", "e2_pos": 29, "label": "before"}
+]

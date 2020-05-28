@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "got", "here", "before", "I", "did", ",", "so", "they", "got", "us", "all", "a", "table", ",", "while", "of", "course", "waiting", "for", "me", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "did", "e2_pos": 6, "label": "before"},
+{"tokens": ["They", "have", "an", "extensive", "AYCE", "menu", ",", "but", "it", "'ll", "be", "a", "very", "long", "time", "before", "I", "come", "back", "here", ",", "if", "ever", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "come", "e2_pos": 17, "label": "before"}
+]

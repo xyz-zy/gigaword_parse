@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "has", "been", "getting", "harassed", "non-stop", "for", "giving", "his", "honest", "experience", "with", "this", "business", "on", "yelp", ",", "not", "only", "over", "yelp", "messaging", "but", "by", "text", "message", "also", "-LRB-", "apparently", "their", "business", "phone", "is", "a", "cell", "phone", "and", "when", "he", "called", "to", "make", "sure", "the", "messages", "were", "from", "an", "employee", "they", "saved", "his", "number", "after", "cussing", "him", "out", "-RRB-", "."], "e1_text": "saved", "e1_pos": 51, "e2_text": "cussing", "e2_pos": 55, "label": "after"}
+]

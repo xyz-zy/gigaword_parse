@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "good", "ole", "caffeine-driven", "coffee", "shop", "welcome", "has", "been", "replaced", "with", "a", "30", "second", "delay", "that", "allows", "the", "barista", "to", "finish", "their", "conversation", "before", "they", "drag", "their", "feet", "over", "to", "the", "counter", "to", "greet", "you", "with", "a", "''", "``", "what", "can", "I", "get", "for", "you", "''", "''", "in", "a", "not-so-well-hidden", "tone", "of", "inconvenience", "."], "e1_text": "finish", "e1_pos": 20, "e2_text": "drag", "e2_pos": 25, "label": "before"}
+]

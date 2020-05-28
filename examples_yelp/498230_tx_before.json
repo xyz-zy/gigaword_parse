@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "then", "just", "pours", "enchilada", "sauce", "on", "before", "I", "answer", "-RRB-", "Me", ":", "Sure", "-LRB-", "as", "if", "I", "have", "a", "choice", "at", "this", "point", "-RRB-", "By", "then", ",", "I", "think", "he", "was", "annoyed", "with", "me", "and", "just", "sent", "my", "burrito", "down", "to", "the", "next", "gal", "to", "add", "lettuce", ",", "sour", "cream", "and", "rice", "."], "e1_text": "sauce", "e1_pos": 5, "e2_text": "answer", "e2_pos": 9, "label": "before"}
+]

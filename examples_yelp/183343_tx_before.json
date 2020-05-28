@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "line", "at", "the", "host", "stand", "for", "about", "10", "minutes", "before", "being", "seated", "at", "a", "table", "right", "in", "front", "of", "the", "kitchen", "entrance\\/exit", "-LRB-", "saw", "the", "Chef", "picking", "on", "fries", "and", "such", "-RRB-", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "waited", "10", "minutes", "after", "the", "end", "of", "our", "meal", "before", "having", "to", "flag", "down", "our", "server", "-LRB-", "who", "was", "busy", "closing", "out", "...", "i", "think", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "having", "e2_pos": 11, "label": "before"}
+]

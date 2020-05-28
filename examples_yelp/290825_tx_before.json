@@ -1,0 +1,4 @@
+[
+{"tokens": ["By", "that", "time", ",", "we", "were", "there", "for", "75", "minutes", "and", "wound", "up", "spending", "90", "there", "before", "leaving", "."], "e1_text": "spending", "e1_pos": 13, "e2_text": "leaving", "e2_pos": 17, "label": "before"},
+{"tokens": ["This", "hallway", "is", "also", "where", "the", "restrooms", "are", "and", "my", "mom", "nearly", "knocked", "over", "a", "server", "carrying", "a", "huge", "tray", "of", "sizzling", "food", ",", "and", "she", "had", "to", "back", "out", "of", "the", "hallway", "before", "going", "into", "the", "restroom", "."], "e1_text": "back", "e1_pos": 28, "e2_text": "going", "e2_pos": 34, "label": "before"}
+]

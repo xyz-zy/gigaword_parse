@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "catch", "is", "that", "you", "have", "to", "keep", "reminding", "yourself", "of", "how", "good", "the", "food", "will", "be", "while", "you", "are", "waiting", "in", "line", "behind", "so", "many", "people", "that", "act", "like", "they", "have", "never", "been", "there", "before", "."], "e1_text": "act", "e1_pos": 28, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["Another", "patron", "in", "front", "of", "me", "asked", "the", "grandmother", "if", "they", "had", "been", "there", "before", ",", "and", "she", "happily", "replied", ",", "''", "``", "yes", ",", "but", "it", "'s", "been", "a", "long", "time", ".", "''", "''"], "e1_text": "asked", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "expected", "the", "place", "to", "be", "packed", "just", "before", "closing", "on", "a", "Saturday", "night", ",", "but", "it", "was", "only", "the", "troublesome", "group", "and", "one", "other", "patron", "and", "me", "in", "the", "line", "."], "e1_text": "packed", "e1_pos": 6, "e2_text": "closing", "e2_pos": 9, "label": "before"}
+]

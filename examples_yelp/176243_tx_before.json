@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "got", "to", "the", "table", ",", "the", "server", "who", "brought", "table", "settings", "admitted", "he", "was", "our", "server", "and", "apologized", "for", "the", "wait", ",", "claiming", "he", "brought", "the", "orange", "juice", "that", "the", "busser", "brought", "before", "he", "showed", "up", "...", "hmmm", "."], "e1_text": "brought", "e1_pos": 10, "e2_text": "showed", "e2_pos": 36, "label": "before"}
+]

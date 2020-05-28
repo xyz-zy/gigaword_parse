@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "only", "after", "we", "had", "selected", "-LRB-", "and", "reselected", ",", "and", "reselected", "again", "-RRB-", "our", "items", "were", "we", "informed", "that", "because", "the", "items", "we", "wanted", "were", "not", "in", "stock", ",", "we", "could", "not", "utilize", "the", "service", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["Due", "to", "all", "of", "our", "the", "frustration", ",", "my", "husband", "asked", "the", "manager", "to", "do", "something", "for", "the", "trouble", ",", "as", "after", "we", "were", "told", "we", "could", "not", "order", "the", "chaise", "he", "was", "ready", "to", "walk", "out", "and", "start", "the", "furniture", "buying", "process", "elsewhere", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "were", "e2_pos": 23, "label": "after"}
+]

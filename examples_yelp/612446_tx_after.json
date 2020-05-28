@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "called", "first", "and", "said", "we", "are", "snowboarding", "on", "Sunday", "and", "asked", "if", "they", "offer", "travel", "day", "before", "and", "after", "."], "e1_text": "asked", "e1_pos": 11, "e2_text": "offer", "e2_pos": 14, "label": "after"},
+{"tokens": ["And", "that", "they", "would", "not", "honor", "it", "after", "driving", "all", "the", "way", "down", "."], "e1_text": "honor", "e1_pos": 5, "e2_text": "driving", "e2_pos": 8, "label": "after"}
+]

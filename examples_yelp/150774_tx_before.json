@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "choice", "is", "''", "``", "limited", "''", "''", "to", "pizza", "only", "-", "so", "dietary", "restrictions", ",", "eat", "before", "you", "arrive", "and\\/or", "sneak", "something", "in", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "arrive", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "will", "have", "to", "think", "hard", "about", "the", "loss", "of", "$", "20", "to", "bad", "sound", "quality", "before", "I", "return", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "return", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "waiter", "is", "unkind", "and", "only", "said", "the", "word", "''", "``", "ok", "''", "''", "to", "us", "after", "we", "ordered", "."], "e1_text": "said", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 18, "label": "after"}
+]

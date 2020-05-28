@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "lost", "it", "after", "calling", "to", "check", "on", "my", "order", "which", "was", "promised", "to", "be", "done", "on", "a", "certain", "day", "-LRB-", "again", "!", "-RRB-", "."], "e1_text": "lost", "e1_pos": 2, "e2_text": "calling", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "order", "did", "finally", "get", "done", "after", "I", "screamed", "at", "them", "but", "it", "will", "be", "my", "last", "with", "them", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "screamed", "e2_pos": 8, "label": "after"}
+]

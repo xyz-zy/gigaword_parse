@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "agree", "that", "it", "'s", "getting", "better", "then", "before", "but", "the", "problem", "with", "this", "airport", "is", "the", "space", "."], "e1_text": "getting", "e1_pos": 5, "e2_text": "is", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "have", "more", "security", "agents", ",", "more", "scanners", "but", "it", "took", "more", "times", "then", "before", "!!!!", "I", "do", "n't", "get", "it", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "!!!!", "e2_pos": 15, "label": "before"}
+]

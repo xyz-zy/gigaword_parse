@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", ",", "let", "me", "suggest", "to", "other", "promoters", "that", "before", "they", "commit", "to", "a", "venue", "for", "their", "affair", ",", "they", "should", "check", "Yelp", "reviews", "."], "e1_text": "suggest", "e1_pos": 5, "e2_text": "commit", "e2_pos": 12, "label": "before"}
+]

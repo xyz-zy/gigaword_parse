@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "for", "lunch", "before", "leaving", "Vegas", "-", "and", "obviously", "not", "a", "good", "one", "at", "all", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "leaving", "e2_pos": 5, "label": "before"},
+{"tokens": ["Seafood", "Tofu", "Pot", "-", "this", "dish", "was", "okay", "Soy", "Sauce", "Beef", "Chow", "Fun", "-", "it", "was", "like", "they", "pour", "oil", "all", "over", "it", "before", "serving", "it", "-", "it", "was", "very", "hard", "to", "eat", "when", "it", "'s", "slipping", "off", "your", "fork\\/chopstick", "."], "e1_text": "pour", "e1_pos": 18, "e2_text": "serving", "e2_pos": 24, "label": "before"}
+]

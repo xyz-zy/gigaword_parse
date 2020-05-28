@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "feel", "like", "I", "have", "to", "repent", "after", "eating", "one", ",", "it", "'s", "like", "pure", "sin", "in", "a", "wrapper", "."], "e1_text": "repent", "e1_pos": 6, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["Rainbow", "Sherbet", "Update", ":", "So", "I", "decided", "to", "drop", "by", "MOB", "after", "not", "going", "for", "a", "while", "."], "e1_text": "drop", "e1_pos": 8, "e2_text": "going", "e2_pos": 13, "label": "after"}
+]

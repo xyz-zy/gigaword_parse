@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "if", "we", "take", "our", "dog", "swimming", "at", "the", "park", ",", "we", "give", "him", "a", "tick", "bath", "with", "tick", "shampoo", "before", "we", "leave", "and", "keep", "him", "out", "of", "the", "GRASS", "on", "the", "way", "back", "to", "the", "car", "."], "e1_text": "give", "e1_pos": 12, "e2_text": "leave", "e2_pos": 22, "label": "before"}
+]

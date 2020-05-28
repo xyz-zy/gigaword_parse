@@ -1,0 +1,4 @@
+[
+{"tokens": ["Blue", "Man", "Group", "is", "probably", "best", "for", "families\\/kids", ",", "while", "Phantom", "of", "the", "Opera", "is", "a", "must-see", "even", "if", "you", "'ve", "seen", "it", "somewhere", "else", "before", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 20, "label": "before"},
+{"tokens": ["Be", "sure", "to", "put", "the", "''", "``", "Do", "Not", "Disturb", "''", "''", "sign", "on", "your", "door", "before", "you", "go", "to", "sleep", ",", "because", "housekeeping", "knocked", "on", "our", "door", "at", "8:30", "am", "to", "try", "to", "come", "in", "and", "clean", "!"], "e1_text": "sign", "e1_pos": 12, "e2_text": "go", "e2_pos": 18, "label": "before"}
+]

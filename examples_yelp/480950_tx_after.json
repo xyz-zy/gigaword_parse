@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "my", "last", "meal", "in", "Charlotte", "this", "go", "`", "round", ",", "after", "another", "extended", "5-day", "weekend", "visiting", "my", "parents", ",", "and", "I", "knew", "I", "really", "wanted", "something", "different", "before", "leaving", "."], "e1_text": "go", "e1_pos": 8, "e2_text": "visiting", "e2_pos": 17, "label": "after"},
+{"tokens": ["This", "was", "a", "mistake", ",", "not", "because", "the", "inside", "was", "bad", ",", "but", "because", "after", "I", "saw", "the", "nice", "large", "patio", "adjacent", "a", "beautiful", "fountain", "I", "really", "wanted", "to", "be", "eating", "out", "there", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "saw", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "drove", "by", "this", "place", "a", "hundred", "times", ",", "after", "reading", "these", "reviews", "I", "finally", "decided", "to", "venture", "in", "."], "e1_text": "drove", "e1_pos": 2, "e2_text": "reading", "e2_pos": 11, "label": "after"},
+{"tokens": ["45", "minutes", "to", "get", "our", "food", "and", "the", "place", "was", "empty", "two", "other", "tables", "going", "Even", "after", "sending", "back", "a", "entree", "and", "a", "appetizer", "which", "where", "inedible", ",", "bill", "was", "still", "over", "60.00", ",", "for", "two", "plates", "of", "paper", "thin", "chicken", "breasts", "."], "e1_text": "going", "e1_pos": 14, "e2_text": "sending", "e2_pos": 17, "label": "after"}
+]

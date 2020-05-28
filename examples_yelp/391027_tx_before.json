@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "have", "to", "ask", "for", "water", "or", "ice", "or", "more", "food", "like", "3", "times", "before", "you", "get", "it", "...", "but", "then", "again", "its", "cheap", "and", "good", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "get", "e2_pos": 16, "label": "before"}
+]

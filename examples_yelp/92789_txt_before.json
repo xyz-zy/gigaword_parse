@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "pointed", "this", "out", "to", "Matt", "and", "he", "acted", "like", "he", "had", "never", "witnessed", "this", "poor", "quality", "of", "work", "before", "."], "e1_text": "acted", "e1_pos": 8, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["Afterwards", ",", "he", "took", "a", "look", "through", "previous", "pictures", "of", "the", "car", "when", "it", "was", "brought", "in", "and", "verified", "the", "additional", "damage", "was", "not", "there", "before", "."], "e1_text": "verified", "e1_pos": 18, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

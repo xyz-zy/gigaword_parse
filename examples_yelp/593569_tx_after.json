@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "tried", "to", "change", "the", "order", ",", "their", "website", "says", "that", "orders", "can", "not", "be", "changed", "after", "they", "are", "placed", ",", "but", "rest", "assured", "I", "could", "return", "the", "item", "to", "a", "Brighton", "store", "if", "I", "no", "longer", "wanted", "it", "."], "e1_text": "changed", "e1_pos": 16, "e2_text": "are", "e2_pos": 19, "label": "after"}
+]

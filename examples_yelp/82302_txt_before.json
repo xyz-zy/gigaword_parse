@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "inquired", "if", "there", "was", "a", "booth", "available", "since", "the", "couple", "that", "was", "just", "seated", "before", "us", "was", "put", "in", "a", "booth", "."], "e1_text": "seated", "e1_pos": 14, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "host", "intercepted", "us", "on", "the", "way", "out", "and", "apologized", "explaining", "that", "the", "person", "seated", "before", "us", "had", "been", "coming", "there", "for", "40", "years", "."], "e1_text": "seated", "e1_pos": 14, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

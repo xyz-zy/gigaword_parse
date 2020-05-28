@@ -1,0 +1,4 @@
+[
+{"tokens": ["Despite", "not", "being", "very", "busy", "at", "12:45", "pm", ",", "our", "table", "of", "five", "had", "to", "wait", "for", "the", "table", "to", "be", "bussed", "before", "being", "seated", "."], "e1_text": "bussed", "e1_pos": 21, "e2_text": "being", "e2_pos": 2, "label": "before"},
+{"tokens": ["The", "waitress", "once", "cleared", "4", "of", "our", "plates", "but", "went", "and", "served", "another", "table", "before", "clearing", "the", "last", "of", "ours", "ten", "minutes", "later", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "clearing", "e2_pos": 15, "label": "before"}
+]

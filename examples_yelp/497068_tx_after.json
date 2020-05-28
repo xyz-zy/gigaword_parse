@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "partner", "and", "I", "were", "hesitant", "to", "go", "to", "another", "IHOP", "after", "receiving", "such", "horrible", "customer", "service", "at", "the", "location", "on", "Northern", "Ave", "near", "I-17", ",", "but", "decided", "to", "give", "this", "location", "a", "try", "with", "hopes", "that", "the", "experience", "would", "be", "a", "positive", "one", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "receiving", "e2_pos": 12, "label": "after"}
+]

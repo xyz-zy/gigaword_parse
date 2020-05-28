@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "owner", "is", "a", "really", "friendly", "guy", ";", "when", "you", "walk", "in", ",", "he", "asks", "if", "you", "'ve", "eaten", "there", "before", "and", ",", "if", "not", ",", "delivers", "his", "spiel", "on", "what", "he", "does", ":", "dry-rubbed", "barbecue", ",", "sauce", "on", "the", "side", ",", "have", "you", "tried", "the", "sauces", "by", "the", "way", "?"], "e1_text": "asks", "e1_pos": 14, "e2_text": "'ve", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "'m", "not", "writing", "this", "place", "off", ";", "I", "still", "need", "to", "try", "their", "ribs", "before", "judging", "them", "completely", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "judging", "e2_pos": 16, "label": "before"}
+]

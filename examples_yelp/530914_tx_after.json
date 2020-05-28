@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stumbled", "on", "this", "place", "after", "getting", "my", "fingerprints", "done", "next", "door", "."], "e1_text": "Stumbled", "e1_pos": 0, "e2_text": "getting", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "was", "delicious", "until", "about", "halfway", "through", "when", "it", "turned", "very", "acidic-tasting", "...", "and", "I", "got", "heartburn", "-LRB-", "which", "I", "NEVER", "get", "-RRB-", "after", "eating", "it", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "eating", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["On", "the", "Monday", "night", "that", "we", "stopped", "in", "before", "hitting", "the", "Strip", ",", "the", "entertainment", "was", "dueling", "pianos", "."], "e1_text": "stopped", "e1_pos": 6, "e2_text": "hitting", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "next", "stopped", "in", "on", "Thursday", "before", "heading", "out", "to", "some", "clubs", "."], "e1_text": "stopped", "e1_pos": 2, "e2_text": "heading", "e2_pos": 7, "label": "before"},
+{"tokens": ["Never", "tried", "an", "oxygen", "bar", "before", "but", "it", "was", "only", "$", "20.00", "for", "20", "minutes", "so", "we", "gave", "it", "a", "shot", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

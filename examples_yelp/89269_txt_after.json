@@ -1,0 +1,4 @@
+[
+{"tokens": ["By", "the", "end", "of", "the", "meal", ",", "she", "wanted", "to", "talk", "--", "she", "spontaneously", "shared", "that", "she", "likes", "to", "eat", "a", "big", "combination", "platter", "after", "puking", "following", "a", "night", "out", "drinking", "."], "e1_text": "eat", "e1_pos": 19, "e2_text": "puking", "e2_pos": 25, "label": "after"},
+{"tokens": ["-LRB-", "Not", "something", "you", "want", "to", "head", "after", "trying", "to", "choke", "down", "some", "of", "that", "same", "combo", "platter", ".", "-RRB-"], "e1_text": "head", "e1_pos": 6, "e2_text": "trying", "e2_pos": 8, "label": "after"}
+]

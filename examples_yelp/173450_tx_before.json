@@ -1,0 +1,3 @@
+[
+{"tokens": ["Host", "was", "rude", "...", "was", "chatting", "on", "the", "phone", "for", "about", "5", "minutes", "before", "she", "even", "acknowledged", "we", "were", "there", ",", "HOWEVER", ",", "our", "experience", "there", "totally", "made", "up", "for", "that", "."], "e1_text": "chatting", "e1_pos": 5, "e2_text": "acknowledged", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "15", "minutes", "before", "the", "show", "was", "to", "start", "and", "I", "ran", "into", "the", "new", "routine", "of", "having", "your", "photo", "taken", "before", "you", "enter", "the", "theater", "and", "then", "getting", "into", "another", "line", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "did", "n't", "think", "the", "TV", "Guy", "was", "as", "funny", "as", "I", "did", "before", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "did", "e2_pos": 1, "label": "before"}
+]

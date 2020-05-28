@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "asked", "our", "waitress", "who", "came", "around", "10", "minutes", "after", "we", "were", "seated", "-LRB-", "place", "was", "Very", "slow", "and", "3", "different", "waiters", "passed", "by", "-RRB-", "I", "asked", "her", "if", "we", "could", "order", "from", "the", "dinner", "menu", "as", "hubby", "wanted", "ribs", "-LRB-", "it", "was", "like", "330", "pm", "-RRB-", "She", "proceeded", "to", "look", "and", "speak", "to", "us", "as", "if", "we", "just", "asked", "her", "the", "dumbest", "thing", "on", "the", "planet", "...", "Said", "NO", "dinner", "starts", "at", "5", "!"], "e1_text": "came", "e1_pos": 5, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

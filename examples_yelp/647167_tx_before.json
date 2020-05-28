@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "said", "it", "had", "never", "happened", "before", ",", "but", "when", "I", "talked", "to", "some", "friends", "at", "my", "daughter", "'s", "gymnastics", "class", "-LRB-", "after", "I", "booked", "-RRB-", "they", "told", "me", "that", "same", "thing", "had", "happened", "to", "them", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "had", "e2_pos": 3, "label": "before"}
+]

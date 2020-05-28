@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "good", "-LRB-", "however", ",", "some", "stations", "were", "out", "of", "food", "before", "I", "got", "to", "them", "-RRB-", ",", "drinks", "were", "affordable", ",", "crowd", "was", "mixed", ",", "live", "band", "played", "a", "nice", "variety", "of", "music", ",", "and", "the", "staff", "was", "very", "accomodating", "."], "e1_text": "were", "e1_pos": 9, "e2_text": "got", "e2_pos": 15, "label": "before"}
+]

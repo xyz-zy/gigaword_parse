@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "re-explained", "that", "I", "simply", "wanted", "to", "have", "balloons", "and", "a", "cake", "delivered", "and", "was", "told", "by", "the", "hotel", "manager", "that", "concierge", "could", "help", "me", "get", "them", "into", "his", "room", "before", "he", "checked", "in", "at", "7pm", "."], "e1_text": "help", "e1_pos": 23, "e2_text": "checked", "e2_pos": 32, "label": "before"}
+]

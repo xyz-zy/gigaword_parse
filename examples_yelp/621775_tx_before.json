@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "first", "sat", "down", "at", "the", "bar", ",", "it", "took", "almost", "five", "minutes", "before", "one", "of", "the", "two", "main", "bartenders", "acknowledged", "my", "presence", ",", "even", "though", "I", "was", "sitting", "right", "next", "to", "the", "service", "bar", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "acknowledged", "e2_pos": 21, "label": "before"},
+{"tokens": ["Two", "separate", "times", "I", "waited", "ten", "minutes", "before", "a", "bartender", "noticed", "my", "beer", "was", "gone", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "noticed", "e2_pos": 10, "label": "before"}
+]

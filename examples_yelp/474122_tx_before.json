@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "live", "right", "around", "the", "corner", "from", "them", "so", "I", "give", "them", "25", "minutes", "before", "I", "leave", "and", "I", "always", "see", "my", "order", "waiting", "for", "me", "to", "pick", "it", "up", "as", "I", "walk", "in", "."], "e1_text": "give", "e1_pos": 10, "e2_text": "leave", "e2_pos": 16, "label": "before"}
+]

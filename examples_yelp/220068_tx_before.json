@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "rather", "made", "it", "at", "home", ",", "I", "would", "have", "cut", "all", "the", "fat", "off", "before", "I", "cooked", "it", "."], "e1_text": "cut", "e1_pos": 12, "e2_text": "cooked", "e2_pos": 19, "label": "before"}
+]

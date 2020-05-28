@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "checked", "the", "tracking", "number", "on", "line", "with", "UPS", "and", "it", "was", "delivered", "and", "signed", "for", "3", "days", "after", "pick", "up", "."], "e1_text": "delivered", "e1_pos": 12, "e2_text": "pick", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waitress", "that", "was", "serving", "the", "table", "before", "we", "sat", "at", "it", "simply", "did", "not", "acknowledge", "our", "existence", "for", "the", "rest", "of", "our", "visit", "."], "e1_text": "serving", "e1_pos": 3, "e2_text": "sat", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "had", "to", "ask", "for", "service", "twice", "and", "even", "then", "we", "got", "drinks", "from", "the", "bar", "on", "our", "own", "before", "anyone", "came", "to", "serve", "us", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

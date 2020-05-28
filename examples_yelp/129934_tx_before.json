@@ -1,0 +1,4 @@
+[
+{"tokens": ["Disclaimer", ":", "I", "'ve", "been", "a", "HUGE", "Apple", "fan", "years", "before", "Apple", "was", "cool", "."], "e1_text": "been", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["But", "as", "the", "saying", "goes", ",", "''", "``", "all", "it", "takes", "is", "one", "bad", "apple", "...", "''", "''", "A", "friend", "of", "mine", "-LRB-", "DD", "-RRB-", "and", "I", "went", "to", "this", "store", "to", "return", "an", "AirPort", "Express", "a", "couple", "days", "before", "her", "30", "day", "return", "window", "expired", "and", "had", "a", "terrible", "experience", "."], "e1_text": "return", "e1_pos": 32, "e2_text": "expired", "e2_pos": 45, "label": "before"}
+]

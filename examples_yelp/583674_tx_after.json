@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "should", "have", "left", "after", "looking", "at", "the", "menu", ",", "but", "I", "figured", "it", "really", "could", "not", "be", "that", "bad", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "looking", "e2_pos": 5, "label": "after"},
+{"tokens": ["First", "time", "pouring", "water", ",", "he", "just", "kept", "pouring", "even", "after", "he", "had", "left", "the", "glass", "."], "e1_text": "pouring", "e1_pos": 2, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

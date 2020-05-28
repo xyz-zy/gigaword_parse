@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "normally", "do", "this", ",", "but", "I", "finally", "stopped", "being", "sick", "after", "eating", "here", "last", "night", "."], "e1_text": "being", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "abdominal", "pain", "started", "at", "2", "am", ",", "about", "4", "hours", "after", "consuming", "the", "meal", "."], "e1_text": "started", "e1_pos": 3, "e2_text": "consuming", "e2_pos": 12, "label": "after"}
+]

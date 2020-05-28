@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "go", "in", "and", "they", "knew", "who", "we", "were", "but", "give", "me", "paperwork", "to", "fill", "out", ",", "after", "waiting", "for", "a", "few", "minutes", "while", "they", "were", "on", "the", "phone", "."], "e1_text": "fill", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 18, "label": "after"},
+{"tokens": ["Granted", "this", "is", "about", "10-15", "min", "after", "walking", "in", "with", "a", "child", "crying", "with", "a", "chemical", "burn", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "walking", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "arrival", "we", "were", "redirected", "to", "the", "concierge", "after", "checking", "in", "to", "receive", "our", "parking", "pass", "."], "e1_text": "redirected", "e1_pos": 4, "e2_text": "checking", "e2_pos": 9, "label": "after"},
+{"tokens": ["Meanwhile", "they", "have", "you", "do", "a", "$", "20", "refundable", "deposit", "to", "commit", "you", "to", "attending", "the", "timeshare", "meeting", "and", "of", "course", "you", "do", "n't", "get", "your", "comps", "until", "after", "you", "attend", "the", "2", "hour", "meeting", "."], "e1_text": "get", "e1_pos": 24, "e2_text": "attend", "e2_pos": 30, "label": "after"}
+]

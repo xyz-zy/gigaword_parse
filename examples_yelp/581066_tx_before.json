@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "new", "chicken", "noodle", "soup", "tasted", "alright", ",", "but", "not", "nearly", "the", "quality", "of", "what", "they", "served", "before", "."], "e1_text": "tasted", "e1_pos": 5, "e2_text": "served", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "noticed", "that", "they", "'ve", "removed", "quite", "a", "few", "tables", "to", "create", "more", "space", "in", "the", "restaurant", "and", "yet", "there", "were", "more", "open", "tables", "there", "than", "I", "'d", "ever", "seen", "before", "-", "an", "indicator", "that", "their", "clientele", "is", "expressing", "disapproval", "also", "?"], "e1_text": "seen", "e1_pos": 29, "e2_text": "is", "e2_pos": 37, "label": "before"}
+]

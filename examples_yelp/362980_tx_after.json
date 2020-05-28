@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "high", "hopes", "after", "reading", "plenty", "of", "positive", "reviews", "on", "yelp", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"},
+{"tokens": ["Perhaps", "it", "was", "a", "bad", "day", "to", "order", "Belgium", "waffle", "at", "DD", ",", "but", "sadly", "it", "left", "me", "feeling", "disappointed", "after", "being", "so", "excited", "to", "try", "this", "place", "out", "."], "e1_text": "feeling", "e1_pos": 18, "e2_text": "being", "e2_pos": 21, "label": "after"}
+]

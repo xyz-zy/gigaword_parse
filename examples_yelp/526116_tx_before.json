@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "there", "'s", "anything", "I", "'ve", "learned", "in", "life", ",", "it", "'s", "to", "think", "before", "I", "speak", "."], "e1_text": "think", "e1_pos": 13, "e2_text": "speak", "e2_pos": 16, "label": "before"},
+{"tokens": ["Should", "n't", "there", "be", "some", "sort", "of", "video", "entitled", "''", "``", "How", "not", "to", "put", "your", "foot", "in", "your", "mouth", "''", "''", "or", "''", "``", "How", "to", "be", "tactful", "''", "''", "that", "every", "employee", "must", "watch", "before", "they", "start", "in", "the", "retail", "industry", "?"], "e1_text": "watch", "e1_pos": 35, "e2_text": "start", "e2_pos": 38, "label": "before"}
+]

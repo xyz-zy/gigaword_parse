@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "in", "here", "Saturday", "morning", "after", "some", "friends", "suggested", "it", "and", ",", "of", "course", ",", "I", "had", "Yelped", "it", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "suggested", "e2_pos": 8, "label": "after"},
+{"tokens": ["They", "initially", "forgot", "me", "as", "I", "had", "been", "seated", "in", "the", "front", "corner", "but", "after", "that", "I", "was", "checked", "on", "on", "a", "regular", "basis", "."], "e1_text": "forgot", "e1_pos": 2, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

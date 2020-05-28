@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "been", "dying", "to", "try", "True", "Food", "Kitchen", "for", "a", "while", "now", ",", "after", "seeing", "reviews", "on", "it", "on", "various", "people", "'s", "''", "``", "Vegetarian", "''", "''", "lists", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "'s", "e2_pos": 22, "label": "after"},
+{"tokens": ["It", "came", "with", "6", "pieces", "of", "ravioli", ",", "which", "he", "thought", "was", "not", "enough", "at", "first", ",", "but", "after", "he", "cleaned", "his", "plate", "he", "said", "he", "was", "''", "``", "stuffed", ".", "''", "''"], "e1_text": "thought", "e1_pos": 10, "e2_text": "cleaned", "e2_pos": 20, "label": "after"}
+]

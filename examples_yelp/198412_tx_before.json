@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "woman", "and", "a", "couple", "came", "in", "while", "we", "were", "eating", ",", "and", "the", "woman", "was", "in", "and", "out", "long", "before", "we", "got", "our", "bill", "-", "and", "there", "was", "3", "of", "us", "downing", "2", "orders", "of", "meat", "-", "portions", "that", "were", "generous", "for", "1", "but", "did", "n't", "last", "long", "at", "all", "with", "3", "hungry", "people", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "got", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "'m", "definitely", "looking", "to", "try", "some", "new", "places", "before", "I", "go", "back", "here", "again", "to", "get", "a", "better", "idea", "of", "what", "to", "expect", ",", "but", "it", "'s", "worth", "trying", "and", "our", "friend", "thought", "it", "was", "tasty", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "go", "e2_pos": 11, "label": "before"}
+]

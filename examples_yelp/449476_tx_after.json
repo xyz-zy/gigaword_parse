@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "realized", "after", "coming", "to", "a", "few", ",", "the", "March", "one", "is", "the", "better", "bet", "to", "go", "to", "if", "you", "'re", "only", "venturing", "out", "once", "a", "year", "."], "e1_text": "realized", "e1_pos": 1, "e2_text": "coming", "e2_pos": 3, "label": "after"},
+{"tokens": ["I", "'m", "glad", "and", "hope", "after", "last", "November", "this", "village", "learned", "their", "lesson", "on", "not", "double", "booking", "the", "beer", "fest", "and", "a", "run", "in", "the", "same", "area", "at", "the", "same", "time", "."], "e1_text": "hope", "e1_pos": 4, "e2_text": "learned", "e2_pos": 10, "label": "after"}
+]

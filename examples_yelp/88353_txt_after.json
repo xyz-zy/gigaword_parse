@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "got", "an", "infection", "shortly", "after", "having", "it", ";", "this", "is", "n't", "their", "fault", ",", "but", "I", "was", "out", "of", "town", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "having", "e2_pos": 6, "label": "after"},
+{"tokens": ["--", "which", ",", "I", "thought", "was", "kind", "of", "weird", "because", "after", "most", "surgeries", "-LRB-", "I", "'ve", "never", "had", "one", "myself", ",", "but", "I", "'m", "going", "on", "family", "and", "friends", "'", "histories", "here", "-RRB-", ",", "your", "health", "provider", "would", "like", "to", "see", "you", "in", "case", "something", "DOES", "go", "wrong", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "dad", "was", "given", "all", "my", "pharmaceutical", "prescriptions", "shortly", "after", "leaving", "and", "Amoxicillin", "was", "not", "on", "that", "list", "of", "ones", "given", "to", "us", "."], "e1_text": "given", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 10, "label": "after"}
+]

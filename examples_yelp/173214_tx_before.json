@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "it", "was", "on", "a", "May", "Saturday", "night", "in", "Vegas", "that", "my", "better", "half", "and", "I", "finally", "got", "dinner", "at", "Bouchon", "-LRB-", "we", "have", "had", "a", "very", "good", "b", "`", "fast", "here", "before", "-RRB-", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "have", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "did", "n't", "know", "before", "we", "sat", "down", "that", "Mr", "Thomas", "Keller", "himself", "was", "in", "attendance", "that", "evening", "which", "I", "have", "to", "believe", "between", "the", "Laundry", "and", "Per", "Se", "in", "NYC", "is", "a", "pretty", "rare", "occurence", "in", "Vegas", "."], "e1_text": "know", "e1_pos": 3, "e2_text": "sat", "e2_pos": 6, "label": "before"}
+]

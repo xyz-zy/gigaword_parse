@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "2.4", "miles", "to", "Bellagio", "for", "example", ",", "a", "bit", "too", "far", "to", "walk", "after", "having", "drinks", "."], "e1_text": "walk", "e1_pos": 14, "e2_text": "having", "e2_pos": 16, "label": "after"}
+]

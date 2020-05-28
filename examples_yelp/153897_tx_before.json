@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "menu", "is", "a", "tome", "filled", "with", "both", "Thai", "classics", "as", "well", "as", "dishes", "I", "'ve", "never", "seen", "before", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 15, "label": "before"},
+{"tokens": ["For", "my", "main", "dish", "I", "went", "with", "the", "Nam-Prik-Head", "-LRB-", "Spicy", "Mushroom", "Dip", "-RRB-", "because", "-LRB-", "1", "-RRB-", "as", "previously", "noted", ",", "I", "like", "spice", ",", "and", "-LRB-", "2", "-RRB-", "I", "never", "remember", "seeing", "this", "on", "a", "menu", "before", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "like", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "never", "knew", "before", "because", "I", "never", "asked", "...", "the", "reason", "why", "the", "''", "``", "giant", "''", "''", "club", "sandwiches", "are", "$", "2", "more", "than", "the", "8", "''", "''", "clubs", "is", "because", "they", "scoop", "out", "the", "inside", "of", "the", "bread", "on", "the", "8", "''", "''", "clubs", "."], "e1_text": "knew", "e1_pos": 2, "e2_text": "are", "e2_pos": 20, "label": "before"}
+]

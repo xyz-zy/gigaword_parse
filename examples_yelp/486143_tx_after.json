@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "walking", "out", "of", "the", "restaurant", "our", "server", "came", "running", "after", "us", "saying", "the", "manager", "said", "we", "needed", "to", "pay", "our", "bill", "."], "e1_text": "running", "e1_pos": 9, "e2_text": "saying", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "was", "not", "happy", "after", "being", "accused", "of", "stealing", "and", "will", "never", "visit", "or", "refer", "anyone", "I", "know", "to", "this", "place", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 5, "label": "after"}
+]

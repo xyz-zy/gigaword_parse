@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "go", "through", "the", "drive", "thru", ",", "I", "highly", "recommend", "pulling", "over", "and", "checking", "the", "bag", "before", "driving", "home", "."], "e1_text": "checking", "e1_pos": 14, "e2_text": "driving", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "original", "waitress", "disappeared", "for", "awhile", "after", "serving", "us", "initially", "before", "I", "spotted", "her", "standing", "around", "doing", "nothing", "in", "another", "section", "."], "e1_text": "serving", "e1_pos": 7, "e2_text": "spotted", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "asked", "two", "different", "people", "and", "waited", "roughly", "20", "minutes", "for", "a", "drink", "towards", "the", "tail", "end", "of", "the", "meal", "before", "we", "decided", "to", "get", "up", "and", "leave", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "decided", "e2_pos": 22, "label": "before"},
+{"tokens": ["This", "was", "all", "after", "we", "sat", "around", "for", "10", "minutes", "before", "a", "waitress", "even", "came", "by", "to", "take", "the", "first", "drink", "order", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

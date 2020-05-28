@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "him", "not", "to", "come", "and", "called", "Discount", "Cab", ",", "thank", "goodness", "Discount", "arrived", "promptly", "and", "the", "driver", "made", "it", "to", "the", "airport", "in", "record", "time", "after", "I", "told", "him", "what", "had", "happened", "or", "I", "would", "have", "been", "seriously", "close", "to", "missing", "my", "flight", "."], "e1_text": "made", "e1_pos": 19, "e2_text": "told", "e2_pos": 1, "label": "after"},
+{"tokens": ["Two", "stars", "because", "I", "'ve", "had", "good", "experiences", "with", "Clean", "Air", "before", ",", "but", "after", "what", "happened", "this", "last", "time", "I", "do", "not", "feel", "comfortable", "relying", "on", "this", "Company", "."], "e1_text": "stars", "e1_pos": 1, "e2_text": "do", "e2_pos": 21, "label": "after"}
+]

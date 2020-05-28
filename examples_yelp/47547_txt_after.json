@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "main", "course", "was", "a", "watery", ",", "messy", "disaster", "and", "the", "owner", "who", "I", "will", "call", "''", "``", "mama", "''", "''", "could", "barely", "defend", "her", "chile", "relleno", "after", "I", "called", "her", "out", "on", "the", "nasty", "food", "."], "e1_text": "defend", "e1_pos": 23, "e2_text": "called", "e2_pos": 29, "label": "after"},
+{"tokens": ["Mama", "did", "shoot", "back", "a", "comment", ",", "but", "never", "full", "stood", "at", "our", "table", "and", "chatted", "after", "she", "got", "a", "negative", "response", "from", "me", "over", "the", "standard", "''", "``", "How", "is", "everything", "''", "''", "question", "."], "e1_text": "chatted", "e1_pos": 15, "e2_text": "got", "e2_pos": 18, "label": "after"}
+]

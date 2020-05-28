@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stayed", "here", "after", "my", "friend", "received", "a", "great", "deal", "on", "priceline", "for", "$", "50\\/night", "during", "the", "SUMMER", "!"], "e1_text": "stayed", "e1_pos": 1, "e2_text": "received", "e2_pos": 6, "label": "after"},
+{"tokens": ["but", "what", "he", "should", "have", "done", "after", "ALL", "that", "is", "comped", "us", "ONE", "night", "in", "the", "damn", "hotel", ",", "especially", "because", "we", "listed", "every", "complaint", "we", "had", "from", "the", "beginning", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "is", "e2_pos": 9, "label": "after"}
+]

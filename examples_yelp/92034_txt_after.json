@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "obvious", "that", "you", "either", "work", "for", "Hard", "Knocks", "Gym", "or", "you", "were", "asked", "by", "them", "to", "counter", "my", "review", "considering", "you", "just", "joined", "Yelp", "right", "after", "my", "review", "posted", "and", "you", "have", "not", "reviewed", "any", "other", "businesses", "."], "e1_text": "joined", "e1_pos": 24, "e2_text": "posted", "e2_pos": 30, "label": "after"}
+]

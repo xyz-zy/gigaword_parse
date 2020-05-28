@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "add", "insult", "to", "injury", "we", "had", "to", "walk", "our", "check", "to", "the", "hostess", "after", "waiting", "over", "10", "minutes", "for", "our", "server", "to", "take", "it", "-LRB-", "she", "must", "have", "walked", "by", "4", "times", "-RRB-", "."], "e1_text": "walk", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

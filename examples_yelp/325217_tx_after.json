@@ -1,0 +1,4 @@
+[
+{"tokens": ["Annoyed", "after", "waiting", "20", "+", "minutes", "to", "find", "that", "out", "."], "e1_text": "Annoyed", "e1_pos": 0, "e2_text": "waiting", "e2_pos": 2, "label": "after"},
+{"tokens": ["Frankly", ",", "we", "'re", "pretty", "easygoing", "so", "I", "thought", "I", "would", "give", "her", "the", "benefit", "of", "the", "doubt", "and", "perhaps", "she", "would", "come", "back", "with", "a", "new", "attitude", "after", "taking", "a", "deep", "breath", "."], "e1_text": "'re", "e1_pos": 3, "e2_text": "taking", "e2_pos": 29, "label": "after"}
+]

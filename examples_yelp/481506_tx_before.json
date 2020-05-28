@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "listed", "at", "#", "8", "on", "CNN", "'s", "list", "of", "100", "foods", "to", "try", "before", "you", "die", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "die", "e2_pos": 17, "label": "before"},
+{"tokens": ["Service", "was", "sweet", "and", "they", "made", "sure", "to", "ask", "if", "we", "had", "any", "coupons", "before", "getting", "our", "bill", "so", "as", "not", "to", "waste", "time", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "getting", "e2_pos": 15, "label": "before"}
+]

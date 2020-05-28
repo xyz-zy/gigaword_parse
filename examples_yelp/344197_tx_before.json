@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "the", "conceirge", "to", "recommend", "some", "good", "olf", "fashioned", "Italian", ",", "not", "too", "''", "``", "foo", "foo", "''", "''", "and", "reasonably", "priced", "for", "lunch", "before", "we", "had", "to", "head", "to", "the", "airport", "and", "he", "pointed", "us", "here", "saying", "it", "was", "the", "best", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 27, "label": "before"}
+]

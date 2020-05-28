@@ -1,0 +1,3 @@
+[
+{"tokens": ["Amazon", "says", "it", "should", "be", "delivered", "today", ",", "but", "it", "'s", "after", "8pm", "-", "not", "going", "to", "happen", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "going", "e2_pos": 15, "label": "after"}
+]

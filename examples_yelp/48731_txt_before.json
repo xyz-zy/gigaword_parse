@@ -1,0 +1,3 @@
+[
+{"tokens": ["EDIT", "2", ":", "Due", "to", "the", "recent", "rise", "in", "popularity", "of", "this", "coffeehouse", ",", "I", "can", "no", "longer", "get", "my", "beloved", "muffins", "as", "they", "all", "sell", "out", "long", "before", "I", "arrive", "at", "night", "."], "e1_text": "sell", "e1_pos": 25, "e2_text": "arrive", "e2_pos": 30, "label": "before"}
+]

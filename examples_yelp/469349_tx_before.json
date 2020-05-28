@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "super-friendly", "cashier", "informed", "us", "that", "the", "fries", "are", "actually", "McDonalds", "'", "old", "french", "fry", "recipe", ",", "before", "they", "switched", "to", "canola", "oil", ",", "etc.", "."], "e1_text": "are", "e1_pos": 8, "e2_text": "switched", "e2_pos": 19, "label": "before"},
+{"tokens": ["Just", "like", "McD", "'s", "used", "to", "make", "-", "you", "know", ",", "before", "they", "took", "out", "the", "trans", "fats", ",", "etc.", "."], "e1_text": "make", "e1_pos": 6, "e2_text": "took", "e2_pos": 13, "label": "before"}
+]

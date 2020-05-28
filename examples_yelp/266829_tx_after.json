@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "'s", "3", "days", "after", "they", "originally", "said", "it", "would", "be", "ready", "!"], "e1_text": "'s", "e1_pos": 1, "e2_text": "said", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "was", "finally", "able", "to", "pick", "it", "up", "on", "Wednesday", "-LRB-", "5", "days", "after", "they", "said", "it", "would", "be", "ready", "-RRB-", "."], "e1_text": "pick", "e1_pos": 5, "e2_text": "said", "e2_pos": 15, "label": "after"}
+]

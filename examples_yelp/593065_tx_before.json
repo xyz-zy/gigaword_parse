@@ -1,0 +1,5 @@
+[
+{"tokens": ["There", "were", "tables", "that", "had", "still", "been", "left", "uncleaned", "from", "gosh", "knows", "how", "long", "before", "we", "arrived", "that", "were", "still", "that", "way", "after", "we", "left", "."], "e1_text": "knows", "e1_pos": 11, "e2_text": "arrived", "e2_pos": 16, "label": "before"},
+{"tokens": ["Our", "waitress", "was", "quick", "to", "explain", "that", "''", "``", "They", "had", "been", "crazy", "''", "''", "before", "we", "got", "there", "."], "e1_text": "been", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["But", "if", "you", "'ve", "got", "ta", "be", "somewhere", "...", "anywhere", "else", "that", "day", "make", "sure", "you", "think", "twice", "before", "hitting", "this", "place", "up", "."], "e1_text": "think", "e1_pos": 16, "e2_text": "hitting", "e2_pos": 19, "label": "before"}
+]

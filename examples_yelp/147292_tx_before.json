@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "this", "is", "apparently", "standard", "practice", "at", "many", "restaurants", ",", "but", "I", "personally", "think", "that", ",", "if", "someone", "orders", "just", "''", "``", "water", "''", "''", ",", "you", "should", "probably", "ask", "if", "they", "want", "a", "strong-flavored", "fruit", "wedge", "submerged", "in", "it", "before", "just", "automatically", "adding", "it", "."], "e1_text": "submerged", "e1_pos": 38, "e2_text": "adding", "e2_pos": 44, "label": "before"}
+]

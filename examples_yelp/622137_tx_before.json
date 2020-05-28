@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", "a", "message", "was", "left", "the", "day", "before", "confirming", "my", "appointment", "and", "because", "I", "did", "not", "call", "them", "back", ",", "they", "booked", "their", "staff", "with", "another", "client", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "confirming", "e2_pos": 11, "label": "before"}
+]

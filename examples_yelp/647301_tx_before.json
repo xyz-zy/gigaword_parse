@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "can", "honestly", "say", "that", "I", "have", "never", "enjoyed", "a", "pizza", "so", "much", "before", "in", "my", "entire", "life", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "have", "e2_pos": 6, "label": "before"},
+{"tokens": ["You", "can", "either", "choose", "from", "a", "variety", "of", "different", "preset", "options", "or", "simply", "create", "your", "own", "mixture", "of", "ingredients", "before", "the", "chefs", "throw", "it", "all", "on", "a", "personal", "pizza", "and", "into", "the", "oven", "."], "e1_text": "create", "e1_pos": 13, "e2_text": "throw", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hostess", "was", "friendly", "but", "said", "it", "was", "10-15", "minutes", "before", "I", "get", "the", "order", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "get", "e2_pos": 11, "label": "before"},
+{"tokens": ["You", "know", "how", "they", "say", "that", "sushi", "is", "supposed", "to", "be", "the", "perfect", "balance", "of", "rice", "to", "fish", "and", "when", "served", "at", "the", "perfect", "temperature", "-LRB-", "body", "temp", "FYI", "-RRB-", ",", "it", "is", "supposed", "to", "create", "a", "wonderful", "sensation", "in", "your", "mind", "and", "body", "...", "yah", ",", "well", ",", "these", "sushi", "chefs", "need", "to", "go", "back", "to", "sushi-school", "or", "at", "least", "a", "REAL", "sushi", "restaurant", "and", "wash", "rice", "for", "three", "years", "before", "they", "even", "attempt", "sushi", "again", "."], "e1_text": "wash", "e1_pos": 66, "e2_text": "attempt", "e2_pos": 74, "label": "before"}
+]

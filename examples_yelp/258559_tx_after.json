@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "stop", "in", "the", "other", "day", "after", "giving", "a", "shot", "at", "ice", "skating", "at", "Lake", "Las", "Vegas", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "giving", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "was", "just", "what", "I", "needed", "after", "skating", "up", "a", "sweat", "."], "e1_text": "needed", "e1_pos": 5, "e2_text": "skating", "e2_pos": 7, "label": "after"}
+]

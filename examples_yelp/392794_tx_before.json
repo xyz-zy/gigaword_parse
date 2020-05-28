@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nothing", "like", "working", "all", "day", ",", "partying", "all", "night", "then", "going", "to", "Denny", "'s", "at", "5", "AM", "to", "get", "something", "in", "your", "stomach", "before", "you", "have", "to", "go", "to", "work", "in", "a", "couple", "hours", ".", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "have", "e2_pos": 25, "label": "before"}
+]

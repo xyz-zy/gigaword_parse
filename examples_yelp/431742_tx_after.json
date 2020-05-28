@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "received", "2", "quotes", "for", "BUR", "and", "then", "called", "Mikku", "and", "Sons", "and", "their", "quote", "for", "foam", "was", "not", "much", "higher", "so", "I", "decided", "it", "was", "worth", "the", "extra", "expense", "after", "talking", "to", "Devin", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "talking", "e2_pos": 31, "label": "after"},
+{"tokens": ["Josh", "came", "out", "-LRB-", "on", "time", "-RRB-", "and", "taped", "the", "plywood", "seams", "and", "sprayed", "on", "the", "foam", "with", "a", "nice", "level", "coat", "of", "foam", "and", "offered", "to", "return", "to", "apply", "the", "second", "coat", "of", "elastomeric", "after", "the", "stucco", "guys", "finished", ",", "just", "in", "case", "the", "damage", "the", "coating", "."], "e1_text": "apply", "e1_pos": 29, "e2_text": "finished", "e2_pos": 39, "label": "after"}
+]

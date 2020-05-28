@@ -1,0 +1,5 @@
+[
+{"tokens": ["Apparently", "the", "company", "expected", "to", "be", "paid", "in", "full", "before", "the", "plumber", "returned", "to", "our", "home", "."], "e1_text": "paid", "e1_pos": 6, "e2_text": "returned", "e2_pos": 12, "label": "before"},
+{"tokens": ["And", "so", "a", "representative", "called", "me", "and", "said", "that", "I", "needed", "to", "pay", "the", "full", "invoice", "before", "the", "plumber", "returned", "to", "the", "home", "."], "e1_text": "pay", "e1_pos": 12, "e2_text": "returned", "e2_pos": 19, "label": "before"},
+{"tokens": ["But", "I", "was", "cut", "off", "by", "this", "rude", "representative", "before", "I", "was", "even", "given", "an", "opportunity", "to", "establish", "what", "would", "be", "a", "reasonable", "timeline", "or", "deadline", "for", "when", "this", "plumber", "would", "return", "to", "our", "home", "."], "e1_text": "cut", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

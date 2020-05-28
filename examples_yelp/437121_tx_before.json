@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "to", "this", "location", "at", "730", ",", "30", "minutes", "before", "they", "actually", "closed", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "closed", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "door", "was", "locked", "and", "when", "an", "employee", "came", "to", "the", "door", "he", "informed", "me", "they", "were", "close", "because", "they", "ran", "out", "of", "bread", "...", "it", "was", "obvious", "they", "were", "trying", "to", "avoid", "taking", "any", "orders", "right", "before", "they", "closed", ",", "And", "if", "they", "were", "out", "of", "bread", "that", "'s", "ridiculous", "."], "e1_text": "taking", "e1_pos": 33, "e2_text": "closed", "e2_pos": 39, "label": "before"}
+]

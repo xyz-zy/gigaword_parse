@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "managed", "to", "get", "in", "after", "peak", "lunch", ",", "when", "few", "other", "patrons", "were", "around", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "were", "e2_pos": 13, "label": "after"},
+{"tokens": ["Aside", "from", "the", "small", "concern", "with", "my", "server", "not", "checking", "on", "me", "at", "all", "until", "after", "I", "'d", "stopped", "eating", "-LRB-", "coincidentally", ",", "just", "after", "another", "table", "had", "been", "seated", "-RRB-", ",", "I", "had", "a", "very", "enjoyable", "meal", "and", "would", "not", "hesitate", "to", "recommend", "this", "place", "for", "pizza", ",", "even", "if", "I", "do", "n't", "truly", "know", "what", "else", "is", "out", "there", "."], "e1_text": "checking", "e1_pos": 9, "e2_text": "'d", "e2_pos": 17, "label": "after"}
+]

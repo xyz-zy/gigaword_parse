@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "actually", "a", "full", "hour", "after", "finding", "the", "crab", "before", "the", "manager", "came", "over", "to", "drop", "off", "our", "check", "."], "e1_text": "finding", "e1_pos": 7, "e2_text": "came", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "manager", "waited", "a", "full", "hour", "before", "coming", "to", "our", "table", "and", "laughed", "off", "our", "experience", "as", "a", "''", "``", "fun", "story", "''", "''", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "coming", "e2_pos": 7, "label": "before"}
+]

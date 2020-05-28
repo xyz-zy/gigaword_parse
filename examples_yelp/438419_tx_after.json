@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tire", "Works", "customer", "service", "reached", "out", "to", "me", "after", "I", "reported", "my", "experience", "to", "the", "BBB", "."], "e1_text": "reached", "e1_pos": 4, "e2_text": "reported", "e2_pos": 10, "label": "after"}
+]

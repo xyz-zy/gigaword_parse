@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "order", "pizza", ",", "pasta", ",", "and", "cannoli", "and", "while", "ordering", "had", "to", "ask", "her", "to", "please", "for", "the", "information", "before", "placing", "my", "order", "."], "e1_text": "please", "e1_pos": 16, "e2_text": "placing", "e2_pos": 21, "label": "before"}
+]

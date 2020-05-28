@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "restaurant", "was", "busy", "but", "there", "were", "3", "empty", "tables", "and", "one", "group", "of", "3", "before", "us", "that", "was", "waiting", "in", "the", "outside", "patio", "area", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "noticed", "this", "because", "I", "looked", "at", "my", "phone", "and", "the", "10", "minute", "wait", "was", "now", "15", "and", "the", "group", "before", "us", "still", "had", "not", "been", "seated", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "had", "e2_pos": 23, "label": "before"}
+]

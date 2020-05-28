@@ -1,0 +1,4 @@
+[
+{"tokens": ["45", "minutes", "later", "and", "with", "our", "lunch", "break", "being", "over", "we", "got", "up", "to", "ask", "them", "what", "was", "going", "on", "with", "our", "food", ",", "as", "we", "were", "watching", "the", "other", "tables", "that", "had", "arrived", "25", "minutes", "after", "us", "enjoy", "their", "lunch", "."], "e1_text": "arrived", "e1_pos": 33, "e2_text": "enjoy", "e2_pos": 38, "label": "after"},
+{"tokens": ["We", "were", "told", "to", "bring", "the", "food", "back", "to", "the", "restaurant", "-LRB-", "because", "we", "all", "have", "time", "in", "the", "world", "to", "run", "around", "town", "bringing", "food", "back", "and", "fourth", "during", "our", "work", "day", "after", "already", "being", "late", "to", "work", "because", "they", "could", "n't", "get", "their", "act", "together", "-RRB-", "."], "e1_text": "run", "e1_pos": 21, "e2_text": "being", "e2_pos": 35, "label": "after"}
+]

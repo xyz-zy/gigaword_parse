@@ -1,0 +1,4 @@
+[
+{"tokens": ["Normally", "I", "would", "blow", "this", "off", "but", "I", "specifically", "called", "and", "asked", "before", "I", "made", "reservations", "and", "for", "the", "waitress", "to", "blow", "us", "off", "like", "that", "was", "just", "rude", "."], "e1_text": "asked", "e1_pos": 11, "e2_text": "made", "e2_pos": 14, "label": "before"},
+{"tokens": ["Pikilia", "''", "``", "Taste", "of", "Greece", "''", "''", "-", "The", "perfect", "dish", "if", "you", "have", "n't", "been", "here", "before", "and", "want", "to", "try", "it", "all", "."], "e1_text": "Pikilia", "e1_pos": 0, "e2_text": "have", "e2_pos": 14, "label": "before"}
+]

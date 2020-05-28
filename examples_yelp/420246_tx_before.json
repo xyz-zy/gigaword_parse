@@ -1,0 +1,3 @@
+[
+{"tokens": ["Movies", "are", "cheaper", "before", "6:00", "pm", "then", "the", "price", "goes", "up", "."], "e1_text": "are", "e1_pos": 1, "e2_text": "goes", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Las", "Vegas", "Mayor", "had", "better", "wise", "up", "before", "I", "trek", "cross", "country", "again", "!"], "e1_text": "wise", "e1_pos": 5, "e2_text": "trek", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "want", "a", "bigger", "&", "better", "experience", "before", "I", "drop", "down", "$", "2000.00", "on", "a", "much", "deserved", "vacation", "!"], "e1_text": "want", "e1_pos": 1, "e2_text": "drop", "e2_pos": 9, "label": "before"}
+]

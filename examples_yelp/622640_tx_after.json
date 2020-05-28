@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "from", "Chicago", "-", "of", "course", "I", "had", "to", "try", "Buddyz", "after", "reading", "the", "reviews", "."], "e1_text": "try", "e1_pos": 9, "e2_text": "reading", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "decide", "to", "try", "Buddyz", ",", "after", "giving", "them", "a", "bit", "of", "time", "since", "opening", "."], "e1_text": "decide", "e1_pos": 1, "e2_text": "giving", "e2_pos": 7, "label": "after"}
+]

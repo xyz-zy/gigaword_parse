@@ -1,0 +1,3 @@
+[
+{"tokens": ["all", "airport", "food", "is", "pricey", "but", "a", "chill", "atmosphere", "to", "enter", "after", "going", "thru", "security", "and", "have", "a", "beer", "and", "catch", "a", "game", "before", "heading", "home", "."], "e1_text": "enter", "e1_pos": 10, "e2_text": "going", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "down", "in", "an", "extremely", "dark", "and", "from", "what", "I", "could", "see", "unclean", "-LRB-", "trash", "on", "floor", ",", "sticky", "counters", ",", "etc.", "-RRB-", "theater", "and", "waited", "for", "ten", "minutes", "before", "a", "server", "appeared", "to", "take", "our", "order", "."], "e1_text": "waited", "e1_pos": 26, "e2_text": "appeared", "e2_pos": 33, "label": "before"},
+{"tokens": ["She", "did", "n't", "really", "give", "us", "any", "information", "about", "how", "the", "ordering", "process", "worked", "except", "to", "tell", "me", "that", "she", "would", "drop", "the", "check", "45", "minutes", "before", "the", "movie", "was", "over", "."], "e1_text": "drop", "e1_pos": 21, "e2_text": "was", "e2_pos": 29, "label": "before"}
+]

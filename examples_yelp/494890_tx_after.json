@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "beverage", "situation", "is", "another", "story", "...", "I", "ordered", "a", "diet", "coke", ",", "and", "after", "I", "was", "done", "with", "my", "glass", "-", "I", "was", "asked", "if", "I", "wanted", "to", "order", "another", "-", "I", "did", ",", "and", "it", "went", "on", "and", "on", "...", "when", "the", "bill", "arrived", "I", "saw", "that", "each", "refill", "was", "charged", "as", "a", "separate", "beverage", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

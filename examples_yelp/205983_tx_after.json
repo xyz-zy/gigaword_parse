@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "stopped", "by", "after", "seeing", "that", "they", "had", "tonkotsu", "ramen", "on", "the", "menu", "during", "their", "happy", "hour", "."], "e1_text": "stopped", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Finally", "we", "get", "their", "bar", "menu", "to", "peruse", "-LRB-", "it", "was", "n't", "available", "on", "the", "internet", "because", "we", "checked", "-RRB-", "after", "we", "specifically", "ask", "for", "it", "about", "5", "minutes", "later", "."], "e1_text": "peruse", "e1_pos": 7, "e2_text": "ask", "e2_pos": 23, "label": "after"}
+]

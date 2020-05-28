@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "vacillate", "between", "giving", "this", "store", "a", "3", "or", "a", "4", ",", "so", "I", "'m", "going", "to", "round", "up", "and", "hope", "my", "future", "trips", "are", "more", "successful", ":-RRB-", "I", "'d", "been", "meaning", "to", "check", "out", "PLRG", "for", "...", "forever", "...", "and", "finally", ",", "after", "`", "liking", "'", "them", "on", "Facebook", "-LRB-", "recommended", "!", "-RRB-"], "e1_text": ":-RRB-", "e1_pos": 27, "e2_text": "liking", "e2_pos": 45, "label": "after"},
+{"tokens": ["Get", "some", "tea", "or", "a", "coffee", "at", "Luci", "'s", "around", "the", "corner", ",", "shop", "and\\/or", "consign", "at", "PLRG", ",", "and", "then", "-LRB-", "after", "you", "'re", "done", "trying", "things", "on", "-RRB-", ",", "get", "a", "cupcake", "at", "the", "cupcake", "place", "next", "door", "!"], "e1_text": "shop", "e1_pos": 13, "e2_text": "'re", "e2_pos": 24, "label": "after"}
+]

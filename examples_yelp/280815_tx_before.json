@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "asked", "about", "three", "before", "she", "just", "described", "what", "she", "was", "looking", "for", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "described", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "will", "tell", "you", "that", "if", "you", "look", "down", "on", "a", "sandwich", "and", "you", "see", "wilted", "lettuce", "before", "you", "even", "start", ",", "just", "give", "it", "back", "and", "get", "your", "money", ",", "unless", "your", "starving", "."], "e1_text": "see", "e1_pos": 14, "e2_text": "start", "e2_pos": 20, "label": "before"}
+]

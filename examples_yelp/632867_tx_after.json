@@ -1,0 +1,4 @@
+[
+{"tokens": ["Quote", "from", "my", "fiance", "after", "walking", "in", "our", "room", "."], "e1_text": "Quote", "e1_pos": 0, "e2_text": "walking", "e2_pos": 5, "label": "after"},
+{"tokens": ["Yes", ",", "I", "get", "that", "the", "place", "is", "being", "renovated", "after", "becoming", "the", "Quad", "from", "the", "Imperial", "Palace", ",", "but", "geez", "."], "e1_text": "renovated", "e1_pos": 9, "e2_text": "becoming", "e2_pos": 11, "label": "after"}
+]

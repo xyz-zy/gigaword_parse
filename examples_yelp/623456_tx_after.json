@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "expectations", "were", "high", "for", "Raising", "Cane", "'s", "after", "a", "friend", "raved", "about", "the", "place", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "raved", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "maybe", "my", "review", "is", "a", "little", "harsh", "after", "the", "let", "down", "I", "recently", "experienced", "here", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "let", "e2_pos": 10, "label": "after"}
+]

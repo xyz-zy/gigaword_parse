@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "server", "was", "nowhere", "to", "be", "found", "so", "I", "waved", "down", "a", "server", "that", "was", "standing", "right", "next", "to", "me", "with", "nothing", "to", "do", ",", "he", "shook", "his", "head", "at", "me", "and", "replied", "''", "``", "I", "'m", "not", "your", "server", ",", "''", "''", "and", "went", "back", "to", "staring", "at", "the", "damn", "ceiling", "before", "asking", "if", "he", "could", "help", "me", "with", "anything", "."], "e1_text": "waved", "e1_pos": 9, "e2_text": "asking", "e2_pos": 53, "label": "before"}
+]

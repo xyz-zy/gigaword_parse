@@ -1,0 +1,3 @@
+[
+{"tokens": ["Good", "food", ",", "freakin", "'", "BEAUTIFUL", "building", ",", "my", "mother", "&", "I", "sat", "in", "the", "bar", ",", "and", "after", "I", "said", "something", "to", "an", "EXTREMELY", "loud", "waitress", "at", "the", "table", "behind", "us", "-LRB-", "geez", "servers", ",", "inside", "voices", ",", "please", "!", "-RRB-"], "e1_text": "sat", "e1_pos": 12, "e2_text": "said", "e2_pos": 20, "label": "after"}
+]

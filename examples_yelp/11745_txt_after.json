@@ -1,0 +1,4 @@
+[
+{"tokens": ["Drinks", "were", "good", ",", "and", "strong", "after", "they", "realized", "we", "'d", "tip", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "realized", "e2_pos": 8, "label": "after"},
+{"tokens": ["Only", "complaint", "was", "that", "the", "fresh", "diced", "onion", "and", "grated", "cheese", "toppers", "were", "not", "refilled", "after", "they", "ran", "out", "."], "e1_text": "refilled", "e1_pos": 14, "e2_text": "ran", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "it", "was", "with", "some", "nostalgia", "that", "I", "returned", "here", "this", "past", "weekend", "after", "getting", "a", "room", "for", "$", "66", "on", "Priceline", "."], "e1_text": "returned", "e1_pos": 8, "e2_text": "getting", "e2_pos": 14, "label": "after"},
+{"tokens": ["A", "long", "line", "loomed", "at", "check-in", "which", "I", "found", "only", "after", "being", "accosted", "by", "employees", "trying", "to", "get", "me", "to", "buy", "show", "tickets", "."], "e1_text": "found", "e1_pos": 8, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

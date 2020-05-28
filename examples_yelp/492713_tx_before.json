@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "rolled", "her", "eyes", "and", "made", "a", "snide", "face", "and", "told", "us", "there", "were", "no", "other", "tables", "available", "so", "we", "waited", "and", "watched", "as", "she", "seated", "give", "other", "groups", "before", "she", "seated", "us", "."], "e1_text": "give", "e1_pos": 26, "e2_text": "seated", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "will", "try", "the", "five", "or", "six", "of", "the", "other", "$", "40", "buffets", "before", "we", "go", "back", "to", "the", "Wicked", "Spoon", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "go", "e2_pos": 15, "label": "before"}
+]

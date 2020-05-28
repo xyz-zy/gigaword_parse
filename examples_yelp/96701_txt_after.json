@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "explained", "to", "me", "that", "after", "I", "used", "my", "Groupon", ",", "I", "had", "one", "more", "discounted", "visit", "and", "then", "I", "would", "be", "paying", "full", "price", ",", "which", "is", "not", "nearly", "as", "expensive", "as", "going", "to", "a", "salon", "."], "e1_text": "explained", "e1_pos": 1, "e2_text": "used", "e2_pos": 7, "label": "after"}
+]

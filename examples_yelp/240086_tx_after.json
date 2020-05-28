@@ -1,0 +1,3 @@
+[
+{"tokens": ["when", "the", "food", "arrived", "it", "was", "missing", "the", "gyro", "slices", "and", "after", "short", "argument", "over", "the", "gyro", "slices", "they", "decided", "to", "give", "them", "to", "us", "-LRB-", "they", "are", "on", "the", "menu", "and", "on", "the", "picture", "on", "the", "sandwich", "board", "out", "front", "-RRB-", "there", "should", "have", "been", "no", "question", "about", "it", ",", "its", "not", "something", "new", "to", "the", "menu", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "slices", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "started", "searching", "for", "a", "new", "mechanic", "after", "feeling", "like", "the", "mechanic", "I", "had", "been", "going", "to", "for", "more", "than", "10", "years", "was", "ripping", "me", "off", "."], "e1_text": "searching", "e1_pos": 2, "e2_text": "feeling", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "took", "my", "car", "there", "after", "being", "told", "by", "my", "previous", "mechanic", "that", "I", "would", "need", "rear", "brakes", "in", "three", "months", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 6, "label": "after"}
+]

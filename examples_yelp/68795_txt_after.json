@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", "a", "different", "employee", "could", "help", "look", "up", "my", "order", "on", "the", "computer", ",", "but", "after", "she", "helped", "three", "different", "customers", "before", "me", ",", "I", "said", "I", "'d", "have", "to", "leave", "and", "come", "back", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "helped", "e2_pos": 20, "label": "after"}
+]

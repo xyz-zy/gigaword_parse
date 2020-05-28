@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "spice", ",", "no", "interesting", "flavors\\/tastes", "-", "Sea", "bass", "dish", "tasted", "extremely", "fishy", ";", "sea", "bass", "should", "be", "''", "``", "clean", "''", "''", "and", "non-fishy", "-", "Duck", "was", "very", "fatty", "-", "extremely", "fatty", "-", "Red", "Pepper", "Chicken", "-LRB-", "''", "``", "very", "spicy", "''", "''", "-RRB-", "had", "zero", "flavor", "and", "was", "drowned", "in", "pasty", "brown", "sauce", "-", "Service", "became", "extremely", "slow\\/absent", "after", "we", "received", "our", "entrees", "."], "e1_text": "became", "e1_pos": 57, "e2_text": "received", "e2_pos": 62, "label": "after"}
+]

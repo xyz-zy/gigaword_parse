@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "the", "girl", "who", "ordered", "before", "me", "asked", "if", "her", "smoothie", "had", "milk", "in", "it", ",", "she", "was", "also", "treated", "with", "disdain", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "asked", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "staff", "member", "muttered", "inaudible", "negativities", "-LRB-", "based", "on", "body", "language", "and", "tone", "-RRB-", "all", "while", "completing", "the", "void", "and", "for", "several", "seconds", "before", "turning", "to", "me", "for", "my", "order", "."], "e1_text": "muttered", "e1_pos": 3, "e2_text": "turning", "e2_pos": 24, "label": "before"}
+]

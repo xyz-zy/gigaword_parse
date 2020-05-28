@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "initially", "was", "skeptical", ",", "especially", "after", "reading", "reviews", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "'ve", "gone", "there", "a", "handful", "of", "times", "since", "the", "first", ",", "and", "have", "never", "had", "the", "bad", "service", "people", "talk", "about", ",", "but", "maybe", "that", "'s", "because", "we", "go", "early", ",", "closer", "to", "8", "-LRB-", "and", "we", "miss", "the", "after", "church", "crowd", ".", "-RRB-"], "e1_text": "'s", "e1_pos": 26, "e2_text": "go", "e2_pos": 29, "label": "after"}
+]

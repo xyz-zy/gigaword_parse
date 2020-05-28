@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "understand", "that", "every", "business", "needs", "to", "''", "``", "Upsell", "''", "''", ",", "but", "it", "becomes", "an", "annoyance", "when", "they", "keep", "bugging", "me", "5,6,7,8", "times", "after", "I", "have", "said", "no.", "."], "e1_text": "bugging", "e1_pos": 21, "e2_text": "have", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "also", "noticed", "they", "had", "not", "wiped", "down", "my", "tires", "after", "applying", "Armor", "All", "and", "it", "all", "splattered", "up", "to", "the", "sides", "of", "my", "vehicle", "after", "driving", "away", ",", "I", "wrote", "these", "off", "as", "a", "simple", "mistake", "and", "that", "it", "probably", "would", "not", "happen", "again", "."], "e1_text": "wiped", "e1_pos": 6, "e2_text": "applying", "e2_pos": 11, "label": "after"}
+]

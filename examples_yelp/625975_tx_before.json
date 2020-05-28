@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "dinner", "reservation", "for", "the", "Bazaar", "was", "canceled", "just", "hours", "before", "because", "someone", "had", "''", "``", "bought", "it", "out", "for", "the", "night", "''", "''", "which", "we", "later", "found", "out", "was", "the", "owner", "...", "Who", "buys", "their", "own", "restaurant", "out", "opening", "week", "?"], "e1_text": "canceled", "e1_pos": 7, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

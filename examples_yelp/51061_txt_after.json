@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Supervisor", "tried", "to", "persuade", "me", "that", "he", "probably", "would", "not", "get", "paid", "from", "the", "company", "for", "the", "part", "that", "they", "were", "replacing", "and", "after", "arguing", "unpleasantly", "with", "him", ",", "he", "said", "he", "would", "check", "with", "the", "manufacturer", "of", "the", "air", "conditioning", "units", "WHICH", "WE", "HAD", "A", "CONTRACT", "WITH", "."], "e1_text": "persuade", "e1_pos": 4, "e2_text": "arguing", "e2_pos": 25, "label": "after"}
+]

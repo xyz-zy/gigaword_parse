@@ -1,0 +1,5 @@
+[
+{"tokens": ["Then", "he", "told", "me", "to", "''", "``", "Drop", "It", "''", "''", "and", "walked", "away", "after", "I", "explained", "what", "this", "woman", "was", "doing", "."], "e1_text": "walked", "e1_pos": 12, "e2_text": "explained", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "thought", "that", "was", "handled", "quite", "poorly", "by", "the", "manager", "after", "being", "harassed", "by", "this", "woman", "."], "e1_text": "handled", "e1_pos": 4, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["When", "I", "pay", "this", "much", "to", "see", "a", "movie", ",", "I", "do", "n't", "ever", "want", "to", "hear", "''", "``", "drop", "it", "''", "''", "when", "I", "am", "displeased", "...", "especially", "after", "frequenting", "this", "place", "many", "times", "."], "e1_text": "am", "e1_pos": 25, "e2_text": "frequenting", "e2_pos": 30, "label": "after"}
+]

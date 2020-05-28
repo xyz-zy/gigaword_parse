@@ -1,0 +1,3 @@
+[
+{"tokens": ["From", "having", "to", "get", "to", "your", "airport", "an", "hour", "before", "your", "flight", "to", "waiting", "for", "your", "bags", "at", "McCarran", "it", "is", "just", "as", "fast", "to", "drive", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 13, "label": "before"}
+]

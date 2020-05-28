@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "to", "this", "Old", "Chicago", "once", "before", "but", "I", "do", "n't", "remember", "my", "visit", "being", "so", "horrible", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "do", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "arrive", "and", "had", "to", "go", "to", "the", "bathroom", ",", "but", "we", "had", "to", "be", "somewhere", "after", "lunch", "so", "I", "decided", "to", "wait", "to", "get", "my", "drinks", "and", "food", "ordered", "before", "I", "use", "the", "facilities", "."], "e1_text": "ordered", "e1_pos": 29, "e2_text": "use", "e2_pos": 32, "label": "before"}
+]

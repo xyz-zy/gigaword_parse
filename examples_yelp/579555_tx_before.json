@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "the", "first", "time", "I", "had", "been", "to", "the", "event", ",", "and", "I", "missed", "the", "turn", "for", "the", "unpaved", "parking", "lot", "and", "almost", "drove", "back", "out", "to", "Dean", "Martin", "Drive", "before", "making", "a", "U-turn", "of", "questionable", "legality", "."], "e1_text": "drove", "e1_pos": 24, "e2_text": "making", "e2_pos": 32, "label": "before"}
+]

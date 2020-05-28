@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "they", "make", "their", "coffees", "individually", ",", "you", "also", "have", "to", "expect", "a", "bit", "of", "a", "wait", "before", "your", "coffee", "'s", "ready", "."], "e1_text": "expect", "e1_pos": 11, "e2_text": "'s", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "stop", "by", "here", "before", "a", "long", "day", "of", "shopping", ",", "but", "do", "n't", "come", "here", "if", "you", "'re", "trying", "to", "be", "on", "time", "for", "work", "."], "e1_text": "stop", "e1_pos": 1, "e2_text": "do", "e2_pos": 12, "label": "before"}
+]

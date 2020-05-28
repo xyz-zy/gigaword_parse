@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "arrived", "at", "5:30", "thinking", "we", "'d", "be", "there", "too", "early", "but", "wanted", "plenty", "of", "time", "to", "chill", "and", "eat", "before", "rushing", "back", "to", "the", "hotel", "to", "get", "ready", "for", "our", "night", "out", "."], "e1_text": "eat", "e1_pos": 19, "e2_text": "rushing", "e2_pos": 21, "label": "before"}
+]

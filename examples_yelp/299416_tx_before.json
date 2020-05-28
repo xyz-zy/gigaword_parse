@@ -1,0 +1,3 @@
+[
+{"tokens": ["Why", "did", "I", "eat", "here", "again", "??", "Only", "bc", "its", "right", "next", "to", "the", "movie", "theater", "and", "I", "wanted", "to", "eat", "a", "quick", "dinner", "before", "watching", "Annabelle", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "watching", "e2_pos": 25, "label": "before"}
+]

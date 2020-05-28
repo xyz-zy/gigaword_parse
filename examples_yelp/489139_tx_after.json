@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "spumoni", "was", "FANTASTIC", ",", "but", "that", "was", "after", "I", "hated", "all", "the", "food", "and", "hey", ",", "I", "already", "love", "ice", "cream", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "hated", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "ate", "this", "happily", "and", "finally", "had", "a", "good", "mood", "after", "coming", "here", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "coming", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "bagel", "w", "VEGGIE", "cr", "cheese", "and", "-LRB-", "got", "in", "drive", "thru", "-RRB-", "and", "after", "I", "drove", "away", "I", "discover", "it", "is", "plain", "cr", "cheese", "."], "e1_text": "VEGGIE", "e1_pos": 3, "e2_text": "drove", "e2_pos": 16, "label": "after"}
+]

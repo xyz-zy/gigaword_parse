@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "would", "disappear", "at", "times", ",", "especially", "after", "asking", "him", "5", "times", "to", "get", "us", "water", "."], "e1_text": "disappear", "e1_pos": 2, "e2_text": "asking", "e2_pos": 8, "label": "after"},
+{"tokens": ["In", "the", "end", "we", "got", "our", "pitcher", "which", "only", "filled", "5", "cups", "and", "our", "food", "arrived", "after", "he", "brought", "us", "water", "."], "e1_text": "arrived", "e1_pos": 15, "e2_text": "brought", "e2_pos": 18, "label": "after"}
+]

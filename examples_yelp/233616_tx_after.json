@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bagels", "are", "wonderful", "if", "made", "properly", ",", "the", "girl", "with", "long", "brown", "hair", "is", "a", "B", "\\*\\*\\*\\*", "they", "do", "n't", "wash", "or", "use", "gloves", "after", "working", "with", "money", ",", "i", "'ve", "already", "called", "the", "health", "district", "on", "them", ",", "nvr", "will", "go", "back"], "e1_text": "wash", "e1_pos": 20, "e2_text": "working", "e2_pos": 25, "label": "after"}
+]

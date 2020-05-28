@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "we", "showed", "up", ",", "we", "went", "to", "the", "wrong", "door", "and", "got", "treated", "like", "idiots", "before", "we", "even", "walked", "in", "so", "we", "just", "left", "."], "e1_text": "treated", "e1_pos": 15, "e2_text": "walked", "e2_pos": 21, "label": "before"}
+]

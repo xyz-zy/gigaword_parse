@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "even", "sent", "back", "drinks", "after", "they", "brought", "me", "the", "wrong", "drink", ",", "and", "they", "poured", "it", "into", "a", "different", "glass", "and", "sent", "it", "back", "to", "me", "?!", "But", "credit", "where", "credit", "is", "due", ",", "their", "ceviche", "is", "very", "good", "."], "e1_text": "sent", "e1_pos": 3, "e2_text": "brought", "e2_pos": 8, "label": "after"}
+]

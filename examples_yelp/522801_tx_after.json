@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "very", "reluctantly", "went", "to", "Rice", "&", "Company", "after", "reading", "some", "of", "the", "reviews", "frankly", "because", "we", "were", "too", "tired", "to", "venture", "too", "far", "and", "we", "were", "attending", "a", "show", "at", "the", "Luxor", "right", "next", "door", "in", "about", "an", "hour", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "reading", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "my", "car", "in", "and", "waited", "30", "mins", "before", "even", "being", "acknowledged", "-LRB-", "I", "should", "have", "just", "left", "-RRB-", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "being", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "explained", "that", "a", "screw", "had", "fallen", "out", "of", "the", "steering", "column", ",", "that", "it", "had", "happened", "before", ",", "and", "all", "I", "needed", "was", "for", "it", "to", "be", "reattached", "."], "e1_text": "fallen", "e1_pos": 6, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

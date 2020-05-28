@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "never", "travel", "out", "of", "my", "way", "to", "get", "these", "donuts", ",", "but", "I", "do", "plan", "to", "try", "another", "location", "-LRB-", "possibly", "Oakland", "-RRB-", "at", "a", "different", "time", "to", "see", "if", "I", "can", "get", "good", "fresh", "donuts", "before", "I", "give", "up", "completely", "on", "this", "little", "shop", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "give", "e2_pos": 40, "label": "before"}
+]

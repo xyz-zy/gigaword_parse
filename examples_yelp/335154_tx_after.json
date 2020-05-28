@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bathroom", "made", "me", "giggle", "every", "time", "I", "was", "in", "there", ":", "old", "materials", ",", "decently", "clean", ",", "but", "with", "a", "lose", "toilet", "seat", ",", "a", "disgustingly", "dirty", "bath", "curtain", ",", "3", "drops", "of", "water", "that", "came", "from", "the", "shower", "head", ",", "towels", "so", "small", "and", "thin", "that", "after", "drying", "your", "hair", "there", "'s", "no", "more", "towel", "left", "for", "your", "body", ",", "it", "was", "hilarious", "."], "e1_text": "towels", "e1_pos": 42, "e2_text": "drying", "e2_pos": 49, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "made", "me", "the", "most", "angry", "about", "this", "meal", "was", "that", "my", "mom", "had", "driven", "4", "hours", "to", "see", "me", "for", "dinner", "and", "drove", "back", "home", "after", "spending", "60", "dollars", "on", "one", "roll", "and", "one", "appetizer", "and", "left", "hungry", "."], "e1_text": "drove", "e1_pos": 23, "e2_text": "spending", "e2_pos": 27, "label": "after"}
+]

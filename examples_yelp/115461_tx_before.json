@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "waiting", "for", "my", "wife", "to", "get", "back", "I", "ate", "a", "few", "slices", "of", "the", "pizza", "despite", "my", "low-carb", "diet", "and", "got", "indigestion", "before", "even", "finishing", ",", "threw", "up", "by", "bed", "time", ",", "and", "spent", "the", "next", "day", "feeling", "ill", "at", "work", "."], "e1_text": "got", "e1_pos": 21, "e2_text": "finishing", "e2_pos": 25, "label": "before"}
+]

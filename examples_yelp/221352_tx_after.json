@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "was", "so", "disappointed", "by", "the", "situation", "that", "she", "did", "n't", "want", "to", "finish", "the", "steak", "or", "her", "rice", "casserole", "-LRB-", "which", "came", "30", "minutes", "after", "we", "got", "our", "main", "dishes", "so", "I", "'m", "sure", "they", "forgot", "about", "it", "-RRB-", "."], "e1_text": "came", "e1_pos": 23, "e2_text": "got", "e2_pos": 28, "label": "after"}
+]

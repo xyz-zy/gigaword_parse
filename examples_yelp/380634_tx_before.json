@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", "it", "'s", "for", "a", "limited", "time", "only", ",", "so", "take", "full", "advantage", "before", "it", "goes", "back", "up", "to", "another", "3", "dollars", "respectively", ",", "at", "least", "you", "could", "have", "said", "you", "tried", "it", "and", "didnt", "have", "to", "spend", "much", "money", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "goes", "e2_pos": 16, "label": "before"},
+{"tokens": ["Trust", "me", ",", "I", "have", "eaten", "here", "even", "before", "this", "special", "and", "their", "food", "has", "not", "changed", "except", "for", "major", "holidays", "but", "of", "course", "you", "have", "to", "spend", "extra", "."], "e1_text": "eaten", "e1_pos": 5, "e2_text": "has", "e2_pos": 14, "label": "before"}
+]

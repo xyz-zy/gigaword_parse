@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "a", "starter", "I", "ordered", "the", "steak", "tartare", "and", "after", "the", "show", "that", "was", "the", "preparation", "of", "the", "dish", "-", "they", "bring", "out", "all", "the", "ingredients", "and", "make", "it", "all", "in", "front", "of", "you", "-", "unfortunately", "I", "think", "it", "would", "probably", "be", "better", "if", "the", "chef", "had", "a", "bit", "more", "input", "into", "the", "food", "then", "customer", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "were", "there", "slightly", "after", "the", "\\", "u00a37", ".50", "menu", "finished", "and", "I", "think", "their", "policy", "is", "to", "make", "everyone", "else", "pay", "for", "the", "rest", "of", "the", "earlier", "bills", "!"], "e1_text": "were", "e1_pos": 1, "e2_text": "finished", "e2_pos": 10, "label": "after"}
+]

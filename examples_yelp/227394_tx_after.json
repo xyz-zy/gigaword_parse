@@ -1,0 +1,3 @@
+[
+{"tokens": ["AVOID", "-", "Appalling", "...", "We", "went", "on", "a", "Sunday", "afternoon", ",", "after", "5", "fun", "hrs", "at", "the", "science", "center", "&", "the", "kids", "wanted", "pizza", ",", "&", "were", "told", "we", "could", "n't", "order", "a", "whole", "pizza", ".", "''"], "e1_text": "went", "e1_pos": 5, "e2_text": "wanted", "e2_pos": 22, "label": "after"}
+]

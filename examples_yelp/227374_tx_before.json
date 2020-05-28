@@ -1,0 +1,4 @@
+[
+{"tokens": ["food", "was", "ok", ",", "atmosphere", "was", "ok", ",", "A\\/C", "was", "fixed", "before", "we", "left", ".", "."], "e1_text": "fixed", "e1_pos": 10, "e2_text": "left", "e2_pos": 13, "label": "before"},
+{"tokens": ["i", "usually", "have", "place", "in", "mind", "before", "i", "'m", "in", "the", "area", ".", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "'m", "e2_pos": 8, "label": "before"}
+]

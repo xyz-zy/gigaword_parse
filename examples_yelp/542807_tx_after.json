@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "to", "say", "i", "was", "walking", "kind", "of", "funny", "after", "attending", "this", "festival", "."], "e1_text": "walking", "e1_pos": 6, "e2_text": "attending", "e2_pos": 11, "label": "after"},
+{"tokens": ["Even", "to", "get", "ice", "cream", "at", "the", "Kool", "Twists", "truck", "was", "another", "20", "minute", "wait", "after", "you", "ordered", "and", "paid", "for", "your", "ice", "cream", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 17, "label": "after"}
+]

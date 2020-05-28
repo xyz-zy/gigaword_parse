@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "predicted", "to", "my", "friend", "that", "1", "-RRB-", "our", "food", "would", "not", "be", "ready", "when", "we", "got", "there", "-LRB-", "which", "was", "20", "minutes", "after", "we", "were", "told", "it", "would", "be", "ready", "-RRB-", ",", "and", "2", "-RRB-", "that", "we", "would", "need", "to", "check", "the", "food", "because", "they", "would", "likely", "forget", "something", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "were", "e2_pos": 25, "label": "after"},
+{"tokens": ["We", "got", "our", "food", "shortly", "after", "arriving", ",", "they", "read", "our", "order", "to", "us", ",", "we", "confirmed", "that", "it", "was", "right", ",", "paid", "and", "took", "it", "to", "our", "car", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "much", "too", "long", "after", "we", "sat", "down", "-LRB-", "you", "seat", "yourself", "-RRB-", "and", "we", "watched", "3", "workers", "look", "up", "at", "us", "and", "watch", "us", "sit", "down", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "sat", "e2_pos": 7, "label": "after"}
+]

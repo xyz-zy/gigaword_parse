@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "I", "was", "with", "family", "before", "heading", "south", "to", "California", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "heading", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "will", "spend", "the", "extra", "next", "time", "before", "heading", "home", "."], "e1_text": "spend", "e1_pos": 2, "e2_text": "heading", "e2_pos": 8, "label": "before"}
+]

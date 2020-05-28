@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "located", "before", "you", "enter", "the", "parking", "garage", "of", "the", "Pacific", "Asian", "Plaza", "on", "W", "Spring", "Mountain", "Road\\/S", "Decatur", "Blvd", "in", "Las", "Vegas", "."], "e1_text": "located", "e1_pos": 2, "e2_text": "enter", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "placed", "the", "Restaurant", ",", "com", "coupon", "on", "the", "table", "before", "I", "ordered", ",", "The", "menu", "was", "full", "of", "photos", "."], "e1_text": "placed", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 12, "label": "before"}
+]

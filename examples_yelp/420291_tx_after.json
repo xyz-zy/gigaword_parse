@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "right", "in", "-LRB-", "after", "filling", "out", "all", "the", "necessary", "paperwork", "-RRB-", ",", "talked", "to", "a", "nice", "nurse", "type", "person", "about", "my", "injury", "and", "then", "straight", "to", "x-ray", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "filling", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "'s", "an", "assortment", "of", "breakfast", "items", "such", "as", ":", "scrambled", "eggs", "that", "looked", "like", "they", "had", "been", "scraped", "off", "the", "floor", "and", "dumped", "into", "a", "bucket", "after", "someone", "had", "puked", "on", "them", ",", "greasy", "sausage", "links", ",", "bacon", ",", "a", "tasteless", "banana-hazelnut", "sandwich", ",", "mini", "waffles", ",", "muffins", "-LRB-", "sugar-free", "is", "NOT", "good", ",", "and", "Dad", "claimed", "that", "the", "sugar", "-", "''", "``", "ful", "''", "''", "version", "was", "alright", "-RRB-", "and", "pastries", "."], "e1_text": "dumped", "e1_pos": 23, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

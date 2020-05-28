@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "headed", "here", "after", "picking", "up", "a", "deal", "from", "Living", "Social", "a", "few", "months", "back", "."], "e1_text": "headed", "e1_pos": 1, "e2_text": "picking", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "complimentary", "chips", "and", "salsa", "came", "out", "right", "after", "our", "drink", "orders", "were", "placed", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "not", "to", "go", "in", "after", "we", "learned", "the", "cover", "is", "$", "20", "for", "women", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "learned", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "had", "two", "rounds", "of", "shots", "at", "the", "first", "bar", "-", "the", "bartender", "suggested", "jolly", "ranchers", "after", "I", "asked", "for", "something", "strong", "."], "e1_text": "suggested", "e1_pos": 13, "e2_text": "asked", "e2_pos": 18, "label": "after"}
+]

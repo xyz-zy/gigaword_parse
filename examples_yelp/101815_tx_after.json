@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "visited", "this", "place", "after", "coming", "back", "from", "our", "3rd", "trip", "to", "Italy", "-LRB-", "sicily", ",", "Rome", "&", "Naploli", "-RRB-", "and", "wow", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "coming", "e2_pos": 5, "label": "after"},
+{"tokens": ["They", "made", "up", "their", "own", "pizzas", "and", "named", "them", "after", "typical", "pizzas", "found", "throughout", "Italy", "."], "e1_text": "named", "e1_pos": 7, "e2_text": "found", "e2_pos": 12, "label": "after"}
+]

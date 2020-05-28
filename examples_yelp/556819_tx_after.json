@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "nurse", "-LRB-", "Michelle", "-RRB-", "was", "suppose", "to", "write", "me", "a", "prescription", "but", "instead", "went", "to", "lunch", "so", "I", "was", "told", "she", "would", "call", "in", "my", "prescription", "and", "call", "me", "after", "she", "had", "done", "so", "."], "e1_text": "call", "e1_pos": 23, "e2_text": "had", "e2_pos": 32, "label": "after"}
+]

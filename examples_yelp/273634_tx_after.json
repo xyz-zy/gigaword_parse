@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "tire", "-LRB-", "I", "'m", "assuming", "it", "'s", "new", ",", "no", "one", "said", "anything", "-RRB-", "here", "after", "I", "saw", "my", "front", "passenger", "tire", "had", "to", "be", "replaced", "."], "e1_text": "bought", "e1_pos": 1, "e2_text": "saw", "e2_pos": 20, "label": "after"}
+]

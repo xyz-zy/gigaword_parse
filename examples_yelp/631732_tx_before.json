@@ -1,0 +1,5 @@
+[
+{"tokens": ["While", "starting", "paper", "work", ",", "my", "cards", "are", "brought", "to", "me", "by", "the", "office", "worker", ",", "and", "I", "am", "called", "back", "before", "I", "finish", "the", "first", "page", "of", "my", "information", "."], "e1_text": "called", "e1_pos": 19, "e2_text": "finish", "e2_pos": 23, "label": "before"},
+{"tokens": ["Why", "do", "I", "have", "to", "be", "here", "half", "an", "hour", "early", "to", "fill", "out", "paper", "work", ",", "when", "I", "am", "called", "back", "for", "vitals", ",", "and", "weight", "before", "I", "complete", "the", "packet", "?"], "e1_text": "weight", "e1_pos": 26, "e2_text": "complete", "e2_pos": 29, "label": "before"},
+{"tokens": ["The", "woman", ",", "Holly", ",", "came", "off", "pretty", "uninterested", "in", "me", ",", "and", "asked", "me", "to", "supply", "her", "with", "a", "urine", "sample", "before", "she", "takes", "my", "blood", "."], "e1_text": "supply", "e1_pos": 16, "e2_text": "takes", "e2_pos": 24, "label": "before"}
+]

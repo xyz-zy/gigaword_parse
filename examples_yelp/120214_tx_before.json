@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "we", "got", "to", "the", "runway", "and", "they", "had", "to", "turn", "around", "and", "go", "back", "to", "the", "gate", "to", "fix", "something", "...", "ummm", "should", "n't", "you", "have", "checked", "the", "plane", "before", "we", "left", "the", "gate", "?"], "e1_text": "checked", "e1_pos": 27, "e2_text": "left", "e2_pos": 32, "label": "before"},
+{"tokens": ["I", "do", "n't", "mind", "delays", "for", "safety", "but", "I", "would", "have", "felt", "better", "if", "they", "figured", "it", "out", "before", "we", "almost", "took", "off", "."], "e1_text": "figured", "e1_pos": 15, "e2_text": "took", "e2_pos": 21, "label": "before"}
+]

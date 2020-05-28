@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "would", "think", "that", "after", "paying", "around", "a", "grand", "to", "be", "able", "to", "show", "the", "fight", "they", "would", "actually", "do", "so", ",", "and", "you", "would", "be", "wrong", "."], "e1_text": "think", "e1_pos": 2, "e2_text": "paying", "e2_pos": 5, "label": "after"},
+{"tokens": ["Apparently", "the", "manager", "was", "the", "only", "one", "who", "could", "change", "it", "back", "and", "if", "I", "were", "him", ",", "after", "hearing", "one", "of", "the", "waitresses", "whine", "out", "my", "name", "at", "the", "top", "of", "her", "lungs", "every", "5", "minutes", ",", "I", "would", "n't", "be", "on", "my", "A", "game", "either", "."], "e1_text": "were", "e1_pos": 15, "e2_text": "hearing", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "bartender", "charged", "me", "$", "4", "for", "my", "margaritas", ",", "I", "went", "to", "another", "one", "because", "the", "one", "I", "went", "to", "before", "was", "busy", "and", "it", "became", "$", "5", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "was", "e2_pos": 22, "label": "before"}
+]

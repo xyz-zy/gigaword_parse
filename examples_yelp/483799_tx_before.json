@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "always", "have", "different", "beer", "to", "choose", "from", "than", "the", "week", "before", "and", "once", "in", "a", "while", "there", "are", "promotions", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "are", "e2_pos": 18, "label": "before"},
+{"tokens": ["And", "that", "is", "what", "said", "friend", "pre-loads", "on", "before", "we", "go", "anywhere", "so", "that", "the", "night", "is", "''", "``", "cheaper", "''", "''", "."], "e1_text": "said", "e1_pos": 4, "e2_text": "go", "e2_pos": 10, "label": "before"}
+]

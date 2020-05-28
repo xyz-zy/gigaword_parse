@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "were", "incredibly", "friendly", "and", "I", "have", "to", "give", "props", "to", "the", "''", "``", "veteran", "''", "''", "bartender", "who", "informed", "me", "after", "I", "ordered", "a", "bloody", "mary", "that", "their", "mix", "was", "very", "spicey", "and", "she", "can", "make", "it", "less", "spicey", "for", "me", "if", "I", "like", "."], "e1_text": "informed", "e1_pos": 19, "e2_text": "ordered", "e2_pos": 23, "label": "after"},
+{"tokens": ["Who", "would", "'ve", "thought", "it", "would", "be", "good", "!?", "Well", ",", "it", "was", "and", "after", "I", "told", "a", "few", "friends", "about", "it", ",", "they", "made", "their", "way", "to", "join", "me", "in", "about", "an", "hour", "."], "e1_text": "thought", "e1_pos": 3, "e2_text": "told", "e2_pos": 16, "label": "after"}
+]

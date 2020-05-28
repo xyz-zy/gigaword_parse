@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "$", "23", ",", "I", "would", "say", "that", "the", "Alaskan", "vs.", "whatever", "cod", "they", "were", "using", "before", "is", "definitely", "not", "worth", "the", "price", "."], "e1_text": "cod", "e1_pos": 12, "e2_text": "were", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "are", "so", "sad", "that", "our", "favorite", "Irish", "pub", "is", "no", "longer", "living", "up", "to", "what", "it", "was", "before", "."], "e1_text": "living", "e1_pos": 12, "e2_text": "was", "e2_pos": 17, "label": "before"}
+]

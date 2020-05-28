@@ -1,0 +1,4 @@
+[
+{"tokens": ["Misty", "the", "server", "who", "we", "have", "had", "both", "times", "we", "have", "been", "there", "is", "always", "bright", "and", "cheery", ",", "even", "though", "we", "had", "been", "there", "before", "she", "still", "told", "us", "of", "the", "specials", "and", "apps", "that", "we", "may", "want", "to", "try", "."], "e1_text": "been", "e1_pos": 11, "e2_text": "told", "e2_pos": 28, "label": "before"},
+{"tokens": ["The", "food", "there", "is", "all", "scratch", "made", "and", "worth", "the", "price", ",", "my", "husband", "has", "had", "the", "fish", "tacos", "and", "the", "big", "fish", "sandwich", "which", "is", "hand", "battered", "right", "before", "it", "'s", "cooked", "not", "pre-frozen", "."], "e1_text": "battered", "e1_pos": 27, "e2_text": "'s", "e2_pos": 31, "label": "before"}
+]

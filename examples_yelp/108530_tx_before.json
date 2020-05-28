@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "how", "they", "created", "more", "room", "since", "before", "it", "was", "too", "small", "and", "crowded", "."], "e1_text": "created", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["You", "can", "expect", "to", "wait", "after", "you", "place", "your", "order", "on", "a", "weekday", "about", "15-30", "minutes", "before", "you", "leave", "if", "you", "are", "doing", "a", "take-out", "order", "."], "e1_text": "place", "e1_pos": 7, "e2_text": "leave", "e2_pos": 18, "label": "before"}
+]

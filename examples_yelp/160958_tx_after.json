@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "brought", "a", "pair", "of", "mini", "canon", "binoculars", "into", "the", "room", ",", "upon", "check", "out", "the", "binoculars", "were", "gone", ",", "I", "realized", "this", "a", "few", "hours", "or", "less", "after", "I", "left", "when", "I", "needed", "the", "binoculars", "for", "sight", "seeing", "at", "Red", "Rock", "."], "e1_text": "realized", "e1_pos": 22, "e2_text": "left", "e2_pos": 31, "label": "after"},
+{"tokens": ["The", "only", "people", "in", "the", "room", "was", "my", "wife", "and", "I", "and", "the", "cleaning", "staff", ",", "who", "cleaned", "the", "room", "one", "time", "right", "after", "we", "left", "."], "e1_text": "cleaned", "e1_pos": 17, "e2_text": "left", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "reason", "I", "am", "giving", "this", "place", "only", "1", "star", "is", "because", "of", "the", "torture", "I", "went", "through", "after", "getting", "home", "from", "dinner", "."], "e1_text": "went", "e1_pos": 16, "e2_text": "getting", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "had", "to", "make", "a", "trip", "to", "urgent", "care", "this", "morning", "after", "being", "glued", "to", "the", "toilet", "all", "night", "!"], "e1_text": "make", "e1_pos": 3, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

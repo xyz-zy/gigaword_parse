@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "after", "I", "heard", "her", "on", "the", "phone", "taking", "a", "personal", "call", "and", "after", "just", "the", "week", "prior", "I", "was", "on", "a", "business", "trip", "in", "a", "whole", "other", "state", "and", "went", "to", "an", "urgent", "care", "there", "and", "was", "only", "charged", "$", "20", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "heard", "e2_pos": 4, "label": "after"}
+]

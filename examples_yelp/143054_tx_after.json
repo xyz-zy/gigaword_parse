@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "our", "waiter", "apparently", "went", "home", "for", "the", "night", "after", "taking", "our", "order", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "taking", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "had", "to", "call", "another", "waiter", "over", "who", "reluctantly", "grabbed", "her", "side", "dish", ",", "after", "she", "was", "finished", "with", "her", "main", "course", "for", "quite", "some", "time", "."], "e1_text": "grabbed", "e1_pos": 9, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

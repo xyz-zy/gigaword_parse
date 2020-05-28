@@ -1,0 +1,4 @@
+[
+{"tokens": ["Visited", "here", "a", "few", "weeks", "ago", "with", "3", "friends", "after", "hearing", "the", "hype", "about", "a", "new", ",", "cool", "hipster", "place", "for", "fab", "cocktails", "."], "e1_text": "Visited", "e1_pos": 0, "e2_text": "hearing", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "hope", "after", "reading", "some", "of", "these", "reviews", ",", "they", "make", "a", "few", "changes", "and", "lighten", "it", "up", "a", "bit", "as", "who", "needs", "to", "be", "so", "dang", "serious", "about", "cocktails", "!"], "e1_text": "hope", "e1_pos": 1, "e2_text": "reading", "e2_pos": 3, "label": "after"}
+]

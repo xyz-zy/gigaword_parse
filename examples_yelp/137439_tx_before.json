@@ -1,0 +1,4 @@
+[
+{"tokens": ["Oh", "and", "fyi", ",", "we", "put", "in", "the", "order", "for", "the", "two", "appetizers", "10", "minutes", "before", "ordering", "the", "rest", "of", "the", "food", "."], "e1_text": "put", "e1_pos": 5, "e2_text": "ordering", "e2_pos": 16, "label": "before"},
+{"tokens": ["One", "pro", ":", "we", "got", "to", "see", "3", "thunderstorms", "before", "we", "left", "and", "it", "was", "sorta", "entertaining", "but", "we", "sat", "so", "far", "from", "the", "animals", "that", "it", "defeated", "the", "purpose", "of", "eating", "in", "a", "rainforest", "."], "e1_text": "see", "e1_pos": 6, "e2_text": "left", "e2_pos": 11, "label": "before"}
+]

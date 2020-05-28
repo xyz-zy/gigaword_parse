@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "slices", "I", "'ve", "had", "from", "here", "-LRB-", "tried", "on", "3", "separate", "occasions", "before", "I", "decided", "to", "write", "this", "review", "-RRB-", "were", "terrible", "."], "e1_text": "tried", "e1_pos": 9, "e2_text": "decided", "e2_pos": 16, "label": "before"}
+]

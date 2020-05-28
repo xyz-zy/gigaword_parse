@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "took", "our", "order", "while", "we", "continued", "to", "look", "over", "the", "drink", "menu", ",", "but", "was", "then", "never", "to", "be", "seen", "again", "until", "after", "our", "food", "came", "out", "."], "e1_text": "seen", "e1_pos": 21, "e2_text": "came", "e2_pos": 27, "label": "after"}
+]

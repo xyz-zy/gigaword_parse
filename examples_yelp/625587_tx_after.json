@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "finally", "came", "by", "to", "take", "the", "pizza", "orders", "about", "10-15", "minutes", "after", "we", "had", "gotten", "our", "appetizers", "and", "salads", "."], "e1_text": "take", "e1_pos": 6, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["Again", ",", "we", "did", "n't", "see", "our", "waiter", "for", "a", "little", "bit", "after", "our", "pizzas", "had", "arrived", ",", "so", "we", "had", "to", "ask", "another", "staff", "member", "for", "plates", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

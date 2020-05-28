@@ -1,0 +1,3 @@
+[
+{"tokens": ["Three", "orders", "came", "in", "after", "the", "order", "I", "placed", ",", "with", "minutes", "in", "between", ",", "and", "I", "watched", "them", "get", "called", "and", "leave", "the", "building", "well", "before", "my", "order", "was", "ready", "."], "e1_text": "leave", "e1_pos": 22, "e2_text": "was", "e2_pos": 29, "label": "before"}
+]

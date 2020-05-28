@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "that", "they", "would", "clean", "the", "the", "Crawfish", "before", "they", "cook", "them", "."], "e1_text": "clean", "e1_pos": 5, "e2_text": "cook", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "will", "try", "to", "get", "back", "before", "we", "move", "out", "of", "state", "this", "summer", "but", "we", "are", "also", "planning", "on", "having", "some", "shipped", "in", "from", "Louisiana", "and", "doing", "our", "own", "Crawfish", "boil", "so", "we", "'ll", "see", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "move", "e2_pos": 8, "label": "before"}
+]

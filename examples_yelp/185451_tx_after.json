@@ -1,0 +1,3 @@
+[
+{"tokens": ["for", "some", "extra", "charges", "...", "they", "kept", "saying", "our", "card", "had", "been", "declined", "after", "sliding", "multiple", "times", ",", "just", "to", "find", "out", "it", "worked", "and", "our", "card", "had", "been", "charged", "all", "does", "times", ".", "."], "e1_text": "declined", "e1_pos": 12, "e2_text": "sliding", "e2_pos": 14, "label": "after"}
+]

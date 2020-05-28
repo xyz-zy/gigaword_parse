@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "into", "the", "-LRB-", "just", "about", "empty", "-RRB-", "Jerusalem", "Restaurant", "and", "looked", "over", "the", "menu", "before", "being", "silently", "greeted", "by", "the", "notorious", "owner", "."], "e1_text": "looked", "e1_pos": 12, "e2_text": "being", "e2_pos": 17, "label": "before"},
+{"tokens": ["It", "then", "occurred", "to", "me", "that", "this", "salad", "was", "probably", "sitting", "for", "a", "very", "long", "time", "before", "I", "had", "eaten", "it", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

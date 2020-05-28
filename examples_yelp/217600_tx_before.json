@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "busy", "day", "ahead", "of", "me", "but", "I", "had", "enough", "time", "to", "grab", "a", "coffee", "and", "some", "food", "somewhere", "before", "going", "about", "my", "day", "."], "e1_text": "grab", "e1_pos": 14, "e2_text": "going", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "promise", ",", "I", "waited", "a", "LONG", "time", "and", "thought", "about", "all", "of", "this", "over", "in", "my", "head", "a", "few", "times", "before", "writing", "this", "review", "."], "e1_text": "thought", "e1_pos": 9, "e2_text": "writing", "e2_pos": 22, "label": "before"}
+]

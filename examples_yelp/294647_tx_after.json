@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "there", "for", "happy", "hour", "after", "waiting", "a", "long", "time", "for", "our", "server", "to", "come", "and", "take", "our", "order", "we", "got", "chips", ",", "salsa", "&", "guacamole", "as", "well", "as", "the", "cheese", "quesadillas", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 7, "label": "after"}
+]

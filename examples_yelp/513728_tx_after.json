@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "have", "let", "our", "server", "know", ",", "but", "he", "did", "n't", "visit", "the", "table", "for", "more", "than", "20", "min", ",", "long", "after", "we", "were", "done", "eating", "."], "e1_text": "visit", "e1_pos": 12, "e2_text": "were", "e2_pos": 24, "label": "after"},
+{"tokens": ["He", "did", "manage", "to", "drop", "the", "check", "-LRB-", "with", "the", "broccoli", "on", "it", "-RRB-", "but", "after", "a", "bit", "of", "wait", "the", "manager", "happened", "by", "and", "I", "asked", "him", "to", "take", "it", "off", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "happened", "e2_pos": 22, "label": "after"}
+]

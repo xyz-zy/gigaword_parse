@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "out", "with", "friends", "after", "an", "out-of-town", "friend", "wanted", "to", "hookah", "it", "up", "and", "another", "friend", "said", "he", "knew", "the", "owner", "of", "the", "place", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "wanted", "e2_pos": 8, "label": "after"},
+{"tokens": ["Watched", "a", "group", "of", "guys", "swoop", "in", "and", "commandeer", "another", "table", "'s", "hookah", "after", "the", "21st", "birthday", "girl", "threw", "up", "on", "the", "table", "and", "their", "party", "left", "abruptly", "."], "e1_text": "commandeer", "e1_pos": 8, "e2_text": "threw", "e2_pos": 18, "label": "after"}
+]

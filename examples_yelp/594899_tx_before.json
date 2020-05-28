@@ -1,0 +1,3 @@
+[
+{"tokens": ["ARE", "YOU", "KIDDING", "ME", "!!", "A.", "they", "are", "dogs", "B.", "I", "have", "never", "been", "told", "that", "they", "were", "bad", "before", "C.", "this", "woman", "needs", "a", "class", "in", "customer", "service", "!!!", "Needless", "to", "say", ",", "I", "will", "not", "be", "taking", "my", "pets", "there", "anymore", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "needs", "e2_pos": 23, "label": "before"}
+]

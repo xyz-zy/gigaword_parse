@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "no", "sooner", "finished", "warming", "my", "coffee", "-LRB-", "I", "use", "this", "term", "loosely", ",", "as", "it", "was", "more", "like", "colored", "water", "-RRB-", "before", "I", "glanced", "into", "the", "grill", "area", "which", "open", "for", "the", "whole", "restaurant", "to", "see", "."], "e1_text": "finished", "e1_pos": 3, "e2_text": "glanced", "e2_pos": 24, "label": "before"}
+]

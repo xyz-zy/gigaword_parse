@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "have", "to", "mention", "that", "our", "waitress", "kind", "of", "had", "an", "attitude", "after", "we", "returned", "the", "food", "and", "when", "she", "asked", "how", "we", "liked", "the", "cake", "and", "we", "said", "how", "great", "it", "was", ",", "she", "replied", ",", "''", "``", "well", "I", "'m", "glad", "there", "was", "something", "you", "liked", "!", "''", "''"], "e1_text": "had", "e1_pos": 9, "e2_text": "returned", "e2_pos": 14, "label": "after"}
+]

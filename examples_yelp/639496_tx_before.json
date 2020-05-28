@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "'ve", "been", "advised", "of", "the", "chefs", "specials", "before", "I", "placed", "my", "order", "but", "I", "noticed", "on", "my", "own", "in", "the", "back", "of", "the", "restaurant", "on", "a", "board", "."], "e1_text": "advised", "e1_pos": 4, "e2_text": "placed", "e2_pos": 11, "label": "before"}
+]

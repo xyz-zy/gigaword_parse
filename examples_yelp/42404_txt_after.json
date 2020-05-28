@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "made", "it", "Chompie", "'s", "after", "passing", "by", "it", "many", "times", "for", "work", "!"], "e1_text": "'s", "e1_pos": 4, "e2_text": "passing", "e2_pos": 6, "label": "after"},
+{"tokens": ["On", "service", "alone", ",", "I", "would", "give", "it", "1", "star", "for", "the", "waitress", "last", "night", "that", "kept", "looking", "at", "us", "but", "never", "came", "over", "until", "5", "minutes", "after", "we", "sat", "down", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "sat", "e2_pos": 29, "label": "after"}
+]

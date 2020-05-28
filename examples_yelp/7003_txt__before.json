@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "mother", "and", "I", "chose", "to", "try", "this", "restaurant", "before", "attending", "a", "concert", "at", "the", "arena", ",", "which", "is", "very", "close", "by", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "attending", "e2_pos": 10, "label": "before"},
+{"tokens": ["However", ",", "we", "were", "dining", "at", "a", "time", "that", "was", "gave", "us", "plenty", "of", "time", "to", "make", "our", "concert", ",", "and", "we", "were", "trying", "to", "enjoy", "our", "drinks", "and", "appetizers", "before", "ordering", "our", "main", "courses", ",", "and", "did", "not", "appreciate", "being", "rushed", "."], "e1_text": "enjoy", "e1_pos": 25, "e2_text": "ordering", "e2_pos": 31, "label": "before"},
+{"tokens": ["When", "he", "brought", "our", "appetizers", "out", ",", "he", "rushed", "off", "before", "asking", "us", "if", "we", "would", "like", "another", "cocktail", "-LRB-", "both", "our", "glasses", "were", "empty", "at", "this", "point", ".", "-RRB-"], "e1_text": "rushed", "e1_pos": 8, "e2_text": "asking", "e2_pos": 11, "label": "before"}
+]

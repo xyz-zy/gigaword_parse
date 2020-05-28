@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "breakfast", ",", "we", "went", "back", "to", "the", "room", "to", "relax", "a", "little", ",", "but", "the", "front", "desk", "started", "calling", "about", "a", "half", "hour", "before", "check", "out", "to", "''", "``", "remind", "''", "''", "us", "."], "e1_text": "calling", "e1_pos": 19, "e2_text": "check", "e2_pos": 25, "label": "before"}
+]

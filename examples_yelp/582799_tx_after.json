@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "needed", "a", "fill", "and", "wanted", "my", "pinky", "fixed", "for", "free", "since", "it", "popped", "up", "the", "day", "after", "I", "got", "the", "full", "set", "."], "e1_text": "popped", "e1_pos": 13, "e2_text": "got", "e2_pos": 19, "label": "after"},
+{"tokens": ["But", "bc", "I", "went", "back", "and", "showed", "him", "my", "nail", "AND", "it", "happened", "right", "after", "I", "got", "the", "fullset", ",", "you", "'d", "think", "he", "would", "'ve", "bit", "the", "bullet", "and", "accepted", "it", "."], "e1_text": "happened", "e1_pos": 12, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

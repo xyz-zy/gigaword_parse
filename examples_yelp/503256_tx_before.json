@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "lot", "of", "the", "people", "that", "drifted", "had", "been", "there", "before", "so", "do", "n't", "feel", "like", "your", "not", "doing", "well", ",", "just", "have", "fun", "."], "e1_text": "drifted", "e1_pos": 6, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["My", "husband", "does", "n't", "drive", "a", "manual", "too", "often", ",", "but", "he", "got", "a", "couple", "good", "slides", "before", "his", "lesson", "was", "over", "."], "e1_text": "slides", "e1_pos": 16, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

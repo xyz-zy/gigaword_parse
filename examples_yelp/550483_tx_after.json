@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lost", "all", "respect", "for", "Ramsey", "after", "I", "ate", "here", "with", "my", "husband", "late", "night", "."], "e1_text": "lost", "e1_pos": 1, "e2_text": "ate", "e2_pos": 8, "label": "after"},
+{"tokens": ["No", "wonder", "most", "of", "the", "restaurants", "he", "help", "failed", "a", "year", "or", "2", "after", "he", "left", "."], "e1_text": "failed", "e1_pos": 8, "e2_text": "left", "e2_pos": 15, "label": "after"}
+]

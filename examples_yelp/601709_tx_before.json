@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "after", "my", "re-do", "my", "gels", "only", "lasted", "one", "week", "before", "they", "started", "chipping", "."], "e1_text": "lasted", "e1_pos": 7, "e2_text": "started", "e2_pos": 12, "label": "before"},
+{"tokens": ["This", "could", "be", "a", "wonderful", "establishment", "but", "needs", "some", "serious", "re-focusing", "before", "it", "loses", "more", "clients", "."], "e1_text": "needs", "e1_pos": 7, "e2_text": "loses", "e2_pos": 13, "label": "before"}
+]

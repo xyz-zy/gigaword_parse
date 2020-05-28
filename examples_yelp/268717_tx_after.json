@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "specifically", "mentioned", "that", "I", "had", "a", "huge", "knot", "in", "my", "lower", "back", ",", "yet", "the", "therapist", "spent", "less", "than", "5", "minutes", "on", "it", "initially", ",", "and", "only", "worked", "on", "it", "after", "I", "asked", "how", "much", "time", "was", "remaining", "near", "the", "end", "of", "the", "massage", "."], "e1_text": "worked", "e1_pos": 28, "e2_text": "asked", "e2_pos": 33, "label": "after"}
+]

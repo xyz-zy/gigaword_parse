@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "a", "too", "do", "n't", "go", "too", "late", "before", "the", "shooting", "range", "closes", "because", "they", "kick", "everybody", "out", "10mins", "before", "and", "still", "will", "charge", "you", "full", "price", "to", "use", "the", "range", "even", "if", "you", "only", "have", "10", "mins", "to", "shoot", "!"], "e1_text": "go", "e1_pos": 6, "e2_text": "closes", "e2_pos": 13, "label": "before"},
+{"tokens": ["Most", "ranges", "I", "have", "been", "to", "will", "at", "least", "give", "you", "half", "price", "towards", "the", "last", "30-45", "min", "before", "they", "close", "!"], "e1_text": "give", "e1_pos": 9, "e2_text": "close", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "could", "n't", "believe", "I", "was", "being", "served", "tea", "bags", "of", "green", "tea", ",", "not", "freshly", "brewed", "green", "tea", "for", "the", "EXTRA", "price", "I", "was", "paying", ",", "and", "the", "server", "did", "not", "tell", "me", "this", "before", "I", "ordered", "it", "."], "e1_text": "tell", "e1_pos": 32, "e2_text": "ordered", "e2_pos": 37, "label": "before"}
+]

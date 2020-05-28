@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "pizza", "delivery", "guy", "does", ",", "and", "when", "I", "finally", "get", "my", "order", "at", "1am", "instead", "of", "at", "11:30", "after", "I", "work", "late", ",", "I", "do", "n't", "want", "to", "hear", "about", "it", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "work", "e2_pos": 21, "label": "after"}
+]

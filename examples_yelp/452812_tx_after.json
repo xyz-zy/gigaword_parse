@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "been", "looking", "forward", "to", "trying", "out", "Kazu", "after", "reading", "a", "positive", "review", "in", "Montreal", "Mirror", "last", "week", ",", "but", "unfortunately", "they", "were", "closed", "for", "renovations", "the", "first", "time", "I", "popped", "by", "."], "e1_text": "trying", "e1_pos": 6, "e2_text": "reading", "e2_pos": 10, "label": "after"}
+]

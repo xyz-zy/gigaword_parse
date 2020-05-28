@@ -1,0 +1,3 @@
+[
+{"tokens": ["b", "-RRB-", "the", "price", "-", "They", "have", "a", "great", "happy", "hour", "--", "even", "still", ",", "I", "am", "almost", "always", "there", "before", "it", "starts", "and", "it", "does", "n't", "even", "bother", "me", "because", "prices", "are", "so", "reasonable", "."], "e1_text": "am", "e1_pos": 16, "e2_text": "starts", "e2_pos": 22, "label": "before"}
+]

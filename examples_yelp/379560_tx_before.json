@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mom", "ordered", "chicken", "strips", "and", "fries", ",", "and", "they", "brought", "them", "to", "the", "table", "-LRB-", "before", "they", "brought", "the", "rest", "of", "the", "food", "-RRB-", "and", "they", "were", "so", "hot", ",", "Dad", "burned", "his", "fingers", "trying", "to", "break", "them", "into", "bite", "size", "pieces", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "brought", "e2_pos": 9, "label": "before"}
+]

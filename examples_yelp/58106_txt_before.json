@@ -1,0 +1,5 @@
+[
+{"tokens": ["After", "spending", "almost", "$", "1,600", "dollars", "at", "this", "store", ",", "we", "were", "told", "that", "we", "could", "have", "delivery", "on", "a", "certain", "day", "before", "we", "flew", "out", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "flew", "e2_pos": 24, "label": "before"},
+{"tokens": ["Well", "I", "do", "n't", "know", ",", "maybe", "you", "should", "talk", "to", "your", "salespeople", "about", "the", "rules", "before", "they", "sell", "furniture", "to", "people", "."], "e1_text": "talk", "e1_pos": 9, "e2_text": "sell", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", "took", "off", "work", "and", "waited", "in", "an", "empty", "apartment", "until", "12:45", "pm", "for", "our", "furniture", "to", "be", "delivered", "before", "calling", "the", "store", "."], "e1_text": "delivered", "e1_pos": 18, "e2_text": "calling", "e2_pos": 20, "label": "before"}
+]

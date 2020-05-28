@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "again", ",", "and", "now", "our", "wait", "was", "2", "hours", "!!!", "Depending", "on", "who", "called", "before", "we", "walked", "in", ",", "this", "is", "a", "place", "that", "DOES", "N'T", "take", "appts", "."], "e1_text": "called", "e1_pos": 15, "e2_text": "walked", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "guess", "it", "was", "meant", "to", "be", "that", "we", "left", "before", "being", "serviced", "."], "e1_text": "left", "e1_pos": 9, "e2_text": "being", "e2_pos": 11, "label": "before"}
+]

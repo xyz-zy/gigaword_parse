@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "a", "particular", "charged", "is", "REQUIRED", "then", "it", "needs", "to", "be", "added", "to", "the", "price", "listed", "for", "the", "room", ",", "not", "tacked", "on", "after", "you", "check", "in", "."], "e1_text": "tacked", "e1_pos": 21, "e2_text": "check", "e2_pos": 25, "label": "after"}
+]

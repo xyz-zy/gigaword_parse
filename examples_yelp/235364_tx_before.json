@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "funny", "thing", "is", "i", "met", "mario", "batali", "the", "week", "before", "the", "restaurant", "opened", "inside", "bouchon", ",", "i", "thought", "he", "hated", "all", "things", "french", "-RRB-", "anyways", ",", "when", "i", "opened", "up", "the", "menu", ",", "i", "thought", "i", "was", "reading", "the", "babbo", "cookbook", "i", "have", "at", "home", "."], "e1_text": "met", "e1_pos": 5, "e2_text": "opened", "e2_pos": 13, "label": "before"}
+]

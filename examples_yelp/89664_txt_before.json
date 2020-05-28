@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "wanted", "to", "find", "anything", "out", ",", "I", "had", "to", "call", "them", "at", "the", "end", "of", "the", "day", "before", "they", "closed", "to", "find", "out", "anything", "and", "they", "would", "say", "they", "needed", "more", "time", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "closed", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "restaurant", "staff", "will", "buy", "fresh", "crab", "from", "market", "and", "do", "preparation", "before", "you", "come", "in", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "come", "e2_pos": 14, "label": "before"}
+]

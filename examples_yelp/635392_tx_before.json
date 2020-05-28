@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "to", "put", "the", "icing", "on", "this", "already", "very", "unpleasant", "cake", ",", "they", "charged", "me", "$", "500", "more", "than", "the", "price", "they", "quoted", "before", "they", "loaded", "my", "things", "."], "e1_text": "quoted", "e1_pos": 22, "e2_text": "loaded", "e2_pos": 25, "label": "before"}
+]

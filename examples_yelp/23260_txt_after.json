@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "find", "out", "that", "I", "was", "paying", "way", "too", "much", "until", "after", "she", "was", "past", "her", "puppy", "shots", "and", "thought", "that", "the", "expense", "was", "basically", "done", "with", "except", "the", "yearly", "exam", "."], "e1_text": "paying", "e1_pos": 8, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["He", "brought", "in", "an", "estimate", "-LRB-", "after", "I", "had", "already", "crossed", "out", "a", "lot", "of", "unnecessary", "recommendations", "at", "the", "front", "desk", "-RRB-", "of", "$", "460", "!"], "e1_text": "brought", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

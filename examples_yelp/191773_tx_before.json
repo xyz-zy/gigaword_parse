@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ll", "start", "with", "the", "good", "before", "I", "get", "to", "the", "-LRB-", "really", "-RRB-", "bad", "."], "e1_text": "start", "e1_pos": 2, "e2_text": "get", "e2_pos": 8, "label": "before"},
+{"tokens": ["Richard", "recommended", "we", "try", "the", "dry-aged", "rib", "eye", ",", "telling", "us", "that", "the", "meat", "is", "marinated", "for", "21", "days", "before", "cooked", "."], "e1_text": "marinated", "e1_pos": 15, "e2_text": "cooked", "e2_pos": 20, "label": "before"}
+]

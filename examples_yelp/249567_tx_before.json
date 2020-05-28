@@ -1,0 +1,5 @@
+[
+{"tokens": ["Well", "Forever", "21", ",", "think", "again", "if", "you", "think", "it", "'s", "okay", "to", "let", "people", "buy", "things", "and", "not", "state", "or", "have", "a", "sign", "somewhere", "that", "says", ":", "No", "Returns", ",", "exchanges", "only", "!!", "That", "would", "have", "been", "nice", "to", "know", "before", "I", "impulsively", "purchase", "black", "and", "neon", "high", "tops", "for", "a", "school", "dress-up", "day", "and", "then", "find", "they", "aren", "'", "t", "the", "same", "size", "shoes", "."], "e1_text": "know", "e1_pos": 40, "e2_text": "purchase", "e2_pos": 44, "label": "before"},
+{"tokens": ["That", "would", "have", "been", "nice", "to", "know", "before", "the", "sales", "girl", "said", "I", "had", "10", "days", "for", "a", "return", "."], "e1_text": "know", "e1_pos": 6, "e2_text": "said", "e2_pos": 11, "label": "before"},
+{"tokens": ["What", "a", "rip", "off", "!!", "I", "will", "think", "twice", "before", "spending", "any", "more", "money", "here", "."], "e1_text": "think", "e1_pos": 7, "e2_text": "spending", "e2_pos": 10, "label": "before"}
+]

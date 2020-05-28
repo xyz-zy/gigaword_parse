@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "ten", ",", "YES", "10", ",", "phone", "calls", "in", "to", "correct", "what", "should", "have", "been", "a", "simple", "problem", "and", "it", "was", "never", "corrected", ",", "even", "after", "numerous", "times", "of", "saying", "that", "it", "was", "fixed", "."], "e1_text": "corrected", "e1_pos": 23, "e2_text": "saying", "e2_pos": 30, "label": "after"},
+{"tokens": ["It", "'s", "actually", "sad", "because", "I", "wanted", "to", "continue", "using", "them", "but", "I", "figured", "after", "giving", "them", "10", "chances", "to", "fix", "things", "and", "them", "not", "getting", "correct", "that", "they", "probably", "never", "were", "going", "to", "."], "e1_text": "figured", "e1_pos": 13, "e2_text": "giving", "e2_pos": 15, "label": "after"}
+]

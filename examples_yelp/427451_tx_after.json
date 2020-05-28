@@ -1,0 +1,3 @@
+[
+{"tokens": ["Despite", "my", "effort", "I", "could", "not", "finish", "the", "dish", "and", "took", "the", "rest", "to", "eat", "on", "the", "way", "to", "Zion", "Canyon", "National", "Park", "-LRB-", "by", "the", "way", ",", "it", "should", "be", "consumed", "immediately", "as", "the", "chicken", "is", "not", "as", "crunchy", "and", "and", "the", "waffles", "too", "mushy", "after", "sitting", "in", "a", "to", "go", "box", "-RRB-", "."], "e1_text": "eat", "e1_pos": 14, "e2_text": "sitting", "e2_pos": 47, "label": "after"}
+]

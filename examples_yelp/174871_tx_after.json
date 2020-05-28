@@ -1,0 +1,3 @@
+[
+{"tokens": ["Made", "an", "attempt", "to", "try", "the", "$", "5.00", "steak", "and", "eggs", "at", "Mr.", "Lucky", "'s", "after", "a", "wild", "night", "of", "drinking", "and", "partying", "at", "Vanity", ",", "Hard", "Rock", "Hotel", "'s", "nightclub", ",", "and", "here", "'s", "what", "they", "had", "to", "say", "to", "our", "party", "of", "six", ",", "''", "``", "Sorry", ",", "we", "'re", "out", "of", "steak", ".", "''", "''"], "e1_text": "try", "e1_pos": 4, "e2_text": "drinking", "e2_pos": 20, "label": "after"}
+]

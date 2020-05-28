@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "paid", "$", "12", "for", "this", "thing", "plus", "a", "drink", ",", "which", "is", "n't", "a", "bad", "price", "considering", "I", "was", "trapped", "in", "an", "airport", ",", "but", "I", "felt", "ripped", "off", "after", "tasting", "it", "."], "e1_text": "ripped", "e1_pos": 28, "e2_text": "tasting", "e2_pos": 31, "label": "after"}
+]

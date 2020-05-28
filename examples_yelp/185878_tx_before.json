@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "dish", "arrived", ",", "there", "was", "only", "one", "piece", "of", "chicken", "-LRB-", "and", "half", "the", "dish", "had", "to", "be", "eaten", "before", "the", "chicken", "piece", "appeared", "-RRB-", "and", "the", "spinach", "had", "magically", "turned", "to", "broccoli", "."], "e1_text": "eaten", "e1_pos": 20, "e2_text": "appeared", "e2_pos": 25, "label": "before"}
+]

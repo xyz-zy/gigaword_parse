@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lasagna", "was", "a", "good", "portion", "but", "suffered", "a", "little", "from", "the", "very", "thin", "marinara", "mentioned", "before", "which", "created", "a", "pink", "pool", "around", "the", "plate", "."], "e1_text": "mentioned", "e1_pos": 15, "e2_text": "created", "e2_pos": 18, "label": "before"}
+]

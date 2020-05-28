@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "the", "coupon", "issue", "was", "n't", "the", "waiters", "fault", ",", "but", "I", "'ve", "worked", "at", "restaurants", "before", "where", "you", "try", "your", "best", "to", "please", "the", "customer", ",", "he", "made", "no", "attempt", "to", "offer", "up", "the", "manager", "or", "try", "to", "help", "."], "e1_text": "worked", "e1_pos": 15, "e2_text": "made", "e2_pos": 30, "label": "before"}
+]

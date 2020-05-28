@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "left", "my", "driver", "license", "at", "my", "gate", "before", "flying", "out", "of", "Las", "Vegas", "and", "was", "very", "scared", "I", "would", "n't", "be", "able", "to", "get", "back", "without", "a", "hassle", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "flying", "e2_pos": 9, "label": "before"},
+{"tokens": ["Fortunately", ",", "a", "Southwest", "Airlines", "employee", "found", "my", "ID", "and", "helped", "me", "get", "it", "shipped", "express", "to", "my", "hotel", "before", "I", "had", "to", "fly", "again", "."], "e1_text": "shipped", "e1_pos": 14, "e2_text": "had", "e2_pos": 21, "label": "before"}
+]

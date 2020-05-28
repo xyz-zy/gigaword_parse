@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "at", "7:50", "after", "having", "two", "drinks", ",", "in", "itself", "is", "no", "big", "deal", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "having", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "ate", "half", "my", "meal", "believing", "my", "wife", "'s", "would", "be", "brought", "within", "a", "few", "minutes", ",", "but", "instead", "she", "waited", "for", "her", "entr", "\\", "u00e9e", "about", "30", "minutes", "after", "finishing", "our", "salads", "."], "e1_text": "waited", "e1_pos": 20, "e2_text": "finishing", "e2_pos": 30, "label": "after"}
+]

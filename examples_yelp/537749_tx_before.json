@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "loved", "the", "ahi", "tuna", "tacos", "and", "the", "chef", "before", "had", "made", "them", "for", "me", "using", "lettuce", "as", "a", "wrap", "and", "no", "sauce", "-LRB-", "soy", "sauce", "does", "have", "gluten", "in", "it", "-RRB-", "."], "e1_text": "loved", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

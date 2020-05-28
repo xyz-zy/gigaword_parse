@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "exhausted", ",", "after", "complaining", "about", "how", "tired", "we", "were", "the", "front", "desk", "people", "kept", "giving", "us", "the", "same", "excuse", "."], "e1_text": "exhausted", "e1_pos": 2, "e2_text": "complaining", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "just", "started", "taking", "towels", "from", "those", "carts", "after", "that", "when", "they", "were", "n't", "looking", "."], "e1_text": "taking", "e1_pos": 3, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

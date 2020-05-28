@@ -1,0 +1,3 @@
+[
+{"tokens": ["Someone", "finally", "came", "out", "to", "clean", "the", "tables", ",", "but", "did", "n't", "bother", "to", "pick", "up", "any", "of", "the", "napkins", ",", "salsa", ",", "or", "other", "trash", "on", "the", "floor", ",", "that", "patio", "remained", "dirty", ",", "even", "after", "it", "was", "''", "``", "cleaned", ".", "''", "''"], "e1_text": "remained", "e1_pos": 32, "e2_text": "was", "e2_pos": 38, "label": "after"}
+]

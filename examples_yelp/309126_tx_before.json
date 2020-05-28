@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "CUT", "in", "LA", "and", "before", "a", "night", "of", "drinking", "and", "partying", "I", "needed", "fuel", "to", "get", "me", "through", "the", "night", "."], "e1_text": "love", "e1_pos": 1, "e2_text": "drinking", "e2_pos": 10, "label": "before"},
+{"tokens": ["Do", "yourself", "a", "favor", "and", "eat", "here", "if", "you", "have", "not", "been", "here", "before", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

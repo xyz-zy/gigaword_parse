@@ -1,0 +1,3 @@
+[
+{"tokens": ["Location", ":", "Hilton", "Grand", "Vacations", "on", "the", "Strip", "Original", "pick", "up", "time", ":", "10:45", "am", "today", ",", "12\\/19\\/2013", "Second", "pick", "up", "time", "I", "was", "told", "but", "was", "apparently", "completely", "make", "believe", ":", "11:40", "am", "Current", "time", ",", "still", "waiting", ",", "still", "no", "shuttle", ":", "11:56", "am", "-LRB-", "and", "counting", "-RRB-", "Update", "#", "2", ":", "I", "waited", "about", "15", "minutes", "after", "speaking", "to", "the", "operator", "who", "said", "a", "shuttle", "would", "be", "there", "in", "5", "to", "10", "minutes", "."], "e1_text": "waited", "e1_pos": 55, "e2_text": "speaking", "e2_pos": 60, "label": "after"}
+]

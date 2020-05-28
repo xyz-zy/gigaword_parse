@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "reservations", "and", "they", "confirmed", "that", "my", "reservation", "did", "include", "other", "special", "discounts", "and", "I", "was", "to", "receive", "both", "the", "booklet", "and", "the", "discounts", "offered", "at", "the", "time", "I", "made", "my", "reservation", "but", "after", "25", "minutes", "of", "trying", "to", "figure", "out", "how", "to", "print", "the", "discount", "vouchers", ",", "they", "told", "me", "that", "the", "promotion", "had", "expired", "in", "October", "."], "e1_text": "offered", "e1_pos": 25, "e2_text": "told", "e2_pos": 50, "label": "after"}
+]

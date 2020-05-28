@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "long", "morning", "of", "riding", "dune", "buggies", "through", "the", "desert", "trails", ",", "we", "stopped", "off", "at", "Harold", "'s", "Cave", "Creek", "Corral", "for", "a", "quick", "lunch", "before", "heading", "back", "to", "our", "rental", "house", "...", "at", "least", "the", "plan", "was", "to", "just", "have", "a", "quick", "lunch", ",", "but", "that", "soon", "changed", "."], "e1_text": "stopped", "e1_pos": 14, "e2_text": "heading", "e2_pos": 27, "label": "before"},
+{"tokens": ["So", "with", "terrible", "service", "and", "semi-decent", "food", ",", "we", "decided", "to", "ask", "for", "our", "check", "before", "we", "even", "finished", "eating", "-LRB-", "as", "we", "were", "n't", "sure", "we", "'d", "ever", "see", "our", "waitress", "again", "-RRB-", "."], "e1_text": "ask", "e1_pos": 11, "e2_text": "finished", "e2_pos": 18, "label": "before"}
+]

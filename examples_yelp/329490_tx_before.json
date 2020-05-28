@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "we", "were", "dumb", "enough", "not", "to", "look", "before", "paying", ",", "we", "would", "have", "paid", "more", "than", "what", "we", "had", "actually", "eaten", "."], "e1_text": "look", "e1_pos": 7, "e2_text": "paying", "e2_pos": 9, "label": "before"},
+{"tokens": ["Just", "be", "very", "careful", "before", "paying", "your", "check", ",", "to", "make", "sure", "they", "bring", "you", "the", "right", "one", "."], "e1_text": "be", "e1_pos": 1, "e2_text": "paying", "e2_pos": 5, "label": "before"}
+]

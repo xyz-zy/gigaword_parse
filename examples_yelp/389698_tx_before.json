@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bringing", "meals", "to", "the", "table", "before", "they", "are", "ALL", "complete", "is", "one", "of", "the", "cardinal", "sins", "in", "the", "restaurant", "business", "."], "e1_text": "Bringing", "e1_pos": 0, "e2_text": "are", "e2_pos": 7, "label": "before"},
+{"tokens": ["-LRB-", "another", "one", "is", "clearing", "the", "table", "before", "EVERYONE", "is", "done", "eating", "-RRB-", "."], "e1_text": "clearing", "e1_pos": 4, "e2_text": "is", "e2_pos": 3, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "employee", "was", "cutting", "hair", "on", "a", "mannequin", ",", "the", "other", "was", "confused", "and", "standing", "around", "after", "finishing", "a", "haircut", ",", "while", "the", "other", "finished", "up", "a", "haircut", "."], "e1_text": "standing", "e1_pos": 14, "e2_text": "finishing", "e2_pos": 17, "label": "after"}
+]

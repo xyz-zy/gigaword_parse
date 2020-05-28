@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "at", "this", "restaurant", "for", "over", "an", "hour", "before", "we", "were", "even", "able", "to", "place", "our", "drink", "orders", "-LRB-", "3", "tables", "worth", "-RRB-", "and", "because", "we", "were", "seated", "by", "the", "bar", "instead", "of", "one", "of", "there", "group", "rooms", "we", "had", "to", "deal", "with", "the", "other", "large", "group", "-LRB-", "s", "-RRB-", "that", "were", "waiting", "for", "their", "group", "room", "to", "become", "available", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

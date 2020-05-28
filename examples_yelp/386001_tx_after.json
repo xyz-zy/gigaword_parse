@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "glass", "of", "wine", "came", "out", "fairly", "quickly", ",", "but", "it", "took", "her", "a", "long", "time", "to", "ask", "if", "I", "was", "ready", "to", "order", ",", "even", "after", "I", "was", "clearly", "done", "with", "the", "menu", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

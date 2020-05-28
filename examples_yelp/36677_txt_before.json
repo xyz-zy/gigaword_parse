@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "the", "personnel", "there", "has", "not", "changed", ",", "this", "winter", ",", "I", "have", "had", "to", "wait", "30", "minutes", "plus", "after", "my", "appointment", "time", "before", "anyone", "started", "working", "on", "me", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "started", "e2_pos": 25, "label": "before"}
+]

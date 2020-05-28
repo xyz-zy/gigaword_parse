@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "n't", "overbearing", "as", "we", "sat", "and", "caught", "up", "with", "each", "other", "before", "even", "looking", "at", "the", "menus", "."], "e1_text": "caught", "e1_pos": 8, "e2_text": "looking", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "server", "was", "nice", "about", "taking", "it", "back", "and", "when", "he", "came", "back", "to", "check", "on", "us", "before", "it", "was", "ready", "he", "said", "that", "the", "manager", "would", "be", "bringing", "it", "out", "."], "e1_text": "check", "e1_pos": 14, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

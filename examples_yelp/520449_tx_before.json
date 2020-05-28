@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "if", "you", "go", "there", "on", "a", "busy", "night", ",", "much", "less", "a", "night", "where", "a", "big", "headliner", "is", "there", "then", "you", "may", "as", "well", "go", "ahead", "and", "make", "sure", "your", "will", "is", "up", "to", "date", "because", "if", "that", "place", "catches", "fire", "...", "you", "'re", "probably", "going", "to", "die", "before", "you", "get", "out", "."], "e1_text": "die", "e1_pos": 49, "e2_text": "get", "e2_pos": 52, "label": "before"},
+{"tokens": ["I", "will", "actually", "go", "to", "Axis-Radius", "before", "I", "go", "here", "again", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "go", "e2_pos": 8, "label": "before"}
+]

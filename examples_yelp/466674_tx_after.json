@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "thing", "I", "love", "about", "pound", "stores", "is", "that", "you", "always", "feel", "better", "after", "walking", "by", "one", "."], "e1_text": "feel", "e1_pos": 11, "e2_text": "walking", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "'ll", "have", "a", "word", "with", "myself", "tonight", "after", "I", "look", "in", "the", "mirror", "and", "remark", "on", "what", "a", "repellent", "human", "being", "I", "'ve", "become", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "look", "e2_pos": 10, "label": "after"}
+]

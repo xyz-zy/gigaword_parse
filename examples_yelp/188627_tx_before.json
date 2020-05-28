@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", ",", "drinks", "and", "dessert", "selection", "are", "pretty", "decent", ",", "if", "not", "slightly", "overpriced", "for", "what", "it", "'s", "worth", ",", "but", "having", "to", "wait", "there", "for", "10", "minute", "in", "front", "of", "the", "counter", "before", "placing", "an", "order", "while", "the", "clerk", "leisurely", "made", "a", "smoothie", "for", "someone", "who", "cut", "in", "line", "left", "little", "to", "desire", "."], "e1_text": "wait", "e1_pos": 23, "e2_text": "placing", "e2_pos": 34, "label": "before"}
+]

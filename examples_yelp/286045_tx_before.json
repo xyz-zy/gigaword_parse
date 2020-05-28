@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "misstep", "was", "when", "we", "were", "in", "the", "bar", "grabbing", "drinks", "before", "and", "we", "were", "scolded", "by", "the", "server", "for", "walking", "up", "to", "the", "bar", "to", "get", "our", "drinks", "...", "after", "we", "gave", "our", "drink", "order", "to", "the", "server", "we", "never", "saw", "our", "drinks", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "grabbing", "e2_pos": 10, "label": "before"}
+]

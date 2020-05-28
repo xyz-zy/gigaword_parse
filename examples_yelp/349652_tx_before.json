@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "see", "a", "pile", "of", "them", "up", "high", "at", "the", "sandwich", "station", ",", "and", "no", "real", "crepe", "will", "last", "more", "than", "a", "few", "minutes", "after", "being", "cooked", "before", "it", "just", "tastes", "SO", "wrong", "-LRB-", "like", "scrambled", "eggs", "on", "the", "2nd", "day", "--", "ew", "!", "-RRB-"], "e1_text": "cooked", "e1_pos": 27, "e2_text": "tastes", "e2_pos": 31, "label": "before"}
+]

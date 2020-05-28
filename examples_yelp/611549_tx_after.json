@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "several", "AHEM", ",", "excuse", "meess", "...", "one", "of", "them", "got", "through", ",", "and", "she", "handed", "us", "utensils", "and", "napkins", "after", "we", "got", "our", "antipasti", "."], "e1_text": "napkins", "e1_pos": 19, "e2_text": "got", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "recommend", "it", "bc", "after", "I", "ate", "a", "few", "spicy", ",", "i", "needed", "to", "balance", "it", "out", "with", "one", "regular", "."], "e1_text": "bc", "e1_pos": 3, "e2_text": "ate", "e2_pos": 6, "label": "after"}
+]

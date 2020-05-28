@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tried", "to", "charge", "me", "$", "47", "to", "fix", "a", "flat", "after", "I", "spent", "10", "minutes", "giving", "them", "all", "my", "info", "...", "I", "asked", "why", "so", "much", "and", "the", "manager", "tells", "me", "that", "is", "the", "price", "...", "Really", "?"], "e1_text": "fix", "e1_pos": 7, "e2_text": "spent", "e2_pos": 12, "label": "after"}
+]

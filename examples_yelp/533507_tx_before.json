@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "they", "brought", "out", "all", "our", "food", "before", "giving", "us", "bibs", "so", "then", "they", "had", "to", "bring", "them", "out", "and", "we", "put", "them", "on", "hurriedly", "while", "holding", "back", "from", "salivating", "all", "over", "the", "table", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "giving", "e2_pos": 10, "label": "before"}
+]

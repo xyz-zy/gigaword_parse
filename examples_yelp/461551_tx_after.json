@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "them", "a", "month", "to", "get", "back", "to", "me", "&", "that", "was", "after", "I", "called", "every", "week", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "called", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "dresses", "were", "ordered", "after", "all", "my", "girls", "paid", "their", "deposits", "in", "April", "2011", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "paid", "e2_pos": 8, "label": "after"}
+]

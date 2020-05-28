@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "we", "planned", "on", "doing", "a", "walk", "through", "the", "day", "before", "we", "move", "in", "just", "to", "make", "sure", "everything", "was", "perfect", "."], "e1_text": "planned", "e1_pos": 2, "e2_text": "move", "e2_pos": 12, "label": "before"},
+{"tokens": ["Fast", "forward", "to", "the", "day", "before", "we", "move", "in", ".", "."], "e1_text": "Fast", "e1_pos": 0, "e2_text": "move", "e2_pos": 7, "label": "before"}
+]

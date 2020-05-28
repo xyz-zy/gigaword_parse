@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "was", "on", "the", "phone", "with", "me", "at", "which", "time", "she", "gave", "the", "phone", "to", "a", "rep", "named", "''", "``", "Chris", ",", "''", "''", "who", "I", "was", "simply", "asking", "to", "explain", "to", "me", "the", "different", "between", "a", "''", "``", "switch", "and", "save", ",", "''", "''", "and", "just", "resigning", "my", "2", "year", "contract", "...", "after", "a", "couple", "seconds", "of", "asking", "my", "question", "i", "find", "my", "wife", "back", "on", "the", "phone", "and", "the", "rep", "told", "her", "he", "cant", "talk", "to", "me", "right", "now", "!"], "e1_text": "resigning", "e1_pos": 48, "e2_text": "asking", "e2_pos": 29, "label": "after"}
+]

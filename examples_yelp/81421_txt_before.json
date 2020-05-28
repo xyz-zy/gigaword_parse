@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "ate", ",", "paid", "and", "left", "before", "we", "got", "our", "food", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "got", "e2_pos": 8, "label": "before"},
+{"tokens": ["They", "were", "nearly", "finished", "with", "their", "meal", "before", "we", "got", "our", "food", "!"], "e1_text": "were", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "probably", "sat", "for", "45", "minutes", "before", "getting", "our", "food", ",", "and", "ate", "it", "in", "less", "than", "ten", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "before"}
+]

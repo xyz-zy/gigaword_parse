@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "burger", "with", "frites", ",", "what", "eventually", "came", "out", "after", "a", "bit", "of", "a", "wait", "was", "a", "seriously", "overly", "charred", "burger", "on", "a", "very", "grilled", "bun", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

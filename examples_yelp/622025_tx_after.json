@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ate", "here", "twice", "the", "only", "reason", "I", "went", "the", "2nd", "time", "is", "because", "management", "contacted", "me", "after", "I", "complained", "&", "left", "my", "business", "card", "&", "I", "was", "left", "assured", "that", "this", "was", "n't", "the", "type", "of", "service", "that", "the", "restaurant", "was", "built", "on", "-LRB-", "my", "terrible", "prejudice", "experience", "-RRB-", "."], "e1_text": "contacted", "e1_pos": 15, "e2_text": "complained", "e2_pos": 19, "label": "after"}
+]

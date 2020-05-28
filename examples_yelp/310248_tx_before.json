@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "it", "'s", "because", "Jim", "had", "sucked", "all", "the", "alcohol", "off", "of", "the", "top", "before", "he", "served", "them", "to", "us", "."], "e1_text": "sucked", "e1_pos": 6, "e2_text": "served", "e2_pos": 16, "label": "before"},
+{"tokens": ["Jim", "left", "before", "he", "was", "done", "serving", "us", "-LRB-", "we", "saw", "him", "later", "in", "the", "pub", "getting", "cozy", "with", "a", "cold", "one", "at", "the", "bar", "-RRB-", ",", "so", "Lucy", "took", "over", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

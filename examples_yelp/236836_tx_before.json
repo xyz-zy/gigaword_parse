@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "http:\\/\\/www.yelp.com\\/biz_photos\\/bare-pool-lounge-las-vegas?select=C2KoGYJaEN7OyxKtODNyyQ#CWI2KPO-IoYDrpaElyw_UA", "-RRB-", "-LRB-", "http:\\/\\/www.yelp.com\\/biz_photos\\/bare-pool-lounge-las-vegas?select=C2KoGYJaEN7OyxKtODNyyQ#GDStYO-ZKr0irVLESxqbkQ", "-RRB-", "We", "had", "a", "nice", "time", "here", "before", "our", "flight", "--", "I", "also", "liked", "how", "they", "played", "hip-hop", ".", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "liked", "e2_pos": 18, "label": "before"}
+]

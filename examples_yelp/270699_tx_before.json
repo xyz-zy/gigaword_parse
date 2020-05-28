@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "to", "mention", "you", "'re", "a", "first", "time", "customer", "before", "they", "charge", "you", "and", "the", "'ll", "give", "you", "five", "dollars", "off", "!"], "e1_text": "'re", "e1_pos": 5, "e2_text": "charge", "e2_pos": 12, "label": "before"}
+]

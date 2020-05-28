@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "high", "hopes", "for", "this", "place", ",", "and", "maybe", "it", "'s", "just", "growing", "pains", ",", "but", "you", "'d", "figure", "after", "they", "'ve", "been", "open", "a", "couple", "months", "they", "'d", "have", "worked", "themselves", "out", "."], "e1_text": "figure", "e1_pos": 19, "e2_text": "'ve", "e2_pos": 22, "label": "after"},
+{"tokens": ["And", ",", "we", "did", "n't", "get", "any", "place", "settings", "until", "after", "our", "meal", "was", "delivered", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

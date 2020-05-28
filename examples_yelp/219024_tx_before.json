@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "water", "girl", "at", "least", "tried", "to", "wait", "for", "a", "pause", "before", "reaching", "across", "the", "table", "."], "e1_text": "wait", "e1_pos": 7, "e2_text": "reaching", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Problem", "4", ":", "Go", "into", "the", "bathroom", ",", "after", "I", "see", "my", "shirts", "on", "the", "floor", ",", "and", "they", "MOVED", "MY", "MAKEUP", "AND", "TOILETRIES", "!"], "e1_text": "Go", "e1_pos": 3, "e2_text": "see", "e2_pos": 10, "label": "after"}
+]

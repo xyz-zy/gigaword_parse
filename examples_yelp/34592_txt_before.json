@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "sat", "at", "the", "sushi", "bar", "there", "was", "no", "sushi", "chef", "and", "the", "waitress", "immediately", "came", "up", "to", "me", "and", "asked", "me", "what", "I", "wanted", "to", "drink", "before", "even", "handing", "me", "a", "menu", "."], "e1_text": "drink", "e1_pos": 27, "e2_text": "handing", "e2_pos": 30, "label": "before"}
+]

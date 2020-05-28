@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "for", "a", "refund", "for", "my", "''", "``", "hair-cake", "''", "''", ",", "because", "I", "noticed", "the", "hair", "after", "the", "lid", "popped", "off", "of", "the", "box", "on", "the", "way", "out", "of", "the", "store", ",", "and", "he", "said", "that", "it", "was", ",", "''", "``", "Not", "possible", "because", "I", "had", "already", "taken", "it", "out", "of", "the", "store", ".", ".", "''", "''"], "e1_text": "noticed", "e1_pos": 15, "e2_text": "popped", "e2_pos": 21, "label": "after"},
+{"tokens": ["Are", "you", "joking", "?!", "The", "receipt", "even", "stated", "that", "the", "transaction", "was", "done", "7", "minutes", "beforehand", "!!", "He", "was", "quick", "to", "offer", "me", "a", "50", "%", "discount", "after", "I", "threatened", "to", "call", "the", "corporate", "offices", ".", "."], "e1_text": "?!", "e1_pos": 3, "e2_text": "threatened", "e2_pos": 29, "label": "after"}
+]

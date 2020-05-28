@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "all", "over", "the", "room", "talking", "to", "everybody", ",", "about", "the", "music", ",", "dancing", ",", "she", "even", "went", "so", "far", "as", "to", "ask", "my", "husband", "about", "work", "after", "she", "graduates", "!"], "e1_text": "went", "e1_pos": 18, "e2_text": "graduates", "e2_pos": 30, "label": "after"},
+{"tokens": ["I", "found", "out", "after", "that", "she", "was", "about", "to", "graduate", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

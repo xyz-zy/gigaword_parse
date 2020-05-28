@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "took", "a", "few", "pictures", "of", "it", "to", "prove", "it", "before", "I", "contacted", "the", "company", "about", "this", "nasty", "matter", "."], "e1_text": "prove", "e1_pos": 9, "e2_text": "contacted", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "can", "honestly", "say", "that", "I", "'ve", "never", "seen", "this", "as", "any", "restaurant", "before", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 6, "label": "before"}
+]

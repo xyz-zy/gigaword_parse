@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "starting", "to", "get", "excited", "again", ",", "after", "the", "unhappy", "child", "dampened", "the", "mood", ",", "upon", "seeing", "thick", "cuts", "of", "sashimi", "and", "our", "rolls", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "dampened", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "decided", "that", "after", "eating", "some", "HH", "salmon", "rolls", "and", "a", "few", "avocado", "rolls", ",", "I", "wanted", "my", "first", "bite", "from", "the", "boat", "to", "be", "some", "salmon", "sashimi", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "eating", "e2_pos": 4, "label": "after"}
+]

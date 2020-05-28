@@ -1,0 +1,3 @@
+[
+{"tokens": ["Once", "you", "'re", "escorted", "to", "your", "table", "will", "you", "find", "yourself", "looking", "around", "the", "restaurant", "admiring", "the", "accents", "of", "red", "and", "gold", "before", "realizing", "that", "your", "''", "``", "silverware", "''", "''", "is", "actually", "gold", "."], "e1_text": "admiring", "e1_pos": 15, "e2_text": "realizing", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "the", "phone", "call", "I", "went", "on", "their", "website", "-LRB-", "which", "I", "should", "have", "done", "before", "but", "I", "figured", "the", "staff", "would", "be", "informative", "-RRB-", "and", "saw", "that", "the", "''", "``", "master", "''", "''", "staff", "she", "set", "me", "up", "with", "is", "the", "most", "expensive", "and", "would", "have", "been", "over", "$", "200-250", "!"], "e1_text": "done", "e1_pos": 14, "e2_text": "figured", "e2_pos": 18, "label": "before"}
+]

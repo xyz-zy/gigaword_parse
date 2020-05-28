@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "waited", "probably", "5", "minutes", "before", "or", "drink", "order", "was", "taken", ",", "we", "did", "n't", "get", "plates", "until", "about", "2", "minutes", "after", "our", "food", "came", ",", "when", "we", "complained", "about", "the", "stuffing", "that", "was", "as", "dry", "as", "saw", "dust", "she", "just", "took", "it", "from", "our", "table", "and", "did", "n't", "replace", "it", "with", "another", "side", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "came", "e2_pos": 24, "label": "after"},
+{"tokens": ["maybe", "there", "was", "no", "manager", ",", "after", "all", "it", "was", "a", "holiday", "...", "lol", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

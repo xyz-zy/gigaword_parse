@@ -1,0 +1,4 @@
+[
+{"tokens": ["service", "sucks", "at", "this", "location", ",", "They", "skipped", "our", "name", "3", "times", "at", "the", "host", "stand", "ever", "after", "reminding", "them", "twice", "."], "e1_text": "skipped", "e1_pos": 7, "e2_text": "reminding", "e2_pos": 18, "label": "after"},
+{"tokens": ["Then", "it", "took", "the", "server", "20", "mins", "to", "take", "our", "order", ",", "and", "finally", "about", "20", "minutes", "to", "get", "the", "check", "after", "they", "cleared", "the", "plates", "-LRB-", "having", "to", "flag", "down", "our", "server", "who", "was", "chopping", "it", "up", "with", "her", "co-worker", "-RRB-", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "cleared", "e2_pos": 23, "label": "after"}
+]

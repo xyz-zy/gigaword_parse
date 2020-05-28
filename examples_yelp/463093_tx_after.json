@@ -1,0 +1,3 @@
+[
+{"tokens": ["TIPS", ":", "Do", "n't", "order", "right", "after", "someone", "that", "ordered", "6", "sammiches", ",", "cause", "yours", "will", "take", "forever", "!"], "e1_text": "order", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 9, "label": "after"}
+]

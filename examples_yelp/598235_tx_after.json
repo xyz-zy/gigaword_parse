@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriends", "and", "I", "received", "two", "free", "drink", "tickets", "each", ",", "but", "when", "we", "tried", "to", "use", "them", "after", "waiting", "in", "the", "huge", "bar", "line", ",", "we", "were", "told", "we", "were", "only", "allowed", "to", "use", "them", "at", "the", "FRONT", "bar", ",", "not", "the", "main", "one", ",", "and", "they", "had", "to", "be", "used", "by", "2pm", "."], "e1_text": "use", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

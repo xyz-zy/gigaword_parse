@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "ready", "on", "12\\/20\\/11", ",", "and", "was", "probably", "picked", "up", "a", "good", "week", "before", "January", "6", "-LRB-", "only", "1", "employee", "is", "reported", "here", ",", "and", "the", "President", "is", "evidently", "hard", "to", "reach", ":", "http:\\/\\/www.manta.com\\/c\\/mt11j0m\\/avalon-appliance-repair-inc", "-RRB-", "."], "e1_text": "picked", "e1_pos": 9, "e2_text": "is", "e2_pos": 21, "label": "before"},
+{"tokens": ["We", "'re", "just", "going", "to", "live", "with", "the", "beeping", "when", "it", "occurs", "and", "maybe", "go", "with", "another", "company", "later", "-LRB-", "it", "would", "be", "nice", "to", "address", "it", "before", "our", "son", "is", "born", ",", "but", "it", "'s", "not", "realistic", "right", "now", "-RRB-", "."], "e1_text": "address", "e1_pos": 25, "e2_text": "is", "e2_pos": 30, "label": "before"}
+]

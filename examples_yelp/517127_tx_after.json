@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "this", "question", "was", "asked", "and", "we", "had", "told", "him", ",", "after", "the", "confusion", "was", "eliminated", ",", "we", "went", "home", "and", "came", "back", "he", "had", "promptly", "said", "''", "``", "We", "do", "n't", "allow", "that", ".", "''", "''"], "e1_text": "told", "e1_pos": 8, "e2_text": "was", "e2_pos": 3, "label": "after"},
+{"tokens": ["I", "did", "NOT", "tip", "the", "bartender", "after", "she", "served", "us", "last", "night", "-LRB-", "the", "last", "round", ",", "we", "tipped", "her", "before", "we", "left", "-RRB-", "as", "I", "felt", "that", "she", "could", "have", "told", "the", "guy", "to", "cool", "it", "off", "since", "she", "is", "the", "one", "in", "charge", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "served", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "definitely", "a", "frozen", "cod", "that", "was", "probably", "''", "``", "defrosted", "''", "''", "before", "steaming", ",", "or", "possibly", "went", "from", "the", "freezer", "to", "the", "steamer", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "went", "e2_pos": 19, "label": "before"}
+]

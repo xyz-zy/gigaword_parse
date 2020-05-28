@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "do", "have", "to", "wash\\/clean", "anything", "rented", "before", "getting", "any", "deposit", "back", "."], "e1_text": "wash\\/clean", "e1_pos": 4, "e2_text": "getting", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "have", "never", "had", "issues", "when", "returning", "tools", "before", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "returning", "e2_pos": 6, "label": "before"}
+]

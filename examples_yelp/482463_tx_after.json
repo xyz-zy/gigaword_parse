@@ -1,0 +1,4 @@
+[
+{"tokens": ["and", "last", "time", "I", "ate", "there", ",", "which", "was", "last", "week", "for", "dinner", "with", "a", "buddy", ",", "I", "was", "annoyed", "that", "while", "I", "was", "eating", "the", "server", "asked", "me", "if", "I", "wanted", "a", "beer", "after", "I", "already", "ordered", "coke", "."], "e1_text": "wanted", "e1_pos": 31, "e2_text": "ordered", "e2_pos": 37, "label": "after"},
+{"tokens": ["This", "was", "after", "I", "had", "already", "been", "served", "and", "was", "drinking", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "after"}
+]

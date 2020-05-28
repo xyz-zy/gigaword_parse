@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "ignored", "the", "three", "of", "us", "that", "were", "sitting", "at", "the", "end", ",", "not", "taking", "our", "drink", "order", "for", "10", "minutes", ",", "and", "he", "passed", "by", "my", "empty", "plate", "at", "least", "6", "times", "before", "it", "was", "picked", "up", ",", "where", "the", "other", "end", "of", "the", "table", "when", "they", "were", "finished", "eating", "he", "promptly", "removed", "their", "plates", "."], "e1_text": "passed", "e1_pos": 24, "e2_text": "was", "e2_pos": 35, "label": "before"},
+{"tokens": ["The", "owner", "left", "before", "we", "were", "done", "eating", "or", "I", "would", "have", "complained", "to", "him", "at", "that", "point", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "were", "e2_pos": 5, "label": "before"}
+]

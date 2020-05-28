@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "super", "pumped", "to", "go", "here", "after", "many", "months", "of", "seeing", "it", "on", "my", "way", "home", "and", "super", "packed", "in", "Tuesdays", "."], "e1_text": "go", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "was", "highly", "disappointed", "especially", "after", "everyone", "raved", "over", "these", "tacos", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "raved", "e2_pos": 7, "label": "after"}
+]

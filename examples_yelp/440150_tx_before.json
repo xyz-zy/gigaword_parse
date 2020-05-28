@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*", "please", "remember", "to", "tip", "on", "the", "total", "amount", "before", "the", "discount", "was", "taken", "out", "."], "e1_text": "remember", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["They", "'re", "giving", "us", "a", "discount", "so", "let", "'s", "repay", "the", "''", "``", "happy", "hour", "''", "''", "by", "making", "the", "server", "happy", "and", "tipping", "them", "on", "what", "they", "would", "have", "gotten", "before", "the", "discount", "was", "applied", "!"], "e1_text": "gotten", "e1_pos": 30, "e2_text": "was", "e2_pos": 34, "label": "before"}
+]

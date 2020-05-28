@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "let", "'s", "say", "this", "...", "Hotwire", "'s", "price", "for", "this", "''", "``", "6", "''", "''", "star", "resort", "was", "the", "same", "after", "the", "3rd", "party", "booking", "charge", "as", "if", "I", "booked", "it", "myself", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "charge", "e2_pos": 27, "label": "after"}
+]

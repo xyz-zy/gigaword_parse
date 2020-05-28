@@ -1,0 +1,4 @@
+[
+{"tokens": ["An", "only", "because", "the", "supervisor", "say", "I", "was", "waiting", "an", "the", "line", "was", "very", "slow", "Then", "I", "watched", "my", "car", "get", "parked", "and", "4", "other", "cars", "that", "came", "out", "after", "my", "car", "-", "all", "got", "finished", "and", "drove", "off", "before", "I", "said", "something", "to", "the", "customer", "service", "person", "walking", "around", "-", "20", "minutes", "later", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "said", "e2_pos": 41, "label": "before"},
+{"tokens": ["They", "made", "all", "sorts", "of", "excuses", "-", "of", "course", ",", "they", "did", "this", "before", "bothering", "to", "ask", "or", "listen", "to", "what", "happened", "."], "e1_text": "did", "e1_pos": 11, "e2_text": "bothering", "e2_pos": 14, "label": "before"}
+]

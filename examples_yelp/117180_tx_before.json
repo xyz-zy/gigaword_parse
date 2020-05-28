@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "the", "reviews", "before", "going", "in", "to", "this", "place", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "going", "e2_pos": 8, "label": "before"},
+{"tokens": ["So", "the", "first", "time", "I", "went", "in", "they", "had", "me", "waiting", "for", "an", "hour", "before", "I", "was", "seen", "for", "my", "eye", "appointment", "-LRB-", "and", "I", "did", "make", "an", "appointment", "-RRB-", "after", "waiting", "they", "finally", "saw", "me", "and", "I", "ended", "up", "spending", "3", "hours", "there", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["They", "gave", "me", "trial", "contacts", "and", "I", "had", "to", "make", "a", "follow", "up", "appointment", "before", "I", "got", "my", "prescription", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

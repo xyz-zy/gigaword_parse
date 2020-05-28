@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "there", "at", "6pm", "on", "Friday", "and", "had", "a", "half", "hour", "wait", ",", "people", "who", "came", "just", "after", "us", "were", "told", "the", "wait", "was", "going", "on", "an", "hour", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

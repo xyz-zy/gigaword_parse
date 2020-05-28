@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "left", "the", "room", "for", "a", "bit", "the", "first", "day", ",", "came", "back", "that", "evening", "after", "eating", "at", "the", "buffet", ",", "and", "were", "preparing", "to", "hop", "into", "bed", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "eating", "e2_pos": 16, "label": "after"},
+{"tokens": ["That", "night", ",", "we", "got", "into", "room", "pretty", "late", "after", "seeing", "a", "show", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

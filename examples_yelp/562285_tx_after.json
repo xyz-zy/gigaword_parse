@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", ",", "she", "will", "order", "your", "meds", "for", "Formulary", "after", "you", "told", "her", "generic", "is", "what", "you", "'re", "insurance", "will", "cover", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "told", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "have", "seen", "numerous", "patients", "walk", "out", "of", "the", "office", "waiting", "room", ",", "swearing", "never", "to", "return", "after", "they", "'ve", "gotten", "completely", "fed", "up", "."], "e1_text": "return", "e1_pos": 16, "e2_text": "'ve", "e2_pos": 19, "label": "after"}
+]

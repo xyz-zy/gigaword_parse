@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "we", "get", "a", "phone", "call", "saying", "the", "car", "had", "a", "busted", "radiator", "-LRB-", "that", "was", "not", "leaking", "before", "we", "took", "it", "in", "-RRB-", "and", "to", "repair", "everything", "would", "be", "$", "1,030", "."], "e1_text": "leaking", "e1_pos": 17, "e2_text": "took", "e2_pos": 20, "label": "before"}
+]

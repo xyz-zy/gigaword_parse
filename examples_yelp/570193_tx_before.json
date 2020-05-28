@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "it", "in", "30", "mins", "before", "they", "were", "closing", "and", "I", "beelined", "for", "the", "raw", "oysters", "and", "seafood", "section", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "you", "are", "a", "buffet", "and", "you", "let", "people", "in", "near", "closing", "time", "then", "at", "least", "let", "them", "get", "all", "their", "food", "before", "you", "start", "shutting", "your", "bars", "down", "!"], "e1_text": "get", "e1_pos": 18, "e2_text": "start", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "drink", "took", "more", "than", "15", "minutes", "to", "prepare", ",", "and", "I", "'m", "pretty", "sure", "I", "got", "my", "order", "before", "some", "patrons", "who", "had", "placed", "their", "order", "before", "me", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "had", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "like", "the", "concept", "of", "the", "place", ",", "but", "Steepery", "will", "need", "to", "clean", "up", "its", "act", "and", "rethink", "its", "pricing", "strategy", "before", "I", "'m", "back", "!"], "e1_text": "rethink", "e1_pos": 18, "e2_text": "'m", "e2_pos": 24, "label": "before"}
+]

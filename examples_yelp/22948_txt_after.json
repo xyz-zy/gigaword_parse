@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "took", "great", "joy", "in", "embarrassing", "me", "in", "front", "of", "a", "family", "friend", "after", "coming", "in", "for", "an", "emergency", "visit", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "coming", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "am", "just", "so", "sad", "that", "after", "years", "of", "using", "Dr.", "Zacher", ",", "they", "would", "take", "advantage", "of", "our", "family", "like", "that", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "using", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "used", "to", "be", "one", "of", "our", "favorite", "places", "for", "breakfast", ",", "but", "the", "original", "owners", "sent", "it", "on", "the", "skids", "before", "selling", "out", "last", "year", "."], "e1_text": "sent", "e1_pos": 16, "e2_text": "selling", "e2_pos": 22, "label": "before"}
+]

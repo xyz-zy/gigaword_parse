@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "pretty", "sneaky", "to", "wait", "until", "we", "were", "done", "eating", "to", "bring", "it", "up", "because", "if", "I", "had", "heard", "that", "before", "we", "ordered", "I", "definitely", "would", "have", "wanted", "to", "speak", "to", "the", "manager", "myself", "."], "e1_text": "heard", "e1_pos": 19, "e2_text": "ordered", "e2_pos": 23, "label": "before"},
+{"tokens": ["If", "I", "knew", "this", "information", "before", "we", "ordered", ",", "I", "probably", "would", "have", "gotten", "up", "and", "left", "this", "place", "for", "the", "third", "time", "in", "a", "row", "."], "e1_text": "knew", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 7, "label": "before"}
+]

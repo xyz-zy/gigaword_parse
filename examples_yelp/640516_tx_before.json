@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "sure", "to", "know", "the", "prices", "before", "I", "went", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "went", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "only", "reason", "why", "I", "am", "giving", "it", "4", "stars", "instead", "of", "5", "is", "that", "their", "prices", "are", "a", "little", "higher", "than", "they", "were", "before", "and", "higher", "than", "most", "saloons", "."], "e1_text": "are", "e1_pos": 17, "e2_text": "were", "e2_pos": 23, "label": "before"}
+]

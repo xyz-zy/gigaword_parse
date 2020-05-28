@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mel", "'s", "became", "a", "staple", "of", "my", "undergraduate", "career", "after", "it", "re-opened", "a", "couple", "of", "years", "ago", "."], "e1_text": "became", "e1_pos": 2, "e2_text": "re-opened", "e2_pos": 11, "label": "after"},
+{"tokens": ["For", "a", "long", "time", "in", "my", "life", ",", "it", "was", "missing", ",", "mostly", "because", "it", "had", "tragically", "burned", "down", "in", "April", "of", "2010", ",", "just", "after", "my", "first", "year", "of", "studies", "at", "the", "city", "'s", "namesake", "university", "had", "wrapped", "up", "."], "e1_text": "burned", "e1_pos": 17, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

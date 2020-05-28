@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "when", "the", "server", "leaned", "threateningly", "into", "SO", "'s", "space", "and", "said", ",", "''", "``", "And", "YOU", "should", "know", "you", "never", "tell", "a", "server", "you", "'re", "giving", "them", "a", "bad", "tip", "until", "after", "you", "get", "your", "food", ".", "''", "''"], "e1_text": "tell", "e1_pos": 22, "e2_text": "get", "e2_pos": 35, "label": "after"}
+]

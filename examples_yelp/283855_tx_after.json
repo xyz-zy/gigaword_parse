@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "man-child", "picked", "out", "this", "location", "after", "looking", "online", "."], "e1_text": "picked", "e1_pos": 2, "e2_text": "looking", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "server", "came", "by", "very", "soon", "after", "that", "to", "make", "sure", "our", "drinks", "had", "been", "ordered", "and", "since", "we", "were", "first-timer", "'s", "gave", "us", "time", "to", "make", "our", "selections", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "gave", "e2_pos": 22, "label": "after"}
+]

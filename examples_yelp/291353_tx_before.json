@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "around", "4", "on", "a", "Sunday", "afternoon", "and", "decided", "to", "get", "cleaned", "up", "before", "I", "did", "anything", "else", "since", "I", "had", "just", "driven", "9", "hours", "."], "e1_text": "cleaned", "e1_pos": 12, "e2_text": "did", "e2_pos": 16, "label": "before"},
+{"tokens": ["Then", ",", "I", "actually", "looked", "around", "-LRB-", "which", "I", "guess", "I", "should", "have", "done", "before", "stepping", "in", "-RRB-", "and", "saw", "what", "seemed", "like", "a", "whole", "head", "of", "long", "black", "hair", "in", "the", "tub", "and", "on", "the", "walls", "."], "e1_text": "done", "e1_pos": 13, "e2_text": "stepping", "e2_pos": 15, "label": "before"}
+]

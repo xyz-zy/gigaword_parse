@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "honestly", "give", "this", "place", "a", "NEGATIVE", "5", "stars", "after", "the", "experience", "I", "just", "had", "there", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "then", "proceeded", "after", "I", "was", "ABOUT", "to", "show", "him", "the", "cheese", "to", "go", "and", "get", "a", "SECOND", "staff", "member", ",", "whom", "also", "asked", "me", "to", "`", "show", "him", "the", "cheese", "'", ",", "he", "then", "walked", "over", "to", "the", "counter", ",", "back", "again", ",", "and", "AGAIN", "insisted", "there", "was", "no", "cheese", "."], "e1_text": "proceeded", "e1_pos": 2, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

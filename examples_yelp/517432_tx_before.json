@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "moved", "to", "Las", "Vegas", "from", "Alaska", "and", "wanted", "to", "take", "precautions", "before", "getting", "waxed", "at", "a", "new", "salon", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "getting", "e2_pos": 14, "label": "before"},
+{"tokens": ["She", "provided", "me", "with", "the", "information", "about", "the", "type", "of", "wax", "they", "use", "and", "informed", "me", "I", "could", "stop", "by", "for", "an", "allergy", "test", "on", "my", "wrist", "before", "making", "an", "appointment", "for", "my", "brows", "."], "e1_text": "stop", "e1_pos": 18, "e2_text": "making", "e2_pos": 28, "label": "before"}
+]

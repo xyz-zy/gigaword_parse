@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "They", "had", "our", "table", "set", "up", "but", "did", "n't", "seat", "us", "till", "10", "minutes", "after", "the", "table", "was", "ready", "."], "e1_text": "seat", "e1_pos": 10, "e2_text": "was", "e2_pos": 18, "label": "after"},
+{"tokens": ["-", "Food", "took", "about", "30-40", "minutes", "to", "come", "out", "after", "placing", "the", "order", "-", "I", "ordered", "some", "extra", "sides", "of", "sauce", "and", "they", "never", "brought", "it", "-", "Food", "is", "gon", "na", "be", "messy", "."], "e1_text": "come", "e1_pos": 7, "e2_text": "placing", "e2_pos": 10, "label": "after"}
+]

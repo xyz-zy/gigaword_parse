@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "given", "a", "new", "file", ",", "treated", "like", "a", "first", "time", "patient", "and", "even", "though", "I", "told", "them", "I", "had", "been", "there", "before", ",", "they", "have", "now", "sent", "me", "a", "bill", "for", "a", "contact", "lense", "fitting", "which", "they", "expect", "me", "to", "pay", "."], "e1_text": "told", "e1_pos": 17, "e2_text": "had", "e2_pos": 20, "label": "before"}
+]

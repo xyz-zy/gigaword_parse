@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "this", "place", "for", "the", "first", "time", "since", "moving", "to", "Nevada", "after", "hearing", "it", "was", "good", "for", "a", "quick", "stop", "."], "e1_text": "moving", "e1_pos": 8, "e2_text": "hearing", "e2_pos": 12, "label": "after"},
+{"tokens": ["Ordered", "2", "sprites", "to", "go", "with", ",", "got", "sprite", "and", "coke", "even", "after", "correcting", "them", "3", "times", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "correcting", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyway", "as", "I", "thought", "about", "the", "food", "after", "trying", "2", "entr", "\\", "u00e9es", "I", "came", "to", "the", "this", "conclusion", "."], "e1_text": "thought", "e1_pos": 3, "e2_text": "trying", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "'s", "moderately", "priced", "yet", "over", "priced", "after", "all", "it", "'s", "mostly", "pasta", "and", "lettuce", "you", "'re", "getting", "."], "e1_text": "priced", "e1_pos": 3, "e2_text": "'s", "e2_pos": 1, "label": "after"}
+]

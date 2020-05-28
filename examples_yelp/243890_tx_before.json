@@ -1,0 +1,4 @@
+[
+{"tokens": ["BIG", "TIP", ":", "Make", "a", "representative", "walk", "around", "the", "car", "with", "you", "and", "sign", "off", "on", "the", "no", "dents", "before", "you", "take", "the", "car", "off", "the", "lot", "or", "you", "could", "be", "the", "next", "one", "duped", "."], "e1_text": "sign", "e1_pos": 13, "e2_text": "take", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "have", "never", "given", "a", "company", "a", "bad", "rating", "and", "I", "should", "have", "looked", "here", "before", "renting", "at", "Fox", "since", "not", "many", "people", "had", "anything", "good", "to", "say", "."], "e1_text": "looked", "e1_pos": 13, "e2_text": "renting", "e2_pos": 16, "label": "before"}
+]

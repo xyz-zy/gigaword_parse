@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "person", "came", "and", "told", "us", "that", "our", "waitress", "was", "on", "break", "so", "he", "would", "take", "our", "drink", "order", "-LRB-", "who", "the", "hell", "goes", "on", "break", "even", "an", "hour", "before", "the", "restaurant", "was", "closing", "??", "-RRB-", "."], "e1_text": "goes", "e1_pos": 23, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

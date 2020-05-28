@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "something", "that", "I", "meditated", "on", "all", "day", "before", "sitting", "down", "to", "write", "this", "review", "."], "e1_text": "meditated", "e1_pos": 5, "e2_text": "sitting", "e2_pos": 10, "label": "before"},
+{"tokens": ["She", "asked", "us", "if", "we", "had", "been", "there", "before", "and", "went", "on", "to", "describe", "the", "style", "of", "food", ",", "and", "when", "I", "asked", "who", "her", "chefs", "were", ",", "she", "asked", "if", "I", "was", "with", "Starwood", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

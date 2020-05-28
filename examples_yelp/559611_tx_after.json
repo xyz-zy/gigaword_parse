@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "not", "only", "did", "n't", "give", "us", "the", "correct", "check", "TWICE", ",", "but", "she", "let", "us", "sit", "for", "fifteen", "minutes", "after", "we", "asked", "her", "to", "change", "it", "the", "first", "time", "before", "even", "addressing", "the", "problem", "."], "e1_text": "sit", "e1_pos": 17, "e2_text": "asked", "e2_pos": 23, "label": "after"}
+]

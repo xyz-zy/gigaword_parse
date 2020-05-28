@@ -1,0 +1,4 @@
+[
+{"tokens": ["ATM", "withdrawals", "are", "limited", "to", "4", "per", "month", "before", "they", "start", "assigning", "fees", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "start", "e2_pos": 10, "label": "before"},
+{"tokens": ["Conservative", "lending", "practices", "and", "membership", "approval", "goes", "with", "the", "territory", "at", "CUs", ",", "so", "expect", "a", "pretty", "thorough", "financial", "check-up", "before", "becoming", "part", "of", "the", "Union", "."], "e1_text": "expect", "e1_pos": 14, "e2_text": "becoming", "e2_pos": 21, "label": "before"}
+]

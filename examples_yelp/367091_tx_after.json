@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "Daniel", "to", "show", "me", "the", "grooming", "room", "and", "the", "room", "where", "my", "pup", "would", "be", "held", "after", "grooming", "while", "waiting", "til", "I", "picked", "him", "up", "...", "walking", "down", "the", "hall", "to", "the", "grooming", "room", "the", "dirt", "actually", "went", "up", "the", "walls", "."], "e1_text": "held", "e1_pos": 17, "e2_text": "grooming", "e2_pos": 7, "label": "after"}
+]

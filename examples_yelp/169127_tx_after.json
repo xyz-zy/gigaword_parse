@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'d", "heard", "about", "it", "forever", ",", "but", "finally", "went", "after", "a", "performance", "of", "La", "Cage", "aux", "Folles", "at", "the", "Smith", "Center", "ran", "a", "lot", "longer", "than", "we", "expected", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "ran", "e2_pos": 22, "label": "after"}
+]

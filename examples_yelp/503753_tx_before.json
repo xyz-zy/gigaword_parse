@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "highly", "recommend", "bring", "in", "your", "personal", "lab", "top", "if", "you", "order", "a", "CD", "of", "your", "photos", "to", "review", "your", "photos", "before", "you", "leave", "the", "shop", ",", "I", "would", "also", "recommend", "that", "you", "double", "check", "that", "they", "included", "all", "the", "photos", "you", "ordered", "."], "e1_text": "review", "e1_pos": 19, "e2_text": "leave", "e2_pos": 24, "label": "before"},
+{"tokens": ["When", "purchasing", "one", "of", "these", "make", "sure", "you", "know", "the", "pricing", "of", "there", "products", "before", "you", "buy", "."], "e1_text": "know", "e1_pos": 8, "e2_text": "buy", "e2_pos": 16, "label": "before"}
+]

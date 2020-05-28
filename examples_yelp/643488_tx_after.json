@@ -1,0 +1,5 @@
+[
+{"tokens": ["5", "of", "my", "friends", "and", "I", "decided", "to", "have", "brunch", "here", "Sunday", ",", "after", "reading", "a", "New", "Times", "review", "that", "was", "pretty", "positive", "."], "e1_text": "brunch", "e1_pos": 9, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["Our", "entrees", "arrived", "about", "15", "minutes", "after", "the", "guacamole", ",", "which", "was", "fine", ",", "but", "my", "food", "was", "n't", "hot", ",", "or", "even", "warm", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "most", "disappointing", "part", "of", "the", "meal", "was", "the", "outright", "passive", "aggressiveness", "Jorge", "displayed", "after", "one", "of", "our", "group", "wrote", "up", "a", "quick", "Yelp", "review", "at", "the", "table", "."], "e1_text": "displayed", "e1_pos": 13, "e2_text": "wrote", "e2_pos": 19, "label": "after"}
+]

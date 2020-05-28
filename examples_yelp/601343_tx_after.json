@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "really", "excited", "to", "try", "this", "place", "after", "seeing", "this", "restaurant", "on", "Man", "v.", "Food", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "took", "about", "an", "hour", "before", "we", "were", "able", "to", "order", "our", "food", "after", "being", "seated", ",", "My", "friend", "ordered", "a", "margarita", "and", "they", "failed", "to", "tell", "us", "that", "they", "did", "not", "have", "their", "liquor", "license", "yet", "and", "it", "was", "going", "to", "be", "a", "virgin", "margarita", "."], "e1_text": "order", "e1_pos": 10, "e2_text": "being", "e2_pos": 14, "label": "after"}
+]

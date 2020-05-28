@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "decided", "to", "come", "here", "after", "looking", "through", "yelp", "reviews", "for", "the", "most", "reviewed", "pho", "restaurants", "in", "China", "town", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "looking", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "was", "n't", "super", "thirsty", "after", "eating", "and", "did", "not", "have", "a", "problem", "slurping", "up", "the", "soup", "either", "=-RRB-", "This", "will", "definitely", "be", "my", "go-to", "spot", "if", "I", "'m", "ever", "back", "to", "visit", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "eating", "e2_pos": 6, "label": "after"},
+{"tokens": ["Come", "hungry", ",", "leave", "satisfied", "...", "especially", "after", "a", "long", "night", "of", "partying", "=D", "Happy", "Eating", "yelpers", "!"], "e1_text": "leave", "e1_pos": 3, "e2_text": "partying", "e2_pos": 12, "label": "after"}
+]

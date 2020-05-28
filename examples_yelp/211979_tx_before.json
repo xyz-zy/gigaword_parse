@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "failed", "to", "get", "into", "the", "nightclub", "the", "night", "we", "arrived", ",", "but", "he", "wanted", "to", "give", "their", "''", "``", "Spiritual", "Dining", "''", "''", "a", "chance", ",", "so", "we", "ate", "dinner", "here", "the", "night", "before", "we", "left", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "left", "e2_pos": 39, "label": "before"},
+{"tokens": ["They", "just", "get", "THAT", "much", "traffic", ",", "and", "we", "still", "had", "to", "wait", "about", "10", "minutes", "before", "getting", "our", "reserved", "table", "."], "e1_text": "wait", "e1_pos": 12, "e2_text": "getting", "e2_pos": 17, "label": "before"}
+]

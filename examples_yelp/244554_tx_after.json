@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "back", "at", "a", "later", "time", "after", "i", "dropped", "of", "the", "groceries", "at", "my", "house", "which", "was", "a", "short", "1", "min", "drive", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "dropped", "e2_pos": 9, "label": "after"},
+{"tokens": ["So", "I", "was", "kicked", "out", "for", "trying", "to", "buy", "an", "ingredient", "for", "cooking", "and", "about", "8", "customers", "with", "full", "shopping", "carts", "in", "line", "walked", "out", "after", "I", "did", "because", "they", "were", "very", "offended", "by", "the", "way", "they", "treated", "me", "."], "e1_text": "walked", "e1_pos": 23, "e2_text": "did", "e2_pos": 27, "label": "after"}
+]

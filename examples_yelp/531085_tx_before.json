@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "'ve", "checked", "Yelp", "before", "eating", "here", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "before"},
+{"tokens": ["Unless", "you", "want", "to", "see", "what", "a", "restaurant", "is", "like", "before", "it", "dies", "."], "e1_text": "like", "e1_pos": 9, "e2_text": "dies", "e2_pos": 12, "label": "before"}
+]

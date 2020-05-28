@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "gift", "card", "for", "Groupon", "for", "this", "restaurant", "$", "15", "what", "'s", "the", "cost", "for", "$", "30", "worth", "of", "food", "thought", "that", "was", "a", "great", "deal", "until", "after", "I", "finished", "the", "purchase", "and", "it", "said", "I", "could", "only", "use", "10", "dollars", "at", "a", "time", "it", "did", "not", "tell", "you", "this", "until", "after", "you", "confirm", "your", "purchase", "very", "dishonest", "when", "I", "asked", "the", "owner", "if", "I", "could", "use", "them", "."], "e1_text": "was", "e1_pos": 24, "e2_text": "finished", "e2_pos": 31, "label": "after"}
+]

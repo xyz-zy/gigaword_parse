@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "didnt", "introduce", "himself", "as", "our", "waiter", ",", "didnt", "ask", "if", "we", "had", "been", "there", "before", ",", "didnt", "go", "over", "anything", "on", "the", "menu", "...", "just", "took", "our", "drink", "orders", "...", "Well", ",", "he", "did", "bring", "those", "back", "...", "and", "left", "again", "!"], "e1_text": "ask", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "been", "here", "twice", "and", "walked", "out", "the", "last", "time", "after", "the", "bartender", "stood", "around", "and", "talked", "to", "her", "co-workers", "instead", "of", "serving", "my", "date", "and", "I.", "The", "set", "up", "is", "strange", "and", "the", "patio", "is", "small", "."], "e1_text": "walked", "e1_pos": 6, "e2_text": "stood", "e2_pos": 14, "label": "after"}
+]

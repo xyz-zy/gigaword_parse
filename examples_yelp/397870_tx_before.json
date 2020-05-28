@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "the", "movie", "got", "out", ",", "there", "was", "still", "20", "minutes", "before", "they", "closed", ",", "so", "we", "hurried", "over", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "closed", "e2_pos": 13, "label": "before"},
+{"tokens": ["There", "was", "still", "around", "15", "minutes", "before", "the", "shop", "was", "going", "to", "close", "and", "she", "was", "not", "pleased", "that", "we", "were", "not", "leaving", "right", "away", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

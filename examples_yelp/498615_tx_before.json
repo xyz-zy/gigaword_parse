@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "last", "time", "I", "must", "have", "driven", "around", "to", "3", "or", "4", "different", "lots", "before", "I", "finally", "had", "to", "go", "to", "Long", "Term", "4", "."], "e1_text": "driven", "e1_pos": 6, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["Half", "the", "entrences", "are", "for", "buses", "or", "employees", "and", "I", "pulled", "in", "each", "time", "before", "being", "able", "to", "read", "the", "sign", "."], "e1_text": "pulled", "e1_pos": 10, "e2_text": "being", "e2_pos": 15, "label": "before"}
+]

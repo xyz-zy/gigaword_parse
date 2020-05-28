@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "him", "''", "``", "I", "am", "not", "kicking", "you", "around", ",", "you", "are", "causing", "me", "to", "wait", "a", "great", "deal", "after", "I", "am", "all", "ready", "paying", "too", "much", "for", "a", "rental", "and", "you", "are", "acting", "as", "though", "I", "am", "the", "problem", ".", "''", "''"], "e1_text": "wait", "e1_pos": 17, "e2_text": "am", "e2_pos": 6, "label": "after"}
+]

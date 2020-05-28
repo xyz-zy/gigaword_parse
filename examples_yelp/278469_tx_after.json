@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "FINALLY", "get", "our", "drinks", ",", "and", "maybe", "they", "were", "cold", ",", "but", "the", "mugs", "were", "not", ",", "so", "not", "cold", "after", "pouring", "...", "of", "course", ",", "then", "our", "food", "came", ",", "which", "was", "disappointing", "only", "in", "that", "we", "like", "to", "enjoy", "our", "drink", "before", "dinner", ",", "not", "with", "it", "."], "e1_text": "cold", "e1_pos": 20, "e2_text": "pouring", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "only", "ate", "the", "shrimp", ",", "after", "adding", "hot", "sauce", "to", "the", "remoulade", "that", "came", "with", "them", "."], "e1_text": "ate", "e1_pos": 2, "e2_text": "adding", "e2_pos": 7, "label": "after"}
+]

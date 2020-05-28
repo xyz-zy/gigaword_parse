@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfair", "15", "mins", "refund", "before", "you", "even", "see", "a", "room", "."], "e1_text": "mins", "e1_pos": 2, "e2_text": "see", "e2_pos": 7, "label": "before"},
+{"tokens": ["Any", "hotel", "or", "motel", "will", "and", "should", "let", "you", "see", "a", "room", "before", "you", "commit", "."], "e1_text": "see", "e1_pos": 9, "e2_text": "commit", "e2_pos": 14, "label": "before"}
+]

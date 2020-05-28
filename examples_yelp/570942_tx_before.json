@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", ",", "due", "to", "aborting", "my", "date", "after", "drinks", "and", "before", "ordering", "any", "food", ",", "I", "can", "really", "only", "review", "the", "beverages", "."], "e1_text": "aborting", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 11, "label": "before"}
+]

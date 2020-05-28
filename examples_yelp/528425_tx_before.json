@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", ",", "''", "``", "what", "do", "you", "mean", "they", "are", "voided", "I", "redeemed", "the", "deal", "before", "it", "expired", "and", "I", "still", "have", "one", "more", "session", "''", "''", "."], "e1_text": "redeemed", "e1_pos": 13, "e2_text": "expired", "e2_pos": 18, "label": "before"},
+{"tokens": ["You", "should", "probably", "contact", "Groupon", "and", "ask", "for", "a", "refund", "before", "it", "is", "too", "late", "."], "e1_text": "ask", "e1_pos": 6, "e2_text": "is", "e2_pos": 12, "label": "before"}
+]

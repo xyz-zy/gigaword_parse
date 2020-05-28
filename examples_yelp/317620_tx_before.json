@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "the", "reviews", "before", "renting", "through", "Payless", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "renting", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "'ve", "rented", "cars", "before", "so", "I", "'m", "used", "to", "it", ",", "but", "these", "guys", "really", "push", "it", "."], "e1_text": "'ve", "e1_pos": 1, "e2_text": "'m", "e2_pos": 7, "label": "before"}
+]

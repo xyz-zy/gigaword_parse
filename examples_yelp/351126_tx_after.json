@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "said", "that", "after", "he", "closed", "on", "his", "condo", "yesterday", ",", "he", "went", "over", "for", "a", "drink", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "closed", "e2_pos": 5, "label": "after"}
+]

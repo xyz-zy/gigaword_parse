@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "recommendation", "-LRB-", "and", "something", "I", "wish", "I", "did", "while", "I", "was", "here", "-RRB-", "is", "to", "order", "items", "off", "the", "regular", "menu", "before", "you", "get", "stuck", "with", "a", "big", "bill", "and", "food", "you", "may", "or", "may", "not", "care", "for", "."], "e1_text": "order", "e1_pos": 16, "e2_text": "get", "e2_pos": 24, "label": "before"}
+]

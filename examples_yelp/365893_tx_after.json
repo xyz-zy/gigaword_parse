@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "problem", "though", "is", "after", "we", "got", "pulled", "off", ",", "we", "were", "told", "my", "girlfriend", "could", "get", "in", "for", "free", ",", "but", "I", "had", "to", "pay", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "got", "e2_pos": 7, "label": "after"},
+{"tokens": ["No", "problem", "with", "that", ",", "so", "we", "get", "out", "of", "the", "express", "line", "to", "go", "to", "the", "girls", "in", "for", "free", "line", ",", "but", "then", "we", "were", "told", "-LRB-", "after", "we", "already", "got", "out", "of", "line", "-RRB-", "the", "girls", "getting", "in", "for", "free", "have", "to", "go", "in", "through", "separate", "entrances", "-", "meaning", "I", "would", "have", "had", "to", "leave", "her", "alone", "for", "god", "knows", "how", "long", "while", "I", "waited", "in", "line", "."], "e1_text": "told", "e1_pos": 27, "e2_text": "got", "e2_pos": 32, "label": "after"}
+]

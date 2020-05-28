@@ -1,0 +1,4 @@
+[
+{"tokens": ["Oh", "how", "I", "wish", "I", "'d", "have", "read", "these", "reviews", "before", "going", "to", "this", "club", "."], "e1_text": "read", "e1_pos": 7, "e2_text": "going", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "left", "at", "1", ",", "before", "Calvin", "Harris", "even", "went", "on", ",", "and", "they", "were", "Still", "letting", "people", "in", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "went", "e2_pos": 9, "label": "before"}
+]

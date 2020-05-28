@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "scheduled", "appointment", "was", "canceled", "a", "week", "after", "I", "had", "set", "it", "."], "e1_text": "canceled", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

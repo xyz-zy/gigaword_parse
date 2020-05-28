@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "came", "in", "exam", "room", ",", "looked", "me", "up", "and", "down", "and", "waa", "reading", "my", "paperwork", "-LRB-", "medical", "history", "-RRB-", "1st", "question", "she", "had", "for", "me", "was", "''", "``", "do", "u", "even", "want", "a", "baby", ",", "i", "see", "u", "had", "an", "abortion", "before", "''", "''", ",", "i", "answered", "with", "''", "``", "that", "was", "when", "i", "was", "17", ",", "im", "35", "now", "''", "''", ",", "next", "question", "was", "''", "``", "does", "your", "boyfriend", "want", "it", "?", "''", "''"], "e1_text": "see", "e1_pos": 37, "e2_text": "had", "e2_pos": 23, "label": "before"},
+{"tokens": ["super", "cold", "and", "rude", ",", "poked", "me", "5", "times", "before", "getting", "necessary", "blood", "...", "leaving", "me", "badly", "bruised", "for", "2", "weeks", ".", "."], "e1_text": "poked", "e1_pos": 5, "e2_text": "getting", "e2_pos": 10, "label": "before"}
+]

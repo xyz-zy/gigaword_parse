@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "chose", "the", "restaurant", "after", "receiving", "a", "flier", "in", "the", "mail", "that", "stated", "a", "bottle", "of", "wine", "would", "be", "served", "with", "the", "purchase", "of", "two", "dinners", "on", "Monday", "nights", "."], "e1_text": "chose", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 5, "label": "after"}
+]

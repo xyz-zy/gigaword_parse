@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "not", "sure", "how", "it", "differs", "if", "I", "return", "a", "bathing", "suit", "vs.", "exchange", "a", "bathing", "suit", "they", "are", "still", "getting", "a", "RETURNED", "bathing", "suit", "????", "I", "asked", "the", "clerk", "after", "I", "exchanged", "it", "what", "will", "she", "now", "do", "with", "the", "bathing", "suit", "I", "just", "exchanged", ",", "she", "answered", "she", "does", "n't", "know", "."], "e1_text": "asked", "e1_pos": 28, "e2_text": "exchanged", "e2_pos": 33, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "coworker", "told", "me", "to", "meet", "her", "at", "Wichcraft", "for", "a", "quick", "lunch", "before", "leaving", "Vegas", ",", "I", "literally", "ran", "there", "as", "fast", "as", "I", "could", ",", "as", "I", "dragged", "my", "suitcase", "from", "Monte", "Carlo", "to", "MGM", "in", "the", "desert", "heat", "."], "e1_text": "meet", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 15, "label": "before"}
+]

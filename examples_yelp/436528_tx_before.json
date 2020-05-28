@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "we", "had", "not", "checked", "the", "car", "before", "leaving", ",", "the", "guy", "would", "have", "probably", "charged", "us", "for", "damages", "we", "did", "n't", "do", ",", "since", "the", "areas", "were", "not", "checked", "on", "the", "paper", "the", "guy", "gives", "you", "before", "leaving", "the", "lot", "-LRB-", "SO", "PLEASE", "DO", "THIS", "AT", "THE", "AREA", "RIGHT", "BEFORE", "LEAVING", "THE", "LOT", "-RRB-", "."], "e1_text": "checked", "e1_pos": 4, "e2_text": "leaving", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "after", "all", "have", "a", "hot", "chocolate", "-LRB-", "hot", "chocolate", "is", "always", "made", "perfectly", "by", "Italians", "-RRB-", "which", "came", "with", "marshmallows", "and", "cream", "and", "i", "ALSO", "had", "a", "slice", "of", "chocolate", "tiffin", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "have", "e2_pos": 4, "label": "after"}
+]

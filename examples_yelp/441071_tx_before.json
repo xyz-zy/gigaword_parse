@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "asked", "me", "if", "I", "had", "been", "there", "before", "and", "I", "said", "yes", ",", "it", "has", "been", "over", "3", "years", "and", "before", "I", "could", "even", "finish", "my", "sentence", "he", "cut", "me", "off", "and", "said", "''", "``", "Groupons", "are", "for", "new", "customers", "only", ",", "it", "says", "so", "in", "the", "fine", "print", "!", "''", "''"], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Let", "me", "start", "by", "saying", "I", "was", "n't", "going", "to", "write", "a", "review", "after", "what", "I", "thought", "was", "a", "resolved", "incident", "."], "e1_text": "write", "e1_pos": 10, "e2_text": "thought", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "got", "back", "to", "my", "room", "around", "midnight", "to", "pass", "out", "after", "having", "a", "few", "adult", "beverages", "and", "set", "my", "alarm", "for", "8am", "."], "e1_text": "pass", "e1_pos": 9, "e2_text": "having", "e2_pos": 12, "label": "after"},
+{"tokens": ["Here", "is", "where", "the", "fun", "began", "after", "Teresa", "Taylor", "promised", "me", "on", "12\\/11\\/2011", "."], "e1_text": "began", "e1_pos": 5, "e2_text": "promised", "e2_pos": 9, "label": "after"}
+]

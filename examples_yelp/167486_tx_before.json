@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriend", "'s", "salad", "was", "taken", "away", "before", "she", "was", "finished", "because", "there", "was", "no", "room", "on", "the", "table", "for", "an", "extra", "plate", "and", "they", "brought", "our", "Main", "Course", "out", "to", "us", "before", "we", "finished", "our", "salads", "."], "e1_text": "taken", "e1_pos": 5, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

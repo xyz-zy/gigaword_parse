@@ -1,0 +1,3 @@
+[
+{"tokens": ["Salsa", ",", "yes", "...", "but", "chili", ",", "NO", "!!!!!", "My", "burrito", "was", "fixed", "after", "the", "''", "``", "old", "lady", "with", "the", "curly", "hair", "''", "''", "snapped", "at", "me", "like", "I", "worked", "there", "and", "it", "was", "obvious", "on", "the", "ingredients", "or", "something", "."], "e1_text": "fixed", "e1_pos": 12, "e2_text": "snapped", "e2_pos": 25, "label": "after"}
+]

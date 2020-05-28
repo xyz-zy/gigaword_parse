@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "have", "been", "to", "Holsteins", "before", "and", "while", "on", "the", "strip", "with", "out", "of", "town", "friends", "decided", "to", "head", "over", "for", "a", "good", "burger", "."], "e1_text": "been", "e1_pos": 5, "e2_text": "decided", "e2_pos": 19, "label": "before"},
+{"tokens": ["This", "happened", "twice", "more", "before", "we", "all", "resolved", "to", "sticking", "with", "waters", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "resolved", "e2_pos": 7, "label": "before"}
+]

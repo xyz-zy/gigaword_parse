@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "that", "they", "are", "open", "later", "-LRB-", "winters", "hours", "-RRB-", "I", "will", "try", "and", "get", "back", "before", "I", "leave", "town", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "leave", "e2_pos": 18, "label": "before"},
+{"tokens": ["Especially", "since", "the", "first", "place", "I", "tried", "to", "go", "to", "was", "out", "of", "business", ",", "as", "was", "the", "place", "I", "tried", "after", "this", "one", "and", "I", "was", "on", "my", "fourth", "restaurant", "before", "I", "found", "a", "place", "to", "eat", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "found", "e2_pos": 33, "label": "before"}
+]

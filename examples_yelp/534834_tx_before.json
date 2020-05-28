@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "mention", "the", "smoke", "to", "the", "bartender", "who", "brought", "our", "drinks", "and", "before", "I", "finished", "speaking", "she", "cut", "me", "off", "and", "said", ",", "''", "``", "because", "you", "'re", "sensitive", "?", "''", "''"], "e1_text": "mention", "e1_pos": 1, "e2_text": "finished", "e2_pos": 14, "label": "before"}
+]

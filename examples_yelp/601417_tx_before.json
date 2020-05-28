@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "turnover", "at", "the", "tables", "is", "so", "fast", ",", "some", "of", "them", "are", "n't", "wiped", "down", "before", "you", "sit", "at", "them", ",", "although", "I", "'m", "sure", "if", "you", "alert", "a", "server", ",", "they", "'ll", "clean", "it", "off", "for", "you", "."], "e1_text": "wiped", "e1_pos": 14, "e2_text": "sit", "e2_pos": 18, "label": "before"}
+]

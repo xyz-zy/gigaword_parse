@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "landed", "here", "initially", "I", "got", "off", "the", "plane", "and", "was", "thrown", "off", "at", "the", "fact", "that", "I", "had", "to", "walk", "doen", "the", "steps", "of", "the", "plane", "and", "walk", "outside", "before", "getting", "to", "my", "gate", "."], "e1_text": "walk", "e1_pos": 21, "e2_text": "getting", "e2_pos": 32, "label": "before"}
+]

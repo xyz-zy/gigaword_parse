@@ -1,0 +1,3 @@
+[
+{"tokens": ["Chef", "was", "keep", "coughing", "without", "cover", "his", "mouth", "and", "wash", "hands", "at", "the", "three", "comp", "sink", "another", "chef", "was", "triming", "beef", "on", "the", "cutting", "board", "with", "his", "sushi", "knife", "without", "sanitizing", "neither", "before", "or", "after", "of", "course", "cutting", "board", "then", "he", "made", "rolls", "on", "that", "cutting", "board", "and", "that", "knife", "."], "e1_text": "triming", "e1_pos": 19, "e2_text": "sanitizing", "e2_pos": 30, "label": "before"}
+]

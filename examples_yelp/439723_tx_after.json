@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "inquired", "as", "to", "when", "I", "would", "be", "seen", "as", "there", "had", "been", "multiple", "people", "who", "came", "in", "after", "me", "see", "the", "doctor", "AND", "leave", ",", "they", "said", "when", "did", "you", "get", "here", "?"], "e1_text": "came", "e1_pos": 17, "e2_text": "see", "e2_pos": 21, "label": "after"}
+]

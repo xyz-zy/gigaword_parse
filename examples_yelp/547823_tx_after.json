@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "originally", "ordered", "the", "Fried", "Chicken", ",", "however", "after", "she", "went", "to", "put", "our", "order", "in", "our", "waitress", "came", "back", "and", "told", "us", "that", "unfortunately", "they", "were", "out", "of", "that", "right", "now", ",", "and", "she", "apologized", "profusely", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "went", "e2_pos": 10, "label": "after"},
+{"tokens": ["It", "haunted", "my", "dreams", "the", "night", "after", "we", "ate", "it", "."], "e1_text": "haunted", "e1_pos": 1, "e2_text": "ate", "e2_pos": 8, "label": "after"}
+]

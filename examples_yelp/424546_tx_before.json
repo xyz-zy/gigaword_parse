@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "like", "the", "nurses", "at", "the", "recovery", "room", "rushed", "me", "out", "before", "i", "had", "enough", "iv", "fluid", "to", "cope", "with", "dehydration", "."], "e1_text": "rushed", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["but", "aside", "from", "that", "i", "got", "ta", "say", "I", "'m", "not", "a", "fan", "of", "being", "practiced", "on", "by", "students", "-", "even", "tho", "i", "understand", "that", "'s", "necessary", ",", "i", "kinda", "hope", "they", "could", "be", "more", "prepared", "before", "practicing", "on", "real", "patients", "."], "e1_text": "be", "e1_pos": 33, "e2_text": "practicing", "e2_pos": 37, "label": "before"}
+]

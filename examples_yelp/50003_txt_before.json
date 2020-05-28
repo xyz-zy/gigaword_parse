@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "would", "have", "read", "the", "reviews", "before", "coming", "here", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "coming", "e2_pos": 9, "label": "before"},
+{"tokens": ["John", "told", "me", "that", "he", "would", "not", "charge", "anything", "for", "the", "hub", "being", "replaced", "and", "I", "would", "still", "pay", "the", "same", "price", "he", "quoted", "me", "before", "."], "e1_text": "pay", "e1_pos": 18, "e2_text": "quoted", "e2_pos": 23, "label": "before"}
+]

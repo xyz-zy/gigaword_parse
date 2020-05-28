@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "maybe", "it", "was", "a", "busy", "day", "before", "I", "got", "there", "giving", "them", "the", "benefit", "of", "the", "doubt", ",", "but", "I", "had", "to", "fish", "around", "in", "the", "sauce", "to", "find", "pieces", "of", "chicken", "and", "not", "only", "in", "the", "tikki", "masala", "but", "any", "dish", "which", "contained", "sauce", "and", "meat", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["Although", ",", "that", "in", "itself", "is", "not", "something", "that", "would", "normally", "concern", "me", "-", "hey", "if", "the", "food", "is", "superb", "I", "'ll", "eat", "it", "sitting", "on", "a", "street", "corner", "-LRB-", "as", "used", "to", "be", "the", "case", "with", "Viva", "Las", "Arapas", "before", "they", "moved", "-RRB-", "."], "e1_text": "be", "e1_pos": 33, "e2_text": "moved", "e2_pos": 42, "label": "before"}
+]

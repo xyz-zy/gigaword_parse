@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "a", "few", "other", "places", "after", "I", "found", "the", "dress", "I", "wanted", "-LRB-", "I", "already", "had", "made", "other", "appointments", "-RRB-", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "found", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "came", "running", "back", "after", "seeing", "other", "boutiques", "and", "idiotic", "consultants", "."], "e1_text": "running", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

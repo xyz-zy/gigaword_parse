@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "in", "town", "for", "Giants", "Spring", "Training", "and", "decided", "to", "eat", "here", "after", "reading", "the", "other", "yelpers", "'", "reviews", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["Our", "bottle", "is", "almost", "empty", ",", "others", "who", "arrived", "after", "us", "are", "now", "on", "their", "dessert", "and", "still", "we", "have", "no", "entrees", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "are", "e2_pos": 11, "label": "after"}
+]

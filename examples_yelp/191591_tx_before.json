@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "severely", "disappointed", "especially", "because", "I", "reconfirmed", "this", "with", "the", "sales", "person", "on", "the", "phone", "repeatedly", "before", "I", "confirmed", ",", "but", "what", "could", "I", "do", "so", "I", "went", "to", "the", "timeshare", "shpeal", "20", "minutes", "later", "."], "e1_text": "reconfirmed", "e1_pos": 7, "e2_text": "confirmed", "e2_pos": 19, "label": "before"}
+]

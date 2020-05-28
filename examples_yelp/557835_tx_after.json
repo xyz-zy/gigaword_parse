@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "cut", "was", "fine", ",", "I", "just", "went", "in", "for", "a", "trim", "but", "since", "I", "was", "going", "out", "after", "I", "asked", "the", "stylist", "if", "she", "could", "just", "blow", "dry", "my", "hair", "."], "e1_text": "going", "e1_pos": 16, "e2_text": "asked", "e2_pos": 20, "label": "after"}
+]

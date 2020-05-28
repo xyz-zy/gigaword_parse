@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "my", "friend", "'s", "fried", "rice", "had", "so", "much", "egg", "in", "it", ",", "it", "took", "up", "a", "quarter", "of", "her", "plate", "after", "picking", "the", "egg", "out", "of", "a", "third", "of", "her", "dish", "."], "e1_text": "took", "e1_pos": 14, "e2_text": "picking", "e2_pos": 22, "label": "after"}
+]

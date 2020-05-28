@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "band", "took", "a", "short", "break", "and", "the", "bar", "turned", "on", "their", "music", ",", "after", "the", "band", "played", "3", "songs", "I", "went", "and", "ask", "the", "hostess", "to", "turn", "the", "music", "off", "...", "Just", "not", "the", "kind", "of", "night", "I", "was", "expecting", "."], "e1_text": "turned", "e1_pos": 9, "e2_text": "played", "e2_pos": 17, "label": "after"}
+]

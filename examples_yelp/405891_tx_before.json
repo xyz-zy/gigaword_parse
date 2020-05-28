@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tip", "for", "hotel", "management", ":", "Please", "train", "your", "staff", "to", "knock", "before", "entering", "a", "guest", "room", "even", "if", "they", "think", "it", "might", "be", "unoccupied", "."], "e1_text": "knock", "e1_pos": 10, "e2_text": "entering", "e2_pos": 12, "label": "before"}
+]

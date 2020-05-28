@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "the", "host", "saw", "us", "waiting", "for", "a", "table", "and", "finished", "his", "conversation", "with", "the", "bartender", "before", "he", "came", "to", "show", "us", "to", "our", "table", "The", "restaurant", "was", "EMPTY", "-LRB-", "maybe", "that", "has", "something", "to", "say", "about", "the", "place", "-RRB-", ",", "and", "there", "had", "to", "be", "about", "10", "servers", ",", "but", "my", "wine", "glass", "and", "water", "glass", "sat", "empty", "for", "at", "least", "10", "minutes", "."], "e1_text": "finished", "e1_pos": 10, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

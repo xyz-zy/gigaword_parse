@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", ",", "we", "waited", "11", "minutes", "to", "get", "drinks", "after", "we", "order", "them", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "order", "e2_pos": 13, "label": "after"},
+{"tokens": ["bout", "4_5", "for", "waters", ".18", "mins", "for", "bread", ".22", "mins", "in", "after", "we", "order", "the", "coconut", "shrimp", "appeetizerrrr", "it", "cam", "."], "e1_text": "mins", "e1_pos": 9, "e2_text": "order", "e2_pos": 13, "label": "after"}
+]

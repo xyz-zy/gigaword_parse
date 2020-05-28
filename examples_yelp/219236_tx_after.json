@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "ordered", "salad", ",", "the", "plate", "had", "fruit", ",", "after", "he", "walked", "back", "up", "there", ",", "the", "''", "``", "cook", "''", "''", "just", "dumped", "it", "off", "and", "added", "a", "salad", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "walked", "e2_pos": 12, "label": "after"}
+]

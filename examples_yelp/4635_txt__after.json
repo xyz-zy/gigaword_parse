@@ -1,0 +1,3 @@
+[
+{"tokens": ["Little", "did", "I", "know", "the", "house", "rules", "-LRB-", "see", "above", "-RRB-", "and", "after", "the", "people", "in", "front", "of", "me", "ordered", ",", "the", "obnoxious", "cashier", "pointed", "to", "our", "table", "and", "to", "another", "table", "-LRB-", "of", "newbies", "-RRB-", "and", "said", "to", "the", "person", "who", "just", "placed", "the", "order", ":", "''", "``", "you", "can", "either", "sit", "there", "or", "there", "''", "''", ",", "with", "the", "tact", "of", ",", "say", ",", "General", "Patton", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 19, "label": "after"}
+]

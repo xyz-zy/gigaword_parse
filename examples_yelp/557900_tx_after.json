@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "Boyfriend", "ordered", "a", "chicken", "and", "artichoke", "calzone", "which", "looked", "awesome", "when", "it", "came", "out", "but", "after", "cutting", "into", "it", "the", "cheese", "had", "not", "melted", "inside", ",", "so", "we", "sent", "it", "back", "."], "e1_text": "looked", "e1_pos": 9, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["Although", "it", "was", "a", "nice", "thing", "to", "do", ",", "he", "didnt", "really", "care", "for", "this", "dish", "and", "after", "explaining", "that", "she", "offered", "him", "something", "else", "."], "e1_text": "didnt", "e1_pos": 10, "e2_text": "explaining", "e2_pos": 18, "label": "after"}
+]

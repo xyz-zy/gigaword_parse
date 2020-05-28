@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "lady", "who", "was", "at", "the", "registration", "desk", "-LRB-", "where", "the", "line", "took", "25", "minutes", "to", "get", "through", "-RRB-", "gave", "us", "the", "room", "keys", "and", "envelope", "with", "the", "room", "number", "on", "it", "checked", "the", "wrong", "tower", "so", "after", "wandering", "around", "for", "45", "minutes", "with", "2", "dogs", "and", "5", "bags", "we", "called", "the", "front", "desk", "from", "one", "of", "the", "elevators", "and", "then", "transferred", "me", "to", "security", "who", "told", "us", "where", "to", "go", "."], "e1_text": "checked", "e1_pos": 32, "e2_text": "wandering", "e2_pos": 38, "label": "after"}
+]

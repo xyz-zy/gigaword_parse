@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "mentioned", "this", "to", "her", "and", "she", "admitted", "it", "should", "be", "placed", "in", "the", "cooler", "after", "being", "out", "for", "a", "few", "minutes", "and", "swapped", "with", "another", "but", "the", "staff", "does", "n't", "have", "time", "for", "that", "."], "e1_text": "placed", "e1_pos": 11, "e2_text": "being", "e2_pos": 16, "label": "after"},
+{"tokens": ["So", "now", "we", "wait", "again", "for", "the", "tab", "with", "empty", "water", "glasses", ",", "after", "5", "minutes", "we", "ask", "another", "server", "to", "please", "bring", "us", "water", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "ask", "e2_pos": 17, "label": "after"}
+]

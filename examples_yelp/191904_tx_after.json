@@ -1,0 +1,3 @@
+[
+{"tokens": ["as", "we", "waited", "for", "complimentary", "bread", "&", "butter", ",", "a", "couple", "sat", "adjacent", "to", "our", "table", "after", "we", "did", ".", "."], "e1_text": "sat", "e1_pos": 11, "e2_text": "did", "e2_pos": 18, "label": "after"}
+]

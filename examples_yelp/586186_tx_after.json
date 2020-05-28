@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "all", "of", "his", "shows", "and", "even", "started", "cooking", "at", "home", "after", "watching", "an", "entire", "season", "of", "Kitchen", "Nightmares", "on", "Netflix", "."], "e1_text": "cooking", "e1_pos": 9, "e2_text": "watching", "e2_pos": 13, "label": "after"}
+]

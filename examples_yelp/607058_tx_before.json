@@ -1,0 +1,4 @@
+[
+{"tokens": ["Located", "in", "the", "former", "Bottles", "&", "Burgers", "space", ",", "Hops", "utilized", "the", "same", "restaurant", ",", "bar", "and", "kitchen", "layout", "for", "its", "new", "venue", ",", "but", "added", "a", "few", "finishes", "to", "make", "it", "a", "tiny", "bit", "nicer", "than", "it", "was", "before", "."], "e1_text": "make", "e1_pos": 30, "e2_text": "was", "e2_pos": 38, "label": "before"},
+{"tokens": ["Being", "a", "lover", "of", "pork", "belly", ",", "we", "tried", "the", "Spicy", "BBQ", "Pork", "Belly", "before", "our", "burgers", "came", "out", ";", "they", "were", "n't", "really", "spicy", ",", "but", "had", "a", "sweet", ",", "not", "so", "great", "bbq", "sauce", "on", "them", "."], "e1_text": "tried", "e1_pos": 8, "e2_text": "came", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Took", "my", "vehicle", "to", "this", "shop", "after", "one", "of", "my", "co-worker", "recommended", "me", "to", "their", "shop", "saying", "how", "great", "the", "tech", "can", "do", "magic", "on", "the", "job", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "recommended", "e2_pos": 11, "label": "after"},
+{"tokens": ["Well", ",", "3", "weeks", "later", "and", "thousands", "of", "dollars", "gone", "after", "them", "''", "``", "kidnapped", "''", "''", "my", "vehicle", "without", "any", "communications", "whatsoever", ",", "my", "car", "is", "finally", "done", "."], "e1_text": "gone", "e1_pos": 9, "e2_text": "kidnapped", "e2_pos": 14, "label": "after"},
+{"tokens": ["This", "will", "not", "happen", "ever", "after", "the", "stunt", "you", "pulled", "by", "fixing", "my", "vehicle", "."], "e1_text": "happen", "e1_pos": 3, "e2_text": "pulled", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mary", "offered", "to", "take", "my", "order", ",", "but", "I", "explained", "I", "could", "n't", "see", "what", "was", "on", "offer", "and", "waited", "a", "few", "more", "minutes", "before", "deciding", "."], "e1_text": "waited", "e1_pos": 19, "e2_text": "deciding", "e2_pos": 25, "label": "before"}
+]

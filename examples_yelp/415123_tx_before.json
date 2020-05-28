@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "about", "15", "minutes", "before", "their", "happy", "hour", "in", "the", "lounge", "ended", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "ended", "e2_pos": 13, "label": "before"},
+{"tokens": ["Regardless", ",", "we", "were", "sitting", "at", "the", "bar", "and", "neither", "bartender", "acknowledged", "our", "presence", "for", "a", "good", "ten", "minutes", "before", "coming", "over", "to", "take", "our", "order", "."], "e1_text": "acknowledged", "e1_pos": 11, "e2_text": "coming", "e2_pos": 20, "label": "before"}
+]

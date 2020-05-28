@@ -1,0 +1,3 @@
+[
+{"tokens": ["Worse", "yet", "-", "our", "server", "was", "wearing", "the", "filthiest", "uniform", "&", "dirty", "sneakers", "one", "might", "wear", "to", "mow", "the", "lawn", "on", "Sundays", ",", "our", "food", "arrived", "20", "min", "AFTER", "the", "table", "next", "to", "us", "got", "theirs", "-LRB-", "of", "course", "they", "sat", "down", "10mins", "AFTER", "us", ",", "do", "the", "math", "-RRB-", ",", "and", "our", "drink", "orders", "went", "through", "3", "servers", "before", "ending", "up", "on", "our", "table", "."], "e1_text": "went", "e1_pos": 55, "e2_text": "ending", "e2_pos": 60, "label": "before"}
+]

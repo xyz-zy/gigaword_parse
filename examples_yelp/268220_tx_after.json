@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "moved", "in", "one", "week", "later", "and", "the", "morning", "after", "we", "moved", "in", ",", "I", "noticed", "that", "the", "grout", "in", "the", "master", "bathroom", "was", "beginning", "to", "crumble", ",", "and", "the", "tiles", "were", "coming", "loose", "!"], "e1_text": "moved", "e1_pos": 1, "e2_text": "moved", "e2_pos": 1, "label": "after"},
+{"tokens": ["I", "was", "told", "that", "all", "would", "be", "repaired", "after", "they", "were", "done", "with", "the", "entire", "job", ",", "but", "I", "am", "highly", "doubtful", "."], "e1_text": "repaired", "e1_pos": 7, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "above", "10", "minutes", "was", "told", "by", "waitress", "it", "was", "not", "chilled", "-LRB-", "excuse", "me", "it", "'s", "an", "Italian", "Restaurant", "-RRB-", "and", "that", "owner", "says", "it", "'s", "too", "much", "trouble", "to", "put", "in", "the", "shaker", "to", "cool", "3", "after", "getting", "drinks", "we", "ordered", "."], "e1_text": "cool", "e1_pos": 36, "e2_text": "getting", "e2_pos": 39, "label": "after"}
+]

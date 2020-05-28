@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "on", "my", "cell", "phone", ",", "having", "just", "received", "bad", "news", ",", "crying", "and", "one", "of", "them", "was", "chasing", "after", "me", "trying", "to", "''", "``", "give", "''", "''", "me", "free", "show", "tickets", "."], "e1_text": "chasing", "e1_pos": 19, "e2_text": "trying", "e2_pos": 22, "label": "after"}
+]

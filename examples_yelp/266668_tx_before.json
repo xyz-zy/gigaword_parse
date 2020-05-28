@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "clearly", "knew", "before", "she", "started", "the", "haircut", "what", "I", "wanted", "."], "e1_text": "knew", "e1_pos": 2, "e2_text": "started", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "haircut", "was", "so", "bad", "and", "only", "getting", "worse", "I", "literally", "had", "to", "tell", "her", "to", "stop", "cutting", "my", "hair", "and", "get", "up", "from", "the", "chair", "before", "she", "did", "any", "more", "damage", "."], "e1_text": "get", "e1_pos": 21, "e2_text": "did", "e2_pos": 28, "label": "before"}
+]

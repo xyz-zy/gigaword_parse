@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "what", "I", "wanted", "to", "hear", "after", "waiting", "in", "line", "for", "30", "minutes", "to", "play", "this", "game", "."], "e1_text": "hear", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 7, "label": "after"},
+{"tokens": ["Keep", "in", "mind", ",", "this", "is", "after", "the", "2.5", "hours", "you", "spent", "in", "the", "training", "room", ",", "waiting", "for", "30", "minutes", "at", "a", "time", "in", "line", "for", "each", "activity", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "spent", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "second", "course", "came", "out", "after", "we", "were", "presented", "with", "a", "watermelon", "flavored", "and", "vodka", "based", "cocktail", "served", "with", "the", "foam", "of", "egg", "whites", "on", "top", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "third", "course", "came", "out", "after", "we", "were", "presented", "with", "a", "cocktail", "based", "on", "the", "house", "mulled", "wine", "topped", "with", "egg", "whites", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "desert", "came", "after", "we", "had", "had", "time", "to", "let", "the", "prior", "three", "courses", "settle", "over", "conversation", ";", "not", "so", "soon", "as", "to", "rush", "us", "but", "not", "so", "late", "as", "to", "have", "us", "looking", "for", "the", "waiter", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

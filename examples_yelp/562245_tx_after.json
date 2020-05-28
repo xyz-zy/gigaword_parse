@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "our", "hotel", "was", "around", "the", "corner", "we", "went", "there", "late", "at", "night", "after", "attending", "a", "concert", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "attending", "e2_pos": 14, "label": "after"},
+{"tokens": ["Another", "person", "in", "our", "party", "had", "a", "dirty", "plate", ",", "and", "worse", "part", "was", "our", "waitress", "never", "came", "back", "-LRB-", "even", "after", "she", "was", "not", "the", "person", "to", "bring", "out", "our", "food", "-RRB-", "do", "yourself", "a", "favor", "...", "go", "to", "Waffle", "House"], "e1_text": "came", "e1_pos": 17, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["then", "she", "only", "took", "our", "drink", "order", ",", "after", "she", "had", "to", "go", "see", "what", "kind", "of", "vodka", "they", "carried", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["Our", "server", "came", "back", "after", "15", "minutes", "of", "getting", "our", "food", ",", "just", "in", "enough", "time", "for", "us", "to", "ask", "fo", "the", "check", "and", "get", "the", "F.", ".", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "getting", "e2_pos": 8, "label": "after"}
+]

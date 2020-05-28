@@ -1,0 +1,4 @@
+[
+{"tokens": ["made", "a", "reservation", "shortly", "after", "they", "opened", "so", "the", "place", "was", "empty", "."], "e1_text": "made", "e1_pos": 0, "e2_text": "opened", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "also", "give", "you", "hot", "towels", "after", "each", "course", "which", "I", "thought", "was", "a", "nice", "touch", "-LRB-", "especially", "after", "egg", "rolls", "-RRB-"], "e1_text": "give", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

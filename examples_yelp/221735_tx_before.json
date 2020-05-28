@@ -1,0 +1,3 @@
+[
+{"tokens": ["Have", "taken", "my", "dog", "here", "once", "before", "to", "Holly", "-LRB-", "my", "neighbor", "referred", "me", "to", "her", "-RRB-", "."], "e1_text": "taken", "e1_pos": 1, "e2_text": "referred", "e2_pos": 12, "label": "before"}
+]

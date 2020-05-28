@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "fiance", "took", "one", "of", "our", "dogs", "to", "VCA", "Elliot", "Park", "after", "we", "adopted", "her", "from", "the", "Arizona", "Humane", "Society", "--", "it", "'s", "one", "of", "the", "animal", "hospitals", "that", "offers", "free", "initial", "examinations", "to", "shelter", "animals", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "adopted", "e2_pos": 13, "label": "after"},
+{"tokens": ["He", "was", "really", "pleased", "with", "his", "experience", "there", ",", "so", "I", "decided", "to", "take", "our", "other", "dog", "there", "after", "having", "horrible", "experiences", "at", "two", "other", "animal", "hospitals", "this", "past", "summer", "."], "e1_text": "take", "e1_pos": 13, "e2_text": "having", "e2_pos": 19, "label": "after"},
+{"tokens": ["Her", "kindness", "really", "helped", "him", "get", "over", "his", "fear", "of", "going", "to", "the", "veterinarian", "after", "the", "bad", "experiences", "we", "endured", "."], "e1_text": "going", "e1_pos": 10, "e2_text": "endured", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "from", "planning", "to", "leaving", "was", "either", "very", "great", "or", "very", "poor", ",", "one", "extreme", "to", "another", ",", "no", "middle", "ground", ",", "here", "are", "a", "few", "examples", ",", "when", "we", "checked", "in", "early", "we", "were", "told", "the", "room", "would", "be", "ready", "in", "an", "hour", ",", "after", "that", "hour", "they", "said", "another", "hour", ",", "then", "turns", "out", "it", "was", "ready", "until", "6pm", "!"], "e1_text": "be", "e1_pos": 40, "e2_text": "turns", "e2_pos": 55, "label": "after"}
+]

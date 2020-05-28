@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "suspect", "the", "cheesecake", "is", "either", "frozen", "or", "partially", "frozen", "before", "they", "fry", "it", "since", "the", "center", "was", "VERY", "cold", ",", "although", "not", "quite", "frozen", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "fry", "e2_pos": 12, "label": "before"}
+]

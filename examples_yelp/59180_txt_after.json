@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "continued", "to", "shorten", "them", "after", "I", "told", "him", "twice", "not", "to", "."], "e1_text": "shorten", "e1_pos": 3, "e2_text": "told", "e2_pos": 7, "label": "after"},
+{"tokens": ["He", "did", "my", "right", "hand", "first", "and", "while", "he", "started", "doing", "my", "left", "had", ",", "I", "looked", "at", "my", "right", "one", "and", "noticed", "a", "few", "things", "I", "did", "not", "like", "so", "I", "ask", "him", "nicely", "and", "said", "''", "''", "could", "you", "please", "fix", "my", "thumb", "and", "index", "finger", "after", "you", "are", "done", "with", "my", "left", "hand", "?", "''", "''"], "e1_text": "fix", "e1_pos": 42, "e2_text": "are", "e2_pos": 50, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "seemed", "to", "wash", "all", "the", "cars", "before", "bringing", "them", "out", "to", "people", ",", "lets", "just", "say", "it", "was", "n't", "the", "fastest", "operation", "."], "e1_text": "wash", "e1_pos": 3, "e2_text": "bringing", "e2_pos": 8, "label": "before"},
+{"tokens": ["Did", "not", "realize", "that", "we", "had", "to", "roll", "down", "our", "windows", "b\\/c", "hand", "and", "make", "sure", "everyone", "locked", "the", "door", "before", "they", "left", "."], "e1_text": "locked", "e1_pos": 17, "e2_text": "left", "e2_pos": 22, "label": "before"}
+]

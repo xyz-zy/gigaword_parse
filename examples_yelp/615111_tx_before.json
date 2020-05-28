@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "look", "the", "fish", "over", "before", "you", "purchase", "before", "you", "infest", "your", "tank", "."], "e1_text": "look", "e1_pos": 1, "e2_text": "purchase", "e2_pos": 7, "label": "before"},
+{"tokens": ["Remember", "to", "always", "quarantine", "your", "fish", "before", "adding", "to", "your", "display", "tank", "."], "e1_text": "quarantine", "e1_pos": 3, "e2_text": "adding", "e2_pos": 7, "label": "before"}
+]

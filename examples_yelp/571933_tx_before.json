@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "find", "that", "it", "'s", "important", "to", "see", "the", "price", "differences", "between", "different", "shows", "before", "being", "too", "constructive", "in", "my", "reviews", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "being", "e2_pos": 15, "label": "before"},
+{"tokens": ["If", "you", "are", "like", "me", ",", "watch", "all", "other", "three", "before", "watching", "Zarkana", ",", "do", "n't", "have", "your", "high", "hopes", "up", "because", "the", "best", "thing", "you", "may", "find", "would", "be", "sand", "drawings", "in", "the", "show", "."], "e1_text": "watch", "e1_pos": 6, "e2_text": "watching", "e2_pos": 11, "label": "before"}
+]

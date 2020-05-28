@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "first", "visit", "to", "District", "last", "night", "after", "I", "made", "a", "last", "minute", "decision", "to", "go", "celebrate", "my", "birthday", "a", "little", "early", "with", "Mr.", "Hottie", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "made", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "had", "a", "glass", "of", "Mumm", "Brut", "Sparkling", "Wine", ";", "Mr.", "Hottie", "ordered", "the", "Ocean", "martini", "after", "our", "waitress", "stumbled", "through", "the", "ingredients", "of", "each", "martini", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "stumbled", "e2_pos": 19, "label": "after"}
+]

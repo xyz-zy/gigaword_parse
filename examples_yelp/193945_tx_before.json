@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "I", "was", "tired", "from", "partying", "too", "hard", "the", "night", "before", ",", "perhaps", "it", "was", "the", "food", "coma", "from", "the", "dinner", "before", "the", "show", ",", "but", "I", "literally", "fell", "asleep", "during", "this", "show", "."], "e1_text": "partying", "e1_pos": 5, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["It", "was", "cool", "for", "the", "first", "5", "minutes", "before", "it", "all", "melted", "into", "a", "vague", ",", "repetitive", "performance", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "melted", "e2_pos": 11, "label": "before"}
+]

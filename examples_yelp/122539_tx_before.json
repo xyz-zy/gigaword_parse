@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "guess", "is", "that", "a", "group", "probably", "just", "went", "in", "about", "5", "minutes", "before", "we", "got", "there", "because", "he", "at", "least", "asked", "if", "we", "were", "on", "the", "list", "and", "it", "was", "1:05", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "got", "e2_pos": 15, "label": "before"}
+]

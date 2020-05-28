@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "refills", "unless", "we", "asked", ",", "no", "ordering", "unless", "we", "asked", ",", "no", "check", "unless", "we", "asked", ",", "and", "after", "we", "asked", "we", "had", "to", "remind", "them", "once", "or", "twice", "."], "e1_text": "refills", "e1_pos": 1, "e2_text": "asked", "e2_pos": 4, "label": "after"}
+]

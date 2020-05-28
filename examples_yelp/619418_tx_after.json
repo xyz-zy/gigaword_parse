@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "wo", "n't", "be", "buying", "shoes", "there", "anymore", ",", "I", "guess", "...", "So", "now", ",", "an", "hour", "later", ",", "after", "I", "called", "their", "corporate", "office", ",", "they", "have", "decided", "to", "give", "me", "store", "credit", "..."], "e1_text": "buying", "e1_pos": 5, "e2_text": "called", "e2_pos": 22, "label": "after"}
+]

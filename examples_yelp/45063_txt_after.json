@@ -1,0 +1,3 @@
+[
+{"tokens": ["Manager", "never", "visited", "until", "after", "we", "got", "our", "food", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "got", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "made", "reservations", "the", "Monday", "before", "and", "not", "only", "did", "I", "mention", "that", "we", "were", "a", "B-day", "party", "but", "upon", "arrival", "I", "told", "that", "lame", "blond", "dude", "at", "the", "seating", "station", "that", "we", "were", "a", "B-day", "party", "...", "It", "was", "as", "if", "I", "had", "told", "the", "crazy", "guy", "out", "front", "this", "instead", "because", "nothing", "was", "ever", "done", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "told", "e2_pos": 23, "label": "before"}
+]

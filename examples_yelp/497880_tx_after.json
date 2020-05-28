@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "never", "left", "the", "premises", "because", "we", "all", "had", "to", "empty", "our", "bowels", "immediately", "after", "finishing", "the", "meal", "."], "e1_text": "empty", "e1_pos": 11, "e2_text": "finishing", "e2_pos": 16, "label": "after"}
+]

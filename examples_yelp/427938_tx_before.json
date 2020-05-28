@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "good", "except", "for", "the", "fact", "our", "first", "server", "told", "us", "he", "was", "leaving", "and", "had", "a", "bad", "day", "before", "he", "asked", "up", "for", "our", "drink", "order", "...", "I", "got", "the", "barbacoa", "tacos", ",", "the", "meat", "was", "dry", ",", "but", "I", "get", "what", "they", "were", "going", "for", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asked", "e2_pos": 22, "label": "before"}
+]

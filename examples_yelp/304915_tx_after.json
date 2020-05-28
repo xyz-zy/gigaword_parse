@@ -1,0 +1,3 @@
+[
+{"tokens": ["Anyway", ",", "by", "the", "time", "the", "waitress", "came", "around", "to", "take", "our", "order", ",", "which", "was", "30", "minutes", "after", "we", "were", "seated", ",", "we", "had", "already", "decided", "to", "ditch", "!"], "e1_text": "was", "e1_pos": 15, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

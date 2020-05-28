@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "no", "idea", "how", "long", "they", "'d", "been", "there", ",", "but", "their", "food", "arrived", "only", "about", "two", "minutes", "before", "ours", "finally", "did", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "did", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "wish", "servers", "in", "these", "situations", "would", "at", "least", "stop", "by", "to", "explain", "what", "is", "happening", "and", "apologize", "for", "an", "excessive", "delay", "\\*", "before", "\\*", "diners", "have", "to", "complain", "or", "ask", "questions", "."], "e1_text": "apologize", "e1_pos": 17, "e2_text": "have", "e2_pos": 26, "label": "before"}
+]

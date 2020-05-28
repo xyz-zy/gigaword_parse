@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", ",", "SERVER", "ID", "101", ",", "a", "woman", "who", "appeared", "jacked", "up", "on", "some", "sort", "of", "methamphetamine", ",", "came", "seconds", "after", "we", "were", "set", ",", "and", "asked", "us", "what", "we", "wanted", "to", "eat", "."], "e1_text": "came", "e1_pos": 19, "e2_text": "were", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "informed", "her", "that", "if", "she", "had", "a", "problem", ",", "she", "needed", "to", "speak", "to", "me", ",", "after", "all", ",", "I", "was", "the", "one", "who", "paid", "the", "tab", "."], "e1_text": "informed", "e1_pos": 1, "e2_text": "needed", "e2_pos": 11, "label": "after"}
+]

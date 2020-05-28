@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "messed", "up", "on", "my", "husbands", "order", "and", "had", "to", "take", "his", "food", "back", "after", "we", "waited", "about", "15", "minutes", "before", "it", "was", "served", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "was", "e2_pos": 22, "label": "before"},
+{"tokens": ["We", "both", "ordered", "chicken", "wraps", ",", "which", "seems", "like", "a", "relatively", "easy", "food", "to", "make", ",", "but", "it", "took", "a", "very", "long", "time", "before", "it", "came", "to", "our", "table", "."], "e1_text": "took", "e1_pos": 18, "e2_text": "came", "e2_pos": 25, "label": "before"}
+]

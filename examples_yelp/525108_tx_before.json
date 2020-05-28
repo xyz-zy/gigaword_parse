@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "ice", "cream", "is", "somewhat", "hard", "coming", "out", "of", "the", "freezer", "but", "the", "friendly", "server", "told", "us", "to", "wait", "a", "couple", "of", "minutes", "before", "consuming", "to", "let", "the", "ice", "cream", "soften", "up", ",", "we", "were", "glad", "to", "take", "her", "advice", "."], "e1_text": "wait", "e1_pos": 18, "e2_text": "consuming", "e2_pos": 24, "label": "before"}
+]

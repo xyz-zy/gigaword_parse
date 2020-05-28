@@ -1,0 +1,4 @@
+[
+{"tokens": ["Another", "10", "minutes", "went", "by", "after", "we", "went", "through", "one", "basket", "of", "chips", "and", "a", "server", "brought", "us", "another", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "went", "e2_pos": 3, "label": "after"},
+{"tokens": ["My", "wife", "had", "enough", "after", "seeing", "other", "guest", "receive", "their", "food", "already", ",", "when", "we", "had", "already", "been", "there", "long", "before", "them", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

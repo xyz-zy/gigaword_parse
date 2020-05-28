@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "for", "it", "alright", ",", "a", "pounding", "headache", "before", "the", "night", "even", "got", "started", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "got", "e2_pos": 13, "label": "before"},
+{"tokens": ["Who", "needs", "to", "predrink", "before", "hitting", "up", "Surrender", "?"], "e1_text": "predrink", "e1_pos": 3, "e2_text": "hitting", "e2_pos": 5, "label": "before"}
+]

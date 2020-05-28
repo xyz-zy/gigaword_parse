@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "suggestion", "is", "to", "purchase", "your", "costume", "right", "before", "Halloween", "season", "begins", "."], "e1_text": "purchase", "e1_pos": 4, "e2_text": "begins", "e2_pos": 11, "label": "before"},
+{"tokens": ["You", "just", "have", "to", "pay", "close", "attention", "and", "look", "through", "the", "entire", "store", "before", "making", "a", "decision", "."], "e1_text": "look", "e1_pos": 8, "e2_text": "making", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "win", "the", "Xbox", "but", "had", "gambled", "away", "$", "6", "before", "I", "realized", "that", "I", "was", "n't", "going", "to", "win", "."], "e1_text": "gambled", "e1_pos": 8, "e2_text": "realized", "e2_pos": 14, "label": "before"}
+]

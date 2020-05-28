@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "that", "after", "waiting", "an", "entire", "hour", "for", "our", "food", "that", "we", "should", "leave", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "truly", "most", "offensive", "part", "of", "this", "afternoon", "was", "that", "we", "waited", "an", "hour", "before", "we", "walked", "out", "but", "immediately", "before", "we", "walked", "out", "we", "witnessed", "a", "large", "group", "that", "was", "seated", "at", "least", "45", "minutes", "after", "us", "get", "their", "food", "."], "e1_text": "seated", "e1_pos": 31, "e2_text": "get", "e2_pos": 38, "label": "after"}
+]

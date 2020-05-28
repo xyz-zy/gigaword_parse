@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "Mercedes", "is", "so", "very", "friendly", ",", "she", "remembered", "my", "name", "from", "the", "get-go", "and", "not", "too", "long", "after", "memorized", "my", "drink", "-LRB-", "which", "is", "pretty", "detailed", "and", "specific", "-RRB-", "This", "Starbucks", "is", "always", "packed", "-LRB-", "good", "for", "them", "-RRB-", "."], "e1_text": "remembered", "e1_pos": 8, "e2_text": "memorized", "e2_pos": 19, "label": "after"}
+]

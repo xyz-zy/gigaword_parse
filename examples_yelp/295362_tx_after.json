@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "'s", "how", "my", "girlfriend", "and", "I", "felt", "after", "leaving", "Roka", "Akor", "tonight", "."], "e1_text": "felt", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 9, "label": "after"},
+{"tokens": ["In", "addition", "to", "that", ",", "we", "brought", "along", "a", "coupon", "from", "our", "hotel", "concierge", ",", "after", "handing", "it", "to", "the", "manager", ",", "I", "realized", "it", "had", "already", "expired", "."], "e1_text": "brought", "e1_pos": 6, "e2_text": "handing", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "with", "high", "expectations", "after", "reading", "some", "of", "the", "reviews", "here", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "understand", "that", "there", "might", "be", "a", "possibility", "that", "the", "chef", "forgot", "to", "add", "the", "flavors", "but", "we", "did", "not", "receive", "an", "apology", "after", "telling", "the", "server", "about", "the", "Pho", "."], "e1_text": "receive", "e1_pos": 20, "e2_text": "telling", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "still", "ended", "up", "being", "cheaper", "for", "me", ",", "but", "they", "absolutely", "butchered", "how", "this", "deal", "worked", ",", "even", "after", "I", "confirmed", "the", "cost", "of", "the", "phone", "with", "2", "employees", ",", "one", "who", "appeared", "to", "be", "some", "sort", "of", "manager", "."], "e1_text": "worked", "e1_pos": 16, "e2_text": "confirmed", "e2_pos": 21, "label": "after"},
+{"tokens": ["My", "fianc", "\\", "u00e9", "ordered", "his", "phone", "after", "I", "did", "from", "the", "Verizon", "website", ",", "and", "his", "arrived", "in", "3", "days", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "did", "e2_pos": 9, "label": "after"}
+]

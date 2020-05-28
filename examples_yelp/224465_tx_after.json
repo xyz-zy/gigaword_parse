@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "always", "interrupt", "your", "conversations", "or", "treat", "you", "like", "the", "food", "they", "throw", "out", "after", "they", "close", "."], "e1_text": "throw", "e1_pos": 12, "e2_text": "close", "e2_pos": 16, "label": "after"}
+]

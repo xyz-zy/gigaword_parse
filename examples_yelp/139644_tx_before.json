@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "reading", "my", "papers", "correctly", "before", "signing", "them", "and", "I", "only", "had", "my", "small", "dog", "in", "the", "apartment", "for", "6", "WEEKS", "and", "could", "n't", "even", "get", "half", "of", "my", "''", "``", "fee", "''", "''", "back", "."], "e1_text": "reading", "e1_pos": 3, "e2_text": "signing", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "young", "maintenance", "guy", "told", "me", "that", "as", "long", "as", "we", "paint", "them", "with", "primer", "they", "should", "n't", "charge", "us", "as", "the", "guys", "ALWAYS", "paint", "the", "apartments", "anyways", "before", "someone", "else", "moves", "in", "...", "I", "was", "sure", "I", "was", "safe", "...", "until", "we", "got", "our", "deposit", "back", "!"], "e1_text": "anyways", "e1_pos": 27, "e2_text": "moves", "e2_pos": 31, "label": "before"}
+]

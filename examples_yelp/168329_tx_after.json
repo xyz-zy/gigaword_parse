@@ -1,0 +1,4 @@
+[
+{"tokens": ["it", "took", "us", "about", "20", "minutes", "to", "get", "our", "check", "even", "after", "we", "had", "finished", "our", "meal", "because", "our", "server", "was", "busy", "talking", "to", "the", "ladies", "and", "showing", "old", "photos", "from", "when", "he", "was", "young", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["he", "then", "proceeded", "to", "go", "to", "a", "new", "table", ",", "use", "the", "same", "line", "he", "used", "on", "us", ",", "and", "then", "walked", "away", "even", "after", "seeing", "we", "were", "done", "."], "e1_text": "walked", "e1_pos": 21, "e2_text": "seeing", "e2_pos": 25, "label": "after"}
+]

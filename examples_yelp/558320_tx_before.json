@@ -1,0 +1,3 @@
+[
+{"tokens": ["Usually", "''", "``", "by", "the", "slice", "''", "''", "places", "will", "heat", "your", "slice", "in", "the", "oven", "before", "presenting", "it", ",", "but", "we", "were", "given", "two", "congealed", "slices", "right", "from", "under", "the", "heat", "lamp", "."], "e1_text": "heat", "e1_pos": 10, "e2_text": "presenting", "e2_pos": 17, "label": "before"}
+]

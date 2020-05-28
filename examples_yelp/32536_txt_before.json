@@ -1,0 +1,5 @@
+[
+{"tokens": ["Before", "visiting", ",", "I", "did", "not", "have", "time", "to", "have", "the", "pedicure", "before", "I", "left", "so", "I", "needed", "to", "get", "this", "taken", "care", "of", "while", "here", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "left", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "was", "greeted", "and", "told", "it", "would", "be", "about", "15", "minutes", "before", "they", "started", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "started", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "do", "something", "I", "had", "n't", "seen", "before", "which", "was", "to", "use", "disposable", "inserts", "in", "the", "pedicure", "tubs", "."], "e1_text": "seen", "e1_pos": 6, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

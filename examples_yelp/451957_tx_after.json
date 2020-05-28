@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "was", "drawn", "here", "after", "having", "their", "buttermilk", "donut", "."], "e1_text": "drawn", "e1_pos": 3, "e2_text": "having", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "finally", "brought", "myself", "to", "stop", "in", "this", "donut", "shop", "after", "having", "had", "a", "Buttermilk", "Bosa", "donut", "a", "few", "months", "ago", "at", "work", "."], "e1_text": "stop", "e1_pos": 5, "e2_text": "having", "e2_pos": 11, "label": "after"}
+]

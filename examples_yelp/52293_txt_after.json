@@ -1,0 +1,4 @@
+[
+{"tokens": ["he", "talked", "me", "into", "their", "mini-sandwiches", "after", "very", "condescendingly", "stating", "that", "they", "GENERALLY", "like", "24", "hours", "notice", "."], "e1_text": "talked", "e1_pos": 1, "e2_text": "GENERALLY", "e2_pos": 12, "label": "after"},
+{"tokens": ["But", "still", ",", "i", "hoped", "for", "the", "best", "...", "even", "after", "he", "said", "that", "he", "hoped", "that", "they", "did", "n't", "get", "too", "many", "more", "orders", "-LRB-", "implying", "that", "they", "would", "n't", "be", "able", "to", "handle", "the", "volume", "since", "i", "SO", "INCONSIDERATELY", "gave", "them", "less", "than", "24", "hours", "notice", "."], "e1_text": "hoped", "e1_pos": 4, "e2_text": "said", "e2_pos": 12, "label": "after"}
+]

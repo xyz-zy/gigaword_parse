@@ -1,0 +1,3 @@
+[
+{"tokens": ["Visit", "#", "1", "-LRB-", "3", "stars", "-RRB-", "We", "first", "visited", "the", "new", "location", "a", "few", "days", "after", "they", "opened", "."], "e1_text": "visited", "e1_pos": 9, "e2_text": "opened", "e2_pos": 18, "label": "after"}
+]

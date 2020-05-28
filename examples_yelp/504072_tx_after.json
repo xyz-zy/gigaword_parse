@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "no", "bin", "-LRB-", "too", "small", "for", "a", "bin", "to", "be", "out", "-RRB-", "for", "already-paid", "packages", "so", "you", "just", "leave", "it", "on", "the", "counter", "in", "the", "far", "right", "after", "walking", "through", "the", "third", "set", "of", "doors", "."], "e1_text": "leave", "e1_pos": 20, "e2_text": "walking", "e2_pos": 30, "label": "after"}
+]

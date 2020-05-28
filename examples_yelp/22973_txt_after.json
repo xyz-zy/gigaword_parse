@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "very", "popular", "on", "Saturday", "afternoon", ",", "as", "we", "made", "reservations", "...", "but", "then", "had", "to", "wait", "30", "minutes", "...", "After", "the", "30", "minutes", ",", "it", "took", "them", "15", "minutes", "to", "come", "to", "our", "table", "and", "ask", "us", "what", "we", "wanted", "-LRB-", "only", "after", "my", "brother", "told", "them", "we", "had", "not", "been", "waited", "on", "-RRB-", "HOWEVER", "...", "our", "drinks", "were", "compted", "and", "we", "were", "treated", "very", "well", "after", "that", "."], "e1_text": "ask", "e1_pos": 37, "e2_text": "told", "e2_pos": 47, "label": "after"}
+]

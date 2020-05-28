@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "did", "not", "call", "me", "when", "my", "dogs", "were", "done", ",", "instead", "I", "called", "them", "4", "hours", "after", "I", "dropped", "my", "dogs", "off", "to", "find", "out", "what", "the", "deal", "was", "and", "blue", "eyeshadow", "girl", "told", "me", "that", "she", "had", "already", "called", "me", "and", "they", "had", "been", "done", "for", "a", "while-Ummm", "no", "you", "did", "n't", "call", "me", ",", "and", "if", "you", "did-why", "would", "you", "not", "leave", "a", "message", "?"], "e1_text": "called", "e1_pos": 13, "e2_text": "dropped", "e2_pos": 19, "label": "after"}
+]

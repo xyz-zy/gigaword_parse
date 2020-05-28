@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recently", "went", "here", "with", "a", "group", "of", "3", "other", "people", "after", "a", "friend", "suggested", "Sushi", "Eye", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "suggested", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "do", "n't", "want", "a", "case", "of", "food", "poisoning", "to", "come", "with", "my", "$", "40", "check", "i", "'m", "sure", "to", "get", "after", "eating", "here", "again", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "eating", "e2_pos": 22, "label": "after"}
+]

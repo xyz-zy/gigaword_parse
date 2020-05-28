@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "B", "-RRB-", "Service", "is", "B", "because", "although", "it", "is", "slow", ",", "our", "waiter", "is", "quite", "friendly", "and", "attentive", "after", "he", "notices", "us", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "notices", "e2_pos": 21, "label": "after"}
+]

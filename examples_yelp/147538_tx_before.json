@@ -1,0 +1,4 @@
+[
+{"tokens": ["Keep", "in", "mind", ",", "I", "never", "eat", "fast", "food", ",", "but", "I", "had", "never", "tried", "El", "Pollo", "Loco", "'s", "food", "before", "&", "I", "heard", "that", "there", "are", "healthy", "and", "inexpensive", "options", "on", "their", "menu", "."], "e1_text": "tried", "e1_pos": 14, "e2_text": "heard", "e2_pos": 23, "label": "before"},
+{"tokens": ["When", "I", "drove", "up", ",", "I", "attempted", "to", "place", "my", "order", "and", "I", "must", "have", "sat", "there", "for", "approximately", "2", "minutes", "before", "I", "was", "acknowledged", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "was", "e2_pos": 23, "label": "before"}
+]

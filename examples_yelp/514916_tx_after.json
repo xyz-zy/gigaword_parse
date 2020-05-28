@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "insisted", "on", "telling", "the", "waitress", "it", "was", "my", "birthday", "and", "after", "the", "plates", "were", "clear", "she", "said", "to", "me", "specifically", "`", "what", "would", "you", "like", "for", "dessert", "...", "'", "and", "then", "gave", "me", "the", "options", "."], "e1_text": "telling", "e1_pos": 4, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

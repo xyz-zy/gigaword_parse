@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "walked", "and", "had", "to", "wait", "until", "she", "was", "done", "putting", "in", "another", "order", ",", "after", "a", "few", "min", "she", "was", "able", "to", "help", "me", "."], "e1_text": "done", "e1_pos": 10, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Since", "we", "already", "had", "drinks", "from", "the", "bar", ",", "I", "guess", "your", "server", "decided", "we", "did", "n't", "need", "any", "refills", "the", "rest", "of", "the", "night", ",", "even", "after", "waiting", "45", "min", "to", "get", "our", "food", "."], "e1_text": "guess", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 28, "label": "after"}
+]

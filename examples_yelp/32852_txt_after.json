@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "wanted", "to", "write", "an", "update", "after", "receiving", "a", "call", "from", "Larry", "the", "manager", "."], "e1_text": "write", "e1_pos": 3, "e2_text": "receiving", "e2_pos": 7, "label": "after"},
+{"tokens": ["Larry", "then", "said", ",", "''", "``", "well", "I", "am", "sure", "they", "charged", "you", "to", "remove", "the", "hood", "to", "look", "at", "it", "''", "''", "and", "I", "said", ",", "No", ",", "they", "actually", "gave", "me", "a", "free", "safety", "inspection", "after", "hearing", "how", "Just", "Brakes", "was", "just", "trying", "to", "get", "money", "out", "of", "me", "."], "e1_text": "gave", "e1_pos": 31, "e2_text": "hearing", "e2_pos": 38, "label": "after"}
+]

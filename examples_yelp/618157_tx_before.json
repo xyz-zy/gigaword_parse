@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "finished", "before", "we", "even", "received", "the", "green", "tea", "."], "e1_text": "finished", "e1_pos": 2, "e2_text": "received", "e2_pos": 6, "label": "before"},
+{"tokens": ["As", "for", "the", "green", "tea", ",", "it", "was", "very", "sour", "tasting", "and", "could", "n't", "even", "finish", "it", "before", "I", "left", "."], "e1_text": "finish", "e1_pos": 15, "e2_text": "left", "e2_pos": 19, "label": "before"}
+]

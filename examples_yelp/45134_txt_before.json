@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fair", "Waiter", ",", "VERY", "long", "wait", "for", "food", "-LRB-", "a", "few", "times", "we", "said", "''", "``", "hey", "we", "got", "here", "before", "they", "did", "why", "did", "they", "get", "their", "food", "before", "us", "?", "-RRB-", "."], "e1_text": "said", "e1_pos": 13, "e2_text": "did", "e2_pos": 22, "label": "before"}
+]

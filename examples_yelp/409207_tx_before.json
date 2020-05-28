@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "friends", "mentioned", "how", "amazing", "the", "showers", "were", ",", "so", "maybe", "he", "used", "up", "all", "the", "hot", "water", "before", "I", "woke", "up", "!?", "The", "hairdryers", "did", "n't", "work", "either", "."], "e1_text": "used", "e1_pos": 14, "e2_text": "woke", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "lot", "of", "the", "shows", "sell", "out", "here", ",", "so", "be", "sure", "to", "pre-order", "tickets", ",", "the", "box", "office", "is", "open", "mon-fri", "and", "then", "before", "the", "show", "starts", "."], "e1_text": "sell", "e1_pos": 5, "e2_text": "starts", "e2_pos": 27, "label": "before"}
+]

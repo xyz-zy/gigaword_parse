@@ -1,0 +1,3 @@
+[
+{"tokens": ["and\\/or", "they", "know", "how", "angry", "a", "person", "might", "get", "after", "they", "realize", "a", ":", "they", "just", "paid", "$", "10", "for", "soda", "or", "b", ":", "how", "awful", "the", "service", "was", ",", "causing", "the", "wait", "staff", "to", "suffer", "as", "a", "result", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "realize", "e2_pos": 11, "label": "after"}
+]

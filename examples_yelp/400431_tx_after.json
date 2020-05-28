@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "I", "do", "care", "about", "is", "if", "you", "touch", "everything", "from", "the", "butter", "scooper", "at", "the", "expo", "window", "and", "move", "the", "scoop", "of", "butter", "that", "has", "fallen", "on", "the", "muffin", "with", "your", "bare", "hands", "in", "front", "of", "me", ",", "when", "I", "know", "you", "did", "n't", "wash", "your", "hands", "after", "touching", "a", "bunch", "of", "other", "people", "'s", "food", ",", "the", "counter", ",", "your", "apron", ",", "your", "shirt", ",", "and", "your", "pants", "."], "e1_text": "wash", "e1_pos": 45, "e2_text": "touching", "e2_pos": 49, "label": "after"}
+]

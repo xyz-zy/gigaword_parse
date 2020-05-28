@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "think", "they", "could", "be", "more", "efficient", "at", "cleaning", "up", "after", "people", "leave", "."], "e1_text": "cleaning", "e1_pos": 9, "e2_text": "leave", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "'s", "sort", "of", "a", "self", "serve", "experience", "after", "you", "'ve", "given", "the", "coffee", "barista", "'s", "you", "'re", "money", "."], "e1_text": "serve", "e1_pos": 6, "e2_text": "'ve", "e2_pos": 10, "label": "after"}
+]

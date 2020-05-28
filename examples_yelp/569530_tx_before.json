@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "mind", "the", "wait", ",", "but", "do", "n't", "make", "me", "wait", ",", "then", "let", "it", "sit", "around", "for", "a", "while", "before", "you", "bring", "it", "over", "."], "e1_text": "sit", "e1_pos": 17, "e2_text": "bring", "e2_pos": 24, "label": "before"},
+{"tokens": ["It", "worked", "before", ",", "cause", "the", "food", "and", "service", "was", "very", "good", "."], "e1_text": "worked", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

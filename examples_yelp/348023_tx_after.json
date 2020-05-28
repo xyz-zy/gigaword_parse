@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "even", "took", "out", "my", "antiquated", "physical", "planner", "to", "show", "her", "that", "my", "last", "visit", "was", "not", "long", "ago", "and", "well", "after", "the", "date", "she", "claimed", "my", "coupon", "expired", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "claimed", "e2_pos": 25, "label": "after"}
+]

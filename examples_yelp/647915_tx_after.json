@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "food", "came", "after", "awhile", ",", "I", "got", "the", "Green", "Flannel", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "got", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "accidentally", "left", "my", "unique", "mug", "and", "did", "n't", "realize", "until", "the", "afternoon", ",", "after", "they", "had", "closed", "."], "e1_text": "realize", "e1_pos": 9, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

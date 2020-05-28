@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "typically", "have", "good", "to", "great", "experiences", "at", "the", "other", "locations", "so", "before", "writing", "this", "review", ",", "I", "thought", "I", "'d", "peruse", "some", "of", "the", "other", "write", "up", "'s", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "writing", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "sent", "out", "a", "tweet", "about", "this", "before", "we", "left", "the", "restaurant", ",", "asking", "someone", "to", "contact", "me", "."], "e1_text": "sent", "e1_pos": 1, "e2_text": "left", "e2_pos": 9, "label": "before"}
+]

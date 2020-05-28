@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "will", "put", "it", "briefly", "before", "I", "rant", "on", ":", "This", "place", "was", "terrible", "."], "e1_text": "put", "e1_pos": 2, "e2_text": "rant", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "sat", "for", "nearly", "half", "an", "hour", "before", "anyone", "even", "took", "our", "order", ",", "despite", "having", "watched", "the", "two", "waiters", "-LRB-", "or", "perhaps", "one", "was", "a", "busser", "?", "-RRB-"], "e1_text": "sat", "e1_pos": 1, "e2_text": "took", "e2_pos": 10, "label": "before"},
+{"tokens": ["When", "the", "manager", "finally", "sauntered", "over", "to", "our", "table", ",", "he", "was", "not", "very", "friendly", "and", "rushed", "through", "the", "specials", ",", "leaving", "before", "we", "had", "a", "chance", "to", "order", "."], "e1_text": "leaving", "e1_pos": 21, "e2_text": "had", "e2_pos": 24, "label": "before"},
+{"tokens": ["It", "was", "an", "additional", "ten", "or", "fifteen", "minutes", "before", "the", "manager", "took", "our", "order", "while", "he", "returned", "to", "his", "BFFs", "near", "the", "bar", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "took", "e2_pos": 11, "label": "before"}
+]

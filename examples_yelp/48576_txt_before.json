@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "the", "manager", "for", "lemon", "slices", "before", "he", "left", "so", "I", "can", "add", "it", "to", "my", "water", "-LRB-", "ended", "up", "using", "it", "on", "the", "food", "instead", "-RRB-", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "left", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "NOT", "get", "a", "good", "price", "-LRB-", "it", "was", "a", "last", "minute", "reservation", ",", "original", "reservation", "was", "lost", "-RRB-", ",", "felt", "very", "taken", "advantage", "of", ",", "especially", "after", "reading", "the", "prices", "others", "got", "and", "the", "problems", "we", "had", "."], "e1_text": "taken", "e1_pos": 23, "e2_text": "reading", "e2_pos": 29, "label": "after"}
+]

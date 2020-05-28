@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fair", "enough", ",", "we", "did", "n't", "really", "mind", ",", "until", "a", "moment", "after", "we", "were", "seated", "in", "our", "new", "seats", "-LRB-", "awkwardly", "close", "to", "the", "next", "table", "-RRB-", "a", "couple", "walked", "in", "and", "took", "the", "window", "tables", "."], "e1_text": "mind", "e1_pos": 7, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["Incidentally", "the", "table", "next", "to", "us", "who", "arrived", "10", "minutes", "after", "us", "got", "their", "food", "first", "-LRB-", "which", "they", "tried", "giving", "to", "us", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

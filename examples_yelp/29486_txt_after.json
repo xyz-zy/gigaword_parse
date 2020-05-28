@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "see", "a", "Starbucks", ",", "which", "I", "desperately", "needed", "after", "catching", "a", "6am", "flight", "from", "the", "eastern", "time", "zone", ",", "so", "I", "settled", "for", "a", "diet", "coke", "and", "found", "a", "comfortable", "seat", "to", "watch", "CNN", "from", "while", "I", "waited", "on", "my", "flight", "."], "e1_text": "needed", "e1_pos": 10, "e2_text": "catching", "e2_pos": 12, "label": "after"}
+]

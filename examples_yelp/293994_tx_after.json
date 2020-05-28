@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", "was", "pineapple", "curry", "chicken", "which", "I", "might", "have", "tried", "but", "did", "not", "see", "the", "inconspicuous", "board", "until", "after", "my", "egg", "rolls", "had", "arrived", "."], "e1_text": "see", "e1_pos": 13, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["Most", "of", "the", "people", "that", "came", "in", "after", "me", "seemed", "to", "be", "regulars", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "seemed", "e2_pos": 9, "label": "after"}
+]

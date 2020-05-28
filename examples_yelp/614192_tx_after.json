@@ -1,0 +1,3 @@
+[
+{"tokens": ["Two", "people", "served", "salad", "then", "we", "waited", ",", "then", "one", "person", "got", "calamari", ",", "then", "we", "waited", ",", "then", "one", "person", "got", "sushi", ",", "and", "then", "we", "waited", "then", "another", "person", "got", "sushi", "and", "the", "sixth", "person", "got", "nothing", "...", "after", "a", "while", "waiter", "went", "down", "to", "kitchen", "to", "bring", "another", "salad", "."], "e1_text": "served", "e1_pos": 2, "e2_text": "went", "e2_pos": 44, "label": "after"}
+]

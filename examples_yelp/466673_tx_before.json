@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "order", "by", "the", "glass", "they", "present", "the", "bottle", "at", "the", "table", "and", "give", "you", "a", "little", "taste", "before", "they", "generously", "fill", "the", "glass", "."], "e1_text": "taste", "e1_pos": 18, "e2_text": "fill", "e2_pos": 22, "label": "before"}
+]

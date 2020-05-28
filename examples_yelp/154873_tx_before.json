@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "do", "this", "even", "before", "you", "head", "to", "Vegas", "."], "e1_text": "do", "e1_pos": 2, "e2_text": "head", "e2_pos": 7, "label": "before"},
+{"tokens": ["You", "can", "do", "this", "months", "or", "even", "days", "before", "you", "come", "to", "make", "sure", "you", "secure", "a", "spot", "at", "one", "of", "the", "most", "sought", "after", "tables", "."], "e1_text": "do", "e1_pos": 2, "e2_text": "come", "e2_pos": 10, "label": "before"}
+]

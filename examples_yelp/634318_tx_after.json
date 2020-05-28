@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "came", "across", "this", "company", "after", "talking", "to", "other", "community", "members", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "talking", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "looked", "on", "yelp", "and", "were", "n't", "sure", "what", "to", "do", "after", "reading", "these", "reviews", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "reading", "e2_pos": 12, "label": "after"}
+]

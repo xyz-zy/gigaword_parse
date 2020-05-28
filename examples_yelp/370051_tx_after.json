@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "NEVER", "EVER", "go", "back", "to", "this", "hotel", "even", "after", "renovation", "and", "NEVER", "recommend", "this", "hotel", "for", "anyone", "!!", "-LRB-", "The", "only", "good", "thing", "I", "can", "think", "of", "about", "this", "hotel", "is", "the", "location", "-RRB-", "If", "you", "want", "to", "save", "money", ",", "stay", "at", "Motel", "6", "instead", "-LRB-", "which", "is", "about", "a", "block", "away", "from", "the", "strip", "-RRB-", "and", "I", "'m", "sure", "it", "'s", "much", "better", "than", "the", "filthy", "room", "and", "lousy", "service", "at", "Tropicana", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "recommend", "e2_pos": 14, "label": "after"}
+]

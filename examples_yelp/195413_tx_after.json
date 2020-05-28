@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "recall", "my", "reservation", "telling", "me", "to", "do", "this", "but", "after", "we", "sat", "down", "our", "waitress", "told", "us", "to", "do", "that", "if", "we", "came", "back", "and", "there", "was", "a", "line", "-LRB-", "assuming", "we", "had", "made", "reservations", "of", "course", "-RRB-", "."], "e1_text": "do", "e1_pos": 9, "e2_text": "sat", "e2_pos": 14, "label": "after"}
+]

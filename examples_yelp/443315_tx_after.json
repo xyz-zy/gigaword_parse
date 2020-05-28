@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "this", "time", "there", "was", "a", "noticeable", "failure", "in", "service", ",", "to", "the", "point", "that", "after", "I", "ordered", "Calamari", "Fritti", "with", "both", "marinara", "sauce", "and", "lemon", "aioli", "to", "serve", "as", "an", "appetizer", ",", "not", "only", "did", "neither", "sauce", "arrive", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 17, "label": "after"}
+]

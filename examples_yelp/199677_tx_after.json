@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "wished", "that", "we", "ate", "elsewhere", "after", "she", "tasted", "her", "pastrami", "Of", "course", ",", "all", "these", "comments", "are", "made", "comparing", "Carnegie", "-LRB-", "Las", "Vegas", "-RRB-", "to", "what", "we", "eat", "in", "Manhattan", "and", "Brooklyn", "."], "e1_text": "ate", "e1_pos": 5, "e2_text": "tasted", "e2_pos": 9, "label": "after"}
+]

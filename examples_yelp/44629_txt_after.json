@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "spent", "92", "dollars", "after", "receiving", "our", "unwarranted", "ten", "dollar", "prize", ",", "however", ",", "the", "event", "did", "yield", "a", "cathartic", "moment", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 5, "label": "after"}
+]

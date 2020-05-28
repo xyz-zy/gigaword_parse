@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "came", "to", "take", "our", "drink", "order", ",", "and", "having", "had", "so", "much", "linger-time", "before", "we", "were", "seated", ",", "we", "already", "knew", "what", "we", "wanted", "to", "order", ",", "so", "we", "ordered", "the", "Pig", "pizza", "as", "an", "appetizer", "along", "with", "two", "Diet", "Cokes", "to", "drink", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "were", "e2_pos": 17, "label": "before"}
+]

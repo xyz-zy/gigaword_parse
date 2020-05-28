@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mike", "C.", "&", "I", "dropped", "in", "for", "Breakfast", "&", "Lunch", ",", "arriving", "at", "about", "10:45", "AM", "today", ",", "after", "sadly", "discovering", "that", "the", "new", "Hong", "Kong", "King", "Buffet", "across", "the", "street", "has", "already", "gone", "under", "."], "e1_text": "dropped", "e1_pos": 4, "e2_text": "discovering", "e2_pos": 20, "label": "after"}
+]

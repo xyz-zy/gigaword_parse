@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "dish", "arrived", "shortly", "after", "the", "order", "was", "placed", "with", "pork", "in", "the", "spring", "rolls", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["Looking", "through", "the", "plate", "window", "which", "exposed", "the", "kitchen", "revealed", "a", "stack", "of", "pre-made", "spring", "rolls", "waiting", "to", "be", "plated", "after", "they", "were", "ordered", "."], "e1_text": "plated", "e1_pos": 19, "e2_text": "were", "e2_pos": 22, "label": "after"}
+]

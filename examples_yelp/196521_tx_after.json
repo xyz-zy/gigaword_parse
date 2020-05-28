@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "gin", "&", "tonic", "was", "a", "bit", "too", "strong", "-LRB-", "he", "even", "went", "and", "added", "tonic", "after", "I", "mentioned", "it", "and", "it", "was", "still", "too", "strong", "-RRB-", "."], "e1_text": "added", "e1_pos": 14, "e2_text": "mentioned", "e2_pos": 18, "label": "after"}
+]

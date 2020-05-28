@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "a", "sweet", "spot", "for", "this", "pub", ",", "not", "least", "because", "a", "good", "friend", "used", "to", "work", "here", "before", "moving", "away", "."], "e1_text": "work", "e1_pos": 17, "e2_text": "moving", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "other", "day", "I", "passed", "by", "right", "before", "the", "kitchen", "closed", "with", "some", "friends", "."], "e1_text": "passed", "e1_pos": 4, "e2_text": "closed", "e2_pos": 10, "label": "before"}
+]

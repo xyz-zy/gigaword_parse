@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "ordered", "two", "more", "rolls", "before", "witnessing", "this", ",", "so", "we", "asked", "our", "waiter", "for", "a", "to", "go", "box", ",", "the", "box", "and", "its", "contents", "were", "left", "on", "the", "chairs", "outside", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "witnessing", "e2_pos": 7, "label": "before"},
+{"tokens": ["Upon", "our", "arrival", "to", "Sushi", "Creek", "we", "sat", "at", "the", "bar", "for", "at", "least", "5", "minutes", "before", "anyone", "acknowledged", "our", "presence", "."], "e1_text": "sat", "e1_pos": 7, "e2_text": "acknowledged", "e2_pos": 18, "label": "before"}
+]

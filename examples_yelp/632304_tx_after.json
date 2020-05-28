@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "with", "an", "appointment", ",", "I", "waited", "30", "minutes", "to", "be", "helped", ",", "person", "kept", "taking", "care", "of", "people", "after", "me", "!!", "Then", ",", "they", "kept", "trying", "to", "add", "services", "telling", "me", "I", "needed", "things", "that", "I", "did", "n't", "."], "e1_text": "kept", "e1_pos": 14, "e2_text": "!!", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "small", "ramen", "shop", "in", "the", "back", "of", "a", "little", "plaza", ",", "there", "were", "people", "waiting", "outside", "before", "I", "got", "there", "-LRB-", "about", "9:15", "pm", "on", "a", "Saturday", "night", "-RRB-", ",", "and", "an", "even", "longer", "line", "by", "the", "time", "we", "ate", "and", "left", "-LRB-", "10:30", "pm", "-RRB-", "."], "e1_text": "waiting", "e1_pos": 17, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

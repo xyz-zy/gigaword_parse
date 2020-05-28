@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", ",", "my", "food", "never", "came", "...", "the", "waitress", "told", "me", "-LRB-", "after", "I", "had", "been", "sitting", "there", "waiting", "for", "thirty", "minutes", "-RRB-", "that", "the", "kitchen", "had", "n't", "even", "started", "on", "my", "order", "yet", ",", "so", "I", "told", "her", "to", "cancel", "it", "and", "walked", "out", "."], "e1_text": "told", "e1_pos": 11, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

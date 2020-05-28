@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "rather", "have", "someone", "animated", "and", "funny", "with", "a", "sense", "of", "humor", "before", "i", "get", "a", "rude", "snobby", "person", "who", "does", "not", "know", "what", "quality", "service", "is", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "get", "e2_pos": 15, "label": "before"},
+{"tokens": ["Once", "i", "see", "her", "lovely", "face", "again", "i", "can", "tell", "you", "right", "then", "i", "will", "not", "be", "polite", "and", "something", "sarcastic", "will", "come", "out", "and", "she", "can", "bet", "her", "sorry", "behind", "that", "I", "will", "be", "having", "a", "word", "with", "the", "managers", "or", "better", "yet", "call", "customer", "relations", "before", "i", "speak", "with", "the", "managers", "face", "to", "face", "."], "e1_text": "bet", "e1_pos": 27, "e2_text": "speak", "e2_pos": 49, "label": "before"}
+]

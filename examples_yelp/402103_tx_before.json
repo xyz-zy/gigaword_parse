@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "prices", "were", "high", "so", "my", "mother", "brother", "and", "I", "decided", "on", "the", "Las", "Vegas", "combo", "but", "before", "ordering", "doubled", "checked", "that", "the", "convo", "was", "meant", "for", "a", "family", "and", "not", "individual", ",", "the", "waitress", "said", "yes", ",", "but", "when", "our", "food", "arrived", "it", "was", "the", "size", "for", "one", "in", "a", "bento", "tray", "."], "e1_text": "decided", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 18, "label": "before"}
+]

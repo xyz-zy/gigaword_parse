@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "at", "the", "cash", "register", "-LRB-", "you", "pay", "before", "you", "are", "seated", "-RRB-", "was", "more", "interested", "in", "an", "iPad", "than", "in", "taking", "our", "money", "-RRB-", "."], "e1_text": "pay", "e1_pos": 8, "e2_text": "are", "e2_pos": 11, "label": "before"}
+]

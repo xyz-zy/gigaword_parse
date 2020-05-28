@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "the", "employees", "walked", "around", "the", "entire", "place", "touching", "walls", "and", "surfaces", "and", "in", "general", "being", "abnoxious", "and", "even", "brooming", "the", "floor", "before", "he", "was", "about", "to", "serve", "us", "food", "WITHOUT", "WASHING", "HIS", "HANDS", "."], "e1_text": "walked", "e1_pos": 4, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "asked", "the", "cashier", ",", "''", "``", "is", "that", "guy", "going", "to", "wash", "his", "hands", ",", "before", "he", "touched", "our", "food", "?", "''", "''"], "e1_text": "asked", "e1_pos": 1, "e2_text": "touched", "e2_pos": 18, "label": "before"}
+]

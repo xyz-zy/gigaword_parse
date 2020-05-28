@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "also", "took", "awhile", "-LRB-", "the", "food", "wrongly", "served", "us", "would", "have", "been", "about", "the", "right", "time", "for", "restaurant", "food", ",", "but", "ours", "took", "another", "15", "or", "so", "minutes", "after", "that", "-", "I", "could", "only", "assume", "ours", "had", "been", "served", "to", "someone", "else", "-RRB-", "though", "the", "waitress", "did", "pop", "by", "to", "say", "our", "food", "was", "on", "its", "way", "instead", "of", "leaving", "us", "hanging", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "had", "e2_pos": 38, "label": "after"}
+]

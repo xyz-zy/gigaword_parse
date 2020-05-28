@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", "for", "Mr.", "Woolley", ",", "this", "was", "actually", "a", "Mazda", "alarm", "system", "installed", "by", "the", "Phoenix", "Mazda", "new", "car", "dealership", "before", "the", "car", "was", "ever", "driven", "off", "the", "lot", "."], "e1_text": "installed", "e1_pos": 12, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["Having", "replaced", "more", "than", "a", "few", "brakes", "myself", "over", "the", "years", "I", "was", "quite", "happy", "with", "how", "well", "they", "are", "holding", "up", "and", "agreed", "with", "the", "tech", "that", "they", "have", "at", "least", "another", "20,000", "+", "miles", "before", "even", "thinking", "of", "replacing", "them", "."], "e1_text": "have", "e1_pos": 29, "e2_text": "replacing", "e2_pos": 40, "label": "before"}
+]

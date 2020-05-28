@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "a", "pic", "of", "the", "Tiramisu", ",", "but", "my", "phone", "ate", "it", "before", "I", "realized", "it", "was", "gone", ",", "and", "I", "could", "n't", "share", "it", "here", "."], "e1_text": "ate", "e1_pos": 11, "e2_text": "realized", "e2_pos": 15, "label": "before"}
+]

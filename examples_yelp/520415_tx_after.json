@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "a", "second", "round", "half", "an", "hour", "before", "we", "had", "to", "leave", "for", "our", "dinner", "appointment", "and", "eventually", "had", "to", "cancel", "the", "order", "20", "minutes", "later", "despite", "asking", "after", "10", "minutes", "where", "the", "drinks", "were", "because", "we", "were", "in", "a", "rush", "."], "e1_text": "asking", "e1_pos": 28, "e2_text": "were", "e2_pos": 35, "label": "after"}
+]

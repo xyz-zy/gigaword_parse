@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "the", "bar", "for", "5", "min", "before", "even", "being", "acknowledged", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 10, "label": "before"},
+{"tokens": ["Once", "the", "bartender", "saw", "we", "were", "standing", "there", ",", "she", "went", "to", "go", "check", "her", "cell", "phone", "before", "coming", "to", "say", "hello", "or", "take", "our", "order", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "coming", "e2_pos": 18, "label": "before"}
+]

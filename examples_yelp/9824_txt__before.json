@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "to", "cancel", "my", "service", "months", "before", "the", "actual", "cancel", "date", "and", "the", "not", "so", "friendly", "customer", "service", "rep", "said", "I", "owe", "90", "days", "per", "an", "agreement", "back", "in", "2002", "."], "e1_text": "cancel", "e1_pos": 3, "e2_text": "said", "e2_pos": 20, "label": "before"}
+]

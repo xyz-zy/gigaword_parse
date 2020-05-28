@@ -1,0 +1,3 @@
+[
+{"tokens": ["UPDATE", "-", "To", "their", "credit", ",", "the", "owner", "of", "the", "hotel", "called", "me", "after", "I", "emailed", "my", "review", "to", "the", "hotel", "."], "e1_text": "called", "e1_pos": 11, "e2_text": "emailed", "e2_pos": 15, "label": "after"}
+]

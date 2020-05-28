@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "flaky", "warm", "biscuits", "were", "nice", "with", "the", "honeyed", "sweet", "butter", ",", "but", "I", "know", "Bisquick", "when", "I", "taste", "it", "and", "I", "'m", "sure", "I", "'ve", "made", "these", "before", "at", "home", "."], "e1_text": "'m", "e1_pos": 22, "e2_text": "'ve", "e2_pos": 25, "label": "before"},
+{"tokens": ["In", "fact", "it", "probably", "stood", "all", "by", "its", "lonesome", "out", "on", "a", "counter", "for", "an", "hour", "before", "it", "reached", "our", "table", "."], "e1_text": "stood", "e1_pos": 4, "e2_text": "reached", "e2_pos": 18, "label": "before"},
+{"tokens": ["For", "sure", ",", "the", "place", "had", "some", "fine", "appetizers", "and", "the", "desserts", "looked", "absolutely", "divine", ",", "but", "we", "were", "done", "before", "we", "even", "got", "to", "them", "and", "the", "check", "was", "already", "too", "high", "to", "consider", "salvaging", "the", "meal", "with", "a", "one", "pound", "apple", "pie", "slice", "."], "e1_text": "done", "e1_pos": 19, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

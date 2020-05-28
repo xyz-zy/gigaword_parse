@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "are", "maybe", "4", "or", "5", "tables", "and", "we", "were", "lucky", "enough", "after", "ordering", "to", "snatch", "one", "up", "."], "e1_text": "were", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "knew", "after", "smelling", "the", "pizza", "a", "couple", "days", "before", "that", "I", "had", "to", "give", "it", "a", "try", "."], "e1_text": "knew", "e1_pos": 1, "e2_text": "smelling", "e2_pos": 3, "label": "after"}
+]

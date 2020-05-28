@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "head", "of", "butter", "and", "me", "-LRB-", "here", "on", "yelp", "-RRB-", "before", "seeing", "a", "groupon", "for", "it", ",", "so", "I", "was", "excited", "to", "buy", "the", "groupon", "for", "a", "place", "that", "had", "great", "reviews", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 13, "label": "before"}
+]

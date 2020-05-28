@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "designs", "are", "pretty", ",", "however", "my", "nails", "barely", "lasted", "one", "week", "before", "the", "gel", "started", "to", "peel", "off", "."], "e1_text": "lasted", "e1_pos": 9, "e2_text": "started", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "reading", "all", "the", "positive", "reviews", "here", "on", "Yelp", "and", "after", "seeing", "the", "Best", "of", "Phoenix", "award", ",", "I", "really", "thought", "this", "place", "was", "going", "to", "be", "top-notch", "."], "e1_text": "reading", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 11, "label": "after"}
+]

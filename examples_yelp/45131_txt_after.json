@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "early", "I", "guess", ",", "arriving", "at", "Macaroni", "Grill", "just", "after", "they", "opened", "at", "11:10", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "opened", "e2_pos": 13, "label": "after"},
+{"tokens": ["Though", "she", "looked", "tired", "towards", "the", "end", "of", "our", "visit", ",", "after", "covering", "several", "tables", "and", "the", "bar", "!"], "e1_text": "looked", "e1_pos": 2, "e2_text": "covering", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "to", "had", "to", "come", "back", "here", "with", "my", "fam", "especially", "after", "sampling", "some", "of", "their", "goodies", "from", "a", "CMYE", "just", "days", "before", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "sampling", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "only", "bring", "this", "up", "because", "even", "though", "my", "wife", "sat", "across", "from", "me", ",", "after", "our", "first", "conversation", "after", "sitting", "down", ",", "we", "had", "to", "repeat", "just", "about", "every", "other", "word", "."], "e1_text": "sat", "e1_pos": 10, "e2_text": "sitting", "e2_pos": 20, "label": "after"}
+]

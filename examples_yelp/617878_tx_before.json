@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "the", "first", "occasion", "a", "Cheeseburger", "ordered", "plain", "came", "out", "highly", "festooned", "with", "vegetables", "before", "it", "was", "replaced", ";", "and", "on", "the", "third", "outing", "Potato", "Skins", "ordered", "with", "Green", "Onions", "on", "the", "side", "came", "out", "instead", "covered", "with", "circles", "of", "Green", "Onions", "before", "this", "order", ",", "too", ",", "was", "redone", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

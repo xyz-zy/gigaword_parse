@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "I", "'m", "used", "to", "getting", "the", "check", "before", "I", "'m", "done", "eating", "."], "e1_text": "getting", "e1_pos": 6, "e2_text": "'m", "e2_pos": 3, "label": "before"},
+{"tokens": ["Ready", "to", "go", "to", "sleep", ",", "exhausted", "from", "a", "night", "of", "clubbing", "and", "suffering", "from", "a", "food", "coma", ",", "we", "decided", "to", "do", "the", "right", "thing", "and", "leave", "money", "on", "the", "table", "before", "we", "left", "."], "e1_text": "leave", "e1_pos": 27, "e2_text": "left", "e2_pos": 34, "label": "before"}
+]

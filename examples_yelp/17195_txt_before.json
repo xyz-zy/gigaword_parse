@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "just", "before", "2PM", "and", "they", "had", "just", "changed", "the", "market", "sandwich", "-LRB-", "$", "10", "-", "yikes", "!", "-RRB-"], "e1_text": "arrived", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "ice", "and", "the", "caffeine", "picked", "me", "up", "I", "before", "heading", "back", "to", "a", "conference", "in", "downtown", "Phoenix", "."], "e1_text": "picked", "e1_pos": 5, "e2_text": "heading", "e2_pos": 10, "label": "before"}
+]

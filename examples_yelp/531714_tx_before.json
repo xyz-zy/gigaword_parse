@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "been", "scoping", "this", "place", "out", "for", "months", "before", "I", "tried", "it", "."], "e1_text": "scoping", "e1_pos": 3, "e2_text": "tried", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "always", "see", "it", "when", "I", "go", "to", "Sprouts", "but", "I", "'m", "always", "over", "there", "before", "they", "open", "."], "e1_text": "'m", "e1_pos": 11, "e2_text": "open", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "that", "nice", "full", "feeling", "you", "get", "after", "you", "eat", "a", "well", "made", "meal", "at", "a", "good", "restaurant", ",", "then", "there", "is", "that", "feeling", "you", "get", "after", "you", "eat", "something", "like", "Julio", "G", "'s", ";", "that", "feeling", "can", "best", "be", "described", "as", "`", "Where", "'s", "the", "toilet", "?", "'", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "eat", "e2_pos": 10, "label": "after"}
+]

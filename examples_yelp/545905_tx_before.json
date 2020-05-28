@@ -1,0 +1,4 @@
+[
+{"tokens": ["Luck", "would", "have", "it", "we", "did", "get", "a", "seat", "at", "the", "bar", "-LRB-", "party", "of", "4", "-RRB-", "...", "BUT", ",", "it", "took", "quite", "awhile", "before", "we", "got", "served", "."], "e1_text": "took", "e1_pos": 21, "e2_text": "got", "e2_pos": 26, "label": "before"},
+{"tokens": ["Just", "getting", "to", "this", "point", "was", "aggravating", "...", "plus", "we", "already", "spent", "75", "+", "bucks", "before", "we", "got", "seated", "."], "e1_text": "spent", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

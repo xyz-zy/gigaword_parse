@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", ",", "why", "would", "you", "stop", "seating", "people", "40", "minutes", "before", "you", "close", "when", "you", "do", "n't", "even", "have", "to", "cook", "the", "food", ",", "your", "customers", "do", "it", "for", "you", "."], "e1_text": "stop", "e1_pos": 7, "e2_text": "close", "e2_pos": 14, "label": "before"}
+]

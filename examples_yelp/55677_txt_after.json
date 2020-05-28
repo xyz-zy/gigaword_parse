@@ -1,0 +1,3 @@
+[
+{"tokens": ["Did", "n't", "see", "our", "waiter", "for", "a", "good", "10", "minutes", "after", "that", "until", "he", "bought", "my", "boyfriend", "another", "drink", "in", "which", "he", "soon", "hurried", "back", "away", "from", "our", "table", "and", "on", "to", "the", "bar", "area", "."], "e1_text": "see", "e1_pos": 2, "e2_text": "bought", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "even", "enough", "for", "one", "person", ",", "so", "you", "run", "out", "of", "sauce", "and", "then", "...", "4", "-RRB-", "The", "past", "two", "times", "I", "'ve", "gone", ",", "after", "the", "food", "was", "served", "the", "waiter", "-LRB-", "different", "person", "each", "time", "-RRB-", "disappeared", "."], "e1_text": "gone", "e1_pos": 24, "e2_text": "was", "e2_pos": 29, "label": "after"},
+{"tokens": ["The", "place", "was", "n't", "even", "busy", "since", "we", "usually", "go", "around", "11", "or", "during", "the", "weird", "between", "lunch\\/dinner", "period", "on", "the", "weekend", ",", "so", "I", "'m", "not", "sure", "where", "the", "waitstaff", "go", "or", "what", "their", "excuse", "is", "for", "not", "checking", "back", "in", "after", "dropping", "off", "the", "food", "."], "e1_text": "checking", "e1_pos": 39, "e2_text": "dropping", "e2_pos": 43, "label": "after"}
+]

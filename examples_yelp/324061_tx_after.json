@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "are", "alot", "of", "clams", "that", "remained", "closed", "after", "being", "cooked", ",", "that", "means", "the", "clam", "actually", "died", "BEFORE", "it", "went", "into", "the", "pot", ",", "which", "can", "be", "a", "dangerous", "vector", "for", "food", "borne", "illnesses", "."], "e1_text": "remained", "e1_pos": 6, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

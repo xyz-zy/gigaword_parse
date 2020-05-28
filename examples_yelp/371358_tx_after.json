@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fryer", "smell", "was", "very", "annoying", ",", "and", "I", "smelled", "like", "it", "after", "I", "got", "home", "."], "e1_text": "smelled", "e1_pos": 9, "e2_text": "got", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "told", "our", "waitress", "that", "the", "table", "was", "sticky", "right", "after", "we", "had", "sat", "down", "with", "our", "menus", ";", "she", "was", "super", "nice", "and", "moved", "us", "to", "another", "table", "that", "was", "less", "sticky", "but", "still", "had", "that", "film", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

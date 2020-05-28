@@ -1,0 +1,3 @@
+[
+{"tokens": ["Am", "I", "biased", "because", "I", "work", "for", "the", "City", "of", "Charlotte", "and", "the", "City", "owns\\/runs", "CLT", "???", "-", "Perhaps", "...", "but", ",", "even", "when", "I", "lived", "in", "Savannah", "-LRB-", "many", "moons", "before", "coming", "to", "Charlotte", "-RRB-", "I", "would", "purposefully", "schedule", "US", "Airways", "flights", "so", "that", "I", "could", "be", "routed", "throgh", "CLT", "rather", "than", "ATL", "."], "e1_text": "lived", "e1_pos": 25, "e2_text": "coming", "e2_pos": 32, "label": "before"}
+]

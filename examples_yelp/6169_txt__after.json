@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "good", "except", "they", "forgot", "to", "give", "us", "the", "basket", "of", "biscuits", "which", "we", "received", "promptly", "after", "we", "asked", "for", "it", "."], "e1_text": "received", "e1_pos": 15, "e2_text": "asked", "e2_pos": 19, "label": "after"}
+]

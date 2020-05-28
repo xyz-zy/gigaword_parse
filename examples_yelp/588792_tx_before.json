@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "searched", "their", "menu", "online", "and", "had", "a", "good", "idea", "of", "what", "to", "order", "before", "we", "got", "there", "."], "e1_text": "order", "e1_pos": 14, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "have", "never", "had", "pasta", "in", "my", "sandwich", "before", "so", "it", "was", "a", "little", "weird", "eating", "as", "the", "pasta", "would", "sometimes", "slip", "out", "-", "but", "it", "was", "good", "!"], "e1_text": "had", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

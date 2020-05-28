@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "a", "great", "place", "to", "go", "for", "lunch", ",", "before", "or", "after", "shopping", "or", "seeing", "a", "movie", "at", "the", "Waterfront", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "shopping", "e2_pos": 13, "label": "after"}
+]

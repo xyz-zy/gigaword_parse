@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "doctor", "was", "unable", "to", "locate", "me", "until", "5", "hours", "after", "the", "surgery", "at", "which", "time", "he", "blew", "up", "at", "the", "staff", ",", "-LRB-", "in", "my", "presence", "-RRB-", "informing", "them", "a", "room", "was", "necessary", "due", "to", "the", "extensive", "neurological", "testing", "required", "the", "next", "morning", "and", "how", "this", "could", "not", "be", "performed", "in", "a", "holding", "area", "."], "e1_text": "locate", "e1_pos": 5, "e2_text": "blew", "e2_pos": 17, "label": "after"}
+]

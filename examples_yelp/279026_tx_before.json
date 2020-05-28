@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "appetizers", "and", "desserts", "were", "especially", "slow", "in", "coming", ",", "and", "adding", "insult", "to", "injury", ",", "those", "who", "ordered", "their", "desserts", "to", "go", "were", "served", "a", "good", "10", "minutes", "before", "those", "who", "wanted", "theirs", "served", "."], "e1_text": "served", "e1_pos": 24, "e2_text": "wanted", "e2_pos": 32, "label": "before"}
+]

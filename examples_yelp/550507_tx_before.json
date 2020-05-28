@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", "we", "already", "had", "looked", "at", "the", "menu", "while", "he", "was", "gone", ",", "and", "knew", "what", "we", "wanted", ",", "but", "then", "we", "had", "to", "sit", "through", "a", "10", "minute", "meat", "presentation", "before", "even", "ordering", "a", "starter", "."], "e1_text": "sit", "e1_pos": 24, "e2_text": "ordering", "e2_pos": 33, "label": "before"},
+{"tokens": ["It", "would", "be", "nice", "to", "bring", "bread", "and\\/or", "let", "guests", "order", "starters", "before", "presenting", "the", "''", "``", "meat", "trolley", ".", "''", "''"], "e1_text": "let", "e1_pos": 8, "e2_text": "presenting", "e2_pos": 13, "label": "before"}
+]

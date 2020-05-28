@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "is", "slow", "!!!!!!!!!!!", "I", "went", "through", "the", "drive", "through", "about", "a", "year", "ago", "and", "got", "cold", "food", "after", "waiting", "for", "nearly", "15", "min", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "decided", "after", "a", "year", "had", "past", "to", "give", "them", "a", "try", "again", "this", "morning", "and", "finally", "at", "the", "15", "min", "mark", "i", "gave", "up", "and", "backed", "out", "of", "the", "line", "and", "left", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

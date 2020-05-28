@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "really", "did", "n't", "seem", "to", "have", "any", "time", "for", "me", "and", "sent", "me", "back", "to", "the", "front", "desk", "for", "check", "in", "which", "usually", "the", "casino", "host", "has", "always", "taken", "care", "of", "for", "us", "before", "."], "e1_text": "sent", "e1_pos": 12, "e2_text": "has", "e2_pos": 27, "label": "before"},
+{"tokens": ["Bottom", "line", "casino", "host", "and", "front", "desk", "staff", "are", "horrible", "and", "treat", "you", "more", "as", "an", "inconvenience", "then", "a", "guest", "spending", "money", "there", "and", "housekeeping", "well", "I", "suppose", "they", "hopefully", "changed", "our", "sheets", "before", "we", "got", "there", "if", "that", "was", "n't", "too", "much", "to", "ask", "."], "e1_text": "changed", "e1_pos": 30, "e2_text": "got", "e2_pos": 35, "label": "before"}
+]

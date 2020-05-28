@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "would", "have", "said", "something", ",", "but", "our", "waitress", "did", "n't", "come", "back", "until", "after", "we", "were", "finished", "eating", "."], "e1_text": "come", "e1_pos": 11, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "took", "another", "10", "minutes", "to", "get", "our", "change", "back", "after", "getting", "the", "bill", ",", "making", "our", "sitting", "at", "this", "sorry", "excuse", "for", "a", "dining", "establishment", "about", "1.5", "hours", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "getting", "e2_pos": 11, "label": "after"}
+]

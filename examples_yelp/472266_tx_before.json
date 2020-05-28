@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "hard", "to", "tell", "if", "the", "place", "was", "actually", "serving", "people", "or", "not", "as", "you", "drive", "by", "so", "I", "had", "skipped", "stopping", "in", "a", "few", "times", "before", "I", "tired", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "tired", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "am", "pretty", "sure", "I", "have", "never", "had", "one", "before", ",", "but", "it", "'s", "way", "different", "than", "the", "normal", "pancakes", "served", "for", "breakfast", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "have", "e2_pos": 5, "label": "before"}
+]

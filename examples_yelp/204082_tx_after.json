@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "served", "after", "sitting", "down", "."], "e1_text": "served", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "left", "a", "note", "-LRB-", "after", "getting", "a", "pen", "from", "the", "hostess", "-RRB-", "commenting", "on", "the", "bad", "service", "and", "weak", ",", "overpriced", "coffee", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "getting", "e2_pos": 6, "label": "after"}
+]

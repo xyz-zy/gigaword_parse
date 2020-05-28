@@ -1,0 +1,3 @@
+[
+{"tokens": ["Never", "did", "and", "then", "5", "days", "later", "we", "had", "a", "service", "outage", "when", "they", "did", "it", "without", "notice", "after", "which", "we", "discovered", "they", "took", "us", "off", "the", "private", "vlan", "they", "had", "the", "network", "on", "to", "a", "public", "network", "exposing", "the", "client", "network", "that", "had", "no", "firewall", "at", "that", "node", "!"], "e1_text": "did", "e1_pos": 1, "e2_text": "discovered", "e2_pos": 21, "label": "after"}
+]

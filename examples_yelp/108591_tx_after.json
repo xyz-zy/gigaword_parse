@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "salad", "was", "not", "fresh", "and", "the", "lettuce", "was", "unsatisfactory", ",", "after", "waiting", "an", "additional", "10", "minutes", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 12, "label": "after"},
+{"tokens": ["He", "finally", "gave", "me", "cash", "back", ",", "after", "giving", "me", "some", "of", "the", "worst", "customer", "service", "experience", "I", "'ve", "received", "at", "any", "restaurant", "in", "Arizona", "."], "e1_text": "cash", "e1_pos": 4, "e2_text": "giving", "e2_pos": 8, "label": "after"}
+]

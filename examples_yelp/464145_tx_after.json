@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "think", "you", "'re", "going", "to", "be", "clever", "by", "getting", "there", "right", "when", "they", "open", "for", "lunch", ",", "you", "really", "need", "to", "get", "there", "right", "when", "they", "open", ",", "not", "10", "minutes", "after", "they", "open", "!"], "e1_text": "get", "e1_pos": 23, "e2_text": "open", "e2_pos": 15, "label": "after"},
+{"tokens": ["Suddenly", ",", "over", "the", "next", "5", "minutes", ",", "several", "other", "parties", "of", "2", "or", "3", "people", "came", "in", "one", "right", "after", "another", "and", "the", "place", "was", "suddenly", "full", "!"], "e1_text": "came", "e1_pos": 16, "e2_text": "was", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["$", "20", "pot", "of", "coffee", "delivered", "almost", "an", "hour", "after", "ordered", "."], "e1_text": "delivered", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 10, "label": "after"},
+{"tokens": ["You", "'re", "going", "to", "squeeze", "me", "for", "every", "nickel", "after", "we", "paid", "top", "room", "price", "?!", "-RRB-", "No", "easy", "way", "to", "get", "water", "."], "e1_text": "squeeze", "e1_pos": 4, "e2_text": "paid", "e2_pos": 11, "label": "after"}
+]

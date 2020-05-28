@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "looked", "like", "they", "changed", "the", "whole", "menu", "since", "my", "last", "visit", "and", "I", "'m", "still", "not", "sure", "I", "love", "the", "new", "menu", ",", "it", "'ll", "take", "a", "couple", "of", "more", "visits", "before", "I", "have", "a", "verdict", "on", "that", "...", "I", "know", "for", "sure", "if", "they", "got", "rid", "of", "their", "eggs", "benedict", "I", "'ll", "be", "scarred", "for", "life", "!"], "e1_text": "take", "e1_pos": 26, "e2_text": "have", "e2_pos": 34, "label": "before"},
+{"tokens": ["You", "need", "to", "go", "to", "5", "&", "Diner", "if", "you", "are", "into", "nostalgia", ",", "it", "'s", "a", "wonderful", "place", "with", "great", "service", "that", "makes", "me", "wistful", "for", "a", "time", "that", "came", "and", "went", "a", "full", "20", "years", "before", "I", "was", "even", "born", "."], "e1_text": "came", "e1_pos": 30, "e2_text": "was", "e2_pos": 39, "label": "before"}
+]

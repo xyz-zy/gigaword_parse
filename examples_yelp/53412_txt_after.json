@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "asked", "me", "how", "soon", "after", "we", "ate", "did", "we", "experience", "symptoms", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "ate", "e2_pos": 7, "label": "after"},
+{"tokens": ["Since", "I", "had", "the", "food", "poisoning", "website", "pulled", "up", "on", "my", "computer", "-", "it", "shows", "that", "anywhere", "from", "2-6", "hours", "after", "you", "eat", ",", "you", "experience", "the", "symptoms", "of", "food", "poisoning", "''", "''", "."], "e1_text": "shows", "e1_pos": 14, "e2_text": "eat", "e2_pos": 22, "label": "after"}
+]

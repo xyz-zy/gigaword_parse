@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "sensitive", "neighbors", "must", "have", "had", "security", "on", "speed", "dial", ",", "waiting", "for", "our", "arrival", ",", "because", "barely", "10", "minutes", "after", "we", "returned", ",", "security", "was", "back", "at", "our", "door", "telling", "us", "we", "hit", "our", "2nd", "strike", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "returned", "e2_pos": 22, "label": "after"},
+{"tokens": ["It", "was", "n't", "that", "we", "were", "surprised", "they", "followed", "policies", ",", "but", "we", "could", "n't", "believe", "the", "noise", "level", "we", "were", "at", "after", "just", "ten", "minutes", "of", "being", "back", "warranted", "a", "noise", "complaint", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "being", "e2_pos": 27, "label": "after"}
+]

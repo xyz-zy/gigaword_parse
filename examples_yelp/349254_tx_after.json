@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "with", "my", "mother", "and", "3", "other", "family", "members", "to", "the", "Yardhouse", "for", "dinner", "and", "drinks", "after", "spending", "the", "entire", "day", "at", "the", "hospital", "with", "my", "father", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "spending", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "was", "insulted", ",", "as", "was", "my", "family", "and", "none", "of", "us", "will", "EVER", "return", "to", "the", "Yardhouse", "again", "after", "the", "disrespectful", "treatment", "received", "."], "e1_text": "return", "e1_pos": 14, "e2_text": "received", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "coworker", "mentioned", "that", "it", "had", "recently", "changed", "ownership", "after", "the", "former", "owner", "passed", "."], "e1_text": "changed", "e1_pos": 7, "e2_text": "passed", "e2_pos": 13, "label": "after"}
+]

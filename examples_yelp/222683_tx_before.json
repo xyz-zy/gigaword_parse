@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "weekend", "my", "boyfriend", "and", "I", "decided", "to", "go", "...", "after", "having", "a", "horrible", "dinner", "at", "Neros", "the", "night", "before", "...", "I", "was", "looking", "forward", "to", "an", "exceptional", "dining", "experience", "."], "e1_text": "decided", "e1_pos": 6, "e2_text": "having", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "are", "dessert", "fanatics", "but", "we", "could", "n't", "wait", "to", "get", "out", "of", "Guy", "Savoy", "prison", "...", "we", "got", "our", "check", "even", "before", "we", "finished", "our", "meals", "."], "e1_text": "got", "e1_pos": 18, "e2_text": "finished", "e2_pos": 24, "label": "before"}
+]

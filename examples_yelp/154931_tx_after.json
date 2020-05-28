@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "hostess", "up", "front", "greeted", "us", "and", "after", "explaining", "that", "we", "wanted", "to", "try", "to", "watch", "some", "football", ",", "suggested", "we", "sit", "at", "the", "bar", "."], "e1_text": "suggested", "e1_pos": 19, "e2_text": "explaining", "e2_pos": 8, "label": "after"},
+{"tokens": ["Luckily", ",", "he", "made", "himself", "useful", "and", "actually", "got", "the", "channel", "changed", "but", "not", "after", "asking", "the", "other", "patrons", "which", "were", "more", "than", "obliging", "but", "then", "he", "told", "us", "that", "he", "would", "have", "to", "ask", "his", "manager", "...", "huh", "?"], "e1_text": "changed", "e1_pos": 11, "e2_text": "asking", "e2_pos": 15, "label": "after"}
+]

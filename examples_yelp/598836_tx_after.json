@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "with", "my", "+1", "for", "some", "drinks", "after", "attending", "the", "Yelp", "Burgh", "Bash", "at", "the", "PGH", "Public", "Market", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "attending", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "drinks", ",", "service", ",", "and", "ambiance", "were", "all", "great", "for", "imbibing", "some", "craft", "cocktails", ",", "especially", "later", "at", "night", "after", "having", "eaten", "substantially", "elsewhere", "."], "e1_text": "imbibing", "e1_pos": 11, "e2_text": "having", "e2_pos": 21, "label": "after"}
+]

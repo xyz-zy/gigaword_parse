@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "taken", "shoes", "elsewhere", "before", "-LRB-", "a", "couple", "places", "Uptown", "close", "to", "work", ",", "etc.", "and", "the", "quality", "just", "does", "not", "compare", "-RRB-", "."], "e1_text": "taken", "e1_pos": 2, "e2_text": "places", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "also", "brought", "in", "an", "Ugg", "that", "had", "a", "huge", "tear", "right", "by", "the", "toe", ",", "and", "they", "stitched", "a", "thin", "line", "over", "the", "tear", "and", "it", "looks", "great", "considering", "how", "it", "looked", "before", "!"], "e1_text": "considering", "e1_pos": 29, "e2_text": "looked", "e2_pos": 32, "label": "before"}
+]

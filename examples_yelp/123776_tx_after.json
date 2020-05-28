@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "'s", "a", "bar", "area", "which", "can", "hold", "decent", "number", "of", "people", ",", "a", "separate", "restaurant", "area", "which", "can", "hold", "more", "people", ",", "and", "another", "area", "away", "from", "the", "bar", "where", "there", "'s", "a", "82", "inch", "TV", "and", "a", "comfortable", "chair", "right", "in", "front", "which", "I", "fell", "asleep", "in", "after", "eating", "two", "16", "oz", "meals", "each", "time", "I", "was", "here", "."], "e1_text": "fell", "e1_pos": 46, "e2_text": "eating", "e2_pos": 50, "label": "after"}
+]

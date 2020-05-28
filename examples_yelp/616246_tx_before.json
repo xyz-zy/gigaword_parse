@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "group", "of", "us", "stopped", "by", "for", "an", "early", "lunch", "before", "seeing", "a", "White", "Christmas", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 11, "label": "before"},
+{"tokens": ["This", "will", "be", "my", "new", "go", "to", "before", "seeing", "a", "show", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 8, "label": "before"}
+]

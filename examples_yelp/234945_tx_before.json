@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hubby", "has", "been", "here", "many", "times", "before", "when", "he", "'s", "been", "on", "work", "related", "trips", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "'s", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "did", "n't", "take", "long", "before", "we", "were", "through", "the", "line", ",", "paid", "and", "seated", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "were", "e2_pos": 7, "label": "before"}
+]

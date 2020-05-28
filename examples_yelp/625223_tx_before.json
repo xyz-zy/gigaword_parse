@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "always", "enjoyed", "being", "able", "to", "be", "a", "part", "of", "the", "action", "and", "see", "what", "goes", "in", "to", "making", "the", "wonderful", "dishes", "before", "they", "'re", "served", "to", "customers", "."], "e1_text": "making", "e1_pos": 19, "e2_text": "'re", "e2_pos": 25, "label": "before"},
+{"tokens": ["My", "one", "and", "only", "MAJOR", "concern", "that", "has", "been", "consistent", "all", "4", "times", "I", "have", "eating", "here", "is", "that", "the", "executive", "chef", "who", "checks", "the", "food", "before", "it", "goes", "out", "repeatedly", "failed", "to", "wear", "gloves", "to", "avoid", "cross", "contamination", "."], "e1_text": "checks", "e1_pos": 23, "e2_text": "goes", "e2_pos": 28, "label": "before"}
+]

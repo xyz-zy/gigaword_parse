@@ -1,0 +1,5 @@
+[
+{"tokens": ["She", "layed", "in", "her", "room", "for", "24", "hours", "before", "being", "seen", "or", "any", "procedures", "being", "ordered", "."], "e1_text": "layed", "e1_pos": 1, "e2_text": "being", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "was", "a", "full", "minute", "before", "anyone", "came", "in-all", "the", "while", "the", "alarm", "is", "blaring", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 7, "label": "before"},
+{"tokens": ["Signed", "Release", "of", "Information", "paperwork", "with", "a", "nurse", "before", "we", "left", "."], "e1_text": "paperwork", "e1_pos": 4, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

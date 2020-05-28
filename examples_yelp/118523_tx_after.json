@@ -1,0 +1,3 @@
+[
+{"tokens": ["Instead", "of", "hiking", "on", "acres", "of", "a", "power", "retailer", "'s", "floor", "to", "reach", "an", "electronics", "department", "with", "outs", "and", "insufficient", "sales", "help", ",", "immediately", "after", "opening", "the", "Radio", "Shack", "door", "sales", "associate", "Tyler", "greeted", "me", "."], "e1_text": "reach", "e1_pos": 12, "e2_text": "opening", "e2_pos": 25, "label": "after"}
+]

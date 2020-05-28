@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "several", "lunches", "there", "and", "I", "love", "how", "I", "feel", "after", "eating", "fresh", "local", "food", "after", "the", "meal", "."], "e1_text": "feel", "e1_pos": 11, "e2_text": "eating", "e2_pos": 13, "label": "after"},
+{"tokens": ["At", "Merchant", ",", "I", "do", "n't", "feel", "like", "a", "grease", "bomb", "is", "resting", "in", "my", "stomach", "after", "I", "finish", "a", "meal", "!"], "e1_text": "is", "e1_pos": 11, "e2_text": "finish", "e2_pos": 18, "label": "after"}
+]

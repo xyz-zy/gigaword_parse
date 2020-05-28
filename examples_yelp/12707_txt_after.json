@@ -1,0 +1,3 @@
+[
+{"tokens": ["Employees", "are", "not", "helpful", ",", "but", "there", "is", "a", "receipt", "book", "that", "they", "give", "you", "at", "the", "end", "of", "the", "purchase", "that", "tells", "you", "about", "frame", "choices", "-LRB-", "i.e.", ",", "after", "you", "buy", "your", "non-rectangular", "frames", "for", "your", "fat", "face", ",", "they", "tell", "you", "not", "to", "do", "that", "-RRB-", "."], "e1_text": "i.e.", "e1_pos": 28, "e2_text": "buy", "e2_pos": 32, "label": "after"}
+]

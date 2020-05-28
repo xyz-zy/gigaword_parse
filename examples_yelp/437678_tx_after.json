@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "not", "give", "you", "any", "information", "on", "price", "until", "the", "last", "minute", ",", "after", "you", "'ve", "already", "invested", "your", "entire", "morning", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 16, "label": "after"},
+{"tokens": ["Icing", "on", "the", "cake", "-", "after", "we", "said", "no", "to", "Marilyn", ",", "and", "THEN", "the", "senior", "salesman", "she", "brought", "in", ",", "my", "gf", "'s", "parents", "were", "given", "a", "survey", "to", "fill", "out", "."], "e1_text": "Icing", "e1_pos": 0, "e2_text": "said", "e2_pos": 7, "label": "after"}
+]

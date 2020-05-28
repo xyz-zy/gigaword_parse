@@ -1,0 +1,4 @@
+[
+{"tokens": ["Buffets", "should", "end", "with", "you", "smiling", "and", "patting", "your", "belly", ",", "after", "having", "unbuttoned", "your", "pants", "to", "fit", "in", "one", "last", "round", "."], "e1_text": "end", "e1_pos": 2, "e2_text": "having", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "should", "have", "listened", "to", "my", "gut", "feeling", "after", "seeing", "rates", "of", "this", "place", "dropping", "in", "their", "latest", "yelp", "reviews", "."], "e1_text": "listened", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "have", "an", "amazing", "beer", "selection", ",", "good", "dogs", "and", "they", "must", "have", "expanded", "the", "place", "in", "the", "last", "year", "because", "they", "have", "a", "pull", "up", "garage", "wall", "that", "I", "never", "noticed", "before", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "noticed", "e2_pos": 31, "label": "before"},
+{"tokens": ["Might", "as", "well", "stop", "here", "first", "before", "going", "to", "see", "a", "movie", "across", "the", "street", "..."], "e1_text": "stop", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "before"}
+]

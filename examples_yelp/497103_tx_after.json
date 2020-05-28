@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unlike", ",", "of", "course", ",", "one", "certain", "patron", "sat", "next", "to", "us", ",", "who", "had", "waited", "just", "as", "long", "and", "demanded", "to", "see", "a", "manager", ",", "after", "giving", "said", "bartender", "an", "incredibly", "hard", "time", "."], "e1_text": "demanded", "e1_pos": 20, "e2_text": "giving", "e2_pos": 27, "label": "after"},
+{"tokens": ["Pretty", "classy", ":-RRB-", "In", "the", "end", "our", "order", "came", "out", ",", "after", "tons", "more", "waiting", ",", "and", "came", "out", "wrong", "to", "boot", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

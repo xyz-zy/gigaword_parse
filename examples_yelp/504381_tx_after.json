@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "gave", "me", "different", "information", "on", "two", "consecutive", "visits", "that", "I", "made", ",", "then", "Dorrie", ",", "some", "lady", "who", "obviously", "should", "not", "have", "been", "working", "that", "day", "because", "she", "was", "coughing", "phlegm", "all", "over", "my", "documents", ",", "then", "after", "she", "asked", "me", "to", "wait", "by", "the", "counter", "for", "10", "minutes", "while", "their", "system", "updated", "."], "e1_text": "made", "e1_pos": 11, "e2_text": "asked", "e2_pos": 40, "label": "after"}
+]

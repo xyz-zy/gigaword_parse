@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "this", "review", "is", "for", "breakfast", ",", "the", "server", "only", "came", "once", "to", "refile", "our", "coffee", ",", "before", "we", "ordered", "anything", ",", "we", "placed", "an", "order", "for", "''", "``", "benue", "''", "''", "sp", ".", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 19, "label": "before"}
+]

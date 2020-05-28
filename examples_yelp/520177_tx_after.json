@@ -1,0 +1,3 @@
+[
+{"tokens": ["DumplingHaus", "is", "located", "in", "Madison", ",", "Wisconsin", ",", "which", "-", "after", "living", "for", "about", "five", "years", "there", "-", "is", "not", "a", "city", "known", "for", "Dim", "Sum", ",", "let", "alone", "tasty", "Chinese", "food", "."], "e1_text": "located", "e1_pos": 2, "e2_text": "living", "e2_pos": 11, "label": "after"}
+]

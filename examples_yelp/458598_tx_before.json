@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "I", "was", "not", "happy", "to", "be", "treated", "rudely", "during", "the", "ID", "check", ",", "before", "I", "am", "even", "admitted", "."], "e1_text": "treated", "e1_pos": 8, "e2_text": "am", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", "it", "was", "to", "my", "pleasant", "surprise", "when", "security", "guard", "Matthew", "did", "not", "sternly", "ask", "me", "to", "smile", ",", "rattle", "off", "my", "birthday\\/street", "address\\/middle", "name", "etc", ",", "or", "pull", "up", "my", "Facebook", "profile", "on", "my", "phone", "-LRB-", "happened", "before", "at", "Surrender", "during", "another", "visit", "-RRB-", "."], "e1_text": "happened", "e1_pos": 37, "e2_text": "Surrender", "e2_pos": 40, "label": "before"}
+]

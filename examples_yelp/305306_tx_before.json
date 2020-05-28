@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "an", "Avis", "rep", "is", "stating", "that", "I", "will", "be", "charged", "$", "800", "if", "I", "return", "the", "rental", "before", "12am", "Monday", "!!!", "A", "fee", "for", "returning", "ghe", "car", "a", "few", "hours", "earlier", "!?!?!", "This", "is", "a", "ridiculous", "company", "with", "no", "effective", "management", "or", "employees", "capable", "of", "exercising", "some", "common", "sense", "practices", "."], "e1_text": "return", "e1_pos": 15, "e2_text": "!?!?!", "e2_pos": 32, "label": "before"}
+]

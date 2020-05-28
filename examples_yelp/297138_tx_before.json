@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "I", "did", "n't", "go", "to", "the", "gym", "today", "like", "I", "normally", "do", "before", "I", "visit", ",", "I", "ordered", "double", "fire", "grilled", "chicken", "on", "my", "salad", "."], "e1_text": "do", "e1_pos": 13, "e2_text": "visit", "e2_pos": 16, "label": "before"}
+]

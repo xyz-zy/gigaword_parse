@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "my", "friend", "really", "enjoyed", "her", "veggie", "burger", ",", "I", "did", "n't", "care", "too", "much", "for", "my", "soup\\/fries", "since", "I", "got", "a", "killer", "tummyache", "after", "eating", "here", "...", "we", "also", "split", "a", "frozen", "hot", "chocolate", ",", "which", "was", "tasty", ",", "but", "wayyy", "too", "big", "for", "us", "to", "even", "think", "of", "finishing", "!"], "e1_text": "got", "e1_pos": 20, "e2_text": "eating", "e2_pos": 25, "label": "after"}
+]

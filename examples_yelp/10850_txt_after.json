@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "lunch", "at", "this", "place", "on", "X'max", "Eve", ",", "it", "was", "such", "a", "disappointing", "lunch", "given", "the", "food", "was", "not", "served", "30", "minutes", "after", "we", "finished", "ordering", "."], "e1_text": "served", "e1_pos": 21, "e2_text": "finished", "e2_pos": 26, "label": "after"},
+{"tokens": ["The", "manger", "was", "friendly", "but", "the", "waiter", "at", "our", "table", "was", "showing", "us", "some", "attitude", "after", "manager", "was", "called", "up", "."], "e1_text": "showing", "e1_pos": 11, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

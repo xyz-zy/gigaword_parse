@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "first", "bite", "of", "the", "burrito", "was", "a", "hunk", "of", "fat", "...", "that", "pretty", "much", "ended", "it", "for", "me", ",", "also", ",", "the", "sopapilla", "I", "ordered", "for", "the", "dish", "came", "out", "20", "minutes", "later", "after", "I", "reminded", "him", "."], "e1_text": "came", "e1_pos": 29, "e2_text": "reminded", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Make", "sure", "you", "make", "a", "reservation", "before", "coming", "in", ",", "or", "you", "may", "end", "up", "waiting", "a", "bit", "."], "e1_text": "make", "e1_pos": 3, "e2_text": "coming", "e2_pos": 7, "label": "before"},
+{"tokens": ["If", "you", "tell", "John", "what", "kind", "of", "wine", "you", "enjoy", ",", "he", "will", "suggest", "the", "finest", "wines", "for", "you", "to", "taste", ",", "which", "he", "also", "wears", "this", "cup", "thing", "around", "his", "neck", "to", "taste", "the", "wine", "before", "he", "serves", "it", "to", "you", "to", "try", "."], "e1_text": "taste", "e1_pos": 33, "e2_text": "serves", "e2_pos": 38, "label": "before"}
+]

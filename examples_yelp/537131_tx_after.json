@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "there", "some", "caviar", ",", "and", "went", "straight", "home", "after", "that", ",", "when", "I", "open", "the", "can", "it", "smelled", "terrible", "and", "even", "had", "some", "bubbles", "on", "it", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "open", "e2_pos": 15, "label": "after"}
+]

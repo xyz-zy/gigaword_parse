@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "n't", "had", "this", "buffet", "in", "years", ",", "so", "I", "was", "pleasantly", "surprised", "to", "find", "that", "what", "I", "loved", "about", "them", "before", "--", "the", "crab", "legs", "--", "is", "as", "good", "as", "ever", "."], "e1_text": "loved", "e1_pos": 19, "e2_text": "is", "e2_pos": 28, "label": "before"},
+{"tokens": ["My", "friend", "and", "I", "were", "having", "a", "crazy", "huge", "craving", "for", "crab", "legs", "and", "had", "a", "less", "than", "satisfying", "crab", "legs", "experience", "the", "night", "before", ",", "so", "getting", "them", "here", "-LRB-", "so", "fresh", "!", "-RRB-"], "e1_text": "had", "e1_pos": 14, "e2_text": "experience", "e2_pos": 21, "label": "before"}
+]

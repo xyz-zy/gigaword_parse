@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "call", "went", "directly", "to", "a", "recorded", "message", "that", "put", "me", "on", "hold", "and", "after", "waiting", "about", "3", "minutes", "it", "went", "to", "a", "recording", "saying", "they", "were", "busy", "and", "to", "leave", "a", "message", "or", "remain", "on", "hold", ",", "I", "went", "through", "this", "for", "4", "rotations", "and", "no", "answer", "so", "I", "decided", "to", "leave", "a", "message", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "groupon", "said", "front", "row", ",", "we", "asked", "to", "be", "sat", "in", "the", "front", "row", "-", "we", "were", "sat", "two", "rows", "back", "-", "even", "though", "there", "were", "no", "people", "in", "the", "front", "row", "yet", "-", "when", "that", "row", "was", "occupied", ",", "it", "was", "because", "they", "were", "seated", "well", "after", "we", "were", "."], "e1_text": "seated", "e1_pos": 46, "e2_text": "were", "e2_pos": 17, "label": "after"},
+{"tokens": ["So", "I", "pulled", "up", "the", "groupon", "page", "on", "my", "phone", "-LRB-", "something", "he", "could", "have", "done", "himself", "after", "reading", "my", "review", "-RRB-", "and", "showed", "him", "."], "e1_text": "done", "e1_pos": 15, "e2_text": "reading", "e2_pos": 18, "label": "after"}
+]

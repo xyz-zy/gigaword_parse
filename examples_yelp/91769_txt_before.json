@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "immediately", "felt", "a", "sense", "of", "familiarity", "when", "I", "walked", "in", "the", "door", ",", "I", "had", "n't", "remembered", "being", "there", "before", "until", "I", "walked", "in", "."], "e1_text": "remembered", "e1_pos": 17, "e2_text": "walked", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "remember", "stopping", "by", "here", "years", "ago", "with", "friend", "before", "heading", "to", "the", "Fair", "one", "year", "."], "e1_text": "stopping", "e1_pos": 2, "e2_text": "heading", "e2_pos": 10, "label": "before"}
+]

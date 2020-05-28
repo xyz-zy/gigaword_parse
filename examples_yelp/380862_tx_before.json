@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "wait", "until", "a", "Pinkberry", "opens", "in", "Phoenix", "before", "purchasing", "expensive", "frozen", "yogurt", "again", "."], "e1_text": "opens", "e1_pos": 6, "e2_text": "purchasing", "e2_pos": 10, "label": "before"}
+]

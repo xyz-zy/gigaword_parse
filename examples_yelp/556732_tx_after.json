@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turns", "out", ",", "he", "was", "absolutely", "homeless", "because", "after", "finishing", "his", "soup", "he", "ran", "out", "of", "the", "restaurant", "without", "paying", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "finishing", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "entire", "staff", "was", "worried", "about", "running", "after", "this", "man", "who", "had", "skipped", "out", "on", "paying", "-LRB-", "including", "my", "server", "-RRB-", "so", "I", "sat", "around", "waiting", "for", "the", "side", "of", "marinara", "I", "had", "requested", "15", "minutes", "prior", "."], "e1_text": "running", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

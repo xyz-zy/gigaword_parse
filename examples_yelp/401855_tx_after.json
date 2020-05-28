@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "decided", "to", "stop", "by", "after", "hearing", "great", "reviews", "from", "my", "fellow", "students", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 6, "label": "after"},
+{"tokens": ["A", "group", "of", "three", "girls", "came", "in", "after", "me", "followed", "by", "another", "customer", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "followed", "e2_pos": 9, "label": "after"}
+]

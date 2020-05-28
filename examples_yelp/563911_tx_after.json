@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "called", "3", "times", "in", "the", "last", "2", "weeks", "after", "purchasing", "a", "voucher", ",", "went", "to", "voice-mail", "every", "time", ",", "left", "2", "messages", ",", "and", "no", "call", "or", "text", "back", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "purchasing", "e2_pos": 11, "label": "after"}
+]

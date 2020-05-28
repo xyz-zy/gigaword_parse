@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", ",", "going", "in", "to", "''", "``", "just", "look", "around", "''", "''", "and", "then", "leaving", "after", "spending", "$", "37.00", ",", "I", "would", "say", "it", "'s", "a", "very", "nice", "store", "."], "e1_text": "leaving", "e1_pos": 14, "e2_text": "spending", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Many", "patrons", "find", "this", "out", "only", "after", "having", "ordered", "their", "burger", "and", "they", "'re", "forced", "to", "make", "the", "trek", "to", "the", "bank", "machine", "even", "though", "they", "'d", "really", "rather", "not", "."], "e1_text": "find", "e1_pos": 2, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "just", "wan", "na", "walk", "in", ",", "order", ",", "and", "eat", "soon", "after", "ordering", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 13, "label": "after"}
+]

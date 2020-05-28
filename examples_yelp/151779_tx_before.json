@@ -1,0 +1,4 @@
+[
+{"tokens": ["Folks", ",", "there", "is", "n't", "much", "time", "before", "Pomegranate", "season", "is", "over", "with", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "is", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "guess", ",", "Barrio", "Cafe", "had", "to", "fill", "up", "the", "wall", "space", "with", "something", "...", "I", "hope", "I", "do", "n't", "have", "to", "wait", "another", "seven", "years", "before", "I", "try", "Chiles", "en", "Nogada", "again", "from", "Barrio", "Cafe", "!"], "e1_text": "wait", "e1_pos": 22, "e2_text": "try", "e2_pos": 28, "label": "before"}
+]

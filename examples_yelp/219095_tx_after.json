@@ -1,0 +1,4 @@
+[
+{"tokens": ["she", "finished", "me", "off", "with", "a", "vanilla", "bean", "lotion", ",", "but", "i", "was", "so", "freezing", "cold", "at", "this", "point", "that", "i", "jumped", "right", "into", "the", "spa", "after", "the", "treatment", "was", "done", "."], "e1_text": "jumped", "e1_pos": 21, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["ya", ",", "right", "lady", ",", "like", "you", "did", "n't", "know", ":P", "after", "about", "15", "minutes", "it", "got", "too", "hot", ",", "so", "we", "went", "to", "chill", "out", "in", "the", "arctic", "room", ",", "which", "i", "thought", "was", "the", "best", "part", "of", "the", "spa", "."], "e1_text": "know", "e1_pos": 9, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

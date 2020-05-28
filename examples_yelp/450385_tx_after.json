@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "took", "our", "coffee", "order", "after", "10mins", "of", "being", "seated", ",", "this", "should", "be", "something", "that", "'s", "delay", "with", "as", "soon", "as", "the", "client", "is", "seated", ",", "thus", "minimizing", "the", "perception", "of", "waiting", "times", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

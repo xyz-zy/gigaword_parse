@@ -1,0 +1,3 @@
+[
+{"tokens": ["Me", "and", "my", "fiancee", "went", "here", "as", "part", "of", "a", "Groupon", "for", "a", "2-course", "meal", "with", "rice\\/naan", "for", "2", "but", "after", "taking", "our", "seats", "the", "lady", "who", "I", "took", "to", "be", "either", "the", "owner", "of", "joint", "owner", "offered", "us", "the", "chance", "to", "try", "a", "little", "more", "and", "asked", "if", "we", "would", "like", "to", "take", "the", "buffet", "instead", "of", "the", "2", "courses", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "taking", "e2_pos": 21, "label": "after"}
+]

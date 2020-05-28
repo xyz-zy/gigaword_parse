@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "this", "years", ",", "I", "have", "been", "going", "from", "salon", "to", "salon", "trying", "to", "find", "sombody", "that", "does", "my", "hair", "the", "way", "I", "like", "it", "...", "well", "my", "quest", "is", "over", ",", "Emily", "B.", "gave", "ME", "the", "best", "color", "and", "cut", "that", "I", "had", "in", "a", "long", "time", "...", "I", "received", "so", "many", "compliments", "from", "my", "friends", "and", "coworkers", ",", "when", "before", "nobody", "never", "noticed", "befre", "that", "I", "even", "do", "something", "to", "my", "hair", ".", "."], "e1_text": "received", "e1_pos": 50, "e2_text": "noticed", "e2_pos": 64, "label": "before"}
+]

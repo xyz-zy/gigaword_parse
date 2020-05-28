@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", ":", "we", "were", "there", "over", "an", "hour", "and", "a", "half", "for", "lunch", "-", "we", "were", "using", "a", "groupon", ",", "the", "table", "seated", "next", "to", "us", "about", "10", "minutes", "after", "us", "was", "served", "and", "gone", "and", "my", "husband", "got", "his", "entree", "...", "actually", "he", "never", "received", "his", "entree", "."], "e1_text": "seated", "e1_pos": 24, "e2_text": "was", "e2_pos": 33, "label": "after"}
+]

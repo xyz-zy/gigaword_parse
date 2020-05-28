@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "suckered", "into", "their", "membership", "program", "-LRB-", "$", "14.99", "-RRB-", "with", "the", "10", "%", "discount", "card", "+", "$", "30", "gift", "card", "and", "you", "get", "a", "folder", "of", "all", "their", "samples", "-LRB-", "which", "was", "free", "before", "but", "now", "they", "charge", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "charge", "e2_pos": 39, "label": "before"}
+]

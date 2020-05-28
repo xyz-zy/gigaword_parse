@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "rented", "a", "standard", "car", "after", "waiting", "inline", "for", "30", "minutes", ",", "the", "guy", "behind", "the", "counter", "tried", "to", "up", "sell", "me", "to", "an", "SUV", "for", "$", "10\\/day", "."], "e1_text": "rented", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mgr", "takes", "order", "but", "before", "giving", "back", "our", "change", "she", "begins", "a", "personal", "conversation", "in", "Spanish", "to", "another", "employee", "and", "stands", "there", "holding", "our", "change", "for", "30", "seconds", "."], "e1_text": "takes", "e1_pos": 1, "e2_text": "giving", "e2_pos": 5, "label": "before"}
+]

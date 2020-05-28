@@ -1,0 +1,4 @@
+[
+{"tokens": ["Dropped", "by", "after", "finding", "out", "about", "this", "new", "ramen", "and", "teriyaki", "restaurant", "via", "Yelp", "."], "e1_text": "Dropped", "e1_pos": 0, "e2_text": "finding", "e2_pos": 3, "label": "after"},
+{"tokens": ["Note", ":", "Accepts", "debit", "cards", "and", "only", "MasterCard", "at", "the", "moment", ",", "which", "hopefully", "will", "change", "after", "Chase", "card", "processing", "is", "also", "approved", "."], "e1_text": "change", "e1_pos": 15, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

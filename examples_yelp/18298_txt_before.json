@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "had", "raw", "cabbage", "in", "it", ",", "which", "I", "did", "n't", "really", "like", "-LRB-", "nor", "have", "I", "seen", "it", "before", "-RRB-", ",", "but", "other", "than", "that", ",", "it", "was", "one", "of", "the", "best", "miso", "soups", "I", "'ve", "ever", "had", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "did", "e2_pos": 9, "label": "before"}
+]

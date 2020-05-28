@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hmm", ",", "Yelp", "took", "down", "my", "picture", "after", "the", "new", "owner", "complained", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "complained", "e2_pos": 11, "label": "after"},
+{"tokens": ["Still", "by", "far", "the", "worst", "mani\\/pedi", "experience", "ever", "!!!", "I", "had", "sores", "from", "my", "cut", "cuticles", "for", "quite", "some", "time", "after", "which", "scabbed", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "scabbed", "e2_pos": 22, "label": "after"}
+]

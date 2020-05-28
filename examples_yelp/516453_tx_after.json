@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "sat", "4", "customers", "who", "came", "in", "after", "me", ",", "forgot", "what", "I", "wanted", "done", ",", "and", "I", "had", "to", "remind", "them", "several", "times", "that", "I", "was", "still", "waiting", "to", "be", "helped", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "forgot", "e2_pos": 10, "label": "after"}
+]

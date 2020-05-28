@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "and", "my", "father", "used", "to", "frequent", "this", "location", "after", "discovering", "that", "their", "food", "was", "fairly", "good", "compared", "to", "our", "local", "ramiros", ",", "but", "boy", "has", "it", "ever", "gone", "down", "hill", "!"], "e1_text": "frequent", "e1_pos": 6, "e2_text": "discovering", "e2_pos": 10, "label": "after"},
+{"tokens": ["It", "had", "a", "spiciness", "to", "it", ",", "but", "eventually", "we", "stopped", "half", "way", "and", "decided", "it", "was", "n't", "worth", "it", "after", "looking", "at", "the", "rest", "of", "the", "meal", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "looking", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "did", "not", "check", "back", "after", "the", "food", "was", "delivered", "to", "ask", "us", "how", "the", "food", "was", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["There", "were", "tables", "that", "sat", "down", "after", "us", "that", "had", "received", "their", "dessert", "and", "check", "before", "us", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

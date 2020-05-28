@@ -1,0 +1,4 @@
+[
+{"tokens": ["Seriously", ",", "I", "did", "n't", "even", "think", "to", "check", "reviews", "on", "this", "company", "before", "I", "purchased", "the", "Living", "Social", "deal", "."], "e1_text": "check", "e1_pos": 8, "e2_text": "purchased", "e2_pos": 15, "label": "before"},
+{"tokens": ["Well", ",", "after", "all", "is", "said", "and", "done", ",", "I", "paid", "them", "$", "280", "and", "my", "floor", "looks", "EXACTLY", "like", "it", "did", "before", "."], "e1_text": "looks", "e1_pos": 17, "e2_text": "did", "e2_pos": 21, "label": "before"}
+]

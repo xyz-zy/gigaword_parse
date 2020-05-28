@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "last", "minute", "birthday", "dinner", "sucked", "after", "horrid", "service", "that", "did", "n't", "remember\\/forgot", ":", "to", "bring", "any", "water", "-LRB-", "but", "they", "managed", "to", "type", "two", "free", "waters", "in", "our", "bill", "-RRB-", ",", "my", "dish", "came", "with", "a", "side", "item", ",", "to", "bring", "my", "boyfriend", "ketchup", "and", "took", "over", "7", "min", "to", "get", "a", "bill", "then", "7", "min", "to", "have", "him", "take", "it", "away", "."], "e1_text": "sucked", "e1_pos": 5, "e2_text": "did", "e2_pos": 10, "label": "after"}
+]

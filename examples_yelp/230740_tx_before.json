@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "before", "they", "started", "charging", "a", "cover", "-LRB-", "at", "4", "pm", "-RRB-", "otherwise", "it", "would", "have", "been", "$", "10", "to", "get", "in", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "started", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "was", "pretty", "much", "imposable", "to", "get", "drinks", "or", "food", "inside", ",", "which", "those", "of", "us", "who", "have", "tried", "their", "food", "before", ",", "were", "n't", "big", "fans", "of", "anyway", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "have", "e2_pos": 17, "label": "before"}
+]

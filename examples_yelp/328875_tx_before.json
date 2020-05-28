@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "pay", "my", "rent", "in", "full", "at", "least", "7", "days", "before", "it", "'s", "due", ",", "so", "no", ",", "I", "'m", "not", "someone", "who", "is", "being", "evicted", "trying", "to", "''", "``", "get", "even", "''", "''", "with", "Roosevelt", "Square", "."], "e1_text": "pay", "e1_pos": 1, "e2_text": "'s", "e2_pos": 12, "label": "before"}
+]

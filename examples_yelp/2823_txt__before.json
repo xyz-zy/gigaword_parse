@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "should", "also", "ALWAYS", "call", "Amtrak", "'s", "number", "1-800-USA-RAIL", "before", "you", "head", "out", "to", "the", "train", "station", "to", "check", "whether", "or", "not", "it", "will", "be", "on", "time", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "head", "e2_pos": 11, "label": "before"}
+]

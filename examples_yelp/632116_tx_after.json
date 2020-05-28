@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "goes", "on", "for", "10", "minutes", ",", "after", "which", "time", "the", "''", "``", "person", "with", "more", "information", "''", "''", "told", "receptionist", "that", "she", "entered", "in", "wrong", "information", "and", "hit", "a", "wrong", "key", "on", "the", "keyboard", "."], "e1_text": "goes", "e1_pos": 1, "e2_text": "person", "e2_pos": 13, "label": "after"}
+]

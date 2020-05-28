@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "the", "cashier", "if", "the", "fish", "was", "battered", "and", "she", "gave", "me", "a", "blank", ",", "mouth", "half", "opened", "stare", ",", "before", "she", "said", ":", "''", "``", "uh", "huh", ".", "''", "''"], "e1_text": "gave", "e1_pos": 11, "e2_text": "said", "e2_pos": 23, "label": "before"}
+]

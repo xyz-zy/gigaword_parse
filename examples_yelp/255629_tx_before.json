@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "did", "n't", "they", "tell", "me", "my", "account", "was", "expired", "before", "they", "rang", "up", "my", "purchase", "?!", "I", "think", "they", "did", "know", "but", "didnt", "say", "."], "e1_text": "expired", "e1_pos": 9, "e2_text": "rang", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "felt", "like", "it", "was", "a", "way", "to", "get", "me", "to", "buy", "the", "3", "things", "first", "because", "if", "they", "told", "me", "before", "paying", "they", "might", "think", "I", "will", "just", "buy", "the", "one", "thing", "instead", "of", "the", "3", "which", "is", "probably", "true", "."], "e1_text": "told", "e1_pos": 19, "e2_text": "paying", "e2_pos": 22, "label": "before"}
+]

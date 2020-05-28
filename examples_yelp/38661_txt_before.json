@@ -1,0 +1,3 @@
+[
+{"tokens": ["4", "for", "atmosphere", ",", "3", "for", "food", "and", "service", "I", "found", "this", "place", "on", "Yelp", "for", "dinner", "last", "night", "and", "my", "friend", "and", "I", "hung", "out", "in", "our", "care", "a", "few", "minutes", "before", "they", "opened", "at", "5pm", "."], "e1_text": "hung", "e1_pos": 24, "e2_text": "opened", "e2_pos": 34, "label": "before"}
+]

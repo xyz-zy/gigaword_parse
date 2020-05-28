@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "'ve", "double", "checked", "my", "order", ",", "so", "I", "'m", "just", "warning", "anyone", "who", "MUST", "be", "gluten", "free", "-", "Circle", "your", "choice", "too", "on", "the", "card", ",", "and", "inspect", "your", "good", "before", "eating", "!"], "e1_text": "inspect", "e1_pos": 29, "e2_text": "eating", "e2_pos": 33, "label": "before"}
+]

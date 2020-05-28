@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "on", "Easter", "and", "was", "excited", "to", "try", "this", "place", "after", "my", "cousin", "raved", "about", "it", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "raved", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "was", "looking", "forward", "to", "eating", "the", "stone", "crab", "claws", "after", "seeing", "pictures", "of", "it", "posted", "on", "Yelp", "except", "there", "was", "none", "."], "e1_text": "claws", "e1_pos": 9, "e2_text": "posted", "e2_pos": 15, "label": "after"}
+]

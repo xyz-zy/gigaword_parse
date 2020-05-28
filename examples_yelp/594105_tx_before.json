@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "suggested", "this", "place", "so", "I", "took", "a", "look", "@", "their", "menu", "on", "line", "&", "already", "knew", "what", "I", "wanted", "before", "I", "even", "got", "there", "."], "e1_text": "wanted", "e1_pos": 20, "e2_text": "got", "e2_pos": 24, "label": "before"},
+{"tokens": ["Now", ",", "now", "I", "know", "lobster", "is", "a", "seafood", "but", "I", "'ve", "never", "had", "a", "lobster", "that", "tasted", "so", "fishy", "before", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "tasted", "e2_pos": 17, "label": "before"}
+]

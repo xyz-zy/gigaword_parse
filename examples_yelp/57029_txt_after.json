@@ -1,0 +1,3 @@
+[
+{"tokens": ["wow", "really", "never", "again", ",", "the", "manager", "called", "me", "from", "that", "store", "even", "after", "I", "specifically", "asked", "the", "800", "number", "to", "have", "a", "district", "manager", "call", "she", "said", "I", "can", "come", "into", "the", "store", "for", "a", "free", "replacement", "however", "i", "'m", "not", "going", "to", "because", "I", "'m", "afraid", "they", "might", "do", "something", "to", "the", "replacement", "food", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "asked", "e2_pos": 16, "label": "after"}
+]

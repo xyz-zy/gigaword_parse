@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "person", "in", "front", "of", "me", "was", "helped", ",", "it", "was", "at", "least", "one", "minute", "before", "anyone", "acknowledged", "that", "I", "was", "standing", "there", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "acknowledged", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "'s", "understandable", "if", "additional", "tasks", "need", "to", "be", "done", "before", "taking", "my", "order", ",", "but", "say", "to", "your", "customer", ",", "''", "``", "I", "'ll", "be", "with", "you", "in", "just", "a", "moment", ".", "''", "''"], "e1_text": "done", "e1_pos": 9, "e2_text": "taking", "e2_pos": 11, "label": "before"}
+]

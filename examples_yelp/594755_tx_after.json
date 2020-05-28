@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "time", "we", "ordered", "from", "them", "-LRB-", "estimated", "wait", "time", "of", "30-40", "minutes", "-RRB-", "the", "driver", "called", "50", "minutes", "after", "placing", "our", "order", "to", "say", "he", "could", "n't", "find", "the", "address", "in", "his", "GPS", "and", "was", "still", "at", "the", "restaurant", "."], "e1_text": "called", "e1_pos": 16, "e2_text": "placing", "e2_pos": 20, "label": "after"}
+]

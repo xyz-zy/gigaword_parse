@@ -1,0 +1,5 @@
+[
+{"tokens": ["Today", "I", "decided", "to", "take", "an", "out", "of", "state", "collegue", "here", "after", "I", "spoke", "highly", "of", "the", "place", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "spoke", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "noticed", "the", "people", "that", "came", "in", "after", "us", "getting", "their", "food", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "getting", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "n't", "sure", "how", "this", "could", "be", "accurate", "considering", "those", "after", "me", "already", "received", "their", "orders", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "received", "e2_pos": 14, "label": "after"}
+]

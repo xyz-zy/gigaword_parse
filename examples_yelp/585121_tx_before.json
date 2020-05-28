@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "patted", "my", "back", "and", "told", "me", "he", "was", "done", "way", "before", "the", "other", "masseuse", "who", "started", "before", "him", "even", "finished", "."], "e1_text": "done", "e1_pos": 9, "e2_text": "started", "e2_pos": 16, "label": "before"},
+{"tokens": ["Then", "realized", "the", "other", "guy", "who", "started", "before", "him", "was", "still", "going", "so", "decided", "to", "finish", "me", "off", "while", "I", "sat", "up", "instead", "of", "laying", "down", "real", "quick", "."], "e1_text": "started", "e1_pos": 6, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["Bad", "service", "happened", "once", "before", "with", "my", "sister", "'s", "boyfriend", "I", "brought", "with", "me", "when", "we", "went", "with", "3", "of", "my", "girls", "."], "e1_text": "happened", "e1_pos": 2, "e2_text": "brought", "e2_pos": 11, "label": "before"}
+]

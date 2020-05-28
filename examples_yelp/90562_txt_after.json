@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "first", "thought", "we", "needed", "to", "do", "take-out", "in", "order", "to", "get", "to", "an", "appointment", "on", "time", ",", "But", ",", "after", "ordering", ",", "we", "realized", "we", "had", "more", "time", "than", "we", "originally", "thought", ",", "and", "planted", "ourselves", "at", "the", "bar", "to", "eat", "."], "e1_text": "thought", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 21, "label": "after"}
+]

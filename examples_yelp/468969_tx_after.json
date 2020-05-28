@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "cup", "of", "soup", "and", "their", "specialty", "Zinger", "Salad", "after", "waiting", "20", "plus", "minutes", "I", "overheard", "the", "table", "next", "to", "me", "ask", "the", "server", "''", "''", "our", "they", "killing", "the", "lettuce", "back", "there", "?", "''", "''"], "e1_text": "ordered", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

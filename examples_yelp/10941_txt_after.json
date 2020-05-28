@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "my", "first", "time", "in", "there", "so", "I", "did", "n't", "know", "they", "could", "n't", "fix", "watches", ",", "but", "the", "owner", "still", "examined", "my", "pocket", "watch", ",", "and", "after", "telling", "me", "''", "``", "You", "will", "spend", "$", "200", "-", "$", "300", "fixing", "this", "$", "25.00", "watch", "''", "''", "hands", "it", "back", "to", "me", "says", ",", "''", "``", "Well", ",", "that", "takes", "care", "of", "that", "''", "''", ",", "and", "sits", "back", "in", "his", "chair", "."], "e1_text": "know", "e1_pos": 11, "e2_text": "telling", "e2_pos": 29, "label": "after"}
+]

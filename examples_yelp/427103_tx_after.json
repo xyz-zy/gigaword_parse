@@ -1,0 +1,3 @@
+[
+{"tokens": ["...", ":", ":", "looks", "around", "for", "waitress", "after", "10", "minutes", ":", ":", "...", "''", "``", "really", "?!", "really", "?!", "she", "just", "goes", "M.I.", "A", "!!", "''", "''", "We", "flagged", "down", "a", "bus", "boy", "to", "grab", "us", "some", "plates", "and", "syrup", "and", "it", "was", "no", "problem", "for", "him", "."], "e1_text": "waitress", "e1_pos": 6, "e2_text": "minutes", "e2_pos": 9, "label": "after"}
+]

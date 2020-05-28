@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "requirement", "I", "told", "the", "staff", "at", "the", "registration", "desk", "was", "that", "I", "wanted", "a", "NON", "SMOKING", "room", ",", "I", "emphasized", "this", "a", "couple", "times", "before", "getting", "my", "room", "key", "."], "e1_text": "emphasized", "e1_pos": 21, "e2_text": "getting", "e2_pos": 27, "label": "before"},
+{"tokens": ["If", "it", "'s", "on", ",", "you", "get", "this", "stream", "of", "hot", "air", "blasting", "your", "feet", "before", "reaching", "your", "room", "."], "e1_text": "blasting", "e1_pos": 12, "e2_text": "reaching", "e2_pos": 16, "label": "before"}
+]

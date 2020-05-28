@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "means", "that", "3", "staff", "members", "get", "to", "walk", "through", "my", "apartment", ",", "while", "I", "'m", "packing", ",", "and", "evaluate", "the", "condition", ",", "even", "though", "that", "will", "happen", "again", "after", "I", "move", "out", "."], "e1_text": "happen", "e1_pos": 27, "e2_text": "move", "e2_pos": 31, "label": "after"},
+{"tokens": ["I", "was", "also", "charged", "for", "a", "paint", "job", ",", "this", "is", "after", "I", "painted", "the", "entire", "apartment", "with", "the", "paint", "that", "the", "front", "office", "provided", "me", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "painted", "e2_pos": 13, "label": "after"}
+]

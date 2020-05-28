@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "conversation", "that", "followed", "after", "I", "took", "the", "first", "bite", ":", "BF", ":", "Well", ",", "what", "is", "it", "?"], "e1_text": "followed", "e1_pos": 3, "e2_text": "took", "e2_pos": 6, "label": "after"},
+{"tokens": ["Me", ":", "I", "'ll", "tell", "you", "after", "you", "try", "it", "."], "e1_text": "tell", "e1_pos": 4, "e2_text": "try", "e2_pos": 8, "label": "after"}
+]

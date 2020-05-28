@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "perfect", "meal", "when", "you", "'ve", "had", "a", "bit", "too", "manys", "drink", "after", "a", "night", "of", "dancing", "in", "Vegas", "."], "e1_text": "drink", "e1_pos": 11, "e2_text": "dancing", "e2_pos": 16, "label": "after"},
+{"tokens": ["Our", "waiter", "was", "super", "good", "at", "refilling", "our", "water", ",", "especially", "after", "being", "so", "dehydrated", "from", "all", "the", "alcohol", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

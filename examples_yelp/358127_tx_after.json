@@ -1,0 +1,3 @@
+[
+{"tokens": ["however", ",", "the", "man", "behind", "the", "counter", "was", "friendly", "and", "quickly", "assembled", "my", "falafel", "wrap", "which", "after", "toasting", "he", "brought", "over", "to", "me", "at", "my", "table", "."], "e1_text": "assembled", "e1_pos": 11, "e2_text": "toasting", "e2_pos": 17, "label": "after"}
+]

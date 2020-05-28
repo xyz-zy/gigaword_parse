@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hubster", "&", "I", "went", "in", "to", "deposit", "some", "cash", "before", "we", "head", "to", "Trader", "Joe", "'s", "and", "the", "teller", "would", "n't", "give", "up", "on", "getting", "me", "to", "apply", "for", "a", "CC", "."], "e1_text": "deposit", "e1_pos": 7, "e2_text": "head", "e2_pos": 12, "label": "before"}
+]

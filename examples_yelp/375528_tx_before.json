@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "keep", "an", "eye", "on", "your", "check", "out", "statement", "before", "you", "leave", "so", "you", "can", "contest", "any", "problems", "with", "that", "-", "maybe", "your", "kids", "or", "you", "picked", "up", "items", "to", "look", "at", "them", "-", "it", "will", "still", "charge", "you", "!"], "e1_text": "keep", "e1_pos": 1, "e2_text": "leave", "e2_pos": 11, "label": "before"},
+{"tokens": ["So", "check", "your", "final", "bill", "before", "you", "leave", "-", "the", "lady", "at", "the", "front", "desk", "removed", "the", "charge", "and", "it", "was", "no", "problem", "but", "just", "something", "to", "keep", "in", "mind", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "leave", "e2_pos": 7, "label": "before"}
+]

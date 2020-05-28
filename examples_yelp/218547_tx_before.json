@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "we", "stopped", "in", "for", "the", "breakfast", "buffet", "this", "morning", "before", "heading", "out", "for", "the", "day", "."], "e1_text": "stopped", "e1_pos": 3, "e2_text": "heading", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "got", "there", "right", "before", "they", "started", "putting", "the", "lunch", "items", "out", ",", "so", "I", "could", "tell", "right", "away", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "started", "e2_pos": 6, "label": "before"}
+]

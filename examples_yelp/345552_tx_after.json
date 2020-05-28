@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "a", "handful", "of", "people", "in", "there", ",", "maybe", "a", "dozen", "-", "and", "the", "bartender", "greeted", "me", "like", "he", "knew", "me", ",", "served", "me", "a", "beer", "and", "then", "after", "checking", "on", "the", "other", "customers", ",", "went", "to", "play", "pool", "with", "the", "chef", "."], "e1_text": "served", "e1_pos": 23, "e2_text": "checking", "e2_pos": 30, "label": "after"}
+]

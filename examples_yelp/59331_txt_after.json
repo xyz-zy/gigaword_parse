@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "how", "many", "times", "tonight", "I", "had", "to", "say", "''", "``", "Corn", ",", "Sour", "Cream", ",", "Cheese", ",", "Guac", "and", "lettuce", "''", "''", "Needless", "to", "say", ",", "after", "the", "worker", "put", "the", "to", "go", "lid", "on", "my", "bowl", ",", "I", "had", "to", "then", "tell", "her", "AGAIN", "she", "did", "n't", "put", "the", "cheese", "on", "."], "e1_text": "know", "e1_pos": 3, "e2_text": "put", "e2_pos": 33, "label": "after"}
+]

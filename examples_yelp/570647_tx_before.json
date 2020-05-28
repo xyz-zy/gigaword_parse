@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "in", "that", "line", "for", "30", "minutes", ",", "before", "we", "got", "to", "the", "teller", "that", "wanted", "$", "58.00", "per", "person", "to", "eat", "at", "the", "''", "``", "international", "''", "''", "buffet", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "got", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "ate", "my", "prime", "rib", ",", "which", "was", "tender", ",", "but", "tasteless", ",", "after", "salt", "and", "peppering", "it", ",", "I", "managed", "to", "get", "it", "down", "before", "it", "went", "cold", "."], "e1_text": "managed", "e1_pos": 20, "e2_text": "went", "e2_pos": 27, "label": "before"}
+]

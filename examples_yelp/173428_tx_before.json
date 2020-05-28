@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "'s", "kind", "of", "a", "funny", "statement", "but", "one", "can", "only", "eat", "so", "much", "fancy", "food", "before", "they", "crave", "something", "uncomplicated", "and", "comforting", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "crave", "e2_pos": 18, "label": "before"},
+{"tokens": ["To", "account", "for", "its", "unappetizing", "color", "and", "depth", "of", "flavor", ",", "I", "assume", "that", "the", "cauliflower", "was", "roasted", "before", "being", "made", "into", "a", "soup", "since", "the", "server", "informed", "me", "that", "there", "was", ",", "in", "fact", ",", "no", "chicken", "stock", "in", "it", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "being", "e2_pos": 19, "label": "before"},
+{"tokens": ["And", "I", "could", "n't", "help", "but", "butter", "a", "thick-crusted", "baguette", "and", "let", "it", "rest", "in", "the", "plate", "'s", "deep", ",", "rich", "sauce", "before", "devouring", "it", "."], "e1_text": "rest", "e1_pos": 13, "e2_text": "devouring", "e2_pos": 23, "label": "before"}
+]

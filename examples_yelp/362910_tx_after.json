@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "check", "was", "delivered", "right", "after", "food", "was", "served", ",", "and", "the", "server", "nicely", "told", "us", "that", "there", "was", "no", "rush", "."], "e1_text": "delivered", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "after"},
+{"tokens": ["Unfortunately", ",", "service", "by", "both", "waitresses", "-LRB-", "a", "second", "had", "delivered", "the", "food", "-RRB-", "all", "but", "ceased", "after", "the", "check", "was", "on", "the", "table", "."], "e1_text": "ceased", "e1_pos": 16, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

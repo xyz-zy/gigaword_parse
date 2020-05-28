@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "at", "the", "table", "maybe", "two", "minutes", "before", "our", "server", "-LRB-", "the", "amazing", "Encina", "-RRB-", "came", "over", "with", "our", "menus", "and", "a", "mouth-watering", "description", "of", "the", "night", "'s", "specials", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "came", "e2_pos": 16, "label": "before"},
+{"tokens": ["She", "gave", "us", "a", "few", "minutes", "to", "peruse", "the", "drink", "menu", "and", "came", "back", "with", "waters", "before", "taking", "our", "order", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "taking", "e2_pos": 17, "label": "before"}
+]

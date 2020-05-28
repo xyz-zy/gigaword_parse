@@ -1,0 +1,4 @@
+[
+{"tokens": ["Only", "had", "to", "wait", "30", "minutes", "before", "being", "seated", "for", "the", "luncheon", "buffet", "-LRB-", "12:30", "pm", "-RRB-", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "being", "e2_pos": 7, "label": "before"},
+{"tokens": ["Definitely", "take", "your", "time", "to", "do", "some", "recon", "before", "loading", "up", "the", "plate", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "loading", "e2_pos": 9, "label": "before"}
+]

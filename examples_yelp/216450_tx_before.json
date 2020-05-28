@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "sure", "if", "it", "'s", "the", "same", "one", "who", "has", "seated", "us", "before", ",", "but", "I", "never", "really", "notice", "the", "`", "sour", "puss", "'", "people", "I", "come", "across", "."], "e1_text": "'s", "e1_pos": 4, "e2_text": "has", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "obviously", "changed", "their", "medium", "salsa", "because", "it", "has", "never", "been", "as", "yummy", "as", "it", "was", "before", "."], "e1_text": "been", "e1_pos": 10, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

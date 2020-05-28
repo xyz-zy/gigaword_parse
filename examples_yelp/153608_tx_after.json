@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "downstairs", "because", "the", "tv", "wasnt", "working", ",", "they", "said", "theyd", "send", "someone", "to", "look", "at", "it", ",", "after", "over", "an", "hour", "of", "waiting", "we", "called", "again", "and", "finally", "they", "came", "up", "and", "gave", "us", "a", "new", "remote", "."], "e1_text": "theyd", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 24, "label": "after"}
+]

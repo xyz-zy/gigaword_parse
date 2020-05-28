@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "never", "put", "in", "an", "order", "for", "B\\/P", "after", "another", "small", "wait", "I", "was", "called", "to", "the", "little", "room", "area", "for", "Weight", "&", "Temp", "as", "well", "as", "B\\/P", "."], "e1_text": "put", "e1_pos": 2, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["One", "more", "stall", "and", "Told", "him", "enough", "is", "enough", ",", "Take", "out", "IV", "or", "i", "am", "walking", ",", "All", "of", "a", "sudden", "They", "are", "doing", "e.k", "g", ",", "They", "had", "not", "done", "anything", "but", "a", "blood", "test", "after", "four", "hours", "had", "gone", "by", "and", "still", "no", "B\\/P", "pills", ",", "No", "sandwich", "had", "arrived", "."], "e1_text": "done", "e1_pos": 31, "e2_text": "had", "e2_pos": 29, "label": "after"}
+]

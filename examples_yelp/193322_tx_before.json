@@ -1,0 +1,4 @@
+[
+{"tokens": ["Decided", "on", "the", "buffet", ",", "and", "was", "told", "that", "we", "would", "have", "to", "pay", "before", "being", "seated", "."], "e1_text": "pay", "e1_pos": 13, "e2_text": "being", "e2_pos": 15, "label": "before"},
+{"tokens": ["Wanting", "to", "try", "something", "new", ",", "we", "had", "passed", "by", "Tamba", "before", "while", "walking", "the", "Strip", ",", "just", "because", "we", "did", "n't", "know", "it", "was", "at", "the", "Hawaiian", "Marketplace", "."], "e1_text": "passed", "e1_pos": 8, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

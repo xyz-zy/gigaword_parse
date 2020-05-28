@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "deposit", "the", "cash", "before", "you", "overdraft", ".", "''", "''"], "e1_text": "deposit", "e1_pos": 2, "e2_text": "overdraft", "e2_pos": 7, "label": "before"}
+]

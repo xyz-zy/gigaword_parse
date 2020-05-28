@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", "the", "lady", "at", "the", "counter", "was", "n't", "listening", "and", "kept", "screwing", "up", "our", "order", "but", "it", "was", "resolved", "before", "we", "paid", "so", "it", "was", "all", "good", "."], "e1_text": "resolved", "e1_pos": 20, "e2_text": "paid", "e2_pos": 23, "label": "before"}
+]

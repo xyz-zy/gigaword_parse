@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "some", "miscommunication", "with", "who", "our", "waiter", "was", "after", "they", "switched", "us", "to", "a", "new", "table", "because", "we", "ended", "up", "having", "a", "bigger", "party", "than", "expected", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "switched", "e2_pos": 11, "label": "after"}
+]

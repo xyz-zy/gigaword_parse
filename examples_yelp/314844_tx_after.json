@@ -1,0 +1,3 @@
+[
+{"tokens": ["REALLY", "BAD", "CUSTOMER", "SERVICE", "!!!!", "My", "son", "and", "I", "got", "our", "food", "after", "30", "min", "&", "my", "husband", "had", "to", "wait", "one", "hour", "to", "get", "his", "food", "!"], "e1_text": "got", "e1_pos": 9, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

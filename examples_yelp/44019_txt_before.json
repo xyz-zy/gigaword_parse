@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "about", "the", "online", "pricing", "versus", "the", "instore", "pricing", "and", "the", "guy", "-LRB-", "not", "Steve", "-RRB-", "specifically", "said", "they", "raise", "the", "prices", "on", "inventory", "2", "weeks", "before", "the", "sale", "to", "cosmetically", "make", "customers", "believe", "they", "are", "getting", "a", "huge", "savings", "&", "the", "website", "does", "n't", "always", "update", "properly", "."], "e1_text": "raise", "e1_pos": 20, "e2_text": "believe", "e2_pos": 34, "label": "before"}
+]

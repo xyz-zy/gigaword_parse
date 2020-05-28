@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "been", "to", "Lux", "many", "times", "for", "meetings", ",", "to", "kill", "time", ",", "to", "read", "a", "book", ",", "to", "get", "some", "coffee", "before", "I", "head", "to", "my", "downtown", "destination", "...", "I", "had", "n't", "been", "in", "a", "while", "and", "we", "had", "some", "extra", "time", "before", "the", "play", "started", ",", "so", "we", "headed", "to", "lux", "for", "an", "Iced", "Americano", ",", "a", "strawberry", "italian", "soda", "and", "2", "cupcakes", "...", "and", "then", "2", "more", "cupcakes", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "head", "e2_pos": 25, "label": "before"}
+]

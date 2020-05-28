@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "the", "Yelp", "reviews", "before", "going", "with", "Dollar", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "going", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "waited", "in", "line", "for", "about", "45", "minutes", "before", "getting", "a", "car", "and", "the", "staff", "appeared", "to", "have", "no", "sense", "of", "urgency", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "getting", "e2_pos": 9, "label": "before"}
+]

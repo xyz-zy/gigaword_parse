@@ -1,0 +1,4 @@
+[
+{"tokens": ["Speaking", "of", "two", "people", ",", "I", "have", "to", "give", "props", "to", "the", "our", "two", "servers", "-LRB-", "both", "named", "Alex", "-RRB-", "who", "made", "some", "wonderful", "suggestions", "after", "listening", "to", "our", "tastes", ",", "and", "made", "us", "feel", "so", "incredibly", "welcome", "."], "e1_text": "made", "e1_pos": 21, "e2_text": "listening", "e2_pos": 26, "label": "after"},
+{"tokens": ["They", "also", "introduced", "us", "to", "Benji", ",", "BurGR", "'s", "evil", "genius", "of", "all", "things", "beer", ",", "who", "made", "some", "great", "suggestions", "and", "introduced", "us", "to", "the", "wonderful", "apricot", "flavors", "of", "Magic", "Hat", "#", "9", "after", "carefully", "consider", "of", "our", "tastes", "in", "ales", "and", "Belgian", "beers", "."], "e1_text": "introduced", "e1_pos": 2, "e2_text": "consider", "e2_pos": 36, "label": "after"}
+]

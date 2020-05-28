@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "'re", "apologizing", "now", "and", "are", "offering", "to", "discuss", "this", "matter", "further", "after", "you", "send", "me", "the", "below", "passive", "aggressive", "message", ",", "I", "do", "n't", "think", "so", "."], "e1_text": "discuss", "e1_pos": 8, "e2_text": "send", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", ",", "I", "waited", "idling", "in", "my", "car", "for", "8", "minutes", "before", "I", "was", "even", "acknowledged", ",", "after", "which", "I", "was", "finally", "directed", "to", "a", "lane", "to", "pull", "up", "to", "."], "e1_text": "acknowledged", "e1_pos": 15, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

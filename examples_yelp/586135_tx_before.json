@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "never", "ordered", "seconds", "on", "a", "sauce", "before", "-LRB-", "ok", "that", "'s", "a", "lie", ",", "I", "love", "sauce", "-RRB-", "but", "the", "waiter", "offered", "and", "I", "could", "n't", "say", "no.", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "ok", "e2_pos": 10, "label": "before"}
+]

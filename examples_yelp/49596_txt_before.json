@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wow", ",", "I", "wish", "I", "saw", "Stacey", "'s", "review", "before", "I", "made", "the", "40", "minute", "drive", "to", "this", "place", "."], "e1_text": "saw", "e1_pos": 5, "e2_text": "made", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "'ll", "take", "my", "business", "elsewhere", "...", "-LRB-", "On", "a", "side", "note", ",", "there", "a", "bunch", "of", "office", "furniture", "stores", "around", "this", "one", ",", "so", "even", "though", "it", "was", "a", "40", "minute", "drive", "here", ",", "I", "was", "able", "to", "hit", "a", "couple", "different", "stores", "in", "that", "area", "before", "heading", "back", "home", "-RRB-"], "e1_text": "hit", "e1_pos": 39, "e2_text": "heading", "e2_pos": 48, "label": "before"}
+]

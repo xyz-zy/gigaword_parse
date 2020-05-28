@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "was", "efficient", "and", "fast", ",", "bringing", "us", "our", "food", "very", "shortly", "after", "we", "ordered", ",", "and", "bringing", "the", "bill", "to", "and", "from", "the", "table", "quickly", "."], "e1_text": "bringing", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 14, "label": "after"}
+]

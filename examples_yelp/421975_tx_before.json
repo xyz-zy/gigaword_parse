@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "not", "going", "to", "complain", "about", "it", ",", "just", "letting", "you", "know", "that", "before", "you", "walk", "in", "the", "door", "."], "e1_text": "know", "e1_pos": 12, "e2_text": "walk", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "shrimp", "tasted", "like", "they", "had", "been", "marinated", "in", "sea", "water", "overnight", "before", "being", "boiled", "in", "a", "saline", "solution", "and", "served", "to", "me", "."], "e1_text": "marinated", "e1_pos": 7, "e2_text": "being", "e2_pos": 13, "label": "before"}
+]

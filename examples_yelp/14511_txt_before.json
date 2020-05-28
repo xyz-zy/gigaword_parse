@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "coworkers", "and", "I", "wanted", "to", "eat", "before", "we", "went", "to", "the", "airport", "-LRB-", "as", "opposed", "to", "eating", "airport", "food", "-", "bleh", "!", "-RRB-", "."], "e1_text": "eat", "e1_pos": 6, "e2_text": "went", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Want", "a", "snack", "before", "you", "get", "into", "your", "car", "in", "the", "parking", "lot", "6", "."], "e1_text": "Want", "e1_pos": 0, "e2_text": "get", "e2_pos": 5, "label": "before"},
+{"tokens": ["Is", "the", "last", "money", "you", "will", "lay", "down", "in", "Sin", "City", "before", "you", "leave", "7", "."], "e1_text": "lay", "e1_pos": 6, "e2_text": "leave", "e2_pos": 13, "label": "before"},
+{"tokens": ["So", "it", "makes", "sense", "that", "you", "stop", "here", "for", "a", "cheap", "bite", "before", "you", "leave", "Sin", "City", "."], "e1_text": "stop", "e1_pos": 6, "e2_text": "leave", "e2_pos": 14, "label": "before"}
+]

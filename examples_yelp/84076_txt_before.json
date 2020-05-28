@@ -1,0 +1,4 @@
+[
+{"tokens": ["Same", "thing", "happened", "just", "this", "weekend", ",", "except", "this", "time", "I", "checked", "before", "driving", "off", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "driving", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "guy", "whow", "as", "drying", "my", "car", "took", "care", "of", "it", "right", "away", ",", "but", "it", "should", "have", "been", "handled", "when", "they", "other", "guys", "were", "doing", "the", "vaccuming", "before", "it", "went", "through", "the", "wash", "."], "e1_text": "doing", "e1_pos": 25, "e2_text": "went", "e2_pos": 30, "label": "before"}
+]

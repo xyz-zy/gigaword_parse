@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stumbled", "upon", "O'Leary", "'s", "on", "a", "Sunday", "morning", "literally", "seconds", "after", "I", "finished", "a", "diatribe", "about", "the", "South", "Side", "'s", "lack", "of", "breakfast", "options", "."], "e1_text": "stumbled", "e1_pos": 1, "e2_text": "finished", "e2_pos": 13, "label": "after"},
+{"tokens": ["My", "BF", "and", "I", "had", "made", "the", "mistake", "of", "attempting", "a", "Piper", "'s", "brunch", "after", "11", "am", "only", "to", "find", "a", "1", "hour", "wait", "and", "stomachs", "left", "wanting", "."], "e1_text": "attempting", "e1_pos": 9, "e2_text": "am", "e2_pos": 16, "label": "after"}
+]

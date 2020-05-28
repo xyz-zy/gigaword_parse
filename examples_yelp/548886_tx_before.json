@@ -1,0 +1,4 @@
+[
+{"tokens": ["Guess", "I", "should", "'ve", "looked", "at", "the", "reviews", "and", "photos", "here", "before", "taking", "my", "wife", "and", "daughter", "to", "Elevation", "Uptown", "this", "morning", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "taking", "e2_pos": 12, "label": "before"},
+{"tokens": ["People", "seemed", "really", "nice", "and", "helpful", "-LRB-", "that", "second", "star", "in", "the", "review", ":", "I", "'m", "sure", "it", "'s", "a", "great", "community", "of", "good-meaning", "people", "-RRB-", ",", "but", "know", "you", "'re", "going", "to", "church-as-epic-overwhelming-performance", "before", "you", "walk", "in", "...", "and", "maybe", "you", "'ll", "enjoy", "the", "show", "...", "if", "you", "can", "still", "hear", "afterwards", "."], "e1_text": "church-as-epic-overwhelming-performance", "e1_pos": 33, "e2_text": "walk", "e2_pos": 36, "label": "before"}
+]

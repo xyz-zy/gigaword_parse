@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "here", "on", "a", "recent", "visit", "to", "Madison", "with", "our", "kids", "after", "riding", "the", "Polar", "Express", "train", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "riding", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "all", "said", "the", "same", "thing", "after", "we", "left", ",", "''", "``", "well", "that", "was", "a", "disappointment", "''", "''", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "left", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "I", "had", "made", "an", "appointment", "at", "noon", ",", "then", "an", "hour", "and", "a", "half", "before", "my", "appointment", "Kamille", "asked", "if", "I", "could", "come", "at", "3:30", "."], "e1_text": "made", "e1_pos": 3, "e2_text": "asked", "e2_pos": 19, "label": "before"}
+]

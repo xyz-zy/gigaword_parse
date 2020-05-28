@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*", "We", "liked", "this", "buffet", "so", "much", "from", "our", "BoB", "we", "decided", "to", "try", "it", "out", "one", "more", "time", "before", "we", "leave", ",", "this", "time", "it", "was", "lunch", "time", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "leave", "e2_pos": 21, "label": "before"},
+{"tokens": ["We", "wanted", "to", "try", "a", "small", "dessert", "before", "leaving", "and", "rather", "than", "getting", "a", "pastry", "we", "went", "to", "the", "ice", "cream", "cones", "and", "ice", "cream", ",", "except", "it", "was", "not", "ice", "cream", "it", "was", "custard", "-", "and", "it", "was", "delicious", "!"], "e1_text": "try", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 8, "label": "before"}
+]

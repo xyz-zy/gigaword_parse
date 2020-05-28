@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "called", "ahead", "to", "ask", "them", "if", "they", "use", "MSG", "and", "was", "told", "''", "``", "no.", "''", "''", "I", "asked", "again", ",", "''", "``", "are", "you", "sure", ",", "because", "I", "get", "headaches", "after", "eating", "MSG", "?", "''", "''"], "e1_text": "get", "e1_pos": 30, "e2_text": "eating", "e2_pos": 33, "label": "after"},
+{"tokens": ["I", "only", "get", "headaches", "after", "consuming", "large", "quantities", "of", "the", "garbage", ",", "which", "is", "rare", "since", "I", "take", "precautions", "to", "avoid", "it", "the", "best", "I", "can", "and", "have", "n't", "experienced", "anyone", "else", "lying", "about", "it", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "consuming", "e2_pos": 5, "label": "after"},
+{"tokens": ["They", "may", "have", "had", "more", "flavor", "after", "soaking", "up", "the", "table", "top", "bacteria", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "soaking", "e2_pos": 7, "label": "after"}
+]

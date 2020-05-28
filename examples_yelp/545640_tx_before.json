@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "the", "salon", "before", "purchasing", "the", "Groupon", "to", "confirm", "that", "I", "could", "use", "it", "and", "they", "said", "they", "are", "no", "longer", "offering", "the", "deal", "I", "was", "referring", "to", "even", "though", "Groupon", "was", "going", "to", "allow", "me", "to", "purchase", "it", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "purchasing", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "even", "got", "to", "the", "last", "step", "just", "before", "entering", "payment", "information", "and", "it", "did", "n't", "state", "that", "the", "Groupon", "had", "expired", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "entering", "e2_pos": 9, "label": "before"}
+]

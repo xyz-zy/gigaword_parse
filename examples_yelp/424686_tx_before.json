@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "In-laws", "said", "they", "had", "n't", "seen", "children", "at", "the", "restaurant", "before", "and", "called", "ahead", "to", "see", "if", "my", "14", "month", "old", "daughter", "was", "welcome", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "staff", "anticipated", "our", "needs", "by", "clearing", "plates", "and", "refilling", "drinks", "before", "we", "even", "realized", "we", "needed", "them", "."], "e1_text": "refilling", "e1_pos": 9, "e2_text": "realized", "e2_pos": 14, "label": "before"}
+]

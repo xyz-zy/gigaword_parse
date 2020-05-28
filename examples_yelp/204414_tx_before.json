@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "then", "left", "me", "to", "mull", "the", "choices", "before", "coming", "back", "to", "see", "if", "I", "had", "any", "questions", "or", "was", "ready", "to", "order", "."], "e1_text": "mull", "e1_pos": 5, "e2_text": "coming", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "was", "very", "good", "and", "I", "almost", "picked", "up", "the", "bone", "to", "gnaw", "before", "I", "let", "them", "take", "the", "plate", "."], "e1_text": "gnaw", "e1_pos": 12, "e2_text": "let", "e2_pos": 15, "label": "before"}
+]

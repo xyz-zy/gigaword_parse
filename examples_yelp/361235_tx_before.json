@@ -1,0 +1,4 @@
+[
+{"tokens": ["Almost", "forgot", "to", "mention", "the", "fact", "that", "they", "are", "open", "until", "2am", "7", "days", "a", "week", "!!!!", "They", "feature", "a", "GREAT", "selection", "of", "beers", "as", "the", "reviewers", "who", "came", "before", "me", "have", "said", ",", "and", "easily", "the", "nicest", "bar", "staff", "I", "have", "encountered", "since", "I", "moved", "to", "downtown", "PHX", "."], "e1_text": "came", "e1_pos": 28, "e2_text": "have", "e2_pos": 31, "label": "before"},
+{"tokens": ["With", "the", "sheer", "amount", "of", "times", "I", "'ve", "been", "in", "the", "past", "2", "weeks", "alone", ",", "it", "ca", "n't", "be", "long", "before", "I", "do", "."], "e1_text": "be", "e1_pos": 19, "e2_text": "do", "e2_pos": 23, "label": "before"}
+]

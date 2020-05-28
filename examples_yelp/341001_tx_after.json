@@ -1,0 +1,4 @@
+[
+{"tokens": ["4", "credit", "card", "transactions", "appeared", "on", "my", "cc", "statement", "instead", "of", "2", "after", "i", "visited", "their", "bar", "."], "e1_text": "appeared", "e1_pos": 4, "e2_text": "visited", "e2_pos": 14, "label": "after"},
+{"tokens": [":", "\\/", "\\/", "\\/", "\\/", "check", "your", "credit", "card", "statements", "after", "u", "visit", "them", "!!!"], "e1_text": "check", "e1_pos": 5, "e2_text": "visit", "e2_pos": 12, "label": "after"}
+]

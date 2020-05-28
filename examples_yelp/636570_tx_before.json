@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sorry", "Barro", "'s", ",", "the", "tomato", "in", "our", "antipasto", "salad", "still", "had", "a", "label", "on", "it", ",", "good", "thing", "I", "looked", "before", "I", "ate", "!"], "e1_text": "looked", "e1_pos": 20, "e2_text": "ate", "e2_pos": 23, "label": "before"},
+{"tokens": ["Do", "you", "wash", "your", "raw", "salad", "fixins", "before", "you", "use", "them", "?"], "e1_text": "wash", "e1_pos": 2, "e2_text": "use", "e2_pos": 9, "label": "before"}
+]

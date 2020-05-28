@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "to", "drop", "off", "copies", "of", "my", "lab", "work", "took", "20min", "wait", "after", "checking", "in", "and", "1hr", "the", "first", "time", "then", "was", "told", "I", "'d", "get", "a", "call", "back", "after", "they", "determined", "the", "urgency", "of", "my", "appt", "from", "lab", "work", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "checking", "e2_pos": 13, "label": "after"},
+{"tokens": ["Sucks", "I", "started", "this", "process", "to", "get", "an", "appt", "after", "receiving", "me", "referral", "turned", "into", "a", "3week", "process", "and", "my", "insurance", "was", "termining", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "receiving", "e2_pos": 10, "label": "after"}
+]

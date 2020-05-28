@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "20", "mins", "past", ",", "I", "finally", "asked", "after", "waiting", "over", "50", "mins", ",", "by", "then", "we", "had", "finished", "my", "king", "crab", "legs", ",", "where", "is", "our", "cod", "fish", "fry", "and", "our", "fried", "calamari", "?"], "e1_text": "asked", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

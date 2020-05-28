@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "show", "out", "front", "was", "better", "before", "they", "decided", "to", "sex", "it", "up", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "decided", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "whole", "PLACE", "was", "better", "before", "they", "decided", "to", "sex", "it", "up", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "decided", "e2_pos": 7, "label": "before"}
+]

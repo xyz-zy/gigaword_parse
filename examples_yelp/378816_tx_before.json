@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "get", "in", "the", "habit", "of", "checking", "everything", "before", "leaving", "as", "once", "it", "was", "n't", "even", "my", "order", ",", "another", "time", "I", "only", "had", "half", "of", "what", "I", "ordered", "for", "me", "and", "the", "girls", "at", "work", ",", "and", "another", "I", "ordered", "sides", "of", "veggies", "and", "it", "wasnt", "in", "there", "."], "e1_text": "checking", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 11, "label": "before"},
+{"tokens": ["That", "'s", "fucked", "up", "that", "it", "happened", "4", "times", "before", "I", "got", "smart", "to", "look", "."], "e1_text": "happened", "e1_pos": 6, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

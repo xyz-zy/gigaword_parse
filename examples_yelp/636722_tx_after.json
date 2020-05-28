@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "hair", "was", "a", "tangled", "mess", "after", "the", "shampoo", "and", "the", "young", "lady", ",", "Precious", ",", "who", "detangled", "my", "hair", "made", "the", "most", "disrespectful", "comments", "about", "how", "damaged", "and", "unhealthy", "my", "hair", "was", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "detangled", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "eventually", "left", "after", "30", "minutes", "of", "sitting", "under", "the", "dryer", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "should", "have", "thought", "twice", "after", "hearing", "that", "."], "e1_text": "thought", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 6, "label": "after"}
+]

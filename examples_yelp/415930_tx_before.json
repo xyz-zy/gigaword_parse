@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "had", "time", "to", "look", "at", "the", "menu", "and", "decide", "what", "we", "wanted", "before", "someone", "came", "to", "take", "our", "drink\\/food", "order", "."], "e1_text": "wanted", "e1_pos": 12, "e2_text": "came", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "was", "minimum", "35", "minutes", "before", "we", "saw", "our", "food", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "saw", "e2_pos": 7, "label": "before"},
+{"tokens": ["Then", "we", "thought", "she", "got", "lost", "because", "we", "did", "n't", "see", "her", "again", "for", "quite", "some", "time", "before", "we", "got", "our", "card", "back", "."], "e1_text": "see", "e1_pos": 10, "e2_text": "got", "e2_pos": 4, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Aside", "from", "the", "fact", "that", "someone", "might", "not", "want", "mustard", ",", "the", "mustard", "will", "soak", "into", "the", "bread", "-LRB-", "yeah", ",", "a", "little", "nit-picky", "but", "it", "does", "n't", "look", "appetizing", "-RRB-", "Secondly", ",", "after", "paying", ",", "some", "rude", "customer", "from", "the", "side", "jumped", "in", "to", "get", "a", "water", "cup", "and", "they", "charged", "him", "for", "it", "."], "e1_text": "soak", "e1_pos": 14, "e2_text": "paying", "e2_pos": 34, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "this", "first", "visit", ",", "I", "explained", "to", "the", "dental", "tech", ",", "that", "after", "dealing", "with", "the", "receptionist", ",", "I", "had", "decided", "not", "to", "return", "to", "their", "office", ",", "but", "the", "tech", "did", "such", "a", "good", "job", "and", "was", "so", "friendly", ",", "I", "decided", "I", "was", "going", "to", "return", "."], "e1_text": "explained", "e1_pos": 6, "e2_text": "dealing", "e2_pos": 14, "label": "after"}
+]

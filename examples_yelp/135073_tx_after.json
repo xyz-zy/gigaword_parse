@@ -1,0 +1,3 @@
+[
+{"tokens": ["one", "of", "my", "friends", "also", "ordered", "the", "New", "York", "and", "the", "steak", "was", "so", "large", "we", "could", "have", "shared", "one", "and", "still", "had", "leftovers", "!!", "Wow", "!!", "The", "guys", "we", "were", "with", "each", "order", "The", "NY", "NY", "-", "which", "is", "surf", "and", "turf", "-", "new", "york", "strip", "and", "a", "giant", "lobster", "!!!", "We", "were", "all", "so", "tired", "after", "we", "ate", "that", "we", "had", "to", "retire", "for", "the", "evening", "...", "Yum", "I", "cant", "wait", "to", "go", "back", "!!!"], "e1_text": "were", "e1_pos": 30, "e2_text": "ate", "e2_pos": 59, "label": "after"}
+]

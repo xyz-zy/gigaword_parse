@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "then", "had", "to", "wait", "for", "close", "to", "20", "minutes", "as", "bartenders", "walked", "by", "and", "ignored", "me", "before", "I", "finally", "was", "able", "to", "exchange", "my", "drink", "for", "a", "beer", "-", "which", "by", "the", "way", "I", "was", "charged", "the", "full", "price", "of", "the", "margarita", "-LRB-", "$", "8", "-RRB-", "because", "the", "bartenders", "were", "too", "lazy", "to", "fix", "my", "order", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

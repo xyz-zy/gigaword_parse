@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "tell", "you", "he", "had", "to", "take", "a", "15", "minute", "break", "after", "3-5", "minutes", "jumping", "to", "drink", "a", "1pint", "water", "and", "wipe", "his", "sweat", "and", "catch", "his", "breath", ",", "HE", "DID", ".", "."], "e1_text": "take", "e1_pos": 7, "e2_text": "jumping", "e2_pos": 15, "label": "after"}
+]

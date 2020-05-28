@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "1", "night", "over", "Labor", "Day", "Weekend", "on", "Sunday", "night", "after", "a", "3", "day", "stay", "at", "our", "time", "share", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "stay", "e2_pos": 15, "label": "after"},
+{"tokens": ["Elevator", "buttons", "do", "n't", "work", "for", "certain", "floors", ",", "when", "reported", "to", "staff", "member", "he", "just", "chuckled", "after", "we", "had", "gone", "up", "and", "down", "several", "times", "and", "had", "to", "get", "off", "on", "other", "floors", "and", "get", "in", "another", "elevator", "to", "get", "to", "our", "floor", ".", "."], "e1_text": "chuckled", "e1_pos": 16, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

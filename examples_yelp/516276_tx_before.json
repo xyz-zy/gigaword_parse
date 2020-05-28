@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "used", "to", "love", "watching", "games", "at", "the", "Cheyenne", "location", "before", "it", "closed", "."], "e1_text": "love", "e1_pos": 4, "e2_text": "closed", "e2_pos": 13, "label": "before"},
+{"tokens": ["Maybe", "people", "would", "come", "if", "they", "did", "n't", "have", "to", "think", "about", "what", "day", "it", "is", "before", "deciding", "what", "to", "eat", "?"], "e1_text": "is", "e1_pos": 15, "e2_text": "deciding", "e2_pos": 17, "label": "before"}
+]

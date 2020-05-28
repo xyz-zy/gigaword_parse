@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "the", "arrival", "of", "my", "friend", "we", "waited", "close", "to", "10", "minutes", "AGAIN", "before", "getting", "up", "to", "leave", ",", "at", "which", "point", "one", "of", "the", "girls", "tried", "to", "come", "over", "with", "water", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "getting", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "was", "really", "excited", "to", "finally", "try", "it", ",", "but", "there", "are", "plenty", "of", "other", "restaurants", "in", "town", "square", "who", "at", "least", "drop", "a", "napkin", "for", "you", "before", "ignoring", "you", "completely", "."], "e1_text": "drop", "e1_pos": 22, "e2_text": "ignoring", "e2_pos": 28, "label": "before"}
+]

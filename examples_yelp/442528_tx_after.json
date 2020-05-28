@@ -1,0 +1,3 @@
+[
+{"tokens": ["Spends", "the", "next", "10", "minutes", "looking", "for", "it", "after", "telling", "me", "I", "was", "wrong", "and", "that", "it", "was", "n't", "a", "zip", "code", ",", "for", "his", "manager", "to", "tell", "him", "the", "zip", "code", "was", "exactly", "what", "I", "had", "just", "said", "."], "e1_text": "looking", "e1_pos": 5, "e2_text": "telling", "e2_pos": 9, "label": "after"}
+]

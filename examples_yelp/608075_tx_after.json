@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "came", "here", "for", "the", "first", "time", "a", "couple", "of", "days", "after", "the", "restaurant", "first", "opened", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "opened", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "got", "extremely", "sick", "the", "night", "after", "eating", "this", "and", "with", "the", "attention", "that", "is", "being", "paid", "by", "management", "it", "is", "pretty", "clear", "to", "me", "why", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "eating", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "have", "also", "had", "coworkers", "get", "extremely", "ill", "after", "consuming", "smoothies", "from", "the", "Banana", "'s", "smoothie", "side", "of", "this", "restaurant", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "smoothies", "e2_pos": 10, "label": "after"}
+]

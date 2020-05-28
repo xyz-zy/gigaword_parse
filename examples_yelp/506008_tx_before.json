@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "older", "son", "-LRB-", "7", "-RRB-", "trained", "a", "little", "Muay", "Thai", "at", "a", "gym", "before", "we", "found", "One", "Kick", "'s", ",", "and", "although", "the", "coach", "was", "very", "competent", "the", "gym", "was", "lacking", "in", "substance", "."], "e1_text": "trained", "e1_pos": 6, "e2_text": "found", "e2_pos": 16, "label": "before"}
+]

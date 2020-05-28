@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "be", "surprised", "if", "any", "of", "the", "bar", "staff\\/servers", "has", "worked", "in", "a", "bar", "or", "a", "restaurant", "before", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "has", "e2_pos": 10, "label": "before"},
+{"tokens": ["Not", "one", "of", "them", "knew", "how", "to", "pour", "a", "pint", ",", "so", "the", "manager", "had", "to", "teach", "them", "on", "the", "job", ",", "and", "of", "course", "this", "meant", "that", "it", "took", "ages", "to", "get", "served", "-LRB-", "and", "what", "'s", "with", "ringing", "up", "a", "transaction", "on", "the", "sole", "till", "before", "pouring", "the", "drinks", "?", "-RRB-", "."], "e1_text": "ringing", "e1_pos": 39, "e2_text": "pouring", "e2_pos": 48, "label": "before"}
+]

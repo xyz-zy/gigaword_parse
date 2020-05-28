@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "large", "coffee", "drink", "and", "failed", "to", "realize", "until", "after", "i", "had", "paid", "that", "it", "cost", "$", "6", "just", "for", "that", "-LRB-", "pretty", "sure", "i", "pay", "less", "at", "Starbucks", "for", "a", "similar", "type", "of", "drink", "-RRB-", "."], "e1_text": "realize", "e1_pos": 9, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

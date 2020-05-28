@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "the", "bad", "luck", "to", "come", "in", "after", "a", "very", "big", "party", "which", "clearly", "they", "were", "not", "ready", "for", "or", "could", "handle", "well", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["My", "husband", "brought", "us", "here", "with", "high", "hopes", "after", "eating", "there", "before", "but", "I", "have", "to", "say", "after", "the", "cluster", "of", "events", "we", "feel", "victim", "to", "it", "would", "be", "hard", "to", "give", "them", "another", "try", ",", "PS", "-", "The", "desserts", "did", "not", "stand", "up", "to", "being", "brought", "home", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

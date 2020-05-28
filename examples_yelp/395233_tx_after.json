@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "in", "for", "a", "''", "``", "quick", "''", "''", "bowl", "of", "pho", "after", "skiing", "-LRB-", "so", ",", "we", "were", "cold", "and", "hungry", "."], "e1_text": "bowl", "e1_pos": 10, "e2_text": "skiing", "e2_pos": 14, "label": "after"},
+{"tokens": ["it", "takes", "about", "90", "seconds", "for", "the", "soup", "to", "come", "out", "after", "ordering", "."], "e1_text": "come", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "called", "the", "rental", "office", "when", "we", "arrived", "at", "the", "airport", "-LRB-", "20", "minutes", "after", "leaving", "the", "car", "-RRB-", "to", "report", "that", "our", "items", "were", "left", "in", "the", "car", "and", "give", "a", "detailed", "description", "of", "items", "-LRB-", "which", "included", "a", "reading", "tablet", "-RRB-", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "never", "heard", "back", "and", "they", "never", "located", "the", "items", "after", "I", "have", "contacted", "them", "several", "times", "to", "inquire", "."], "e1_text": "located", "e1_pos": 7, "e2_text": "have", "e2_pos": 12, "label": "after"}
+]

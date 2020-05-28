@@ -1,0 +1,3 @@
+[
+{"tokens": ["Love", "coming", "here", "after", "I", "'ve", "taken", "my", "dogs", "to", "the", "dog", "park", "across", "the", "street", "because", "they", "always", "have", "a", "''", "``", "doggy", "bar", "''", "''", "outside", "-LRB-", "e.i", "a", "big", "bowl", "of", "water", "-RRB-", "which", "I", "find", "really", "nice", "."], "e1_text": "coming", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["UGH", "!!!!!!!!!!!!", "Waste", "of", "my", "time", "and", "way", "more", "importantly", "my", "money", "!!!!!!!!!!!!", "I", "called", "before", "I", "came", "in", "to", "make", "an", "appt", "at", "2pm", ",", "and", "I", "got", "there", "right", "on", "the", "dot", "."], "e1_text": "called", "e1_pos": 14, "e2_text": "came", "e2_pos": 17, "label": "before"},
+{"tokens": ["Like", "wow", "!!!", "They", "let", "me", "soak", "for", "about", "3", "min", ",", "before", "she", "starting", "working", "on", "my", "feet", "."], "e1_text": "let", "e1_pos": 4, "e2_text": "starting", "e2_pos": 14, "label": "before"}
+]

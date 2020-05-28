@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bus", "boy", "was", "trying", "to", "wisk", "our", "dishes", "away", "before", "my", "daughter", "was", "even", "done", "eating", "."], "e1_text": "wisk", "e1_pos": 6, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["Was", "that", "a", "hint", "that", "there", "were", "more", "paying", "customers", "out", "there", "and", "they", "needed", "our", "table", "???", "He", "came", "back", "two", "more", "times", "trying", "to", "take", "away", "our", "dishes", "before", "we", "were", "done", "."], "e1_text": "take", "e1_pos": 26, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

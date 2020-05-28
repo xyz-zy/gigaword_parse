@@ -1,0 +1,3 @@
+[
+{"tokens": ["Once", "it", "was", "handled", "by", "the", "management", "in", "house", ",", "they", "were", "really", "nice", "&", "credited", "me", "the", "month", "after", "they", "decided", "that", "my", "membership", "was", "going", "to", "be", "$", "19.99", "-LRB-", "which", "was", "not", "in", "my", "contract", "agreement", "-RRB-", "."], "e1_text": "credited", "e1_pos": 15, "e2_text": "decided", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["then", "the", "music", "stops", ",", "and", "it", "is", "dead", "quiet", ",", "so", "you", "have", "to", "wait", "for", "another", "song", "to", "start", "before", "you", "continue", "you", "conversation", "?"], "e1_text": "start", "e1_pos": 20, "e2_text": "continue", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Cabo", "I", "really", "wanted", "to", "like", "you", "...", "I", "have", "given", "you", "a", "few", "tries", "before", "writing", "this", "review", "."], "e1_text": "given", "e1_pos": 10, "e2_text": "writing", "e2_pos": 16, "label": "before"},
+{"tokens": ["A", "really", "nice", "outdoor", "seating", "area", "Let", "'s", "start", "with", "the", "staff", ",", "the", "bartender", "gave", "me", "the", "wrong", "change", "-LRB-", "not", "just", "keeping", "a", "buck", "or", "two", "for", "a", "tip", "-", "maybe", "it", "was", "a", "mistake", "-RRB-", "and", "fought", "with", "me", "for", "about", "5", "minutes", "before", "I", "had", "to", "show", "him", "the", "price", "of", "my", "drink", "in", "the", "menu", "."], "e1_text": "fought", "e1_pos": 39, "e2_text": "had", "e2_pos": 48, "label": "before"}
+]

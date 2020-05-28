@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "their", "confusion", "puzzling", "because", "of", "course", "I", "had", "never", "met", "these", "people", "before", ",", "did", "not", "know", "their", "prices", ",", "but", "somehow", "I", "am", "supposed", "to", "hire", "them", "immediately", "?"], "e1_text": "found", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "had", "also", "seen", "the", "bike", "very", "recently", "before", "they", "came", "over", "that", "morning", "."], "e1_text": "seen", "e1_pos": 3, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

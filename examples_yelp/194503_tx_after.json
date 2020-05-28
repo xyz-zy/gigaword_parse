@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "and", "I", "sat", "at", "the", "bar", "and", "we", "were", "surprised", "when", "the", "bartenders", "ignored", "us", "after", "they", "had", "served", "our", "beers", "."], "e1_text": "ignored", "e1_pos": 15, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

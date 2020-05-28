@@ -1,0 +1,4 @@
+[
+{"tokens": ["Have", "n't", "been", "entirely", "impressed", "w", "\\/", "Fox", "Restaurant", "Concepts", "in", "the", "past", ",", "but", "decided", "to", "try", "it", "out", "after", "seeing", "the", "roadside", "transformation", "during", "our", "frequent", "drives", "home", ",", "along", "7th", "Street", "."], "e1_text": "try", "e1_pos": 17, "e2_text": "seeing", "e2_pos": 21, "label": "after"},
+{"tokens": ["Crowd", "ranged", "from", "upper", "class", "urban", "to", "downtown", "hipsters", ",", "all", "ages", ",", "including", "kids", ",", "but", "the", "latter", "disappeared", "after", "dark", ",", "replaced", "by", "scantily", "clad", "ladies", "and", "their", "young", "gentlemen", "friends", "."], "e1_text": "disappeared", "e1_pos": 19, "e2_text": "replaced", "e2_pos": 23, "label": "after"}
+]

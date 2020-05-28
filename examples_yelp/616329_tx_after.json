@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "order", "came", "after", "two", "big", "tables", "came", "after", "us", "-LRB-", "one", "hour", "later", "-RRB-", "One", "whole", "family", "waited", "for", "long", "time", "then", "left", "!"], "e1_text": "came", "e1_pos": 2, "e2_text": "came", "e2_pos": 2, "label": "after"},
+{"tokens": ["The", "food", "were", "not", "even", "taste", "good", "after", "long", "waited", ",", "missed", ",", "&", "came", "out", "the", "wrong", "orders", "!"], "e1_text": "were", "e1_pos": 2, "e2_text": "waited", "e2_pos": 9, "label": "after"}
+]

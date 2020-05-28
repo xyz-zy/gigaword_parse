@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "going", "to", "try", "really", "hard", "not", "to", "just", "be", "a", "curmudgeon", "about", "the", "whole", "thing", ",", "but", "there", "are", "a", "few", "flaws", "I", "'d", "like", "to", "see", "fixed", "before", "I", "ever", "go", "again", "."], "e1_text": "fixed", "e1_pos": 29, "e2_text": "go", "e2_pos": 33, "label": "before"},
+{"tokens": ["-LRB-", "I", "sat", "for", "about", "fifteen", "minutes", "waiting", "for", "service", "before", "realizing", "that", "I", "needed", "to", "push", "the", "service", "button", ".", "-RRB-"], "e1_text": "waiting", "e1_pos": 7, "e2_text": "realizing", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "only", "bad", "thing", "to", "say", "about", "the", "shrimp", "was", "the", "`", "shell", "on", "'", ",", "had", "i", "thought", "to", "ask", "i", "would", "have", "asked", "that", "they", "peel", "the", "shrimp", "before", "brining", "it", "out", "."], "e1_text": "peel", "e1_pos": 27, "e2_text": "brining", "e2_pos": 31, "label": "before"}
+]

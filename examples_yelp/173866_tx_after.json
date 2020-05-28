@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "that", "was", "after", "I", "waited", "20", "minutes", "to", "get", "it", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "waited", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "should", "have", "made", "them", "aware", "and", "not", "run", "to", "Yelp", "but", "we", "just", "wanted", "to", "get", "out", "of", "there", "after", "spending", "a", "load", "of", "money", "on", "a", "bad", "experience", "."], "e1_text": "wanted", "e1_pos": 14, "e2_text": "spending", "e2_pos": 21, "label": "after"}
+]

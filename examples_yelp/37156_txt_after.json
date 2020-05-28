@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "no", "silverware", "or", "napkins", "until", "we", "asked", "for", "them", "-", "and", "that", "was", "after", "we", "had", "already", "finished", "our", "appetizer", "of", "coconut", "shrimp", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "had", "e2_pos": 1, "label": "after"},
+{"tokens": ["Then", "the", "server", "forgot", "to", "bring", "bread", "until", "we", "asked", "for", "it", ",", "and", "she", "explained", "that", "they", "do", "n't", "bring", "out", "bread", "now", "until", "after", "you", "'ve", "ordered", "."], "e1_text": "bring", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 27, "label": "after"}
+]

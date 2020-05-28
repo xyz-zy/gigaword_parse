@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mine", "was", "delivered", "warm", "and", "you", "felt", "rushed", "to", "eat", "it", "before", "it", "went", "to", "room", "temperature", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "went", "e2_pos": 13, "label": "before"}
+]

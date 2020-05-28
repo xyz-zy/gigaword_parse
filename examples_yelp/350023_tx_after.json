@@ -1,0 +1,3 @@
+[
+{"tokens": ["NEVER", "PURCHASE", "A", "BLT", "GIFT", "CARD", "CALL", "E-SQUARE", "THE", "MANAGER", "OF", "THE", "PARADISE", "VALLEY", "BLT", "was", "the", "once", "who", "over", "billed", "my", "cc", "after", "he", "accepted", "a", "gift", "card", "."], "e1_text": "billed", "e1_pos": 20, "e2_text": "accepted", "e2_pos": 25, "label": "after"}
+]

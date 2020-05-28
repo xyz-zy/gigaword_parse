@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", ",", "the", "not", "so", "good", ":", "-", "The", "parking", "lot", "'s", "proximity", "to", "the", "main", "range", "means", "you", "'d", "better", "damn", "well", "put", "your", "ears", "on", "before", "you", "get", "out", "of", "your", "car", ",", "and", "make", "sure", "the", "windows", "are", "rolled", "up", "before", "you", "leave", "the", "paved", "road", "."], "e1_text": "put", "e1_pos": 23, "e2_text": "get", "e2_pos": 29, "label": "before"}
+]

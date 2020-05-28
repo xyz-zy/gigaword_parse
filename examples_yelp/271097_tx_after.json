@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", ",", "the", "waiter", "did", "not", "come", "by", "until", "about", "35", "minutes", "after", "we", "received", "our", "meals", ",", "and", "that", "was", "only", "to", "ask", "if", "we", "wanted", "the", "check", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "received", "e2_pos": 14, "label": "after"}
+]

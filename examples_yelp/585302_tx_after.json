@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "she", "told", "me", "she", "could", "n't", "do", "it", "then", "after", "I", "told", "her", "I", "had", "updated", "it", "with", "a", "form", "in", "a", "branch", "before", "she", "called", "in", "for", "help", "and", "they", "would", "send", "her", "the", "form", "."], "e1_text": "do", "e1_pos": 7, "e2_text": "told", "e2_pos": 2, "label": "after"}
+]

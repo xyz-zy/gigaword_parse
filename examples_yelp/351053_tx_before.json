@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "I", "am", "apologizing", "for", "creating", "the", "problem", "by", "not", "catching", "the", "issue", "before", "the", "transaction", "was", "completed", "!"], "e1_text": "catching", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

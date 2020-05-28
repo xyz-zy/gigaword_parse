@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "darnedest", "time", "finding", "CP", "inside", "the", "vast", "commercial", "center", "and", "even", "gave", "up", "after", "driving", "around", "aimlessly", "the", "first", "time", "."], "e1_text": "gave", "e1_pos": 14, "e2_text": "driving", "e2_pos": 17, "label": "after"},
+{"tokens": ["Tender", "chicken", "breast", "so", "full", "of", "flavor", "and", "it", "tastes", "good", "even", "after", "sitting", "in", "the", "fridge", "a", "few", "days", "and", "reheated", "."], "e1_text": "tastes", "e1_pos": 9, "e2_text": "sitting", "e2_pos": 13, "label": "after"}
+]

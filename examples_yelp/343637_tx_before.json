@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mostly", ",", "I", "found", "myself", "trying", "a", "couple", "bites", "before", "leaving", "it", "on", "the", "plate", "in", "hopes", "of", "finding", "something", "good", "."], "e1_text": "trying", "e1_pos": 5, "e2_text": "leaving", "e2_pos": 10, "label": "before"},
+{"tokens": ["While", "not", "busy", "-LRB-", "first", "clue", "at", "7:30", "on", "Saturday", "night", "-RRB-", ",", "I", "waited", "30", "-", "120", "seconds", "before", "getting", "the", "attention", "from", "a", "worker", "at", "the", "pasta", "and", "prime", "rib", "stations", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "getting", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "took", "an", "hour", "to", "reach", "the", "table", "...", "after", "I", "asked", "when", "our", "table", "could", "expect", "our", "food", "."], "e1_text": "reach", "e1_pos": 6, "e2_text": "asked", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "was", "told", "it", "was", "on", "its", "way", "...", "it", "took", "another", "15", "minutes", "to", "arrive", "after", "I", "asked", "about", "the", "status", "."], "e1_text": "arrive", "e1_pos": 15, "e2_text": "asked", "e2_pos": 18, "label": "after"}
+]

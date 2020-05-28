@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "so", "pumped", "to", "see", "this", "place", "after", "reading", "the", "reviews", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "asked", "to", "try", "a", "chocolate", "after", "picking", "out", "a", "few", "items", ",", "and", "that", "prompted", "them", "to", "bring", "out", "a", "few", "more", "tasters", "to", "compare", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "picking", "e2_pos": 7, "label": "after"}
+]

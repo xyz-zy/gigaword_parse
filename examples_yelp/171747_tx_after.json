@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "checked", "in", "on", "a", "Sunday", "9\\/16\\/12", "at", "around", "5pm", "after", "waiting", "in", "a", "very", "long", "line", "-LRB-", "they", "were", "hosting", "the", "Barrett", "Jackson", "Auto", "Action", "-RRB-", ",", "only", "to", "be", "told", "that", "they", "had", "over", "booked", "our", "room", "and", "would", "upgrade", "us", "to", "TheHotel", "-LRB-", "never", "stayed", "there", "either", "-RRB-", "Okay", ",", "a", "little", "annoyed", "but", "its", "okay", "?"], "e1_text": "checked", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

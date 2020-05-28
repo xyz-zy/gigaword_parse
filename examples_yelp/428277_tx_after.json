@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "on", "two", "separate", "visits", ",", "months", "apart", ",", "had", "forgotten", "my", "order", "and", "somehow", "lost", "it", "after", "waiting", "over", "20", "to", "25", "minutes", "each", "time", "."], "e1_text": "lost", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

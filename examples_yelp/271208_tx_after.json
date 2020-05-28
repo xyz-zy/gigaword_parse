@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "complaining", "that", "her", "stomach", "was", "burning", "after", "eating", "it", "."], "e1_text": "burning", "e1_pos": 7, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "thought", "I", "was", "going", "to", "freeze", "to", "death", "waiting", "for", "the", "check", "-LRB-", "which", "we", "had", "to", "ask", "for", "and", "then", "wait", "after", "asking", "-RRB-", "."], "e1_text": "wait", "e1_pos": 22, "e2_text": "asking", "e2_pos": 24, "label": "after"}
+]

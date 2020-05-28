@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "town", "on", "business", "with", "a", "couple", "co-workers", "and", "after", "having", "a", "not", "so", "great", "meal", "the", "night", "before", ",", "we", "asked", "one", "of", "the", "locals", "for", "a", "recomendation", "."], "e1_text": "having", "e1_pos": 12, "e2_text": "asked", "e2_pos": 23, "label": "before"},
+{"tokens": ["You", "can", "stand", "outside", "and", "watch", "the", "chef", "making", "all", "the", "wonderful", "food", "and", "you", "can", "smell", "the", "fresh", "bread", "before", "you", "even", "walk", "in", "the", "door", "."], "e1_text": "smell", "e1_pos": 16, "e2_text": "walk", "e2_pos": 23, "label": "before"}
+]

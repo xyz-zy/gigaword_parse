@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "expecting", "much", "after", "perusing", "the", "reviews", "left", "on", "Yelp", "but", "I", "really", "did", "n't", "expect", "to", "be", "walking", "into", "a", "smoke", "filled", "nightmare", "."], "e1_text": "expecting", "e1_pos": 3, "e2_text": "perusing", "e2_pos": 6, "label": "after"},
+{"tokens": ["oh", "and", "i", "had", "to", "do", "laundry", "after", "because", "EVERYTHING", "i", "was", "wearing", "smelled", "like", "the", "carpet", "in", "the", "suncoast", "casino", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "is", "just", "crazy", "talk", "to", "me", "after", "spending", "$", "3,500", "!!!!", "I", "did", "not", "want", "to", "wait", "2", "weeks", "so", "on", "top", "of", "that", "I", "had", "to", "pay", "a", "$", "35", "fee", "for", "a", "''", "``", "rush", ".", "''", "''"], "e1_text": "talk", "e1_pos": 4, "e2_text": "spending", "e2_pos": 8, "label": "after"}
+]

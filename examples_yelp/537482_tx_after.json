@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "accidentally", "looked", "at", "only", "one", "board", ",", "and", "only", "realized", "the", "other", "board", "after", "I", "got", "my", "order", "-LRB-", "I", "was", "wondering", "for", "a", "while", "why", "I", "did", "n't", "see", "any", "cheese", "options", "...", "-RRB-", "."], "e1_text": "realized", "e1_pos": 10, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

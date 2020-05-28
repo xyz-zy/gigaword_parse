@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "told", "the", "waitress", "&", "she", "took", "it", "away", "after", "I", "asked", "for", "soggy", "bacon", "again", "&", "then", "I", "had", "asked", "if", "I", "could", "have", "the", "3", "side", "of", "bacon", "not", "5", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "asked", "e2_pos": 12, "label": "after"}
+]

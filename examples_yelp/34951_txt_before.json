@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "did", "n't", "they", "tell", "me", "all", "this", "before", "they", "started", "the", "process", ",", "I", "asked", "."], "e1_text": "tell", "e1_pos": 4, "e2_text": "started", "e2_pos": 10, "label": "before"},
+{"tokens": ["Why", "on", "earth", "Brad", "does", "n't", "buy", "a", "steamer", ",", "or", "at", "least", "tell", "people", "what", "to", "expect", "before", "they", "start", "to", "remove", "the", "old", "tint", "is", "beyond", "me", "."], "e1_text": "expect", "e1_pos": 17, "e2_text": "start", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "ate", "it", "later", "and", "fought", "the", "horribly", "over-cooked", "flavorless", "meat", "-LRB-", "I", "had", "also", "ordered", "the", "Green", "Chile", "Burrito", "per", "the", "employee", "'s", "recommendation", "-RRB-", "I", "found", "A", "BUG", "inside", "of", "the", "burrito", "!!!", "I", "was", "so", "disgusted", "!!", "I", "have", "never", "had", "something", "like", "this", "happen", "to", "me", "before", "and", "I", "ignored", "the", "metal", "to", "only", "find", "something", "even", "worse", "."], "e1_text": "!!!", "e1_pos": 35, "e2_text": "was", "e2_pos": 37, "label": "before"}
+]

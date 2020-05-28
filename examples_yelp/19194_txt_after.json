@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "no", "napkins", "and", "when", "we", "were", "looking", "for", "our", "server", "who", "seemed", "to", "be", "non-existent", "all", "night", "we", "saw", "her", "talking", "with", "the", "manager", "behind", "a", "wall", ",", "after", "staring", "at", "them", "for", "a", "few", "minutes", "he", "finally", "noticed", "and", "sent", "her", "to", "come", "check", "on", "us", "for", "the", "first", "time", "the", "whole", "meal", "."], "e1_text": "saw", "e1_pos": 20, "e2_text": "staring", "e2_pos": 31, "label": "after"}
+]

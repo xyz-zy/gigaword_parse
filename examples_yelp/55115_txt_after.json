@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "an", "onion", "blossom", "-LRB-", "small", "taste", "of", "burnt", "oil", "-RRB-", ",", "dinner", "salad", "-LRB-", "which", "they", "lost", "the", "ticket", "for", "the", "order", "and", "brought", "it", "out", "after", "we", "got", "our", "dinner", "-RRB-", "."], "e1_text": "brought", "e1_pos": 24, "e2_text": "got", "e2_pos": 29, "label": "after"}
+]

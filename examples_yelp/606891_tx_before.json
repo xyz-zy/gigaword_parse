@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "a", "great", "place", "to", "go", "before", "heading", "out", "to", "the", "clubds", "or", "bars", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "heading", "e2_pos": 8, "label": "before"},
+{"tokens": ["You", "can", "enjoy", "small", "dishes", "and", "get", "a", "littls", "buzz", "going", "before", "paying", "$", "20", "for", "a", "drink", "in", "a", "popular", "club", "."], "e1_text": "going", "e1_pos": 10, "e2_text": "paying", "e2_pos": 12, "label": "before"}
+]

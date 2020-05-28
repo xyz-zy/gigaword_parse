@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "have", "you", "arriving", "45", "minutes", "prior", "to", "classes", "-LRB-", "7:45", "am", "-RRB-", "and", "pick", "you", "up", "40", "minutes", "after", "they", "end", "-LRB-", "5:10", "-RRB-", "."], "e1_text": "pick", "e1_pos": 14, "e2_text": "end", "e2_pos": 21, "label": "after"}
+]

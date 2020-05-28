@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "the", "time", "the", "pork", "ribs", "and", "rib", "eye", "came", "around", "-LRB-", "after", "my", "husband", "spoke", "to", "our", "server", "about", "the", "lack", "of", "service", "-RRB-", "all", "of", "the", "sides", "were", "cold", "and", "we", "were", "just", "over", "it", "and", "full", "from", "the", "massive", "amount", "of", "water", "we", "had", "to", "drink", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "spoke", "e2_pos": 15, "label": "after"}
+]

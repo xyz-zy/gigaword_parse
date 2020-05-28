@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "by", "here", "for", "a", "quick", "drink", "before", "seeing", "a", "movie", "last", "Saturday", "night", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 8, "label": "before"},
+{"tokens": ["Did", "I", "mention", "this", "was", "a", "Saturday", "night", "?!", "It", "would", "be", "a", "fine", "place", "for", "a", "group", "of", "dudes", "to", "stop", "in", "to", "pound", "a", "few", "drinks", "before", "hitting", "the", "Strip", "but", "other", "than", "that", "no", "thanks", "."], "e1_text": "pound", "e1_pos": 24, "e2_text": "hitting", "e2_pos": 29, "label": "before"}
+]

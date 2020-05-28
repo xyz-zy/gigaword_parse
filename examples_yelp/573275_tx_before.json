@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "attempted", "to", "blame", "the", "problem", "on", "the", "computer", "having", "a", "problem", "before", "they", "received", "it", "even", "though", "they", "had", "turned", "it", "on", "and", "examined", "the", "computer", "when", "I", "dropped", "it", "off", "."], "e1_text": "having", "e1_pos": 9, "e2_text": "received", "e2_pos": 14, "label": "before"},
+{"tokens": ["Think", "again", "before", "you", "spend", "a", "dime", "with", "these", "guys", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "spend", "e2_pos": 4, "label": "before"}
+]

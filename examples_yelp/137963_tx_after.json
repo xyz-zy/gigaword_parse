@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "ordered", "extra", "towels", "and", "they", "arrived", "2", "hours", "after", "we", "called", "for", "them", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "called", "e2_pos": 11, "label": "after"},
+{"tokens": ["she", "thought", "it", "was", "one", "of", "our", "friends", "...", "but", "then", "later", "thought", "it", "was", "something", "else", "...", "anyhoo", "...", "do", "n't", "know", "if", "it", "'s", "haunted", "...", "but", "that", "freaked", "us", "out", "and", "by", "that", "time", "after", "we", "realized", "that", "the", "place", "may", "be", "haunted", "...", "we", "were", "BEGGIN", "our", "friends", "to", "come", "back", "."], "e1_text": "freaked", "e1_pos": 30, "e2_text": "realized", "e2_pos": 39, "label": "after"}
+]

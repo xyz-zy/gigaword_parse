@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "a", "few", "attempts", "to", "call", "and", "left", "a", "message", "before", "I", "finally", "got", "through", "to", "a", "person", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "got", "e2_pos": 14, "label": "before"},
+{"tokens": ["Just", "be", "sure", "to", "check", "your", "order", "before", "leaving", "..."], "e1_text": "check", "e1_pos": 4, "e2_text": "leaving", "e2_pos": 8, "label": "before"}
+]

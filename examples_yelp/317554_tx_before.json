@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "did", "n't", "I", "read", "the", "reviews", "before", "booking", "a", "car", "at", "this", "place", "?!?", "I", "am", "kicking", "myself", "for", "not", "doing", "so", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "booking", "e2_pos": 8, "label": "before"},
+{"tokens": ["There", "was", "no", "one", "in", "line", "in", "front", "of", "us", ",", "yet", "we", "still", "waited", "for", "15", "minutes", "before", "we", "were", "helped", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "were", "e2_pos": 20, "label": "before"}
+]

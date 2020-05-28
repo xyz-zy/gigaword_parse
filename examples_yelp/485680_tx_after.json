@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "came", "over", "two", "additional", "times", ",", "asking", "what", "we", "had", "ordered", "-LRB-", "and", "making", "some", "small", "talk", "-RRB-", "and", "then", "again", "after", "the", "food", "had", "arrived", "-LRB-", "asking", "how", "everything", "was", "-RRB-", "."], "e1_text": "asking", "e1_pos": 8, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "fully", "intend", "on", "patronizing", "here", "again", ",", "especially", "to", "see", "how", "it", "is", "after", "the", "kinks", "are", "ironed", "out", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "are", "e2_pos": 17, "label": "after"}
+]

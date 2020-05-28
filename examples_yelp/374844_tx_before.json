@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "their", "feed", "had", "a", "major", "delay", ",", "as", "I", "could", "hear", "people", "from", "the", "bar", "near", "the", "book", "scream", "after", "a", "major", "play", "happened", "before", "we", "did", "."], "e1_text": "happened", "e1_pos": 24, "e2_text": "did", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "will", "go", "try", "out", "the", "other", "hotels", "I", "have", "not", "stayed", "at", "before", "coming", "here", "again"], "e1_text": "stayed", "e1_pos": 11, "e2_text": "coming", "e2_pos": 14, "label": "before"}
+]

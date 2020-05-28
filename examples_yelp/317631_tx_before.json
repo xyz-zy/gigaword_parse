@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "look", "at", "the", "scratch", "and", "tell", "him", ",", "that", "scratch", "was", "there", "before", "I", "rented", "the", "car", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "rented", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "tell", "him", "I", "would", "accept", "any", "damage", "that", "occurred", "during", "the", "time", "of", "my", "rental", ",", "but", "would", "not", "sign", "a", "form", "accepting", "damage", "that", "existed", "before", "I", "rented", "the", "car", "."], "e1_text": "existed", "e1_pos": 26, "e2_text": "rented", "e2_pos": 29, "label": "before"},
+{"tokens": ["Not", "only", "did", "they", "try", "to", "charge", "me", "for", "additional", "services", "I", "had", "declined", ",", "but", "they", "also", "tried", "to", "charge", "me", "for", "damage", "that", "was", "on", "the", "car", "before", "I", "rented", "it", "!"], "e1_text": "was", "e1_pos": 25, "e2_text": "rented", "e2_pos": 31, "label": "before"}
+]

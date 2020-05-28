@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "friend", "got", "the", "unlimited", "soup", ",", "salad", "and", "breadsticks", "for", "dinner", "-LRB-", "yes", "they", "offer", "it", "for", "dinner", "for", "$", "3", "more", "-RRB-", "but", "our", "less", "than", "friendly", "waitress", "snagged", "2", "of", "her", "breadsticks", "off", "of", "the", "table", "before", "she", "was", "finished", "."], "e1_text": "snagged", "e1_pos": 30, "e2_text": "was", "e2_pos": 41, "label": "before"}
+]

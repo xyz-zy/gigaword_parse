@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "chug", "down", "2", "large", "glasses", "of", "water", "before", "my", "order", "came", "out", "!", "-RRB-"], "e1_text": "chug", "e1_pos": 2, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["Go", "there", "before", "you", "hit", "the", "casinos", "and", "hotel", ",", "it", "'s", "a", "spot", "you", "must", "try", "!"], "e1_text": "Go", "e1_pos": 0, "e2_text": "hit", "e2_pos": 4, "label": "before"}
+]

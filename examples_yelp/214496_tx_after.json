@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "we", "were", "about", "to", "enter", "the", "theater", ",", "the", "usher", "scanned", "our", "tickets", "and", "my", "bf", "took", "a", "drink", "of", "water", "from", "a", "water", "bottle", ",", "after", "he", "put", "the", "top", "back", "on", "the", "usher", "literally", "took", "the", "bottle", "out", "of", "his", "hands", "."], "e1_text": "took", "e1_pos": 17, "e2_text": "put", "e2_pos": 29, "label": "after"}
+]

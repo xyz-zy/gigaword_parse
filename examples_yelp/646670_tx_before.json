@@ -1,0 +1,4 @@
+[
+{"tokens": ["Actually", ",", "I", "had", "never", "had", "mochi", "before", "so", "I", "had", "nothing", "to", "compare", "theirs", "to", ",", "but", "it", "was", "ok", "-", "nothing", "all", "that", "special", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "had", "e2_pos": 3, "label": "before"},
+{"tokens": ["Meanwhile", ",", "our", "friend", "was", "done", "with", "her", "meal", "and", "dessert", "long", "before", "they", "finally", "ended", "up", "bringing", "us", "our", "mochi", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "ended", "e2_pos": 15, "label": "before"}
+]

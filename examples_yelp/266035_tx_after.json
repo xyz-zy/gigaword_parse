@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "located", "near", "my", "residence", "and", "that", "was", "a", "plus", "as", "I", "had", "to", "walk", "home", "from", "the", "shop", "after", "dropping", "my", "car", "off", "."], "e1_text": "walk", "e1_pos": 15, "e2_text": "dropping", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "was", "really", "impressed", "that", "they", "were", "able", "to", "repair", "the", "car", "in", "such", "a", "short", "turnaround", "after", "I", "was", "advised", "that", "the", "shop", "was", "really", "busy", "."], "e1_text": "repair", "e1_pos": 9, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

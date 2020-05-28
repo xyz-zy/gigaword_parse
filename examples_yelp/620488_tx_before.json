@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "told", "my", "guy", "and", "I", "to", "create", "accounts", "online", "before", "coming", "to", "the", "class", "at", "7pm", "tonight", "."], "e1_text": "create", "e1_pos": 7, "e2_text": "coming", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "'s", "the", "weirdest", "thing", "to", "me", "...", "Everyone", "socializing", ",", "on", "their", "phones", ",", "before", "the", "instructor", "entered", "."], "e1_text": "socializing", "e1_pos": 9, "e2_text": "entered", "e2_pos": 18, "label": "before"}
+]

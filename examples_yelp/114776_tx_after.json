@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "back", "two", "weeks", "later", ",", "after", "they", "said", "the", "shoes", "would", "be", "ready", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "said", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "guy", "who", "runs", "this", "place", "now", "never", "called", "me", "when", "he", "said", "he", "would", ",", "kept", "telling", "me", "he", "would", "look", "for", "my", "shoes", ",", "only", "offered", "me", "$", "30", "as", "compensation", ",", "never", "apologized", "or", "felt", "bad", "for", "loosing\\/misplacing", "my", "shoes", "and", "putting", "me", "through", "what", "he", "did", ",", "and", "I", "did", "not", "get", "my", "shoes", "back", "till", "more", "than", "a", "month", "later", "after", "threatening", "legal", "action", "."], "e1_text": "felt", "e1_pos": 37, "e2_text": "threatening", "e2_pos": 66, "label": "after"}
+]

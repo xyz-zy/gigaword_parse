@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "was", "excellent", ",", "but", "took", "quite", "a", "while", "to", "reach", "us", "-LRB-", "around", "45", "minutes", "after", "we", "placed", "our", "order", "-RRB-", "."], "e1_text": "reach", "e1_pos": 11, "e2_text": "placed", "e2_pos": 19, "label": "after"}
+]

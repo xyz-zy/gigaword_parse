@@ -1,0 +1,3 @@
+[
+{"tokens": ["Whoever", "hands", "me", "my", "pizzas", "usually", "shows", "me", "the", "finished", "product", "before", "I", "pay", "for", "it", ",", "so", "he", "opened", "the", "box", "and", "I", "just", "took", "note", "of", "the", "spinach", "and", "the", "ricotta", "and", "said", "it", "looked", "great", "and", "hoped", "that", "his", "creation", "tasted", "just", "as", "good", "as", "it", "looked", "."], "e1_text": "shows", "e1_pos": 6, "e2_text": "pay", "e2_pos": 13, "label": "before"}
+]

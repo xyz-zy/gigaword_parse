@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "though", "the", "size", "of", "the", "plates", "did", "n't", "overwhelm", "us", ",", "as", "has", "happened", "before", ",", "neither", "of", "us", "could", "finish", "the", "food", "."], "e1_text": "overwhelm", "e1_pos": 9, "e2_text": "has", "e2_pos": 13, "label": "before"},
+{"tokens": ["Overall", ",", "the", "food", "was", "ok", ",", "but", "I", "would", "look", "long", "and", "hard", "before", "going", "back", "."], "e1_text": "look", "e1_pos": 10, "e2_text": "going", "e2_pos": 15, "label": "before"}
+]

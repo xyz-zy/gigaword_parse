@@ -1,0 +1,3 @@
+[
+{"tokens": ["not", "after", "several", "hours", "of", "partying", ",", "it", "was", "actually", "before", "the", "bridal", "party", "had", "even", "entered", "the", "party", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

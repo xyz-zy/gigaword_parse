@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "sorry", "that", "45", "seconds", "after", "sitting", "down", "I", "am", "still", "reading", "the", "menu", ",", "but", "when", "I", "order", "water", "-LRB-", "instead", "of", "the", "$", "14", "''", "``", "BLT", "Bloody", "Mary", "''", "''", "-RRB-", "you", "do", "not", "get", "to", "roll", "your", "eyes", "at", "me", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "sitting", "e2_pos": 7, "label": "after"}
+]

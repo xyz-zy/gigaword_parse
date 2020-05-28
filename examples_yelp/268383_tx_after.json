@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nothing", "like", "starting", "the", "day", "having", "to", "drive", "back", "to", "Starbucks", "after", "arriving", "home", "hungry", "to", "eat", "."], "e1_text": "drive", "e1_pos": 7, "e2_text": "arriving", "e2_pos": 12, "label": "after"},
+{"tokens": ["Jason", "behind", "the", "bar", "handed", "me", "my", "drink", "after", "having", "waited", "like", "8", "minutes", "."], "e1_text": "handed", "e1_pos": 4, "e2_text": "having", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "last", "time", "I", "went", "to", "this", "Starbucks", "I", "was", "the", "only", "customer", "in", "the", "store", "waiting", "for", "a", "drink", "yet", "the", "barrista", "served", "SIX", "cars", "in", "the", "drive-thru", "before", "even", "acknowledging", "me", "still", "waiting", "."], "e1_text": "served", "e1_pos": 23, "e2_text": "acknowledging", "e2_pos": 31, "label": "before"},
+{"tokens": ["she", "came", "over", "and", "said", "''", "``", "sorry", "I", "had", "to", "make", "6", "Frappucinos", "for", "all", "those", "cars", "''", "''", "I", "responded", "''", "``", "well", "I", "'m", "as", "much", "of", "a", "customer", "as", "those", "people", "and", "all", "I", "'m", "having", "is", "a", "basic", "latte", "and", "I", "ordered", "before", "them", "anyways", "''", "''", "."], "e1_text": "ordered", "e1_pos": 46, "e2_text": "anyways", "e2_pos": 49, "label": "before"}
+]

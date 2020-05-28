@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "upon", "arriving", "in", "Arizona", ",", "i", "noticed", "a", "few", "days", "later", "that", "the", "check", "engine", "light", "was", "on", "...", "and", "i", "knew", "i", "needed", "to", "rectify", "any", "problems", "i", "was", "having", "with", "the", "Jeep", "before", "i", "took", "it", "for", "it", "'s", "emission", "test", "out", "here", "."], "e1_text": "having", "e1_pos": 31, "e2_text": "took", "e2_pos": 37, "label": "before"},
+{"tokens": ["While", "i", "was", "there", "i", "had", "them", "check", "out", "the", "check", "engine", "light", "...", "and", "check", "for", "anything", "else", "that", "was", "wrong", "with", "the", "Jeep", "again", "before", "i", "took", "it", "for", "the", "emission", "test", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "took", "e2_pos": 28, "label": "before"}
+]

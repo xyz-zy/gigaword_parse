@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "the", "guy", "did", "n't", "give", "me", "the", "dreaded", ",", "''", "``", "Take", "y'", "order", "''", "''", "greeting", "it", "was", "very", "hard", "to", "understand", "what", "he", "was", "asking", "me", "as", "he", "would", "speak", "very", "fast", "and", "would", "cut", "off", "before", "he", "finished", "his", "sentences", "."], "e1_text": "cut", "e1_pos": 37, "e2_text": "finished", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "my", "soda", "topped", "off", "before", "I", "left", "and", "I", "got", "two", "sides", "of", "ranch", "at", "no", "charge", "...", "The", "only", "thing", "I", "was", "out", "off", "by", "was", "that", "I", "'m", "glad", "I", "did", "n't", "have", "to", "pay", "for", "the", "ranch", "because", "they", "were", "both", "half", "full", "which", "is", "why", "I", "needed", "two", "."], "e1_text": "topped", "e1_pos": 4, "e2_text": "left", "e2_pos": 8, "label": "before"},
+{"tokens": ["Need", "to", "show", "houses", "...", "I", "ordered", "the", "two", "slices", "of", "cheese", "and", "a", "Pepsi", "and", "my", "total", "was", "$", "4.38", "Um", "I", "went", "to", "the", "bathroom", "before", "leaving", ",", ".", "."], "e1_text": "went", "e1_pos": 23, "e2_text": "leaving", "e2_pos": 28, "label": "before"}
+]

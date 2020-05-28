@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "I", "told", "him", "he", "looked", "at", "me", "blankly", ",", "like", "he", "'d", "never", "heard", "of", "the", "Forbidden", "Sundae", "before", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "'d", "e2_pos": 12, "label": "before"},
+{"tokens": ["It", "took", "another", "ten", "minutes", "before", "I", "got", "the", "thing", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "before"},
+{"tokens": ["You", "'re", "supposed", "to", "be", "able", "to", "get", "a", "bit", "of", "each", "of", "these", "things", "all", "together", "in", "a", "single", "bite", ",", "not", "have", "to", "excavate", "first", "through", "two", "inches", "of", "whipped", "cream", ",", "then", "a", "scoop", "of", "ice", "cream", "before", "reaching", "the", "brownie", "and", "chocolate", "sauce", "."], "e1_text": "excavate", "e1_pos": 25, "e2_text": "reaching", "e2_pos": 41, "label": "before"}
+]

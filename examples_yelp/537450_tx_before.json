@@ -1,0 +1,3 @@
+[
+{"tokens": ["Great", "tea", ",", "juice", "&", "good", "food", "Bar", "has", "lousy", "service", "so", "do", "n't", "sit", "there", "unless", "you", "like", "being", "ignored", "or", "having", "a", "bill", "tossed", "at", "you", "-LRB-", "that", "has", "not", "happened", "to", "me", "in", "my", "45", "years", "of", "living", "-RRB-", "-", "and", "I", "kindly", "replied", "with", "A", "$", "0", "tip", "-LRB-", "I", "'ve", "never", "done", "that", "before", "either", "-", "and", "my", "company", "pays", "the", "bill", "not", "me", "so", "it", "'s", "not", "about", "money", "at", "all", "-RRB-", "Have", "had", "great", "service", "outside", "of", "bar", "though", "!"], "e1_text": "done", "e1_pos": 56, "e2_text": "pays", "e2_pos": 64, "label": "before"}
+]

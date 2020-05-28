@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "save", "your", "money", "and", "eat", "before", "you", "arrive", "-LRB-", "which", "we", "intended", "on", "doing", ",", "but", "every", "restaurant", "in", "the", "area", "was", "packed", "-RRB-", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "arrive", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "helpful", "and", "thankfully", "brought", "out", "my", "falafel", "appetizer", "well", "before", "the", "entree", "came", "out", "."], "e1_text": "brought", "e1_pos": 5, "e2_text": "came", "e2_pos": 14, "label": "before"},
+{"tokens": ["Just", "maybe", "I", "had", "not", "had", "enough", "to", "drink", "before", "coming", "here", "."], "e1_text": "drink", "e1_pos": 8, "e2_text": "coming", "e2_pos": 10, "label": "before"}
+]

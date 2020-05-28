@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "one", "point", ",", "we", "wanted", "to", "order", "more", "food", ",", "but", "after", "20", "minutes", ",", "and", "asking", "someone", "else", "to", "find", "our", "server", "twice", ",", "we", "were", "already", "done", "with", "our", "meal", "and", "did", "n't", "want", "anything", "else", "by", "the", "time", "he", "deigned", "to", "show", "up", "!"], "e1_text": "wanted", "e1_pos": 5, "e2_text": "were", "e2_pos": 27, "label": "after"}
+]

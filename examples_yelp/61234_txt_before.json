@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "eat", "the", "Pho", "to", "satisfy", "your", "craving", "for", "Pho", "and", "go", "back", "to", "your", "hotel", "for", "a", "couple", "hours", "of", "shut", "eye", "before", "you", "hit", "the", "pool"], "e1_text": "go", "e1_pos": 11, "e2_text": "hit", "e2_pos": 25, "label": "before"}
+]

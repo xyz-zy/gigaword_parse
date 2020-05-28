@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "reason", "my", "wife", "and", "I", "came", "to", "Tom", "'s", "Tavern", "was", "to", "celebrate", "her", "retirement", "after", "twenty", "years", "of", "working", "in", "the", "Maricopa", "court", "system", "."], "e1_text": "celebrate", "e1_pos": 13, "e2_text": "working", "e2_pos": 20, "label": "after"},
+{"tokens": ["We", "arrived", "shortly", "after", "opening", "on", "January", "6", ",", "2015", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "opening", "e2_pos": 4, "label": "after"},
+{"tokens": ["Needless", "to", "say", "we", "were", "sorely", "disappointed", "after", "dropping", "$", "35", "."], "e1_text": "disappointed", "e1_pos": 6, "e2_text": "dropping", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "second", "time", "I", "made", "a", "reservation", "3", "weeks", "ahead", "of", "time", "since", "it", "was", "a", "large", "party", "after", "my", "graduation", "-LRB-", "my", "family", "came", "from", "out", "of", "town", "about", "20", "people", "-RRB-", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "came", "e2_pos": 24, "label": "after"},
+{"tokens": ["In", "fact", "my", "dad", "had", "to", "buy", "food", "right", "after", "we", "left", "because", "he", "didnt", "eat", "anything", "."], "e1_text": "buy", "e1_pos": 6, "e2_text": "left", "e2_pos": 11, "label": "after"}
+]

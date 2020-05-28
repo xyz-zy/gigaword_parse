@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lessons", "learned", ":", "I", "would", "recommend", "if", "your", "getting", "that", "used", "car", "salesman", "approach", "and", "purchasing", "a", "range", "other", "than", "free", "standibg", "run", "the", "details", "by", "the", "manager", "before", "you", "sign", "on", "the", "doted", "line", "."], "e1_text": "run", "e1_pos": 22, "e2_text": "sign", "e2_pos": 30, "label": "before"},
+{"tokens": ["And", "insist", "on", "speaking", "with", "their", "installer", "before", "they", "come", "out", "."], "e1_text": "speaking", "e1_pos": 3, "e2_text": "come", "e2_pos": 9, "label": "before"}
+]

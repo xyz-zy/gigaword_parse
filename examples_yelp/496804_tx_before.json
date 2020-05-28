@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "salad", "was", "good", "but", "had", "to", "rush", "to", "eat", "it", "because", "our", "entrees", "arrived", "before", "we", "were", "finished", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "were", "e2_pos": 17, "label": "before"},
+{"tokens": ["Once", "again", "the", "desserts", "arrived", "before", "my", "wife", "was", "3\\/4", "finished", "with", "her", "entr", "\\", "u00e9e", "so", "the", "dessert", "sat", "for", "about", "ten", "minutes", "before", "we", "were", "ready", "to", "eat", "it", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

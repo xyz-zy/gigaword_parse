@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "visiting", "a", "few", "days", "after", "the", "''", "``", "revisit", "''", "''", "from", "R.I.", "."], "e1_text": "visiting", "e1_pos": 2, "e2_text": "revisit", "e2_pos": 10, "label": "after"},
+{"tokens": ["Another", "issue", "I", "saw", "was", "a", "table", "had", "been", "waiting", "for", "a", "prime", "rib", "entree", "and", "after", "waiting", "they", "were", "informed", "that", "there", "was", "an", "issue", "with", "the", "food", "and", "out", "of", "something", "else", "now", "."], "e1_text": "waiting", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

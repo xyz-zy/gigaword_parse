@@ -1,0 +1,4 @@
+[
+{"tokens": ["Am", "I", "less", "committed", "because", "I", "would", "like", "to", "work", "out", "once", "or", "twice", "before", "giving", "you", "my", "billing", "info", "?"], "e1_text": "work", "e1_pos": 9, "e2_text": "giving", "e2_pos": 15, "label": "before"},
+{"tokens": ["So", "do", "n't", "be", "a", "jerk", "to", "me", "when", "I", "tell", "you", "I", "want", "to", "try", "the", "gym", "before", "I", "sign", "up", ",", "or", "I", "'ll", "do", "what", "I", "just", "did", ",", "which", "was", "drive", "down", "the", "street", "and", "go", "elsewhere", "."], "e1_text": "try", "e1_pos": 15, "e2_text": "sign", "e2_pos": 20, "label": "before"}
+]

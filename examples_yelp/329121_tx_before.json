@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "arrived", "at", "the", "club", "at", "11", "pm", ",", "we", "only", "had", "to", "wait", "for", "about", "two", "minutes", "in", "the", "table", "line", "before", "we", "were", "escorted", "back", "to", "our", "table", "."], "e1_text": "wait", "e1_pos": 14, "e2_text": "were", "e2_pos": 25, "label": "before"},
+{"tokens": ["However", ",", "in", "both", "cases", ",", "the", "security", "guys", "were", "very", "nice", "-LRB-", "they", "looked", "for", "my", "phone", "and", "let", "my", "friend", "come", "back", "to", "the", "table", "to", "get", "her", "purse", "before", "they", "escorted", "her", "out", "-RRB-", "."], "e1_text": "get", "e1_pos": 28, "e2_text": "escorted", "e2_pos": 33, "label": "before"}
+]

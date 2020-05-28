@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "sat", "there", "for", "10", "minutes", "as", "my", "waffles", "got", "cold", "waiting", "for", "them", "before", "seeing", "him", "come", "back", "out", "and", "avoid", "eye", "contact", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "seeing", "e2_pos": 15, "label": "before"},
+{"tokens": ["Stoked", "I", "got", "to", "pay", "10", "bucks", "for", "what", "became", "cold", "waffles", "before", "I", "ate", "them", "-LRB-", "waiting", "for", "the", "strawberries", "they", "were", "getting", "me", "-RRB-", "I", "guess", "true", "to", "their", "name", "you", "can", "come", "here", "for", "Bread", "and", "Butter", "but", "do", "n't", "expect", "to", "much", "else", "."], "e1_text": "became", "e1_pos": 9, "e2_text": "ate", "e2_pos": 14, "label": "before"}
+]

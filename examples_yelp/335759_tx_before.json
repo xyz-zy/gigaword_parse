@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "watching", "sport", "and", "i", "think", "I", "watched", "the", "whole", "8", "minutes", "segments", "before", "the", "waitress", "comes", "back", "with", "her", "tray", "with", "a", "full", "2", "beers", "!"], "e1_text": "watched", "e1_pos": 8, "e2_text": "comes", "e2_pos": 17, "label": "before"}
+]

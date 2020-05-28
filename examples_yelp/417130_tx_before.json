@@ -1,0 +1,3 @@
+[
+{"tokens": ["everyone", "around", "us", "got", "their", "food", "before", "we", "did", ",", "and", "when", "it", "came", "time", "to", "pay", "the", "bill", ",", "i", "had", "to", "track", "someone", "down", "to", "swipe", "my", "credit", "card", "and", "waited", "10", "minutes", "to", "get", "the", "slip", "to", "sign", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "did", "e2_pos": 8, "label": "before"}
+]

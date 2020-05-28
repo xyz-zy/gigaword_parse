@@ -1,0 +1,3 @@
+[
+{"tokens": ["During", "brunch", ",", "a", "fairly", "busy", "time", "around", "noon", "on", "a", "Sunday", ",", "we", "saw", "our", "waitress", "once", "before", "ordering", ",", "and", "then", "not", "again", "until", "our", "food", "was", "delivered", "."], "e1_text": "saw", "e1_pos": 14, "e2_text": "ordering", "e2_pos": 19, "label": "before"}
+]

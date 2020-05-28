@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "the", "technician", "purposefully", "wound", "down", "the", "window", "after", "getting", "''", "``", "explicit", "instructions", "''", "''", "."], "e1_text": "wound", "e1_pos": 6, "e2_text": "getting", "e2_pos": 11, "label": "after"},
+{"tokens": ["Yeah", ",", "I", "think", "I", "would", "go", "there", "after", "they", "did", "n't", "call", "back", "...", "And", ",", "also", "see", "that", "THEY", "WERE", "STILL", "BUSY", "WHEN", "I", "GOT", "THERE", "!"], "e1_text": "go", "e1_pos": 6, "e2_text": "did", "e2_pos": 10, "label": "after"}
+]

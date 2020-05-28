@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "we", "order", "a", "appetizer", "and", "when", "it", "came", "out", "it", "was", "just", "cheese", "melted", "in", "a", "pan", "now", "it", "was", "good", "cheese", "but", "still", "just", "cheese", ",", "before", "we", "ordered", "this", "we", "asked", "our", "waiter", "what", "it", "was", "and", "since", "he", "barely", "spoke", "english", "and", "I", "mean", "not", "really", "at", "all", "he", "could", "explain", "what", "it", "was", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "ordered", "e2_pos": 30, "label": "before"}
+]

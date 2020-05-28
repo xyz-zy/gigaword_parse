@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "said", "he", "'d", "sold", "Groupons", "before", "and", "this", "happened", "...", "so", "would", "n't", "you", "figure", "he", "'d", "plan", "a", "different", "strategy", "this", "time", "to", "manage", "all", "the", "influx", "of", "clients", "?"], "e1_text": "said", "e1_pos": 1, "e2_text": "'d", "e2_pos": 3, "label": "before"},
+{"tokens": ["So", "at", "the", "end", "of", "the", "massage", "I", "got", "up", "from", "the", "table", "and", "my", "neck", "felt", "great-especially", "since", "the", "week", "before", "I", "had", "had", "a", "killer", "tension", "headache", "."], "e1_text": "felt", "e1_pos": 16, "e2_text": "had", "e2_pos": 23, "label": "before"}
+]

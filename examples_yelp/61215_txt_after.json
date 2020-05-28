@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "least", "I", "had", "the", "option", "to", "choose", "big", "rice", "noodles", "after", "I", "requested", "it", "."], "e1_text": "choose", "e1_pos": 7, "e2_text": "requested", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "made", "the", "mistake", "of", "choosing", "that", "place", "because", "later", "after", "some", "driving", "around", ",", "we", "saw", "plenty", "of", "other", "pho", "restaurants", "on", "the", "same", "street", "."], "e1_text": "choosing", "e1_pos": 5, "e2_text": "saw", "e2_pos": 16, "label": "after"}
+]

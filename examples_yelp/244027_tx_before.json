@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "'ve", "done", "the", "research", "before", "I", "wasted", "$", "99", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "wasted", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "asked", "the", "''", "``", "nurse", "''", "''", "if", "there", "is", "anything", "I", "can", "use", "to", "clean", "my", "feet", "before", "putting", "my", "shoes", "back", "on", "and", "she", "sent", "me", "in", "the", "bathroom", "to", "use", "paper", "towels", "...", "I", "am", "obviously", "not", "going", "back", "to", "use", "my", "other", "two", "sessions", "."], "e1_text": "clean", "e1_pos": 16, "e2_text": "putting", "e2_pos": 20, "label": "before"}
+]

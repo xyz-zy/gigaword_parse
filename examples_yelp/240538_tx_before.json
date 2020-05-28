@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "clerks", "saw", "me", "waiting", "on", "the", "drive", "thru", "but", "they", "kept", "me", "waiting", "for", "10", "minutes", "before", "they", "acknowledge", "me", "!"], "e1_text": "waiting", "e1_pos": 4, "e2_text": "acknowledge", "e2_pos": 19, "label": "before"},
+{"tokens": ["There", "was", "n't", "any", "other", "cars", "before", "me", "and", "I", "had", "a", "bunch", "behind", "me", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

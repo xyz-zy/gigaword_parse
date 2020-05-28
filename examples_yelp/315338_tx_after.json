@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bottom", "line", "is", "that", "after", "spending", "$", "350", ",", "I", "had", "received", "hair", "that", "wasnt", "even", "remotely", "close", "to", "what", "I", "had", "asked", "for", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "spending", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "receptionist", "implied", "that", "I", "was", "just", "looking", "for", "a", "touch", "up", "and", "that", "everyone", "needs", "a", "touch", "up", "after", "their", "hair", "grows", "!"], "e1_text": "needs", "e1_pos": 15, "e2_text": "grows", "e2_pos": 22, "label": "after"}
+]

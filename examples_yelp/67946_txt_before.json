@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "layout", "should", "have", "been", "planned", "before", "they", "opened", "for", "business", "."], "e1_text": "planned", "e1_pos": 5, "e2_text": "opened", "e2_pos": 8, "label": "before"}
+]

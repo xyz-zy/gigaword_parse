@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "writing", "the", "review", "for", "this", "store", "since", "this", "is", "where", "I", "purchased", "my", "furniture", ",", "but", "after", "you", "buy", "it", "here", ",", "you", "have", "to", "deal", "the", "with", "main", "store", "downtown", "for", "other", "issues", ",", "so", "it", "'s", "for", "them", "too", "."], "e1_text": "writing", "e1_pos": 2, "e2_text": "buy", "e2_pos": 20, "label": "after"}
+]

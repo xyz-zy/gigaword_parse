@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "10", "seats", "at", "two", "tables", ",", "which", "were", "all", "full", ",", "no", "outdoor", "seating", "at", "all", ",", "which", "sucked", "since", "we", "went", "here", "for", "dessert", "after", "eating", "sushi", "for", "dinner", "."], "e1_text": "went", "e1_pos": 22, "e2_text": "eating", "e2_pos": 27, "label": "after"}
+]

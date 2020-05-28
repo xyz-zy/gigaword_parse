@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "have", "dinner", "before", "catching", "a", "show", "at", "tropicana", ".", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "catching", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "sat", "for", "literally", "10", "min", "before", "we", "ever", "saw", "our", "waiter", "and", "they", "were", "not", "busy", ",", "at", "all", ".", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "saw", "e2_pos": 9, "label": "before"}
+]

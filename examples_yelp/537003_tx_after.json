@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "6", "people", "were", "sitting", "without", "food", "while", "everyone", "else", "ate", "for", "at", "least", "30", "minutes", "after", "everyone", "else", "received", "food", "."], "e1_text": "ate", "e1_pos": 10, "e2_text": "received", "e2_pos": 19, "label": "after"},
+{"tokens": ["They", "left", "1", "person", "out", "and", "that", "person", "waited", "1", "hour", "to", "eat", "after", "everyone", "else", "was", "almost", "already", "finished", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

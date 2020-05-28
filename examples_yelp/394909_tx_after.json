@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "give", "you", "an", "appraisal", "-LRB-", "takes", "about", "30", "min", "-RRB-", "and", "they", "say", "they", "give", "you", "fair", "value", "after", "all", "marketing", "costs", "etc.", "."], "e1_text": "give", "e1_pos": 1, "e2_text": "costs", "e2_pos": 22, "label": "after"}
+]

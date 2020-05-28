@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "never", "ordered", "two", "large", "meals", "for", "a", "4", "and", "2", "year", "old", ",", "I", "would", "have", "never", "ordered", "two", "$", "7", "''", "``", "kids", "''", "''", "meals", ",", "I", "would", "have", "given", "them", "some", "food", "off", "my", "plate", "-LRB-", "especially", "the", "2", "year", "old", "-RRB-", "before", "spending", "$", "14", "on", "''", "``", "kids", "meals", ".", "''", "''"], "e1_text": "given", "e1_pos": 34, "e2_text": "spending", "e2_pos": 49, "label": "before"}
+]

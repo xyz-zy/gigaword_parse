@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "wait", "for", "them", "to", "clear", "and", "wipe", "the", "table", "before", "being", "seated", "."], "e1_text": "clear", "e1_pos": 7, "e2_text": "being", "e2_pos": 13, "label": "before"},
+{"tokens": ["Whoever", "cleared", "this", "burger", "to", "be", "served", "was", "NOT", "paying", "attention", "or", "does", "n't", "know", "what", "they", "are", "looking", "at", "as", "my", "mushrooms", "were", "all", "over", "the", "basket", "before", "I", "even", "laid", "eyes", "on", "my", "burger", "."], "e1_text": "were", "e1_pos": 23, "e2_text": "laid", "e2_pos": 31, "label": "before"}
+]

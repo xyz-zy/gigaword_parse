@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "do", "get", "a", "large", "amount", "of", "food", ",", "though", "...", "so", "you", "should", "n't", "feel", "sour", "after", "you", "shell", "out", "at", "least", "$", "10", "bucks", "for", "lunch", "."], "e1_text": "feel", "e1_pos": 15, "e2_text": "shell", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "'ve", "had", "to", "stand", "around", "a", "lot", "even", "after", "waiting", "to", "come", "in", "after", "I", "call", "ahead", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

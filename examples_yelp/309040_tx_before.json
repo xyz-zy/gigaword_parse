@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "best", "and", "most", "amusing", "part", "of", "the", "dinner", "was", "that", "we", "had", "three", "waiters", "-LRB-", "one", "per", "side", "dish", "-RRB-", "hovering", "next", "to", "us", "individually", "to", "explain", "what", "the", "dish", "was", "and", "proceeded", "to", "scoop", "it", "onto", "our", "plate", "before", "shuffling", "to", "the", "next", "person", "-", "it", "felt", "like", "culinary", "musical", "chairs", "."], "e1_text": "scoop", "e1_pos": 35, "e2_text": "shuffling", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "my", "food", "10", "seconds", "after", "I", "hit", "post", "...", "when", "the", "waitress", "handed", "me", "the", "bag", "she", "said", "''", "''", "u", "picked", "the", "wrong", "time", "...", "next", "time", "call", "in", "your", "order", "''", "''", "now", ".", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "hit", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "the", "ONLY", "take", "out", "order", "and", "then", "a", "boy", "came", "after", "me", "who", "incidently", "got", "his", "order", "b4", "me", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

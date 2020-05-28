@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "left", "this", "one", "on", "this", "page", "after", "I", "found", "it", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "found", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "hearing", "from", "our", "neighbors", "-", "one", "of", "whom", "kept", "her", "own", "log", "after", "noticing", "how", "short", "the", "visits", "were", "and", "that", "he", "was", "only", "coming", "twice", "a", "day", "-", "the", "state", "of", "our", "house", "made", "sense", "."], "e1_text": "kept", "e1_pos": 9, "e2_text": "noticing", "e2_pos": 14, "label": "after"}
+]

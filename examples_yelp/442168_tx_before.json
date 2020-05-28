@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "took", "plenty", "of", "pictures", "before", "&", "during", "the", "ride", "which", "was", "a", "nice", "touch", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["They", "asked", "us", "our", "temp", "preference", "on", "steak", "before", "the", "ride", "but", "...", "welldone", "=", "welldone", ",", "med", "well", "=", "well", ",", "med", "=", "well", ",", "medrare", "=", "well", ",", "etc.", "you", "get", "the", "picture", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "get", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "arrived", "five", "minutes", "early", "for", "my", "appointment", ",", "the", "receptionist", "said", "that", "Cody", "had", "accepted", "a", "walk-in", "just", "before", "I", "got", "there", "so", "''", "``", "have", "a", "seat", "or", "go", "next", "door", "for", "a", "coffee", ".", "''", "''"], "e1_text": "accepted", "e1_pos": 16, "e2_text": "got", "e2_pos": 22, "label": "before"}
+]

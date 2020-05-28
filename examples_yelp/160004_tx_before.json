@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "my", "other", "friend", ",", "also", "not", "a", "hotel", "guest", ",", "booked", "a", "massage", "appointment", "well", "in", "advance", "so", "she", "was", "able", "to", "use", "their", "facilities", ",", "but", "according", "to", "the", "same", "girl", "at", "the", "counter", ",", "''", "``", "you", "'re", "lucky", "you", "got", "it", "before", "we", "made", "it", "exclusive", "to", "our", "guests", "''", "''", "...", "The", "people", "working", "here", "have", "some", "serious", "attitude", "problem", "."], "e1_text": "got", "e1_pos": 43, "e2_text": "made", "e2_pos": 47, "label": "before"}
+]

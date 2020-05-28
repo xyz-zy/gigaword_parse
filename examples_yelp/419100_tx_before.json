@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "pains", "me", "to", "give", "this", "Steak", "N", "'", "Shake", "a", "2-star", "rating", "because", "I", "'ve", "been", "to", "it", "before", "when", "it", "first", "opened", "and", "it", "was", "great", "."], "e1_text": "been", "e1_pos": 16, "e2_text": "opened", "e2_pos": 23, "label": "before"},
+{"tokens": ["My", "mom", "and", "hubby", "were", "almost", "done", "with", "their", "meals", "before", "I", "got", "my", "bowl", "of", "chili", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

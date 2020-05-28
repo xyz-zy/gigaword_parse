@@ -1,0 +1,3 @@
+[
+{"tokens": ["NEGATIVE", "STARS", "!!!!!!!!!!!!!!!!", "I", "only", "put", "1", "star", "because", "yelp", "made", "me", "click", "on", "one", "before", "posting", "this", "-", "The", "worst", "experience", "I", "have", "EVER", "had", "in", "Las", "Vegas", "!!!!!!!!!!!!!!!!!", "The", "place", "was", "FILTHY", "!"], "e1_text": "click", "e1_pos": 12, "e2_text": "posting", "e2_pos": 16, "label": "before"}
+]

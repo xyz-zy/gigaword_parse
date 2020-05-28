@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "a", "huge", "hotel", "and", "it", "is", "best", "if", "you", "call", "housekeeping", "at", "least", "half", "an", "hour", "before", "you", "depart", "-LRB-", "especially", "if", "you", "like", "to", "take", "an", "afternoon", "nap", "in", "a", "clean", "and", "refreshed", "room", "-RRB-", "."], "e1_text": "housekeeping", "e1_pos": 12, "e2_text": "depart", "e2_pos": 20, "label": "before"}
+]

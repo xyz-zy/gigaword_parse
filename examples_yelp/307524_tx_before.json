@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "something", "wrong", "with", "the", "customer", "service", "at", "this", "location", ",", "before", "my", "order", "was", "being", "taken", "the", "mother", "and", "her", "child", "ordering", "wanted", "a", "specialty", "item", "which", "Rose", "-LRB-", "cashier", "-RRB-", "was", "not", "sure", "if", "the", "item", "was", "still", "continued", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

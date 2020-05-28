@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "Friendly", "staff", "-", "Quick", "response", "to", "remaking", "my", "food", "after", "I", "sent", "it", "back", "-", "Apologies", "for", "the", "slow", "service", "-", "GREAT", "beer", "Negatives", ":", "-", "Lack", "of", "staffing", "-", "our", "poor", "server", "was", "the", "only", "one", "caring", "for", "the", "entire", "dining", "area", "which", "is", "pretty", "large", "."], "e1_text": "remaking", "e1_pos": 7, "e2_text": "sent", "e2_pos": 12, "label": "after"},
+{"tokens": ["So", "much", "for", "running", "errands", "after", "we", "ate", "dinner", "."], "e1_text": "errands", "e1_pos": 4, "e2_text": "ate", "e2_pos": 7, "label": "after"}
+]

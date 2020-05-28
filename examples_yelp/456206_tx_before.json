@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "family", "and", "I", "ate", "here", "on", "Sunday", "August", "17", "and", "got", "the", "same", "cold", "and", "unfriendly", "service", "we", "got", "the", "two", "previous", "times", "we", "'ve", "been", "there", "before", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "'ve", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "have", "had", "it", "before", "but", "this", "was", "the", "only", "time", "our", "stomachs", "did", "not", "agree", "with", "the", "food", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

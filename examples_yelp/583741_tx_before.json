@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "should", "'ve", "known", "after", "waiting", "15", "minutes", "before", "anyone", "greeted", "our", "table", "that", "our", "night", "was", "doomed", "."], "e1_text": "waiting", "e1_pos": 5, "e2_text": "greeted", "e2_pos": 10, "label": "before"},
+{"tokens": ["Fortunately", "my", "husband", "and", "I", "immediately", "spotted", "a", "couple", "of", "beers", "on", "the", "first", "paged", "and", "ordered", "before", "he", "walked", "away", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "walked", "e2_pos": 19, "label": "before"}
+]

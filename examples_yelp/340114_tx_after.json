@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "find", "that", "the", "waits", "are", "longer", "than", "expected", "-LRB-", "after", "ordering", "-RRB-", "and", "meals", "come", "out", "one", "at", "a", "time", ",", "as", "opposed", "to", "together", "."], "e1_text": "expected", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 11, "label": "after"}
+]

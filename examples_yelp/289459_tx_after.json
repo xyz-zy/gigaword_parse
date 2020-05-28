@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "taking", "two", "animals", "from", "Canada", "back", "to", "our", "room", "only", "after", "sitting", "with", "them", "for", "20", "minnutes", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "sitting", "e2_pos": 14, "label": "after"},
+{"tokens": ["Slayed", "them", "like", "puff", "the", "magic", "dragon", "as", "they", "did", "the", "walk", "of", "shame", "back", "to", "the", "luxor", "as", "my", "brother", "and", "I", "threw", "lunch", "meet", "at", "the", "door", "after", "they", "walked", "out", "of", "our", "room", "."], "e1_text": "meet", "e1_pos": 25, "e2_text": "walked", "e2_pos": 31, "label": "after"}
+]

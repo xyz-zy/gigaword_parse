@@ -1,0 +1,4 @@
+[
+{"tokens": ["Elara", "had", "a", "standard", "of", "service", "with", "us", "after", "the", "first", "two", "years", "that", "did", "n't", "seem", "to", "exist", "at", "all", "this", "time", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "did", "e2_pos": 14, "label": "after"},
+{"tokens": ["Did", "he", "bother", "to", "check", "any", "of", "the", "other", "features", "or", "offer", "to", "check", "them", ";", "no", "sir", ",", "he", "just", "left", "after", "plugging", "it", "in", "."], "e1_text": "left", "e1_pos": 21, "e2_text": "plugging", "e2_pos": 23, "label": "after"}
+]

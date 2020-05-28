@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "do", "wait", "for", "that", "bed", ",", "they", "do", "n't", "clean", "it", "after", "someone", "leaves", "they", "just", "sit", "around", "until", "you", "remind", "them", "that", "you", "'re", "waiting", "to", "use", "it", "."], "e1_text": "clean", "e1_pos": 11, "e2_text": "leaves", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "wo", "n't", "be", "joining", "again", "after", "my", "month", "expires", "."], "e1_text": "joining", "e1_pos": 4, "e2_text": "expires", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "this", "''", "``", "boot", "camp", "''", "''", "for", "a", "month", "after", "purchasing", "a", "Groupon", "where", "it", "was", "only", "$", "30", ",", "and", "I", "am", "glad", "that", "I", "did", "n't", "pay", "much", "more", "for", "it", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "purchasing", "e2_pos": 13, "label": "after"}
+]

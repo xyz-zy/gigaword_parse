@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "a", "huge", "fan", "of", "the", "fact", "that", "it", "'s", "cash", "only", ",", "but", "you", "just", "got", "ta", "remember", "to", "get", "some", "money", "before", "you", "leave", ",", "and", "if", "you", "forget", ",", "there", "'s", "a", "gas", "station", "right", "behind", "it", "with", "an", "ATM", "you", "can", "go", "to", "."], "e1_text": "get", "e1_pos": 22, "e2_text": "leave", "e2_pos": 27, "label": "before"}
+]

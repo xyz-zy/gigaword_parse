@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "NYE", "dinner", "in", "Vegas", ",", "I", "chose", "Border", "Grill", "because", ",", "after", "seeing", "Susan", "Feniger", "on", "Top", "Chef", ",", "I", "have", "always", "wanted", "to", "try", "her", "cooking", "."], "e1_text": "chose", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 13, "label": "after"}
+]

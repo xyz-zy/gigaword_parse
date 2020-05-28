@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "at", "NUMEROUS", "areas", "before", "finally", "being", "seated", "in", "a", "very", "nice", "area", "with", "sueded", "-LRB-", "or", "microfiber", "-RRB-", "walls", ",", "pillows", "and", "bench", ",", "3", "white", "leather", "chairs", ",", "two", "ottomans", "and", "a", "coffee", "table", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "thought", "she", "had", "just", "walked", "into", "work", "and", "did", "n't", "have", "time", "to", "drop", "her", "things", "off", "before", "manning", "her", "stations", "."], "e1_text": "drop", "e1_pos": 14, "e2_text": "manning", "e2_pos": 19, "label": "before"}
+]

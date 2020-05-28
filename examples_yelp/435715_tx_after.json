@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "was", "well", "until", "the", "next", "morning", "when", "they", "checked", "their", "bill", "upon", "check", "out", "and", "noticed", "they", "were", "charged", "for", "the", "gift", "on", "their", "room", "...", "after", "I", "already", "paid", "for", "the", "gift", "two", "weeks", "prior", "."], "e1_text": "charged", "e1_pos": 19, "e2_text": "paid", "e2_pos": 30, "label": "after"},
+{"tokens": ["We", "had", "to", "make", "numerous", "calls", "to", "get", "the", "charges", "dropped", "off", "their", "bill", "and", "it", "still", "was", "n't", "confirmed", "until", "after", "we", "checked", "out", "."], "e1_text": "confirmed", "e1_pos": 19, "e2_text": "checked", "e2_pos": 23, "label": "after"}
+]

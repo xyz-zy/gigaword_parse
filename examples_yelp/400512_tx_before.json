@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "the", "hostess", "did", "not", "acknowledge", "us", "for", "at", "least", "10", "minutes", "before", "we", "were", "finally", "asked", "how", "many", "and", "another", "few", "minutes", "before", "we", "were", "seated", "and", "when", "we", "were", "seated", ",", "the", "server", "never", "came", "."], "e1_text": "acknowledge", "e1_pos": 5, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

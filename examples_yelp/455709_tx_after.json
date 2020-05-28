@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "DH", "and", "I", "split", "the", "eggs", "and", "chilaquiles", "and", "it", "was", "yummy", ",", "but", "I", "only", "read", "the", "reviews", "after", "I", "started", "eating", "-", "so", "we", "'ll", "definitely", "be", "back", "for", "the", "green", "chile", "!"], "e1_text": "read", "e1_pos": 17, "e2_text": "started", "e2_pos": 22, "label": "after"}
+]

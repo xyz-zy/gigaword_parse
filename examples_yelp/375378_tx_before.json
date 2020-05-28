@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "on", "here", "before", "I", "booked", "at", "Aria", "and", "I", "was", "excited", "to", "check", "this", "place", "out", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "booked", "e2_pos": 6, "label": "before"},
+{"tokens": ["Did", "n't", "think", "to", "flush", "first", "before", "I", "used", "it", "for", "the", "first", "time", ",", "and", "of", "course", "it", "did", "n't", "work", "at", "all", "."], "e1_text": "flush", "e1_pos": 4, "e2_text": "used", "e2_pos": 8, "label": "before"}
+]

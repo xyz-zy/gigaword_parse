@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "ensued", "after", "that", "was", "nothing", "short", "of", "insanity", "."], "e1_text": "ensued", "e1_pos": 1, "e2_text": "was", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "had", "n't", "seen", "American", "Casino", "before", "staying", "here", ",", "then", "got", "to", "watch", "a", "couple", "of", "episodes", "after", "staying", "."], "e1_text": "watch", "e1_pos": 13, "e2_text": "staying", "e2_pos": 7, "label": "after"}
+]

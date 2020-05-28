@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "tried", "the", "mexican", "pizza", "-LRB-", "B", "-", "-RRB-", ",", "the", "mushroom", "wrap", "-LRB-", "C", "-RRB-", ",", "and", "the", "buffalo", "chicken", "pizza", "-LRB-", "D", "-", ",", "and", "double", "negative", "for", "getting", "my", "order", "of", "no", "gorgonzola", "wrong", "not", "once", "but", "twice", "-RRB-", "The", "portions", "are", "ok", ",", "the", "service", "is", "hit", "and", "miss", ",", "the", "patio", "seating", "outside", "is", "nice", "-", "basically", ",", "I", "'d", "spend", "my", "money", "at", "a", "million", "other", "places", "before", "wasting", "it", "here", "."], "e1_text": "spend", "e1_pos": 66, "e2_text": "wasting", "e2_pos": 75, "label": "before"}
+]

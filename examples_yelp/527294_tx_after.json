@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "I", "should", "n't", "expect", "too", "much", "after", "eating", "at", "various", "ramen", "shops", "in", "Japan", ",", "but", "the", "ramen", "at", "this", "place", "was", "salty", "and", "there", "was", "nothing", "really", "going", "for", "it", "."], "e1_text": "expect", "e1_pos": 5, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

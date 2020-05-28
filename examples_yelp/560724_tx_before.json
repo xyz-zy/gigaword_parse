@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "DH", "had", "not", "even", "gotten", "butt", "in", "chair", "before", "the", "server", "asked", "for", "drink", "orders", "-LRB-", "seriously", ",", "he", "was", "still", "standing", "!", "-RRB-", "."], "e1_text": "gotten", "e1_pos": 5, "e2_text": "asked", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "had", "not", "even", "eaten", "a", "single", "wing", "before", "the", "entrees", "were", "served", "."], "e1_text": "eaten", "e1_pos": 4, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

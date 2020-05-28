@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "starters", ",", "you", "really", "need", "to", "get", "there", "at", "least", "30", "minutes", "before", "the", "movie", "starts", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "starts", "e2_pos": 16, "label": "before"},
+{"tokens": ["Definitely", "not", "a", "place", "to", "come", "to", "on", "a", "budget", ",", "if", "you", "include", "the", "price", "of", "movie", "tickets", ",", "couple", "drinks", ",", "couple", "of", "snacks", "easily", "could", "spend", "$", "60", "before", "you", "even", "realize", "it", "."], "e1_text": "spend", "e1_pos": 28, "e2_text": "realize", "e2_pos": 34, "label": "before"}
+]

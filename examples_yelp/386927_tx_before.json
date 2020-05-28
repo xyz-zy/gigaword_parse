@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "make", "a", "point", "to", "see", "how", "long", "it", "takes", "before", "someone", "comes", "and", "ask", "if", "we", "'d", "like", "a", "box", "and", "ask", "if", "we", "are", "ready", "for", "our", "check", "."], "e1_text": "takes", "e1_pos": 9, "e2_text": "comes", "e2_pos": 12, "label": "before"}
+]

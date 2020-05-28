@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "have", "to", "flag", "down", "the", "waitresses", "to", "get", "a", "drink", "10", "minutes", "after", "you", "are", "seated", ",", "then", "flag", "another", "one", "down", "to", "get", "chips", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "are", "e2_pos": 16, "label": "after"}
+]

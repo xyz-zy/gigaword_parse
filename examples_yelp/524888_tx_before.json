@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "him", "that", "I", "had", "been", "there", "a", "few", "times", "before", ",", "and", "I", "always", "tipped", ",", "but", "today", "I", "did", "n't", "feel", "a", "tip", "was", "warranted", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["He", "said", "that", "he", "knew", "I", "'d", "been", "there", "before", ",", "and", "that", "I", "never", "tipped", "because", "others", "had", "told", "him", "so", ",", "and", "that", "he", "went", "over", "all", "the", "credit\\/debit", "vouchers", "personally", "and", "remembered", "me", "."], "e1_text": "knew", "e1_pos": 4, "e2_text": "'d", "e2_pos": 6, "label": "before"}
+]

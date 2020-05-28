@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "after", "the", "guy", "tried", "to", "tell", "me", "that", "my", "breaks", "needed", "to", "be", "changed", ",", "which", "was", "not", "true", ",", "as", "they", "were", "changed", "2", "days", "before", "I", "brought", "my", "car", "in", "the", "second", "time", "I", "brought", "it", "in", "to", "have", "an", "oil", "change", ",", "I", "watched", "the", "whole", "time", "except", "when", "they", "were", "putting", "the", "oil", "in", "."], "e1_text": "changed", "e1_pos": 14, "e2_text": "brought", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "asked", "the", "mechanic", "if", "he", "put", "the", "diagram", "of", "the", "tires", "before", "or", "after", "he", "rotated", "them", ",", "he", "could", "n't", "tell", "me", "."], "e1_text": "put", "e1_pos": 6, "e2_text": "rotated", "e2_pos": 16, "label": "before"}
+]

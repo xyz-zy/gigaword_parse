@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "realized", "shortly", "after", "that", "our", "food", "just", "stopped", "coming", "...", "all", "the", "while", "the", "food", "for", "the", "parties", "surrounding", "us", "-LRB-", "who", "ordered", "their", "food", "after", "us", "-RRB-", "were", "getting", "their", "food", "in", "a", "timely", "manner", "."], "e1_text": "realized", "e1_pos": 1, "e2_text": "stopped", "e2_pos": 8, "label": "after"}
+]

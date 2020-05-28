@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "you", "read", "in", "my", "original", "review", ",", "after", "purchasing", "a", "booklet", "of", "deals", "I", "had", "a", "horrible", "experience", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "purchasing", "e2_pos": 9, "label": "after"},
+{"tokens": ["Now", ",", "you", "could", "very", "easily", "ask", "why", "I", "would", "ever", "make", "a", "third", "appointment", ",", "well", "that", "'s", "simple", ",", "my", "services", "were", "already", "paid", "for", "and", "after", "complaining", "three", "times", "-LRB-", "on", "the", "phone", ",", "via", "Facebook", "and", "in", "person", "-RRB-", "I", "was", "assured", "I", "would", "not", "have", "the", "same", "stylist", "as", "my", "first", "two", "visits", "."], "e1_text": "paid", "e1_pos": 25, "e2_text": "complaining", "e2_pos": 29, "label": "after"}
+]

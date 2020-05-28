@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "knew", "she", "knew", "I", "was", "there", "but", "she", "made", "a", "point", "not", "to", "make", "eye", "contact", "with", "me", "until", "my", "friend", "came", "over", "from", "the", "bakery", "side", "after", "ordering", "her", "smoothie", "to", "ask", "me", "what", "the", "hold", "up", "was", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 29, "label": "after"},
+{"tokens": ["It", "took", "15", "minutes", "to", "get", "it", "and", "that", "would", "be", "30", "minutes", "after", "changing", "to", "lunch", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "changing", "e2_pos": 14, "label": "after"}
+]

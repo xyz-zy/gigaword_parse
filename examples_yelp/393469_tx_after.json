@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "second", "issue", "I", "had", "was", "after", "ordering", "veggie", "spring", "rolls", "with", "my", "vegetarian", "girlfriend", ",", "we", "were", "served", "spring", "rolls", "with", "PORK", "in", "them", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "ordering", "e2_pos": 7, "label": "after"}
+]

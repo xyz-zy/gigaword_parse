@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "I", "was", "dressed", "nicely", "in", "a", "button", "up", "shirt", ",", "and", "was", "wearing", "my", "favorite", "football", "team", "hat", "who", "had", "just", "won", "the", "championship", "the", "day", "before", "."], "e1_text": "wearing", "e1_pos": 16, "e2_text": "had", "e2_pos": 23, "label": "before"},
+{"tokens": ["No", "sooner", "had", "the", "idiot", "host", "left", "before", "we", "walked", "into", "the", "kitchen", "to", "get", "the", "manager", "to", "bitch", "him", "out", "about", "his", "insulting", "employee", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "walked", "e2_pos": 9, "label": "before"}
+]

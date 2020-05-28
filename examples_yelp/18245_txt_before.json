@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Many", "customers", "would", "take", "a", "couple", "of", "shots", "of", "Turkish", "Coffee", "before", "their", "workday", "began", "!", "-RRB-", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "began", "e2_pos": 15, "label": "before"}
+]

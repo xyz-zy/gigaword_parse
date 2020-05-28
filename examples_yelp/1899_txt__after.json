@@ -1,0 +1,3 @@
+[
+{"tokens": ["Hope", "you", "only", "need", "one", "round", "because", "after", "waiting", "30", "minutes", "to", "try", "to", "order", "a", "second", "round", "we", "paid", "with", "exact", "change", "to", "save", "us", "from", "wasting", "another", "hours", "of", "our", "life", "."], "e1_text": "need", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

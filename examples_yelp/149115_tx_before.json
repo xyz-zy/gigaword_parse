@@ -1,0 +1,3 @@
+[
+{"tokens": ["Usually", "when", "not", "busy", "he", "will", "see", "me", "come", "up", "and", "prep", "my", "items", "before", "I", "even", "walk", "up", "."], "e1_text": "prep", "e1_pos": 11, "e2_text": "walk", "e2_pos": 17, "label": "before"}
+]

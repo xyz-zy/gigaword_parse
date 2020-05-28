@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "table", "that", "walked", "out", "got", "a", "new", "customer", "and", "they", "got", "their", "drinks", "and", "place", "their", "orders", "before", "we", "even", "met", "our", "waiter", "."], "e1_text": "place", "e1_pos": 15, "e2_text": "met", "e2_pos": 21, "label": "before"},
+{"tokens": ["=", "\\/", "no", "bueno", "15-20", "min", "went", "by", "before", "before", "or", "waiting", "came", "to", "the", "table", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "was", "n't", "cleaned", "after", "we", "returned", "back", "to", "our", "room", "."], "e1_text": "cleaned", "e1_pos": 3, "e2_text": "returned", "e2_pos": 6, "label": "after"},
+{"tokens": ["By", "the", "time", "we", "left", "after", "three", "and", "a", "half", "days", ",", "people", "knew", "our", "name", "and", "we", "are", "by", "no", "means", "heavy", "gamblers", "or", "big", "spenders", ",", "so", "that", "felt", "nice", "."], "e1_text": "left", "e1_pos": 4, "e2_text": "knew", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "main", "issue", "was", "that", "10", "minutes", "after", "we", "got", "that", ",", "we", "are", "still", "waiting", "on", "my", "husband", "'s", "dinner", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["But", ",", "no", ",", "the", "server", "disappeared", "after", "dropping", "off", "the", "food", "and", "never", "came", "back", "."], "e1_text": "disappeared", "e1_pos": 6, "e2_text": "dropping", "e2_pos": 8, "label": "after"}
+]

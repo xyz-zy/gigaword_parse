@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitress", "was", "nice", ",", "but", "it", "speaks", "something", "about", "the", "establishment", "when", "a", "full", "24", "hours", "after", "they", "discover", "an", "issue", "with", "carbonation", "at", "the", "bar", ",", "that", "they", "A", "-RRB-", "still", "do", "n't", "fix", "it", "and", "B", "-RRB-", "continue", "serving", "carbonated", "beverages", "."], "e1_text": "speaks", "e1_pos": 6, "e2_text": "discover", "e2_pos": 18, "label": "after"}
+]

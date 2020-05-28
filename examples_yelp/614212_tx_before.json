@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "are", "no", "facilities", "so", "make", "sure", "you", "use", "the", "restroom", "before", "you", "arrive", "."], "e1_text": "use", "e1_pos": 8, "e2_text": "arrive", "e2_pos": 13, "label": "before"}
+]

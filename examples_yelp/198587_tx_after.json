@@ -1,0 +1,5 @@
+[
+{"tokens": ["Nobody", "was", "ever", "carded", "because", "they", "remember", "us", ",", "she", "said", "so", "herself", "after", "I", "told", "her", "exactly", "what", "happened", "."], "e1_text": "said", "e1_pos": 10, "e2_text": "told", "e2_pos": 15, "label": "after"},
+{"tokens": ["Third", "of", "all", ",", "before", "even", "letting", "me", "finish", "my", "side", "of", "the", "story", "after", "her", "being", "wrong", "a", "few", "times", ",", "she", "did", "n't", "kindly", "ask", "me", "to", "apologize", "."], "e1_text": "finish", "e1_pos": 8, "e2_text": "being", "e2_pos": 16, "label": "after"},
+{"tokens": ["Not", "only", "do", "you", "want", "an", "apology", "from", "me", "after", "demanding", "it", ",", "but", "you", "also", "blatantly", "stare", "at", "me", "from", "the", "greeters", "podium", "as", "I", "leave", "?"], "e1_text": "want", "e1_pos": 4, "e2_text": "demanding", "e2_pos": 10, "label": "after"}
+]

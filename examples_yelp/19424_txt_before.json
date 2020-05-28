@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "that", "I", "'ve", "ever", "had", "chicken", "fried", "steak", "before", ",", "and", "I", "do", "n't", "know", "that", "I", "would", "ever", "have", "it", "again", "-LRB-", "the", "idea", "of", "frying", "steak", "just", "does", "n't", "sit", "well", "with", "me", "...", "if", "I", "'m", "gon", "na", "eat", "steak", ",", "I", "want", "to", "taste", "it", "-RRB-", ",", "but", "this", "CFS", "was", "fairly", "good", "."], "e1_text": "know", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 6, "label": "before"}
+]

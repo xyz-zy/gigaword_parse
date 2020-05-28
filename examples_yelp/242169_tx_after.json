@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thanked", "them", "but", "did", "not", "receive", "gratitude", "in", "return", ",", "not", "even", "after", "leaving", "a", "$", "5", "tip", "on", "a", "so", "so", "$", "21", "haircut", "."], "e1_text": "receive", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 14, "label": "after"}
+]

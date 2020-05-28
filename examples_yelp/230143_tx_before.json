@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "lived", "in", "Phoenix", "for", "a", "while", "now", ",", "I", "even", "lived", "in", "downtown", "Phoenix", "when", "they", "''", "``", "almost", "''", "''", "got", "a", "championship", ",", "but", "before", "I", "met", "my", "husband", "I", "really", "had", "no", "opinion", "on", "the", "Suns", "."], "e1_text": "lived", "e1_pos": 12, "e2_text": "met", "e2_pos": 30, "label": "before"}
+]

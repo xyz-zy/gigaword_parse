@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "having", "my", "car", "for", "an", "entire", "week", "and", "not", "calling", "me", "once", ",", "after", "I", "'ve", "called", "twice", ",", "the", "man", "on", "the", "phone", "told", "me", "it", "was", "ready", "to", "pick", "up", ",", "nothing", "wrong", "with", "it", "."], "e1_text": "calling", "e1_pos": 10, "e2_text": "'ve", "e2_pos": 16, "label": "after"}
+]

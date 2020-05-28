@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Note", ":", "toes", "were", "just", "fine", ",", "even", "after", "slamming", "into", "shoes", "for", "interview", ";", "four", "hours", "afterward", ",", "my", "fingernails", "were", "still", "mushy", "and", "pitting", "!", "-RRB-"], "e1_text": "were", "e1_pos": 4, "e2_text": "slamming", "e2_pos": 10, "label": "after"}
+]

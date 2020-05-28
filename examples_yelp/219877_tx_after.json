@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "in", "Phoenix", "on", "business", "and", "visited", "this", "place", "after", "my", "boss", "raved", "about", "it", "...", "I", "sat", "at", "the", "bar", "which", "is", "very", "spacious", ";", "a", "long", "triangle", "of", "black", "marble", ",", "ringed", "by", "a", "number", "of", "small", "tables", "and", "booths", "."], "e1_text": "visited", "e1_pos": 7, "e2_text": "raved", "e2_pos": 13, "label": "after"}
+]

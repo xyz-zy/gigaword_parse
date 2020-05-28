@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "did", "they", "close", "at", "7", ",", "but", "the", "two", "girls", "only", "gave", "me", "and", "my", "boyfriend", "a", "ONE", "MINUTE", "warning", "before", "they", "closed", "."], "e1_text": "gave", "e1_pos": 13, "e2_text": "closed", "e2_pos": 24, "label": "before"}
+]

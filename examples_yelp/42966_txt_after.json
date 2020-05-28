@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "half", "hour", "was", "great", ":", "excellent", "haircut", ",", "a", "shave", "I", "did", "n't", "need", "but", "which", "impressed", "the", "wife", ",", "shoe", "shine", ",", "offer", "for", "a", "shampoo", "which", "I", "declined", "three", "hours", "after", "I", "washed", "my", "hair", "."], "e1_text": "declined", "e1_pos": 30, "e2_text": "washed", "e2_pos": 35, "label": "after"}
+]

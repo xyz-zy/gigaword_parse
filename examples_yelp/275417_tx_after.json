@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "i", "'ve", "used", "plenty", "of", "these", "certificates", "with", "alchohol", "-RRB-", "and", "we", "ALWAYS", "TIP", "25", "%", "+", "-LRB-", "on", "the", "original", "-RRB-", "when", "using", "these", "...", "just", "for", "the", "record", ":-RRB-", "We", "like", "them", "because", "it", "saves", "a", "few", "dollars", ",", "even", "after", "leaving", "a", "really", "great", "tip", "...", "we", "'ve", "both", "worked", "in", "the", "industry", ",", "and", "wont", "leave", "less", "than", "25", "%", "...", "just", "dont", "treat", "us", "like", "shit", "!"], "e1_text": "using", "e1_pos": 24, "e2_text": "leaving", "e2_pos": 44, "label": "after"},
+{"tokens": ["-LRB-", "this", "happens", "after", "the", "certificate", "is", "used", ",", "and", "validated", ".", "-RRB-"], "e1_text": "happens", "e1_pos": 2, "e2_text": "is", "e2_pos": 6, "label": "after"}
+]

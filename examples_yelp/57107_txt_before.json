@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "got", "there", "before", "they", "opened", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "opened", "e2_pos": 6, "label": "before"},
+{"tokens": ["But", "again", ",", "I", "think", "they", "should", "go", "over", "the", "car", "before", "they", "allow", "someone", "to", "test", "drive", "it", ",", "and", "even", "before", "they", "know", "the", "person", "that", "'s", "going", "to", "buy", "it", "looks", "at", "it", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "allow", "e2_pos": 13, "label": "before"}
+]

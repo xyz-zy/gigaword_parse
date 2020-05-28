@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "the", "80", "'s", "music", "...", "did", "n't", "mind", "that", "but", "when", "I", "want", "to", "sleep", "before", "12am", "that", "bothered", "me", "a", "bit", "."], "e1_text": "sleep", "e1_pos": 16, "e2_text": "bothered", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "time", "on", "a", "Monday", "morning", "we", "arrive", "15", "minutes", "before", "breakfast", "ends", ",", "they", "say", "we", "have", "to", "wait", "15", "minutes", "to", "be", "seated", "for", "lunch", "to", "start", ",", "and", "mind", "you", "there", "are", "plenty", "of", "tables", "."], "e1_text": "arrive", "e1_pos": 7, "e2_text": "ends", "e2_pos": 12, "label": "before"}
+]

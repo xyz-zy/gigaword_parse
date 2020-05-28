@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "found", "a", "GROUPON", "for", "an", "oil", "change", "and", "brakes", "for", "$", "69.00", "I", "made", "an", "appointment", "at", "10", "am", ",", "after", "being", "there", "for", "over", "two", "hours", "another", "lady", "came", "in", "and", "asked", "me", "if", "I", "had", "a", "GROUPON", "too", "."], "e1_text": "made", "e1_pos": 14, "e2_text": "being", "e2_pos": 22, "label": "after"}
+]

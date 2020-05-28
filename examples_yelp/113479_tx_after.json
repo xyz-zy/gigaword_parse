@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "for", "a", "while", "for", "him", "to", "come", "back", "after", "giving", "us", "the", "drink", "menus", "."], "e1_text": "come", "e1_pos": 8, "e2_text": "giving", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "did", "not", "eat", "until", "about", "7:45", "pm", ",", "which", "is", "unacceptable", "!!!", "I", "have", "a", "busy", "life", "and", "was", "not", "expecting", "to", "have", "to", "wait", "all", "night", "for", "a", "meal", "after", "a", "long", "day", "of", "work", "!!!!!", "My", "guy", "friend", "that", "I", "was", "with", "who", "loves", "this", "place", ",", "reassured", "me", "that", "it", "is", "not", "always", "like", "this", ",", "but", "I", "am", "still", "annoyed", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "!!!!!", "e2_pos": 37, "label": "after"}
+]

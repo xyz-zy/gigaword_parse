@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "items", "arrived", "cold", "to", "our", "table", "...", "the", "cheese", "on", "the", "nachos", "had", "solidified", ",", "leading", "me", "to", "believe", "our", "items", "sat", "ready", "in", "the", "kitchen", "for", "a", "while", "before", "our", "rather", "unattentive", "server", "finally", "brought", "them", "to", "us", "."], "e1_text": "sat", "e1_pos": 22, "e2_text": "brought", "e2_pos": 36, "label": "before"}
+]

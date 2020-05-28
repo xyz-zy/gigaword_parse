@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "Good", "Samartian", "turned", "it", "right", "after", "I", "left", "it", ",", "28", "hours", "prior", "!"], "e1_text": "turned", "e1_pos": 3, "e2_text": "left", "e2_pos": 8, "label": "after"},
+{"tokens": ["Store", "never", "called", "me", "after", "28", "hours", "of", "agonizing", ",", "changing", "passwords", ",", "wasted", "police", "&", "my", "time", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "wasted", "e2_pos": 13, "label": "after"}
+]

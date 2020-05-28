@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "The", "studio", "were", "set", "up", "fairly", "nicely", ",", "aprons", "were", "provided", ",", "and", "the", "artist", "'s", "canvas", "was", "shown", "live", "on", "a", "big", "screen", "TV", "above", "the", "stage", "so", "that", "everyone", "could", "see", "what", "she", "was", "doing", ",", "which", "was", "a", "very", "nice", "touch", "that", "we", "had", "not", "seen", "before", "."], "e1_text": "shown", "e1_pos": 19, "e2_text": "had", "e2_pos": 47, "label": "before"},
+{"tokens": ["It", "was", "nice", "not", "to", "have", "to", "get", "all", "of", "that", "for", "ourselves", "before", "the", "class", "started", ",", "as", "there", "would", "have", "been", "a", "traffic", "jam", "with", "all", "of", "the", "people", "around", "the", "paint", "area", "."], "e1_text": "have", "e1_pos": 5, "e2_text": "started", "e2_pos": 16, "label": "before"}
+]

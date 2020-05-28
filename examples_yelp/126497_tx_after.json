@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "went", "here", "after", "watching", "Guy", "Fieri", "'s", "show", "on", "the", "Food", "Network", "and", "came", "specifically", "for", "the", "stromboli", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "watching", "e2_pos": 4, "label": "after"},
+{"tokens": ["When", "we", "got", "there", ",", "there", "was", "1", "waitress", "managing", "the", "whole", "restaurant", "...", "after", "waiting", "about", "10", "minutes", "-LRB-", "after", "being", "seated", "-RRB-", ",", "we", "were", "given", "menus", "and", "a", "different", "waitress", "who", "goes", "by", "the", "nickname", "''", "``", "Hot", "Rod", "''", "''", "took", "our", "orders", "."], "e1_text": "managing", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "were", "given", "saltines", "and", "croutons", "about", "50", "minutes", "after", "being", "seated", "...", "we", "were", "so", "hungry", "we", "chomped", "on", "packets", "of", "saltines", "to", "whet", "our", "appetites", "."], "e1_text": "given", "e1_pos": 2, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

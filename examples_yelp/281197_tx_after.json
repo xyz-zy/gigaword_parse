@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "give", "it", "two", "stars", ",", "instead", "of", "one", ",", "because", "-LRB-", "1", "-RRB-", "it", "was", "once", "an", "amazing", "restaurant", "and", "-LRB-", "2", "-RRB-", "the", "manager", "was", "concerned", "and", "decent", "enough", "to", "take", "my", "disgusting", "entree", "off", "the", "bill", "after", "the", "waitress", "told", "him", "we", "were", "unhappy", "."], "e1_text": "take", "e1_pos": 32, "e2_text": "told", "e2_pos": 42, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "'d", "never", "been", "to", "Scottsdale", "before", "so", "after", "suggesting", "many", "great", "local", "restaurants", ",", "we", "decided", "on", "Whiskey", "Row", "!"], "e1_text": "been", "e1_pos": 3, "e2_text": "suggesting", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "ordered", "an", "appetizer", "immediately", "after", "receiving", "our", "drinks", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 6, "label": "after"}
+]

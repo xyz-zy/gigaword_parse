@@ -1,0 +1,3 @@
+[
+{"tokens": ["Instead", "we", "made", "a", "purchase", "at", "the", "bar", "that", "had", "totaled", "17", "$", "and", "later", "tried", "to", "get", "an", "additional", "drink", "and", "after", "it", "was", "made", ",", "was", "told", "we", "needed", "to", "spend", "20", "$", "before", "we", "could", "use", "a", "card", "to", "pay", "for", "it", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

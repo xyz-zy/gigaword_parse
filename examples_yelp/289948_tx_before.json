@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "headed", "to", "Vegas", "from", "San", "Diego", "and", "wanted", "to", "stop", "before", "getting", "to", "the", "Strip", "."], "e1_text": "stop", "e1_pos": 11, "e2_text": "getting", "e2_pos": 13, "label": "before"},
+{"tokens": ["Shame", "on", "us", "for", "not", "tasting", "our", "drinks", "before", "driving", "away", "."], "e1_text": "tasting", "e1_pos": 5, "e2_text": "driving", "e2_pos": 9, "label": "before"}
+]

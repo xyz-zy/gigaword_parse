@@ -1,0 +1,3 @@
+[
+{"tokens": ["Le", "sigh", "...", "Prosciutto", "wrapped", "chicken", "was", "salty", "and", "a", "bit", "on", "the", "dry", "side", ",", "possibly", "because", "they", "had", "prepped", "the", "meat", "in", "advance", "and", "the", "salt", "in", "the", "prosciutto", "sucked", "all", "the", "moisture", "out", "of", "the", "chicken", "and", "made", "the", "chicken", "very", "salty", "before", "they", "finally", "baked", "it", "."], "e1_text": "made", "e1_pos": 40, "e2_text": "baked", "e2_pos": 48, "label": "before"}
+]

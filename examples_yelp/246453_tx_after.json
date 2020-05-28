@@ -1,0 +1,3 @@
+[
+{"tokens": ["Employees", "friendly", ",", "but", "still", "got", "a", "one", "drink", "order", "wrong", "after", "confirming", "at", "drive", "thru", "speaker", "when", "ordered", "and", "at", "window", "where", "you", "pay", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "confirming", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "we", "went", "ahead", "and", "decided", "to", "give", "it", "a", "try", "before", "reaching", "any", "conclusion", "."], "e1_text": "give", "e1_pos": 7, "e2_text": "reaching", "e2_pos": 12, "label": "before"},
+{"tokens": ["After", "we", "got", "salad", "and", "soup", "from", "the", "salad", "bar", ",", "we", "must", "have", "waited", "like", "10", "-15", "min", "before", "two", "staff", "came", "out", "with", "skewers", "of", "meat", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

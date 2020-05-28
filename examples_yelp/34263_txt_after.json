@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "very", "disappointed", "in", "this", "restaurant", "after", "finding", "two", "other", "Yelp", "reviews", "with", "5", "-", "and", "4-star", "ratings", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "finding", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "could", "go", "on", ",", "but", "suffice", "to", "say", "I", "threw", "away", "about", "half", "this", "meal", ",", "and", "then", "fought", "the", "after-taste", "for", "a", "little", "while", "after", "leaving", "."], "e1_text": "fought", "e1_pos": 19, "e2_text": "leaving", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "mom", "and", "I", "stopped", "here", "for", "lunch", "today", "after", "going", "to", "the", "grand", "opening", "of", "Winco", ",", "neither", "of", "us", "have", "been", "here", "before", "so", "we", "figured", "why", "not", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "going", "e2_pos": 10, "label": "after"}
+]

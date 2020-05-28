@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "tasty", "though", "I", "did", "n't", "really", "eat", "much", "because", "an", "hour", "before", "going", ",", "I", "had", "just", "stuffed", "myself", "at", "a", "buffet", "the", "way", "you", "do", "when", "visiting", "Vegas", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "going", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "went", "here", "for", "the", "first", "time", "after", "seeing", "the", "sign", "several", "times", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "food", "feels", "healthy", ",", "not", "as", "bad", "feeling", "as", "fast", "food", "after", "eating", "it", "."], "e1_text": "feels", "e1_pos": 2, "e2_text": "eating", "e2_pos": 13, "label": "after"}
+]

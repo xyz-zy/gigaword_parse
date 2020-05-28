@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "really", "looking", "forward", "to", "trying", "this", "place", ",", "especially", "after", "seeing", "that", "Phoenix", "magazine", "voted", "their", "upside", "down", "peanut", "butter", "brownie", "the", "best", "dessert", "in", "Phoenix", "."], "e1_text": "looking", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 12, "label": "after"},
+{"tokens": ["And", "that", "was", "only", "after", "I", "asked", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "asked", "e2_pos": 6, "label": "after"}
+]

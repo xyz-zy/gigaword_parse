@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "seeing", "him", "a", "few", "months", "back", "after", "I", "did", "n't", "quite", "notice", "any", "improvement", "from", "one", "treatment", "to", "the", "next\\/any", "improment", "over", "the", "course", "of", "seeing", "him", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "did", "e2_pos": 10, "label": "after"},
+{"tokens": ["He", "could", "have", "told", "me", ",", "after", "one", "visit", ",", "that", "he", "was", "n't", "covered", "under", "my", "insurance", "'s", "co-pay", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

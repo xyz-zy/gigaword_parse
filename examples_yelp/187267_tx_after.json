@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "get", "up", "and", "leave", "after", "sitting", "in", "our", "booth", "for", "20", "minutes", ",", "completely", "ignored", "."], "e1_text": "leave", "e1_pos": 6, "e2_text": "sitting", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "embarrassed", "after", "telling", "my", "parents", "that", "we", "would", "be", "taking", "them", "to", "somewhere", "special", "for", "lunch", "while", "shopping", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "telling", "e2_pos": 4, "label": "after"}
+]

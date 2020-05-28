@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "then", "walked", "away", "to", "another", "table", "before", "giving", "us", "a", "chance", "to", "place", "drink", "orders", "at", "least", "."], "e1_text": "walked", "e1_pos": 3, "e2_text": "giving", "e2_pos": 9, "label": "before"},
+{"tokens": ["Again", ",", "I", "have", "no", "opinion", "of", "their", "food", "because", "thr", "service", "was", "bad", "enough", "to", "cause", "us", "to", "leave", "before", "even", "ordering", "."], "e1_text": "leave", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 22, "label": "before"}
+]

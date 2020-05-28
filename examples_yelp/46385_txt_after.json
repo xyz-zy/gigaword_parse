@@ -1,0 +1,4 @@
+[
+{"tokens": ["1", "week", "later", "I", "was", "back", "after", "paying", "$", "150", "for", "the", "oil", "change", "and", "air", "filter", "change", "with", "leaking", "oil", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "paying", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "give", "my", "car", "to", "him", "after", "10", "interrogating", "questions", "about", "what", "happened", "and", "wait", "."], "e1_text": "give", "e1_pos": 1, "e2_text": "happened", "e2_pos": 12, "label": "after"}
+]

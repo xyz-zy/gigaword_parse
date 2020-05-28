@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "recently", "stopped", "into", "Target", "before", "going", "in", "to", "Staples", "to", "compare", "pricing", "."], "e1_text": "stopped", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'m", "not", "opposed", "to", "stopping", "in", "here", "but", "I", "'ll", "make", "sure", "to", "do", "the", "homework", "before", "I", "purchase", "anything", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "purchase", "e2_pos": 19, "label": "before"}
+]

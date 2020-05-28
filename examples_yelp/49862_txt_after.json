@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ok", ",", "I", "'m", "writing", "this", "review", "after", "going", "to", "this", "place", "about", "4", "times", "."], "e1_text": "writing", "e1_pos": 4, "e2_text": "going", "e2_pos": 8, "label": "after"},
+{"tokens": ["When", "the", "owner", "started", "doing", "my", "nails", "she", "noticed", "I", "kept", "looking", "at", "my", "toes", "and", "she", "offered", "to", "take", "a", "look", "after", "my", "nails", "were", "done", "."], "e1_text": "take", "e1_pos": 19, "e2_text": "were", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "in", "here", "the", "day", "after", "I", "moved", "to", "Vegas", "because", "it", "was", "in", "the", "neighborhood", "and", "my", "feet", "were", "killing", "me", "after", "all", "that", "schlepping", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "moved", "e2_pos": 8, "label": "after"},
+{"tokens": ["A", "girl", "finally", "came", "over", "to", "help", "me", "after", "I", "started", "to", "get", "pruny", "and", "she", "was", "sweet", ",", "but", "strangely", ",", "our", "two", "pedicures", "finished", "at", "the", "same", "time", "--", "despite", "them", "starting", "him", "10-15", "minutes", "before", "me", "and", "despite", "me", "requiring", "polish", "."], "e1_text": "help", "e1_pos": 6, "e2_text": "started", "e2_pos": 10, "label": "after"}
+]

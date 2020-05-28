@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "told", "to", "leave", "30", "min", "before", "closing", "as", "we", "were", "the", "last", "customers", "there", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "closing", "e2_pos": 8, "label": "before"}
+]

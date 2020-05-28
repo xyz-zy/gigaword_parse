@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "year", "it", "was", "just", "the", "three", "of", "us", "and", "quite", "honestly", ",", "after", "waiting", "10", "minutes", "to", "get", "water", "I", "was", "already", "irritated", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 14, "label": "after"},
+{"tokens": ["No", "service", ",", "very", "busy", "yes", "but", "I", "had", "to", "get", "up", "and", "let", "the", "management", "know", "that", "we", "had", "been", "waiting", "for", "quite", "some", "time", "after", "being", "seated", "."], "e1_text": "waiting", "e1_pos": 21, "e2_text": "being", "e2_pos": 27, "label": "after"}
+]

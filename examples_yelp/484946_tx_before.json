@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "the", "variety", "of", "meat", ",", "beans", "and", "other", "toppings", "looked", "as", "if", "it", "has", "n't", "been", "refilled", ",", "reheated", ",", "or", "at", "least", "stirred", "before", "we", "reached", "the", "counters", "."], "e1_text": "stirred", "e1_pos": 24, "e2_text": "reached", "e2_pos": 27, "label": "before"}
+]

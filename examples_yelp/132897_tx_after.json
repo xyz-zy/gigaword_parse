@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ellis", "Island", ",", "I", "stuck", "with", "the", "even", "after", "you", "continually", "raised", "the", "price", "of", "your", "steak", "dinner", "from", "$", "4.99", "to", "$", "5.99", "to", "$", "6.99", "to", "what", "it", "is", "now", "$", "7.99", "."], "e1_text": "stuck", "e1_pos": 4, "e2_text": "raised", "e2_pos": 11, "label": "after"},
+{"tokens": ["Ellis", "Island", ",", "I", "stuck", "with", "you", "even", "after", "finding", "out", "that", "your", "''", "``", "center", "cut", "sirloin", "''", "''", "is", "indeed", "just", "beef", "scraps", "combined", "with", "meat", "glue", ",", "rolled", "up", "into", "a", "loaf", "and", "cut", "into", "''", "``", "steaks", ".", "''", "''"], "e1_text": "stuck", "e1_pos": 4, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

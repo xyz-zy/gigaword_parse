@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ll", "start", "off", "by", "saying", "that", "I", "'ve", "been", "to", "Danny", "'s", "several", "times", "before", "and", "they", "'ve", "done", "a", "-LRB-", "mostly", "-RRB-", "decent", "job", "washing", "my", "car", ",", "especially", "for", "the", "price", "."], "e1_text": "saying", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 8, "label": "before"},
+{"tokens": ["Admittedly", ",", "I", "had", "already", "waited", "almost", "2", "hours", ",", "after", "being", "told", "it", "would", "only", "be", "about", "35", "min", "for", "a", "wash", "and", "wax", ",", "so", "I", "was", "eager", "to", "leave", "and", "did", "n't", "give", "the", "car", "a", "full", "inspection", "before", "I", "left", "the", "property", "."], "e1_text": "give", "e1_pos": 35, "e2_text": "left", "e2_pos": 43, "label": "before"}
+]

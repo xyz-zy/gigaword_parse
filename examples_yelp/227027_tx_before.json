@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "have", "yelp", "this", "place", "before", "I", "came", "in", ",", "they", "spilled", "a", "large", "glass", "on", "accident", "on", "me", ",", "they", "forget", "one", "of", "our", "orders", "and", "the", "food", "sucks", ",", "I", "do", "n't", "like", "to", "give", "bad", "reviews", "."], "e1_text": "yelp", "e1_pos": 3, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

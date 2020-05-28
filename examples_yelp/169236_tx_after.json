@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "to", "update", "my", "review", "-", "imagine", "my", "surprise", ",", "when", "after", "seeing", "a", "magic", "show", "with", "the", "kids", "at", "the", "Riviera", ",", "we", "passed", "the", "Peppermill", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 13, "label": "after"},
+{"tokens": ["This", "time", ",", "we", "were", "here", "with", "the", "kids", ",", "and", "we", "had", "a", "fantastic", "night", "-", "maybe", "the", "best", "night", "of", "our", "whole", "trip", ",", "because", "after", "feeding", "Thing", "1", "and", "Thing", "2", "a", "massive", "burger", "\\/", "pancake", "\\/", "french", "toast", "\\/", "whatever", "the", "hell", "they", "ate", "they", "insisted", "on", "having", "a", "dessert", ".", "''", "''"], "e1_text": "had", "e1_pos": 12, "e2_text": "feeding", "e2_pos": 28, "label": "after"}
+]

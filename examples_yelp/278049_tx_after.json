@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "the", "beautiful", "floral", "arrangement", "was", "delivered", "to", "my", "mother-in-law", "'s", "door", "step", "within", "1", "hour", "and", "half", "after", "I", "placed", "the", "order", "over", "the", "phone", ",", "on", "a", "Sunday", "!"], "e1_text": "delivered", "e1_pos": 6, "e2_text": "placed", "e2_pos": 20, "label": "after"}
+]

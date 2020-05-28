@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "gave", "it", "to", "me", "right", "after", "i", "ate", "lunch", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "ate", "e2_pos": 8, "label": "after"},
+{"tokens": ["Topped", "with", "fresh", "fruit", "-LRB-", "strawberries", ",", "bananas", ",", "blueberries", ",", "and", "coconut", "shavings", "-RRB-", ",", "to", "me", ",", "first", "thought", "...", "''", "``", "this", "is", "what", "i", "should", "eat", "after", "going", "to", "the", "gym", "huh", "...", "''", "''", "XD", "The", "Traditional", "Acai", "-LRB-", "Ah-sa-ee", "-RRB-", "bowl", "is", "made", "with", "organic", "acai", ",", "guarana", "-LRB-", "apparently", "rich", "in", "caffeine", "-RRB-", ",", "strawberries", ",", "non-fat", "frozen", "yogurt", "blended", "w", "\\/", "choice", "of", "apple", "juice", ",", "coconut", "milk", ",", "or", "soy", "milk", "."], "e1_text": "eat", "e1_pos": 29, "e2_text": "going", "e2_pos": 31, "label": "after"}
+]

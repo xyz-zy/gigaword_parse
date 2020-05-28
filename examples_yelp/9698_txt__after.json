@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "make", "matters", "worse", ",", "the", "food", "was", "n't", "that", "great", ",", "it", "was", "served", "only", "after", "waiting", "for", "a", "while", ",", "and", "it", "was", "n't", "exactly", "what", "I", "ordered", "-LRB-", "my", "over-medium", "eggs", "were", "scrambled", "-RRB-", "."], "e1_text": "served", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

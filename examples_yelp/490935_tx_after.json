@@ -1,0 +1,4 @@
+[
+{"tokens": ["Downers", ":", "1", "-RRB-", "They", "forgot", "our", "shakes", "and", "brought", "them", "after", "our", "meal", "was", "served", "and", "almost", "finished", "2", "-RRB-", "They", "forgot", "our", "order", "and", "we", "had", "to", "hunt", "someone", "down", "to", "get", "it", "put", "in", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "was", "e2_pos": 14, "label": "after"},
+{"tokens": ["Finally", "he", "suggested", "giving", "us", "our", "shakes", "for", "free", "-LRB-", "the", "ones", "they", "forgot", "to", "order", "and", "brought", "after", "our", "meal", "-RRB-", "Really", "???", "5", "-RRB-", "The", "meat", "in", "the", "burgers", "were", "really", "small", ",", "nothing", "at", "all", "like", "the", "photos", "."], "e1_text": "brought", "e1_pos": 17, "e2_text": "???", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "canceled", "immediately", "after", "getting", "back", "in", "January", "2013", "but", "of", "course", "they", "could", "n't", "pull", "that", "info", "up", "-LRB-", "how", "convenient", "for", "them", "to", "scam", "me", "more", "money", "-RRB-", "."], "e1_text": "canceled", "e1_pos": 1, "e2_text": "getting", "e2_pos": 4, "label": "after"},
+{"tokens": ["Pretty", "soon", ",", "your", "airline", "company", "will", "be", "zero", "after", "I", "get", "the", "word", "out", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "get", "e2_pos": 11, "label": "after"},
+{"tokens": ["You", "do", "not", "take", "money", "after", "I", "actively", "called", "in", "to", "cancel", ",", "y", "membership", "big", "no", "no.", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "called", "e2_pos": 8, "label": "after"}
+]

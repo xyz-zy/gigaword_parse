@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "got", "to", "our", "seats", ",", "and", "I", "already", "knew", "what", "to", "order", ",", "since", "I", "did", "some", "research", "before", "going", "."], "e1_text": "did", "e1_pos": 17, "e2_text": "going", "e2_pos": 21, "label": "before"},
+{"tokens": ["The", "only", "problem", "is", "IT", "HAD", "NO", "FLAVOR", "!!!!!!", "Everything", "tasted", "the", "same", "...", "the", "chicken", "tasted", "like", "the", "eggs", ",", "the", "biscuit", "tasted", "like", "the", "chipotle", "sauce", "...", "there", "was", "no", "flavor", "at", "all", "...", "I", "'m", "a", "big", "guy", "who", "loves", "his", "food", ",", "but", "I", "probably", "had", "4", "bites", "before", "I", "just", "gave", "up", "hoping", "that", "the", "next", "bite", "was", "going", "to", "make", "it", "all", "better", "...", "it", "just", "was", "n't", "gon", "na", "happen", "."], "e1_text": "had", "e1_pos": 49, "e2_text": "gave", "e2_pos": 55, "label": "before"}
+]

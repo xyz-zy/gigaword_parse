@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "seem", "to", "fade", "after", "we", "had", "our", "dinner", "on", "the", "table", ",", "how", "your", "water", "glasses", "are", "handled", "is", "a", "good", "sign", "of", "how", "the", "management", "treats", "its", "customers", ",", "ours", "were", "rarely", "filled", "."], "e1_text": "fade", "e1_pos": 4, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "will", "no", "doubt", "choose", "Flemming", "'s", "next", "door", ",", "the", "price", "is", "higher", "but", "the", "experience", "is", "worth", "it", ",", "after", "all", "is", "n't", "that", "one", "of", "the", "reasons", "we", "go", "out", "to", "eat", "?"], "e1_text": "is", "e1_pos": 12, "e2_text": "is", "e2_pos": 12, "label": "after"}
+]

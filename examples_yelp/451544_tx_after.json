@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "arriving", "back", "at", "the", "room", ",", "my", "key", "did", "n't", "work", "!!", "The", "lady", "only", "made", "them", "for", "one", "night", ",", "even", "after", "we", "specifically", "asked", "to", "make", "sure", "they", "were", "made", "for", "both", "nights", "."], "e1_text": "made", "e1_pos": 16, "e2_text": "asked", "e2_pos": 26, "label": "after"},
+{"tokens": ["She", "wrote", "down", "all", "my", "information", ",", "had", "security", "meet", "me", "upstairs", "-LRB-", "after", "I", "sat", "in", "the", "hallway", "waiting", "for", "35", "minutes", "-RRB-", "so", "they", "could", "let", "me", "in", "the", "room", "to", "''", "``", "prove", "I", "was", "staying", "there", ".", "''", "''"], "e1_text": "meet", "e1_pos": 9, "e2_text": "sat", "e2_pos": 15, "label": "after"}
+]

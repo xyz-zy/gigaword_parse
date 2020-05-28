@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "say", "one", "positive", "thing", "before", "I", "launch", "into", "my", "tirade", ":", "the", "wait", "staff", "are", "very", "friendly", "and", "attentive", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "launch", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "'d", "go", "to", "Taco", "Bell", "before", "revisiting", "Cancun", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "revisiting", "e2_pos": 7, "label": "before"}
+]

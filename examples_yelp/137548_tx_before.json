@@ -1,0 +1,4 @@
+[
+{"tokens": ["prob", "bc", "we", "came", "in", "right", "before", "they", "were", "closing", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "before"},
+{"tokens": ["learn", "from", "my", "experience", "and", "do", "n't", "come", "in", "like", "hour", "before", "they", "close", "."], "e1_text": "come", "e1_pos": 7, "e2_text": "close", "e2_pos": 13, "label": "before"}
+]

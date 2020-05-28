@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "brought", "refills", "and", "the", "off", "the", "buffet", "orders", "to", "everyone", "else", ",", "we", "never", "received", "our", "second", "off", "the", "buffet", "order", ",", "after", "over", "30", "minutes", "of", "waiting", "we", "gave", "up", "and", "asked", "for", "our", "check", "."], "e1_text": "received", "e1_pos": 15, "e2_text": "waiting", "e2_pos": 28, "label": "after"},
+{"tokens": ["The", "dish", "staff", "brought", "us", "refills", "after", "passing", "our", "table", "a", "few", "times", "."], "e1_text": "refills", "e1_pos": 5, "e2_text": "passing", "e2_pos": 7, "label": "after"}
+]

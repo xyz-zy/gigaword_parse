@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hotel", "staff", "was", "exceptionally", "rude", "and", "it", "seemed", "they", "genuinely", "went", "out", "of", "their", "way", "to", "make", "my", "stay", "uncomfortable", "after", "I", "informed", "them", "about", "the", "roaches", "in", "my", "room", "and", "requested", "to", "be", "changed", "to", "a", "different", "room", "."], "e1_text": "make", "e1_pos": 17, "e2_text": "informed", "e2_pos": 23, "label": "after"}
+]

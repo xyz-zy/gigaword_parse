@@ -1,0 +1,4 @@
+[
+{"tokens": ["Frankly", ",", "theaters", "should", "really", "know", "better", "than", "to", "sell", "tickets", "after", "a", "movie", "has", "started", "if", "it", "means", "patrons", "who", "actually", "made", "it", "on", "time", ",", "are", "going", "to", "be", "disturbed", "."], "e1_text": "sell", "e1_pos": 9, "e2_text": "has", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "staff", "came", "in", "to", "start", "picking", "up", "all", "the", "crap", "that", "was", "lying", "around", "after", "people", "had", "started", "seating", "themselves", "."], "e1_text": "lying", "e1_pos": 13, "e2_text": "had", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["From", "wherever", "she", "ate", "it", "before", ",", "She", "expected", "it", "to", "be", "light", ",", "but", "it", "was", "in", "a", "heavy", "''", "``", "lemon", "syrup", "''", "''", "I", "tasted", "it", ",", "and", "my", "opinion", "was", "that", "it", "tasted", "like", "the", "lemon", "pie", "filling", "from", "those", "little", "dollar", "pies", "you", "get", "from", "the", "convenience", "store", "."], "e1_text": "ate", "e1_pos": 3, "e2_text": "expected", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "dad", "bought", "me", "an", "impressive", "Dell", "one", "when", "I", "started", "uni", "and", "it", "lasted", "about", "4", "months", "before", "it", "died", "."], "e1_text": "lasted", "e1_pos": 14, "e2_text": "died", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "I", "hunted", "around", "on", "the", "internet", "before", "deciding", "this", "PC", "World", "was", "a", "good", "bet", "."], "e1_text": "hunted", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 8, "label": "before"},
+{"tokens": ["There", "was", "plenty", "of", "staff", "wandering", "around", ",", "and", "we", "managed", "to", "have", "a", "good", "look", "before", "one", "of", "them", "pounced", "."], "e1_text": "have", "e1_pos": 12, "e2_text": "pounced", "e2_pos": 20, "label": "before"}
+]

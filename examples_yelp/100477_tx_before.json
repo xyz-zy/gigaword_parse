@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wish", "I", "had", "read", "the", "reviews", "before", "eating", "here", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "eating", "e2_pos": 7, "label": "before"},
+{"tokens": ["Thinking", "the", "fried", "rice", "would", "be", "the", "safe", "option", "we", "ended", "up", "having", "to", "remove", "all", "the", "chicken", "from", "the", "rice", "before", "we", "were", "comfortable", "eating", "it", "."], "e1_text": "remove", "e1_pos": 14, "e2_text": "were", "e2_pos": 23, "label": "before"}
+]

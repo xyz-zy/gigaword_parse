@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "card", "clearly", "states", "that", "you", "get", "one", "puch", "for", "every", "$", "10", "purchase", "and", "even", "after", "ordering", "those", "''", "``", "discounted", "''", "''", "lunch", "specials", ",", "with", "a", "drink", "and", "tax", ",", "it", "comes", "out", "to", "a", "little", "over", "$", "10", "."], "e1_text": "states", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 17, "label": "after"},
+{"tokens": ["They", "do", "n't", "really", "have", "one", ",", "do", "they", "??", "I", "wanted", "to", "say", "something", "to", "the", "manager", "who", "denied", "me", "the", "$", "10", "off", "but", "she", "was", "nowhere", "to", "be", "found", "after", "I", "was", "done", "with", "my", "meal", "and", "I", "had", "to", "get", "back", "to", "work", "."], "e1_text": "found", "e1_pos": 31, "e2_text": "was", "e2_pos": 27, "label": "after"}
+]

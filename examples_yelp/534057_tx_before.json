@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "seriously", "SERIOUSLY", "wished", "I", "had", "read", "the", "reviews", "before", "buying", "the", "voucher", "from", "LivingSocial", "...", "I", "never", "would", "have", "done", "it", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "buying", "e2_pos": 10, "label": "before"},
+{"tokens": ["Out", "of", "curiosity", ",", "I", "email", "them", "one", "last", "time", "before", "we", "check", "in", "to", "see", "if", "the", "hotel", "will", "hold", "a", "credit", "card", "number", "from", "us", "for", "incidentals", "."], "e1_text": "email", "e1_pos": 5, "e2_text": "check", "e2_pos": 12, "label": "before"}
+]

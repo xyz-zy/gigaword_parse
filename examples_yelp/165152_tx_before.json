@@ -1,0 +1,3 @@
+[
+{"tokens": ["MGM", "is", "a", "very", "large", "hotel", ",", "but", "due", "to", "the", "fact", "that", "my", "daughter", "had", "stayed", "there", "before", "-LRB-", "it", "was", "my", "first", "time", "-RRB-", ",", "it", "was", "easy", "getting", "around", "."], "e1_text": "stayed", "e1_pos": 16, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

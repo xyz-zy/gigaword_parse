@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "probably", "a", "good", "thing", "the", "floor", "was", "linoleum", "we", "decided", "after", "seeing", "the", "disgusting", "carpets", "in", "the", "hall", "ways", "."], "e1_text": "decided", "e1_pos": 11, "e2_text": "seeing", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "had", "to", "go", "to", "the", "front", "desk", "to", "get", "someone", "to", "do", "something", "after", "being", "on", "hold", "for", "20", "minutes", "."], "e1_text": "do", "e1_pos": 12, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

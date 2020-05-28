@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "woman", "ranted", "and", "raved", "for", "nearly", "an", "hour", "about", "how", "most", "of", "the", "sheets", "are", "stained", "and", "that", "the", "staff", "is", "supposed", "to", "check", "them", "before", "putting", "them", "on", "the", "bed", "."], "e1_text": "check", "e1_pos": 24, "e2_text": "putting", "e2_pos": 27, "label": "before"}
+]

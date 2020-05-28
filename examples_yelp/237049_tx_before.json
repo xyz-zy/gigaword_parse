@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "there", "for", "an", "hour", "and", "45", "minutes", "before", "we", "'d", "all", "paid", ",", "so", "things", "did", "move", "a", "bit", "slowly", ",", "but", "we", "did", "n't", "really", "mind", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "'d", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "waitress", "also", "brought", "our", "checks", "before", "asking", "if", "we", "wanted", "dessert", ",", "and", "I", "know", "some", "people", "wanted", "cake", ",", "so", "that", "might", "be", "in", "their", "best", "interest", "to", "fix", "!"], "e1_text": "brought", "e1_pos": 3, "e2_text": "asking", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "to", "ask", "for", "broccoli", "several", "times", "before", "it", "came", "out", ",", "cold", "."], "e1_text": "ask", "e1_pos": 2, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["Waiter", "came", "to", "check", "and", "knew", "before", "I", "told", "him", "that", "steak", "was", "overcooked", "."], "e1_text": "knew", "e1_pos": 5, "e2_text": "told", "e2_pos": 8, "label": "before"}
+]

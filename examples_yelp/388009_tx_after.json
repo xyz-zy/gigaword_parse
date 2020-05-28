@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "sure", "there", "are", "tables", "that", "like", "to", "linger", ",", "but", "it", "is", "really", "brutal", "to", "sit", "there", "for", "more", "than", "an", "hour", "after", "finishing", "your", "appetizers", "waiting", "for", "a", "main", "course", "."], "e1_text": "sit", "e1_pos": 17, "e2_text": "finishing", "e2_pos": 25, "label": "after"}
+]

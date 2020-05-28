@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "passed", "my", "friend", "up", "several", "times", "before", "letting", "him", "order", "his", "drink", "."], "e1_text": "passed", "e1_pos": 1, "e2_text": "letting", "e2_pos": 8, "label": "before"},
+{"tokens": ["What", "kind", "of", "bar", "runs", "out", "of", "bar", "food", "before", "the", "peak", "dinner", "crowd", "has", "even", "arrived", "????", "The", "fries", "were", "pretty", "good", "and", "our", "table", "service", "was", "very", "friendly", "at", "least", "."], "e1_text": "runs", "e1_pos": 4, "e2_text": "has", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "left", "half", "my", "steak", "-LRB-", "which", "I", "NEVER", "have", "done", "before", "-RRB-", "on", "the", "plate", "and", "our", "waiter", "did", "not", "ask", "if", "we", "enjoyed", "our", "dinners", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

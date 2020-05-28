@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "were", "shopping", "at", "the", "Carlsbad", "outlet", "mall", "back", "in", "September", "and", "were", "approached", "by", "a", "Bluegreen", "rep", ",", "He", "told", "us", "about", "a", "3", "day", "2", "night", "stay", "in", "Las", "Vegas", "for", "only", "$", "99", "and", "we", "would", "receive", "a", "$", "100", "in", "gift", "cards", "after", "completing", "a", "presentation", "about", "their", "vacation", "packages", "."], "e1_text": "receive", "e1_pos": 42, "e2_text": "completing", "e2_pos": 50, "label": "after"}
+]

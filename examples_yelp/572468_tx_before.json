@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "saw", "her", "regularly", "for", "bikini", "waxing", "for", "several", "months", "before", "noticing", "that", "she", "consistently", "double-dipped", "her", "sticks", "into", "the", "wax", "."], "e1_text": "waxing", "e1_pos": 6, "e2_text": "noticing", "e2_pos": 11, "label": "before"},
+{"tokens": ["Once", "I", "noticed", "these", "things", ",", "I", "resolved", "to", "find", "another", "aesthetician", "ASAP", ",", "but", "before", "I", "knew", "it", "four", "weeks", "had", "gone", "by", "and", "I", "did", "n't", "have", "time", "to", "research", "another", "salon", "."], "e1_text": "find", "e1_pos": 9, "e2_text": "knew", "e2_pos": 17, "label": "before"}
+]

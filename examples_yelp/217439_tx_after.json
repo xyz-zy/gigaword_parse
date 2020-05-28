@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "going", "to", "the", "Roosevelt", "since", "just", "after", "it", "opened", ",", "and", "I", "'m", "extremely", "pleased", "to", "see", "how", "it", "'s", "blossomed", "into", "such", "a", "lovely", "little", "bar", "with", "excellent", "patronage", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "opened", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "one", "gripe", "is", "that", "they", "keep", "it", "cold", "as", "a", "meat", "locker", "in", "there", ",", "and", "my", "little", "toesies", "need", "dethawing", "in", "the", "Arizona", "heat", "after", "I", "exit", "the", "building", "."], "e1_text": "dethawing", "e1_pos": 21, "e2_text": "exit", "e2_pos": 28, "label": "after"}
+]

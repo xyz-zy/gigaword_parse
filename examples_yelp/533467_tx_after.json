@@ -1,0 +1,4 @@
+[
+{"tokens": ["Haha", ",", "that", "was", "not", "the", "case", "because", "I", "waited", "2", "months", "after", "they", "opened", "to", "actually", "eat", "here", "."], "e1_text": "waited", "e1_pos": 9, "e2_text": "opened", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "know", "that", "for", "a", "fact", "because", "after", "we", "placed", "our", "order", ",", "another", "gentleman", "comes", "with", "a", "note", "pad", "and", "pen", "to", "ask", "us", "if", "we", "ordered", "already", "."], "e1_text": "know", "e1_pos": 1, "e2_text": "placed", "e2_pos": 9, "label": "after"}
+]

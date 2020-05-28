@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "happened", "with", "my", "drink", ",", "which", "ended", "up", "being", "passed", "down", "to", "me", "from", "the", "other", "end", "of", "the", "table", "after", "she", "`", "gave", "it", "away", "'", "to", "someone", "else", "."], "e1_text": "passed", "e1_pos": 10, "e2_text": "gave", "e2_pos": 24, "label": "after"},
+{"tokens": ["Our", "server", "needed", "constant", "reminding", "that", "people", "that", "were", "still", "missing", "meals", ",", "even", "15-20", "minutes", "after", "the", "first", "meals", "started", "coming", "out", "."], "e1_text": "missing", "e1_pos": 10, "e2_text": "started", "e2_pos": 20, "label": "after"}
+]

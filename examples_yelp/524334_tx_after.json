@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "one", "of", "the", "pups", "magically", "contracted", "Parvo", "after", "being", "vaccinated", "for", "it", "."], "e1_text": "contracted", "e1_pos": 7, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "advised", "us", "to", "take", "our", "pet", "to", "a", "local", "emergency", "pet", "hospital", "after", "spending", "2", "days", "in", "their", "''", "``", "hospital", "''", "''", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "spending", "e2_pos": 14, "label": "after"}
+]

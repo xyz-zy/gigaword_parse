@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "real", "attempt", "to", "eat", "here", "was", "this", "past", "weekend", "...", "late", "Saturday", "early", "Sunday", "but", "was", "disappointedly", "told", "that", "they", "do", "n't", "serve", "food", "after", "midnight", "-LRB-", "when", "half", "the", "car", "was", "highly", "intoxicated", "and", "seriously", "needed", "some", "food", "-RRB-", ":-LRB-", "Finally", "I", "went", "there", "last", "night", "for", "dinner", ",", "and", "my", "conclusion", "is", "a-ok", "."], "e1_text": "serve", "e1_pos": 23, "e2_text": ":-LRB-", "e2_pos": 41, "label": "after"},
+{"tokens": ["I", "remember", "eating", "at", "the", "old", "Diamond", "before", ",", "and", "the", "space", "was", "tight", "then", ",", "and", "it", "only", "got", "tighter", "now", "after", "squeezing", "in", "that", "bar", "."], "e1_text": "got", "e1_pos": 19, "e2_text": "squeezing", "e2_pos": 23, "label": "after"}
+]

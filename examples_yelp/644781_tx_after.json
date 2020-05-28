@@ -1,0 +1,3 @@
+[
+{"tokens": ["with", "that", ",", "i", "would", "assume", "that", "a", "NICE", "dinner", "for", "5", "-LRB-", "higher", "end", "-RRB-", "would", "run", "about", "$", "70", "-", "$", "80", "per", "head", "-LRB-", "after", "all", ",", "how", "much", "can", "you", "eat", "-RRB-", "...", "...", ".", "."], "e1_text": "run", "e1_pos": 17, "e2_text": "eat", "e2_pos": 34, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "must", "have", "said", "something", "to", "the", "Manager", "because", "he", "stopped", "by", "and", "by", "this", "time", "it", "was", "a", "full", "hour", "after", "I", "placed", "my", "order", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "placed", "e2_pos": 23, "label": "after"}
+]

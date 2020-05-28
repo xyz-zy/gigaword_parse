@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "remember", "always", "passing", "it", ",", "and", "sometimes", "stopping", "after", "Suns", "games", "when", "they", "still", "played", "at", "the", "Madhouse", "on", "McDowell", "for", "a", "late", "night", "treat", "."], "e1_text": "stopping", "e1_pos": 8, "e2_text": "played", "e2_pos": 15, "label": "after"},
+{"tokens": ["UPDATE", "-", "1\\/16\\/2008", "Upgrading", "to", "3", "stars", "after", "one", "of", "my", "co-workers", "grabbed", "two", "dozen", "donuts", "there", "this", "morning", "."], "e1_text": "Upgrading", "e1_pos": 3, "e2_text": "grabbed", "e2_pos": 12, "label": "after"}
+]

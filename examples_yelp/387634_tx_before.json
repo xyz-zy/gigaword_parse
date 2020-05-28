@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "good", "is", "an", "Urgent", "care", "that", "ca", "n't", "see", "patients", "quickly", ",", "ca", "n't", "sew", "up", "an", "incision", ",", "ca", "n't", "use", "IVs", ",", "and", "ca", "n't", "tell", "the", "patient", "to", "leave", "before", "taking", "their", "money", "."], "e1_text": "leave", "e1_pos": 32, "e2_text": "taking", "e2_pos": 34, "label": "before"}
+]

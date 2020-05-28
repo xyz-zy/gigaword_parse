@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "that", "-", "after", "5", "minutes", "sitting", "alone", "in", "the", "bar", "listening", "to", "the", "three", "bartenders", "chatting", "with", "each", "other", "without", "acknowleding", "we", "were", "there", "-", "we", "walked", "out", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "sitting", "e2_pos": 7, "label": "after"}
+]

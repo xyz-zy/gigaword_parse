@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "feasting", "with", "a", "g.f.", "at", "PF", "Chang", "'s", "for", "dinner", ",", "down", "the", "street", ",", "she", "enthusiastically", "declared", "she", "wanted", "to", "check", "out", "Leone", "Caf", "\\", "u00e9", "-LRB-", "I", "wish", "she", "would", "'ve", "told", "me", "that", "before", "I", "drank", "3", "iced", "teas", "!"], "e1_text": "told", "e1_pos": 34, "e2_text": "drank", "e2_pos": 39, "label": "before"},
+{"tokens": ["We", "got", "there", "just", "before", "9p", "&", "there", "was", "pretty", "impressive", "occupancy", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

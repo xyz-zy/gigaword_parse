@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "restaurant", "was", "understaffed", "and", "it", "took", "a", "long", "while", "to", "get", "service", "after", "my", "food", "came", "out", "-LRB-", "my", "waiter", "was", "nowhere", "to", "be", "found", "-RRB-", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "came", "e2_pos": 16, "label": "after"}
+]

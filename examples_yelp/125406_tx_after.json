@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "proceeded", "to", "then", "walk", "into", "the", "room", "-LRB-", "after", "saying", "hi", "-RRB-", "an", "then", "check", "something", "in", "the", "mini", "fridge", "and", "then", "left", "."], "e1_text": "walk", "e1_pos": 4, "e2_text": "saying", "e2_pos": 10, "label": "after"}
+]

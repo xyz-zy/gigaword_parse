@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "n't", "get", "napkins", "and", "silverware", "until", "after", "our", "appetizers", "showed", "up", "--", "and", "we", "had", "to", "ask", "for", "them", "."], "e1_text": "silverware", "e1_pos": 6, "e2_text": "showed", "e2_pos": 11, "label": "after"},
+{"tokens": ["No", "offers", "to", "refill", "our", "drinks", "until", "after", "we", "were", "done", "eating", "."], "e1_text": "refill", "e1_pos": 3, "e2_text": "were", "e2_pos": 9, "label": "after"}
+]

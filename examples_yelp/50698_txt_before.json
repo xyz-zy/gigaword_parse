@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "never", "written", "a", "review", "because", "I", "was", "eating", "there", "before", "I", "had", "ever", "visited", "Yelp", ",", "but", "recently", "they", "added", "a", "new", "''", "``", "Thai", "Peanut", "Chili", "Sauce", "''", "''", "and", "several", "seasonings", "that", "you", "can", "add", "to", "your", "food", "-LRB-", "IE", ":", "lemon", "pepper", ",", "cumin", ",", "and", "some", "combination", "spices", "-RRB-", "."], "e1_text": "eating", "e1_pos": 9, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

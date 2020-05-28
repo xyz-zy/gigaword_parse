@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "the", "worst", "part", "was", "this", ":", "I", "ordered", "some", "room", "service", "after", "not", "eating", "at", "all", "for", "12", "hours", "."], "e1_text": "ordered", "e1_pos": 8, "e2_text": "eating", "e2_pos": 14, "label": "after"},
+{"tokens": ["My", "friend", "also", "had", "some", "gross", "spots", "in", "his", "room", "after", "waiting", "30", "minutes", "for", "his", "room", "to", "be", "ready", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

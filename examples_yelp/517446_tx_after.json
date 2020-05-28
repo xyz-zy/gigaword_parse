@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "I", "went", "through", "the", "drive", "through", "they", "gave", "my", "order", "to", "someone", "else", "-LRB-", "after", "waiting", "15", "minutes", "in", "the", "drive", "through", "-RRB-", "which", "created", "two", "unhappy", "customers", ",", "then", "wanted", "me", "to", "wait", "for", "an", "additional", "10", "minutes", "while", "they", "made", "the", "correct", "order", "."], "e1_text": "gave", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 18, "label": "after"}
+]

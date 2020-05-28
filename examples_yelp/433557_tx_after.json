@@ -1,0 +1,4 @@
+[
+{"tokens": ["Each", "day", "when", "I", "came", "to", "pick", "her", "up", "after", "being", "gone", "10", "hours", "her", "coat", "was", "still", "on", "!"], "e1_text": "pick", "e1_pos": 6, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["Nobody", "paid", "enough", "attention", "to", "remove", "it", "after", "10", "hours", "!!!", "The", "3rd", "day", "I", "picked", "her", "up", "."], "e1_text": "remove", "e1_pos": 5, "e2_text": "!!!", "e2_pos": 10, "label": "after"}
+]

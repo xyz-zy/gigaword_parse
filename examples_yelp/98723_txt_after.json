@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "shortly", "after", "happy", "hour", "ended", ",", "but", "with", "a", "few", "pleas", "and", "smiles", ",", "we", "were", "given", "happy", "hour", "rates", "-LRB-", "with", "a", "reminder", "that", "next", "time", "we", "would", "need", "to", "pay", "full", "price", "if", "we", "were", "late", "again", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "ended", "e2_pos": 6, "label": "after"}
+]

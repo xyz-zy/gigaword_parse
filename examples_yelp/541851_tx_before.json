@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "me", "start", "off", "by", "saying", "we", "read", "the", "reviews", "about", "this", "restaurant", "before", "we", "went", "and", "honestly", "if", "it", "was", "n't", "for", "the", "special", "anniversary", "dinnner", "for", "my", "in-laws", "that", "we", "were", "attending", "there", "we", "would", "not", "have", "even", "tried", "it", "."], "e1_text": "read", "e1_pos": 7, "e2_text": "went", "e2_pos": 15, "label": "before"}
+]

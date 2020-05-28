@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "the", "counter", "for", "food", "and", "she", "was", "stepping", "all", "over", "it", "with", "her", "shoes", "after", "walking", "all", "around", "the", "filthy", "floor", "."], "e1_text": "stepping", "e1_pos": 9, "e2_text": "walking", "e2_pos": 17, "label": "after"}
+]

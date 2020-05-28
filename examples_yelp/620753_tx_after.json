@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "dawned", "on", "me", "later", "-LRB-", "after", "my", "wife", "explained", "-RRB-", "she", "was", "fishing", "for", "a", "tip", "to", "''", "``", "find", "a", "table", "''", "''", "Anyway", ",", "we", "ordered", "."], "e1_text": "dawned", "e1_pos": 1, "e2_text": "explained", "e2_pos": 9, "label": "after"}
+]

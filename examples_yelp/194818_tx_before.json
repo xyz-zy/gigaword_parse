@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "was", "in", "Vegas", ",", "I", "decided", "to", "stop", "there", "because", "I", "have", "never", "had", "In", "and", "Out", "before", "."], "e1_text": "stop", "e1_pos": 9, "e2_text": "have", "e2_pos": 13, "label": "before"},
+{"tokens": ["Maybe", "I", "should", "have", "had", "a", "few", "drinks", "at", "the", "hotel", "before", "I", "tried", "them", ",", "but", "sober", ",", "they", "are", "just", "horrible", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "tried", "e2_pos": 13, "label": "before"}
+]

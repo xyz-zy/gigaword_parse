@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "one", "occasion", "the", "cashier", "was", "rude", "and", "charged", "us", "incorrectly", "even", "after", "we", "told", "her", "numerous", "times", "how", "many", "people", "were", "in", "our", "party", "."], "e1_text": "charged", "e1_pos": 8, "e2_text": "told", "e2_pos": 14, "label": "after"}
+]

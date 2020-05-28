@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "end", "of", "May", ",", "my", "wife", "and", "I", "tried", "to", "get", "some", "food", "at", "SnS", "before", "I", "left", "for", "a", "trip", "back", "East", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "left", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", "walked", "out", ",", "not", "before", "we", "left", "a", "note", "on", "the", "table", "letting", "whoever", "saw", "it", "-LRB-", "probably", "a", "busser", "that", "ignored", "it", "-RRB-", "that", "making", "customers", "in", "a", "non-busy", "restaurant", "wait", "for", "11", "+", "minutes", "for", "no", "drink", "or", "food", "order", "is", "unacceptable", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "before"},
+{"tokens": ["My", "wife", "was", "fuming", ",", "as", "extremely", "hungry", "people", "tend", "to", "get", ",", "when", "food", "is", "before", "them", "that", "is", "not", "as", "ordered", "and", "NOBODY", "CHECKS", "ON", "YOU", "."], "e1_text": "is", "e1_pos": 15, "e2_text": "is", "e2_pos": 15, "label": "before"}
+]

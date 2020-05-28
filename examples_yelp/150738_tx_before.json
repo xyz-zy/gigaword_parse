@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "my", "lunch", "was", "punctuated", "by", "a", "dirty", "bus", "tub", "that", "stayed", "on", "the", "floor", "for", "mmmm", "30", "minutes", "before", "someone", "decided", "to", "pick", "it", "up", "and", "take", "it", "somewhere", "a", "bit", "more", "out", "of", "sight", "."], "e1_text": "stayed", "e1_pos": 11, "e2_text": "decided", "e2_pos": 21, "label": "before"}
+]

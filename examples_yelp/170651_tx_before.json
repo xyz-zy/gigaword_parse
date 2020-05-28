@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "walked", "around", "for", "at", "least", "20", "flippin", "'", "minutes", "before", "even", "finding", "the", "check-in", "area", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "finding", "e2_pos": 12, "label": "before"},
+{"tokens": ["Oh", "and", "when", "you", "get", "in", "the", "INCLINATOR", ",", "it", "wo", "n't", "go", "anywhere", "until", "you", "slide", "your", "key", ",", "so", "noooo", "we", "did", "n't", "ride", "the", "INCLINATOR", "back", "and", "forth", "for", "5", "minutes", "before", "realizing", "this", "little", "fact", ",", "cus", "like", "I", "'ve", "mentioned", "before", "there", "are", "NO", "SIGNS", "and", "the", "employees", "are", "VERY", "intelligent", "!"], "e1_text": "ride", "e1_pos": 25, "e2_text": "realizing", "e2_pos": 35, "label": "before"}
+]

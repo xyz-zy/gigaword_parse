@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bathroom", "attendants", "wipe", "down", "the", "seat", "after", "each", "person", "uses", "it", "."], "e1_text": "wipe", "e1_pos": 3, "e2_text": "uses", "e2_pos": 10, "label": "after"}
+]

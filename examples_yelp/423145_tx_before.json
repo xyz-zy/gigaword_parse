@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "the", "fact", "is", ",", "we", "saw", "him", "ditch", "the", "second", "menu", "before", "he", "took", "us", "to", "our", "table", "."], "e1_text": "ditch", "e1_pos": 8, "e2_text": "took", "e2_pos": 14, "label": "before"},
+{"tokens": ["Secondly", "...", "We", "waited", "for", "10", "minutes", "before", "we", "were", "ever", "approached", "by", "our", "server", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

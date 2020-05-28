@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "n't", "let", "you", "into", "the", "theater", "to", "sit", "in", "comfort", "until", "just", "before", "the", "show", "begins", "."], "e1_text": "let", "e1_pos": 3, "e2_text": "begins", "e2_pos": 17, "label": "before"}
+]

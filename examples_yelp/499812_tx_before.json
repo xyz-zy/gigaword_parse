@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "kept", "trying", "to", "drop", "in", "on", "the", "place", "before", "and", "after", "movies", "and", "the", "place", "consistently", "had", "at", "least", "a", "45", "minute", "wait", "to", "be", "seated", "."], "e1_text": "drop", "e1_pos": 4, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", "...", "it", "took", "a", "good", "long", "time", "before", "I", "actually", "got", "to", "sit", "down", "and", "eat", "there", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

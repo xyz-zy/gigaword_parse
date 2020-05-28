@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "experience", "of", "the", "restaurant", "is", "very", "nice", "and", "I", "will", "give", "them", "a", "chance", "to", "straighten", "out", "their", "kitchen", "before", "I", "decide", "to", "return", "so", "I", "can", "have", "the", "dishes", "that", "I", "really", "want", "and", "not", "have", "to", "go", "through", "the", "same", "response", "as", "''", "``", "we", "are", "out", "of", "that", "today", "or", "tonight", "!", "''", "''"], "e1_text": "straighten", "e1_pos": 16, "e2_text": "decide", "e2_pos": 22, "label": "before"}
+]

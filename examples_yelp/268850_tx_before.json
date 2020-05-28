@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "done", "more", "research", "before", "I", "bought", "this", "over", "price", "piece", "of", "crap", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "bought", "e2_pos": 8, "label": "before"},
+{"tokens": ["When", "I", "asked", "them", "to", "make", "sure", "they", "had", "the", "parts", "in", "stock", "before", "I", "dropped", "it", "off", "they", "said", "no.", "."], "e1_text": "make", "e1_pos": 5, "e2_text": "dropped", "e2_pos": 15, "label": "before"}
+]

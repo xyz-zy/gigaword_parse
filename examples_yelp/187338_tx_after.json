@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "brought", "this", "score", "down", "was", "that", "I", "found", "several", "bones", "in", "my", "fish", "and", "after", "informing", "the", "waiter", "of", "this", ",", "the", "manager", "came", "over", "to", "offer", "us", "a", "free", "dessert", "rather", "than", "adjusting", "the", "bill", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "informing", "e2_pos": 16, "label": "after"}
+]

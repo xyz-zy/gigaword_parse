@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "my", "guy", "and", "I", "are", "vegan", ",", "my", "sister", "bought", "us", "groupons", "for", "Christmas", "-LRB-", "after", "she", "found", "that", "the", "entire", "menu", "is", "vegan", "!", "-RRB-"], "e1_text": "groupons", "e1_pos": 12, "e2_text": "found", "e2_pos": 18, "label": "after"},
+{"tokens": ["We", "finally", "made", "our", "decisions", "after", "a", "couple", "other", "families", "ordered", "before", "us", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 10, "label": "after"}
+]

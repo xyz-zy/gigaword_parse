@@ -1,0 +1,3 @@
+[
+{"tokens": ["Granted", ",", "the", "waitress", "did", "have", "about", "fifteen", "people", "walk", "in", "right", "after", "she", "dropped", "the", "bill", ",", "but", "having", "to", "waive", "the", "manager", "down", "to", "run", "your", "card", "is", "an", "effort", "one", "should", "not", "have", "to", "make", "."], "e1_text": "walk", "e1_pos": 9, "e2_text": "dropped", "e2_pos": 14, "label": "after"}
+]

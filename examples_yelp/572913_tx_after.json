@@ -1,0 +1,4 @@
+[
+{"tokens": ["Later", "the", "manager", "was", "making", "the", "rounds", ",", "at", "this", "time", "we", "were", "finished", "with", "our", "dinner", "and", "she", "offered", "to", "get", "me", "another", "side", ",", "which", "she", "did", "about", "15", "minutes", "later", "which", "was", "about", "30", "minutes", "after", "we", "finished", "our", "dinner", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "finished", "e2_pos": 40, "label": "after"},
+{"tokens": ["One", "of", "the", "calls", "they", "made", "TO", "us", "to", "change", "the", "time", "after", "they", "called", "US", "they", "put", "us", "on", "hold", "."], "e1_text": "change", "e1_pos": 9, "e2_text": "called", "e2_pos": 14, "label": "after"}
+]

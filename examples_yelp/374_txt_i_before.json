@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "got", "our", "food", ",", "we", "asked", "why", "they", "made", "us", "that", "instead", "of", "what", "we", "ordered", "--", "`", "oh", "it", "was", "the", "closest", "to", "what", "you", "wanted", "'", "...", "hmmmm", "how", "about", "you", "tell", "us", "that", "before", "we", "pay", ",", "and", "how", "about", "you", "give", "us", "our", "money", "back", "."], "e1_text": "tell", "e1_pos": 35, "e2_text": "pay", "e2_pos": 40, "label": "before"}
+]

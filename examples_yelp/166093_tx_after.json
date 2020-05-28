@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "me", ",", "the", "modern", "Vegas", "can", "get", "a", "little", "overbearing", "after", "a", "day", "or", "two", "so", "this", "is", "the", "perfect", "portal", "away", "from", "all", "of", "that", "if", "you", "'re", "feeling", "like", "you", "need", "a", "break", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "is", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "was", "drinking", "here", "after", "a", "lot", "of", "drinking", "so", "I", "may", "be", "forgetting", "something", "obvious", "."], "e1_text": "drinking", "e1_pos": 2, "e2_text": "drinking", "e2_pos": 2, "label": "after"}
+]

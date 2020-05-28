@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "woman", "at", "the", "front", "shriveled", "her", "nose", "and", "looked", "at", "us", "up", "and", "down", ",", "placing", "us", "in", "the", "very", "back", "of", "the", "empty", "restaurant", "-LRB-", "we", "moved", "ourselves", "to", "a", "nicer", "seat", "after", "she", "left", "-RRB-", "and", "the", "waiter", "was", "apologetic", "."], "e1_text": "moved", "e1_pos": 28, "e2_text": "left", "e2_pos": 36, "label": "after"}
+]

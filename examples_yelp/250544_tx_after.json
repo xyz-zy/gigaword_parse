@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "after", "about", "3", "minutes", "I", "yelled", "''", "``", "hello", "!"], "e1_text": "Finally", "e1_pos": 0, "e2_text": "yelled", "e2_pos": 6, "label": "after"},
+{"tokens": ["Is", "anyone", "here", "?!", "''", "''", "A", "couple", "of", "seconds", "after", "that", ",", "out", "come", "this", "young", "guy", "and", "young", "girl", "-LRB-", "they", "looked", "like", "maybe", "high", "school", "age", "-RRB-", "."], "e1_text": "Is", "e1_pos": 0, "e2_text": "come", "e2_pos": 14, "label": "after"}
+]

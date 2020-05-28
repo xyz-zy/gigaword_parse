@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "No", "bottled", "water", "provided", "\\*", "We", "stood", "around", "awkwardly", "for", "20", "minutes", "after", "our", "tee", "time", "-LRB-", "after", "asking", "3", "staff", "for", "help", "-RRB-", "before", "we", "were", "finally", "given", "some", "sort", "of", "instruction", "."], "e1_text": "stood", "e1_pos": 7, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

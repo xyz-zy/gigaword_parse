@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "go", "to", "this", "jeweler", "make", "sure", "your", "quoted", "a", "reasonable", "price", "before", "they", "perform", "the", "work", "or", "service", "."], "e1_text": "quoted", "e1_pos": 9, "e2_text": "perform", "e2_pos": 15, "label": "before"}
+]

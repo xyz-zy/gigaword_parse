@@ -1,0 +1,4 @@
+[
+{"tokens": ["smoothies", "take", "forever", "to", "blend", "compared", "to", "other", "places", ",", "very", "odd", "service", "and", "honestly", "i", "was", "there", "before", "2-3", "others", "and", "the", "girl", "flat", "out", "ignored", "me", "and", "took", "the", "other", "girls", "orders", "and", "than", "after", "they", "got", "their", "smoothies", "mine", "finally", "comes", "out", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "got", "e2_pos": 38, "label": "after"},
+{"tokens": ["really", "?!", "if", "i", "placed", "my", "order", "before", "others", "in", "line", "why", "would", "the", "people", "who", "came", "5", "minutes", "after", "me", "get", "their", "smoothie", "before", "me", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "get", "e2_pos": 21, "label": "after"}
+]

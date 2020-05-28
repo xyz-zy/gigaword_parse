@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "suppose", "the", "hype", "about", "this", "place", "-LRB-", "especially", "after", "seeing", "The", "Big", "Lebowski", "-RRB-", "built", "it", "up", "to", "be", "a", "transcendental", "experience", "did", "n't", "help", "matters", "much", "."], "e1_text": "suppose", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "forced", "myself", "to", "consume", "them", ",", "but", "after", "several", "fries", "gave", "up", "."], "e1_text": "forced", "e1_pos": 1, "e2_text": "gave", "e2_pos": 11, "label": "after"}
+]

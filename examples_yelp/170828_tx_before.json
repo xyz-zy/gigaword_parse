@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "behind", "the", "desk", "goes", "''", "``", "let", "me", "see", "your", "credit", "card", "and", "ID", "''", "''", "...", "WHAT", "?!", "I", "know", "those", "folks", "are", "pushy", ",", "but", "what", "gives", "them", "the", "right", "to", "demand", "me", "to", "hand", "over", "my", "ID", "and", "cc", "before", "they", "even", "explain", "to", "me", "what", "it", "is", "they", "'re", "doing", "and", "why", "they", "need", "it", "?"], "e1_text": "hand", "e1_pos": 38, "e2_text": "explain", "e2_pos": 47, "label": "before"}
+]

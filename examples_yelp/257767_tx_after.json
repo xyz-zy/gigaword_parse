@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "put", "in", "the", "hair", "extensions", "that", "I", "brought", "with", "me", "from", "Boston", "and", "my", "hair", "stayed", "even", "after", "I", "slept", "on", "it", "that", "night", ",", "so", "I", "was", "able", "to", "keep", "my", "fabulous", "hair", "style", "in", "tact", "long", "after", "the", "wedding", "and", "reception", "."], "e1_text": "stayed", "e1_pos": 16, "e2_text": "slept", "e2_pos": 20, "label": "after"}
+]

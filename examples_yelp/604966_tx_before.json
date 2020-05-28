@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "rode", "this", "ride", "3", "times", "in", "a", "group", "of", "5", ",", "before", "we", "were", "told", "by", "a", "lifeguard", "that", "it", "only", "seats", "4", "."], "e1_text": "rode", "e1_pos": 1, "e2_text": "were", "e2_pos": 14, "label": "before"},
+{"tokens": ["One", "question", "took", "calling", "8", "supervisors", "before", "we", "received", "an", "answer", "."], "e1_text": "calling", "e1_pos": 3, "e2_text": "received", "e2_pos": 8, "label": "before"}
+]

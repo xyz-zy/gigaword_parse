@@ -1,0 +1,3 @@
+[
+{"tokens": ["Go", "to", "wingharts", "order", "to", "go", "-LRB-", "after", "the", "waitress", "acknoledges", "you", "exist", "-RRB-", ",", "wait", "15", "minutes", "for", "your", "food", ",", "and", "sit", "down", "and", "watch", "the", "manager", "yell", "at", "you", "!"], "e1_text": "go", "e1_pos": 5, "e2_text": "acknoledges", "e2_pos": 10, "label": "after"}
+]

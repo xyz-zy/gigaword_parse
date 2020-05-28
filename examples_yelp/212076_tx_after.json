@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "money", "left", "on", "my", "gift", "card", "after", "paying", "$", "150", "for", "some", "of", "the", "most", "mediocre", ",", "fast-food", "level", ",", "processed", "tasting", ",", "overall", "low", "quality", "steak", "I", "'ve", "had", "in", "a", "long", "time", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "paying", "e2_pos": 9, "label": "after"}
+]

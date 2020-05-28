@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "wait", "for", "the", "food", "after", "ordering", ",", "both", "dishes", "were", "very", "bland", "-LRB-", "ordered", "stewed", "ox", "over", "rice", ",", "which", "was", "actually", "stewed", "offal", "over", "rice", ",", "and", "house", "chow", "mein", ".", "-RRB-"], "e1_text": "wait", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 6, "label": "after"}
+]

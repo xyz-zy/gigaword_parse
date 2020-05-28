@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "brought", "up", "the", "condition", "of", "the", "pizza", ",", "I", "got", "an", "evil", "look", "and", "an", "argument", "before", "the", "late", "night", "cook\\/phone", "operator", "told", "me", "to", "F", "off", ",", "get", "the", "F", "out", "&", "do", "n't", "come", "back", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "told", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "we", "received", "before", "even", "ordering", "food", "was", "so", "ridiculously", "bad", ",", "I", "am", "not", "sure", "folks", "there", "realize", "just", "how", "easily", "a", "reputation", "of", "a", "restaurant", "could", "be", "ruined", "by", "a", "couple", "of", "bad", "reviews", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 6, "label": "before"},
+{"tokens": ["So", ",", "definitely", "think", "twice", "before", "making", "any", "special", "plans", "at", "this", "place", "until", "and", "unless", "the", "management", "changes", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "making", "e2_pos": 6, "label": "before"}
+]

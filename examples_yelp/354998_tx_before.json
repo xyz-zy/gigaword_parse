@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "used", "to", "pass", "La", "Piazza", "many", "a", "time", "before", "the", "tram", "works", "destroyed", "the", "Coates", "Crescent\\/Shandwick", "Place", "area", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "destroyed", "e2_pos": 13, "label": "before"},
+{"tokens": ["Jackie", "had", "recommended", "it", "before", "as", "being", "good", "for", "gluten", "free", "."], "e1_text": "recommended", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "told", ",", "verbatim", ",", "that", "I", "could", "''", "``", "return", "within", "30", "days", "of", "my", "dress", "fitting", "''", "''", "which", "was", "perfect", ",", "as", "my", "fitting", "was", "about", "an", "hour", "after", "I", "bought", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "bought", "e2_pos": 34, "label": "after"},
+{"tokens": ["The", "bustier", "did", "n't", "end", "up", "working", "with", "the", "dress", ",", "so", "I", "brought", "it", "back", "2", "hours", "after", "I", "'d", "purchased", "it", "."], "e1_text": "brought", "e1_pos": 13, "e2_text": "'d", "e2_pos": 20, "label": "after"},
+{"tokens": ["Their", "defense", "was", "''", "``", "the", "policy", "is", "printed", "on", "the", "back", "of", "your", "receipt", "''", "''", "...", "you", "know", ",", "that", "thing", "that", "'s", "given", "to", "you", "\\*", "after", "\\*", "you", "purchase", "something", "."], "e1_text": "given", "e1_pos": 25, "e2_text": "purchase", "e2_pos": 32, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "met", "by", "a", "New", "Castle", "beer", "rep", "Shannon", "first", "which", "was", ",", "in", "complete", "honesty", ",", "much", "nicer", "than", "our", "waitress", "who", "took", "30", "minute", "before", "getting", "to", "us", "."], "e1_text": "took", "e1_pos": 24, "e2_text": "getting", "e2_pos": 28, "label": "before"},
+{"tokens": ["We", "were", "hustled", "additionally", "2", "to", "3", "times", "to", "squeeze", "before", "I", "had", "to", "explain", "to", "the", "bouncer", "this", "is", "getting", "ridiculous", ",", "speaking", "to", "brand", "new", "customers", "like", "this", "...", "Our", "waitress", "was", "slow", ",", "completely", "disoriented", "and", "really", "upset", "about", "having", "to", "remember", "our", "entire", "groups", "drink", "orders", "."], "e1_text": "squeeze", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

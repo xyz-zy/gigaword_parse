@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "lobster", "appetizer", "is", "great", "but", "not", "as", "great", "as", "the", "one", "that", "was", "served", "not", "long", "after", "the", "restaurant", "opened", ",", "It", "would", "also", "be", "helpful", "for", "the", "menu", "to", "list", "that", "the", "sashimi", "portion", "of", "the", "lobster", "appetizer", "is", "served", "on", "top", "of", "a", "sauce", "of", "cream", ",", "horseradish", ",", "lemon", "juice", "and", "chives", "-", "I", "loved", "the", "sauce", "but", "my", "husband", "did", "not", "and", "had", "we", "known", "about", "the", "sauce", ",", "we", "would", "have", "asked", "for", "the", "dish", "without", "it", "."], "e1_text": "served", "e1_pos": 14, "e2_text": "opened", "e2_pos": 20, "label": "after"},
+{"tokens": ["The", "drinks", "only", "arrived", "some", "time", "after", "we", "had", "finished", "our", "entrees", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

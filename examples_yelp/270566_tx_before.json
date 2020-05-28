@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "on", "Enoteca", "San", "Marco", "before", "I", "realized", "it", "was", "a", "Mario", "Batali", "place", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "realized", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "'s", "a", "small", "plates", "concept", "and", "you", "'ll", "spend", "$", "30", "-", "$", "60", "per", "person", "for", "lunch", "before", "you", "get", "enough", "to", "eat", "."], "e1_text": "spend", "e1_pos": 9, "e2_text": "get", "e2_pos": 21, "label": "before"}
+]

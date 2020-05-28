@@ -1,0 +1,4 @@
+[
+{"tokens": ["Note", ":", "Picking", "up", "tickets", "is", "a", "bit", "difficult", "-", "if", "possible", ",", "I", "'d", "pick", "them", "up", "hours", "before", "the", "show", "starts", "."], "e1_text": "pick", "e1_pos": 15, "e2_text": "starts", "e2_pos": 22, "label": "before"},
+{"tokens": ["As", "far", "as", "the", "show", "itself", "goes", ",", "there", "is", "lots", "of", "audience", "interaction", "from", "the", "outset", "-", "-", "before", "the", "show", "actually", "starts", ",", "they", "get", "the", "audience", "yelling", "out", "things", "-", "and", "a", "few", "bits", "where", "they", "pull", "''", "``", "random", "''", "''", "-LRB-", "maybe", "planted", "-RRB-", "members", "of", "the", "audience", "out", "of", "the", "crowd", "and", "onto", "stage", "with", "them", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "starts", "e2_pos": 23, "label": "before"}
+]

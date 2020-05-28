@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "made", "an", "appointment", "at", "Shine", "Salon", "after", "reading", "the", "rave", "reviews", "on", "Yelp", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["Everyone", "there", "was", "very", "nice", "and", "I", "was", "helped", "immediately", "after", "I", "walked", "in", "the", "door", "."], "e1_text": "helped", "e1_pos": 8, "e2_text": "walked", "e2_pos": 12, "label": "after"},
+{"tokens": ["As", "a", "side", "note", ",", "during", "my", "appointment", "the", "stylist", "had", "to", "leave", "me", "sitting", "in", "her", "chair", "with", "wet", "hair", "after", "my", "hair", "was", "washed", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

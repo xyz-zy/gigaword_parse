@@ -1,0 +1,3 @@
+[
+{"tokens": ["Perhaps", "this", "is", "a", "strategy", "of", "sorts", "to", "make", "sure", "that", "their", "customers", "do", "n't", "tend", "to", "sit", "about", "too", "longer", "after", "they", "eat", "but", "all", "in", "all", ",", "it", "definitely", "took", "away", "from", "the", "dining", "experience", "."], "e1_text": "sit", "e1_pos": 17, "e2_text": "eat", "e2_pos": 23, "label": "after"}
+]

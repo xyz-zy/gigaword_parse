@@ -1,0 +1,3 @@
+[
+{"tokens": ["Hanger", "''", "``", "butcher", "'s", "steak", "''", "''", "=", "I", "ordered", "this", "for", "myself", "and", "after", "sampling", "the", "dishes", "of", "everyone", "else", "in", "our", "group", ",", "we", "all", "thought", "mine", "was", "the", "best", "."], "e1_text": "=", "e1_pos": 8, "e2_text": "sampling", "e2_pos": 16, "label": "after"}
+]

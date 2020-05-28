@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "NOT", "my", "decision", "to", "come", "here", ",", "I", "just", "want", "to", "make", "that", "clear", "before", "I", "start", "this", "review", "!!", "I", "'m", "going", "to", "keep", "this", "review", "relatively", "short", "because", "I", "do", "n't", "have", "anything", "nice", "to", "say", "about", "this", "place", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "start", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "knew", "I", "should", "have", "checked", "yelp", "before", "agreeing", "to", "come", "here", "!!!"], "e1_text": "checked", "e1_pos": 5, "e2_text": "agreeing", "e2_pos": 8, "label": "before"}
+]

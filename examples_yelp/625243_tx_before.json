@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "to", "Franky", "&", "Benny", "'s", "before", "-", "normally", "I", "find", "them", "A-OK", ";", "nothing", "much", "to", "write", "home", "about", "in", "the", "general", "sense", ",", "but", "occasionally", "some", "great", "dishes", "-LRB-", "anything", "with", "Italian", "herb", "potatoes", "was", "a", "good", "shout", "-RRB-", "and", "decent", "value", "for", "a", "chain", "Italian", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "find", "e2_pos": 12, "label": "before"},
+{"tokens": ["However", "you", "'d", "be", "forgiven", "for", "thinking", "the", "staff", "had", "never", "seen", "it", "busy", "before", "-", "I", "find", "that", "hard", "to", "believe", "in", "a", "location", "is", "central", "as", "the", "Omni", "Centre", "in", "Edinburgh", "."], "e1_text": "thinking", "e1_pos": 6, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

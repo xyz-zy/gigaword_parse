@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "argued", "with", "me", "after", "I", "asked", "3", "times", "for", "my", "mackerel", "sushi", ",", "one", "of", "the", "3", "things", "I", "ordered", "...", "after", "waiting", "30", "+", "minutes", "-", "he", "finally", "said", "he", "already", "brought", "it", "to", "the", "table", "-LRB-", "but", "it", "was", "someone", "else", "'s", "order", "-RRB-", "and", "said", "I", "never", "ordered", "it", "."], "e1_text": "argued", "e1_pos": 2, "e2_text": "asked", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "envy", "-", "Terri", "K.", "bolting", "after", "convincing", "jerk", "waiter", "to", "give", "her", "a", "separate", "bill", "."], "e1_text": "bolting", "e1_pos": 5, "e2_text": "convincing", "e2_pos": 7, "label": "after"}
+]

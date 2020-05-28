@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "then", "about", "20", "minutes", "before", "I", "see", "my", "waiter", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "see", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "water", "guy", "comes", "up", "and", "starts", "pouring", "the", "water", "before", "the", "pitcher", "is", "over", "the", "glass", "and", "misses", "the", "glass", "for", "a", "solid", "3", "seconds", "soaking", "the", "entire", "table", "and", "myself", "before", "he", "notices", "."], "e1_text": "pouring", "e1_pos": 7, "e2_text": "is", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "a", "whisky", "connoisseur", ",", "but", "it", "'s", "helped", "me", "through", "many", "cold", "winter", "days", "in", "Edinburgh", ";", "a", "little", "swig", "to", "wake", "up", ",", "and", "another", "to", "defrost", "after", "facing", "the", "sometimes", "hostile", "weather", "."], "e1_text": "defrost", "e1_pos": 30, "e2_text": "facing", "e2_pos": 32, "label": "after"}
+]

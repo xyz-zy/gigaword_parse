@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guy", "gave", "me", "a", "reservation", "after", "I", "informed", "him", "that", "my", "flight", "is", "at", "2pm", ",", "''", "''", "the", "shuttle", "will", "be", "at", "the", "hotel", "at", "10:45", "am", ",", "come", "early", "''", "''", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "informed", "e2_pos": 8, "label": "after"}
+]

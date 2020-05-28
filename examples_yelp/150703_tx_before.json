@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "it", "was", "surprising", "that", "we", "stood", "and", "waited", "for", "about", "5", "minutes", "before", "being", "acknowledged", "and", "offered", "a", "seat", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "being", "e2_pos": 14, "label": "before"},
+{"tokens": ["Take", "a", "look", "at", "the", "photo", "we", "uploaded", ",", "and", "before", "you", "say", "''", "``", "it", "looks", "like", "a", "big", "sundae", ",", "''", "''", "look", "at", "the", "size", "of", "the", "spoons", "and", "then", "compare", "them", "to", "the", "sundae", "."], "e1_text": "Take", "e1_pos": 0, "e2_text": "say", "e2_pos": 12, "label": "before"}
+]

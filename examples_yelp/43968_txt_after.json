@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "furniture", "stores", "I", "visited", "after", "Ashley", "-LRB-", "Razmataz", ",", "Mor", ",", "random", "other", "stores", ",", "had", "NORMAL", "sales", "people", "who", "asked", "you", "once", "if", "you", "needed", "help", "and", "then", "left", "you", "alone", "-RRB-", "."], "e1_text": "visited", "e1_pos": 4, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

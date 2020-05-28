@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "able", "to", "get", "a", "pink", "cup", ",", "I", "was", "ecstatic", "about", "that", "as", "the", "location", "before", "did", "n't", "have", "them", "they", "also", "had", "different", "flavors", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "did", "e2_pos": 18, "label": "before"},
+{"tokens": ["They", "did", "n't", "have", "the", "drink", "I", "had", "gotten", "before", ",", "ca", "n't", "remember", "what", "one", "but", "it", "was", "blue", ",", "so", "I", "ended", "up", "getting", "the", "hurricane", "here", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["During", "our", "meal", "I", "ordered", "a", "second", "drink", "-LRB-", "beer", "this", "time", ",", "since", "liquor", "is", "apparently", "too", "difficult", "for", "them", "-RRB-", "and", "had", "to", "wait", "another", "10", "or", "so", "minutes", "before", "it", "was", "brought", "out", "."], "e1_text": "wait", "e1_pos": 25, "e2_text": "was", "e2_pos": 33, "label": "before"},
+{"tokens": ["I", "had", "also", "run", "out", "of", "water", "and", "had", "to", "wait", "15", "minutes", "before", "it", "was", "even", "noticed", ",", "let", "alone", "waiting", "for", "a", "refill", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

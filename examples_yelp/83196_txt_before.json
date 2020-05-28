@@ -1,0 +1,4 @@
+[
+{"tokens": ["Have", "used", "them", "before", "for", "furniture", "and", "nothing", "ever", "took", "this", "long", "to", "dry", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "took", "e2_pos": 9, "label": "before"},
+{"tokens": ["Also", ",", "entry", "from", "wood", "floor", "into", "a", "carpeted", "room", "looks", "worse", "than", "it", "did", "before", "cleaning", "."], "e1_text": "did", "e1_pos": 14, "e2_text": "cleaning", "e2_pos": 16, "label": "before"}
+]

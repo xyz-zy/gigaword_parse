@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "after", "I", "got", "tired", "of", "sneezing", "everyday", "due", "to", "environmental", "and", "seasonable", "allergens", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "got", "e2_pos": 4, "label": "after"},
+{"tokens": ["He", "suggested", "I", "get", "an", "allergy", "injection", ",", "which", "I", "reluctantly", "agreed", "to", "after", "googling", "its", "history", "and", "side", "effects", "."], "e1_text": "agreed", "e1_pos": 11, "e2_text": "googling", "e2_pos": 14, "label": "after"}
+]

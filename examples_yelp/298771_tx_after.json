@@ -1,0 +1,5 @@
+[
+{"tokens": ["Unfortunately", "my", "husband", "and", "I", "ventured", "in", "here", "after", "turning", "down", "the", "35", "minute", "wait", "at", "The", "Yardhouse", "."], "e1_text": "ventured", "e1_pos": 5, "e2_text": "turning", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "desperate", "for", "a", "steak", "after", "forgoing", "Yardhouse", ",", "so", "I", "was", "happy", "when", "I", "saw", "a", "basic", "sirloin", "on", "the", "menu", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "forgoing", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "was", "nearly", "comical", "after", "the", "groveling", "session", "had", "concluded", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

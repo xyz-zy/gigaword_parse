@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "went", "there", "the", "first", "time", ",", "the", "girl", "accidentally", "dropped", "the", "pizza", "topside", "down", "on", "the", "floor", "after", "taking", "it", "out", "of", "the", "oven", "and", "had", "to", "start", "over", "."], "e1_text": "dropped", "e1_pos": 11, "e2_text": "taking", "e2_pos": 20, "label": "after"}
+]

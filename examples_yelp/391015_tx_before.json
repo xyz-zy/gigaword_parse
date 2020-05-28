@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "not", "pre-game", "before", "getting", "raped", "at", "another", "bar", "?"], "e1_text": "pre-game", "e1_pos": 2, "e2_text": "getting", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "am", "pretty", "sure", "that", "right", "before", "I", "was", "leaving", "the", "bar", "tender", "announced", "that", "he", "was", "getting", "cups", "out", "for", "some", "beer", "pong", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

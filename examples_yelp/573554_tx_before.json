@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "even", "get", "a", "chance", "to", "turn", "around", "to", "look", "at", "the", "camera", "before", "the", "air", "came", "blasting", "in", "my", "mouth", ";", "literarily", "."], "e1_text": "look", "e1_pos": 11, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "rooms", "and", "actors", "are", "nothing", "that", "I", "'ve", "seen\\/experienced", "before", "and", "that", "is", "what", "makes", "this", "Goretorium", "awesome", "."], "e1_text": "are", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 8, "label": "before"}
+]

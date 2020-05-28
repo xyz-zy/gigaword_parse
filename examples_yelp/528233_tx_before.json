@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dad", "was", "with", "me", ",", "thankfully", ",", "and", "looked", "under", "the", "hood", "to", "see", "if", "he", "could", "figure", "it", "out", "-LRB-", "he", "had", "checked", "the", "fluids", "before", "we", "left", "and", "every", "thing", "was", "fine", "before", "we", "left", "-RRB-", "."], "e1_text": "checked", "e1_pos": 24, "e2_text": "left", "e2_pos": 29, "label": "before"}
+]

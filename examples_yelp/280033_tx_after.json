@@ -1,0 +1,4 @@
+[
+{"tokens": ["About", "three", "weeks", "ago", "I", "brought", "my", "bike", "to", "them", "after", "a", "friend", "suggested", "the", "store", "to", "fix", "a", "warped", "chain", "that", "was", "extremely", "annoying", "."], "e1_text": "brought", "e1_pos": 5, "e2_text": "suggested", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "'s", "now", "a", "week", "after", "they", "told", "me", "I", "should", "expect", "my", "bike", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "told", "e2_pos": 7, "label": "after"}
+]

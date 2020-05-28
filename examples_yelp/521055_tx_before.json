@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "think", "much", "of", "it", ",", "because", "I", "'ve", "gone", "for", "pedicures", "with", "similar", "blisters", "on", "my", "toes", "before", "and", "have", "found", "that", "most", "pedicurists", "are", "quite", "careful", "to", "not", "irritate", "them", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 10, "label": "before"},
+{"tokens": ["That", "being", "said", ",", "you", "can", "understand", "why", "I", "'ll", "probably", "go", "ahead", "and", "try", "out", "every", "single", "other", "nail", "salon", "in", "Charlotte", "before", "trying", "this", "place", "again", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "trying", "e2_pos": 24, "label": "before"}
+]

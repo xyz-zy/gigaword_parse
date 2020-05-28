@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "second", "time", ",", "I", "placed", "an", "order", "to", "go", "and", "unfortunately", "I", "should", "have", "checked", "it", "before", "I", "left", "."], "e1_text": "checked", "e1_pos": 15, "e2_text": "left", "e2_pos": 19, "label": "before"},
+{"tokens": ["Like", "I", "said", "before", ",", "when", "I", "ate", "at", "the", "restaurant", ",", "the", "food", "was", "decent", ",", "but", "take", "out", ",", "make", "sure", "you", "check", "it", "before", "you", "leave", "so", "that", "you", "do", "n't", "end", "up", "with", "a", "box", "of", "grease", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

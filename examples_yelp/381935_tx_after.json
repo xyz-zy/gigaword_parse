@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ll", "start", "this", "off", "by", "saying", "I", "am", "not", "a", "fan", "Of", "Elvis", "Presley", ",", "and", "after", "reading", "several", "scathing", "reviews", ",", "I", "was", "looking", "forward", "to", "adding", "fuel", "to", "the", "''", "``", "I", "hate", "this", "show", "fire", "''", "''", ",", "kind", "of", "like", "the", "Chris", "Angel", "''", "``", "Believe", "''", "''", "reviews", "."], "e1_text": "saying", "e1_pos": 6, "e2_text": "reading", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "'s", "was", "not", "sweet", "-LRB-", "Iced", "Coffee", "-RRB-", "and", "she", "threw", "it", "away", "after", "sipping", "a", "couple", "of", "times", "."], "e1_text": "threw", "e1_pos": 12, "e2_text": "sipping", "e2_pos": 16, "label": "after"},
+{"tokens": ["But", "I", "agreed", "with", "her", "after", "sipping", "once", "."], "e1_text": "agreed", "e1_pos": 2, "e2_text": "sipping", "e2_pos": 6, "label": "after"}
+]

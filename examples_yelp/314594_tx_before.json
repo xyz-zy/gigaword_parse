@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "I", "should", "have", "checked", "the", "Yelp", "reviews", "before", "we", "came", "as", "opposed", "to", "looking", "at", "them", "while", "at", "the", "restaurant", "waiting", "for", "our", "pizza", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

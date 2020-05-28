@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "left", ",", "I", "had", "to", "say", "good", "bye", "and", "thank", "you", "twice", "before", "all", "the", "employees", "stopped", "talking", "to", "each", "other", "to", "say", "goodbye", "back", "."], "e1_text": "thank", "e1_pos": 11, "e2_text": "stopped", "e2_pos": 18, "label": "before"}
+]

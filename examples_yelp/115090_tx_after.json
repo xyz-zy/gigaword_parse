@@ -1,0 +1,4 @@
+[
+{"tokens": ["Her", "answer", "to", "everything", "was", ",", "just", "a", "second", "even", "after", "letting", "them", "know", "I", "had", "not", "received", "my", "food", "and", "people", "after", "me", "were", "already", "taken", "care", "of", "and", "gone", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "letting", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "finally", "got", "my", "money", "back", "after", "waiting", "45", "minutes", "for", "chicken", ",", "popcorn", "shrimp", "and", "chicken", "fingers", ",", "simple", "food", "that", "was", "already", "prepared", "but", "with", "their", "ineptness", "they", "could", "not", "even", "figure", "out", "to", "complete", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 7, "label": "after"}
+]

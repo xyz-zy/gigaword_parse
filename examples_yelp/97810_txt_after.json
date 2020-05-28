@@ -1,0 +1,4 @@
+[
+{"tokens": ["Scheduled", "to", "have", "Prodigy", "2", "brake", "controller", "install", "and", "was", "quoted", "one", "price", "after", "a", "full", "detailed", "description", "of", "what", "I", "wanted", "done", "."], "e1_text": "quoted", "e1_pos": 10, "e2_text": "wanted", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "requested", "to", "speak", "to", "the", "service", "manager", "after", "getting", "no", "help", "from", "the", "female", "service", "rep", ",", "''", "``", "I", "'m", "too", "busy", "eating", "''", "''", "."], "e1_text": "speak", "e1_pos": 3, "e2_text": "getting", "e2_pos": 9, "label": "after"}
+]

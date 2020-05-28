@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "cutting", "that", "part", "out", ",", "the", "remainder", "was", "not", "well", "seasoned", ",", "far", "from", "the", "tastiest", "steak", "I", "'ve", "had", "Sidenote\\/another", "downside", ":", "-", "table", "of", "10", "+", "who", "'d", "clearly", "pre-partied", "before", "ordering", "more", "drinks", "at", "the", "restaurant", "."], "e1_text": "pre-partied", "e1_pos": 32, "e2_text": "ordering", "e2_pos": 34, "label": "before"}
+]

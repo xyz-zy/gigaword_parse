@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "it", "'s", "open", "after", "weeks", "of", "seeing", "and", "passing", "the", "sign", "almost", "everyday", "."], "e1_text": "'s", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "always", "just", "order", "half", "a", "dozen", "but", "I", "never", "pay", "$", "5.99", "like", "how", "it", "'s", "advertised", "-LRB-", "and", "yes", "I", "am", "aware", "cronuts", "are", "$", "3", "-RRB-", "The", "last", "time", "I", "visited", ",", "I", "ordered", "a", "dozen", "and", "bam", "total", "bill", "was", "over", "$", "16", "and", "this", "was", "after", "I", "asked", "her", "which", "donuts", "were", "part", "of", "the", "9.99", "price", "tag", ":", "her", "answer", "was", "4", "of", "the", "special", "and", "the", "rest", "regular", "donuts", "."], "e1_text": "was", "e1_pos": 43, "e2_text": "asked", "e2_pos": 52, "label": "after"}
+]

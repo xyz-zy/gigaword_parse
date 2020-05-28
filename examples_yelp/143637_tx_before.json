@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "eagerly", "took", "the", "takeout", "bag", "to", "my", "car", ",", "the", "smell", "of", "the", "food", "teased", "me", "too", "much", ",", "so", "I", "gave", "in", "to", "my", "temptation", "to", "sample", "the", "food", "before", "leaving", "the", "parking", "lot", "."], "e1_text": "sample", "e1_pos": 29, "e2_text": "leaving", "e2_pos": 33, "label": "before"},
+{"tokens": ["it", "seemed", "as", "though", "it", "had", "been", "baked", ",", "then", "sat", "out", "for", "a", "day", "or", "so", ",", "then", "deed-fried", ",", "then", "microwaved", "before", "serving", "it", "to", "me", "."], "e1_text": "microwaved", "e1_pos": 22, "e2_text": "serving", "e2_pos": 24, "label": "before"}
+]

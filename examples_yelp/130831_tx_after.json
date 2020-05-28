@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", "I", "get", "my", "corrected", "receipts", "and", "continue", "to", "stand", "there", "because", "after", "they", "took", "the", "products", "out", "of", "the", "bag", "--", "they", "were", "trying", "to", "go", "back", "to", "their", "busy", "work", "--", "after", "10", "seconds", "I", "finally", "just", "asked", "for", "the", "products", "so", "I", "could", "be", "on", "my", "way", "."], "e1_text": "stand", "e1_pos": 9, "e2_text": "took", "e2_pos": 14, "label": "after"}
+]

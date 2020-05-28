@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "for", "breakfast", "after", "flying", "in", "from", "San", "Diego", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "flying", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "waited", "patiently", "after", "she", "seated", "two", "groups", "that", "arrived", "after", "me", "till", "she", "would", "seat", "me", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "seated", "e2_pos": 5, "label": "after"}
+]

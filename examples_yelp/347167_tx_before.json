@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "n't", "a", "fluke-the", "manager", "either", "short", "staffs", "or", "the", "waitresses", "we", "got", "were", "inattentive", "to", "such", "a", "degree", "we", "had", "to", "order", "from", "the", "bar", "before", "service", "came", "."], "e1_text": "order", "e1_pos": 23, "e2_text": "came", "e2_pos": 29, "label": "before"}
+]

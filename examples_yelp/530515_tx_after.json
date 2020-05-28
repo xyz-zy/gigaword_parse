@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "wanted", "to", "check", "this", "place", "out", "after", "hearing", "about", "it", "on", "various", "food", "shows", "and", "its", "reputation", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 8, "label": "after"},
+{"tokens": ["Overall", ":", "C", "+", "The", "decor", "and", "theme", "are", "a", "novelty", "thing", ",", "but", "the", "food", "is", "just", "okay", "and", "after", "doing", "it", "once", ",", "I", "highly", "doubt", "we", "'d", "ever", "go", "back", "."], "e1_text": "+", "e1_pos": 3, "e2_text": "doing", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bad", "service", ",", "no", "one", "even", "smiles", "...", "Beware", "that", "the", "hostess", "sends", "you", "to", "the", "bar", "to", "get", "a", "drink", "before", "they", "take", "you", "to", "the", "table", "or", "bar", "...", "even", "if", "there", "are", "seats", "...", "probably", "want", "you", "to", "buy", "a", "drink", "first", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "take", "e2_pos": 23, "label": "before"}
+]

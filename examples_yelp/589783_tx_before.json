@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "the", "order", "was", "placed", ",", "he", "bagged", "up", "another", "delivery", "order", ",", "delivered", "it", ",", "and", "came", "back", "before", "they", "were", "done", "making", "our", "first", "sandwich", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "were", "e2_pos": 21, "label": "before"},
+{"tokens": ["One", "guy", "fumbled", "with", "a", "salad", "lid", "for", "like", "10", "minutes", "...", "bewildered", "as", "if", "he", "had", "never", "seen", "one", "before", "!"], "e1_text": "fumbled", "e1_pos": 2, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

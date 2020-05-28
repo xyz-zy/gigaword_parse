@@ -1,0 +1,4 @@
+[
+{"tokens": ["a", "birth", "certificate", "a", "social", "security", "card", "and", "a", "gym", "card", "the", "girl", "was", "rude", "from", "the", "beginning", "and", "after", "a", "hour", "of", "sitting", "there", "she", "then", "decides", "to", "turn", "us", "away", "."], "e1_text": "rude", "e1_pos": 14, "e2_text": "sitting", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "call", "the", "other", "office", "and", "they", "tell", "me", "that", "will", "be", "fine", "to", "come", "on", "in", "but", "after", "speaking", "with", "the", "other", "office", "they", "then", "said", "''", "``", "we", "have", "the", "same", "policy", "''", "''", "its", "bad", "enough", "to", "be", "going", "through", "a", "situation", "and", "these", "people", "who", "are", "on", "a", "power", "trip", "make", "it", "worse", ".", "."], "e1_text": "come", "e1_pos": 14, "e2_text": "speaking", "e2_pos": 19, "label": "after"}
+]

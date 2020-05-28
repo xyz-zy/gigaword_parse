@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "acknowledged", "us", ",", "and", "then", "ignored", "us", "to", "answer", "the", "phone", ",", "which", "is", "one", "of", "my", "biggest", "restaurant", "pet", "peeves", "-", "always", "deal", "with", "paying", "customers", "first", "before", "answering", "the", "phone", "."], "e1_text": "paying", "e1_pos": 27, "e2_text": "answering", "e2_pos": 31, "label": "before"}
+]

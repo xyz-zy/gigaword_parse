@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "tip", "for", "people", "booking", "on", "short", "notice", ":", "call", "the", "hotel", "before", "you", "head", "over", "because", "there", "is", "apparently", "some", "lag", "time", "between", "using", "a", "hotel", "booking", "site", "and", "when", "the", "reservation", "actually", "gets", "to", "their", "computer", "system", "."], "e1_text": "call", "e1_pos": 9, "e2_text": "head", "e2_pos": 14, "label": "before"}
+]

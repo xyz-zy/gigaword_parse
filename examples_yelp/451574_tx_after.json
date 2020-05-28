@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mind", "you", ",", "this", "happened", "after", "nearly", "an", "hour", "of", "arguing", "with", "the", "manager", "on", "duty", ",", "Melissa", ",", "who", "was", "extremely", "rude", "to", "us", "."], "e1_text": "happened", "e1_pos": 4, "e2_text": "arguing", "e2_pos": 10, "label": "after"},
+{"tokens": ["She", "only", "comped", "us", "after", "we", "asked", "her", "to", "write", "her", "name", "and", "extension", "number", "underneath", "HER", "managers", "name", "and", "extension", "number", "so", "we", "could", "further", "complain", "the", "following", "day", "-LRB-", "when", "her", "manager", "would", "be", "on", "duty", "-RRB-", "."], "e1_text": "comped", "e1_pos": 2, "e2_text": "asked", "e2_pos": 6, "label": "after"}
+]

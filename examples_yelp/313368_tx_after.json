@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "usually", "go", "here", "after", "eating", "@", "Honey", "Pig", "which", "is", "next", "door", "-LRB-", "a", "good", "place", "to", "eat", "for", "lunch", "&", "dinner", "which", "is", "all", "u", "can", "eat", "&", "also", "they", "are", "open", "24", "hours", "!", "-RRB-"], "e1_text": "go", "e1_pos": 2, "e2_text": "eating", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "an", "option", "of", "ordering", "one", "or", "two", "crabs", "with", "my", "dinner", "and", "I", "opted", "for", "one", "after", "asking", "our", "server", "if", "it", "would", "be", "plenty", "of", "food", "."], "e1_text": "opted", "e1_pos": 15, "e2_text": "asking", "e2_pos": 19, "label": "after"}
+]

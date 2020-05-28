@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "never", "got", "to", "try", "it", "because", "it", "came", "after", "my", "entree", ",", "in", "which", "I", "sent", "back", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "sent", "e2_pos": 16, "label": "after"},
+{"tokens": ["Not", "to", "be", "a", "brat", "but", "who", "serves", "soup", "after", "the", "entrees", "have", "arrived", "?"], "e1_text": "be", "e1_pos": 2, "e2_text": "have", "e2_pos": 12, "label": "after"},
+{"tokens": ["Our", "server", "kept", "telling", "us", "he", "was", "going", "to", "check", "up", "on", "our", "food", "but", "as", "I", "looked", "around", ",", "people", "who", "came", "way", "after", "us", "has", "gotten", "their", "appetizers", "before", "us", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "has", "e2_pos": 26, "label": "after"}
+]

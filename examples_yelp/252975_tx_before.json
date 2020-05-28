@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "in", "for", "a", "quick", "checkup", "on", "some", "things", "and", "to", "have", "a", "mole", "removed", "before", "my", "health", "insurance", "gets", "downgraded", "next", "month", "."], "e1_text": "removed", "e1_pos": 15, "e2_text": "gets", "e2_pos": 20, "label": "before"}
+]

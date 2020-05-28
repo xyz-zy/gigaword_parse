@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "knew", "that", "the", "car", "needed", "new", "spark", "plugs", ",", "antifreeze", "and", "oil", "change", "before", "I", "took", "the", "car", "in", "."], "e1_text": "spark", "e1_pos": 7, "e2_text": "took", "e2_pos": 16, "label": "before"}
+]

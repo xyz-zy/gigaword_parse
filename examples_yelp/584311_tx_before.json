@@ -1,0 +1,4 @@
+[
+{"tokens": ["Based", "on", "the", "cut", "I", "received", ",", "they", "should", "have", "''", "``", "86", "'d", "''", "''", "it", "before", "serving", "the", "weird", "cut", "with", "a", "huge", "center", "line", "through", "it", "that", "was", "inedible", "."], "e1_text": "have", "e1_pos": 9, "e2_text": "serving", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "wish", "they", "would", "taste", "their", "food", "before", "serving", "it", "."], "e1_text": "taste", "e1_pos": 4, "e2_text": "serving", "e2_pos": 8, "label": "before"}
+]

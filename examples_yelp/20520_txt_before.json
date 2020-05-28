@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "we", "finally", "got", "our", "salads", "-LRB-", "about", "45", "minutes", "after", "ordering", "-RRB-", ",", "we", "were", "rushed", "through", "them", "before", "getting", "our", "meals", "just", "a", "couple", "minutes", "later", "."], "e1_text": "rushed", "e1_pos": 16, "e2_text": "getting", "e2_pos": 20, "label": "before"}
+]

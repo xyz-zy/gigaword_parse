@@ -1,0 +1,4 @@
+[
+{"tokens": ["APPARENTLY", ",", "I", "had", "no", "right", "to", "be", "angry", "after", "waiting", "a", "full", "HOUR", "for", "an", "APPOINTMENT", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "hope", "YOU", "stay", "away", "too", "after", "reading", "this", "."], "e1_text": "stay", "e1_pos": 3, "e2_text": "reading", "e2_pos": 7, "label": "after"}
+]

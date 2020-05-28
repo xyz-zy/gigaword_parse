@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "in", "the", "mood", "for", "burgers", "so", "we", "stopped", "here", "before", "heading", "out", "for", "the", "night", "!"], "e1_text": "stopped", "e1_pos": 9, "e2_text": "heading", "e2_pos": 12, "label": "before"},
+{"tokens": ["Sadly", "we", "had", "missed", "Gordon", "Ramsey", "in", "house", "when", "he", "came", "an", "hour", "before", "we", "stopped", "in", "for", "the", "one", "year", "anniversary", "of", "BurGR", "with", "a", "large", "burger", "Cake", "!"], "e1_text": "came", "e1_pos": 10, "e2_text": "stopped", "e2_pos": 15, "label": "before"}
+]

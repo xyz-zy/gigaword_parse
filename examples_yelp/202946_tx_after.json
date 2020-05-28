@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "we", "were", "seated", "almost", "immediately", "after", "arriving", "-LRB-", "a", "big", "plus", "in", "my", "ravenous", "state", "-RRB-", ",", "there", "were", "no", "specials", "to", "choose", "from", "&", "we", "were", "n't", "given", "any", "recommendations", "for", "cocktails", "even", "though", "I", ",", "for", "one", ",", "was", "definitely", "interested", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "arriving", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "thought", "a", "white", "would", "pair", "well", "with", "oysters", "on", "the", "half", "shell", "which", "it", "did", "but", "I", "was", "never", "even", "offered", "a", "second", "glass", ",", "even", "after", "wolving", "down", "the", "oysters", "-LRB-", "which", "were", "delicious", "-RRB-", "."], "e1_text": "pair", "e1_pos": 5, "e2_text": "wolving", "e2_pos": 28, "label": "after"}
+]

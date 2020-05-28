@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "roughly", "10", "minutes", "for", "our", "server", "to", "show", "the", "first", "time", "but", "after", "that", "he", "was", "there", "just", "as", "much", "as", "needed", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "was", "e2_pos": 17, "label": "after"},
+{"tokens": ["Considering", "we", "arrived", "with", "the", "after", "game", "crowd", "I", "think", "we", "got", "really", "good", "service", "and", "I", "would", "say", "at", "it", "'s", "peak", "the", "restaurant", "inside", "was", "about", "2\\/3", "full", "and", "dwindling", "as", "we", "were", "there", "Overall", "it", "is", "not", "a", "bad", "place", "and", "I", "would", "go", "again", "if", "invited", "but", "I", "want", "to", "try", "some", "other", "places", "in", "the", "area", "too", "on", "my", "infrequent", "trips", "downtown", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "think", "e2_pos": 9, "label": "after"}
+]

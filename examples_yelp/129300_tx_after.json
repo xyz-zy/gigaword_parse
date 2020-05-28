@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "Colorado", "lamb", "chops", "which", "came", "with", "baby", "spinach", "and", "mushroom", "risotto", ",", "I", "was", "very", "excited", "and", "shortly", "after", "became", "very", "disappointed", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "became", "e2_pos": 22, "label": "after"}
+]

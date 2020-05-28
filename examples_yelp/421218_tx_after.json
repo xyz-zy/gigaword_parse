@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "after", "a", "short", "night", "of", "experiencing", "Montreal", "nightlife", "after", "nearly", "every", "single", "bar", "was", "either", "at", "capacity", "or", "extremely", "shady", "looking", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "experiencing", "e2_pos": 8, "label": "after"},
+{"tokens": ["They", "have", "a", "weird", "system", "where", "you", "pay", "after", "you", "order", ",", "before", "you", "receive", "your", "dish", "."], "e1_text": "pay", "e1_pos": 7, "e2_text": "order", "e2_pos": 10, "label": "after"}
+]

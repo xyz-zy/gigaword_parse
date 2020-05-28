@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "n't", "find", "this", "out", "until", "after", "I", "had", "lived", "there", "a", "week", "and", "and", "went", "through", "several", "managers", "at", "Century", "Link", ",", "who", "happens", "to", "suck", "even", "more", "than", "Cox", ",", "just", "FYI", "."], "e1_text": "find", "e1_pos": 3, "e2_text": "had", "e2_pos": 9, "label": "after"},
+{"tokens": ["So", "the", "appointment", "is", "for", "3", "days", "after", "my", "last", "call", "to", "tech", "support", "-LRB-", "which", "is", "about", "4", "days", "after", "having", "the", "pro", "installation", "done", "-RRB-", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "is", "e2_pos": 3, "label": "after"},
+{"tokens": ["So", "now", "everything", "is", "finally", "working", ",", "and", "what", "do", "I", "get", "in", "the", "mail", "after", "just", "a", "week", "of", "service", "??", "A", "bill", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "??", "e2_pos": 21, "label": "after"}
+]

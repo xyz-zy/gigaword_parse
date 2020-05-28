@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "slow", ",", "the", "kitchen", "got", "my", "wife", "'s", "order", "wrong", ",", "and", "my", "drink", "-LRB-", "iced", "tea", "-RRB-", "did", "n't", "make", "it", "to", "my", "table", "until", "after", "my", "dinner", "did", ",", "and", "I", "had", "asked", "two", "different", "people", "for", "it", "."], "e1_text": "make", "e1_pos": 22, "e2_text": "did", "e2_pos": 20, "label": "after"}
+]

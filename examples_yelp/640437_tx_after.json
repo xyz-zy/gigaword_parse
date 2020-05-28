@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "overheard", "the", "server", "tell", "someone", "else", "about", "wine", "specials", ",", "but", "when", "I", "asked", "about", "what", "those", "were", "she", "said", ",", "''", "``", "Oh", ",", "it", "'s", "just", "our", "usual", "wine", "list", ",", "''", "''", "which", "she", "did", "n't", "bother", "to", "bring", "us", "even", "after", "I", "asked", "about", "that", "."], "e1_text": "bring", "e1_pos": 42, "e2_text": "asked", "e2_pos": 14, "label": "after"}
+]

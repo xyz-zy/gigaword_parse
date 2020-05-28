@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "group", "of", "friends", "booked", "2", "rooms", "in", "April", "for", "an", "event", "we", "will", "be", "attending", "in", "June", "and", "2", "weeks", "before", "the", "event", "they", "decide", "to", "make", "a", "new", "policy", "where", "all", "guests", "must", "be", "21", "+", "even", "though", "on", "their", "website", "under", "Policy", "it", "states", "all", "guests", "must", "show", "an", "18", "+", "i.d.", "and", "we", "talked", "to", "the", "front", "desk", "in", "April", "who", "said", "it", "was", "18", "+", "so", "that", "we", "could", "avoid", "this", "issue", "."], "e1_text": "attending", "e1_pos": 15, "e2_text": "decide", "e2_pos": 25, "label": "before"}
+]

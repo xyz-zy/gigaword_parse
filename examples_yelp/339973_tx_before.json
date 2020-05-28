@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "drink", "was", "fine", ",", "but", "my", "husband", "was", "feeling", "sick", "before", "we", "left", ",", "and", "I", "did", "n't", "feel", "great", "after", "having", "a", "few", "sips", "of", "his", "beer", "."], "e1_text": "feeling", "e1_pos": 9, "e2_text": "left", "e2_pos": 13, "label": "before"}
+]

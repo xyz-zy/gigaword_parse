@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'d", "like", "to", "comment", "on", "the", "food", ",", "but", "for", "the", "second", "time", "in", "a", "row", ",", "they", "are", "closed", "before", "their", "posted", "time", "."], "e1_text": "closed", "e1_pos": 20, "e2_text": "posted", "e2_pos": 23, "label": "before"}
+]

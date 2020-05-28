@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "expected", "more", "from", "the", "Diamond", ",", "but", "I", "would", "like", "to", "try", "some", "other", "menu", "options", "before", "I", "tell", "people", "not", "to", "go", "to", "this", "place", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "tell", "e2_pos": 19, "label": "before"}
+]

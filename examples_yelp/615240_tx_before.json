@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "company", "does", "not", "notify", "members", "when", "new", "shows", "are", "added", "-LRB-", "and", "per", "my", "emails", "with", "them", "requesting", "this", ",", "notes", "no", "plans", "to", "do", "so", "-RRB-", ",", "so", "the", "few", "shows", "that", "are", "of", "high", "quality", "are", "sold", "out", "before", "I", "have", "a", "chance", "to", "claim", "a", "ticket", "."], "e1_text": "sold", "e1_pos": 39, "e2_text": "have", "e2_pos": 43, "label": "before"}
+]

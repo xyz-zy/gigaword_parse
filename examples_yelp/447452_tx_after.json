@@ -1,0 +1,3 @@
+[
+{"tokens": ["Second", ",", "when", "one", "of", "my", "colleagues", "asked", "if", "some", "of", "our", "tables", "could", "get", "water", ",", "after", "waiting", "45", "minutes", ",", "the", "manager", "got", "in", "her", "face", "."], "e1_text": "asked", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 18, "label": "after"}
+]

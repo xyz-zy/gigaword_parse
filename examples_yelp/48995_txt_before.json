@@ -1,0 +1,3 @@
+[
+{"tokens": ["Because", "today", "I", "actually", "looked", "at", "my", "receipt", "when", "I", "pulled", "it", "out", "of", "my", "purse", "and", "before", "I", "threw", "it", "away", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "threw", "e2_pos": 19, "label": "before"}
+]

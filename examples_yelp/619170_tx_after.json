@@ -1,0 +1,4 @@
+[
+{"tokens": ["Price", "is", "very", "reasonable", ",", "and", "I", "have", "never", "once", "seen", "anything", "but", "dead", "bugs", "after", "they", "leave", "."], "e1_text": "seen", "e1_pos": 10, "e2_text": "leave", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "never", "have", "bug", "issues", "after", "they", "leave", ",", "and", "I", "always", "get", "GREAT", "customer", "service", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "leave", "e2_pos": 7, "label": "after"}
+]

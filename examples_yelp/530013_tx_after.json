@@ -1,0 +1,3 @@
+[
+{"tokens": ["Arlin", "B.", ",", "Mike", "C.", ",", "&", "I", "dropped", "in", "for", "lunch", "today", "after", "coming", "last", "Thursday", "when", "they", "were", "supposed", "to", "be", "open", "at", "11", "AM", "but", "never", "opened", "as", "we", "waited", "a", "while", "."], "e1_text": "dropped", "e1_pos": 8, "e2_text": "coming", "e2_pos": 14, "label": "after"}
+]

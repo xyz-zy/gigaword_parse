@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "on", "the", "classic", "burger", "but", "then", "changed", "to", "the", "2egg", "breakfast", "after", "looking", "at", "the", "breakfast", "menu", "."], "e1_text": "changed", "e1_pos": 8, "e2_text": "looking", "e2_pos": 14, "label": "after"},
+{"tokens": ["Delicious", "came", "to", "mind", "after", "I", "devoured", "my", "plate", "."], "e1_text": "mind", "e1_pos": 3, "e2_text": "devoured", "e2_pos": 6, "label": "after"}
+]

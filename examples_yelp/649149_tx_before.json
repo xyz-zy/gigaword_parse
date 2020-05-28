@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "very", "slow", ":", "it", "took", "over", "45", "minutes", "for", "the", "waitress", "to", "get", "hummus", "to", "the", "table", "and", "it", "was", "over", "two", "hours", "before", "we", "were", "served", "our", "entrees", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

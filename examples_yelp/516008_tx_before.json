@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "parked", "in", "the", "designated", "spot", "for", "the", "store", "and", "she", "came", "out", "before", "my", "engine", "was", "off", "telling", "me", "that", "I", "could", "not", "go", "to", "the", "bank", "?!?", "I", "was", "n't", "going", "to", "the", "bank", ",", "I", "was", "going", "to", "buy", "some", "jerky", "for", "a", "party", "tonight", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

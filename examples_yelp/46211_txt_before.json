@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "seems", "that", "the", "kitchen", "DID", "make", "the", "bread", "as", "our", "waitress", "promised", "so", "long", "ago", ",", "but", "the", "order", "sat", "out", "for", "quite", "awhile", "before", "it", "made", "it", "to", "us", "."], "e1_text": "sat", "e1_pos": 20, "e2_text": "made", "e2_pos": 27, "label": "before"}
+]

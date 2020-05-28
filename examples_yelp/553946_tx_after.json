@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "while", "-LRB-", "and", "several", "others", "who", "were", "seated", "after", "us", "getting", "their", "food", "as", "we", "sat", "hungrily", "-RRB-", "the", "server", "informs", "us", "that", "there", "was", "some", "mix", "up", "with", "the", "chef", ",", "and", "that", "he", "was", "bringing", "a", "free", "appetizer", "to", "apologize", "."], "e1_text": "seated", "e1_pos": 9, "e2_text": "getting", "e2_pos": 12, "label": "after"},
+{"tokens": ["None", "of", "us", "were", "wowed", "-LRB-", "I", "was", "actually", "happy", "he", "missed", "that", "I", "'d", "ordered", "fries", "after", "tasting", "my", "mom", "'s", ",", "which", "were", "the", "same", "I", "ordered", "-RRB-", ",", "but", "it", "was", "n't", "nasty", "."], "e1_text": "ordered", "e1_pos": 15, "e2_text": "tasting", "e2_pos": 18, "label": "after"}
+]

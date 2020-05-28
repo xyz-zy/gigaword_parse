@@ -1,0 +1,4 @@
+[
+{"tokens": ["Getting", "my", "bill", "an", "hour", "before", "the", "movie", "ended", "probably", "lost", "AMC", "~", "$", "15", "in", "extra", "sales", "."], "e1_text": "Getting", "e1_pos": 0, "e2_text": "ended", "e2_pos": 8, "label": "before"},
+{"tokens": ["When", "it", "came", "time", "to", "deliver", "the", "bill", ",", "Jackson", "had", "them", "all", "organized", "and", "just", "walked", "up", "the", "stairs", "and", "handed", "everyone", "their", "bill", "-", "he", "knew", "who", "'s", "bill", "was", "who", "'s", "before", "he", "walked", "up", "the", "stairs", "."], "e1_text": "'s", "e1_pos": 29, "e2_text": "walked", "e2_pos": 16, "label": "before"}
+]

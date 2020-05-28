@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "tasted", "Nepalese", "food", "before", "I", "dined", "at", "Yak", "and", "Yeti", "and", "I", "was", "not", "disappointed", "."], "e1_text": "tasted", "e1_pos": 3, "e2_text": "dined", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "had", "no", "idea", "what", "Nepalese", "food", "was", "before", "I", "went", "and", "I", "'m", "still", "not", "too", "sure", "now", "as", "a", "lot", "of", "the", "dishes", "on", "the", "menu", "were", "Indian", "such", "as", "Chicken", "Korma", "and", "Vindaloo", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

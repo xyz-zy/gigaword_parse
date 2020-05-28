@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "went", "as", "it", "should", "for", "that", "visit", "and", "left", "me", "thinking", "that", "I", "would", "like", "to", "come", "back", "before", "we", "leave", "town", "."], "e1_text": "come", "e1_pos": 17, "e2_text": "leave", "e2_pos": 21, "label": "before"},
+{"tokens": ["We", "walked", "in", "and", "I", "said", "good", "morning", "after", "it", "was", "apparent", "that", "they", "were", "going", "to", "finish", "their", "conversation", "before", "greeting", "or", "seating", "us", "."], "e1_text": "finish", "e1_pos": 17, "e2_text": "greeting", "e2_pos": 21, "label": "before"}
+]

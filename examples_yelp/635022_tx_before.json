@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "night", "I", "went", "to", "the", "high", "roller", "right", "before", "they", "were", "closing", "to", "purchase", "the", "last", "ride", "at", "the", "pay", "station", "-LRB-", "which", "was", "n't", "working", "-RRB-", ",", "we", "then", "found", "a", "high", "roller", "store", "that", "sold", "the", "tickets", "who", "would", "n't", "service", "us", "because", "we", "were", "a", "couple", "mins", "late", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

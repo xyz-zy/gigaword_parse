@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "small", "conversation", "back", "and", "forth", "explaining", "my", "disappointment", ",", "they", "were", "very", "apologetic", "and", "mentioned", "that", "after", "supposedly", "selling", "over", "150,000", "burgers", "this", "year", "they", "'re", "bound", "to", "mess", "up", "occasionally", "."], "e1_text": "mentioned", "e1_pos": 16, "e2_text": "selling", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "were", "pretty", "good", ",", "but", "I", "honestly", "think", "the", "server", "forgot", "to", "put", "our", "appetizer", "order", "in", ",", "after", "waiting", "for", "so", "long", ",", "they", "really", "should", "have", "been", "COMP", "`", "ed", "."], "e1_text": "put", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 20, "label": "after"}
+]

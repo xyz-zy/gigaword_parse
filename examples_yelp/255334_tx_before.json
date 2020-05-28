@@ -1,0 +1,4 @@
+[
+{"tokens": ["Two", "weeks", "after", "I", "purchased", "and", "had", "the", "tires", "installed", ",", "I", "felt", "a", "vibration", "in", "the", "steering", "wheel", "and", "waited", "a", "few", "weeks", "before", "I", "brought", "the", "car", "for", "an", "inspection", "."], "e1_text": "waited", "e1_pos": 20, "e2_text": "brought", "e2_pos": 26, "label": "before"},
+{"tokens": ["In", "addition", ",", "since", "I", "left", "the", "car", "before", "they", "opened", "that", "day", ",", "I", "was", "expecting", "a", "call", "that", "never", "came", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "opened", "e2_pos": 10, "label": "before"}
+]

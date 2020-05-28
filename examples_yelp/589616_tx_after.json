@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "showed", "up", "around", "8p", "with", "my", "friend", "Adam", "M.", "to", "check", "this", "place", "out", "after", "having", "a", "sampling", "of", "Taco", "Taco", "at", "the", "Yelp", "89XXXhibition", "Block", "Party", "last", "month", "."], "e1_text": "check", "e1_pos": 11, "e2_text": "having", "e2_pos": 16, "label": "after"},
+{"tokens": ["All", "of", "the", "tacos", "have", "very", "generous", "helpings", "of", "meats", "that", ",", "after", "being", "well", "salsa-ed", ",", "sit", "on", "the", "strongest", "little", "corn", "tortillas", "I", "have", "ever", "seen", "."], "e1_text": "have", "e1_pos": 4, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

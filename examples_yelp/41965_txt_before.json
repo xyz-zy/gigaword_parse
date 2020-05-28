@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bizaar", "will", "get", "my", "8", "grand", "long", "before", "GC", "does", ".", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "does", "e2_pos": 9, "label": "before"},
+{"tokens": ["OK", "There", "are", "no", "pros", "for", "this", "crappy", "place", "except", "getting", "to", "bang", "out", "or", "explore", "options", "before", "I", "purchase", "somewhere", ",", "anywhere", "else", "."], "e1_text": "explore", "e1_pos": 15, "e2_text": "purchase", "e2_pos": 19, "label": "before"}
+]

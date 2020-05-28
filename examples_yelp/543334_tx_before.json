@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "lacked", "knowledge", "of", "products", "-LRB-", "he", "couldnt", "answer", "simple", "questions", "about", "the", "durability", "of", "the", "different", "ring", "materials", ",", "and", "referred", "to", "the", "color", "of", "one", "as", "''", "``", "a", "metal", "color", "''", "''", "-RRB-", ",", "he", "called", "us", "by", "the", "wrong", "name", "3", "times", ",", "he", "tried", "to", "sell", "us", "a", "credit", "card", "before", "we", "even", "picked", "out", "a", "ring", "to", "buy", "!", "."], "e1_text": "sell", "e1_pos": 50, "e2_text": "picked", "e2_pos": 58, "label": "before"},
+{"tokens": ["Note", "to", "Kays", ":", "train", "your", "employees", "before", "you", "let", "them", "out", "on", "the", "floor", "by", "themselves", "to", "make", "a", "complete", "mockery", "of", "your", "store", "."], "e1_text": "train", "e1_pos": 4, "e2_text": "let", "e2_pos": 9, "label": "before"}
+]

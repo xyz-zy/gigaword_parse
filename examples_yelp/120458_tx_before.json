@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "often", "stay", "at", "The", "Artisan", "off", "Sahara", "-LRB-", "I", "'ll", "post", "a", "review", "-RRB-", "and", "it", "was", "the", "same", "price", "as", "Binion", "'s", "but", "I", "had", "never", "stayed", "at", "Binion", "'s", "before", ",", "it", "was", "on", "my", "list", "of", "places", "to", "try", "and", "I", "wanted", "to", "meet", "up", "with", "all", "my", "friends", "to", "go", "drinking", "so", "it", "was", "the", "right", "location", "."], "e1_text": "stayed", "e1_pos": 28, "e2_text": "was", "e2_pos": 17, "label": "before"},
+{"tokens": ["Parking", "is", "a", "bit", "of", "a", "walk", "away", "if", "you", "have", "bags", "though", "so", "bear", "this", "in", "mind", "before", "you", "start", "the", "hike", "."], "e1_text": "bear", "e1_pos": 14, "e2_text": "start", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "for", "a", "glass", "of", "water", "2", "times", "and", "had", "to", "go", "to", "the", "bar", "to", "get", "it", "myself", "and", "they", "simply", "refused", "to", "bring", "you", "a", "clean", "plate", ",", "after", "asking", "for", "one", "2", "times", "I", "gave", "up", "."], "e1_text": "refused", "e1_pos": 23, "e2_text": "asking", "e2_pos": 32, "label": "after"}
+]

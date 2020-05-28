@@ -1,0 +1,5 @@
+[
+{"tokens": ["they", "agreed", "to", "reverse", "the", "charge", ",", "but", "only", "after", "i", "read", "my", "credit", "card", "info", "to", "them", "over", "the", "phone", "."], "e1_text": "agreed", "e1_pos": 1, "e2_text": "read", "e2_pos": 11, "label": "after"},
+{"tokens": ["if", "they", "had", "my", "number", "to", "bill", "me", "for", "the", "mysterious", "bottle", "after", "i", "checked", "out", ",", "why", "do", "they", "need", "me", "to", "read", "them", "the", "number", "again", "to", "reverse", "the", "mistake", "?"], "e1_text": "bill", "e1_pos": 6, "e2_text": "checked", "e2_pos": 14, "label": "after"},
+{"tokens": ["and", "yet", "my", "room", "was", "charged", "after", "i", "checked", "out", "."], "e1_text": "charged", "e1_pos": 5, "e2_text": "checked", "e2_pos": 8, "label": "after"}
+]

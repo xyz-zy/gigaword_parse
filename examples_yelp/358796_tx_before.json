@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "can", "honestly", "say", "I", "have", "never", "received", "such", "terrible", "service", "before", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "love", "this", "place", "but", "I", "must", "say", "it", "will", "be", "a", "while", "before", "I", "even", "want", "to", "think", "about", "coming", "back", "here", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "want", "e2_pos": 16, "label": "before"}
+]

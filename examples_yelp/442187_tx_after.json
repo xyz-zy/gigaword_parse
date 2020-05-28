@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "wife", "and", "I", "first", "stopped", "in", "-LRB-", "after", "moving", "from", "Carson", "City", ",", "where", "there", "are", "no", "Albertson", "'s", "-RRB-", ",", "we", "asked", "a", "cashier", "if", "they", "offered", "a", "savings", "card", "."], "e1_text": "stopped", "e1_pos": 6, "e2_text": "moving", "e2_pos": 10, "label": "after"}
+]

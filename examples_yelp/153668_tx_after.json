@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "them", "I", "wanted", "their", "cameras", "checked", "and", "after", "3", "long", "hours", "of", "waiting", "for", "an", "answer", "I", "was", "told", "that", "the", "cameras", "did", "not", "show", "anything", "...", "The", "angle", "I", "was", "sitting", "was", "not", "captured", "by", "the", "camera", "."], "e1_text": "wanted", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 14, "label": "after"},
+{"tokens": ["Every", "person", "I", "seemed", "to", "talk", "to", "just", "gave", "me", "the", "run", "around", "and", "after", "arriving", "home", "I", "called", "and", "over", "the", "phone", "I", "still", "had", "to", "deal", "with", "unprofessional", "customer", "service", "."], "e1_text": "gave", "e1_pos": 8, "e2_text": "arriving", "e2_pos": 15, "label": "after"}
+]

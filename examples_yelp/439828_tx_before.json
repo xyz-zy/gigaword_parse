@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "couple", "who", "walked", "in", "right", "before", "was", "in", "and", "out", "before", "our", "food", "even", "came", "out", "to", "the", "table", "."], "e1_text": "walked", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["Plus", "the", "group", "that", "came", "in", "20", "minutes", "or", "so", "after", "us", "got", "their", "food", "at", "the", "same", "exact", "time", "and", "had", "ordered", "an", "appetizer", "!!", "That", "same", "group", "also", "left", "before", "we", "were", "even", "given", "our", "check", "."], "e1_text": "left", "e1_pos": 30, "e2_text": "were", "e2_pos": 33, "label": "before"}
+]

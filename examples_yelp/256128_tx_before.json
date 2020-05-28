@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "certain", "time", "at", "night", ",", "you", "are", "required", "to", "show", "security", "your", "room", "card", "before", "entering", "the", "elevator", "banks", "."], "e1_text": "show", "e1_pos": 11, "e2_text": "entering", "e2_pos": 17, "label": "before"}
+]

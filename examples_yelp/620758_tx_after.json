@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "customers", "leave", "satisfied", "with", "the", "food", "but", "disgruntled", "over", "the", "service", "after", "paying", "nearly", "three", "bills", "for", "a", "mediocre", "dining", "experience", ",", "you", "end", "up", "losing", "a", "repeat", "customer", "."], "e1_text": "disgruntled", "e1_pos": 8, "e2_text": "paying", "e2_pos": 13, "label": "after"}
+]

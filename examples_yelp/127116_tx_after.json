@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "I", "did", "n't", "get", "a", "tub", ",", "I", "was", "gon", "na", "hit", "the", "pool", "but", "the", "stupid", "place", "closed", "right", "after", "I", "finished", "my", "seminars", "so", "I", "looked", "for", "the", "jacuzzi", "."], "e1_text": "closed", "e1_pos": 19, "e2_text": "finished", "e2_pos": 23, "label": "after"}
+]

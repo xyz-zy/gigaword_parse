@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "alot", "of", "research", "due", "to", "her", "reaction-What", "I", "learned", "was", "first-do", "your", "research", "before", "agreeing", "to", "any", "procedure", "."], "e1_text": "first-do", "e1_pos": 12, "e2_text": "agreeing", "e2_pos": 16, "label": "before"},
+{"tokens": ["So", "with", "a", "cost", "well", "over", "$", "1000.00", "between", "annual", "check-up", ",", "tooth", "cleaning", ",", "and", "extraction-I", "am", "walking", "alone", ",", "without", "my", "best", "friend", ",", "wishing", "I", "wish", "I", "had", "done", "my", "research", "on", "the", "risks-not", "given", "blind", "trust", "to", "this", "vet.Edu", "cate", "yourself", ",", "before", "trusting", "this", "vet", "with", "your", "best", "friend", "'s", "life", "."], "e1_text": "given", "e1_pos": 37, "e2_text": "trusting", "e2_pos": 47, "label": "before"}
+]

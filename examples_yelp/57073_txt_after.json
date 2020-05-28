@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "would", "they", "have", "rented", "that", "to", "me", "after", "showing", "me", "an", "apartment", "with", "pristine", "carpet", "?"], "e1_text": "rented", "e1_pos": 4, "e2_text": "showing", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "performed", "our", "pre-move", "in", "inspection", ",", "which", "of", "course", "we", "were", "n't", "even", "allowed", "into", "the", "apartment", "before", "we", "were", "given", "keys", "after", "signing", "our", "lease", "."], "e1_text": "given", "e1_pos": 21, "e2_text": "signing", "e2_pos": 24, "label": "after"}
+]

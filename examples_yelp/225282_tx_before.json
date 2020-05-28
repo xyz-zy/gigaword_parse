@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "live", "music", "at", "8", "pm", "and", "we", "enjoyed", "the", "band", "of", "two", "for", "a", "few", "songs", "before", "we", "called", "it", "a", "night", "."], "e1_text": "enjoyed", "e1_pos": 9, "e2_text": "called", "e2_pos": 20, "label": "before"}
+]

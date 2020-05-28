@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "we", "ordered", "one", "of", "the", "goblet", "drinks", ",", "with", "our", "water", ",", "we", "started", "getting", "sick", "to", "our", "stomachs", "before", "our", "food", "came", "."], "e1_text": "getting", "e1_pos": 15, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["One", "of", "us", "ate", "and", "finished", "the", "soup", "portion", "of", "a", "soup", "&", "salad", "before", "the", "rest", "of", "us", "got", "anything", "."], "e1_text": "ate", "e1_pos": 3, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "there", "at", "about", "5:15", "pm", "-LRB-", "they", "open", "at", "5:30", "pm", "for", "dinner", "-RRB-", "after", "reading", "some", "reviews", "saying", "that", "this", "place", "has", "a", "long", "wait", "and", "I", "did", "n't", "want", "to", "wait", "in", "line", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "reading", "e2_pos": 16, "label": "after"},
+{"tokens": ["There", "were", "a", "few", "people", "waiting", "in", "line", "already", "and", "more", "people", "came", "after", "we", "got", "in", "line", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "got", "e2_pos": 15, "label": "after"}
+]

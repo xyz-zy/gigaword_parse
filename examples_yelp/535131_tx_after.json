@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "been", "to", "Vegas", "in", "July", "'", "10", "...", "It", "was", "right", "after", "Due", "became", "Vegas", "Best", "...", "There", "was", "a", "handsome", "gentleman", "with", "amazing", "customer", "service", "named", "Jason", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "became", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "went", "back", "after", "singing", "the", "praises", "of", "this", "place", "...", "Dreaming", "of", "this", "amazing", "pizza", "!"], "e1_text": "went", "e1_pos": 1, "e2_text": "singing", "e2_pos": 4, "label": "after"}
+]

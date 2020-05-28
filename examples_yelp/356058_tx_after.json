@@ -1,0 +1,4 @@
+[
+{"tokens": ["Its", "cool", "for", "about", "3", "minutes", "to", "see", "what", "they", "'ve", "made", "there", ",", "but", "after", "that", "you", "wonder", "why", "you", "paid", "to", "get", "in", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "wonder", "e2_pos": 18, "label": "after"},
+{"tokens": ["Actually", "the", "most", "fun", "I", "had", "was", "spitting", "on", "the", "ice", "table", "and", "setting", "my", "glass", "-LRB-", "made", "of", "ice", "-RRB-", "on", "it", "and", "then", "watching", "the", "bus", "boy", "try", "and", "remove", "it", "after", "it", "was", "frozen", "."], "e1_text": "remove", "e1_pos": 31, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

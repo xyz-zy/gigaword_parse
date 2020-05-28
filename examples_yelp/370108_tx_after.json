@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "it", "'s", "comforting", "to", "know", "they", "will", "put", "a", "small", "effort", "in", "to", "keeping", "guests", "comfortable", "after", "they", "complain", "."], "e1_text": "keeping", "e1_pos": 15, "e2_text": "complain", "e2_pos": 20, "label": "after"},
+{"tokens": ["Also", ",", "the", "2nd", "time", "we", "had", "to", "move", ",", "after", "waiting", "20", "minutes", "for", "the", "new", "keys", ",", "we", "received", "a", "call", "asking", "if", "we", "'d", "been", "given", "them", "yet", "and", "had", "a", "chance", "to", "view", "the", "new", "room", "."], "e1_text": "move", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "hungry", "family", ",", "its", "after", "7pm", ",", "you", "already", "failed", "at", "the", "only", "thing", "you", "do", "and", "then", "you", "lied", "to", "me", "and", "the", "whole", "time", "you", "are", "yelling", "...", "that", "'s", "ok", "-", "I", "would", "rather", "tell", "customers", "to", "beware", "of", "BAD", "PIZZA", ",", "WORSE", "WINGS", "and", "horrible", "cust", "service", "before", "they", "waste", "their", "time", "and", "money", "."], "e1_text": "beware", "e1_pos": 43, "e2_text": "waste", "e2_pos": 56, "label": "before"}
+]

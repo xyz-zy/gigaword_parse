@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "baked", "eggs", "in", "marinara", "sauce", ",", "something", "I", "had", "never", "eaten", "before", ",", "and", "I", "enjoyed", "it", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "had", "e2_pos": 1, "label": "before"},
+{"tokens": ["The", "potatoes", "were", "prepared", "differently", "even", "though", "we", "had", "ordered", "them", "the", "same", "as", "before", "."], "e1_text": "prepared", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

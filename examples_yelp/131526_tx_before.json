@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "the", "banana", "was", "fresh", ",", "the", "ice", "cream", "was", "melted", "before", "we", "left", "the", "store", "."], "e1_text": "melted", "e1_pos": 10, "e2_text": "left", "e2_pos": 13, "label": "before"}
+]

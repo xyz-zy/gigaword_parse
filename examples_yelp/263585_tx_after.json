@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "even", "better", ",", "great", "customer", "service", "!!", "We", "arrived", "after", "the", "kitchen", "closed", ",", "but", "to", "help", "us", "eat", "a", "healthy", ",", "hearty", "meal", ",", "Aram", "took", "our", "order", "and", "gave", "us", "great", "take", "out", "."], "e1_text": "arrived", "e1_pos": 9, "e2_text": "closed", "e2_pos": 13, "label": "after"}
+]

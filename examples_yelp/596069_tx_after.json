@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "tried", "almost", "every", "restaurant", "Las", "Vegas", "has", "to", "offer", ",", "and", "I", "can", "tell", "you", "now", ",", "after", "visiting", "Juan", "'s", "almost", "10", "times", ",", "there", "is", "no", "question", "that", "Juan", "'s", "is", "the", "best", "."], "e1_text": "tell", "e1_pos": 15, "e2_text": "visiting", "e2_pos": 20, "label": "after"}
+]

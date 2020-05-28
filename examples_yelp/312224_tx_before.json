@@ -1,0 +1,4 @@
+[
+{"tokens": ["like", "i", "said", "before", "it", "'s", "a", "bit", "pricy", ",", "but", "worth", "it", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "'s", "e2_pos": 5, "label": "before"},
+{"tokens": ["the", "worst", "part", "about", "it", "we", "went", "when", "it", "was", "n't", "busy", "at", "all", "...", "maybe", "it", "was", "the", "fact", "that", "there", "was", "a", "table", "next", "to", "us", "spending", "a", "lot", "of", "$", "$", "$", "$", "because", "he", "was", "going", "to", "their", "table", "non-stop", "and", "their", "food", "came", "out", "faster", "than", "ours", "...", "even", "though", "we", "ordered", "10", "mins", "before", "they", "did", ":", "-LRB-"], "e1_text": "ordered", "e1_pos": 56, "e2_text": "did", "e2_pos": 61, "label": "before"}
+]

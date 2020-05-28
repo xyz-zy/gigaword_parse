@@ -1,0 +1,4 @@
+[
+{"tokens": ["Similar", "to", "several", "other", "pubs", "in", "the", "city", "center", "your", "cutlery", "and", "sauce", "turns", "up", "in", "a", "bucket", "shortly", "after", "you", "order", "."], "e1_text": "turns", "e1_pos": 13, "e2_text": "order", "e2_pos": 21, "label": "after"},
+{"tokens": ["Nobody", "asked", "if", "we", "wanted", "anything", ",", "if", "the", "meal", "was", "alright", ",", "or", "how", "it", "was", "after", "we", "finished", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "finished", "e2_pos": 19, "label": "after"}
+]

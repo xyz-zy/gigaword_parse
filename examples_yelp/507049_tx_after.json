@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "a", "brazilian", "wax", "here", ",", "after", "calling", "to", "see", "if", "there", "were", "any", "last", "minute", "cancellations", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "calling", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "had", "recently", "moved", "away", "after", "discovering", "one", "of", "my", "favorite", "places", "in", "New", "York", "-LRB-", "Uni-K", ",", "a", "chain", "with", "lots", "of", "fans", "-RRB-", ",", "I", "was", "looking", "for", "a", "similar", "place", "in", "Madison", "."], "e1_text": "moved", "e1_pos": 3, "e2_text": "discovering", "e2_pos": 6, "label": "after"}
+]

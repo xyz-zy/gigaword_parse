@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "have", "the", "opportunity", "to", "purchase", "overpriced", "beverages", "at", "a", "bar", "before", "entering", "into", "your", "pod", ",", "and", "you", "'re", "off", "."], "e1_text": "purchase", "e1_pos": 5, "e2_text": "entering", "e2_pos": 12, "label": "before"}
+]

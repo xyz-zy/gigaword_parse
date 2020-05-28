@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "was", "convinced", "that", "we", "were", "going", "to", "witness", "the", "second", "coming", "of", "Christ", "before", "a", "server", "approached", "our", "table", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "approached", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", "had", "just", "been", "book", "shopping", "before", "coming", "in", "here", "and", "I", "was", "thinking", "that", "maybe", "I", "had", "time", "to", "read", "my", "new", "book", "before", "we", "were", "waited", "on", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "coming", "e2_pos": 7, "label": "before"}
+]

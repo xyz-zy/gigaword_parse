@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "over", "an", "hour", "for", "anyone", "to", "come", "to", "our", "table", "to", "ask", "if", "we", "needed", "anything", "wrapped", "to-go", "-LRB-", "even", "though", "we", "finished", "eating", "15", "minutes", "before", "they", "even", "came", "to", "ask", "-RRB-", "."], "e1_text": "eating", "e1_pos": 25, "e2_text": "came", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", ",", "server", "appeared", "before", "we", "had", "even", "fully", "sat", "down", "-LRB-", "I", "was", "still", "trying", "to", "figure", "out", "where", "to", "set", "my", "purse", "-RRB-", "and", "asked", "what", "we", "wanted", "to", "drink", "."], "e1_text": "appeared", "e1_pos": 3, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "'ll", "think", "twice", "before", "going", "here", "again", "."], "e1_text": "think", "e1_pos": 2, "e2_text": "going", "e2_pos": 5, "label": "before"}
+]

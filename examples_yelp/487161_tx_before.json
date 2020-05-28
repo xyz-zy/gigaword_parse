@@ -1,0 +1,3 @@
+[
+{"tokens": ["Coffee", "with", "a", "vanilla", "mocha", "syrup", "which", "is", "perfectly", "but", "not", "overly", "sweet", "-LRB-", "stir", "a", "little", "before", "you", "drink", "-RRB-", "."], "e1_text": "stir", "e1_pos": 14, "e2_text": "drink", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["nobody", "really", "knew", "why", "the", "sales", "do", "n't", "match", "or", "why", "you", "cant", "use", "a", "coupon", "after", "price", "matching", "their", "own", "price", "from", "their", "own", "website", "...", "whatever", "."], "e1_text": "use", "e1_pos": 13, "e2_text": "matching", "e2_pos": 18, "label": "after"},
+{"tokens": ["She", "even", "price", "adjusted", "that", "one", "item", "to", "make", "sure", "we", "could", "use", "our", "coupon", "after", "price", "matching", "the", "website", "."], "e1_text": "use", "e1_pos": 12, "e2_text": "matching", "e2_pos": 17, "label": "after"}
+]

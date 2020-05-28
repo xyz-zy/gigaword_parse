@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "our", "main", "course", "we", "had", "the", "lobster", "gnocchi", "-LRB-", "after", "reading", "many", "reviews", "on", "how", "good", "this", "was", "-RRB-", ",", "the", "short", "rib", "ravioli", ",", "and", "a", "side", "of", "asparagus", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

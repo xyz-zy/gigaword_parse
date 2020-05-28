@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "butter", "cake", "is", "by", "far", "my", "favorite", "dessert", "if", "you", "still", "have", "room", "after", "everything", "else", "which", "is", "usually", "not", "the", "case", "for", "me", "."], "e1_text": "have", "e1_pos": 12, "e2_text": "is", "e2_pos": 3, "label": "after"},
+{"tokens": ["Plus", "the", "quarter", "is", "a", "cool", "place", "to", "walk", "around", "after", "dinner", "and", "iPic", "is", "right", "there", "to", "catch", "a", "movie", "at", "too", "."], "e1_text": "walk", "e1_pos": 8, "e2_text": "is", "e2_pos": 3, "label": "after"}
+]

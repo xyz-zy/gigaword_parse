@@ -1,0 +1,5 @@
+[
+{"tokens": ["Imagine", "my", "sadness", "when", "I", "was", "told", "by", "a", "manager", "that", "the", "whoozle-what", "in", "the", "oven", "kerplopped", "and", "the", "prime", "rib", "was", "a", "dried", "out", "mess", "-LRB-", "he", "explained", "what", "happened", ",", "but", "after", "I", "got", "the", "gist", "that", "I", "was", "n't", "getting", "the", "dinner", "I", "wanted", ",", "I", "tuned", "him", "out", "-RRB-", "."], "e1_text": "explained", "e1_pos": 28, "e2_text": "got", "e2_pos": 35, "label": "after"},
+{"tokens": ["He", "said", "he", "would", "return", "after", "getting", "my", "re-order", ",", "but", "never", "did", "."], "e1_text": "return", "e1_pos": 4, "e2_text": "getting", "e2_pos": 6, "label": "after"},
+{"tokens": ["And", "the", "entree", "came", "moments", "after", "I", "did", "the", "re-order", ",", "along", "with", "my", "date", "'s", "medium-well", "filet", "-", "are", "you", "pre-cooking", "the", "meat", "?"], "e1_text": "came", "e1_pos": 3, "e2_text": "did", "e2_pos": 7, "label": "after"}
+]

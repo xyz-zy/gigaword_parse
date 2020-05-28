@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "try", "to", "call", "talk", "to", "a", "manager", "after", "a", "manager", "they", "insist", "i", "pay", "a", "1000", "dollar", "penatly", "."], "e1_text": "call", "e1_pos": 3, "e2_text": "insist", "e2_pos": 12, "label": "after"},
+{"tokens": ["we", "have", "to", "sit", "at", "the", "aiport", "and", "use", "our", "laptop", "to", "get", "ticket", "with", "another", "airline", "to", "move", "on", "for", "our", "trip", "and", "after", "we", "have", "to", "spent", "even", "more", "for", "buy", "so", "many", "other", "last", "minute", "flight", "ticket", "to", "go", "to", "our", "other", "destination", "and", "go", "home", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "have", "e2_pos": 1, "label": "after"}
+]

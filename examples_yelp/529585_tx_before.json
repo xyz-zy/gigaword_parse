@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "a", "lot", "of", "research", "and", "read", "reviews", "before", "deciding", "to", "schedule", "an", "appointment", "with", "this", "office", "-LRB-", "just", "needed", "a", "yearly", "physical", "exam", "-RRB-", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "told", "her", "before", "I", "gave", "her", "that", "info", "that", "I", "wanted", "to", "know", "if", "it", "was", "common", "practice", "to", "have", "to", "call", "someone", "back", "to", "schedule", "an", "appointment", "and", "she", "told", "me", "if", "I", "called", "at", "lunch", "time", "that", "it", "was", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "gave", "e2_pos": 5, "label": "before"}
+]

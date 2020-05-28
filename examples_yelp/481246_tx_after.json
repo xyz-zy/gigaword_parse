@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "daughter", "went", "for", "her", "first", "time", "last", "night", "to", "Diva", "after", "purchasing", "through", "Groupon", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "purchasing", "e2_pos": 12, "label": "after"},
+{"tokens": ["Sounds", "to", "me", "after", "reading", "the", "previous", "reviews", "this", "is", "not", "an", "isolated", "incident", "."], "e1_text": "Sounds", "e1_pos": 0, "e2_text": "reading", "e2_pos": 4, "label": "after"}
+]

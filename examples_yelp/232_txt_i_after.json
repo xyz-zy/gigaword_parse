@@ -1,0 +1,4 @@
+[
+{"tokens": ["Jackie", "gave", "Tom", "three", "free", "samples", "of", "beers", "she", "thought", "he", "would", "like", "after", "talking", "to", "him", "about", "his", "beer", "drinking", "habits", "."], "e1_text": "like", "e1_pos": 12, "e2_text": "talking", "e2_pos": 14, "label": "after"},
+{"tokens": ["Another", "note", ":", "The", "bathrooms", "are", "shared", "with", "the", "Sing", "Sing", "karaoke", "bar", "that", "is", "in", "the", "same", "building", ",", "so", "expect", "drunk", "singing", "women", "in", "the", "bathrooms", "and", "brides-to-be", "puking", "in", "the", "stall", "next", "to", "you", "after", "enjoying", "too", "much", "alcohol", "at", "their", "bachelorette", "party", "...", "Yuck", "."], "e1_text": "expect", "e1_pos": 21, "e2_text": "enjoying", "e2_pos": 38, "label": "after"}
+]

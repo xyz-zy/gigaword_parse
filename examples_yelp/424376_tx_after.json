@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "do", "n't", "expect", "things", "to", "get", "to", "us", "immediately", "after", "ordering", ",", "which", "is", "why", "we", "'ve", "always", "called", "in", "a", "while", "before", "lunch", "to", "place", "our", "order", "each", "month", ",", "but", "over", "two", "hours", "?!", "And", "each", "time", "we", "called", "they", "'d", "just", "tell", "us", "that", "it", "was", "on", "its", "way", "and", "it", "would", "be", "there", "soon", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 11, "label": "after"}
+]

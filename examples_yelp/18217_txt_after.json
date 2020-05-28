@@ -1,0 +1,4 @@
+[
+{"tokens": ["HOWEVER", ",", "the", "girls", "at", "the", "registers", "are", "NEVER", "friendly", "&", "they", "lack", "the", "common", "sense", "to", "say", "''", "``", "thank", "you", "''", "''", "after", "taking", "your", "money", ",", "This", "has", "been", "a", "consistent", "theme", "over", "the", "years", "."], "e1_text": "are", "e1_pos": 7, "e2_text": "taking", "e2_pos": 25, "label": "after"},
+{"tokens": ["The", "clincher", "for", "me", "personally", "was", "when", "I", "bought", "several", "things", "-LRB-", "incl", "some", "firewood", "-RRB-", "at", "the", "front", "register", "&", "right", "after", "walking", "out", "a", "manager", "came", "up", "to", "my", "car", "asking", "if", "I", "had", "paid", "for", "the", "firewood", "."], "e1_text": "bought", "e1_pos": 8, "e2_text": "walking", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "only", "takes", "like", "40", "minutes", "to", "reach", "the", "3000", "foot", "summit", ",", "but", "none", "of", "the", "reviews", "mention", "that", "the", "trail", "goes", "back", "downhill", "again", "-LRB-", "you", "could", "turn", "around", "here", "-RRB-", "and", "just", "kinda", "wanders", "another", "1\\/2", "mile", "before", "winding", "up", "in", "a", "golf", "course", "."], "e1_text": "wanders", "e1_pos": 36, "e2_text": "winding", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "I", "would", "try", "out", "this", "location", "after", "my", "previous", "auto", "shop", "had", "closed", "and", "hoped", ",", "being", "that", "AAA", "recommended", "it", ",", "it", "would", "provide", "good", "honest", "service", "."], "e1_text": "try", "e1_pos": 4, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["But", "when", "I", "returned", "to", "have", "it", "looked", "at", "after", "the", "engine", "light", "went", "on", ",", "their", "''", "``", "diagnostics", "''", "''", "test", "was", "going", "to", "cost", "$", "105", "!"], "e1_text": "looked", "e1_pos": 7, "e2_text": "went", "e2_pos": 13, "label": "after"}
+]

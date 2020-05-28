@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "problem", "was", "that", ",", "only", "after", "standing", "at", "the", "hostess", "podium", "for", "nearly", "5", "minutes", "-LRB-", "in", "an", "awkward", "silence", "because", "there", "were", "no", "customers", "or", "staff", "-RRB-", "did", "any", "staff", "to", "appear", "to", "seat", "us", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "standing", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "visited", "this", "location", "before", "until", "some", "friends", "recently", "moved", "into", "nearby", "Litchfield", "Park", "."], "e1_text": "visited", "e1_pos": 3, "e2_text": "moved", "e2_pos": 11, "label": "before"},
+{"tokens": ["To", "our", "surprise", "it", "was", "less", "than", "10", "minutes", "before", "we", "were", "sat", "at", "a", "large", "booth", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

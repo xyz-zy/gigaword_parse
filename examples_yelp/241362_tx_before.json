@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "the", "new", "bags", "they", "have", "for", "the", "bulk", "foods", ",", "however", ",", "you", "have", "to", "write", "the", "SKU", "number", "on", "them", "first", "before", "filling", "them", "up", "and", "well", "that", "'s", "hard", "to", "do", "sometimes", ",", "not", "a", "ton", "of", "room", "and", "the", "pens", "do", "n't", "stretch", "to", "far", "."], "e1_text": "write", "e1_pos": 17, "e2_text": "filling", "e2_pos": 25, "label": "before"}
+]

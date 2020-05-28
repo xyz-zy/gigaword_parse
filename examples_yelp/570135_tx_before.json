@@ -1,0 +1,3 @@
+[
+{"tokens": ["FYI", ":", "If", "you", "come", "with", "8", "or", "more", "people", "they", "automatically", "charge", "an", "18", "%", "gratuity", "to", "your", "bill", "before", "you", "even", "sit", "down", "."], "e1_text": "charge", "e1_pos": 12, "e2_text": "sit", "e2_pos": 23, "label": "before"}
+]

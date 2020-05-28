@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "was", "bad", ",", "we", "didnt", "get", "water", "til", "almost", "10", "min", "after", "we", "sit", "down", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "sit", "e2_pos": 14, "label": "after"},
+{"tokens": ["Appetizer", "did", "n't", "come", "until", "after", "the", "main", "entree", "was", "served", "-LRB-", "happened", "the", "last", "time", "we", "went", "there", "too", ",", "PLS", "appetizer", "should", "go", "first", "-RRB-", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

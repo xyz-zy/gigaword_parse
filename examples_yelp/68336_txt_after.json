@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "Single", "Gentlemen", "came", "not", "to", "long", "after", "we", "did", "and", "right", "away", "he", "attended", "with", "water", "asking", "if", "he", "'s", "having", "his", "usual", "and", "second", "after", "his", "soup", "was", "brought", "to", "his", "table", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "did", "e2_pos": 9, "label": "after"},
+{"tokens": ["And", "another", "coworker", "that", "had", "just", "came", "in", "to", "start", "his", "shift", "came", "right", "after", "I", "put", "the", "tip", "in", "the", "book", ",", "-LRB-", "yes", "I", "did", "tip", ",", "I", "'m", "in", "the", "business", "so", "I", "understand", "the", "tipping", "process", "-RRB-", "but", "they", "made", "it", "seem", "as", "if", "I", "was", "n't", "leaving", "nothing", "and", "grabbed", "it", "right", "away", "to", "see", "if", "I", "did", "leave", "something", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "put", "e2_pos": 16, "label": "after"}
+]

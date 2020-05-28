@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "decided", "to", "go", "when", "I", "went", "out", "to", "dinner", "with", "my", "friend", "Monette", "and", "she", "had", "mentioned", "that", "she", "had", "it", "before", "and", "raved", "about", "it", "."], "e1_text": "mentioned", "e1_pos": 18, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "stepped", "aside", "to", "check", "out", "the", "menu", "and", "I", "ended", "up", "just", "getting", "plain", "vanilla", "but", "I", "added", "malt", "to", "it", "and", "let", "me", "tell", "you", "...", "it", "was", "was", "creamy", "as", "gelato", "!!", "I", "'ve", "had", "frozen", "custard", "before", "and", "a", "huge", "fan", "of", "it", "so", "I", "was", "a", "bit", "doubtful", "before", "I", "tasted", "it", "."], "e1_text": "creamy", "e1_pos": 31, "e2_text": "'ve", "e2_pos": 36, "label": "before"}
+]

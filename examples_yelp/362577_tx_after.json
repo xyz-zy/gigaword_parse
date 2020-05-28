@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "most", "recent", "time", "I", "went", "I", "ordered", "a", "tall", "java", "chip", "frappachino", "with", "no", "whipped", "cream", "and", "after", "I", "paid", "I", "was", "told", "it", "would", "be", "a", "little", "wait", "because", "they", "had", "to", "make", "more", "chocolate", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "paid", "e2_pos": 20, "label": "after"}
+]

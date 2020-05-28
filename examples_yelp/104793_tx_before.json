@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "for", "a", "replacement", "lapis", "bead", "bracelet", "as", "I", "had", "purchased", "a", "Scott", "Kay", "one", "from", "Saks.com", "and", "it", "broke", "at", "the", "San", "Jose", "Airport", "of", "course", "right", "before", "boarding", "the", "stupid", "plane", "."], "e1_text": "broke", "e1_pos": 21, "e2_text": "boarding", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "had", "seen", "one", "there", "before", "but", "it", "had", "one", "of", "those", "stupid", "day", "of", "the", "dead", "skulls", "on", "it", "."], "e1_text": "seen", "e1_pos": 2, "e2_text": "had", "e2_pos": 1, "label": "before"}
+]

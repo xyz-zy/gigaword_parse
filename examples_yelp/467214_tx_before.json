@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "three", "of", "us", "had", "a", "blast", "just", "riding", "around", "the", "parking", "lot", "getting", "our", "practice", "in", "before", "the", "actual", "tour", "had", "even", "started", "."], "e1_text": "getting", "e1_pos": 13, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["As", "far", "as", "the", "tour", ",", "our", "guide", "was", "a", "college", "kid", "in", "his", "twenties", "who", "was", "very", "personable", "and", "made", "sure", "everyone", "knew", "what", "they", "were", "doing", "before", "we", "set", "off", "."], "e1_text": "doing", "e1_pos": 27, "e2_text": "set", "e2_pos": 30, "label": "before"}
+]

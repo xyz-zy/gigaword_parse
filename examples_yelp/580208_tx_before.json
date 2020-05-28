@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "to", "Culinary", "Droupout", "before", ",", "this", "is", "the", "same", "thing", "with", "the", "addition", "of", "the", "large", "outside", "seating", "-LRB-", "...", "obviously", "-RRB-", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "is", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "would", "try", "it", "again", "if", "only", "to", "get", "a", "beer", "after", "work", ",", "or", "an", "appetizer", "before", "going", "out", "on", "the", "weekend", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

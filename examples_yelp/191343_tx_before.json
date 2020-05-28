@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ugh", ",", "i", "so", "wished", "i", "had", "internet", "access", "and", "had", "checked", "the", "reviews", "before", "we", "decided", "to", "eat", "at", "this", "place", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "decided", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "saw", "they", "had", "all", "you", "could", "eat", "sushi", "for", "$", "18.95", "and", "thought", "we", "'d", "give", "it", "a", "try", "before", "seeing", "a", "show", "."], "e1_text": "give", "e1_pos": 16, "e2_text": "seeing", "e2_pos": 21, "label": "before"}
+]

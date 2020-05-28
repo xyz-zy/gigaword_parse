@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "table", "next", "to", "us", "had", "to", "ask", "3", "different", "servers", "for", "their", "toast", "before", "it", "got", "bought", "out", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "got", "e2_pos": 16, "label": "before"},
+{"tokens": ["That", "means", "whoever", "used", "the", "Syrup", "next", "would", "be", "using", "Syrup", "that", "flies", "had", "been", "on", "-LRB-", "and", "the", "same", "goes", "for", "us", ",", "how", "many", "flies", "were", "on", "the", "Syrup", "bottle", "before", "we", "used", "it", "-RRB-", "."], "e1_text": "were", "e1_pos": 27, "e2_text": "used", "e2_pos": 3, "label": "before"}
+]

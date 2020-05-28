@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "on", "the", "phone", "in", "the", "parking", "lot", "finishing", "with", "a", "call", "for", "about", "five", "minutes", "before", "going", "in", "the", "restaurant", "."], "e1_text": "finishing", "e1_pos": 9, "e2_text": "going", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", "expressed", "our", "concern", "about", "the", "dirty", "tables", "and", "he", "stated", "that", "the", "parties", "had", "just", "left", "a", "minute", "before", "we", "got", "there", "."], "e1_text": "left", "e1_pos": 16, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

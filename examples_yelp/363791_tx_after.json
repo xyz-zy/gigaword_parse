@@ -1,0 +1,4 @@
+[
+{"tokens": [",", "an", "air", "conditioner", "that", "whistled", "after", "it", "was", "shut", "off", "and", "this", "room", "was", "harboring", "a", "family", "of", "crickets", "."], "e1_text": "whistled", "e1_pos": 5, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["Also", ",", "you", "should", "know", "I", "was", "charged", "for", "the", "extra", "night", "...", "after", "all", "that", "they", "refused", "to", "refund", "anything", "as", "it", "was", "n't", "their", "fault", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Would", "not", "recommend", "Sat", "down", "after", "ordering", "."], "e1_text": "recommend", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 6, "label": "after"},
+{"tokens": ["My", "burger", "came", "almost", "immediately", "after", "ordering", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "arrived", "after", "my", "burger", "Cheese", "on", "my", "burger", "was", "cold", "and", "gross", "Bussers", "never", "cleaned", "the", "area", "around", "me", "-LRB-", "was", "there", "about", "20", "minutes", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "book", "a", "room", "online", "and", "after", "filling", "in", "all", "my", "credit", "card", "information", "they", "added", "a", "25", "%", "resort", "fee", "after", "the", "fact", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "filling", "e2_pos": 9, "label": "after"}
+]

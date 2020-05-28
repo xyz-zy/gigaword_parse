@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "at", "our", "table", "20", "minutes", "before", "we", "even", "knew", "who", "our", "waiter", "was", "and", "another", "5", "minutes", "before", "he", "came", "back", "to", "take", "our", "order", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "knew", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "the", "worst", "dining", "experience", "ever", "!!!!", "My", "Daughter", "came", "into", "town", "the", "next", "night", "not", "knowing", "we", "went", "to", "STK", "the", "night", "before", ",", "She", "went", "to", "STK", ",", "She", "shared", "this", "with", "me", "the", "next", "morning", "at", "coffee", "."], "e1_text": "went", "e1_pos": 19, "e2_text": "went", "e2_pos": 19, "label": "before"}
+]

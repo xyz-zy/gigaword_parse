@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "get", "the", "feeling", "that", "would", "n't", "have", "been", "a", "perk", "if", "I", "was", "willing", "to", "pay", "for", "it", "-LRB-", "since", "they", "tried", "to", "sell", "me", "on", "it", "before", "telling", "me", "the", "car", "had", "it", "anyway", "-RRB-", "."], "e1_text": "sell", "e1_pos": 24, "e2_text": "telling", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "am", "glad", "I", "knew", "to", "look", "at", "the", "car", "before", "getting", "in", "since", "when", "I", "got", "to", "the", "''", "``", "check", "out", "''", "''", "they", "told", "me", "the", "cameras", "were", "n't", "working", "and", "I", "get", "the", "feeling", "had", "I", "not", "had", "the", "insurance", "they", "would", "n't", "have", "even", "looked", "at", "the", "car", "."], "e1_text": "look", "e1_pos": 6, "e2_text": "getting", "e2_pos": 11, "label": "before"}
+]

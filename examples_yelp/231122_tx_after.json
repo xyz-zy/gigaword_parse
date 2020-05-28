@@ -1,0 +1,5 @@
+[
+{"tokens": ["Maybe", "I", "ought", "to", "have", "held", "my", "enthusiasm", "until", "after", "I", "tasted", "the", "food", "."], "e1_text": "held", "e1_pos": 5, "e2_text": "tasted", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "grabbed", "for", "my", "water", "glass", "soon", "after", "taking", "a", "bite", "."], "e1_text": "grabbed", "e1_pos": 1, "e2_text": "taking", "e2_pos": 8, "label": "after"},
+{"tokens": ["Also", ",", "I", "think", "the", "wetness", "of", "the", "batter", "also", "made", "it", "hard", "to", "remain", "crisp", "on", "the", "outside", "because", "relatively", "soon", "after", "it", "came", "to", "the", "table", ",", "it", "started", "to", "become", "soggy", "."], "e1_text": "remain", "e1_pos": 14, "e2_text": "came", "e2_pos": 24, "label": "after"}
+]

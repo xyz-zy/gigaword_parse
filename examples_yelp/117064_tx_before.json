@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "appt", "time", "was", "at", "8:40", "am", ",", "I", "was", "kept", "waiting", "until", "9:10", "am", "before", "I", "was", "brought", "into", "a", "room", "."], "e1_text": "waiting", "e1_pos": 11, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "was", "told", "to", "wait", "for", "the", "lab", "work", "to", "come", "back", "before", "making", "any", "decisions", ",", "which", "at", "this", "point", "."], "e1_text": "come", "e1_pos": 10, "e2_text": "making", "e2_pos": 13, "label": "before"}
+]

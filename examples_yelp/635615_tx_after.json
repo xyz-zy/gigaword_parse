@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bianca", "has", "been", "my", "stylist", "for", "at", "least", "3", "years", "-", "luckily", "I", "found", "her", "soon", "after", "I", "moved", "to", "Vegas", "!"], "e1_text": "found", "e1_pos": 13, "e2_text": "moved", "e2_pos": 18, "label": "after"},
+{"tokens": ["Plus", ",", "she", "actually", "STYLES", "may", "hair", "after", "I", "'m", "all", "done", "."], "e1_text": "hair", "e1_pos": 6, "e2_text": "'m", "e2_pos": 9, "label": "after"}
+]

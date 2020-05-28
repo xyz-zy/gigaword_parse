@@ -1,0 +1,3 @@
+[
+{"tokens": ["Woohoo", ",", "I", "'ve", "found", "''", "``", "my", "''", "''", "new", "nail", "salon", "!!", "A", "friend", "and", "I", "visited", "Modern", "Nail", "after", "reading", "reviews", "here", "on", "Yelp", "."], "e1_text": "visited", "e1_pos": 18, "e2_text": "reading", "e2_pos": 22, "label": "after"}
+]

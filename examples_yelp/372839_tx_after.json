@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "just", "about", "two", "minutes", "after", "finishing", "those", "two", "items", "and", "magically", "came", "the", "pizza", "...", "It", "was", "phenomenal", ",", "thin", "crust", ",", "hot", ",", "and", "the", "right", "amount", "of", "ingredients", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 7, "label": "after"}
+]

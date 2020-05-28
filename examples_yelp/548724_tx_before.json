@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recently", "received", "the", "loupes", "and", "light", "about", "a", "week", "ago", "and", "have", "been", "using", "them", "for", "about", "a", "week", "now", "before", "writing", "this", "review", "."], "e1_text": "using", "e1_pos": 14, "e2_text": "writing", "e2_pos": 22, "label": "before"},
+{"tokens": ["Practicing", "for", "years", "before", "he", "came", "out", "with", "this", "product", ",", "he", "knows", "exactly", "what", "dentists", "need", "and", "are", "looking", "for", "."], "e1_text": "Practicing", "e1_pos": 0, "e2_text": "came", "e2_pos": 5, "label": "before"}
+]

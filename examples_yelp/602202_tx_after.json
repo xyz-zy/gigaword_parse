@@ -1,0 +1,3 @@
+[
+{"tokens": ["Used", "the", "same", "car", "wash", "after", "an", "oil", "change", "the", "car", "wash", "was", "free", "and", "the", "owner", "actually", "vacuumed", "and", "made", "sure", "that", "everything", "was", "satisfactory"], "e1_text": "wash", "e1_pos": 4, "e2_text": "change", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "night", "our", "service", "was", "slow", ",", "our", "waiter", "was", "difficult", "and", "when", "we", "left", "he", "started", "to", "accuse", "us", "of", "not", "paying", "-LRB-", "we", "left", "the", "full", "amount", "of", "the", "bill", "on", "the", "table", "with", "a", "overly-generous", "tip", "after", "we", "had", "not", "seen", "him", "for", "10", "MINUTES", "-RRB-", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "had", "e2_pos": 41, "label": "after"}
+]

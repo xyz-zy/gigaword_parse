@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "quote", "came", "a", "week", "later", "than", "they", "said", "and", "after", "I", "emailed", "them", "did", "it", "come", "a", "day", "later", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "emailed", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "felt", "after", "3", "attempts", "of", "clarifying", "the", "quote", ",", "that", "I", "was", "pulling", "teeth", "to", "get", "information", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "clarifying", "e2_pos": 6, "label": "after"}
+]

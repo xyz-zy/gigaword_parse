@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pros", "-", "Fun", "Ambiance", "-", "Original", "menu", "items", "-", "Solid", "burgers", "Cons", "-", "Overpriced", "-", "Uninspired", "salads", "-", "Slow", "-", "Unequipped", "Comments", ":", "I", "waited", "like", "an", "idiot", "while", "a", "party", "of", "3", ",", "who", "came", "at", "the", "EXACT", "same", "time", "as", "me", ",", "ordered", ",", "ate", "and", "left", "before", "a", "waitress", "even", "greeted", "my", "table", "of", "2", "."], "e1_text": "left", "e1_pos": 48, "e2_text": "greeted", "e2_pos": 53, "label": "before"}
+]

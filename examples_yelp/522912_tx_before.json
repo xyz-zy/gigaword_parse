@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pros", "about", "Yoforia", "-", "lots", "of", "different", "flavors", "to", "choose", "from", "plus", "you", "can", "sample", "every", "flavor", "before", "you", "commit", ",", "and", "since", "it", "is", "frozen", "yougurt", "-", "the", "calorie", "count", "is", "low", "per", "serving", "."], "e1_text": "sample", "e1_pos": 15, "e2_text": "commit", "e2_pos": 20, "label": "before"}
+]

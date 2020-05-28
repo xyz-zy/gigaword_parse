@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "were", "in", "town", "for", "a", "convention", "and", "this", "was", "the", "place", "we", "could", "not", "stop", "talking", "about", "for", "weeks", "before", "arriving", "."], "e1_text": "talking", "e1_pos": 19, "e2_text": "arriving", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "can", "get", "past", "that", "I", "have", "worked", "in", "restaurants", "before", "and", "I", "look", "past", "slow", "service", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "have", "e2_pos": 6, "label": "before"}
+]

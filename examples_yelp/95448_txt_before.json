@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "saw", "Dr.", "Rizzo", "last", "month", ",", "before", "seeing", "the", "doctor", "I", "waited", "in", "the", "lobby", "for", "almost", "2", "hours", "--", "the", "doctor", "ran", "in", "and", "out", "of", "the", "room", "paying", "no", "attention", ",", "asking", "no", "questions", "and", "leaving", "me", "feeling", "disappointed", "and", "concerned", "about", "his", "expertise", "."], "e1_text": "saw", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 8, "label": "before"}
+]

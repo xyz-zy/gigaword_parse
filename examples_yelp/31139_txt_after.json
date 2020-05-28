@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "spending", "close", "to", "$", "200", "on", "products", "today", ",", "I", "made", "an", "appt", "in", "the", "salon", "after", "some", "pushing", "from", "my", "mother", ",", "I", "usually", "go", "to", "Madison", "Ave", "for", "cuts", ",", "color", "etc.", "."], "e1_text": "made", "e1_pos": 11, "e2_text": "pushing", "e2_pos": 19, "label": "after"}
+]

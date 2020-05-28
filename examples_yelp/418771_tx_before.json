@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "woman", "who", "made", "the", "appointment", "neglected", "to", "mention", "that", "the", "car", "needed", "to", "sit", "for", "an", "hour", "before", "driving", "so", "that", "the", "seal", "would", "set", "."], "e1_text": "sit", "e1_pos": 14, "e2_text": "driving", "e2_pos": 19, "label": "before"}
+]

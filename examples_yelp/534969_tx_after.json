@@ -1,0 +1,3 @@
+[
+{"tokens": ["cashier", ":", "yes", "me", "to", "Jane", ":", "I", "guess", "we", "have", "to", "wait", "in", "line", "cashier", ":", "goes", "back", "to", "personal", "conversation", "with", "the", "other", "2", "cashiers", "Semi-happy", "ending", ":", "after", "a", "couple", "of", "minutes", "withing", "in", "line", ",", "the", "nice", "manager", "lady", "walks", "by", ",", "sees", "the", "line", "and", "goes", "to", "next", "check", "stand", "over", ",", "counts", "it", "in", "and", "calls", "us", "over", ".", "."], "e1_text": "goes", "e1_pos": 17, "e2_text": "withing", "e2_pos": 35, "label": "after"}
+]

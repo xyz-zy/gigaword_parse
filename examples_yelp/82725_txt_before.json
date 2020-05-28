@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "NEVER", "had", "this", "happen", "before", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "had", "e2_pos": 3, "label": "before"},
+{"tokens": ["And", "then", "spends", "a", "few", "minutes", "taking", "the", "different", "card", "and", "then", "talking", "to", "one", "of", "the", "other", "employees", "before", "helping", "the", "other", "4", "people", "in", "front", "of", "me", "."], "e1_text": "talking", "e1_pos": 12, "e2_text": "helping", "e2_pos": 20, "label": "before"}
+]

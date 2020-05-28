@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "car", "was", "returned", "a", "few", "hours", "late", ",", "and", "she", "had", "called", "the", "corporate", "number", "to", "let", "them", "know", ",", "but", "she", "received", "a", "very", "polite", "courtesy", "call", "after", "6", "or", "so", "hours", "just", "checking", "up", "."], "e1_text": "received", "e1_pos": 23, "e2_text": "checking", "e2_pos": 35, "label": "after"}
+]

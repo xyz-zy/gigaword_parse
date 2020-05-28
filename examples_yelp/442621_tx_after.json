@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "then", "agreed", "and", "canceled", "it", "so", "I", "could", "rebook", "without", "a", "fee", "after", "I", "argued", "with", "him", "."], "e1_text": "rebook", "e1_pos": 9, "e2_text": "argued", "e2_pos": 15, "label": "after"},
+{"tokens": ["So", "then", "today", "I", "decide", "to", "double", "check", "my", "hotel", "portion", "since", "I", "had", "not", "seen", "my", "card", "charged", "for", "the", "amount", "of", "the", "hotel", "yet", "which", "I", "found", "odd", "and", "sure", "enough", "after", "waiting", "for", "45", "minutes", "they", "inform", "me", "the", "reservation", "was", "canceled", "because", "my", "card", "could", "not", "be", "charged", "."], "e1_text": "found", "e1_pos": 28, "e2_text": "waiting", "e2_pos": 34, "label": "after"}
+]

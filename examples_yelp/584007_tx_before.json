@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "girl", "and", "I", "are", "at", "Caesars", "looking", "for", "a", "bite", "and", "I", "decided", "on", "Ramsey", "'s", "pub", "n", "grill", "so", "we", "stood", "at", "the", "hostess", "desk", "for", "a", "good", "fee", "minutes", "before", "we", "were", "even", "spoken", "to", "by", "one", "of", "the", "3", "girls", "in", "miniskirts", "that", "were", "talking", "to", "eachother", "."], "e1_text": "stood", "e1_pos": 22, "e2_text": "were", "e2_pos": 34, "label": "before"},
+{"tokens": ["We", "were", "seated", "and", "left", "alone", "for", "about", "5min", "before", "I", "had", "to", "flag", "down", "a", "busser", "to", "ask", "for", "a", "menu", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

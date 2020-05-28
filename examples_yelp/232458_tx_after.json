@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "on", "a", "scorching", "Friday", "afternoon", "and", "could", "n't", "wait", "to", "head", "to", "the", "pool", "after", "dropping", "our", "bags", "at", "our", "room", "."], "e1_text": "head", "e1_pos": 12, "e2_text": "dropping", "e2_pos": 17, "label": "after"},
+{"tokens": ["All", "the", "customer", "service", "we", "'d", "received", "to", "that", "point", "had", "been", "excellent", ",", "and", "continued", "to", "be", "when", "they", "dealt", "with", "our", "neighbors", "after", "a", "sleep-deprivation", "induced", "phone", "call", "from", "me", "around", "2", "a.m.", "."], "e1_text": "dealt", "e1_pos": 20, "e2_text": "call", "e2_pos": 29, "label": "after"}
+]

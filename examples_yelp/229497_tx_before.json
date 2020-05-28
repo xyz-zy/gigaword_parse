@@ -1,0 +1,4 @@
+[
+{"tokens": ["Given", "the", "context", "that", "could", "be", "really", "bad", "...", "but", "it", "was", "actually", "just", "the", "fact", "that", "he", "'d", "never", "been", "in", "a", "helicopter", "before", "!"], "e1_text": "was", "e1_pos": 11, "e2_text": "'d", "e2_pos": 18, "label": "before"},
+{"tokens": ["-", "haha", "-RRB-", "and", "actually", "ground", "and", "have", "a", "picnic", "before", "heading", "back", "to", "Sin", "City", "."], "e1_text": "have", "e1_pos": 7, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

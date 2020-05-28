@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "telling", "him", "about", "how", "good", "this", "place", "was", "because", "I", "had", "it", "before", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["Oh", "and", "I", "like", "to", "eat", "my", "fish", "first", "before", "I", "eat", "the", "rice", "because", "I", "actually", "enjoy", "the", "taste", "of", "sushi", "rice", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "eat", "e2_pos": 11, "label": "before"}
+]

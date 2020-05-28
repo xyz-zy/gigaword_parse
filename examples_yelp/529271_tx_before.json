@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "looked", "online", "at", "the", "Sunset", "website", "before", "ordering", "and", "learned", "upon", "arrival", "that", "`", "Sunset", "Pizzeria", "'", "is", "now", "`", "Rustica", "Pizzeria", "'", "with", "a", "new", "menu", "and", "new", ",", "higher", "prices", "."], "e1_text": "looked", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 8, "label": "before"}
+]

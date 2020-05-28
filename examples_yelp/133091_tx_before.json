@@ -1,0 +1,5 @@
+[
+{"tokens": ["Long", "story", "short", "after", "trying", "to", "take", "money", "from", "me", "before", "I", "was", "even", "seen", "-LRB-", "without", "giving", "me", "any", "idea", "of", "how", "much", "my", "visit", "might", "cost", "-RRB-", "I", "decided", "to", "leave", "."], "e1_text": "take", "e1_pos": 6, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["Also", "-", "as", "we", "sat", "there", "for", "over", "an", "hr", "waiting", "for", "our", "appointment", "we", "noticed", "people", "coming", "in", "and", "being", "seen", "even", "though", "I", "was", "there", "before", "."], "e1_text": "seen", "e1_pos": 21, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["So", "I", "'m", "confused", "as", "to", "why", "people", "arriving", "for", "2PM", "apts", "were", "seen", "before", "me", "that", "had", "a", "1PM", "apt", "."], "e1_text": "seen", "e1_pos": 13, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

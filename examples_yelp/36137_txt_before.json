@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "last", "visit", "was", "3\\/3\\/12", "and", "again", ",", "I", "called", "35", "minutes", "before", "arriving", "to", "order", "chips", "and", "salsa", "for", "a", "party", "."], "e1_text": "called", "e1_pos": 9, "e2_text": "arriving", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "walked", "in", "and", "waited", "7", "minutes", "before", "being", "greeted", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "before"}
+]

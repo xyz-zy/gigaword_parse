@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "like", "they", "threw", "in", "these", "awful", "garlic", "cloves", "5", "minutes", "before", "the", "sauce", "was", "done", "cooking", "."], "e1_text": "threw", "e1_pos": 4, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["But", "do", "n't", "feel", "too", "sorry", "for", "us", "...", "the", "table", "next", "to", "us", "was", "seated", "before", "we", "were", "."], "e1_text": "seated", "e1_pos": 15, "e2_text": "were", "e2_pos": 18, "label": "before"}
+]

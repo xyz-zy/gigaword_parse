@@ -1,0 +1,4 @@
+[
+{"tokens": ["Moto", "is", "a", "very", "friendly", ",", "neighborhood", "place", "where", "it", "only", "takes", "a", "few", "visits", "before", "the", "staff", "calls", "you", "by", "name", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "calls", "e2_pos": 18, "label": "before"},
+{"tokens": ["Watch", "out", "for", "those", "high", "%", "beers", ";", "it", "does", "n't", "take", "much", "before", "you", "'ve", "over", "done", "your", "intentions", "!"], "e1_text": "take", "e1_pos": 11, "e2_text": "'ve", "e2_pos": 15, "label": "before"}
+]

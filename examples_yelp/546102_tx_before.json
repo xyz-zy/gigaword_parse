@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wrote", "an", "email", "regarding", "the", "X", "Bar", "and", "it", "took", "almost", "a", "week", "before", "they", "replied", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "replied", "e2_pos": 16, "label": "before"},
+{"tokens": ["Again", ",", "I", "do", "n't", "discourage", "people", "to", "purchase", "from", "them", "and", "as", "a", "matter", "of", "fact", ",", "before", "purchasing", "from", "them", ",", "I", "'ve", "been", "calling", "all", "over", "the", "Bay", "Area", "to", "see", "if", "anyone", "else", "sold", "the", "X", "Bar", "and", "all", "fingers", "pointed", "to", "ICB", "so", "I", "had", "no", "choice", ",", "really", "."], "e1_text": "discourage", "e1_pos": 5, "e2_text": "purchasing", "e2_pos": 19, "label": "before"}
+]

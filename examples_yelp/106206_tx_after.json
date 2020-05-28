@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "immediately", "called", "My", "Sisters", "Closet", "to", "ask", "for", "assistance", "on", "the", "repairs", "of", "the", "bag", ",", "after", "all", "it", "had", "only", "been", "a", "week", "."], "e1_text": "ask", "e1_pos": 7, "e2_text": "had", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "took", "the", "bag", "to", "CHANEL", "inside", "SAKS", "at", "the", "Biltmore", "to", "have", "the", "bag", "sent", "out", "for", "repairs", "and", "after", "almost", "10", "weeks", "of", "waiting", "for", "the", "bag", "to", "return", "from", "Paris", "we", "learn", "that", "CHANEL", "wont", "repair", "it", "because", "it", "'s", "not", "authentic", "."], "e1_text": "CHANEL", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 25, "label": "after"}
+]

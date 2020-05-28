@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "to", "sit", "together", "the", "technician", "said", "it", "was", "not", "possible", ",", "even", "after", "I", "explained", "that", "I", "made", "these", "appointments", "together", "with", "that", "specific", "request", "AND", "over", "a", "week", "before", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "explained", "e2_pos": 17, "label": "after"}
+]

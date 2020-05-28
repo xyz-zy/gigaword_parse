@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "to", "mention", "-LRB-", "police", "report", "verifiable", "-RRB-", "that", "my", "car", "was", "broken", "into", "2", "times", "while", "living", "here", "and", "I", "was", "only", "here", "for", "3", "months", "before", "I", "broke", "my", "lease", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "broke", "e2_pos": 29, "label": "before"},
+{"tokens": ["BTW", "-", "50", "%", "of", "your", "$", "800", "deposit", "is", "non-refundable", "and", "they", "do", "n't", "mention", "that", "until", "you", "'re", "ready", "to", "move", "out", ",", "at", "which", "point", "they", "literally", "said", "''", "``", "you", "should", "have", "read", "the", "lease", "before", "signing", "it", "''", "''", "."], "e1_text": "read", "e1_pos": 36, "e2_text": "signing", "e2_pos": 40, "label": "before"}
+]

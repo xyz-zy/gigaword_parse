@@ -1,0 +1,5 @@
+[
+{"tokens": ["Ladies", "still", "receive", "a", "long-stemmed", "rose", ",", "a", "palate", "cleanser", "is", "offered", "just", "before", "entrees", "are", "served", ",", "and", "complimentary", "chocolate-covered", "fruits", "are", "bestowed", "in", "abundance", "at", "meal", "'s", "end", "."], "e1_text": "offered", "e1_pos": 11, "e2_text": "are", "e2_pos": 15, "label": "before"},
+{"tokens": ["To", "begin", "at", "the", "beginning", ",", "my", "party", "of", "four", "enjoyed", "Cheese-Toasted", "Lavosh", "and", "Sourdough", "Rolls", "with", "rosettes", "of", "butter", ",", "before", "some", "of", "us", "shared", "a", "very", "good", "Shrimp", "Cocktail", "."], "e1_text": "enjoyed", "e1_pos": 10, "e2_text": "shared", "e2_pos": 25, "label": "before"},
+{"tokens": ["An", "Intermezzo", "of", "Lemon", "Sorbet", "was", "a", "refreshing", "change", "of", "pace", "before", "we", "launched", "into", "our", "entrees", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "launched", "e2_pos": 13, "label": "before"}
+]

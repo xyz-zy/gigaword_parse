@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "at", "the", "store", ",", "she", "was", "told", "that", "they", "did", "n't", "have", "her", "food", "order", "and", "after", "waitng", "30", "minutes", ",", "they", "would", "n't", "be", "able", "to", "get", "her", "any", "food", "for", "another", "45", "minutes", "to", "an", "hour", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "waitng", "e2_pos": 18, "label": "after"}
+]

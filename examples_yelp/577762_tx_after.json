@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "$", "300", "ER", "bill", ",", "two", "missed", "days", "of", "work", "for", "my", "boyfriend", "-LRB-", "he", "was", "sick", "too", "but", "less", "so", "-RRB-", "and", "three", "missed", "days", "of", "work", "for", "myself", ",", "I", "decided", "to", "email", "the", "Federal", ",", "July", "7th", ",", "2013", ",", "after", "recuperating", "for", "a", "week", "."], "e1_text": "decided", "e1_pos": 34, "e2_text": "recuperating", "e2_pos": 46, "label": "after"}
+]

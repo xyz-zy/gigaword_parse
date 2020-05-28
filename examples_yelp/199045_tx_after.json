@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "ordered", ":", "Cuban", "Pork", "Sandwich", ",", "it", "was", "very", "tender", ",", "so", "very", "flavorful", ",", "a", "lot", "of", "food", ",", "but", "we", "wished", "there", "was", "more", "even", "after", "we", "were", "full", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

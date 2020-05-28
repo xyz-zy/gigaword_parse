@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dining", "partner", "insisted", "on", "a", "spiciness", "level", "of", "8", ",", "then", "after", "tasting", "it", ",", "proceeded", "to", "complain", "how", "it", "was", "too", "spicy", "-", "Lol", "!"], "e1_text": "insisted", "e1_pos": 3, "e2_text": "tasting", "e2_pos": 13, "label": "after"}
+]

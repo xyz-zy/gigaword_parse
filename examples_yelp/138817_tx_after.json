@@ -1,0 +1,4 @@
+[
+{"tokens": ["2", "-RRB-", "I", "received", "an", "invoice", "from", "an", "external", "lab", "-LRB-", "after", "being", "told", "my", "tests", "were", "being", "done", "in-house", "-RRB-", "stating", "I", "owed", "them", "$", "292", "for", "tests", "my", "doctor", "requested", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["Thankfully", ",", "I", "have", "n't", "heard", "back", "from", "the", "collection", "agency", "after", "telling", "them", "I", "disputed", "the", "charges", "."], "e1_text": "heard", "e1_pos": 5, "e2_text": "telling", "e2_pos": 12, "label": "after"}
+]

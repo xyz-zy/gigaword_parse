@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "mushroom", "roll", "finally", "came", "about", "10", "minutes", "after", "everyone", "was", "done", "eating", ",", "which", "was", "about", "40", "minutes", "later", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

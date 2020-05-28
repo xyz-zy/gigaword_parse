@@ -1,0 +1,3 @@
+[
+{"tokens": ["it", "took", "exactly", "ten", "seconds", "in", "the", "door", "before", "the", "employees", "there", "made", "my", "wife", "feel", "uncomfortable", "...", "they", "did", "n't", "say", "hello", ",", "instead", "barking", "at", "her", "''", "``", "ARE", "YOU", "HERE", "TO", "PICK", "UP", "A", "DOG", "?", "''", "''"], "e1_text": "took", "e1_pos": 1, "e2_text": "made", "e2_pos": 12, "label": "before"}
+]

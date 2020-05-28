@@ -1,0 +1,3 @@
+[
+{"tokens": ["Who", "charges", "their", "patron", "another", "$", "8", "dollars", "for", "a", "burger", "they", "had", "n't", "received", "after", "they", "had", "already", "spent", "$", "40", "?"], "e1_text": "received", "e1_pos": 14, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

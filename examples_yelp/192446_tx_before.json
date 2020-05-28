@@ -1,0 +1,4 @@
+[
+{"tokens": ["BUT", "...", "We", "both", "finished", "a", "plate", "before", "we", "had", "some", "one", "come", "ask", "us", "for", "our", "drink", "order", "."], "e1_text": "finished", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["And", "our", "dirty", "plates", "sat", "on", "our", "small", "table", "far", "too", "long", "before", "they", "were", "cleared", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

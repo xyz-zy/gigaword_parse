@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "again", "because", "I", "had", "such", "a", "great", "time", "just", "a", "few", "before", ",", "but", "I", "was", "sorely", "disappointed", "the", "second", "time", "around", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "actually", "finished", "my", "entire", "chai", "before", "getting", "the", "crepes", "."], "e1_text": "finished", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "before"}
+]

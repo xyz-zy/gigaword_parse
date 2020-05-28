@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "a", "busser", "if", "there", "was", "a", "different", "waitress", "for", "my", "table", "-LRB-", "sounded", "odd", ",", "but", "I", "have", "seen", "it", "before", "-RRB-", "and", "he", "seemed", "to", "think", "she", "was", "it", "."], "e1_text": "sounded", "e1_pos": 14, "e2_text": "have", "e2_pos": 19, "label": "before"}
+]

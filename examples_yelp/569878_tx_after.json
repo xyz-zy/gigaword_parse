@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "it", "was", "about", "a", "month", "after", "it", "opened", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "opened", "e2_pos": 9, "label": "after"},
+{"tokens": ["-", "Banana", "Souffle", "came", "right", "out", "of", "the", "oven", "and", "the", "lady", "asked", "me", "-LRB-", "after", "asking", "someone", "else", "...", "who", "said", "no", "-RRB-", "if", "I", "wanted", "one", ",", "I", "said", "ok", "."], "e1_text": "asked", "e1_pos": 12, "e2_text": "asking", "e2_pos": 16, "label": "after"}
+]

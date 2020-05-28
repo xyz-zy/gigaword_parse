@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "some", "trees", "removed", "on", "my", "property", "about", "a", "month", "ago", ",", "after", "which", "my", "irrigation", "system", "-LRB-", "about", "which", "I", "know", "absolutely", "NOTHING", "-RRB-", "stopped", "watering", "some", "plants", "and", "all", "trees", "."], "e1_text": "removed", "e1_pos": 3, "e2_text": "stopped", "e2_pos": 25, "label": "after"}
+]

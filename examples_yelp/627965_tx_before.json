@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "in", "15", "mins", "before", "they", "close", "and", "one", "of", "the", "cooks", "decided", "to", "mumble", "''", "``", "fucking", "customers", "need", "to", "go", "away", "because", "were", "closing", "''", "''", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "need", "e2_pos": 20, "label": "before"}
+]

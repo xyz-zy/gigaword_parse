@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "minor", "glitches", "-LRB-", "leftover", "pizza", "crust", "found", "by", "Apricot", "-RRB-", "bellman", "who", "after", "being", "tipped", "left", "the", "cart", "in", "the", "luggage", "room", "even", "though", "I", "mentioned", "that", "we", "were", "leaving", "directly", "-RRB-", "."], "e1_text": "bellman", "e1_pos": 12, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

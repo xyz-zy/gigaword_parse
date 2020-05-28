@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "this", "place", "out", "after", "my", "boyfriend", "heard", "they", "served", "really", "good", "NY", "style", "pizza", "."], "e1_text": "Tried", "e1_pos": 0, "e2_text": "heard", "e2_pos": 7, "label": "after"},
+{"tokens": ["They", "let", "us", "keep", "the", "slice", "after", "fixing", "our", "order", ",", "but", "both", "pizzas", "were", "just", "not", "so", "great", "."], "e1_text": "keep", "e1_pos": 3, "e2_text": "fixing", "e2_pos": 7, "label": "after"}
+]

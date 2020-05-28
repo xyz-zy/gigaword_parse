@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "bit", "of", "a", "gripe", "about", "the", "omelets", "...", "my", "fiance", "and", "I", "made", "it", "a", "point", "to", "get", "here", "before", "breakfast", "service", "ended", "precisely", "because", "I", "wanted", "to", "hit", "the", "omelet", "bar", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "ended", "e2_pos": 25, "label": "before"}
+]

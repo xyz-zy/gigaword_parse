@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "close", "at", "11:00", "pm", "and", "you", "were", "gone", "long", "before", "we", "closed", "."], "e1_text": "gone", "e1_pos": 8, "e2_text": "closed", "e2_pos": 12, "label": "before"},
+{"tokens": ["You", "ordered", "the", "2nd", "bottle", "of", "wine", "at", "6pm", "...", "only", "5", "hours", "before", "we", "closed", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "closed", "e2_pos": 15, "label": "before"}
+]

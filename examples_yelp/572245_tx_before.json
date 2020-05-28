@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "to", "see", "BTBAM", "but", "had", "to", "leave", "before", "the", "band", "went", "on", "."], "e1_text": "leave", "e1_pos": 8, "e2_text": "went", "e2_pos": 12, "label": "before"},
+{"tokens": ["Wish", "we", "would", "have", "known", "about", "this", "before", "we", "wasted", "money", "on", "this", "show", "."], "e1_text": "known", "e1_pos": 4, "e2_text": "wasted", "e2_pos": 9, "label": "before"}
+]

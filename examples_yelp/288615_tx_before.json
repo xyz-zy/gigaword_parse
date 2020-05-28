@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "They", "take", "it", "in", "service", "training", "right", "before", "the", "course", "entitled", "''", "``", "Improving", "your", "tip", "percentages", "-", "Attention", "to", "the", "customer", "''", "''", "-RRB-", "Not", "here", "!"], "e1_text": "take", "e1_pos": 2, "e2_text": "entitled", "e2_pos": 11, "label": "before"}
+]

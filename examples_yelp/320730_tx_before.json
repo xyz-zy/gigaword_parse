@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "partially", "not", "true", "as", "I", "was", "somewhat", "in", "the", "area", "before", "deciding", "to", "get", "some", "take-out", "for", "lunch", ",", "but", "it", "was", "definitely", "much", "less", "convenient", "than", "going", "the", "Chipotle", "route", "and", "dammit", "I", "still", "took", "it", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "deciding", "e2_pos": 13, "label": "before"}
+]

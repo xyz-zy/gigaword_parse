@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "ultrasound", "tech", "was", "not", "like", "any", "other", "ultrasound", "tech", "I", "have", "encountered", "before", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "have", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "had", "to", "use", "the", "bathroom", "after", "the", "first", "ultrasound", "before", "the", "second", "ultrasound", "be", "performed", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "be", "e2_pos": 14, "label": "before"}
+]

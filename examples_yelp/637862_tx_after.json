@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "lucky", "to", "get", "a", "seat", "right", "away", "when", "I", "came", "by", "at", "10am", "on", "a", "Saturday", ",", "however", "I", "was", "warned", "that", "food", "will", "only", "arrive", "in", "35", "minutes", "after", "ordering", "."], "e1_text": "arrive", "e1_pos": 27, "e2_text": "ordering", "e2_pos": 32, "label": "after"}
+]

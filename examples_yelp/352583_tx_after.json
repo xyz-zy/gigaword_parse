@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "took", "our", "receipt", ",", "but", "only", "left", "us", "with", "a", "merchant", "copy", "of", "the", "total", "bill", "after", "they", "charged", "our", "cards", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "charged", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "n't", "want", "to", "compare", "Angry", "Crab", "Shack", "to", "Boiling", "Crab", "but", "I", "never", "realized", "how", "different", "it", "was", "after", "coming", "back", "a", "second", "time", "to", "Angry", "Crab", "Shack", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "coming", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "did", "n't", "get", "lime", "+", "pepper", "&", "salt", "till", "a", "little", "later", "on", "after", "we", "got", "some", "of", "the", "food", "we", "ordered", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["Yet", ",", "the", "people", "next", "to", "our", "table", "that", "was", "sat", "a", "little", "later", "after", "us", "got", "their", "fries", "in", "time", "before", "their", "main", "food", "was", "brought", "out", "."], "e1_text": "sat", "e1_pos": 10, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

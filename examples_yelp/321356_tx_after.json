@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hate", "to", "be", "the", "sour", "apple", "amongst", "all", "these", "glowing", "reviews", "but", "when", "you", "have", "a", "customer", "who", "ca", "n't", "eat", "something", "you", "serve", "them", "and", "they", "tell", "you", "that", "after", "you", "ask", "how", "your", "lunch", "was", "-LRB-", "plate", "almost", "untouched", ",", "BTW", "-RRB-", "and", "you", "do", "n't", "offer", "to", "do", "something", "about", "it", "...", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "ask", "e2_pos": 32, "label": "after"},
+{"tokens": ["what", "can", "you", "say", "?!?!?", "I", "ordered", "Pad", "Thai", "and", "after", "I", "tasted", "it", ",", "I", "was", "unable", "to", "eat", "it", "as", "it", "was", "so", "sickening", "sweet", "that", "I", "thought", "I", "was", "going", "to", "go", "into", "sugar", "shock", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "tasted", "e2_pos": 12, "label": "after"}
+]

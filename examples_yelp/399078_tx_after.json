@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "is", ",", "I", "was", "happy", "and", "excited", "to", "go", "to", "Yo", "Rita", "'s", "after", "being", "away", "from", "Pittsburgh", "for", "awhile", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["And", "we", "did", "want", "more", "drinks", ",", "but", "it", "would", "have", "been", "nice", "to", "have", "them", "during", "the", "meal", ",", "not", "after", "we", "were", "finished", "."], "e1_text": "have", "e1_pos": 10, "e2_text": "were", "e2_pos": 23, "label": "after"}
+]

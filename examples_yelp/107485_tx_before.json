@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "lived", "there", "before", "this", "new", "management", "took", "over", "and", "our", "rent", "was", "below", "what", "they", "want", "to", "charge", "now", ",", "so", "maybe", "that", "is", "his", "problem", "."], "e1_text": "lived", "e1_pos": 1, "e2_text": "took", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'m", "sure", "you", "'re", "starting", "to", "hate", "your", "job", "because", "of", "him", "...", "Go", "read", "all", "the", "other", "reviews", "on", "google", ",", "all", "positive", "reviews", "are", "from", "a", "year", "ago", ",", "before", "they", "changed", "the", "management", "."], "e1_text": "read", "e1_pos": 15, "e2_text": "changed", "e2_pos": 34, "label": "before"}
+]

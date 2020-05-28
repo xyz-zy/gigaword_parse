@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "crowded", "on", "a", "Sunday", "morning", ",", "but", "fortunately", ",", "my", "uncle", ",", "living", "right", "around", "the", "corner", ",", "had", "the", "foresight", "to", "put", "our", "name", "in", "an", "hour", "before", "we", "intended", "to", "be", "there", "."], "e1_text": "put", "e1_pos": 24, "e2_text": "intended", "e2_pos": 32, "label": "before"}
+]

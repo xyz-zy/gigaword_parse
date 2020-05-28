@@ -1,0 +1,4 @@
+[
+{"tokens": ["Come", "here", "right", "before", "it", "switches", "to", "the", "bar", "life", "."], "e1_text": "Come", "e1_pos": 0, "e2_text": "switches", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "music", "selection", "was", "awesome", "-", "lots", "of", "90s", "nostalgia", "in", "the", "early", "hours", "before", "it", "turns", "too", "clubby", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "turns", "e2_pos": 16, "label": "before"}
+]

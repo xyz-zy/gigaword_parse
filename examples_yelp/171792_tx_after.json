@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "extremely", "frustrating", "that", "after", "traveling", "for", "7", "hours", "the", "front", "desk", "personnel", "was", "unable", "to", "check", "me", "in", "for", "over", "30", "minutes", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "traveling", "e2_pos": 6, "label": "after"},
+{"tokens": ["Except", "that", "I", "never", "received", "an", "email", "after", "being", "asked", "for", "my", "address", "and", "only", "AFTER", "I", "expressed", "my", "unhappiness", "was", "I", "contacted", "."], "e1_text": "received", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["After", "several", "days", "of", "correspondence", "I", "was", "asked", "for", "a", "phone", "number", "where", "I", "could", "be", "reached", "after", "7pm", "my", "time", "."], "e1_text": "reached", "e1_pos": 16, "e2_text": "7pm", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "rare", "for", "us", "to", "be", "so", "completely", "disappointed", "in", "a", "new", "restaurant", ",", "especially", "after", "having", "heard", "great", "things", "from", "others", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "having", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "completely", "expected", "the", "restaurant", "to", "pickup", "my", "dinner", "entre", ",", "after", "all", "they", "couldnt", "have", "spent", "more", "than", "$", "4", "dollars", "on", "it", "."], "e1_text": "expected", "e1_pos": 2, "e2_text": "have", "e2_pos": 15, "label": "after"}
+]

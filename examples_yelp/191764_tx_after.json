@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", ",", "our", "server", "brought", "us", "free", "tickets", "for", "the", "Bank", "nightclub", ",", "where", "we", "went", "after", "we", "saw", "''", "``", "O.", "''", "''", "Must", "say", "...", "great", "weekend", "at", "the", "Bellagio", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "saw", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Love", "the", "place", ",", "the", "vibe", "...", "and", "the", "lovely", "and", "heavy", "wood", "entry", "doors", "...", "Why", "do", "I", "love", "Stingray", "...", "???", "because", "it", "'s", "consistently", "great", "and", "they", "know", "how", "to", "wow", "people", "by", "doing", "simple", "things", "...", "For", "instance", ",", "I", "had", "lunch", "there", "today", "after", "not", "being", "there", "for", "a", "long", "time", "...", "and", "the", "waitress", "said", ".", "."], "e1_text": "lunch", "e1_pos": 45, "e2_text": "being", "e2_pos": 50, "label": "after"},
+{"tokens": ["well", "I", "can", "be", "a", "real", "bitch", "at", "times", "after", "working", "ten", "years", "in", "the", "hospitality", "industry", ".", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "working", "e2_pos": 10, "label": "after"}
+]

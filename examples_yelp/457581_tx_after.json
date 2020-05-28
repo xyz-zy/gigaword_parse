@@ -1,0 +1,3 @@
+[
+{"tokens": ["Arrived", "to", "an", "unorganized", "place", "with", "staff", "not", "very", "engaged", "in", "what", "they", "were", "doing", "after", "waiting", "for", "eye", "contact", "at", "the", "pickup", "counter", ",", "it", "was", "learned", "that", "my", "order", "was", "lost", "and", "so", "I", "got", "to", "wait", "20", "minutes", "for", "my", "order", "."], "e1_text": "doing", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

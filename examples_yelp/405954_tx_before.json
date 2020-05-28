@@ -1,0 +1,5 @@
+[
+{"tokens": ["What", "made", "us", "pretty", "offended", "was", "not", "telling", "us", "about", "the", "18", "%", "tip", "they", "automatically", "put", "on", "the", "checks", "when", "they", "obviously", "SAW", "us", "putting", "tip", "on", "the", "table", "before", "we", "left", "."], "e1_text": "putting", "e1_pos": 25, "e2_text": "left", "e2_pos": 32, "label": "before"},
+{"tokens": ["The", "next", "day", ",", "we", "went", "there", "again", "for", "the", "Korean", "food", "and", "the", "same", "watresses", "were", "there", "remembering", "us", "from", "the", "day", "before", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "were", "e2_pos": 16, "label": "before"},
+{"tokens": ["She", "did", "n't", "even", "feel", "bad", "in", "any", "way", "and", "told", "us", "that", "we", "should", "'ve", "looked", "at", "the", "receipt", "before", "paying", "."], "e1_text": "looked", "e1_pos": 16, "e2_text": "paying", "e2_pos": 21, "label": "before"}
+]

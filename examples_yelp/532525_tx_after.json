@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "pretty", "disappointed", "both", "times", ",", "especially", "after", "factoring", "in", "the", "cost", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "factoring", "e2_pos": 9, "label": "after"},
+{"tokens": ["-LRB-", "I", "noticed", "after", "finished", "that", "there", "was", "a", "packet", "of", "salt\\/pepper", "in", "my", "container", "and", "I", "was", "kicking", "myself", "for", "not", "adding", "it", "sooner", "-", "I", "can", "appreciate", "not", "everyone", "wants", "the", "sodium", "-", "I", "dunno", "though", "they", "just", "needed", "some", "help", ".", "-RRB-"], "e1_text": "noticed", "e1_pos": 2, "e2_text": "finished", "e2_pos": 4, "label": "after"}
+]

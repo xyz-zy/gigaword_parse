@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "pointed", "this", "out", "to", "her", "and", "she", "tried", "to", "walk", "away", "again", ",", "but", "not", "after", "telling", "me", "that", "I", "''", "``", "just", "want", "money", "''", "''", "."], "e1_text": "tried", "e1_pos": 8, "e2_text": "want", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "will", "probably", "open", "a", "complaint", "with", "the", "BBB", "or", "try", "small", "claims", "court", ",", "just", "because", "I", "can", "not", "believe", "someone", "would", "treat", "a", "customer", "like", "this", "after", "destroying", "their", "property", "."], "e1_text": "treat", "e1_pos": 23, "e2_text": "destroying", "e2_pos": 29, "label": "after"}
+]

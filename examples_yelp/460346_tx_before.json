@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "always", "sit", "at", "the", "bar", "but", "it", "always", "seems", "to", "take", "a", "good", "10", "minutes", "before", "we", "are", "even", "acknowledged", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "are", "e2_pos": 18, "label": "before"},
+{"tokens": ["After", "the", "Sunday", "afternoon", "football", "games", ",", "we", "waited", "about", "an", "hour", "for", "the", "bartender", "to", "realize", "the", "tv", "had", "cut", "out", "before", "she", "changed", "it", "."], "e1_text": "cut", "e1_pos": 20, "e2_text": "changed", "e2_pos": 24, "label": "before"}
+]

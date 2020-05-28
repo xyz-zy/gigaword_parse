@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "our", "last", "trip", ",", "we", "got", "there", "10", "minutes", "before", "they", "started", "happy", "hour", "-", "they", "would", "n't", "serve", "us", "at", "happy", "hour", "prices", ",", "so", "we", "said", "come", "back", "in", "10", "minutes", "then", "."], "e1_text": "got", "e1_pos": 6, "e2_text": "started", "e2_pos": 12, "label": "before"},
+{"tokens": ["Paws", "off", "lady", ",", "ask", "first", "before", "grabbing", "at", "our", "food", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "grabbing", "e2_pos": 7, "label": "before"}
+]

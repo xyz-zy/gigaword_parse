@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "had", "this", "happen", "to", "me", "once", "before", "at", "another", "hotel", "and", "in", "response", "to", "their", "mishap", ",", "they", "upgraded", "our", "room", "to", "a", "suite", "without", "any", "extra", "charges", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "upgraded", "e2_pos": 20, "label": "before"}
+]

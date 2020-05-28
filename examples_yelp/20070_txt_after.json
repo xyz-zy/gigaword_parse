@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "add", "fuel", "to", "the", "fire", ",", "the", "car", "blew", "a", "head", "gasket", "a", "month", "after", "we", "bought", "it", "."], "e1_text": "blew", "e1_pos": 9, "e2_text": "bought", "e2_pos": 17, "label": "after"}
+]

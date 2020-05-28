@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "read", "Yelp", "reviews", "before", "buying", "massage\\/facial", "Groupons", "just", "to", "make", "sure", "my", "purchase", "will", "be", "worth", "it", "and", "after", "reading", "these", "reviews", ",", "I", "thought", "it", "would", "be", "totally", "worth", "dishing", "out", "the", "$", "79", "+", "tip", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "buying", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "had", "to", "wait", "in", "the", "little", "hallway", "for", "about", "2minutes", "while", "the", "person", "getting", "a", "facial", "before", "me", "changed", "clothes", ",", "came", "out", ",", "and", "then", "they", "had", "to", "put", "new", "sheets", "on", "the", "bed", "."], "e1_text": "getting", "e1_pos": 14, "e2_text": "changed", "e2_pos": 19, "label": "before"}
+]

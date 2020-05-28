@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "I", "did", "notice", "a", "few", "scratches", "on", "my", "driver", "side", "fender", "area", "that", "I", "know", "were", "not", "there", "before", "I", "dropped", "it", "off", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "dropped", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "estimated", "time", "when", "I", "dropped", "it", "off", "was", "2", "days", "at", "latest", ",", "but", "in", "actuality", "it", "was", "6", "days", "later", "before", "I", "was", "able", "to", "pick", "it", "up", "!"], "e1_text": "was", "e1_pos": 8, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

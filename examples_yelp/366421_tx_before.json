@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "fabulous", "bridesmaids", "set-up", "dinner", "here", "before", "we", "went", "out", "for", "the", "evening", "."], "e1_text": "bridesmaids", "e1_pos": 2, "e2_text": "went", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "you", "want", "bang", "for", "your", "buck", "-LRB-", "prix", "fixe", "was", "$", "45", "per", "person", "-RRB-", ",", "ridiculously", "tasty", "food", ",", "great", "service", "-LRB-", "the", "chef", "came", "out", "to", "say", "hello", "before", "we", "even", "began", "to", "eat", "-RRB-", ",", "and", "a", "very", "cool", "low", "key", "atmosphere", ",", "come", "to", "Society", "!"], "e1_text": "came", "e1_pos": 26, "e2_text": "began", "e2_pos": 34, "label": "before"}
+]

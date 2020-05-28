@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "delicious", ",", "and", "I", "should", "know", ",", "I", "think", "we", "ordered", "everything", "on", "the", "menu", "after", "we", "robbed", "the", "Rebels", "with", "a", "buzzer-beater", "three", "pointer", "."], "e1_text": "ordered", "e1_pos": 13, "e2_text": "robbed", "e2_pos": 20, "label": "after"}
+]

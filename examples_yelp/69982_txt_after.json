@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "took", "me", "on", "his", "lunch", "hour", "and", "continued", "to", "wait", ",", "even", "after", "he", "was", "already", "late", "returning", "to", "work", ",", "until", "we", "just", "could", "n't", "wait", "anymore", "."], "e1_text": "wait", "e1_pos": 11, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

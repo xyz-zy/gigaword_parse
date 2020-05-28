@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "at", "the", "bar", "playing", "poker", "and", "after", "losing", "about", "180.00", "we", "asked", "to", "see", "a", "menu", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "losing", "e2_pos": 9, "label": "after"}
+]

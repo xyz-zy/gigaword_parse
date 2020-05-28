@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "that", "bacon", "and", "turkey", "are", "processed", "and", "that", "nitrates", "and", "sodium", "are", "a", "given", ",", "but", "the", "salty", "taste", "was", "just", "so", "in", "your", "face", "that", "I", "could", "n't", "even", "finish", "my", "sandwich", ",", "even", "with", "the", "dreaded", "''", "``", "drunk", "munchies", "''", "''", "I", "get", "after", "having", "a", "few", "ounces", "of", "Johnny", "Walker", "Red", "Label", "in", "me", "."], "e1_text": "get", "e1_pos": 47, "e2_text": "having", "e2_pos": 49, "label": "after"},
+{"tokens": ["We", "'ll", "do", "it", "right", "after", "I", "stop", "having", "these", "massive", "fart", "attacks", "from", "your", "sandwiches", "."], "e1_text": "do", "e1_pos": 2, "e2_text": "stop", "e2_pos": 7, "label": "after"}
+]

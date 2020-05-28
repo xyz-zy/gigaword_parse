@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "1yr", "old", "cat", "here", "after", "he", "started", "developing", "a", "sore", "on", "his", "mouth", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "started", "e2_pos": 9, "label": "after"},
+{"tokens": ["Being", "the", "sucker", "that", "I", "am", "and", "willing", "to", "do", "anything", "for", "my", "cat", "I", "bought", "the", "medicine", "after", "THREE", "doctors", "told", "me", "this", "was", "my", "only", "choice", "."], "e1_text": "bought", "e1_pos": 15, "e2_text": "told", "e2_pos": 21, "label": "after"}
+]

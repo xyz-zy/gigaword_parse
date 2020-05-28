@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "arrived", "very", "quickly", "after", "I", "ordered", "them", "-LRB-", "too", "quickly", "-RRB-", "so", "I", "'m", "assuming", "they", "'d", "been", "made", "ahead", "of", "time", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 6, "label": "after"}
+]

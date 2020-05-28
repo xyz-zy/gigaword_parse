@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "elaborate", "...", "The", "iron", "in", "the", "room", "left", "white", "marks", "all", "over", "a", "pair", "of", "black", "slacks", "after", "using", "it", "."], "e1_text": "left", "e1_pos": 9, "e2_text": "using", "e2_pos": 20, "label": "after"},
+{"tokens": ["So", "then", "I", "went", "to", "the", "front", "desk", "and", "talked", "to", "the", "manager", "...", "she", "was", "apologetic", "and", "sent", "someone", "up", "after", "we", "waited", "for", "an", "hour", "."], "e1_text": "sent", "e1_pos": 18, "e2_text": "waited", "e2_pos": 23, "label": "after"}
+]

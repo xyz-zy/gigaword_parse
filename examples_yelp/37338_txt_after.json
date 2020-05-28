@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "a", "second", "cashier", "appeared", "after", "about", "20", "minutes", "of", "being", "in", "line", "with", "just", "the", "one", "cashier", "."], "e1_text": "appeared", "e1_pos": 4, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["She", "opened", "the", "register", "after", "about", "3", "minutes", "of", "writing", "something", "down", "."], "e1_text": "opened", "e1_pos": 1, "e2_text": "writing", "e2_pos": 9, "label": "after"}
+]

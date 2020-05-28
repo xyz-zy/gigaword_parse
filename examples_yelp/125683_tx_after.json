@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "only", "repayed", "me", "$", "2", "and", "the", "dryers", "all", "took", "$", "2", "each", "after", "it", "was", "said", "&", "done", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "after"},
+{"tokens": ["After", "getting", "home", "and", "ironing", "a", "few", "shirts", "I", "noticed", "some", "of", "the", "clothes", "has", "a", "dirty", "water", "smell", "even", "after", "being", "washed", ",", "fabric", "softner", "&", "a", "dryer", "sheet", "."], "e1_text": "smell", "e1_pos": 18, "e2_text": "being", "e2_pos": 21, "label": "after"}
+]

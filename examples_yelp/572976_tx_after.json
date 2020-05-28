@@ -1,0 +1,4 @@
+[
+{"tokens": ["Artichoke", "was", "fine", "but", "they", "did", "not", "offer", "a", "wet", "clean", "up", "towelette", "after", "finishing", "since", "they", "are", "so", "messy", "."], "e1_text": "offer", "e1_pos": 7, "e2_text": "finishing", "e2_pos": 14, "label": "after"},
+{"tokens": ["BUT", "the", "kicker", "is", "that", "the", "vegetable", "plate", "I", "ordered", "featured", "an", "artichoke", "as", "well", "and", "after", "i", "dived", "into", "it", ",", "realized", "all", "the", "vegetables", "were", "covered", "in", "liquid", "smoke", "seasoning", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "dived", "e2_pos": 18, "label": "after"}
+]

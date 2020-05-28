@@ -1,0 +1,4 @@
+[
+{"tokens": ["while", "we", "were", "still", "eating", "them", ",", "our", "tomato", "basil", "soup", "arrived", "so", "i", "had", "to", "juggle", "which", "one", "i", "wanted", "to", "eat", "before", "they", "got", "cold", "."], "e1_text": "eat", "e1_pos": 22, "e2_text": "got", "e2_pos": 25, "label": "before"},
+{"tokens": ["i", "admit", ",", "it", "'s", "a", "pet", "peeve", "of", "mine", "to", "get", "food", "before", "i", "'m", "ready", "for", "it", ".", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "'m", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "refilled", "our", "drinks", "before", "they", "were", "even", "empty", "but", "failed", "to", "notice", "that", "we", "did", "not", "have", "napkins", "or", "silverware", "until", "we", "pointed", "it", "out", "to", "her", "...", "after", "our", "meals", "had", "been", "brought", "out", "."], "e1_text": "refilled", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "finally", "made", "a", "stop", "here", "for", "dinner", "after", "driving", "by", "dozens", "of", "times", "."], "e1_text": "made", "e1_pos": 5, "e2_text": "driving", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "had", "almost", "stopped", "in", "before", ",", "but", "decided", "against", "it", "after", "seeing", "the", "prices", "."], "e1_text": "decided", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "have", "paid", "attention", "to", "the", "other", "Yelp", "reviews", "before", "even", "thinking", "of", "letting", "him", "use", "his", "card", "at", "this", "douche", "baggery", "place", "of", "such", "charm", "."], "e1_text": "paid", "e1_pos": 3, "e2_text": "thinking", "e2_pos": 12, "label": "before"}
+]

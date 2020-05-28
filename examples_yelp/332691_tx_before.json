@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "is", "slow", ",", "but", "one", "should", "expect", "that", "-", "the", "French", "do", "not", "rush", "through", "their", "meals", "the", "way", "Americans", "do", "-LRB-", "which", "means", "yes", ",", "there", "should", "be", "significant", "pauses", "in", "between", "courses", ",", "and", "yes", ",", "you", "should", "have", "plenty", "of", "time", "to", "review", "the", "menu", "before", "being", "asked", "to", "make", "selections", "-RRB-", "."], "e1_text": "review", "e1_pos": 46, "e2_text": "being", "e2_pos": 50, "label": "before"}
+]

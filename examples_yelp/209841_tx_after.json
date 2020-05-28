@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "shrimp", "Lo", "Mein", "Diner", "Select", "was", "missing", "some", "veggies", "as", "listed", "on", "the", "menu", ",", "and", "they", "were", "added", "after", "I", "pointed", "that", "out", "."], "e1_text": "added", "e1_pos": 19, "e2_text": "pointed", "e2_pos": 22, "label": "after"}
+]

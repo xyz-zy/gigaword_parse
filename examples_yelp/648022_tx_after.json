@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "going", "to", "order", "their", "clam", "chowder", "soup", "too", ",", "but", "held", "back", "after", "seeing", "how", "much", "I", "was", "going", "to", "spend", "on", "the", "salad", "."], "e1_text": "held", "e1_pos": 12, "e2_text": "seeing", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "much", "of", "an", "apology", "was", "given", ",", "offered", "to", "comp", "one", "of", "the", "dishes", "after", "we", "inquired", "."], "e1_text": "comp", "e1_pos": 10, "e2_text": "inquired", "e2_pos": 17, "label": "after"},
+{"tokens": ["In", "the", "45", "minutes", "we", "were", "there", ",", "she", "stopped", "by", "twice", "to", "check", "in", ",", "only", "after", "another", "server", "overheard", "us", "complaining", "about", "the", "service", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "overheard", "e2_pos": 20, "label": "after"}
+]

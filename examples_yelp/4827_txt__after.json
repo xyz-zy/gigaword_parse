@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "meet", "there", "for", "dinner", "after", "work", "occasionally", "and", "generally", "feel", "the", "food", "is", "pretty", "good", "for", "the", "price", "and", "usually", "have", "decent", "waitress", "."], "e1_text": "meet", "e1_pos": 4, "e2_text": "work", "e2_pos": 9, "label": "after"}
+]

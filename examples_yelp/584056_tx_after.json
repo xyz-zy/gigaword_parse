@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "it", "was", "quickly", "taken", "care", "of", ",", "the", "shepherds", "pie", "came", "out", "cold", "even", "after", "taking", "over", "40", "min", "to", "receive", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "taking", "e2_pos": 16, "label": "after"}
+]

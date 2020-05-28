@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "sucks", "!!", "Mattress", "is", "caving", "in", "only", "after", "owning", "3", "months", "they", "will", "not", "help", "us", "or", "replace", "it", "under", "warranty", "!"], "e1_text": "caving", "e1_pos": 6, "e2_text": "owning", "e2_pos": 10, "label": "after"}
+]

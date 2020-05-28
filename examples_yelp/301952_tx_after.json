@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "a", "fantastic", "evening", ",", "until", "we", "went", "to", "pay\\/use", "the", "restroom", "and", "our", "mostly", "full", "beers", "were", "cleared", ",", "even", "after", "asking", "the", "bartender", "to", "watch", "our", "drinks", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "asking", "e2_pos": 23, "label": "after"}
+]

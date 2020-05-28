@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "just", "look", "at", "the", "crime", "scene", "with", "the", "bag", "of", "drugs", "lying", "next", "to", "the", "dead", "body", ",", "and", "then", "check", "the", "victim", "'s", "cell", "phone", "to", "see", "who", "sent", "her", "a", "text", "message", "saying", "''", "``", "let", "'s", "meet", "up", "and", "do", "some", "drugs", "''", "''", "right", "before", "she", "died", ",", "then", "you", "use", "the", "little", "slidey", "fingerprint", "matching", "thingy", "to", "find", "out", "who", "'s", "prints", "are", "on", "the", "bag", "of", "drugs", "-LRB-", "same", "girl", "who", "sent", "the", "text", "!", "-RRB-"], "e1_text": "phone", "e1_pos": 26, "e2_text": "died", "e2_pos": 51, "label": "before"}
+]

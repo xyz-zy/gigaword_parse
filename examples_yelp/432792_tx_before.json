@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "when", "driving", "the", "next", "day", ",", "I", "noticed", "a", "terrible", "thud", "sound", "that", "my", "car", "has", "never", "made", "before", "."], "e1_text": "noticed", "e1_pos": 9, "e2_text": "has", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "only", "caveat", "was", "that", "it", "would", "be", "two", "more", "days", "before", "the", "part", "came", "in", ",", "and", "they", "could", "fix", "their", "mistake", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "saw", "five", "terminal", "4", "cars", "come", "and", "go", "by", "the", "car", "return", "place", "before", "finally", "a", "shuttle", "came", "to", "pick", "us", "up", "to", "the", "terminal", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

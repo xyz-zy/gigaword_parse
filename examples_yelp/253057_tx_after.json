@@ -1,0 +1,5 @@
+[
+{"tokens": ["Went", "for", "a", "cut", "with", "Emily", "B.", "after", "having", "a", "less", "than", "satisfactory", "cut", "with", "another", "salon", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["However", ",", "when", "I", "left", ",", "I", "knew", "the", "cut", "was", "too", "heavy", ",", "not", "texturized", "enough", ",", "and", "would", "not", "hold", "its", "shape", "after", "shampooing", "."], "e1_text": "hold", "e1_pos": 21, "e2_text": "shampooing", "e2_pos": 25, "label": "after"},
+{"tokens": ["The", "next", "day", ",", "the", "cut", "felt", "shapeless", "after", "being", "washed", "."], "e1_text": "felt", "e1_pos": 6, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

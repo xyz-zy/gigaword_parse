@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "told", "her", "that", "I", "had", "been", "in", "Utah", "before", "where", "they", "basically", "throw", "prescription", "pills", "your", "way", "when", "you", "mention", "anything", "wrong", "."], "e1_text": "been", "e1_pos": 7, "e2_text": "throw", "e2_pos": 14, "label": "before"},
+{"tokens": ["She", "did", "do", "a", "quick", "checkup", "and", "noticed", "something", "that", "had", "n't", "been", "noticed", "before", ",", "so", "I", "do", "appreciate", "that", "."], "e1_text": "noticed", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

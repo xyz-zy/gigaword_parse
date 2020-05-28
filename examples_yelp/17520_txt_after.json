@@ -1,0 +1,3 @@
+[
+{"tokens": ["Only", "time", "we", "saw", "him", "after", "he", "dropped", "off", "the", "food", "was", "when", "he", "dropped", "the", "check", ",", "and", "kindly", "paused", "out", "of", "his", "busy", "day", "to", "say", "''", "``", "Everything", "ok", "?", "''", "''"], "e1_text": "saw", "e1_pos": 3, "e2_text": "dropped", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "was", "rude", ",", "did", "n't", "check", "back", "even", "once", ",", "and", "came", "back", "to", "grab", "the", "check", "after", "it", "was", "paid", "for", "while", "we", "were", "still", "at", "the", "table", "...", "to", "which", "my", "girl", "said", "''", "``", "not", "done", "yet", "''", "''", "in", "chinese", "cause", "the", "tip", "still", "was", "n't", "on", "there", "."], "e1_text": "grab", "e1_pos": 16, "e2_text": "was", "e2_pos": 2, "label": "after"},
+{"tokens": ["The", "last", "time", "my", "bill", "came", "out", "to", "$", "23.90", "the", "lady", "told", "me", "she", "could", "n't", "charge", "my", "card", ",", "even", "after", "I", "told", "her", "to", "just", "add", "the", "remaining", "$", "1.10", "plus", "a", "few", "more", "dollars", "as", "tip", ".", "''"], "e1_text": "charge", "e1_pos": 17, "e2_text": "told", "e2_pos": 12, "label": "after"}
+]

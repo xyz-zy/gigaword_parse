@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "finally", "got", "the", "burger", "after", "all", "of", "us", "had", "finished", "our", "meals", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "after"},
+{"tokens": ["You", "could", "see", "table", "around", "us", "were", "not", "happy", "...", "a", "table", "of", "6", "were", "seated", "way", "before", "us", "and", "got", "their", "food", "way", "after", "us", "-LRB-", "they", "were", "chewing", "out", "the", "manager", "-RRB-", "."], "e1_text": "got", "e1_pos": 20, "e2_text": "were", "e2_pos": 6, "label": "after"},
+{"tokens": ["Another", "table", "left", "after", "never", "getting", "service", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "getting", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "abruptly", "changed", "when", "simple", "calls", "to", "request", "that", "they", "salt", "the", "driveway", "were", "met", "with", "aggression", ",", "irritability", "and", "statements", "such", "as", "''", "``", "we", "have", "never", "had", "a", "complaint", "before", "''", "''", "and", "''", "``", "we", "can", "not", "accommodate", "your", "schedule", "''", "''", "."], "e1_text": "request", "e1_pos": 7, "e2_text": "salt", "e2_pos": 10, "label": "before"}
+]

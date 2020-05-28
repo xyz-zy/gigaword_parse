@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "knew", "it", "was", "going", "to", "take", "that", "long", "before", "placing", "my", "order", ",", "I", "would", "'ve", "just", "ran", "down", "to", "Little", "Caesar", "'s", "to", "get", "some", "Hot-N-Ready", "pizzas", "."], "e1_text": "take", "e1_pos": 7, "e2_text": "placing", "e2_pos": 11, "label": "before"}
+]

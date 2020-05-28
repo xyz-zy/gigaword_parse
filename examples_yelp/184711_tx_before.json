@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "makes", "it", "even", "worse", ",", "adding", "insult", "to", "injury", ",", "is", "that", "the", "table", "we", "got", "this", "past", "weekend", "was", "the", "EXACT", "same", "table", "we", "'ve", "had", "before", "WITHOUT", "the", "seating", "fee", "."], "e1_text": "had", "e1_pos": 27, "e2_text": "WITHOUT", "e2_pos": 29, "label": "before"},
+{"tokens": ["We", "went", "there", "the", "Friday", "night", "before", "we", "went", "to", "Tryst", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "went", "e2_pos": 1, "label": "before"}
+]

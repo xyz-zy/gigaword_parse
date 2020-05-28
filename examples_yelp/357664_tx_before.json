@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "server", "-LRB-", "who", "was", "doubling", ",", "tripling", "as", "other", "roles", "-RRB-", "chose", "to", "clean", "the", "tables", "before", "leading", "us", "to", "our", "table", ",", "which", "by", "the", "way", "did", "n't", "need", "clean", "up", "."], "e1_text": "clean", "e1_pos": 14, "e2_text": "leading", "e2_pos": 18, "label": "before"}
+]

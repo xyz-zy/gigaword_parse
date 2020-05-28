@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "menu", "is", "3", "pages", "with", "one", "entire", "page", "dedicated", "to", "pizza", "after", "waiting", "30", "minutes", "to", "order", "she", "came", "and", "asked", "us", "for", "our", "order", "3", "people", "ordered", "pizza", "and", "she", "said", "''", "``", "no", "pizza", ",", "we", "to", "busy", "to", "order", "pizza", "no", "no", ",", "order", "something", "else", "''", "''", "then", "she", "turned", "around", "and", "walked", "away", "."], "e1_text": "dedicated", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 13, "label": "after"},
+{"tokens": ["Not", "happy", "we", "all", "ordered", "pasta", "after", "we", "finally", "flagged", "her", "down", "again", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "flagged", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "the", "cheese", "fondue", "we", "opted", "to", "try", "the", "Spinach", "&", "Artichoke", ",", "which", "we", "had", "never", "tried", "before", ",", "it", "was", "so", "yummy", "!"], "e1_text": "try", "e1_pos": 7, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["For", "dessert", "we", "ordered", "the", "Smores", ",", "we", "'ve", "had", "it", "before", "so", "we", "knew", "what", "to", "expect", "but", "it", "was", "delicious", "!"], "e1_text": "had", "e1_pos": 9, "e2_text": "knew", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "left", ",", "as", "I", "approached", "my", "car", ",", "the", "waitress", "chased", "after", "me", "and", "stated", "''", "``", "WAS", "SOMETHING", "WRONG", "WITH", "THE", "SERIVCE", "?!", "''", "''", "Puzzled", ",", "I", "politely", "responded", "''", "``", "no", ",", "why", "?", "''", "''"], "e1_text": "chased", "e1_pos": 12, "e2_text": "WAS", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "only", "spent", "a", "second", "to", "check", "the", "Yelp", "star", "rating", "before", "heading", "out", "from", "the", "office", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "heading", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "boss", "did", "n't", "mind", "his", "but", "said", "there", "were", "probably", "four", "other", "dishes", "he", "'d", "like", "to", "try", "first", "before", "re-ordering", "the", "Amok", "."], "e1_text": "try", "e1_pos": 18, "e2_text": "re-ordering", "e2_pos": 21, "label": "before"}
+]

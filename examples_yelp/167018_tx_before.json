@@ -1,0 +1,5 @@
+[
+{"tokens": ["What", "can", "I", "say", "about", "Imperial", "Palace", "that", "has", "n't", "already", "been", "said", "before", "?"], "e1_text": "say", "e1_pos": 3, "e2_text": "has", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "knew", "that", "it", "was", "only", "a", "matter", "of", "time", "before", "the", "water", "began", "smelling", ",", "so", "we", "immediately", "called", "room", "service", "to", "change", "our", "room", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "began", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "end", "up", "waiting", "in", "the", "room", "for", "almost", "an", "hour", "before", "they", "drop", "off", "our", "stuff", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "drop", "e2_pos": 13, "label": "before"}
+]

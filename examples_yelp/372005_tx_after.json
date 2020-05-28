@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "came", "in", "around", "late", "lunch", "time", ",", "but", "this", "kid", "was", "there", "before", "we", "got", "there", "and", "stayed", "after", "we", "left", "."], "e1_text": "stayed", "e1_pos": 18, "e2_text": "left", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "buddy", "sits", "down", "next", "to", "me", "at", "the", "bar", "and", "after", "about", "5", "mins", "of", "waving", "his", "hands", "in", "the", "air", "he", "turns", "to", "me", "and", "asks", ",", "''", "``", "What", "does", "a", "guy", "have", "to", "do", "to", "get", "a", "drink", "around", "here", "''", "''", "Me", ":", "''", "``", "Welcome", "to", "92nd", "Street", "Cafe", "''", "''"], "e1_text": "sits", "e1_pos": 2, "e2_text": "waving", "e2_pos": 16, "label": "after"}
+]

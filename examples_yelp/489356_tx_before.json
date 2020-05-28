@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "gone", "to", "other", "dine", "in", "theaters", "but", "this", "one", "takes", "the", "cake", "...", "There", "are", "two", "bars", "before", "you", "even", "go", "into", "the", "theaters", "."], "e1_text": "are", "e1_pos": 16, "e2_text": "go", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "did", "n't", "try", "the", "food", "bc", "I", "had", "eaten", "breakfast", "shortly", "before", "arriving", "but", "it", "looked", "and", "smelled", "delicious", "!!!", "Theater", "was", "clean", "and", "the", "staff", "was", "extremely", "friendly", "!"], "e1_text": "eaten", "e1_pos": 9, "e2_text": "arriving", "e2_pos": 13, "label": "before"}
+]

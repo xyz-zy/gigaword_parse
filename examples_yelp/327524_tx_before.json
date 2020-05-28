@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "not", "the", "cost", "of", "the", "drink", "-LRB-", "as", "I", "have", "ordered", "myself", "such", "a", "glass", "before", "-RRB-", ",", "it", "is", "the", "fact", "that", "I", "felt", "as", "though", "they", "were", "trying", "to", "keep", "it", "from", "us", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "have", "e2_pos": 11, "label": "before"}
+]

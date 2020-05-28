@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "NEVER", "got", "the", "hot", "edamame", "that", "we", "had", "ordered", "an", "hour", "before", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["Sorry", "Seksun", ",", "hopefully", "you", "'ll", "bring", "Jackie", "back", "before", "your", "doors", "are", "forced", "to", "close", "."], "e1_text": "bring", "e1_pos": 6, "e2_text": "are", "e2_pos": 12, "label": "before"}
+]

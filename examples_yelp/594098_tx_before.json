@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "just", "before", "dinner", "was", "starting", "and", "were", "seated", "in", "the", "dining", "area", "within", "a", "few", "seconds", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 5, "label": "before"},
+{"tokens": ["Check", "your", "ice", "cubes", "before", "you", "sip", "your", "drinks", "\\*\\*", "Daily", "\\*", "4pm", "-", "6:30", "pm", "$", "1", "off", "Draft", "Beer", "Half-Price", "House", "Wine", ",", "Well", "&", "Select", "Spirits", "$", "5", "Select", "Cocktails", "-LRB-", "all", "day", ",", "every", "day", "-RRB-", "Sun", "-", "Thr", "4pm", "-", "6:30", "pm", "''", "``", "Happier", "Hours", "''", "''", "$", "5", "-", "$", "6", "Appetizer", "Menu", "-LRB-", "see", "menu", "below", "-RRB-", "Bang", "Wednesday", "Wed", "4p", "-", "close", "$", "5", "Bang", "Bang", "Shrimp"], "e1_text": "Check", "e1_pos": 0, "e2_text": "sip", "e2_pos": 6, "label": "before"}
+]

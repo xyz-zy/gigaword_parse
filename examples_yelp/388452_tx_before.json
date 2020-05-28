@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "person", "and", "I", "were", "n't", "that", "hungry", "so", "we", "decided", "to", "share", "a", "pizza", "but", "before", "ordering", "we", "had", "a", "few", "questions", "regarding", "their", "pizza", "and", "Chef", "Marc", "himself", "took", "the", "order", "and", "he", "was", "rude", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "took", "e2_pos": 30, "label": "before"}
+]

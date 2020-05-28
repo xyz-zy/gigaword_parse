@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "an", "example", "it", "was", "dryer", "than", "when", "i", "wake", "up", "after", "sleeping", "with", "my", "mouth", "open", "in", "Phoenix", "."], "e1_text": "wake", "e1_pos": 9, "e2_text": "sleeping", "e2_pos": 12, "label": "after"}
+]

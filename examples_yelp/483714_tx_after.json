@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "call", "me", "7", "days", "after", "I", "'ve", "been", "unable", "to", "speak", "or", "eat", "to", "correct", "their", "misdiagnosis", "."], "e1_text": "call", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "return", "their", "call", "to", "be", "placed", "on", "hold", "until", "after", "they", "close", "by", "a", "woman", "named", "Katie", "."], "e1_text": "placed", "e1_pos": 6, "e2_text": "close", "e2_pos": 12, "label": "after"}
+]

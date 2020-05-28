@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "grandmother", "worked", "here", "like", "a", "hundred", "years", "ago", "before", "it", "moved", "to", "the", "current", "location", "on", "35th", "Ave.", "So", "...", "I", "have", "been", "eating", "here", "since", "the", "beginning", "of", "time", ",", "which", "was", ",", "of", "course", ",", "the", "day", "i", "was", "born", "."], "e1_text": "worked", "e1_pos": 2, "e2_text": "moved", "e2_pos": 11, "label": "before"}
+]

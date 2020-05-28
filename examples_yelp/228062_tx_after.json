@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bartender", "-LRB-", "a", "cute", "female", "-RRB-", "took", "my", "order", ",", "refilled", "my", "tea", "-LRB-", "after", "asking", "me", "what", "it", "was", "-", "I", "guess", "with", "a", "whole", "6", "people", "at", "the", "bar", ",", "its", "hard", "to", "remember", "what", "everyone", "is", "drinking", "-RRB-", ",", "and", "that", "was", "the", "only", "interaction", "the", "entire", "hour", "I", "was", "there", "."], "e1_text": "refilled", "e1_pos": 11, "e2_text": "is", "e2_pos": 39, "label": "after"}
+]

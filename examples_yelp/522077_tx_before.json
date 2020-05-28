@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "OK", "though", ",", "because", "his", "plan", "all", "along", ",", "I", "guess", ",", "was", "to", "add", "the", "requisite", "moisture", "by", "not", "completely", "straining", "the", "pasta", "from", "the", "water", "before", "adding", "it", "to", "the", "pan", "."], "e1_text": "add", "e1_pos": 16, "e2_text": "straining", "e2_pos": 23, "label": "before"}
+]

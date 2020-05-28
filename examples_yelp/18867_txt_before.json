@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "we", "ended", "up", "waiting", "no", "more", "than", "about", "5", "minutes", "before", "we", "were", "shown", "to", "a", "booth", "."], "e1_text": "waiting", "e1_pos": 4, "e2_text": "were", "e2_pos": 13, "label": "before"},
+{"tokens": ["Dessert", "-", "Vegan", "cheesecake", "w", "\\/", "mixed", "berry", "sauce", ",", "$", "6.50", "-", "I", "never", "ate", "cheese", "before", "going", "vegan", ",", "but", "I", "used", "to", "eat", "cheesecake", "-LRB-", "weird", ",", "I", "know", "-RRB-", ",", "so", "I", "do", "have", "something", "with", "which", "to", "compare", "vegan", "versions", "."], "e1_text": "ate", "e1_pos": 15, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

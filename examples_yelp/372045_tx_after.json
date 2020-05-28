@@ -1,0 +1,3 @@
+[
+{"tokens": ["Those", "were", "the", "actual", "words", "of", "the", "counter", "rep", "to", "the", "15", "of", "us", "waiting", "in", "line", "after", "announcing", "they", "had", "no", "more", "cars", "available", "and", "being", "asked", "about", "reservations", "."], "e1_text": "waiting", "e1_pos": 14, "e2_text": "announcing", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "for", "a", "deep", "tissues", "massage", "and", "she", "did", "give", "a", "good", "massage", "-", "but", "I", "was", "90", "minutes", "of", "relaxation", "-", "but", "I", "left", "there", "even", "more", "stressed", "after", "hearing", "her", "life", "stories", "of", "drugs", ",", "roomates", ",", "breakups", ",", "car", "problems", ",", "apt", "and", "money", "issues", "."], "e1_text": "stressed", "e1_pos": 29, "e2_text": "hearing", "e2_pos": 31, "label": "after"}
+]

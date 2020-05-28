@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "sweetie", "pop", "and", "I", "had", "a", "Groupon", ",", "and", "we", "both", "LOVE", "Mexican", "food", ",", "so", "we", "decided", "to", "stop", "by", "after", "seeing", "the", "4pm", "comedy", "magic", "show", "with", "Nathan", "Burton", "."], "e1_text": "stop", "e1_pos": 20, "e2_text": "seeing", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "'ve", "NEVER", "been", "hungry", "after", "eating", "an", "entree", "sized", "burrito", ",", "but", "my", "tiny", "little", "chicken", "burrito", "was", "downright", "pathetic", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

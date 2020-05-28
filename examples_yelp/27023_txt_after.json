@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fast", "forward", "20", "mins", "after", "seeing", "people", "come", "and", "go", "."], "e1_text": "Fast", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "asked", "why", "did", "this", "take", "so", "long", ",", "it", "has", "been", "well", "over", "an", "hour", "after", "I", "ordered", "."], "e1_text": "been", "e1_pos": 11, "e2_text": "ordered", "e2_pos": 18, "label": "after"}
+]

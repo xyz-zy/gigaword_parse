@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "Montreal", "for", "the", "week", "for", "work", "and", "was", "able", "to", "spend", "the", "weekend", "there", "before", "moving", "on", "to", "Quebec", "City", "."], "e1_text": "spend", "e1_pos": 13, "e2_text": "moving", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "had", "an", "opportunity", "to", "meet", "Annie", "and", "chat", "a", "bit", "before", "our", "tour", "began", "."], "e1_text": "meet", "e1_pos": 5, "e2_text": "began", "e2_pos": 14, "label": "before"}
+]

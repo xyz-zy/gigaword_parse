@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "so", "slow", "for", "not", "even", "being", "that", "busy", "...", "it", "was", "9.30", "at", "night", "before", "we", "even", "got", "our", "food", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "got", "e2_pos": 20, "label": "before"},
+{"tokens": ["One", "of", "my", "friends", "was", "so", "upset", "that", "she", "wanted", "to", "leave", "before", "the", "food", "even", "came", "out", "."], "e1_text": "leave", "e1_pos": 11, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "took", "our", "order", "in", "a", "timely", "manner", ",", "someone", "else", "brought", "it", "to", "our", "table", ",", "and", "then", "she", "followed", "shortly", "after", "-LRB-", "before", "we", "'d", "started", "eating", "-RRB-", "to", "ask", "if", "everything", "''", "``", "looked", "all", "right", ".", "''", "''"], "e1_text": "followed", "e1_pos": 21, "e2_text": "'d", "e2_pos": 27, "label": "after"}
+]

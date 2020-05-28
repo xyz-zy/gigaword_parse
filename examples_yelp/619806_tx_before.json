@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "was", "done", "before", "I", "finished", "paying", "since", "the", "cashier", "was", "having", "an", "issue", "that", "she", "had", "to", "get", "a", "manager", "to", "help", "out", "with", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "finished", "e2_pos": 6, "label": "before"}
+]

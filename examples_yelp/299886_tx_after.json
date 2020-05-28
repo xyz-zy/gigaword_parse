@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "entrees", "arrived", "just", "a", "few", "moments", "after", "the", "Host", "had", "taken", "the", "calamari", "back", "so", "we", "canceled", "the", "order", "for", "the", "second", "starter", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

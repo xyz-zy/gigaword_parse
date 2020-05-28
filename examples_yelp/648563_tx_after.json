@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "n't", "open", "until", "9:30", "which", "is", "after", "most", "people", "have", "to", "be", "at", "work", "-LRB-", "and", "in", "my", "experience", "they", "always", "open", "a", "few", "minutes", "late", "-RRB-", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "have", "e2_pos": 11, "label": "after"}
+]

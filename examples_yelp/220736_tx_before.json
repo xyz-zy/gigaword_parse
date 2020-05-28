@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "I", "pulled", "up", "my", "car", "I", "waited", "for", "another", "15", "minutes", "before", "being", "acknowledged", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "being", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "understand", "that", "time", "seems", "to", "go", "slower", "when", "waiting", "in", "a", "car", "so", "I", "double", "checked", "my", "numbers", "with", "the", "time", "stamp", "on", "my", "text", "messages", "home", "before", "writing", "this", "review", "."], "e1_text": "checked", "e1_pos": 16, "e2_text": "writing", "e2_pos": 29, "label": "before"}
+]

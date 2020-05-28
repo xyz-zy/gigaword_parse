@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "she", "took", "forever", "to", "bring", "us", "our", "check", ",", "and", "to", "take", "it", "after", "we", "put", "our", "credit", "card", "in", "it", "."], "e1_text": "take", "e1_pos": 12, "e2_text": "put", "e2_pos": 16, "label": "after"}
+]

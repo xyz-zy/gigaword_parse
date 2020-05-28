@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "lights", "flickered", "forever", "before", "turning", "on", "and", "were", "not", "very", "bright", "."], "e1_text": "flickered", "e1_pos": 2, "e2_text": "turning", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "called", "the", "service", "number", "where", "I", "was", "then", "disconnected", "twice", "before", "finally", "hearing", "that", "the", "charge", "had", "been", "removed", "and", "they", "fixed", "whatever", "the", "problem", "was", "with", "the", "internet", "."], "e1_text": "disconnected", "e1_pos": 9, "e2_text": "hearing", "e2_pos": 13, "label": "before"}
+]

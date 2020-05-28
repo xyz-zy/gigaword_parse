@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "never", "arrived", "with", "my", "requested", "drink", "refill", ",", "which", "did", "n't", "surprise", "me", "too", "much", "after", "how", "long", "it", "took", "to", "receive", "my", "order", "in", "the", "first", "place", "."], "e1_text": "surprise", "e1_pos": 13, "e2_text": "took", "e2_pos": 21, "label": "after"}
+]

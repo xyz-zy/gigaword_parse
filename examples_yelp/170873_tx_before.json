@@ -1,0 +1,4 @@
+[
+{"tokens": ["Luxor", "has", "an", "awesome", "pool", ",", "especially", "when", "you", "park", "here", "and", "walk", "before", "you", "get", "inside", "then", "you", "tend", "to", "stop", "and", "look", "at", "people", "having", "fun", "at", "the", "water", "park", "."], "e1_text": "walk", "e1_pos": 12, "e2_text": "get", "e2_pos": 15, "label": "before"},
+{"tokens": ["This", "place", "is", "connected", "to", "''", "``", "Mandalay", "Place", "''", "''", "the", "shopping", "corridor", "with", "Mandalay", "Bay", "and", "tryout", "their", "frozen", "margarita", "stand", "before", "you", "get", "into", "Mandalay", "Place", "its", "pretty", "good", "."], "e1_text": "tryout", "e1_pos": 18, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

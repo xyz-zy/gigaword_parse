@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "microwave", "was", "broken", "for", "a", "good", "six", "months", "and", "then", "a", "month", "before", "we", "moved", "out", ",", "we", "got", "a", "new", "one", "."], "e1_text": "broken", "e1_pos": 3, "e2_text": "moved", "e2_pos": 15, "label": "before"},
+{"tokens": ["Half", "of", "the", "machines", "were", "broken", "and", "we", "did", "n't", "get", "new", "equipment", "until", "about", "two", "months", "before", "we", "moved", "out", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "moved", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "use", "the", "restroom", "before", "we", "started", ",", "and", "while", "in", "there", ",", "I", "thought", ",", "`", "maybe", "I", "should", "just", "walk", "out", ".", "'"], "e1_text": "use", "e1_pos": 3, "e2_text": "started", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "give", "the", "new", "steakhouse", "at", "Flamingo", "a", "try", "before", "going", "out", "for", "the", "night", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "had", "a", "food", "allergy", "in", "our", "group", "and", "before", "ordering", "the", "Chef", "of", "the", "restaurant", "came", "to", "our", "table", "PERSONALLY", "to", "see", "what", "he", "could", "create", "special", "for", "my", "friend", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 10, "label": "before"}
+]

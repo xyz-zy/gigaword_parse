@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "left", "our", "table", "unattended", "with", "5", "empty", "drinks", ",", "2", "empty", "appetizer", "plates", ",", "2", "empty", "bread", "baskets", "and", "all", "the", "butter", "gone", "for", "over", "20", "minutes", "before", "coming", "over", "to", "refill", "our", "drinks", "."], "e1_text": "gone", "e1_pos": 23, "e2_text": "coming", "e2_pos": 29, "label": "before"}
+]

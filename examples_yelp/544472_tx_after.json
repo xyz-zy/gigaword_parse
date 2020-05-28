@@ -1,0 +1,3 @@
+[
+{"tokens": ["Charged", "us", "$", "96", "for", "a", "catfish", "after", "quoting", "price", "as", "$", "30", "-LRB-", "still", "too", "much", "for", "the", "small", "gnarly", "fish", "we", "got", "-RRB-", "."], "e1_text": "Charged", "e1_pos": 0, "e2_text": "quoting", "e2_pos": 8, "label": "after"}
+]

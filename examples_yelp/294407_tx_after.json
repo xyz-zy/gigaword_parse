@@ -1,0 +1,4 @@
+[
+{"tokens": ["FYI", ",", "tip", "at", "the", "register", "or", "bring", "some", "cash", "along", "because", "it", "appeared", "to", "be", "self", "serve", "and", "i", "did", "n't", "put", "a", "tip", "on", "my", "card", "and", "i", "carried", "no", "cash", "yet", "i", "was", "waited", "on", "and", "served", "after", "we", "sat", "down", "."], "e1_text": "served", "e1_pos": 39, "e2_text": "sat", "e2_pos": 42, "label": "after"},
+{"tokens": ["If", "your", "in", "the", "strip", "and", "looking", "for", "some", "food", "served", "with", "love", "give", "it", "a", "whirl", "and", "after", "the", "meal", "do", "n't", "be", "afraid", "to", "grab", "a", "Barcelona", "jersey", "to", "go", "."], "e1_text": "give", "e1_pos": 13, "e2_text": "do", "e2_pos": 21, "label": "after"}
+]

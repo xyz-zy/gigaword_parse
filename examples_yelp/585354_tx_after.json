@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "2012", "Review", "I", "almost", "canceled", "my", "appointment", "after", "reading", "the", "negative", "reviews", ",", "but", "it", "was", "too", "last", "minute", "."], "e1_text": "canceled", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"}
+]

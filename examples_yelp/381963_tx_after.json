@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "acrobatics", "that", "they", "did", "have", "were", "n't", "too", "impressive", "after", "you", "'ve", "seen", "5", "or", "so", "cirque", "shows", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "'ve", "e2_pos": 12, "label": "after"},
+{"tokens": ["Not", "to", "say", "it", "was", "n't", "a", "fluid", "show", ",", "but", "a", "curtain", "had", "to", "be", "drawn", "after", "every", "act", "it", "seemed", "."], "e1_text": "drawn", "e1_pos": 16, "e2_text": "seemed", "e2_pos": 21, "label": "after"}
+]

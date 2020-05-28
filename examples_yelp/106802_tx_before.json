@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "told", "that", "the", "2", "tops", "around", "the", "bar", "were", "not", "open", "seating", "-LRB-", "which", "must", "have", "changed", "because", "they", "were", "before", "-RRB-", "."], "e1_text": "changed", "e1_pos": 18, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "giving", "this", "place", "another", "chance", "after", "the", "first", "time", "when", "we", "were", "totally", "ignored", "at", "the", "door", "."], "e1_text": "giving", "e1_pos": 2, "e2_text": "were", "e2_pos": 1, "label": "after"},
+{"tokens": ["A", "couple", "had", "walked", "in", "while", "we", "were", "waitingfor", "our", "food", "and", "after", "waiting", "for", "about", "15", "minutes", ",", "they", "walked", "out", "."], "e1_text": "walked", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "it", "'s", "hard", "to", "cook", "for", "24", "people", ",", "and", "have", "the", "food", "arrive", "around", "the", "same", "time", ",", "but", "it", "seems", "like", "they", "could", "'ve", "waited", "to", "slop", "your", "potatoes", "on", "the", "plate", "until", "before", "they", "were", "going", "to", "serve", "them", "up", "."], "e1_text": "slop", "e1_pos": 30, "e2_text": "were", "e2_pos": 39, "label": "before"}
+]

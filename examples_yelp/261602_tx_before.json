@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "explained", "that", "I", "requested", "the", "full", "kitchen", "when", "I", "made", "the", "reservation", ",", "called", "back", "to", "confirm", "that", "it", "was", "the", "room", "with", "the", "full", "kitchen", "before", "I", "left", "and", "I", "expected", "to", "get", "the", "room", "I", "reserved", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "left", "e2_pos": 29, "label": "before"},
+{"tokens": ["We", "waited", "for", "about", "30", "minutes", "more", "before", "we", "began", "to", "just", "talk", "out", "loud", "about", "how", "upsetting", "it", "was", "to", "start", "a", "vacation", "with", "a", "hotel", "that", "says", "one", "thing", "on", "the", "reservation", "line", "and", "another", "when", "you", "arrive", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "began", "e2_pos": 9, "label": "before"}
+]

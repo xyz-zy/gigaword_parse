@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "quite", "nasty", ",", "as", "I", "had", "a", "previous", "stay", "somewhere", "else", "where", "I", "got", "a", "smoking", "room", ",", "after", "sleeping", "there", ",", "the", "next", "morning", ",", "I", "smelled", "like", "cigarettes", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "sleeping", "e2_pos": 21, "label": "after"},
+{"tokens": ["Imagine", "having", "10", "units", "on", "at", "the", "same", "time", "-LRB-", "which", "was", "a", "bit", "warm", "that", "weekend", "-RRB-", ",", "all", "this", "hot", "air", "coming", "at", "you", "after", "driving", "for", "8", "+", "hours", "."], "e1_text": "coming", "e1_pos": 23, "e2_text": "driving", "e2_pos": 27, "label": "after"}
+]

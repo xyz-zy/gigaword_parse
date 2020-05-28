@@ -1,0 +1,3 @@
+[
+{"tokens": ["Usually", "I", "never", "review", "a", "restaurant", "after", "the", "''", "``", "first", "look", "''", "''", ",", "my", "standard", "is", "3", "visits", ",", "but", "I", "felt", "since", "my", "two", "guests", "have", "both", "been", "here", "and", "were", "very", "positive", "I", "would", "give", "it", "a", "go", "."], "e1_text": "review", "e1_pos": 3, "e2_text": "look", "e2_pos": 11, "label": "after"}
+]

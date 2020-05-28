@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "doctor", "forgot", "to", "give", "me", "a", "work", "excuse", "and", "I", "checked", "my", "paperwork", "in", "the", "car", "before", "leaving", "then", "called", "to", "tell", "them", "they", "forgot", "it", "and", "I", "was", "sending", "my", "teenager", "in", "to", "retrieve", "it", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 18, "label": "before"}
+]

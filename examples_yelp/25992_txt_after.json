@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "repaired", "the", "tire", "and", "sent", "me", "on", "my", "way", "after", "leaving", "the", "car", "there", "from", "10am", ",", "they", "finish", "repairing", "the", "tire", "at", "4", "pm", "."], "e1_text": "sent", "e1_pos": 5, "e2_text": "leaving", "e2_pos": 11, "label": "after"}
+]

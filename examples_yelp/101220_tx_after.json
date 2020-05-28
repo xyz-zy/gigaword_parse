@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "let", "us", "know", "finally", "after", "asking", "3", "times", "that", "they", "were", "running", "behind", "and", "that", "the", "food", "tends", "to", "take", "longer", "because", "they", "make", "it", "from", "scratch", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "asking", "e2_pos": 7, "label": "after"}
+]

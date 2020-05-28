@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "a", "weak", "sandwich", "...", "but", "I", "asked", "before", "ordering", "and", "was", "assured", "there", "was", "plenty", "."], "e1_text": "asked", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "ordered", "drive", "through", "breakfast", "last", "time", "and", "got", "bacon", "egg", "sandwich", ",", "then", "before", "I", "drove", "away", "I", "asked", "if", "it", "was", "a", "bacon-egg", "...", "and", "she", "said", "''", "``", "yup", "bacon", "egg", "!", "''", "''"], "e1_text": "got", "e1_pos": 8, "e2_text": "drove", "e2_pos": 16, "label": "before"}
+]

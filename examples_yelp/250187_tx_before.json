@@ -1,0 +1,3 @@
+[
+{"tokens": ["Obviously", "our", "waiter", "let", "it", "sit", "for", "a", "long", "time", "before", "he", "managed", "to", "get", "to", "the", "kitchen", "to", "bring", "it", "to", "our", "table", "."], "e1_text": "sit", "e1_pos": 5, "e2_text": "managed", "e2_pos": 12, "label": "before"}
+]

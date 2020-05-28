@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "let", "us", "look", "inside", "before", "we", "decided", "to", "eat", "there", "."], "e1_text": "look", "e1_pos": 3, "e2_text": "decided", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "suggest", "you", "ask", "to", "look", "inside", "before", "you", "pay", "so", "you", "know", "if", "thats", "what", "you", "want", "to", "eat", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "pay", "e2_pos": 9, "label": "before"}
+]

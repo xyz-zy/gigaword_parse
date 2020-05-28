@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "during", "the", "course", "of", "dinner", "we", "had", "about", "3-4", "different", "people", "stopping", "by", ",", "no", "one", "knew", "what", "the", "other", "person", "did", "before", "."], "e1_text": "knew", "e1_pos": 18, "e2_text": "did", "e2_pos": 23, "label": "before"},
+{"tokens": ["At", "the", "end", "some", "lady", "we", "never", "saw", "before", "brought", "us", "the", "wrong", "check", "...", "Which", "made", "me", "wonder", ":", "is", "n't", "the", "table", "numbered", "?"], "e1_text": "saw", "e1_pos": 7, "e2_text": "brought", "e2_pos": 9, "label": "before"}
+]

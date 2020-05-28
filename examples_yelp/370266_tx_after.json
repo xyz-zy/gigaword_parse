@@ -1,0 +1,3 @@
+[
+{"tokens": ["Still", ",", "it", "should", "n't", "have", "taken", "5", "trips", "to", "the", "front", "desk", "and", "being", "turned", "away", "at", "the", "Excalibur", "pool", "after", "giving", "them", "the", "''", "``", "secret", "''", "''", "password", "of", "the", "pool", "manager", "'s", "name", "-LRB-", "that", "is", "what", "one", "Tropicana", "front", "desk", "staffer", "said", "we", "could", "do", "-RRB-", ",", "to", "rectify", "the", "situation", "."], "e1_text": "turned", "e1_pos": 15, "e2_text": "giving", "e2_pos": 22, "label": "after"}
+]

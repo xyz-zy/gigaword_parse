@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "shafted", "after", "staying", "here", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "staying", "e2_pos": 4, "label": "after"},
+{"tokens": ["In", "terms", "of", "service", ",", "when", "we", "called", "for", "extra", "pillows", "and", "blankets", ",", "our", "request", "was", "answered", "after", "ringing", "the", "front", "desk", "the", "THIRD", "time", "."], "e1_text": "answered", "e1_pos": 17, "e2_text": "ringing", "e2_pos": 19, "label": "after"}
+]

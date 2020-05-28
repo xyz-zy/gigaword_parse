@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "restaurant", "used", "to", "be", "a", "fine", ",", "fun", ",", "place", "to", "frequent", ",", "however", ",", "after", "today", ",", "5\\/26\\/13", "this", "place", "is", "a", "haven", "for", "self", "absorbed", "arrogant", "host", ",", "waitstaff", ",", "and", "management", "."], "e1_text": "used", "e1_pos": 2, "e2_text": "is", "e2_pos": 22, "label": "after"},
+{"tokens": ["We", "were", "the", "4th", "couple", "to", "be", "seated", "for", "breakfast", "after", "waiting", "in", "the", "sun", "for", "20", "mins", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

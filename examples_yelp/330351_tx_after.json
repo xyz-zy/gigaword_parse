@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", ",", "my", "girlfriend", ",", "and", "I", "came", "here", "after", "a", "night", "that", "did", "n't", "go", "as", "we", "had", "planned", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "did", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "one", "great", "thing", "about", "this", "place", "is", "that", "it", "is", "open", "late", ",", "so", "you", "can", "get", "your", "fix", "after", "the", "bar", "on", "a", "night", "that", "is", "n't", "ending", "the", "way", "you", "had", "planned", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "is", "e2_pos": 7, "label": "after"}
+]

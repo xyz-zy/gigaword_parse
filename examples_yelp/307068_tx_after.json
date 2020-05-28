@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "came", "over", "after", "we", "had", "just", "sat", "down", "to", "get", "our", "drink", "orders", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "potstickers", "were", "ok", ",", "after", "you", "dip", "it", "in", "the", "extremely", "spicey", "sauce", "you", "mask", "any", "kind", "of", "taste", "anyways", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "dip", "e2_pos": 7, "label": "after"}
+]

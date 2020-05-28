@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "tried", "to", "catch", "the", "shuttle", "back", "to", "the", "hotel", ",", "he", "drove", "right", "past", "the", "pick-up", "point", ";", "I", "ran", "screaming", "after", "him", "with", "my", "kids", "in", "tow", "before", "he", "stopped", "."], "e1_text": "ran", "e1_pos": 21, "e2_text": "stopped", "e2_pos": 32, "label": "before"},
+{"tokens": ["There", "are", "coupons", "available", "at", "different", "kiosks", "that", "will", "save", "you", "$", "7", "per", "pass", "--", "find", "one", "before", "you", "purchase", "!"], "e1_text": "find", "e1_pos": 16, "e2_text": "purchase", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "weigh-tress", "forgot", "to", "bring", "us", "bread", "after", "being", "asked", "several", "times", ",", "she", "was", "slow", "on", "ordering", "our", "appetizer", ",", "and", "forgot", "to", "bring", "out", "our", "dinner", "."], "e1_text": "bring", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

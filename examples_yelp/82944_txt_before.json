@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "out", "of", "bread", "and", "needing", "refills", "on", "drinks", "long", "before", "he", "showed", "up", "to", "check", "on", "us", "again", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "showed", "e2_pos": 13, "label": "before"},
+{"tokens": ["Having", "worked", "in", "the", "industry", "a", "long", "time", ",", "I", "can", "tell", "you", "that", "plates", "that", "hot", "are", "indicative", "of", "one", "thing", "only", "-", "your", "food", "sat", "in", "the", "prep", "window", "under", "heat", "lamps", "for", "a", "LONG", "time", "before", "anyone", "bothered", "to", "run", "it", "to", "your", "table", "."], "e1_text": "sat", "e1_pos": 26, "e2_text": "bothered", "e2_pos": 40, "label": "before"}
+]

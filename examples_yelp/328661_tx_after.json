@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "believe", "the", "tacos", "were", "a", "$", "1", "-LRB-", "i", "had", "a", "few", "margaritas", "and", "a", "few", "beers", "and", "just", "gave", "someone", "$", "20", "and", "asked", "them", "to", "buy", "as", "many", "tacos", "as", "they", "could", "-", "they", "brought", "over", "at", "least", "3", "if", "not", "4", "plates", "of", "tacos", "!!", "-RRB-", "This", "is", "the", "kinda", "place", "to", "enjoy", "long", "after", "the", "sun", "goes", "down", "-", "bring", "a", "lounge", "chair", ",", "a", "cooler", "with", "beers", "and", "some", "buddies", "and", "start", "chowing", "on", "the", "tacos", "-", "good", "stuff", "!"], "e1_text": "enjoy", "e1_pos": 56, "e2_text": "goes", "e2_pos": 61, "label": "after"}
+]

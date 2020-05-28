@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "here", "is", "the", "reason", "I", "'m", "posting", "my", "first", "Yelp", "review", "ever", "...", "As", "a", "regular", "user", "of", "Yelp", "and", "a", "restaurant", "owner", "myself", "-LRB-", "East", "Valley", "-RRB-", ",", "I", "thought", "today", "'s", "experience", "was", "a", "good", "qualifier", "for", "what", "it", "was", "intended", "for", ",", "to", "let", "people", "know", "what", "they", "should", "know", "before", "they", "spend", "their", "money", "."], "e1_text": "know", "e1_pos": 49, "e2_text": "spend", "e2_pos": 56, "label": "before"},
+{"tokens": ["We", "decided", "to", "go", "early", "and", "catch", "the", "end", "of", "a", "couple", "games", "before", "the", "Cardinals", "started", "and", "we", "ended", "up", "having", "our", "usual", "bites", "and", "a", "few", "beers", "."], "e1_text": "catch", "e1_pos": 6, "e2_text": "started", "e2_pos": 16, "label": "before"}
+]

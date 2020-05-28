@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "bought", "the", "all", "day", "pass", "-LRB-", "after", "I", "'d", "already", "had", "breakfast", "-RRB-", "so", "I", "coughed", "up", "the", "$", "29.99", "to", "eat", "with", "them", "for", "lunch", "and", "dinner", "."], "e1_text": "pass", "e1_pos": 6, "e2_text": "'d", "e2_pos": 10, "label": "after"}
+]

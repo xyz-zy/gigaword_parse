@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "last", "week", ",", "I", "saw", "the", "cook", "use", "the", "spatula", "to", "finish", "up", "my", "carnitas", ",", "right", "after", "he", "had", "just", "used", "the", "same", "spatula", "to", "put", "raw", "meat", "on", "the", "griddle", "!!!", "I", "have", "friends", "who", "are", "chefs", "and", "they", "would", "be", "FIRED", "for", "doing", "exactly", "that", "in", "most", "restaurants", "."], "e1_text": "saw", "e1_pos": 5, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["During", "the", "newspaper", "strike", "of", "1992", ",", "Scaife", "started", "printing", "the", "''", "``", "Pittsburgh", "Tribune", "Review", "''", "''", "as", "a", "way", "of", "bringing", "a", "conservative", "view", "to", "a", "city", "widely", "run", "by", "Democrats", ",", "after", "the", "strike", ",", "the", "Pittsburgh", "Post", "Gazette", "absorbed", "the", "Pittsburgh", "Press", "which", "would", "close", "its", "doors", "."], "e1_text": "started", "e1_pos": 8, "e2_text": "absorbed", "e2_pos": 42, "label": "after"}
+]

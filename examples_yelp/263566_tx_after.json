@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "timing", "belt", "\\/", "water", "pump", "and", "drive", "belts", "done", "at", "this", "shop", "a", "little", "over", "10,000", "miles", "ago", ",", "I", "had", "to", "bring", "it", "back", "right", "after", "because", "the", "belts", "were", "making", "a", "chirping", "noise", "."], "e1_text": "bring", "e1_pos": 25, "e2_text": "were", "e2_pos": 33, "label": "after"},
+{"tokens": ["This", "past", "weekend", "my", "car", "started", "to", "spew", "out", "antifreeze", ",", "after", "investigating", "it", "appears", "the", "timing", "belt", "was", "not", "done", "properly", "-", "so", "here", "I", "am", "only", "10,000", "miles", "later", "looking", "at", "another", "timing", "belt\\/water", "pump", "fix", "...", "I", "have", "learned", "my", "lesson", "."], "e1_text": "started", "e1_pos": 5, "e2_text": "investigating", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["1", "-RRB-", "It", "took", "forever", "to", "get", "service", "and", "food", "-LRB-", "people", "that", "were", "seated", "after", "us", "were", "eating", "before", "us", "-RRB-", "2", "-RRB-", "One", "of", "the", "individuals", "in", "my", "groups", "order", "was", "not", "correct", "3", "-RRB-", "The", "one", "thing", "I", "order", "a", "baked", "potato", "was", "cold", "and", "old", "3", "-RRB-", "The", "manager", "could", "careless", "and", "he", "let", "us", "know", "it", "from", "the", "response", "he", "gave", "my", "friend", "."], "e1_text": "seated", "e1_pos": 14, "e2_text": "were", "e2_pos": 13, "label": "after"}
+]

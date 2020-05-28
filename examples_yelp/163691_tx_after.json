@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pieces", "seemed", "to", "be", "a", "hodgepodge", "of", "styles", "-", "almost", "as", "if", "this", "was", "the", "room", "that", "got", "the", "leftovers", "after", "mate", "pieces", "had", "gotten", "broken", "in", "other", "rooms", "."], "e1_text": "got", "e1_pos": 18, "e2_text": "had", "e2_pos": 24, "label": "after"},
+{"tokens": ["And", ",", "needing", "a", "nice", "hot", "soak", "after", "a", "long", "day", "of", "walking", "around", ",", "it", "was", "also", "nice", "having", "a", "small", "tv", "in", "the", "bathroom", "as", "well", "."], "e1_text": "needing", "e1_pos": 2, "e2_text": "walking", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["30", "+", "minutes", "AFTER", "placing", "your", "order", ",", "I", "'ve", "already", "been", "waiting", "38", "minutes", "after", "being", "told", "over", "the", "phone", "that", "the", "order", "would", "be", "ready", "in", "10", "minutes", "."], "e1_text": "waiting", "e1_pos": 12, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

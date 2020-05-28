@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "girls", "and", "I", "decided", "to", "try", "this", "place", "out", "after", "having", "a", "few", "drinks", "at", "the", "W", "one", "Friday", "night", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "having", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "friend", "'s", "fish", "and", "veggies", "were", "undercooked", "and", "the", "server", "insisted", "that", "was", "one", "of", "their", "best", "dishes", "at", "the", "restaurant", "...", "really", "O_o", "...", "after", "sending", "it", "back", "one", "of", "the", "manager", "'s", "did", "come", "out", "and", "say", "that", "the", "food", "was", "undercooked", "and", "took", "it", "off", "the", "bill", "and", "offered", "to", "make", "her", "something", "else", "but", "my", "friend", "declined", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "sending", "e2_pos": 27, "label": "after"},
+{"tokens": ["to", "bring", "our", "check", "after", "we", "requested", "it", "...", "we", "were", "10", "sec", "."], "e1_text": "bring", "e1_pos": 1, "e2_text": "requested", "e2_pos": 6, "label": "after"}
+]

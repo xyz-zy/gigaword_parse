@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "at", "the", "Riviera", "Hotel", "&", "Casino", "for", "a", "professional", "conference", "and", "had", "one", "of", "the", "very", "worst", "experiences", "imaginable", ":", "we", "were", "bitten", "all", "over", "our", "legs", "and", "arms", "by", "bed", "bugs", "and", "we", "were", "treated", "poorly", "by", "hotel", "management", "and", "security", "after", "reporting", "the", "bites", "."], "e1_text": "treated", "e1_pos": 37, "e2_text": "reporting", "e2_pos": 45, "label": "after"},
+{"tokens": ["In", "a", "town", "where", "they", "'re", "basically", "giving", "away", "hotel", "rooms", "to", "try", "to", "get", "folks", "to", "stay", "and", "gamble", ",", "they", "would", "n't", "even", "comp", "us", "a", "room", "after", "infesting", "our", "bodies", ",", "clothes", ",", "and", "luggage", "with", "bed", "bugs", "."], "e1_text": "comp", "e1_pos": 25, "e2_text": "infesting", "e2_pos": 30, "label": "after"}
+]

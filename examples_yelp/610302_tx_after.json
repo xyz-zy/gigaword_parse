@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "made", "an", "appt", "10", "days", "ago", ",", "prepaid", "for", "it", ",", "showed", "up", "on", "time", "and", "after", "waiting", "a", "half", "hour", "to", "be", "seen", "and", "ignored", "we", "walked", "out", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 18, "label": "after"}
+]

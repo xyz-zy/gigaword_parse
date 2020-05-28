@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "not", "return", "after", "the", "service", "I", "just", "got", "-LRB-", "...", "did", "n't", "get", "-RRB-", "."], "e1_text": "return", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"}
+]

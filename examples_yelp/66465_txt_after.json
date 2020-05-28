@@ -1,0 +1,5 @@
+[
+{"tokens": ["Once", "we", "entered", ",", "they", "looked", "over", "at", "us", "from", "the", "bar", "and", "I", "said", "''", "``", "hello", "''", "''", "with", "a", "smile", "on", "my", "face", ",", "which", "was", "quickly", "turned", "into", "a", "scowl", "after", "they", "just", "stared", "at", "us", "without", "responding", "."], "e1_text": "turned", "e1_pos": 30, "e2_text": "stared", "e2_pos": 37, "label": "after"},
+{"tokens": ["They", "brought", "us", "our", "plates", "-LRB-", "after", "about", "20", "minutes", "of", "waiting", "even", "though", "we", "were", "the", "only", "customers", "-RRB-", "and", "both", "plates", "had", "over", "easy", "eggs", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 11, "label": "after"},
+{"tokens": ["That", "lady", "next", "to", "us", "arrived", "about", "30", "minutes", "after", "we", "arrived", "."], "e1_text": "arrived", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 5, "label": "after"}
+]

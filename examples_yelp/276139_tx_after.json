@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "after", "we", "were", "already", "informed", "by", "someone", "in", "our", "organization", "that", "we", "had", "to", "leave", "the", "room", "because", "they", "were", "kicking", "us", "out", "for", "having", "too", "many", "people", "in", "the", "room", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 4, "label": "after"}
+]

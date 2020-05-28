@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "found", "the", "restaurant", "on", "the", "renown", "National", "Eater", "heat", "map", "and", "after", "checking", "out", "the", "restaurants", "website", "and", "menu", ",", "I", "was", "very", "excited", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "checking", "e2_pos": 14, "label": "after"},
+{"tokens": ["-", "Our", "waitress", "was", "not", "seen", "again", "after", "we", "moved", "to", "the", "bottom", "floor", "...", "Not", "once", "."], "e1_text": "seen", "e1_pos": 5, "e2_text": "moved", "e2_pos": 9, "label": "after"}
+]

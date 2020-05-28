@@ -1,0 +1,3 @@
+[
+{"tokens": ["Returning", "with", "the", "wrong", "order", "was", "the", "icing", "on", "the", "cake", "after", "being", "treated", "unpleasantly", "by", "the", "server", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

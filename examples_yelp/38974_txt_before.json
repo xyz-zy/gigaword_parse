@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "no", "intention", "to", "leave", "my", "car", "there", "over", "night", "but", "that", "'s", "what", "happened", ",", "I", "call", "an", "hour", "before", "closing", "and", "the", "guy", "essentially", "tells", "me", "my", "car", "is", "in", "the", "back", "of", "the", "shop", "''", "''", "and", "too", "far", "to", "get", "before", "closing", "time", "''", "''", "&", "that", "I", "would", "need", "to", "get", "it", "in", "the", "morning", "...", "unacceptable", "!"], "e1_text": "call", "e1_pos": 18, "e2_text": "tells", "e2_pos": 27, "label": "before"},
+{"tokens": ["Cons", ":", "your", "typical", "$", "swindling", "mechanic", "I", "advice", "you", "to", "get", "a", "second", "opinion", "before", "dropping", "major", "$", "here", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "dropping", "e2_pos": 16, "label": "before"}
+]

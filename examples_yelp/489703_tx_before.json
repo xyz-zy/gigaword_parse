@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "had", "turkey", "burgers", "at", "other", "places", "before", "that", "were", "tasty", ",", "but", "this", "place", "did", "n't", "get", "it", "right", "at", "all", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "yolk", "broke", "and", "started", "running", "before", "my", "dish", "even", "got", "to", "me", "."], "e1_text": "running", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

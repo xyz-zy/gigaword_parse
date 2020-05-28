@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "even", "drove", "to", "their", "office", "only", "for", "their", "neighbor", "to", "tell", "us", "they", "had", "left", "20", "minutes", "before", "we", "got", "there", "."], "e1_text": "tell", "e1_pos": 11, "e2_text": "got", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "have", "never", "wrote", "a", "review", "before", "but", "I", "hope", "no", "one", "out", "there", "has", "to", "deal", "with", "what", "you", "did", "during", "a", "move", ";", "an", "already", "stressful", ",", "awful", "situation", "."], "e1_text": "wrote", "e1_pos": 3, "e2_text": "hope", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", ",", "we", "'re", "sorry", ",", "we", "can", "not", "schedule", "you", "for", "an", "appointment", "with", "an", "outstanding", "balance", "EVEN", "after", "checking", "with", "our", "billing", "supervisor", "."], "e1_text": "schedule", "e1_pos": 9, "e2_text": "checking", "e2_pos": 20, "label": "after"}
+]

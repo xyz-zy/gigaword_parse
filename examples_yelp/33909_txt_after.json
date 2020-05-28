@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "daughter", "and", "I", "went", "in", "here", "the", "first", "time", "in", "mid", "September", "about", "a", "week", "after", "my", "granddaughter", "was", "born", "at", "lunch", "time", "and", "we", "both", "ordered", "breakfast", "foods", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

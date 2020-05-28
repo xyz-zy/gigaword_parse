@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "in", "10", "min", "before", "11", "scrambling", "to", "fill", "up", "multiple", "plates", "before", "all", "the", "breakfast", "items", "disappear", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "scrambling", "e2_pos": 6, "label": "before"},
+{"tokens": ["At", "least", "I", "got", "4", "plates", "filled", "before", "I", "missed", "out", "on", "breakfast", "."], "e1_text": "filled", "e1_pos": 6, "e2_text": "missed", "e2_pos": 9, "label": "before"}
+]

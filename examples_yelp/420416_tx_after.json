@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "a", "call", "shortly", "after", "placing", "my", "order", "to", "say", "that", "they", "did", "n't", "have", "any", "rhizomes", "of", "a", "particular", "variety", "that", "they", "felt", "were", "healthy", "enough", "to", "send", "out", ",", "so", "they", "wanted", "to", "know", "if", "there", "was", "another", "kind", "I", "'d", "like", "to", "order", "instead", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "placing", "e2_pos": 6, "label": "after"},
+{"tokens": ["My", "order", "shipped", ",", "very", "securely", "packaged", ",", "the", "day", "after", "my", "order", "was", "placed", "and", "came", "right", "away", "."], "e1_text": "packaged", "e1_pos": 6, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "in", "Phoenix", "and", "decided", "to", "stop", "off", "at", "Filiberto", "for", "a", "quick", "lunch", "before", "I", "had", "to", "catch", "a", "flight", "home", "."], "e1_text": "stop", "e1_pos": 6, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "probably", "waited", "about", "10", "minutes", "before", "the", "food", "came", "out", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "came", "e2_pos": 9, "label": "before"}
+]

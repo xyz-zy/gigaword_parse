@@ -1,0 +1,4 @@
+[
+{"tokens": ["AND", "this", "is", "after", "an", "email", "and", "phone", "call", "to", "customer", "support", "without", "a", "response", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "call", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "decided", "to", "try", "a", "button", "down", "and", "pair", "of", "dress", "pants", "but", "did", "n't", "even", "put", "the", "items", "on", "after", "finally", "receiving", "them", "because", "they", "were", "SO", "thin", "I", "knew", "I", "would", "be", "returning", "immediately", "."], "e1_text": "put", "e1_pos": 16, "e2_text": "receiving", "e2_pos": 22, "label": "after"}
+]

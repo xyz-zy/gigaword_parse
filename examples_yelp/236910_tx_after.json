@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiter", "completely", "ignored", "us", "the", "first", "4", "times", "he", "walked", "by", "us", "after", "seeing", "the", "adjacent", "table", "."], "e1_text": "walked", "e1_pos": 10, "e2_text": "seeing", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "table", "to", "the", "right", "of", "us", "complained", "about", "how", "long", "their", "order", "was", "taking", ",", "as", "did", "the", "table", "to", "our", "left", ";", "both", "tables", "arrived", "way", "after", "we", "did", "."], "e1_text": "arrived", "e1_pos": 26, "e2_text": "did", "e2_pos": 17, "label": "after"}
+]

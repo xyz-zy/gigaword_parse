@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "the", "tour", "started", "we", "were", "taken", "outside", "and", "offered", "bathrooms", "before", "the", "start", "then", "were", "told", "multiple", "times", "to", "not", "wander", "off", "and", "stay", "with", "the", "group", "-LRB-", "three", "times", "-RRB-", "and", "we", "can", "take", "pictures", "ofr", "ourselves", "but", "may", "not", "sell", "them", "-LRB-", "four", "times", "-RRB-", "."], "e1_text": "taken", "e1_pos": 6, "e2_text": "were", "e2_pos": 5, "label": "before"},
+{"tokens": ["In", "the", "end", "I", "absolutely", "like", "this", "place", "but", "because", "of", "a", "horrible", "first", "impression", "over", "the", "phone", "and", "walking", "in", "to", "the", "location", "I", "have", "a", "hard", "time", "not", "telling", "people", "how", "I", "was", "treated", "before", "I", "tell", "them", "how", "cool", "the", "place", "was", "."], "e1_text": "treated", "e1_pos": 35, "e2_text": "tell", "e2_pos": 38, "label": "before"}
+]

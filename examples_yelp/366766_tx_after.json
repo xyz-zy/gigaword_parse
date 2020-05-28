@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "gone", "here", "several", "times", "last", "year", ",", "but", "quit", "after", "we", "found", "the", "food", "rather", "dull", ",", "which", "was", "too", "bad", "as", "it", "is", "a", "beautiful", "space", "with", "tables", "well", "placed", "."], "e1_text": "quit", "e1_pos": 10, "e2_text": "found", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "went", "back", "after", "hearing", "a", "new", "chef", "was", "on", "board", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 4, "label": "after"}
+]

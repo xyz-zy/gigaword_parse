@@ -1,0 +1,6 @@
+[
+{"tokens": ["The", "Service", ":", "Showed", "up", "15", "minutes", "before", "our", "reservation", "of", "4", "and", "was", "seated", "45", "minutes", "after", "our", "9:30", "P", "reservation", "that", "was", "made", "2", "months", "in", "advance", "."], "e1_text": "seated", "e1_pos": 14, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "stood", "outside", "as", "group", "after", "group", "was", "seated", "before", "us", "and", "was", "eventually", "told", "they", "all", "arrived", "before", "us", ";", "a", "quick", "glance", "at", "their", "reservation", "sheet", "showed", "us", "that", "reservations", "after", "us", "were", "already", "seated", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["She", "did", "apologize", "after", "looking", "at", "our", "order", "again", "."], "e1_text": "apologize", "e1_pos": 2, "e2_text": "looking", "e2_pos": 4, "label": "after"},
+{"tokens": ["Our", "fork", "and", "knives", "were", "taken", "away", "after", "eating", "our", "foie", "gras", "poutine", "-LRB-", "will", "get", "to", "that", "later", "-RRB-", "and", "then", "bread", "was", "delivered", "with", "only", "a", "huge", "spoon", "to", "spread", "the", "butter", "?"], "e1_text": "taken", "e1_pos": 5, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

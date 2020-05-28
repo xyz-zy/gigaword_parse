@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "just", "come", "back", "from", "a", "trip", "to", "Tokyo", "after", "trying", "some", "of", "the", "best", "ramen", "on", "the", "planet", "-LRB-", "Including", "''", "``", "Mochi", "Mochi", "Noki", "''", "''", ",", "which", "has", "some", "of", "the", "best", "shoyu", "ramen", "you", "will", "ever", "eat", ",", "as", "well", "as", "''", "``", "The", "Great", "Ramen", "War", "''", "''", ",", "which", "is", "4", "floors", "of", "ramen", "houses", "of", "various", "kinds", ".", "-RRB-"], "e1_text": "come", "e1_pos": 3, "e2_text": "trying", "e2_pos": 11, "label": "after"}
+]

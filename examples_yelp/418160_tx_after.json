@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "a", "party", "of", "six", "diners", ",", "we", "ordered", "a", "round", "of", "food", "after", "the", "bars", "had", "closed", "."], "e1_text": "ordered", "e1_pos": 8, "e2_text": "had", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "extras", "that", "come", "with", "breakfast", "-LRB-", "toast", ",", "etc.", "-RRB-", "never", "came", "out", "after", "repeatedly", "asking", "for", "them", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "asking", "e2_pos": 16, "label": "after"}
+]

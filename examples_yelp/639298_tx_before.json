@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "GEM", "in", "midtown", "-LRB-", "do", "not", "let", "the", "''", "``", "downtown", "''", "''", "location", "fool", "you", ",", "this", "is", "right", "on", "Sahara", "before", "you", "get", "into", "downtown", "-RRB-", "I", "found", "last", "night", "thanks", "to", "Yelp", "."], "e1_text": "is", "e1_pos": 19, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

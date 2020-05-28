@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "seated", "quickly", "but", "after", "placing", "our", "initial", "order", ",", "which", "arrived", "quickly", ",", "it", "took", "a", "while", "for", "the", "wait", "staff", "to", "bring", "an", "extra", "fork", "and", "refill", "our", "drinks", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "placing", "e2_pos": 6, "label": "after"}
+]

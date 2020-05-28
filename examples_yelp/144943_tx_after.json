@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hose", "situation", "was", "caused", "because", "I", "went", "in", "to", "get", "a", "oil", "change", "-LRB-", "this", "happens", "2", "weeks", "ago", "by", "the", "way", "-RRB-", "and", "after", "everything", "was", "finished", "me", "and", "my", "family", "left", "and", "not", "even", "5", "miles", "down", "the", "road", "the", "check", "engine", "light", "comes", "on", "."], "e1_text": "caused", "e1_pos": 4, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

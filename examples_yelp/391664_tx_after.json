@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiter", "blew", "us", "off", "after", "not", "ordering", "an", "expensive", "bottle", "of", "wine", "...", "we", "had", "to", "beg", "for", "more", "bread", "...", "no", "one", "bothered", "to", "ask", "our", "group", "how", "the", "meal", "was", "...", "."], "e1_text": "blew", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 7, "label": "after"},
+{"tokens": ["the", "waiter", "showed", "up", "after", "the", "dishes", "were", "cleared", "...", "."], "e1_text": "showed", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "was", "kind", "of", "the", "last", "straw", ",", "I", "came", "in", "for", "my", "appointment", "which", "was", "already", "a", "rescheduled", "one", "due", "to", "a", "mix", "up", "of", "appt", "times", "last", "Thursday", ",", "and", "was", "informed", "after", "sitting", "for", "5", "minutes", "that", "my", "appointment", "was", "canceled", "because", "the", "person", "called", "in", "sick", "."], "e1_text": "informed", "e1_pos": 33, "e2_text": "sitting", "e2_pos": 35, "label": "after"}
+]

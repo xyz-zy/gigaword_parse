@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "and", "my", "girls", "had", "a", "reservation", "for", "a", "comped", "dinner", "before", "we", "went", "to", "the", "club", "upstairs", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "went", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "waited", "close", "to", "an", "hour", "before", "getting", "seated", "which", "was", "a", "bit", "irritating", "because", "there", "were", "A", "FEW", "people", "that", "came", "in", "after", "us", "and", "got", "seated", "before", "we", "did", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "getting", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "handed", "our", "bags", "over", "and", "the", "guy", "serving", "us", "paused", "before", "handing", "us", "our", "receipt", "and", "said", "''", "``", "unfortunately", "i", "only", "work", "outside", "and", "i", "do", "n't", "bring", "your", "bags", "to", "the", "room", "''", "''", "."], "e1_text": "paused", "e1_pos": 10, "e2_text": "handing", "e2_pos": 12, "label": "before"}
+]

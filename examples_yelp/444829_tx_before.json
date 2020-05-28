@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nice", "of", "them", "to", "tell", "me", "before", "I", "ordered", "...", "It", "was", "dry", "and", "tasteless", ",", "I", "asked", "for", "a", "chutney", "or", "sauce", ",", "the", "waiter", "said", "sure", ",", "He", "brought", "me", "a", "bottle", "of", "Sriracha", "Hot", "Sauce", "."], "e1_text": "tell", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 8, "label": "before"}
+]

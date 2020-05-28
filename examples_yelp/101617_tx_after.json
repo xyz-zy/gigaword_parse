@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "I", "thought", "I", "was", "going", "to", "be", "out", "by", "the", "end", "of", "the", "meal", "after", "drinking", "so", "much", "wine", "and", "I", "'m", "not", "a", "huge", "fan", "of", "wine", ",", "but", "the", "pairings", "really", "were", "spectacular", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "drinking", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "was", "pleasantly", "full", "after", "the", "meal", "which", "included", "such", "dishes", "as", "seared", "octopus", "over", "tomato", "and", "fresh", "mozzarella", ",", "oyster", "uni", "shooter", "-LRB-", "my", "personal", "fav", "-RRB-", ",", "mushroom", "melange", ",", "lamb", "chop", ",", "etc.", "etc.", "etc.", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "included", "e2_pos": 8, "label": "after"}
+]

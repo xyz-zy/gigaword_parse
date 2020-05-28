@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "initially", "spoke", "with", "her", "about", "getting", "a", "dog", "several", "months", "before", "we", "ended", "up", "addopting", "a", "different", "dog", "."], "e1_text": "getting", "e1_pos": 6, "e2_text": "ended", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "was", "suprised", "that", "she", "did", "n't", "have", "any", "intention", "of", "introducing", "the", "dogs", "before", "we", "took", "the", "new", "one", "home", "."], "e1_text": "introducing", "e1_pos": 11, "e2_text": "took", "e2_pos": 16, "label": "before"}
+]

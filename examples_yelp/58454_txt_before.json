@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "woke", "at", "10", "30", "and", "made", "some", "coffee", "before", "venturing", "downstairs", "at", "about", "11:30", "am", "to", "discuss", "the", "issue", "."], "e1_text": "made", "e1_pos": 6, "e2_text": "venturing", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "told", "her", "that", "her", "website", "was", "deceptive", "and", "I", "wanted", "to", "either", "be", "moved", "to", "a", "suite", "for", "the", "rate", "that", "I", "was", "quoted", "online", "or", "I", "wanted", "to", "be", "refunded", "the", "difference", "for", "the", "room", "for", "the", "night", "before", "and", "moved", "to", "a", "standard", "room", "where", "I", "would", "spend", "the", "remainder", "of", "my", "trip", "."], "e1_text": "moved", "e1_pos": 14, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "used", "to", "have", "a", "great", "experience", "with", "Cox", "Communications", ",", "and", "was", "excited", "to", "have", "them", "as", "a", "Cable", "provider", "again", "when", "I", "signed", "up", "for", "the", "service", "earlier", "this", "February", "after", "moving", "apartments", "."], "e1_text": "signed", "e1_pos": 24, "e2_text": "moving", "e2_pos": 33, "label": "after"},
+{"tokens": ["Update", ":", "I", "received", "a", "phone", "call", "after", "writing", "to", "the", "VP", "of", "Customer", "Retention", "who", "was", "able", "to", "offer", "more", "positive", "solutions", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "writing", "e2_pos": 8, "label": "after"}
+]

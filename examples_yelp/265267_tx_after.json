@@ -1,0 +1,3 @@
+[
+{"tokens": ["Before", "we", "could", "even", "sit", "down", "after", "the", "hostess", "dropped", "our", "menus", "on", "our", "table", "-", "we", "were", "approached", "by", "someone", "trying", "to", "take", "our", "photograph", "and", "then", "turn", "around", "and", "sell", "us", "the", "print", "."], "e1_text": "sit", "e1_pos": 4, "e2_text": "dropped", "e2_pos": 9, "label": "after"}
+]

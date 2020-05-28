@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "been", "to", "the", "Penguin", "before", ",", "I", "knew", "it", "had", "closed", ",", "luckily", "The", "Diamond", "is", "on", "the", "other", "side", "of", "the", "block", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "knew", "e2_pos": 9, "label": "before"},
+{"tokens": ["First", "off", ",", "it", "'s", "been", "there", "since", "before", "I", "was", "born", ",", "so", "that", "'s", "usually", "a", "good", "sign", "."], "e1_text": "been", "e1_pos": 5, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

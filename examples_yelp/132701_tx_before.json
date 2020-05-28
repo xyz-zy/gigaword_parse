@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "for", "several", "long", "minutes", "before", "being", "acknowledged", "by", "the", "bartender", ",", "who", "told", "me", "that", "walk-up", "service", "was", "on", "the", "other", "side", "of", "the", "bar", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "allure", "wore", "off", "quickly", ",", "as", "after", "swinging", "around", ",", "I", "waited", "for", "literally", "another", "ten", "minutes", "before", "placing", "my", "order", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "placing", "e2_pos": 19, "label": "before"}
+]

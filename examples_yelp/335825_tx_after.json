@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "walkways", "are", "broken", "and", "when", "your", "plane", "arrives", "at", "gate", "88", "like", "mine", "did", ",", "and", "you", "have", "to", "walk", "to", "gate", "1", "after", "traveling", "all", "day", "...", "what", "do", "you", "want", "to", "do", "?"], "e1_text": "walk", "e1_pos": 20, "e2_text": "traveling", "e2_pos": 25, "label": "after"}
+]

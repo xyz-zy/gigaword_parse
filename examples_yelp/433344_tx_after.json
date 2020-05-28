@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "came", "back", "with", "a", "receipt", "showing", "$", "8.44", ",", "thinking", "it", "was", "right", "I", "tipped", "him", "$", "8.56", "-LRB-", "much", "more", "than", "he", "deserved", "-RRB-", "after", "going", "to", "the", "movies", "I", "checked", "my", "bank", "account", "online", "the", "waiter", "charged", "the", "entire", "bill", "on", "my", "card", "and", "pocketed", "the", "gift", "card", "."], "e1_text": "tipped", "e1_pos": 15, "e2_text": "going", "e2_pos": 27, "label": "after"}
+]

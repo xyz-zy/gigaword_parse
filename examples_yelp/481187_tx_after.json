@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "a", "while", ",", "but", "the", "waiter", "finally", "agreed", "to", "my", "request", "--", "after", "I", "asked", "to", "speak", "to", "the", "owner", "."], "e1_text": "agreed", "e1_pos": 9, "e2_text": "asked", "e2_pos": 16, "label": "after"},
+{"tokens": ["Failing", "to", "convey", "important", "information", "to", "your", "staff", "after", "CONFIRMING", "SEPARATE", "CHECKS", "with", "a", "customer", "by", "phone", "is", "unacceptable", "."], "e1_text": "convey", "e1_pos": 2, "e2_text": "CONFIRMING", "e2_pos": 9, "label": "after"}
+]

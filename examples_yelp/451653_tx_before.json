@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "could", "n't", "figure", "out", "that", "maize", "of", "construction", "to", "park", "in", "the", "garage", "we", "circled", "it", "twice", "before", "giving", "up", "and", "listen", "neither", "of", "us", "lack", "common", "sense", "."], "e1_text": "circled", "e1_pos": 15, "e2_text": "giving", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "have", "n't", "stayed", "on", "the", "strip", "since", "before", "I", "moved", "here", "and", "really", "the", "check", "in", "line", "at", "that", "time", "!"], "e1_text": "stayed", "e1_pos": 3, "e2_text": "moved", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "about", "20", "minutes", "late", ",", "I", "had", "asked", "the", "nurse", "if", "this", "was", "normal", ",", "and", "she", "stated", "''", "``", "he", "likes", "to", "have", "all", "of", "the", "rooms", "filled", "before", "he", "comes", "in", ".", "''", "''"], "e1_text": "filled", "e1_pos": 29, "e2_text": "comes", "e2_pos": 32, "label": "before"}
+]

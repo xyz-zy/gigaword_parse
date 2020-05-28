@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "stopping", "here", "briefly", "for", "a", "connecting", "flight", "to", "Vancouver", "after", "flying", "7", "hours", "from", "London", "."], "e1_text": "stopping", "e1_pos": 2, "e2_text": "flying", "e2_pos": 12, "label": "after"}
+]

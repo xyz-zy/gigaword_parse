@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "have", "booth", "spray", "tans", "before", "so", "I", "knew", "to", "take", "a", "bottle", "of", "Lysol", "with", "me", "and", "I", "used", "like", "4", "of", "their", "towels", "on", "the", "fool", "wherever", "I", "stepped", ",", "even", "inside", "the", "tanning", "booth", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "knew", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "accept", "walk-ins", "but", "its", "better", "to", "make", "an", "appt", "since", "the", "people", "that", "had", "walked", "in", "before", "me", "had", "to", "wait", ",", "while", "I", "went", "ahead", "into", "the", "booth", "."], "e1_text": "walked", "e1_pos": 15, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

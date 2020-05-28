@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "Review", "is", "for", "milkshakes", "only", "-RRB-", "came", "here", "because", "I", "'ve", "heard", "a", "lot", "about", "the", "milkshakes", ",", "after", "looking", "at", "the", "menus", "in", "the", "bar\\/lounge", "area", "we", "noticed", "the", "shakes", "were", "n't", "listed", "on", "there", ",", "we", "had", "to", "grab", "the", "hostess", "-LRB-", "who", "was", "facing", "the", "dining", "room", "and", "talking", "to", "the", "other", "servers", "-RRB-", "and", "ask", "if", "we", "can", "see", "a", "full", "menu", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "looking", "e2_pos": 20, "label": "after"},
+{"tokens": ["We", "ordered", "the", "Fat", "Boy", "and", "the", "Vegan", "Maple", "Pecan", ",", "it", "took", "a", "while", "for", "2", "shakes", "but", "after", "trying", "it", ",", "it", "was", "worth", "the", "wait", "."], "e1_text": "shakes", "e1_pos": 17, "e2_text": "trying", "e2_pos": 20, "label": "after"}
+]

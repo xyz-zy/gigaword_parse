@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "husband", "and", "I", "went", "to", "Zinburger", "last", "week", "after", "having", "apps", "at", "Seasons", "52", "in", "the", "same", "shopping", "center", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "having", "e2_pos": 10, "label": "after"},
+{"tokens": ["Anyway", ",", "we", "sat", "on", "the", "patio", "after", "waiting", "for", "20", "min", "or", "so", "and", "ordered", "the", "ringer", "burger", "and", "a", "bananas", "foster", "shake", "to", "split", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Getting", "my", "car", "washed", "in", "a", "Wednesday", "morning", "took", "me", "over", "90", "minutes", "and", "that", "was", "even", "after", "I", "asked", "for", "a", "manager", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "asked", "e2_pos": 19, "label": "after"}
+]

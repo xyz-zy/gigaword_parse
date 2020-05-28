@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "was", "a", "bit", "of", "a", "mistake", ",", "because", "he", "did", "n't", "come", "back", "until", "nearly", "20", "minutes", "later", ",", "and", "only", "after", "we", "waved", "him", "down", "."], "e1_text": "come", "e1_pos": 12, "e2_text": "waved", "e2_pos": 24, "label": "after"},
+{"tokens": ["Our", "server", "was", "more", "attentive", "after", "our", "initial", "disappointment", ",", "which", "was", "helpful", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

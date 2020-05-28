@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "Manny", "to", "see", "if", "he", "would", "help", ",", "since", "he", "was", "so", "eager", "to", "help", "before", "I", "signed", "on", "the", "line", ",", "and", "he", "did", "n't", "return", "my", "message", "."], "e1_text": "help", "e1_pos": 8, "e2_text": "signed", "e2_pos": 19, "label": "before"}
+]

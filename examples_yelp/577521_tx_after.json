@@ -1,0 +1,3 @@
+[
+{"tokens": ["Found", "this", "place", "after", "eating", "at", "Genghis", "Grill", "-LRB-", "which", "is", "pretty", "awesome", ",", "you", "should", "try", "it", "at", "least", "once", "-RRB-", "."], "e1_text": "Found", "e1_pos": 0, "e2_text": "eating", "e2_pos": 4, "label": "after"}
+]

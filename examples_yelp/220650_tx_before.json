@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "you", "wingstop", "...", "for", "cooking", "up", "the", "fastest", "batch", "ever", "before", "I", "risk", "missing", "my", "flight", "."], "e1_text": "cooking", "e1_pos": 6, "e2_text": "risk", "e2_pos": 14, "label": "before"}
+]

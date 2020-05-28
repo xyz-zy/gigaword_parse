@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "were", "waiting", "for", "this", "place", "to", "open", "for", "awhile", "and", "when", "we", "saw", "it", "had", "many", "5", "stars", "after", "it", "opened", "we", "were", "very", "excited", "."], "e1_text": "waiting", "e1_pos": 5, "e2_text": "opened", "e2_pos": 24, "label": "after"}
+]

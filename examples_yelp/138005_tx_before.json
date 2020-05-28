@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stated", "that", "I", "would", "book", "the", "night", "before", "I", "was", "arriving", "to", "be", "sure", "the", "room", "was", "available", "and", "the", "lady", "taking", "my", "reservation", "assured", "me", "that", "was", "not", "needed", "."], "e1_text": "book", "e1_pos": 5, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

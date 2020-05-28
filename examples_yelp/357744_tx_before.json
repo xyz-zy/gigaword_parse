@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "put", "live", "music", "gigs", "on", "here", "sometimes", "too", ",", "usually", "up-and-coming", "student", "bands", ",", "which", "are", "very", "hit", "and", "miss", "...", "definitely", "ask", "around", "before", "you", "decide", "to", "potentially", "write", "off", "an", "evening", "!"], "e1_text": "ask", "e1_pos": 23, "e2_text": "decide", "e2_pos": 27, "label": "before"},
+{"tokens": ["It", "'s", "full", "of", "rah", "students", "trying", "to", "become", "`", "new", "wave", "'", "and", "alternative", ",", "i.e.", "a", "complete", "personality", "transplant", "in", "the", "space", "of", "a", "week", ";", "it", "'s", "the", "first", "stage", "of", "the", "process", "before", "they", "start", "taking", "over", "Cab", "Vol", "on", "tuesdays", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "start", "e2_pos": 38, "label": "before"}
+]

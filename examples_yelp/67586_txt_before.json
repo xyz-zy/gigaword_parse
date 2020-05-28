@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "I", "could", "give", "you", "no", "stars", "I", "would", "I", "contacted", "them", "before", "I", "moved", "to", "try", "and", "get", "TV", "and", "Internet", "service", "."], "e1_text": "contacted", "e1_pos": 10, "e2_text": "moved", "e2_pos": 14, "label": "before"},
+{"tokens": ["It", "took", "them", "4", "days", "to", "call", "me", "back", ",", "but", "before", "that", "I", "was", "fed", "up", "and", "called", "the", "main", "line", "back", "who", "told", "me", "I", "could", "go", "to", "the", "offices", "for", "more", "information", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "give", "it", "4", "stars", "because", "I", "still", "like", "Boiling", "Crab", "-LRB-", "whole", "shebang", "-RRB-", "after", "trying", "HNJ", "out", "."], "e1_text": "like", "e1_pos": 8, "e2_text": "trying", "e2_pos": 16, "label": "after"},
+{"tokens": ["Waitress", "kept", "forgetting", "to", "bring", "us", "what", "we", "asked", "for", "so", "we", "told", "her", "not", "to", "bring", "it", "after", "we", "were", "done", "with", "our", "order", "."], "e1_text": "bring", "e1_pos": 4, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

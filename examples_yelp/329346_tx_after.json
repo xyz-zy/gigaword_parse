@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "friends", "11", "year", "old", "there", "after", "he", "played", "in", "a", "b", "`", "ball", "game", "and", "after", "looking", "at", "the", "menu", "and", "pricing", "decided", "to", "split", "the", "rib", "eye", "special", "$", "19.99", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "played", "e2_pos": 10, "label": "after"}
+]

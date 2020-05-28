@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "forgot", "to", "split", "the", "check", "-LRB-", "which", "we", "asked", "her", "for", "up", "front", "before", "ordering", "-RRB-", ",", "sent", "beverages", "to", "the", "wrong", "table", ",", "and", "when", "we", "paid", ",", "applied", "the", "wrong", "card", "to", "the", "wrong", "party", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 15, "label": "before"}
+]

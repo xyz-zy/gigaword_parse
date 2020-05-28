@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "my", "30th", "birthday", "and", "I", "wanted", "to", "go", "somewhere", "out", "of", "or", "norm", "and", "figured", "after", "wanting", "to", "go", "here", "many", "vacations", "before", "FINALLY", "splurged", "to", "eat", "here", ",", "but", "unfortunately", "the", "hype", "fell", "very", "short", "!"], "e1_text": "figured", "e1_pos": 16, "e2_text": "wanting", "e2_pos": 18, "label": "after"},
+{"tokens": ["It", "seemed", "they", "looked", "down", "on", "us", "and", "my", "wife", "even", "said", "one", "of", "them", "ran", "to", "our", "table", "after", "we", "left", "just", "to", "make", "sure", "we", "paid", "."], "e1_text": "ran", "e1_pos": 15, "e2_text": "left", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "cider", "here", "is", "the", "best", "i", "have", "ever", "had", "and", "all", "brewed", "by", "the", "owners", ",", "who", "are", "amazing", "&", "knowledgeable", "!!!", "they", "'ll", "let", "you", "sample", "any", "-LRB-", "or", "all", "-RRB-", "of", "the", "cider", "before", "you", "decide", ",", "and", "you", "can", "either", "buy", "a", "growler", "or", "buy", "a", "glass", "for", "$", "5", "-LRB-", "the", "growler", "is", "a", "better", "value", "-RRB-", "."], "e1_text": "let", "e1_pos": 25, "e2_text": "decide", "e2_pos": 38, "label": "before"}
+]

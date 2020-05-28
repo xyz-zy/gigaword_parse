@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "mediocre", ",", "of", "course", "nothing", "is", "in", "comparable", "to", "the", "bay", "'s", "Chinatown", "dim", "sum", "but", "since", "we", "were", "all", "starving", "after", "a", "long", "night", "and", "day", "of", "waiting", "for", "people", "to", "get", "dressed", "it", "hit", "the", "spot", "perfectly", "."], "e1_text": "starving", "e1_pos": 23, "e2_text": "dressed", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "go", "to", "the", "Concierge", "Desk", "to", "ask", "for", "assistance", "and", "I", "also", "flagged", "someone", "on", "the", "Check", "Out", "counter", "after", "20", "minutes", "waiting", "only", "to", "be", "told", "Computers", "are", "down", "."], "e1_text": "flagged", "e1_pos": 15, "e2_text": "are", "e2_pos": 31, "label": "after"},
+{"tokens": ["I", "understand", "systems", "can", "go", "down", ",", "but", "when", "your", "staff", "promises", "a", "phone", "call", "after", "I", "'ve", "been", "waiting", "for", "6.5", "hours", "to", "notify", "me", "of", "check", "in", "availability", ",", "they", "need", "to", "deliver", "on", "that", "promise", "."], "e1_text": "call", "e1_pos": 14, "e2_text": "'ve", "e2_pos": 17, "label": "after"}
+]

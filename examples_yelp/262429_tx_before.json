@@ -1,0 +1,4 @@
+[
+{"tokens": ["Think", "twice", "before", "getting", "a", "pet", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "getting", "e2_pos": 3, "label": "before"},
+{"tokens": ["Thank", "them", "before", "judging", "them", "."], "e1_text": "Thank", "e1_pos": 0, "e2_text": "judging", "e2_pos": 3, "label": "before"}
+]

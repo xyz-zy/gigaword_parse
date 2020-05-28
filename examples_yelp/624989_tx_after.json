@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turns", "out", "that", "she", "did", "n't", "have", "time", "because", "she", "ended", "up", "switching", "out", "with", "another", "technician", "after", "she", "finished", "my", "first", "eye", "."], "e1_text": "switching", "e1_pos": 12, "e2_text": "finished", "e2_pos": 19, "label": "after"},
+{"tokens": ["Another", "technician", "switched", "out", "with", "Griselda", "after", "she", "was", "done", "with", "the", "first", "eye", "."], "e1_text": "switched", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

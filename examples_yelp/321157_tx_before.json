@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "finally", "had", "enough", "and", "took", "the", "bike", "to", "Alex", "to", "do", "a", "once", "over", "and", "tell", "me", "what", "else", "they", "forgot", "to", "check", "before", "selling", "me", "the", "bike", "."], "e1_text": "check", "e1_pos": 23, "e2_text": "selling", "e2_pos": 25, "label": "before"}
+]

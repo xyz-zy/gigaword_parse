@@ -1,0 +1,4 @@
+[
+{"tokens": [":-RRB-", "First", "visit", "-", "get", "new", "scripts", "before", "this", "plan", "year", "runs", "out", "and", "my", "rx", "benefits", "change", "."], "e1_text": "visit", "e1_pos": 2, "e2_text": "runs", "e2_pos": 11, "label": "before"},
+{"tokens": ["Said", "that", "due", "to", "the", "holiday", "it", "would", "probably", "be", "a", "few", "days", "before", "they", "got", "the", "results", "back", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "got", "e2_pos": 15, "label": "before"}
+]

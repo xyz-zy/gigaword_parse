@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "like", "they", "had", "just", "washed", "the", "carpet", "after", "the", "previous", "residents", "had", "trashed", "the", "place", "."], "e1_text": "washed", "e1_pos": 6, "e2_text": "had", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "used", "the", "empty", "trashcan", "and", "the", "sink", "to", "store", "our", "ice\\/alcohol", "while", "using", "the", "bathtub", "to", "wash", "our", "hands", "after", "taking", "care", "of", "business", "-LRB-", "I", "know", ",", "ghetto", "-RRB-", "."], "e1_text": "wash", "e1_pos": 17, "e2_text": "taking", "e2_pos": 21, "label": "after"}
+]

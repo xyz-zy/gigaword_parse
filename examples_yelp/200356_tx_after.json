@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "first", "made", "a", "reservation", "at", "Kokomos", ",", "but", "after", "seeing", "the", "menu", "at", "Stack", ",", "changed", "our", "minds", "and", "transferred", "the", "reservation", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

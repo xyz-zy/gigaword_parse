@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cook", "should", "really", "follow", "best", "practices", "and", "sample", "his", "dishes", "before", "sending", "it", "out", "for", "quality", "control", "."], "e1_text": "sample", "e1_pos": 8, "e2_text": "sending", "e2_pos": 12, "label": "before"}
+]

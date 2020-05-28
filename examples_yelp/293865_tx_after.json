@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "left", "after", "having", "dinner", "and", "this", "time", "just", "was", "not", "a", "pleasant", "experience", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "having", "e2_pos": 3, "label": "after"},
+{"tokens": ["My", "husband", "had", "bacon", "wrapped", "shrimp", "he", "asked", "for", "a", "baked", "potato", "side", "was", "quoted", "a", "$", "3.95", "price", "-LRB-", "I", "may", "be", "wrong", "on", "the", "change", "-RRB-", "and", "when", "the", "bill", "came", "it", "was", "almost", "$", "6.00", "for", "a", "baked", "potato", "that", "also", "came", "way", "after", "the", "food", "came", "out", "."], "e1_text": "came", "e1_pos": 32, "e2_text": "came", "e2_pos": 32, "label": "after"}
+]

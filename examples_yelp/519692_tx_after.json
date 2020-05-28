@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "French", "fries", ",", "which", "I", "was", "told", "after", "I", "ordered", "I", "should", "have", "ordered", "the", "onion", "rings", ",", "but", "hey", "fries", "are", "fries", "right", "?"], "e1_text": "told", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 1, "label": "after"}
+]

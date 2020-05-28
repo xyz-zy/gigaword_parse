@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "liked", "the", "buffalo", "chicken", "after", "I", "dusted", "off", "the", "carrot", "slices", "-LRB-", "there", "were", "carrot", "slices", "on", "my", "buffalo", "chicken", "pizza", "-RRB-", ",", "and", "the", "silcillian", "was", "good", "but", "I", "just", "did", "n't", "like", "the", "sauce", "that", "was", "used", "on", "the", "pepperoni", "pizza", "."], "e1_text": "liked", "e1_pos": 1, "e2_text": "dusted", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["#", "42", "Combo", "Special", "''", "``", "Kalbi", ",", "Chicken", "Katsu", "Cutlet", ",", "Crunch", "Roll", ",", "Crispy", "''", "''", "-LRB-", "Reg", "$", "9.50", "-RRB-", "The", "Kalbi", "is", "pretty", "tasty", ",", "as", "I", "recall", "before", "too", "."], "e1_text": "is", "e1_pos": 25, "e2_text": "recall", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "remember", "The", "Husband", "not", "really", "liking", "the", "mac", "salad", "before", ",", "but", "this", "time", "he", "ate", "all", "of", "it", "."], "e1_text": "remember", "e1_pos": 1, "e2_text": "liking", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wheels", "were", "spotlessly", "clean", "as", "they", "were", "under", "two", "years", "old", "and", "apart", "from", "keeping", "them", "nice", "I", "had", "power", "washed", "the", "insides", "and", "outside", "when", "I", "removed", "them", "before", "I", "put", "them", "onto", "the", "leather", "upholstery", "of", "my", "other", "car", "."], "e1_text": "removed", "e1_pos": 28, "e2_text": "put", "e2_pos": 32, "label": "before"},
+{"tokens": ["I", "wiped", "them", "off", "before", "putting", "them", "into", "the", "car", "and", "noticed", "scratch", "lines", "parallel", "and", "about", "1\\/2", "''", "''", "from", "the", "edges", "of", "the", "rims", "."], "e1_text": "wiped", "e1_pos": 1, "e2_text": "putting", "e2_pos": 5, "label": "before"}
+]

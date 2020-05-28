@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "got", "to", "be", "so", "bad", "that", "after", "asking", "a", "server", "to", "hail", "our", "waiter", "-LRB-", "and", "subsequently", "having", "the", "request", "ignored", "-RRB-", ",", "we", "decided", "to", "get", "the", "manager", "over", "to", "our", "table", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "asking", "e2_pos": 8, "label": "after"}
+]

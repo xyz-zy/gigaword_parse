@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "an", "appointment", "with", "Courtney", "for", "a", "family", "photo", "shoot", "this", "past", "weekend", "and", "long", "story", "short", ",", "after", "confirming", "our", "booking", ",", "she", "stopped", "communicating", "with", "us", "and", "left", "us", "scrambling", "to", "find", "another", "photographer", "at", "the", "last", "minute", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "confirming", "e2_pos": 20, "label": "after"}
+]

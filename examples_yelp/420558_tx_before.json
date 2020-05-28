@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "really", "like", "this", "store", ",", "however", "i", "typically", "go", "first", "thing", "in", "the", "morning", "when", "it", "is", "nice", "and", "quiet", ",", "but", "apparently", "i", "am", "there", "before", "they", "straighten", "the", "shelves", "or", "front", "face", "the", "store", "."], "e1_text": "am", "e1_pos": 25, "e2_text": "straighten", "e2_pos": 29, "label": "before"}
+]

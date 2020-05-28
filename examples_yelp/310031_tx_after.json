@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "of", "my", "friends", "ordered", "pizzas", "-LRB-", "because", "on", "Tuesdays", "they", "have", "a", "2", "for", "1", "pizza", "special", "-RRB-", "and", "both", "of", "them", "seemed", "to", "enjoy", "their", "meals", "as", "much", "as", ",", "if", "not", "more", "than", "I.", "I", "anticipate", "going", "back", "soon", ",", "especially", "after", "seeing", "two", "girls", "next", "to", "me", "get", "the", "cookie", "dessert", "!"], "e1_text": "going", "e1_pos": 39, "e2_text": "seeing", "e2_pos": 45, "label": "after"}
+]

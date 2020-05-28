@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "that", "in", "Caesar", "'s", "Palace", "and", "after", "I", "have", "to", "back", "out", "after", "more", "than", "30", "minutes", "of", "waiting", "because", "the", "total", "cost", "to", "eat", "at", "the", "Bacchanal", "Buffet", "is", "$", "85", "for", "a", "non-member", "compare", "to", "$", "65", "for", "a", "member", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "have", "e2_pos": 10, "label": "after"}
+]

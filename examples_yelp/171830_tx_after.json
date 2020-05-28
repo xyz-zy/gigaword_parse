@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "-LRB-", "now", "ex-wife", "-RRB-", "and", "I", "once", "stayed", "at", "MB", "a", "year", "after", "it", "opened", "."], "e1_text": "stayed", "e1_pos": 9, "e2_text": "opened", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "I", "called", "to", "make", "the", "reservation", ",", "I", "spoke", "to", "two", "people", "before", "finally", "being", "passed", "to", "the", "person", "handling", "reservations", "."], "e1_text": "spoke", "e1_pos": 9, "e2_text": "being", "e2_pos": 15, "label": "before"},
+{"tokens": ["When", "I", "received", "a", "voicemail", "from", "the", "Holyrood", "asking", "if", "we", "wanted", "to", "order", "off", "the", "festive", "menu", "or", "not", "and", "I", "called", "back", ",", "I", "again", "spoke", "to", "two", "people", "before", "finally", "speaking", "to", "someone", "who", "was", "in", "a", "position", "to", "understand", "and", "note", "that", "we", "did", "not", "want", "to", "order", "off", "the", "festive", "menu", "."], "e1_text": "spoke", "e1_pos": 27, "e2_text": "speaking", "e2_pos": 33, "label": "before"},
+{"tokens": ["When", "we", "arrived", "at", "the", "restaurant", "at", "our", "appointed", "time", ",", "we", "again", "were", "passed", "to", "three", "different", "people", "before", "being", "seated", "."], "e1_text": "passed", "e1_pos": 14, "e2_text": "being", "e2_pos": 20, "label": "before"}
+]

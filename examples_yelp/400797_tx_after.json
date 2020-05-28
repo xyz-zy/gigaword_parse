@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", ",", "I", "do", "n't", ",", "but", "you", "may", "want", "to", "inquire", "within", "after", "you", "stuff", "your", "gullet", "with", "steaming", "pho", "."], "e1_text": "inquire", "e1_pos": 11, "e2_text": "stuff", "e2_pos": 15, "label": "after"},
+{"tokens": ["Be", "prepped", "to", "get", "the", "fuzz", "called", "after", "you", "bust", "a", "move", "after", "your", "body", "shampoo", "."], "e1_text": "called", "e1_pos": 6, "e2_text": "bust", "e2_pos": 9, "label": "after"}
+]

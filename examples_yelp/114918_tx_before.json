@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "finally", "went", "up", "to", "the", "bar", "...", "waited", "another", "10", "min", "before", "we", "were", "acknowledged", "...", "we", "ordered", "a", "pitcher", "of", "beer", ",", "15", "wings", "-LRB-", "their", "special", "Monday", "night", "is", "to", "order", "10", "wings", "and", "get", "5", "free", "-RRB-", "and", "potato", "skins", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

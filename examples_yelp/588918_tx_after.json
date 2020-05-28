@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "placed", "our", "order", "online", ",", "there", "were", "some", "glitches", "in", "their", "system", "but", "was", "assured", "they", "are", "working", "on", "it", "-LRB-", "had", "to", "call", "after", "my", "order", "was", "placed", "to", "change", "the", "pick", "up", "time", "since", "the", "first", "available", "was", "in", "three", "hours", "-RRB-", "."], "e1_text": "call", "e1_pos": 24, "e2_text": "was", "e2_pos": 14, "label": "after"}
+]

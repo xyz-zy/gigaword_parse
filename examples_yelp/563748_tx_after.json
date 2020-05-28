@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "it", "arrived", ",", "we", "noticed", "the", "top", "was", "just", "swamped", "with", "juice", "and", "oil", "--", "this", "became", "a", "problem", "as", "the", "pizza", "became", "soggy", "after", "a", "few", "minutes", "-LRB-", "so", "I", "do", "n't", "recommend", "ordering", "out", "-RRB-", "."], "e1_text": "became", "e1_pos": 17, "e2_text": "do", "e2_pos": 32, "label": "after"},
+{"tokens": ["This", "place", "is", "almost", "a", "joke", "after", "I", "list", "everything", "out", ",", "but", "it", "'s", "certainly", "is", "n't", "bad", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "list", "e2_pos": 8, "label": "after"}
+]

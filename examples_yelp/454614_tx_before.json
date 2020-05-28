@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "Scottsdale", "for", "work", "so", "I", "had", "never", "been", "here", "before", "and", "I", "did", "n't", "know", "where", "you", "'re", "supposed", "to", "stand", "to", "pick", "up", "to-go", "orders", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "went", "up", "to", "the", "front", "of", "this", "empty", "place", ",", "BUT", "waited", "5", "whole", "mins", "before", "someone", "even", "said", "hello", "or", "offered", "to", "help", "me", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "said", "e2_pos": 19, "label": "before"}
+]

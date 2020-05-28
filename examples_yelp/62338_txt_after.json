@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "asked", "another", "person", "if", "I", "can", "just", "pay", "for", "my", "groceries", "and", "blu", "ray", "up", "in", "the", "front", "&", "the", "guy", "replies", "after", "staring", "at", "us", "for", "ten", "minutes", ",", "''", "``", "no", "ones", "helped", "you", "?", "''", "''"], "e1_text": "replies", "e1_pos": 23, "e2_text": "staring", "e2_pos": 25, "label": "after"}
+]

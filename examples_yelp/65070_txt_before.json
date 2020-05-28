@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "wo", "n't", "even", "let", "you", "wash", "your", "hands", "before", "you", "eat", "."], "e1_text": "wash", "e1_pos": 6, "e2_text": "eat", "e2_pos": 11, "label": "before"},
+{"tokens": ["If", "they", "do", "n't", "think", "we", "need", "to", "wash", "our", "hands", "before", "we", "touch", "our", "food", ",", "do", "you", "think", "they", "wash", "theirs", "before", "they", "touch", "our", "food", "?"], "e1_text": "wash", "e1_pos": 8, "e2_text": "touch", "e2_pos": 13, "label": "before"}
+]

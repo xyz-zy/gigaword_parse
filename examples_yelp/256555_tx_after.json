@@ -1,0 +1,3 @@
+[
+{"tokens": ["Only", "this", "time", "I", "asked", "for", "a", "manager", "-LRB-", "after", "explaining", "to", "the", "chef", "that", "he", "had", "done", "nothing", "wrong", "!", "-RRB-", "."], "e1_text": "asked", "e1_pos": 4, "e2_text": "explaining", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "my", "expectations", "were", "too", "high", "after", "last", "years", "rave", "reviews", ",", "or", "perhaps", "the", "business", "has", "gotten", "so", "confidant", "that", "their", "patrons", "would", "go", "back", "no", "matter", "what", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "rave", "e2_pos": 9, "label": "after"},
+{"tokens": ["Note", "that", "we", "came", "in", "first", "and", "got", "our", "order", "down", "first", "in", "front", "of", "three", "other", "groups", "who", "sat", "down", "after", "us", ",", "yet", "they", "got", "their", "food", "first", "and", "ours", "arrived", "last", "after", "10-15", "min", "."], "e1_text": "sat", "e1_pos": 19, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

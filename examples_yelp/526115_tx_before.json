@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "fiance", "got", "so", "angry", "that", "he", "had", "to", "leave", "the", "store", "before", "I", "finished", "checking", "out", "or", "he", "would", "have", "gone", "off", "."], "e1_text": "leave", "e1_pos": 9, "e2_text": "finished", "e2_pos": 14, "label": "before"}
+]

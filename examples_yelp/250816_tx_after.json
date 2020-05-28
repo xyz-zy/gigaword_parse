@@ -1,0 +1,4 @@
+[
+{"tokens": ["Awful", "experience", "when", "there", "was", "a", "problem", "with", "the", "pump", "after", "I", "swiped", "my", "credit", "card", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "swiped", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "went", "to", "another", "pump", "and", "as", "I", "was", "pumping", "my", "gasoline", ",", "another", "person", "pulled", "up", "and", "I", "could", "see", "that", "she", "was", "pumping", "on", "my", "credit", "card", "transaction", ",", "so", "I", "went", "inside", "and", "the", "idiot", "clerk", "would", "n't", "do", "a", "thing", "about", "it", "after", "he", "told", "me", "there", "was", "nothing", "to", "cancel", "out", "."], "e1_text": "do", "e1_pos": 41, "e2_text": "told", "e2_pos": 48, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "let", "her", "know", "we", "were", "actually", "there", "to", "purchase", "a", "gift", "card", "and", "she", "asks", "if", "the", "person", "we", "'re", "buying", "the", "card", "for", "has", "been", "there", "before", "."], "e1_text": "asks", "e1_pos": 15, "e2_text": "has", "e2_pos": 25, "label": "before"}
+]

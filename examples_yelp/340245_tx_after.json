@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "were", "all", "excited", "to", "go", "to", "Thai", "Elephant", "after", "going", "kayaking", "on", "Tempe", "Town", "Lake", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "going", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "have", "no", "problem", "with", "that", "normally", "-LRB-", "after", "all", ",", "a", "big", "group", "is", "more", "work", "for", "the", "server", "-RRB-", ",", "but", "our", "server", "was", "so", "horrible", "I", "would", "NEVER", "have", "tipped", "him", "18", "%", ",", "and", "I", "am", "usually", "a", "very", "generous", "tipper", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "is", "e2_pos": 14, "label": "after"}
+]

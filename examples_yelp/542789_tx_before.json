@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "even", "brought", "me", "a", "plate", "of", "garlic", "fries", "from", "another", "food", "truck", "while", "waiting", "in", "the", "Devilicious", "Food", "Truck", "line", ",", "which", "we", "finished", "well", "before", "reaching", "the", "front", "of", "the", "line", "."], "e1_text": "finished", "e1_pos": 24, "e2_text": "reaching", "e2_pos": 27, "label": "before"}
+]

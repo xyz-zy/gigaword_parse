@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "manage", "to", "find", "one", "gal", "who", "continued", "to", "check", "on", "us", "after", "she", "helped", "with", "the", "soup", "debacle", "...", "She", "continued", "to", "make", "sure", "we", "were", "okay", "so", "when", "it", "came", "time", "for", "the", "tip", "-", "she", "got", "it", "-", "though", "she", "was", "not", "the", "waitress", "at", "our", "table", "-", "take", "always", "...", "?"], "e1_text": "check", "e1_pos": 10, "e2_text": "helped", "e2_pos": 15, "label": "after"}
+]

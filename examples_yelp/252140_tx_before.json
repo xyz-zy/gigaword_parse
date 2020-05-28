@@ -1,0 +1,3 @@
+[
+{"tokens": ["Booked", "this", "hotel", "as", "a", "last", "resort", "before", "reading", "the", "reviews", "on", "yelp", "."], "e1_text": "Booked", "e1_pos": 0, "e2_text": "reading", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "'s", "hard", "for", "a", "restaurant", "to", "overcome", "but", "it", "just", "wasnt", "'", "fun", "being", "cold", "the", "entire", "evening", "after", "having", "to", "wait", "so", "long", "to", "be", "seated", "."], "e1_text": "cold", "e1_pos": 15, "e2_text": "having", "e2_pos": 20, "label": "after"},
+{"tokens": ["We", "ended", "up", "just", "corking", "the", "wine", "and", "drinking", "it", "later", "that", "night", "after", "it", "warmed", "up", "."], "e1_text": "drinking", "e1_pos": 8, "e2_text": "warmed", "e2_pos": 15, "label": "after"}
+]

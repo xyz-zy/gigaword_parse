@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "problem", "was", "before", "we", "even", "went", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["But", "then", "we", "proceeded", "to", "sit", "there", "for", "about", "25", "minutes", "before", "anyone", "even", "acknowledged", "us", "at", "all", "-", "so", "there", "went", "almost", "half", "our", "time", ",", "despite", "4", "servers", "just", "kind", "of", "slowly", "wandering", "around", "and", "standing", "around", "."], "e1_text": "sit", "e1_pos": 5, "e2_text": "acknowledged", "e2_pos": 14, "label": "before"}
+]

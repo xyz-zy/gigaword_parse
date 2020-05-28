@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "then", "changed", "her", "story", "and", "said", "that", "her", "boss", "told", "her", "to", "charge", "$", "5", "for", "my", "daughters", "toes", "-LRB-", "which", "she", "should", "have", "informed", "me", "that", "was", "the", "cost", "before", "doing", "them", "-RRB-", "but", "that", "she", "only", "charged", "me", "$", "2", "for", "it", "and", "then", "$", "3", "for", "the", "art", "work", "."], "e1_text": "was", "e1_pos": 28, "e2_text": "doing", "e2_pos": 32, "label": "before"}
+]

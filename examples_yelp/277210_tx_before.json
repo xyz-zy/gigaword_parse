@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "evidently", "didnt", "hear", "part", "of", "our", "order", "so", "it", "took", "a", "while", "before", "everything", "we", "ordered", "actually", "arrived", "to", "our", "table", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 16, "label": "before"},
+{"tokens": ["If", "you", "have", "kids", ",", "I", "would", "suggest", "considering", "the", "age", "and", "appetite", "of", "the", "child", "before", "ordering", "off", "of", "the", "kids", "menu", "."], "e1_text": "considering", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 17, "label": "before"}
+]

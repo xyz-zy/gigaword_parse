@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "after", "flying", "into", "town", "on", "business", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "flying", "e2_pos": 3, "label": "after"},
+{"tokens": ["It", "took", "about", "45", "minutes", "to", "get", "menus", "and", "waters", "after", "we", "had", "already", "been", "seated", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

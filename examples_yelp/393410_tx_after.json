@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "forward", "to", "trying", "macarons", "from", "here", "after", "reading", "all", "the", "great", "reviews", "."], "e1_text": "looking", "e1_pos": 2, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "were", "very", "fresh", ",", "soft", "and", "chewy", "even", "after", "being", "left", "in", "the", "fridge", "but", "taste", "and", "selection", "was", "disappointing", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

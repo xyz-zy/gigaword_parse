@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "found", "a", "dead", "fly", "in", "my", "salad", "...", "after", "when", "I", "was", "practically", "finished", "with", "the", "damn", "plate", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["HAHAHA", "...", "yeah", ",", "next", "time", ",", "my", "ass", "!!", "I", "took", "a", "picture", "of", "it", "but", "after", "I", "posted", "it", "on", "the", "''", "``", "tip", "section", "''", "''", "of", "the", "Yelp", "app", ",", "I", "deleted", "it", "off", "my", "phone", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "posted", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", ",", "who", "was", "actually", "very", "sweet", ",", "told", "us", "that", "she", "would", "have", "to", "charge", "us", "extra", "for", "the", "dipping", "sauce", "-LRB-", "which", "is", "bizarre", "because", "I", "'ve", "never", "heard", "of", "a", "restaurant", "charging", "for", "dipping", "sauce", "and", "we", "'ve", "never", "had", "an", "issue", "before", "-RRB-", "."], "e1_text": "is", "e1_pos": 25, "e2_text": "'ve", "e2_pos": 29, "label": "before"},
+{"tokens": ["My", "finace", "proceeded", "to", "tell", "her", "that", "he", "'s", "never", "been", "charged", "for", "it", "before", "and", "asked", "if", "she", "could", "double", "check", "on", "that", "."], "e1_text": "tell", "e1_pos": 4, "e2_text": "'s", "e2_pos": 8, "label": "before"}
+]

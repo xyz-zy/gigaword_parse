@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "busser", "brought", "us", "bread", "and", "we", "had", "to", "ask", "him", "for", "water", "after", "the", "table", "next", "to", "us", "was", "seated", "about", "30", "minutes", "later", "and", "they", "were", "brought", "water", "immediately", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "also", "noticed", "that", "the", "table", "next", "to", "us", ",", "who", "were", "seated", "about", "30", "minutes", "after", "we", "were", ",", "had", "gotten", "their", "meal", "immediately", "after", "ours", "was", "brought", "out", "."], "e1_text": "seated", "e1_pos": 12, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

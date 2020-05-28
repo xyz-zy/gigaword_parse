@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "20", "minutes", "max", "before", "I", "am", "called", "in", "and", "situated", "in", "a", "room", "to", "have", "my", "vitals", "measured", ",", "then", "placed", "in", "an", "exam", "room", ".", "''", "''"], "e1_text": "max", "e1_pos": 3, "e2_text": "am", "e2_pos": 6, "label": "before"}
+]

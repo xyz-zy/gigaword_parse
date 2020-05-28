@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "bought", "a", "new", "modem", "from", "them", "less", "than", "a", "year", "ago", "after", "a", "tech", "came", "to", "my", "house", "to", "diagnose", "the", "slow", "connection", "."], "e1_text": "bought", "e1_pos": 1, "e2_text": "came", "e2_pos": 15, "label": "after"},
+{"tokens": ["After", "I", "talked", "to", "my", "dad", "I", "found", "out", "the", "real", "problem", "after", "I", "noticed", "something", "strange", "."], "e1_text": "found", "e1_pos": 7, "e2_text": "noticed", "e2_pos": 14, "label": "after"}
+]

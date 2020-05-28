@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pro-tip", ",", "Rosati", "'s", ":", "If", "you", "are", "late", "getting", "someone", "'s", "order", "to", "them", "after", "charging", "more", "than", "everyone", "else", "in", "the", "neighborhood", "for", "pizza", "AND", "they", "have", "had", "to", "call", "you", "to", "ask", "where", "their", "food", "is", ",", "at", "least", "tell", "them", "you", "are", "sorry", "instead", "of", "flatly", "saying", "''", "``", "oh", ",", "its", "going", "out", "in", "2", "minutes", "''", "''", "and", "leaving", "it", "at", "that", "."], "e1_text": "getting", "e1_pos": 9, "e2_text": "charging", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "plenty", "of", "empty", "tables", "around", "1pm", "but", "we", "stood", "at", "the", "door", "for", "quite", "a", "while", "before", "we", "were", "seated", "."], "e1_text": "stood", "e1_pos": 10, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["Then", "after", "we", "were", "seated", ",", "we", "waited", "quite", "a", "bit", "longer", "before", "we", "placed", "our", "order", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "placed", "e2_pos": 14, "label": "before"}
+]

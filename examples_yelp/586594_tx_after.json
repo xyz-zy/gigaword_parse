@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "n't", "go", "to", "this", "auto", "repair", "shop", "I", "'ve", "been", "constantly", "having", "to", "return", "to", "this", "place", "because", "of", "the", "engine", "shaking", "where", "they", "kept", "telling", "me", "it", "was", "the", "''", "``", "fuel", "injectors", "''", "''", "well", "today", "got", "all", "of", "them", "changed", "and", "behold", "it", "'s", "still", "doing", "the", "exact", "same", "problems", "after", "paying", "them", "to", "''", "``", "fix", "it", ".", "''", "''"], "e1_text": "doing", "e1_pos": 50, "e2_text": "paying", "e2_pos": 56, "label": "after"}
+]

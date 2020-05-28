@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "excited", "to", "try", "the", "Liege", "waffles", "and", "had", "read", "about", "them", "before", "trying", "this", "place", "out", ",", "so", "my", "expectations", "were", "high", "."], "e1_text": "read", "e1_pos": 10, "e2_text": "trying", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "wish", "we", "had", "checked", "out", "the", "menu", "online", "before", "going", ",", "because", "we", "were", "disappointed", "to", "discover", "that", "they", "only", "serve", "waffles", ",", "smoothies", ",", "and", "coffee", "or", "tea", "drinks", "."], "e1_text": "checked", "e1_pos": 4, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "had", "thought", "before", "coming", "that", "this", "was", "a", "full", "service", "restuarant", "where", "you", "could", "get", "a", "side", "of", "turkey", "bacon", "or", "eggs", "to", "go", "along", "with", "your", "waffle", "-LRB-", "which", "I", "prefer", "to", "cut", "the", "sweetness", "and", "offer", "some", "balance", "-RRB-", "."], "e1_text": "thought", "e1_pos": 2, "e2_text": "coming", "e2_pos": 4, "label": "before"}
+]

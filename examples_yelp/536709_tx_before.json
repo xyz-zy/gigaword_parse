@@ -1,0 +1,5 @@
+[
+{"tokens": ["Food", "was", "good", ",", "but", "service", "was", "terrible", "!!", "Waited", "like", "10", "min", "before", "we", "were", "asked", "out", "drink", "orders", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 15, "label": "before"},
+{"tokens": ["Another", "15", "went", "by", "before", "we", "got", "them", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "got", "e2_pos": 6, "label": "before"},
+{"tokens": ["Large", "group", "came", "in", "15", "min", "after", "we", "did", "and", "got", "appetizers", "and", "drinks", "before", "we", "got", "water", "!!!", "Seriously", "!!!", "Food", "was", "good", "and", "filling", ",", "just", "sad", "the", "service", "was", "lacking", "."], "e1_text": "got", "e1_pos": 10, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

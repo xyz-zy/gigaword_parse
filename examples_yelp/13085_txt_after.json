@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "moved", "back", "to", "Champaign-Urbana", "after", "living", "here", "briefly", "8", "years", "ago", "and", "sooo", "much", "has", "changed", "."], "e1_text": "moved", "e1_pos": 2, "e2_text": "living", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "boyfriend", "and", "I", "popped", "into", "Radio", "Maria", "after", "being", "turned", "away", "from", "Bacaro", "for", "not", "having", "a", "reservation", "on", "a", "Saturday", "night", "."], "e1_text": "popped", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

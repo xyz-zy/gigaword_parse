@@ -1,0 +1,4 @@
+[
+{"tokens": ["Trust", "me", ",", "I", "worked", "at", "a", "Chinese", "take", "out", "place", "before", "and", "this", "rice", "here", "is", "stale", "and", "day", "old", ",", "because", "fresh", "rice", "does", "not", "look", "off", "white", "and", "is", "not", "so", "hard", "."], "e1_text": "worked", "e1_pos": 4, "e2_text": "take", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "'s", "a", "troublesome", "process", "and", ",", "it", "is", "true", "that", "most", "places", "do", "not", "do", "it", "often", "enough", ",", "but", "U", "have", "to", "do", "it", "before", "it", "starts", "to", "corrupt", "the", "taste", "and", "appearance", "of", "your", "food", "."], "e1_text": "do", "e1_pos": 15, "e2_text": "starts", "e2_pos": 28, "label": "before"}
+]

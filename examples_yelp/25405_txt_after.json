@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dog", "ended", "up", "here", "after", "being", "hit", "by", "a", "car", "-LRB-", "I", "was", "on", "vacation", "and", "someone", "was", "watching", "my", "dog", "for", "me", "-RRB-", ",", "because", "it", "was", "the", "closest", "option", "."], "e1_text": "ended", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"}
+]

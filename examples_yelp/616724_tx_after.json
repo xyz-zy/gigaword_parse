@@ -1,0 +1,3 @@
+[
+{"tokens": ["they", "also", "seemed", "to", "disappear", "after", "my", "first", "round", "of", "ordering", "trying", "to", "allow", "the", "clock", "to", "run", "down", ",", "and", "limit", "the", "amount", "of", "sushi", "I", "could", "order", "in", "the", "time", "frame", "."], "e1_text": "disappear", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "nice", "man", "clicked", "the", "light", "on", "again", "for", "another", "cycle", "after", "the", "first", "curing", ",", "but", "the", "curing", "went", "on", "for", "FOUR", "light", "cycles", "before", "she", "deigned", "to", "return", "to", "the", "job", "."], "e1_text": "went", "e1_pos": 19, "e2_text": "deigned", "e2_pos": 27, "label": "before"}
+]

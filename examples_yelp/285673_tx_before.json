@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "new", "dr.", "said", "I", "did", "not", "have", "this", "insane", "incurable", "disease", "that", "the", "idiot", "told", "me", "I", "had", "the", "day", "before", "."], "e1_text": "told", "e1_pos": 15, "e2_text": "had", "e2_pos": 18, "label": "before"},
+{"tokens": ["She", "was", "better", "because", "she", "at", "least", "looked", "before", "telling", "me", "something", "stupid", "and", "then", "she", "abruptly", "ushered", "me", "into", "the", "hallway", "like", "we", "were", "done", "heres", "a", "prescription", "see", "ya", "."], "e1_text": "looked", "e1_pos": 7, "e2_text": "telling", "e2_pos": 9, "label": "before"}
+]

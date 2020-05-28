@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "week", ",", "I", "was", "there", "for", "about", "15", "minutes", "before", "our", "waiter", "asked", "if", "I", "would", "like", "something", "to", "drink", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "asked", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "did", "n't", "charge", "me", "for", "the", "beer", ",", "which", "I", "appreciated", ",", "but", "trivia", "was", "about", "half", "over", "before", "I", "had", "a", "drink", "in", "my", "hand", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 21, "label": "before"}
+]

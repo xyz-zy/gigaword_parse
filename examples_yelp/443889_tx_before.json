@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "put", "both", "our", "empty", "water", "glasses", "out", "for", "the", "server", "to", "see", "and", "we", "counted", "how", "many", "times", "someone", "would", "look", "at", "them", "before", "they", "came", "over", "to", "check", "on", "us", "."], "e1_text": "look", "e1_pos": 21, "e2_text": "came", "e2_pos": 26, "label": "before"},
+{"tokens": ["Menus", "down", "and", "empty", "glasses", "out", ",", "servers", "glanced", "over", "our", "table", "11", "times", "before", "we", "decided", "to", "leave", "."], "e1_text": "glanced", "e1_pos": 8, "e2_text": "decided", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["no", "format", "whatsoever", "and", "the", "transitions", "were", "horrible", "...", "cutting", "off", "songs", "before", "they", "ended", "as", "the", "next", "song", "was", "abruptly", "forced", "in", "."], "e1_text": "cutting", "e1_pos": 9, "e2_text": "ended", "e2_pos": 14, "label": "before"},
+{"tokens": ["They", "have", "let", "the", "drunk", "queens", "take", "over", "the", "dance", "floor", "way", "before", "the", "music", "even", "switched", "over", ",", "not", "caring", "one", "bit", "about", "the", "couples", "or", "dancers", "trying", "to", "menuver", "around", "them", "!"], "e1_text": "take", "e1_pos": 6, "e2_text": "switched", "e2_pos": 16, "label": "before"},
+{"tokens": ["Only", "once", "were", "they", "told", "not", "to", "bring", "drinks", "to", "the", "dance", "floor", ",", "but", "never", "to", "get", "their", "drunk", "asses", "out", "of", "the", "way", "before", "they", "get", "intentionally", "plowed", "into", "by", "people", "that", "are", "fed", "up", "with", "it", "!"], "e1_text": "get", "e1_pos": 17, "e2_text": "get", "e2_pos": 27, "label": "before"}
+]

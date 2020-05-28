@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", "went", "there", "again", "the", "waitress", "disappeared", "after", "giving", "food", "an", "hour", "later", "and", "I", "wanted", "to", "order", "something", "else", "since", "I", "did", "n't", "care", "for", "but", "no", "one", "to", "ask", "."], "e1_text": "disappeared", "e1_pos": 6, "e2_text": "giving", "e2_pos": 8, "label": "after"},
+{"tokens": ["After", "20", "minutes", "the", "front", "desk", "guy", "came", "after", "we", "waived", "so", "many", "times", "and", "he", "was", "so", "not", "friendly", "told", "us", "that", "was", "exactly", "our", "orders", "while", "my", "friend", "was", "so", "sure", "they", "were", "not", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "waived", "e2_pos": 10, "label": "after"}
+]

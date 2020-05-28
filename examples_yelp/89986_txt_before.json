@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "exactly", "3", "minutes", "and", "45", "seconds", "to", "drink", "my", "soda", "before", "being", "told", "they", "had", "to", "pick", "it", "up", "because", "the", "plane", "was", "preparing", "to", "land", "."], "e1_text": "drink", "e1_pos": 9, "e2_text": "being", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Thinking", "back", "about", "my", "original", "visit", ",", "the", "employee", "that", "helped", "me", "get", "signed", "up", "was", "nice", "enough", ",", "however", "after", "being", "a", "member", "for", "a", "few", "months", "I", "realized", "there", "were", "things", "he", "failed", "to", "mention", "that", "day", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "being", "e2_pos": 21, "label": "after"},
+{"tokens": ["The", "class", "was", "completely", "full", ",", "as", "were", "many", "of", "the", "machines", "after", "the", "class", "ended", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "ended", "e2_pos": 15, "label": "after"}
+]

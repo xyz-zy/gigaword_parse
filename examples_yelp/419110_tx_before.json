@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "did", "the", "office", "staff", "reschedule", "my", "appointment", "the", "business", "day", "before", "it", "took", "place", "without", "giving", "me", "any", "options", "-LRB-", "basically", "they", "informed", "me", "to", "come", "in", "an", "hour", "later", "than", "I", "was", "scheduled", "or", "cancel", "-RRB-", ",", "but", "I", "had", "to", "wait", "almost", "an", "additional", "hour", "before", "I", "was", "even", "seen", "."], "e1_text": "reschedule", "e1_pos": 6, "e2_text": "took", "e2_pos": 14, "label": "before"}
+]

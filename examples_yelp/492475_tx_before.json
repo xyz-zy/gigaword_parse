@@ -1,0 +1,3 @@
+[
+{"tokens": ["BTW", ",", "there", "is", "a", "long", ",", "long", "line", "for", "both", "payment", "-LRB-", "you", "pay", "first", "before", "you", "get", "in", "the", "waiting", "line", "-RRB-", ",", "and", "a", "long", ",", "long", "line", "for", "waiting", "to", "be", "seated", "."], "e1_text": "pay", "e1_pos": 14, "e2_text": "get", "e2_pos": 18, "label": "before"}
+]

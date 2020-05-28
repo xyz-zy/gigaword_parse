@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "the", "tires", "had", "plenty", "of", "tread", ",", "I", "was", "told", "they", "could", "n't", "patch", "it", "because", "the", "tire", "was", "too", "worn", "down", "and", "that", "I", "needed", "to", "purchase", "new", "tires", "-LRB-", "after", "incorrectly", "being", "told", "that", "the", "tires", "were", "proprietary", "and", "could", "n't", "be", "taken", "off", "-RRB-", "."], "e1_text": "purchase", "e1_pos": 29, "e2_text": "being", "e2_pos": 35, "label": "after"}
+]

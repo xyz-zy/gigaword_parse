@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "a", "24", "hour", "joint", "so", "it", "'s", "perfect", "after", "a", "long", "night", "of", "dancing", "at", "the", "club", "."], "e1_text": "'s", "e1_pos": 8, "e2_text": "dancing", "e2_pos": 15, "label": "after"},
+{"tokens": ["It", "'s", "also", "good", "for", "the", "morning", "after", "a", "long", "night", "of", "dancing", "at", "the", "club", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "dancing", "e2_pos": 12, "label": "after"}
+]

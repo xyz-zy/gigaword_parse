@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "downside", "was", "that", "it", "took", "a", "good", "ten", "minutes", "before", "someone", "who", "actually", "worked", "there", "would", "come", "out", "from", "wherever", "he", "was", "to", "let", "us", "pay", "!"], "e1_text": "took", "e1_pos": 6, "e2_text": "worked", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "discovered", "they", "have", "lots", "of", "board", "games", "you", "can", "rent", "for", "$", "5", "to", "play", "in-store", ",", "so", "maybe", "I", "'ll", "stop", "by", "one", "day", "if", "we", "want", "to", "try", "something", "new", "before", "spending", "any", "money", "on", "it", "."], "e1_text": "try", "e1_pos": 30, "e2_text": "spending", "e2_pos": 34, "label": "before"}
+]

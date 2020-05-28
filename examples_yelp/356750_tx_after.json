@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "got", "a", "text", "message", "canceling", "37", "minutes", "after", "they", "were", "supposed", "to", "be", "here", "AND", "after", "being", "called", "last", "week", "and", "having", "to", "reschedule", "because", "KC", "had", "a", "''", "``", "family", "emergency", "''", "''", "."], "e1_text": "canceling", "e1_pos": 5, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "live", "all", "the", "way", "across", "town", "so", "I", "asked", "her", "if", "I", "should", "send", "her", "a", "picture", "of", "what", "I", "want", "before", "heading", "over", ",", "she", "said", "no", ",", "that", "she", "'ll", "just", "see", "it", "when", "I", "got", "there", "."], "e1_text": "want", "e1_pos": 21, "e2_text": "heading", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "Also", "explained", "to", "her", "that", "I", "have", "a", "4", "month", "old", "baby", "at", "home", "that", "is", "exclusively", "breastfeeding", "so", "I", "'ll", "need", "to", "go", "in", "when", "she", "'s", "fully", "available", "-LRB-", "the", "day", "before", "i", "was", "going", "to", "go", "in", "but", "she", "she", "said", "she", "would", "have", "to", "work", "around", "me", "because", "she", "had", "another", "client", "coming", "in", ".", "-RRB-"], "e1_text": "have", "e1_pos": 7, "e2_text": "was", "e2_pos": 36, "label": "before"}
+]

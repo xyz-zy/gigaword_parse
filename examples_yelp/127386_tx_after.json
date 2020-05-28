@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "problem", "is", "that", "the", "staff", "are", "not", "very", "friendly", "or", "accommodating", "at", "this", "hotel", ",", "and", "there", "is", "not", "much", "cleaning", "up", "after", "the", "less", "than", "considerate", "guests", "who", "jump", "on", "those", "low", "room", "rates", "for", "a", "stay", "in", "Vegas", "."], "e1_text": "cleaning", "e1_pos": 21, "e2_text": "jump", "e2_pos": 30, "label": "after"},
+{"tokens": ["The", "room", "itself", "had", "no", "circulation", "though", ",", "and", "the", "air", "conditioner", "worked", "so", "efficiently", "that", "after", "five", "minutes", "of", "turning", "it", "on", ",", "it", "felt", "like", "a", "tundra", "."], "e1_text": "worked", "e1_pos": 12, "e2_text": "turning", "e2_pos": 20, "label": "after"}
+]

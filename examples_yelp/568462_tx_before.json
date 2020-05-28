@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "get", "into", "the", "hot", ",", "muggy", "theater", "with", "sticky", "floors", "and", "find", "our", "seats", "about", "20", "minutes", "before", "the", "movie", "starts", "."], "e1_text": "find", "e1_pos": 12, "e2_text": "starts", "e2_pos": 21, "label": "before"},
+{"tokens": ["Seriously", "can", "i", "try", "to", "enjoy", "my", "cold", "chicken", "before", "you", "make", "me", "pay", "for", "it", "!!", "I", "was", "so", "excited", "to", "have", "a", "date", "night", "here", "but", "i", "definitely", "will", "not", "return", "."], "e1_text": "enjoy", "e1_pos": 5, "e2_text": "make", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "always", "makes", "it", "a", "point", "to", "arrive", "35", "minutes", "before", "his", "shift", "begins", "so", "he", "can", "take", "advantage", "of", "employee", "dinner", "and", "he", "appreciates", "being", "treated", "like", "family", "."], "e1_text": "arrive", "e1_pos": 7, "e2_text": "begins", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "spinach", "is", "marinated", "before", "being", "put", "on", "the", "pizza", ",", "and", "there", "'s", "tons", "of", "fresh", "garlic", "."], "e1_text": "marinated", "e1_pos": 3, "e2_text": "being", "e2_pos": 5, "label": "before"}
+]

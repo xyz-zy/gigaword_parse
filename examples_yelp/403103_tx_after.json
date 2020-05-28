@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "flight", "was", "delayed", "-LRB-", "ultimately", "2", "1\\/2", "hours", "-RRB-", "but", "they", "would", "n't", "tell", "us", "if", "we", "were", "getting", "off", "the", "standby", "list", "until", "AFTER", "the", "flight", "they", "made", "us", "transfer", "to", "already", "left", "!!!", "Fortunately", ",", "we", "were", "able", "to", "make", "it", "on", "the", "flight", ",", "but", "after", "so", "many", "hoops", ",", "and", "so", "many", "people", "that", "were", "incredibly", "incredibly", "rude", "to", "us", "after", "paying", "$", "750", "for", "coach", "seats", "to", "a", "location", "less", "than", "an", "hour", "flight", "."], "e1_text": "make", "e1_pos": 42, "e2_text": "were", "e2_pos": 18, "label": "after"}
+]

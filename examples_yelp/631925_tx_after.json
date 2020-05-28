@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "lucky", "to", "get", "my", "beef", "rib", "which", "they", "ran", "out", "right", "after", "I", "got", "my", "order", "."], "e1_text": "ran", "e1_pos": 10, "e2_text": "got", "e2_pos": 1, "label": "after"},
+{"tokens": ["Absolute", "changed", "my", "mind", "about", "BBQ", "after", "visiting", "Little", "Miss", "BBQ", "."], "e1_text": "changed", "e1_pos": 1, "e2_text": "visiting", "e2_pos": 7, "label": "after"}
+]

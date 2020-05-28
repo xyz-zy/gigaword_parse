@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Mongolian", "beef", "was", "drenched", "in", "sauce", ",", "and", "the", "calamari", "came", "out", "after", "we", "finished", "our", "dinner", "entree", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "finished", "e2_pos": 15, "label": "after"}
+]

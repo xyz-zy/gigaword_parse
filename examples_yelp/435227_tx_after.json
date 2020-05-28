@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "is", "good", ",", "but", "we", "walked", "out", "after", "we", "were", "told", "to", "sit", "down", "then", "ignored", "as", "the", "lone", "waitress", "helped", "ten", "people", "who", "ordered", "at", "the", "counter", "."], "e1_text": "walked", "e1_pos": 6, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

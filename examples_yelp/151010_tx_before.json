@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "mean", "before", "their", "landfills", "filled", "up", "--", "DO", "N'T", "go", "to", "Naples", "now", "."], "e1_text": "mean", "e1_pos": 1, "e2_text": "DO", "e2_pos": 8, "label": "before"},
+{"tokens": ["Do", "I", "have", "to", "remind", "you", "that", "you", "have", "to", "arrive", "at", "Bianco", "'s", "an", "hour", "before", "the", "restaurant", "even", "opens", "to", "wait", "in", "line", "to", "put", "your", "name", "on", "the", "list", "to", "then", "wait", "next", "door", "for", "3", "hours", "to", "get", "a", "table", "?"], "e1_text": "arrive", "e1_pos": 10, "e2_text": "opens", "e2_pos": 20, "label": "before"}
+]

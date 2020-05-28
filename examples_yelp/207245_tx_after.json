@@ -1,0 +1,3 @@
+[
+{"tokens": ["Two", "the", "waitress", "was", "old", "and", "kept", "forgetting", "everything", "includiing", "to", "charge", "my", "credit", "card", "after", "I", "gave", "it", "to", "her", "for", "my", "bill", "."], "e1_text": "charge", "e1_pos": 11, "e2_text": "gave", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "off", "we", "had", "no", "idea", "where", "you", "check", "in", "at", "to", "get", "a", "table", ",", "after", "standing", "around", "for", "about", "15", "minutes", "we", "finally", "got", "approached", "and", "then", "she", "told", "us", "to", "wait", "another", "10", "and", "during", "that", "other", "people", "walked", "in", "and", "she", "seated", "them", "right", "away", "-LRB-", "she", "must", "have", "forgotten", "about", "us", "-RRB-", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "standing", "e2_pos": 17, "label": "after"},
+{"tokens": ["we", "got", "seated", "and", "after", "looking", "at", "the", "menu", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "looking", "e2_pos": 5, "label": "after"}
+]

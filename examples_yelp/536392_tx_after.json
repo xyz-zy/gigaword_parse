@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "decided", "after", "1", "hour", "15", "minutes", "&", "absolutely", "no", "communication", "or", "service", "from", "our", "waitress", "that", "we", "had", "to", "leave", "."], "e1_text": "decided", "e1_pos": 2, "e2_text": "had", "e2_pos": 19, "label": "after"},
+{"tokens": ["They", "had", "an", "opportunity", "to", "be", "a", "great", "neighborhood", "breakfast", "place", "&", "I", "would", "have", "loved", "for", "it", "to", "be", "but", "I", "will", "never", "go", "back", "here", "after", "the", "poor", "service", "we", "received", "on", "so", "many", "levels", "."], "e1_text": "go", "e1_pos": 24, "e2_text": "received", "e2_pos": 32, "label": "after"}
+]

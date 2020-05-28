@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "waited", "3", "minutes", "at", "the", "order", "window", "after", "being", "told", "it", "would", "be", "just", "a", "moment", ",", "and", "then", "another", "15", "minutes", "to", "get", "our", "drinks", "with", "one", "vehicle", "at", "the", "pick", "up", "window", "in", "front", "of", "us", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

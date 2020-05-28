@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "person", "that", "originally", "checked", "us", "in", "rushed", "us", "out", "before", "we", "had", "the", "chance", "to", "ask", "any", "questions", ",", "but", "the", "second", "person", "we", "got", "-LRB-", "after", "waiting", "in", "line", "again", "-RRB-", "was", "great", "and", "resolved", "the", "issue", "."], "e1_text": "rushed", "e1_pos": 7, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

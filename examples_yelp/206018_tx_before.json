@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "it", "was", "their", "intent", "that", "one", "person", "be", "served", "and", "complete", "eating", "their", "meal", "before", "the", "second", "person", "was", "served", "in", "order", "to", "facilitate", "socializing", ",", "but", "we", "would", "have", "been", "much", "happier", "being", "served", "at", "the", "same", "time", "."], "e1_text": "complete", "e1_pos": 11, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["The", "green", "tea", "brewed", "too", "long", "before", "it", "was", "served", ",", "and", "it", "was", "quite", "bitter", "."], "e1_text": "brewed", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "there", "shortly", "after", "they", "opened", ",", "I", "think", "it", "was", "around", "6:30", "in", "the", "morning", ",", "walked", "over", "from", "the", "Sheraton", ",", "sat", "at", "the", "counter", ",", "friendly", "service", ",", "delicious", "breakfast", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "opened", "e2_pos": 6, "label": "after"}
+]

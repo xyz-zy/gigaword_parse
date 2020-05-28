@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "on", "the", "way", "home", "to", "see", "it", "after", "reading", "about", "Bread", "Connection", "opening", "on", "lthe", "northwest", "corner", "of", "Alma", "School", "&", "Chandler", "Blvd.", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "may", "try", "later", "on", "after", "they", "'ve", "been", "open", "awhile", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "a", "whole", "hour", "for", "my", "friend", "to", "receive", "her", "food", "after", "of", "course", "we", "were", "all", "done", "eating", "and", "ready", "to", "pay", "."], "e1_text": "receive", "e1_pos": 9, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "waitress", "said", "she", "would", "discount", "my", "ticket", "but", "then", "of", "course", "''", "``", "forgot", "''", "''", "after", "she", "rung", "me", "up", "."], "e1_text": "discount", "e1_pos": 5, "e2_text": "rung", "e2_pos": 19, "label": "after"}
+]

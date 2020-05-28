@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "must", "sit", "outside", "before", "it", "gets", "too", "hot", "."], "e1_text": "sit", "e1_pos": 2, "e2_text": "gets", "e2_pos": 6, "label": "before"},
+{"tokens": ["Our", "waitress", "was", "all", "over", "it", "and", "never", "missed", "a", "beat", ",", "she", "was", "obviosuly", "very", "busy", "but", "our", "drink", "levels", "never", "dipped", "below", "halfway", "before", "she", "was", "back", "asking", "if", "we", "were", "ready", "to", "try", "another", "beer", "."], "e1_text": "dipped", "e1_pos": 22, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

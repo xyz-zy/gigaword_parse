@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "loved", "my", "favorite", "-LRB-", "divey", "-RRB-", "Chinese", "buffet", "in", "Chicago", "and", "after", "reading", "all", "the", "great", "reviews", "of", "this", "place", ",", "I", "convinced", "Lynn", "W", "and", "Claire", "to", "drive", "all", "the", "wayyyyyyy", "out", "to", "BFE", "to", "try", "this", "place", "."], "e1_text": "loved", "e1_pos": 1, "e2_text": "reading", "e2_pos": 13, "label": "after"}
+]

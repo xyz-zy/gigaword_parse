@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "had", "their", "feet", "in", "the", "water", "and", "sat", "for", "at", "least", "25", "minutes", "before", "walking", "out", "."], "e1_text": "sat", "e1_pos": 8, "e2_text": "walking", "e2_pos": 15, "label": "before"},
+{"tokens": ["Who", "knows", "how", "long", "they", "sat", "there", "before", "I", "got", "there", "!"], "e1_text": "sat", "e1_pos": 5, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "type", "a", "lot", "for", "work", "and", "I", "had", "trouble", "keeping", "nail", "polish", "on", "for", "more", "than", "a", "few", "days", "before", "it", "chips", ",", "so", "I", "converted", "to", "gel", "nail", "polish", "-LRB-", "which", "is", "amazing", "by", "the", "way", "-RRB-", "!"], "e1_text": "polish", "e1_pos": 12, "e2_text": "chips", "e2_pos": 22, "label": "before"}
+]

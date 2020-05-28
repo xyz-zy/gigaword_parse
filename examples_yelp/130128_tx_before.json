@@ -1,0 +1,4 @@
+[
+{"tokens": ["''", "``", "See", "her", "before", "she", "blows", "!"], "e1_text": "her", "e1_pos": 3, "e2_text": "blows", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "went", "to", "this", "hotel", "because", "it", "was", "the", "cheapest", "hotel", "close", "enough", "to", "the", "strip", "at", "a", "reasonable", "price", ",", "granted", "we", "did", "n't", "do", "alot", "of", "investigating", "before", "we", "went", "here", ",", "so", "that", "was", "pretty", "much", "our", "fault", "."], "e1_text": "investigating", "e1_pos": 28, "e2_text": "went", "e2_pos": 1, "label": "before"}
+]

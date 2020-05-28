@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "we", "had", "got", "there", "5", "min", "after", "the", "lunch", "hour", "meal", "deal", "had", "ended", "but", "we", "did", "not", "want", "huge", "dinner", "portions", "at", "the", "time", "so", "we", "had", "asked", "very", "politely", "if", "it", "was", "possible", "if", "we", "could", "order", "the", "lunch", "meal", "instead", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "had", "e2_pos": 2, "label": "after"},
+{"tokens": ["I", "would", "like", "to", "give", "them", "another", "chance", "but", "after", "my", "12", "hour", "long", "incident", "i", "really", "do", "n't", "want", "to", "risk", "it", "."], "e1_text": "like", "e1_pos": 2, "e2_text": "do", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "cool", "thing", "about", "it", "is", "the", "light", "show", "that", "goes", "on", "every", "half", "hour", "till", "midnight", ",", "then", "after", "it", "is", "ghost", "town", "and", "crackhead", "central", "."], "e1_text": "goes", "e1_pos": 11, "e2_text": "is", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "should", "advise", "you", "to", "get", "a", "tetnis", "shot", "after", "being", "downtown", "and", "the", "golden", "nugget", "itself", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wanted", "to", "try", "something", "new", ",", "so", "I", "decided", "to", "visit", "Macaroni", "Grill", "with", "a", "friend", "of", "mine", "who", "ate", "there", "before", "...", "The", "waiter", "brought", "us", "some", "bread", ",", "I", "forgot", "what", "the", "name", "of", "the", "bread", "was", "but", "it", "was", "very", "hard", "on", "the", "outside", "."], "e1_text": "ate", "e1_pos": 20, "e2_text": "brought", "e2_pos": 26, "label": "before"}
+]

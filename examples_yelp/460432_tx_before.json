@@ -1,0 +1,3 @@
+[
+{"tokens": ["Heaven", "forbid", "I", "want", "to", "try", "the", "yogurt", "before", "I", "buy", "it", "!"], "e1_text": "try", "e1_pos": 5, "e2_text": "buy", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "bartender", "'s", "excuse", "was", ",", "''", "``", "The", "people", "over", "at", "that", "table", "ordered", "the", "same", "thing", "a", "long", "time", "before", "you", "did", "and", "they", "just", "got", "theirs", ".", "''", "''"], "e1_text": "ordered", "e1_pos": 14, "e2_text": "did", "e2_pos": 23, "label": "before"}
+]

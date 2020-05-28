@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Air", "Canada", "flight", "attendants", "never", "found", "it", "necessary", "to", "apologize", "for", "this", "delay", "and", "information", "on", "connections", "was", "only", "announced", "during", "the", "final", "descent", ",", "a", "few", "minutes", "before", "I", "saw", "on", "my", "cell", "phone", "that", "I", "had", "already", "received", "an", "Air", "Canada", "text", "message", "on", "my", "new", "connection", "-LRB-", "much", "-RRB-", "earlier", "during", "the", "flight", "."], "e1_text": "announced", "e1_pos": 20, "e2_text": "saw", "e2_pos": 31, "label": "before"}
+]

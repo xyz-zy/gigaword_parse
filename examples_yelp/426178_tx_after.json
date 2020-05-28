@@ -1,0 +1,4 @@
+[
+{"tokens": ["BUT", "we", "waited", "after", "ordering", "about", "45", "mins", "to", "1", "hour", "for", "our", "food", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "really", "was", "bouncing", "between", "3", "and", "four", "stars", ",", "but", "it", "landed", "at", "a", "3", "after", "further", "deliberation", "here", "is", "what", "it", "came", "down", "to", ":", "-", "The", "waffle", "and", "chicken", "were", "skimpy", "for", "the", "price", "-LRB-", "on", "the", "combo", "-RRB-", ",", "i", "have", "had", "some", "really", "good", "CnW", "."], "e1_text": "landed", "e1_pos": 12, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

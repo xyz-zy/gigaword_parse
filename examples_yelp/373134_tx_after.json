@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "came", "out", "literally", "within", "5", "minutes", "after", "ordering", "as", "it", "probably", "should", "have", "since", "we", "were", "the", "only", "ones", "left", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 9, "label": "after"},
+{"tokens": ["Oh", ",", "the", "weird", "part", "which", "we", "realized", "after", "we", "left", "was", "a", "couple", "of", "the", "servers", "were", "having", "their", "meals", "...", "the", "kitchen", "is", "closed", "?"], "e1_text": "realized", "e1_pos": 7, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

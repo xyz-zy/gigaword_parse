@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "trip", "was", "a", "little", "try", "as", "it", "was", "the", "end", "while", "the", "second", "time", "around", "was", "practically", "alive", "after", "asking", "for", "it", "to", "be", "a", "little", "rarer", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "asking", "e2_pos": 21, "label": "after"},
+{"tokens": ["Also", ",", "I", "had", "an", "empty", "glass", "of", "orange", "juice", "for", "half", "the", "meal", "even", "after", "asking", "three", "different", "servers", "for", "a", "refill", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "asking", "e2_pos": 16, "label": "after"}
+]

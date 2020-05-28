@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "never", "informed", "me", "of", "her", "procedure", "steps", "of", "an", "annual", "exam", "before", "she", "did", "them", ",", "like", "all", "the", "other", "gynocologists", "i", "have", "visited", "in", "my", "time", "or", "even", "worked", "for", "."], "e1_text": "informed", "e1_pos": 2, "e2_text": "did", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Totally", "with", "you", "on", "the", "whole", "''", "``", "finish", "one", "project", "before", "starting", "another", "''", "''", ",", "and", "it", "'s", "3PM", "and", "lanes", "are", "blocked", "off", "but", "workers", "and", "any", "sign", "of", "work", "are", "seemingly", "non-existent", "."], "e1_text": "project", "e1_pos": 10, "e2_text": "starting", "e2_pos": 12, "label": "before"},
+{"tokens": ["At", "least", ",", "if", "you", "'re", "going", "to", "inconvenience", "us", "for", "weeks", "and", "months", "at", "a", "time", ",", "have", "the", "work", "ethic", "and", "common", "courtesy", "to", "leave", "the", "roadway", "surface", "in", "as", "good", "-LRB-", "or", ",", "preferably", "better", "-RRB-", "shape", "than", "before", "you", "started", "digging", "."], "e1_text": "leave", "e1_pos": 26, "e2_text": "started", "e2_pos": 43, "label": "before"}
+]

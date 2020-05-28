@@ -1,0 +1,3 @@
+[
+{"tokens": ["OK", ",", "The", "last", "time", "I", "went", "in", "there", "were", "a", "couple", "of", "big", "differences", ":", "-", "The", "store", "hours", "have", "shifted", "much", "earlier", "than", "before", ",", "some", "nights", "closing", "as", "early", "as", "5", "PM", "-LRB-", "although", "this", "is", "to", "accommodate", "opening", "early", "for", "breakfast", "now", "-RRB-", "-", "All", "the", "regular", "staff", "behind", "the", "counter", "are", "gone", "...", "the", "replacements", "are", "friendly", "and", "efficient", "enough", ",", "but", "so", "far", "it", "'s", "just", "not", "the", "same", "."], "e1_text": "shifted", "e1_pos": 21, "e2_text": "are", "e2_pos": 55, "label": "before"}
+]

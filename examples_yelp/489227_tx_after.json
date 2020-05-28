@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "that", "the", "camera", "feed", "is", "given", "and", "the", "access", "is", "24\\/7", "-LRB-", "some", "shut", "it", "after", "the", "place", "closes", "for", "the", "night", "-RRB-", "."], "e1_text": "shut", "e1_pos": 15, "e2_text": "closes", "e2_pos": 20, "label": "after"}
+]

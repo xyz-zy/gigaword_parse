@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "window", "was", "extremely", "backed", "up", "while", "we", "were", "waiting", "in", "line", "to", "order", ",", "which", "made", "me", "nervous", "that", "our", "burgers", "would", "spend", "10", "minutes", "under", "a", "heat", "lamp", "before", "we", "received", "them", "."], "e1_text": "spend", "e1_pos": 24, "e2_text": "received", "e2_pos": 33, "label": "before"},
+{"tokens": ["However", ",", "the", "staff", "seemed", "to", "catch", "up", "before", "our", "order", "was", "ready", "."], "e1_text": "catch", "e1_pos": 6, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

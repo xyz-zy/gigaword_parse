@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "wanted", "a", "blood", "draw", "and", "a", "urine", "sample", "and", "we", "did", "that", "and", "finally", "left", "that", "office", "after", "being", "there", "over", "2", "and", "half", "hours", "."], "e1_text": "left", "e1_pos": 15, "e2_text": "being", "e2_pos": 19, "label": "after"},
+{"tokens": ["Sad", "to", "think", "they", "submitted", "the", "insurance", "and", "got", "paid", "after", "the", "lack", "of", "care", "that", "happened", "."], "e1_text": "paid", "e1_pos": 9, "e2_text": "happened", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "terrible", "and", "we", "sat", "at", "our", "table", "for", "a", "long", "time", "before", "we", "had", "to", "remind", "the", "hostess", "stand", "we", "were", "there", "...", "And", "the", "server", "never", "introduced", "herself", "or", "even", "said", "''", "``", "hi", ".", "''", "''"], "e1_text": "sat", "e1_pos": 6, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "ok", ",", "the", "service", "was", "mediocre", "...", "I", "would", "probably", "give", "this", "place", "three", "starts", "but", "...", "I", "checked", "my", "credit", "card", "statement", "a", "few", "days", "after", "going", "to", "this", "place", "and", "found", "that", "I", "had", "been", "charged", "and", "extra", "$", "20", "!"], "e1_text": "checked", "e1_pos": 21, "e2_text": "going", "e2_pos": 30, "label": "after"}
+]

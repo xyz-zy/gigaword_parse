@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "to", "be", "sure", "our", "room", "would", "be", "cleaned", "the", "day", "after", "housekeeping", "passed", "us", "over", ",", "a", "very", "apologetic", "housekeeping", "staffer", "promised", "to", "tend", "to", "us", "the", "next", "morning", "&", "offered", "up", "a", "conversation", "with", "his", "manager", "if", "I", "wanted", "to", "take", "it", "up", "the", "chain", "-LRB-", "I", "did", "n't", ",", "but", "I", "appreciated", "his", "forthcomingness", "-RRB-", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "passed", "e2_pos": 15, "label": "after"}
+]

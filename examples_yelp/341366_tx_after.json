@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hmmmm", ",", "ok", "...", "so", "I", "decided", "to", "scope", "out", "the", "scene", "because", "they", "obviously", "had", "many", "patrons", "arrive", "after", "we", "did", "."], "e1_text": "arrive", "e1_pos": 18, "e2_text": "did", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "enjoyed", "the", "first", "2", "rolls", "and", "got", "the", "third", "to", "go", "as", "we", "were", "obviously", "over", "the", "experience", "and", "not", "even", "our", "daughter", "who", "was", "starving", "liked", "her", "food", "-LRB-", "she", "ate", "what", "she", "probably", "really", "wanted", "after", "we", "left", ",", "McDonalds", "-RRB-", "."], "e1_text": "wanted", "e1_pos": 37, "e2_text": "left", "e2_pos": 40, "label": "after"}
+]

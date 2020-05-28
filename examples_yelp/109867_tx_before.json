@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "coffee", "in", "lobby", ",", "but", "we", "left", "before", "it", "was", "made", "so", "ca", "n't", "comment", "on", "that", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["All", "in", "all", ",", "would", "book", "again", "if", "I", "was", "just", "interested", "in", "a", "place", "to", "sleep", "before", "going", "to", "the", "airport", "."], "e1_text": "sleep", "e1_pos": 16, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

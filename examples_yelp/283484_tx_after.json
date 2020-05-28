@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "wanted", "to", "charge", "me", "an", "addtional", "$", "16.95", "for", "shipping", "even", "after", "I", "had", "explained", "the", "situation", "."], "e1_text": "shipping", "e1_pos": 10, "e2_text": "had", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "could", "have", "purchased", "it", "from", "Amazon.com", "for", "less", "money", "shipped", "-", "after", "you", "added", "the", "tax", "and", "shipping", "from", "Bass", "Pro", "."], "e1_text": "purchased", "e1_pos": 3, "e2_text": "added", "e2_pos": 14, "label": "after"}
+]

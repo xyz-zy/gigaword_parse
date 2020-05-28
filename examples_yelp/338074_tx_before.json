@@ -1,0 +1,5 @@
+[
+{"tokens": ["And", "the", "second", "time", "I", "went", "there", ",", "though", "we", "arrived", "right", "before", "the", "kitchen", "closed", ",", "they", "were", "very", "accommodating", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "closed", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "were", "out", "of", "tempura", "batter", ",", "but", "gave", "both", "me", "and", "my", "date", "free", "desserts", "as", "compensation", "-LRB-", "even", "though", "it", "was", "our", "fault", "for", "not", "bothering", "to", "check", "the", "restaurant", "'s", "hours", "before", "showing", "up", "so", "close", "to", "closing", "time", "!", "-RRB-", "."], "e1_text": "check", "e1_pos": 29, "e2_text": "showing", "e2_pos": 35, "label": "before"},
+{"tokens": ["This", "should", "not", "be", "considered", "a", "negative", "about", "this", "place", "-", "it", "'s", "merely", "a", "cultural", "thing", "that", "you", "need", "to", "be", "aware", "of", "before", "you", "go", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "go", "e2_pos": 26, "label": "before"}
+]

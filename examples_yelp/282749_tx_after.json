@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "seemed", "nervous", "checking", "on", "us", ",", "not", "sure", "was", "that", "was", "about", "but", "he", "rarely", "came", "by", ",", "my", "son", "was", "never", "offered", "a", "refill", "on", "his", "drink", "and", "I", "was", "not", "offered", "another", "beer", "...", "seemed", "weird", "for", "a", "bar", "...", "anyway", "we", "waited", "about", "10", "minutes", "for", "the", "check", "and", "when", "we", "walked", "out", "after", "completing", "the", "transaction", ",", "no", "one", "said", "a", "word", "to", "us", "."], "e1_text": "walked", "e1_pos": 56, "e2_text": "completing", "e2_pos": 59, "label": "after"}
+]

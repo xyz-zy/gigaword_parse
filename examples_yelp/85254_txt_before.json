@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "the", "crispy", "spinach", "and", "portobello", "which", "was", "good", ",", "then", "learned", "that", "the", "spinach", "is", "deep-fried", "which", "I", "wish", "I", "'d", "known", "before", "I", "ordered", "."], "e1_text": "known", "e1_pos": 22, "e2_text": "ordered", "e2_pos": 25, "label": "before"}
+]

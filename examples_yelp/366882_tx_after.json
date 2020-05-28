@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "in", "here", "after", "seeing", "the", "pictures", "which", "looked", "great", ",", "BUT", "all", "those", "specials", "are", "only", "for", "a", "super", "late", "night", "special", "only", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["Three", "of", "us", "ate", "here", ",", "we", "all", "agree", "after", "spending", "$", "50", "total", "it", "was", "a", "complete", "waste", "."], "e1_text": "agree", "e1_pos": 8, "e2_text": "total", "e2_pos": 13, "label": "after"}
+]

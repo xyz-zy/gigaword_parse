@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "then", "demands", "Payment", "and", "says", "-LRB-", "with", "a", "extremely", "high", "pitched", ",", "annoying", ",", "c", "\\*", "nty", "voice", "-", "''", "''", "Do", "you", "go", "to", "the", "store", "and", "not", "show", "the", "coupons", "before", "you", "order", "?"], "e1_text": "show", "e1_pos": 30, "e2_text": "order", "e2_pos": 35, "label": "before"}
+]

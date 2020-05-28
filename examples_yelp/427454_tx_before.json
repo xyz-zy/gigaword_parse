@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", "it", "was", "because", "the", "table", "next", "to", "us", "that", "came", "10", "minutes", "AFTER", "we", "did", "and", "did", "n't", "order", "right", "away", "got", "their", "food", "30", "minutes", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 24, "e2_text": "did", "e2_pos": 17, "label": "before"},
+{"tokens": ["Hey", "man", ",", "your", "employee", "already", "told", "us", "you", "were", "the", "reason", "the", "guys", "next", "to", "us", "got", "their", "food", "30", "minutes", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "did", "e2_pos": 24, "label": "before"}
+]

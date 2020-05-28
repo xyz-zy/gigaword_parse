@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ca", "n't", "say", "he", "did", "or", "did", "n't", "wash", "his", "hands", "before", "doing", "so", ",", "but", "my", "guess", "he", "did", "n't", "as", "it", "was", "a", "quick", "in", "&", "out", "."], "e1_text": "wash", "e1_pos": 8, "e2_text": "doing", "e2_pos": 12, "label": "before"},
+{"tokens": ["One", "entr", "\\", "u00e9e", "came", "out", "before", "the", "other", "which", "I", "thought", "was", "odd", ",", "but", "they", "said", "due", "to", "their", "small", "window", ",", "food", "goes", "out", "as", "soon", "as", "it", "'s", "ready", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "an", "insult", ",", "after", "spending", "more", "than", "$", "100", "on", "the", "bill", ",", "all", "they", "can", "give", "you", "is", "2", "tiny", "pieces", "of", "chocolate", "?"], "e1_text": "is", "e1_pos": 1, "e2_text": "spending", "e2_pos": 6, "label": "after"}
+]

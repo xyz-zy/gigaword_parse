@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "went", "to", "get", "my", "sides", "and", "the", "cashier", "looked", "at", "me", "after", "we", "paid", "and", "made", "a", "snide", "comment", "about", "how", "I", "should", "have", "told", "her", "so", "she", "could", "have", "charged", "us", "for", "those", "sides", "when", "in", "fact", "I", "was", "standing", "right", "in", "front", "of", "her", "when", "I", "asked", "."], "e1_text": "looked", "e1_pos": 9, "e2_text": "paid", "e2_pos": 14, "label": "after"}
+]

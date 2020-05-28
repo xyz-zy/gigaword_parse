@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "people", "who", "arrived", "after", "us", "with", "a", "5", "top", "were", "seated", "before", "us", "and", "another", "party", "of", "6-7", "that", "arrived", "after", "us", "were", "also", "seated", "before", "us", "."], "e1_text": "seated", "e1_pos": 11, "e2_text": "arrived", "e2_pos": 3, "label": "before"}
+]

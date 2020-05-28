@@ -1,0 +1,3 @@
+[
+{"tokens": ["Saw", "the", "groupon", ",", "read", "reviews", "on", "yelp", "-LRB-", "all", "good", "-RRB-", "before", "I", "purchased", "it", "."], "e1_text": "Saw", "e1_pos": 0, "e2_text": "purchased", "e2_pos": 14, "label": "before"}
+]

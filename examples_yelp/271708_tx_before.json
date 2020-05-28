@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "line", "was", "already", "long", "and", "we", "waited", "about", "20-25", "minutes", "before", "even", "getting", "to", "check", "in", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "getting", "e2_pos": 13, "label": "before"},
+{"tokens": ["While", "long", "check-in", "lines", "are", "kind", "of", "the", "norm", "in", "Vegas", ",", "this", "was", "excessive", ",", "especially", "for", "2", "hours", "before", "actual", "check-in", "started", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "started", "e2_pos": 23, "label": "before"}
+]

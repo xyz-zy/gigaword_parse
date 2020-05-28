@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "n't", "heard", "of", "Wahoo", "'s", "before", "we", "walked", "in", "here", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "walked", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "did", "n't", "know", "how", "their", "restaurant", "worked", "as", "far", "as", "sitting", "and", "ordering", "or", "order", "before", "you", "sit", "."], "e1_text": "order", "e1_pos": 15, "e2_text": "sit", "e2_pos": 18, "label": "before"},
+{"tokens": ["Well", ",", "you", "order", "before", "you", "sit", "down", "and", "they", "bring", "it", "out", "to", "you", "."], "e1_text": "order", "e1_pos": 3, "e2_text": "sit", "e2_pos": 6, "label": "before"}
+]

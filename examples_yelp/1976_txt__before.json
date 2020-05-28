@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "driving", "on", "a", "road", "trip", "from", "Ohio", "to", "Virginia", "and", "my", "parking", "brake", "light", "turned", "on", "while", "I", "was", "on", "the", "highway", ",", "so", "I", "figured", "it", "would", "be", "safest", "to", "pull", "of", "the", "road", "and", "have", "it", "checked", "out", "before", "I", "kept", "driving", ";", "this", "one", "happened", "to", "be", "the", "first", "one", "off", "the", "exit", "."], "e1_text": "checked", "e1_pos": 40, "e2_text": "kept", "e2_pos": 44, "label": "before"}
+]

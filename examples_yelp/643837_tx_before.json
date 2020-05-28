@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "all", "of", "our", "entrees", "came", "out", "at", "the", "same", "time", ",", "they", "came", "out", "one", "at", "a", "time", ",", "which", "is", "fine", ",", "but", "the", "server", "really", "should", "have", "informed", "us", "that", "the", "food", "items", "come", "out", "as", "they", "become", "ready", "before", "we", "ordered", "."], "e1_text": "become", "e1_pos": 40, "e2_text": "ordered", "e2_pos": 44, "label": "before"}
+]

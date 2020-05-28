@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "quite", "a", "bit", "of", "people", "there", ",", "but", "we", "did", "n't", "have", "to", "wait", "for", "a", "spot", "on", "the", "range", ",", "although", "we", "did", "have", "to", "wait", "for", "one", "of", "the", "range", "workers", "to", "bring", "us", "a", "token", "for", "our", "second", "bucket", "of", "balls", ",", "which", "he", "did", "before", "we", "finished", "our", "first", "bucket", ",", "so", "all", "was", "good", "."], "e1_text": "did", "e1_pos": 11, "e2_text": "finished", "e2_pos": 52, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "bit", "tentative", "at", "first", "after", "having", "been", "very", "excited", "to", "try", "this", "place", "out", ",", "based", "on", "a", "couple", "mixed", "reviews", "on", "this", "site", "as", "well", "as", "some", "other", "input", "from", "family", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "owner", "Fred", "Rongier", "is", "also", "100", "%", "French", "-LRB-", "Btw", ",", "Fred", "also", "sold", "me", "my", "car", "and", "it", "was", "the", "only", "time", "in", "my", "life", "that", "I", "actually", "felt", "good", "after", "buying", "a", "car", "-RRB-", "."], "e1_text": "felt", "e1_pos": 30, "e2_text": "buying", "e2_pos": 33, "label": "after"}
+]

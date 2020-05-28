@@ -1,0 +1,3 @@
+[
+{"tokens": ["Outside", "was", "nice", "-", "they", "ran", "out", "of", "seating", "shortly", "after", "we", "arrived", "and", "several", "people", "stood", "around", "us", ",", "but", "again", ",", "maybe", "this", "was", "an", "effect", "of", "bacon", "night", "."], "e1_text": "ran", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 12, "label": "after"}
+]

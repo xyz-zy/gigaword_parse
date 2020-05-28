@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "lemon", "martini", ",", "8", "bucks", ",", "the", "bsrtender", "did", "n't", "chill", "the", "martini", "glass", "properly", "so", "after", "shaking", "it", "warmed", "up", "rather", "quickly", "."], "e1_text": "chill", "e1_pos": 13, "e2_text": "shaking", "e2_pos": 20, "label": "after"}
+]

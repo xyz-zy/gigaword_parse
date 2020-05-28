@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "money", ",", "when", "they", "first", "told", "me", "it", "was", "$", "40", "a", "person", "I", "said", "I", "had", "no", "problem", "then", "after", "they", "heard", "that", "they", "just", "flat", "out", "refused", "to", "let", "me", "in", "."], "e1_text": "had", "e1_pos": 18, "e2_text": "heard", "e2_pos": 24, "label": "after"}
+]

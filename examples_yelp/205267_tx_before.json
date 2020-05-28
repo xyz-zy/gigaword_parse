@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", ",", "our", "party", "of", "10", "waited", "more", "than", "an", "hour", "to", "be", "sat", ",", "which", "was", "understandable", "because", "the", "place", "does", "n't", "take", "reservations", ",", "but", "they", "really", "should", "for", "large", "parties", "since", "in", "other", "ways", "it", "'s", "family-friendly-there", "were", "lots", "of", "screaming", "kids", "running", "around", "before", "we", "sat", "down", "."], "e1_text": "running", "e1_pos": 45, "e2_text": "sat", "e2_pos": 49, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["ate", "here", "about", "a", "year", "ago", "...", "the", "night", "after", "we", "had", "dinner", "at", "B&B", "...", "the", "service", "was", "really", "bad", "...", "this", "seems", "to", "be", "a", "trend", "in", "mario", "batali", "restaurants", "-LRB-", "pizzeria", "mozza", ",", "B&B", ",", "and", "san", "marcos", "-RRB-", "."], "e1_text": "ate", "e1_pos": 0, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["make", "sure", "to", "confirm", "your", "reservation", "...", "they", "lost", "my", "reservation", "...", "even", "after", "they", "called", "me", "to", "confirm", "???"], "e1_text": "lost", "e1_pos": 8, "e2_text": "called", "e2_pos": 15, "label": "after"}
+]

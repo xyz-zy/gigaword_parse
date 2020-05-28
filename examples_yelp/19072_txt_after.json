@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chocolate", "and", "caramel", "fleur", "de", "sel", "tart", "is", "a", "testament", "to", "the", "aphrodisiac", "quality", "of", "fine", "food", ",", "and", "it", "had", "me", "moaning", "at", "the", "table", "heedless", "of", "surrounding", "company", ",", "who", "conveniently", "were", "also", "moaning", "with", "pleasure", "after", "sampling", "the", "four", "berry", "tart", "with", "vanilla", "gelato", ",", "so", "at", "least", "I", "was", "in", "good", "company", "."], "e1_text": "moaning", "e1_pos": 23, "e2_text": "sampling", "e2_pos": 40, "label": "after"}
+]

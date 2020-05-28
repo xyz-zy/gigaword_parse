@@ -1,0 +1,3 @@
+[
+{"tokens": ["Warning", "-", "this", "food", "caused", "vomiting", "and", "back", "end", "explosions", "after", "eating", "."], "e1_text": "caused", "e1_pos": 4, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

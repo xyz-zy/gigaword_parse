@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "reason", "I", "ended", "up", "here", "was", "from", "an", "invite", "from", "Victor", "A.", "I", "am", "glad", "I", "went", ",", "even", "though", "I", "had", "already", "eaten", "a", "little", "bit", "before", ",", "I", "was", "still", "interested", "in", "trying", "some", "things", "."], "e1_text": "eaten", "e1_pos": 25, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["It", "was", "a", "steamed", "egg", ",", "never", "seen", "that", "before", "so", "it", "was", "pretty", "cool", "."], "e1_text": "seen", "e1_pos": 7, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

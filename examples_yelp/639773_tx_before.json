@@ -1,0 +1,3 @@
+[
+{"tokens": ["File", "under", "places", "you", "have", "to", "visit", "before", "you", "leave", "Las", "Vegas", "."], "e1_text": "visit", "e1_pos": 6, "e2_text": "leave", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "contacted", "two", "promoters", "before", "even", "coming", "here", "to", "get", "a", "booth", "for", "me", "and", "9", "gfs", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "coming", "e2_pos": 6, "label": "before"},
+{"tokens": ["Omg", ",", "he", "did", "n't", "know", "we", "were", "on", "his", "list", "and", "was", "being", "plain", "rude", "before", "finding", "out", "we", "'re", "on", "his", "list", "of", "table", "reservations", "."], "e1_text": "being", "e1_pos": 13, "e2_text": "finding", "e2_pos": 17, "label": "before"}
+]

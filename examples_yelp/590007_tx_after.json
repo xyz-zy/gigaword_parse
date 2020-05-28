@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "had", "her", "supervisor", "come", "out", "and", "I", "had", "to", "explain", "the", "story", "again", "after", "they", "insisted", "I", "forwarded", "my", "PO", "box", "mail", ";", "I", "finally", "got", "on", "my", "emails", "and", "found", "the", "confirmation", "which", "showed", "I", "did", "not", "change", "my", "PO", "Box", "and", "they", "took", "it", "upon", "themselves", "to", "close", "it", "."], "e1_text": "explain", "e1_pos": 10, "e2_text": "insisted", "e2_pos": 16, "label": "after"}
+]

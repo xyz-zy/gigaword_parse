@@ -1,0 +1,4 @@
+[
+{"tokens": ["Took", "our", "order", "shortly", "thereafter", ",", "then", "after", "asking", "whether", "we", "were", "ready", "for", "the", "good", "times", "to", "roll", ",", "The", "table", "was", "adorned", "with", "plates", "a", "many", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "asking", "e2_pos": 8, "label": "after"},
+{"tokens": ["There", "was", "some", "sort", "of", "Basalmic", "on", "the", "bottom", "of", "the", "plate", ",", "which", "I", "almost", "licked", "up", "after", "the", "idea", "was", "presented", "to", "me", "by", "the", "GM", "."], "e1_text": "licked", "e1_pos": 16, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

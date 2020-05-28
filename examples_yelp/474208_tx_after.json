@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "to", "pick", "up", "the", "order", ",", "the", "restaurant", "was", "not", "too", "busy", ",", "and", "after", "waiting", "a", "couple", "of", "minutes", "at", "the", "front", "was", "directed", "over", "to", "the", "bar", "area", "to", "collect", "my", "pizzas", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

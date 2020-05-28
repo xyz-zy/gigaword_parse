@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "repeated", "that", "statement", "after", "he", "took", "our", "food", "order", "."], "e1_text": "repeated", "e1_pos": 1, "e2_text": "took", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "never", "came", ",", "so", "he", "politely", "asked", "about", "the", "beer", "later", "when", "he", "saw", "Dan", "after", "the", "food", "came", "out", "."], "e1_text": "saw", "e1_pos": 14, "e2_text": "came", "e2_pos": 2, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Still", "fun", "and", "unique", "enough", "for", "first", "timers", "...", "maybe", "showing", "its", "age", "and", "alittle", "lack", "luster", "for", "those", "who", "have", "been", "here", "before", "."], "e1_text": "showing", "e1_pos": 10, "e2_text": "have", "e2_pos": 20, "label": "before"},
+{"tokens": ["Its", "a", "bit", "of", "a", "hike", "to", "get", "to", "Mandalay", "Bay", "...", "and", "in", "my", "opnion", "the", "attraction", "needs", "a", "facelift", "to", "take", "it", "into", "the", "next", "10", "years", "and", "keep", "it", "fresh", "and", "interesting", "...", "ALSO", "be", "aware", "that", "the", "entire", "food", "court", "was", "under", "construction", "and", "you", "may", "want", "to", "be", "sure", "its", "up", "and", "running", "before", "you", "plan", "to", "visit", "!"], "e1_text": "running", "e1_pos": 57, "e2_text": "plan", "e2_pos": 60, "label": "before"}
+]

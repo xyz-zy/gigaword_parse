@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "craving", "has", "never", "been", "greater", "after", "one", "failed", "dining", "experience", "2", "nights", "before", "at", "the", "`", "R", "'", "restaurant", "."], "e1_text": "been", "e1_pos": 4, "e2_text": "failed", "e2_pos": 8, "label": "before"},
+{"tokens": ["Well", ",", "I", "liked", "it", "so", "much", "I", "went", "back", "again", "just", "before", "leaving", "Vegas", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 13, "label": "before"}
+]

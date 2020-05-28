@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "checked", "it", "out", "soon", "after", "it", "opened", ",", "and", "of", "course", ",", "it", "'s", "a", "clone", "of", "their", "other", "location", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "opened", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "'ll", "need", "to", "check", "back", "after", "they", "'ve", "been", "open", "for", "a", "year", "or", "so", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 8, "label": "after"}
+]

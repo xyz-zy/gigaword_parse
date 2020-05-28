@@ -1,0 +1,4 @@
+[
+{"tokens": ["in", "hindsight", ",", "we", "should", "'ve", "canceled", "after", "the", "way", "the", "night", "went", "."], "e1_text": "canceled", "e1_pos": 6, "e2_text": "went", "e2_pos": 12, "label": "after"},
+{"tokens": ["finally", "a", "real", "manager", "appeared", ",", "but", "it", "took", "literally", "another", "hour", "to", "sort", "everything", "out", "...", "and", "that", "was", "after", "seeing", "that", "some", "of", "the", "''", "``", "authorizations", "''", "''", "even", "had", "different", "total", "amounts", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "seeing", "e2_pos": 21, "label": "after"}
+]

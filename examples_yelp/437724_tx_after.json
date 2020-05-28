@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "'s", "seemingly", "never", "in", "the", "office", ",", "and", "sometimes", "will", "return", "a", "call", "at", "nine", "PM", ",", "long", "after", "office", "hours", "have", "concluded", ",", "when", "I", "called", "in", "at", "ten", "AM", "."], "e1_text": "return", "e1_pos": 11, "e2_text": "have", "e2_pos": 22, "label": "after"}
+]

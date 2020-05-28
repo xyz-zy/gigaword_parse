@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "been", "going", "to", "the", "12th", "Street\\/Glendale", "Spinatos", "for", "about", "10", "years", "--", "since", "well", "before", "it", "was", "still", "a", "BYOB", "pizza", "joint", "years", "ago", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "was", "e2_pos": 18, "label": "before"},
+{"tokens": ["Food", "that", "we", "had", "pre-ordered", "almost", "an", "hour", "before", "we", "were", "seated", "still", "took", "another", "15", "minutes", "to", "arrive", "."], "e1_text": "pre-ordered", "e1_pos": 4, "e2_text": "were", "e2_pos": 10, "label": "before"}
+]

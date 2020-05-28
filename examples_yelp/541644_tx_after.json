@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "12:50", "we", "checked", "in", "and", "said", "she", "called", "us", "at", "12:39", "pm", "...", "I", "reminded", "her", "what", "she", "quoted", "us", "and", "she", "said", "''", "``", "I", "said", "it", "could", "be", "up", "to", "40-45", "min", "''", "''", "...", "She", "called", "us", "15min", "after", "she", "quoted", "me", "40-45", "?!?", "I", "'ve", "worked", "in", "several", "restaurants", ",", "it", "'s", "not", "that", "hard", "to", "host", "."], "e1_text": "15min", "e1_pos": 41, "e2_text": "quoted", "e2_pos": 19, "label": "after"},
+{"tokens": ["we", "also", "started", "noticing", "other", "tables", "who", "ordered", "after", "us", "were", "getting", "their", "food", "before", "us", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

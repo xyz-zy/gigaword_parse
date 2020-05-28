@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "actually", "looked", "at", "my", "watch", "to", "see", "how", "long", "it", "would", "be", "before", "we", "say", "a", "waitress", "for", "our", "SECTION", "of", "9", "tables", "."], "e1_text": "be", "e1_pos": 12, "e2_text": "say", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "went", "to", "one", "table", "and", "it", "was", "another", "5", "minutes", "before", "we", "saw", "her", "again", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "saw", "e2_pos": 13, "label": "before"}
+]

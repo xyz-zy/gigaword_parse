@@ -1,0 +1,4 @@
+[
+{"tokens": ["About", "the", "only", "time", "I", "got", "stoked", "to", "see", "a", "Chipotle", "was", "in", "NY", "after", "eating", "multiple", "overpriced", "downright", "depressing", "meals", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "eating", "e2_pos": 15, "label": "after"},
+{"tokens": ["Maybe", "I", "was", "just", "looking", "for", "something", "familiar", "after", "being", "away", "from", "home", "for", "a", "week", "."], "e1_text": "looking", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

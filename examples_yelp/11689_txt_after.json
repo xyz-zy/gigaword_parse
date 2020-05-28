@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "by", "here", "after", "seeing", "a", "movie", "across", "the", "street", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["It", "was", "n't", "till", "after", "we", "were", "served", "our", "food", "that", "we", "realized", "we", "did", "n't", "have", "any", "silverware", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "after"}
+]

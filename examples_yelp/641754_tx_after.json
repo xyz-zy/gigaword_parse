@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "if", "we", "could", "sit", "at", "the", "counter", "and", "were", "told", "we", "had", "to", "wait", ",", "but", "then", "a", "couple", "walked", "in", "a", "few", "minutes", "later", "and", "walked", "straight", "to", "the", "counter", "where", "they", "were", "served", "-LRB-", "even", "after", "the", "hostesses", "talked", "about", "how", "they", "were", "not", "on", "the", "list", "-RRB-", "."], "e1_text": "walked", "e1_pos": 21, "e2_text": "talked", "e2_pos": 42, "label": "after"}
+]

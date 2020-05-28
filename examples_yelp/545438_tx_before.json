@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "go", "there", "anymore", "because", "my", "dog", "is", "scared", "every", "time", "I", "took", "him", "there", ",", "but", "I", "can", "say", "that", "there", "was", "ONE", "time", "when", "I", "felt", "comfortable", "leaving", "my", "dog", "there", ",", "because", "there", "was", "one", "groomer", "that", "saw", "how", "scared", "my", "dog", "was", "and", "before", "cutting", "his", "nails", "n", "bathing", "him", ",", "she", "massaged", "my", "dog", "until", "he", "was", "okay", "."], "e1_text": "say", "e1_pos": 21, "e2_text": "massaged", "e2_pos": 58, "label": "before"}
+]

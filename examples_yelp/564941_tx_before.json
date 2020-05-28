@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "now", "a", "Premier", "Inn", "and", "we", "decided", "to", "stay", "here", "overnight", "from", "our", "flight", "before", "starting", "our", "trip", "in", "Scotland", "."], "e1_text": "stay", "e1_pos": 10, "e2_text": "starting", "e2_pos": 17, "label": "before"}
+]

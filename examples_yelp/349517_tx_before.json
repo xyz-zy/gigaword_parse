@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "apologized", "towards", "the", "end", "about", ",", "but", "she", "still", "charged", "us", "for", "it", ";", "she", "also", "tried", "to", "over", "charge", "us", "but", "luckily", "we", "caught", "it", ",", "so", "please", "check", "your", "tickets", "before", "paying", "."], "e1_text": "check", "e1_pos": 30, "e2_text": "paying", "e2_pos": 34, "label": "before"}
+]

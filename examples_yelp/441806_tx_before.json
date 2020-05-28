@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "very", "small", "handful", "of", "employees", "have", "given", "me", "grief", "before", "on", "storing", "my", "bike", "inside", "their", "store", "but", "I", "had", "no", "other", "option", "in", "such", "a", "crummy", "neighborhood", "so", "when", "they", "wanted", "my", "bike", "out", "I", "left", "with", "it", "."], "e1_text": "given", "e1_pos": 7, "e2_text": "storing", "e2_pos": 12, "label": "before"}
+]

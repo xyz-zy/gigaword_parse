@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "attentive", ",", "we", "sat", "with", "empty", "glasses", "for", "at", "least", "10", "minutes", "before", "he", "noticed", ",", "and", "several", "times", "we", "had", "to", "flag", "him", "down", "for", "more", "drinks", "and", "napkins", "and", "our", "check", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "noticed", "e2_pos": 15, "label": "before"}
+]

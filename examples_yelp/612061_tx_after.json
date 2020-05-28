@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "-LRB-", "I", "went", "for", "the", "Mongolian", "beef", "-RRB-", "an", "hour", "and", "fifteen", "minutes", "later", ",", "we", "still", "had", "no", "food", "after", "repeatedly", "asking", "."], "e1_text": "had", "e1_pos": 19, "e2_text": "asking", "e2_pos": 24, "label": "after"},
+{"tokens": ["They", "arrived", "10", "minutes", "after", "us", "and", "she", "had", "ordered", "the", "same", "dish", "as", "me", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

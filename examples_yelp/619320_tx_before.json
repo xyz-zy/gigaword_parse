@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "filling", "up", "on", "$", "60", "of", "gas", "-LRB-", "prepaid", "-RRB-", "into", "my", "rental", "car", "before", "I", "was", "going", "to", "return", "it", "to", "the", "store", ",", "and", "this", "angry", ",", "bitchy", "grandma", "starts", "honking", "at", "me", "from", "behind", "."], "e1_text": "filling", "e1_pos": 2, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["Annoyed", "by", "this", ",", "I", "decided", "to", "not", "bother", "driving", "my", "car", "away", "before", "I", "get", "my", "extra", "change", "back", "."], "e1_text": "bother", "e1_pos": 8, "e2_text": "get", "e2_pos": 15, "label": "before"}
+]

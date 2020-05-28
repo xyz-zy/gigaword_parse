@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", "my", "tag", "expired", "so", "I", "went", "to", "the", "Dealership", "on", "camelback", "and", "after", "waiting", "2", "hours", "after", "they", "told", "me", "to", "be", "there", "for", "there", "finance", "manager", "to", "get", "there", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

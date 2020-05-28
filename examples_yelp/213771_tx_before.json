@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "at", "least", "15", "minutes", "before", "our", "server", "even", "came", "over", "to", "greet", "us", "and", "get", "our", "drink", "orders", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["And", "the", "bad", "signs", "kept", "on", "coming", "...", "I", "would", "say", "a", "good", "half", "hour", "went", "by", "before", "we", "got", "our", "meals", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "got", "e2_pos": 19, "label": "before"},
+{"tokens": ["Toby", "Keith", "'s", "will", "do", "if", "you", "are", "starving", "and", "have", "a", "broken", "leg", "and", "you", "ca", "n't", "hop", "any", "farther", "before", "you", "pass", "out", "from", "hunger", "."], "e1_text": "hop", "e1_pos": 18, "e2_text": "pass", "e2_pos": 23, "label": "before"}
+]

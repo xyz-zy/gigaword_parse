@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "left", "the", "hotel", "and", "walked", "to", "district", "a", "couple", "hours", "before", "kick", "off", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "kick", "e2_pos": 12, "label": "before"},
+{"tokens": ["If", "your", "running", "a", "bar", "and", "are", "only", "going", "to", "serve", "bottled", "beer", "put", "it", "in", "the", "walk", "in", "fridge", "a", "couple", "days", "before", "you", "put", "it", "on", "ice", "."], "e1_text": "put", "e1_pos": 13, "e2_text": "put", "e2_pos": 13, "label": "before"}
+]

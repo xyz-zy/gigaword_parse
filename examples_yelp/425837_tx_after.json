@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "get", "my", "daughters", "haircut", "the", "other", "day", "after", "a", "friend", "of", "mine", "told", "me", "she", "just", "went", "there", "and", "she", "paid", "5.00", "dollars", "for", "her", "kids", "haircut", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "told", "e2_pos": 15, "label": "after"}
+]

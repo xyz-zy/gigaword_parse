@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fish", "seems", "like", "they", "were", "already", "cooked", "before", "everything", "was", "tossed", "together", "."], "e1_text": "cooked", "e1_pos": 7, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["Our", "table", "was", "n't", "clear", "of", "all", "the", "empty", "appetizer", "plates", "before", "dinner", "got", "dropped", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "got", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "our", "mood", "quickly", "darkened", "when", "the", "restaurant", "reservation", "we", "had", "made", "the", "day", "before", "was", "nowhere", "to", "be", "found", "in", "the", "reservations", "book", "."], "e1_text": "darkened", "e1_pos": 4, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["In", "that", "warm", ",", "sweltering", "room", ",", "a", "drop", "of", "sweat", "rolled", "down", "one", "eyeglass", "lens", "before", "the", "grill", "had", "even", "been", "heated", "."], "e1_text": "rolled", "e1_pos": 11, "e2_text": "had", "e2_pos": 19, "label": "before"}
+]

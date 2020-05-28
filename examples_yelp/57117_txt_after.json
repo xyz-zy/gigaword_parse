@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "spoke", "to", "a", "representative", "from", "their", "Corporate", "office", "a", "few", "days", "after", "writing", "this", "review", "."], "e1_text": "spoke", "e1_pos": 1, "e2_text": "writing", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "said", "it", "was", "worrisome", "that", "they", "caused", "this", "damage", "after", "replacing", "something", "but", "said", "there", "was", "nothing", "they", "could", "really", "do", "for", "11", "days", "."], "e1_text": "caused", "e1_pos": 7, "e2_text": "replacing", "e2_pos": 11, "label": "after"}
+]

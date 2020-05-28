@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "each", "had", "a", "different", "kind", "of", "beer", ",", "I", "had", "the", "blonde", "which", "I", "had", "n't", "tried", "before", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "had", "e2_pos": 2, "label": "before"},
+{"tokens": ["We", "sat", "in", "the", "bar", "area", "at", "a", "table", "before", "we", "saw", "a", "movie", ",", "and", "the", "only", "negative", "was", "how", "long", "everything", "took", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "saw", "e2_pos": 11, "label": "before"}
+]

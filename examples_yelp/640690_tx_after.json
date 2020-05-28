@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "noticed", "the", "gentleman", "that", "ordered", "after", "us", "then", "received", "his", "food", "before", "we", "received", "our", "second", "plate", "."], "e1_text": "ordered", "e1_pos": 5, "e2_text": "received", "e2_pos": 9, "label": "after"},
+{"tokens": ["My", "husbands", "pork", "tacos", "had", "cilantro", "on", "them", "after", "he", "had", "asked", "not", "to", "have", "that", ",", "and", "my", "carne", "asada", "tacos", "were", "covered", "in", "onions", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "had", "e2_pos": 4, "label": "after"}
+]

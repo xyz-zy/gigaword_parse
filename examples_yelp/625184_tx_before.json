@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "filled", "out", "an", "online", "form", "and", "was", "contacted", "almost", "immediately", "by", "one", "of", "his", "''", "``", "agent", "''", "''", "names", "Chris", "Hanson", ",", "he", "left", "Several", "messages", "before", "I", "was", "able", "to", "get", "back", "with", "him", "."], "e1_text": "left", "e1_pos": 25, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["Joshua", "also", "advised", "that", "he", "signed", "the", "contract", "before", "checking", "out", "the", "property", "."], "e1_text": "signed", "e1_pos": 5, "e2_text": "checking", "e2_pos": 9, "label": "before"}
+]

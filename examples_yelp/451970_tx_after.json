@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "had", "dinner", "here", "in", "April", ",", "soon", "after", "they", "opened", "-LRB-", "I", "'ll", "cut", "them", "a", "little", "slack", "as", "a", "result", "-RRB-", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "opened", "e2_pos": 13, "label": "after"}
+]

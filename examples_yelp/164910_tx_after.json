@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "not", "the", "one", "who", "picked", "the", "restaurant", ",", "and", "when", "I", "first", "went", "online", "to", "read", "about", "it", ",", "I", "was", "a", "little", "nervous", "after", "reading", "some", "poor", "reviews", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "reading", "e2_pos": 27, "label": "after"},
+{"tokens": ["And", "I", "am", "quite", "impressed", "with", "the", "service", "of", "the", "rest", "of", "the", "staff", "after", "dealing", "with", "such", "an", "incompetent", "and", "rude", "manager", "."], "e1_text": "am", "e1_pos": 2, "e2_text": "dealing", "e2_pos": 15, "label": "after"}
+]

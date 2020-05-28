@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "are", "Shell", "Vacation", "Owners", "and", "this", "is", "our", "''", "``", "home", "''", "''", "resort", "but", "we", "'d", "never", "stayed", "before", "and", "now", "I", "'m", "sorry", "we", "never", "did", "a", "stay-cation", "when", "we", "lived", "in", "Phoenix", "because", "it", "was", "great", "."], "e1_text": "stayed", "e1_pos": 19, "e2_text": "'m", "e2_pos": 24, "label": "before"}
+]

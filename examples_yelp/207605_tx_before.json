@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "strips", "in", "the", "chopped", "chicken", "salad", "I", "just", "received", "looks", "like", "it", "was", "steamed", ",", "put", "in", "a", "freezer", "for", "weeks", ",", "then", "thrown", "on", "the", "grill", "right", "before", "I", "got", "it", "."], "e1_text": "thrown", "e1_pos": 25, "e2_text": "got", "e2_pos": 32, "label": "before"}
+]

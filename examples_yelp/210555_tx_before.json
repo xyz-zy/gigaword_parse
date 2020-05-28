@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "we", "ordered", "we", "got", "to", "talking", "about", "the", "night", "before", "and", "kind", "of", "lost", "track", "of", "time", "before", "I", "realized", "our", "food", "was", "taking", "wayyy", "too", "long", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "talking", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "tasted", "my", "bros", "Benedict", "and", "while", "it", "was", "better", "than", "my", "breakfast", "it", "was", "n't", "stellar", ",", "the", "pancake", "was", "kinda", "dry", "and", "seemed", "like", "it", "was", "cooked", "way", "before", "it", "was", "brought", "out", "."], "e1_text": "cooked", "e1_pos": 28, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

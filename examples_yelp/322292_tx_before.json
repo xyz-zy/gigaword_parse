@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "had", "n't", "had", "any", "problems", "the", "times", "he", "'s", "been", "before", ",", "but", "everything", "about", "this", "visit", "was", "awful", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "'s", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "used", "the", "restroom", "before", "we", "ordered", ",", "and", "it", "was", "not", "clean", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 6, "label": "before"}
+]

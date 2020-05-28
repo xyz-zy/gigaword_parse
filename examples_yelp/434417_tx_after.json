@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "do", "n't", "though", ",", "they", "just", "insist", "that", "we", "get", "on", "the", "plan", "even", "after", "we", "declined", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "declined", "e2_pos": 17, "label": "after"},
+{"tokens": ["If", "the", "customer", "wants", "something", "after", "you", "offer", "then", "so", "be", "it", "but", "if", "the", "decline", "a", "product", "or", "service", "then", "they", "need", "to", "be", "left", "alone", "!"], "e1_text": "wants", "e1_pos": 3, "e2_text": "offer", "e2_pos": 7, "label": "after"}
+]

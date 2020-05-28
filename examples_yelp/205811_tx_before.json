@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "the", "last", "time", "we", "went", ",", "the", "seat", "monitors", "checked", "our", "tickets", "at", "least", "3", "times", "before", "the", "game", "started", "to", "ensure", "we", "were", "in", "the", "right", "spot", "."], "e1_text": "checked", "e1_pos": 10, "e2_text": "started", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "went", "into", "the", "shop", "to", "ask", "about", "pricing", "for", "a", "simple", "wedding", "cake", "that", "employee", "-LRB-", "male", "-RRB-", "only", "asked", "me", "the", "date", "of", "the", "wedding", "before", "replying", "that", "''", "``", "oh", "well", "everyone", "else", "is", "getting", "married", "that", "weekend", "to", "so", "if", "we", "did", "it", "you", "would", "need", "to", "pick", "it", "up", ".", "''", "''"], "e1_text": "asked", "e1_pos": 21, "e2_text": "replying", "e2_pos": 29, "label": "before"}
+]

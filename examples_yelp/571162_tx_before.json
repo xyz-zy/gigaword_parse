@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "be", "fair", ",", "we", "were", "a", "large", "party", "and", "there", "was", "another", "realy", "large", "party", "on", "the", "patio", ",", "but", "we", "would", "put", "in", "orders", "and", "wait", "and", "wait", "and", "wait", "about", "20", "minutes", "before", "someone", "checked", "in", "on", "us", "only", "to", "find", "that", "our", "drink", "orders", "had", "n't", "been", "put", "into", "the", "bar", "."], "e1_text": "wait", "e1_pos": 27, "e2_text": "checked", "e2_pos": 37, "label": "before"}
+]

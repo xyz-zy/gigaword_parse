@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "actually", "nearly", "drove", "past", "it", ",", "before", "turning", "into", "the", "strip", "mall", "at", "the", "last", "second", "."], "e1_text": "drove", "e1_pos": 3, "e2_text": "turning", "e2_pos": 8, "label": "before"},
+{"tokens": ["They", "greeted", "me", "warmly", "as", "I", "came", "in", ",", "asked", "if", "I", "had", "ever", "been", "here", "before", "and", "offered", "up", "that", "their", "#", "1", ",", "#", "4", "and", "#", "5", "Subs", "were", "their", "most", "popular", "sandwiches", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "took", "a", "few", "moments", "to", "study", "the", "board", "before", "ordering", "the", "New", "York", "Steamer", "."], "e1_text": "study", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 10, "label": "before"}
+]

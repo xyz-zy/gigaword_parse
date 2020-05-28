@@ -1,0 +1,4 @@
+[
+{"tokens": ["Visited", "here", "last", "night", "for", "the", "first", "time", "after", "having", "known\\/heard", "about", "this", "place", "for", "years", "."], "e1_text": "Visited", "e1_pos": 0, "e2_text": "having", "e2_pos": 9, "label": "after"},
+{"tokens": ["For", "instance", ",", "the", "server", "offered", "us", "''", "``", "iced", "tea", "or", "Pepsi", "''", "''", "and", "not", "the", "root", "beer", "-LRB-", "which", "I", "did", "not", "notice", "on", "the", "menu", "until", "after", "I", "finished", "my", "soup", "-RRB-", "."], "e1_text": "notice", "e1_pos": 25, "e2_text": "finished", "e2_pos": 32, "label": "after"}
+]

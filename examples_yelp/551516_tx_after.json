@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "did", "an", "OK", "job", "but", "the", "design", "was", "n't", "what", "I", "wanted", "even", "after", "I", "tried", "to", "communicate", "it", "several", "times", "."], "e1_text": "wanted", "e1_pos": 12, "e2_text": "tried", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "eventually", "gave", "up", "after", "it", "was", "already", "on", "my", "nails", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

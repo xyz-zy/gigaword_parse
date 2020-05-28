@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "my", "opinion", "i", "do", "not", "recommend", "this", "restaurant", "to", "nobody", "!!", "It", "took", "1", "hour", "before", "I", "get", "my", "pupusas", "!!!", "I", "ordered", "only", "3", "...", "Not", "efficient", "employees", "!!!"], "e1_text": "took", "e1_pos": 13, "e2_text": "get", "e2_pos": 18, "label": "before"}
+]

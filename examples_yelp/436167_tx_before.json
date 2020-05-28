@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "gal", ",", "because", "I", "have", "to", "have", "my", "eggs", "first", "thing", "in", "the", "a.m.", "and", "I", "'m", "not", "dragging", "my", "ass", "down", "to", "a", "restaurant", "before", "at", "least", "brushing", "my", "hair", "-", "plus", "I", "had", "to", "use", "up", "those", "room", "credits", "."], "e1_text": "dragging", "e1_pos": 19, "e2_text": "brushing", "e2_pos": 29, "label": "before"}
+]

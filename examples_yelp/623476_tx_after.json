@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "truly", "sad", "part", "was", "she", "did", "not", "offer", "to", "give\\/comp", "me", "the", "two", "extra", "fingers", "I", "ordered", "even", "after", "telling", "her", "of", "my", "past", "experiences", "."], "e1_text": "ordered", "e1_pos": 17, "e2_text": "telling", "e2_pos": 20, "label": "after"},
+{"tokens": ["3", "visits", ",", "and", "each", "time", "I", "have", "been", "shorted", "even", "after", "speaking", "to", "what", "I", "can", "only", "assume", "is", "a", "shift", "lead", "or", "supervisor", "."], "e1_text": "shorted", "e1_pos": 9, "e2_text": "is", "e2_pos": 19, "label": "after"}
+]

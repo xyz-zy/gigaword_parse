@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "really", "terrible", "experience", "here", "back", "in", "March", "of", "2011", ",", "and", "I", "wanted", "to", "give", "myself", "sufficient", "time", "to", "cool", "off", "before", "writing", "about", "it", "."], "e1_text": "cool", "e1_pos": 22, "e2_text": "writing", "e2_pos": 25, "label": "before"},
+{"tokens": ["This", "seemed", "strange", ",", "since", "I", "'m", "sure", "a", "review", "of", "the", "security", "tape", "would", "corroborate", "my", "story", "that", "I", "did", "n't", "even", "speak", "to", "the", "drunk", "guy", "before", "he", "started", "behaving", "like", "a", "moron", "."], "e1_text": "speak", "e1_pos": 23, "e2_text": "started", "e2_pos": 30, "label": "before"}
+]

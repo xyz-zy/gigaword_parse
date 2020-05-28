@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "charged", "us", "45", "dollars", "because", "she", "said", "it", "would", "be", "45", "minutes", "before", "we", "got", "to", "golf", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

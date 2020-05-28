@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "long", "road", "trip", ",", "I", "wanted", "to", "go", "to", "the", "restroom", "before", "heading", "back", "out", "to", "get", "some", "dinner", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "heading", "e2_pos": 14, "label": "before"},
+{"tokens": ["This", "was", "the", "best", "part", "of", "the", "day", "and", "even", "won", "a", "little", "on", "the", "machines", "-LRB-", "before", "you", "lose", "it", "back", "somewhere", "else", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "lose", "e2_pos": 19, "label": "before"}
+]

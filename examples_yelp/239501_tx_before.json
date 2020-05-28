@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "they", "were", "ordered", "-LRB-", "one", "at", "a", "time", ",", "no", "less", "-", "not", "all", "at", "once", "-RRB-", ",", "we", "ordered", "some", "entrees", ",", "and", "at", "least", "we", "acted", "like", "we", "had", "been", "at", "a", "restaurant", "before", ",", "getting", "the", "order", "in", "all", "in", "at", "the", "same", "time", "."], "e1_text": "acted", "e1_pos": 28, "e2_text": "had", "e2_pos": 31, "label": "before"}
+]

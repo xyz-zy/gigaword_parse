@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dog", "lost", "10", "pounds", "while", "he", "was", "there", ",", "while", "I", "am", "not", "surprised", "that", "he", "remained", "mildly", "active", "while", "he", "was", "sick", "-LRB-", "he", "is", "a", "young", "lab", "puppy", "-RRB-", ",", "I", "do", "not", "believe", "that", "he", "was", "only", "ill", "after", "we", "picked", "him", "up", ",", "he", "had", "to", "have", "been", "vomiting", ",", "not", "eating", "and", "had", "diarhea", "for", "a", "couple", "days", "at", "least", "in", "order", "to", "lose", "as", "much", "weight", "as", "rapidly", "as", "he", "did", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "picked", "e2_pos": 44, "label": "after"}
+]

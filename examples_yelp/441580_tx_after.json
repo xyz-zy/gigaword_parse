@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "said", "they", "would", "examine", "the", "car", "and", "came", "back", "with", "a", "$", "407", "estimate", "-LRB-", "after", "some", "coupon", "that", "was", "only", "good", "for", "that", "day", "-RRB-", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "was", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "told", "him", "that", "the", "first", "time", "I", "went", "I", "had", "blown", "a", "tire", "and", "took", "a", "chunk", "out", "of", "the", "other", "tire", "-LRB-", "after", "hitting", "an", "island", "during", "a", "miscalculated", "U-turn", "-RRB-", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "hitting", "e2_pos": 25, "label": "after"}
+]

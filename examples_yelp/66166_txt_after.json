@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "strapping", "birthday", "boy", "had", "just", "turned", "21", "this", "night", ",", "and", "a", "female", "server", ",", "accompanied", "by", "patrons", ",", "serenaded", "him", "with", "the", "happy", "birthday", "song", "after", "he", "took", "a", "seat", "on", "the", "checkerboard", "floor", "in", "the", "center", "of", "the", "dining", "room", "."], "e1_text": "serenaded", "e1_pos": 20, "e2_text": "took", "e2_pos": 29, "label": "after"}
+]

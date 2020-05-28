@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiter", "came", "to", "the", "table", "and", "got", "our", "drink", "order", ",", "however", "forgot", "to", "write", "down", "one", "of", "the", "drink", "orders", "and", "we", "had", "to", "remind", "him", "of", "that", "drink", "twice", "before", "it", "came", "out", "."], "e1_text": "had", "e1_pos": 24, "e2_text": "came", "e2_pos": 2, "label": "before"},
+{"tokens": ["Then", "another", "15", "minutes", "went", "by", "before", "he", "took", "our", "dinner", "order", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "took", "e2_pos": 8, "label": "before"}
+]

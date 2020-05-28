@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "?!", "This", "is", "after", "she", "was", "here", "with", "hub", "earlier", "in", "the", "day", "to", "be", "told", "she", "had", "to", "unbundle", "from", "her", "existing", "acct", "before", "they", "cod", "help", "her", "and", "that", "it", "could", "take", "up", "to", "a", "month", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "was", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "took", "5", "minutes", "after", "she", "drove", "all", "the", "way", "home", "to", "do", "it", "because", "they", "apparently", "could", "help", "a", "75", "year", "old", "woman", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "drove", "e2_pos": 6, "label": "after"}
+]

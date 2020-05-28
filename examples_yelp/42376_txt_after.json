@@ -1,0 +1,3 @@
+[
+{"tokens": ["ps", ":", "the", "place", "is", "looking", "pretty", "run", "down", "&", "did", "n't", "smell", "too", "good", "inside", "-LRB-", "which", "another", "reviewer", "also", "mentioned", "-RRB-", "i", "'m", "not", "sure", "if", "management", "changed", "or", "what", "...", "how", "ever", "the", "service", "was", "good", "&", "the", "manager", "came", "to", "ask", "me", "if", "the", "food", "was", "good", "after", "the", "waiter", "told", "her", "about", "the", "fries", "being", "so", "bad", ",", "but", "i", "just", "said", ",", "yes", "all", "is", "good", "thanks", "...", "did", "n't", "want", "to", "sit", "and", "complain", "!"], "e1_text": "was", "e1_pos": 37, "e2_text": "told", "e2_pos": 54, "label": "after"}
+]

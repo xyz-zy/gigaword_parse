@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "returned", "to", "the", "Joy", "Ride", "tonight", "after", "trying", "it", "out", "last", "week", "for", "the", "first", "time", "&", "I", "received", "amazing", "service", "tonight", "."], "e1_text": "returned", "e1_pos": 1, "e2_text": "received", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "do", "n't", "remember", "how", "I", "was", "feeling", "after", "I", "left", "the", "restaurant", "last", "Saturday", "so", "I", "doubt", "that", "little", "sauce", "had", "a", "major", "impact", "on", "me", "."], "e1_text": "feeling", "e1_pos": 7, "e2_text": "left", "e2_pos": 10, "label": "after"}
+]

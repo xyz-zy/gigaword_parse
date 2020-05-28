@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "wants", "the", "entire", "process", "to", "be", "complete", "before", "moving", "to", "the", "next", "customer", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "moving", "e2_pos": 9, "label": "before"},
+{"tokens": ["To", "be", "fair", ",", "when", "you", "walk", "in", "the", "door", ",", "when", "he", "addresses", "you", ",", "he", "tells", "you", "that", "you", "'re", "probably", "going", "to", "be", "waiting", "for", "10", "min", "before", "he", "pays", "attention", "to", "you", "."], "e1_text": "waiting", "e1_pos": 26, "e2_text": "pays", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", ",", "no", "one", "from", "the", "restaurant", "of", "casino", "or", "hotel", "told", "us", "we", "had", "to", "prepay", "for", "tickets", "for", "the", "event", ",", "which", "would", "have", "been", "helpful", "to", "know", "before", "we", "waited", "in", "line", "for", "an", "hour", "."], "e1_text": "know", "e1_pos": 29, "e2_text": "waited", "e2_pos": 32, "label": "before"}
+]

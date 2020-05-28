@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "may", "only", "be", "me", "but", "the", "only", "downside", "I", "would", "say", "is", "it", "might", "be", "best", "to", "know", "the", "menu", "before", "you", "go", "in", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "go", "e2_pos": 23, "label": "before"},
+{"tokens": ["Next", "time", "I", "will", "have", "my", "order", "ready", "to", "go", "before", "I", "walk", "in", "the", "door", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "walk", "e2_pos": 12, "label": "before"}
+]

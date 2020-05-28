@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "my", "husband", "and", "I", "were", "excited", "to", "try", "a", "Gordon", "Ramsay", "restaurant", "after", "watching", "Hell", "'s", "Kitchen", "and", "kitchen", "nightmares", "."], "e1_text": "try", "e1_pos": 8, "e2_text": "watching", "e2_pos": 14, "label": "after"},
+{"tokens": ["Our", "waiter", "finally", "appeared", "to", "get", "us", "drinks", "maybe", "10", "minutes", "after", "we", "sat", "down", "...", "drinks", "someone", "else", "delivered", "."], "e1_text": "drinks", "e1_pos": 7, "e2_text": "sat", "e2_pos": 13, "label": "after"}
+]

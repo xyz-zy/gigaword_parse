@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "not", "to", "mention", "I", "just", "had", "a", "big", "meal", "before", "running", "into", "this", "place", "-RRB-", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "running", "e2_pos": 11, "label": "before"}
+]

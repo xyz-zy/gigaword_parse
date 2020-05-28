@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "$", "5", "Free", "Play", "ticket", "was", "not", "working", "and", "I", "was", "asked", "by", "the", "Total", "Rewards", "employee", "-LRB-", "who", "replaced", "my", "cards", "after", "I", "had", "difficulty", "registering", "my", "original", "card", "in", "the", "slot", "machines", "-RRB-", "to", "see", "the", "cashier", "for", "a", "replacement", "ticket", "."], "e1_text": "replaced", "e1_pos": 20, "e2_text": "had", "e2_pos": 25, "label": "after"}
+]

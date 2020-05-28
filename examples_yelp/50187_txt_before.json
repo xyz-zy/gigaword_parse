@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "admit", "I", "should", "have", "checked", "it", "out", "before", "leaving", "but", "I", "had", "to", "get", "to", "school", "."], "e1_text": "checked", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 10, "label": "before"},
+{"tokens": ["Bottom", "line", ",", "check", "your", "items", "before", "you", "leave", "to", "see", "if", "they", "'ve", "done", "any", "work", "on", "them", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "leave", "e2_pos": 8, "label": "before"}
+]

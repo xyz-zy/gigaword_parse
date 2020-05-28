@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "man", "actually", "doing", "the", "repair", "emailed", "me", "with", "a", "cost", "estimate", "and", "had", "me", "sign", "off", "before", "they", "began", "the", "work", "."], "e1_text": "sign", "e1_pos": 15, "e2_text": "began", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Two", "girls", "told", "me", "no", "before", "they", "asked", "the", "manager", ",", "Jeremy\\/Jerry", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "asked", "e2_pos": 7, "label": "before"},
+{"tokens": ["They", "obviously", "have", "had", "this", "complaint", "before", "also", "by", "the", "way", "he", "immediately", "got", "defensive", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "got", "e2_pos": 13, "label": "before"}
+]

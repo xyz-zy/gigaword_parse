@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "biggest", "surprise", "was", "after", "I", "was", "seated", "for", "dinner", ",", "Avi", "personally", "came", "over", "and", "recanted", "my", "request", "on", "Open", "Table", "for", "a", "view", "of", "the", "fountain", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "after"},
+{"tokens": ["Nick", "skillfully", "listened", "to", "what", "my", "taste", "buds", "were", "feeling", "and", "after", "much", "discussion", ",", "I", "ordered", "the", "Orzo", "meatballs", "which", "was", "composed", "of", "veal", "which", "I", "love", ",", "the", "candied", "lemon", "arugula", "salad", "and", "the", "signature", "lemon", "spaghetti", "all", "of", "which", "were", "spot", "on", "!"], "e1_text": "listened", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 16, "label": "after"}
+]

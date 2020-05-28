@@ -1,0 +1,6 @@
+[
+{"tokens": ["She", "did", "n't", "even", "give", "me", "time", "to", "open", "my", "menu", "before", "asking", "for", "my", "order", ",", "and", "at", "the", "time", "the", "dining", "area", "was", "not", "busy", "."], "e1_text": "open", "e1_pos": 8, "e2_text": "asking", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "then", "had", "to", "wait", "a", "while", "before", "she", "came", "back", "to", "take", "my", "order", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["Once", "we", "finished", "eating", "we", "sat", "for", "another", "15", "minutes", "before", "a", "different", "server", "asked", "if", "we", "wanted", "our", "check", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "asked", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "were", "told", "the", "computers", "were", "down", ",", "though", "I", "watched", "patrons", "who", "arrived", "after", "us", "receive", "their", "checks", ",", "pay", "and", "leave", "before", "Stevie", "even", "brought", "mine", "over", "."], "e1_text": "leave", "e1_pos": 22, "e2_text": "brought", "e2_pos": 26, "label": "before"}
+]

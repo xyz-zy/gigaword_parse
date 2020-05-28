@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "drinks", "came", "well", "after", "our", "first", "tapas", "arrives", ",", "tapas", "which", "included", "flash", "fried", "padron", "peppers", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "arrives", "e2_pos": 8, "label": "after"},
+{"tokens": ["Turns", "out", ",", "these", "were", "among", "the", "hottest", "peppers", "I", "'ve", "eaten", "and", "that", "is", "saying", "something", "after", "living", "14", "years", "in", "New", "Mexico", "."], "e1_text": "saying", "e1_pos": 15, "e2_text": "living", "e2_pos": 18, "label": "after"},
+{"tokens": ["After", "the", "third", "request", "for", "water", ",", "we", "were", "brought", "some", "about", "25", "minutes", "after", "we", "were", "seated", "with", "the", "first", "request", "being", "made", "with", "our", "drink", "order", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "were", "e2_pos": 8, "label": "after"}
+]

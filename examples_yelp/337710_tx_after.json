@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "she", "'d", "spontaneously", "combust", "after", "reading", "the", "menu", "."], "e1_text": "combust", "e1_pos": 5, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["God", "speed", "Joe", "Beef", "-", "I", "'ll", "be", "back", "soon", "...", "after", "going", "on", "a", "diet", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "going", "e2_pos": 12, "label": "after"}
+]

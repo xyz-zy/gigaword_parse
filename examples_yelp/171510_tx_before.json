@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'ll", "be", "45", "minutes", "before", "a", "guy", "comes", "up", "with", "a", "broom", "and", "dustpan", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "comes", "e2_pos": 8, "label": "before"},
+{"tokens": ["Until", "that", "day", ",", "I", "'ll", "try", "any", "other", "place", "before", "going", "back", "here", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "going", "e2_pos": 11, "label": "before"}
+]

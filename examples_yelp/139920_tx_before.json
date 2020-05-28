@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "to", "pay", "up", "front", "before", "I", "was", "actually", "seen", "by", "a", "doctor", "-LRB-", "$", "50", "-RRB-", "."], "e1_text": "pay", "e1_pos": 2, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "nurse", "came", "back", "and", "asked", "me", "if", "I", "wanted", "to", "take", "something", "now", "to", "get", "started", "on", "before", "I", "went", "to", "the", "pharmacy", ",", "I", "declined", "."], "e1_text": "started", "e1_pos": 16, "e2_text": "went", "e2_pos": 20, "label": "before"}
+]

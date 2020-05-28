@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Sliding", "door", "had", "to", "be", "opened", "and", "closed", "several", "times", "before", "locking", "properly", "."], "e1_text": "closed", "e1_pos": 8, "e2_text": "locking", "e2_pos": 12, "label": "before"},
+{"tokens": ["\\*", "Tub", "was", "n't", "cleaned", "before", "my", "arrival", "which", "most", "of", "my", "friend", "'s", "had", "issues", "with", "too", "."], "e1_text": "cleaned", "e1_pos": 4, "e2_text": "'s", "e2_pos": 13, "label": "before"}
+]

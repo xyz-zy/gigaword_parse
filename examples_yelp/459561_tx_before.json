@@ -1,0 +1,4 @@
+[
+{"tokens": ["UPDATE", "9\\/5\\/2011", "Went", "here", "again", "to", "test", "out", "the", "all-you-can-eat", "sushi", "lunch", "special", "before", "grocery", "shopping", "at", "Trader", "Joes", ",", "which", ",", "not", "surprisingly", ",", "was", "a", "bad", "idea", "."], "e1_text": "test", "e1_pos": 6, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "waited", "for", "10", "minutes", "before", "flagging", "down", "the", "hostess", "to", "ask", "if", "she", "could", "send", "a", "server", "our", "way", ",", "and", "then", "before", "a", "server", "even", "made", "it", "to", "our", "table", ",", "the", "table", "next", "to", "us", "was", "seated", ",", "ordered", ",", "and", "was", "served", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "flagging", "e2_pos": 6, "label": "before"}
+]

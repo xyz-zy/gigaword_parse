@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "there", "a", "little", "over", "20", "minutes", "after", "I", "placed", "the", "order", "and", "as", "I", "walked", "in", ",", "I", "get", "a", "call", "from", "an", "employee", "there", "telling", "me", "they", "did", "not", "have", "any", "wings", "and", "that", "they", "had", "been", "waiting", "for", "over", "an", "hour", "for", "them", "to", "be", "delivered", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "placed", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Room", "was", "spacious", ",", "after", "all", "it", "'s", "a", "suite", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "'s", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "was", "n't", "as", "bad", "as", "I", "expected", "it", "to", "be", "after", "all", "the", "horrible", "yelp", "reviews", ",", "but", "I", "would", "n't", "be", "back", "to", "try", "my", "luck", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "reviews", "e2_pos": 16, "label": "after"}
+]

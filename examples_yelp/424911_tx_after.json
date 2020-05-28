@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "by", "here", "a", "couple", "of", "nights", "ago", "to", "pick", "up", "a", "pizza", "with", "my", "fiance", "after", "it", "was", "recommended", "to", "me", "by", "a", "coworker", "."], "e1_text": "pick", "e1_pos": 10, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["While", "I", "could", "n't", "hear", "what", "was", "being", "said", "I", "did", "notice", "that", "the", "bottom", "looked", "a", "little", "burnt", "and", "also", "heard", "the", "end", "of", "the", "conversation", "where", "the", "man", "was", "dissatisfied", "after", "the", "owner", "explained", "to", "him", "''", "``", "that", "is", "how", "we", "do", "it", "here", "''", "''", "."], "e1_text": "dissatisfied", "e1_pos": 31, "e2_text": "explained", "e2_pos": 35, "label": "after"}
+]

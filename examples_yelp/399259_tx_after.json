@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "at", "least", "one", "other", "table", "demanded", "their", "money", "back", "after", "witnessing", "the", "COCKROACHES", "as", "they", "were", "seated", "at", "a", "table", "next", "to", "ours", "."], "e1_text": "demanded", "e1_pos": 7, "e2_text": "witnessing", "e2_pos": 12, "label": "after"},
+{"tokens": ["They", "also", "immediately", "left", "the", "area", "as", "they", "also", "could", "not", "eat", "after", "seeing", "this", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "seeing", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Therefore", ",", "when", "buying", "both", "a", "chocolate", "croissant", "and", "a", "mocha", "-LRB-", "which", "I", "often", "do", ",", "-RRB-", "either", "drink", "the", "mocha", "first", ",", "or", "eat", "the", "croissant", "and", "wait", "before", "tasting", "the", "mocha", "."], "e1_text": "wait", "e1_pos": 29, "e2_text": "tasting", "e2_pos": 31, "label": "before"}
+]

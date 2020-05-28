@@ -1,0 +1,5 @@
+[
+{"tokens": ["Perhaps", "that", "should", "have", "been", "checked", "before", "being", "brought", "out", "?"], "e1_text": "checked", "e1_pos": 5, "e2_text": "being", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "would", "give", "her", "a", "pass", "based", "on", "that", "because", "honestly", ",", "better", "to", "tell", "me", "before", "you", "give", "it", "to", "me", "than", "to", "wait", "until", "after", "I", "see", "it", "."], "e1_text": "tell", "e1_pos": 14, "e2_text": "give", "e2_pos": 18, "label": "before"},
+{"tokens": ["Perhaps", "they", "normally", "do", "not", "let", "you", "sample", "before", "you", "buy", "wine", "at", "Carrabbas", ",", "I", "do", "n't", "know", ",", "but", "I", "will", "say", "that", "every", "other", "place", "I", "'ve", "ever", "had", "wine", "allows", "you", "to", "sample", "before", "purchase", "."], "e1_text": "let", "e1_pos": 5, "e2_text": "buy", "e2_pos": 10, "label": "before"}
+]

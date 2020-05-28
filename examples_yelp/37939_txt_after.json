@@ -1,0 +1,3 @@
+[
+{"tokens": ["RSVP", "had", "a", "rotting", "tree", "in", "the", "front", "yard", "that", "fell", "on", "my", "car", "a", "year", "after", "we", "moved", "in", "."], "e1_text": "fell", "e1_pos": 10, "e2_text": "moved", "e2_pos": 18, "label": "after"}
+]

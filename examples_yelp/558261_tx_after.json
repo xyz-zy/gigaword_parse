@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "pays", "a", "premium", "price", "for", "restaurant", "food", "&", "I", "expect", "to", "be", "able", "to", "use", "the", "restroom", "&", "wash", "my", "hands", "after", "eating", "."], "e1_text": "wash", "e1_pos": 19, "e2_text": "eating", "e2_pos": 23, "label": "after"}
+]

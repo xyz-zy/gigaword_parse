@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "have", "not", "eaten", "here", "after", "I", "smelled", "inside", "."], "e1_text": "eaten", "e1_pos": 4, "e2_text": "smelled", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "first", "moved", "here", "in", "2010", "after", "moving", "in", "me", "and", "the", "wife", "were", "hungry", "and", "felt", "like", "Mexican", "and", "looked", "up", "places", "and", "cafe", "Rio", "was", "closest", "so", "we", "went", "and", "tried", "the", "burritos", "I", "thought", "it", "was", "very", "tastey", "."], "e1_text": "moved", "e1_pos": 3, "e2_text": "moving", "e2_pos": 8, "label": "after"}
+]

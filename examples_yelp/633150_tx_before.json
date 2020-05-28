@@ -1,0 +1,4 @@
+[
+{"tokens": ["WARNING", "-", "the", "doors", "are", "pretty", "light", "and", "you", "should", "be", "sure", "that", "your", "door", "closes", "before", "you", "walk", "away", "."], "e1_text": "closes", "e1_pos": 15, "e2_text": "walk", "e2_pos": 18, "label": "before"},
+{"tokens": ["Caesars", "Entertainment", "should", "have", "thought", "about", "closing", "the", "property", "completely", "before", "renaming", "and", "opening", "it", "to", "the", "public", "."], "e1_text": "closing", "e1_pos": 6, "e2_text": "renaming", "e2_pos": 11, "label": "before"}
+]

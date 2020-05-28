@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "lettuce", "in", "the", "salad", "was", "watery", "-LRB-", "and", "of", "all", "days", "-", "it", "was", "our", "anniversary", "-RRB-", "...", "plus", "my", "amex", "number", "was", "stolen", "within", "20", "minutes", "after", "paying", "the", "bill", "at", "Carrabba", "'s", "-LRB-", "I", "called", "and", "someone", "did", "apologize", "...", "said", "they", "would", "send", "a", "gift", "card", "...", "and", "that", "never", "came", "-RRB-", "If", "you", "go", "there", "...", "pay", "in", "CASH", "!"], "e1_text": "stolen", "e1_pos": 24, "e2_text": "paying", "e2_pos": 29, "label": "after"}
+]

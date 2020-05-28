@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "came", "to", "Dr.", "Velazquez", "after", "hearing", "how", "great", "she", "was", "with", "children", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "problem", "came", "after", "leaving", "her", "consult", "room", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 4, "label": "after"}
+]

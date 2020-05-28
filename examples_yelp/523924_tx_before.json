@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*", "I", "used", "this", "caterer", "for", "my", "wedding", ",", "they", "have", "many", "wonderful", "reviews", "on", "wedding", "sites", "and", "I", "suggest", "you", "look", "over", "those", "before", "counting", "this", "company", "out", "based", "on", "this", "one", "bad", "review", "."], "e1_text": "look", "e1_pos": 21, "e2_text": "counting", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "feel", "it", "is", "necessary", "to", "post", "my", "wonderful", "experience", "with", "them", "...", "but", "please", "...", "check", "other", "wedding", "specific", "search", "engines", "for", "more", "information", "regarding", "Canna", "Lilly", "Catering", "...", "We", "spoke", "to", "six", "caterers", "before", "choosing", "Canna", "Lily", "Catering", "for", "our", "backyard", "wedding", "."], "e1_text": "spoke", "e1_pos": 31, "e2_text": "choosing", "e2_pos": 36, "label": "before"}
+]

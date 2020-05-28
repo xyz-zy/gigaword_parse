@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "girlfriend", "informed", "me", "today", "that", "she", "was", "denied", "care", "at", "two", "other", "clinics", "that", "day", "after", "they", "reviewed", "the", "records", "from", "the", "Peoria", "clinic", "."], "e1_text": "denied", "e1_pos": 8, "e2_text": "reviewed", "e2_pos": 18, "label": "after"},
+{"tokens": ["They", "did", "agree", "to", "see", "me", "but", "told", "me", "that", "after", "calling", "around", "they", "were", "informed", "I", "had", "left", "the", "prior", "night", "without", "paying", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "calling", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "paid", "for", "my", "full", "care", "at", "this", "new", "clinic", "immediately", "with", "a", "credit", "card", "and", "then", "after", "the", "treatment", "was", "completed", "I", "was", "actually", "refunded", "money", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

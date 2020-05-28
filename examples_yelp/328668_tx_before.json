@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "they", "finally", "took", "my", "dog", "away", "from", "me", "to", "the", "exam", "room", ",", "she", "was", "returned", "to", "me", "by", "the", "vet", "tech", "from", "before", "except", "at", "this", "point", "my", "dogs", "tail", "was", "wagging", "and", "she", "was", "playing", "with", "the", "tech", "."], "e1_text": "returned", "e1_pos": 16, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["She", "was", "fine", "with", "the", "vet", "tech", ",", "office", "staff", ",", "the", "other", "Doctors", "we", "have", "seen", "before", ",", "including", "Dr", "Hicks", "but", "you", "'re", "right", ",", "it", "has", "to", "be", "her", "fault", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "have", "e2_pos": 15, "label": "before"}
+]

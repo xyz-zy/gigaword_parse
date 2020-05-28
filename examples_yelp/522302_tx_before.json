@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "just", "went", "for", "another", "annual", "check", "up", ",", "showed", "up", "early", "to", "fill", "out", "paperwork", ",", "patiently", "waited", "30", "+", "minutes", "-LRB-", "as", "other", "patients", "who", "came", "in", "after", "me", "went", "through", "their", "whole", "visit", "and", "left", "before", "I", "was", "even", "called", "back", "-RRB-", "."], "e1_text": "left", "e1_pos": 37, "e2_text": "was", "e2_pos": 40, "label": "before"}
+]

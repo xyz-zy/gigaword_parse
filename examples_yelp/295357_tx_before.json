@@ -1,0 +1,4 @@
+[
+{"tokens": ["Happy", "Hour", "There", "were", "four", "of", "us", "dining", "and", "we", "started", "off", "in", "the", "bar", "area", "to", "take", "advantage", "of", "happy", "hour", "before", "sitting", "in", "the", "formal", "dining", "area", "."], "e1_text": "take", "e1_pos": 17, "e2_text": "sitting", "e2_pos": 23, "label": "before"},
+{"tokens": ["A", "few", "minutes", "later", ",", "more", "plates", "of", "food", "arrived", "before", "we", "were", "even", "done", "with", "the", "first", "round", "."], "e1_text": "arrived", "e1_pos": 9, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "had", "several", "different", "rare", "beers", "after", "starting", "with", "his", "favorite", "''", "``", "go", "to", "beer", "''", "''", "-LRB-", "Chimay", "-RRB-", "That", "was", "served", "in", "the", "correct", "glass", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "go", "e2_pos": 14, "label": "after"},
+{"tokens": ["Not", "to", "rich", ";", "not", "to", "cheesy", ";", "Again", "nice", "size", "portion", "For", "our", "Cheese", "course", "we", "chose", "a", "variety", "of", "three", "after", "telling", "our", "server", "what", "we", "liked", "in", "our", "cheeses", "he", "did", "very", "well", "with", "suggestions", "."], "e1_text": "chose", "e1_pos": 17, "e2_text": "telling", "e2_pos": 23, "label": "after"}
+]

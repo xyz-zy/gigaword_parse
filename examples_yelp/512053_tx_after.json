@@ -1,0 +1,4 @@
+[
+{"tokens": ["Largely", "for", "this", "reason", ",", "it", "took", "awhile", "for", "us", "to", "be", "greeted", "after", "we", "arrived", "on", "time", "for", "our", "reservation", "."], "e1_text": "greeted", "e1_pos": 12, "e2_text": "arrived", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "view", "here", "is", "great", "from", "the", "tables", ",", "especially", "on", "a", "day", "like", "the", "one", "where", "we", "ate", "here", "after", "it", "snowed", "."], "e1_text": "ate", "e1_pos": 18, "e2_text": "snowed", "e2_pos": 22, "label": "after"}
+]

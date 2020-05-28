@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "explained", "to", "me", "that", "it", "takes", "x", "amount", "of", "days", "for", "the", "form", "to", "be", "reviewed", "which", "meant", "that", "I", "had", "to", "be", "billed", "for", "one", "more", "month", "before", "the", "actual", "cancellation", "take", "effect", "."], "e1_text": "billed", "e1_pos": 24, "e2_text": "take", "e2_pos": 33, "label": "before"}
+]

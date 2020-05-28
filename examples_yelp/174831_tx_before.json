@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "for", "a", "quick", "dinner", "before", "clubbing", "since", "it", "was", "in", "the", "same", "hotel", "as", "Body", "English", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "clubbing", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "think", "we", "had", "to", "flag", "a", "few", "people", "down", "before", "our", "waiter", "came", "by", "."], "e1_text": "flag", "e1_pos": 5, "e2_text": "came", "e2_pos": 13, "label": "before"}
+]

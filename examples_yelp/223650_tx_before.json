@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "needed", "one", "more", "Potbelly", "'s", "fix", "before", "I", "moved", "back", "down", "south", "."], "e1_text": "needed", "e1_pos": 1, "e2_text": "moved", "e2_pos": 9, "label": "before"},
+{"tokens": ["Thanks", "to", "Yelp", "it", "was", "n't", "a", "long", "hop", "off", "the", "highway", "before", "I", "ended", "up", "here", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "ended", "e2_pos": 14, "label": "before"},
+{"tokens": ["There", "were", "three", "staff", "members", "crowded", "around", "something", ",", "at", "first", ",", "I", "thought", "they", "were", "just", "bsing", "but", "it", "looked", "like", "they", "had", "trouble", "with", "something", "before", "I", "got", "someone", "'s", "attention", "."], "e1_text": "bsing", "e1_pos": 17, "e2_text": "got", "e2_pos": 29, "label": "before"}
+]

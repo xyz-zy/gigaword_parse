@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "got", "there", "at", "9:20", ",", "40", "minutes", "before", "they", "closed", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "closed", "e2_pos": 10, "label": "before"},
+{"tokens": ["But", "when", "we", "walked", "in", ",", "we", "waited", "for", "a", "few", "minutes", "before", "the", "hostess", "finally", "walked", "into", "the", "waiting", "area", "...", "with", "her", "purse", "over", "her", "shoulder", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "walked", "e2_pos": 3, "label": "before"},
+{"tokens": ["She", "told", "us", "they", "had", "already", "closed", "and", "after", "mentioning", "that", "we", "thought", "they", "did", "n't", "close", "until", "10", "-LRB-", "we", "checked", "the", "website", "before", "going", "-RRB-", ",", "she", "reluctantly", "took", "us", "to", "a", "table", "...", "in", "a", "room", "where", "everyone", "else", "was", "."], "e1_text": "checked", "e1_pos": 21, "e2_text": "going", "e2_pos": 25, "label": "before"}
+]

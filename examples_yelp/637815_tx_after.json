@@ -1,0 +1,4 @@
+[
+{"tokens": ["1", "Deadhead", "wrap", "\\/", "No", "Banana", "Peppers", "&", "Red", "Onions", "2", "Vermonter", "\\/", "No", "onions", "on", "sandwich", "and", "side", "salad", "Received", "the", "2", "Vermonter", "'s", "19", "minutes", "after", "ordering", "with", "Onions", "included", "."], "e1_text": "Received", "e1_pos": 20, "e2_text": "ordering", "e2_pos": 28, "label": "after"},
+{"tokens": ["Received", "the", "Deadhead", "21", "minutes", "after", "ordering", "once", "the", "owner", "asked", "what", "I", "had", "order", "because", "she", "threw", "away", "the", "order", "slip", "after", "she", "made", "the", "2", "sandwiches", "."], "e1_text": "Received", "e1_pos": 0, "e2_text": "ordering", "e2_pos": 6, "label": "after"}
+]

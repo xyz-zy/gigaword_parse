@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "were", "prompt", "with", "the", "bill", ",", "at", "least", "--", "in", "fact", ",", "they", "asked", "if", "we", "were", "ready", "for", "it", "before", "we", "got", "our", "meal", "!"], "e1_text": "were", "e1_pos": 1, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "when", "I", "called", "tonight", ",", "after", "42", "minutes", "talking", "to", "three", "separate", "representatives", ",", "the", "last", "one", "told", "me", "that", "I", "would", "have", "to", "use", "the", "credit", "only", "for", "travel", "from", "Santiago", "to", "Phoenix", "."], "e1_text": "called", "e1_pos": 4, "e2_text": "talking", "e2_pos": 10, "label": "after"}
+]

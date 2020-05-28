@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "are", "WAY", "too", "many", "signs", ",", "screen", "messages", ",", "and", "then", "a", "speech", "gets", "delivered", "before", "the", "movie", "begins", "about", "not", "having", "your", "cell-phone", "out", "."], "e1_text": "delivered", "e1_pos": 15, "e2_text": "begins", "e2_pos": 19, "label": "before"}
+]

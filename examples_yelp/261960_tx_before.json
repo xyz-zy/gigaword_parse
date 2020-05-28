@@ -1,0 +1,5 @@
+[
+{"tokens": ["Wow", ",", "I", "really", "should", "'ve", "read", "the", "reviews", "before", "booking", "my", "round-trip", "shuttle", "for", "my", "recent", "trip", "to", "Vegas", "!"], "e1_text": "read", "e1_pos": 6, "e2_text": "booking", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "waited", "about", "a", "half", "an", "hour", "before", "a", "driver", "who", "was", "picking", "up", "passengers", "arrived", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "finally", "had", "to", "beg", "him", "to", "let", "me", "on", "and", "he", "agreed", "only", "before", "barking", "at", "me", "to", "''", "``", "meet", "him", "at", "the", "back", "of", "the", "van", "!", "''", "''"], "e1_text": "agreed", "e1_pos": 12, "e2_text": "barking", "e2_pos": 15, "label": "before"}
+]

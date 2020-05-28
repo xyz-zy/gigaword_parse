@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "lived", "in", "Gilbert", "for", "10", "years", "and", "unfortunately", "never", "came", "here", "until", "after", "I", "moved", "away", "for", "college", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "moved", "e2_pos": 16, "label": "after"}
+]

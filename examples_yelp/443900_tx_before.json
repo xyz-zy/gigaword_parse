@@ -1,0 +1,4 @@
+[
+{"tokens": ["Valentines", "2\\/14\\/11", "Bopped", "in", "here", "for", "a", "quick", "margarita", "tonight", "before", "we", "left", "the", "strip", "."], "e1_text": "Bopped", "e1_pos": 2, "e2_text": "left", "e2_pos": 12, "label": "before"},
+{"tokens": ["Good", "place", "to", "catch", "a", "quick", "drink", "of", "a", "meal", "before", "heading", "out", "on", "the", "strip", "."], "e1_text": "catch", "e1_pos": 3, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

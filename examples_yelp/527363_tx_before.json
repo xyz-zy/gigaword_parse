@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "atmosphere", "just", "left", "a", "lot", "to", "be", "desired", ",", "so", "I", "was", "having", "misgivings", "before", "I", "even", "ordered", "."], "e1_text": "having", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "kept", "trying", "and", "trying", "and", "even", "took", "two", "bites", "before", "I", "totally", "gave", "up", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "gave", "e2_pos": 13, "label": "before"}
+]

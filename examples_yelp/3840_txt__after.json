@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "so", "excited", "to", "try", "Il", "Pizzaiolo", "after", "hearing", "about", "it", "from", "so", "many", "people", "and", "reviews", "online", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "hearing", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "discovered", "after", "arriving", "that", "they", "will", "accept", "cash", "only", "until", "further", "notice", "."], "e1_text": "discovered", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 3, "label": "after"}
+]

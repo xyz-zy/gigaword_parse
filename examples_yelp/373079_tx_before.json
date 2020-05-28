@@ -1,0 +1,3 @@
+[
+{"tokens": ["all", "of", "it", "aside", "from", "the", "Pork", "was", "blah", "and", "unimpressive", ",", "the", "Pork", "was", "tasty", ",", "but", "the", "flavor", "was", "REALLY", "strong", "and", "I", "could", "n't", "eat", "much", "of", "it", "before", "wanting", "to", "vomit", "."], "e1_text": "eat", "e1_pos": 27, "e2_text": "wanting", "e2_pos": 32, "label": "before"}
+]

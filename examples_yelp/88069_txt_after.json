@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yep-I", "never", "have", "to", "wait", "long", "after", "placing", "my", "order", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "placing", "e2_pos": 7, "label": "after"},
+{"tokens": ["Yep-I", "like", "to", "feel", "guilty", "after", "eating", "a", "metric", "ton", "on", "General", "Tso", "'s", "chicken", "-LRB-", "extra", "spicy", "-RRB-", "."], "e1_text": "feel", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

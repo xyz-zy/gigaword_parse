@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "girlfriend", "and", "I", "came", "here", "for", "dinner", "New", "Years", "eve", "for", "dinner", "before", "heading", "to", "a", "party", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "heading", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "had", "a", "few", "bites", "of", "it", "before", "I", "got", "the", "pecans", "and", "it", "was", "delicious", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "building", "is", "cool", "and", "for", "the", "firs", "timers", "the", "waiter", "gives", "you", "a", "little", "history", "about", "the", "building", "before", "ordering", "."], "e1_text": "gives", "e1_pos": 11, "e2_text": "ordering", "e2_pos": 20, "label": "before"}
+]

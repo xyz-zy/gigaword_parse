@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "prepared", "myself", "to", "wait", "an", "hour", "before", "I", "get", "food", "but", "this", "time", "was", "unacceptable", "."], "e1_text": "wait", "e1_pos": 5, "e2_text": "get", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "think", "he", "could", "'ve", "put", "in", "our", "before", "he", "went", "off", "and", "doing", "anything", "else", "since", "the", "food", "takes", "longer", "to", "cook", "."], "e1_text": "put", "e1_pos": 5, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

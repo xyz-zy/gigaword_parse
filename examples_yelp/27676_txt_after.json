@@ -1,0 +1,4 @@
+[
+{"tokens": ["Really", "affordable", "and", "the", "only", "only", "reason", "I", "did", "n't", "give", "it", "a", "5", "is", "because", "there", "seemed", "to", "be", "some", "confusion", "about", "what", "type", "of", "manicure", "I", "was", "getting", ",", "so", "I", "ended", "up", "having", "to", "wait", "after", "my", "pedicure", "was", "finished", "."], "e1_text": "wait", "e1_pos": 37, "e2_text": "was", "e2_pos": 28, "label": "after"},
+{"tokens": ["Everything", "was", "great", "after", "it", "was", "all", "sorted", "out", "though", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "wanted", "to", "clarify", "the", "use", "of", "a", "coupon", "before", "we", "ordered", ",", "the", "new", "waitress", "was", "n't", "sure", "so", "she", "called", "the", "acting", "manager", "over", "and", "she", "explained", "to", "us", "how", "the", "coupon", "could", "be", "used", "."], "e1_text": "clarify", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 11, "label": "before"}
+]

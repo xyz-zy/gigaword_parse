@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "by", "far", "friendlier", ",", "asked", "us", "if", "something", "happened", "with", "the", "other", "waiter", ",", "after", "I", "explained", ",", "he", "apologized", "and", "took", "our", "order", "."], "e1_text": "happened", "e1_pos": 10, "e2_text": "explained", "e2_pos": 18, "label": "after"},
+{"tokens": ["-LRB-", "Which", "came", "our", "after", "we", "were", "almost", "done", "with", "our", "meal", "-RRB-", ",", "It", "lacked", "flavor", "and", "was", "runny", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 6, "label": "after"}
+]

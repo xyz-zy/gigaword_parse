@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "beef", "combo", "soup", "since", "I", "opted", "out", "of", "the", "AYCE", "buffet", "for", "$", "10.99", "The", "soup", "took", "half", "an", "hour", "to", "receive", "after", "ordering", "and", "was", "disappointing", "."], "e1_text": "receive", "e1_pos": 24, "e2_text": "ordering", "e2_pos": 26, "label": "after"}
+]

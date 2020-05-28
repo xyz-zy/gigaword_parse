@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "'s", "a", "car", "cue", "line", "that", "happens", "on", "the", "60", "before", "it", "even", "opens", "."], "e1_text": "happens", "e1_pos": 7, "e2_text": "opens", "e2_pos": 14, "label": "before"}
+]

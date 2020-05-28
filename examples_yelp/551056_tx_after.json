@@ -1,0 +1,3 @@
+[
+{"tokens": ["DO", "NOT", "EAT", "AT", "THIS", "LOCATION", "!!!", "The", "food", "was", "only", "average", "The", "restaurant", "was", "dirty", "It", "was", "85", "degrees", "in", "the", "dining", "room", "and", "the", "woman", "at", "the", "restaurant", "said", "she", "could", "n't", "turn", "it", "down", ":--LRB-", "To", "top", "it", "all", "off", "...", "I", "called", "the", "manager", "the", "next", "day", "to", "report", "that", "someone", "had", "fraudulently", "used", "my", "credit", "card", "the", "day", "after", "I", "used", "it", "at", "his", "restaurant", "."], "e1_text": "used", "e1_pos": 57, "e2_text": "used", "e2_pos": 65, "label": "after"}
+]

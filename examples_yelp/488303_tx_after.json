@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "pleasure", "of", "visiting", "the", "Spa", "at", "Talking", "Stick", "again", "with", "my", "finance", "after", "receiving", "a", "nice", "note", "from", "Steve", "Gerken", ",", "the", "Director", "of", "Hospitality", ",", "after", "not", "having", "a", "great", "experience", "at", "the", "resort", "last", "year", "."], "e1_text": "Talking", "e1_pos": 9, "e2_text": "receiving", "e2_pos": 16, "label": "after"},
+{"tokens": ["They", "quickly", "changed", "it", "at", "checkout", "after", "I", "questioned", "the", "charge", "with", "no", "push", "back", "."], "e1_text": "changed", "e1_pos": 2, "e2_text": "questioned", "e2_pos": 8, "label": "after"}
+]

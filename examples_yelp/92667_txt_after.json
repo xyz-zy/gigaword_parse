@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "we", "pointed", "that", "out", "to", "our", "waiter", "who", "decided", "to", "stop", "by", "after", "we", "were", "about", "3\\/4", "done", "with", "our", "food", ",", "the", "waiter", "asked", "if", "we", "would", "like", "for", "him", "to", "get", "it", "now", "."], "e1_text": "stop", "e1_pos": 11, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

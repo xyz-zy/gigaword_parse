@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "after", "we", "paid", "$", "75", "just", "for", "him", "to", "come", "out", "and", "the", "repair", "took", "only", "5", "minutes", "-LRB-", "this", "after", "they", "convinced", "us", "on", "the", "phone", "that", "it", "was", "a", "complicated", "repair", "that", "we", "should", "have", "them", "do", ".", "-RRB-"], "e1_text": "is", "e1_pos": 1, "e2_text": "paid", "e2_pos": 4, "label": "after"}
+]

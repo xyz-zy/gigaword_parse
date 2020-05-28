@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "n't", "snooty", "or", "pushy", ",", "although", "my", "server", "did", "ask", "me", "if", "I", "wanted", "an", "English", "menu", "before", "I", "sat", "down", "-LRB-", "is", "it", "that", "obvious", "?"], "e1_text": "wanted", "e1_pos": 16, "e2_text": "sat", "e2_pos": 22, "label": "before"},
+{"tokens": ["Maybe", "it", "was", "because", "I", "'d", "never", "had", "poutine", "before", "and", "have", "nothing", "to", "compare", "it", "to", ",", "but", "it", "just", "seems", "like", "mediocre", "fries", "soaked", "in", "gravy", ",", "covered", "in", "cheese", "curds", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "'d", "e2_pos": 5, "label": "before"}
+]

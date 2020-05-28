@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "dropped", "them", "on", "12\\/27\\/13", "and", "they", "gave", "me", "a", "ticket", "with", "the", "date", "12\\/31", "hand", "written", "by", "the", "woman", "at", "the", "counter", "after", "she", "had", "gone", "in", "back", "and", "checked", "with", "the", "person", "doing", "the", "work", "."], "e1_text": "written", "e1_pos": 16, "e2_text": "had", "e2_pos": 25, "label": "after"}
+]

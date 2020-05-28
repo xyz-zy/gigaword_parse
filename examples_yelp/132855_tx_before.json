@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "a", "good", "karaoke", "spot", ",", "this", "place", "has", "good", "music", "choices", ",", "but", "unless", "you", "already", "smoke", "like", "2", "packs", "a", "day", ",", "the", "thick", "smoke", "in", "the", "air", "is", "going", "to", "kill", "your", "throat", "before", "you", "get", "a", "chance", "to", "sing", "."], "e1_text": "kill", "e1_pos": 34, "e2_text": "get", "e2_pos": 39, "label": "before"},
+{"tokens": ["Perhaps", "if", "we", "got", "there", "earlier", "we", "could", "have", "found", "a", "spot", "near", "the", "air", "inlet", "and", "a", "little", "farther", "away", "from", "the", "speakers", "and", "got", "a", "song", "or", "two", "in", "before", "we", "left", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "left", "e2_pos": 33, "label": "before"}
+]

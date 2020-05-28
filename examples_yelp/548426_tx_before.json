@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "left", "turn", "requires", "maneuvering", "through", "the", "shopping", "center", "parking", "lot", "in", "back", "of", "the", "adjacent", "Burger", "King", "before", "making", "a", "very", "dangerous", "left", "turn", "onto", "Bonanza", "without", "a", "traffic", "light", "."], "e1_text": "requires", "e1_pos": 3, "e2_text": "making", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "a", "Chinese", "owned", "Japanese", "restaurant", ",", "did", "not", "know", "that", "before", "entering", "."], "e1_text": "know", "e1_pos": 10, "e2_text": "entering", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "first", "serve", "the", "fried", "rice", "and", "veggies", ",", "probably", "wanted", "you", "to", "fill", "up", "on", "rice", "and", "veggies", "before", "they", "serve", "the", "meat", "and", "seafood", "."], "e1_text": "veggies", "e1_pos": 7, "e2_text": "serve", "e2_pos": 2, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "and", "for", "Leslie", "management", ",", "please", "send", "this", "manager", "to", "some", "customer", "service", "and", "conflict", "resolution", "training", ",", "he", "needs", "it", "quickly", "before", "he", "get", "into", "trouble", "-RRB-", "."], "e1_text": "needs", "e1_pos": 20, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

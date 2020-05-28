@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "it", "does", "reflect", "is", "the", "difference", "in", "service", "speed", "as", "compared", "to", "other", "In-N-Outs", "I", "'ve", "been", "to", "before", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 16, "label": "before"},
+{"tokens": ["Try", "to", "get", "here", "before", "you", "'re", "actually", "starving", "because", "you", "will", "be", "by", "the", "time", "you", "get", "your", "food", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "'re", "e2_pos": 6, "label": "before"}
+]

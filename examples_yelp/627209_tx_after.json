@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "I", "went", "back", ",", "again", "because", "I", "LOVE", "the", "food", "and", "I", "want", "to", "keep", "giving", "this", "place", "another", "chance", ",", "but", "when", "I", "walked", "up", "to", "the", "front", "like", "I", "usually", "do", ",", "the", "lady", "behind", "the", "glass", "grabbed", "a", "tray", "and", "just", "stared", "at", "my", "sister", "and", "I.", "Then", "after", "staring", "for", "a", "moment", "or", "two", ",", "stated", "''", "``", "Can", "I", "help", "you", "''", "''", "...", "we", "informed", "her", "we", "would", "like", "the", "kids", "casadilla", "with", "chicken", "."], "e1_text": "stared", "e1_pos": 45, "e2_text": "staring", "e2_pos": 53, "label": "after"}
+]

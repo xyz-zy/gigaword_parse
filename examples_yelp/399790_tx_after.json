@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "another", "15-20", "minutes", "for", "my", "mojito", "to", "come", "out", "and", "that", "was", "after", "my", "bf", "waved", "down", "someone", "asking", "for", "the", "update", "of", "our", "drinks", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "waved", "e2_pos": 17, "label": "after"},
+{"tokens": ["Luckily", "the", "food", "started", "arriving", "fairly", "quickly", "after", "I", "had", "some", "mojito", "in", "me", "."], "e1_text": "arriving", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

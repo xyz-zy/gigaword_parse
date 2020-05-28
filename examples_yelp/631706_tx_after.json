@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "''", "``", "reprimanded", "''", "''", "for", "walking", "away", "from", "an", "associate", "after", "she", "told", "me", "they", "did", "n't", "have", "any", "of", "the", "product", "I", "was", "asking", "about", "."], "e1_text": "walking", "e1_pos": 8, "e2_text": "told", "e2_pos": 15, "label": "after"}
+]

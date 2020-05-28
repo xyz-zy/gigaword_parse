@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "quickly", "realized", "they", "were", "n't", "correct", "and", "turned", "back", "to", "see", "what", "happened", "when", "the", "lady", "cook", "told", "us", "in", "a", "rude", "tone", "that", "we", "should", "check", "with", "them", "before", "taking", "a", "plate", "."], "e1_text": "check", "e1_pos": 27, "e2_text": "taking", "e2_pos": 31, "label": "before"},
+{"tokens": ["Just", "so", "they", "know", "we", "are", "not", "their", "employees", "and", "they", "should", "probably", "put", "the", "right", "plates", "up", "before", "screaming", "out", "our", "names", "."], "e1_text": "put", "e1_pos": 13, "e2_text": "screaming", "e2_pos": 19, "label": "before"}
+]

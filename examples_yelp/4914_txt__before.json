@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "we", "ended", "up", "waiting", "over", "5", "hours", "-LRB-", "until", "3:30", "AM", "-RRB-", ",", "only", "to", "be", "told", "that", "they", "were", "admitting", "her", "into", "the", "ICU", "overnight", "and", "running", "tests", "-LRB-", "exactly", "as", "we", "requested", "before", "-RRB-", "."], "e1_text": "running", "e1_pos": 28, "e2_text": "requested", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "know", "the", "protocol", "was", "to", "have", "the", "doctor", "chat", "a", "moment", "in", "person", "before", "we", "left", ",", "but", "we", "felt", "that", "common", "sense", "was", "n't", "being", "put", "to", "use", "at", "this", "facility", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "left", "e2_pos": 16, "label": "before"}
+]

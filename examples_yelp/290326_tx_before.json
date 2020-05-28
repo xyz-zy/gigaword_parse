@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "always", "seems", "that", "their", "food", "sits", "ready", "for", "so", "long", "before", "they", "bring", "it", "out", "that", "its", "dried", "out", "like", "it", "'s", "sat", "under", "a", "warmer", "."], "e1_text": "sits", "e1_pos": 6, "e2_text": "bring", "e2_pos": 13, "label": "before"}
+]

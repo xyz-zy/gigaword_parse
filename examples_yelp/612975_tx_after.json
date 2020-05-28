@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "look", "on", "yelp", "and", "find", "a", "flower", "shop", "on", "here", ",", "after", "looking", "and", "finding", "one", "that", "had", "five", "stars", ",", "I", "was", "still", "not", "sure", "what", "I", "would", "get", "for", "the", "money", "I", "was", "spending", "...", "To", "be", "honest", "I", "really", "like", "to", "walk", "in", "to", "a", "flowers", "shop", "and", "hand", "pick", "the", "flowers", "myself", "usually", ",", "but", "in", "this", "case", "it", "was", "impossible", "."], "e1_text": "find", "e1_pos": 7, "e2_text": "looking", "e2_pos": 15, "label": "after"},
+{"tokens": ["Btw", "there", "timing", "was", "amazing", "too", "...", "It", "was", "delivered", "only", "few", "hours", "after", "I", "called", "it", "in", "!"], "e1_text": "delivered", "e1_pos": 9, "e2_text": "called", "e2_pos": 15, "label": "after"}
+]

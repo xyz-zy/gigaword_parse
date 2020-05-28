@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "is", "pretty", "non", "existent", "so", "just", "squeeze", "up", "to", "the", "bar", "and", "shout", "out", "your", "order", "before", "some", "drunk", "kid", "yells", "something", "in", "your", "ear", "!"], "e1_text": "shout", "e1_pos": 13, "e2_text": "yells", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "just", "wish", "the", "''", "``", "grown", "ups", "''", "''", "had", "found", "it", "before", "all", "the", "kids", "did", "!"], "e1_text": "found", "e1_pos": 11, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

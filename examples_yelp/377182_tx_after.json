@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bread", "basket", "our", "waiter", "said", "he", "was", "going", "to", "bring", "right", "out", ",", "did", "n't", "materialize", "until", "after", "we", "received", "our", "appetizers", "and", "only", "after", "we", "asked", "for", "it", "from", "another", "server", "."], "e1_text": "materialize", "e1_pos": 16, "e2_text": "received", "e2_pos": 20, "label": "after"},
+{"tokens": ["Even", "worse", "was", "my", "friend", "got", "sick", "after", "eating", "it", "with", "what", "were", "the", "symptoms", "of", "food", "poisoning", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "trusted", "them", "to", "clean", "correctly", "after", "the", "first", "time", "I", "used", "them", "so", "I", "did", "not", "diligently", "check", "on", "them", "while", "they", "were", "working", "."], "e1_text": "clean", "e1_pos": 4, "e2_text": "used", "e2_pos": 11, "label": "after"},
+{"tokens": ["They", "also", "did", "not", "clean", "the", "floors", "in", "my", "upstairs", "bathroom", "as", "there", "was", "dirt", "left", "over", "after", "they", "left", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "left", "e2_pos": 19, "label": "after"}
+]

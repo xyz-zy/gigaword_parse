@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "was", "disinterested", "and", "seemed", "annoyed", "to", "be", "waiting", "on", "us", "after", "she", "figured", "out", "that", "is", "all", "we", "wanted", "."], "e1_text": "waiting", "e1_pos": 9, "e2_text": "figured", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "will", "stop", "to", "peruse", "antiques", "again", "after", "I", "eat", "at", "one", "of", "the", "other", "restaurants", "along", "the", "same", "street", "."], "e1_text": "peruse", "e1_pos": 4, "e2_text": "eat", "e2_pos": 9, "label": "after"}
+]

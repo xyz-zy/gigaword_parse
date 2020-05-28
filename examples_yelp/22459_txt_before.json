@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "I", "arrived", "at", "the", "location", ",", "the", "''", "``", "help", "''", "''", "was", "more", "concerned", "with", "getting", "me", "out", "of", "the", "store", "by", "telling", "me", "the", "they", "were", "done", "taking", "in", "new", "customers", "before", "asking", "the", "more", "appropriate", "line", "of", "questions", "."], "e1_text": "taking", "e1_pos": 30, "e2_text": "asking", "e2_pos": 35, "label": "before"},
+{"tokens": ["Try", "to", "help", "before", "trying", "to", "get", "rid", "of", "."], "e1_text": "help", "e1_pos": 2, "e2_text": "trying", "e2_pos": 4, "label": "before"}
+]

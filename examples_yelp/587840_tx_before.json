@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "another", "10mins", "or", "so", "before", "anyone", "wearing", "a", "loco", "patron", "shirt", "came", "to", "check", "on", "us", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 13, "label": "before"},
+{"tokens": ["If", "you", "want", "to", "just", "close", "down", "and", "have", "an", "employees", "only", "party", "then", "drop", "some", "hints", "before", "i", "waste", "precious", "time", "thinking", "I", "'ve", "found", "food", "and", "drinks", "still", "open", "on", "a", "Sunday", "night", "."], "e1_text": "drop", "e1_pos": 14, "e2_text": "thinking", "e2_pos": 22, "label": "before"},
+{"tokens": ["And", "if", "you", "forget", "someone", "'s", "nachos", "and", "get", "called", "out", "on", "it", ",", "have", "the", "decency", "to", "at", "least", "reheat", "and", "sprinkle", "some", "fresh", "tomatoes", "on", "those", "stale", "ass", "chips", "before", "serving", "them", "."], "e1_text": "sprinkle", "e1_pos": 22, "e2_text": "serving", "e2_pos": 32, "label": "before"}
+]

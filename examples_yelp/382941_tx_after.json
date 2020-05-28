@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "tastes", "good", ",", "very", "sweet", "and", "basically", "is", "what", "you", "expect", "after", "reading", "the", "ingredients", "and", "the", "preparation", "process", "."], "e1_text": "expect", "e1_pos": 11, "e2_text": "reading", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "'d", "give", "it", "a", "2.5", "after", "all", "is", "said", "and", "done", ",", "and", "bump", "it", "to", "a", "3", "for", "location", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "is", "e2_pos": 8, "label": "after"}
+]

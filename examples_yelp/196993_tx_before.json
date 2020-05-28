@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "duck", "came", "for", "some", "reason", "10", "minutes", "before", "my", "meal", "did", "so", "we", "both", "had", "to", "sit", "there", "waiting", "for", "my", "food", "because", "my", "partner", "did", "not", "want", "to", "eat", "without", "me", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "did", "e2_pos": 11, "label": "before"}
+]

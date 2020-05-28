@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "ran", "in", "to", "a", "big", "problem", "when", ",", "even", "after", "confirming", "it", "over", "the", "phone", ",", "my", "sister", "and", "I", "arrived", "for", "dinner", "and", "the", "waiter", "told", "us", "he", "could", "n't", "honor", "it", "because", "it", "was", "a", "special", "weekend", "-LRB-", ".", "."], "e1_text": "ran", "e1_pos": 1, "e2_text": "confirming", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "expected", "it", "from", "Sizzler", "or", "Chili", "'s", ",", "but", "not", "them", "''", "''", "and", "my", "sister", "and", "I", "were", "about", "to", "walk", "out", "-LRB-", "of", "course", "after", "laying", "cash", "down", "for", "our", "wines", "-RRB-", "when", "she", "said", "okay", ",", "they", "'d", "honor", "it", "."], "e1_text": "walk", "e1_pos": 22, "e2_text": "laying", "e2_pos": 28, "label": "after"},
+{"tokens": ["The", "server", "was", "actually", "very", "nice", "the", "whole", "night", "after", "this", "-LRB-", "he", "was", "nice", "from", "the", "beginning", ".", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

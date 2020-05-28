@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "a", "1st", "time", "visitor", "in", "this", "wonderful", "city", ",", "after", "researching", "off", "the", "hook", "on", "yelp", "I", "figured", "Cafe", "Gitana", "would", "be", "amazing", "for", "my", "friend", "who", "does", "not", "drink", "alcohol", "and", "only", "smokes", "an", "occasional", "cigar", "."], "e1_text": "Being", "e1_pos": 0, "e2_text": "researching", "e2_pos": 11, "label": "after"},
+{"tokens": ["Our", "server", "disappeared", "for", "5-8", "minutes", "again", "before", "bringing", "out", "a", "cigar", "menu", "for", "him", "and", "promptly", "left", "after", "dropping", "my", "wine", "off", "too", "."], "e1_text": "left", "e1_pos": 17, "e2_text": "dropping", "e2_pos": 19, "label": "after"}
+]

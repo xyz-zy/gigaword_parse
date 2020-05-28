@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "about", "5pm", "and", "most", "places", "were", "closing", "soon", ",", "and", "luckily", "-LRB-", "or", "so", "I", "thought", "-RRB-", "we", "were", "able", "to", "pull", "up", "to", "a", "Meineke", "before", "they", "closed", "up", "."], "e1_text": "pull", "e1_pos": 23, "e2_text": "closed", "e2_pos": 30, "label": "before"},
+{"tokens": ["The", "guy", "who", "worked", "on", "my", "car", "even", "told", "me", "he", "did", "a", "full", "inspection", "before", "giving", "it", "back", "to", "us", ".", "."], "e1_text": "did", "e1_pos": 11, "e2_text": "giving", "e2_pos": 16, "label": "before"}
+]

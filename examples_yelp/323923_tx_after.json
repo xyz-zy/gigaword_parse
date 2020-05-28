@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "have", "plenty", "of", "time", "while", "in", "line", "to", "pick", "out", "what", "you", "'d", "like", "and", "after", "ordering", "at", "the", "counter", "-LRB-", "and", "probably", "impulse", "buying", "many", "pastries", "-RRB-", "you", "grab", "a", "seat", "and", "put", "a", "number", "up", "to", "identify", "your", "order", "."], "e1_text": "pick", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 17, "label": "after"}
+]

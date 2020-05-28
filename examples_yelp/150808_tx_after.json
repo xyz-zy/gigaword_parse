@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "it", "'s", "also", "not", "fair", "that", "I", "was", "served", "after", "the", "pizza", "was", "delivered", ",", "and", "then", "I", "waited", "in", "line", "for", "several", "minutes", "."], "e1_text": "served", "e1_pos": 9, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["Maybe", "it", "was", "n't", "very", "good", "because", "it", "had", "been", "sitting", "out", "for", "5", "or", "10", "minutes", "after", "being", "delivered", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

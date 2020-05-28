@@ -1,0 +1,5 @@
+[
+{"tokens": ["35", "minutes", "for", "a", "cold", "sandwich", "is", "a", "little", "extreme", "though", ",", "especially", "considering", "my", "friend", "who", "ordered", "her", "hot", "sandwich", "at", "the", "same", "time", "as", "I", "got", "hers", "about", "20", "minutes", "before", "I", "did", "."], "e1_text": "got", "e1_pos": 27, "e2_text": "did", "e2_pos": 34, "label": "before"},
+{"tokens": ["Then", "made", "my", "sandwich", "but", "threw", "it", "out", "before", "even", "offering", "it", "to", "me", "as", "they", "made", "it", "wrong", "."], "e1_text": "threw", "e1_pos": 5, "e2_text": "offering", "e2_pos": 10, "label": "before"},
+{"tokens": ["And", "then", ",", "when", "I", "finally", "did", "receive", "it", ",", "it", "looked", "completely", "different", "than", "it", "had", "the", "day", "before", ",", "even", "though", "I", "ordered", "the", "same", "thing", "."], "e1_text": "looked", "e1_pos": 11, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

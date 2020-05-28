@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "part", "that", "really", "got", "me", "was", "that", "we", "waited", "20", "minutes", "after", "ordering", "for", "our", "food", "to", "come", "out", "-LRB-", "thanks", "again", "to", "the", "time", "on", "the", "receipt", "for", "helping", "me", "track", "this", "one", "-RRB-", "."], "e1_text": "waited", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 13, "label": "after"}
+]

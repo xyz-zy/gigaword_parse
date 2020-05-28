@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "not", "receive", "one", "greeting", "from", "the", "employees", "working", ",", "after", "a", "few", "minutes", "one", "finally", "said", "''", "``", "what", "can", "I", "help", "you", "find", "?", "''", "''"], "e1_text": "working", "e1_pos": 9, "e2_text": "said", "e2_pos": 17, "label": "after"}
+]

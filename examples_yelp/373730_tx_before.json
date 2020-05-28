@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "told", "the", "cashier", "to", "always", "ask", "if", "they", "have", "the", "credit", "card", "app", "before", "she", "starts", "to", "ring", "them", "up", ",", "especially", "on", "a", "busy", "day", "like", "Saturday", "."], "e1_text": "have", "e1_pos": 9, "e2_text": "starts", "e2_pos": 16, "label": "before"}
+]

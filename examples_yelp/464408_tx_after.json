@@ -1,0 +1,4 @@
+[
+{"tokens": ["Dear", "Lana", ",", "First", "of", "all", ",", "your", "hotel", "never", "called", "the", "cops", "after", "the", "incident", "occurred", "."], "e1_text": "called", "e1_pos": 10, "e2_text": "occurred", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "can", "only", "imagine", "how", "long", "our", "door", "stayed", "open", "like", "that", "after", "the", "incident", "occured", "."], "e1_text": "stayed", "e1_pos": 8, "e2_text": "occured", "e2_pos": 15, "label": "after"}
+]

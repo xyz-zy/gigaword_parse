@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "our", "waiter", "finally", "showed", "up", "to", "the", "section", ",", "he", "basically", "got", "to", "EVERYBODY", "else", "before", "making", "his", "way", "to", "our", "table", "."], "e1_text": "EVERYBODY", "e1_pos": 14, "e2_text": "making", "e2_pos": 17, "label": "before"},
+{"tokens": ["Other", "people", "got", "their", "drinks", "before", "we", "were", "even", "greeted", "by", "him", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "before"}
+]

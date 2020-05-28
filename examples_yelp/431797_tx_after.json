@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "pretty", "sure", "that", "he", "loved", "the", "wings", "so", "much", "because", "he", "used", "to", "eat", "them", "after", "all", "the", "beer", "he", "drank", "dulled", "his", "senses", "."], "e1_text": "eat", "e1_pos": 15, "e2_text": "drank", "e2_pos": 22, "label": "after"}
+]

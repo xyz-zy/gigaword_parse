@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "said", ",", "maybe", "after", "I", "eat", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "eat", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "laughed", "and", "said", ",", "honey", "all", "I", "see", "is", "liquor", "and", "I", "may", "need", "some", "of", "that", "after", "I", "eat", "."], "e1_text": "need", "e1_pos": 14, "e2_text": "eat", "e2_pos": 20, "label": "after"}
+]

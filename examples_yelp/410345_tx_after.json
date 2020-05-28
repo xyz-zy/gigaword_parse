@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "recently", "we", "feel", "like", "we", "were", "duped", "after", "we", "brought", "one", "of", "our", "vehicles", "in", "to", "have", "the", "A\\/C", "checked", "out", "due", "to", "it", "blowing", "warm", "air", "."], "e1_text": "duped", "e1_pos": 8, "e2_text": "brought", "e2_pos": 11, "label": "after"},
+{"tokens": ["Now", "I", "question", "whether", "our", "vehicle", "really", "needed", "that", "new", "head", "gasket", "awhile", "back", "after", "we", "were", "told", "it", "was", "blown", "and", "then", "coughed", "up", "almost", "2", "g", "'s", "for", ",", "but", "yet", "our", "vehicle", "other", "than", "idling", "rough", "showed", "no", "other", "trouble", "signs", "and", "the", "removed", "head", "gasket", "looked", "pristine", "when", "it", "was", "shown", "to", "us", "."], "e1_text": "needed", "e1_pos": 7, "e2_text": "were", "e2_pos": 16, "label": "after"}
+]

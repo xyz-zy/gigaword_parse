@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "friend", "asked", "our", "server", "if", "there", "were", "any", "other", "menu", "items", "not", "available", "so", "that", "we", "would", "know", "before", "ordering", ",", "our", "server", "gave", "us", "attitude", ",", "instead", "of", "politely", "apologizing", "for", "being", "out", "of", "an", "item", "or", "offering", "other", "suggestions", "."], "e1_text": "know", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 21, "label": "before"}
+]

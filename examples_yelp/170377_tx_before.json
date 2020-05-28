@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "thing", "that", "sucked", "is", "we", "had", "to", "drive", "around", "the", "hotel", "four", "times", "before", "we", "finally", "found", "the", "self-parking", "."], "e1_text": "drive", "e1_pos": 8, "e2_text": "found", "e2_pos": 17, "label": "before"},
+{"tokens": ["Then", "once", "we", "actually", "found", "it", ",", "we", "had", "to", "drive", "around", "for", "another", "30", "mins", "before", "a", "parking", "spot", "finally", "opened", "up", "."], "e1_text": "drive", "e1_pos": 10, "e2_text": "opened", "e2_pos": 21, "label": "before"}
+]

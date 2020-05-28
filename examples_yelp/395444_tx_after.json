@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walk", "in", "-LRB-", "after", "a", "20", "minute", "drive", "just", "to", "get", "there", "-RRB-", "a", "guy", "puts", "on", "gloves", "and", "just", "stares", "at", "us", ",", "he", "'s", "rolling", "his", "eyes", "and", "huffing", "."], "e1_text": "walk", "e1_pos": 1, "e2_text": "drive", "e2_pos": 8, "label": "after"}
+]

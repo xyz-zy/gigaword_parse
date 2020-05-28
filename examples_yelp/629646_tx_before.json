@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "before", "attending", "the", "Eric", "Church", "concert", "but", "def", "missed", "the", "reviews", "about", "the", "time", "the", "show", "actually", "starts", "-", "wish", "we", "would", "of", "known", "exactly", "when", "he", "was", "going", "to", "perform", "-", "we", "could", "of", "spent", "more", "time", "not", "being", "in", "line", "or", "waiting", "around", "for", "the", "show", "to", "start", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "attending", "e2_pos": 5, "label": "before"}
+]

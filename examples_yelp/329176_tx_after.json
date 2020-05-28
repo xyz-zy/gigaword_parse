@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "well-dressed", "European", "couple", "who", "were", "infront", "of", "us", "in", "line", "got", "denied", "entry", "after", "waiting", "one", "hour", "in", "line", ".", "."], "e1_text": "denied", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["And", "yet", "we", "waited", ",", "I", "did", "n't", "want", "to", "leave", "after", "waiting", "this", "much", "in", "line", "."], "e1_text": "leave", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "was", "ok", "...", "i", "could", "'ve", "made", "it", "myself", "i", "think", "...", "The", "service", "was", "good", "but", "slow", "...", "we", "were", "done", "with", "our", "appetizer", "for", "about", "five", "minutes", "before", "the", "waiter", "came", "by", "again", "to", "take", "our", "order", "for", "the", "entree", "."], "e1_text": "done", "e1_pos": 22, "e2_text": "came", "e2_pos": 33, "label": "before"}
+]

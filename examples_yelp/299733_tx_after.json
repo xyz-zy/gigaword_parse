@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "speaking", "to", "him", "he", "told", "me", "where", "I", "could", "wait", "-", "I", "had", "been", "present", "at", "the", "bar", "enjoying", "a", "beer", "after", "waiting", "for", "over", "an", "hour", "."], "e1_text": "enjoying", "e1_pos": 19, "e2_text": "waiting", "e2_pos": 23, "label": "after"}
+]

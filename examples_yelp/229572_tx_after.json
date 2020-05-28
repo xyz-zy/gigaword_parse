@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "was", "our", "server", "slow", "but", "our", "water", "glasses", "were", "only", "refilled", "after", "we", "asked", "and", "the", "same", "went", "with", "our", "cocktails", "and", "wine", "."], "e1_text": "refilled", "e1_pos": 12, "e2_text": "asked", "e2_pos": 15, "label": "after"}
+]

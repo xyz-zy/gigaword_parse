@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "other", "reviewers", "have", "noted", ",", "rather", "than", "politely", "helping", "customers", "realize", "this", ",", "you", "can", "get", "rudely", "asked", "to", "sit", "down", "before", "ordering", "your", "drink", "-", "although", "sometimes", "when", "it", "'s", "busy", "you", "CAN", "order", "from", "the", "bar", "but", "no", "one", "tells", "you", "this", "whilst", "you", "sit", "for", "an", "age", "without", "a", "drink", "."], "e1_text": "sit", "e1_pos": 20, "e2_text": "ordering", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "to", "Centurion", "after", "buying", "a", "Google", "Offer", "for", "the", "place", "--", "$", "50", "for", "$", "100", "off", "the", "bill", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "buying", "e2_pos": 5, "label": "after"},
+{"tokens": ["Having", "arrived", "30", "minutes", "after", "they", "opened", ",", "we", "got", "there", "just", "in", "time", "to", "have", "the", "last", "one", "!"], "e1_text": "arrived", "e1_pos": 1, "e2_text": "opened", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "greeted", "with", "a", "fist", "bump", "before", "I", "placed", "my", "order", "...", "that", "was", "fun", "!"], "e1_text": "greeted", "e1_pos": 2, "e2_text": "placed", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "plan", "was", "to", "take", "them", "home", "and", "share", "one", "with", "my", "hubby", "but", "that", "fell", "through", "because", "I", "ate", "them", "before", "he", "got", "home", "."], "e1_text": "ate", "e1_pos": 19, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

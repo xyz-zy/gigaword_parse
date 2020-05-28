@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "first", "visited", "this", "Spicy", "Pickle", "location", "shortly", "after", "they", "opened", ",", "and", "experienced", "a", "VERY", "long", "wait", "time", "-LRB-", "10", "minutes", "-RRB-", "for", "a", "simple", "panini", "that", "was", "n't", "nearly", "toasted", "enough", "and", "a", "side", "of", "pasta", "salad", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "opened", "e2_pos": 10, "label": "after"}
+]

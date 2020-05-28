@@ -1,0 +1,4 @@
+[
+{"tokens": ["Understandable", "if", "I", "was", "violent", "but", "getting", "kicked", "out", "for", "getting", "hugs", "and", "crying", "for", "being", "emotional", "from", "wedding", "planning", "after", "only", "being", "in", "the", "club", "for", "30", "minutes", "stupid", "."], "e1_text": "being", "e1_pos": 15, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["Oh", "and", "I", "also", "spent", "$", "3000", "for", "VIP", "...", "To", "get", "kicked", "out", "after", "30", "minutes", "for", "being", "emotional", "!"], "e1_text": "kicked", "e1_pos": 12, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

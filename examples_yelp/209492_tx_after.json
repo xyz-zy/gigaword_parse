@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "never", "even", "said", "Happy", "Birthday", "after", "we", "told", "him", "it", "was", "my", "mom", "'s", "bday", "and", "she", "was", "even", "opening", "presents", "-LRB-", "Bday", "celebration", "was", "pretty", "obvious", "-RRB-", "."], "e1_text": "said", "e1_pos": 4, "e2_text": "told", "e2_pos": 9, "label": "after"}
+]

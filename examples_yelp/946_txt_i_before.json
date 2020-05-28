@@ -1,0 +1,4 @@
+[
+{"tokens": ["See", ",", "as", "Julina", "below", "says", ",", "it", "'s", "close", "to", "Frick", "Park", "and", "it", "'s", "a", "wonderful", "place", "to", "pick", "up", "sandwiches", ",", "pop", ",", "or", "picnic", "supplies", "before", "going", "over", "there", "."], "e1_text": "pick", "e1_pos": 20, "e2_text": "going", "e2_pos": 30, "label": "before"},
+{"tokens": ["It", "'s", "also", "a", "great", "place", "to", "sit", "outside", "with", "a", "cup", "of", "coffee", "or", "a", "cold", "drink", "or", "snack", "before", "going", "over", "to", "the", "Frick", "Mansion", "."], "e1_text": "sit", "e1_pos": 7, "e2_text": "going", "e2_pos": 21, "label": "before"}
+]

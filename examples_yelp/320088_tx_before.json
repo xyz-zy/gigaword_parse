@@ -1,0 +1,4 @@
+[
+{"tokens": ["Despite", "ordering", "15-20", "minutes", "before", "I", "even", "jaunt", "on", "over", "there", "for", "pick", "up", ",", "half", "the", "time", "they", "forget", "to", "put", "my", "order", "in", ",", "and", "the", "other", "half", "of", "the", "time", "something", "happens", "in", "the", "kitchen", "and", "it", "has", "to", "be", "completely", "remade", "."], "e1_text": "ordering", "e1_pos": 1, "e2_text": "jaunt", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "appreciate", "the", "quality", "checks", "the", "staff", "makes", "before", "handing", "my", "order", "over", "to", "me", ",", "but", "I", "'m", "starving", "."], "e1_text": "makes", "e1_pos": 7, "e2_text": "handing", "e2_pos": 9, "label": "before"}
+]

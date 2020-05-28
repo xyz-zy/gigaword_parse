@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "getting", "our", "fish", ",", "i", "kid", "you", "not", "it", "was", "40", "min", "before", "our", "waitress", "even", "stopped", "back", "needless", "to", "say", "we", "had", "been", "waiting", "and", "trying", "to", "ask", "her", "for", "fish", "for", "20min", "at", "least", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "stopped", "e2_pos": 17, "label": "before"}
+]

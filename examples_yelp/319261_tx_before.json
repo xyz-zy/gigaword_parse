@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "employee", "took", "about", "two", "more", "minutes", "to", "finish", "the", "package", "he", "had", "been", "working", "on", "before", "actually", "helping", "me", "with", "my", "purchase", "."], "e1_text": "working", "e1_pos": 14, "e2_text": "helping", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "might", "be", "okay", "for", "young", "20-somethings", ",", "out", "to", "get", "smashed", "on", "$", "3", "Happy", "Hour", "beers", "before", "heading", "over", "to", "the", "next", "mall", "bar", "across", "the", "parking", "lot", ",", "but", "it", "'s", "no", "good", "for", "elderly", "30-year-olds", ",", "intent", "on", "dinner", "conversation", "."], "e1_text": "smashed", "e1_pos": 11, "e2_text": "heading", "e2_pos": 19, "label": "before"},
+{"tokens": ["After", "a", "2", "hour", "wait", "-LRB-", "and", "our", "party", "had", "actually", "arrived", "before", "we", "joined", "them", "-RRB-", ",", "we", "two", "stepped", "over", "to", "a", "restaurant", "where", "we", "could", "actually", "sit", "down", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "joined", "e2_pos": 14, "label": "before"}
+]

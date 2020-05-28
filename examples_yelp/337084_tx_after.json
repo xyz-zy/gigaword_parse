@@ -1,0 +1,4 @@
+[
+{"tokens": ["...", "ended", "up", "here", "after", "doing", "a", "hike\\/walk", "around", "McGill", "U.", "Was", "n't", "my", "first", "choice", ",", "but", "my", "friends", "were", "already", "seated", "and", "had", "ordered", "by", "the", "time", "I", "showed", "up", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "doing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Charcuterie", "-", "adequate", "Flammekueches", "-", "decent", "-LRB-", "flat", "bread", "pizza", "-", "very", "thin", "crust", "-RRB-", "Pork", "shank", ",", "sausage", ",", "ham", "combo", "-", "in", "the", "words", "of", "Anthony", "Bourdain", "-", "definitely", "a", "dish", "to", "make", "you", "feel", "funky", "fresh", "-LRB-", "do", "n't", "plan", "on", "moving", "much", "after", "consuming", "this", "-RRB-", "Beers", "abound", "-", "go", "here", "for", "a", "drink", "."], "e1_text": "moving", "e1_pos": 44, "e2_text": "consuming", "e2_pos": 47, "label": "after"}
+]

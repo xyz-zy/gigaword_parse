@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "'s", "a", "tip", ":", "do", "n't", "come", "here", "on", "a", "Friday", "afternoon", "on", "payday", ",", "because", "everybody", "and", "their", "mother", "will", "come", "here", "to", "buy", "new", "tires", "after", "depositing", "their", "checks", "!"], "e1_text": "buy", "e1_pos": 25, "e2_text": "depositing", "e2_pos": 29, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["During", "my", "one", "day", "stay", "in", "Vegas", "for", "business", "and", "personal", ",", "my", "sister", "and", "her", "hubby", "took", "me", "here", "after", "they", "picked", "me", "up", "at", "the", "airport", "."], "e1_text": "took", "e1_pos": 17, "e2_text": "picked", "e2_pos": 22, "label": "after"}
+]

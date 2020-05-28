@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thought", "it", "was", "a", "universal", "rule", "that", "the", "day", "of", "checkout", "you", "do", "n't", "clean", "the", "room", "until", "after", "the", "people", ",", "well", ",", "checked", "out", "...", "and", "who", "wakes", "people", "up", "in", "Vegas", "at", "9am", "anyway", "?!!!", "We", "love", "Vegas", "and", "are", "definitely", "planning", "on", "spending", "more", "cash", ".", "."], "e1_text": "clean", "e1_pos": 15, "e2_text": "checked", "e2_pos": 25, "label": "after"}
+]

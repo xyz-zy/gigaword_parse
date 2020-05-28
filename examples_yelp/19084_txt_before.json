@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "n't", "like", "there", "is", "someplace", "next", "door", "you", "can", "grab", "one", "before", "you", "come", "in", "and", "sometimes", "you", "just", "want", "to", "start", "a", "nice", "meal", "with", "a", "little", "aperitif", "."], "e1_text": "grab", "e1_pos": 11, "e2_text": "come", "e2_pos": 15, "label": "before"}
+]

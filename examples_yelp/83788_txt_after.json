@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "they", "are", "across", "the", "street", "in", "a", "smaller", "strip", "mall", ",", "with", "what", "appears", "to", "be", "a", "bit", "larger", "space", ",", "where", "they", "have", "lost", "the", "friendly", ",", "divey", "feel", "-", "and", "the", "smoke-filled", "sensation", "as", "well", ",", "since", "they", "moved", "after", "the", "smoking", "ban", "took", "effect", "-", "and", "they", "gained", "a", "place", "that", "is", "a", "bit", "more", "difficult", "to", "get", "into", "."], "e1_text": "moved", "e1_pos": 41, "e2_text": "took", "e2_pos": 46, "label": "after"}
+]

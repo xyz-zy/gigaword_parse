@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "friend", "suggested", "to", "come", "early", "Sat", "at", "11am", ",", "to", "get", "a", "table", "before", "it", "quickly", "fills", "up", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "fills", "e2_pos": 17, "label": "before"},
+{"tokens": ["Said", "the", "flavor", "was", "better", "than", "others", "that", "he", "have", "tried", "before", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

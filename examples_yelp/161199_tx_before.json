@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "stayed", "at", "a", "few", "''", "``", "Hilton", "'s", "''", "''", "over", "the", "years", "and", "many", "casinos", "in", "Vegas", "but", "had", "never", "stayed", "here", "before", "but", "my", "wife", "and", "I", "wanted", "to", "try", "something", "new", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "wanted", "e2_pos": 31, "label": "before"}
+]

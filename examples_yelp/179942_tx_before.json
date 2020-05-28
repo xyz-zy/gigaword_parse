@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "almost", "wish", "one", "of", "us", "punched", "him", "so", "we", "would", "'ve", "had", "a", "valid", "reason", "to", "leave", "Kim", "'s", "bday", "before", "we", "even", "got", "to", "see", "her", "...", "But", "we", "left", "the", "main", "floor", "and", "checked", "out", "the", "other", "areas", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "got", "e2_pos": 24, "label": "before"},
+{"tokens": ["We", "eventually", "left", ",", "before", "Kim", "got", "in", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "got", "e2_pos": 6, "label": "before"}
+]

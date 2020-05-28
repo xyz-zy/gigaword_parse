@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "drink", "was", "empty", "the", "entire", "meal", "and", "the", "server", "never", "paid", "any", "attention", "to", "our", "table", "and", "instead", "was", "chatting", "with", "her", "co-workers", "in", "the", "bar", "displease", "with", "the", "service", "that", "was", "displayed", "before", "we", "even", "got", "the", "appetizer", "."], "e1_text": "displayed", "e1_pos": 33, "e2_text": "got", "e2_pos": 37, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "seated", "outside", "and", "checked", "out", "the", "menu", "and", "happy", "hour", "specials", "before", "deciding", "on", "Stella", "-LRB-", "1st", "choice", "listed", "on", "happy", "hour", "menu", "was", "OUT", "?!?!", "-RRB-", ",", "a", "chardonnay", ",", "and", "the", "hummus", "plate", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "deciding", "e2_pos": 14, "label": "before"}
+]

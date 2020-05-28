@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "Meineke", "first", "to", "have", "my", "brakes", "checked", "for", "the", "squealing", "noise", "and", "they", "told", "me", "it", "was", "just", "brake", "dust", "...", "so", "I", "went", "with", "it", "...", "but", "the", "sound", "returned", "after", "20", "minutes", "of", "driving", "the", "car", "...", "I", "went", "back", "and", "they", "gave", "me", "some", "line", "about", "how", "my", "brake", "pads", "are", "n't", "compatible", "with", "the", "Nevada", "weather", "because", "I", "got", "them", "in", "Connecticut", "...", "and", "that", "it", "could", "not", "be", "fixed", "...", "clearly", "full", "of", "crap", "."], "e1_text": "returned", "e1_pos": 33, "e2_text": "driving", "e2_pos": 38, "label": "after"}
+]

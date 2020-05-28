@@ -1,0 +1,6 @@
+[
+{"tokens": ["After", "I", "got", "my", "drink", "at", "least", "10", "minutes", "passed", "before", "she", "came", "back", "&", "asked", "everyone", "else", "if", "they", "wanted", "a", "drink", "."], "e1_text": "passed", "e1_pos": 9, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["WELL", ",", "we", "were", "told", "bread", "was", "$", "1", "a", "loaf", "unless", "we", "ordered", "food", "&", "then", "it", "would", "come", "with", "our", "dinner", ",", "REALLY", "???", "Almost", "15", "more", "minutes", "passed", "before", "she", "came", "back", "&", "asked", "if", "we", "were", "ready", "to", "order", "."], "e1_text": "passed", "e1_pos": 30, "e2_text": "came", "e2_pos": 33, "label": "before"},
+{"tokens": ["The", "bread", "finally", "came", "just", "before", "the", "food", "came", "out", "&", "the", "next", "disaster", "began", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "came", "e2_pos": 3, "label": "before"},
+{"tokens": ["Finally", "at", "the", "end", "my", "sister", "who", "I", "guess", "has", "been", "here", "been", "her", "before", "asked", "the", "two", "servers", "who", "owned", "this", "place", "&", "what", "was", "the", "issue", "."], "e1_text": "been", "e1_pos": 10, "e2_text": "asked", "e2_pos": 15, "label": "before"}
+]

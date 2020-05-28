@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "one", "cup", "for", "water", "for", "my", "daughter", "and", "they", "told", "me", "there", "are", "out", "-LRB-", "after", "I", "paid", "for", "four", "cups", "for", "sodas", "-RRB-", ",", "I", "still", "insisted", "on", "a", "cup", ",", "then", "they", "offered", "one", "but", "$", ".69", ",", "after", "paying", "almost", "$", "50.00", "."], "e1_text": "told", "e1_pos": 11, "e2_text": "paid", "e2_pos": 19, "label": "after"}
+]

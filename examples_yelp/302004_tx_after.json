@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "was", "rude", "when", "I", "asked", "her", "how", "much", "longer", "our", "appetizer", "was", "going", "to", "take", "-LRB-", "almost", "20", "min", "after", "I", "had", "ordered", "it", "-RRB-", "saying", "that", "they", "had", "new", "cooks", "in", "the", "kitchen", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 23, "label": "after"}
+]

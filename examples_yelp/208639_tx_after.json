@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "strawberry", "and", "coconut", "flavors", "were", "epic", ",", "and", "I", "remember", "tasting", "them", "again", "later", "in", "the", "evening", "after", "I", "had", "burped", "."], "e1_text": "remember", "e1_pos": 10, "e2_text": "had", "e2_pos": 20, "label": "after"},
+{"tokens": ["Our", "waiter", "was", "terrible", "-", "we", "had", "to", "call", "him", "out", "after", "he", "passed", "us", "multiple", "times", "for", "our", "drink", "orders", "-LRB-", "non-alcoholic", "-RRB-", ",", "and", "I", "swore", "that", "our", "plates", "of", "crab", "shells", "were", "uncomfortably", "piling", "up", "!"], "e1_text": "had", "e1_pos": 6, "e2_text": "passed", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "after", "the", "waiter", "asked", "us", "if", "we", "wanted", "to", "order", ",", "owner\\/manager", "came", "and", "told", "us", "that", "there", "is", "such", "a", "minimum", "and", "thats", "why", "they", "provided", "buffet", "-LRB-", "kind", "of", "telling", "us", "we", "cant", "afford", "15", "$", "per", "head", "luxury", "of", "ordering", "from", "menu", "-RRB-", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "asked", "e2_pos": 5, "label": "after"}
+]

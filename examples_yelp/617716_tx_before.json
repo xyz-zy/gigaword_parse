@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", "have", "issues", "with", "getting", "my", "table", "bussed", ",", "usually", "plates", "pile", "up", "before", "someone", "comes", "and", "clears", "them", "."], "e1_text": "pile", "e1_pos": 11, "e2_text": "comes", "e2_pos": 15, "label": "before"},
+{"tokens": ["Also", "they", "'ll", "take", "your", "silverware", "before", "you", "'re", "even", "done", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "'re", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "when", "I", "ordered", "after", "them", "and", "2", "scoops", ",", "he", "wanted", "to", "put", "it", "in", "a", "Large", "and", "charge", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "scoops", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "guy", "'s", "attitude", "was", "so", "surly", "after", "questioning", "him", ",", "I", "really", "did", "n't", "even", "enjoy", "my", "gelato", "after", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "questioning", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "never", "been", "to", "a", "restaurant", "that", "when", "I", "made", "reservations", ",", "I", "still", "had", "to", "wait", "1", "hour", "before", "being", "seated", "."], "e1_text": "wait", "e1_pos": 17, "e2_text": "being", "e2_pos": 21, "label": "before"}
+]

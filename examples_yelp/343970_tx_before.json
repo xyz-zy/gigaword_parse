@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "ice", "cream", "professional", "behind", "the", "counter", "then", "mixes", "them", "all", "together", "in", "front", "of", "you", "before", "handing", "you", "your", "frozen", "treat", "in", "either", "a", "bowl", "or", "waffle", "cone", "."], "e1_text": "mixes", "e1_pos": 8, "e2_text": "handing", "e2_pos": 17, "label": "before"}
+]

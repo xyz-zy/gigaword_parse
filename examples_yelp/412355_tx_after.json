@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "lost", "half", "our", "party", "after", "they", "got", "turned", "off", "by", "Gold", "."], "e1_text": "lost", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "think", "they", "got", "that", "feeling", "because", "we", "got", "kicked", "out", "of", "VIP", "after", "a", "few", "songs", ",", "LOL", ",", "ok", "...", "Because", "it", "makes", "total", "sense", "to", "invite", "a", "group", "and", "then", "uninvite", "them", ",", "right", "?"], "e1_text": "kicked", "e1_pos": 9, "e2_text": "ok", "e2_pos": 20, "label": "after"}
+]

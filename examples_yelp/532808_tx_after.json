@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "witnessed", "two", "couples", "leave", "--", "one", "when", "they", "were", "ignored", "and", "never", "got", "seated", "and", "the", "other", "after", "examining", "the", "menu", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "examining", "e2_pos": 19, "label": "after"},
+{"tokens": ["Also", "a", "family", "of", "three", "left", "after", "being", "served", "water", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

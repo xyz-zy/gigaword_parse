@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "she", "forgot", "all", "about", "getting", "a", "cup", "of", "coffee", ",", "walked", "by", "us", "several", "times", "at", "the", "end", "of", "the", "counter", "before", "we", "finally", "had", "to", "stop", "her", "and", "ask", "about", "the", "coffee", "."], "e1_text": "walked", "e1_pos": 11, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "kept", "apologizing", "for", "how", "slow", "the", "service", "is", "-LRB-", "clearly", "a", "bad", "sign", "-RRB-", "and", "in", "the", "end", "we", "just", "gave", "the", "bill", "to", "the", "bus", "boy", "after", "waiting", "forever", "for", "our", "waiter", "."], "e1_text": "gave", "e1_pos": 22, "e2_text": "waiting", "e2_pos": 30, "label": "after"}
+]

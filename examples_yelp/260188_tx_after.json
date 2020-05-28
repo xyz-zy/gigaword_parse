@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "so", "it", "was", "for", "about", "a", "day", "or", "two", "after", "we", "moved", "in", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "moved", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "end", "of", "our", "troubled", "stay", "was", "celebrated", "with", "the", "washing", "machine", "flooding", "the", "whole", "apartment", "and", "a", "carpet", "replacement", "company", "leaving", "the", "place", "in", "complete", "disarray", "after", "the", "new", "carpet", "was", "installed", "."], "e1_text": "leaving", "e1_pos": 21, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

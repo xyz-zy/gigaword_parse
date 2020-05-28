@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "there", "about", "two", "week", "ago", "to", "show", "my", "friend", "what", "I", "thought", "was", "going", "to", "be", "a", "cool", "candy", "store", "but", "after", "what", "i", "saw", "I", "'m", "never", "going", "back", "."], "e1_text": "thought", "e1_pos": 14, "e2_text": "saw", "e2_pos": 27, "label": "after"},
+{"tokens": ["It", "was", "a", "little", "busy", "when", "I", "went", "in", "but", "after", "seeing", "three", "kids", "lick", "the", "scooper", "and", "put", "them", "in", "the", "candy", "jar", "and", "lick", "them", "again", "I", "could", "n't", "stay", "there", "another", "second", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 11, "label": "after"}
+]

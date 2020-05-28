@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "think", "the", "glass", "keeps", "the", "coffee", "hot", "as", "long", "as", "ceramic", "-", "which", "was", "unfortunate", ",", "because", "after", "ordering", "our", "food", ",", "we", "did", "n't", "see", "the", "waitress", "again", "until", "after", "our", "food", "was", "delivered", "by", "another", "waiter", "."], "e1_text": "keeps", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 21, "label": "after"},
+{"tokens": ["By", "the", "time", "our", "food", "had", "arrived", ",", "we", "decided", "we", "wanted", "to", "try", "the", "bloody", "mary", "after", "reading", "Andrea", "S", "'s", "review", "below", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "reading", "e2_pos": 18, "label": "after"}
+]

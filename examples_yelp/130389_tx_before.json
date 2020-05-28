@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "realized", "this", "before", "booking", "a", "room", "there", "through", "Orbitz", "."], "e1_text": "realized", "e1_pos": 4, "e2_text": "booking", "e2_pos": 7, "label": "before"},
+{"tokens": ["It", "'s", "my", "own", "fault", "for", "not", "understanding", "the", "room", "situation", "before", "I", "booked", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "booked", "e2_pos": 13, "label": "before"}
+]

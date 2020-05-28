@@ -1,0 +1,3 @@
+[
+{"tokens": ["TRUE", "-", "It", "took", "your", "waiter", "about", "10", "minutes", "to", "acknowledge", "your", "existence", "after", "being", "seated", ",", "even", "though", "the", "restaurant", "was", "n't", "very", "crowded", "."], "e1_text": "acknowledge", "e1_pos": 10, "e2_text": "being", "e2_pos": 14, "label": "after"}
+]

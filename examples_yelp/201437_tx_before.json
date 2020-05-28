@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "over", "before", "you", "even", "have", "a", "chance", "to", "get", "into", "it", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "have", "e2_pos": 6, "label": "before"},
+{"tokens": ["That", "'s", "unless", "you", "need", "one", "more", "thing", "to", "tip", "you", "off", "before", "committing", "suicide", "."], "e1_text": "tip", "e1_pos": 9, "e2_text": "committing", "e2_pos": 13, "label": "before"}
+]

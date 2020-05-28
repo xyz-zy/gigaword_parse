@@ -1,0 +1,3 @@
+[
+{"tokens": ["Despite", "having", "two", "servers", "we", "still", "waited", "almost", "15", "min", "before", "having", "our", "drink", "order", "taken", "and", "there", "was", "definitely", "an", "air", "of", "disappointment", "when", "we", "did", "n't", "order", "apps", ",", "two", "entrees", "and", "dessert", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "having", "e2_pos": 1, "label": "before"}
+]

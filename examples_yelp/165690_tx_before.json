@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "there", "is", "a", "pool", "available", ",", "it", "is", "so", "far", "away", ",", "and", "down", "so", "many", "corridors", ",", "you", "will", "give", "up", "before", "you", "get", "there", "."], "e1_text": "give", "e1_pos": 21, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

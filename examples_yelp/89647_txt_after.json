@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upset", ",", "we", "left", "hoping", "that", "we", "would", "be", "satisfied", "one", "week", "after", "purchasing", "the", "car", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "purchasing", "e2_pos": 13, "label": "after"},
+{"tokens": ["He", "could", "n't", "understand", "why", "we", "did", "n't", "want", "to", "wait", "a", "week", "to", "pick", "up", "a", "car", "we", "had", "already", "made", "a", "deposit", "on", "after", "it", "being", "unacceptable", "."], "e1_text": "made", "e1_pos": 21, "e2_text": "being", "e2_pos": 27, "label": "after"}
+]

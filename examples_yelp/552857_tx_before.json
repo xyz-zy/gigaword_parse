@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "liked", "the", "sample", "before", "you", "decide", "option", "."], "e1_text": "liked", "e1_pos": 1, "e2_text": "decide", "e2_pos": 6, "label": "before"},
+{"tokens": ["You", "come", "in", "and", "if", "this", "is", "your", "first", "time", "they", "allow", "you", "to", "sample", "a", "few", "of", "the", "meats", "before", "you", "decide", "."], "e1_text": "sample", "e1_pos": 14, "e2_text": "decide", "e2_pos": 22, "label": "before"},
+{"tokens": ["Great", "opportunity", "to", "taste", "before", "you", "order", "."], "e1_text": "taste", "e1_pos": 3, "e2_text": "order", "e2_pos": 6, "label": "before"}
+]

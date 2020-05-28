@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "for", "Christmas", "dinner", "finally", "after", "numerous", "trips", "to", "vegas", "and", "saying", "''", "``", "I", "want", "to", "go", "there", "!!", "''", "''", "Well", "I", "finally", "went", "and", "it", "was", "great", "food", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "went", "e2_pos": 26, "label": "after"},
+{"tokens": ["We", "ordered", "the", "cheese", "plate", "for", "appetizer", "and", "it", "was", "to", "die", "for", ",", "especially", "with", "the", "fresh", "baked", "baguette", "that", "they", "kept", "brining", "to", "my", "table", "after", "we", "fell", "in", "love", "with", "it", "."], "e1_text": "kept", "e1_pos": 22, "e2_text": "fell", "e2_pos": 29, "label": "after"}
+]

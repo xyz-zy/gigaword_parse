@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "shouted", "at", "us", "to", "come", "and", "pickup", "the", "pizzas", "after", "they", "had", "been", "reheated", ",", "In", "my", "stupidity", "I", "had", "assumed", "they", "might", "bring", "the", "slices", "out", "to", "us", "-", "esp", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "wandered", "off", "down", "the", "street", "peering", "into", "shop", "after", "shop", "that", "were", "filled", "with", "cowboy", "hats", "and", "indian", "jewellery", "."], "e1_text": "peering", "e1_pos": 6, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

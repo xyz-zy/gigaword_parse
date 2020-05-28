@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "did", "replace", "my", "sandwich", "with", "something", "else", "but", "it", "was", "n't", "until", "after", "defending", "the", "use", "of", "imitation", "crab", "and", "my", "having", "to", "say", ",", "''", "``", "I", "am", "not", "satisfied", "''", "''", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "defending", "e2_pos": 15, "label": "after"}
+]

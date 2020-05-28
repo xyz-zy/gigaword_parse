@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "wrote", "a", "review", "on", "the", "MGM", "Grand", "within", "three", "days", "after", "I", "came", "back", "from", "my", "trip", ",", "I", "would", "'ve", "given", "them", "4", "or", "5", "stars", "...", "until", "they", "overcharged", "my", "credit", "card", "account", "."], "e1_text": "wrote", "e1_pos": 2, "e2_text": "came", "e2_pos": 14, "label": "after"}
+]

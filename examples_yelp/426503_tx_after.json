@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "little", "worried", "about", "checking", "in", "early", "after", "reading", "other", "reviews", "but", "we", "luckily", "had", "no", "problem", "or", "wait", "getting", "our", "room", "at", "1", "PM", "on", "a", "Friday", "-LRB-", "and", "this", "was", "a", "Spring", "break", "weekend", "too", "-RRB-", "."], "e1_text": "checking", "e1_pos": 6, "e2_text": "reading", "e2_pos": 10, "label": "after"}
+]

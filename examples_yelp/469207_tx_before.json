@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "usually", "always", "yelp", "before", "I", "groupon", "but", "of", "course", "this", "time", "I", "did", "n't", "."], "e1_text": "yelp", "e1_pos": 3, "e2_text": "groupon", "e2_pos": 6, "label": "before"},
+{"tokens": ["When", "I", "finally", "did", "my", "research", "&", "saw", "all", "the", "negative", "reviews", ",", "I", "chalked", "it", "up", "to", "them", "being", "a", "newer", "business", "&", "figured", "I", "would", "wait", "a", "while", "for", "them", "to", "work", "out", "the", "kinks", "out", "before", "giving", "them", "a", "shot", "."], "e1_text": "work", "e1_pos": 33, "e2_text": "giving", "e2_pos": 39, "label": "before"}
+]

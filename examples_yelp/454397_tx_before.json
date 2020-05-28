@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "now", "it", "'s", "enter", ",", "turn", "left", ",", "go", "down", "small", "stairs", ",", "ignore", "first", "set", "of", "stairs", "on", "left", ",", "ignore", "second", "set", "on", "right", ",", "turn", "a", "corner", ",", "keep", "going", ",", "turn", "another", "corner", ",", "go", "to", "end", "of", "corridor", ",", "ignore", "scaffolding", ",", "go", "left", ",", "left", "again", "and", "then", "down", "the", "OTHER", "stairs", "you", "used", "to", "take", "before", "they", "blocked", "of", "Princes", "Street", "entrance", "except", "now", "that", "entrance", "is", "open", "again", "in", "case", "you", "did", "n't", "get", "the", "memo", "."], "e1_text": "take", "e1_pos": 62, "e2_text": "blocked", "e2_pos": 65, "label": "before"}
+]

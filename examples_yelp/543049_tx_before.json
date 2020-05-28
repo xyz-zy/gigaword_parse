@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "go", "to", "the", "counter", ",", "order", "your", "wrapping", "-LRB-", "Seaweed", "or", "soy", "-RRB-", ",", "and", "customize", "vegetables", ",", "meats", ",", "spices", ",", "and", "sauces", "before", "it", "'s", "wrapped", ",", "and", "then", "cut", "in", "their", "special", "multi-cutting", "machine", "."], "e1_text": "go", "e1_pos": 1, "e2_text": "'s", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "had", "to", "circle", "around", "the", "block", "twice", "before", "luck", "was", "on", "my", "side", "and", "a", "spot", "opened", "up", "."], "e1_text": "circle", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

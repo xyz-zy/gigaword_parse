@@ -1,0 +1,4 @@
+[
+{"tokens": ["Triple", "D", "dives", "are", "notoriously", "busy", "after", "being", "aired", "."], "e1_text": "are", "e1_pos": 3, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["There", "were", "a", "few", "people", "still", "seated", "from", "lunch", "and", "a", "couple", "arriving", "after", "we", "had", "been", "seated", "at", "our", "table", "."], "e1_text": "arriving", "e1_pos": 12, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

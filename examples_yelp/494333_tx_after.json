@@ -1,0 +1,4 @@
+[
+{"tokens": ["Drinks", "were", "about", "$", "14", ",", "so", "be", "warned", ",", "savor", "your", "ice", "cubes", "in", "your", "drink", "after", "the", "liquor", "is", "gone", "."], "e1_text": "savor", "e1_pos": 10, "e2_text": "is", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "threw", "up", "a", "little", "in", "my", "mouth", "after", "realizing", "my", "face", "was", "wet", "from", "drunk", "people", "'s", "pee", "and", "a", "vajayjay", "blood", "."], "e1_text": "threw", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

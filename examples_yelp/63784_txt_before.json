@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lady", "at", "counter", "placed", "order", "after", "I", "got", "there", "-", "when", "I", "told", "her", "that", "I", "called", "30", "minutes", "before", ",", "she", "said", "that", "it", "was", "the", "boss", "who", "picked", "up", "the", "phone", "so", "she", "could", "n't", "say", "anything", "to", "her", "."], "e1_text": "told", "e1_pos": 12, "e2_text": "called", "e2_pos": 16, "label": "before"}
+]

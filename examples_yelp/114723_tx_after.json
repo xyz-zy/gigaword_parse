@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "the", "second", "time", "was", "nice", "-", "a", "very", "personable", "and", "chatty", "lady", "was", "behind", "the", "counter", "and", "we", "had", "some", "nice", "conversation", "...", "very", "kind", "to", "replace", "my", "red", "beans", "and", "rice", "after", "i", "dropped", "it", "by", "saying", "good", "bye", "haha", "."], "e1_text": "replace", "e1_pos": 27, "e2_text": "dropped", "e2_pos": 35, "label": "after"}
+]

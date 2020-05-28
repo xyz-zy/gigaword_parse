@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "used", "a", "breadstick", "to", "help", "you", "visualize", "the", "size", "of", "the", "pizza", "-RRB-", "So", "I", "know", "one", "it", "was", "my", "fault", "and", "I", "should", "have", "took", "a", "better", "look", "at", "it", "before", "leaving", "but", "since", "seeing", "that", "Brenda", "was", "Employee", "of", "the", "month", "I", "did", "n't", "sec", "guess", "it", "."], "e1_text": "took", "e1_pos": 27, "e2_text": "leaving", "e2_pos": 34, "label": "before"}
+]

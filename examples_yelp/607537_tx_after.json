@@ -1,0 +1,3 @@
+[
+{"tokens": ["Was", "there", "for", "thirty", "minutes", "when", "our", "waiter", "came", "back", "-LRB-", "after", "we", "fnished", "the", "naan", "-RRB-", "and", "asked", "if", "anyone", "had", "take", "our", "order", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "fnished", "e2_pos": 13, "label": "after"}
+]

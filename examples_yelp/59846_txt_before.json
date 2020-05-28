@@ -1,0 +1,3 @@
+[
+{"tokens": ["Either", "that", "or", "paint", "the", "entire", "apartment", "before", "you", "leave", "and", "hire", "people", "to", "carpet", "clean", "for", "you", "even", "if", "our", "carpets", "are", "in", "amazing", "shape", "."], "e1_text": "paint", "e1_pos": 3, "e2_text": "leave", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "why", "you", "'d", "come", "here", "without", "kids", ",", "unless", "you", "were", "just", "in", "town", "for", "a", "short", "period", "of", "time", "and", "trying", "to", "combine", "shopping", "and", "dinner", "with", "an", "old", "friend", "before", "you", "head", "back", "to", "the", "airport", "."], "e1_text": "combine", "e1_pos": 27, "e2_text": "head", "e2_pos": 37, "label": "before"},
+{"tokens": ["You", "could", "probably", "even", "finish", "your", "overpriced", "meal", "and", "knock", "back", "a", "drink", "or", "two", "before", "the", "critters", "started", "actiing", "up", "."], "e1_text": "knock", "e1_pos": 9, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

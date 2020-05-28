@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "heading", "back", "to", "our", "hotel", "after", "watching", "The", "Lion", "King", "and", "we", "were", "both", "starving", "."], "e1_text": "heading", "e1_pos": 2, "e2_text": "watching", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "guess", "after", "having", "Pink", "'s", "nothing", "else", "compares", "but", "if", "you", "'re", "in", "need", "of", "something", "quick", "stop", "by", "Nathan", "'s", "."], "e1_text": "guess", "e1_pos": 1, "e2_text": "having", "e2_pos": 3, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "soon", "as", "you", "board", "there", "is", "an", "employee", "wanting", "to", "take", "your", "photos", ",", "so", "they", "can", "charge", "you", "ridiculious", "prices", "for", "them", "after", "you", "ride", "."], "e1_text": "charge", "e1_pos": 18, "e2_text": "ride", "e2_pos": 26, "label": "after"},
+{"tokens": ["SIt", "was", "so", "sunny", ",", "none", "of", "our", "photos", "were", "worth", "buying", "due", "to", "the", "squinting", ",", "probably", "would", "have", "urned", "out", "better", "if", "they", "positioned", "the", "photo", "taker", "elsewhere", "...", "It", "'s", "a", "pretty", "short", "ride", ",", "only", "15", "minutes", "or", "so", "...", "Our", "gondolier", "only", "sang", "one", "song", ",", "after", "we", "had", "already", "done", "under", "the", "bridge", "and", "were", "headed", "back", "."], "e1_text": "sang", "e1_pos": 47, "e2_text": "had", "e2_pos": 53, "label": "after"}
+]

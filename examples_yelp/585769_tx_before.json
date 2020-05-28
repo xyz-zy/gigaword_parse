@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "funny", "thing", "is", "that", "we", "waited", "for", "almost", "an", "hour", "for", "our", "burgers", "and", "we", "only", "got", "one", "order", "of", "fries", "before", "the", "burgers", "-LRB-", "we", "ordered", "2", "-RRB-", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 27, "label": "before"}
+]

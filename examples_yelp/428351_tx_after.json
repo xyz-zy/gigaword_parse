@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "daughters", "kids", "meal", "-LRB-", "grilled", "cheese", "-RRB-", "came", "after", "we", "had", "gotten", "our", "food", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

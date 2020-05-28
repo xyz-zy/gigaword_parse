@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "surly", "girl", "behind", "the", "counter", "acted", "like", "we", "were", "imposing", "every", "time", "she", "had", "to", "explain", "that", "they", "were", "out", "of", "everything", "except", "one", "option", "after", "asking", "us", "which", "option", "we", "wanted", "."], "e1_text": "were", "e1_pos": 9, "e2_text": "asking", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "for", "lunch", "on", "a", "Sunday", "right", "before", "jetting", "to", "the", "airport", "-LRB-", "super", "convenient", "if", "you", "'re", "trying", "to", "get", "a", "meal", "right", "before", "your", "flight", ";", "the", "airport", "is", "mere", "minutes", "away", "-RRB-", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "jetting", "e2_pos": 9, "label": "before"}
+]

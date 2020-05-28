@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "delivery", "driver", "ended", "up", "getting", "lost", "b\\/c", "the", "guy", "had", "the", "wrong", "address", ",", "42", "minutes", "later", "the", "driver", "arrives", "after", "I", "gave", "him", "directions", ",", "he", "expected", "cash", "which", "I", "did", "not", "have", "."], "e1_text": "arrives", "e1_pos": 20, "e2_text": "gave", "e2_pos": 23, "label": "after"}
+]

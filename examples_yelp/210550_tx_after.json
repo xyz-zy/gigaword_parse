@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "a", "Las", "Vegas", "local", ",", "I", "was", "very", "excited", "to", "finally", "go", "to", "breakfast", "here", "after", "hearing", "so", "much", "about", "it", "from", "various", "sources", "-LRB-", "Man", "vs.", "Food", ",", "other", "locals", ",", "etc.", "-RRB-", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "hearing", "e2_pos": 17, "label": "after"},
+{"tokens": ["Took", "at", "least", "20", "mins", "before", "our", "food", "arrived", "at", "the", "table", "after", "having", "placed", "our", "order", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "having", "e2_pos": 13, "label": "after"}
+]

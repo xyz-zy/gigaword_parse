@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "what", "really", "pissed", "me", "off", "was", "what", "happened", "after", "I", "dropped", "the", "car", "off", "."], "e1_text": "happened", "e1_pos": 8, "e2_text": "dropped", "e2_pos": 11, "label": "after"},
+{"tokens": ["BTW", "you", "will", "be", "on", "hold", "for", "an", "hour", "each", "time", "you", "try", "to", "call", "their", "customer", "service", ",", "and", "my", "call", "was", "dropped", "a", "few", "times", "after", "waiting", "for", "20", "minutes", "on", "hold", "."], "e1_text": "dropped", "e1_pos": 23, "e2_text": "waiting", "e2_pos": 28, "label": "after"}
+]

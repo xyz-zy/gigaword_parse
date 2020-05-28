@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "a", "reservation", "late", "on", "a", "Saturday", "for", "me", "and", "a", "friend", "after", "a", "long", "day", "of", "moving", "-LRB-", "seafood", "sounded", "good", "-RRB-", "and", "we", "ended", "up", "with", "the", "best", "seat", "in", "the", "house", "for", "a", "`", "romantic", "dinner", "'", "LOL", "!"], "e1_text": "made", "e1_pos": 1, "e2_text": "moving", "e2_pos": 18, "label": "after"}
+]

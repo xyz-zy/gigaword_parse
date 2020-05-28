@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "eating", "the", "sticks", ",", "we", "ran", "out", "of", "drinks", "and", "they", "were", "not", "replenished", "until", "after", "our", "food", "was", "delivered", "."], "e1_text": "replenished", "e1_pos": 14, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["Additionally", ",", "I", "asked", "the", "server", "2", "times", "for", "an", "extra", "side", "of", "limes", "and", "she", "never", "brought", "them", "to", "the", "table", "until", "the", "third", "time", "when", "my", "boyfriend", "asked", "and", "she", "finally", "delivered", "them", "after", "our", "entrees", "were", "brought", "out", "."], "e1_text": "delivered", "e1_pos": 33, "e2_text": "were", "e2_pos": 38, "label": "after"}
+]

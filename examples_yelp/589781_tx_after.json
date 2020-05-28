@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "issue", "is", "simply", "this", ":", "it", "was", "only", "after", "the", "photographer", ",", "Roxanne", ",", "took", "my", "pictures", ",", "and", "I", "got", "home", "and", "opened", "the", "cd", "that", "included", "all", "the", "images\\/pictures", "taken", "during", "the", "photoshoot", ",", "that", "I", "saw", "there", "was", "a", "release", "included", "on", "the", "cd", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "took", "e2_pos": 15, "label": "after"},
+{"tokens": ["As", "I", "was", "walking", "out", "of", "Optionz", ",", "after", "tipping", "the", "make-up", "artist", "for", "her", "work", "on", "the", "day", "of", "my", "photoshoot", ",", "Roxanne", "reminded", "me", "to", "email", "her", "the", "photos", "I", "wanted", "them", "to", "edit", "as", "a", "part", "of", "my", "photography", "package", "I", "purchased", "...", "."], "e1_text": "walking", "e1_pos": 3, "e2_text": "tipping", "e2_pos": 9, "label": "after"}
+]

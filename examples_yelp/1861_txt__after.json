@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "point", "being", "that", "I", "had", "let", "my", "hair", "go", "for", "quite", "awhile", "and", "the", "groupon", "just", "came", "out", "yesterday", "after", "I", "had", "made", "my", "much", "needed", "appointment", "!"], "e1_text": "came", "e1_pos": 17, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "do", "n't", "want", "my", "hair", "getting", "damaged", "after", "the", "things", "I", "have", "done", "to", "it", "!"], "e1_text": "damaged", "e1_pos": 7, "e2_text": "have", "e2_pos": 12, "label": "after"}
+]

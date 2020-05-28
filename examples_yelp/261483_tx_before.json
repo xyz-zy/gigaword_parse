@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yesterday", ",", "after", "an", "amazing", "day", "at", "the", "Red", "Rock", "Canyon", ",", "our", "friends", "told", "us", "that", "they", "would", "like", "to", "try", "something", "completely", "new", ",", "a", "dish", "they", "never", "had", "before", ".", "."], "e1_text": "try", "e1_pos": 21, "e2_text": "had", "e2_pos": 30, "label": "before"},
+{"tokens": ["felt", "like", "there", "were", "insects", "on", "the", "table", ",", "under", "the", "table", ",", "in", "the", "salad", "we", "had", "before", ",", "the", "meat", "we", "had", ".", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

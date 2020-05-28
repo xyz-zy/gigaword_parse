@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "in", "expecting", "to", "grab", "a", "snack", "before", "dinner", ",", "walked", "out", "with", "a", "$", "80", "bill", "for", "2", "after", "devouring", "14", "plates", "of", "food", ",", "3", "drinks", "and", "desert", "."], "e1_text": "walked", "e1_pos": 10, "e2_text": "devouring", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "a", "disabled", "veteran", "and", "have", "stopped", "here", "a", "few", "times", "after", "shopping", "at", "the", "commissary", "."], "e1_text": "stopped", "e1_pos": 7, "e2_text": "shopping", "e2_pos": 13, "label": "after"},
+{"tokens": ["2", "outta", "3", "times", "I", "felt", "like", "my", "insides", "were", "clawing", "their", "way", "out", "a", "few", "hours", "after", "eating", "their", "food", "."], "e1_text": "clawing", "e1_pos": 10, "e2_text": "eating", "e2_pos": 18, "label": "after"}
+]

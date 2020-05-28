@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "by", "for", "dinner", "after", "going", "to", "the", "Phoenix", "Zoo", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "going", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "toppings", "were", "great", "and", "fresh", "parmesan", "tossed", "over", "the", "pizza", "after", "it", "was", "served", "to", "the", "table", "made", "it", "perfect", "."], "e1_text": "tossed", "e1_pos": 7, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

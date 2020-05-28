@@ -1,0 +1,3 @@
+[
+{"tokens": ["Working", "in", "the", "restaurant", "industry", "for", "more", "than", "10", "plus", "years", "I", "clearly", "know", "that", "was", "restaurant", "talk", "for", "''", "``", "why", "did", "you", "seat", "me", "right", "before", "we", "close", "?", "''", "''"], "e1_text": "seat", "e1_pos": 24, "e2_text": "close", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "I", "am", "eligible", "for", "expenses", "at", "my", "job", ",", "when", "I", "approached", "the", "register", "I", "told", "the", "cashier", "clearly", "before", "ordering", "that", "I", "needed", "to", "pay", "for", "mine", "separately", "and", "will", "need", "an", "itemized", "receipt", "for", "reimbursement", "."], "e1_text": "told", "e1_pos": 16, "e2_text": "ordering", "e2_pos": 21, "label": "before"}
+]

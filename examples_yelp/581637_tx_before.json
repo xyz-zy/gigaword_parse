@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "was", "over", "half", "way", "done", "with", "his", "meal", "before", "my", "meal", "was", "brought", "to", "the", "table", "."], "e1_text": "done", "e1_pos": 6, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["We", "were", "charged", "for", "my", "meal", "even", "though", "the", "other", "2", "diners", "at", "my", "table", "were", "finished", "before", "my", "food", "ever", "came", "."], "e1_text": "finished", "e1_pos": 16, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

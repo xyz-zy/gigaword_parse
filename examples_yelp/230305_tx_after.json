@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "there", "for", "dinner", "last", "night", "and", "ended", "up", "leaving", "after", "sitting", "for", "2", "hours", "and", "never", "getting", "service", "."], "e1_text": "leaving", "e1_pos": 10, "e2_text": "sitting", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "saw", "another", "guy", "chase", "a", "server", "down", "to", "get", "food", "after", "sitting", "for", "40", "minutes", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "sitting", "e2_pos": 12, "label": "after"}
+]

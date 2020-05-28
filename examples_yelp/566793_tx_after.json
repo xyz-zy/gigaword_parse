@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "our", "restaurant", ",", "We", "had", "there", "tech", "out", "and", "the", "tech", "left", "are", "roof", "top", "to", "our", "electrical", "room", "open", "over", "night", "even", "after", "asking", "him", "if", "he", "closed", "it", "and", "him", "saying", "yes", "."], "e1_text": "open", "e1_pos": 22, "e2_text": "asking", "e2_pos": 27, "label": "after"},
+{"tokens": ["My", "first", "complaint", "went", "directly", "to", "management", "after", "the", "service", "tech", "left", "open", "are", "ceiling", "wall", "never", "again", "!!"], "e1_text": "went", "e1_pos": 3, "e2_text": "are", "e2_pos": 13, "label": "after"}
+]

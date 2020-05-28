@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "line", "moved", "pretty", "swiftly", "and", "we", "were", "in", "our", "room", "less", "than", "20", "minutes", "after", "stepping", "into", "the", "hotel", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "stepping", "e2_pos": 16, "label": "after"}
+]

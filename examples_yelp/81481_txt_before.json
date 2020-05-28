@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "really", "did", "want", "to", "keep", "it", "about", "the", "food", ",", "so", "I", "waited", "til", "I", "had", "an", "experience", "that", "blew", "me", "out", "of", "the", "water", "before", "I", "spoke", "up", "."], "e1_text": "blew", "e1_pos": 20, "e2_text": "spoke", "e2_pos": 28, "label": "before"},
+{"tokens": ["I", "was", "filled", "in", "on", "the", "woman", "to", "my", "left", "'s", "bad", "date", "before", "my", "Shock", "Top", "even", "hit", "the", "bar", ",", "while", "the", "man", "on", "our", "right", "offered", "to", "buy", "us", "both", "dinner", "-LRB-", "on", "someone", "else", "'s", "credit", "card", ".", "-RRB-"], "e1_text": "filled", "e1_pos": 2, "e2_text": "hit", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "wavered", "back", "and", "forth", "on", "a", "few", "options", ",", "but", "I", "made", "a", "decision", "awhile", "ago", "that", "I", "wanted", "to", "try", "all", "the", "new", "things", "on", "the", "menu", "before", "I", "started", "repeating", ",", "so", "new", "things", "it", "was", "."], "e1_text": "try", "e1_pos": 21, "e2_text": "started", "e2_pos": 31, "label": "before"}
+]

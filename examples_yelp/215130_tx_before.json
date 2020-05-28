@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "the", "bathrooms", "are", "impressive", "-", "the", "stalls", "are", "like", "little", "closets", "with", "no", "way", "for", "your", "neighbor", "to", "hear", "you", "pooping", "or", "to", "reach", "under", "and", "touch", "your", "feet", "...", "you", "just", "better", "hope", "there", "'s", "paper", "in", "there", "before", "you", "start", "to", "go", "."], "e1_text": "'s", "e1_pos": 36, "e2_text": "start", "e2_pos": 42, "label": "before"},
+{"tokens": ["This", "might", "be", "a", "good", "place", "to", "meet", "up", "for", "an", "early", "drink", "or", "a", "happy", "hour", "snack", "before", "heading", "out", "for", "the", "evening", "."], "e1_text": "meet", "e1_pos": 7, "e2_text": "heading", "e2_pos": 19, "label": "before"}
+]

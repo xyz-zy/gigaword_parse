@@ -1,0 +1,5 @@
+[
+{"tokens": ["And", "let", "'s", "just", "say", "after", "eating", "here", ",", "I", "really", "had", "to", "go", "back", "and", "re-evaluate", "all", "the", "5-star", "places", "I", "'ve", "reviewed", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "eating", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "would", "never", "take", "back", "a", "star", "or", "anything", "but", "every", "venue", "after", "this", "has", "a", "standard", "to", "meet", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "has", "e2_pos": 14, "label": "after"},
+{"tokens": ["Go", "during", "the", "evening", "-", "after", "8", "PM", "when", "the", "Bellagio", "does", "its", "fountain", "shows", "every", "15", "minutes", "you", "'ll", "enjoy", "the", "view", "."], "e1_text": "Go", "e1_pos": 0, "e2_text": "does", "e2_pos": 11, "label": "after"}
+]

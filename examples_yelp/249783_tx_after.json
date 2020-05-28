@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "physically", "turn", "her", "hand", "over", "after", "watching", "her", "fail", "about", "10", "times", "AND", "after", "10", "more", "times", "of", "telling", "her", "''", "``", "I", "think", "you", "need", "to", "flip", "it", "over", "...", "''", "''", "."], "e1_text": "turn", "e1_pos": 4, "e2_text": "watching", "e2_pos": 9, "label": "after"}
+]

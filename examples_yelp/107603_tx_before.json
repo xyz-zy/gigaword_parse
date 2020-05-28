@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "go", "here", "on", "Thursday", "nights", "before", "and\\/or", "after", "a", "show", "at", "Jesterz", "next", "door", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "and\\/or", "e2_pos": 8, "label": "before"},
+{"tokens": ["One", "time", "I", "ordered", "a", "pizza", "and", "waited", "30", "minutes", "before", "I", "called", "the", "waitress", "over", "and", "she", "claimed", "I", "had", "never", "ordered", "anything", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "called", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "-", "''", "``", "We", "checked", "the", "website", "before", "we", "drove", "all", "the", "way", "down", "here", "just", "so", "we", "can", "get", "notified", "at", "the", "door", "about", "a", "special", "event", "?!", "The", "website", "does", "n't", "say", "anything", "about", "a", "special", "event", "tonight", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "drove", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "do", "n't", "care", "about", "the", "comedy", "show", ",", "we", "just", "want", "to", "use", "our", "Groupon", "...", "we", "'ll", "eat", "and", "get", "out", "of", "there", "before", "the", "stupid", "comedy", "show", "starts", ".", "''", "''"], "e1_text": "get", "e1_pos": 21, "e2_text": "starts", "e2_pos": 30, "label": "before"}
+]

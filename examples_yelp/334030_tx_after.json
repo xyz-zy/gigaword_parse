@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "not", "only", "gave", "us", "food", "with", "onions", "after", "we", "explicitly", "told", "them", "no", "onion", "or", "green", "onions", "on", "anything", ",", "they", "also", "got", "hostile", "with", "us", "saying", "we", "must", "pay", "for", "the", "dish", "we", "barely", "touched", "."], "e1_text": "gave", "e1_pos": 3, "e2_text": "told", "e2_pos": 11, "label": "after"}
+]

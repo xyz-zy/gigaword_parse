@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "passed", "this", "place", "numerous", "times", "and", "looked", "forward", "in", "trying", "it", ",", "especially", "after", "reading", "their", "menu", "."], "e1_text": "looked", "e1_pos": 8, "e2_text": "reading", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "food", "arrived", "after", "what", "seemed", "to", "be", "a", "long", "wait", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "seemed", "e2_pos": 5, "label": "after"}
+]

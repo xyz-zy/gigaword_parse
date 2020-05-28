@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wow", ",", "how", "exciting", "to", "walk", "into", "a", "place", "that", "models", "itself", "after", "places", "I", "grew", "up", "with", "."], "e1_text": "models", "e1_pos": 10, "e2_text": "grew", "e2_pos": 15, "label": "after"},
+{"tokens": ["Our", "reservation", "apparently", "happened", "just", "moments", "after", "the", "ASU", "football", "team", "showed", "up", "."], "e1_text": "happened", "e1_pos": 3, "e2_text": "showed", "e2_pos": 11, "label": "after"}
+]

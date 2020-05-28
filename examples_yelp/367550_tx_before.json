@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "to", "admit", "I", "'ve", "been", "here", "more", "times", "than", "I", "'d", "like", "because", "it", "'s", "the", "closet", "theater", "to", "our", "apartment", "and", "as", "stated", "before", "laziness", "usually", "prevails", "."], "e1_text": "stated", "e1_pos": 25, "e2_text": "prevails", "e2_pos": 29, "label": "before"},
+{"tokens": ["You", "get", "to", "pick", "where", "you", "sit", "before", "the", "movie", "begins", "and", "everyone", "has", "assigned", "seating", "unless", "you", "sit", "in", "the", "neckache", "section", "in", "the", "first", "few", "rows", "."], "e1_text": "sit", "e1_pos": 6, "e2_text": "begins", "e2_pos": 10, "label": "before"}
+]

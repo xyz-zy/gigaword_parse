@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "giving", "this", "4", "stars", "but", "I", "think", "after", "they", "get", "fully", "ramped", "up", "they", "'ll", "make", "5", "."], "e1_text": "think", "e1_pos": 8, "e2_text": "get", "e2_pos": 11, "label": "after"},
+{"tokens": ["If", "you", "do", "n't", "like", "eating", "seafood", "covered", "in", "flavorful", "sauces", "with", "your", "fingers", "after", "it", "was", "dumped", "out", "on", "the", "table", ".", "."], "e1_text": "covered", "e1_pos": 7, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

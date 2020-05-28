@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "very", "promptly", "seated", "on", "the", "patio", "after", "being", "asked", "twice", "if", "we", "were", "sure", "we", "wanted", "to", "sit", "in", "the", "heat", "."], "e1_text": "seated", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"},
+{"tokens": ["OJ", "was", "then", "taken", "away", "after", "our", "server", "being", "made", "aware", "."], "e1_text": "taken", "e1_pos": 3, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "tried", "going", "there", "the", "first", "time", ",", "I", "got", "there", "five", "minutes", "after", "they", "closed", "and", "I", "was", "devastated", "so", "you", "can", "imagine", "my", "excitement", "when", "I", "finally", "walked", "into", "the", "store", "."], "e1_text": "got", "e1_pos": 10, "e2_text": "closed", "e2_pos": 16, "label": "after"}
+]

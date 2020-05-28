@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "waited", "at", "least", "five", "minutes", "before", "a", "waiter", "decided", "to", "take", "our", "drink", "orders", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "decided", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "saw", "our", "fries", "sitting", "on", "the", "hot", "line", "for", "awhile", "before", "they", "were", "brought", "to", "us", "."], "e1_text": "sitting", "e1_pos": 4, "e2_text": "were", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "am", "always", "shocked", "when", "waiters", "and", "waitresses", "expect", "big", "tips", "when", "you", "have", "to", "practically", "beg", "for", "an", "order", "to", "be", "taken", ",", "drink", "refills", "are", "ignored", "and", "the", "waiter", "does", "n't", "bother", "to", "see", "how", "the", "food", "is", "before", "the", "bill", "is", "left", "!"], "e1_text": "is", "e1_pos": 39, "e2_text": "is", "e2_pos": 39, "label": "before"}
+]

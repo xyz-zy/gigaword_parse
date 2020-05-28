@@ -1,0 +1,3 @@
+[
+{"tokens": ["Warning", ":", "If", "you", "look", "at", "your", "bank", "statement", "a", "day", "or", "two", "after", "coming", "here", "and", "the", "amount", "charged", "is", "a", "lot", "higher", "than", "what", "you", "actually", "paid", ",", "it", "'s", "because", "they", "like", "to", "''", "``", "pre-authorize", "''", "''", "themselves", "for", "a", "30", "%", "tip", ",", "but", "it", "goes", "down", "to", "whatever", "you", "actually", "paid", "them", "when", "the", "transaction", "clears", "."], "e1_text": "look", "e1_pos": 4, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

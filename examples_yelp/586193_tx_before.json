@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "brother", "and", "I", "fought", "over", "the", "fries", "like", "vultures", "and", "they", "were", "nearly", "all", "gone", "before", "we", "even", "touched", "the", "burgers", "."], "e1_text": "gone", "e1_pos": 15, "e2_text": "touched", "e2_pos": 19, "label": "before"}
+]

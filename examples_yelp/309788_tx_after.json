@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "the", "molten", "cookie", "dessert", ",", "which", "previously", "was", "amazing", ",", "but", "this", "time", "it", "came", "out", "and", "was", "n't", "even", "cooked", "on", "the", "inside", "--", "we", "asked", "to", "have", "it", "sent", "back", "and", "another", "brought", "out", "and", "our", "server", "-LRB-", "after", "we", "finally", "found", "him", "-RRB-", "-", "said", ",", "''", "``", "it", "might", "take", "20min", ",", "is", "that", "ok", "?", "''", "''"], "e1_text": "have", "e1_pos": 30, "e2_text": "found", "e2_pos": 45, "label": "after"}
+]

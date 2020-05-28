@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "signed", "up", "for", "their", "20", "dollar", "month", "to", "avoid", "paying", "the", "99", "dollar", "sign", "up", "fee", "for", "the", "10", "dollars", "a", "month", "and", "4", "months", "after", "signing", "up", "they", "charged", "my", "bank", "account", "60", "dollars", "for", "two", "different", "accounts", "we", "have", "there", "."], "e1_text": "paying", "e1_pos": 10, "e2_text": "signing", "e2_pos": 27, "label": "after"}
+]

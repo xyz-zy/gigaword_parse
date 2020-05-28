@@ -1,0 +1,3 @@
+[
+{"tokens": ["Suggestions", ":", "1", "-RRB-", "bring", "your", "own", "polish", "2", "-RRB-", "double", "check", "your", "appointment", "before", "you", "show", "up", ",", "not", "sure", "if", "they", "have", "a", "new", "computer", "system", "or", "what", "but", "there", "is", "usually", "mass", "confusion", "at", "that", "appointment", "desk"], "e1_text": "check", "e1_pos": 11, "e2_text": "show", "e2_pos": 16, "label": "before"}
+]

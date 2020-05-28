@@ -1,0 +1,4 @@
+[
+{"tokens": ["Monica", "continued", "to", "try", "and", "charge", "me", "even", "after", "I", "moved", "out", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "moved", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "gave", "her", "over", "two", "weeks", "to", "call", "me", "to", "discuss", "this", "erroneous", "fee", "and", "she", "did", "not", "call", "until", "after", "I", "moved", "out", "."], "e1_text": "call", "e1_pos": 7, "e2_text": "moved", "e2_pos": 22, "label": "after"}
+]

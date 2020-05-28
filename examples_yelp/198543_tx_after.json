@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "hot", ",", "-LRB-", "I", "am", "sexy", "and", "you", "know", "it", "...", "jking", "-RRB-", "The", "wife", "had", "to", "keep", "talking", "me", "down", "after", "the", "waiter", "seated", "a", "person", "who", "appeared", "to", "be", "his", "friend", "."], "e1_text": "talking", "e1_pos": 20, "e2_text": "seated", "e2_pos": 26, "label": "after"},
+{"tokens": ["I", "was", "going", "to", "give", "2", "cents", "as", "a", "tip", "because", "that", "is", "what", "is", "was", "worth", "after", "subtracting", "my", "time", "for", "waiting", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "subtracting", "e2_pos": 18, "label": "after"}
+]

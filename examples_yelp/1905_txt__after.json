@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "awhile", "back", "for", "lunch", "after", "kayaking", "for", "a", "couple", "of", "hours", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "kayaking", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "ordered", "the", "Pittsburgh", "salad", ",", "and", "it", "was", "decent", "and", "filling", ",", "which", "is", "what", "I", "was", "looking", "for", "after", "getting", "some", "exercise", "."], "e1_text": "looking", "e1_pos": 18, "e2_text": "getting", "e2_pos": 21, "label": "after"}
+]

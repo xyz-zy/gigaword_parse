@@ -1,0 +1,4 @@
+[
+{"tokens": ["Honestly", ",", "I", "would", "not", "be", "surprised", "if", "the", "delivery", "kid", "got", "the", "order", "and", "then", "went", "to", "smoke", "a", "bowl", "or", "go", "to", "a", "friends", "house", "before", "delivering", "it", "to", "us", "."], "e1_text": "go", "e1_pos": 22, "e2_text": "delivering", "e2_pos": 28, "label": "before"},
+{"tokens": ["That", "food", "was", "obviously", "made", "LONG", "before", "it", "ever", "made", "it", "to", "us", "."], "e1_text": "LONG", "e1_pos": 5, "e2_text": "made", "e2_pos": 9, "label": "before"}
+]

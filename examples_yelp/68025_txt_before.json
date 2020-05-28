@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "pretended", "to", "be", "bashful", "and", "nice", "by", "saying", "that", "she", "did", "n't", "want", "to", "bother", "us", "later", "so", "we", "should", "pay", "immediately", "...", "before", "most", "of", "us", "had", "even", "finished", "a", "plate", "of", "food", "."], "e1_text": "pay", "e1_pos": 22, "e2_text": "had", "e2_pos": 29, "label": "before"},
+{"tokens": ["Although", "paying", "in", "the", "beginning", "before", "we", "began", "to", "eat", "would", "'ve", "been", "more", "opportune", "."], "e1_text": "paying", "e1_pos": 1, "e2_text": "began", "e2_pos": 7, "label": "before"}
+]

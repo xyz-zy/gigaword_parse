@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "lived", "there", "for", "over", "a", "year", "and", "never", "had", "a", "problem", ",", "always", "been", "a", "good", "tenant", "without", "having", "any", "complaints", "and", "always", "paid", "rent", "on", "time", ",", "that", "'s", "why", "I", "was", "extremely", "upset", "with", "management", "after", "they", "evicted", "me", "from", "my", "apartment", "after", "something", "my", "roommate", "of", "3", "only", "weeks", "did", "."], "e1_text": "was", "e1_pos": 34, "e2_text": "evicted", "e2_pos": 41, "label": "after"},
+{"tokens": ["I", "had", "just", "extended", "my", "lease", "to", "another", "12", "months", "after", "already", "being", "there", "12", "months", "."], "e1_text": "extended", "e1_pos": 3, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

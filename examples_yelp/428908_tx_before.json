@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "high", "end", "boutique", ",", "so", "you", "may", "want", "to", "ask", "about", "the", "price", "range", "of", "dresses", "before", "heading", "over", "...", "and", "I", "believe", "appointments", "are", "highly", "recommended", "as", "well", "."], "e1_text": "ask", "e1_pos": 12, "e2_text": "heading", "e2_pos": 20, "label": "before"}
+]

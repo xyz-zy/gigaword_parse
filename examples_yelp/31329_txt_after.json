@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "the", "appliance", "department", "I", "DID", "get", "help", "and", "the", "salesman", "said", "that", "my", "warranty", "is", "no", "good", "if", "I", "do", "n't", "buy", "upgraded", "hoses", "and", "was", "really", "stuck", "on", "Samsung", "after", "I", "told", "him", "I", "wanted", "an", "American", "brand", "."], "e1_text": "stuck", "e1_pos": 28, "e2_text": "told", "e2_pos": 33, "label": "after"},
+{"tokens": ["It", "is", "my", "opinion", "that", "not", "paying", "the", "salespeople", "an", "adult", "living", "wage", "causes", "the", "good", "ones", "to", "move", "on", "and", "no", "relationship", "is", "continued", "after", "it", "is", "made", "."], "e1_text": "continued", "e1_pos": 24, "e2_text": "is", "e2_pos": 1, "label": "after"}
+]

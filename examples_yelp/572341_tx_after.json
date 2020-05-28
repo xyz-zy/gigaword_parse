@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "a", "couple", "days", "ago", "for", "the", "first", "time", "after", "hearing", "about", "this", "place", "from", "co-workers", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "hearing", "e2_pos": 10, "label": "after"},
+{"tokens": ["With", "me", "being", "a", "very", "picky", "vegetarian", ",", "after", "looking", "at", "the", "menu", "I", "knew", "this", "was", "a", "place", "we", "had", "to", "go", "to", "."], "e1_text": "being", "e1_pos": 2, "e2_text": "looking", "e2_pos": 9, "label": "after"}
+]

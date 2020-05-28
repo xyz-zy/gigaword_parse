@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "were", "getting", "our", "food", "before", "the", "people", "that", "got", "there", "before", "us", "too", "."], "e1_text": "getting", "e1_pos": 2, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["the", "uni", "sucked", ",", "the", "sashimi", "was", "n't", "the", "same", "as", "I", "had", "before", "but", "the", "other", "rolls", "n", "nigiri", "were", "good", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

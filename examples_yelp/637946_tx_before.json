@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "call", "your", "number", "twice", "before", "moving", "on", "so", "pay", "attention", "!"], "e1_text": "call", "e1_pos": 2, "e2_text": "moving", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "should", "'ve", "checked", "before", "we", "left", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "left", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "driver", "always", "had", "to", "climb", "through", "the", "car", "to", "unlock", "the", "other", "passenger", "'s", "doors", "after", "she", "opened", "hers", "."], "e1_text": "unlock", "e1_pos": 10, "e2_text": "opened", "e2_pos": 18, "label": "after"}
+]

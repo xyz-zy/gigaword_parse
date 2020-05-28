@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", ",", "we", "waited", "for", "a", "few", "minutes", "before", "someone", "showed", "us", "to", "a", "table", ",", "where", "we", "waited", "another", "5-10", "minutes", "before", "we", "were", "greeted", "by", "our", "waiter", "-LRB-", "who", ",", "to", "his", "credit", ",", "was", "swamped", "with", "tables", "-RRB-", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "showed", "e2_pos": 10, "label": "before"}
+]

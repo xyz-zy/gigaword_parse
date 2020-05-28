@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "waiter", "asked", "us", "if", "we", "had", "been", "there", "before", "I", "was", "half", "expecting", ",", "if", "we", "had", "both", "said", "no", ",", "she", "would", "have", "said", ",", "well", "that", "pizza", "always", "has", "bugs", "on", "it", "."], "e1_text": "been", "e1_pos": 8, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

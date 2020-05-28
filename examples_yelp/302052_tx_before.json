@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "found", "out", "10", "minutes", "before", "the", "tour", "was", "supposed", "to", "start", ",", "20", "after", "we", "were", "supposed", "to", "have", "already", "been", "picked", "up", ",", "that", "our", "tour", "was", "canceled", ",", "and", "HOW", "did", "we", "find", "out", "?"], "e1_text": "found", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

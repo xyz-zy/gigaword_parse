@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "spoke", "with", "the", "manager", "about", "the", "phone", "call", ",", "noting", "recognition", "in", "his", "eyes", ",", "but", "he", "told", "me", "that", "he", "could", "n't", "do", "anything", "at", "all", "to", "help", "us", "because", "he", "had", "taken", "several", "reservation", "after", "I", "called", "."], "e1_text": "taken", "e1_pos": 34, "e2_text": "called", "e2_pos": 39, "label": "after"},
+{"tokens": ["He", "then", "scurrried", "away", "and", "hid", "at", "the", "bar", ",", "allowing", "his", "equally", "rude", "hostess", "to", "deal", "with", "us", ",", "even", "after", "asking", "to", "speak", "with", "him", "again", "."], "e1_text": "deal", "e1_pos": 16, "e2_text": "asking", "e2_pos": 22, "label": "after"}
+]

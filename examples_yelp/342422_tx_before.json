@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "brisket", "seemed", "to", "be", "left", "over", "or", "waiting", "in", "some", "hot", "juice", "before", "serving", "."], "e1_text": "waiting", "e1_pos": 8, "e2_text": "serving", "e2_pos": 14, "label": "before"}
+]

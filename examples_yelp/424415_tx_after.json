@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "party", "wouldof", "probably", "stayed", "for", "a", "couple", "more", "''", "``", "after", "dinner", "''", "''", "cocktails", "if", "my", "waitress", "was", "actually", "dressed", "in", "something", "that", "resembled", "her", "as", "a", "''", "``", "woman", "''", "''", "more", "than", "a", "man", "."], "e1_text": "stayed", "e1_pos": 4, "e2_text": "cocktails", "e2_pos": 15, "label": "after"}
+]

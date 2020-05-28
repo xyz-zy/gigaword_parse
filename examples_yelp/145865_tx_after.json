@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "good", ",", "not", "great", "...", "sometimes", "the", "potatoes", "are", "overcooked", ",", "the", "bun", "of", "the", "meatballs", "sliders", "get", "mushy", ",", "the", "waitress", "does", "not", "include", "the", "green", "olives", "in", "your", "Bloody", "Mary", "then", "overcharges", "you", "at", "$", "4.25", "after", "telling", "me", "it", "'s", "$", "3.50", "...", "THEN", "explains", "they", "charge", ".75", "for", "bloody", "Mary", "mix", "."], "e1_text": "overcharges", "e1_pos": 35, "e2_text": "telling", "e2_pos": 41, "label": "after"}
+]

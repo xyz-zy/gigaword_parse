@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "claim", "they", "did", "n't", "change", "the", "recipe", "but", "after", "over", "twenty", "years", "of", "being", "veggie\\/vegan", "I", "think", "I", "can", "spot", "an", "overcooked", ",", "freezer", "burned", "Boca", "Burger", "when", "I", "taste", "one", "."], "e1_text": "claim", "e1_pos": 1, "e2_text": "burned", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "and", "I", "were", "looking", "for", "a", "good", "meal", "for", "dinner", "before", "we", "hit", "the", "town", "during", "Memorial", "Day", "weekend", ",", "and", "my", "buddy", "wanted", "a", "sit", "down", "restaurant", "while", "I", "wanted", "to", "grab", "something", "on", "the", "go", "-LRB-", "Le", "Creperie", "next", "door", "sounded", "so", "good", "-RRB-", "."], "e1_text": "looking", "e1_pos": 5, "e2_text": "hit", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "figure", "that", "the", "pizza", "was", "left", "on", "the", "counter", "over", "the", "heating", "lamps", "for", "a", "long", "time", "before", "they", "brought", "it", "out", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "brought", "e2_pos": 20, "label": "before"}
+]

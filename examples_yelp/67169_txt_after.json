@@ -1,0 +1,3 @@
+[
+{"tokens": ["Came", "in", "the", "other", "night", "around", "8:30", "pm", ",", "was", "n't", "busy", "at", "all", ",", "we", "were", "sat", "and", "waited", "almost", "20", "minutes", "before", "we", "were", "even", "greeted", "at", "the", "table", ",", "after", "we", "ordered", "we", "waited", "another", "30", "minutes", "for", "the", "food", "to", "come", ",", "our", "pad", "Thai", "was", "cold", ",", "and", "they", "forgot", "our", "other", "plate", ",", "and", "when", "it", "finally", "came", "it", "was", "burnt", "."], "e1_text": "sat", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 34, "label": "after"}
+]

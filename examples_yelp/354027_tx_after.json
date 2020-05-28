@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ehhhh", "...", "A", "mate", "and", "I", "came", "here", "last", "Friday", "night", "for", "a", "pint", ",", "which", "after", "queuing", "for", "about", "5", "minutes", "in", "the", "relatively", "uncrowded", "bar", "area", "of", "the", "pub", ",", "we", "actually", "got", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "queuing", "e2_pos": 17, "label": "after"}
+]

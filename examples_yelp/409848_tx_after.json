@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "my", "first", "stop", "after", "my", "plane", "landed", "at", "PHX", "on", "Sunday", "afternoon", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "landed", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "leftovers", "were", "still", "delicious", "the", "next", "day", "after", "being", "warmed", "up", "in", "my", "hotel", "microwave", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

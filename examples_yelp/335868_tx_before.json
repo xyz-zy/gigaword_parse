@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "last", "time", "I", "drove", ",", "I", "went", "in", "and", "out", "of", "the", "airport", "THREE", "times", "before", "finally", "finding", "the", "entrance", "to", "the", "short-term", "parking", "-LRB-", "the", "$", "18\\/day", "lot", "-RRB-", "-", "and", "I", "only", "found", "it", "because", "I", "was", "at", "my", "wit", "'s", "end", "and", "decided", "to", "enter", "through", "an", "entrance", "that", "may", "or", "may", "not", "lead", "me", "to", "where", "I", "wanted", "to", "go", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "finding", "e2_pos": 18, "label": "before"},
+{"tokens": ["Then", "you", "'ve", "got", "the", "airport", "security", "people", "harassing", "you", "to", "move", "it", "along", "before", "you", "even", "get", "out", "of", "the", "car", "."], "e1_text": "move", "e1_pos": 11, "e2_text": "get", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "mean", "HELLO", ",", "can", "I", "at", "least", "get", "both", "legs", "out", "of", "the", "car", "before", "you", "send", "the", "driver", "off", "?"], "e1_text": "get", "e1_pos": 8, "e2_text": "send", "e2_pos": 17, "label": "before"}
+]

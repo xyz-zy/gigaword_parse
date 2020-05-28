@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "main", "gripes", "with", "this", "place", "were", "the", "fact", "it", "'s", "overpriced", "-LRB-", "$", "5", "for", "rice", "after", "ordering", "a", "$", "16", "lamb", "curry", "-RRB-", "and", "the", "fact", "that", "the", "food", "was", "bland", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 18, "label": "after"}
+]

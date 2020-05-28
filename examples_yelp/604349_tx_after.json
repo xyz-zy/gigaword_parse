@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "started", "going", "here", "i", "repeatedly", "told", "them", "I", "did", "not", "want", "anything", "done", "that", "was", "not", "fully", "covered", "by", "insurance", "but", "after", "the", "3rd", "time", "I", "had", "gone", "there", "they", "sent", "me", "a", "bill", "for", "about", "$", "35", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "sent", "e2_pos": 32, "label": "after"},
+{"tokens": ["She", "said", "well", "I", "guess", "she", "is", "saying", "I", "told", "you", "at", "which", "I", "said", "you", "know", "damn", "well", "you", "did", "not", "tell", "me", "until", "after", "the", "work", "was", "done", "."], "e1_text": "tell", "e1_pos": 22, "e2_text": "was", "e2_pos": 28, "label": "after"}
+]

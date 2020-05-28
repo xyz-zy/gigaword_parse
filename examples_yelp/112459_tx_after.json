@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "have", "a", "great", "experience", "at", "Gus", "'s", "NY", "Pizza", "Lounge", "-LRB-", "http:\\/\\/www.yelp.com\\/biz\\/guss-ny-pizza-lounge-scottsdale", "-RRB-", "in", "Scottsdale", "after", "a", "recent", "evening", "of", "drunken", "debauchery", ",", "and", "while", "I", "was", "hopeful", "that", "Slices", "Pizza", "would", "n't", "let", "me", "down", "quite", "as", "much", "?"], "e1_text": "have", "e1_pos": 3, "e2_text": "debauchery", "e2_pos": 24, "label": "after"}
+]

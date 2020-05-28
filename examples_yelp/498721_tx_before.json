@@ -1,0 +1,4 @@
+[
+{"tokens": ["in", "tow", ",", "I", "returned", "to", "my", "hotel", "room", "to", "stuff", "my", "face", "before", "passing", "out", ",", "as", "one", "does", "after", "four", "drams", "of", "whisky", "in", "one", "night", "."], "e1_text": "stuff", "e1_pos": 10, "e2_text": "passing", "e2_pos": 14, "label": "before"},
+{"tokens": ["Even", "though", "my", "last", "meal", "was", "nearly", "twelve", "hours", "prior", ",", "I", "was", "still", "only", "able", "to", "get", "down", "about", "half", "my", "kebab", "before", "raising", "my", "white", "flag", "in", "surrender", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "raising", "e2_pos": 24, "label": "before"}
+]

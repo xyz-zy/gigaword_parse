@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hot", "dog", "wrapped", "with", "bacon", "was", "a", "winner", "and", "it", "came", "with", "these", "paper", "thin", "potato", "chips", "that", "were", "very", "tasty", "-LRB-", "salty", ",", "but", "only", "after", "you", "chewed", "them", "-", "very", "unique", "!", "-RRB-"], "e1_text": "were", "e1_pos": 19, "e2_text": "chewed", "e2_pos": 29, "label": "after"}
+]

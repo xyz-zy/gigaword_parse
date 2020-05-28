@@ -1,0 +1,5 @@
+[
+{"tokens": ["Unless", "you", "get", "early", "deliveries", "-LRB-", "on", "a", "Saturday", "-RRB-", "before", "you", "load", "up", "your", "truck", ",", "you", "STILL", "knew", "that", "you", "did", "NOT", "have", "my", "bed", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "load", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "truck", "arrives", "at", "1215", ",", "and", "the", "guys", "need", "to", "''", "``", "look", "''", "''", "at", "my", "mattress", "before", "they", "give", "me", "my", "new", "one", "."], "e1_text": "need", "e1_pos": 9, "e2_text": "give", "e2_pos": 21, "label": "before"},
+{"tokens": ["If", "your", "drivers", "know", "to", "check", "for", "stains", ",", "maybe", "someone", "should", "have", "came", "out", "and", "checked", "my", "bed", "\\*\\*", "before", "you", "ordered", "the", "replacement", "."], "e1_text": "checked", "e1_pos": 16, "e2_text": "ordered", "e2_pos": 22, "label": "before"}
+]

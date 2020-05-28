@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "jokingly", "say", "''", "``", "grow", "''", "''", "because", "he", "probably", "has", "less", "tables", "now", "than", "he", "did", "before", "."], "e1_text": "has", "e1_pos": 11, "e2_text": "did", "e2_pos": 17, "label": "before"},
+{"tokens": ["You", "wo", "n't", "get", "in", "unless", "you", "stand", "outside", "for", "about", "90", "minutes", "before", "they", "open", "."], "e1_text": "stand", "e1_pos": 7, "e2_text": "open", "e2_pos": 15, "label": "before"}
+]

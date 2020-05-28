@@ -1,0 +1,4 @@
+[
+{"tokens": ["Twenty", "dollars", "a", "night", "is", "still", "kind", "of", "ridiculous", "after", "paying", "hundreds", "of", "dollars", "for", "the", "hotel", "room", "already", ",", "do", "n't", "you", "think", "?"], "e1_text": "is", "e1_pos": 4, "e2_text": "paying", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "were", "able", "to", "do", "one", "party", "at", "the", "''", "``", "Moon", "something", "''", "''", "for", "free", "after", "putting", "ourselves", "on", "the", "guest", "list", "."], "e1_text": "do", "e1_pos": 4, "e2_text": "putting", "e2_pos": 18, "label": "after"}
+]

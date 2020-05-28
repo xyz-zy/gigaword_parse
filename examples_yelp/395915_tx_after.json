@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "felt", "the", "need", "to", "update", "this", "review", "because", "after", "3", "visits", "of", "having", "terrible", "customer", "service", "it", "has", "annoyed", "me", "."], "e1_text": "update", "e1_pos": 5, "e2_text": "having", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "thought", "that", "new", "combo", "tasted", "like", "li", "hing", "mui", "candy", ",", "but", "after", "last", "nights", "drink", "I", "realized", "it", "was", "n't", "the", "peach", "combo", "with", "mango", "-", "it", "was", "just", "the", "mango", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "drink", "e2_pos": 16, "label": "after"},
+{"tokens": ["He", "messed", "up", "on", "our", "drinks", "because", "he", "was", "hurrying", "along", "and", "I", "do", "not", "blame", "him", "with", "hungry", "customers", "waiting", "after", "hearing", "dings", "after", "dings", "after", "dings", "."], "e1_text": "waiting", "e1_pos": 20, "e2_text": "hearing", "e2_pos": 22, "label": "after"}
+]

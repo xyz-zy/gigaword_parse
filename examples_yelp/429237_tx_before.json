@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "the", "right", "thing", "to", "do", "before", "going", "was", "to", "look", "up", "the", "side", "effects", "to", "the", "medication", "to", "make", "sure", "what", "I", "was", "experiencing", "was", "actually", "from", "that", "."], "e1_text": "do", "e1_pos": 6, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "tell", "him", "I", "was", "n't", "having", "problems", "before", "with", ";", "dizziness", ",", "nausea", ",", "joint", "pain", ",", "fever", ",", "chills", ",", "sharp", "eye", "pain", ",", "confusion", ",", "headache", ",", "peeing", "less", ",", "loss", "appetite", "and", "serious", "fatigue", "to", "the", "point", "I", "have", "to", "use", "my", "alarm", "to", "keep", "waking", "up", "."], "e1_text": "having", "e1_pos": 6, "e2_text": "have", "e2_pos": 42, "label": "before"}
+]

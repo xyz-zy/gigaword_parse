@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "kind", "of", "trick", "you", "because", "even", "after", "you", "pay", "at", "the", "counter", "on", "your", "way", "in", ",", "you", "still", "have", "to", "wait", "in", "a", "separate", "line", "to", "be", "seated", "."], "e1_text": "trick", "e1_pos": 3, "e2_text": "pay", "e2_pos": 9, "label": "after"}
+]

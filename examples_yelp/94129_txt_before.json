@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "landscaping", "work", "during", "the", "day", "in", "Phoenix", ",", "and", "do", "n't", "have", "time", "to", "run", "home", "for", "a", "shower", "before", "sitting", "down", "for", "a", "burger", "and", "fries", "at", "your", "Fine", "Dining", "Establishment", "."], "e1_text": "run", "e1_pos": 16, "e2_text": "sitting", "e2_pos": 22, "label": "before"}
+]

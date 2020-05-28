@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "a", "friend", "'s", "recent", "birthday", "we", "decided", "to", "stop", "here", "after", "enjoying", "Yelp", "'s", "happy", "hour", "at", "Rumor", "."], "e1_text": "stop", "e1_pos": 9, "e2_text": "enjoying", "e2_pos": 12, "label": "after"},
+{"tokens": ["Perhaps", "it", "was", "a", "big", "mistake", "to", "come", "to", "sushi", "hungry", "after", "indulging", "in", "quite", "a", "few", "drinks", "."], "e1_text": "sushi", "e1_pos": 9, "e2_text": "indulging", "e2_pos": 12, "label": "after"}
+]

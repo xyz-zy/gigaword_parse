@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mum", "wanted", "to", "go", "to", "a", "French", "restaurant", ",", "my", "dad", "was", "against", "this", "decision", ",", "but", "we", "ended", "up", "going", "after", "seeing", "this", "little", "item", "on", "the", "menu", "."], "e1_text": "going", "e1_pos": 21, "e2_text": "seeing", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "first", "found", "out", "about", "this", "place", "after", "finding", "that", "it", "was", "recommended", "by", "the", "French", "institute", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "finding", "e2_pos": 8, "label": "after"}
+]

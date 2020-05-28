@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "person", "used", "a", "soapy", "brush", "to", "wash", "the", "car", "before", "it", "went", "through", "the", "car", "wash", "which", "I", "thought", "would", "help", "get", "the", "car", "cleaner", ",", "then", "went", "through", "the", "wash", "and", "on", "to", "the", "hand", "dry", "."], "e1_text": "wash", "e1_pos": 7, "e2_text": "went", "e2_pos": 12, "label": "before"}
+]

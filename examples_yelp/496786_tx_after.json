@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "arrived", "on", "time", "and", "checked", "in", ",", "and", "I", "let", "the", "hostess", "know", "that", "my", "dining", "companions", "were", "running", "late", "but", "I", "still", "wanted", "let", "them", "know", "that", "I", "was", "there", "since", "I", "had", "made", "the", "reservation", "-LRB-", "which", "by", "the", "way", "was", "canceled", "on", "opentable", "after", "I", "checked", "in", "but", "that", "is", "another", "story", "-RRB-", "."], "e1_text": "canceled", "e1_pos": 44, "e2_text": "checked", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "see", "other", "tables", "that", "came", "in", "after", "we", "did", ",", "get", "served", "there", "meal", ",", "eat", ",", "and", "leave", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "did", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "am", "not", "sure", "what", "happened", "today", "but", "after", "speaking", "your", "praises", "you", "let", "me", "down", "as", "well", "as", "all", "my", "girlfriends", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "praises", "e2_pos": 11, "label": "after"}
+]

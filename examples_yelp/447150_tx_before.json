@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "arrived", "there", "before", "I", "did", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "did", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "sat", "by", "the", "bar", "so", "we", "noticed", "that", "they", "were", "just", "sitting", "on", "the", "counter", "for", "a", "good", "10-15", "minutes", "before", "we", "even", "received", "them", "."], "e1_text": "sitting", "e1_pos": 12, "e2_text": "received", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "should", "advise", "you", "before", "you", "purchase", "your", "tickets", "that", "the", "final", "fight", "scene", ",", "which", "is", "the", "climax", "of", "the", "show", ",", "will", "be", "presented", "in", "low", "quality", "from", "a", "projector", "onto", "the", "stage", "."], "e1_text": "advise", "e1_pos": 2, "e2_text": "purchase", "e2_pos": 6, "label": "before"}
+]

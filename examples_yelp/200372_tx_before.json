@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "girl", "'s", "got", "ta", "fuel", "up", "before", "embarking", "on", "a", "long", "shopping", "expedition", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "embarking", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "cheese", "was", "delicately", "melt", "atop", "the", "omelette", "which", "I", "'ve", "never", "seen", "before", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 10, "label": "before"}
+]

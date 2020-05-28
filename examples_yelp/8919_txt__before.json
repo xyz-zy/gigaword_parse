@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "had", "an", "appt", "that", "i", "had", "rescheduled", "here", "and", "they", "keep", "sending", "and", "will", "not", "stop", "sending", "a", "letter", "asking", "me", "to", "pay", "for", "a", "missed", "visit", "when", "i", "called", "to", "cancel", "a", "week", "before", "."], "e1_text": "stop", "e1_pos": 16, "e2_text": "called", "e2_pos": 30, "label": "before"}
+]

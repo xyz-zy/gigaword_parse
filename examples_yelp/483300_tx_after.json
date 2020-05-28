@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sushi", "was", "meh", "-", "ended", "up", "skipping", "over", "the", "hand", "rolls", "after", "I", "saw", "cream", "cheese", "in", "them", "."], "e1_text": "rolls", "e1_pos": 10, "e2_text": "saw", "e2_pos": 13, "label": "after"},
+{"tokens": ["Got", "sick", "after", "I", "came", "home", "so", "that", "should", "tell", "you", "about", "cleanliness", "-LRB-", "or", "lack", "thereof", "-RRB-", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "came", "e2_pos": 4, "label": "after"}
+]

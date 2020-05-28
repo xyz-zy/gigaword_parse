@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "seen", "this", "place", "before", "as", "it", "'s", "near", "a", "coffee", "shop", "that", "I", "go", "to", "quite", "often", "-LRB-", "it", "has", "a", "life-size", "Centurion", "outside", "of", "it", "that", "catches", "your", "attention", "-RRB-", "so", "when", "I", "saw", "it", "featured", "on", "groupon", ",", "I", "thought", "it", "would", "be", "a", "great", "time", "to", "finally", "try", "it", "out", "."], "e1_text": "seen", "e1_pos": 2, "e2_text": "thought", "e2_pos": 43, "label": "before"}
+]

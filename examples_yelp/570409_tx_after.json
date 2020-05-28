@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "line", "was", "significantly", "shorter", "but", "it", "is", "deceiving", "since", "I", "had", "assumed", "I", "'d", "be", "seated", "after", "we", "paid", "."], "e1_text": "seated", "e1_pos": 16, "e2_text": "paid", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "halfway", "through", "a", "large", "pizza", "before", "another", "staff", "member", "came", "near", "us", ",", "she", "made", "the", "effort", "for", "customer", "service", "to", "offhandedly", "ask", "how", "everything", "was", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "was", "almost", "45", "minutes", "-LRB-", "total", "-RRB-", "before", "they", "got", "her", "pizza", "out", "!!!", "1", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

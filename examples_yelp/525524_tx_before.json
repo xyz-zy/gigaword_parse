@@ -1,0 +1,3 @@
+[
+{"tokens": ["Robert", "is", "a", "great", "communicator", "and", "he", "and", "the", "mechanic", "took", "the", "time", "to", "show", "me", "where", "the", "problem", "was", "before", "I", "authorized", "the", "repair", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "authorized", "e2_pos": 22, "label": "before"}
+]

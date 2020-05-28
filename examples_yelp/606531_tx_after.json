@@ -1,0 +1,3 @@
+[
+{"tokens": ["Before", "I", "went", "in", "I", "thought", "this", "would", "be", "a", "one", "time", "visit", ",", "but", "after", "touring", "the", "exhibit", "I", "considered", "upgrading", "to", "the", "annual", "pass", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "touring", "e2_pos": 16, "label": "after"}
+]

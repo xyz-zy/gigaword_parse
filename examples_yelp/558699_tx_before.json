@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "steaks", "are", "really", "good", "...", "I", "had", "the", "60", "second", "steak", "-LRB-", "make", "sure", "you", "'re", "OK", "with", "rare", "before", "you", "try", "this", "as", "one", "side", "will", "be", "rare", "while", "the", "other", "is", "heavily", "seared", "-RRB-", "."], "e1_text": "'re", "e1_pos": 16, "e2_text": "try", "e2_pos": 22, "label": "before"}
+]

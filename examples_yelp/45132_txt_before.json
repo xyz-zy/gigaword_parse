@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "minus", "a", "star", "-RRB-", "food", "was", "not", "hot", "enough", "-LRB-", "oops", "there", "goes", "another", "one", "-RRB-", "service", "when", "we", "were", "done", "was", "very", "slow", "and", "I", "was", "still", "hungry", "-LRB-", "down", "to", "2", "stars", "-RRB-", "I", "will", "stop", "writing", "before", "they", "run", "out", "of", "stars", "."], "e1_text": "writing", "e1_pos": 39, "e2_text": "run", "e2_pos": 42, "label": "before"}
+]

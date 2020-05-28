@@ -1,0 +1,3 @@
+[
+{"tokens": ["Normally", ",", "I", "would", "expect", "something", "like", "this", "to", "have", "the", "hash", "grilled", "and", "then", "have", "the", "cheese", "placed", "on", "top", "and", "remixed", "once", "it", "the", "cheese", "melted", "before", "putting", "it", "on", "the", "plate", "."], "e1_text": "melted", "e1_pos": 27, "e2_text": "putting", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "checking", "out", ",", "the", "total", "amount", "I", "had", "to", "pay", "extra", "was", "double", "the", "amount", "that", "I", "was", "informed", "before", "the", "upgrade", "which", "then", "took", "time", "out", "of", "my", "vacation", "day", "just", "to", "talk", "to", "management", "to", "fix", "issues", "."], "e1_text": "informed", "e1_pos": 19, "e2_text": "took", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "all", "of", "two", "sips", "in", "before", "I", "was", "so", "rudely", "intrrupted", "by", "your", "drunk-on-power", "security", "team", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["Now", "I", "'m", "out", "14", "dollars", "and", "pissed", "off", "before", "the", "concert", "has", "even", "started", "."], "e1_text": "pissed", "e1_pos": 7, "e2_text": "has", "e2_pos": 12, "label": "before"}
+]

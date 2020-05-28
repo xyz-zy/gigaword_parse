@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "visiting", "a", "friend", "in", "surprise", "we", "decided", "to", "check", "out", "Dillion", "'s", "after", "hearing", "it", "'s", "praises", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "hearing", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "were", "told", "they", "only", "had", "enough", "ribs", "for", "2", "orders", ",", "but", "after", "much", "back-n-forth", "then", "said", "they", "had", "enough", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "said", "e2_pos": 17, "label": "after"}
+]

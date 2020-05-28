@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "ladies", "in", "the", "women", "'s", "bathroom", "were", "very", "attentive", ",", "always", "had", "a", "paper", "towel", "ready", "for", "you", "after", "you", "wash", "your", "hands", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "wash", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "would", "come", "back", "here", "again", ",", "but", "only", "after", "I", "experience", "some", "of", "the", "other", "clubs", "at", "Vegas", "first", "."], "e1_text": "come", "e1_pos": 2, "e2_text": "experience", "e2_pos": 11, "label": "after"}
+]

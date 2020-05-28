@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", "when", "it", "came", "to", "the", "check", "it", "was", "about", "15", "to", "20", "minutes", "before", "we", "left", "to", "pay", "and", "leave", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "left", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "were", "the", "only", "table", "the", "waitress", "had", "and", "she", "decided", "to", "prepare", "drinks", "behind", "the", "bar", "before", "giving", "us", "the", "check", "and", "a", "box", "for", "our", "food", "."], "e1_text": "prepare", "e1_pos": 12, "e2_text": "giving", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "was", "very", "poor", "service", "and", "I", "was", "very", "disappointed", "and", "confused", "why", "she", "put", "drinks", "before", "servicing", "her", "only", "table", "."], "e1_text": "put", "e1_pos": 14, "e2_text": "servicing", "e2_pos": 17, "label": "before"}
+]

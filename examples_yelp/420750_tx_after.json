@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "spent", "5.5", "hours", "on", "the", "phone", "with", "American", "Airlines", "customer", "service", "after", "they", "canceled", "my", "flight", "from", "NYC", "to", "chicago", "due", "to", "weather", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "canceled", "e2_pos": 14, "label": "after"}
+]

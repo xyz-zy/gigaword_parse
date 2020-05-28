@@ -1,0 +1,4 @@
+[
+{"tokens": ["Instead", "their", "laptop", "guy", "on", "hand", "ignored", "me", "before", ",", "during", ",", "and", "after", "giving", "a", "guy", "directions", "to", "an", "apple", "store", "nearby", "."], "e1_text": "ignored", "e1_pos": 6, "e2_text": "giving", "e2_pos": 14, "label": "after"},
+{"tokens": ["At", "which", "point", "this", "robot", "continued", "to", "try", "to", "sell", "me", "on", "something", "else", "after", "reminding", "me", "that", "they", "do", "n't", "work", "for", "commission", "."], "e1_text": "sell", "e1_pos": 9, "e2_text": "reminding", "e2_pos": 15, "label": "after"}
+]

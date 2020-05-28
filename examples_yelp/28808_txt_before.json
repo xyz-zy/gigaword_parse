@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "combined", "reservation", "through", "Orbitz", "-LRB-", "hotel", ",", "flight", ",", "car", "-RRB-", "and", "paid", "before", "I", "got", "there", "-LRB-", "including", "for", "insurance", "-RRB-", "I", "show", "up", "to", "the", "counter", "and", "without", "telling", "me", "there", "was", "a", "new", "charge", ",", "they", "offered", "me", "a", "new", "Ford", "Fusion", "."], "e1_text": "paid", "e1_pos": 15, "e2_text": "got", "e2_pos": 18, "label": "before"}
+]

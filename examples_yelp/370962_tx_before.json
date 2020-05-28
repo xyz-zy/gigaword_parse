@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "finished", "our", "nachos", "and", "still", "no", "sign", "of", "our", "wings", ",", "our", "waitress", "passed", "us", "about", "four", "times", "before", "finally", "we", "asked", "the", "manager", "where", "are", "wings", "were", "."], "e1_text": "passed", "e1_pos": 14, "e2_text": "asked", "e2_pos": 22, "label": "before"}
+]

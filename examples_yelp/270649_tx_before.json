@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "waitress", "was", "slow", ",", "it", "took", "a", "long", "time", "to", "even", "get", "our", "water", "served", "at", "the", "beginning", ",", "so", "long", "that", "we", "had", "been", "ready", "to", "order", "for", "a", "while", "before", "she", "came", "with", "the", "water", "."], "e1_text": "been", "e1_pos": 25, "e2_text": "came", "e2_pos": 34, "label": "before"},
+{"tokens": ["It", "was", "well", "done", ",", "and", "apparently", "took", "longer", "than", "expected", "to", "bake", ",", "as", "we", "were", "served", "the", "warm", "HARD", "rolls", "and", "garlic", "bread", "approximately", "10", "minutes", "-LRB-", "just", "a", "minute", "-RRB-", "before", "the", "pasta", "and", "pizza", "were", "served", "."], "e1_text": "served", "e1_pos": 17, "e2_text": "were", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "waitress", "was", "not", "very", "attentive", "and", "delivered", "the", "check", "before", "we", "were", "finished", "eating", "."], "e1_text": "delivered", "e1_pos": 7, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

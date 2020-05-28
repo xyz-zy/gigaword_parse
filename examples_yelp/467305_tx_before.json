@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "start", ",", "the", "service", "was", "wonderful", ",", "just", "as", "it", "was", "before", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "was", "e2_pos": 5, "label": "before"},
+{"tokens": ["Every", "time", "we", "went", "through", "a", "glass", "of", "our", "drink", ",", "it", "was", "replaced", "almost", "before", "we", "even", "noticed", "!"], "e1_text": "replaced", "e1_pos": 13, "e2_text": "noticed", "e2_pos": 18, "label": "before"}
+]

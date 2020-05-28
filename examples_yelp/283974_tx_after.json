@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "'d", "think", "this", "restaurant", "did", "n't", "have", "servers", ",", "seeing", "that", "the", "waiters", "were", "wearing", "every", "day", "cloths", ",", "but", "that", "was", "n't", "a", "concern", "after", "noting", "such", "good", "service", "we", "got", "from", "them", "."], "e1_text": "was", "e1_pos": 22, "e2_text": "noting", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "'ve", "been", "meaning", "to", "check", "out", "the", "new", "Del", "'s", "after", "seeing", "the", "renovation", "show", "on", "tv", ",", "as", "I", "'m", "sure", "you", "'ve", "read", "about", "before", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "seeing", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["she", "never", "touched", "base", "with", "me", ",", "i", "had", "to", "call", "and", "email", "several", "times", "before", "she", "ever", "got", "back", "to", "me", "with", "updates", "."], "e1_text": "call", "e1_pos": 10, "e2_text": "got", "e2_pos": 18, "label": "before"},
+{"tokens": ["i", "guess", "i", "should", "have", "asked", "around", "before", "i", "went", "to", "shop", "there", "."], "e1_text": "asked", "e1_pos": 5, "e2_text": "went", "e2_pos": 9, "label": "before"}
+]

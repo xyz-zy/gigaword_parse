@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", "they", "forgot", "to", "bring", "me", "my", "steak", "-LRB-", "STRIKE", "4", "-RRB-", "so", "after", "everyone", "else", "'s", "food", "came", "-LRB-", "except", "for", "tortillas", "-RRB-", "We", "had", "to", "wait", "about", "7", "mins", "for", "our", "server", "to", "return", "and", "ask", "if", "we", "needed", "anything", "."], "e1_text": "bring", "e1_pos": 4, "e2_text": "came", "e2_pos": 18, "label": "after"},
+{"tokens": ["Finally", ",", "she", "brought", "out", "my", "steak", "and", "tortillas", "10", "mins", "after", "everyone", "'s", "food", "arrived", "."], "e1_text": "tortillas", "e1_pos": 8, "e2_text": "arrived", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "often", "leads", "to", "drive", "through", "customers", "having", "to", "go", "back", "to", "the", "store", "or", "go", "in", "side", "after", "going", "through", "the", "drive", "through", "just", "to", "get", "hot", "sauce", "if", "they", "forget", "to", "ask", "for", "it", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "going", "e2_pos": 19, "label": "after"}
+]

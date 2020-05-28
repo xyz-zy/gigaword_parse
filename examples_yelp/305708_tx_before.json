@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "went", "here", "an", "hour", "ago", "looking", "to", "grab", "a", "quick", "bite", "before", "getting", "ready", "for", "the", "Super", "Bowl", "later", "today", "."], "e1_text": "grab", "e1_pos": 8, "e2_text": "getting", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "had", "no", "choice", "but", "to", "bail", "before", "we", "were", "committed", "to", "waiting", "another", "45min", "to", "be", "seated", "and", "for", "our", "food", "to", "arrive", "."], "e1_text": "bail", "e1_pos": 6, "e2_text": "were", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "'ll", "be", "a", "long", "time", "before", "I", "go", "to", "Zada", "Jane", "'", "to", "eat", "...", "I", "mean", "WAIT", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "go", "e2_pos": 8, "label": "before"}
+]

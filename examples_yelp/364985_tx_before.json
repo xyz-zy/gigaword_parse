@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "really", "enjoyed", "the", "waitress", ",", "because", "she", "was", "attentive", "to", "us", ",", "and", "when", "I", "pointed", "out", "that", "2", "of", "our", "forks", "were", "dirty", "before", "we", "even", "used", "them", "she", "had", "us", "clean", "ones", "asap", "."], "e1_text": "were", "e1_pos": 23, "e2_text": "used", "e2_pos": 28, "label": "before"}
+]

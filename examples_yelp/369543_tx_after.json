@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "our", "whole", "meal", "after", "tax", "was", "$", "16", "!"], "e1_text": "think", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["She", "begged", "me", "to", "talk", "to", "the", "owner", "as", "he", "''", "``", "will", "not", "listen", "to", "requests", "from", "the", "staff", "''", "''", "and", "told", "me", "a", "story", "that", "only", "after", "enough", "customers", "demanded", "did", "they", "finally", "get", "Splenda", "despite", "the", "other", "servers", "all", "telling", "the", "owner", "how", "much", "it", "was", "asked", "for", "."], "e1_text": "told", "e1_pos": 23, "e2_text": "demanded", "e2_pos": 32, "label": "after"}
+]

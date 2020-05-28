@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", ",", "there", "were", "still", "tables", "from", "$", "15", "and", "up", "on", "a", "Thanksgiving", "Friday", "night", "which", "did", "n't", "have", "that", "small", "print", ",", "but", "I", "resent", "having", "to", "scour", "the", "table", "for", "small", "print", "before", "I", "sit", "down", "."], "e1_text": "scour", "e1_pos": 29, "e2_text": "sit", "e2_pos": 37, "label": "before"}
+]

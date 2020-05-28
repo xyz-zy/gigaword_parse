@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "looking", "forward", "to", "trying", "David", "Bann", "for", "months", ",", "especially", "after", "several", "Yelpers", "raved", "about", "it", "."], "e1_text": "looking", "e1_pos": 3, "e2_text": "raved", "e2_pos": 16, "label": "after"},
+{"tokens": ["When", "we", "finally", "asked", "about", "the", "food", "we", "were", "told", "that", "two", "of", "the", "dishes", "took", "a", "long", "time", "to", "prepare", ",", "but", "no", "one", "informed", "us", "of", "this", "when", "we", "ordered", "-", "we", "'re", "in", "for", "lunch", ",", "we", "do", "n't", "have", "the", "time", "to", "wait", "35", "minutes", "for", "food", "after", "waiting", "twenty", "to", "order", "a", "pitcher", "of", "water", "!"], "e1_text": "wait", "e1_pos": 46, "e2_text": "waiting", "e2_pos": 52, "label": "after"}
+]

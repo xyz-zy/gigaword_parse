@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "seated", ",", "we", "became", "invisible", "to", "the", "point", "where", "my", "dinner", "companion", "had", "to", "go", "hunt", "down", "someone", "to", "take", "our", "drink", "order", "after", "waiting", "at", "the", "table", "another", "30", "minutes", "."], "e1_text": "take", "e1_pos": 20, "e2_text": "waiting", "e2_pos": 25, "label": "after"},
+{"tokens": ["Coupled", "with", "the", "fact", "that", "3", "tables", "seated", "after", "us", "were", "gone", "by", "the", "time", "our", "main", "course", "came", ",", "did", "n't", "help", "my", "mood", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

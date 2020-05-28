@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fancy", "pants", "french", "place", "is", "close", "but", "the", "ordering", "process", "with", "the", "30", "ladies", "behind", "the", "counter", "expecting", "you", "to", "know", "your", "pastry", "order", "before", "you", "have", "been", "able", "to", "see", "the", "pastries", "and", "then", "waiting", "another", "10", "minutes", "after", "that", "to", "actually", "pick", "your", "muffin", "up", "is", "so", "excruciating", "it", "makes", "you", "want", "to", "give", "up", "your", "morning", "coffee", "and", "breakfast", "habit", "."], "e1_text": "know", "e1_pos": 21, "e2_text": "have", "e2_pos": 27, "label": "before"}
+]

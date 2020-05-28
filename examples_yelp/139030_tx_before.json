@@ -1,0 +1,3 @@
+[
+{"tokens": ["How", "long", "do", "you", "leave", "chicken", "sitting", "under", "the", "heater", "before", "you", "serve", "it", "???", "The", "chicken", "was", "dry", ",", "dry", ",", "dry", "and", "I", "could", "tell", "by", "looking", "at", "it", "."], "e1_text": "sitting", "e1_pos": 6, "e2_text": "serve", "e2_pos": 12, "label": "before"}
+]

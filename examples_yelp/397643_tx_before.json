@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waited", "longer", "than", "two", "others", "who", "arrives", "after", "we", "ordered", "and", "one", "couple", "got", "an", "order", "corrected", "before", "we", "decided", "to", "leave", "."], "e1_text": "corrected", "e1_pos": 16, "e2_text": "decided", "e2_pos": 19, "label": "before"}
+]

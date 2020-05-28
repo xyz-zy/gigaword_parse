@@ -1,0 +1,3 @@
+[
+{"tokens": ["Hers", "arrived", "with", "a", "tea", "bag", "in", "the", "pot", ",", "but", "I", "just", "got", "a", "pot", "of", "hot", "water", "and", "someone", "from", "the", "kitchen", "with", "a", "tea", "bag", "trying", "to", "run", "and", "catch", "up", "with", "the", "server", "before", "he", "delivered", "the", "hot", "water", "."], "e1_text": "catch", "e1_pos": 32, "e2_text": "delivered", "e2_pos": 39, "label": "before"}
+]

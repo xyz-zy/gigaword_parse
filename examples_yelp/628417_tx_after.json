@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "saw", "this", "place", "after", "going", "to", "the", "nearby", "Taco", "Bell", "a", "few", "months", "ago", "I", "made", "a", "new", "mental", "note", "to", "look", "it", "up", "because", "it", "looked", "pretty", "promising", "."], "e1_text": "saw", "e1_pos": 2, "e2_text": "going", "e2_pos": 6, "label": "after"},
+{"tokens": ["Fast", "forward", "to", "today", ",", "not", "feeling", "like", "driving", "far", "too", "another", "shop", ",", "I", "decided", "to", "take", "my", "chances", "-LRB-", "which", "I", "never", "do", "usually", "after", "seeing", "a", "bad", "rating", "on", "yelp", "-RRB-", "."], "e1_text": "do", "e1_pos": 24, "e2_text": "seeing", "e2_pos": 27, "label": "after"}
+]

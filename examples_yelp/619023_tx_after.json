@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "scared", "or", "nervous", "after", "seeing", "him", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "was", "amazed", "I", "was", "walking", "after", "just", "having", "ACL", "reconstruction", "!"], "e1_text": "walking", "e1_pos": 5, "e2_text": "having", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "heard", "SO", "MUCH", "about", "Portillo", "'s", "before", "going", ",", "but", "despite", "that", "I", "did", "n't", "realize", "it", "'s", "basically", "glorified", "fast", "food", "-LRB-", "and", "I", "do", "n't", "mean", "that", "in", "a", "bad", "way", "at", "all", "-RRB-", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "going", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "write", "it", "down", "as", "you", "order", "and", "call", "it", "out", "to", "the", "back", "over", "a", "microphone", "before", "ringing", "it", "up", "."], "e1_text": "call", "e1_pos": 8, "e2_text": "ringing", "e2_pos": 18, "label": "before"}
+]

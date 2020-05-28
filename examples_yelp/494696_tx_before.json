@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'ll", "also", "give", "you", "a", "place", "to", "freshen", "up", "before", "hitting", "the", "club", "and", "crash\\/party", "afterwards", "."], "e1_text": "freshen", "e1_pos": 8, "e2_text": "hitting", "e2_pos": 11, "label": "before"},
+{"tokens": ["DJ", "Lisa", "Pittman", "worked", "it", "at", "the", "pool", "while", "Eddie", "Makabi", "and", "another", "DJ", "pumped", "up", "the", "beats", "inside", "before", "the", "headliners", "came", "out", "around", "12:30", "."], "e1_text": "pumped", "e1_pos": 14, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

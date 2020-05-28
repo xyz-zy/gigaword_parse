@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "sister", "did", "not", "have", "her", "license", "yet", "as", "she", "still", "had", "to", "take", "the", "2", "tests", "before", "she", "was", "officially", "a", "cosmetologist", "so", "she", "was", "hired", "to", "do", "training", "at", "the", "time", "."], "e1_text": "take", "e1_pos": 13, "e2_text": "was", "e2_pos": 19, "label": "before"},
+{"tokens": ["She", "worked", "a", "total", "of", "11", "hours", "before", "she", "realized", "this", "Salon", "was", "not", "the", "one", "for", "her", "."], "e1_text": "worked", "e1_pos": 1, "e2_text": "realized", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hotel", "staff", "guy", "said", "that", "he", "needs", "to", "make", "sure", "were", "completely", "gone", "before", "he", "gives", "them", "the", "ok", "."], "e1_text": "make", "e1_pos": 9, "e2_text": "gives", "e2_pos": 16, "label": "before"}
+]

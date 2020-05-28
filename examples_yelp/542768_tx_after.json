@@ -1,0 +1,3 @@
+[
+{"tokens": ["Only", "problem", "is", "the", "lines", "were", "so", "long", ",", "after", "waiting", "two", "hours", "in", "one", "line", ",", "yes", ",", "one", "line", "and", "I", "admit", "that", "sounds", "excessive", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

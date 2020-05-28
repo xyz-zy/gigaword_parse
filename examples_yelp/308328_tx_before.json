@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "n't", "late", "but", "I", "was", "too", "tired", "from", "my", "flight", "to", "venture", "out", "and", "look", "for", "a", "restaurant", "so", "I", "stopped", "by", "Caffe", "Siena", "before", "retiring", "for", "the", "night", "."], "e1_text": "stopped", "e1_pos": 22, "e2_text": "retiring", "e2_pos": 27, "label": "before"},
+{"tokens": ["My", "server", "Donald", ",", "came", "a", "few", "minutes", "later", "and", "filled", "my", "glass", "before", "rushing", "off", "to", "do", "something", "else", "."], "e1_text": "filled", "e1_pos": 10, "e2_text": "rushing", "e2_pos": 14, "label": "before"}
+]

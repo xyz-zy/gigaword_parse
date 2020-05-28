@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*", "NOTE", "-", "the", "owner", "did", "send", "me", "a", "private", "message", "after", "reading", "the", "review", "with", "an", "apology", ",", "and", "assurance", "that", "he", "addressed", "the", "staff", "and", "management", "and", "that", "it", "would", "not", "happen", "again", "."], "e1_text": "send", "e1_pos": 6, "e2_text": "reading", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "visited", "Fast", "Med", "after", "falling", "during", "a", "hike", "and", "was", "told", "by", "the", "receptionist", "that", "the", "wait", "would", "be", "an", "hour", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "falling", "e2_pos": 5, "label": "after"},
+{"tokens": ["After", "waiting", "for", "over", "2", "hours", "and", "having", "multiple", "patients", "who", "arrived", "after", "me", "-LRB-", "and", "did", "not", "sign", "up", "online", "-RRB-", "called", "in", ",", "we", "left", "the", "facility", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "called", "e2_pos": 22, "label": "after"}
+]

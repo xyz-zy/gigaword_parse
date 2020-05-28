@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "GF", "is", "from", "China", "and", "she", "was", "in", "heaven", "at", "Dynasty", "after", "traveling", "around", "with", "me", "in", "the", "USA", "and", "only", "able", "to", "find", "American", "style", "Chinese", "over", "the", "past", "few", "weeks", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "traveling", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "can", "semi-accurately", "make", "this", "assessment", "after", "living", "in", "China", "for", "8", "years", ":-RRB-", "."], "e1_text": "make", "e1_pos": 3, "e2_text": "living", "e2_pos": 7, "label": "after"}
+]

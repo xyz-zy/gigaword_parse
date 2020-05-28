@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "start", "off", "with", ",", "the", "waitresses", "comes", "to", "our", "table", "and", "says", "''", "``", "before", "you", "order", ",", "I", "'ve", "got", "to", "let", "you", "know", "that", "we", "do", "things", "around", "here", "differently", "and", "this", "is", "n't", "Dominoes", ".", "''", "''"], "e1_text": "start", "e1_pos": 1, "e2_text": "order", "e2_pos": 17, "label": "before"}
+]

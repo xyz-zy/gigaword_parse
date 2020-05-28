@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "waited", "another", "ten", "minutes", "before", "the", "waitress", "came", "over", ",", "without", "asking", "if", "we", "wanted", "more", "drinks", ",", "I", "might", "add", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["After", "we", "finished", "the", "beet", "salad", ",", "the", "plates", "just", "sat", "on", "the", "table", ",", "taking", "up", "space", "until", "just", "before", "our", "entrees", "came", "out", "."], "e1_text": "taking", "e1_pos": 15, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["To", "her", "credit", ",", "she", "did", "have", "them", "taken", "off", "the", "bill", ",", "but", "not", "before", "talking", "to", "us", "like", "we", "were", "a", "bunch", "of", "toddlers", "throwing", "a", "fit", "."], "e1_text": "taken", "e1_pos": 8, "e2_text": "talking", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "said", "she", "believed", "us", ",", "because", "''", "``", "this", "had", "happened", "before", ".", "''", "''"], "e1_text": "said", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["Chef", "Kerry", "Simon", "needs", "to", "teach", "the", "chef", "about", "using", "thermometers", "before", "someone", "gets", "food", "poisoning", "."], "e1_text": "using", "e1_pos": 9, "e2_text": "gets", "e2_pos": 13, "label": "before"}
+]

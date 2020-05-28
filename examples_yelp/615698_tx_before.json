@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "hate", "checking", "the", "food", "before", "I", "leave", "."], "e1_text": "checking", "e1_pos": 2, "e2_text": "leave", "e2_pos": 7, "label": "before"},
+{"tokens": ["My", "assumption", "is", "the", "staff", "does", "n't", "care", "-LRB-", "which", "I", "mentioned", "before", "-RRB-", "."], "e1_text": "care", "e1_pos": 7, "e2_text": "mentioned", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "some", "trouble", "communicating", "with", "our", "server", "-", "one", "guest", "was", "late", ",", "and", "I", "think", "he", "was", "waiting", "on", "her", "to", "get", "there", "before", "we", "ordered", "drinks", ",", "but", "I", "ca", "n't", "hold", "that", "against", "him", "as", "he", "was", "just", "triple-sat", "."], "e1_text": "get", "e1_pos": 23, "e2_text": "ordered", "e2_pos": 27, "label": "before"}
+]

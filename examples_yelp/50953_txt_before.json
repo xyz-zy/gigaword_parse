@@ -1,0 +1,4 @@
+[
+{"tokens": ["Can", "you", "believe", "they", "actually", "got", "all", "their", "putters", "and", "balls", "before", "we", "even", "got", "the", "consideration", "of", "a", "glance", "from", "the", "employee", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "got", "e2_pos": 5, "label": "before"},
+{"tokens": ["There", "was", "not", "an", "employee", "available", "to", "help", "so", "we", "waited", "around", "for", "a", "few", "minutes", "before", "someone", "finally", "showed", "up", "only", "to", "tell", "us", "that", "there", "were", "only", "two", "bumper", "boats", "that", "were", "operational", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "showed", "e2_pos": 19, "label": "before"}
+]

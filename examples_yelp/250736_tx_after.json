@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", "she", "came", "by", ",", "after", "I", "think", "the", "manager", "saw", "we", "were", "getting", "irritated", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "think", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "noticed", "people", "that", "came", "in", "after", "us", "were", "getting", "served", "even", "before", "us", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "waitress", "had", "come", "around", "once", "to", "say", "she", "will", "be", "right", "back", "with", "the", "check", ",", "but", "after", "10", "minutes", "or", "so", "of", "waiting", "we", "got", "up", "and", "went", "to", "the", "front", "of", "the", "restaurant", "were", "she", "was", "putting", "in", "a", "new", "order", "on", "the", "computer", "."], "e1_text": "say", "e1_pos": 7, "e2_text": "was", "e2_pos": 38, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "do", "n't", "realize", "how", "awful", "the", "food", "really", "is", "until", "about", "30", "minutes", "after", "you", "have", "eaten", "it", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "have", "e2_pos": 16, "label": "after"},
+{"tokens": ["But", "you", "do", "n't", "realize", "how", "much", "grease", "until", "15-30", "minutes", "after", "eating", "when", "your", "skin", "gets", "oily", ",", "you", "feel", "sludgy", ",", "thirsty", ",", "and", "loose", "your", "energy", "."], "e1_text": "grease", "e1_pos": 7, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

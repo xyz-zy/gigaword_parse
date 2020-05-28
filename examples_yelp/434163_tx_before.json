@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "all", "the", "body", "work", "and", "painting", "was", "done", ",", "they", "detailed", "my", "car", "inside", "and", "out", "before", "I", "picked", "it", "up", "."], "e1_text": "detailed", "e1_pos": 11, "e2_text": "picked", "e2_pos": 19, "label": "before"}
+]

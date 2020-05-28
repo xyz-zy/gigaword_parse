@@ -1,0 +1,4 @@
+[
+{"tokens": ["Louie", "is", "fairly", "funny", ",", "speaking", "a", "lot", "about", "Vegas", "at", "first", "before", "moving", "on", "to", "his", "life", "growing", "up", "with", "a", "kleptomaniac", "mother", "and", "drunk", "father", "."], "e1_text": "speaking", "e1_pos": 5, "e2_text": "moving", "e2_pos": 13, "label": "before"},
+{"tokens": ["Pricey", "for", "a", "comedian", "act", "so", "see", "if", "you", "can", "get", "a", "discount", "somewhere", "before", "checking", "him", "out", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "checking", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "group", "got", "there", "at", "4:45", "and", "racked", "up", "most", "of", "the", "damage", "before", "HH", "ended", ",", "but", "the", "last", "few", "items", "boosted", "the", "check", "up", "by", "a", "third", "."], "e1_text": "racked", "e1_pos": 7, "e2_text": "ended", "e2_pos": 15, "label": "before"}
+]

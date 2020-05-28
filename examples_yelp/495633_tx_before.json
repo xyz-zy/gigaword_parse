@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "pretty", "ticked", "off", ",", "and", "he", "got", "me", "before", "I", "blew", "up", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "blew", "e2_pos": 12, "label": "before"},
+{"tokens": ["Offered", "more", "drinks", "...", "Anyway", ",", "I", "felt", "bad", "for", "not", "giving", "him", "a", "chance", "to", "make", "it", "right", "before", "I", "started", "to", "go", "off", "the", "deep", "end", "with", "him", ",", "I", "tipped", "the", "jar", "$", "5", "of", "the", "money", "I", "got", "back", "."], "e1_text": "make", "e1_pos": 16, "e2_text": "started", "e2_pos": 21, "label": "before"}
+]

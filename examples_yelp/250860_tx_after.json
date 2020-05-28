@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "turned", "out", "that", "after", "spending", "5", "hours", "working", "on", "getting", "to", "a", "hard", "to", "reach", "sensor", ",", "it", "did", "n't", "fix", "the", "problem", "so", "I", "decided", "to", "take", "the", "car", "to", "Gene", "to", "have", "it", "fixed", "."], "e1_text": "turned", "e1_pos": 1, "e2_text": "spending", "e2_pos": 5, "label": "after"},
+{"tokens": ["He", "proceeded", "re-wiring", "a", "connector", "that", "would", "no", "longer", "clip", "in", "after", "I", "undid", "the", "crankshaft", "sensor", "."], "e1_text": "clip", "e1_pos": 9, "e2_text": "undid", "e2_pos": 13, "label": "after"},
+{"tokens": ["Ultimately", "I", "took", "the", "car", "back", "to", "Gene", "after", "the", "dealer", "fixed", "it", "so", "that", "he", "can", "see", "what", "the", "dealer", "did", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "fixed", "e2_pos": 11, "label": "after"}
+]

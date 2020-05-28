@@ -1,0 +1,5 @@
+[
+{"tokens": ["Glad", "we", "got", "out", "before", "that", "happened", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "happened", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "parked", "at", "Berrybrook", ",", "but", "since", "it", "was", "6:00", ",", "they", "were", "still", "open", "and", "you", "can", "only", "park", "in", "some", "of", "their", "spaces", "after", "5:00", "but", "before", "they", "close", "."], "e1_text": "parked", "e1_pos": 1, "e2_text": "close", "e2_pos": 30, "label": "before"},
+{"tokens": ["They", "have", "a", "96", "rating", "-LRB-", "we", "searched", "for", "it", "before", "we", "ordered", "-RRB-", ",", "but", "my", "silverware", "had", "something", "on", "it", "as", "did", "one", "of", "the", "appetizer", "plates", "they", "brought", "us", "."], "e1_text": "searched", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "before"}
+]

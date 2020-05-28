@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "embarassed", "because", "I", "was", "n't", "paying", "attention", "and", "I", "just", "wanted", "to", "give", "him", "a", "flat", "$", "30", "after", "eating", "$", "26", "something", "."], "e1_text": "give", "e1_pos": 14, "e2_text": "eating", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "still", "gave", "it", "a", "chance", "after", "being", "shooed", "away", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

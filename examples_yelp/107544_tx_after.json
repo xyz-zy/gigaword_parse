@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "maybe", "I", "had", "the", "wrong", "address", ",", "my", "iPhone", "was", "lost", ",", "or", "it", "was", "to", "late", "at", "night", "after", "an", "evening", "of", "looking", "for", "the", "perfect", "drinking", "hole", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "looking", "e2_pos": 25, "label": "after"},
+{"tokens": ["So", "I", "tried", "it", "several", "months", "later", "in", "the", "early", "evening", ",", "and", "finally", "found", "it", "after", "driving", "by", "it", "three", "times", "."], "e1_text": "found", "e1_pos": 14, "e2_text": "driving", "e2_pos": 17, "label": "after"}
+]

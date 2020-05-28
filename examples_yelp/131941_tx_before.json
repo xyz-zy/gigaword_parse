@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "other", "thing", "that", "was", "irritating", "is", "that", "we", "got", "our", "Diamond", "Club", "welcome", "call", "at", "4:30", "the", "evening", "before", "check", "out", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "check", "e2_pos": 20, "label": "before"},
+{"tokens": ["NOT", "much", "you", "can", "do", "the", "evening", "before", "we", "check", "out", "."], "e1_text": "do", "e1_pos": 4, "e2_text": "check", "e2_pos": 9, "label": "before"}
+]

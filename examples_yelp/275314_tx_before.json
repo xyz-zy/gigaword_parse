@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "roommate", "and", "I", "drove", "past", "this", "place", "a", "few", "times", "before", "finally", "deciding", "today", "to", "stop", "by", "Agritopia", "and", "see", "what", "it", "'s", "all", "about", "."], "e1_text": "drove", "e1_pos": 4, "e2_text": "deciding", "e2_pos": 13, "label": "before"},
+{"tokens": ["You", "ca", "n't", "see", "THE", "COFFEE", "SHOP", "sign", "from", "the", "street", ",", "so", "we", "did", "n't", "even", "know", "about", "the", "place", "before", "pulling", "in", ",", "we", "just", "wanted", "to", "find", "out", "what", "Agritopia", "was", "about", "."], "e1_text": "know", "e1_pos": 17, "e2_text": "pulling", "e2_pos": 22, "label": "before"}
+]

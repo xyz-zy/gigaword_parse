@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "starving", "after", "my", "plane", "arrived", "and", "rolled", "into", "this", "joint", "for", "a", "big", "juicy", "burger", "--", "well", "it", "filled", "my", "hole", "up", "but", "was", "not", "the", "best", "I", "'ve", "had", ".", "."], "e1_text": "starving", "e1_pos": 2, "e2_text": "arrived", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "tasted", "smoke", "flavor", "the", "rest", "of", "the", "day", "even", "after", "brushing", "!"], "e1_text": "tasted", "e1_pos": 1, "e2_text": "brushing", "e2_pos": 11, "label": "after"}
+]

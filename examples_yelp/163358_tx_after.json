@@ -1,0 +1,3 @@
+[
+{"tokens": ["minus", "a", "star", "for", "poor", "design", "of", "the", "new", "wing", "...", "it", "'s", "really", "difficult", "to", "find", "your", "room", "-LRB-", "it", "took", "us", "15", "minutes", "to", "get", "from", "the", "parking", "structure", "to", "our", "room", "even", "after", "we", "knew", "where", "we", "were", "going", "-RRB-", "and", "while", "it", "'s", "beautiful", ",", "the", "hallways", "start", "to", "look", "the", "same", "after", "a", "while", "."], "e1_text": "get", "e1_pos": 26, "e2_text": "knew", "e2_pos": 37, "label": "after"}
+]

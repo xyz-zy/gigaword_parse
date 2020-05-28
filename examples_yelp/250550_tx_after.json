@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "result", "is", "something", "that", "does", "n't", "stretch", "for", "miles", "on", "end", "after", "you", "take", "a", "bite", ",", "only", "to", "sloppily", "land", "on", "your", "shirt", "or", "even", "worse", ",", "drop", "food", "onto", "your", "lap", "or", "plate", "."], "e1_text": "stretch", "e1_pos": 7, "e2_text": "take", "e2_pos": 14, "label": "after"}
+]

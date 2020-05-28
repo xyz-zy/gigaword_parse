@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ran", "out", "of", "wine", "just", "before", "they", "served", "the", "steak", ",", "so", "I", "went", "in", "half", "with", "one", "of", "our", "younger", "guests", "for", "a", "standard", "sized", "bottle", "of", "wine", "."], "e1_text": "ran", "e1_pos": 1, "e2_text": "served", "e2_pos": 8, "label": "before"}
+]

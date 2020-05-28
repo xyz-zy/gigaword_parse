@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "biggie", ",", "we", "both", "got", "a", "glass", "of", "wine", "and", "waited", "just", "a", "short", "while", "before", "our", "table", "opened", "up", "."], "e1_text": "waited", "e1_pos": 11, "e2_text": "opened", "e2_pos": 19, "label": "before"},
+{"tokens": ["Yeah", "...", "that", "argument", "only", "holds", "weight", "for", "so", "long", "before", "you", "realize", "you", "'ve", "still", "been", "sitting", "there", "with", "a", "glass", "of", "wine", "from", "the", "bar", "and", "NO", "MENUS", "OR", "ANY", "ACKNOWLEDGEMENT", "FROM", "ANYONE", "."], "e1_text": "holds", "e1_pos": 5, "e2_text": "realize", "e2_pos": 12, "label": "before"}
+]

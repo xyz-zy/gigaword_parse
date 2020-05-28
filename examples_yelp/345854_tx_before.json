@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "noticed", "the", "sign", "for", "Shakey", "Jake", "'s", "before", "it", "even", "opened", "."], "e1_text": "noticed", "e1_pos": 1, "e2_text": "opened", "e2_pos": 11, "label": "before"},
+{"tokens": ["When", "we", "left", ",", "I", "was", "full", "and", "not", "as", "aggravated", "like", "I", "was", "before", "."], "e1_text": "aggravated", "e1_pos": 10, "e2_text": "was", "e2_pos": 5, "label": "before"}
+]

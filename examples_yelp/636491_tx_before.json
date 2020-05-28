@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "that", "they", "do", "not", "encourage", "wasting", "food", ",", "on", "the", "menu", "it", "specifically", "says", "that", "you", "must", "finish", "ALL", "food", "before", "requesting", "for", "more", "if", "you", "choose", "the", "buffet", "menu", "."], "e1_text": "finish", "e1_pos": 19, "e2_text": "requesting", "e2_pos": 23, "label": "before"}
+]

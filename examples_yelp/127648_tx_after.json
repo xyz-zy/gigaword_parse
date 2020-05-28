@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "then", "discovered", "the", "MyVegas", "Facebook", "app", "and", "accrued", "enough", "points", "to", "redeem", "them", "for", "a", "free", "night", "at", "Excalibur", "the", "day", "after", "we", "checked", "out", "of", "Monte", "Carlo", "on", "the", "morning", "of", "June", "6th", "."], "e1_text": "redeem", "e1_pos": 12, "e2_text": "checked", "e2_pos": 24, "label": "after"},
+{"tokens": ["We", "wanted", "to", "take", "a", "nap", "after", "we", "checked", "in", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "checked", "e2_pos": 8, "label": "after"}
+]

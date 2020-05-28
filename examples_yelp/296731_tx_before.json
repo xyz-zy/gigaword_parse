@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "n't", "believe", "how", "thoughtful", "she", "had", "been", "in", "thinking", "to", "ask", "where", "I", "was", "parked", "and", "then", "to", "actually", "go", "out", ",", "look", "for", "my", "car", ",", "and", "put", "money", "in", "before", "I", "got", "a", "ticket", "."], "e1_text": "put", "e1_pos": 30, "e2_text": "got", "e2_pos": 35, "label": "before"},
+{"tokens": ["Once", "back", ",", "Judit", "'s", "mother", "prepped", "my", "feel", "and", "did", "the", "first", "part", "of", "the", "pedicure", "-LRB-", "foot", "soak\\/bath", ",", "exfoliation", ",", "etc", "-RRB-", "before", "Judit", "came", "to", "do", "the", "paraffin", "bootie", "treatment", ",", "nail", "shaping", ",", "and", "polish", "."], "e1_text": "did", "e1_pos": 10, "e2_text": "came", "e2_pos": 27, "label": "before"}
+]

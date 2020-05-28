@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "ready", "to", "book", "a", "room", "with", "MGM", "or", "Bellagio", ",", "but", "became", "convinced", "after", "reading", "good", "reviews", "that", "we", "'d", "get", "more", "from", "our", "money", "with", "a", "Celebrity", "Suite", "at", "Luxor", ",", "which", "sounded", "really", "cool", "and", "looked", "amazing", "from", "the", "pictures", "...", "so", "we", "booked", "the", "room", "."], "e1_text": "became", "e1_pos": 13, "e2_text": "reading", "e2_pos": 16, "label": "after"}
+]

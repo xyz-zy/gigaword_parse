@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "also", "need", "to", "put", "down", "a", "$", "99", "deposit", "which", "would", "be", "returned", "to", "me", "after", "I", "attended", "the", "tour", "."], "e1_text": "need", "e1_pos": 3, "e2_text": "attended", "e2_pos": 19, "label": "after"},
+{"tokens": ["So", "of", "course", "I", "made", "plans", "already", "to", "leave", "right", "after", "check", "out", "."], "e1_text": "leave", "e1_pos": 8, "e2_text": "check", "e2_pos": 11, "label": "after"}
+]

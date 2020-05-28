@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "a", "Saturday", "morning", "it", "'s", "closed", "to", "general", "public", "until", "10.30", "am", "as", "before", "that", "it", "'s", "lessons", "and", "kids", "'", "hour", "."], "e1_text": "'s", "e1_pos": 5, "e2_text": "am", "e2_pos": 12, "label": "before"}
+]

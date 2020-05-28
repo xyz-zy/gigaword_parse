@@ -1,0 +1,4 @@
+[
+{"tokens": ["Granted", ",", "we", "had", "to", "wait", "15", "minutes", "for", "our", "other", "half", "of", "the", "party", "to", "arrive", ",", "but", "after", "they", "got", "here", ",", "it", "was", "another", "15", "minutes", "before", "we", "were", "even", "noticed", "again", "and", "approached", "for", "dishes", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "were", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "understand", "it", "might", "have", "been", "busy", ",", "but", "there", "were", "two", "groups", "aside", "from", "us", "there", "that", "got", "their", "food", "and", "left", "before", "we", "had", "even", "gotten", "our", "second", "dishes", "."], "e1_text": "left", "e1_pos": 22, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

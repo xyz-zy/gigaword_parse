@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "my", "wife", "asked", "for", "lemons", "and", "she", "walked", "by", "our", "table", "at", "least", "5", "times", "before", "she", "remembered", "to", "get", "them", "."], "e1_text": "walked", "e1_pos": 8, "e2_text": "remembered", "e2_pos": 18, "label": "before"},
+{"tokens": ["Overall", ",", "it", "will", "be", "quite", "a", "while", "before", "we", "head", "back", "to", "TGI", "Fridays", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "head", "e2_pos": 10, "label": "before"}
+]

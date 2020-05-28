@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "server", "did", "n't", "understand", "that", "bringing", "water", "to", "your", "guest", "is", "more", "important", "than", "bussing", "your", "tables", ",", "she", "bussed", "two", "tables", "before", "she", "completed", "my", "drink", "request", "."], "e1_text": "bussed", "e1_pos": 20, "e2_text": "completed", "e2_pos": 25, "label": "before"},
+{"tokens": ["Again", "the", "service", "was", "disappointing", ",", "it", "was", "obvious", "my", "plate", "had", "''", "``", "sat", "''", "''", "before", "it", "got", "to", "me", ",", "the", "sauce", "on", "my", "pasta", "had", "a", "skin", "on", "it", "and", "my", "salad", "was", "warm", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

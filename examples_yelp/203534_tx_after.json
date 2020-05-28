@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "the", "managers", "even", "came", "to", "the", "table", "after", "we", "got", "our", "meal", "to", "ask", "how", "everything", "was", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["Amberlee", "brought", "out", "corn", "muffins", "right", "after", "she", "took", "our", "order", ",", "which", "were", "not", "only", "moist", "but", "super", "tasty", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "took", "e2_pos": 8, "label": "after"}
+]

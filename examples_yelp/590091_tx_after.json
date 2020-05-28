@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "also", "took", "forever", "giving", "us", "the", "bill", "even", "after", "we", "had", "told", "her", "we", "were", "in", "a", "hurry", "and", "a", "party", "member", "had", "to", "track", "her", "down", "to", "get", "her", "to", "take", "the", "bill", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

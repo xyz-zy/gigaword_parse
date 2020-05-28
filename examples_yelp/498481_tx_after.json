@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "first", "everything", "seemed", "to", "be", "going", "well", ",", "but", "after", "my", "grandma", "and", "my", "cousin", "got", "settled", "in", "to", "their", "pedicure", "chairs", "and", "I", "sat", "up", "at", "the", "nail", "bar", ",", "that", "is", "when", "I", "started", "to", "become", "disappointed", "with", "this", "location", "."], "e1_text": "seemed", "e1_pos": 3, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["Additionally", "my", "grandma", "ended", "up", "having", "to", "file", "her", "nails", "again", "after", "we", "got", "home", "and", "now", "has", "an", "infection", "on", "her", "toe", "."], "e1_text": "file", "e1_pos": 7, "e2_text": "got", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "arrived", "after", "Megan", "and", "her", "husband", "had", "already", "sat", "down", "and", "ordered", "drinks", ",", "and", "it", "took", "a", "while", "for", "someone", "to", "notice", "we", "were", "there", "with", "nothing", "to", "sip", "on", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

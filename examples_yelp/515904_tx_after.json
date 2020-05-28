@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "what", "earned", "this", "salon", "a", "5", "star", "was", "the", "Organic", "Care", "Systems", "Sooth", "Plus", "shampoo", "recommended", "by", "Chanel", "after", "explaining", "to", "her", "the", "intense", "scalp", "itching", "I", "had", "been", "experiencing", "for", "almost", "two", "months", "-LRB-", "my", "first", "time", "at", "this", "salon", "-RRB-", "."], "e1_text": "recommended", "e1_pos": 17, "e2_text": "explaining", "e2_pos": 21, "label": "after"},
+{"tokens": ["This", "stuff", "is", "expensive", ",", "but", "after", "two", "months", "of", "sitting", "on", "my", "hands", "in", "meetings", "to", "keep", "from", "scratching", "my", "scalp", ",", "worth", "every", "penny", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 10, "label": "after"}
+]

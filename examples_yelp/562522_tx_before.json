@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "happened", "twice", "before", "and", "Riverset", "did", "an", "''", "``", "override", "''", "''", ",", "but", "refused", "this", "time", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "override", "e2_pos": 10, "label": "before"}
+]

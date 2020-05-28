@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "walked", "in", "the", "lady", "behind", "the", "register", "waved", "me", "in", "and", "said", "''", "''", "hello", "''", "''", "a", "call", "came", "in", "so", "another", "employee", "came", "from", "the", "back", "to", "help", "me", "and", "in", "face", "suggested", "the", "dish", "I", "ordered", "after", "I", "told", "her", "what", "my", "craving", "was", "for", "!"], "e1_text": "ordered", "e1_pos": 40, "e2_text": "told", "e2_pos": 43, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", ",", "we", "waited", "some", "more", "after", "she", "-LRB-", "very", "rudely", "-RRB-", "told", "us", "that", "we", "would", "need", "to", "wait", "longer", "for", "our", "table", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "told", "e2_pos": 12, "label": "after"}
+]

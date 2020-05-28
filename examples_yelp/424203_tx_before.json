@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "willing", "to", "make", "the", "full", "payment", "before", "I", "go", "."], "e1_text": "make", "e1_pos": 4, "e2_text": "go", "e2_pos": 10, "label": "before"},
+{"tokens": ["So", "I", "told", "them", "how", "about", "I", "had", "this", "appointment", "and", "make", "the", "payment", "in", "three", "days", "before", "I", "go", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "go", "e2_pos": 19, "label": "before"}
+]

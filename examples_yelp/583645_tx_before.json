@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "meal", "...", "the", "steak", "was", "over", "cooked", ",", "it", "had", "a", "good", "flavor", "but", "was", "n't", "nearly", "as", "good", "as", "the", "fillet", "I", "had", "at", "Joe", "'s", "the", "night", "before", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "agree", "that", "parking", "is", "a", "nightmare", ",", "so", "I", "suggest", "you", "get", "there", "a", "little", "before", "the", "stores", "open", "to", "get", "a", "good", "spot", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "open", "e2_pos": 19, "label": "before"},
+{"tokens": ["Although", "I", "love", "shopping", "as", "much", "as", "the", "next", "girl", ",", "I", "really", "just", "like", "to", "get", "in", "quickly", "and", "get", "the", "heck", "out", "of", "there", "before", "it", "gets", "to", "packed", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "gets", "e2_pos": 28, "label": "before"}
+]

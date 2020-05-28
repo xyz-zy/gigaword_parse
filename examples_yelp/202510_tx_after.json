@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "found", "out", "after", "I", "ordered", "by", "looking", "closely", "at", "the", "menu", "...", "if", "I", "knew", ",", "I", "would", "have", "spent", "less", "than", "that", "at", "starbucks", "for", "better", "coffee", "-RRB-", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "he", "went", "to", "pick", "up", "our", "orders", "he", "sat", "for", "20", "minutes", "and", "after", "being", "ignored", "for", "so", "long", "he", "called", "them", "from", "the", "counter", "and", "asked", "if", "he", "could", "have", "our", "order", "."], "e1_text": "sat", "e1_pos": 9, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

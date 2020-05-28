@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "three", "feet", "off", "the", "ground", "after", "this", "!!", "3", "-RRB-", "Starbucks", "in", "the", "lobby", "-", "lined", "up", "and", "a", "red", "headed", "kid", "that", "was", "''", "``", "jacked", "up", "''", "''", "on", "goodness", "knows", "WHAT", "was", "making", "a", "mockery", "out", "of", "saying", "-LRB-", "loudly", "-RRB-", "to", "every", "customer", "''", "``", "hey", "hey", "hey", "how", "are", "YOU", "today", "?", "''", "''"], "e1_text": "was", "e1_pos": 1, "e2_text": "!!", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "this", "restaurant", "once", "before", "it", "went", "under", "new", "management", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "went", "e2_pos": 1, "label": "before"},
+{"tokens": ["While", "I", "enjoyed", "the", "food", "before", "I", "feel", "the", "food", "has", "gotten", "even", "better", "and", "more", "diverse", "and", "the", "new", "managers", "are", "sooooo", "friendly", "that", "you", "always", "want", "to", "come", "back", "."], "e1_text": "enjoyed", "e1_pos": 2, "e2_text": "feel", "e2_pos": 7, "label": "before"}
+]

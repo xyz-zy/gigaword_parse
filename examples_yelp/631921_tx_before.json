@@ -1,0 +1,4 @@
+[
+{"tokens": ["Line", "was", "wrapped", "around", "the", "building", "but", "I", "was", "preppared", "having", "read", "the", "reviews", "before", "going", "."], "e1_text": "read", "e1_pos": 11, "e2_text": "going", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "ca", "n't", "wait", "to", "go", "back", "and", "get", "the", "ribs", ",", "I", "realize", "I", "have", "to", "get", "in", "line", "just", "before", "they", "open", "to", "get", "what", "I", "want", "now", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "open", "e2_pos": 23, "label": "before"}
+]

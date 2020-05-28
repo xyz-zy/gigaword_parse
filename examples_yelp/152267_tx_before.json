@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", "the", "host", "was", "nowhere", "to", "be", "seen", "and", "I", "started", "to", "seat", "myself", "before", "someone", "noticed", "us", "."], "e1_text": "seat", "e1_pos": 12, "e2_text": "noticed", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "need", "to", "make", "more", "visits", "before", "I", "make", "''", "``", "overall", "''", "''", "statements", "about", "the", "food", "."], "e1_text": "make", "e1_pos": 3, "e2_text": "make", "e2_pos": 8, "label": "before"}
+]

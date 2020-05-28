@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "atmosphere", "is", "cool", "but", "they", "should", "wipe", "down", "the", "tabletops", "immediately", "after", "someone", "leaves", "to", "avoid", "customers", "walking", "into", "a", "sticky", "mess", "-LRB-", "happens", "frequently", "-RRB-", "."], "e1_text": "wipe", "e1_pos": 7, "e2_text": "leaves", "e2_pos": 14, "label": "after"}
+]

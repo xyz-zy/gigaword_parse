@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "my", "Cajun", "expectations", "were", "lower", "this", "time", "after", "being", "disappointed", "at", "the", "Cajun", "Queen", "a", "few", "days", "ago", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "went", "right", "after", "they", "opened", "-LRB-", "11", "am", "-RRB-", "for", "an", "early", "lunch", "and", "were", "the", "only", "people", "there", ",", "so", "the", "service", "was", "attentive", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "opened", "e2_pos": 5, "label": "after"}
+]

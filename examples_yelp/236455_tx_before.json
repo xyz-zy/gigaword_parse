@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "n't", "tip", "the", "registration", "person", "before", "I", "checked", "in", "."], "e1_text": "tip", "e1_pos": 3, "e2_text": "checked", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "told", "them", "I", "had", "never", "gambled", "before", "and", "they", "took", "their", "time", "answering", "my", "questions", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "only", "negative", "experience", "was", "when", "I", "asked", "to", "see", "if", "my", "friend", "had", "arrived", "before", "I", "did", "for", "our", "meal", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

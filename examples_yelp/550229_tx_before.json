@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "to", "Gordon", "Ramsay", "Steak", "with", "high", "expectations", ",", "and", "I", "was", "writing", "the", "five", "star", "review", "in", "my", "head", "before", "even", "stepping", "foot", "in", "the", "restaurant", ",", "but", "sadly", "it", "was", "no", "better", "than", "three", "stars", "-LRB-", "maybe", "3.5", "-RRB-", "."], "e1_text": "writing", "e1_pos": 13, "e2_text": "stepping", "e2_pos": 23, "label": "before"},
+{"tokens": ["It", "took", "a", "bit", "for", "the", "bread", "to", "come", "out", "-LRB-", "we", "were", "there", "at", "least", "15mins", "before", "being", "served", "bread", "-RRB-", ",", "we", "had", "to", "refill", "our", "water", "glasses", "ourselves", "...", "it", "was", "a", "number", "of", "little", "things", "that", "added", "up", "."], "e1_text": "were", "e1_pos": 12, "e2_text": "being", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Customer", "service", "and", "satisfaction", "-", "when", "I", "explained", "that", "we", "did", "not", "receive", "baby", "back", "ribs", "on", "1\\/20\\/2012", "from", "their", "Tempe", "location", ",", "I", "was", "told", "that", "we", "must", "be", "mistaken", "since", "they", "had", "changed", "ribs", "weeks", "before", "."], "e1_text": "mistaken", "e1_pos": 30, "e2_text": "had", "e2_pos": 33, "label": "before"}
+]

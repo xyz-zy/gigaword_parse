@@ -1,0 +1,4 @@
+[
+{"tokens": ["Next", "time", "we", "will", "indulge", ",", "either", "in", "the", "restaurant", ",", "or", "in", "the", "lounge", ",", "which", "I", "made", "sure", "to", "check", "out", "before", "we", "left", "."], "e1_text": "check", "e1_pos": 21, "e2_text": "left", "e2_pos": 25, "label": "before"},
+{"tokens": ["This", "all", "took", "place", "the", "night", "before", "I", "was", "to", "leave", "for", "Jersey", "for", "an", "extended", "period", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "car", "now", "vibrates", "worse", "than", "it", "did", "before", "and", "the", "only", "reason", "I", "never", "took", "it", "back", "is", "because", "I", "'m", "scared", "of", "what", "else", "they", "would", "screw", "up", "."], "e1_text": "did", "e1_pos": 7, "e2_text": "took", "e2_pos": 15, "label": "before"}
+]

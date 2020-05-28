@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "5", "minute", "wait", "after", "paying", "the", "usual", "co-pay", "I", "would", "have", "at", "my", "regular", "dr.", "The", "Physician", "Assistant", "was", "professional", ",", "thorough", ",", "kind", "and", "to", "the", "point", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "paying", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "'s", "also", "convenient", "because", "they", "'ll", "zip", "the", "prescription", "to", "the", "pharmacy", "inside", "the", "Fry", "'s", ",", "but", "we", "had", "to", "wait", "over", "45", "mins", "for", "our", "prescription", "to", "be", "filled", "after", "being", "promised", "a", "30", "min", "wait", "so", "that", "was", "the", "only", "downer", "."], "e1_text": "filled", "e1_pos": 31, "e2_text": "being", "e2_pos": 33, "label": "after"}
+]

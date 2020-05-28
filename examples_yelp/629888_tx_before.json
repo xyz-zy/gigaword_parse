@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "we", "got", "to", "listen", "to", "the", "bartender", "discuss", "how", "to", "smoke", "marijuana", "with", "someone", "at", "the", "bar", "for", "a", "few", "minutes", "before", "tending", "to", "our", "table", "."], "e1_text": "smoke", "e1_pos": 11, "e2_text": "tending", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "guy", "that", "ordered", "a", "coke", "had", "his", "drink", "refilled", "from", "a", "pitcher", "that", "had", "been", "sitting", "on", "the", "bar", "long", "before", "we", "arrived", "."], "e1_text": "sitting", "e1_pos": 16, "e2_text": "arrived", "e2_pos": 23, "label": "before"}
+]

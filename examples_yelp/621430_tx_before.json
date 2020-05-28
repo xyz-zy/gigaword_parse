@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "gave", "this", "place", "2", "chances", "before", "deciding", "to", "write", "a", "review", "...", "Overall", "it", "is", "a", "great", "concept", ":", "who", "does", "n't", "love", "a", "good", "meatball", "!?", "That", ",", "in", "my", "opinion", ",", "is", "where", "the", "excitement", "ends", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "rest", "of", "the", "dinner", "was", "fairly", "uneventful", "but", "we", "did", "notice", "that", "all", "the", "other", "tables", "seated", "after", "us", "received", "their", "food", "before", "we", "did", "--", "and", "we", "were", "only", "waiting", "on", "4", "meatballs", "."], "e1_text": "received", "e1_pos": 20, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

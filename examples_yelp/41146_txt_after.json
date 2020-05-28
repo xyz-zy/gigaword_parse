@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "problem", "was", ",", "as", "we", "were", "discussing", "after", "we", "had", "left", "the", "restaurant", ",", "the", "waiter", "seemed", "to", "already", "know", "what", "the", "problem", "was", "when", "he", "came", "up", "and", "asked", "if", "there", "was", "ants", "in", "the", "soda", "."], "e1_text": "discussing", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

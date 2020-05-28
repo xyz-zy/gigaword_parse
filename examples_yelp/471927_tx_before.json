@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "It", "was", "delicious", "and", "decadent", "anyway", ",", "but", "how", "does", "a", "chocolate", "restaurant", "run", "out", "of", "milk", "chocolate", "AN", "HOUR", "before", "they", "close", "for", "the", "night", "?", "-RRB-"], "e1_text": "run", "e1_pos": 14, "e2_text": "close", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "claimed", "she", "put", "it", "in", "but", "the", "order", "fell", "through", "with", "the", "kitchen", ",", "-LRB-", "this", "was", "now", "over", "an", "hour", "after", "we", "ordered", "-RRB-", "she", "offered", "to", "get", "us", "our", "food", "and", "box", "it", "up", "for", "us", "to", "go", "with", "an", "attitude", "like", "it", "was", "our", "fault", ".", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 24, "label": "after"}
+]

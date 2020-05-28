@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "tried", "to", "call", "to", "get", "a", "credit", ",", "and", "after", "a", "few", "days", "got", "a", "text", "that", "an", "amount", "not", "matching", "mine", "had", "been", "credited", "to", "a", "card", "ending", "with", "4", "digits", "not", "matching", "mine", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

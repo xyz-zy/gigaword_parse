@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "legs", "were", "numb", "before", "we", "were", "even", "served", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "were", "e2_pos": 2, "label": "before"},
+{"tokens": ["The", "chairs", "must", "have", "been", "chosen", "for", "their", "looks", "because", "they", "were", "cute", "but", "obviously", "no", "one", "cared", "to", "try", "them", "out", "before", "purchasing", "them", "."], "e1_text": "try", "e1_pos": 19, "e2_text": "purchasing", "e2_pos": 23, "label": "before"}
+]

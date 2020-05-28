@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "made", "a", "laser", "hair", "removal", "appointment", "here", "and", "paid", "for", "all", "5", "sessions", "up", "front", "before", "I", "even", "started", "."], "e1_text": "paid", "e1_pos": 10, "e2_text": "started", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "3", "MORE", "weeks", "go", "by", "and", "still", "no", "call", "-LRB-", "keep", "in", "mind", "these", "people", "have", "recieved", "$", "500", "+", "of", "my", "money", "before", "I", "even", "started", "the", "laser", "hair", "removal", "-RRB-", "."], "e1_text": "recieved", "e1_pos": 17, "e2_text": "started", "e2_pos": 27, "label": "before"}
+]

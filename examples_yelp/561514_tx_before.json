@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "how", "even", "though", "Ill", "probably", "be", "completely", "healed", "in", "the", "next", "1-2", "weeks", ",", "I", "have", "to", "wait", "6-8", "weeks", "before", "coming", "back", "because", "the", "ink", "continues", "to", "work", "itself", "out", "over", "that", "period", "!"], "e1_text": "wait", "e1_pos": 18, "e2_text": "coming", "e2_pos": 22, "label": "before"},
+{"tokens": ["He", "also", "applied", "a", "cold", "pack", "to", "the", "area", "before", "we", "began", "to", "help", "numb", "the", "area", "."], "e1_text": "applied", "e1_pos": 2, "e2_text": "began", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "people", "who", "checked", "us", "in", "we", "'re", "rude", ",", "they", "put", "us", "in", "a", "smoking", "room", "after", "we", "requested", "non-smoking", "multiple", "times", "."], "e1_text": "put", "e1_pos": 11, "e2_text": "requested", "e2_pos": 19, "label": "after"},
+{"tokens": ["There", "are", "a", "lot", "of", "Amazing", "hotels", "and", "casinos", "in", "Las", "Vegas", ",", "if", "you", "are", "looking", "for", "a", "place", "to", "sleep", "the", "beds", "are", "comfortable", ",", "but", "I", "'m", "afraid", "after", "my", "last", "trip", "thats", "all", "TI", "has", "to", "offer", "."], "e1_text": "'m", "e1_pos": 29, "e2_text": "thats", "e2_pos": 35, "label": "after"}
+]

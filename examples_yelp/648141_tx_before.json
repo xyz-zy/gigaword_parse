@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "in", "to", "get", "a", "salad", "and", "a", "pizza", "with", "my", "friend", "today", ",", "the", "lady", "making", "our", "salad", "was", "flinging", "food", "everywhere", "while", "mixing", "it", "and", "put", "so", "much", "dressing", "on", "it", ",", "that", "the", "leaves", "were", "wilted", "before", "we", "even", "started", "eating", "it", "."], "e1_text": "wilted", "e1_pos": 38, "e2_text": "started", "e2_pos": 42, "label": "before"},
+{"tokens": ["She", "also", "got", "her", "dirty", "hands", "all", "over", "our", "bowls", "from", "making", "a", "pizza", "right", "before", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "making", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "reserve", "a", "car", "for", "2pm", ",", "and", "they", "make", "me", "wait", "an", "hour", "after", "I", "arrive", "at", "3", ",", "it", "does", "n't", "work", "for", "me", "."], "e1_text": "wait", "e1_pos": 12, "e2_text": "arrive", "e2_pos": 17, "label": "after"}
+]

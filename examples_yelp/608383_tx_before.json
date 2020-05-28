@@ -1,0 +1,4 @@
+[
+{"tokens": ["Found", "Mixers", "on", "yelp", "when", "finishing", "dinner", "at", "Chinatown", "so", "I", "rushed", "over", "just", "before", "they", "closed", "."], "e1_text": "rushed", "e1_pos": 11, "e2_text": "closed", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "'m", "glad", "I", "arrived", "before", "they", "closed", "BC", "they", "locked", "the", "door", "and", "another", "patron", "was", "turned", "away", "!"], "e1_text": "arrived", "e1_pos": 4, "e2_text": "closed", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fail", "number", "one", ";", "combining", "the", "seat", "yourself", "concept", "with", "inept", "servers", "leads", "to", "a", "guest", "sitting", "at", "their", "table", "for", "20", "minutes", "before", "being", "greeted", "."], "e1_text": "sitting", "e1_pos": 16, "e2_text": "being", "e2_pos": 24, "label": "before"}
+]

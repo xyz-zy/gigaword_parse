@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "takes", "me", "a", "few", "minutes", "to", "decide", "on", "which", "rolls", "I", "want", ",", "then", "I", "order", "-LRB-", "after", "being", "asked", "3", "times", "if", "I", "'m", "ready", "before", "I", "put", "the", "menu", "down", "-RRB-", "."], "e1_text": "'m", "e1_pos": 25, "e2_text": "put", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "'ve", "tried", "their", "other", "food", "via", "take", "out", "before", "and", "it", "'s", "only", "ok", ",", "and", "very", "overpriced", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "take", "e2_pos": 7, "label": "before"},
+{"tokens": ["Just", "try", "ANY", "other", "asian", "cuisine", "in", "Charlotte", "before", "you", "waste", "your", "money", "here", "."], "e1_text": "try", "e1_pos": 1, "e2_text": "waste", "e2_pos": 10, "label": "before"}
+]

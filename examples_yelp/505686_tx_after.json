@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "other", "''", "``", "kids", "''", "''", "who", "came", "in", "after", "us", "order", "and", "get", "drinks", ",", "then", "place", "there", "food", "order", "it", "was", "obvious", "that", "we", "would", "have", "to", "get", "up", "and", "ask", "for", "a", "server", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "order", "e2_pos": 13, "label": "after"},
+{"tokens": ["OUR", "FOOD", "order", "came", "out", "quicker", "than", "the", "drinks", "but", "interestingly", "the", "other", "''", "``", "kids", "''", "''", "who", "had", "come", "in", "after", "us", "were", "already", "DONE", "EATING", "AND", "GONE", "."], "e1_text": "come", "e1_pos": 20, "e2_text": "were", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "latest", "visit", "will", "be", "my", "last", "visit", "Went", "for", "lunch", "on", "a", "Friday", "with", "3", "coworkers", "All", "of", "us", "felt", "sick", "after", "eating", "...", "I", "personally", "only", "managed", "to", "eat", "2", "of", "the", "6", "rolled", "tacos", "I", "got", "."], "e1_text": "felt", "e1_pos": 20, "e2_text": "eating", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["wish", "I", "had", "read", "the", "reviews", "here", "before", "booking", "it", "through", "Orbitz", "...", ".", "."], "e1_text": "wish", "e1_pos": 0, "e2_text": "booking", "e2_pos": 8, "label": "before"},
+{"tokens": ["they", "would", "never", "give", "you", "a", "courtesy", "call", "before", "they", "arrive", "...", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "arrive", "e2_pos": 10, "label": "before"}
+]

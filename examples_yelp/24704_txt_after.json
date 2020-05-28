@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "over", "charged", "the", "gratuity", "and", "when", "we", "showed", "them", "the", "math", "they", "denied", "it", "only", "after", "asking", "for", "the", "manager", "they", "wrote", "in", "a", "new", "price", "."], "e1_text": "denied", "e1_pos": 13, "e2_text": "asking", "e2_pos": 17, "label": "after"}
+]

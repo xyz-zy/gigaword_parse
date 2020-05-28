@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "gone", "here", "twice", "and", "both", "times", "I", "'ve", "waited", "over", "an", "hour", "while", "walk", "ins", "who", "showed", "up", "after", "me", "kept", "getting", "called", "over", "for", "service", "."], "e1_text": "showed", "e1_pos": 18, "e2_text": "kept", "e2_pos": 22, "label": "after"},
+{"tokens": ["My", "gels", "started", "chipping", "after", "two", "days", "and", "the", "gems", "I", "had", "put", "on", "had", "all", "fallen", "off", "by", "day", "three", ",", "leaving", "giants", "holes", "in", "my", "top", "coat", "."], "e1_text": "chipping", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

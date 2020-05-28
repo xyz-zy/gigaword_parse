@@ -1,0 +1,4 @@
+[
+{"tokens": ["Chatting", "w", "\\/", "Harold", "he", "asked", "me", "what", "I", "liked", "and", "how", "spicy", "I", "like", "my", "food", "&", "after", "2", "of", "the", "menu", "rolls", "he", "asked", "if", "he", "could", "make", "me", "something", "off", "the", "menu", "I", "told", "him", "cool", "do", "your", "thing", "."], "e1_text": "like", "e1_pos": 14, "e2_text": "rolls", "e2_pos": 23, "label": "after"},
+{"tokens": ["it", "was", "AMAZING", "!!!!", "He", "calls", "it", "a", "mother", "w", "\\/", "child", "-LRB-", "salmon", "on", "the", "outside", "w", "\\/", "salmon", "roe", "a", "delicately", "sliced", "lil", "piece", "of", "lemon", "-RRB-", "after", "that", "he", "was", "free", "to", "make", "me", "what", "he", "wanted", "and", "after", "that", "decision", "I", "have", "never", "had", "so", "many", "total", "melt-in-my-mouth", "moments", "."], "e1_text": "calls", "e1_pos": 5, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "few", "friends", "and", "I", "went", "to", "this", "place", "and", "before", "going", "in", "asked", "about", "a", "gluten", "free", "menu", "-LRB-", "I", "have", "a", "friend", "who", "can", "not", "eat", "gluten", "-RRB-", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "going", "e2_pos": 11, "label": "before"}
+]

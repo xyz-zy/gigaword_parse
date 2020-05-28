@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "ended", "up", "waiting", "another", "15", "minutes", "before", "another", "waiter", "spotted", "us", "looking", "a", "bit", "perturbed", "and", "asked", "if", "we", "needed", "anything", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "spotted", "e2_pos": 10, "label": "before"},
+{"tokens": ["Then", "our", "waiter", "disappeared", "into", "the", "kitchen", "or", "God", "knows", "where", "for", "another", "10", "minutes", "before", "finally", "coming", "to", "take", "our", "order", "."], "e1_text": "knows", "e1_pos": 9, "e2_text": "coming", "e2_pos": 17, "label": "before"},
+{"tokens": ["When", "we", "explained", "that", "we", "still", "had", "not", "received", "the", "check", ",", "he", "disappeared", "for", "another", "4-5", "minutes", "before", "finally", "returning", "with", "our", "check", "."], "e1_text": "disappeared", "e1_pos": 13, "e2_text": "returning", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "would", "you", "open", "before", "the", "staff", "knows", "anything", "about", "the", "property", "?"], "e1_text": "open", "e1_pos": 3, "e2_text": "knows", "e2_pos": 7, "label": "before"},
+{"tokens": ["Why", "would", "you", "open", "before", "the", "housekeeping", "staff", "knows", "how", "to", "clean", "a", "room", "before", "letting", "a", "guest", "check", "in", "?"], "e1_text": "open", "e1_pos": 3, "e2_text": "knows", "e2_pos": 8, "label": "before"}
+]

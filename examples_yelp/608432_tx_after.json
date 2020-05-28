@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "drank", "it", "went", "back", "to", "my", "table", "and", "after", "waiting", "for", "25", "total", "got", "my", "food", "which", "I", "had", "to", "drink", "with", "water", "since", "the", "juice", "was", "drank", "way", "before", "that", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

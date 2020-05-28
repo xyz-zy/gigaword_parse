@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "team", "called", "half", "an", "hour", "before", "they", "got", "to", "our", "apartment", "and", "they", "were", "right", "on", "time", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "got", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "anything", "was", "damaged", "-LRB-", "like", "our", "Ikea", "dresser", "with", "a", "flimsy", "back", "-RRB-", ",", "they", "pointed", "it", "out", "to", "us", "before", "they", "moved", "it", "."], "e1_text": "pointed", "e1_pos": 16, "e2_text": "moved", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "team", "worked", "very", "efficiently", "and", "made", "sure", "everything", "was", "properly", "packaged\\/wrapped", "before", "they", "brought", "it", "to", "the", "truck", "."], "e1_text": "packaged\\/wrapped", "e1_pos": 11, "e2_text": "brought", "e2_pos": 14, "label": "before"}
+]

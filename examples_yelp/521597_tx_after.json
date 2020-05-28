@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "checked", "out", "the", "website", "then", "made", "the", "appt", "after", "seeing", "the", "different", "varieties", "of", "frames", "and", "that", "the", "eye", "exam", "was", "free", "."], "e1_text": "made", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 10, "label": "after"},
+{"tokens": ["On", "Saturday", "I", "went", "to", "my", "appt", "and", "after", "signing", "in", ",", "filled", "out", "the", "questionnaire", "then", "waited", "for", "my", "name", "to", "be", "called", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "signing", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "had", "arrived", "5", "mins", "early", "but", "ended", "up", "waiting", "15", "mins", "after", "I", "had", "scheduled", "my", "exam", "."], "e1_text": "waiting", "e1_pos": 9, "e2_text": "had", "e2_pos": 1, "label": "after"}
+]

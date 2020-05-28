@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "put", "6-7", "fries", "on", "her", "plate", "initially", "then", "we", "waited", "about", "15", "minutes", "before", "we", "had", "to", "chase", "down", "the", "ever", "so", "rude", "waitress", "and", "ask", "her", "if", "we", "could", "have", "more", "fries", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

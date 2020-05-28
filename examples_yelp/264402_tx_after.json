@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "flavor", "did", "n't", "improve", "after", "I", "dipped", "them", "in", "the", "sauce", "it", "came", "with", "."], "e1_text": "improve", "e1_pos": 4, "e2_text": "dipped", "e2_pos": 7, "label": "after"},
+{"tokens": ["And", "worse", "of", "all", ",", "I", "had", "a", "very", "bad", "tummy", "ache", "right", "after", "I", "ate", "the", "oysters", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "ate", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "would", "have", "rated", "them", "higher", "if", "the", "waitress", "did", "n't", "retort", "me", "bitterly", "after", "I", "gave", "her", "my", "feedback", "of", "the", "oysters", "and", "the", "lobster", "bisque", "each", "time", "."], "e1_text": "retort", "e1_pos": 11, "e2_text": "gave", "e2_pos": 16, "label": "after"}
+]

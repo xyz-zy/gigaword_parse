@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "lost", "our", "order", "and", "we", "had", "to", "wait", "an", "extra", "half", "an", "hour", "before", "we", "got", "our", "food", "and", "that", "was", "without", "counting", "the", "time", "it", "took", "us", "to", "put", "our", "order", "and", "the", "time", "it", "took", "us", "to", "pay", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

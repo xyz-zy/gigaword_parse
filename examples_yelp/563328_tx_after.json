@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "family", "started", "going", "to", "Seksun", "after", "another", "family", "member", "gave", "out", "gift", "certificates", "for", "Christmas", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "gave", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "soy", "paper", "order", "came", "out", "in", "30", "minutes", ",", "but", "it", "was", "with", "seaweed", "and", "we", "sent", "it", "back", "-LRB-", "after", "having", "to", "tear", "the", "roll", "apart", "to", "show", "the", "waitress", ",", "who", "was", "arguing", "with", "us", ",", "that", "it", "was", "n't", "made", "with", "soy", "paper", ".", "-RRB-"], "e1_text": "back", "e1_pos": 19, "e2_text": "having", "e2_pos": 22, "label": "after"},
+{"tokens": ["The", "worst", "for", "me", "was", ",", "after", "being", "there", "for", "well", "over", "an", "hour", ",", "I", "had", "watched", "the", "SAME", "roll", "go", "around", "on", "the", "conveyer", "belt", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

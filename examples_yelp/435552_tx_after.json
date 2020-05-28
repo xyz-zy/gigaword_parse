@@ -1,0 +1,3 @@
+[
+{"tokens": ["Prime", "example", "was", "when", "I", "visited", "the", "bathroom", ",", "missing", "parts", "on", "the", "sinks", ",", "paper", "towels", "were", "hidden", "and", "staff", "was", "witenessed", "knocking", "on", "stall", "doors", "after", "banging", "every", "door", "in", "the", "room", "while", "cleaning", "."], "e1_text": "knocking", "e1_pos": 23, "e2_text": "banging", "e2_pos": 28, "label": "after"}
+]

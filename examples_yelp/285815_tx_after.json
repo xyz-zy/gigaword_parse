@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "each", "time", "you", "open", "your", "locker", "you", "must", "insert", "the", "two", "dollar", "token", "to", "get", "your", "key", "out", "after", "closing", "it", "back", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "closing", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "also", "brought", "a", "second", "pair", "of", "dry", "shoes", "to", "put", "on", "after", "rafting", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "rafting", "e2_pos": 13, "label": "after"}
+]

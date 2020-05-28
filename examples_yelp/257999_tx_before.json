@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "asked", "If", "I", "'ve", "been", "at", "CVS", "before", "and", "then", "tells", "me", "to", "sit", "down", "and", "my", "prescriptions", "will", "be", "ready", "in", "15", "minutes", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 4, "label": "before"},
+{"tokens": ["Now", ",", "I", "was", "really", "disappointed", "in", "the", "Pharmacist", "and", "Technician", "that", "handed", "me", "my", "prescriptions", "because", "I", "'ve", "never", "taken", "them", "before", ",", "They", "did", "n't", "assure", "me", "of", "my", "knowledge", "about", "what", "I", "was", "taking", ",", "how", "to", "take", "it", ",", "some", "side", "effects", ",", "and", "contraindications", "."], "e1_text": "taken", "e1_pos": 20, "e2_text": "did", "e2_pos": 25, "label": "before"}
+]

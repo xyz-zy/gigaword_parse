@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "guy", "was", "all", "over", "us", "before", "ordering", "and", "while", "eating", ",", "but", "when", "it", "was", "clear", "we", "were", "almost", "done", "and", "were", "n't", "ordering", "dessert", ",", "he", "was", "hard", "to", "get", "back", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 7, "label": "before"},
+{"tokens": ["Sorry", ",", "it", "will", "be", "a", "cold", "day", "before", "I", "go", "into", "another", "Applebee", "'s", "unless", "I", "see", "some", "serious", "respect", "for", "the", "vegetarians", "who", "are", "typically", "larger", "spenders", "and", "tippers", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "go", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "truck", "in", "and", "after", "talking", "with", "the", "guy", "that", "checks", "you", "in", ",", "it", "was", "agreed", "they", "would", "wash", ",", "wax", ",", "and", "detail", "the", "truck", ",", "including", "getting", "all", "the", "soil", "out", "of", "the", "bed", "-LRB-", "he", "even", "wrote", "it", "on", "the", "window", "-RRB-", "when", "the", "truck", "was", "returned", "the", "dirt", "was", "all", "built", "up", "in", "between", "the", "tailgate", "and", "the", "bed", ",", "and", "still", "all", "stuck", "in", "the", "corners", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "talking", "e2_pos": 7, "label": "after"}
+]

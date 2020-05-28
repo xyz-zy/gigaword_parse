@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "showed", "up", "45", "minutes", "before", "closing", "time", "and", "the", "lady", "up", "front", "said", "I", "was", "still", "able", "to", "stay", "and", "eat", "but", "the", "chefs", "stopped", "cooking", "the", "food", "so", "I", "basically", "had", "to", "settle", "for", "the", "food", "that", "was", "leftover", "which", "was", "cool", "because", "there", "was", "more", "then", "enough", "to", "feed", "this", "beast", "."], "e1_text": "showed", "e1_pos": 1, "e2_text": "closing", "e2_pos": 6, "label": "before"},
+{"tokens": ["They", "must", "have", "asked", "if", "we", "were", "done", "about", "5", "times", "and", "started", "to", "clean", "and", "get", "rid", "of", "all", "the", "food", "before", "we", "even", "got", "done", "eating", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "got", "e2_pos": 25, "label": "before"}
+]

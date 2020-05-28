@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "made", "a", "few", "mistakes", "such", "as", "giving", "me", "the", "wrong", "burger", "-LRB-", "I", "order", "the", "lunch", "special", "5", "$", "double", "burger", "with", "drink", "combo", "-RRB-", "they", "tried", "to", "charge", "me", "for", "wrong", "burger", "and", "I", "had", "to", "tell", "them", "that", "I", "ordered", "special", "which", "I", "always", "say", "can", "I", "have", "the", "5", "$", "burger", "special", "to", "avoid", "confusion", "after", "a", "brief", "argument", "she", "gave", "me", "the", "special", "price", "."], "e1_text": "avoid", "e1_pos": 57, "e2_text": "gave", "e2_pos": 64, "label": "after"}
+]

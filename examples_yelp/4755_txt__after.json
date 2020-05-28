@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "looked", "very", "unappetizing", ",", "especially", "after", "I", "picked", "one", "up", "and", "it", "had", "feathers", "coming", "out", "of", "it", "."], "e1_text": "looked", "e1_pos": 1, "e2_text": "picked", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "'m", "not", "sure", "if", "our", "server", "was", "embarrassed", ",", "but", "it", "seemed", "as", "though", "we", "were", "avoided", "after", "the", "issue", "was", "brought", "to", "her", "attention", "."], "e1_text": "avoided", "e1_pos": 17, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

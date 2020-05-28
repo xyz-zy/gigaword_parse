@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "last", "issue", "is", "that", "for", "some", "reason", "the", "pizza", "has", "been", "each", "time", "barely", "warm", "and", "after", "you", "eat", "the", "second", "slice", "the", "rest", "of", "the", "pizza", "will", "be", "cold", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "eat", "e2_pos": 19, "label": "after"}
+]

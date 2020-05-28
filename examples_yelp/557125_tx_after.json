@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "in", "for", "a", "casual", "drink", "at", "Bru", "Haus", "-LRB-", "the", "bar", "connected", "to", "Brat", "Haus", "-RRB-", "after", "a", "day", "of", "hiking", "on", "a", "rather", "chilly", "day", "and", "this", "place", "was", "invitingly", "cozy", "and", "simple", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "was", "e2_pos": 30, "label": "after"},
+{"tokens": ["We", "`", "dug", "this", "place", "as", "a", "casual", "stop", "after", "a", "day", "of", "exploring", "the", "nearby", "parks", "."], "e1_text": "dug", "e1_pos": 2, "e2_text": "exploring", "e2_pos": 13, "label": "after"}
+]

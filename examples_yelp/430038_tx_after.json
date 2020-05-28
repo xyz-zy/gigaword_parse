@@ -1,0 +1,3 @@
+[
+{"tokens": ["Prices", "are", "good", ";", "coupons", "are", "available", "on", "your", "receipt", "for", "$", "1.00", "after", "each", "haircut", "when", "you", "complete", "a", "survey", "."], "e1_text": "are", "e1_pos": 1, "e2_text": "complete", "e2_pos": 18, "label": "after"}
+]

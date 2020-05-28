@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "never", "had", "falafel", "before", "but", "I", "was", "less", "than", "impressed", "with", "the", "plating", "and", "the", "taste", "of", "the", "bean", "patty", "itself", "-LRB-", "I", "'m", "not", "sure", "if", "it", "'s", "even", "made", "of", "beans", "-", "but", "that", "'s", "what", "it", "tasted", "like", "-RRB-", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

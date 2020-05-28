@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "the", "usher", "made", "a", "mistake", "and", "had", "10", "elderly", "people", "standing", "blocking", "my", "view", "of", "the", "play", "-", "what", "happened", "to", "the", "sign", "that", "sd", "no", "admittance", "after", "the", "curtain", "is", "up", "."], "e1_text": "sd", "e1_pos": 25, "e2_text": "is", "e2_pos": 31, "label": "after"},
+{"tokens": ["All", "other", "parts", "of", "the", "hotel", "had", "great", "staff", "and", "could", "not", "be", "more", "helpful", "and", "accomodating", "and", "this", "is", "what", "I", "get", "after", "spending", "$", "150", "per", "ticket", "!!!", "Unbelievable", "."], "e1_text": "get", "e1_pos": 22, "e2_text": "spending", "e2_pos": 24, "label": "after"}
+]

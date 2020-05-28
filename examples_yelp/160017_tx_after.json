@@ -1,0 +1,4 @@
+[
+{"tokens": ["Meh", ",", "Bellagio", "is", "decorated", "so", "tacky", "I", "was", "thrown", "off", "after", "we", "walked", "in", "."], "e1_text": "thrown", "e1_pos": 9, "e2_text": "walked", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "was", "weird", "after", "hearing", "nothing", "but", "good", "things", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 4, "label": "after"}
+]

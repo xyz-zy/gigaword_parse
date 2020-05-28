@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "take", "the", "time", "to", "make", "sure", "the", "shoe", "is", "the", "proper", "fit", "after", "first", "measuring", "your", "feet", ",", "and", "can", "also", "recommend", "a", "number", "of", "inserts", "and", "things", "as", "well", "."], "e1_text": "make", "e1_pos": 5, "e2_text": "measuring", "e2_pos": 15, "label": "after"},
+{"tokens": ["In", "addition", ",", "they", "seem", "to", "have", "some", "specialists", "on", "staff", "-LRB-", "after", "checking", "their", "website", ",", "it", "'s", "Pedorthists", "-RRB-", "that", "can", "help", "people", "with", "feet\\/back\\/etc", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "'s", "e2_pos": 18, "label": "after"}
+]

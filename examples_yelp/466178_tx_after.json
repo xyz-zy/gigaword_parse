@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "paid", "the", "first", "payment", "for", "the", "service", "call", "with", "my", "debit", "before", "they", "fixed", "it", "and", "then", "after", "it", "was", "fixed", "I", "paid", "again", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "was", "e2_pos": 20, "label": "after"},
+{"tokens": ["Over", "the", "last", "15", "months", "I", "have", "received", "3", "calls", "from", "them", "saying", "I", "did", "n't", "pay", ",", "after", "getting", "a", "message", "last", "month", "again", "I", "called", "them", "back", "and", "talked", "to", "a", "very", "nice", "lady", "who", "said", "not", "to", "worry", "she", "would", "take", "care", "of", "it", "."], "e1_text": "pay", "e1_pos": 16, "e2_text": "getting", "e2_pos": 19, "label": "after"}
+]

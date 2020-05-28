@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "prior", "homestead", "of", "11", "years", "was", "located", "directly", "behind", "Senor", "Tequila", ",", "which", "has", "been", "in", "this", "small", "shopping", "center", "off", "of", "Rea", "Rd", "long", "before", "Trader", "Joe", "'s", "and", "the", "yoga", "pants", "crowd", "took", "it", "over", ",", "and", "I", "used", "to", "eat", "there", "semi-regularly", ",", "always", "enjoying", "all", "that", "they", "had", "to", "offer", "."], "e1_text": "been", "e1_pos": 15, "e2_text": "took", "e2_pos": 35, "label": "before"},
+{"tokens": ["I", "had", "not", "eaten", "here", "since", "before", "they", "expanded", "-", "the", "seating", "area", "is", "clean", "and", "well", "decorated", ",", "and", "the", "tables", "are", "nicely", "spaced", "instead", "of", "being", "slammed", "on", "top", "of", "each", "other", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "expanded", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "believe", "that", "I", "'ve", "never", "been", "to", "this", "place", "before", "!"], "e1_text": "believe", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "started", "off", "with", "something", "I", "never", "tried", "before", "--", "Italian", "egg", "rolls", "!"], "e1_text": "started", "e1_pos": 1, "e2_text": "tried", "e2_pos": 7, "label": "before"}
+]

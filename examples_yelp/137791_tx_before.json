@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "'s", "main", "interest", "was", "''", "``", "upselling", "''", "''", "us", "before", "we", "ate", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "ate", "e2_pos": 14, "label": "before"},
+{"tokens": ["Do", "n't", "waste", "your", "money", "here", "when", "you", "can", "go", "almost", "ANYWHERE", "else", "for", "$", "74", ",", "-LRB-", "total", "before", "we", "used", "gift", "certificate", "-RRB-", ",", "and", "get", "a", "great", "meal", "."], "e1_text": "total", "e1_pos": 18, "e2_text": "used", "e2_pos": 21, "label": "before"}
+]

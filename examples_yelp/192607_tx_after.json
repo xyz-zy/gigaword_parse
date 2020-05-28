@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "family", "in", "back", "of", "us", "had", "booked", "a", "show", "for", "a", "few", "hours", "after", "they", "decided", "to", "come", "to", "this", "buffet", "."], "e1_text": "booked", "e1_pos": 7, "e2_text": "decided", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "one", "upside", "is", "that", "our", "waiter", "was", "very", "nice", "and", "very", "attentive", ",", "something", "I", "did", "n't", "expect", "after", "the", "service", "we", "had", "received", "while", "in", "line", "."], "e1_text": "expect", "e1_pos": 18, "e2_text": "had", "e2_pos": 23, "label": "after"}
+]

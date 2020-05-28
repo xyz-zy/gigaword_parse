@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "found", "this", "terribly", "unprofessional", "-", "my", "manicure", "is", "a", "bit", "sloppy", ",", "although", "I", "am", "sure", "if", "I", "had", "noticed", "before", "I", "left", "they", "would", "have", "fixed", "it", "."], "e1_text": "noticed", "e1_pos": 20, "e2_text": "left", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "two", "miles", "it", "'s", "the", "same", "routine", ":", "drive", "by", "a", "speed", "camera", ",", "but", "not", "before", "you", "slam", "on", "your", "brakes", "because", "everybody", "acts", "like", "it", "'s", "the", "first", "time", "they", "'ve", "ever", "seen", "it", "."], "e1_text": "'s", "e1_pos": 4, "e2_text": "slam", "e2_pos": 19, "label": "before"}
+]

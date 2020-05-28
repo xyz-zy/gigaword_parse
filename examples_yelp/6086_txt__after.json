@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "waitress", "Teresa", "greeted", "me", "with", "Southern", "Hospitality", "and", "just", "when", "thought", "that", "I", "had", "my", "meal", "selected", "-LRB-", "after", "reading", "Yelp", ",", "of", "course", "-RRB-", "she", "told", "me", "of", "the", "dinner", "specials", ",", "one", "of", "which", "was", "grilled", "catfish", "with", "mango", "chutney", "+", "two", "sides", "of", "your", "choice", "for", "$", "14.95", "!"], "e1_text": "selected", "e1_pos": 17, "e2_text": "reading", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "walked", "by", "the", "table", "twice", "after", "we", "sent", "hers", "back", "and", "my", "plate", "hardly", "touched", "sitting", "in", "the", "middle", "of", "the", "table", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "sent", "e2_pos": 9, "label": "after"},
+{"tokens": ["If", "someone", "would", "have", "stopped", "by", "and", "say", "sorry", "or", "what", "can", "I", "do", ",", "I", "might", "have", "decided", "on", "a", "second", "chance", "but", "you", "know", "after", "sitting", "almost", "TWENTY", "MINUTES", "after", "he", "took", "my", "plate", "with", "nothing", "INCLUDING", "the", "check", "!!!!", "Sorry", "...", "STAY", "AWAY", "!!!!"], "e1_text": "know", "e1_pos": 25, "e2_text": "sitting", "e2_pos": 27, "label": "after"}
+]

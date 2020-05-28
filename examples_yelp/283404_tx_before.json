@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wandered", "aimlessly", "around", "for", "a", "good", "15", "minutes", "before", "anyone", "even", "approached", "me", "."], "e1_text": "wandered", "e1_pos": 1, "e2_text": "approached", "e2_pos": 12, "label": "before"},
+{"tokens": ["Do", "n't", "get", "me", "wrong", ",", "I", "'ve", "had", "pleasant", "SA", "'s", "here", "before", ",", "but", "they", "come", "few", "and", "far", "between", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "'s", "e2_pos": 11, "label": "before"}
+]

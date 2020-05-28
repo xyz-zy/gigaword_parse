@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "brought", "it", "back", "-LRB-", "4days", "old", "-RRB-", "they", "said", "they", "have", "`", "NEVER", "seen", "that", "before", "'", "...", "when", "soon", "to", "find", ",", "I", "had", "three", "friends", "return", "theirs", "for", "doing", "the", "same", "thing", "to", "that", "very", "store", "a", "few", "days", "before", "."], "e1_text": "said", "e1_pos": 10, "e2_text": "have", "e2_pos": 12, "label": "before"}
+]

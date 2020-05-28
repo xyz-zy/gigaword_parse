@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "an", "old", "grouchy", "assed", "bar", "tender", "who", "really", "thought", "he", "was", "doing", "me", "a", "huge", "favor", "by", "serving", "me", "up", "a", "$", "7.00", "drink", "after", "I", "politely", "interrupted", "him", "while", "he", "was", "cleaning", "the", "wax", "out", "of", "his", "ear", "or", "something", "with", "us", "customers", "waiting", "for", "some", "service", "at", "his", "bar", "."], "e1_text": "serving", "e1_pos": 19, "e2_text": "interrupted", "e2_pos": 29, "label": "after"}
+]

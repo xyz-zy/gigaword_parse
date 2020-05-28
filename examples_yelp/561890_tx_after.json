@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "brand", "reminds", "me", "a", "lot", "of", "the", "Bradford", "tea", "rooms", "&", "bakery", "where", "years", "ago", "they", "where", "real", "good", "but", "went", "down", "hill", "after", "loosing", "their", "direction", "."], "e1_text": "hill", "e1_pos": 23, "e2_text": "loosing", "e2_pos": 25, "label": "after"},
+{"tokens": ["We", "had", "coffee", "and", "cheesecake", "after", "a", "few", "hours", "shopping", "I", "did", "enjoy", "the", "coffee", "that", "they", "serve", "here", "but", "do", "n't", "rate", "their", "cakes", "as", "they", "where", "tasteless", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "rate", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", ",", "were", "promptly", "seated", "at", "a", "normal", "table", "and", "after", "exploring", "the", "menu", "we", "ordered", ":", "vegetable", "tempura", "as", "an", "appetizer", ",", "I", "got", "some", "rolls", "&", "nigiri", ",", "and", "the", "boy", "ordered", "teppan", "chicken", ",", "which", "came", "with", "soup", "&", "salad", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "got", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "might", "go", "back", "for", "cheap", "sushi", "some", "night", "after", "work", "-LRB-", "since", "I", "work", "at", "the", "giant", "corporation", "just", "down", "the", "road", "from", "them", "-RRB-", ",", "but", "not", "for", "a", "meal", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "work", "e2_pos": 14, "label": "after"}
+]

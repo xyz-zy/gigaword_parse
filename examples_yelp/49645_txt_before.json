@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "employee", "informed", "me", "that", "she", "has", "been", "spending", "too", "much", "time", "checking", "everybodys", "buttons", "so", "we", "had", "to", "check", "them", "before", "leaving", "our", "laundry", "."], "e1_text": "check", "e1_pos": 19, "e2_text": "leaving", "e2_pos": 22, "label": "before"}
+]

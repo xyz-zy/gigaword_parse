@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thought", "it", "was", "a", "little", "strange", "to", "have", "to", "pay", "upfront", "once", "you", "check", "in", "and", "then", "the", "second", "after", "the", "massage", "is", "over", ",", "i.e.", "before", "you", "even", "leave", "the", "room", ",", "you", "'re", "asked", "to", "fill", "out", "the", "ticket", "for", "gratuity", "right", "away", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "leave", "e2_pos": 30, "label": "before"}
+]

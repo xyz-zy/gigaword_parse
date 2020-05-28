@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "usually", "require", "an", "''", "``", "orientation", "''", "''", "before", "letting", "you", "use", "the", "pass", ",", "which", "consists", "of", "you", "sitting", "through", "the", "pitch", ",", "and", "then", "being", "required", "to", "disclose", "your", "personal", "info", "so", "they", "can", "continue", "to", "solicit", "should", "you", "choose", "not", "to", "sign", "up", "."], "e1_text": "require", "e1_pos": 2, "e2_text": "use", "e2_pos": 12, "label": "before"},
+{"tokens": ["Be", "sure", "you", "'ve", "done", "your", "research", "and", "committed", "before", "you", "even", "walk", "in", "the", "door", "."], "e1_text": "committed", "e1_pos": 8, "e2_text": "walk", "e2_pos": 12, "label": "before"}
+]

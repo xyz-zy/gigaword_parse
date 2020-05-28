@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "thing", "they", "tell", "us", "after", "we", "made", "a", "reservation", "was", "that", "we", "had", "a", "certain", "amount", "of", "time", "before", "we", "had", "to", "leave", "because", "of", "the", "amount", "of", "reservations", "they", "had", "that", "night", "."], "e1_text": "tell", "e1_pos": 3, "e2_text": "made", "e2_pos": 7, "label": "after"}
+]

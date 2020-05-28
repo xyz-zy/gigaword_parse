@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "over", "here", "after", "seeing", "a", "show", "as", "we", "wanted", "to", "smoke", "a", "cigar", "and", "celebrate", "our", "New", "Year", "'s", "Eve", "early", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "had", "scoped", "this", "place", "out", "several", "times", "and", "figured", "it", "would", "be", "a", "lot", "of", "lively", "fun", "after", "seeing", "the", "show", "."], "e1_text": "be", "e1_pos": 12, "e2_text": "seeing", "e2_pos": 19, "label": "after"}
+]

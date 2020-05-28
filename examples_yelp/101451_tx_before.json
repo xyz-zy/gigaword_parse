@@ -1,0 +1,4 @@
+[
+{"tokens": ["Japan", "...", "a", "place", "where", "it", "is", "customary", "to", "remove", "one", "'s", "shoes", "before", "entering", "a", "home", "."], "e1_text": "remove", "e1_pos": 9, "e2_text": "entering", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "thought", "Ohhhhhhh", "no", ",", "please", ",", "please", ",", "please", "wash", "that", "cutting", "board", "before", "you", "start", "slicing", "lime", "wedges", "."], "e1_text": "wash", "e1_pos": 10, "e2_text": "start", "e2_pos": 16, "label": "before"}
+]

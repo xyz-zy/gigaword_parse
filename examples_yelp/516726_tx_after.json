@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "can", "understand", "the", "policy", "of", "''", "``", "medical", "device", "can", "not", "be", "returned", "''", "''", "after", "he", "told", "me", "that", "-LRB-", "first", "time", "for", "me", "since", "I", "have", "n't", "used", "any", "medical", "device", "before", "-RRB-", ",", "but", "he", "should", "n't", "lie", "to", "me", "in", "the", "first", "place", "."], "e1_text": "understand", "e1_pos": 2, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

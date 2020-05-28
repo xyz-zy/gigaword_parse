@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "took", "so", "long", "to", "even", "come", "to", "us", "after", "being", "seated", "that", "when", "she", "greeted", "us", "we", "all", "knew", "what", "we", "wanted", "to", "drink", "and", "order", "."], "e1_text": "come", "e1_pos": 7, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

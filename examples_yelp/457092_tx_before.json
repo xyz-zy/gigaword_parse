@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stood", "there", "for", "a", "few", "minutes", "before", "she", "even", "acknowledged", "us", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "acknowledged", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "'m", "thinking", "''", "``", "okay", "she", "wants", "us", "to", "tip", "her", "before", "her", "shift", "ends", "thats", "fine", ".", "''", "''"], "e1_text": "thinking", "e1_pos": 2, "e2_text": "ends", "e2_pos": 15, "label": "before"}
+]

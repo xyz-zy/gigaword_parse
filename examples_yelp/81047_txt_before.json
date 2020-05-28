@@ -1,0 +1,3 @@
+[
+{"tokens": ["According", "to", "the", "website", ",", "you", "can", "reserve", "a", "taxi", "from", "10", "minutes", "to", "a", "couple", "days", "before", "you", "need", "it", "because", "they", "have", "a", "computer-aided", "dispatch", "system", "that", "allows", "them", "to", "quickly", "dispatch", "drivers", "."], "e1_text": "reserve", "e1_pos": 7, "e2_text": "need", "e2_pos": 19, "label": "before"}
+]

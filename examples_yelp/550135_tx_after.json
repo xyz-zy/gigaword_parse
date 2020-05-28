@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "came", "out", "and", "10", "minutes", "after", "we", "started", "to", "eat", ",", "the", "waiter", "came", "back", "out", "and", "said", "''", "``", "I", "'ve", "got", "some", "bad", "news", ",", "I", "accidentally", "ordered", "the", "large", "seafood", "platter", ",", "which", "is", "considerable", "more", "expensive", ",", "but", "I", "'d", "like", "to", "comp", "you", "a", "bottle", "of", "wine", "''", "''", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "started", "e2_pos": 9, "label": "after"}
+]

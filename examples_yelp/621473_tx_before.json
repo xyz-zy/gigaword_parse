@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "was", "the", "one", "who", "got", "me", "into", "going", "here", "but", "she", "purchased", "the", "35", "classes", "before", "I", "started", "and", "she", "has", "about", "20", "classes", "left", "."], "e1_text": "purchased", "e1_pos": 13, "e2_text": "started", "e2_pos": 19, "label": "before"}
+]

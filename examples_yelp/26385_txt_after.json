@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "said", "there", "was", "oil", "in", "the", "car", "...", "They", "put", "the", "oil", "back", "in", "the", "car", "after", "the", "engine", "seized", "up", ",", "and", "they", "are", "denying", "liability", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "seized", "e2_pos": 20, "label": "after"}
+]

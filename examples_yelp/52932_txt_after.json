@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "P.A.", "told", "me", "I", "had", "to", "come", "back", "after", "fasting", "for", "a", "second", "checkup", "and", "then", "come", "back", "again", "to", "discuss", "the", "blood", "test", "results", "."], "e1_text": "come", "e1_pos": 7, "e2_text": "fasting", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": [",", "but", "when", "the", "server", "handed", "me", "my", "plate", ",", "he", "let", "go", "of", "it", "before", "I", "had", "it", "-LRB-", "he", "was", "reaching", "across", "the", "table", "from", "the", "other", "side", "-RRB-", "and", "he", "spilt", "the", "guacamole", "and", "sour", "cream", "onto", "my", "shirt", "and", "pants", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["Thankfully", "I", "caught", "the", "rest", "of", "the", "plate", "before", "it", "all", "slid", "off", "."], "e1_text": "caught", "e1_pos": 2, "e2_text": "slid", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "got", "there", "30", "minutes", "before", "it", "opened", "-LRB-", "about", "6", "days", "or", "so", "after", "opening", "day", "-RRB-", "in", "order", "to", "be", "able", "to", "get", "past", "the", "crowd", "and", "beat", "the", "afternoon", "heat", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "opened", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "had", "checked", "the", "website", "a", "couple", "days", "before", "we", "went", "to", "see", "how", "much", "tickets", "cost", ",", "what", "types", "of", "slides", "they", "had", ",", "and", "get", "directions", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["You", "are", "allowed", "to", "park", ",", "pay", ",", "and", "get", "lockers", "before", "the", "rides", "actually", "open", "."], "e1_text": "park", "e1_pos": 4, "e2_text": "open", "e2_pos": 15, "label": "before"}
+]

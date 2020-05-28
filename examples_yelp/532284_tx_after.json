@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "in", "with", "sore", "feet", "after", "calling", "ahead", "for", "two", "foot", "massage", "appointments", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "calling", "e2_pos": 7, "label": "after"},
+{"tokens": ["There", "were", "overstuffed", "hospital", "beds", "and", "ottomans", "in", "the", "room", ",", "we", "sat", "down", "after", "being", "led", "there", "and", "waited", "a", "good", "10", "minutes", "."], "e1_text": "sat", "e1_pos": 12, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

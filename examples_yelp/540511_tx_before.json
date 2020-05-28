@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "do", "have", "a", "small", "plates", "menu", "for", "food", "which", "is", "a", "nice", "touch", "especially", "for", "me", "since", "I", "do", "n't", "usually", "eat", "a", "lot", "before", "going", "out", "."], "e1_text": "eat", "e1_pos": 22, "e2_text": "going", "e2_pos": 26, "label": "before"},
+{"tokens": ["I", "have", "never", "had", "a", "bad", "night", "here", "and", "it", "is", "always", "my", "first", "stop", "before", "really", "getting", "into", "a", "Las", "Vegas", "evening", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "getting", "e2_pos": 17, "label": "before"}
+]

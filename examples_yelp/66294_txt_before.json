@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "sure", "not", "much", "of", "a", "secret", "to", "some", "who", "shares", "my", "love", "for", "''", "``", "Luv-It", "Frozen", "Custard", "''", "''", "!!", "''", "``", "Luv-It", "Frozen", "Custard", "''", "''", "has", "been", "around", "long", "before", "the", "nearby", "hotels", "were", "built", "."], "e1_text": "!!", "e1_pos": 22, "e2_text": "were", "e2_pos": 38, "label": "before"},
+{"tokens": ["Funny", ",", "Greg", "Tiedemann", ",", "the", "owner", "who", "served", "me", "-LRB-", "and", "i", "would", "guess", "everyone", "else", "at", "the", "window", "-RRB-", "had", "to", "stop", "and", "think", "before", "he", "made", "my", "order", ",", "but", "he", "said", "he", "like", "my", "combination", "."], "e1_text": "stop", "e1_pos": 23, "e2_text": "made", "e2_pos": 28, "label": "before"}
+]

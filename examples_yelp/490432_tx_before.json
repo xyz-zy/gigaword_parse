@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "drive", "to", "the", "other", "side", "of", "town", "before", "I", "step", "back", "into", "this", "location", "."], "e1_text": "drive", "e1_pos": 2, "e2_text": "step", "e2_pos": 11, "label": "before"},
+{"tokens": ["-LRB-", "btw", ",", "all", "the", "other", "locations", "I", "have", "been", "to", "go", "out", "of", "their", "way", "to", "greet", "you", "and", "offer", "you", "a", "sample", "before", "you", "even", "make", "it", "to", "the", "counter", "-RRB-"], "e1_text": "offer", "e1_pos": 20, "e2_text": "make", "e2_pos": 27, "label": "before"}
+]

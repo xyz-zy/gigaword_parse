@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "3", "hours", "before", "the", "plane", "took", "off", ",", "but", "they", "would", "not", "let", "us", "on", "the", "plane", ",", "and", "refused", "to", "refund", "our", "tickets", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "took", "e2_pos": 7, "label": "before"}
+]

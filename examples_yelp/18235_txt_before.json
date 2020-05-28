@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "you", "rent", "it", "and", "watch", "the", "first", "half", ",", "but", "you", "are", "going", "to", "fall", "asleep", "before", "the", "troubled", "teenage", "daughter", "commits", "suicide", "."], "e1_text": "fall", "e1_pos": 15, "e2_text": "commits", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "get", "the", "hell", "out", "of", "there", "as", "soon", "as", "possible", "before", "they", "start", "throwing", "pans", "at", "each", "other", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "start", "e2_pos": 13, "label": "before"}
+]

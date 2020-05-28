@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "surprised", "me", "because", "he", "quoted", "me", "after", "they", "found", "the", "part", ",", "the", "fee", "should", "have", "already", "been", "in", "the", "quote", "."], "e1_text": "quoted", "e1_pos": 5, "e2_text": "found", "e2_pos": 9, "label": "after"}
+]

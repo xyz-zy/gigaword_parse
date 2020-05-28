@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "never", "sent", "a", "confirmation", "or", "even", "a", "time", "to", "pick", "up", "my", "pizza", "-LRB-", "let", "'s", "note", "that", "Pizza", "Hut", "gives", "you", "a", "confirmation", "before", "you", "even", "leave", "the", "site", ",", "and", "Domino", "'s", "tells", "you", "exactly", "where", "your", "pizza", "is", "at", "in", "the", "process", "!", "-RRB-", "."], "e1_text": "gives", "e1_pos": 22, "e2_text": "leave", "e2_pos": 29, "label": "before"}
+]

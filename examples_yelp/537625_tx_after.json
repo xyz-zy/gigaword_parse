@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "came", "to", "our", "table", "and", "he", "seemed", "a", "bit", "spacey", ",", "especially", "after", "he", "said", ",", "''", "``", "let", "me", "deconstruct", "the", "dish", "in", "my", "head", "before", "I", "can", "tell", "you", "what", "is", "on", "it", ".", "''", "''"], "e1_text": "seemed", "e1_pos": 8, "e2_text": "said", "e2_pos": 16, "label": "after"}
+]

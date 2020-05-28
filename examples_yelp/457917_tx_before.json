@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "we", "did", "n't", "know", "about", "this", "quirk", "of", "Gilberts", "we", "tried", "two", "places", "before", "ending", "up", "here", "."], "e1_text": "tried", "e1_pos": 11, "e2_text": "ending", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "was", "another", "20", "minutes", "before", "we", "got", "our", "food", "-LRB-", "we", "almost", "left", ",", "clearly", "we", "should", "have", "-RRB-", ",", "meanwhile", "a", "couple", "that", "had", "come", "in", "a", "few", "minutes", "after", "us", "had", "gotten", "all", "their", "food", "was", "getting", "ready", "to", "leave", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

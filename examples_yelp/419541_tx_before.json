@@ -1,0 +1,4 @@
+[
+{"tokens": ["During", "that", "visit", "Johnny", "informed", "me", "that", "it", "was", "a", "matter", "of", "time", "before", "I", "needed", "a", "lower", "control", "arm", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "needed", "e2_pos": 15, "label": "before"},
+{"tokens": ["Less", "than", "$", "1000.00", "total", "in", "labor", "cost", "for", "all", "visits", "There", "are", "two", "morals", "of", "this", "story", ":", "-LRB-", "1", "-RRB-", "think", "long", "and", "hard", "before", "buying", "a", "used", "car", "and", "-LRB-", "2", "-RRB-", "if", "you", "do", "please", "take", "it", "to", "King", "Auto", "and", "let", "Johnny", "and", "his", "staff", "take", "care", "of", "you", "."], "e1_text": "think", "e1_pos": 22, "e2_text": "buying", "e2_pos": 27, "label": "before"}
+]

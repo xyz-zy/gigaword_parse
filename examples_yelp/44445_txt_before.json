@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", ",", "I", "certainly", "would", "not", "knock", "a", "restaurant", "for", "making", "an", "authentic", "dish", "that", "I", "just", "do", "n't", "happen", "to", "care", "for", ",", "so", "if", "this", "is", "how", "this", "dish", "was", "supposed", "to", "turn", "out", ",", "then", "those", "who", "prefer", "this", "presentation", "would", "probably", "enjoy", "it", ",", "but", "I", "really", "could", "n't", "manage", "to", "eat", "more", "than", "a", "few", "bites", "before", "deciding", "to", "call", "it", "a", "loss", "and", "order", "something", "else", "."], "e1_text": "eat", "e1_pos": 55, "e2_text": "deciding", "e2_pos": 62, "label": "before"},
+{"tokens": ["He", "then", "quickly", "darted", "away", "before", "we", "even", "had", "a", "chance", "to", "order", "drinks", "."], "e1_text": "darted", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

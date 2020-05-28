@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "encountered", "a", "situation", "where", "the", "elderly", "couple", "we", "were", "eating", "with", "shared", "a", "few", "pieces", "of", "shrimp", "after", "one", "of", "them", "ordered", "the", "steak", "and", "unlimited", "shrimp", "option", "."], "e1_text": "shared", "e1_pos": 12, "e2_text": "ordered", "e2_pos": 22, "label": "after"}
+]

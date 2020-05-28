@@ -1,0 +1,4 @@
+[
+{"tokens": ["Meals", "arrived", "after", "about", "20", "minutes", "less", "one", "salad", ",", "to", "which", "the", "waitress", "commented", "''", "``", "Oh", "yeah", ",", "that", "'s", "weird", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "Oh", "e2_pos": 17, "label": "after"},
+{"tokens": ["One", "of", "the", "party", "was", "having", "wings", "and", "we", "requested", "a", "couple", "additional", "napkins", ",", "which", "she", "brought", "after", "being", "reminded", "once", "7", "minutes", "later", "."], "e1_text": "brought", "e1_pos": 17, "e2_text": "being", "e2_pos": 19, "label": "after"}
+]

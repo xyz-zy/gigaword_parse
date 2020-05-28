@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dr", "pepper", "was", "empty", "and", "was", "told", "that", "they", "were", "out", "but", "that", "was", "after", "I", "heard", "what", "appeared", "to", "be", "the", "owner", "saying", "''", "''", "I", "dont", "even", "know", "how", "to", "work", "this", "thing", "''", "''", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "heard", "e2_pos": 17, "label": "after"}
+]

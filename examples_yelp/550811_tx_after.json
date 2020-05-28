@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "$", "12", "with", "an", "ice", "tea", ",", "this", "place", "is", "priced", "right", "for", "me", "to", "return", ",", "especially", "after", "I", "work", "out", "and", "it", "is", "also", "close", "to", "my", "Fairfield", "Inn", "almost", "within", "walking", "distance", "."], "e1_text": "priced", "e1_pos": 11, "e2_text": "work", "e2_pos": 21, "label": "after"}
+]

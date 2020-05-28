@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "initially", "called", "Vortex", "Doors", "-LRB-", "Vortex", "Industries", "-RRB-", "Inc.", "because", "they", "had", "gone", "around", "the", "plaza", "before", ",", "handing", "out", "stickers", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["One", "company", "was", "very", "rude", "and", "the", "call", "dropped", "right", "before", "we", "were", "able", "to", "get", "a", "quote", "."], "e1_text": "dropped", "e1_pos": 8, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

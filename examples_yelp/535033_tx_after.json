@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "to", "say", "that", "I", "would", "have", "given", "this", "restaurant", "at", "least", "4", "stars", "had", "I", "stopped", "eating", "after", "having", "the", "chicken", "quesadilla", "."], "e1_text": "eating", "e1_pos": 18, "e2_text": "having", "e2_pos": 20, "label": "after"}
+]

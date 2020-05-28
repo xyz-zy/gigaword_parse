@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "of", "them", "adore", "Italian", "food", "and", "we", "wanted", "to", "take", "them", "some", "place", "they", "had", "n't", "tried", "before", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "ordered", "the", "Cioppino", ",", "since", "I", "was", "trying", "to", "eat", "a", "little", "lighter", "than", "usual", "after", "a", "very", "filling", "meal", "the", "night", "before", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

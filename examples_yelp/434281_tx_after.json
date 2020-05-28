@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "first", "locksmith", "came", "to", "my", "house", "after", "he", "saw", "the", "job", "the", "price", "almost", "doubled", ",", "I", "told", "him", "he", "could", "leave", "and", "I", "would", "call", "someone", "else", "...", "The", "next", "company", "was", "Pinnacle", "lock", "@", "safe", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "saw", "e2_pos": 10, "label": "after"}
+]

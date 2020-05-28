@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "other", "three", "-LRB-", "one", "of", "whom", "had", "never", "eaten", "Indian", "food", ",", "none", "of", "whom", "had", "been", "here", "before", "-RRB-", "ordered", "the", "lunch", "buffet", ",", "and", "I", "ordered", "the", "Chicken", "Madras", "-LRB-", "chicken", "cooked", "in", "Madras", "curry", "-RRB-", "at", "8\\/10", "level", "heat", "."], "e1_text": "eaten", "e1_pos": 9, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

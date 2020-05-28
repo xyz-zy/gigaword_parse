@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "nauseous", "after", "being", "in", "there", "for", "only", "a", "few", "minutes", "and", "it", "took", "4", "hours", "for", "our", "passages", "to", "clear", "up", "completely", ",", "this", "being", "AFTER", "a", "huge", "rainfall", "AT", "NIGHT", "which", "you", "would", "think", "would", "have", "neutralized", "it", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "being", "e2_pos": 4, "label": "after"},
+{"tokens": ["At", "this", "point", "I", "'m", "posting", "this", "review", "all", "over", "the", "online", "channels", "because", "the", "management", "has", "done", "NOTHING", "to", "address", "this", "after", "several", "times", "and", "multiple", "residents", "reporting", "."], "e1_text": "address", "e1_pos": 20, "e2_text": "reporting", "e2_pos": 28, "label": "after"}
+]

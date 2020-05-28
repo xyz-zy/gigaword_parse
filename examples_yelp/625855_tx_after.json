@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "day", "that", "their", "website", "said", "4:00", ",", "after", "waiting", "for", "1\\/2", "hour", "we", "were", "told", "that", "they", "would", "not", "open", "for", "3", "hours", "."], "e1_text": "said", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "we", "were", "finally", "seated", "and", "handed", "menus", ",", "she", "walked", "away", "for", "several", "minutes", "before", "returning", "to", "take", "our", "drink", "order", "."], "e1_text": "walked", "e1_pos": 10, "e2_text": "returning", "e2_pos": 16, "label": "before"},
+{"tokens": ["When", "she", "finally", "came", "back", "to", "get", "our", "order", "she", "proceeded", "to", "walk", "away", "before", "all", "of", "us", "finished", "ordering", "."], "e1_text": "walk", "e1_pos": 12, "e2_text": "finished", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "have", "also", "heard", "that", "other", "newbies", "or", "people", "that", "do", "n't", "come", "here", "often", "have", "complained", "about", "service", "before", ",", "and", "that", "those", "complaints", "were", "not", "taken", "seriously", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "have", "e2_pos": 1, "label": "before"}
+]

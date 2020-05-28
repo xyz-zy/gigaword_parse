@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "'re", "going", "to", "walk", "by", "me", "117", "times", "before", "seating", "me", ",", "you", "could", "at", "least", "acknowledge", "I", "'m", "waiting", "."], "e1_text": "walk", "e1_pos": 5, "e2_text": "seating", "e2_pos": 11, "label": "before"},
+{"tokens": ["Sadly", "we", "were", "unable", "to", "be", "helped", "in", "the", "small", "window", "of", "time", "I", "had", "before", "the", "plus", "one", "decided", "it", "was", "taking", "too", "long", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "decided", "e2_pos": 19, "label": "before"}
+]

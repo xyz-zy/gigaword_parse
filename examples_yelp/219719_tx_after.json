@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "ended", "up", "here", "after", "deciding", "not", "to", "wait", "in", "line", "for", "the", "buffet", "at", "the", "Wynn", "."], "e1_text": "ended", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 6, "label": "after"},
+{"tokens": ["Wow", ",", "I", "was", "so", "full", "after", "finishing", "the", "whole", "thing", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "finishing", "e2_pos": 7, "label": "after"}
+]

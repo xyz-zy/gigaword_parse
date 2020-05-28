@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "end", "up", "dining", "here", "before", "or", "after", "checking", "out", "the", "bands", "that", "play", "in", "the", "Suncoast", "showroom", "."], "e1_text": "dining", "e1_pos": 3, "e2_text": "checking", "e2_pos": 8, "label": "before"},
+{"tokens": ["For", "the", "past", "couple", "of", "visits", ",", "I", "did", "n't", "have", "to", "wait", "for", "a", "table", "as", "long", "as", "I", "did", "before", "...", "when", "that", "burger", "special", "was", "popular", "!"], "e1_text": "wait", "e1_pos": 12, "e2_text": "did", "e2_pos": 8, "label": "before"}
+]

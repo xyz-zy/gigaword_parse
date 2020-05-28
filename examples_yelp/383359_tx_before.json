@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sat", "immediately", "upon", "arriving", ",", "which", "is", "nice", ",", "but", "it", "took", "a", "good", "10", "minutes", "before", "someone", "even", "came", "over", "and", "once", "the", "waiter", "did", "come", "over", ",", "it", "seemed", "like", "he", "was", "over", "serving", "people", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "came", "e2_pos": 19, "label": "before"}
+]

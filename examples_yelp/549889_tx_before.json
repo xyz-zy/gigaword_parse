@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "dealing", "with", "most", "of", "the", "negative", "items", "above", ",", "i", "did", "n't", "try", "anything", ",", "i", "just", "wanted", "to", "get", "the", "hell", "out", "of", "this", "dump", "before", "i", "barfed", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "barfed", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "was", "more", "than", "disgusted", "leaving", "this", "place", "on", "Friday", ",", "but", ",", "i", "did", "want", "to", "think", "for", "a", "few", "days", "before", "reviewing", "."], "e1_text": "think", "e1_pos": 17, "e2_text": "reviewing", "e2_pos": 23, "label": "before"}
+]

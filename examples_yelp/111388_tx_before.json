@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "purchased", "our", "tickets", "on", "line", ",", "it", "stated", "75", "%", "of", "your", "group", "needed", "to", "be", "there", "before", "you", "were", "seated", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "were", "e2_pos": 21, "label": "before"},
+{"tokens": ["Of", "course", ",", "we", "are", "all", "adult", "enough", "to", "ask", "before", "ordering", ",", "but", "were", "shocked", "to", "hear", "some", "of", "the", "special", "mixed", "drinks", "were", "$", "10-12", ".95", "\\/", "each", "."], "e1_text": "ask", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 11, "label": "before"}
+]

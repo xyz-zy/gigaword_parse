@@ -1,0 +1,5 @@
+[
+{"tokens": ["Id", "say", "it", "was", "bout", "10-15min", "before", "our", "appetizers", "got", "in", "and", "the", "waiter", "felt", "the", "need", "to", "tell", "us", "the", "edemame", "was", "'", "''", "``", "fresh", "!", "''", "''"], "e1_text": "bout", "e1_pos": 4, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["Apparently", "they", "had", "just", "two", "people", "before", "making", "sushi", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "making", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "'ve", "been", "there", "before", "when", "just", "one", "guy", "was", "there", "and", "it", "was", "faster", "service", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

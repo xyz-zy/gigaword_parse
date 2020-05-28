@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "them", "they", "could", "have", "1", "-RRB-", "told", "me", "the", "drink", "was", "not", "available", "and", "reminded", "her", "that", "I", "had", "even", "clarified", "with", "the", "cashier", "before", "ordering", "2", "-RRB-", "told", "me", "this", "information", "before", "deciding", "what", "drink", "they", "should", "make", "me", "themselves", "."], "e1_text": "clarified", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 27, "label": "before"}
+]

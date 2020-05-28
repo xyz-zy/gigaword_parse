@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "'d", "read", "these", "reviews", "before", "I", "bought", "a", "round-trip", "ticket", "on", "Gray", "Line", "Airport", "Shuttle", "in", "Las", "Vegas", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "bought", "e2_pos": 9, "label": "before"},
+{"tokens": ["Along", "with", "another", "couple", "-LRB-", "independent", "of", "us", "-RRB-", "we", "stood", "outside", "our", "hotel", "-LRB-", "Flamingo", "-RRB-", "for", "20", "minutes", "before", "the", "shuttle", "was", "due", "to", "30", "minutes", "afterward", ",", "and", "there", "was", "no", "sign", "of", "it", "."], "e1_text": "stood", "e1_pos": 10, "e2_text": "was", "e2_pos": 23, "label": "before"}
+]

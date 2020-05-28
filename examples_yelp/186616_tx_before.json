@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "still", "a", "long", "while", "before", "he", "took", "our", "order", "-", "apparently", ",", "he", "was", "really", "busy", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "took", "e2_pos": 8, "label": "before"},
+{"tokens": ["These", "are", "her", "words", "before", "ordering", "and", "I", "use", "them", "with", "permission", ":", "''", "``", "I", "hate", "lamb", ",", "so", "I", "'ll", "have", "the", "lamb", "chops", ".", "''", "''"], "e1_text": "are", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 5, "label": "before"}
+]

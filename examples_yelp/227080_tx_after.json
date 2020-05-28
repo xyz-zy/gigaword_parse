@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "glass", "had", "been", "empty", "the", "ENTIRE", "meal", ",", "even", "after", "asking", "her", "for", "more", "water", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "asking", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "are", "tippers", ",", "I", "would", "never", "''", "``", "stiff", "''", "''", "someone", "after", "having", "been", "a", "server", "and", "bartender", "myself", "."], "e1_text": "someone", "e1_pos": 12, "e2_text": "having", "e2_pos": 14, "label": "after"}
+]

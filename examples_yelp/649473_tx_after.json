@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "a", "Friday", "night", ",", "one", "could", "expect", "to", "have", "a", "delay", "in", "being", "seated", ",", "having", "orders", "taken", "...", "but", "to", "wait", "45", "minutes", "for", "your", "drink", "to", "arrive", "after", "already", "waiting", "15", "minutes", "for", "your", "waitress", "to", "acknowledge", "our", "table", ",", "is", "ridiculous", "!"], "e1_text": "arrive", "e1_pos": 29, "e2_text": "waiting", "e2_pos": 32, "label": "after"}
+]

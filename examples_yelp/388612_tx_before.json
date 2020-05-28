@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lola", "'s", "Coffee", "is", "owned", "by", "the", "old", "owners", "of", "Lux", "Coffee", "-", "-", "right", "down", "the", "street", "on", "Central", "before", "they", "went", "into", "the", "Tapas", "business", "."], "e1_text": "owned", "e1_pos": 4, "e2_text": "went", "e2_pos": 22, "label": "before"}
+]

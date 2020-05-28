@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ate", "here", "our", "second", "night", "in", "Vegas", "after", "suffering", "through", "the", "first", "night", "eating", "at", "RM", "Seafood", "-LRB-", "also", "located", "in", "Mandalay", "Bay", "-RRB-", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "suffering", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "felt", "completely", "ripped", "off", "after", "eating", "at", "RM", "Seafood", "the", "night", "before", "so", "we", "were", "very", "happy", "to", "receive", "the", "level", "of", "customer", "service", "you", "'d", "expect", "in", "Las", "Vegas", "."], "e1_text": "ripped", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

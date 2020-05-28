@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "n't", "have", "been", "upset", "but", "after", "mentioning", "it", "to", "the", "waiter", ",", "who", "was", "nice", "but", "not", "very", "attentive", ",", "said", "he", "would", "let", "the", "kitchen", "know", "but", "never", "refunded", "me", "!!", "We", "did", "n't", "even", "eat", "them", "so", "it", "was", "obvious", "!!!", "Not", "to", "mention", ",", "they", "charge", "you", "for", "sides", ",", "the", "price", "on", "the", "sandwiches", "are", "expensive", ",", "then", "add", "an", "additional", "charge", "for", "a", "side", "."], "e1_text": "upset", "e1_pos": 5, "e2_text": "mentioning", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "waiting", "a", "long", "while", "and", "seeing", "lots", "of", "folks", "who", "ordered", "after", "us", "getting", "their", "food", "-LRB-", "including", "burgers", "and", "pizza", "-RRB-", "I", "went", "to", "to", "the", "pick", "up", "window", "where", "I", "could", "see", "the", "burgers", "and", "fries", "sitting", "and", "cooling", "while", "waiting", "for", "the", "pizza", "."], "e1_text": "ordered", "e1_pos": 11, "e2_text": "getting", "e2_pos": 14, "label": "after"}
+]

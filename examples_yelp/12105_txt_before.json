@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "it", "'s", "way", "better", "than", "before", "because", "it", "actually", "has", "a", "door", "on", "it", "now", "?!", "When", "we", "were", "there", "it", "had", "1", "door", ",", "2", "toilets", "side", "by", "side", ",", "and", "1", "clogged", "sink", "."], "e1_text": "'s", "e1_pos": 2, "e2_text": "has", "e2_pos": 10, "label": "before"},
+{"tokens": ["Go", "at", "your", "own", "risk", "or", "leave", "before", "you", "have", "to", "pee", "."], "e1_text": "leave", "e1_pos": 6, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

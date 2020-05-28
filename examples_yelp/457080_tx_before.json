@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "being", "seated", ",", "we", "waited", "\\*", "twenty", "five", "\\*", "minutes", "without", "being", "greeted", "by", "our", "server", "before", "finally", "flagging", "down", "the", "manager", "and", "saying", ",", "''", "``", "Hey", ",", "WTF", "man", "?", "''", "''", "."], "e1_text": "greeted", "e1_pos": 13, "e2_text": "flagging", "e2_pos": 19, "label": "before"},
+{"tokens": ["However", "what", "this", "review", "is", "really", "about", "is", "the", "quality", "of", "their", "hookah", "-", "they", "had", "raised", "prices", "since", "the", "last", "time", "I", "'d", "visited", ",", "and", "anywhere", "in", "Vegas", "charging", "$", "30", "for", "a", "head", "of", "hookah", "that", "only", "lasts", "15", "minutes", "before", "getting", "tasteless", "and", "harsh", ",", "can", "suck", "it", "."], "e1_text": "lasts", "e1_pos": 40, "e2_text": "getting", "e2_pos": 44, "label": "before"}
+]

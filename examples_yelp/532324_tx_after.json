@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "going", "to", "take", "the", "next", "party", "bus", "alone", "to", "the", "next", "stop", "but", "found", "out", "the", "bachelorette", "and", "rest", "of", "my", "party", "went", "back", "to", "the", "hotel", "after", "not", "being", "told", "to", "wait", "excessively", "for", "the", "party", "bus", "."], "e1_text": "went", "e1_pos": 24, "e2_text": "being", "e2_pos": 31, "label": "after"}
+]

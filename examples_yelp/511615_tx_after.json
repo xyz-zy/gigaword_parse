@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "tried", "to", "pull", "the", "same", "trick", "with", "the", "souvenir", "glasses", "as", "last", "time", "but", "we", "told", "him", "after", "he", "brought", "our", "drinks", "out", "the", "first", "time", "that", "that", "'s", "not", "what", "we", "ordered", "and", "we", "are", "n't", "paying", "for", "them", "."], "e1_text": "told", "e1_pos": 17, "e2_text": "brought", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Have", "a", "read", "and", "consider", "your", "options", "carefully", "before", "giving", "Lovetts", "your", "business", "."], "e1_text": "consider", "e1_pos": 4, "e2_text": "giving", "e2_pos": 9, "label": "before"},
+{"tokens": ["You", "think", "they", "'d", "have", "cleaned", "off", "the", "suction", "cup", "marks", "and", "smudges", "before", "handing", "it", "back", "to", "me", "."], "e1_text": "cleaned", "e1_pos": 5, "e2_text": "handing", "e2_pos": 14, "label": "before"},
+{"tokens": ["-LRB-", "Lovetts", "does", "advertise", "on", "their", "website", "that", "every", "car", "is", "cleaned", "before", "it", "'s", "returned", "to", "the", "customer", ".", "-RRB-"], "e1_text": "cleaned", "e1_pos": 11, "e2_text": "'s", "e2_pos": 14, "label": "before"}
+]

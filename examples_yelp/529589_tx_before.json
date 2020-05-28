@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "went", "to", "EZ", "Lube", "the", "weekend", "before", "to", "get", "my", "oil", "changed", "and", "they", "''", "``", "highly", "''", "''", "recommended", "this", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "changed", "e2_pos": 12, "label": "before"},
+{"tokens": ["-LRB-", "I", "checked", "this", "out", "before", "leaving", "Los", "Angeles", "and", "the", "coolant", "looked", "fine", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 6, "label": "before"},
+{"tokens": ["Advised", "him", "that", "I", "just", "drove", "from", "LA", "and", "checked", "out", "the", "coolant", "before", "I", "came", "here", "."], "e1_text": "checked", "e1_pos": 9, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

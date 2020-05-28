@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "back", "on", "my", "last", "day", "staying", "at", "the", "Cal", "to", "see", "if", "they", "had", "any", "of", "the", "other", "cocktails", "for", "sale", "before", "I", "made", "my", "final", "decision", "on", "the", "box", "set", "but", "they", "did", "not", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "made", "e2_pos": 25, "label": "before"}
+]

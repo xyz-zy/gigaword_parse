@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "to", "be", "pre-approved", "before", "I", "started", "looking", "at", "cars", "with", "the", "understanding", "that", "this", "just", "might", "not", "happen", "."], "e1_text": "pre-approved", "e1_pos": 4, "e2_text": "started", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "moral", "of", "this", "story", "is", ",", "do", "your", "homework", "to", "know", "the", "value", "of", "your", "purchase", "before", "you", "buy", "from", "these", "guys", "...", "and", "ladies", ",", "you", "might", "want", "to", "bring", "a", "guy", "with", "you", "so", "you", "do", "n't", "have", "to", "shake", "their", "hands", "either", "."], "e1_text": "know", "e1_pos": 11, "e2_text": "buy", "e2_pos": 19, "label": "before"}
+]

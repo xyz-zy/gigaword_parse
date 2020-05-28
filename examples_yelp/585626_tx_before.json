@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "kept", "coming", "by", "to", "tell", "me", "that", "my", "bao", "buns", "would", "be", "right", "up", ",", "and", "did", "so", "about", "4", "times", "before", "they", "came", "-LRB-", "I", "do", "n't", "think", "that", "it", "really", "took", "that", "long", ",", "but", "coming", "by", "so", "often", "to", "tell", "me", "that", "they", "were", "coming", "made", "it", "seem", "like", "it", "was", "taking", "forever", "-RRB-", "."], "e1_text": "did", "e1_pos": 18, "e2_text": "came", "e2_pos": 25, "label": "before"}
+]

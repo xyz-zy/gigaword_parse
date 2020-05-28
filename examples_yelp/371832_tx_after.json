@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "our", "second", "trip", "-", "the", "first", "was", "just", "after", "they", "opened", "and", "we", "did", "n't", "love", "it", "but", "figured", "since", "it", "has", "been", "open", "for", "awhile", "the", "kinks", "would", "be", "worked", "out", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "opened", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "think", "what", "is", "most", "bothersome", "is", "n't", "that", "there", "was", "clearly", "a", "prep", "error", "but", "that", "even", "after", "it", "was", "sent", "back", ",", "there", "was", "no", "quality", "control", "in", "the", "kitchen", "."], "e1_text": "think", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

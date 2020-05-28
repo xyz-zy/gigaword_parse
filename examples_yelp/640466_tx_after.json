@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "mention", "I", "'m", "a", "huge", "sushi", "fan", "and", "recently", "moved", "back", "to", "Wisconsin", "after", "living", "in", "Southern", "California", "where", "no", "matter", "where", "you", "go", ",", "you", "get", "good", "sushi", "."], "e1_text": "moved", "e1_pos": 11, "e2_text": "living", "e2_pos": 16, "label": "after"}
+]

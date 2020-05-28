@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "with", "a", "group", "of", "coworkers", "for", "lunch", "--", "many", "of", "whom", "have", "enjoyed", "dinners", "there", "before", "--", "and", "while", "I", "expect", "a", "pub", "to", "take", "a", "little", "while", "to", "prepare", "a", "large", "order", "of", "food", "at", "lunch", ",", "today", "we", "waited", "almost", "an", "hour", "after", "ordering", "for", "our", "food", "to", "arrive", "."], "e1_text": "waited", "e1_pos": 42, "e2_text": "ordering", "e2_pos": 47, "label": "after"},
+{"tokens": ["The", "food", "finally", "arrived", "just", "seconds", "after", "I", "told", "them", "our", "party", "needed", "to", "leave", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "told", "e2_pos": 8, "label": "after"}
+]

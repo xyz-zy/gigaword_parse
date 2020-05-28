@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "know", ",", "after", "reading", "the", "bad", "reviews", ",", "I", "figured", "I", "would", "share", "my", "bad", "experience", "at", "this", "store", "."], "e1_text": "know", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["When", "the", "genius", "bar", "lady", "got", "to", "me", "she", "seemed", "rushed", "and", "after", "solving", "one", "problem", "and", "not", "spent", "the", "entire", "time", "with", "me", ",", "told", "me", "she", "could", "n't", "help", "me", "with", "the", "second", "issue", "because", "it", "would", "take", "too", "much", "time", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "solving", "e2_pos": 13, "label": "after"}
+]

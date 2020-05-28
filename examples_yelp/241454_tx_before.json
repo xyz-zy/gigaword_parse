@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "not", "have", "room", "for", "desert", "at", "the", "end", "of", "my", "meal", "...", "in", "fact", ",", "I", "ate", "waaaaay", "too", "much", ",", "but", "I", "passed", "the", "tray", "on", "the", "way", "to", "my", "booth", "-LRB-", "it", "'s", "very", "strategically", "located", "so", "you", "see", "it", "before", "you", "start", "your", "meal", "-RRB-", "."], "e1_text": "see", "e1_pos": 42, "e2_text": "start", "e2_pos": 46, "label": "before"}
+]

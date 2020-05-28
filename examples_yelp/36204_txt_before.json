@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "room", "had", "a", "damp", "smell", ",", "old", "dingy", "furniture", "-LRB-", "I", "would", "need", "to", "put", "a", "blanket", "on", "the", "couch", "before", "I", "sat", "on", "it", "-RRB-", ",", "&", "gross", "calcium", "buildup", "on", "the", "shower", "head", "."], "e1_text": "put", "e1_pos": 15, "e2_text": "sat", "e2_pos": 23, "label": "before"}
+]

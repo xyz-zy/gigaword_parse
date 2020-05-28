@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "are", "a", "pro", "like", "me", ",", "you", "stop", "at", "QuikTrip", "or", "McDonalds", "first", "to", "buy", "a", "large", "size", "soda", "before", "coming", "to", "this", "place", "."], "e1_text": "buy", "e1_pos": 16, "e2_text": "coming", "e2_pos": 22, "label": "before"}
+]

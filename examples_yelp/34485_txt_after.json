@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", "'s", "visit", "was", "with", "Mike", "C.", ",", "Robyn", "N.", ",", "&", "Jeromy", "H.", "The", "first", "negative", "for", "me", "was", "that", "the", "bathroom", "had", "only", "one", "of", "those", "silly", "blowers", "to", "dry", "your", "hands", "after", "washing", "them", ",", "&", "you", "could", "n't", "even", "substitute", "ass", "gaskets", "for", "paper", "towels", "because", "they", "did", "n't", "have", "them", "either", "."], "e1_text": "dry", "e1_pos": 31, "e2_text": "washing", "e2_pos": 35, "label": "after"},
+{"tokens": ["That", "left", "me", "trying", "to", "turn", "off", "the", "faucets", "without", "touching", "them", "after", "washing", "my", "hands", ",", "as", "well", "as", "opening", "the", "door", "."], "e1_text": "touching", "e1_pos": 10, "e2_text": "washing", "e2_pos": 13, "label": "after"}
+]

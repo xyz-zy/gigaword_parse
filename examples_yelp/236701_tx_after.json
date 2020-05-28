@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "room", "change", "occurred", "at", "1230", "am", "after", "a", "visit", "to", "the", "front", "desk", "when", "we", "needed", "to", "be", "up", "at", "7", "am", "for", "flights", "."], "e1_text": "occurred", "e1_pos": 3, "e2_text": "am", "e2_pos": 22, "label": "after"}
+]

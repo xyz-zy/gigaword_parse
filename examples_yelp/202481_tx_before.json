@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "our", "appetizer", "10", "minutes", "before", "ordering", "our", "entree", "and", "yet", "just", "as", "the", "apps", "were", "delivered", ",", "I", "saw", "the", "kid", "with", "our", "dinners", "in", "hand", "do", "a", "quick", "u-turn", "back", "to", "the", "kitchen", "-", "hoping", "we", "did", "n't", "see", "him", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 7, "label": "before"}
+]

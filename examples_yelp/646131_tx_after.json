@@ -1,0 +1,3 @@
+[
+{"tokens": ["any", "decent", "restaurant", "would", "have", "just", "not", "said", "anything", "or", "would", "have", "not", "requested", "additional", "payment", "for", "a", "$", "5", "beer", "after", "the", "customer", "closed", "a", "$", "50", "tab", "."], "e1_text": "requested", "e1_pos": 13, "e2_text": "closed", "e2_pos": 24, "label": "after"}
+]

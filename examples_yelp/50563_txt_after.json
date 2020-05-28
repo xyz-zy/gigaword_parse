@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "that", "the", "trainers", "will", "set", "up", "your", "heart", "rate", "monitor", "after", "you", "were", "up-charged", "-LRB-", "my", "bad", ",", "should", "have", "searched", "on", "amazon", "before", "purchasing", "-RRB-", "."], "e1_text": "set", "e1_pos": 6, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["Love", "the", "front", "desk", "people", "who", "pronounce", "my", "name", "right", "and", "always", "laugh", "at", "my", "picture", ",", "really", "annoyed", "management", "wo", "n't", "change", "my", "last", "name", "after", "showing", "them", "proof", "of", "our", "marriage", "."], "e1_text": "change", "e1_pos": 22, "e2_text": "showing", "e2_pos": 27, "label": "after"}
+]

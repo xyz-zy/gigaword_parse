@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "we", "were", "there", ",", "after", "ordering", "the", "seafood", "pancake", ",", "25", "minutes", "later", "they", "tell", "us", "that", "the", "health", "inspector", "is", "there", "and", "they", "ca", "n't", "make", "it", "for", "us", "because", "they", "shut", "down", "a", "part", "of", "their", "kitchen", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 8, "label": "after"}
+]

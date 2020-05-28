@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "was", "likely", "cooked", "the", "week", "before", "in", "a", "dirty", "cafeteria", "then", "shipped", "to", "the", "Strip", "District", "."], "e1_text": "cooked", "e1_pos": 4, "e2_text": "shipped", "e2_pos": 13, "label": "before"}
+]

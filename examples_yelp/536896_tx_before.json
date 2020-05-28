@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "walked", "in", ",", "it", "was", "the", "same", "lady", "as", "before", "in", "the", "front", "doing", "a", "manicure", ",", "but", "the", "other", "lady", "who", "had", "done", "my", "pedicure", "was", "not", "there", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "doing", "e2_pos": 15, "label": "before"}
+]

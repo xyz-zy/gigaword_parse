@@ -1,0 +1,4 @@
+[
+{"tokens": ["Living", "in", "Tucson", ",", "this", "is", "the", "gas", "station", "I", "always", "stop", "at", "before", "returning", "home", "when", "I", "'m", "in", "the", "Phoenix", "area", "."], "e1_text": "stop", "e1_pos": 11, "e2_text": "'m", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "like", "it", "'s", "location", "as", "one", "of", "the", "last", "places", "to", "stop", "before", "leaving", "the", "Phoenix", "area", "if", "you", "are", "traveling", "Eastbound", "on", "I-10", "."], "e1_text": "stop", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 14, "label": "before"}
+]

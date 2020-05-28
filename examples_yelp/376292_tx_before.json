@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "a", "greeting", "email", "regarding", "to", "our", "arrival", "and", "special", "requests", "for", "our", "weekend", "stay", ",", "how", "thoughtful", ",", "it", "made", "us", "feel", "very", "welcomed", "even", "before", "we", "arrived", "there", "!"], "e1_text": "feel", "e1_pos": 23, "e2_text": "arrived", "e2_pos": 29, "label": "before"},
+{"tokens": ["The", "mandarin", "bar", "is", "just", "next", "to", "tea", "lounge", ",", "they", "open", "at", "4pm", "everyday", ",", "great", "views", "and", "drinks", ",", "some", "intimate", "lounging", "time", "late", "night", "or", "a", "cocktail", "before", "heading", "out", "somewhere", "else", "."], "e1_text": "open", "e1_pos": 11, "e2_text": "heading", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "plenty", "of", "tables", "and", "lots", "of", "staff", "but", "it", "still", "took", "a", "good", "five", "to", "ten", "minutes", "of", "standing", "at", "the", "door", "before", "we", "were", "seated", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "often", "find", "in", "restaurants", "that", "the", "burger", "is", "either", "greasy", "or", "has", "been", "partially", "cremated", "before", "being", "served", "."], "e1_text": "cremated", "e1_pos": 15, "e2_text": "being", "e2_pos": 17, "label": "before"}
+]

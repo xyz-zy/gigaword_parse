@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "told", "me", "an", "appointment", "to", "swing", "by", "was", "not", "necessary", ",", "so", "I", "dropped", "in", "one", "afternoon", "before", "they", "closed", ",", "making", "it", "clear", "that", "a", "-RRB-", "I", "did", "not", "have", "an", "appointment", ",", "nor", "b", "-RRB-", "I", "did", "not", "need", "assistance", ",", "I", "was", "merely", "browsing", "."], "e1_text": "dropped", "e1_pos": 14, "e2_text": "closed", "e2_pos": 20, "label": "before"}
+]

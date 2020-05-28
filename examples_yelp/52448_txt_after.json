@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "excited", "to", "be", "having", "our", "2nd", "miracle", "baby", "after", "all", "of", "these", "years", "and", "Dr.", "Sawyer", "is", "with", "us", "every", "step", "of", "the", "way", "."], "e1_text": "having", "e1_pos": 5, "e2_text": "is", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "saw", "her", "many", "times", "after", "I", "had", "my", "son", "and", "she", "is", "friendly", ",", "sweet", ",", "and", "truly", "understands", "."], "e1_text": "saw", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

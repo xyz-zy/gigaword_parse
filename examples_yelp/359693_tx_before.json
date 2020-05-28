@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "wait", "20", "minutes", "before", "my", "mom", "finally", "asked", "a", "server", "if", "someone", "was", "going", "to", "help", "us", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "asked", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "guy", "server", "before", "her", "never", "even", "came", "back", "to", "us", "to", "say", "sorry", "and", "we", "did", "n't", "see", "him", "for", "the", "rest", "of", "the", "night", "."], "e1_text": "server", "e1_pos": 2, "e2_text": "came", "e2_pos": 7, "label": "before"}
+]

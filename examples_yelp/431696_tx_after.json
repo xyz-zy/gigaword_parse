@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "a", "bad", "experience", "last", "night", "our", "order", "was", "n't", "even", "close", "to", "being", "correct", ",", "they", "mixed", "up", "everything", "even", "after", "I", "asked", "twice", "at", "the", "window", "if", "they", "had", "it", "right", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "asked", "e2_pos": 23, "label": "after"}
+]

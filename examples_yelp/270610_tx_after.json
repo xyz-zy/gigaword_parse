@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "called", "ahead", "for", "reservations", "and", "were", "seated", "inside", "of", "ten", "minutes", "after", "arriving", ",", "and", "soon", "after", "were", "greeted", "by", "our", "supposed", "waiter", ",", "''", "``", "Rafael", "''", "''", "-LRB-", "1", "-RRB-", ",", "who", "placed", "a", "dry", ",", "paper-wrapped", "piece", "of", "bread", "on", "the", "table", ",", "along", "with", "a", "store-bought", "pack", "of", "dry", "bread", "sticks", "-", "the", "thin", ",", "cracker", "kind", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "arriving", "e2_pos": 13, "label": "after"},
+{"tokens": ["Finally", ",", "we", "were", "able", "to", "flag", "our", "waiter", "down", "-LRB-", "after", "multiple", "tries", "with", "him", "nearly", "running", "past", "us", "-RRB-", "and", "asked", "for", "our", "check", "."], "e1_text": "flag", "e1_pos": 6, "e2_text": "tries", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "all", "for", "slow", "cooking", ",", "but", "dang", ",", "put", "some", "heat", "in", "it", "before", "you", "bring", "it", "to", "the", "table", ",", "and", "I", "'m", "talking", "physical", "temp", ",", "not", "heat", "measured", "in", "scoville", "units", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "bring", "e2_pos": 17, "label": "before"}
+]

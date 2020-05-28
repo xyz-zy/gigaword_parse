@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "was", "friendly", "and", "helpful", ",", "and", "allowed", "me", "to", "sample", "several", "different", "types", "of", "soups", "before", "settling", "on", "one", "."], "e1_text": "sample", "e1_pos": 11, "e2_text": "settling", "e2_pos": 18, "label": "before"},
+{"tokens": ["For", "dessert", ",", "I", "tried", "the", "cheesecake", ",", "and", "managed", "to", "eat", "half", "before", "feeling", "like", "I", "was", "going", "to", "explode", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "feeling", "e2_pos": 14, "label": "before"}
+]

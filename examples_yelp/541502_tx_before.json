@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "plan", "on", "coming", "here", ",", "do", "n't", "arrive", "an", "hour", "before", "they", "close", "."], "e1_text": "arrive", "e1_pos": 9, "e2_text": "close", "e2_pos": 14, "label": "before"},
+{"tokens": ["you", "have", "to", "be", "kidding", "me", "right", "?!!", "Does", "she", "not", "know", "I", "came", "here", "before", "and", "order", "this", "very", "dish", "to", "know", "she", "messed", "up", "on", "my", "order", "."], "e1_text": "know", "e1_pos": 11, "e2_text": "came", "e2_pos": 13, "label": "before"}
+]

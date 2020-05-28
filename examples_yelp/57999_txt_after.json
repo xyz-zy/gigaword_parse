@@ -1,0 +1,3 @@
+[
+{"tokens": ["BEWARE", "!!", "This", "dealership", "trashed", "my", "car", "after", "the", "transmission", "locked", "up", "and", "had", "to", "be", "replaced", "with", "only", "4129", "."], "e1_text": "trashed", "e1_pos": 4, "e2_text": "locked", "e2_pos": 10, "label": "after"}
+]

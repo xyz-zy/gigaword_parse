@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "we", "waited", "about", "30", "minutes", "before", "they", "found", "the", "person", "that", "ran", "off", "with", "them", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "found", "e2_pos": 9, "label": "before"},
+{"tokens": ["Not", "even", "five", "minutes", "went", "by", "before", "another", "line", "formed", "inside", "and", "they", "just", "gave", "us", "the", ",", "I", "do", "n't", "know", ",", "shrug", "for", "everyone", "outside", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "formed", "e2_pos": 9, "label": "before"}
+]

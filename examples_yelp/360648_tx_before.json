@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "$", "28.00", "+", "tip", "=", "$", "32.00", "When", "I", "asked", "for", "an", "itemized", "list", "of", "charges", "a", "few", "hours", "before", "checkout", "I", "noticed", "a", "charge", "for", "a", "kit-kat", "bar", "-", "-LRB-", "$", "10.00", "-RRB-", "We", "never", "touched", "our", "refreshment", "center", "in", "the", "room", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "noticed", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "rushed", "over", "before", "they", "closed", "."], "e1_text": "rushed", "e1_pos": 1, "e2_text": "closed", "e2_pos": 5, "label": "before"},
+{"tokens": ["it", "looked", "like", "they", "ddint", "clean", "the", "windows", "real", "well", "before", "putting", "in", "the", "tint", "."], "e1_text": "clean", "e1_pos": 5, "e2_text": "putting", "e2_pos": 11, "label": "before"}
+]

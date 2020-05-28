@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "family", "and", "I", "had", "never", "visited", "a", "Zipps", "before", "this", "store", "open", "in", "our", "neighborhood", ",", "and", "it", "has", "become", "a", "regular", "stop", "for", "us", "ever", "since", "."], "e1_text": "visited", "e1_pos": 6, "e2_text": "open", "e2_pos": 12, "label": "before"}
+]

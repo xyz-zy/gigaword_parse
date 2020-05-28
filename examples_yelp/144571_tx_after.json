@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "the", "bill", "to", "the", "register", "and", "told", "her", "we", "should", "n't", "have", "to", "pay", "for", "tea", "after", "paying", "$", "6", "for", "two", "12", "ounce", "milks", "."], "e1_text": "pay", "e1_pos": 15, "e2_text": "paying", "e2_pos": 19, "label": "after"}
+]

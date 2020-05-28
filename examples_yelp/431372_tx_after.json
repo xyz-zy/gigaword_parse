@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "especially", "annoyed", "because", "this", "was", "after", "I", "gave", "them", "a", "two", "day", "headstart", "so", "I", "could", "even", "get", "the", "money", "in", "the", "first", "place", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "gave", "e2_pos": 9, "label": "after"},
+{"tokens": ["This", ",", "being", "the", "manager", "of", "the", "bank", "I", "left", "after", "I", "told", "him", "how", "awful", "their", "banking", "structure", "is", "."], "e1_text": "left", "e1_pos": 9, "e2_text": "told", "e2_pos": 12, "label": "after"}
+]

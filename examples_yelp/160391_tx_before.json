@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "the", "cocktail", "waitress", "that", "would", "n't", "get", "me", "a", "drink", "after", "I", "got", "up", "and", "moved", "to", "a", "slot", "machine", "about", "3", "feet", "away", "right", "before", "she", "showed", "up", "because", "it", "''", "``", "was", "n't", "her", "section", "''", "''", "."], "e1_text": "moved", "e1_pos": 16, "e2_text": "showed", "e2_pos": 28, "label": "before"},
+{"tokens": ["Oh", ",", "I", "forgot", "about", "the", "front", "desk", "staff", "that", "were", "too", "busy", "bitching", "about", "a", "bad", "guest", "that", "we", "stood", "there", "for", "about", "20", "seconds", "while", "waiting", "for", "them", "to", "finish", "their", "conversation", "before", "checking", "us", "in", "."], "e1_text": "finish", "e1_pos": 31, "e2_text": "checking", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "pay", "for", "the", "buffet", "up", "front", "and", "input", "your", "tip", "-LRB-", "kind", "of", "weird", "to", "tip", "before", "you", "'ve", "had", "your", "meal", "-RRB-", "."], "e1_text": "pay", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "were", "pressed", "for", "time", "and", "could", "n't", "afford", "to", "go", "to", "6", "different", "hotels", "to", "pick", "up", "more", "people", "-LRB-", "we", "took", "the", "shuttle", "from", "the", "airport", "to", "the", "Flamingo", "and", "stopped", "at", "7", "properties", "before", "they", "dropped", "us", "a", "block", "from", "the", "hotel", "entrance", "-", "they", "said", "it", "was", "due", "to", "construction", "but", ",", "it", "'s", "funny", ",", "to", "pick", "people", "up", ",", "they", "pulled", "right", "up", "to", "the", "door", "-RRB-", "."], "e1_text": "stopped", "e1_pos": 32, "e2_text": "dropped", "e2_pos": 38, "label": "before"}
+]

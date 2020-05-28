@@ -1,0 +1,7 @@
+[
+{"tokens": ["A", "group", "of", "people", "came", "in", "after", "we", "ordered", "and", "got", "all", "of", "their", "specialty", "drinks", "looong", "before", "us", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 8, "label": "after"},
+{"tokens": ["In", "fact", ",", "our", "drinks", "came", "after", "our", "food", "was", "consumed", "!!", "I", "was", "lucky", "bc", "I", "ordered", "a", "pepsi", "which", "came", "instantly", "in", "a", "can", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Fries", "that", "were", "supposed", "to", "come", "with", "the", "meal", ",", "came", "after", "everyone", "finished", "their", "meal", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "finished", "e2_pos": 13, "label": "after"},
+{"tokens": ["No", "napkins", "were", "provided", "until", "I", "had", "to", "go", "up", "to", "ask", "for", "them-ALSO", "after", "everyone", "finished", "their", "meal", "."], "e1_text": "ask", "e1_pos": 11, "e2_text": "finished", "e2_pos": 16, "label": "after"},
+{"tokens": ["We", "were", "expecting", "Arabic", "music", "and", "instead", "we", "got", "blaring", "explicit", "uncensored", "offensive", "rap", "which", "they", "did", "not", "change", "after", "I", "politely", "asked", "them", "to", "."], "e1_text": "change", "e1_pos": 18, "e2_text": "asked", "e2_pos": 22, "label": "after"}
+]

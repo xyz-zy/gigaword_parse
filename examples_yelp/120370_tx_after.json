@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "I", "said", ",", "a", "heavy", "meal", "...", "take", "a", "nap", "after", "eating", "this", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "eating", "e2_pos": 12, "label": "after"},
+{"tokens": ["If", "you", "are", "still", "on", "the", "prowl", "for", "some", "good", "local", "food", "in", "the", "wee", "hours", "after", "dancing", "your", "butt", "off", "at", "a", "club", ",", "I", "would", "head", "downstairs", "to", "the", "24", "hour", "Market", "Street", "Cafe", "for", "some", "dang", "good", "Oxtail", "soup", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "dancing", "e2_pos": 17, "label": "after"}
+]

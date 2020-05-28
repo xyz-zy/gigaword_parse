@@ -1,0 +1,4 @@
+[
+{"tokens": ["Your", "hospital", "took", "Hannah", "and", "Kayla", "fourteen", "months", "after", "Justina", "Pelletier", "was", "kidnapped", "under", "similar", "circumstances", "in", "the", "state", "of", "Massachusetts", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "world", "watched", "as", "one", "media", "outlet", "after", "another", "picked", "up", "on", "this", "outrageous", "case", ",", "and", "public", "outrage", "boiled", "to", "the", "point", "of", "massive", "rallies", "to", "FREE", "JUSTINA", "."], "e1_text": "watched", "e1_pos": 2, "e2_text": "picked", "e2_pos": 9, "label": "after"}
+]

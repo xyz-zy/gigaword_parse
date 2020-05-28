@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "inspect", "it", "before", "sticking", "a", "bite", "in", "my", "mouth", "-LRB-", "I", "was", "talking", ",", "not", "look", "at", "food", "-RRB-", "and", "I", "ended", "up", "with", "a", "huge", "mouthful", "of", "ground", "beef", "."], "e1_text": "inspect", "e1_pos": 3, "e2_text": "sticking", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "have", "ordered", "that", "dish", "a", "ton", "since", "that", ",", "with", "no", "issues", ",", "although", "I", "always", "check", "it", "before", "I", "bite", "in", "."], "e1_text": "check", "e1_pos": 17, "e2_text": "bite", "e2_pos": 21, "label": "before"}
+]

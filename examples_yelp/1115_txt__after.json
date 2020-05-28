@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "asked", "me", "if", "I", "wanted", "something", "else", "but", "I", "was", "in", "a", "hurry", "and", "ate", "the", "meat", "after", "I", "scraped", "the", "gravy", "off", "of", "it", "."], "e1_text": "ate", "e1_pos": 15, "e2_text": "scraped", "e2_pos": 20, "label": "after"}
+]

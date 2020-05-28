@@ -1,0 +1,3 @@
+[
+{"tokens": ["Either", "the", "pork", "was", "n't", "cooked", "all", "the", "way", "or", "the", "server", "had", "n't", "washed", "his", "hands", "after", "handling", "all", "that", "money", "and", "it", "contaminated", "the", "food", "."], "e1_text": "washed", "e1_pos": 14, "e2_text": "handling", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "only", "one", "server", ",", "so", "we", "waited", "and", "waited", "and", "waited", "about", "10", "minutes", "before", "he", "finally", "came", "over", "to", "take", "our", "order", ",", "after", "he", "took", "the", "order", "of", "two", "other", "tables", "that", "came", "in", "after", "us", "-LRB-", "-1", "star", "-RRB-", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "came", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["customers", "of", "the", "Crown", "&", "Anchor", ",", "I", "thought", "it", "would", "be", "nice", "to", "watch", "The", "Grand", "National", "over", "a", "few", "pints", "and", "some", "breakfast", "with", "my", "wife", "who", "'d", "never", "seen", "the", "event", "before", "and", "had", "been", "looking", "forward", "to", "it", "for", "a", "week", "prior", "to", "the", "event", "."], "e1_text": "watch", "e1_pos": 14, "e2_text": "'d", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "tried", "calling", "the", "pub", "three", "times", "before", "arriving", "to", "check", "if", "you", "were", "showing", "the", "race", "on", "TV", ",", "but", "the", "telephone", "went", "to", "the", "answering", "machine", "each", "time", "."], "e1_text": "calling", "e1_pos": 2, "e2_text": "arriving", "e2_pos": 8, "label": "before"}
+]

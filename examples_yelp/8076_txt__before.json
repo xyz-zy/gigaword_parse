@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "coffee", "was", "hot", ",", "if", "only", "I", "had", "checked", "he", "bag", "before", "I", "left", "to", "see", "if", "the", "creamers", "I", "asked", "for", "where", "in", "there", ",", "all", "would", "have", "been", "good", "."], "e1_text": "checked", "e1_pos": 9, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

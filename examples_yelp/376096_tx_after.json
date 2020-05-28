@@ -1,0 +1,4 @@
+[
+{"tokens": ["3.5", "stars", "My", "bf", "and", "I", "had", "recently", "stayed", "here", "looking", "to", "try", "something", "different", "after", "reading", "it", "was", "quiet", ",", "smoke-free", "and", "had", "no", "casinos", "in", "the", "lobby", "area", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "reading", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "'s", "always", "nice", "to", "come", "back", "to", "some", "place", "quiet", "after", "going", "around", "the", "strip", "and", "whatnot", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "going", "e2_pos": 12, "label": "after"}
+]

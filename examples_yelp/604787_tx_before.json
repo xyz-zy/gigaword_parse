@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "spite", "of", "my", "friend", "August", "'s", "warning", ",", "I", "decided", "to", "boldly", "go", "where", "few", "thus", "far", "have", "gone", "before", "and", "yelped", "about", "it", "."], "e1_text": "go", "e1_pos": 13, "e2_text": "have", "e2_pos": 18, "label": "before"},
+{"tokens": ["But", "I", "could", "only", "finished", "half", "before", "asking", "it", "to", "be", "boxed", "up", ",", "so", "I", "could", "finish", "the", "rest", "at", "leisure", "while", "I", "am", "at", "home", "checking", "emails", ",", "Yelp", ",", "YouTube", ",", "etc.", "."], "e1_text": "finished", "e1_pos": 4, "e2_text": "asking", "e2_pos": 7, "label": "before"}
+]

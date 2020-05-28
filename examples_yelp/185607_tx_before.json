@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "While", "waiting", ",", "we", "both", "went", "to", "the", "bathroom", ",", "one", "after", "the", "other", "to", "gauge", "how", "much", "time", "we", "waited", "before", "someone", "visited", "our", "table", ".", "-RRB-"], "e1_text": "waited", "e1_pos": 21, "e2_text": "visited", "e2_pos": 24, "label": "before"}
+]

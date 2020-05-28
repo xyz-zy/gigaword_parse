@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "quality", "was", "bad", "on", "top", "of", "this", "...", "burger", "bun", "was", "hard", ",", "pizza", "dough", "was", "crusty", "\\*", "before", "\\*", "they", "cooked", "it", "as", "my", "son", "was", "making", "his", "pizza", "...", "the", "only", "thing", "they", "did", "n't", "screw", "up", "was", "my", "beer", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "cooked", "e2_pos": 22, "label": "before"}
+]

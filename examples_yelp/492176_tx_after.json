@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "walked", "along", ",", "we", "had", "to", "keep", "coming", "back", "to", "the", "table", "because", "after", "you", "pick", "up", "2", "or", "3", "items", ",", "you", "barely", "have", "any", "food", "but", "you", "have", "all", "these", "damm", "freakin", "little", "pots", "and", "baskets", "and", "stuff", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "pick", "e2_pos": 17, "label": "after"},
+{"tokens": ["Why", "does", "the", "$", "40", "buffet", "not", "have", "them", "???", "Hmmmmm", "Oh", "and", "after", "our", "very", "attentive", "waiter", "brought", "us", "our", "wine", ",", "we", "was", "hardly", "ever", "around", "and", "hard", "to", "find", "to", "pay", "the", "check", "."], "e1_text": "have", "e1_pos": 7, "e2_text": "brought", "e2_pos": 18, "label": "after"}
+]

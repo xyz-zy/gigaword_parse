@@ -1,0 +1,5 @@
+[
+{"tokens": ["Before", "you", "even", "get", "into", "the", "headache", "of", "getting", "your", "furniture", "after", "you", "place", "an", "order", "you", "'ll", "more", "than", "likely", "have", "to", "deal", "with", "the", "pushy", ",", "talks", "too", "much", "sales", "manager", "Eric", "."], "e1_text": "getting", "e1_pos": 8, "e2_text": "place", "e2_pos": 13, "label": "after"},
+{"tokens": ["But", "really", "didnt", "get", "a", "moment", "to", "just", "take", "a", "breath", ",", "calm", "down", "and", "take", "a", "good", "look", "at", "it", "till", "about", "10", "mins", "after", "they", "left", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "left", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "am", "now", "an", "EXTREMELY", "unhappy", "and", "dissatisfied", "customer", "and", "i", "know", "this", "could", "have", "easily", "been", "avoided", "even", "after", "i", "received", "the", "wrong", "couch", "."], "e1_text": "avoided", "e1_pos": 17, "e2_text": "received", "e2_pos": 21, "label": "after"}
+]

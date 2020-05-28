@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "really", "good", "so", "I", "did", "n't", "give", "them", "2", "stars", "even", "though", "they", "tried", "to", "sit", "us", "at", "the", "bar", "after", "we", "made", "reservations", "thru", "yelp", "which", "takes", "you", "to", "open", "table", "."], "e1_text": "sit", "e1_pos": 18, "e2_text": "made", "e2_pos": 25, "label": "after"},
+{"tokens": ["The", "manager", "came", "and", "after", "trying", "to", "convince", "me", "over", "and", "over", "that", "it", "was", "a", "rib", "eye", ",", "agreed", "that", "they", "had", "made", "a", "mistake", "and", "it", "was", "indeed", "not", "a", "rib", "eye", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "trying", "e2_pos": 5, "label": "after"}
+]

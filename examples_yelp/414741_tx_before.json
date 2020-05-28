@@ -1,0 +1,6 @@
+[
+{"tokens": ["Two", "of", "the", "diners", "would", "be", "enjoying", "their", "last", "dinner", "there", "before", "returning", "home", "to", "England", "."], "e1_text": "enjoying", "e1_pos": 6, "e2_text": "returning", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "'m", "not", "sure", "if", "our", "waitress", "had", "never", "waited", "table", "before", ",", "or", "was", "just", "highly", "incompetent", "at", "her", "job", ",", "but", "the", "entire", "meal", "was", "a", "disaster", "from", "the", "beginning", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["However", ",", "we", "were", "a", "large", ",", "paying", "party", "who", "made", "sure", "that", "regular", "service", "would", "be", "an", "option", "before", "we", "came", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "came", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "have", "worked", "in", "food", "service", "before", "and", "the", "experience", "we", "had", "was", "inexcusable", "."], "e1_text": "worked", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

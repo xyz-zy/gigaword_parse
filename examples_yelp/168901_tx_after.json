@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "stayed", "here", "after", "deciding", "to", "come", "to", "Vegas", "on", "a", "whim", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 5, "label": "after"},
+{"tokens": ["And", "they", "have", "that", "monorail", "stop", "there", "so", "that", "was", "convenient", "for", "the", "morning", "after", "when", "my", "feet", "was", "just", "not", "up", "to", "walking", "anymore", "and", "we", "did", "n't", "want", "to", "bother", "with", "a", "cab", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

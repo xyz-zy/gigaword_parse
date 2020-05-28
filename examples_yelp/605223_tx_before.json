@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "&", "I", "came", "here", "for", "breakfast", "before", "going", "to", "the", "movies", "last", "weekend", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "going", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "ordered", "the", "drunken", "gypsy", "toast", ",", "which", "was", "pretty", "good", ",", "however", "I", "had", "asked", "for", "a", "side", "of", "turkey", "bacon", ",", "and", "they", "gave", "me", "pork", "bacon", ",", "which", "I", "do", "not", "eat", ",", "FORTUNATELY", "I", "could", "tell", "before", "taking", "a", "bite", "."], "e1_text": "tell", "e1_pos": 39, "e2_text": "taking", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stopped", "in", "for", "a", "quick", "lunch", "and", "got", "the", "slice", "special", "but", "it", "ended", "up", "taking", "an", "hour", "after", "waiting", "several", "minutes", "for", "someone", "at", "the", "front", "counter", "and", "then", "again", "for", "the", "slices", "."], "e1_text": "taking", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 20, "label": "after"}
+]

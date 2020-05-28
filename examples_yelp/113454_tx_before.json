@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "about", "what", "you", "can", "expect", "these", "days", "as", "the", "waitstaff", "talked", "to", "one", "another", "-LRB-", "it", "was", "later", "in", "the", "evening", "about", "40", "minutes", "before", "they", "closed", "when", "I", "checked", "out", "-RRB-", ",", "and", "they", "were", "attentive", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "closed", "e2_pos": 29, "label": "before"}
+]

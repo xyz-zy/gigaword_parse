@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "the", "time", "my", "other", "friend", "arrived", "only", "30", "minutes", "after", "I", "did", ",", "the", "line", "was", "so", "long", "-LRB-", "around", "the", "block", "!", "-RRB-"], "e1_text": "arrived", "e1_pos": 6, "e2_text": "did", "e2_pos": 12, "label": "after"}
+]

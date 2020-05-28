@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "kind", "of", "got", "the", "feeling", "that", "this", "was", "going", "to", "be", "an", "interesting", "evening", "when", "we", "walked", "in", "and", "nobody", "really", "acknowledged", "our", "presence", "until", "I", "gave", "the", "chef", "the", "''", "``", "tell", "me", "if", "I", "should", "seat", "myself", "or", "wait", "for", "the", "waitress", "before", "I", "stab", "you", "with", "a", "chop", "stick", "''", "''", "look", "...", "right", "after", "that", "he", "gracefully", "mouthed", "the", "words", "''", "``", "just", "sit", "anywhere", "''", "''", "."], "e1_text": "wait", "e1_pos": 41, "e2_text": "stab", "e2_pos": 47, "label": "before"}
+]

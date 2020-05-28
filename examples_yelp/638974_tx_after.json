@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "longing", "to", "try", "a", "new", "boba", "place", "after", "eating", "at", "QQ", "and", "No.", "1", "for", "so", "long", ",", "I", "was", "ecstatic", "to", "find", "this", "place", "on", "Yelp", "with", "such", "amazing", "reviews", "!"], "e1_text": "try", "e1_pos": 3, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "tasted", "like", "the", "milk", "you", "would", "drink", "after", "eating", "cereal", ",", "and", "their", "boba", "is", "way", "too", "sweet", "for", "my", "liking", ",", "also", "their", "boba", "was", "kind", "of", "hard", "."], "e1_text": "drink", "e1_pos": 7, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "makes", "me", "laugh", "because", "of", "the", "sign", "in", "the", "bathroom", "requiring", "all", "employees", "to", "wash", "their", "hands", "before", "they", "return", "to", "work", ",", "a", "feat", "that", "is", "impossible", "due", "to", "the", "lack", "of", "soap", "in", "the", "bathrooms", "."], "e1_text": "wash", "e1_pos": 15, "e2_text": "return", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "there", "'s", "a", "language", "barrier", "between", "me", "and", "the", "lady", "taking", "my", "order", "but", "I", "really", "think", "they", "should", "learn", "their", "menu", "in", "English", "before", "taking", "orders", "by", "phone", "."], "e1_text": "learn", "e1_pos": 20, "e2_text": "taking", "e2_pos": 11, "label": "before"}
+]

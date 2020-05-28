@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "looks", "like", "a", "fast", "food", "type", "chain", "-LRB-", "in", "fact", ",", "after", "examining", "their", "website", "I", "see", "that", "they", "are", "an", "international", "chain", ",", "and", "they", "most", "definitely", "need", "to", "open", "a", "shop", "in", "Los", "Angeles", "-RRB-", ",", "but", "do", "n't", "be", "fooled", "by", "the", "ultra-reasonable", "menu", "and", "the", "assembly", "line", "of", "workers", ":", "these", "sandwiches", "are", "def", "the", "real", "deal", "."], "e1_text": "looks", "e1_pos": 2, "e2_text": "see", "e2_pos": 18, "label": "after"}
+]

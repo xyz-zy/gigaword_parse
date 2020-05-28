@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "soup", "and", "bread", "-LRB-", "which", "were", "very", "tastfully", "-RRB-", "and", "after", "that", "I", "wanted", "to", "pay", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "wanted", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "then", "asked", "her", "for", "a", "cup", "of", "tea", ",", "as", "I", "became", "thirsty", "after", "waiting", "for", "so", "long", "."], "e1_text": "became", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

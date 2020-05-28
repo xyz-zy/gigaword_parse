@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "they", "were", "trolling", "for", "the", "fish", "and", "chasing", "the", "chicken", "'cause", "almost", "25", "minutes", "had", "gone", "by", "before", "our", "order", "was", "brought", "to", "us", "."], "e1_text": "gone", "e1_pos": 17, "e2_text": "was", "e2_pos": 22, "label": "before"},
+{"tokens": ["It", "will", "be", "sometime", "before", "I", "patronize", "this", "restaurant", "again", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "patronize", "e2_pos": 6, "label": "before"}
+]

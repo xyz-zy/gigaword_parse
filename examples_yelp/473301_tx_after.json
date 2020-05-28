@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "the", "flight", "was", "delayed", "for", "so", "long", ",", "after", "an", "hour", "waiting", "at", "the", "airport", "I", "bought", "a", "different", "ticket", "with", "Southwest", "."], "e1_text": "delayed", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

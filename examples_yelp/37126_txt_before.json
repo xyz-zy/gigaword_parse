@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Men", "only", "intending", "to", "go", "to", "the", "adult", "section", "usually", "do", "a", "little", "awkward", "dance", "of", "pretending", "to", "browse", "at", "a", "few", "DVDs", "before", "they", "nonchalantly", "turn", "into", "the", "18", "+", "area", "."], "e1_text": "browse", "e1_pos": 19, "e2_text": "turn", "e2_pos": 27, "label": "before"}
+]

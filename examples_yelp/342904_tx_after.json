@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "went", "there", "on", "a", "Saturday", "night", "after", "watching", "Phantom", "of", "the", "Opera", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "watching", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "still", "did", "n't", "get", "my", "freakin", "bread", "after", "we", "almost", "finished", "our", "dinner", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "finished", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "asked", "for", "the", "bread", ",", "and", "got", "it", "10", "minutes", "later", ",", "after", "I", "had", "one", "bite", "left", "with", "my", "dinner", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

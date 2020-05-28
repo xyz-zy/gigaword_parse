@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "had", "a", "late", "lunch", "here", "the", "day", "before", "&", "said", "that", "while", "the", "food", "was", "pretty", "good", ",", "the", "hot", "chocolate", "tasted", "really", "funny", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "said", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "chicken", "&", "waffles", "w", "\\/", "fried", "leeks", "was", "decent", ",", "but", "not", "mouth", "watering", "like", "it", "had", "been", "before", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

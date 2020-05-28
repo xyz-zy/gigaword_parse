@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "came", "here", "after", "having", "some", "issues", "w", "\\/", "the", "tooth", "from", "hell", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "having", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "went", "to", "another", "dentist", "here", "in", "LV", "on", "Sahara", "after", "reading", "decent", "reviews", "about", "there", "sister", "location", "in", "N.", "lv", "on", "yelp", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 11, "label": "after"},
+{"tokens": ["well", "...", "thats", "a", "nother", "review", "but", "to", "sum", "up", "-", "he", "couldnt", "find", "it", "even", "after", "looking", "@", "xrays", "."], "e1_text": "find", "e1_pos": 13, "e2_text": "looking", "e2_pos": 17, "label": "after"}
+]

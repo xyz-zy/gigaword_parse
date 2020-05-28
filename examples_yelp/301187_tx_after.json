@@ -1,0 +1,3 @@
+[
+{"tokens": ["Paul", "the", "waiter", "decided", "he", "could", "talk", "to", "us", "again", "after", "the", "manager", "gave", "us", "dessert", "and", "more", "drinks", ",", "but", "by", "then", "the", "damage", "was", "done", "."], "e1_text": "talk", "e1_pos": 6, "e2_text": "gave", "e2_pos": 13, "label": "after"}
+]

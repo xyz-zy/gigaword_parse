@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "how", "many", "of", "you", "actually", "saw", "it", "come", "to", "life", ",", "but", "like", "I", "said", "before", ",", "it", "was", "cool", "."], "e1_text": "said", "e1_pos": 18, "e2_text": "was", "e2_pos": 22, "label": "before"},
+{"tokens": ["A", "lot", "of", "their", "displays", "had", "been", "removed", ",", "and", "a", "lot", "of", "the", "merchandise", "was", "even", "more", "sky-high", "than", "it", "had", "been", "before", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

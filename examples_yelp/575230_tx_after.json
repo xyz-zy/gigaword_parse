@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "became", "an", "accidental", "member", "of", "LA", "Fitness", ",", "after", "they", "bought", "out", "my", "prior", "gym", "."], "e1_text": "became", "e1_pos": 1, "e2_text": "bought", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "only", "found", "out", "after", "an", "unrelated", "incident", "caused", "me", "to", "cancel", "my", "card", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "caused", "e2_pos": 8, "label": "after"}
+]

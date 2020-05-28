@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "little", "did", "i", "know", "that", "2", "months", "later", "i", "would", "go", "on", "a", "rather", "spontaneous", "trip", "to", "nyc", ",", "where", "i", "could", "have", "tried", "the", "real", "thing", "...", "but", "we", "tried", "to", "go", "there", "and", "there", "was", "a", "long", "wait", "even", "at", "close", "to", "1", "am", ",", "so", "i", "am", "glad", "we", "had", "it", "in", "vegas", ",", "after", "all", ".", "-RRB-"], "e1_text": "am", "e1_pos": 50, "e2_text": "had", "e2_pos": 53, "label": "after"}
+]

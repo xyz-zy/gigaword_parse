@@ -1,0 +1,3 @@
+[
+{"tokens": ["Right", "before", "I", "left", ",", "I", "told", "the", "bartender", "I", "would", "be", "back", "for", "another", "beer", "after", "I", "did", "some", "shopping", "in", "the", "adjoining", "mall", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "did", "e2_pos": 18, "label": "after"}
+]

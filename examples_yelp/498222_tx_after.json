@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "if", "you", "order", "the", "taco", "special", ",", "I", "'ve", "been", "asked", "multiple", "times", "how", "many", "tacos", "I", "want", "-LRB-", "the", "menu", "options", "are", "a", "one", "taco", "meal", "or", "a", "two", "taco", "meal", "...", "-RRB-", "but", "when", "I", "ask", "the", "guy", "behind", "the", "counter", "how", "many", "it", "comes", "with", "he", "said", "as", "many", "as", "I", "wanted", "and", "refused", "to", "give", "the", "correct", "answer", "even", "after", "insisting", "to", "know", "how", "many", "the", "meal", "CAME", "with", "."], "e1_text": "give", "e1_pos": 59, "e2_text": "insisting", "e2_pos": 65, "label": "after"}
+]

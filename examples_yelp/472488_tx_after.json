@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "great", ",", "and", "so", "filling", "we", "were", "full", "after", "splitting", "it", "between", "the", "two", "of", "us", "."], "e1_text": "were", "e1_pos": 8, "e2_text": "splitting", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "recommend", "it", "as", "a", "place", "to", "stop", "in", "for", "a", "pint", "and", "poutine", "after", "a", "morning", "of", "wandering", "Old", "Montreal", "."], "e1_text": "poutine", "e1_pos": 13, "e2_text": "wandering", "e2_pos": 18, "label": "after"}
+]

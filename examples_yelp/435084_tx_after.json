@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "quoted", "20", "but", "got", "bumped", "down", "to", "15", "after", "suggesting", "i", "had", "more", "that", "had", "to", "get", "done", ",", "and", "i", "do", "."], "e1_text": "bumped", "e1_pos": 6, "e2_text": "suggesting", "e2_pos": 11, "label": "after"}
+]

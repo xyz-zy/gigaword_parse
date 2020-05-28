@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "was", "attentive", ",", "got", "refills", "without", "having", "to", "flag", "someone", "down", ",", "and", "the", "food", "was", "brought", "out", "quickly", "after", "ordering", "since", "we", "beat", "the", "rush", "."], "e1_text": "brought", "e1_pos": 17, "e2_text": "ordering", "e2_pos": 21, "label": "after"},
+{"tokens": ["loudly", "when", "we", "got", "up", "after", "eating", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

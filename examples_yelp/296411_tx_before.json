@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "must", "have", "been", "some", "kind", "of", "confusion", "because", "the", "waiter", "must", "have", "been", "waiting", "for", "the", "rest", "of", "our", "group", "to", "return", "from", "watching", "the", "football", "game", "at", "the", "bar", "before", "taking", "our", "appetizer", "or", "dinner", "order", "."], "e1_text": "watching", "e1_pos": 24, "e2_text": "taking", "e2_pos": 32, "label": "before"}
+]

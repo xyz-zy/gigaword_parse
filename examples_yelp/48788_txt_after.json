@@ -1,0 +1,3 @@
+[
+{"tokens": ["Baristas", "like", "that", "make", "me", "change", "my", "mind", "after", "I", "ordered", "my", "drink", "for", "being", "bitchy", "because", "I", "was", "n't", "fast", "enough", "with", "my", "response", "in", "how", "many", "espresso", "shots", "I", "wanted", "."], "e1_text": "change", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "heart", "sank", "after", "they", "informed", "me", "that", "we", "no", "longer", "have", "a", "room", "because", "they", "were", "overbooked", "-LRB-", "was", "a", "busy", "weekend", ",", "boxing", "event", "-RRB-", "."], "e1_text": "sank", "e1_pos": 2, "e2_text": "informed", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "overhear", "many", "other", "guests", "that", "were", "just", "as", "pee", "off", "as", "we", "were", "after", "getting", "bump", "from", "the", "hotel", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "getting", "e2_pos": 15, "label": "after"},
+{"tokens": ["Back", "in", "the", "days", "when", "you", "get", "a", "confirmation", "after", "making", "a", "deposit", ",", "its", "pretty", "much", "a", "done", "deal", "that", "you", "'ll", "get", "your", "room", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "making", "e2_pos": 10, "label": "after"}
+]

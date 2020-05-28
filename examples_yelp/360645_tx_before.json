@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "met", "with", "a", "valet", "parking", "attendant", "putting", "a", "high", "pressure", "on", "me", "to", "valet", "park", "my", "vehicle", "before", "I", "'d", "even", "checked", "in", "."], "e1_text": "park", "e1_pos": 16, "e2_text": "'d", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "had", "to", "practically", "argue", "with", "her", "to", "explain", "why", "I", "wanted", "to", "check", "in", "first", "before", "turning", "my", "car", "over", "to", "valet", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "turning", "e2_pos": 17, "label": "before"},
+{"tokens": ["When", "I", "finally", "said", "''", "``", "I", "'d", "like", "to", "check", "in", "before", "deciding", "''", "''", "I", "was", "chastised", "with", "this", "''", "``", "well", "it", "better", "not", "take", "you", "more", "than", "5", "minutes", "because", "you", "ca", "n't", "leave", "your", "car", "here", "longer", "than", "that", "''", "''", "."], "e1_text": "check", "e1_pos": 10, "e2_text": "deciding", "e2_pos": 13, "label": "before"}
+]

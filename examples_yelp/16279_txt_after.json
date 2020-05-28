@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "2nd", "visit", ",", "took", "car", "in", "for", "check", "engine", "light", ",", "diagnosis", "was", "a", "O2", "sensor", ",", "had", "to", "pay", "a", "$", "89", "diagnostic", "fee", "up", "front", ",", "never", "had", "to", "do", "this", "before", "after", "it", "was", "all", "done", "cost", "were", "around", "$", "300", "total", "."], "e1_text": "do", "e1_pos": 32, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

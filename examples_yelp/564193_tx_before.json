@@ -1,0 +1,4 @@
+[
+{"tokens": ["Repair", "did", "n't", "last", "20", "miles", "before", "it", "was", "again", "over", "heating", "."], "e1_text": "last", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["Found", "out", "it", "was", "never", "test", "driven", "before", "he", "said", "it", "was", "fixed", "."], "e1_text": "driven", "e1_pos": 6, "e2_text": "said", "e2_pos": 9, "label": "before"}
+]

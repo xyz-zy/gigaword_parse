@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "employee", "who", "finally", "brought", "out", "my", "to", "go", "order", "said", ",", "''", "``", "sorry", "about", "the", "long", "wait", "''", "''", ",", "but", "what", "good", "does", "that", "do", "me", "after", "killing", "a", "half", "an", "hour", "waiting", "on", "two", "sandwiches", "when", "I", "could", "have", "gone", "to", "Jersey", "Mike", "'s", "AND", "Jimmy", "John", "'s", "in", "that", "same", "amount", "of", "time", "."], "e1_text": "do", "e1_pos": 27, "e2_text": "killing", "e2_pos": 30, "label": "after"}
+]

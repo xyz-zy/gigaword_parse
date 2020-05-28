@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "our", "friend", "that", "was", "with", "us", ",", "who", "ordered", "before", "us", "had", "to", "ask", "her", "if", "the", "other", "order", "was", "his", "and", "she", "shoved", "it", "him", "and", "said", ",", "''", "``", "I", "think", "this", "one", "is", "yours", ".", "''", "''"], "e1_text": "ordered", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["She", "did", "n't", "even", "check", "the", "orders", "before", "shoving", "them", "at", "us", "!"], "e1_text": "check", "e1_pos": 4, "e2_text": "shoving", "e2_pos": 8, "label": "before"}
+]

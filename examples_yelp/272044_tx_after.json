@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "housekeepers", "did", "not", "clean", "up", "our", "room", "too", "well", "after", "the", "clubbers", "checked", "out", "."], "e1_text": "clean", "e1_pos": 4, "e2_text": "checked", "e2_pos": 13, "label": "after"},
+{"tokens": ["If", "you", "are", "dumb", "like", "me", ",", "and", "realize", "that", "you", "forgot", "the", "keys", "after", "you", "arrive", "at", "the", "parking", "structure", ",", "then", "you", "will", "end", "up", "walking", "more", "than", "1", "1\\/2", "miles", "just", "to", "fetch", "your", "keys", "."], "e1_text": "forgot", "e1_pos": 11, "e2_text": "arrive", "e2_pos": 16, "label": "after"}
+]

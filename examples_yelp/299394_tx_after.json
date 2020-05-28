@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", "had", "the", "nerve", "to", "look", "at", "her", "watch", "after", "making", "us", "wait", "15", "minutes", "and", "tell", "me", "I", "''", "``", "barely", "made", "it", "''", "''", "in", "time", "to", "order", "that", "."], "e1_text": "look", "e1_pos": 6, "e2_text": "made", "e2_pos": 23, "label": "after"},
+{"tokens": ["We", "did", "speak", "to", "the", "store", "manager", "who", "willingly", "comp", "`", "ed", "us", "some", "items", ",", "but", "I", "left", "underwhelmed", "and", "still", "hungry", "after", "not", "being", "able", "to", "bring", "myself", "to", "finish", "my", "meal", "."], "e1_text": "left", "e1_pos": 18, "e2_text": "being", "e2_pos": 25, "label": "after"}
+]

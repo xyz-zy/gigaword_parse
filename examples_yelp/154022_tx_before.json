@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "we", "watched", "other", "tables", "pay", "their", "bills", ",", "new", "folks", "get", "seated", ",", "and", "have", "food", "served", "before", "our", "main", "entrees", "came", "."], "e1_text": "served", "e1_pos": 18, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "waited", "at", "least", "an", "hour", "before", "our", "waiter", "-LRB-", "who", "was", "running", "around", "working", "hard", "all", "night", "-RRB-", "noticed", "we", "did", "n't", "have", "our", "food", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "noticed", "e2_pos": 19, "label": "before"}
+]

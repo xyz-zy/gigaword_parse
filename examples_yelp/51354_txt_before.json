@@ -1,0 +1,4 @@
+[
+{"tokens": ["From", "this", "experience", ",", "I", "imagine", "it", "will", "be", "a", "long", "time", "before", "I", "try", "any", "Jiffy", "Lube", "again", ",", "if", "ever", "."], "e1_text": "be", "e1_pos": 8, "e2_text": "try", "e2_pos": 14, "label": "before"},
+{"tokens": ["Today", ",", "I", "waited", "idling", "in", "my", "car", "for", "8", "minutes", "before", "I", "was", "even", "acknowledged", ",", "after", "which", "I", "was", "finally", "directed", "to", "a", "lane", "to", "pull", "up", "to", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

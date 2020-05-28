@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "part", "of", "a", "group", "of", "6", ",", "and", "we", "were", "going", "to", "dinner", "to", "celebrate\\/mourn", "my", "departure", "from", "Vegas", "after", "a", "month", "of", "visitation", "-LRB-", "my", "girlfriend", "lives", "here", ",", "and", "I", "'m", "on", "break", "from", "school", "-RRB-", "."], "e1_text": "celebrate\\/mourn", "e1_pos": 16, "e2_text": "lives", "e2_pos": 29, "label": "after"}
+]

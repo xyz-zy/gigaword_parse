@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "then", "scolded", "me", "for", "expecting", "to", "get", "an", "exchange", "dish", "for", "free", "after", "sending", "the", "first", "back", "because", "I", "must", "have", "ordered", "something", "I", "just", "did", "n't", "like", "and", "there", "was", "nothing", "wrong", "with", "his", "food", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "sending", "e2_pos": 14, "label": "after"}
+]

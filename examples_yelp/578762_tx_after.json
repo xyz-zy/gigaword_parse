@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "Bloody", "Mary", "after", "specifically", "asking", "our", "waiter", "about", "the", "horseradish", "content", ",", "to", "which", "he", "replied", ",", "''", "``", "not", "too", "much", "''", "''", ",", "holy", "cow", ",", "it", "was", "almost", "undrinkable", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "asking", "e2_pos": 7, "label": "after"}
+]

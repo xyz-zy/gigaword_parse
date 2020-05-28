@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "anticipated", "our", "needs", "before", "we", "even", "noticed", "something", "was", "missing", "-LRB-", "sauces", "even", "before", "the", "food", "came", "out", "-RRB-", ",", "and", "even", "offered", "me", "a", "free", "muffin", "because", "the", "rest", "of", "the", "party", "had", "received", "one", "with", "their", "meals", "whereas", "I", "had", "not", "."], "e1_text": "anticipated", "e1_pos": 1, "e2_text": "noticed", "e2_pos": 7, "label": "before"}
+]

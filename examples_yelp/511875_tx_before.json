@@ -1,0 +1,4 @@
+[
+{"tokens": ["...", "yea", "I", "'d", "say", "I", "'d", "go", "there", "before", "coming", "back", "to", "this", "place", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "coming", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "had", "planned", "on", "giving", "gift", "certifcates", "to", "this", "plae", "to", "our", "employess", "as", "an", "end", "of", "the", "year", "bonus", "and", "we", "are", "so", "glad", "we", "checked", "it", "out", "ourselves", "first", "before", "we", "did", "so", "."], "e1_text": "checked", "e1_pos": 26, "e2_text": "did", "e2_pos": 33, "label": "before"}
+]

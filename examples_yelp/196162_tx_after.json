@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "staring", "at", "the", "wall", "for", "45minutes", "after", "finishing", "eating", "before", "I", "finally", "had", "to", "practically", "tackle", "someone", "who", "was", "not", "my", "server", "to", "ask", "for", "the", "check", "."], "e1_text": "staring", "e1_pos": 2, "e2_text": "finishing", "e2_pos": 9, "label": "after"}
+]

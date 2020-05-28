@@ -1,0 +1,4 @@
+[
+{"tokens": ["DO", "NOT", "EVER", "TAKE", "YOUR", "CAR", "HERE", "!!!", "I", "went", "into", "this", "location", "after", "being", "told", "over", "the", "phone", "that", "they", "had", "a", "brake", "special", "of", "50", "%", "off", "services", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["Meienke", "was", "not", "abiding", "by", "law", "they", "were", "trying", "to", "waste", "my", "time", ",", "after", "I", "disagreed", "with", "their", "bogus", "charges", "."], "e1_text": "waste", "e1_pos": 10, "e2_text": "disagreed", "e2_pos": 16, "label": "after"}
+]

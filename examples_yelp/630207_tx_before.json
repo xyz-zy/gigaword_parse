@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "got", "our", "steak", "which", "was", "warm", "and", "had", "been", "plated", "a", "while", "before", "it", "was", "given", "to", "us", "."], "e1_text": "plated", "e1_pos": 11, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "made", "a", "comment", "to", "the", "assistant", "manager", "before", "leaving", "and", "was", "offered", "a", "drink", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 9, "label": "before"}
+]

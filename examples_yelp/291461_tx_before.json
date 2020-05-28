@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "to", "take", "my", "dog", "in", "for", "an", "exam", "before", "he", "was", "eligible", "for", "pet", "insurance", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "'m", "a", "dumb@ss", "and", "scheduled", "my", "dog", "'s", "appointment", "before", "the", "insurance", "actually", "was", "active", ",", "so", "I", "did", "pay", "that", "$", "40", "out", "of", "my", "pocket", "."], "e1_text": "scheduled", "e1_pos": 5, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "really", "liked", "Dr.", "Jamie", ",", "but", "be", "sure", "to", "get", "any", "quotes", "in", "writing", ",", "and", "be", "sure", "to", "ask", "the", "price", "of", "things", "before", "they", "do", "them", "-", "they", "charge", "$", "50", "just", "for", "a", "fecal", "and", "heartworm", "test", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "do", "e2_pos": 27, "label": "before"}
+]

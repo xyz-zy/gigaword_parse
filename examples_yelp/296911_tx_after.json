@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "decided", "to", "take", "the", "owner", "up", "on", "her", "offer", "of", "a", "dozen", "free", "cupcakes", ",", "which", "she", "offered", "after", "reading", "my", "original", "review", "to", "try", "to", "entice", "us", "to", "give", "her", "business", "another", "chance", "."], "e1_text": "offered", "e1_pos": 18, "e2_text": "reading", "e2_pos": 20, "label": "after"}
+]

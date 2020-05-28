@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "remembered", "a", "yelp", "review", "I", "read", "about", "this", "place", "weeks", "before", "where", "a", "person", "stated", "that", "they", "found", "bugs", "in", "their", "room", "but", "when", "they", "told", "the", "front", "desk", "about", "it", ",", "the", "person", "working", "stated", "that", "the", "hotel", "workers", "would", "need", "to", "`", "verify", "'", "that", "--", "and", "that", "if", "the", "hotel", "workers", "do", "n't", "find", "bugs", "there", "to", "back", "up", "this", "reviewer", "'s", "claim", ",", "then", "there", "was", "nothing", "she", "-LRB-", "the", "service", "rep", "-RRB-", "could", "do", "for", "this", "person", "."], "e1_text": "read", "e1_pos": 7, "e2_text": "stated", "e2_pos": 16, "label": "before"}
+]

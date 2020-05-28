@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "Bonnie", "C.", ",", "I", "too", "am", "confused", "how", "there", "are", "reviews", "about", "the", "place", "before", "it", "had", "opened", "."], "e1_text": "am", "e1_pos": 6, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "had", "checked", "out", "their", "menu", "before", "heading", "over", "and", "had", "my", "eye", "on", "a", "couple", "of", "items", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "heading", "e2_pos": 7, "label": "before"}
+]

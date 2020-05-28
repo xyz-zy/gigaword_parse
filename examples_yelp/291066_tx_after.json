@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "drinks", "&", "guac\\/chips", "-LRB-", "which", "were", "good", "-RRB-", "arrive", "15", "mins", "after", "we", "placed", "the", "order", "&", "our", "dinner", "-LRB-", "which", "was", "fair", "-RRB-", "arrived", "2", "mins", "after", "that", "."], "e1_text": "arrive", "e1_pos": 9, "e2_text": "placed", "e2_pos": 14, "label": "after"}
+]

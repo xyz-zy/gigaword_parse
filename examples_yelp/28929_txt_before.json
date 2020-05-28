@@ -1,0 +1,3 @@
+[
+{"tokens": ["Being", "as", "my", "flight", "left", "SD", "at", "630am", ",", "I", "certainly", "was", "in", "no", "position", "to", "eat", "breakfast", "before", "leaving", "me", "to", "eat", "breakfast", "upon", "arrival", "to", "my", "layover", "city", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "leaving", "e2_pos": 19, "label": "before"}
+]

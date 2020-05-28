@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "realized", "the", "mistake", "after", "we", "ordered", "as", "my", "husband", "only", "wanted", "a", "beer", ",", "no", "other", "drink", "the", "clerk", "said", "belligerently", "we", "asked", "for", "both", "."], "e1_text": "realized", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 6, "label": "after"}
+]

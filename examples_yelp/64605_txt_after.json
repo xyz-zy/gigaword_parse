@@ -1,0 +1,5 @@
+[
+{"tokens": ["Despite", "apprehensions", "of", "the", "1st", "review", "here", "I", "decided", "to", "try", "this", "place", "for", "somewhere", "different", "after", "talking", "to", "a", "Co-Worker", "about", "this", "place", "."], "e1_text": "try", "e1_pos": 10, "e2_text": "talking", "e2_pos": 17, "label": "after"},
+{"tokens": ["Then", "in", "the", "morning", "I", "woke", "with", "a", "fever", "and", "not", "feeling", "good", "at", "all", "and", "after", "trying", "to", "swallow", "a", "sip", "of", "my", "morning", "coffee", "began", "to", "puke", "my", "guts", "out", "."], "e1_text": "woke", "e1_pos": 5, "e2_text": "trying", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "'m", "writing", "this", "2", "days", "after", "the", "fact", "&", "I", "still", "have", "no", "appitite", "due", "to", "the", "above", "outlined", "experience", "."], "e1_text": "writing", "e1_pos": 2, "e2_text": "have", "e2_pos": 12, "label": "after"}
+]

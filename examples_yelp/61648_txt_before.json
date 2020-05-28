@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "hostess\\/server", "told", "us", "to", "pick", "anywhere", "to", "sit", "and", "asked", "if", "we", "had", "been", "there", "before", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "had", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "gave", "us", "time", "to", "look", "over", "the", "menu", "before", "taking", "our", "orders", "and", "even", "helped", "my", "friend", "learn", "how", "to", "pronounce", "''", "``", "Sobrebarriga", ".", "''", "''"], "e1_text": "look", "e1_pos": 5, "e2_text": "taking", "e2_pos": 10, "label": "before"},
+{"tokens": ["That", "she", "gave", "us", "before", "we", "even", "ordered", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "sure", "this", "is", "because", "they", "triple", "checked", "after", "everything", "went", "horribly", "wrong", "at", "the", "other", "2", "venues", "."], "e1_text": "checked", "e1_pos": 8, "e2_text": "went", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "did", "n't", "even", "get", "a", "follow", "up", "call", "after", "the", "weekend", "was", "over", "to", "apologize", "or", "check-in", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

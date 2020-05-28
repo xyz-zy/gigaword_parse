@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "let", "me", "clarify", "the", "place", "was", "empty", ",", "they", "confirmed", "my", "order", "with", "me", "30", "minutes", "after", "ordering", ",", "and", "the", "other", "locations", "are", "not", "like", "this", "."], "e1_text": "confirmed", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 18, "label": "after"}
+]

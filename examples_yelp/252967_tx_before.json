@@ -1,0 +1,3 @@
+[
+{"tokens": ["Gina", "had", "2", "chances", "to", "fix", "the", "situation", ",", "1st", "with", "me", "before", "I", "canceled", "my", "membership", "then", "2", "hours", "later", "when", "I", "brought", "my", "wife", "in", "to", "cancel", "her", "membership", "."], "e1_text": "fix", "e1_pos": 5, "e2_text": "canceled", "e2_pos": 14, "label": "before"}
+]

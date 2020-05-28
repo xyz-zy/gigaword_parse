@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "dishes", "were", "also", "fine", ",", "but", "we", "all", "had", "that", "sinking", "feeling", "that", "we", "would", "need", "to", "go", "out", "to", "dinner", "after", "we", "left", "the", "restaurant", "as", "the", "portions", "were", "so", "small", "."], "e1_text": "go", "e1_pos": 19, "e2_text": "left", "e2_pos": 25, "label": "after"}
+]

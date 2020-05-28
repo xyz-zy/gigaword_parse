@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "she", "was", "n't", "a", "current", "employee", "she", "most", "certainly", "knew", "our", "door", "did", "n't", "work", "properly", "so", "she", "worked", "there", "before", "or", "a", "current", "employee", "was", "in", "on", "it", "."], "e1_text": "worked", "e1_pos": 19, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "got", "a", "call", "from", "the", "director", "of", "security", "and", "an", "email", "from", "the", "GM", "threatening", "to", "sue", "me", "for", "this", "review", "saying", "there", "was", "nothing", "wrong", "with", "thier", "door", "and", "saying", "I", "''", "``", "Declared", "war", "against", "the", "property", "by", "posting", "this", "review", "before", "giving", "them", "a", "chance", "to", "investigate", "-LRB-", "I", "gave", "them", "a", "week", "with", "no", "call", "-RRB-", "'", "."], "e1_text": "posting", "e1_pos": 41, "e2_text": "giving", "e2_pos": 45, "label": "before"}
+]

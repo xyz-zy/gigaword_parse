@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "ready", "to", "leave", "my", "generous", "10", "%", "tip", "after", "they", "ignored", "me", "a", "few", "times", "when", "I", "know", "the", "waitress", "saw", "and", "heard", "me", "call", "for", "her", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "ignored", "e2_pos": 12, "label": "after"}
+]

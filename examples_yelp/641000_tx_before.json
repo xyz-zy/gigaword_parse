@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "hurried", "off", "&", "entered", "our", "order", ",", "the", "apps", "came", "out", "before", "the", "bread", "which", "is", "fine", ",", "the", "runner", "explained", "that", "the", "bread", "oven", "was", "a", "''", "``", "little", "backed", "up", "because", "everything", "is", "made", "fresh", "''", "''", "but", "it", "came", "about", "2", "minutes", "after", "our", "apps", "got", "delivered", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "is", "e2_pos": 16, "label": "before"},
+{"tokens": ["Our", "waiter", "came", "by", "moments", "before", "our", "entrees", "arrived", "&", "asked", "if", "we", "would", "like", "some", "more", "bread", ",", "to", "which", "I", "replied", ",", "''", "``", "Yes", "the", "bread", "is", "great", "we", "'ll", "take", "another", "''", "''", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "arrived", "e2_pos": 8, "label": "before"}
+]

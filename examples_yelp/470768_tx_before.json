@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "sampling", "about", "half", "the", "ice", "cream", "-LRB-", "pretty", "much", ",", "all", "of", "the", "alcoholic", "ones", "-RRB-", ",", "before", "making", "a", "decision", "to", "go", "with", "the", "Chocolate", "Swirl", "Jack", "Daniels", "and", "the", "Butterscotch", "Long", "Island", "Iced", "Tea", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "making", "e2_pos": 21, "label": "before"},
+{"tokens": ["Even", "though", "the", "kind", "lady", "said", "that", "she", "did", "n't", "put", "that", "much", "alcohol", "in", "the", "ice", "cream", ",", "I", "was", "starting", "to", "feel", "the", "relaxing", ",", "sleepy", "effects", "before", "I", "even", "finished", "half", "."], "e1_text": "feel", "e1_pos": 23, "e2_text": "finished", "e2_pos": 32, "label": "before"}
+]

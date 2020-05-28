@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "watching", "people", "come", "in", "and", "out", "of", "the", "waiting", "area", "with", "me", "being", "SCHEDULED", "for", "an", "simple", "oil", "change", ",", "I", "waited", "a", "good", "30", "minutes", "watching", "my", "car", "sit", "before", "I", "actually", "ended", "up", "STEALING", "my", "car", "to", "get", "it", "back", ",", "and", "they", "did", "n't", "even", "know", "that", "until", "I", "called", "up", "the", "manager", "."], "e1_text": "sit", "e1_pos": 30, "e2_text": "ended", "e2_pos": 34, "label": "before"}
+]

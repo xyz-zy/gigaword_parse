@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "the", "same", "water", "pump", "that", "was", "replaced", "at", "the", "time", "that", "Dave", "replaced", "my", "timing", "belt", "-LRB-", "the", "one", "that", "broke", "13,000", "miles", "after", "he", "replaced", "it", "...", "-RRB-", "."], "e1_text": "broke", "e1_pos": 22, "e2_text": "replaced", "e2_pos": 14, "label": "after"}
+]

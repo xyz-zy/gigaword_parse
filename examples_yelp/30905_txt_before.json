@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "lengthy", "wait", ",", "-LRB-", "I", "believe", "there", "was", "now", "only", "one", "other", "table", "in", "the", "place", "-RRB-", ",", "our", "server", "came", "to", "ask", "if", "we", "would", "like", "to", "order", "drink", "refills", "first", "before", "he", "brought", "our", "long", "anticipated", "entree", "...", "Finally", ",", "we", "received", "our", "entree", ",", "perhaps", "adequate", "for", "two", "people", ",", "but", "certainly", "not", "four", "."], "e1_text": "order", "e1_pos": 30, "e2_text": "brought", "e2_pos": 36, "label": "before"},
+{"tokens": ["Probably", "an", "OK", "place", "to", "take", "a", "first", "date", "and", "share", "an", "appetizer", "fondue", "before", "going", "somewhere", "for", "a", "real", "dinner", "."], "e1_text": "share", "e1_pos": 10, "e2_text": "going", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "then", "I", "got", "annoyed", "because", "after", "showing", "my", "receipt", "to", "the", "lady", "at", "the", "counter", "she", "handed", "me", "a", "number", "and", "put", "my", "order", "in", ",", "then", "proceeded", "to", "stand", "at", "the", "counter", "at", "chat", "with", "another", "employee", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "showing", "e2_pos": 7, "label": "after"}
+]

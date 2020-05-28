@@ -1,0 +1,4 @@
+[
+{"tokens": ["Most", "of", "the", "people", "who", "eat", "here", "do", "n't", "have", "reservations", ",", "which", "means", "waiting", "in", "line", "for", "hours", ",", "even", "after", "you", "get", "your", "name", "on", "the", "list", ",", "you", "have", "to", "wait", "longer", "."], "e1_text": "have", "e1_pos": 9, "e2_text": "get", "e2_pos": 23, "label": "after"},
+{"tokens": ["My", "friends", "and", "I", "had", "reservations", "and", "ended", "up", "not", "getting", "a", "table", "until", "30", "minutes", "after", "our", "reservations", "were", "supposed", "to", "start", "."], "e1_text": "ended", "e1_pos": 7, "e2_text": "were", "e2_pos": 19, "label": "after"}
+]

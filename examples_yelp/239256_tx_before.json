@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "refilled", "our", "sweet", "tea", "before", "we", "had", "to", "ask", "and", "before", "we", "were", "even", "done", "with", "our", "first", "glass", "."], "e1_text": "refilled", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["And", "she", "asked", "if", "we", "wanted", "any", "dessert", "before", "giving", "us", "the", "bill", "too", "."], "e1_text": "wanted", "e1_pos": 5, "e2_text": "giving", "e2_pos": 9, "label": "before"}
+]

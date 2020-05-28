@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Mickey", "Mouse", "mural", "came", "with", "the", "restaurant", "-LRB-", "it", "was", "on", "the", "wall", "before", "Pho", "Nhat", "moved", "in", "-RRB-", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "moved", "e2_pos": 17, "label": "before"}
+]

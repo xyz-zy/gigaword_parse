@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "returned", "with", "...", "the", "wrong", "plate", "-LRB-", "eggs", "smothered", "in", "cheese", "-RRB-", "quickly", "understood", "that", "all", "was", "not", "well", "...", "and", "after", "several", "more", "minutes", "appeared", "with", "a", "plate", "of", "huevos", "rancheros", ",", "minus", "the", "beans", "-LRB-", "the", "chef", "did", "send", "along", "his", "thanks", "for", "informing", "him", "of", "the", "dish", "'s", "infirmities", "."], "e1_text": "understood", "e1_pos": 15, "e2_text": "appeared", "e2_pos": 27, "label": "after"}
+]

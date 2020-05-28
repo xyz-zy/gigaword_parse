@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "two", "shows", "I", "went", "to", "after", "they", "stopped", "doing", "that", "had", "unruly", "teens", "and", "audio", "difficulties", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "stopped", "e2_pos": 9, "label": "after"},
+{"tokens": ["They", "used", "to", "offer", "bringing", "you", "your", "pizza", "or", "pretzel", "after", "you", "paid", "$", "7.00", "for", "them", "."], "e1_text": "offer", "e1_pos": 3, "e2_text": "paid", "e2_pos": 12, "label": "after"}
+]

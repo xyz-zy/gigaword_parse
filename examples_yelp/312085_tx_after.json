@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "a", "party", "of", "two", "that", "came", "after", "us", "that", "was", "seated", "after", "us", "that", "already", "had", "their", "drinks", "and", "had", "placed", "their", "food", "order", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "was", "e2_pos": 1, "label": "after"},
+{"tokens": ["I", "told", "him", "I", "watched", "her", "take", "two", "orders", "of", "parties", "that", "came", "after", "us", "and", "we", "had", "now", "been", "there", "20", "minutes", "and", "still", "had", "not", "had", "our", "drink", "order", "taken", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "had", "e2_pos": 17, "label": "after"}
+]

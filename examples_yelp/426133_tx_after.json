@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "a", "few", "times", "we", "had", "to", "wait", "for", "her", "to", "fill", "our", "drinks", "and", "we", "had", "to", "wait", "quite", "a", "while", "after", "asking", "for", "boxes", "to", "receive", "the", "check", "-LRB-", "which", "I", "assume", "asking", "for", "boxes", "means", "you", "'re", "done", "with", "your", "meal", "-RRB-"], "e1_text": "wait", "e1_pos": 8, "e2_text": "asking", "e2_pos": 24, "label": "after"}
+]

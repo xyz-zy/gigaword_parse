@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "showed", "up", "10", "minutes", "after", "their", "posted", "closing", "time", "on", "a", "Sunday", "and", "they", "fired", "up", "the", "grill", "again", "to", "make", "me", "some", "take-out", "tacos", "."], "e1_text": "showed", "e1_pos": 1, "e2_text": "posted", "e2_pos": 7, "label": "after"}
+]

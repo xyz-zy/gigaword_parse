@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "randomly", "stopped", "in", "here", "after", "visiting", "the", "Museum", "of", "Natural", "History", "."], "e1_text": "stopped", "e1_pos": 2, "e2_text": "visiting", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "came", "right", "after", "brunch", "ended", "and", "before", "dinner", "so", "the", "menu", "was", "limited", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "ended", "e2_pos": 5, "label": "after"}
+]

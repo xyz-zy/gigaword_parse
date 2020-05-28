@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "and", "were", "ignored", "for", "about", "10-12", "minutes", "before", "a", "bus", "boy", "dropped", "a", "basket", "of", "icy", "cold", ",", "dry", "baguette", "slices", "on", "our", "table", "and", "told", "us", "the", "compound", "butter", "this", "evening", "was", "''", "``", "orange", "poppy", "seed", "''", "''", "-LRB-", "sweet", "-RRB-", "."], "e1_text": "ignored", "e1_pos": 4, "e2_text": "dropped", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "I", "did", "n't", "like", "about", "the", "food", "was", "the", "taste", ",", "first", "off", "the", "chili", "cheese", "fries", "was", "just", "to", "much", "for", "me", "to", "handle", "after", "eating", "everything", "else", "on", "the", "plate", "so", "it", "was", "n't", "very", "satisfying", "to", "eat", "when", "I", "was", "already", "getting", "full", "."], "e1_text": "handle", "e1_pos": 25, "e2_text": "eating", "e2_pos": 27, "label": "after"},
+{"tokens": ["The", "popcorn", "shrimp", "tasted", "like", "frozen", "food", "that", "was", "just", "quickly", "fried", "-LRB-", "something", "you", "just", "whip", "up", "after", "buying", "it", "frozen", "at", "a", "local", "grocery", "market", "-RRB-", "."], "e1_text": "whip", "e1_pos": 16, "e2_text": "buying", "e2_pos": 19, "label": "after"}
+]

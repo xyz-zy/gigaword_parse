@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "rushed", "in", "today", "hoping", "to", "get", "a", "breakfast", "sandwich", "before", "they", "stop", "serving", "at", "11:00", "-LRB-", "which", ",", "on", "a", "Sunday", "I", "think", "is", "a", "little", "harsh", "!", "-RRB-", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "stop", "e2_pos": 12, "label": "before"},
+{"tokens": ["So", "we", "start", "to", "place", "our", "order", ",", "with", "SEVEN", "minutes", "to", "go", "before", "cut", "off", "time", "...", "and", "the", "worker", "says", "''", "``", "we", "are", "n't", "serving", "breakfast", "anymore", ".", "''", "''"], "e1_text": "go", "e1_pos": 12, "e2_text": "says", "e2_pos": 21, "label": "before"}
+]

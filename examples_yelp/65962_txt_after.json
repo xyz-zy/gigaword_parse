@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "had", "to", "discharge", "me", "from", "the", "hospital", ",", "but", "when", "she", "came", "in", ",", "2", "days", "after", "I", "delivered", ",", "I", "was", "in", "the", "bathroom", "and", "told", "her", "to", "wait", "one", "second", ",", "but", "she", "said", "no", ",", "she", "had", "other", "patients", "and", "I", "would", "have", "to", "wait", "until", "she", "left", "the", "office", "later", "that", "night", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "delivered", "e2_pos": 19, "label": "after"}
+]

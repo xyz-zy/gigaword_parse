@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "said", ",", "I", "finally", "brought", "my", "car", "into", "the", "Toyota", "service", "department", "after", "2", "other", "mechanics", "had", "tried", "and", "failed", "to", "get", "the", "check", "engine", "light", "to", "turn", "off", "."], "e1_text": "brought", "e1_pos": 5, "e2_text": "had", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "was", "a", "re-occurring", "problem", "with", "the", "exhaust", "system", "that", "would", "break", "again", "about", "a", "month", "after", "I", "paid", "for", "repairs", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "paid", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Diner", "like", "restaurant", "where", "you", "order", "at", "the", "counter", "before", "sitting", "down", "."], "e1_text": "order", "e1_pos": 5, "e2_text": "sitting", "e2_pos": 10, "label": "before"},
+{"tokens": ["Service", ":", "We", "were", "greeted", "right", "away", "and", "we", "ordered", "before", "a", "huge", "line", "formed", "behind", "us", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "formed", "e2_pos": 14, "label": "before"}
+]

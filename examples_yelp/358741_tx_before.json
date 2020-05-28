@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", ",", "I", "had", "wrote", "it", "off", "before", "even", "giving", "it", "a", "try", "."], "e1_text": "wrote", "e1_pos": 4, "e2_text": "giving", "e2_pos": 9, "label": "before"},
+{"tokens": ["But", ",", "a", "great", "person", "invited", "me", "to", "experience", "it", "before", "making", "any", "conclusions", "."], "e1_text": "experience", "e1_pos": 8, "e2_text": "making", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "ambiance", "was", "electric", "and", "the", "service", "was", "if", "we", "had", "worked", "together", "before", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

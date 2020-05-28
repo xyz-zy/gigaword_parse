@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "asked", "her", "again", "for", "our", "drinks", ",", "after", "seeing", "her", "refill", "the", "glasses", "of", "several", "of", "our", "neighbors", ",", "she", "dismissed", "me", "with", "''", "``", "he", "will", "get", "it", "for", "you", "when", "he", "is", "free", "''", "''", "-LRB-", "pointing", "at", "the", "table", "busser", "-RRB-", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "dismissed", "e2_pos": 22, "label": "after"}
+]

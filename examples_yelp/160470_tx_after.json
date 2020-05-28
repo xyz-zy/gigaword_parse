@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "5:45", ",", "my", "daughter", "and", "sister", "tried", "to", "get", "into", "the", "hotel", "room", ",", "and", "it", "was", "locked", "-", "our", "keys", "turned", "off", "!!", "The", "security", "guard", "could", "not", "reach", "a", "manager", ",", "and", "would", "not", "let", "us", "in", "to", "get", "our", "luggage", ",", "even", "after", "I", "showed", "them", "my", "receipt", "and", "my", "ID", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "showed", "e2_pos": 48, "label": "after"},
+{"tokens": ["The", "manager", "did", "call", "me", "again", "after", "I", "reached", "the", "airport", "to", "apologize", "for", "a", "second", "time", "about", "the", "lack", "of", "communication", "."], "e1_text": "call", "e1_pos": 3, "e2_text": "reached", "e2_pos": 8, "label": "after"}
+]

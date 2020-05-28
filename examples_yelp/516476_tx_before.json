@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "before", "the", "evening", "comedy", "show", "crowd", "arrived", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "show", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "want", "to", "come", "here", "during", "a", "lunch", ",", "and", "during", "live", "music\\/weekend", "to", "make", "sure", "I", "have", "a", "complete", "picture", "of", "the", "place", "before", "giving", "it", "a", "five", "."], "e1_text": "have", "e1_pos": 17, "e2_text": "giving", "e2_pos": 25, "label": "before"}
+]

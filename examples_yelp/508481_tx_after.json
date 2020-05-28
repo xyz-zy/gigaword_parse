@@ -1,0 +1,3 @@
+[
+{"tokens": ["Someone", "must", "have", "not", "been", "paying", "close", "attention", "to", "the", "cooling", "system", "because", "shortly", "after", "it", "came", "on", "cooled", "the", "place", "very", "quickly", "."], "e1_text": "paying", "e1_pos": 5, "e2_text": "came", "e2_pos": 16, "label": "after"}
+]

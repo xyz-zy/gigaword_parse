@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "put", "off", "at", "first", "because", "they", "were", "significantly", "late", "without", "notifying", "me", ",", "after", "I", "had", "to", "leave", "work", "to", "wait", "for", "them", "."], "e1_text": "were", "e1_pos": 8, "e2_text": "had", "e2_pos": 17, "label": "after"},
+{"tokens": ["They", "were", "n't", "awful", "or", "overpriced", ",", "but", "was", "n't", "that", "impressive", "after", "the", "first", "couple", "visits", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "visits", "e2_pos": 16, "label": "after"}
+]

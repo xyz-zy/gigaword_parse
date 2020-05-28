@@ -1,0 +1,4 @@
+[
+{"tokens": ["Drives", "me", "crazy", "when", "a", "server", "walks", "away", "before", "I", "'ve", "finished", "ordering", "."], "e1_text": "walks", "e1_pos": 6, "e2_text": "'ve", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "know", "they", "'re", "crazy", "busy", "-LRB-", "and", "...", "quite", "frankly", ",", "a", "little", "understaffed", "-RRB-", ",", "but", "interrupting", "me", "mid-sentence", "and", "then", "walking", "away", "before", "I", "'m", "done", "is", "...", "well", "-", "just", "rude", "."], "e1_text": "walking", "e1_pos": 23, "e2_text": "'m", "e2_pos": 27, "label": "before"}
+]

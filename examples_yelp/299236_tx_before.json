@@ -1,0 +1,3 @@
+[
+{"tokens": ["1", "second", "later", "hangs", "up", "...", "I", "'m", "a", "regular", "and", "unless", "their", "customer", "service", "improves", "I", "will", "not", "be", "returning", "here", "just", "the", "mere", "fact", "that", "their", "staff", "is", "incapable", "of", "''", "``", "completing", "an", "order", "before", "pissing", "the", "customer", "off", "''", "''"], "e1_text": "returning", "e1_pos": 20, "e2_text": "pissing", "e2_pos": 38, "label": "before"}
+]

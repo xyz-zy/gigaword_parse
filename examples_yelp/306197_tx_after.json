@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "bf", "had", "ordered", "a", "half", "size", "wine", "bottle", "and", "they", "would", "constantly", "come", "and", "fill", "his", "cup", "to", "a", "certain", "amount", "after", "he", "takes", "like", "one", "sip", "."], "e1_text": "come", "e1_pos": 13, "e2_text": "takes", "e2_pos": 24, "label": "after"}
+]

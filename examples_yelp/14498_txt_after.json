@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "bartender", "was", "the", "best", "though", ",", "she", "knew", "exactly", "what", "we", "wanted", "and", "the", "drinks", "were", "mixed", "well", "and", "after", "we", "came", "back", "she", "still", "remembered", "what", "we", "had", "."], "e1_text": "knew", "e1_pos": 8, "e2_text": "came", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "We", "were", "only", "brought", "water", "refills", "after", "someone", "at", "our", "table", "finally", "had", "to", "ASK", "for", "it", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["Empty", "plates", "sat", "on", "the", "table", "for", "nearly", "an", "hour", "after", "we", "had", "finished", "eating", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

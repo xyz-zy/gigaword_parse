@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "first", "I", "thought", "why", "would", "you", "rush", "a", "person", "30", "minutes", "before", "you", "close", ",", "then", "I", "filled", "up", "my", "drink", "and", "waited", "...", "...", "...", ".15", "minutes", "later", "my", "pizza", "comes", "out", ",", "looking", "all", "yummy", "and", "then", "the", "comment", "comes", "''", "``", "remember", "...", "only", "15", "minutes", "until", "we", "close", ".", ".", "''", "''"], "e1_text": "rush", "e1_pos": 7, "e2_text": "waited", "e2_pos": 23, "label": "before"}
+]

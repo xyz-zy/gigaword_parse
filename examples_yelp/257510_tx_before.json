@@ -1,0 +1,3 @@
+[
+{"tokens": ["Who", "knows", "how", "much", "money", "she", "touched", "before", "touching", "my", "fries", "!!", "I", "very", "politely", "asked", "for", "a", "new", "order", "of", "fries", ",", "they", "had", "a", "girl", "put", "gloves", "on", "and", "give", "them", "to", "me", "with", "a", "smartass", "grin", "on", "her", "face", "...", "So", "inappropriate", "!!", "I", "am", "entitled", "to", "be", "served", "clean", "food", "!!", "A", "call", "will", "be", "made", "to", "management", "!"], "e1_text": "touched", "e1_pos": 6, "e2_text": "touching", "e2_pos": 8, "label": "before"}
+]

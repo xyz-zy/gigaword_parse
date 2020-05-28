@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "group", "of", "10", "people", "that", "had", "been", "seated", "after", "us", "had", "already", "gotten", "their", "food", "and", "were", "in", "the", "process", "of", "paying", "their", "checks", "."], "e1_text": "seated", "e1_pos": 8, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["But", "if", "you", "do", "n't", "care", "that", "your", "order", "comes", "out", "45", "minutes", "after", "you", "order", "it", "during", "lunch", ",", "you", "get", "overcharged", "for", "items", "you", "ordered", ",", "and", "enjoy", "subpar", "non-authentic", "food", ",", "well", "then", "by", "all", "means", ",", "go", "ahead", "and", "come", "here", "."], "e1_text": "comes", "e1_pos": 9, "e2_text": "order", "e2_pos": 15, "label": "after"}
+]

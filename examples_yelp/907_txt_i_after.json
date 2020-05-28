@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "high", "hopes", "for", "the", "tofu", "scramble", ",", "especially", "after", "seeing", "positive", "reviews", "about", "it", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 11, "label": "after"},
+{"tokens": ["Then", "they", "did", "n't", "bother", "to", "ask", "hubby", "if", "he", "wanted", "anything", "to", "drink", "after", "he", "had", "picked", "one", "of", "the", "$", "12", "entrees", "that", "come", "with", "coffee", "or", "juice", "."], "e1_text": "drink", "e1_pos": 13, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

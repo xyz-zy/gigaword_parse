@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "Of", "course", ",", "there", "was", "Hef", "along", "with", "the", "original", "''", "``", "Girls", "Next", "Door", "''", "''", "in", "a", "booth", "and", "I", "had", "the", "opportunity", "to", "talk", "to", "Kendra", "for", "a", "few", "minutes", "after", "she", "found", "out", "I", "was", "getting", "married", "the", "following", "month", "."], "e1_text": "talk", "e1_pos": 27, "e2_text": "found", "e2_pos": 36, "label": "after"},
+{"tokens": ["I", "remember", "one", "guy", "who", "tried", "to", "blend", "himself", "in", "with", "the", "ladies", ",", "eventually", "found", "himself", "being", "grabbed", "by", "bouncers", "after", "refusing", "to", "come", "down", "."], "e1_text": "found", "e1_pos": 15, "e2_text": "refusing", "e2_pos": 22, "label": "after"}
+]

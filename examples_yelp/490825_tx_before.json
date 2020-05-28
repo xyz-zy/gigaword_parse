@@ -1,0 +1,3 @@
+[
+{"tokens": ["Very", "slow", "service", "and", "unorganized", ",", "after", "being", "seated", "we", "waited", "over", "15", "minutes", "before", "we", "had", "to", "go", "to", "the", "cash", "register", "to", "try", "to", "order", "our", "food", "and", "only", "then", "did", "they", "acknowledge", "us", "and", "come", "to", "take", "our", "order", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

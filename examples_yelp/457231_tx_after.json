@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "dinner", "with", "a", "friend", "a", "few", "nights", "later", "and", "she", "shared", "that", "she", "and", "her", "husband", "had", "a", "very", "similar", "experience", "at", "lunch", "just", "a", "couple", "of", "days", "after", "we", "were", "there", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "were", "e2_pos": 32, "label": "after"}
+]

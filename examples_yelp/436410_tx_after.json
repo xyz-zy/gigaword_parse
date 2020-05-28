@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "to", "mention", "it", "was", "windy", "outside", "and", "after", "he", "washed", "-LRB-", "not", "dried", "the", "car", "-RRB-", "it", "got", "all", "dirty", "from", "the", "dust", "that", "was", "blowing", "on", "the", "cars", "and", "in", "my", "eyes", "."], "e1_text": "mention", "e1_pos": 2, "e2_text": "washed", "e2_pos": 10, "label": "after"},
+{"tokens": ["Lets", "just", "say", ",", "it", "was", "a", "good", "thing", "we", "did", "n't", "have", "anything", "planned", "2", "hours", "after", "our", "plane", "landed", "."], "e1_text": "planned", "e1_pos": 14, "e2_text": "landed", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": [":-LRB-", "One", "example", "...", "We", "waited", "20", "+", "minutes", "-LRB-", "maybe", "30", "-RRB-", "before", "we", "ordered", ",", "and", "this", "was", "after", "we", "asked", "them", "to", "take", "our", "order", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 15, "label": "before"}
+]

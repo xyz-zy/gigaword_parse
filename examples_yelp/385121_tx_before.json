@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sorry", "if", "you", "are", "a", "twin", "and", "like", "to", "cheat", "though", "...", "Also", "be", "sure", "you", "check", "out", "Costco", "before", "you", "join", "to", "see", "if", "they", "still", "have", "the", "special", "of", "a", "2", "year", "membership", "for", "$", "299.00", "-LRB-", "that", "'s", "about", "$", "12\\/month", "-RRB-", "It", "'s", "a", "smoking", "deal", "and", "is", "good", "for", "all", "gym", "locations", "across", "the", "nation", "."], "e1_text": "check", "e1_pos": 16, "e2_text": "join", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "by", "myself", "and", "which", "is", "customary", "for", "me", "before", "i", "bring", "the", "whole", "gang", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "bring", "e2_pos": 12, "label": "before"},
+{"tokens": ["there", "was", "an", "attractive", "young", "lady", "at", "the", "bar", "before", "i", "got", "there", "he", "was", "very", "attentive", "to", "her", "but", "a", "little", "slow", "and", "no", "rec", "commendations", "which", "he", "offered", "her", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

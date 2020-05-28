@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "still", "able", "to", "enjoy", "hers", "to", "an", "extent", ",", "but", "I", "had", "to", "bite", "around", "mine", "until", "I", "got", "tired", "of", "eating", "the", "edges", "and", "told", "the", "waiter", "who", "can", "I", "mention", "did", "n't", "check", "up", "on", "us", "after", "taking", "our", "order", "."], "e1_text": "check", "e1_pos": 36, "e2_text": "taking", "e2_pos": 41, "label": "after"},
+{"tokens": ["So", "it", "'s", "touted", "to", "be", "spicy", ",", "but", "I", "could", "n't", "discern", "any", "real", "spiciness", "-", "the", "burger", "was", "just", "blah", "-LRB-", "even", "after", "it", "was", "cooked", "to", "''", "``", "no", "pink", "''", "''", "-RRB-", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

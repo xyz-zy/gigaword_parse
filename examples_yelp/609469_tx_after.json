@@ -1,0 +1,4 @@
+[
+{"tokens": ["Personally", ",", "I", "think", "after", "messing", "up", "both", "burgers", "once", "and", "having", "a", "replacement", "sent", "back", "for", "ungodly", "spicy-ness", "that", "a", "visit", "from", "a", "manager", "would", "have", "been", "appreciated", "or", "the", "entire", "bill", "save", "for", "our", "alcoholic", "drinks", "comped", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "messing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Our", "bill", "came", "to", "$", "35.00", "after", "our", "$", "10.00", "cheeseburgers", "were", "taken", "off", "which", "would", "have", "made", "our", "bill", "$", "55.00", "ish", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

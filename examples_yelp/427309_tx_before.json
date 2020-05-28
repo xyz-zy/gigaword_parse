@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "am", "not", "as", "impatient", "as", "some", "people", "for", "the", "price", "of", "the", "food", "&", "the", "portions", "you", "really", "cant", "beat", "it", ",", "i", "might", "come", "back", "if", "someone", "else", "in", "our", "group", "wants", "to", "&", "if", "we", "arent", "too", "hungry", "to", "wait", "a", "while", "before", "we", "eat", "."], "e1_text": "wait", "e1_pos": 42, "e2_text": "eat", "e2_pos": 47, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "has", "taken", "months", "before", "any", "hardscaping", "issues", "have", "been", "fixed", "-LRB-", "concrete", "block", "wall", ",", "completion", "of", "pony", "wall", "-RRB-", "."], "e1_text": "taken", "e1_pos": 2, "e2_text": "have", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "took", "them", "6", "months", "before", "plants", "were", "replaced", "as", "part", "of", "the", "landscaping", "contract", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "were", "e2_pos": 7, "label": "before"}
+]

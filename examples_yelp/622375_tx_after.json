@@ -1,0 +1,4 @@
+[
+{"tokens": ["Felt", "super", "comfortable", "with", "Whitney", "after", "communicating", "with", "her", "several", "times", "."], "e1_text": "super", "e1_pos": 1, "e2_text": "communicating", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "never", "thought", "she", "would", "be", "a", "no", "show", "on", "my", "WEDDING", "day", "especially", "after", "paying", "a", "deposit", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "paying", "e2_pos": 15, "label": "after"}
+]

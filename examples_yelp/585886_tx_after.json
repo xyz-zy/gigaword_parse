@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "far", "as", "service", ",", "we", "waited", "for", "30", "minutes", "after", "finishing", "our", "appetizer", "and", "no", "one", "came", "by", "our", "table", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "finishing", "e2_pos": 11, "label": "after"},
+{"tokens": ["When", "our", "appetizer", ",", "chicken", "sliders", ",", "came", "out", "moments", "after", "placing", "the", "order", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "placing", "e2_pos": 11, "label": "after"}
+]

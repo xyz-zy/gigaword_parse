@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "reserved", "a", "vehicle", "online", "a", "few", "days", "before", "arriving", "."], "e1_text": "reserved", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "do", "n't", "inspect", "the", "car", "before", "you", "take", "it", "."], "e1_text": "inspect", "e1_pos": 3, "e2_text": "take", "e2_pos": 8, "label": "before"}
+]

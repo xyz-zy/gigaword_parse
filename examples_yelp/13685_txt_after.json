@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "was", "packed", ",", "the", "drinks", "were", "pricey", ",", "and", "the", "waitress", "made", "sure", "to", "let", "us", "know", "after", "we", "sat", "down", "that", "we", "had", "to", "go", "to", "the", "bar", "to", "order", "our", "drinks", "as", "she", "was", "off", "duty", "."], "e1_text": "know", "e1_pos": 18, "e2_text": "sat", "e2_pos": 21, "label": "after"}
+]

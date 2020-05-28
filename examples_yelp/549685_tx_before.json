@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "was", "here", "this", "past", "weekend", "and", "watched", "4", "different", "tables", "get", "seated", "without", "anyone", "asking", "if", "they", "'d", "been", "there", "before", "or", "know", "what", "to", "do", "."], "e1_text": "asking", "e1_pos": 16, "e2_text": "'d", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "think", "it", "'ll", "be", "a", "while", "before", "I", "go", "back", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "go", "e2_pos": 9, "label": "before"}
+]

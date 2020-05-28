@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "called", "down", "to", "the", "front", "desk", "and", "after", "being", "on", "hold", "for", "5", "minutes", "were", "told", "it", "would", "be", "a", "15-minute", "wait", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "being", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "restaurants", "on", "the", "premise", "are", "extremely", "expensive", "after", "paying", "extra", "for", "your", "view", "and\\/or", "a", "refrigerator", "and", "resort", "fee", ",", "the", "cheap", "rate", "you", "get", "on", "a", "suite", "is", "simply", "not", "worth", "it", "."], "e1_text": "are", "e1_pos": 5, "e2_text": "paying", "e2_pos": 9, "label": "after"}
+]

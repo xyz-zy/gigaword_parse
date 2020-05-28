@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "pay", "for", "your", "selections", "with", "the", "cashier", "in", "the", "front", "after", "receiving", "your", "food", "."], "e1_text": "pay", "e1_pos": 2, "e2_text": "receiving", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "special", "was", "$", "5.99", "and", "I", "was", "full", "after", "only", "eating", "half", "my", "meal", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

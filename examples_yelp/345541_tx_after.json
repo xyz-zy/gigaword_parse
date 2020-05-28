@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "had", "two", "such", "situations", "where", "was", "asked", "to", "move", "tables", "so", "that", "others", "could", "sit", "there", "after", "I", "was", "done", "eating", "."], "e1_text": "sit", "e1_pos": 16, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "study", "and", "eat", "here", "a", "lot", "or", "should", "say", "used", "to", "after", "I", "was", "asked", "to", "leave", "my", "table", "so", "a", "S&M", "fetish", "group", "could", "have", "the", "area", "."], "e1_text": "used", "e1_pos": 10, "e2_text": "was", "e2_pos": 14, "label": "after"}
+]

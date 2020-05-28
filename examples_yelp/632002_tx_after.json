@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "in", "one", "Saturday", "afternoon", "for", "drinks", "after", "visiting", "some", "of", "the", "noisier", "places", "in", "Old", "Town", "Scottsdale", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "visiting", "e2_pos": 8, "label": "after"},
+{"tokens": ["She", "was", "able", "to", "get", "one", "for", "only", "$", "1", "after", "checking", "in", "at", "Salty", "Senorita", "on", "foursquare", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "checking", "e2_pos": 11, "label": "after"}
+]

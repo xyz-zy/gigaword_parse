@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "ordering", ",", "our", "salads", "and", "drinks", "did", "n't", "show", "up", "even", "after", "asking", "multiple", "times", "."], "e1_text": "show", "e1_pos": 9, "e2_text": "asking", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "pizza", "was", "ok", "but", "after", "waiting", "so", "long", "I", "really", "did", "n't", "care", "."], "e1_text": "ok", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 6, "label": "after"}
+]

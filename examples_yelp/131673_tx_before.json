@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "locked", "up", "all", "of", "my", "expensive", "watches", "in", "the", "bank", "before", "going", "on", "vacation", "and", "was", "wearing", "my", "beater", "."], "e1_text": "locked", "e1_pos": 1, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["He", "asked", "if", "i", "had", "ever", "seen", "one", "before", "and", "I", "repled", "''", "``", "yes", ",", "and", "that", "it", "matched", "my", "50th", "Anniversary", "Submariner", "''", "''", "."], "e1_text": "seen", "e1_pos": 6, "e2_text": "repled", "e2_pos": 11, "label": "before"}
+]

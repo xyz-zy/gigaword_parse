@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "obvious", "they", "were", "pushing", "people", "to", "the", "bar", "to", "buy", "drinks", "before", "they", "sat", "down", "."], "e1_text": "buy", "e1_pos": 11, "e2_text": "sat", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "wondered", "if", "they", "scraped", "together", "the", "last", "bits", "of", "cake", "from", "the", "night", "before", "."], "e1_text": "wondered", "e1_pos": 1, "e2_text": "scraped", "e2_pos": 4, "label": "before"}
+]

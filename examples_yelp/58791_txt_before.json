@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "walk", "and", "see", "what", "was", "there", "before", "making", "choices", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "making", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "time", "to", "gamble", "before", "heading", "home", "."], "e1_text": "gamble", "e1_pos": 4, "e2_text": "heading", "e2_pos": 6, "label": "before"}
+]

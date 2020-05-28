@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "Pro", "Tailor", "7", "days", "before", "my", "sister", "'s", "wedding", "to", "have", "my", "bridesmaid", "dress", "altered", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "altered", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "originally", "took", "it", "to", "a", "`", "tailor", "'", "that", "the", "store", "where", "I", "bought", "the", "dress", "referred", "me", "to", "-", "what", "a", "mistake", "-", "he", "'d", "had", "the", "dress", "for", "a", "month", "and", "7", "days", "before", "the", "wedding", "had", "n't", "even", "started", "!"], "e1_text": "took", "e1_pos": 2, "e2_text": "had", "e2_pos": 39, "label": "before"}
+]

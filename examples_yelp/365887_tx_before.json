@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "a", "31", "year", "old", "male", "with", "proper", "ID", "presented", "at", "the", "front", "before", "entering", "in", "."], "e1_text": "presented", "e1_pos": 10, "e2_text": "entering", "e2_pos": 15, "label": "before"}
+]

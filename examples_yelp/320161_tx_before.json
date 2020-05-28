@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "that", ",", "there", "was", "a", "table", "that", "arrived", "ten", "minutes", "after", "we", "ordered", "and", "STILL", "got", "their", "food", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "did", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "repeat", ",", "we", "watched", "three", "tables", "that", "came", "in", "at", "various", "times", "after", "us", "get", "food", "before", "we", "did", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "did", "e2_pos": 19, "label": "before"}
+]

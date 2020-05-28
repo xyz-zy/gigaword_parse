@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "ca", "n't", "sport", "the", "name", "Gordon", "Ramsay", "and", "serve", "us", "our", "entrees", "an", "hour", "after", "being", "seated", "...", "Do", "n't", "even", "bother", "speaking", "to", "the", "manager", "because", "all", "he", "'ll", "do", "is", "tell", "you", "they", "can", "do", "better", "and", "invite", "you", "to", "come", "back", "next", "time", "for", "a", "''", "``", "better", "experience", "''", "''", "-LRB-", "no", "discount", "btw", "-RRB-", "...", "Seriously", "?"], "e1_text": "serve", "e1_pos": 9, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "actually", "closer", "to", "2pm", "before", "the", "instructions", "for", "rafting", "began", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "began", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "had", "never", "zip", "lined", "before", "so", "I", "waited", "eagerly", "for", "my", "turn", "."], "e1_text": "lined", "e1_pos": 4, "e2_text": "waited", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "was", "about", "dehydrated", "though", "before", "I", "got", "started", "."], "e1_text": "dehydrated", "e1_pos": 3, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

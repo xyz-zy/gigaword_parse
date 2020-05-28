@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "right", "after", "spending", "about", "1", "hour", "at", "Dirty", "Pretty", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "spending", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "bar", "has", "a", "wheel", "where", ",", "after", "you", "climb", "on", "top", "to", "spin", "it", ",", "you", "get", "to", "do", "whatever", "shot", "is", "shown", "there", "or", "whatever", "`", "action", "'", "is", "there", "as", "well", "."], "e1_text": "has", "e1_pos": 2, "e2_text": "climb", "e2_pos": 9, "label": "after"}
+]

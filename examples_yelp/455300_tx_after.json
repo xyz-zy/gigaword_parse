@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "give", "my", "address", "to", "3", "different", "guys", "because", "apparently", "no", "one", "knows", "WTF", "they", "'re", "doing", "!!!", "Lastly", "after", "I", "was", "finally", "able", "to", "place", "my", "order", ",", "one", "of", "the", "workers", "called", "me", "half", "an", "hour", "later", "saying", "that", "I", "was", "out", "of", "their", "delivery", "area", "."], "e1_text": "doing", "e1_pos": 18, "e2_text": "was", "e2_pos": 23, "label": "after"},
+{"tokens": ["You", "did", "n't", "know", "I", "was", "out", "of", "your", "area", "after", "I", "gave", "you", "guys", "my", "address", "3", "Fing", "Times", "!!!", "PIZZA", "HUT", "HERE", "I", "COME", "!"], "e1_text": "was", "e1_pos": 5, "e2_text": "gave", "e2_pos": 12, "label": "after"}
+]

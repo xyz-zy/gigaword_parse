@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tonight", ",", "my", "dad", "and", "I", "had", "appointments", "and", "were", "left", "waiting", "in", "our", "room", "for", "35", "minutes", "past", "our", "appt", "time", "before", "we", "finally", "left", "because", "they", "never", "came", "in", "to", "start", "our", "massage", "."], "e1_text": "left", "e1_pos": 10, "e2_text": "left", "e2_pos": 25, "label": "before"}
+]

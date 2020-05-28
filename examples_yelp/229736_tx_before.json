@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "for", "separate", "checks", "-LRB-", "for", "parties", "of", "one", "or", "2", "-", "we", "all", "did", "AYCE", "so", "it", "was", "same", "price", "all", "around", "-RRB-", "and", "we", "asked", "before", "we", "ordered", "and", "again", "before", "we", "asked", "for", "the", "check", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 30, "label": "before"}
+]

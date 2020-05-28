@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "the", "reviews", "before", "making", "this", "mistake", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "making", "e2_pos": 7, "label": "before"},
+{"tokens": ["Shame", "on", "me", "for", "not", "getting", "the", "price", "before", "I", "dropped", "it", "off", "...", "but", "once", "again", "I", "had", "to", "take", "that", "phone", "call", "-LRB-", "My", "friend", "was", "putting", "her", "cat", "to", "sleep", "suddenly", "-RRB-", "or", "else", "there", "'s", "no", "way", "they", "would", "'ve", "bent", "me", "over", "like", "that", "."], "e1_text": "getting", "e1_pos": 5, "e2_text": "dropped", "e2_pos": 10, "label": "before"}
+]

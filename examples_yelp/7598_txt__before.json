@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "'m", "expected", "to", "stop", "at", "yellow", "lights", "on", "your", "track", ",", "you", "'ve", "got", "to", "tell", "me", "before", "we", "start", "racing", "."], "e1_text": "tell", "e1_pos": 17, "e2_text": "start", "e2_pos": 21, "label": "before"}
+]

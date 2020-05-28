@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "apprehensive", "after", "reading", "the", "reviews", "and", "was", "worried", "I", "would", "be", "wasting", "my", "money", "on", "sub-par", "food", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["There", "were", ",", "however", ",", "quite", "a", "few", "people", "waiting", "for", "a", "while", "after", "we", "sat", "down", "."], "e1_text": "waiting", "e1_pos": 9, "e2_text": "sat", "e2_pos": 15, "label": "after"}
+]

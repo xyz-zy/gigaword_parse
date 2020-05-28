@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "high", "hopes", "for", "a", "good", "night", "out", "with", "friends", "with", "great", "food", "after", "reading", "the", "reviews", "."], "e1_text": "Had", "e1_pos": 0, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["Our", "waiter", "was", "only", "half", "bad", "and", "just", "seemed", "overwhelmed", "which", "I", "wo", "n't", "fault", "him", "for", "because", "they", "did", "get", "busy", "but", "I", "only", "received", "one", "refill", "on", "my", "glass", "water", "after", "asking", "twice", "and", "the", "wait", "time", "for", "our", "food", "took", "longer", "than", "it", "should", "have", "for", "what", "we", "ordered", "."], "e1_text": "received", "e1_pos": 25, "e2_text": "asking", "e2_pos": 33, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Next", "on", "the", "menu", ",", "the", "bone", "marrow", "which", "just", "seemed", "lacking", "in", "flavor", "as", "did", "the", "shrimp", "and", "grits", ",", "and", "the", "skirt", "steak", "lyonnaise", "which", "was", "a", "tough", "piece", "of", "meat", ",", "but", "since", "I", "have", "never", "had", "it", "before", ",", "who", "knows", "maybe", "that", "'s", "the", "way", "it", "is", "supposed", "to", "be", "."], "e1_text": "lyonnaise", "e1_pos": 25, "e2_text": "have", "e2_pos": 37, "label": "before"},
+{"tokens": ["Since", "this", "was", "the", "first", "time", "I", "had", "octopus", "I", "think", "I", "need", "to", "have", "it", "one", "more", "time", "before", "I", "decide", "if", "I", "really", "like", "octopus", "or", "not", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "decide", "e2_pos": 21, "label": "before"}
+]

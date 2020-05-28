@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "had", "Mikes", "when", "it", "'s", "been", "pretty", "good", ",", "but", "this", "location", "is", "n't", "that", "great", "and", "it", "will", "be", "a", "long", "while", "before", "I", "return", "-", "maybe", "if", "they", "put", "one", "of", "those", "''", "``", "under", "new", "management", "''", "''", "signs", "I", "'ll", "go", "back", "sooner", "than", "later", "."], "e1_text": "be", "e1_pos": 21, "e2_text": "return", "e2_pos": 27, "label": "before"}
+]

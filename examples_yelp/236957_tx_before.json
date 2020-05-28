@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "steak", "was", "not", "rested", "for", "long", "enough", "before", "serving", ",", "so", "the", "juice", "was", "actually", "spilling", "out", "when", "it", "was", "served", "."], "e1_text": "rested", "e1_pos": 4, "e2_text": "serving", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "I", "know", "its", "considered", "good", "manners", "to", "do", "a", "''", "``", "courtesy", "flush", "''", "''", ",", "but", "after", "hearing", "the", "bowl", "flush", "a", "dozen", "times", ",", "I", "'m", "sure", "the", "people", "on", "the", "bus", "thought", "I", "was", "taking", "one", "serious", "dump", "."], "e1_text": "do", "e1_pos": 8, "e2_text": "hearing", "e2_pos": 19, "label": "after"},
+{"tokens": ["My", "wife", "complained", "that", "her", "restroom", "had", "no", "running", "water", "in", "the", "sink", ",", "so", "she", "could", "n't", "wash", "her", "hands", "after", "going", "."], "e1_text": "wash", "e1_pos": 18, "e2_text": "going", "e2_pos": 22, "label": "after"}
+]

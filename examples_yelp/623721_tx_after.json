@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "left", "this", "evening", "-LRB-", "Cinco", "de", "Mayo", "-RRB-", "without", "being", "served", "or", "approached", "15", "minutes", "after", "seating", "ourselves", "in", "the", "bar", "."], "e1_text": "served", "e1_pos": 14, "e2_text": "seating", "e2_pos": 20, "label": "after"}
+]

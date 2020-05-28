@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "said", "she", "was", "bummed", "by", "the", "loss", "but", "she", "was", "still", "pleasant", ",", "so", "I", "did", "not", "feel", "it", "necessary", "for", "her", "to", "sample", "my", "food", "before", "I", "ate", "it", "."], "e1_text": "sample", "e1_pos": 24, "e2_text": "ate", "e2_pos": 29, "label": "before"}
+]

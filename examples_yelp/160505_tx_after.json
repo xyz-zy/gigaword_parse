@@ -1,0 +1,3 @@
+[
+{"tokens": ["Call", "the", "front", "desk", "again", "and", "they", "send", "security", "over", "to", "open", "the", "door", "for", "us", "after", "verifying", "our", "ID", "."], "e1_text": "open", "e1_pos": 11, "e2_text": "verifying", "e2_pos": 17, "label": "after"}
+]

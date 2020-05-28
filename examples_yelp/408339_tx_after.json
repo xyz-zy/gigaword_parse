@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "found", "out", "after", "I", "bought", "the", "ticket", "that", "there", "was", "no", "reentry", "allowed", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "bought", "e2_pos": 5, "label": "after"},
+{"tokens": ["When", "I", "got", "to", "the", "first", "volunteer", "at", "the", "food", "table", "after", "standing", "in", "line", "for", "about", "10", "minutes", "she", "told", "me", "about", "having", "to", "go", "to", "the", "wristband", "table", "before", "I", "get", "food", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "standing", "e2_pos": 12, "label": "after"},
+{"tokens": ["My", "friends", "went", "about", "30", "minutes", "after", "I", "did", "and", "there", "was", "no", "food", "left", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "did", "e2_pos": 8, "label": "after"}
+]

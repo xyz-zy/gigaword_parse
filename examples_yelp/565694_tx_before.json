@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "through", "this", "twice", "more", ",", "dipping", "into", "my", "B-team", "beer", "choices", "before", "finding", "one", "they", "actually", "had", "on", "tap", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "finding", "e2_pos": 14, "label": "before"},
+{"tokens": ["Because", "of", "this", ",", "we", "now", "think", "twice", "before", "walking", "over", "there", "."], "e1_text": "think", "e1_pos": 6, "e2_text": "walking", "e2_pos": 9, "label": "before"}
+]

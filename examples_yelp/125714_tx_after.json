@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", "stopped", "in", "today", "after", "eying", "this", "place", "for", "years", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "eying", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "'m", "not", "denying", "that", "so", "after", "he", "corrected", "me", "I", "still", "ordered", "the", "10", "spice", "level", "ha", "ha", "."], "e1_text": "denying", "e1_pos": 3, "e2_text": "corrected", "e2_pos": 8, "label": "after"},
+{"tokens": ["Okay", ",", "yeah", ",", "I", "'ll", "come", "back", ",", "but", "I", "'m", "still", "going", "to", "go", "back", "to", "the", "office", "after", "eating", "here", "and", "pound", "a", "donut", "to", "get", "me", "through", "to", "dinner", "time", "."], "e1_text": "go", "e1_pos": 15, "e2_text": "eating", "e2_pos": 21, "label": "after"}
+]

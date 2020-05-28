@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "portions", "were", "quite", "large", "-LRB-", "almost", "entr", "\\", "u00e9e", "sized", "-RRB-", "-", "hence", "our", "entrees", "arrived", "before", "we", "were", "finished", "."], "e1_text": "arrived", "e1_pos": 16, "e2_text": "were", "e2_pos": 2, "label": "before"},
+{"tokens": ["My", "only", "complaint", "-LRB-", "and", "it", "is", "a", "minor", "one", "-RRB-", "is", "that", "the", "steaks", "could", "have", "rested", "for", "a", "bit", "before", "they", "were", "brought", "to", "us", "."], "e1_text": "rested", "e1_pos": 17, "e2_text": "were", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mine", "came", "to", "the", "table", "5", "minutes", "after", "my", "wife", "'s", "and", "when", "I", "bit", "into", "it", "it", "was", "cold", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "'s", "e2_pos": 10, "label": "after"},
+{"tokens": ["At", "that", "point", "we", "gave", "up", "after", "registering", "our", "complaint", "with", "the", "manager", "."], "e1_text": "gave", "e1_pos": 4, "e2_text": "registering", "e2_pos": 7, "label": "after"}
+]

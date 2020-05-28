@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "stood", "waiting", "for", "attention", "at", "the", "counter", "for", "about", "5-10", "minutes", "before", "being", "acknowledged", ",", "but", "we", "got", "our", "order", "in", ",", "got", "some", "drinks", "paid", "and", "sat", "down", "to", "wait", "for", "the", "food", ",", "which", "came", "pretty", "quickly", "."], "e1_text": "waiting", "e1_pos": 2, "e2_text": "being", "e2_pos": 13, "label": "before"}
+]

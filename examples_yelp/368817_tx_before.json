@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "driven", "by", "this", "place", "before", "when", "shopping", "at", "Dana", "Pt", "but", "have", "always", "eaten", "Before", "we", "drive", "by", "."], "e1_text": "driven", "e1_pos": 2, "e2_text": "shopping", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "wish", "the", "B'fast", "menu", "was", "listed", "here", "...", "we", "forgot", "to", "look", "at", "it", "before", "we", "left", "!"], "e1_text": "look", "e1_pos": 12, "e2_text": "left", "e2_pos": 17, "label": "before"}
+]

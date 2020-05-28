@@ -1,0 +1,4 @@
+[
+{"tokens": ["Oh", ",", "the", "waitress", "kept", "coming", "back", "before", "we", "ordered", "to", "let", "us", "know", "they", "were", "out", "of", "rare", ",", "then", "med", "rare", "&", "so", "forth", "."], "e1_text": "coming", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "ordered", "before", "they", "completely", "ran", "out", "of", "prime", "rib", "altogether", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "ran", "e2_pos": 5, "label": "before"}
+]

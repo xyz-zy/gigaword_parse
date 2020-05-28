@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "girlfriend", "'s", "soda", "was", "empty", "long", "before", "the", "main", "dish", "arrived", ",", "yet", "the", "server", "did", "n't", "offer", "any", "refills", "of", "it", "until", "after", "the", "dessert", "had", "came", "."], "e1_text": "offer", "e1_pos": 18, "e2_text": "had", "e2_pos": 27, "label": "after"},
+{"tokens": ["But", "I", "have", "to", "say", ",", "after", "working", "in", "food", "service", "for", "over", "13", "years", ",", "I", "was", "in", "awe", "that", "she", "did", "not", "even", "try", "to", "resolve", "the", "issue", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "working", "e2_pos": 7, "label": "after"}
+]

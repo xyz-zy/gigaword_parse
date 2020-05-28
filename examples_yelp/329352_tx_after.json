@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ask", "for", "them", ",", "receive", "many", "apologies", ",", "and", "then", "the", "server", "disappears", "after", "bringing", "them", "."], "e1_text": "disappears", "e1_pos": 13, "e2_text": "bringing", "e2_pos": 15, "label": "after"},
+{"tokens": ["Sitting", "at", "that", "table", "for", "nearly", "an", "hour", "and", "getting", "only", "water", "and", "menus", "-LRB-", "after", "asking", "for", "them", "-RRB-", ",", "and", "never", "getting", "even", "to", "submit", "our", "order", "."], "e1_text": "getting", "e1_pos": 9, "e2_text": "asking", "e2_pos": 16, "label": "after"}
+]

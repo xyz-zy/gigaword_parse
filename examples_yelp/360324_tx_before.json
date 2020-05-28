@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "seated", "in", "a", "room", "with", "only", "4", "other", "full", "tables", "and", "then", "waited", "a", "good", "15", "minutes", "before", "someone", "came", "by", "with", "water", "-LRB-", "delicious", "cucumber", "water", "-RRB-", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

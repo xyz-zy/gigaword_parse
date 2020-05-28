@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "stomach", "burned", "before", "my", "food", "came", "."], "e1_text": "burned", "e1_pos": 2, "e2_text": "came", "e2_pos": 6, "label": "before"},
+{"tokens": ["My", "stomach", "was", "burnin", "'", "before", "we", "even", "left", "and", "I", "'m", "no", "stranger", "to", "mexican", "or", "spicy", "food", "."], "e1_text": "burnin", "e1_pos": 3, "e2_text": "left", "e2_pos": 8, "label": "before"}
+]

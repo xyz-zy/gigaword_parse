@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "Rave", "Motion", "Pictures", "is", "officially", "dead", "to", "me", "after", "their", "management", "team", "literally", "LAUGHED", "in", "the", "faces", "of", "my", "husband", "and", "I", "tonight", "after", "we", "wanted", "to", "see", "a", "film", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "LAUGHED", "e2_pos": 14, "label": "after"},
+{"tokens": ["Did", "we", "leave", "the", "theater", "a", "steamy", "mix", "of", "pissed", "off", "and", "slightly", "murderous", "if", "it", "was", "n't", "for", "all", "the", "soothing", "essential", "oils", "left", "upon", "my", "person", "after", "leaving", "work", "?"], "e1_text": "leave", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 29, "label": "after"}
+]

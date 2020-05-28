@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "pistachio", "ice", "mocha", "was", "very", "good", "and", "even", "better", "after", "I", "stirred", "up", "the", "whipped", "cream", "to", "add", "some", "additional", "sweetness", "to", "the", "drink", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "stirred", "e2_pos": 12, "label": "after"}
+]

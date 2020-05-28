@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "all", "anxiously", "awaited", "the", "next", "installment", "of", "''", "``", "what", "restaurant", "are", "they", "going", "to", "put", "here", "for", "18", "months", "or", "less", "''", "''", "after", "the", "Chinese", "buffet", "at", "this", "location", "closed", "down", "."], "e1_text": "awaited", "e1_pos": 3, "e2_text": "closed", "e2_pos": 32, "label": "after"}
+]

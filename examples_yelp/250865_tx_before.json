@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dropped", "of", "my", "car", "at", "7am", "did", "n't", "get", "a", "call", ",", "waited", "til", "2", "in", "the", "afternoon", "then", "I", "called", ",", "they", "told", "me", "what", "was", "going", "on", "and", "were", "working", "on", "it", ",", "waited", "for", "a", "call", "before", "6", "pm", "when", "they", "close", "to", "let", "me", "know", "if", "my", "car", "was", "going", "to", "be", "done", "or", "if", "it", "needed", "to", "stay", ",", "once", "again", "nothing", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "close", "e2_pos": 44, "label": "before"}
+]

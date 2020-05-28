@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "sent", "it", "back", "...", "and", "then", "guy", "who", "brought", "it", "back", "to", "me", "said", "''", "``", "Now", "hurry", "and", "eat", "it", "before", "it", "gets", "cold", "again", "''", "''", "...", "I", "was", "appalled", "."], "e1_text": "eat", "e1_pos": 21, "e2_text": "gets", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "'s", "not", "my", "fault", "that", "my", "food", "was", "sitting", "in", "the", "window", "too", "long", "before", "it", "hit", "the", "table", "."], "e1_text": "sitting", "e1_pos": 9, "e2_text": "hit", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "realized", "she", "ended", "up", "turning", "her", "phone", "OFF", "because", "it", "started", "going", "straight", "to", "voicemail", "after", "we", "called", "her", "phone", "a", "few", "times", "!"], "e1_text": "voicemail", "e1_pos": 15, "e2_text": "called", "e2_pos": 18, "label": "after"}
+]

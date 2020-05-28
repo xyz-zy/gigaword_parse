@@ -1,0 +1,4 @@
+[
+{"tokens": ["WORST", "SERVICE", "EVER", "!!!!", "When", "we", "went", "inside", ",", "before", "entering", "the", "actual", "restaurant", ",", "there", "was", "a", "room", "where", "you", "have", "to", "ring", "the", "door", "bell", "to", "enter", "the", "restaurant", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "entering", "e2_pos": 10, "label": "before"},
+{"tokens": ["Once", "we", "get", "in", "and", "got", "table", ",", "it", "took", "the", "waitress", "15", "mins", "before", "noticing", "that", "we", "were", "here", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "noticing", "e2_pos": 15, "label": "before"}
+]

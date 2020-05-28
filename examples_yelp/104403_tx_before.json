@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "any", "respectable", "cook", "should", "know", "to", "pick", "through", "it", "once", "over", "before", "using", "it", "to", "avoid", "situations", "like", "this", "."], "e1_text": "pick", "e1_pos": 7, "e2_text": "using", "e2_pos": 13, "label": "before"},
+{"tokens": ["Yeah", ",", "I", "like", "to", "give", "restaurants", "2", "tries", "before", "ruling", "them", "out", ",", "and", "they", "did", "nothing", "to", "make", "me", "cut", "them", "off", "completely", "."], "e1_text": "give", "e1_pos": 5, "e2_text": "ruling", "e2_pos": 10, "label": "before"}
+]

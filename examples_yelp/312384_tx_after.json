@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "decided", "to", "have", "dinner", "here", "after", "seeing", "the", "reviews", "on", "yelp", "and", "based", "on", "the", "fact", "that", "it", "was", "in", "walking", "distance", "of", "our", "hotel", "."], "e1_text": "dinner", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

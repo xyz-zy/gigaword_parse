@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "when", "the", "weather", "is", "n't", "so", "nice", "-LRB-", "just", "for", "a", "few", "short", "months", "in", "Las", "Vegas", "-RRB-", "there", "are", "conveniently", "located", "outdoor", "heaters", ",", "as", "in", "they", "are", "out", "of", "your", "way", "and", "you", "wo", "n't", "burn", "yourself", "after", "stumbling", "out", "because", "you", "sampled", "all", "150", "beers", "."], "e1_text": "burn", "e1_pos": 38, "e2_text": "stumbling", "e2_pos": 41, "label": "after"}
+]

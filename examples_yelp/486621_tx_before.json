@@ -1,0 +1,3 @@
+[
+{"tokens": ["Whenever", "possible", ",", "after", "a", "so-so", "experience", "at", "a", "restaurant", ",", "I", "try", "to", "return", "at", "least", "once", "or", "twice", "before", "writing", "a", "review", "."], "e1_text": "return", "e1_pos": 14, "e2_text": "writing", "e2_pos": 21, "label": "before"}
+]

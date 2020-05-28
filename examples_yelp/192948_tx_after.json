@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "just", "went", "there", "to", "eat", "for", "lunch", "for", "our", "1", "year", "anniversary", ",", "30", "minutes", "after", "being", "seated", "we", "were", "still", "awaiting", "a", "server", "to", "take", "our", "drink", "orders", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "being", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "attention", "to", "detail", "and", "generally", "does", "n't", "even", "get", "the", "basics", "-LRB-", "long", "wait", "to", "be", "greeted", "and", "get", "water", "at", "the", "table", ":", "salad", "plates", "linger", "after", "entrees", "arrive", ";", "server", "unsure", "how", "to", "answer", "some", "basic", "questions", "on", "the", "menu", "etc.", "-RRB-", "."], "e1_text": "linger", "e1_pos": 27, "e2_text": "arrive", "e2_pos": 30, "label": "after"}
+]

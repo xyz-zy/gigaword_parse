@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "you", "get", "is", "not", "worth", "the", "price", "you", "pay", "so", "think", "hard", "before", "you", "decide", "to", "go", "in", "cause", "cool", "dessert", "places", "are", "just", "a", "cross", "road", "away", "."], "e1_text": "think", "e1_pos": 11, "e2_text": "decide", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "'re", "so", "used", "to", "getting", "tons", "of", "different", "toppings", "at", "yogurtland", "for", "$", "3", "so", "perhaps", "the", "store", "could", "think", "twice", "before", "charging", "$", "5", "for", "a", "small", "cup", "with", "only", "3", "toppings", "."], "e1_text": "think", "e1_pos": 20, "e2_text": "charging", "e2_pos": 23, "label": "before"}
+]

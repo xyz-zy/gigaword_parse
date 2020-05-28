@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "excited", "to", "relax", "and", "pamper", "myself", "after", "2", "long", "nights", "of", "dancing", "in", "high", "heels", "!"], "e1_text": "relax", "e1_pos": 4, "e2_text": "dancing", "e2_pos": 13, "label": "after"},
+{"tokens": ["When", "the", "attendant", "came", "to", "get", "me", ",", "she", "asked", "me", "how", "I", "pronounce", "my", "last", "name", ",", "after", "I", "told", "her", ",", "she", "never", "did", "refer", "to", "me", "by", "name", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

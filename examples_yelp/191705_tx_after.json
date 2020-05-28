@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "at", "least", "15-20", "more", "minutes", "for", "the", "drink", "to", "arrive", "and", "the", "person", "who", "brought", "it", "was", "not", "our", "waiter", "and", "not", "until", "after", "we", "had", "complained", "to", "the", "manager", ".", "-RRB-"], "e1_text": "was", "e1_pos": 18, "e2_text": "had", "e2_pos": 27, "label": "after"},
+{"tokens": ["My", "husband", "'s", "second", "drink", "came", "a", "minute", "after", "she", "walked", "away", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "walked", "e2_pos": 10, "label": "after"}
+]

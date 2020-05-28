@@ -1,0 +1,4 @@
+[
+{"tokens": ["How", "can", "you", "tell", "me", "the", "longest", "wait", "time", "is", "58", "minutes", "when", "I", "have", "n't", "been", "triaged", "after", "sitting", "there", "for", "3", "hours", "?!?!!?", "Diagnosis", "and", "treatment", "took", "another", "3", "hours", "but", "that", "can", "not", "be", "factored", "into", "the", "wait", "time", "."], "e1_text": "triaged", "e1_pos": 17, "e2_text": "sitting", "e2_pos": 19, "label": "after"},
+{"tokens": ["This", "means", "''", "``", "ER", "wait", "time", "''", "''", "advertised", "is", "NOT", "from", "when", "you", "walk", "in", "the", "door", "or", "even", "turn", "in", "your", "paperwork", "or", "get", "a", "bracelet", ",", "it", "most", "likely", "starts", "ticking", "after", "the", "triage", "nurse", "accepts", "you", ",", "but", "even", "then", "the", "time", "seems", "arbitrary", "."], "e1_text": "ticking", "e1_pos": 34, "e2_text": "accepts", "e2_pos": 39, "label": "after"}
+]

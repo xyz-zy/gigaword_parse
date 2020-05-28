@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "arrived", "home", "I", "opened", "my", "door", "and", "my", "hopes", "for", "my", "pizza", "sank", "before", "I", "had", "even", "opened", "the", "box", "."], "e1_text": "sank", "e1_pos": 14, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["On", "my", "way", "to", "get", "the", "mail", "I", "ran", "into", "the", "maintenance", "staff", "to", "whom", "I", "complained", "bitterly", "about", "Brothers", "lack", "of", "respect", "for", "our", "complex", "and", "discovered", "that", "one", "of", "the", "maintenance", "guys", "had", "''", "``", "nearly", "gotten", "into", "a", "fight", "''", "''", "with", "their", "spammer", "who", "had", "claimed", "to", "be", "''", "``", "authorized", "to", "be", "there", "''", "''", "before", "being", "kicked", "out", "."], "e1_text": "ran", "e1_pos": 8, "e2_text": "being", "e2_pos": 61, "label": "before"}
+]

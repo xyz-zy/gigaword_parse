@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "picture", "I", "included", "was", "taken", "exactly", "5", "days", "after", "I", "got", "the", "manicure", ",", "I", "took", "the", "rest", "of", "the", "polish", "off", "myself", "that", "night", "."], "e1_text": "taken", "e1_pos": 5, "e2_text": "got", "e2_pos": 11, "label": "after"}
+]

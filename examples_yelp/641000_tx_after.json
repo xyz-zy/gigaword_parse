@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "hurried", "off", "&", "entered", "our", "order", ",", "the", "apps", "came", "out", "before", "the", "bread", "which", "is", "fine", ",", "the", "runner", "explained", "that", "the", "bread", "oven", "was", "a", "''", "``", "little", "backed", "up", "because", "everything", "is", "made", "fresh", "''", "''", "but", "it", "came", "about", "2", "minutes", "after", "our", "apps", "got", "delivered", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "got", "e2_pos": 49, "label": "after"},
+{"tokens": ["Dessert", "is", "delivered", "&", "our", "waiter", "brings", "out", "plates", "&", "a", "fork", "for", "the", "dessert", "course", "after", "the", "food", "has", "arrived", "."], "e1_text": "delivered", "e1_pos": 2, "e2_text": "has", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recommended", "Youfit", "to", "others", "looking", "for", "a", "gym", "even", "after", "canceling", "my", "membership", "."], "e1_text": "looking", "e1_pos": 5, "e2_text": "canceling", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "have", "not", "received", "any", "such", "texts", "in", "the", "entire", "year", "since", "I", "canceled", ",", "I", "do", "n't", "know", "why", "this", "would", "happen", "now", "after", "it", "was", "''", "``", "taken", "care", "of", "''", "''", "."], "e1_text": "happen", "e1_pos": 22, "e2_text": "was", "e2_pos": 26, "label": "after"}
+]

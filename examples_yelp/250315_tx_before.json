@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "the", "house", "salad", "as", "a", "side", "-LRB-", "before", "I", "tried", "the", "fries", "-RRB-", "and", "asked", "for", "the", "buttermilk", "dressing", "on", "the", "side", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "tried", "e2_pos": 11, "label": "before"}
+]

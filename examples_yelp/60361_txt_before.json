@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "doctor", "who", "will", "so", "easily", "prescribe", "these", "kind", "of", "meds", "to", "someone", "before", "helping", "the", "patient", "find", "other", "alternatives", ",", "in", "my", "opinion", "is", "unethical", "and", "should", "not", "be", "handling", "the", "care", "of", "other", "humans", "."], "e1_text": "prescribe", "e1_pos": 6, "e2_text": "helping", "e2_pos": 14, "label": "before"},
+{"tokens": ["Luckily", ",", "I", "have", "friends", "and", "family", "who", "were", "able", "to", "get", "me", "off", "these", "meds", "before", "I", "was", "way", "in", "to", "too", "deep", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "remembered", "this", "place", "as", "pretty", "good", "last", "time", "we", "visited", ",", "so", "I", "didnt", "bother", "to", "check", "yelp", "before", "visiting", "."], "e1_text": "check", "e1_pos": 17, "e2_text": "visiting", "e2_pos": 20, "label": "before"},
+{"tokens": ["If", "Id", "read", "shawn", "j", "'s", "review", "before", "we", "were", "seated", "Id", "'ve", "gone", "elsewhere", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "were", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "were", "seated", "for", "nearly", "15", "minutes", "before", "we", "were", "offered", "drinks", ",", "yet", "the", "two", ",", "count", "'em", ",", "TWO", ",", "teenaged", "girls", "behind", "the", "counter", "did", "n't", "bother", "to", "help", "us", "even", "though", "they", "were", "doing", "absolutely", "nothing", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

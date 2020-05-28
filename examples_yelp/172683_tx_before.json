@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "were", "looking", "to", "eat", "something", "before", "we", "saw", "Ka", ",", "so", "we", "walked", "over", "to", "craftsteak", "and", "decided", "to", "try", "it", "out", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "saw", "e2_pos": 11, "label": "before"},
+{"tokens": ["Instead", "we", "were", "stuck", "paying", "for", "two", "beautiful", "cuts", "of", "meat", "that", "we", "just", "got", "the", "bare", "minimum", "of", "before", "we", "sprinted", "out", "the", "door", "."], "e1_text": "got", "e1_pos": 14, "e2_text": "sprinted", "e2_pos": 21, "label": "before"}
+]

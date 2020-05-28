@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fortunately", "a", "staff", "member", "was", "kind", "enough", "to", "allow", "us", "access", "to", "the", "service", "elevator", "after", "he", "saw", "how", "rude", "the", "guests", "were", "about", "this", "."], "e1_text": "access", "e1_pos": 10, "e2_text": "saw", "e2_pos": 17, "label": "after"},
+{"tokens": ["Several", "people", "at", "the", "convention", "developed", "food", "poisoning", "after", "consuming", "the", "calamari", "."], "e1_text": "developed", "e1_pos": 5, "e2_text": "consuming", "e2_pos": 9, "label": "after"}
+]

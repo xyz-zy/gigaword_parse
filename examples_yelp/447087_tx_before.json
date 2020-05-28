@@ -1,0 +1,3 @@
+[
+{"tokens": ["About", "the", "unorganized", "wait", "staff", ",", "our", "waitress", "asked", "another", "waitress", "to", "bring", "our", "the", "last", "plate", "to", "our", "table", "and", "we", "watched", "her", "do", "a", "lap", "around", "the", "restaurant", "before", "she", "realized", "it", "was", "for", "our", "table", "."], "e1_text": "do", "e1_pos": 24, "e2_text": "realized", "e2_pos": 32, "label": "before"}
+]

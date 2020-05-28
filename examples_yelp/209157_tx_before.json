@@ -1,0 +1,7 @@
+[
+{"tokens": ["It", "was", "probably", "another", "20-30", "minutes", "before", "she", "came", "back", "to", "take", "our", "order", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "three", "others", "with", "us", "had", "their", "dinner", "served", "to", "them", "10", "+", "minutes", "before", "the", "sandwich", "that", "Kevin", "and", "I", "were", "sharing", "came", "out", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["She", "checked", "on", "us", "about", "3", "more", "times", "before", "finally", "coming", "back", "with", "a", "refill", "of", "unsweet", "tea", "...", "Took", "awhile", "for", "her", "to", "come", "back", "for", "us", "to", "notify", "her", "about", "the", "mistake", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "coming", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "wish", "I", "was", "off", ",", "but", "it", "took", "around", "40-50", "minutes", "before", "she", "finally", "got", "the", "sweet", "tea", "refill", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["Halftime", "was", "over", "before", "we", "finally", "paid", "out", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "paid", "e2_pos": 6, "label": "before"}
+]

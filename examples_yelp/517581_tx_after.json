@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "here", "late", "at", "night", "after", "partying", "from", "a", "tip", "we", "got", "from", "our", "cabdriver", "from", "the", "night", "before", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "partying", "e2_pos": 8, "label": "after"},
+{"tokens": ["If", "you", "want", "legit", "Mexican", "food", "late", "at", "night", "after", "partying", "hard", "in", "Vegas", ",", "do", "yourself", "a", "favor", "and", "grab", "a", "cab", "and", "tell", "them", "to", "get", "you", "to", "this", "tacqueria", "."], "e1_text": "want", "e1_pos": 2, "e2_text": "partying", "e2_pos": 10, "label": "after"}
+]

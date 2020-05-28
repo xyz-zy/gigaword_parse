@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "the", "only", "bad", "thing", "if", "you", "go", "during", "a", "busy", "hour", "-LRB-", "I", "went", "right", "after", "kids", "got", "out", "of", "school", "-RRB-", "you", "will", "have", "to", "wait", "at", "least", "a", "half", "hour", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "got", "e2_pos": 19, "label": "after"}
+]

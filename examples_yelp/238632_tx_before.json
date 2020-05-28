@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "are", "no", "line", "ups", "so", "you", "have", "to", "wait", "in", "the", "casino", "area", "or", "walk", "around", "before", "the", "doors", "open", ",", "and", "when", "the", "doors", "do", "finally", "open", "everyone", "rushes", "to", "them", "in", "a", "big", "group", "."], "e1_text": "walk", "e1_pos": 15, "e2_text": "open", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "as", "everyone", "is", "standing", "there", "waiting", "to", "get", "to", "the", "floor", "and", "its", "still", "not", "over", "...", "they", "do", "n't", "even", "put", "a", "wristband", "on", "everyone", "before", "they", "let", "us", "start", "going", "down", "the", "stairs", ",", "yes", "I", "said", "STAIRS", ",", "to", "get", "to", "the", "floor", "."], "e1_text": "put", "e1_pos": 22, "e2_text": "let", "e2_pos": 29, "label": "before"}
+]

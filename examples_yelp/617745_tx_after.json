@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "neither", "our", "waiter", "nor", "his", "trainee", "came", "out", "to", "check", "on", "us", "for", "at", "least", "20", "minutes", "after", "we", "received", "our", "meal", "."], "e1_text": "check", "e1_pos": 11, "e2_text": "received", "e2_pos": 21, "label": "after"},
+{"tokens": ["This", "was", "a", "Saturday", "night", "during", "dinner", "and", "I", "understand", "that", "it", "was", "busy", ",", "and", "I", "understand", "that", "our", "waiter", "was", "probably", "busier", "than", "normal", "because", "he", "was", "training", "the", "other", "guy", "but", "there", "is", "absolutely", "no", "excuse", "for", "not", "checking", "on", "our", "table", "for", "roughly", "20", "minutes", "after", "the", "meal", "is", "brought", "out", "."], "e1_text": "checking", "e1_pos": 41, "e2_text": "is", "e2_pos": 35, "label": "after"}
+]

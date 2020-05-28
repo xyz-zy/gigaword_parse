@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "and", "I", "chose", "this", "restaurant", "largely", "because", "of", "its", "location", "at", "the", "MGM", "Grand", "and", "we", "wanted", "to", "grab", "dinner", "before", "we", "caught", "the", "Jabbawockeez", "-LRB-", "great", "show", "for", "fans", "btw", "-RRB-", "as", "well", "as", "the", "fact", "that", "it", "carries", "the", "brand", "of", "Michael", "Mina", "with", "it", "."], "e1_text": "grab", "e1_pos": 20, "e2_text": "caught", "e2_pos": 24, "label": "before"}
+]

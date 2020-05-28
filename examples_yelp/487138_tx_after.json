@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "fact", "it", "was", "so", "gelatinous", ",", "after", "a", "few", "minutes", "it", "actually", "acquired", "the", "semi-solid", "jiggle", "of", "actual", "Jello", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "acquired", "e2_pos": 13, "label": "after"},
+{"tokens": ["Then", "my", "biggest", "pet", "peeve", "-", "the", "20", "minute", "disappearing", "act", "after", "they", "cleared", "our", "plates", "and", "we", "confirmed", "we", "did", "n't", "want", "anything", "else", "."], "e1_text": "peeve", "e1_pos": 4, "e2_text": "cleared", "e2_pos": 13, "label": "after"}
+]

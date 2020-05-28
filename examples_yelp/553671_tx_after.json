@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", ",", "bullshit", "because", "the", "gentlemen", "who", "came", "in", "20", "mins", "after", "we", "ordered", "complained", "about", "their", "meals", "running", "late", ",", "and", "soon", "after", "their", "plates", "arrived", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 13, "label": "after"},
+{"tokens": ["Like", "I", "said", ",", "I", "had", "been", "looking", "forward", "to", "this", "night", "for", "the", "past", "6", "months", ",", "and", "I", "was", "extremely", "excited", "about", "trying", "this", "place", "after", "I", "had", "read", "all", "the", "reviews", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["OK", ",", "that", "is", "NOT", "an", "answer", "to", "a", "customer", ",", "when", "the", "waitress", "should", "check", "her", "area", "before", "putting", "a", "new", "guest", "in", "the", "same", "seat", "."], "e1_text": "check", "e1_pos": 15, "e2_text": "putting", "e2_pos": 19, "label": "before"}
+]

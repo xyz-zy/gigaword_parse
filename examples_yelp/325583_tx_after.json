@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "wait", "for", "half", "an", "hour", "after", "which", "we", "got", "the", "table", "and", "the", "food", "took", "another", "half", "hour", "to", "come", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "husband", "ordered", "an", "extra", "roti", "which", "came", "after", "25", "mins", "of", "us", "just", "sitting", "and", "waiting", "staring", "at", "the", "entree", "!!!", "I", "ordered", "a", "Kashmiri", "chicken", "tikka", "masala", "which", "was", "extremely", "bland", ",", "my", "suggestion", "would", "be", "check", "out", "curry", "corner", "-LRB-", "just", "a", "block", "away", "-RRB-", "for", "half", "the", "price", "and", "way", "better", "taste", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "!!!", "e2_pos": 21, "label": "after"}
+]

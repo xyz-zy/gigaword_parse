@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "just", "sucks", "to", "finally", "find", "a", "good", "doctor", "but", "then", "spend", "half", "your", "day", "waiting", "in", "the", "office", "before", "even", "getting", "into", "a", "room", "to", "just", "wait", "longer", "."], "e1_text": "waiting", "e1_pos": 15, "e2_text": "getting", "e2_pos": 21, "label": "before"}
+]

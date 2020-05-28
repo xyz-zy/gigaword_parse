@@ -1,0 +1,3 @@
+[
+{"tokens": ["Why", "????", "Also", "kept", "hearing", "the", "lady", "in", "the", "kitchen", "that", "she", "''", "``", "found", "the", "meat", "''", "''", "after", "overhearing", "the", "waiter", "tell", "the", "table", "next", "to", "us", "that", "they", "were", "out", "of", "spicy", "pork", "."], "e1_text": "kept", "e1_pos": 3, "e2_text": "overhearing", "e2_pos": 20, "label": "after"}
+]

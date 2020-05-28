@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "at", "3:30", "and", "were", "told", "that", "it", "would", "be", "about", "15", "minutes", "before", "our", "room", "was", "ready", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "was", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "'m", "pretty", "sure", "half", "of", "it", "melted", "before", "I", "got", "it", "back", "to", "the", "room", "."], "e1_text": "melted", "e1_pos": 7, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Her", "name", "was", "Jessica", ",", "as", "I", "asked", "the", "cashier", "before", "I", "left", "."], "e1_text": "asked", "e1_pos": 7, "e2_text": "left", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "asked", "if", "she", "could", "pour", "mine", "before", "moving", "on", "to", "the", "next", "one", "so", "my", "order", "could", "be", "completed", "."], "e1_text": "pour", "e1_pos": 5, "e2_text": "moving", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "responded", ",", "''", "``", "focus", "on", "finishing", "1", "task", "before", "moving", "on", "to", "another", ".", "''", "''"], "e1_text": "responded", "e1_pos": 1, "e2_text": "moving", "e2_pos": 11, "label": "before"}
+]

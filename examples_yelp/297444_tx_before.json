@@ -1,0 +1,3 @@
+[
+{"tokens": ["Granted", "a", "sharply", "dressed", "employee", "did", "enter", "the", "theater", "right", "before", "the", "movie", "started", "to", "pick", "up", "a", "microphone", "and", "introduce", "the", "show", ",", "but", "it", "'s", "not", "as", "if", "I", "did", "n't", "already", "know", "what", "movie", "I", "just", "paid", "an", "extra", "amenities", "fee", "to", "see", "."], "e1_text": "enter", "e1_pos": 6, "e2_text": "started", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Arrived", "20", "minutes", "after", "it", "opened", "on", "a", "Wednesday", "night", ",", "so", "we", "were", "the", "first", "table", "of", "the", "evening", "and", "were", "promised", "that", "we", "would", "get", "the", "host", "'s", "''", "``", "undivided", "attention", ".", "''", "''"], "e1_text": "Arrived", "e1_pos": 0, "e2_text": "opened", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "also", "took", "about", "10", "minutes", "to", "get", "the", "bill", "after", "we", "requested", "it", ",", "and", "another", "10", "for", "them", "to", "take", "it", "to", "the", "register", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "requested", "e2_pos": 12, "label": "after"}
+]

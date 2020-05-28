@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "n't", "until", "12:14", "pm", ",", "after", "personally", "trekking", "to", "the", "indoor", "coffee", "bar", "was", "I", "rewarded", "with", "a", "mug", "and", "instructions", "how", "to", "use", "the", "outdoor", "thermos", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "after"},
+{"tokens": ["It", "was", "n't", "until", "12:27", "pm", ",", "57", "minutes", "after", "arriving", ",", "42", "minutes", "after", "ordering", "that", "we", "received", "our", "food", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 10, "label": "after"}
+]

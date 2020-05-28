@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", ",", "back", "to", "yesterday", "-", "When", "I", "arrived", ",", "my", "bf", "paid", "&", "after", "looking", "at", "the", "food", "available", ",", "I", "asked", "for", "a", "special", "order", "-", "I", "had", "to", "ask", "3", "times", "before", "anyone", "paid", "attention", "."], "e1_text": "ask", "e1_pos": 31, "e2_text": "paid", "e2_pos": 36, "label": "before"},
+{"tokens": ["Besides", ",", "I", "have", "never", "been", "given", "any", "problems", "when", "I", "'ve", "asked", "for", "a", "special", "order", "before", "."], "e1_text": "given", "e1_pos": 6, "e2_text": "'ve", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "months", "ago", "I", "had", "seen", "the", "sign", "as", "I", "was", "driving", "by", "and", "after", "researching", "it", "I", "added", "it", "to", "the", "list", "of", "places", "I", "wanted", "to", "try", "for", "lunch", "."], "e1_text": "driving", "e1_pos": 12, "e2_text": "researching", "e2_pos": 16, "label": "after"},
+{"tokens": ["There", "is", "a", "large", "difference", "in", "size", "between", "the", "two", "suites", "and", "after", "a", "year", "of", "dealing", "with", "an", "economy", "that", "is", "poor", "they", "gave", "in", "and", "moved", "back", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "dealing", "e2_pos": 16, "label": "after"}
+]

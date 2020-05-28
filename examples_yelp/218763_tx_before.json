@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "wife", "to", "Flemings", "for", "Valentines", "Day", "-LRB-", "we", "celebrated", "the", "night", "before", "since", "the", "Daytona", "500", "was", "on", "Sunday", "...", "HAHAHA", "-RRB-", "and", "we", "had", "an", "amazing", "dinner", "as", "we", "always", "have", "had", "at", "Flemings", "."], "e1_text": "celebrated", "e1_pos": 11, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

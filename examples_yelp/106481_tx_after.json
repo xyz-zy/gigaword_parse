@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "there", "is", "a", "line", "that", "drips", "from", "behind", "my", "washing", "machine", "to", "an", "open", "pipe", "and", "no", "one", "has", "ever", "come", "by", "to", "fix", "it", "after", "complaining", "to", "the", "front", "office", "."], "e1_text": "fix", "e1_pos": 25, "e2_text": "complaining", "e2_pos": 28, "label": "after"},
+{"tokens": ["They", "also", "ca", "n't", "keep", "the", "walkway", "light", "by", "my", "apartment", "stairs", "lit", ",", "and", "I", "come", "home", "from", "work", "after", "it", "is", "dark", "."], "e1_text": "come", "e1_pos": 16, "e2_text": "is", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["John", "also", "took", "the", "time", "to", "show", "me", "the", "faulty", "parts", "after", "the", "repair", "was", "finished", "so", "that", "I", "could", "understand", "what", "went", "wrong", "and", "why", "the", "repairs", "were", "necessary", "."], "e1_text": "show", "e1_pos": 6, "e2_text": "was", "e2_pos": 14, "label": "after"}
+]

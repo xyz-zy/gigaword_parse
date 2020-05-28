@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "we", "did", "decide", "to", "try", "Tomo", "again", "after", "the", "other", "place", "we", "found", "really", "began", "to", "suck", "and", "we", "are", "glad", "we", "did", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "began", "e2_pos": 15, "label": "after"},
+{"tokens": ["If", "you", "have", "room", "for", "dessert", "after", "getting", "your", "sushi", "fix", "on", ",", "you", "need", "to", "try", "one", "of", "the", "tempura", "ice", "creams", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Ask", "lots", "of", "questions", "please", ",", "and", "demand", "to", "read", "their", "records", "before", "making", "a", "decision", "."], "e1_text": "read", "e1_pos": 9, "e2_text": "making", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "went", "on", "about", "how", "depressed", "kitty", "was", ",", "and", "of", "course", "this", "tugged", "on", "my", "heart", "strings", "and", "all", "I", "wanted", "to", "do", "was", "save", "little", "kitty", "and", "give", "her", "tons", "of", "love", "and", "get", "her", "out", "of", "there", "before", "she", "was", "euthanized", "."], "e1_text": "get", "e1_pos": 35, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["Well", ",", "after", "I", "signed", "the", "papers", "and", "they", "boxed", "up", "kitty", ",", "they", "opened", "her", "records", "and", "did", "a", "skim", "read", "to", "me", "before", "handing", "them", "over", "."], "e1_text": "read", "e1_pos": 21, "e2_text": "handing", "e2_pos": 25, "label": "before"}
+]

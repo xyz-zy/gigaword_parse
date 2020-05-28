@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "distaste", "for", "this", "place", "began", "a", "week", "or", "so", "before", "I", "ever", "set", "foot", "in", "the", "establishment", "."], "e1_text": "began", "e1_pos": 5, "e2_text": "set", "e2_pos": 13, "label": "before"},
+{"tokens": ["While", "free", "food", "is", "always", "appreciated", ",", "it", "'s", "best", "to", "ask", "before", "you", "put", "a", "bowl", "of", "ice", "cream", "in", "front", "of", "a", "toddler", "."], "e1_text": "ask", "e1_pos": 11, "e2_text": "put", "e2_pos": 14, "label": "before"}
+]

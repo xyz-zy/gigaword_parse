@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "persuade", "you", "to", "buy", "a", "ticket", "before", "boarding", "from", "automated", "ticket", "vendors", "at", "each", "stop", "and", "it", "seems", "prices", "are", "\\", "u00a31", ".50", "for", "a", "single", "trip", ",", "though", "not", "sure", "if", "you", "can", "pay", "once", "on-board", "without", "a", "ticket", "."], "e1_text": "buy", "e1_pos": 4, "e2_text": "boarding", "e2_pos": 8, "label": "before"}
+]

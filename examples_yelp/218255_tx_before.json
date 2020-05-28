@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mom", "and", "I", "spent", "the", "weekend", "in", "Vegas", "for", "her", "birthday", "and", "on", "our", "last", "few", "trips", ",", "we", "'ve", "been", "trying", "to", "get", "out", "and", "about", "to", "some", "of", "the", "highly-rated", "buffets", "we", "have", "n't", "visited", "before", "."], "e1_text": "get", "e1_pos": 24, "e2_text": "have", "e2_pos": 35, "label": "before"},
+{"tokens": ["I", "filled", "my", "plate", "up", "with", "Asian", "selections", "before", "I", "even", "made", "it", "to", "the", "other", "side", "of", "the", "buffet", "so", "I", "had", "to", "go", "back", "for", "a", "second", "plate", "."], "e1_text": "filled", "e1_pos": 1, "e2_text": "made", "e2_pos": 11, "label": "before"}
+]

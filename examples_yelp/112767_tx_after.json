@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "member", "of", "my", "party", "even", "walked", "out", "after", "taking", "a", "sip", "of", "his", "soup", "and", "a", "bite", "of", "his", "food", "."], "e1_text": "walked", "e1_pos": 6, "e2_text": "taking", "e2_pos": 9, "label": "after"}
+]

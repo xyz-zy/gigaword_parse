@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "cheeseburger", "arrived", "and", "it", "was", "well", "done", "-", "as", "in", "over", "cooked", "so", "much", "the", "edges", "were", "burnt", "-", "after", "I", "had", "specifically", "ordered", "it", "medium", "."], "e1_text": "done", "e1_pos": 7, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

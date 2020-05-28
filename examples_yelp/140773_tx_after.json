@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dog", "was", "born", "8\\/18\\/2005", "which", "is", "65", "days", "after", "the", "CAPS", "investigation", "and", "video", "took", "place", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "took", "e2_pos": 15, "label": "after"}
+]

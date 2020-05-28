@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "this", "recent", "trip", ",", "I", "stopped", "at", "the", "desk", "the", "morning", "after", "I", "checked", "in", "to", "make", "sure", "that", "I", "was", "in", "the", "correct", "room", "type", "because", "it", "was", "so", "much", "smaller", "than", "the", "room", "'s", "the", "previous", "years", "."], "e1_text": "stopped", "e1_pos": 6, "e2_text": "checked", "e2_pos": 14, "label": "after"}
+]

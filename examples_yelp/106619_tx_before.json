@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "takes", "him", "2", "more", "tries", ",", "100", "bobby", "pins", ",", "and", "a", "bottle", "of", "hair", "spray", "before", "it", "looks", "somewhat", "like", "the", "photo", "."], "e1_text": "takes", "e1_pos": 1, "e2_text": "looks", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "just", "hand", "my", "card", "so", "I", "can", "get", "out", "of", "there", "before", "I", "cry", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "cry", "e2_pos": 14, "label": "before"}
+]

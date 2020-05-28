@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "entree", "did", "n't", "come", "with", "rice", "and", "I", "asked", "for", "a", "side", "order", ",", "it", "did", "n't", "come", "until", "after", "I", "was", "finished", "with", "my", "dinner", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "was", "e2_pos": 22, "label": "after"},
+{"tokens": ["We", "were", "promised", "a", "front", "of", "the", "line", "stamp", "to", "get", "into", "the", "night", "club", ",", "but", "had", "to", "wait", "amost", "30", "minutes", "after", "we", "paid", "our", "bill", ",", "for", "the", "lady", "to", "come", "by", "and", "stamp", "our", "wrist", "."], "e1_text": "wait", "e1_pos": 19, "e2_text": "paid", "e2_pos": 25, "label": "after"}
+]

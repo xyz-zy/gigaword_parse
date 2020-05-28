@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "looped", "on", "that", "before", "taking", "the", "Deer", "Hollow", "Trail", "back", "to", "the", "Overlook", "Trail", "and", "then", "returning", "to", "the", "visitor", "'s", "center", "."], "e1_text": "looped", "e1_pos": 1, "e2_text": "taking", "e2_pos": 5, "label": "before"},
+{"tokens": ["We", "resumed", "the", "Wissahickon", "Trail", ",", "arced", "around", "the", "picnic", "grove", ",", "before", "taking", "the", "steps", "up", "to", "the", "road", "and", "followed", "it", "to", "the", "Bob", "Harvey", "Trail", "."], "e1_text": "resumed", "e1_pos": 1, "e2_text": "taking", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "followed", "that", "trail", "to", "the", "Bear", "Pit", ",", "then", "paused", "to", "catch", "our", "breath", "-LRB-", "pant", ",", "pant", "-RRB-", "before", "returning", "to", "the", "Visitor", "'s", "Center", "."], "e1_text": "catch", "e1_pos": 12, "e2_text": "returning", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "around", "1am", "to", "get", "a", "last", "drink", "before", "calling", "it", "a", "night", "and", "at", "1:49", "an", "owner", ",", "I", "assume", ",", "yelled", "out", "to", "everyone", "in", "the", "bar", "to", "''", "``", "Finish", "your", "drink", "and", "get", "the", "@", "#", "$", "%", "out", "!", "''", "''"], "e1_text": "get", "e1_pos": 4, "e2_text": "calling", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "girlfriend", "'s", "friend", "had", "to", "use", "the", "restroom", "before", "we", "left", "and", "as", "she", "walked", "in", "the", "''", "``", "gentleman", "''", "''", "who", "so", "nicely", "told", "everyone", "to", "leave", "informed", "her", "that", "she", "could", "not", "use", "the", "restroom", "as", "it", "was", "after", "2:00", "am", "."], "e1_text": "use", "e1_pos": 6, "e2_text": "left", "e2_pos": 11, "label": "before"}
+]

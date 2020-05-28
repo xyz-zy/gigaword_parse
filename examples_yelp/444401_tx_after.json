@@ -1,0 +1,3 @@
+[
+{"tokens": ["Anyway", ",", "he", "showed", "up", "with", "the", "bowl", "of", "beans", "when", "I", "was", "done", "with", "my", "chicken", ",", "which", "was", "also", "the", "first", "time", "he", "came", "back", "to", "the", "table", "after", "he", "left", "the", "food", "."], "e1_text": "came", "e1_pos": 25, "e2_text": "left", "e2_pos": 32, "label": "after"}
+]

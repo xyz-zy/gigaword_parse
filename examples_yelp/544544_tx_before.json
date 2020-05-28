@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "pancakes", "and", "3", "meats", "-LRB-", "bacon", ",", "ham", ",", "sausage", "-RRB-", "breakfast", "with", "a", "glass", "of", "orange", "juice", "and", "it", "was", "more", "than", "sufficient", "before", "I", "had", "to", "hop", "on", "a", "plane", "to", "Chicago", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "had", "e2_pos": 1, "label": "before"}
+]

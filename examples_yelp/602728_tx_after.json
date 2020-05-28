@@ -1,0 +1,3 @@
+[
+{"tokens": ["until", "the", "waiter", "got", "around", "to", "me", "again", ",", "however", ",", "after", "he", "leaned", "of", "the", "issue", "he", "upgraded", "me", "to", "the", "full", "plate", "of", "nachos", "to", "apologize", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "leaned", "e2_pos": 13, "label": "after"}
+]

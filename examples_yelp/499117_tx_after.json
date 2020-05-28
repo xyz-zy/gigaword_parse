@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "opted", "out", "of", "the", "tasting", "menu", "after", "the", "comment", "was", "made", "and", "ordered", "some", "delicious", "items", "like", "the", "Crab", "Lettuce", "Wraps", ",", "Pesto", "Pasta", ",", "Asparagus", "with", "egg", ",", "Flat", "Breads", "and", "other", "items", "."], "e1_text": "opted", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "service", "improved", "with", "the", "evening", "sadly", "once", "they", "realized", "we", "would", "possibly", "be", "repeat", "customers", "and", "after", "talking", "to", "the", "sommelier", "about", "the", "waiters", "personality", "."], "e1_text": "improved", "e1_pos": 2, "e2_text": "talking", "e2_pos": 18, "label": "after"}
+]

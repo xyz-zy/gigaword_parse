@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "after", "going", "out", "this", "weekend", "for", "some", "good", "old", "fashion", "late", "night", "food", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "going", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "assume", "things", "can", "get", "rowdy", "in", "a", "place", "like", "this", "considering", "that", "everyone", "there", "after", "the", "bars", "is", "pretty", "sauced", "."], "e1_text": "considering", "e1_pos": 11, "e2_text": "is", "e2_pos": 18, "label": "after"}
+]

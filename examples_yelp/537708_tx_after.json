@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "entire", "night", "you", "had", "to", "ask", "for", "refills", "as", "they", "were", "not", "automatic", "&", "after", "the", "food", "came", "out", "some", "big", "guy", "roaming", "around", "looking", "lost", "came", "to", "our", "table", "to", "ask", "if", "everything", "was", "ok", "?"], "e1_text": "were", "e1_pos": 11, "e2_text": "came", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "clueless", "guy", "did", "come", "&", "talk", "to", "my", "wife", "about", "her", "overcooked", "burnt", "chicken", "&", "after", "she", "explained", "the", "issue", ",", "he", "said", "I", "will", "take", "care", "of", "this", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "explained", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "'re", "having", "something", "with", "carrots", "make", "sure", "to", "order", "them", "without", "as", "their", "carrots", "taste", "nasty", ",", "like", "they", "soak", "them", "in", "something", "before", "serving", "."], "e1_text": "order", "e1_pos": 10, "e2_text": "serving", "e2_pos": 26, "label": "before"}
+]

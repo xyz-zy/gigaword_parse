@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "my", "ONLY", "complaint", "about", "the", "restaurant", "after", "eating", "there", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["Having", "to", "wait", "after", "making", "a", "reservation", "was", "initially", "somewhat", "off-putting", ",", "but", "this", "minor", "annoyance", "was", "forgiven", "the", "moment", "we", "tried", "the", "food", "."], "e1_text": "wait", "e1_pos": 2, "e2_text": "making", "e2_pos": 4, "label": "after"}
+]

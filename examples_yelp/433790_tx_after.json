@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "rude", "woman", "on", "the", "phone", "tonight", "who", "was", "rude", "on", "the", "phone", "and", "messed", "our", "order", "up", "after", "trying", "to", "re-explain", "what", "we", "wanted", "over", "and", "over", "caused", "us", "to", "not", "order", "from", "this", "dominoes", "again", "."], "e1_text": "messed", "e1_pos": 14, "e2_text": "trying", "e2_pos": 19, "label": "after"}
+]

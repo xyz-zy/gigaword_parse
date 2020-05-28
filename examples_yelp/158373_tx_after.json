@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "order", "came", "relatively", "quickly", "after", "I", "ordered", ",", "so", "they", "get", "points", "for", "quick", "delivery", ",", "but", "it", "also", "leads", "me", "to", "believe", "that", "the", "food", "was", "n't", "fresh\\/hot", "when", "they", "left", "the", "restaurant", "to", "bring", "it", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 7, "label": "after"}
+]

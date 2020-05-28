@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "then", "proceded", "to", "bring", "the", "same", "dish", "as", "he", "had", "brought", "out", "before", "that", "was", "an", "incorrect", "item", "and", "did", "not", "bring", "out", "items", "that", "were", "ordered", "."], "e1_text": "brought", "e1_pos": 11, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

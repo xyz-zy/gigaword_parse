@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "gym", "is", "connected", "to", "the", "pool", "with", "a", "''", "``", "refresh", "area", "''", "''", "after", "you", "swim", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "swim", "e2_pos": 17, "label": "after"}
+]

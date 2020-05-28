@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "acted", "like", "she", "was", "bothered", "serving", "us", ",", "she", "almost", "stabbed", "my", "mother", "-LRB-", "slid", "a", "sharp", "knife", "across", "the", "table", "instead", "of", "handing", "it", "-RRB-", "and", "did", "n't", "bring", "us", "silverware", "after", "we", "asked", "several", "times", "-LRB-", "not", "sure", "why", "it", "was", "n't", "already", "on", "the", "table", "-RRB-", "."], "e1_text": "silverware", "e1_pos": 33, "e2_text": "asked", "e2_pos": 36, "label": "after"}
+]

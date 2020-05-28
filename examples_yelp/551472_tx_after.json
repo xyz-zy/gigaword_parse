@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "after", "exploring", "Downtown", "Montreal", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "exploring", "e2_pos": 4, "label": "after"},
+{"tokens": ["However", ",", "it", "was", "not", "worth", "the", "buck", "because", "both", "were", "small", "in", "proportion", "and", "we", "still", "had", "to", "find", "another", "restaurant", "after", "because", "we", "were", "still", "hungry", "."], "e1_text": "find", "e1_pos": 19, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

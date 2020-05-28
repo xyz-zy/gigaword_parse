@@ -1,0 +1,3 @@
+[
+{"tokens": ["Stayed", "here", "for", "two", "nights", "-LRB-", "Fri\\/Sat", "-RRB-", "and", "it", "was", "under", "200", "dollars", ",", "even", "after", "I", "upgraded", "from", "a", "Fab", "room", "-LRB-", "I", "think", "that", "'s", "what", "its", "actually", "called", "-RRB-", "to", "a", "GO", "room", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "upgraded", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "mentioned", "this", "after", "her", "already", "having", "left", "the", "table", ",", "she", "took", "the", "plate", "back", "and", "re-plated", "with", "the", "correct", "amount", "of", "pupusas", "."], "e1_text": "mentioned", "e1_pos": 2, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["No", "wonder", "my", "husband", "and", "I", "felt", "the", "afterburn", "an", "hour", "after", "leaving", "."], "e1_text": "felt", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 12, "label": "after"}
+]

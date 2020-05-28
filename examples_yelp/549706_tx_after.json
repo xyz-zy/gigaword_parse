@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waiter", "finally", "brought", "us", "our", "check", ",", "after", "requesting", "for", "him", "to", "come", "back", "and", "he", "had", "to", "go", "find", "his", "Manager", "to", "use", "the", "Birthday", "Coupon", "we", "had", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "requesting", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "regret", "we", "did", "n't", "read", "it", "thoroughly", "before", "we", "signed", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "signed", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "partly", "our", "mistake", ",", "we", "took", "her", "word", "for", "granted", "and", "did", "n't", "read", "the", "receipt", "before", "we", "signed", "it", "."], "e1_text": "read", "e1_pos": 15, "e2_text": "signed", "e2_pos": 20, "label": "before"}
+]

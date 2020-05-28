@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "at", "the", "Palms", "Place", "with", "some", "friends", "so", "we", "would", "meet", "at", "this", "bar", "before", "going", "out", "."], "e1_text": "meet", "e1_pos": 12, "e2_text": "going", "e2_pos": 17, "label": "before"},
+{"tokens": ["First", "time", "there", "I", "stood", "at", "the", "half", "empty", "bar", "for", "way", "too", "long", "before", "being", "noticed", "by", "the", "two", "bartenders", "with", "giant", "jugs", "."], "e1_text": "stood", "e1_pos": 4, "e2_text": "being", "e2_pos": 15, "label": "before"}
+]

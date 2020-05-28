@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "drinks", "did", "not", "arrive", "until", "way", "after", "we", "were", "done", "with", "our", "soup", "and", "atleast", "they", "were", "smart", "enough", "to", "package", "them", "to-go", "instead", "of", "putting", "them", "in", "glasses", "."], "e1_text": "arrive", "e1_pos": 4, "e2_text": "were", "e2_pos": 9, "label": "after"}
+]

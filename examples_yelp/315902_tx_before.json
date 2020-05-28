@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "when", "we", "walked", "in", ",", "my", "fellow", "lunch", "buddy", ",", "Sarah", "G", "told", "the", "-LRB-", "i", "think", "-RRB-", "manager", "that", "she", "has", "been", "here", "before", ",", "food", "was", "excellent", ",", "but", "portions", "were", "way", "too", "small", "."], "e1_text": "told", "e1_pos": 14, "e2_text": "has", "e2_pos": 23, "label": "before"},
+{"tokens": ["Then", "when", "Sarah", "G", "went", "to", "the", "bathroom", ",", "I", "told", "him", "that", "I", "have", "n't", "been", "there", "before", ",", "he", "just", "responded", "to", "me", ",", "''", "``", "I", "do", "n't", "get", "your", "friend", "at", "all", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "have", "e2_pos": 14, "label": "before"}
+]

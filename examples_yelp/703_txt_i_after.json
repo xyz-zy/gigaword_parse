@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "across", "this", "place", "after", "checking", "out", "a", "Thai", "restaurant", "across", "the", "street", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "checking", "e2_pos": 5, "label": "after"},
+{"tokens": ["And", "came", "back", "several", "times", "after", "first", "discovering", "this", "hidden", "gem", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "discovering", "e2_pos": 7, "label": "after"}
+]

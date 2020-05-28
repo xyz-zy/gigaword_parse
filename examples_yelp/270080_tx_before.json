@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "here", "before", "we", "went", ",", "and", "maybe", "that", "got", "my", "expectations", "too", "high", "?"], "e1_text": "read", "e1_pos": 1, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "tried", "to", "log", "into", "the", "''", "``", "free", "''", "''", "wi-fi", "-LRB-", "part", "of", "the", "$", "25\\/night", "resort", "fee", "-RRB-", "so", "we", "could", "facetime", "our", "kids", "before", "they", "went", "to", "bed", ",", "but", "the", "wi-fi", "signal", "was", "so", "poor", "the", "whole", "time", ",", "we", "could", "n't", "use", "it", "-LRB-", "this", "was", "true", "for", "our", "other", "friends", "staying", "in", "the", "hotel", "too", "-RRB-", "."], "e1_text": "facetime", "e1_pos": 24, "e2_text": "went", "e2_pos": 29, "label": "before"}
+]

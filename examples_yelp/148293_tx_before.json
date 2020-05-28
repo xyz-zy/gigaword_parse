@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "week", "later", "I", "go", "to", "the", "school", "and", "she", "'s", "yelling", "at", "another", "child", "and", "I", "can", "hear", "her", "down", "the", "hallway", "before", "I", "get", "to", "the", "door", "."], "e1_text": "hear", "e1_pos": 18, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wait", "was", "20", "minutes", "for", "our", "simple", "order", "after", "we", "paid", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "paid", "e2_pos": 11, "label": "after"},
+{"tokens": ["But", "they", "mysteriously", "shut", "off", "after", "our", "neighboring", "table", "complained", "about", "the", "poor", "service", "."], "e1_text": "shut", "e1_pos": 3, "e2_text": "complained", "e2_pos": 9, "label": "after"}
+]

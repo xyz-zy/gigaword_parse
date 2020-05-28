@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "was", "done", "with", "my", "plate", ",", "it", "rarely", "has", "time", "to", "sit", "idle", "on", "the", "table", "for", "long", "before", "it", "is", "picked", "up", "to", "be", "washed", "."], "e1_text": "sit", "e1_pos": 13, "e2_text": "is", "e2_pos": 22, "label": "before"},
+{"tokens": ["Seafood", "Tempura", "-", "Batter", "on", "the", "thick", "side", ",", "and", "I", "really", "do", "n't", "think", "they", "dusted", "in", "tempura", "flour", "before", "dipping", "it", "in", "the", "tempura", "batter", "before", "frying", ",", "because", "it", "did", "n't", "stick", "to", "some", "of", "the", "seafood", "."], "e1_text": "dusted", "e1_pos": 16, "e2_text": "dipping", "e2_pos": 21, "label": "before"}
+]

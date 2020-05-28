@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "of", "my", "girlfriends", "and", "I", "stopped", "in", "Barrique", "'s", "before", "hitting", "the", "Farmer", "'s", "Market", "at", "the", "capitol", "building", "Saturday", "morning", "."], "e1_text": "stopped", "e1_pos": 7, "e2_text": "hitting", "e2_pos": 12, "label": "before"},
+{"tokens": ["Since", "you", "never", "know", "what", "you", "'re", "going", "to", "get", "at", "the", "Farmer", "'s", "Market", ",", "we", "decided", "Barrique", "'s", "was", "the", "best", "bet", "for", "some", "tasty", "delights", "before", "perusing", "all", "the", "produce", "at", "the", "market", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "perusing", "e2_pos": 29, "label": "before"}
+]

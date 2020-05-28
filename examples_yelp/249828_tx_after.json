@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "so", "disrespected", "after", "leaving", "Misa", "Nails", ",", "which", "led", "me", "to", "write", "this", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "after"},
+{"tokens": ["All", "this", "occurred", "after", "he", "made", "me", "bleed", "while", "filing", "my", "pinky", "."], "e1_text": "occurred", "e1_pos": 2, "e2_text": "made", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["presale", "ticket", "was", "75", "and", "they", "were", "in", "the", "club", "2", "hrs", "before", "I", "was", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["This", "was", "great", "because", "it", "was", "less", "crowded", "so", "I", "could", "get", "my", "drinks", "and", "dance", "to", "some", "hip", "hop", "before", "seeing", "Tiesto", "."], "e1_text": "dance", "e1_pos": 15, "e2_text": "seeing", "e2_pos": 21, "label": "before"}
+]

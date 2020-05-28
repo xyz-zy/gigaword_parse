@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "the", "sales", "pitch", "and", "proposal", "process", "was", "fine", ",", "it", "was", "everything", "that", "occurred", "after", "the", "initial", "appointment", ",", "that", "was", "terrible", "."], "e1_text": "occurred", "e1_pos": 14, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["While", "you", "sent", "the", "installers", "back", "out", "the", "next", "day", ",", "after", "yet", "another", "phone", "call", "to", "you", ",", "they", "corrected", "MAYBE", "50", "%", "of", "what", "they", "left", "laying", "around", "and", "successfully", "damaged", "one", "of", "the", "sheds", "enough", "to", "where", "it", "does", "n't", "close", "anymore", ",", "a", "$", "349", "unit", "."], "e1_text": "sent", "e1_pos": 2, "e2_text": "call", "e2_pos": 15, "label": "after"}
+]

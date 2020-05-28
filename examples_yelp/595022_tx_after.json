@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "wanted", "to", "charge", "me", "$", "25", "for", "wristbands", "to", "get", "into", "their", "stupid", "pool", "!!!", "Yes", "i", "drove", "all", "the", "way", "from", "LA", "to", "pay", "$", "25", "for", "your", "stupid", "pool", "after", "I", "already", "paid", "for", "the", "room", "."], "e1_text": "pay", "e1_pos": 25, "e2_text": "paid", "e2_pos": 35, "label": "after"}
+]

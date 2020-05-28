@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "some", "wondering", "around", "after", "having", "some", "gelato", "from", "Art", "of", "Flavors", "and", "noticed", "Viva", "Las", "Arepas", "right", "next", "door", "."], "e1_text": "wondering", "e1_pos": 3, "e2_text": "having", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "was", "too", "much", "avocado", "and", "mayo", "and", "not", "enough", "chicken", "for", "me", "but", "it", "was", "only", "about", "$", "5", "and", "it", "was", "enjoyable", "after", "dumping", "whatever", "sauces", "were", "inside", "of", "the", "red", "and", "yellow", "containers", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "dumping", "e2_pos": 25, "label": "after"}
+]

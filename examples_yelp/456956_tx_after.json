@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "said", "no", "workers", "were", "there", "and", "then", "after", "it", "happen", "two", "other", "employees", "walked", "in", "and", "he", "was", "trying", "to", "act", "nice", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "happen", "e2_pos": 11, "label": "after"}
+]

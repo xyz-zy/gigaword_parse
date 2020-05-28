@@ -1,0 +1,3 @@
+[
+{"tokens": ["Despite", "this", ",", "I", "love", "their", "bagels", "so", "after", "we", "choked", "down", "our", "breakfast", ",", "we", "headed", "to", "the", "deli", "counter", "to", "pick", "up", "some", "to", "take", "home", "."], "e1_text": "love", "e1_pos": 4, "e2_text": "choked", "e2_pos": 10, "label": "after"}
+]

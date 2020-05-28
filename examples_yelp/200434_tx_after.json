@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "came", "quickly", "but", "after", "that", "it", "clllllll", "sloooooowed", "dowwwwnn", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "clllllll", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "waiter", "never", "came", "back", "after", "being", "served", "to", "see", "how", "things", "were", "...", "We", "all", "were", "done", "for", "a", "bit", "before", "our", "table", "was", "cleared", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "being", "e2_pos": 6, "label": "after"}
+]

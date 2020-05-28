@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tony", ",", "the", "server", "-LRB-", "not", "be", "confused", "with", "BF", "Tony", "-RRB-", "regrettably", "told", "us", "that", "they", "were", "out", "of", "the", "special", "after", "I", "ordered", "an", "Iced", "Tea", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 24, "label": "after"}
+]

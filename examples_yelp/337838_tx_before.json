@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "about", "an", "hour", "before", "the", "posted", "closing", "time", "and", "upon", "arrival", "we", "were", "told", "they", "were", "closed", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "posted", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "walked", "around", "the", "neighborhood", "looking", "for", "somewhere", "else", "and", "on", "the", "way", "back", ",", "saw", "new", "people", "being", "served", ",", "seated", "in", "the", "window", ",", "who", "had", "n't", "been", "there", "before", "."], "e1_text": "seated", "e1_pos": 21, "e2_text": "had", "e2_pos": 27, "label": "before"}
+]

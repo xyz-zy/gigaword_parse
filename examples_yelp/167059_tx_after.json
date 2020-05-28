@@ -1,0 +1,3 @@
+[
+{"tokens": ["Before", "I", "got", "to", "Imperial", "Palace", ",", "I", "was", "expecting", "to", "wake", "up", "with", "cockroaches", "in", "my", "bed", "after", "reading", "all", "the", "negative", "reviews", "on", "Yelp", "and", "everywhere", "else", ",", "but", "honestly", "it", "really", "was", "n't", "that", "bad", "."], "e1_text": "expecting", "e1_pos": 9, "e2_text": "reading", "e2_pos": 19, "label": "after"}
+]

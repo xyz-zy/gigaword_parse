@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "taking", "some", "time", "-LRB-", "after", "we", "ordered", "shots", "-RRB-", "to", "decide", "what", "we", "wanted", "to", "drink", "and", "the", "bartender", "told", "us", "in", "the", "crappiest", "tone", "to", "hurry", "up", "that", "he", "had", "other", "people", "to", "help", "."], "e1_text": "taking", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

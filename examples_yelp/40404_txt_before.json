@@ -1,0 +1,4 @@
+[
+{"tokens": ["Be", "very", ",", "very", "careful", "and", "think", "twice", "before", "using", "this", "company", "."], "e1_text": "think", "e1_pos": 6, "e2_text": "using", "e2_pos": 9, "label": "before"},
+{"tokens": ["Informed", "my", "home", "warranty", "insurance", "company", ",", "Old", "Republic", ",", "and", "I", "hope", "that", "they", "will", "think", "twice", "before", "they", "recommend", "these", "people", "again", "."], "e1_text": "think", "e1_pos": 16, "e2_text": "recommend", "e2_pos": 20, "label": "before"}
+]

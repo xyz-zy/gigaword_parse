@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "slow", "and", "incomplete", "-LRB-", "requiring", "multiple", "requests", "before", "receiving", "things", "like", "salsa", ",", "fresh", "water", ",", "etc.", "-RRB-", "The", "one", "positive", "to", "the", "experience", "is", "their", "house-made", "tortillas", ",", "which", "are", "yummy", "and", "fresh", "."], "e1_text": "requiring", "e1_pos": 7, "e2_text": "receiving", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "for", "a", "bachelor", "trip", ",", "and", "I", "must", "say", ",", "I", "now", "feel", "like", "2x", "the", "man", "I", "was", "before", "shooting", "a", "fully", "auto", "rifle", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "shooting", "e2_pos": 21, "label": "before"},
+{"tokens": ["My", "friend", "chose", "the", "desert", "eagle", ",", "and", "the", "guy", "asks", "if", "hes", "ever", "shot", "a", "gun", "before", ",", "to", "which", "he", "replies", "''", "``", "no", ",", "''", "''", "and", "he", "asks", "''", "``", "why", "the", "hell", "would", "you", "start", "with", "this", "one", "?", "''", "''"], "e1_text": "asks", "e1_pos": 10, "e2_text": "hes", "e2_pos": 12, "label": "before"}
+]

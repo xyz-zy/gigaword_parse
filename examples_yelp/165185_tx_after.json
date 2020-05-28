@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "when", "they", "send", "me", "a", "survey", "after", "we", "stayed", ",", "we", "filled", "it", "out", "and", "within", "a", "couple", "weeks", "got", "something", "in", "the", "mail", "saying", "we", "can", "have", "a", "free", "stay", "when", "we", "come", "back", "."], "e1_text": "send", "e1_pos": 3, "e2_text": "stayed", "e2_pos": 9, "label": "after"}
+]

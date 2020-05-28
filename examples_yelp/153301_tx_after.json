@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "thought", "I", "had", "reviewed", "Ethel", "M", "last", "October", "when", "I", "ordered", "their", "chocolates", "online", "to", "be", "sent", "to", "my", "sister-in-law", "Lois", "as", "a", "thank", "you", "gift", "after", "staying", "w", "\\/", "them", "."], "e1_text": "reviewed", "e1_pos": 5, "e2_text": "staying", "e2_pos": 29, "label": "after"},
+{"tokens": ["Lois", ",", "who", "is", "extremely", "tactful", ",", "could", "n't", "hide", "her", "disappointment", "in", "them", "after", "waiting", "all", "these", "years", "for", "a", "taste", "."], "e1_text": "hide", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

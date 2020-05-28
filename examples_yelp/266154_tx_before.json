@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "back", "to", "the", "front", "desk", "and", "complained", ",", "they", "offered", "us", "one", "of", "their", "recently", "renovated", "rooms", "but", "before", "we", "agreed", "we", "asked", "to", "see", "the", "room", ",", "it", "was", "much", "better", ",", "not", "fantastic", ",", "but", "for", "the", "price", "I", "could", "n't", "complain", "about", "the", "room", "we", "ended", "up", "in", "."], "e1_text": "offered", "e1_pos": 11, "e2_text": "agreed", "e2_pos": 22, "label": "before"}
+]

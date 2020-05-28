@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "paid", "for", "our", "meal", "and", "left", "a", "very", "nice", "tip", "-LRB-", "over", "20", "%", "-RRB-", "and", "got", "up", "to", "leave", "-LRB-", "after", "our", "waiter", "took", "our", "bill", "-RRB-", "."], "e1_text": "leave", "e1_pos": 20, "e2_text": "took", "e2_pos": 25, "label": "after"},
+{"tokens": ["As", "we", "were", "walking", "out", "several", "people", "came", "running", "after", "us", "yelling", "and", "making", "a", "scene", "."], "e1_text": "running", "e1_pos": 8, "e2_text": "yelling", "e2_pos": 11, "label": "after"}
+]

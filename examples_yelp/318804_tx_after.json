@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "only", ",", "very", "minor", ",", "complaints", "were", "that", "service", "after", "we", "ordered", "was", "a", "bit", "slow", ",", "and", "my", "Volcano", "Chicken", "came", "with", "an", "overabundance", "of", "sweet", "&", "sour", "sauce", "-LRB-", "I", "dumped", "it", "into", "the", "bowl", "with", "the", "chicken", "and", "veggies", ",", "so", "a", "more", "even", "sauce\\/meat", "&", "veggie", "ratio", "would", "'ve", "been", "better", "-RRB-", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "after"}
+]

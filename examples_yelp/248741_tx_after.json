@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "even", "show", "them", "my", "legs", "after", "I", "came", "out", "and", "they", "still", "did", "not", "fix", "the", "machine", "or", "admit", "to", "it", "being", "broken", "."], "e1_text": "show", "e1_pos": 3, "e2_text": "came", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "just", "so", "happened", "to", "be", "right", "across", "the", "street", "from", "a", "Darque", "Tan", "location", "in", "Tempe", "after", "getting", "my", "nails", "done", ",", "so", "I", "decided", "to", "go", "pay", "the", "60", "$", "for", "that", "month", "and", "get", "a", "spray", "tan", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "getting", "e2_pos": 18, "label": "after"}
+]

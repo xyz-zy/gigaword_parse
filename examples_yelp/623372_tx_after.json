@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "one", "could", "top", "it", ",", "so", "we", "all", "stopped", "trying", "after", "she", "passed", "-RRB-", "."], "e1_text": "trying", "e1_pos": 10, "e2_text": "passed", "e2_pos": 13, "label": "after"},
+{"tokens": ["In", "Nu", "'s", "defense", ",", "things", "got", "a", "little", "busy", "but", "if", "we", "had", "n't", "had", "a", "lot", "of", "time", "to", "kill", "before", "a", "movie", ",", "we", "would", "'ve", "left", "after", "being", "ignored", "for", "half", "an", "hour", "."], "e1_text": "left", "e1_pos": 29, "e2_text": "being", "e2_pos": 31, "label": "after"}
+]

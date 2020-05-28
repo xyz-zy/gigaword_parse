@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "the", "end", "of", "the", "meal", ",", "we", "successfully", "accosted", "her", "to", "ask", "for", "the", "check", ",", "and", "she", "promptly", "disappeared", "again", "for", "30", "minutes", "before", "we", "complained", "to", "someone", "who", "was", "equally", "indifferent", "to", "our", "plight", "but", "at", "least", "gave", "us", "the", "bill", "so", "that", "we", "could", "leave", "."], "e1_text": "disappeared", "e1_pos": 20, "e2_text": "complained", "e2_pos": 27, "label": "before"}
+]

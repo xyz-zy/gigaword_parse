@@ -1,0 +1,4 @@
+[
+{"tokens": ["went", "here", "right", "after", "partying", "@", "Body", "English", "since", "we", "went", "bak", "to", "da", "venetian", "cuz", "dats", "wer", "we", "stayed", "."], "e1_text": "went", "e1_pos": 0, "e2_text": "partying", "e2_pos": 4, "label": "after"},
+{"tokens": ["good", "place", "to", "go", "after", "clubbing", "in", "vegas", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "clubbing", "e2_pos": 5, "label": "after"}
+]

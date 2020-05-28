@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "bit", "skeptical", "about", "riding", "a", "roller", "coaster", "in", "Vegas", "after", "long", "days", "of", "partying", "and", "site", "seeing", "but", "we", "figured", "it", "would", "be", "easier", "to", "ride", "after", "it", "just", "''", "``", "rained", "''", "''", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "rained", "e2_pos": 34, "label": "after"}
+]

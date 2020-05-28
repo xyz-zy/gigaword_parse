@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "then", "went", "out", "to", "eat", "then", "came", "home", "and", "relaxed", "only", "to", "find", "my", "pizza", "has", "arrived", "4", "hours", "from", "when", "I", "called", "and", "2", "hours", "after", "I", "canceled", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "canceled", "e2_pos": 29, "label": "after"}
+]

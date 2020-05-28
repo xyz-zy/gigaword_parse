@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "again", ",", "it", "was", "the", "little", "things", "like", "replacing", "the", "dish-washing", "soap", "for", "the", "dishwasher", "after", "I", "used", "a", "packet", "."], "e1_text": "replacing", "e1_pos": 9, "e2_text": "used", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "had", "to", "get", "my", "cards", "replaced", "more", "than", "3", "times", ",", "and", "had", "to", "have", "the", "front", "desk", "reprogram", "my", "lock", "after", "having", "problems", "with", "the", "key", "."], "e1_text": "reprogram", "e1_pos": 19, "e2_text": "having", "e2_pos": 23, "label": "after"}
+]

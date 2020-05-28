@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "down", "to", "talk", "to", "a", "manager", "after", "we", "put", "up", "a", "''", "``", "Do", "not", "disturb", "''", "''", "sign", "because", "we", "did", "n't", "want", "housekeeping", "anywhere", "near", "us", "."], "e1_text": "talk", "e1_pos": 4, "e2_text": "put", "e2_pos": 10, "label": "after"}
+]

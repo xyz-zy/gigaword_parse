@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "arrived", "a", "few", "minutes", "before", "our", "7", "PM", "reservation", "by", "a", "very", "disinterested", "host\\/manager", "who", "offered", "no", "greeting", "other", "than", "''", "``", "please", "follow", "me", "''", "''", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "offered", "e2_pos": 16, "label": "before"}
+]

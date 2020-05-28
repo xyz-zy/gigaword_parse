@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "seemed", ",", "poorly", "trained", ",", "we", "had", "a", "waiter", "try", "to", "take", "our", "drink", "orders", "after", "someone", "already", "took", "our", "drink", "orders", ",", "then", "when", "the", "drinks", "came", "out", "only", "two", "showed", "up", "and", "the", "other", "two", "people", "who", "ordered", "drinks", "waited", "tell", "their", "food", "came", "out", "to", "get", "the", "drinks", "."], "e1_text": "try", "e1_pos": 11, "e2_text": "took", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "was", "embarrassed", "after", "talking", "this", "place", "up", "to", "my", "out", "of", "towners", "."], "e1_text": "embarrassed", "e1_pos": 2, "e2_text": "talking", "e2_pos": 4, "label": "after"}
+]

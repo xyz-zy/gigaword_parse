@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "a", "red", "bean", ",", "mini", "rice", "ball", "filled", "with", "sesame", "dessert", "and", "it", "took", "at", "least", "20", "minutes", "before", "we", "got", "our", "dessert", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "got", "e2_pos": 22, "label": "before"}
+]

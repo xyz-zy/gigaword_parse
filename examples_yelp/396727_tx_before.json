@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "highly", "recommend", "seeing", "this", "show", "before", "it", "'s", "too", "late", "."], "e1_text": "seeing", "e1_pos": 3, "e2_text": "'s", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "'m", "glad", "my", "family", "got", "to", "see", "it", "before", "it", "'s", "over", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "'s", "e2_pos": 11, "label": "before"}
+]

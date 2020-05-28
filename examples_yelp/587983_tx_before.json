@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "wish", "I", "would", "have", "read", "the", "reviews", "before", "I", "went", "here", ",", "I", "would", "have", "saved", "myself", "a", "lot", "of", "money", "and", "aggravation", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "went", "in", "for", "the", "surgery", "and", "they", "took", "3", "separate", "swipes", "at", "my", "head", "before", "saying", "they", "got", "it", "all", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "saying", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "fully", "understand", "and", "appreciate", "that", "they", "do", "n't", "want", "to", "take", "more", "than", "they", "need", "but", "could", "not", "help", "noticing", "every", "patient", "took", "3", "visits", "back", "before", "they", "were", "done", ",", "there", "were", "quite", "a", "few", "people", "taking", "about", "it", "in", "the", "waiting", "room", "."], "e1_text": "took", "e1_pos": 23, "e2_text": "were", "e2_pos": 29, "label": "before"}
+]

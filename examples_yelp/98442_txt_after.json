@@ -1,0 +1,4 @@
+[
+{"tokens": ["Woman", "began", "my", "gel", "nail", "manicure", "and", "after", "one", "coat", "had", "me", "place", "my", "hands", "underneath", "the", "light", "."], "e1_text": "began", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["It", "went", "down", "like", "this", "...", "''", "``", "So", "your", "telling", "me", "that", "you", "stopped", "doing", "my", "nails", "to", "come", "back", "here", "to", "wax", "a", "customer", "who", "came", "in", "over", "30", "minutes", "after", "I", "arrived", "?"], "e1_text": "came", "e1_pos": 27, "e2_text": "arrived", "e2_pos": 34, "label": "after"}
+]

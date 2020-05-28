@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waitress", "took", "forever", "to", "get", "to", "us", "and", "even", "longer", "to", "take", "our", "order", "after", "spending", "god", "knows", "how", "long", "chasing", "our", "wine", "down", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "knows", "e2_pos": 17, "label": "after"},
+{"tokens": ["Service", "she", "tried", "to", "be", "there", "but", "they", "are", "just", "too", "busy", "and", "overwhelmed", "as", "the", "food", "took", "over", "50", "minutes", "to", "arrive", "after", "ordering", "and", "the", "place", "is", "simply", "a", "cluster", "phuck", "on", "wheels", "as", "far", "as", "food", "and", "service", "."], "e1_text": "arrive", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 24, "label": "after"}
+]

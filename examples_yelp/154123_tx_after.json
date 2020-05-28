@@ -1,0 +1,3 @@
+[
+{"tokens": ["Seasoning", "was", "okay", ",", "but", "I", "'m", "guessing", "it", "had", "been", "left", "over", "from", "lunch", "-LRB-", "or", "earlier", "-RRB-", ",", "as", "it", "came", "out", "of", "the", "kitchen", "at", "room", "temperature", "only", "3-4", "minutes", "after", "ordering", "it", "together", "with", "the", "duck", "-LRB-", "and", "before", "our", "appetizer", "-RRB-", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 34, "label": "after"}
+]

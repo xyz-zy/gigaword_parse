@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "then", "told", "we", "should", "have", "requested", "dessert", "to", "come", "out", ",", "what", "kind", "of", "restaurant", "waits", "45", "minutes", "to", "bring", "dessert", "after", "a", "meal", "is", "finished", "?"], "e1_text": "bring", "e1_pos": 21, "e2_text": "is", "e2_pos": 26, "label": "after"},
+{"tokens": ["My", "BIGGEST", "disappointment", "was", "how", "the", "catering", "manager", ",", "Michelle", ",", "handled", "everything", "after", "I", "sent", "her", "an", "email", "."], "e1_text": "handled", "e1_pos": 11, "e2_text": "sent", "e2_pos": 15, "label": "after"}
+]

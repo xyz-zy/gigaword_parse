@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "they", "had", "a", "''", "``", "half-order", "''", "''", "of", "local", "beer", "for", "$", "3.50", ",", "which", "was", "plenty", "for", "a", "quick", "lunch", "before", "walking", "around", "town", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "walking", "e2_pos": 24, "label": "before"}
+]

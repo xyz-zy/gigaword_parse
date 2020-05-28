@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "all", "that", "I", "tried", "to", "call", "in", "to", "talk", "to", "customer", "service", ",", "some", "what", "late", "at", "night", ",", "since", "I", "stopped", "by", "on", "my", "way", "home", "from", "work", "and", "after", "about", "5", "min", "of", "ringing", "the", "phone", "I", "got", "sick", "of", "waiting", "and", "hung", "up", "."], "e1_text": "call", "e1_pos": 6, "e2_text": "ringing", "e2_pos": 36, "label": "after"}
+]

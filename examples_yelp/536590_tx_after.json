@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wan", "na", "throw", "up", "after", "seeing", "that", "hair", "though", "the", "hair", "was", "n't", "on", "my", "plate", "."], "e1_text": "throw", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 6, "label": "after"},
+{"tokens": ["But", "I", "guess", "she", "was", "questioning", "in", "her", "head", "whether", "I", "was", "making", "it", "up", "after", "seeing", "her", "comping", "my", "husband", "'s", "dish", "."], "e1_text": "making", "e1_pos": 12, "e2_text": "seeing", "e2_pos": 16, "label": "after"}
+]

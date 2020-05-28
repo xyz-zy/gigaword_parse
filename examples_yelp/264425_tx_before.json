@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "total", "bill", "including", "tip", "came", "to", "$", "250", ",", "but", "we", "will", "be", "trying", "other", "steakhouses\\/restaurants", "first", "before", "coming", "back", "here", "."], "e1_text": "trying", "e1_pos": 14, "e2_text": "coming", "e2_pos": 19, "label": "before"}
+]

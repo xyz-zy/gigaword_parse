@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "were", "super", "excited", "to", "try", "this", "after", "seeing", "it", "on", "Man", "vs.", "Food", "so", "we", "made", "it", "a", "priority", "to", "eat", "lunch", "there", "."], "e1_text": "try", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "guess", "because", "it", "'s", "all", "fresh", "and", "whatnot", ",", "but", "a", "couple", "sat", "down", "next", "to", "us", "about", "15", "minutes", "after", "we", "were", "seated", ",", "got", "their", "food", "10", "minutes", "before", "ours", "even", "showed", "up", "and", "they", "were", "gone", "before", "us", "."], "e1_text": "sat", "e1_pos": 13, "e2_text": "were", "e2_pos": 23, "label": "after"}
+]

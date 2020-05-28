@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "wanted", "to", "spend", "some", "time", "by", "the", "pool", "this", "weekend", "since", "it", "was", "so", "nice", "out", ",", "and", "I", "suggested", "the", "Clarendon", "because", "I", "had", "enjoyed", "their", "pool", "before", "."], "e1_text": "suggested", "e1_pos": 23, "e2_text": "had", "e2_pos": 28, "label": "before"},
+{"tokens": ["It", "was", "well", "after", "4", "before", "we", "even", "got", "to", "the", "pool", "and", "then", "we", "had", "to", "wait", "at", "the", "front", "desk", "again", "for", "towels", "which", "was", "super", "annoying", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "before"}
+]

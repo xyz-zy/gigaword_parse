@@ -1,0 +1,3 @@
+[
+{"tokens": ["Cold", "treatment", "from", "this", "host", "from", "the", "moment", "we", "first", "ordered", "our", "beers", ",", "complete", "with", "being", "chided", "over", "my", "perfectly", "valid", "ID", ",", "to", "having", "to", "ask", "for", "a", "menu", "after", "waiting", "quite", "some", "time", "-LRB-", "instead", "of", "being", "asked", "if", "we", "wanted", "food", ",", "like", "most", "bartenders", "would", "??", "-RRB-", "so", "we", "could", "even", "get", "the", "food", "we", "came", "for", "!"], "e1_text": "ask", "e1_pos": 27, "e2_text": "waiting", "e2_pos": 32, "label": "after"}
+]

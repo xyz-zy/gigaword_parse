@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "waitress", "we", "were", "very", "disappointed", "and", "did", "not", "want", "to", "sit", "there", "another", "30", "minutes", "waiting", "for", "replacement", "burgers", "after", "both", "turned", "out", "to", "be", "undercooked", "."], "e1_text": "waiting", "e1_pos": 18, "e2_text": "turned", "e2_pos": 24, "label": "after"}
+]

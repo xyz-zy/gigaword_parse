@@ -1,0 +1,4 @@
+[
+{"tokens": ["well", "you", "know", "-RRB-", "and", "in", "turn", "I", "will", "just", "never", "return", "-LRB-", "or", "at", "least", "drink", "at", "another", "bar", "before", "coming", "here", "-RRB-", "This", "is", "really", "disappointing", "."], "e1_text": "drink", "e1_pos": 16, "e2_text": "coming", "e2_pos": 21, "label": "before"},
+{"tokens": [":-LRB-", "I", "wo", "n't", "advise", "anyone", "from", "not", "going", "here", ",", "everyone", "but", "the", "bartenders", "downstairs", "have", "been", "so", "friendly", "and", "not", "trying", "to", "rip", "you", "off", ",", "but", "if", "I", "had", "to", "give", "any", "advice", "...", "pregame", "before", "...", "it", "'s", "not", "worth", "it", "."], "e1_text": "going", "e1_pos": 8, "e2_text": "had", "e2_pos": 31, "label": "before"}
+]

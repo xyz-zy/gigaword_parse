@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "who", "would", "n't", "be", "hungry", "after", "4hrs", "of", "listening", "to", "rock", "&", "rocking", "to", "the", "sound", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "listening", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "decided", "to", "finally", "dig", "into", "my", "hamburger", "after", "trying", "the", "salty", "fries", "&", "found", "out", "that", "it", "not", "bland", ",", "but", "just", "fine", "because", "it", "was", "cooked", "the", "way", "I", "wanted", "with", "some", "flavors", ",", "but", "not", "enough", "to", "give", "it", "a", "tasty", "taste", ",", "plus", "after", "finishing", "it", "up", ",", "it", "did", "n't", "fill", "me", "up", "."], "e1_text": "dig", "e1_pos": 4, "e2_text": "trying", "e2_pos": 9, "label": "after"}
+]

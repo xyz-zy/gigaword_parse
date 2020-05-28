@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "other", "people", "at", "the", "table", "had", "to", "wait", "about", "half", "an", "hour", "before", "ANY", "of", "their", "food", "came", "out", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "came", "e2_pos": 19, "label": "before"},
+{"tokens": ["It", "'s", "not", "like", "they", "places", "six", "sizzling", "fajita", "skillets", "on", "our", "table", "at", "the", "same", "time", "and", "we", "had", "to", "rush", "before", "it", "cooled", "."], "e1_text": "rush", "e1_pos": 21, "e2_text": "cooled", "e2_pos": 24, "label": "before"}
+]

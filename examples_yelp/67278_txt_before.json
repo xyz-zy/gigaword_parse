@@ -1,0 +1,6 @@
+[
+{"tokens": ["My", "husband", "and", "I", "did", "a", "lot", "of", "research", "on", "Vegas", "wedding", "chapels", "before", "making", "our", "final", "choice", "on", "Chapel", "of", "the", "Flowers", "."], "e1_text": "did", "e1_pos": 4, "e2_text": "making", "e2_pos": 14, "label": "before"},
+{"tokens": ["Chapel", "of", "the", "Flowers", "they", "said", "that", "they", "had", "done", "handfasting", "ceremonies", "before", "and", "it", "would", "n't", "be", "a", "problem", "at", "all", "."], "e1_text": "said", "e1_pos": 5, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["She", "said", "that", "each", "minister", "will", "speak", "with", "the", "bride", "and", "groom", "before", "the", "wedding", "starts", "to", "get", "to", "know", "us", "a", "bit", "and", "then", "just", "says", "whatever", "he", "feels", "fits", "us", "."], "e1_text": "groom", "e1_pos": 11, "e2_text": "starts", "e2_pos": 15, "label": "before"},
+{"tokens": ["She", "said", "that", "they", "had", "done", "''", "``", "the", "hand", "ties", "before", "''", "''", "and", "that", "is", "why", "they", "said", "it", "would", "be", "fine", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "ties", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "server", "greeted", "us", "shortly", "after", "we", "sat", "down", "and", "took", "our", "order", "."], "e1_text": "greeted", "e1_pos": 2, "e2_text": "sat", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "entrees", ",", "which", "took", "an", "additional", "ten", "minutes", "to", "arrive", "after", "our", "server", "said", "that", "they", "would", "be", "out", "in", "just", "a", "minute", ",", "were", "okay", "."], "e1_text": "arrive", "e1_pos": 10, "e2_text": "said", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "lobster", "Gnocchi", ",", "one", "of", "the", "proclaimed", "house", "specialties", ",", "was", "so", "disappointing", ",", "that", "if", "I", "had", "seen", "my", "waiter", "in", "the", "first", "ten", "minutes", "after", "the", "food", "had", "been", "delivered", ",", "I", "would", "have", "said", "something", "."], "e1_text": "seen", "e1_pos": 19, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

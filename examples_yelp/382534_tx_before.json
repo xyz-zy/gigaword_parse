@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "time", "I", "saw", "my", "waitress", "roled", "her", "eyes", "because", "I", "changed", "my", "side", "order", "before", "she", "placed", "the", "order", "on", "the", "computer", "...", "I", "admited", "that", "it", "was", "my", "fault", "to", "change", "my", "side", "order", "but", "as", "a", "waitress", ",", "you", "should", "not", "let", "your", "customer", "see", "your", "attitute", ",", "missy", "."], "e1_text": "changed", "e1_pos": 11, "e2_text": "placed", "e2_pos": 17, "label": "before"}
+]

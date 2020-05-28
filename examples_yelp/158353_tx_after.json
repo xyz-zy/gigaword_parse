@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "are", "like", "me", "and", "forgot", "to", "bring", "your", "check", "book", "only", "to", "realize", "after", "all", "items", "have", "been", "scanned", ",", "they", "will", "look", "at", "you", "in", "a", "disappointed", "sort", "of", "way", ",", "and", "pack", "your", "groceries", "back", "up", "into", "your", "cart", "."], "e1_text": "realize", "e1_pos": 14, "e2_text": "have", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "love", "the", "selection", "and", "the", "prices", ",", "and", "I", "'m", "learning", "to", "navigate", "this", "labyrinthine", "store", "after", "recently", "moving", "into", "the", "neighborhood", "."], "e1_text": "navigate", "e1_pos": 13, "e2_text": "moving", "e2_pos": 19, "label": "after"}
+]

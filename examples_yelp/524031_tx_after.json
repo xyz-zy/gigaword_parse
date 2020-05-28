@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "here", "for", "lunch", "today", "after", "helping", "my", "GF", "with", "some", "of", "her", "moving", "and", "cleaning", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "helping", "e2_pos": 6, "label": "after"},
+{"tokens": ["In", "fact", ",", "the", "ladies", "who", "sat", "down", "behind", "us", "just", "after", "we", "got", "our", "order", "still", "had", "n't", "been", "served", "by", "the", "time", "we", "finally", "waved", "someone", "down", "to", "get", "our", "bill", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "got", "e2_pos": 13, "label": "after"}
+]

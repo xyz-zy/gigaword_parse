@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "a", "refreshing", "change", "from", "the", "heavier", "sauces", "I", "'ve", "had", "before", "The", "English", "muffin", "underneath", "was", "not", "hard", ",", "as", "it", "has", "been", "in", "many", "other", "places", "I", "have", "ordered", "the", "same", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "had", "a", "sample", "of", "my", "mom", "'s", "biscuits", ",", "and", "the", "gravy", "was", "like", "nothing", "I", "'d", "tasted", "before", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "'d", "e2_pos": 17, "label": "before"}
+]

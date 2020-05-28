@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "the", "first", ",", "second", "courses", ",", "waited", "a", "little", "more", "for", "3rd", "course", "but", "the", "final", "dinner", "came", "later", "and", "it", "seemed", "they", "kept", "forgetting", "something", "that", "they", "went", "back", "to", "the", "kitchen", "3x", "before", "serving", "it", "all", "to", "us", "."], "e1_text": "went", "e1_pos": 30, "e2_text": "serving", "e2_pos": 37, "label": "before"}
+]

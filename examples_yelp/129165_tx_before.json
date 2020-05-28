@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "on", "the", "night", "before", "clubbing", "at", "Tao", "I", "believe", "so", "we", "did", "n't", "really", "want", "a", "heavy", "dinner", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "clubbing", "e2_pos": 7, "label": "before"},
+{"tokens": ["Well", "this", "anti-splash", "guard", "absorbs", "all", "the", "droplets", "of", "urine", ",", "and", "I", "'ve", "never", "seen", "that", "before", "so", "that", "was", "cool", "-LRB-", "see", "how", "fancy", "Spago", "can", "be", "?", "-RRB-"], "e1_text": "seen", "e1_pos": 15, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

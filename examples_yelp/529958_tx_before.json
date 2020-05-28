@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "dinner", "came", "out", "20", "minutes", "before", "my", "husbands", "did", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "did", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "food", "was", "good", ",", "family", "run", "place", "...", "We", "had", "2", "hours", "before", "our", "movie", "started", "otherwise", "we", "would", "have", "been", "really", "upset", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "started", "e2_pos": 16, "label": "before"}
+]

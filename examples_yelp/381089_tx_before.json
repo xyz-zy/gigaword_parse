@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "biggest", "issue", "was", "the", "temperature", "of", "the", "eggs", "and", "sausage", "-LRB-", "held", "on", "a", "steam", "table", "before", "building", "the", "burrito", "-RRB-", "were", "lukewarm", ",", "and", "so", ",", "when", "we", "got", "our", "food", ",", "the", "whole", "burrito", "was", "lukewarm", "and", "unappetizing", "."], "e1_text": "held", "e1_pos": 12, "e2_text": "building", "e2_pos": 18, "label": "before"}
+]

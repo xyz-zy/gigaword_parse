@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "a", "small", "operation", ",", "so", "I", "'ve", "dined", "here", "before", "and", "noticed", "the", "tables", "not", "cleared", "away", "right", "after", "patrons", "leave", "."], "e1_text": "cleared", "e1_pos": 17, "e2_text": "leave", "e2_pos": 22, "label": "after"}
+]

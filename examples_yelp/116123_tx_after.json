@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "time", "I", "go", "into", "a", "Walmart", ",", "I", "spend", "the", "hour", "after", "I", "leave", "wondering", "why", "I", "went", "again", "...", "It", "could", "be", "the", "very", "decent", "prices", "or", "the", "fact", "that", "I", "had", "a", "gift", "card", "...", ",", "but", "the", "frustrations", "with", "lines", ",", "poor", "service", "and", "other", "customers", "having", "poor", "manners", "makes", "it", "not", "worth", "it", "."], "e1_text": "spend", "e1_pos": 9, "e2_text": "leave", "e2_pos": 14, "label": "after"}
+]

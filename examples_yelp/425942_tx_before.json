@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess\\/order", "taker", "asked", "if", "we", "had", "tried", "their", "meatballs", "before", ",", "we", "said", "no", "so", "she", "brought", "us", "a", "sample", "."], "e1_text": "tried", "e1_pos": 7, "e2_text": "said", "e2_pos": 13, "label": "before"}
+]

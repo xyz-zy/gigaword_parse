@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "the", "hostess", "that", "1", "-RRB-", "I", "do", "n't", "know", "how", "many", "people", "would", "be", "joining", "me", ",", "2", "-RRB-", "I", "do", "n't", "know", "how", "long", "it", "will", "be", "before", "they", "all", "arrive", "and", "3", "-RRB-", "I", "wanted", "a", "table", "by", "a", "TV", "so", "I", "could", "watch", "the", "Sugar", "Bowl", "."], "e1_text": "be", "e1_pos": 15, "e2_text": "arrive", "e2_pos": 33, "label": "before"},
+{"tokens": ["Sure", "enough", "about", "5", "minutes", "later", "she", "came", "over", "and", "grabbed", "me", ",", "told", "me", "that", "a", "4-top", "just", "left", "and", "I", "should", "sit", "there", "and", "hold", "on", "to", "that", "spot", "before", "someone", "else", "gets", "it", "."], "e1_text": "hold", "e1_pos": 26, "e2_text": "gets", "e2_pos": 34, "label": "before"}
+]

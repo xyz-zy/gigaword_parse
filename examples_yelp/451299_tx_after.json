@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "in", "as", "a", "party", "of", "4", ",", "the", "last", "person", "did", "n't", "get", "their", "meal", "until", "15", "minutes", "after", "the", "rest", "of", "us", "sat", "down", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "sat", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "ordered", "a", "polish", "dog", "-", "and", "to", "my", "horror", "after", "biting", "in", ",", "a", "huge", "piece", "of", "plastic", "!"], "e1_text": "ordered", "e1_pos": 1, "e2_text": "biting", "e2_pos": 11, "label": "after"}
+]

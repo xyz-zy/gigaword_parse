@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "5", "minutes", "before", "they", "end", "their", "appetizer", "special", "price", "and", "the", "woman", "on", "the", "phone", "argued", "with", "me", "that", "the", "special", "was", "over", ",", "the", "special", "was", "still", "available", ",", "but", "I", "guess", "she", "just", "did", "n't", "want", "to", "give", "me", "the", "discount", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "end", "e2_pos": 6, "label": "before"}
+]

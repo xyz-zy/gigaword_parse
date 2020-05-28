@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "the", "service", "was", "terrible", "-", "the", "waitress", "never", "brought", "the", "cheese", "curds", "we", "ordered", "-LRB-", "we", "'d", "ordered", "them", "right", "away", "with", "our", "drinks", "-RRB-", "and", "then", "went", "on", "break", "after", "taking", "our", "order", ",", "so", "another", "server", "brought", "our", "entrees", "."], "e1_text": "went", "e1_pos": 29, "e2_text": "taking", "e2_pos": 33, "label": "after"}
+]

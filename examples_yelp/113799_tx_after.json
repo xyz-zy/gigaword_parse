@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "brakes", "were", "grinding", "after", "purchased", "and", "not", "acting", "normal", "-LRB-", "the", "car", "stopped", "fine", "but", "it", "was", "an", "abnormal", "sound", "-RRB-", ".", "."], "e1_text": "grinding", "e1_pos": 3, "e2_text": "purchased", "e2_pos": 5, "label": "after"}
+]

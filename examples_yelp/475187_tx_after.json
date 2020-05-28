@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "a", "half", "an", "hour", "to", "order", "-LRB-", "with", "several", "large", "tables", "seated", "after", "us", "ordering", "before", "us", "-RRB-", "and", "when", "we", "ordered", ",", "they", "were", "out", "of", "almost", "half", "of", "the", "menu", "."], "e1_text": "seated", "e1_pos": 13, "e2_text": "ordering", "e2_pos": 16, "label": "after"}
+]

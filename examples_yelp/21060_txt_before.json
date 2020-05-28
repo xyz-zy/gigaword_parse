@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "came", "out", "at", "the", "same", "time", "-", "I", "definitely", "would", "have", "expected", "at", "least", "a", "few", "minutes", "for", "the", "soup", "before", "the", "steak", "came", "out", ",", "but", "that", "'s", "fine", "."], "e1_text": "expected", "e1_pos": 12, "e2_text": "came", "e2_pos": 1, "label": "before"}
+]

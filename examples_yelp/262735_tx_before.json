@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "has", "been", "numerous", "time", "my", "to", "go", "place", "for", "breakfast", "before", "heading", "back", "to", "Vegas", "but", "after", "yesterday", "experience", "it", "will", "be", "my", "last", "for", "a", "long", "time", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "heading", "e2_pos": 12, "label": "before"},
+{"tokens": ["My", "girls", "and", "I", "wanted", "to", "grab", "something", "real", "quick", "before", "heading", "back", "home", "."], "e1_text": "grab", "e1_pos": 6, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

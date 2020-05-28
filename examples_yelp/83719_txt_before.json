@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "gentleman", "excuse", "me", "this", "is", "curry", "not", "masala", "trust", "me", "I", "'ve", "ordered", "masala", "and", "Curry", "before", "from", "various", "Indian", "restaurants", "in", "various", "states", "and", "the", "gentleman", "tried", "to", "argue", "me", "that", "I", "'m", "wrong", "and", "what", "I", "had", "in", "my", "hand", "was", "masala", "not", "curry", "so", "I", "just", "walked", "out", "of", "the", "restaurant", "."], "e1_text": "ordered", "e1_pos": 15, "e2_text": "tried", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "is", "easy", "&", "convenient", "since", "they", "bring", "everything", "they", "need", ",", "including", "plates", ",", "utensils", ",", "and", "napkins", ",", "then", "clean", "everything", "up", "before", "they", "go", "."], "e1_text": "clean", "e1_pos": 22, "e2_text": "go", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "researched", "several", "companies", "before", "choosing", "Taqueria", "Guadalajara", "and", "picked", "them", "from", "all", "their", "positive", "reviews", "."], "e1_text": "researched", "e1_pos": 1, "e2_text": "choosing", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "receipt", "was", "dated", "the", "day", "after", "I", "dropped", "off", "my", "truck", "."], "e1_text": "dated", "e1_pos": 3, "e2_text": "dropped", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "insurance", "company", "went", "after", "Oasis", "for", "the", "cost", "which", "their", "insurance", "did", "finally", "pay", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "pay", "e2_pos": 14, "label": "after"}
+]

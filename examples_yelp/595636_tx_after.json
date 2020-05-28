@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "like", "being", "called", "rude", "by", "the", "manager", ",", "having", "your", "appetizers", "show", "up", "30", "mins", "after", "you", "order", "them", "and", "your", "beer", "forgotten", "...", "you", "should", "go", "here", "."], "e1_text": "show", "e1_pos": 13, "e2_text": "order", "e2_pos": 19, "label": "after"},
+{"tokens": ["However", ",", "when", "I", "asked", "where", "my", "beer", "was", "15", "mins", "after", "ordering", "it", "-LRB-", "all", "others", "had", "been", "delivered", "-RRB-", "and", "when", "we", "told", "her", "we", "wanted", "to", "wait", "to", "order", "dinner", "until", "our", "last", "party", "member", "showed", "up", ",", "apparently", "that", "was", "rude", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 12, "label": "after"}
+]

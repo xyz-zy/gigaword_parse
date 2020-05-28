@@ -1,0 +1,3 @@
+[
+{"tokens": ["Barstows", "hospital", "gets", "at", "least", "one", "FOOD", "POISONING", "a", "week", "after", "eating", "at", "the", "M.", "I", "guess", "that", "Barstow", "is", "the", "half", "way", "point", "of", "people", "coming", "from", "California", "and", "they", "get", "sick", "going", "home", "?"], "e1_text": "POISONING", "e1_pos": 7, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "stepped", "in", "to", "flag", "down", "the", "bartender", "after", "waiting", "for", "so", "long", ",", "she", "gave", "me", "a", "rude", "glance", "and", "continued", "to", "pass", "me", "and", "others", "by", "."], "e1_text": "stepped", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

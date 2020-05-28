@@ -1,0 +1,3 @@
+[
+{"tokens": ["MY", "ONLY", "complaint", "was", "that", "this", "business", "is", "SO", "busy", ",", "I", "basically", "had", "to", "beg", "the", "central", "scheduling", "office", "to", "find", "me", "an", "appointment", "quickly", "because", "their", "next", "opening", "was", "way", "later", "than", "I", "wanted", "...", "she", "was", "mildly", "helpful", "but", "eventually", "got", "me", "in", "to", "a", "farther", "location", "after", "another", "person", "canceled", "their", "appointment", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "canceled", "e2_pos": 53, "label": "after"}
+]

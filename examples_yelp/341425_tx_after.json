@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "with", "amazement", "as", "one", "tantalizing", "dish", "after", "another", "rolled", "past", "us", "on", "its", "way", "to", "another", "happy", "table", "of", "diners", "."], "e1_text": "watched", "e1_pos": 1, "e2_text": "rolled", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "decided", "after", "devouring", "it", "that", "it", "was", "the", "only", "bad", "advice", "we", "got", "!"], "e1_text": "decided", "e1_pos": 1, "e2_text": "devouring", "e2_pos": 3, "label": "after"}
+]

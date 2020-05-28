@@ -1,0 +1,6 @@
+[
+{"tokens": ["Was", "very", "disappointed", "after", "seeing", "the", "good", "reviews", "about", "this", "place", ",", "the", "costumer", "service", "was", "great", "however", "the", "quality", "of", "the", "car", "wash", "was", "not", "good", "it", "was", "okay", "."], "e1_text": "Was", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["There", "car", "wash", "does", "n't", "blow", "dry", "your", "car", "after", "the", "was", "and", "so", "it", "has", "to", "be", "hand", "dried", "by", "them", "."], "e1_text": "dry", "e1_pos": 6, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "spent", "a", "good", "15min", "drying", "my", "own", "car", "by", "hand", "after", "the", "guy", "towel", "dried", "it", "to", "get", "the", "spots", "he", "missed", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "dried", "e2_pos": 15, "label": "after"},
+{"tokens": ["Waste", "of", "tipping", "money", "especially", "when", "they", "do", "n't", "dry", "the", "wetness", "inside", "the", "car", "doors", "and", "car", "is", "still", "wet", "after", "they", "are", "done", "."], "e1_text": "is", "e1_pos": 18, "e2_text": "are", "e2_pos": 23, "label": "after"}
+]

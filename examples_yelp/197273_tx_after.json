@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ok", ",", "I", "had", "a", "taste", "for", "BBQ", ",", "I", "got", "the", "Platter", "with", "chicken", "fingers", ",", "-LRB-", "ok", "-RRB-", "pork", "ribs", "and", "pulled", "pork", ",", "sides", "were", "Potatoe", "Salad", ",", "Fried", "Orka", "and", "Cole", "Slaw", ",", "it", "was", "all", "good", ",", "but", "remember", "to", "ask", "then", "to", "hold", "the", "salt", ",", "they", "will", "sprinkle", "everything", "with", "salt", "after", "plating", "your", "ORDER", "-", "yuck", "."], "e1_text": "sprinkle", "e1_pos": 54, "e2_text": "plating", "e2_pos": 59, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "two", "waitresses", "and", "only", "two", "tables", ";", "refills", "on", "water", "were", "pretty", "quick", "up", "front", "-LRB-", "several", "times", "-RRB-", ",", "but", "we", "wound", "up", "hanging", "out", "for", "five", "or", "ten", "minutes", "after", "we", "were", "done", "eating", "before", "seeing", "our", "waitress", "again", "."], "e1_text": "eating", "e1_pos": 37, "e2_text": "seeing", "e2_pos": 39, "label": "before"}
+]

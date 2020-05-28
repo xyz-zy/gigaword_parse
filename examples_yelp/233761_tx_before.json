@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "a", "funny", "show", "and", "worth", "seeing", "if", "you", "have", "not", "see", "a", "hypnosis", "show", "before", "."], "e1_text": "seeing", "e1_pos": 7, "e2_text": "have", "e2_pos": 10, "label": "before"},
+{"tokens": ["Overall", ",", "if", "you", "have", "seen", "a", "hypnosis", "show", "before", "this", "one", "is", "exactly", "the", "same", ",", "so", "i", "'d", "see", "something", "else", ",", "unless", "you", "are", "willing", "to", "volunteer", "to", "be", "hypnotised", "."], "e1_text": "show", "e1_pos": 8, "e2_text": "is", "e2_pos": 12, "label": "before"}
+]

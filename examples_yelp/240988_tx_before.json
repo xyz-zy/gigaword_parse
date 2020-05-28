@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "Golden", "Corral", "for", "the", "first", "time", "today", "-", "my", "boyfriend", "was", "determined", "to", "have", "a", "buffet", "for", "new", "years", "eve", "before", "his", "new", "years", "resolution", "kicks", "in", "."], "e1_text": "have", "e1_pos": 15, "e2_text": "kicks", "e2_pos": 27, "label": "before"}
+]

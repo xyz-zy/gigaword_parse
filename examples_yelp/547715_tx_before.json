@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "guess", "I", "ca", "n't", "count", "that", "against", "him", ",", "I", "made", "an", "assumption", "since", "it", "'s", "2012", "and", "did", "n't", "read", "the", "sign", "before", "jumping", "in", "."], "e1_text": "read", "e1_pos": 21, "e2_text": "jumping", "e2_pos": 25, "label": "before"},
+{"tokens": ["Lesson", "'s", "learned", ":", "ask", "before", "you", "jump", "in", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "jump", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'ll", "remember", "to", "ask", "about", "credit", "first", "before", "stepping", "into", "the", "cab", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "stepping", "e2_pos": 9, "label": "before"}
+]

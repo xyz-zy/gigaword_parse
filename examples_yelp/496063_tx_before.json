@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "have", "a", "grab", "and", "go", "selection", "right", "in", "front", "where", "...", "wait", "for", "it", "...", "you", "can", "grab", "it", "and", "go", "-LRB-", "pay", "first", "before", "you", "go", "of", "course", "-RRB-", "or", "you", "can", "sit", "at", "their", "tables", "and", "order", "off", "the", "menu", "."], "e1_text": "pay", "e1_pos": 23, "e2_text": "go", "e2_pos": 27, "label": "before"}
+]

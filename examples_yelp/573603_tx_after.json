@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "the", "perks", "was", "an", "''", "``", "Ice", "room", "''", "''", "in", "the", "Men", "'s", "locker", "room", "where", "you", "can", "cool", "down", "after", "working", "out", "."], "e1_text": "cool", "e1_pos": 21, "e2_text": "working", "e2_pos": 24, "label": "after"}
+]

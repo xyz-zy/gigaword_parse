@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Dim", "Sum", "is", "better", "than", "Phoenix", "Palace", "-LRB-", "we", "had", "a", "blind", "taste", "test", "at", "home", "after", "doing", "takeout", "from", "both", "-RRB-", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "doing", "e2_pos": 18, "label": "after"}
+]

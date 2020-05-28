@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "four", "months", "to", "get", "an", "appointment", "-LRB-", "imagine", "if", "I", "was", "dying", "?!?!", "-RRB-", "and", "then", "sat", "in", "the", "room", "for", "over", "an", "hour", "before", "Dr", "Duick", "came", "in", "to", "see", "me", "."], "e1_text": "sat", "e1_pos": 18, "e2_text": "came", "e2_pos": 29, "label": "before"},
+{"tokens": ["Well", ",", "I", "was", "in", "the", "ER", "the", "night", "before", "my", "blood", "was", "drawn", ",", "puking", "my", "guts", "out", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "before"}
+]

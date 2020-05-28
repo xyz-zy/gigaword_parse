@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lots", "of", "tables", "with", "friendly", "service", "but", "it", "'s", "weird", "to", "be", "asked", "if", "I", "'ve", "had", "sushi", "before", "or", "if", "I", "know", "it", "'s", "bad", "luck", "to", "pour", "my", "own", "saki", "."], "e1_text": "asked", "e1_pos": 12, "e2_text": "'ve", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "have", "unfiltered", "saki", "in", "various", "price", "ranges", "which", "I", "really", "like", "so", "I", "ordered", "one", "unfiltered", "and", "one", "filtered", "-", "I", "got", "two", "unfiltered", "and", "I", "was", "n't", "really", "able", "to", "say", "much", "before", "the", "cap", "was", "popped", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "was", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "has", "outdoor", "seating", "-LRB-", "in", "the", "shade", "-RRB-", "where", "they", "will", "bring", "you", "your", "food", "after", "you", "order", "at", "the", "counter", "."], "e1_text": "bring", "e1_pos": 12, "e2_text": "order", "e2_pos": 18, "label": "after"}
+]

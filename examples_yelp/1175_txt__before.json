@@ -1,0 +1,4 @@
+[
+{"tokens": ["Decided", "to", "hit", "this", "place", "before", "hitting", "on", "12", "while", "the", "dealer", "shows", "a", "9", "at", "the", "Rivers", "."], "e1_text": "hit", "e1_pos": 2, "e2_text": "hitting", "e2_pos": 6, "label": "before"},
+{"tokens": ["If", "your", "looking", "for", "a", "place", "to", "try", "before", "going", "to", "the", "casino", "or", "bucco", "game", "this", "is", "a", "sure", "bet", ",", "just", "call", "ahead", "for", "reservations", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

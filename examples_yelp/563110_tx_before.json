@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "ordered", ",", "we", "had", "wanted", "to", "order", "a", "few", "rolls", "from", "the", "sushi", "menu", "in", "addition", "to", "the", "big", "plate", "items", "we", "were", "getting", ",", "but", "he", "grabbed", "the", "menus", "and", "rushed", "off", "before", "we", "got", "the", "chance", ",", "so", "we", "just", "let", "it", "go", "."], "e1_text": "order", "e1_pos": 8, "e2_text": "got", "e2_pos": 37, "label": "before"}
+]

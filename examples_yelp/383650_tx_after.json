@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "asks", "the", "party", "ahead", "of", "us", "-LRB-", "whom", "arrived", "after", "we", "did", "with", "NO", "reservation", "-RRB-", "if", "they", "want", "outdoor", "or", "indoor", "seating", ",", "and", "of", "course", "they", "say", "outdoor", "so", "she", "seats", "them", "on", "the", "patio", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "did", "e2_pos": 13, "label": "after"}
+]

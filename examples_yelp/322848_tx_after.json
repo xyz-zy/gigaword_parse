@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ate", "at", "Red", "Velvet", "Cafe", "after", "a", "long", "afternoon", "of", "swimming", "and", "roasting", "in", "the", "hot", "late-summer", "Vegas", "sun", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "swimming", "e2_pos": 11, "label": "after"}
+]

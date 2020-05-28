@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plus", "there", "were", "no", "drink", "specials", ",", "so", "we", "paid", "full", "price", "for", "some", "super", "generic", "drinks", ",", "after", "having", "the", "server", "check", "back", "on", "us", "5", "times", "in", "about", "20", "minutes", "-LRB-", "who", "can", "blame", "her", ",", "we", "were", "the", "only", "table", "in", "one", "half", "of", "the", "restaurant", "-RRB-", "we", "decided", "to", "go", "elsewhere", "to", "eat", "."], "e1_text": "paid", "e1_pos": 9, "e2_text": "having", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Keep", "in", "mind", "that", "this", "review", "was", "written", "about", "a", "recent", "visit", "to", "the", "Mez", "BAR", "that", "occurred", "during", "early", "evening", "hours", "before", "the", "place", "morphed", "into", "a", "boom", "boom", "club", "."], "e1_text": "occurred", "e1_pos": 17, "e2_text": "morphed", "e2_pos": 25, "label": "before"},
+{"tokens": ["Go", "early", ",", "enjoy", "yourself", ",", "and", "get", "out", "before", "it", "turns", "into", "night", "at", "the", "Roxbury", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "turns", "e2_pos": 11, "label": "before"}
+]

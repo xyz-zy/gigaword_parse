@@ -1,0 +1,3 @@
+[
+{"tokens": ["Slow", "to", "the", "greeting", ",", "slower", "to", "the", "order", ",", "food", "came", "before", "the", "wine", "even", "though", "we", "had", "ordered", "wine", "first", "thing", ",", "took", "20", "minutes", "-LRB-", "no", "kidding", "-RRB-", "to", "get", "the", "bill", "after", "asking", ",", "and", "then", "we", "were", "given", "the", "wrong", "one", "."], "e1_text": "get", "e1_pos": 32, "e2_text": "asking", "e2_pos": 36, "label": "after"}
+]

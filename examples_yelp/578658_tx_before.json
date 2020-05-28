@@ -1,0 +1,3 @@
+[
+{"tokens": ["Did", "I", "mentioned", "that", "they", "called", "me", "5", "minutes", "before", "their", "office", "closed", "for", "the", "night", "so", "I", "spent", "hours", "on", "hold", "with", "the", "national", "customer", "service", "line", "all", "night", "for", "absolutely", "no", "reason", "?"], "e1_text": "called", "e1_pos": 5, "e2_text": "closed", "e2_pos": 12, "label": "before"}
+]

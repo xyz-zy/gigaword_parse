@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "get", "the", "tint", "re-done", "on", "my", "Lexus", "after", "it", "had", "been", "on", "my", "existing", "car", "for", "a", "few", "years", "and", "was", "starting", "to", "come", "off", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "had", "e2_pos": 1, "label": "after"},
+{"tokens": ["On", "a", "side", "note", ",", "I", "tried", "a", "new", "store", "on", "my", "own", "research", ",", "after", "not", "going", "to", "where", "everyone", "else", "told", "me", "to", "go", ",", "I", "had", "one", "of", "the", "best", "jobs", "I", "'ve", "seen", "done", "to", "a", "car", "after", "living", "in", "Las", "Vegas", "for", "9", "years", "."], "e1_text": "tried", "e1_pos": 6, "e2_text": "going", "e2_pos": 17, "label": "after"}
+]

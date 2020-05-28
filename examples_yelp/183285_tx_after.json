@@ -1,0 +1,4 @@
+[
+{"tokens": ["Can", "this", "not", "be", "done", "after", "the", "pool", "closes", "when", "everyone", "is", "at", "dinner", "?"], "e1_text": "done", "e1_pos": 4, "e2_text": "closes", "e2_pos": 8, "label": "after"},
+{"tokens": ["Are", "you", "kidding", "me", "?!", "The", "resort", "ca", "n't", "spare", "$", ".27", "as", "a", "courtesy", "to", "this", "EXTREME", "INCONVENIENCE", "after", "a", "10-15", "minute", "round", "trip", "walk", "?"], "e1_text": "spare", "e1_pos": 9, "e2_text": "walk", "e2_pos": 25, "label": "after"}
+]

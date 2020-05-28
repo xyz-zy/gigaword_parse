@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "then", "went", "on", "to", "hand", "me", "information", "about", "Epi", "Pen", "-LRB-", "Which", "I", "told", "her", "I", "already", "had", ",", "and", "knew", "how", "to", "use", "-RRB-", ";", "Allergy", "information", "about", "soy", "and", "eggs", "-LRB-", "Which", "I", "already", "knew", "I", "was", "allergic", "to", ",", "and", "I", "had", "told", "her", "that", "before", "we", "even", "started", "the", "skin", "test", "-RRB-", "."], "e1_text": "told", "e1_pos": 46, "e2_text": "started", "e2_pos": 52, "label": "before"},
+{"tokens": ["The", "other", "reason", "why", "they", "were", "trying", "so", "hard", "to", "give", "me", "the", "allergy", "shots", ",", "-LRB-", "even", "before", "the", "doctor", "ever", "saw", "me", "-RRB-", ",", "is", "because", "the", "allergy", "shots", "is", "a", "5", "year", "commitment", "to", "give", "them", "MONEY", "!"], "e1_text": "give", "e1_pos": 10, "e2_text": "saw", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "n't", "actually", "gone", "on", "my", "Helicopter", "tour", "of", "Grand", "Canyon", "...", "the", "gripe", "I", "have", "is", "with", "all", "the", "extra", "charges", "added", "to", "the", "''", "``", "special", "''", "''", "advertised", "price", "on", "their", "website", "...", "there", "is", "addtl", "$", "45", "per", "person", "''", "``", "service", "charge", "''", "''", "after", "paying", "for", "my", "tour", "-LRB-", "$", "659.00", "-RRB-", "on", "the", "10th", "I", "recvd", "confirmation", "on", "the", "13th", "...", "now", "I", "geuss", "it", "'s", "too", "late", "for", "a", "full", "refund", "."], "e1_text": "addtl", "e1_pos": 39, "e2_text": "paying", "e2_pos": 51, "label": "after"}
+]

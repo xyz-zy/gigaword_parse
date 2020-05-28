@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "fortunate", "to", "only", "wait", "a", "few", "minutes", "before", "being", "shown", "to", "an", "exam", "room", "."], "e1_text": "wait", "e1_pos": 5, "e2_text": "being", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "waited", "a", "bit", "longer", "after", "that", "before", "we", "saw", "the", "vet", ",", "but", "once", "we", "did", ",", "we", "did", "not", "feel", "rushed", "in", "the", "least", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "saw", "e2_pos": 9, "label": "before"}
+]

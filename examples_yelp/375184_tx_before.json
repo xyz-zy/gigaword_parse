@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yes", ",", "you", "can", "do", "express", "checkout", ",", "but", "I", "'ve", "had", "bad", "experiences", "being", "charged", "for", "minibar", "stuff", "that", "I", "did", "n't", "actually", "eat\\/use", ",", "so", "I", "wanted", "to", "view", "my", "bill\\/summary", "before", "checking", "out", "."], "e1_text": "view", "e1_pos": 30, "e2_text": "checking", "e2_pos": 34, "label": "before"},
+{"tokens": ["The", "glasses", "on", "the", "table", "were", "n't", "the", "cleanest", "-LRB-", "I", "cleaned", "them", "before", "using", "them", "-RRB-", "."], "e1_text": "cleaned", "e1_pos": 11, "e2_text": "using", "e2_pos": 14, "label": "before"}
+]

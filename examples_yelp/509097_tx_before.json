@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "was", "for", "a", "bonding", "repair", "in", "August", "and", "the", "second", "was", "for", "an", "x-ray", "review", "before", "my", "teeth", "cleaning", "in", "November", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "cleaning", "e2_pos": 20, "label": "before"},
+{"tokens": ["They", "give", "you", "an", "estimated", "statement", "that", "you", "sign", "before", "completing", "any", "procedure-taking", "the", "guess", "work", "out", "completely", "."], "e1_text": "sign", "e1_pos": 8, "e2_text": "completing", "e2_pos": 10, "label": "before"}
+]

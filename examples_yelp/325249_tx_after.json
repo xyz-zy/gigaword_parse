@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "during", "lunch", "time", "as", "it", "appears", "after", "their", "breakfast", "crowd", "rush", "and", "this", "place", "was", "dirty", "."], "e1_text": "appears", "e1_pos": 8, "e2_text": "was", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "food", "was", "hot", "and", "appeared", "to", "look", "the", "part", "at", "first", ",", "but", "after", "I", "ate", "their", "my", "memory", "of", "the", "food", "was", "not", "so", "good", "."], "e1_text": "appeared", "e1_pos": 5, "e2_text": "ate", "e2_pos": 16, "label": "after"}
+]

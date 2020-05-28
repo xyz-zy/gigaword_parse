@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "decent", "speed", "Wifi", "is", "available", "after", "a", "short", "login", "screen", "for", "all", "who", "need", "it", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "need", "e2_pos": 14, "label": "after"},
+{"tokens": ["Printing", "services", "were", "a", "little", "hard", "to", "get", "the", "hang", "of", "for", "me", "but", "after", "a", "bit", "of", "fidgeting", "I", "'m", "a", "pro", "at", "it", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "'m", "e2_pos": 20, "label": "after"}
+]

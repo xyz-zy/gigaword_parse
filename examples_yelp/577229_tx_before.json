@@ -1,0 +1,4 @@
+[
+{"tokens": ["Granted", "I", "could", "have", "told", "him", "I", "needed", "another", "one", "but", "he", "seemed", "like", "he", "was", "in", "a", "rush", "to", "do", "something", "else", "and", "I", "could", "n't", "get", "the", "words", "out", "before", "he", "was", "gone", "again", "."], "e1_text": "get", "e1_pos": 27, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["But", "with", "so", "many", "other", "options", "available", "I", "do", "n't", "feel", "like", "Chop", "Chandler", "made", "a", "good", "first", "impression", "and", "it", "will", "be", "a", "long", "time", "before", "I", "give", "them", "another", "chance", "."], "e1_text": "be", "e1_pos": 22, "e2_text": "give", "e2_pos": 28, "label": "before"}
+]

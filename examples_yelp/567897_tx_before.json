@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "clean", "their", "frozen", "margarita", "machine", "with", "soap", "and", "sometimes", "they", "forget", "to", "cycle", "out", "the", "soap", "before", "they", "start", "serving", "margaritas", "in", "it", "."], "e1_text": "forget", "e1_pos": 11, "e2_text": "start", "e2_pos": 19, "label": "before"}
+]

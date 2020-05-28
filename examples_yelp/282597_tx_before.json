@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recommend", "going", "up", "there", "right", "before", "the", "fountain", "show", "starts", "so", "you", "get", "a", "completely", "different", "but", "better", "view", "than", "anyone", "else", "!"], "e1_text": "going", "e1_pos": 2, "e2_text": "starts", "e2_pos": 10, "label": "before"},
+{"tokens": ["There", "is", "no", "bathroom", "up", "there", "so", "make", "sure", "you", "do", "that", "before", "you", "go", "up", "to", "the", "tower", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

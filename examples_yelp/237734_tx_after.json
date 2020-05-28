@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "husband", "and", "I", "ate", "here", "last", "night", "for", "the", "first", "time", "after", "living", "down", "the", "street", "from", "this", "place", "for", "nearly", "three", "years", "."], "e1_text": "ate", "e1_pos": 4, "e2_text": "living", "e2_pos": 13, "label": "after"}
+]

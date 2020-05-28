@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "It", "was", "only", "after", "I", "saw", "the", "HH", "menu", "and", "well", "after", "getting", "my", "free", "tortilla", "chips", ",", "when", "Cantina", "Laredo", "made", "me", "feel", "being", "in", "a", "Mexican", "restaurant", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "saw", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "gentleman", "sitting", "next", "to", "me", "was", "going", "to", "order", "the", "crab", "cakes", "but", "changed", "his", "mind", "after", "seeing", "my", "order", "."], "e1_text": "changed", "e1_pos": 14, "e2_text": "seeing", "e2_pos": 18, "label": "after"}
+]

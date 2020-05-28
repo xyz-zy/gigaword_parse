@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "personal", "painful", "experience", "with", "this", "location", "always", "happens", "between", "745-830pm", "and", "45", "minutes", "before", "they", "close", "."], "e1_text": "happens", "e1_pos": 8, "e2_text": "close", "e2_pos": 16, "label": "before"}
+]

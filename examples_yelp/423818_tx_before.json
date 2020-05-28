@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "pointed", "him", "to", "the", "person", "that", "told", "me", "they", "had", "stock", "and", "then", "suddenly", "he", "reverted", "back", "on", "what", "he", "had", "said", "before", "and", "told", "me", "they", "had", "none", "."], "e1_text": "reverted", "e1_pos": 16, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

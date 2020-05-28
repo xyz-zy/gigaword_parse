@@ -1,0 +1,4 @@
+[
+{"tokens": ["Pet", "club", "does", "not", "check", "vaccinations", "before", "allowing", "dogs", "to", "be", "groomed", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "allowing", "e2_pos": 7, "label": "before"},
+{"tokens": ["Most", "only", "have", "a", "few", "months", "of", "training", "before", "being", "allowed", "to", "work", "on", "your", "dogs", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "being", "e2_pos": 9, "label": "before"}
+]

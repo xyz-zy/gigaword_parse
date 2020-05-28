@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "asked", "if", "I", "have", "ever", "had", "Thai", "food", "before", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "have", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "wanted", "to", "ask", "him", "if", "he", "had", "ever", "brushed", "his", "teeth", "before", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

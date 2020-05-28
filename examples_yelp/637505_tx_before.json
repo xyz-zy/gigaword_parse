@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "company", "texted", "me", "2", "hours", "before", "the", "gal", "showed", "up", "1", "month", "later", "to", "tell", "me", "she", "was", "on", "her", "way", "."], "e1_text": "texted", "e1_pos": 2, "e2_text": "showed", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "was", "told", "there", "would", "be", "a", "$", "25", "fee", "and", "I", "was", "sent", "an", "email", "a", "week", "before", "reminding", "me", "."], "e1_text": "sent", "e1_pos": 13, "e2_text": "reminding", "e2_pos": 19, "label": "before"},
+{"tokens": ["If", "they", "can", "text", "me", "2", "hours", "before", "she", "arrives", "why", "ca", "n't", "them", "text", "me", "a", "week", "before", "allowing", "me", "the", "option", "to", "reschedule", "without", "a", "fee", "."], "e1_text": "text", "e1_pos": 3, "e2_text": "arrives", "e2_pos": 9, "label": "before"}
+]

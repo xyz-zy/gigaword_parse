@@ -1,0 +1,3 @@
+[
+{"tokens": ["if", "you", "take", "in", "a", "coupon", "for", "an", "oil", "change", "and", "tire", "rotation", ",", "they", "will", "tell", "you", "its", "finished", "before", "rotating", "your", "tires", ";", "therefore", ",", "you", "have", "to", "tell", "them", "to", "jack", "it", "back", "up", "and", "honor", "their", "offer", "."], "e1_text": "tell", "e1_pos": 16, "e2_text": "rotating", "e2_pos": 21, "label": "before"}
+]

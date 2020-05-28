@@ -1,0 +1,3 @@
+[
+{"tokens": ["Okay", "I", "stopped", "by", "here", "this", "morning", "with", "well", "over", "an", "hour", "before", "my", "flight", "and", "got", "to", "the", "terminal", "just", "minutes", "after", "the", "door", "was", "already", "closed", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "was", "e2_pos": 25, "label": "after"}
+]

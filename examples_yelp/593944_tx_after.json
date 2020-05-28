@@ -1,0 +1,4 @@
+[
+{"tokens": ["honestly", "i", "had", "high", "hopes", "for", "this", "place", "after", "seeing", "all", "the", "positive", "reviews", ".", "''"], "e1_text": "had", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 9, "label": "after"},
+{"tokens": ["i", "ended", "up", "getting", "a", "flavor", "that", "after", "i", "got", "to", "try", "in", "my", "own", "device", ",", "was", "actually", "not", "bad", "."], "e1_text": "getting", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"}
+]

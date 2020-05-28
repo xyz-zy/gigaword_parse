@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dinner", "came", "out", "after", "not", "too", "long", "a", "wait", "-LRB-", "the", "restaurant", "was", "n't", "very", "full", "yet", "by", "8pm", "-RRB-", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "the", "first", "night", "of", "my", "Bachelorette", "when", "we", "decided", "to", "try", "One", "Oak", "after", "being", "solicited", "to", "come", "via", "social", "media", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "being", "e2_pos": 16, "label": "after"},
+{"tokens": ["We", "finally", "got", "in", "to", "the", "ridiculously", "crowded", "club", "after", "being", "pushed", "my", "bouncers", "on", "the", "way", "in", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "finally", "gave", "up", "after", "being", "snubbed", "by", "the", "bartender", "for", "20", "minutes", "and", "left", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "being", "e2_pos": 5, "label": "after"}
+]

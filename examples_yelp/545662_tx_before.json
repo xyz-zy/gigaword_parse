@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "salesman", "wont", "make", "any", "extra", "effort", "-", "dummy", "wasted", "time", "that", "could", "have", "been", "used", "to", "get", "us", "into", "a", "car", "before", "closing", "He", "then", "asked", "us", "to", "make", "an", "appointment", "to", "come", "back", "for", "a", "test", "drive", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "closing", "e2_pos": 23, "label": "before"}
+]

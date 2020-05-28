@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "the", "access", "to", "the", "bartender", "was", "impossible", "and", "when", "we", "finally", "ordered", "my", "boyfriend", "had", "his", "drink", "in", "a", "few", "minutes", "and", "my", "glass", "of", "champagne", "no", "where", "to", "be", "seen", "-LRB-", "we", "will", "revisit", "this", "later", "-RRB-", "We", "waited", "for", "10", "min", "before", "the", "rest", "of", "our", "party", "showed", "and", "we", "were", "seated", "."], "e1_text": "waited", "e1_pos": 40, "e2_text": "showed", "e2_pos": 50, "label": "before"}
+]

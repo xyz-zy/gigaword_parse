@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "if", "we", "could", "bring", "in", "a", "different", "caterer", "she", "said", "they", "did", "n't", "make", "exceptions", "and", "if", "they", "did", "that", "for", "me", "they", "would", "have", "to", "do", "it", "for", "other", "brides", ",", "a", "few", "weeks", "before", "my", "wedding", "I", "found", "a", "different", "wedding", "that", "was", "feautured", "on", "a", "blog", "and", "they", "used", "an", "outside", "caterer", "!"], "e1_text": "do", "e1_pos": 28, "e2_text": "found", "e2_pos": 41, "label": "before"},
+{"tokens": ["I", "spoke", "to", "several", "vendors", "some", "as", "far", "as", "Scottsdale", "and", "they", "knew", "about", "Riette", "'s", "reputation", "before", "I", "even", "said", "anything", ",", "Will", "she", "let", "you", "do", "that", "?"], "e1_text": "knew", "e1_pos": 12, "e2_text": "said", "e2_pos": 20, "label": "before"}
+]

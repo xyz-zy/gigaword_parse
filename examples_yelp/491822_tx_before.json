@@ -1,0 +1,3 @@
+[
+{"tokens": ["went", "there", ",", "did", "n't", "know", "that", "we", "'re", "supposed", "to", "pay", "first", "before", "lining", "up", ",", "waited", "about", "fifteen", "minutes", "-LRB-", "til", "we", "'re", "in-front", "of", "the", "line", "-RRB-", "until", "one", "of", "the", "staff", "asked", "us", "for", "our", "receipt", "."], "e1_text": "pay", "e1_pos": 11, "e2_text": "lining", "e2_pos": 14, "label": "before"}
+]

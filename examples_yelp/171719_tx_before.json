@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "argued", "for", "45", "minutes", "before", "they", "miraculously", "were", "able", "to", "honor", "our", "reservation", "and", "put", "us", "in", "the", "correct", "suite", "."], "e1_text": "argued", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "before"},
+{"tokens": ["This", "was", "a", "return", "trip", "because", "we", "really", "liked", "our", "previous", "stay", "but", "that", "was", "before", "it", "was", "purchased", "by", "MGM", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

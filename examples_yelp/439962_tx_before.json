@@ -1,0 +1,5 @@
+[
+{"tokens": ["After", "arriving", "at", "avenue", "nails", "my", "mom", ",", "sister", ",", "and", "I", "waited", "a", "few", "minutes", "before", "being", "seated", "-LRB-", "nothing", "abnormal", "we", "were", "very", "content", "and", "willing", "to", "wait", "-RRB-", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "being", "e2_pos": 17, "label": "before"},
+{"tokens": ["My", "sisters", "pedicure", "finished", "before", "mine", "even", "began", "."], "e1_text": "finished", "e1_pos": 3, "e2_text": "began", "e2_pos": 7, "label": "before"},
+{"tokens": ["They", "also", "finished", "a", "different", "customer", "who", "came", "in", "after", "us", "before", "beginning", "mine", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "beginning", "e2_pos": 12, "label": "before"}
+]

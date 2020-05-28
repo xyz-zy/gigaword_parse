@@ -1,0 +1,4 @@
+[
+{"tokens": ["Check", "out", "our", "terrible", "experience", ":", "We", "tried", "to", "get", "some", "dinner", "before", "going", "to", "the", "Overture", "for", "a", "show", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "going", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "got", "there", "an", "hour", "and", "a", "half", "before", "the", "doors", "opened", "for", "the", "play", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "opened", "e2_pos": 11, "label": "before"}
+]

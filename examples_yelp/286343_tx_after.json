@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "made", "it", "here", "after", "living", "in", "the", "Southside", "for", "a", "year", "!"], "e1_text": "made", "e1_pos": 2, "e2_text": "living", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "savored", "every", "last", "bite", "despite", "the", "fact", "that", "I", "was", "full", "after", "eating", "half", "of", "the", "dish", ",", "but", "I", "did", "n't", "want", "to", "waste", "a", "single", "taste", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "eating", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "probably", "should", "have", "checked", "before", "leaving", "the", "store", "-RRB-", "We", "just", "bit", "the", "bullet", "and", "ate", "it", "anyways", "because", "we", "were", "so", "sick", "of", "this", "whole", "ordeal", "."], "e1_text": "checked", "e1_pos": 4, "e2_text": "leaving", "e2_pos": 6, "label": "before"}
+]

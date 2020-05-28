@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "so", "it", "took", "10", "minutes", "to", "get", "service", "and", "that", "was", "only", "after", "I", "got", "up", "to", "find", "a", "server", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "got", "e2_pos": 15, "label": "after"},
+{"tokens": ["Our", "server", "never", "checked", "on", "us", "after", "our", "meal", "was", "presented", ",", "never", "made", "any", "suggestions", "and", "basically", "ignored", "us", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "the", "cook", "will", "do", "is", "put", "extra", "mustard", "on", "the", "top", "of", "the", "patty", "before", "flipping", "it", "so", "that", "the", "flavor", "soaks", "into", "the", "meat", "."], "e1_text": "put", "e1_pos": 6, "e2_text": "flipping", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Three", "orders", "came", "in", "after", "the", "order", "I", "placed", ",", "with", "minutes", "in", "between", ",", "and", "I", "watched", "them", "get", "called", "and", "leave", "the", "building", "well", "before", "my", "order", "was", "ready", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "placed", "e2_pos": 8, "label": "after"},
+{"tokens": ["A", "girl", "follows", "him", "into", "the", "back", "room", "after", "I", "ask", "IF", "they", "actually", "have", "them", "or", "am", "I", "standing", "just", "around", "waiting", "for", "the", "fries", "get", "cold", "."], "e1_text": "follows", "e1_pos": 2, "e2_text": "ask", "e2_pos": 10, "label": "after"}
+]

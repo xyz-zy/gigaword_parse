@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "wandered", "over", "to", "A", "Pig", "in", "a", "Fur", "Coat", "this", "past", "Monday", "evening", "after", "learning", "that", "Sardine", ",", "where", "we", "'d", "planned", "to", "dine", "that", "evening", ",", "was", "hosting", "a", "wine", "event", "and", "is", "normally", "closed", "on", "Monday", "."], "e1_text": "wandered", "e1_pos": 1, "e2_text": "learning", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "shared", "the", "Porchetta", ",", "which", "was", "quite", "mild", ",", "actually", ",", "after", "eating", "the", "beets", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "eating", "e2_pos": 13, "label": "after"}
+]

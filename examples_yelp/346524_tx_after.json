@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "might", "not", "seem", "fair", "to", "write", "a", "review", "about", "one", "bad", "dinner", "after", "having", "had", "many", "other", "positive", "visits", "to", "the", "District", "."], "e1_text": "write", "e1_pos": 6, "e2_text": "having", "e2_pos": 14, "label": "after"},
+{"tokens": ["-LRB-", "We", "did", "not", "protest", "right", "after", "we", "were", "seated", "as", "there", "was", "a", "row", "of", "glass", "doors", "and", "we", "did", "not", "know", "that", "the", "doors", "right", "beside", "us", "would", "be", "used", "as", "entrance", "ways", ".", "-RRB-"], "e1_text": "protest", "e1_pos": 4, "e2_text": "were", "e2_pos": 8, "label": "after"}
+]

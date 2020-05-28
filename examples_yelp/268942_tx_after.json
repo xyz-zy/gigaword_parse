@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "just", "realized", "that", "after", "using", "Raysco", "3", "times", ",", "I", "'ve", "never", "left", "them", "a", "review", "."], "e1_text": "realized", "e1_pos": 2, "e2_text": "using", "e2_pos": 5, "label": "after"},
+{"tokens": ["They", "might", "cost", "a", "few", "more", "dollars", "than", "renting", "a", "machine", "from", "a", "store", "but", "seriously", "after", "you", "drive", "to", "the", "store", ",", "rent", "the", "machine", ",", "buy", "all", "the", "cleaner", ",", "and", "do", "the", "hard", "work", "yourself", ",", "you", "are", "n't", "saving", "much", ",", "if", "anything", "."], "e1_text": "cost", "e1_pos": 2, "e2_text": "drive", "e2_pos": 18, "label": "after"},
+{"tokens": ["Well", ",", "I", "'ll", "save", "you", "the", "time", "and", "money", "and", "tell", "you", "that", "it", "wo", "n't", "really", "be", "$", "20", "and", "they", "will", "try", "their", "hardest", "to", "rip", "you", "off", "after", "coming", "to", "your", "home", "with", "a", "sketchy", ",", "unmarked", "van", "."], "e1_text": "rip", "e1_pos": 28, "e2_text": "coming", "e2_pos": 32, "label": "after"}
+]

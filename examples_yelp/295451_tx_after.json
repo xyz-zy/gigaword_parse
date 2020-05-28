@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "enjoyed", "the", "appetizers", ",", "then", "ordered", "salads", "and", "entrees", "but", "the", "salads", "never", "arrived", "...", "the", "next", "thing", "we", "know", "the", "side", "dishes", "were", "being", "served", "and", "we", "were", "told", "that", "our", "entrees", "were", "being", "plated", "and", "oh", "by", "the", "way", ",", "after", "we", "asked", "about", "salads", "our", "waiter", "asked", "if", "we", "still", "wanted", "them", "??", "Very", ",", "very", "disappointing", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "asked", "e2_pos": 45, "label": "after"}
+]

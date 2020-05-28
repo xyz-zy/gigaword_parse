@@ -1,0 +1,4 @@
+[
+{"tokens": ["IKEA", "is", "great", "for", "so", "many", "things", "-", "but", "you", "have", "to", "really", "prepare", "before", "you", "go", "."], "e1_text": "prepare", "e1_pos": 13, "e2_text": "go", "e2_pos": 16, "label": "before"},
+{"tokens": ["Make", "a", "shopping", "list", "and", "print", "it", "out", "before", "you", "go", "."], "e1_text": "print", "e1_pos": 5, "e2_text": "go", "e2_pos": 10, "label": "before"}
+]

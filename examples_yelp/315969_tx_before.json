@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "time", "I", "ordered", "the", "mushroom", "taco", ",", "and", "the", "server", "did", "n't", "linger", "after", "dropping", "off", "our", "order", "was", "gone", "before", "I", "noticed", "the", "error", "."], "e1_text": "gone", "e1_pos": 20, "e2_text": "noticed", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "still", "enjoyed", "aspects", "of", "the", "place", "as", "much", "as", "I", "had", "before", ",", "but", "the", "negatives", "have", "outweighed", "the", "positives", "and", "I", "'d", "rather", "go", "elsewhere", "."], "e1_text": "enjoyed", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

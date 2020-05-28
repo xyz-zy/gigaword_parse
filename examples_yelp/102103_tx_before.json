@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "a", "good", "10", "minutes", "before", "our", "server", "came", "out", "to", "take", "our", "beverage", "order", "and", "the", "only", "reason", "I", "stayed", "that", "long", "was", "because", "my", "escort", "excused", "himself", "to", "take", "a", "phone", "call", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["Another", "10", "minutes", "goes", "by", "before", "she", "drops", "off", "our", "iced", "tea", "and", "orange", "juice", ",", "which", "are", "served", "in", "those", "wine-looking", "water", "glasses", "with", "the", "stems", ",", "and", "they", "'re", "both", "sucked", "down", "pretty", "fast", "."], "e1_text": "goes", "e1_pos": 3, "e2_text": "drops", "e2_pos": 7, "label": "before"},
+{"tokens": ["Several", "minutes", "pass", "before", "she", "drops", "off", "a", "carafe", "of", "iced", "tea", "and", "some", "waters", "."], "e1_text": "pass", "e1_pos": 2, "e2_text": "drops", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["D", "-RRB-", "I", "requested", "a", "refill", "on", "my", "water", "three", "times", "before", "we", "finally", "just", "signed", "the", "check", "and", "I", "picked", "up", "a", "bottle", "of", "water", "next", "door", "."], "e1_text": "requested", "e1_pos": 3, "e2_text": "signed", "e2_pos": 15, "label": "before"}
+]

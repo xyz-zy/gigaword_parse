@@ -1,0 +1,3 @@
+[
+{"tokens": ["SimonMed", ",", "If", "u", "r", "running", "3", "hours", "behind", "schedule", "ca", "n't", "u", "call", "up", "the", "patients", "and", "inform", "them", "about", "it", "before", "they", "arrive", "there", "so", "they", "have", "the", "option", "to", "reschedule", "or", "come", "prepared", "for", "the", "delay", "?????"], "e1_text": "inform", "e1_pos": 18, "e2_text": "arrive", "e2_pos": 24, "label": "before"}
+]

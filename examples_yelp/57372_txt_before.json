@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "about", "this", "place", "before", "I", "blindly", "gave", "them", "a", "chance", "!"], "e1_text": "read", "e1_pos": 4, "e2_text": "gave", "e2_pos": 11, "label": "before"},
+{"tokens": ["That", "really", "grossed", "me", "out", "considering", "whenever", "I", "cook", ",", "I", "pull", "those", "out", "well", "before", "I", "serve", "my", "food", "!"], "e1_text": "pull", "e1_pos": 11, "e2_text": "serve", "e2_pos": 17, "label": "before"}
+]

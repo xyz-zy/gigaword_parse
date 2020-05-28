@@ -1,0 +1,7 @@
+[
+{"tokens": ["I", "really", "wanted", "to", "like", "Gallagher", "'s", "after", "reading", "all", "the", "great", "reviews", "."], "e1_text": "wanted", "e1_pos": 2, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["-", "It", "took", "about", "30", "minutes", "after", "we", "sat", "down", "to", "get", "bread", ",", "and", "we", "received", "our", "entrees", "ONE", "HOUR", "after", "ordering", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "sat", "e2_pos": 8, "label": "after"},
+{"tokens": ["-", "My", "husband", "found", "several", "hairs", "in", "his", "food", "about", "10", "minutes", "after", "we", "were", "served", "."], "e1_text": "found", "e1_pos": 3, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["-", "The", "manager", "came", "by", "after", "our", "server", "told", "him", "about", "the", "hairs", "on", "my", "husband", "'s", "plate", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "told", "e2_pos": 8, "label": "after"},
+{"tokens": ["-", "Neither", "our", "server", "or", "the", "manager", "offered", "to", "get", "another", "meal", "for", "my", "husband", "-LRB-", "again", ",", "after", "waiting", "an", "hour", "to", "get", "our", "food", ",", "so", "we", "were", "all", "hungry", "!", "-RRB-", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

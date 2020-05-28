@@ -1,0 +1,3 @@
+[
+{"tokens": ["Limited", "hours", "of", "operation", "and", "no", "sitting", "or", "delivery", "are", "drawbacks", ",", "but", "it", "'s", "a", "great", "location", "so", "it", "'s", "pretty", "easy", "to", "stop", "by", "and", "pick", "up", "your", "pizza", ",", "and", "they", "are", "ready", "quite", "quickly", "after", "ordering", "."], "e1_text": "are", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 39, "label": "after"}
+]

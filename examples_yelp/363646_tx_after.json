@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "more", "uneaten", "meat", "on", "my", "plate", "than", "i", "had", "consumed", ",", "so", "after", "about", "20", "minutes", "I", "cut", "off", "the", "meat", "flow", "and", "went", "back", "for", "seconds", "at", "the", "salad", "garden", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "cut", "e2_pos": 19, "label": "after"}
+]

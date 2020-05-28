@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "before", "coming", "here", "...", "I", "thought", "this", "place", "would", "be", "a", "great", "new", "park", "to", "take", "my", "dog", "to", "since", "we", "just", "moved", "to", "the", "area", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "coming", "e2_pos": 5, "label": "before"}
+]

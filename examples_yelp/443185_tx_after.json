@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "what", "they", "do", "n't", "know", ",", "is", "that", "I", "know", "how", "that", "car", "ran", ",", "like", "a", "champ", "...", "Now", "it", "wo", "n't", "even", "hold", "an", "idle", "even", "after", "it", "is", "warmed", "up", "."], "e1_text": "hold", "e1_pos": 25, "e2_text": "is", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "have", "had", "bad", "mechanics", "before", ",", "but", "they", "way", "Michael", ",", "the", "manager", "himself", ",", "spoke", "to", "me", ",", "calling", "me", "names", "after", "making", "not", "a", "few", "hundred", ",", "but", "a", "few", "thousand", "off", "of", "me", "is", "just", "disheartening", "."], "e1_text": "calling", "e1_pos": 20, "e2_text": "making", "e2_pos": 24, "label": "after"}
+]

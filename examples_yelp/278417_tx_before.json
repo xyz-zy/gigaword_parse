@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stood", "around", "for", "about", "25-30", "minutes", "before", "getting", "a", "table", ",", "and", "some", "larger", "groups", "waited", "even", "longer", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "getting", "e2_pos": 8, "label": "before"},
+{"tokens": ["But", "I", "enjoyed", "my", "sliders", "at", "FIX", "a", "lot", "more", ",", "and", "I", "loooove", "the", "burgers", "at", "The", "Burger", "Bar", "-LRB-", "from", "previous", "visits", "to", "Las", "Vegas", "-RRB-", ",", "so", "there", "are", "definitely", "other", "places", "I", "'d", "hit", "up", "for", "a", "burger", "before", "coming", "to", "Le", "Burger", "Brasserie", "again", "."], "e1_text": "hit", "e1_pos": 37, "e2_text": "coming", "e2_pos": 43, "label": "before"}
+]

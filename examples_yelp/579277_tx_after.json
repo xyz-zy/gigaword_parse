@@ -1,0 +1,3 @@
+[
+{"tokens": ["Immediate", "tummy", "ache", "!!!", "I", "should", "'ve", "stayed", "away", "after", "reading", "the", "reviews", "but", "it", "was", "close", "and", "it", "was", "late", "at", "night", "so", "I", "gave", "in", "."], "e1_text": "stayed", "e1_pos": 7, "e2_text": "reading", "e2_pos": 10, "label": "after"}
+]

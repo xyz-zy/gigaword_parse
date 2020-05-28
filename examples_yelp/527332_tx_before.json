@@ -1,0 +1,3 @@
+[
+{"tokens": ["if", "i", "can", "remember", "correctly", ",", "it", "comes", "with", "half", "of", "an", "egg", "-LRB-", "yummy", "-RRB-", ",", "chopped", "green", "onions", ",", "breaded", "and", "fried", "pieces", "of", "onion", "-LRB-", "TIP", ":", "eat", "this", "before", "you", "stir", "your", "ramen", "around", "or", "it", "will", "be", "soggy", "and", "gross", "-RRB-", ",", "fatty", "pieces", "of", "pork", ",", "and", "bean", "sprouts", "."], "e1_text": "eat", "e1_pos": 30, "e2_text": "stir", "e2_pos": 34, "label": "before"}
+]

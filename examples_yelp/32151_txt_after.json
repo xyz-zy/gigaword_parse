@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "day", "we", "ordered", "a", "sausage", "Rosatis", "pizza", "and", "when", "it", "came", "it", "was", "pepperoni", "but", "we", "did", "n't", "notice", "until", "after", "the", "delivery", "person", "had", "left", "because", "we", "were", "with", "customers", "."], "e1_text": "notice", "e1_pos": 19, "e2_text": "had", "e2_pos": 25, "label": "after"}
+]

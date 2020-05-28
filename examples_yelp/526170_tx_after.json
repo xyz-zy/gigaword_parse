@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "little", "disappointed", "in", "how", "clean", "my", "carpets", "were", "after", "using", "Barefoot", "Organic", "."], "e1_text": "were", "e1_pos": 10, "e2_text": "using", "e2_pos": 12, "label": "after"},
+{"tokens": ["However", ",", "when", "I", "have", "used", "other", "services", "in", "the", "past", "I", "have", "seen", "a", "marked", "improvement", "but", "after", "using", "Barefoot", "they", "pretty", "much", "looked", "the", "same", "."], "e1_text": "seen", "e1_pos": 13, "e2_text": "using", "e2_pos": 19, "label": "after"}
+]

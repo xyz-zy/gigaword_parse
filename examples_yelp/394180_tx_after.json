@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "yelp", "deal", "I", "bought", "it", "and", "everything", "went", "fine", "after", "I", "paid", "for", "it", "it", "says", "it", "can", "not", "be", "combined", "with", "insurance", "screw", "tham", "I", "wanted", "to", "use", "it", "for", "my", "copay", ",", "so", "then", "I", "went", "there", "to", "try", "to", "use", "it", "to", "buy", "glasses", "they", "are", "so", "expensive", "cheap", "ass", "frames", "with", "the", "lens", "are", "about", "200", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "paid", "e2_pos": 12, "label": "after"}
+]

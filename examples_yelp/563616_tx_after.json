@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "purchased", "a", "groupon", "because", "I", "wanted", "to", "treat", "myself", "to", "a", "spa", "treatment", "after", "battling", "two", "different", "cancer", "treatments", "."], "e1_text": "treat", "e1_pos": 8, "e2_text": "battling", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "was", "frustrated", "when", "after", "I", "purchased", "the", "groupon", "I", "had", "to", "wait", "over", "a", "month", "to", "schedule", "an", "appointment", "."], "e1_text": "frustrated", "e1_pos": 2, "e2_text": "purchased", "e2_pos": 6, "label": "after"}
+]

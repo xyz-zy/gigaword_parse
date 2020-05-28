@@ -1,0 +1,4 @@
+[
+{"tokens": ["Visited", "this", "place", "with", "a", "friend", "after", "we", "'ve", "been", "curious", "of", "it", "after", "a", "long", "time", "."], "e1_text": "Visited", "e1_pos": 0, "e2_text": "'ve", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "chorizo", "was", "the", "soft", "type", "that", "just", "turned", "into", "liquid", "after", "it", "was", "cooked", "so", "there", "was", "only", "a", "few", "chunks", "left", "."], "e1_text": "turned", "e1_pos": 8, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

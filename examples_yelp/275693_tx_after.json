@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "was", "standing", "at", "the", "back", "of", "the", "restaurant", "telling", "people", "the", "section", "was", "closed", "only", "after", "they", "were", "seated", "."], "e1_text": "closed", "e1_pos": 15, "e2_text": "were", "e2_pos": 19, "label": "after"}
+]

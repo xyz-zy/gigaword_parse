@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "later", "realized", "that", "they", "probably", "did", "n't", "recognize", "that", "I", "had", "just", "checked", "in", ",", "not", "coming", "back", "to", "my", "room", "after", "being", "out", "all", "day", ",", "and", "I", "did", "n't", "specifically", "ask", "to", "change", "rooms", ",", "so", "that", "'s", "probably", "at", "least", "partially", "my", "fault", "."], "e1_text": "coming", "e1_pos": 17, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

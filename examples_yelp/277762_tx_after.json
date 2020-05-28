@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "there", "after", "they", "had", "been", "gone", "through", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["In", "my", "opinion", ",", "the", "red", "velvet", "and", "chocolate", "were", "a", "bit", "dry", "...", "but", "let", "me", "preface", "by", "saying", "I", "got", "there", "hours", "after", "the", "box", "came", "into", "the", "house", ",", "and", "that", "I", "am", "not", "a", "frosting", "person", ",", "so", "I", "tasted", "the", "cake", "without", "the", "frosting", "first", "on", "both", "of", "those", "."], "e1_text": "got", "e1_pos": 21, "e2_text": "came", "e2_pos": 27, "label": "after"}
+]

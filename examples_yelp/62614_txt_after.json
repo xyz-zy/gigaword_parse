@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "didnt", "greet", "us", "when", "we", "walked", "it", "then", "after", "waiting", "10", "minutes", "after", "we", "sat", "down", ",", "she", "came", "up", "to", "us", "and", "asked", "us", "if", "we", "were", "ready", "to", "order", "...", "SERIOUSLY", "?!", "We", "didnt", "even", "have", "a", "menu", "yet", "."], "e1_text": "walked", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

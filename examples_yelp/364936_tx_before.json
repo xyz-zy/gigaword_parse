@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "sure", "what", "my", "experience", "would", "have", "been", "had", "I", "stayed", ",", "but", "what", "I", "took", "with", "me", "was", "very", "disappointing", "-LRB-", "and", "I", "only", "traveled", "about", "two", "blocks", "by", "car", "before", "I", "opened", "the", "bag", "-RRB-", "."], "e1_text": "traveled", "e1_pos": 27, "e2_text": "opened", "e2_pos": 35, "label": "before"}
+]

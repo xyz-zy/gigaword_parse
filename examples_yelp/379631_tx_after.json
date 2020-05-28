@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "meaning", "to", "update", "my", "review", "after", "I", "got", "a", "second", "opinion", "somewhere", "else", "so", "here", "it", "is", "."], "e1_text": "update", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "hygienist", "and", "doctor", "here", "were", "really", "nice", "but", "I", "would", "not", "recommend", "them", ",", "specially", "after", "they", "made", "me", "totally", "freak", "out", "over", "nothing", "."], "e1_text": "recommend", "e1_pos": 12, "e2_text": "made", "e2_pos": 18, "label": "after"}
+]

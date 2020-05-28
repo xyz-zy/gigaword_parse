@@ -1,0 +1,4 @@
+[
+{"tokens": ["DO", "NOT", "TAKE", "young", "puppies", "to", "this", "park", "...", "we", "lost", "two", "young", "dogs", "to", "PARVO", "which", "they", "contracted", "from", "this", "park", "...", "do", "n't", "think", "vaccines", "help", "either", "...", "wait", "til", "your", "dog", "is", "at", "least", "1", "year", "old", "before", "introducing", "them", "to", "a", "dog", "park", "."], "e1_text": "is", "e1_pos": 34, "e2_text": "introducing", "e2_pos": 41, "label": "before"},
+{"tokens": ["Might", "want", "to", "give", "your", "dog", "a", "bath", "with", "flea", "and", "tick", "shampoo", "before", "you", "leave", "the", "park", "if", "you", "do", "n't", "want", "to", "bring", "those", "critters", "home", "with", "you", "."], "e1_text": "tick", "e1_pos": 11, "e2_text": "leave", "e2_pos": 15, "label": "before"}
+]

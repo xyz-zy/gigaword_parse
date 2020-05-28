@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "saw", "the", "''", "``", "Buffet", "of", "Buffets", "''", "''", "listing", "on", "Yelp", "for", "iPhone", "while", "looking", "for", "a", "place", "to", "have", "breakfast", "after", "waking", "up", "around", "3pm", "."], "e1_text": "have", "e1_pos": 21, "e2_text": "waking", "e2_pos": 24, "label": "after"},
+{"tokens": ["\\*", "Sushi\\/seafood", "I", "did", "n't", "dare", "touch", "after", "finding", "how", "poor", "a", "state", "the", "hot", "dishes", "were", "in", "."], "e1_text": "dare", "e1_pos": 5, "e2_text": "finding", "e2_pos": 8, "label": "after"}
+]

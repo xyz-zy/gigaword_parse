@@ -1,0 +1,3 @@
+[
+{"tokens": ["Each", "time", "your", "staff", "would", "test", "him", "for", "something", "new", ";", "such", "as", "Valley", "Fever", "or", "Kennel", "Cough", "and", "each", "time", ",", "after", "paying", "around", "$", "300", "for", "a", "specialized", "test", ",", "we", "would", "be", "told", "our", "dog", "was", "healthy", "and", "just", "needed", "to", "shed", "a", "little", "weight", "."], "e1_text": "test", "e1_pos": 5, "e2_text": "paying", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Huge", "wait", "between", "dishes", ",", "with", "kids", "waiting", "1.30", "hour", "before", "getting", "any", "food", "-LRB-", "the", "waiter", "realizing", "that", "they", "offer", "kids", "menus", "after", "30", "minutes", ",", "bringing", "them", "an", "slowing", "down", ",", "once", "again", ",", "all", "the", "process", "-RRB-", "."], "e1_text": "waiting", "e1_pos": 7, "e2_text": "getting", "e2_pos": 11, "label": "before"}
+]

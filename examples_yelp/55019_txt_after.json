@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "another", "table", "that", "was", "seated", "near", "us", "a", "few", "minutes", "after", "we", "placed", "our", "order", "that", "also", "ordered", "garlic", "bread", "and", "they", "got", "theirs", "the", "same", "time", "we", "got", "ours", "...", "20", "minutes", "after", "we", "ordered", "it", "?"], "e1_text": "seated", "e1_pos": 6, "e2_text": "placed", "e2_pos": 14, "label": "after"}
+]

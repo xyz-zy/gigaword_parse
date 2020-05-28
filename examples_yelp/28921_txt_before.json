@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "''", "``", "air", "train", "''", "''", "is", "under", "construction", ",", "but", "it", "will", "be", "a", "few", "years", "before", "it", "'s", "operational", "and", "terminal", "transfers", "can", "be", "a", "bit", "difficult", "as", "there", "are", "no", "walkways", "between", "Terminal", "4", "and", "the", "other", "two", ",", "though", "there", "is", "a", "walkway", "between", "2", "and", "4", "."], "e1_text": "be", "e1_pos": 14, "e2_text": "'s", "e2_pos": 20, "label": "before"}
+]

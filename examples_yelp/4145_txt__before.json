@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "made", "this", "mistake", "before", "and", "usually", "the", "person", "says", "''", "``", "okay", ",", "I", "'ll", "let", "your", "server", "know", "''", "''", ",", "not", "''", "``", "Ummmm", ",", "I", "'m", "not", "serving", "you", ",", ",", "you", "'ll", "have", "to", "talk", "to", "your", "server", "''", "''", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "says", "e2_pos": 10, "label": "before"}
+]

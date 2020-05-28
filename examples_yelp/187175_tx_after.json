@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "back", "again", "February", "2014", "because", "I", "purchased", "hotel", "room", "from", "HOTWIRE.com", "and", "you", "dont", "know", "the", "hotel", "till", "after", "you", "pay", "."], "e1_text": "know", "e1_pos": 15, "e2_text": "pay", "e2_pos": 21, "label": "after"}
+]

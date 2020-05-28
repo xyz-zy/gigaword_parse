@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "picked", "up", "and", "soon", "after", "I", "get", "home", "I", "get", "a", "call", "from", "John", "and", "he", "explains", "that", "my", "car", "needs", "all", "this", "other", "stuff", "that", "will", "cost", "me", "a", "total", "of", "$", "532", "...", "then", "realized", "he", "had", "mis-spoke", "and", "changed", "it", "to", "$", "632", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "get", "e2_pos": 1, "label": "after"}
+]

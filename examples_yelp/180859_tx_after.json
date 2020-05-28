@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "grab", "a", "quick", "bite", "after", "an", "exhausting", "day", "at", "a", "tradeshow", "in", "the", "Venetian", "and", "AquaKnox", "was", "pretty", "much", "in", "the", "right", "place", "at", "the", "right", "time", "."], "e1_text": "grab", "e1_pos": 3, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["That", "said", ",", "I", "did", "earn", "my", "''", "``", "High", "Rollers", "''", "''", "badge", "after", "checking", "in", "here", "on", "Yelp", "."], "e1_text": "badge", "e1_pos": 13, "e2_text": "checking", "e2_pos": 15, "label": "after"}
+]

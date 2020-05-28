@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "included", "a", "piece", "of", "smashed", "bread", "in", "front", "of", "a", "particular", "''", "``", "suite", "''", "''", "that", "stayed", "there", "for", "another", "day", "before", "it", "was", "cleaned", "up", "."], "e1_text": "stayed", "e1_pos": 18, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["On", "top", "of", "that", ",", "it", "does", "n't", "appear", "that", "there", "'s", "any", "security", "...", "at", "other", "mid-grade", "hotels", ",", "they", "at", "least", "have", "someone", "checking", "room", "keys", "before", "letting", "you", "up", "the", "elevators", "."], "e1_text": "checking", "e1_pos": 25, "e2_text": "letting", "e2_pos": 29, "label": "before"}
+]

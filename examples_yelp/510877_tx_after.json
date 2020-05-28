@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "She", "learned", "to", "speak", "English", "ONLY", "after", "watching", "MJ", "!", "-RRB-", "."], "e1_text": "speak", "e1_pos": 4, "e2_text": "watching", "e2_pos": 8, "label": "after"},
+{"tokens": ["There", "is", "a", "James", "Bond", "medley", ",", "she", "cries", "after", "singing", "a", "French", "song", "."], "e1_text": "cries", "e1_pos": 8, "e2_text": "singing", "e2_pos": 10, "label": "after"}
+]

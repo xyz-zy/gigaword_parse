@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "were", "we", "given", "keys", "that", "did", "n't", "work", ",", "our", "lock", "ran", "out", "of", "batteries", "and", "we", "needed", "to", "wait", "an", "hour", "to", "get", "it", "fixed", ",", "but", "we", "were", "late", "for", "the", "guestlist", "so", "we", "were", "told", "it", "would", "take", "ten", "minutes", "when", "we", "got", "back", "to", "the", "hotel", "after", "we", "went", "home", "."], "e1_text": "got", "e1_pos": 47, "e2_text": "went", "e2_pos": 54, "label": "after"}
+]

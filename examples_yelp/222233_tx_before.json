@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "advice", "is", "make", "sure", "to", "actually", "swallow", "your", "food", "first", "before", "jumping", "out", "of", "your", "seat", "when", "your", "team", "scores", "a", "winning", "touch", "down", "."], "e1_text": "swallow", "e1_pos": 7, "e2_text": "jumping", "e2_pos": 12, "label": "before"}
+]

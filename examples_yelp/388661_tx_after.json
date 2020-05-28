@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "seriously", "need", "to", "put", "in", "some", "cardio", "time", "after", "eating", "here", "."], "e1_text": "put", "e1_pos": 4, "e2_text": "eating", "e2_pos": 10, "label": "after"},
+{"tokens": ["Thank", "goodness", "it", "was", "after", "we", "ate", "because", "that", "is", "a", "sure", "turn", "off", "to", "me", "regardless", "of", "the", "details", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "ate", "e2_pos": 6, "label": "after"}
+]

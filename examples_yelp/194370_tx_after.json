@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "we", "had", "a", "reservation", "-", "unfortunately", "for", "our", "party", "of", "seven", ",", "we", "had", "to", "wait", "30", "minutes", "past", "our", "reservation", "to", "be", "seated", "inside", ",", "after", "requesting", "to", "sit", "outside", "."], "e1_text": "seated", "e1_pos": 27, "e2_text": "requesting", "e2_pos": 31, "label": "after"},
+{"tokens": ["Now", "I", "know", "the", "restaurant", "ca", "n't", "help", "the", "fact", "that", "the", "patrons", "sitting", "at", "our", "table", "would", "n't", "leave", "after", "their", "meal", "was", "complete", ",", "but", "what", "the", "restaurant", "could", "have", "done", "would", "have", "been", "to", "come", "up", "with", "a", "solution", "faster", "than", "30", "minutes", "."], "e1_text": "leave", "e1_pos": 19, "e2_text": "was", "e2_pos": 23, "label": "after"}
+]

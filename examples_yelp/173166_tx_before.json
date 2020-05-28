@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dinner", "-LRB-", "Snack", "-RRB-", ":", "Decided", "to", "have", "a", "small", "snack", "here", "before", "catching", "a", "flight", "back", "to", "Atlanta", ",", "GA", "and", "ended", "ordering", "a", "couple", "glasses", "of", "wine", ",", "to", "help", "with", "the", "long", "flight", "home", ":-RRB-", ",", "and", "the", "Beignets", "de", "Brandade", "de", "Morue", "which", "is", "Cod", "Brandade", "with", "Tomato", "Confit", "and", "fried", "Sage", "."], "e1_text": "have", "e1_pos": 7, "e2_text": "catching", "e2_pos": 13, "label": "before"}
+]

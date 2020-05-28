@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "warn", "you", "to", "not", "except", "anything", "that", "is", "shipped", "before", "you", "inspect", "it", "."], "e1_text": "shipped", "e1_pos": 9, "e2_text": "inspect", "e2_pos": 12, "label": "before"}
+]

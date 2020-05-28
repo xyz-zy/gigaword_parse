@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "have", "no", "time", "to", "grab", "something", "before", "arriving", "at", "the", "airport", ",", "Paradise", "Bakery", "may", "be", "one", "of", "the", "best", "food", "choices", "you", "can", "find", "."], "e1_text": "grab", "e1_pos": 6, "e2_text": "arriving", "e2_pos": 9, "label": "before"},
+{"tokens": ["In", "a", "pinch", ",", "this", "place", "will", "do", ",", "but", "we", "all", "know", "it", "is", "best", "to", "leave", "early", "so", "that", "you", "can", "get", "something", "decent", "to", "eat", "before", "arriving", "at", "the", "airport", "!"], "e1_text": "eat", "e1_pos": 27, "e2_text": "arriving", "e2_pos": 29, "label": "before"}
+]

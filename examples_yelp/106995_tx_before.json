@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "walked", "up", "to", "the", "station", "to", "check", "in", ",", "and", "had", "to", "wait", "until", "the", "two", "women", "behind", "it", "finished", "their", "conversation", "before", "anyone", "looked", "at", "me", "which", "I", "found", "extremely", "rude", "for", "a", "place", "like", "this", "."], "e1_text": "finished", "e1_pos": 20, "e2_text": "looked", "e2_pos": 25, "label": "before"}
+]

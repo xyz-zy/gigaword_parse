@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "the", "fact", "that", "the", "food", "is", "ready", "right", "then", "and", "there", ",", "and", "that", "you", "do", "n't", "have", "to", "sit", "around", "twiddling", "your", "thumbs", "before", "your", "stuff", "is", "ready", "."], "e1_text": "have", "e1_pos": 19, "e2_text": "is", "e2_pos": 7, "label": "before"},
+{"tokens": ["My", "oxtail", "brought", "back", "memories", "of", "me", "as", "a", "child", ",", "using", "my", "incisors", "to", "grate", "off", "the", "knuckle", "cartilage", "of", "each", "tailbone", "before", "sucking", "out", "the", "spinal", "cord", "."], "e1_text": "grate", "e1_pos": 15, "e2_text": "sucking", "e2_pos": 24, "label": "before"}
+]

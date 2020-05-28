@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "close", "to", "bar", "today", "and", "still", "no", "one", "saw", "us", ",", "went", "to", "the", "bar", "and", "was", "told", "the", "other", "bartender", "will", "take", "care", "of", "us", ",", "waited", "10", "mins", "before", "we", "were", "offered", "a", "drink", "...", "another", "10", "before", "another", "bartender", "decided", "to", "take", "our", "order", "."], "e1_text": "waited", "e1_pos": 29, "e2_text": "were", "e2_pos": 34, "label": "before"}
+]

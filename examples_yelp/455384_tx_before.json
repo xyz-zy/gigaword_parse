@@ -1,0 +1,4 @@
+[
+{"tokens": ["l", "stopped", "here", "with", "my", "better", "looking", "half", "for", "a", "quick", "drink", "and", "maybe", "a", "bit", "to", "eat", "before", "we", "began", "our", "little", "day", "out", "to", "North", "Berwick", "."], "e1_text": "eat", "e1_pos": 17, "e2_text": "began", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "do", "wish", "that", "I", "had", "seen", "the", "toilets", "before", "sitting", "down", "to", "my", "sandwich", "though", ",", "which", "had", "a", "can", "of", "Stella", "that", "never", "made", "it", "back", "out", "again", "with", "a", "questionable", "puddle", "that", "did", "n't", "quite", "make", "it", "to", "the", "toilet", "bowl", "."], "e1_text": "seen", "e1_pos": 6, "e2_text": "sitting", "e2_pos": 10, "label": "before"}
+]

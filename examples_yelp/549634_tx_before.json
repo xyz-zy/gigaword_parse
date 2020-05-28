@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "in", "for", "lunch", "on", "a", "Friday", "and", "I", "stayed", "quiet", "acting", "like", "I", "had", "never", "been", "there", "before", "as", "the", "person", "with", "me", "had", "not", "been", "there", "."], "e1_text": "stayed", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "'s", "still", "a", "pain", "in", "the", "rear", "to", "reach", "the", "food", "offerings", "to", "build", "your", "bowl", "with", ",", "the", "calimari", "and", "high", "end", "meats", "are", "gone", ",", "the", "spices", "are", "lame", "as", "I", "said", "before", ",", "and", "the", "black", "and", "brown", "goo", "sauce", "choices", "are", "still", "there", "."], "e1_text": "lame", "e1_pos": 31, "e2_text": "said", "e2_pos": 34, "label": "before"}
+]

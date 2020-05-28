@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pad", "Thai", "with", "fish", "sauce", "and", "chow", "mein", "with", "ketchup", "???!", "Then", "the", "server", "had", "the", "nerve", "to", "tell", "me", "that", "NO", "ONE", "has", "ever", "complained", "before", "!!", "So", "gross", "and", "I", "will", "never", "go", "here", "again", "."], "e1_text": "complained", "e1_pos": 25, "e2_text": "!!", "e2_pos": 27, "label": "before"}
+]

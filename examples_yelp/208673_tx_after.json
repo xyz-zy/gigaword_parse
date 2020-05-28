@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stumbled", "upon", "this", "place", "after", "eating", "elsewhere", ",", "but", "luckily", "had", "the", "24", "hour", "buffet", "pass", "and", "decided", "to", "feast", "again", "."], "e1_text": "stumbled", "e1_pos": 1, "e2_text": "eating", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "was", "so", "stuffed", "after", "this", "buffet", "I", "tried", "to", "vomit", "in", "their", "bathroom", "with", "no", "success", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "tried", "e2_pos": 8, "label": "after"}
+]

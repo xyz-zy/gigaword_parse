@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "our", "cue", "that", "we", "should", "have", "left", "before", "we", "were", "ignored", "for", "over", "10", "minutes", "sitting", "at", "the", "table", "was", "the", "couple", "speaking", "with", "a", "manager", "as", "we", "walked", "in", ",", "they", "didnt", "seem", "very", "happy", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

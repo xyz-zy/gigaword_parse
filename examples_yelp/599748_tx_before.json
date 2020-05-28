@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "seems", "that", "they", "go", "through", "all", "the", "rooms", "before", "they", "clean", "them", ",", "to", "see", "what", "they", "can", "find", "and", "take", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "clean", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "seated", "in", "a", "corner", "booth", "next", "to", "the", "door", "on", "the", "other", "side", ",", "servers", "rushed", "us", "to", "order", ",", "after", "ordering", "another", "two", "severs", "tried", "rushing", "us", "to", "order", "again", "!?!", "Food", "was", "brought", "out", "pretty", "quick", ",", "a", "lot", "of", "noodles", ",", "but", "where", "did", "all", "my", "meat", "go", "for", "my", "combination", "pho", "?!!", "I", "asked", "for", "a", "little", "side", "dish", "to", "put", "my", "sauce", "in", ",", "never", "came", "."], "e1_text": "rushed", "e1_pos": 17, "e2_text": "ordering", "e2_pos": 23, "label": "after"}
+]

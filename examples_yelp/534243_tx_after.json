@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "last", "week", "after", "buying", "the", "$", "5", "Groupon", "for", "one", "ticket", "plus", "a", "soda", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "buying", "e2_pos": 4, "label": "after"},
+{"tokens": ["There", "was", "a", "slight", "hiccup", "with", "our", "order", "where", "we", "got", "our", "food", "first", "but", "had", "to", "wait", "20", "minutes", "before", "our", "drinks", "came", "-LRB-", "after", "repeatedly", "asking", "servers", "where", "they", "were", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asking", "e2_pos": 27, "label": "after"}
+]

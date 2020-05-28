@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "I", "have", "it", "after", "going", "to", "this", "place", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "going", "e2_pos": 5, "label": "after"},
+{"tokens": ["Another", "disappointment", "was", "the", "2", "male", "piano", "players", "went", "on", "break", "shortly", "after", "we", "got", "there", "and", "a", "female", "singer", "took", "their", "place", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

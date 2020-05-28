@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "not", "eat", "meat", "that", "is", "undercooked", "so", "I", "decided", "to", "order", "the", "philly", "cheesesteak", "sandwich", "instead", "after", "being", "assured", "the", "meat", "in", "that", "sandwich", "is", "actually", "cooked", "."], "e1_text": "order", "e1_pos": 12, "e2_text": "being", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "upset", "after", "going", "to", "The", "Mission", "on", "our", "anniversary", "."], "e1_text": "upset", "e1_pos": 1, "e2_text": "going", "e2_pos": 3, "label": "after"},
+{"tokens": ["We", "finally", "made", "our", "way", "around", "the", "crowd", "after", "getting", "my", "feet", "stepped", "on", "and", "spoke", "to", "the", "two", "female", "hostesses", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "getting", "e2_pos": 9, "label": "after"}
+]

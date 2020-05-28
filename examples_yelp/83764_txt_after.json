@@ -1,0 +1,3 @@
+[
+{"tokens": ["Traffic", "office", "erroneously", "put", "TWO", "of", "someone", "else", "'s", "parking", "tickets", "on", "my", "account", ",", "which", "they", "were", "going", "to", "drop", "my", "classes", "-LRB-", "me", "a", "Senior", "and", "I", "had", "to", "have", "those", "classes", "THAT", "semester", "in", "order", "to", "graduate", "-RRB-", "even", "after", "I", "proved", "this", "was", "n't", "my", "car", "nor", "my", "tickets", "."], "e1_text": "drop", "e1_pos": 20, "e2_text": "proved", "e2_pos": 44, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "now", "8:10", ",", "after", "getting", "my", "kids", "washed", "up", "before", "eating", "and", "getting", "them", "their", "food", ",", "when", "an", "announcement", "on", "the", "overhead", "speakers", "stated", "to", "get", "all", "the", "food", "you", "wanted", "to", "eat", "because", "they", "were", "putting", "the", "food", "away", "in", "15", "minutes", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "getting", "e2_pos": 6, "label": "after"},
+{"tokens": ["To", "top", "it", "all", "off", ",", "I", "ended", "up", "with", "a", "severe", "case", "of", "the", "SHITS", "after", "eating", "here", "."], "e1_text": "ended", "e1_pos": 7, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

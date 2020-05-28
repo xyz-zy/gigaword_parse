@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "person", "continued", "to", "say", "-LRB-", "all", "smug", "and", "righteous", "-RRB-", "''", "``", "please", "read", "the", "menu", "the", "next", "time", "you", "come", "in", "because", "I", "'ve", "never", "had", "a", "customer", "return", "two", "meals", "before", "''", "''", "."], "e1_text": "come", "e1_pos": 21, "e2_text": "'ve", "e2_pos": 25, "label": "before"}
+]

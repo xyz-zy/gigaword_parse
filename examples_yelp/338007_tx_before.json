@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "check", "well", "before", "you", "order", "anything", "from", "them", "as", "french", "an", "english", "sites", "do", "n't", "have", "the", "same", "info", "always", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "order", "e2_pos": 5, "label": "before"},
+{"tokens": ["So", "WTF", "they", "had", "to", "tell", "me", "that", "before", "as", "I", "already", "bought", "accesories", "for", "that", "tablet", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "bought", "e2_pos": 12, "label": "before"}
+]

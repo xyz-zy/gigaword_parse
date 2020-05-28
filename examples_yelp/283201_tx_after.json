@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "girl", "that", "I", "was", "talking", "to", "at", "first", "-LRB-", "after", "waiting", "about", "20", "minutes", "for", "her", "to", "figure", "out", "a", "computer", "problem", "and", "answer", "a", "phone", "call", "-RRB-", "that", "I", "only", "like", "level", "1", "tanning", "beds", "because", "higher", "levels", "give", "me", "bad", "freckles", "quicker", "and", "she", "said", "no", "problem", "."], "e1_text": "talking", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

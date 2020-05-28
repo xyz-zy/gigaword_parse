@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "kicker", "was", "that", "once", "after", "I", "had", "''", "``", "unsubscribed", "''", "''", "I", "received", "an", "offer", "from", "Shutterfly", "and", "David", "Bridal", "that", "had", "expired", "almost", "4", "years", "ago", "!!!!", "How", "does", "that", "even", "happen", "in", "this", "day", "and", "age", "with", "everything", "digital", "?"], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "came", "in", "to", "the", "store", "and", "thankfully", "the", "dress", "was", "the", "correct", "style", "and", "size", ",", "however", "after", "trying", "it", "one", ",", "it", "was", "glaringly", "obvious", "that", "the", "embroidery", "was", "snagged", "in", "places", "and", "especially", "along", "the", "neckline", "where", "it", "was", "very", "visible", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "trying", "e2_pos": 19, "label": "after"}
+]

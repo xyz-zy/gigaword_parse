@@ -1,0 +1,3 @@
+[
+{"tokens": ["Eventually", "my", "wife", "asked", "a", "different", "server", "for", "the", "check", "which", "arrived", "soon", "after", ",", "however", ",", "it", "sat", "on", "the", "table", "for", "at", "least", "another", "5", "minutes", "until", "I", "walked", "it", "over", "to", "their", "register", "and", "paid", "it", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "sat", "e2_pos": 18, "label": "after"}
+]

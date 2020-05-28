@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "then", "had", "me", "take", "the", "time", "to", "fill", "out", "a", "form", "and", "then", "had", "me", "sit", "down", "to", "wait", "for", "a", "few", "minutes", "before", "coming", "to", "get", "me", "for", "my", "haircut", "."], "e1_text": "wait", "e1_pos": 19, "e2_text": "coming", "e2_pos": 25, "label": "before"},
+{"tokens": ["Now", "I", "understand", "I", "was", "late", "but", "she", "should", "have", "told", "me", "this", "before", "starting", "to", "cut", "my", "hair", "so", "I", "can", "decide", "if", "I", "want", "to", "go", "forward", "without", "the", "services", "or", "reschedule", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "starting", "e2_pos": 14, "label": "before"}
+]

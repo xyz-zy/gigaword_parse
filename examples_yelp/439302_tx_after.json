@@ -1,0 +1,4 @@
+[
+{"tokens": ["went", "in", "after", "going", "to", "csn", "charleston", "campus", ",", "and", "had", "time", "to", "kill", "before", "my", "internship", "."], "e1_text": "went", "e1_pos": 0, "e2_text": "going", "e2_pos": 3, "label": "after"},
+{"tokens": ["as", "i", "was", "waiting", "i", "noticed", "they", "have", "california", "flatbreads", "!!!!", "after", "she", "made", "my", "smoothie", "i", "ordered", "a", "flatbread", "."], "e1_text": "!!!!", "e1_pos": 10, "e2_text": "made", "e2_pos": 13, "label": "after"}
+]

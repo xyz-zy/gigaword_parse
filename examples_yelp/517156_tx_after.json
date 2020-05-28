@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "color", "is", "perfect", "and", "she", "actually", "took", "the", "time", "after", "she", "colored", "it", "to", "tell", "me", "what", "little", "changes", "she", "would", "like", "to", "make", "for", "the", "next", "time", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "colored", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Colonel", "guides", "us", "through", "from", "beginning", "to", "end", ",", "working", "the", "crowd", "before", "the", "show", "starts", "by", "getting", "them", "to", "dance", "or", "sing", "for", "an", "Elvis", "button", "or", "picture", "."], "e1_text": "working", "e1_pos": 10, "e2_text": "starts", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "would", "still", "recommend", "going", "to", "see", "KA", ",", "O", "or", "a", "non-Cirque", "but", "Cirquey", "''", "``", "Le", "Reve", "''", "''", "before", "seeing", "Viva", "Elvis", "."], "e1_text": "Cirquey", "e1_pos": 14, "e2_text": "seeing", "e2_pos": 22, "label": "before"}
+]

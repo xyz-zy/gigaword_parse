@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "smelled", "it", ",", "I", "smelled", "it", ",", "and", "even", "our", "waitress", "smelled", "it", "after", "we", "pointed", "it", "out", "to", "her", "."], "e1_text": "smelled", "e1_pos": 2, "e2_text": "pointed", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "one", "star", "is", "for", "the", "Irish", "nachos", ",", "which", "were", "delicious", "-LRB-", "we", "split", "an", "order", "of", "those", "instead", ",", "after", "the", "fish", "was", "taken", "off", "the", "bill", "-RRB-", "."], "e1_text": "split", "e1_pos": 14, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

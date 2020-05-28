@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "instructor", "gave", "us", "instructions", "and", "handled", "the", "loading", "before", "letting", "us", "shoot", "our", "rounds", "."], "e1_text": "handled", "e1_pos": 6, "e2_text": "letting", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "would", "recommend", "making", "a", "reservation", "because", "it", "comes", "with", "a", "free", "shuttle", "and", "the", "wait", "can", "get", "very", "long", ",", "up", "to", "90", "minutes", "especially", "in", "the", "later", "hours", "when", "all", "the", "frat", "guys", "wake", "up", "from", "partying", "the", "night", "before", "."], "e1_text": "wake", "e1_pos": 35, "e2_text": "partying", "e2_pos": 38, "label": "before"}
+]

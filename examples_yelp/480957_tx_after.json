@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "night", "was", "my", "2nd", "visit", ",", "and", "I", "do", "n't", "recall", "the", "food", "being", "so", "sub-par", "from", "my", "1st", "visit", "-LRB-", "which", "was", "a", "little", "while", "back", "shortly", "after", "they", "opened", "-RRB-", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "opened", "e2_pos": 31, "label": "after"},
+{"tokens": ["I", "thought", "it", "would", "be", "a", "little", "rude", "to", "squeeze", "in", "between", "the", "cutesy", "couple", "who", "somehow", "managed", "to", "PDA", "and", "eat", "at", "the", "same", "time", "...", "as", "much", "as", "I", "was", "dying", "for", "a", "drink", "after", "a", "''", "``", "fun", "''", "''", "day", "at", "work", "."], "e1_text": "squeeze", "e1_pos": 9, "e2_text": "was", "e2_pos": 31, "label": "after"}
+]

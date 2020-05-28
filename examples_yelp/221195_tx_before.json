@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stood", "there", "for", "roughly", "5", "minutes", "before", "someone", "came", "back", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "asked", "her", "to", "confirm", "before", "I", "placed", "my", "order", "as", "I", "know", "most", "chicken", "sausages", "have", "pork", "casings", "unless", "they", "are", "the", "organic", ",", "gluten", "free", "kind", "."], "e1_text": "confirm", "e1_pos": 4, "e2_text": "placed", "e2_pos": 7, "label": "before"}
+]

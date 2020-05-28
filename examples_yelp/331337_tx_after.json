@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "chose", "to", "eat", "here", "after", "walking", "over", "and", "into", "''", "``", "Old", "Montreal", "''", "''", "after", "we", "attended", "the", "Indiana", "Jones", "exhibit", "at", "the", "Montreal", "Science", "Centre", "for", "a", "few", "hours", "and", "did", "n't", "feel", "like", "looking", "around", "long", "for", "a", "place", "to", "eat", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "walking", "e2_pos": 6, "label": "after"}
+]

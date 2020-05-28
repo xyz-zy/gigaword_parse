@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "wait", "has", "been", "as", "long", "as", "forty", "minutes", "and", "was", "quite", "a", "waste", "of", "my", "time", "especially", "since", "on", "that", "particular", "occasion", "I", "was", "only", "with", "the", "orthodontist", "for", "five", "minutes", "before", "the", "assistant", "took", "over", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "took", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ask", "to", "order", "the", "lechon", "because", "the", "menu", "clearly", "says", "available", "after", "1pm", ",", "which", "it", "had", "just", "turned", "1pm", "when", "we", "arrived", "."], "e1_text": "says", "e1_pos": 10, "e2_text": "had", "e2_pos": 17, "label": "after"},
+{"tokens": ["She", "comes", "back", "with", "a", "$", "10", "and", "2", "$", "5", "'s", ",", "assuming", "we", "would", "leave", "a", "$", "5", "after", "one", "of", "the", "worst", "dining", "experiences", "ever", "!!!", "I", "was", "n't", "gon", "na", "leave", "a", "$", "5", "because", "it", "was", "not", "deserved", "."], "e1_text": "leave", "e1_pos": 16, "e2_text": "!!!", "e2_pos": 28, "label": "after"}
+]

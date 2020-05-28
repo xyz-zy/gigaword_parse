@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ca", "n't", "comment", "on", "the", "food", "because", "after", "waiting", "25", "mins", "without", "even", "being", "approached", "by", "the", "waitress", "for", "my", "DRINK", "order", ",", "I", "left", "."], "e1_text": "comment", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

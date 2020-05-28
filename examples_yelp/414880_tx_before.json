@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "felt", "as", "though", "our", "server", "was", "rushing", "us", "through", "our", "meal", "by", "not", "allowing", "us", "time", "to", "finish", "our", "courses", "before", "crowding", "our", "table", "with", "the", "next", "round", "of", "plates", "."], "e1_text": "finish", "e1_pos": 18, "e2_text": "crowding", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "of", "us", "ordered", "drinks", "only", "to", "have", "another", "waiter", "ask", "if", "we", "wanted", "drinks", "20", "minutes", "after", "we", "ordered", "the", "first", "round", "and", "still", "have", "n't", "received", "our", "first", "wave", "of", "drinks", "."], "e1_text": "wanted", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 3, "label": "after"},
+{"tokens": ["At", "first", "it", "was", "off-putting", ",", "then", "after", "I", "made", "the", "joke", "about", "not", "messing", "around", "with", "unhappy", "service", "who", "carry", "swords", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "made", "e2_pos": 9, "label": "after"}
+]

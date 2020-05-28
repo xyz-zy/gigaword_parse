@@ -1,0 +1,4 @@
+[
+{"tokens": ["Are", "you", "afraid", "someone", "might", "jump", "after", "losing", "at", "your", "$", "5", "BJ", "tables", "where", "you", "use", "8", "decks", "of", "cards", "?"], "e1_text": "jump", "e1_pos": 5, "e2_text": "losing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "'m", "sure", "that", "after", "they", "remodel", "the", "place", "that", "they", "'ll", "still", "have", "the", "same", "lack", "of", "caring", "customer", "service", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "remodel", "e2_pos": 6, "label": "after"}
+]

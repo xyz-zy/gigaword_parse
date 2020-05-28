@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "told", "me", "the", "price", "after", "a", "long", "sigh", "-LRB-", "Probably", "because", "I", "called", "10", "minutes", "before", "the", "office", "closed", ",", "so", "what", "?", "-RRB-"], "e1_text": "told", "e1_pos": 1, "e2_text": "called", "e2_pos": 13, "label": "after"}
+]

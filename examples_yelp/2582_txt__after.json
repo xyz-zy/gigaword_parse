@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "would", "be", "different", "if", "the", "restaurant", "were", "bustling", "but", "it", "was", "totally", "dead", "and", "pretty", "clear", "those", "would", "n't", "be", "eaten", "that", "evening", "-LRB-", "so", "I", "shudder", "to", "think", "that", "after", "hours", "sitting", "out", "uncovered", "unrefrigerated", "that", "they", "put", "them", "out", "again", "the", "next", "day", "and", "hoped", "someone", "would", "eat", "them", "...", "-RRB-", "."], "e1_text": "think", "e1_pos": 29, "e2_text": "uncovered", "e2_pos": 35, "label": "after"},
+{"tokens": ["Unfortunately", "I", "could", "n't", "hear", "all", "the", "details", "but", "it", "was", "disturbing", "since", "this", "was", "after", "we", "all", "had", "gotten", "our", "food", "already", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

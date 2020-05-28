@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "concierge", "in", "our", "hotel", "advised", "against", "L'Express", ",", "however", "we", "went", "anyway", "after", "looking", "over", "all", "the", "glowing", "reviews", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "looking", "e2_pos": 14, "label": "after"}
+]

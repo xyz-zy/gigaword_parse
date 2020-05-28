@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "had", "to", "go", "buy", "a", "brow", "pencil", "!!", "-RRB-", "Also", ",", "it", "'s", "like", "the", "other", "hairs", "were", "nipped", "in", "the", "process", "making", "them", "all", "short", "and", "stubby", "and", "where", "as", "before", "I", "had", "a", "perfect", "shape", "my", "brows", "are", "left", "too", "thin", "and", "the", "hairs", "are", "sticking", "in", "weird", "directions", "."], "e1_text": "buy", "e1_pos": 5, "e2_text": "had", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "think", "this", "is", "also", "because", "he", "did", "n't", "comb", "out", "my", "brows", "and", "trim", "them", "properly", "before", "using", "the", "threading", "technique", "to", "clean", "up", "the", "area", "around", "the", "brow", "."], "e1_text": "trim", "e1_pos": 14, "e2_text": "using", "e2_pos": 18, "label": "before"}
+]

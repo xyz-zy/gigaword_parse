@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "before", "the", "Cards", "game", ",", "because", "there", "was", "a", "long", "wait", "at", "BJ", "'s", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "could", "n't", "explain", "why", ",", "but", "I", "would", "highly", "recommend", "you", "double", "check", "your", "bill", ",", "and", "compare", "it", "to", "the", "itemized", "receipt", "before", "leaving", "."], "e1_text": "compare", "e1_pos": 18, "e2_text": "leaving", "e2_pos": 25, "label": "before"}
+]

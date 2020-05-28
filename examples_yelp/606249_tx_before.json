@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "up", "there", "after", "waiting", "forever", "and", "he", "only", "gives", "me", "half", "the", "discount", "because", "he", "swiped", "my", "card", "before", "I", "gave", "him", "the", "coupon", "."], "e1_text": "swiped", "e1_pos": 17, "e2_text": "gave", "e2_pos": 22, "label": "before"}
+]

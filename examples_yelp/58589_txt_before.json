@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "sure", "folks", "turn", "to", "fast", "food", "just", "for", "the", "fact", "that", "it", "'s", "fast", "and", "easy", "to", "get", "something", "when", "you", "'re", "on", "the", "go", ",", "but", "I", "would", "honestly", "drink", "a", "gallon", "of", "water", "before", "I", "scarf", "down", "fast", "food", "."], "e1_text": "drink", "e1_pos": 32, "e2_text": "scarf", "e2_pos": 39, "label": "before"},
+{"tokens": ["This", "Burger", "King", "is", "open", "early", "and", "I", "snagged", "breakfast", "before", "heading", "off", "to", "work", "a", "few", "times", "."], "e1_text": "snagged", "e1_pos": 8, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

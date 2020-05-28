@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "two", "beers", ",", "one", "-LRB-", "mine", "-RRB-", "perfect", ",", "the", "other", "was", "super", "flat", ";", "our", "waitress", "was", "super", "sweet", "and", "took", "care", "of", "it", "right", "away", ",", "but", "only", "after", "letting", "us", "know", "that", "the", "second", "choice", "was", "out", "."], "e1_text": "took", "e1_pos": 22, "e2_text": "letting", "e2_pos": 32, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "real", "kicker", "was", "that", "I", "ordered", "a", "$", "7", "grilled", "cheese", "sandwich", "that", "I", "waited", "15", "minutes", "for", "-LRB-", "I", "decided", "to", "give", "them", "the", "benefit", "of", "the", "doubt", "since", "there", "was", "a", "''", "``", "rush", "''", "''", "-RRB-", "before", "going", "back", "up", "to", "the", "counter", "to", "check", "on", "it", "."], "e1_text": "waited", "e1_pos": 15, "e2_text": "going", "e2_pos": 41, "label": "before"}
+]

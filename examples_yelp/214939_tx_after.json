@@ -1,0 +1,4 @@
+[
+{"tokens": ["Multiple", "people", "who", "ordered", "after", "me", "had", "eaten", "and", "left", "by", "the", "time", "I", "was", "given", "my", "lunch", ",", "which", "I", "only", "received", "after", "asking", "what", "the", "eta", "was", ".", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["Problem", "was", ",", "I", "was", "1", "of", "about", "10", "people", "who", "waited", "an", "exceptionally", "lengthy", "amount", "of", "time", "for", "their", "food", ",", "just", "to", "watch", "people", "who", "ordered", "way", "after", "us", "leaving", "with", "their", "meals", "in", "hand", "."], "e1_text": "ordered", "e1_pos": 27, "e2_text": "leaving", "e2_pos": 31, "label": "after"}
+]

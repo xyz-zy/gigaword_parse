@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "ton", "of", "texts", "with", "a", "ton", "of", "excuses", "from", "''", "''", "I", "got", "strep", "throat", ",", "to", "''", "''", "im", "Tony", "and", "I", "'ll", "be", "over", "after", "I", "finish", "with", "his", "current", "job", "''", "''", "."], "e1_text": "be", "e1_pos": 27, "e2_text": "finish", "e2_pos": 31, "label": "after"}
+]

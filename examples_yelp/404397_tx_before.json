@@ -1,0 +1,3 @@
+[
+{"tokens": ["a", "-RRB-", "You", "want", "me", "to", "fill", "out", "a", "piece", "of", "paperwork", "and", "snail", "mail", "it", "to", "Irvine", "before", "you", "cancel", "my", "membership", ",", "ARE", "YOU", "FOR", "REAL", "?"], "e1_text": "mail", "e1_pos": 14, "e2_text": "cancel", "e2_pos": 20, "label": "before"}
+]

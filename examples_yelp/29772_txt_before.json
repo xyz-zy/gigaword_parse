@@ -1,0 +1,3 @@
+[
+{"tokens": ["Your", "e-mail", "verifying", "my", "ticket", "said", "to", "be", "there", "an", "hour", "before", "the", "bus", "departed", "so", "I", "arrived", "at", "4:00", "p.m.", "and", "sat", "in", "your", "disgusting", ",", "dirty", "station", "for", "over", "an", "hour", "after", "I", "checked", "in", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "departed", "e2_pos": 14, "label": "before"}
+]

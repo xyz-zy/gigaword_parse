@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "felt", "that", "for", "the", "price", "we", "paid", "-LRB-", "$", "56", "-RRB-", "I", "would", "want", "smaller", "portions", "so", "that", "i", "can", "enjoy", "the", "dish", ",", "rather", "than", "trying", "to", "race", "through", "before", "the", "ice", "cream", "melted", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "melted", "e2_pos": 35, "label": "before"}
+]

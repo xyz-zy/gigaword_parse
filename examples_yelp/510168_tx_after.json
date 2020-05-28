@@ -1,0 +1,4 @@
+[
+{"tokens": ["Odor", "was", "gone", "after", "the", "carpet", "dried", "."], "e1_text": "gone", "e1_pos": 2, "e2_text": "dried", "e2_pos": 6, "label": "after"},
+{"tokens": ["BY", "THE", "WAY", ",", "he", "suctions", "up", "as", "much", "wetness", "left", "after", "cleaning", "the", "carpet", ",", "so", "its", "not", "soaked", "."], "e1_text": "left", "e1_pos": 10, "e2_text": "cleaning", "e2_pos": 12, "label": "after"}
+]

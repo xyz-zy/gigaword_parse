@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "I", "paid", "and", "two", "other", "patrons", "came", "to", "the", "counter", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "paid", "e2_pos": 4, "label": "after"},
+{"tokens": ["However", ",", "I", "must", "admit", "I", "wondered", "what", "their", "kitchen", "looked", "like", "after", "walking", "into", "that", "bathroom", "."], "e1_text": "looked", "e1_pos": 10, "e2_text": "walking", "e2_pos": 13, "label": "after"}
+]

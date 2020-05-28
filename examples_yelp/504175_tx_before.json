@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "struck", "me", "as", "strange", ",", "as", "this", "sort", "of", "arrangement", "was", "never", "a", "problem", "before", ",", "especially", "since", "we", "had", "already", "arranged", "for", "their", "admission", "by", "paying", "for", "a", "table", "."], "e1_text": "struck", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["That", "'s", "not", "something", "we", "were", "told", "before", ",", "that", "was", "annoying", ",", "but", "we", "paid", "without", "complaint", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "were", "e2_pos": 5, "label": "before"}
+]

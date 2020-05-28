@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "she", "did", "get", "to", "us", "to", "take", "our", "drink", "order", "she", "advised", "us", "to", "order", "everything", "before", "2", "large", "parties", "got", "their", "dinner", "order", "in", "or", "it", "would", "be", "a", "while", "."], "e1_text": "advised", "e1_pos": 12, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["My", "salad", "came", "out", "before", "the", "appetizer", "and", "the", "crab", "cakes", ",", "although", "we", "made", "it", "well", "known", "we", "were", "sharing", ",", "did", "not", "come", "with", "a", "plate", "to", "share", "with", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "did", "e2_pos": 22, "label": "before"}
+]

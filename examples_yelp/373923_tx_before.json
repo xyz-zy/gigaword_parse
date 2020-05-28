@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "serving", "of", "warmed", "bread", "and", "butter", "arrived", "even", "before", "the", "wine", "appeared", "-", "nice", "!"], "e1_text": "arrived", "e1_pos": 7, "e2_text": "appeared", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "may", "be", "talked", "into", "visiting", "Jimmy", "'s", "again", "before", "Yelp", "Eats", "week", "is", "over", "...", "Another", "table", "'s", "braciole", "w", "\\/", "mostaccioli", "-LRB-", "flank", "steak", ",", "tomato", "sauce", ",", "and", "penne", "-RRB-", "looked", "good", ",", "despite", "the", "dollop", "of", "tomato", "sauce", "."], "e1_text": "talked", "e1_pos": 3, "e2_text": "is", "e2_pos": 13, "label": "before"}
+]

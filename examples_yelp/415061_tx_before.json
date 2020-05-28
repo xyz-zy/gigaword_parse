@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "send", "an", "email", "with", "no", "response", "and", "then", "he", "contacts", "me", "asking", "if", "I", "still", "needed", "the", "bus", "with", "only", "2", "days", "before", "we", "need", "to", "take", "off", "."], "e1_text": "needed", "e1_pos": 16, "e2_text": "need", "e2_pos": 25, "label": "before"}
+]

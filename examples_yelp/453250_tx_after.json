@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "pot", "???", "For", "a", "place", "this", "big", "they", "only", "make", "one", "pot", "of", "coffee", "???", "A", "couple", "of", "minutes", "after", "we", "ordered", "our", "food", "a", "two", "people", "walked", "up", "and", "ordered", "theirs", "."], "e1_text": "???", "e1_pos": 15, "e2_text": "ordered", "e2_pos": 22, "label": "after"},
+{"tokens": ["They", "didnt", "get", "their", "food", "until", "at", "least", "15", "min", "after", "we", "ate", "ours", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "ate", "e2_pos": 12, "label": "after"}
+]

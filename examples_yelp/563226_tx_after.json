@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "menu", "looked", "promising", "and", "we", "placed", "our", "orders", "shortly", "after", "being", "seated", "."], "e1_text": "placed", "e1_pos": 6, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "we", "declined", "to", "wait", "any", "longer", ",", "got", "up", "and", "left", "after", "more", "than", "an", "hour", "of", "just", "sitting", "there", "with", "only", "a", "few", "tables", "in", "the", "restaurant", "."], "e1_text": "left", "e1_pos": 11, "e2_text": "sitting", "e2_pos": 19, "label": "after"}
+]

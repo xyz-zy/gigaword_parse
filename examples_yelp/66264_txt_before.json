@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "tried", "frozen", "custard", "before", "so", "I", "do", "n't", "have", "anything", "else", "to", "compare", "it", "to", "other", "than", "an", "ice", "cream", "shack", ",", "of", "which", "there", "are", "plenty", "in", "the", "Boston", "area", "."], "e1_text": "tried", "e1_pos": 3, "e2_text": "do", "e2_pos": 9, "label": "before"},
+{"tokens": ["If", "you", "'re", "going", "to", "visit", ",", "check", "out", "Luv-It", "'s", "website", "to", "see", "what", "flavors", "their", "offering", "before", "you", "go", "out", "of", "your", "way", "to", "visit", "."], "e1_text": "flavors", "e1_pos": 15, "e2_text": "go", "e2_pos": 20, "label": "before"}
+]

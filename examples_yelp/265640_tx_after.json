@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "they", "called", "less", "than", "24", "hours", "before", "my", "scheduled", "appt", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "called", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "saw", "Dr.", "Bellew", "who", "never", "came", "back", "in", "the", "room", "after", "she", "was", "in", "there", "for", "5", "minutes", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

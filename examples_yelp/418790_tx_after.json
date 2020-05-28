@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "about", "just", "leaving", "after", "finding", "that", "out", "but", "decided", "to", "stick", "it", "out", "and", "try", "something", "else", ",", "which", "ended", "up", "being", "the", "Eggplant", "Mozzarella", "Sandwich", "."], "e1_text": "leaving", "e1_pos": 4, "e2_text": "finding", "e2_pos": 6, "label": "after"},
+{"tokens": ["Shame", "on", "me", "for", "giving", "this", "places", "so", "many", "chances", ",", "but", "after", "essentially", "throwing", "$", "10", "in", "the", "garbage", "today", ",", "I", "'ll", "never", "be", "back", "."], "e1_text": "Shame", "e1_pos": 0, "e2_text": "throwing", "e2_pos": 14, "label": "after"}
+]

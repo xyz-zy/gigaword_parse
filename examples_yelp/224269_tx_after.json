@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "telling", "a", "friend", "about", "how", "bad", "the", "service", "was", ",", "she", "told", "me", "she", "also", "got", "horrible", "service", "and", "got", "food", "poisoning", "after", "eating", "there", "a", "few", "weeks", "earlier", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "eating", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "ended", "up", "getting", "one", "for", "free", "steak", "after", "my", "daughter", "complained", "how", "tough", "they", "were", "."], "e1_text": "getting", "e1_pos": 3, "e2_text": "complained", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "had", "to", "request", "one", "after", "the", "meal", "was", "already", "ordered", "."], "e1_text": "request", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "'d", "have", "to", "say", "that", "after", "eating", "in", "Las", "Vegas", "for", "over", "20", "years", "that", "this", "was", "easily", "the", "worst", "meal", "for", "the", "most", "money", "I", "'ve", "ever", "had", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

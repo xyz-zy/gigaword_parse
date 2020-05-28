@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "down", "and", "waited", "for", "twenty", "minutes", "plus", "before", "a", "waitress", "comes", "over", "even", "though", "three", "waitresses", "stood", "by", "the", "door", "at", "all", "times", "with", "no", "one", "to", "greet", "and", "no", "orders", "to", "take", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "comes", "e2_pos": 12, "label": "before"},
+{"tokens": ["Another", "20", "minutes", "passes", "before", "our", "check", "comes", "."], "e1_text": "passes", "e1_pos": 3, "e2_text": "comes", "e2_pos": 7, "label": "before"}
+]

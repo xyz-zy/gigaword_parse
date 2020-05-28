@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "never", "written", "an", "online", "review", "before", "but", "I", "was", "so", "disappointed", "and", "angry", "after", "leaving", "my", "hair", "appointment", "I", "thought", "this", "would", "be", "the", "only", "way", "to", "vent", "!"], "e1_text": "was", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 16, "label": "after"},
+{"tokens": ["Booked", "in", "with", "5other", "girls", "to", "get", "up", "styles", "done", "on", "sat", "22nd", ",", "choose", "a", "style", "from", "the", "testimonials", "section", "on", "their", "website", ",", "showed", "it", "to", "the", "girl", "and", "after", "10minutes", "ended", "up", "with", "something", "completely", "different", "."], "e1_text": "showed", "e1_pos": 25, "e2_text": "ended", "e2_pos": 33, "label": "after"}
+]

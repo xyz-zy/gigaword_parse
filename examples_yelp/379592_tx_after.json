@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ate", "here", "regularly", "before", "the", "service", "declined", "and", "I", "was", "served", "onions", "in", "two", "visits", "after", "telling", "the", "wait", "staff", "of", "a", "severe", "food", "allergy", "."], "e1_text": "served", "e1_pos": 11, "e2_text": "telling", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "decided", "to", "go", "back", "today", "after", "not", "eating", "here", "in", "over", "a", "year", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

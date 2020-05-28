@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "want", "a", "newspaper", "that", "does", "n't", "deliver", "to", "your", "door", "step", ",", "that", "has", "missing", "pages", ",", "that", "is", "consistently", "late", ",", "that", "adds", "additional", "charges", "without", "your", "knowledge", ",", "that", "has", "the", "worst", "customer", "service", ",", "that", "SELLS", "your", "number", "to", "telemarketers", "after", "you", "have", "canceled", "your", "subsciption", ",", "then", "this", "is", "the", "newspaper", "for", "you", "!"], "e1_text": "SELLS", "e1_pos": 40, "e2_text": "have", "e2_pos": 47, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Customer", "Service", "and", "satisfaction", "are", "what", "makes", "money", "for", "a", "property", "in", "the", "long", "run", "after", "the", "newness", "has", "worn", "off", "."], "e1_text": "makes", "e1_pos": 6, "e2_text": "has", "e2_pos": 18, "label": "after"},
+{"tokens": ["By", "the", "way", "not", "one", "more", "phone", "call", "from", "Riley", "O'Neil", "even", "after", "everything", "that", "happened", "."], "e1_text": "call", "e1_pos": 7, "e2_text": "happened", "e2_pos": 15, "label": "after"}
+]

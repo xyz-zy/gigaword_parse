@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "here", "with", "8", "people", "in", "our", "party", "an", "hour", "before", "lunch", "ended", ",", "and", "man", ",", "the", "line", "was", "pretty", "darn", "long", "even", "though", "it", "was", "almost", "3pm", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "ended", "e2_pos": 13, "label": "before"}
+]

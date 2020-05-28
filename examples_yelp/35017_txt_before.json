@@ -1,0 +1,3 @@
+[
+{"tokens": ["Two", "people", "in", "the", "party", "had", "soup\\/salad", "and", "had", "finished", "their", "salad", "completely", "before", "they", "had", "to", "remind", "the", "server", "about", "the", "soup", "."], "e1_text": "finished", "e1_pos": 9, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

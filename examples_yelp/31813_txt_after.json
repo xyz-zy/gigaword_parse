@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ended", "up", "visiting", "this", "restaurant", "one", "day", ",", "after", "our", "barista", "at", "Starbucks", "mentioned", "how", "the", "patrons", "at", "her", "`", "other", "job", "'", "were", "n't", "tipping", "well", ",", "forcing", "her", "to", "hold", "an", "alternate", "vocation", "at", "the", "coffee", "giant", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "mentioned", "e2_pos": 14, "label": "after"}
+]

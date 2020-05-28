@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Hint", ":", "if", "one", "person", "calls", "you", "over", "for", "a", "drink", ",", "make", "sure", "the", "rest", "of", "us", "are", "set", "before", "running", "away", ".", "-RRB-"], "e1_text": "set", "e1_pos": 20, "e2_text": "running", "e2_pos": 22, "label": "before"}
+]

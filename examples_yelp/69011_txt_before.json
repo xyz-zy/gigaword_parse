@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "Edder", "I", "need", "to", "go", "home", "and", "look", "at", "the", "wires", "and", "even", "the", "fuse", "box", "before", "I", "decide", "to", "pay", "$", "750", "for", "the", "repairs", "."], "e1_text": "look", "e1_pos": 9, "e2_text": "decide", "e2_pos": 20, "label": "before"}
+]

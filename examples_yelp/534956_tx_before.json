@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pulled", "pork", "was", "smoked", "which", "I", "hate", ",", "I", "wish", "I", "had", "known", "before", "I", "paid", "for", "it", "."], "e1_text": "known", "e1_pos": 13, "e2_text": "paid", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "woulda", "been", "nice", "to", "sample", "it", "first", "before", "wasting", "my", "$", "$", "but", "that", "wasnt", "ever", "gon", "na", "happen", "bcuz", "we", "all", "know", "that", "every1", "gets", "ripped", "off", "in", "these", "kind", "of", "events", "."], "e1_text": "sample", "e1_pos": 5, "e2_text": "wasting", "e2_pos": 9, "label": "before"}
+]

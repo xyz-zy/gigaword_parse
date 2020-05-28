@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "last", "Sunday", "waited", "an", "hour", "after", "ordering", "and", "waitress", "never", "said", "any", "thing", "to", "us", "so", "we", "asked", "for", "a", "take", "out", "and", "that", "took", "another", "15", "min", "food", "was", "ok", "but", "how", "about", "some", "communication"], "e1_text": "waited", "e1_pos": 3, "e2_text": "said", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "customer", "service", "its", "good", ",", "but", ",", "they", "burn", "the", "ends", "of", "my", "hair", "after", "i", "spend", "250", ",", "now", "i", "have", "to", "spend", "more", "money", "on", "repairing", "my", "hair", "."], "e1_text": "burn", "e1_pos": 9, "e2_text": "spend", "e2_pos": 17, "label": "after"}
+]

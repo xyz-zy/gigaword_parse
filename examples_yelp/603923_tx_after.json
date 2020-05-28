@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", ",", "we", "went", "there", "right", "after", "they", "have", "opened", "so", "I", "will", "say", "maybe", "they", "were", "still", "working", "out", "the", "kinks", ",", "at", "least", "I", "hope", "they", "were", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "have", "e2_pos": 9, "label": "after"}
+]

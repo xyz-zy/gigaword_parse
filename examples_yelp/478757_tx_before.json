@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "ended", "up", "missing", "my", "flight", "and", "as", "I", "exited", "the", "vehicle", "the", "driver", "was", "trying", "to", "throw", "my", "bag", "that", "contain", "my", "computers", "and", "etc", "on", "the", "ground", "luckily", "I", "caught", "it", "before", "it", "hit", "or", "I", "would", "probably", "be", "sitting", "in", "DCJ", "for", "beating", "up", "a", "green", "cab", "driver", "."], "e1_text": "caught", "e1_pos": 32, "e2_text": "hit", "e2_pos": 36, "label": "before"}
+]

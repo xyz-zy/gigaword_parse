@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "left", "after", "an", "awkward", "short", "Marshall", "Applewhite", "-LRB-", "of", "the", "Heaven", "'s", "Gate", "cult", "-RRB-", "rubbed", "my", "feet", "with", "hand", "sanitizer", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "rubbed", "e2_pos": 16, "label": "after"},
+{"tokens": ["Props", "to", "GroupOn", "for", "giving", "me", "a", "refund", "after", "I", "told", "them", "what", "happened", "and", "how", "skeezed", "out", "I", "was", "."], "e1_text": "giving", "e1_pos": 4, "e2_text": "told", "e2_pos": 10, "label": "after"}
+]

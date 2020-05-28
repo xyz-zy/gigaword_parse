@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "also", "hair", "in", "the", "food", "of", "another", "couple", "that", "walked", "out", "twenty", "minutes", "earlier", "-LRB-", "after", "announcing", "the", "problem", "quite", "vocally", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "announcing", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "only", "thing", "the", "server", "brought", "quickly", "was", "the", "check", "after", "we", "told", "her", "we", "were", "leaving", "after", "finding", "hair", "in", "the", "food", "that", "we", "'d", "waited", "almost", "an", "hour", "to", "get", "!"], "e1_text": "was", "e1_pos": 7, "e2_text": "told", "e2_pos": 12, "label": "after"}
+]

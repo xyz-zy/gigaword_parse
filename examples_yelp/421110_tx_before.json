@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "everyone", "placed", "their", "orders", "we", "proceeded", "to", "wait", "about", "45-50", "min", "before", "any", "of", "food", "even", "came", "out", "."], "e1_text": "wait", "e1_pos": 8, "e2_text": "came", "e2_pos": 17, "label": "before"},
+{"tokens": ["About", "10-15", "min", "passes", "before", "the", "server", "returns", "to", "inform", "us", "that", "Roger", "'s", "steak", "would", "be", "out", "soon", "and", "that", "they", "had", "overcooked", "the", "original", "one", "."], "e1_text": "passes", "e1_pos": 3, "e2_text": "returns", "e2_pos": 7, "label": "before"}
+]

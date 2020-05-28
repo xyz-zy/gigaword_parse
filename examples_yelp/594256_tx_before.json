@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "sushi", "chef", "served", "a", "family", "that", "came", "in", "after", "us", "before", "making", "our", "order", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "making", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "was", "done", "with", "my", "ramen", "before", "my", "husband", "received", "his", "sushi", "."], "e1_text": "done", "e1_pos": 2, "e2_text": "received", "e2_pos": 9, "label": "before"}
+]

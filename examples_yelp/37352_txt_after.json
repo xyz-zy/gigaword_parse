@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "whole", "time", "I", "was", "waiting", ",", "I", "could", "hear", "inappropriate", "conversations", "the", "staff", "were", "having", "about", "their", "personal", "lives", ",", "and", "speaking", "really", "rudely", "about", "clients", "after", "they", "had", "called", "with", "questions", "about", "their", "loved", "pets", ".", "''"], "e1_text": "speaking", "e1_pos": 22, "e2_text": "had", "e2_pos": 29, "label": "after"},
+{"tokens": ["I", "explained", "that", "I", "had", "just", "left", "the", "clinic", "at", "3am", ",", "was", "exhausted", "and", "9", "mo.", "pregnant", "after", "staying", "up", "all", "night", "there", ".", "''"], "e1_text": "left", "e1_pos": 6, "e2_text": "staying", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "by", "far", "the", "most", "expensive", "and", "took", "well", "over", "a", "month", "for", "them", "to", "get", "here", "after", "I", "had", "paid", "for", "them", "in", "full", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "had", "e2_pos": 20, "label": "after"},
+{"tokens": ["They", "told", "me", "there", "was", "only", "a", "30", "day", "warranty", "after", "I", "paid", "for", "them", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "paid", "e2_pos": 12, "label": "after"}
+]

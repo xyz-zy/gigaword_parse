@@ -1,0 +1,4 @@
+[
+{"tokens": ["Word", "to", "the", "wise", ":", "make", "sure", "you", "eat", "before", "you", "go", "so", "that", "by", "the", "time", "your", "food", "arrives", ",", "you", "'ll", "be", "hungry", "again", "."], "e1_text": "eat", "e1_pos": 8, "e2_text": "go", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "did", "want", "to", "try", "dessert", ",", "but", "like", "I", "said", "before", "...", "I", "had", "to", "work", "the", "next", "evening", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "said", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "the", "hardest", "things", "is", "when", "someone", "walks", "in", "around", "oh", "...", "10", "or", "15", "minutes", "before", "you", "are", "about", "to", "close", "your", "door", "."], "e1_text": "walks", "e1_pos": 8, "e2_text": "are", "e2_pos": 19, "label": "before"},
+{"tokens": ["Last", "night", "I", "went", "into", "AT&T", "about", "15-20", "minutes", "before", "7", "knowing", "exactly", "what", "I", "wanted", "and", "ready", "to", "leave", "with", "a", "new", "phone", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "knowing", "e2_pos": 11, "label": "before"}
+]

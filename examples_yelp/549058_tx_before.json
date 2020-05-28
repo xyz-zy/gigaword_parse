@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "never", "told", "me", "that", "one", "of", "my", "package", "was", "missing", "before", "i", "ask", "for", "it", "."], "e1_text": "missing", "e1_pos": 10, "e2_text": "ask", "e2_pos": 13, "label": "before"},
+{"tokens": ["BUT", "the", "college", "box", "never", "contacts", "you", "about", "any", "of", "answer", "before", "you", "ask", "them", "after", "getting", "tired", "of", "waiting", "."], "e1_text": "contacts", "e1_pos": 5, "e2_text": "ask", "e2_pos": 13, "label": "before"}
+]

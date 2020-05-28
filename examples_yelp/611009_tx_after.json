@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "some", "reasone", "we", "ended", "up", "here", "today", "on", "a", "Thursday", "lunch", "in", "a", "very", "quiet", "city", "...", "As", "we", "drove", "from", "the", "very", "south", "of", "the", "city", "to", "here", "with", "a", "wee", "detour", ",", "between", "12.30", "pm", "and", "1pm", ",", "we", "saw", "no", "more", "than", "a", "singular", "table", "occupied", "all", "over", "Edinburgh", ",", "including", "very", ",", "very", "good", "restaurants", "...", "On", "arrival", "at", "The", "Other", "Place", "it", "had", "3", "tables", ",", "and", "after", "us", "took", "a", "good", "amount", "of", "other", "tables", "for", "lunch", "."], "e1_text": "saw", "e1_pos": 42, "e2_text": "took", "e2_pos": 75, "label": "after"}
+]

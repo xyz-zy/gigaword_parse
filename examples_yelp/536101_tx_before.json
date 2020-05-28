@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "little", "tapas-type", "bar", "food", "offerings", "are", "decently", "tasty", "-LRB-", "chicken", "parm", "sliders", ",", "caprese", "salad", "in", "toothpick-skewer", "form", ",", "spaghetti", "&", "meatball", "bites", ",", "and", "calamari", "are", "some", "of", "the", "ones", "I", "'ve", "tried", "-RRB-", ",", "and", "they", "make", "a", "good", "alternative", "to", "sitting", "down", "for", "a", "full-on", "dinner", "before", "you", "head", "out", "elsewhere", "for", "the", "evening", "."], "e1_text": "sitting", "e1_pos": 44, "e2_text": "head", "e2_pos": 52, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["2", "-RRB-", "My", "room", "smelled", "like", "the", "guy", "before", "smoked", "in", "there", "3", "-RRB-", "The", "hot", "water", "in", "the", "shower", "took", "forever", "to", "heat", "up", "."], "e1_text": "smelled", "e1_pos": 4, "e2_text": "took", "e2_pos": 20, "label": "before"},
+{"tokens": ["It", "took", "at", "least", "3", "tries", "before", "I", "was", "able", "to", "open", "my", "door", "."], "e1_text": "tries", "e1_pos": 5, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

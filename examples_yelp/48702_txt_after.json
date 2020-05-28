@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recently", "moved", "to", "the", "area", "and", "after", "a", "long", "day", "of", "moving", "my", "husband", "and", "I", "were", "very", "hungry", "."], "e1_text": "moved", "e1_pos": 2, "e2_text": "moving", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "used", "to", "eat", "at", "Julioberto", "'s", "in", "Phoenix", "-LRB-", "see", "my", "review", "on", "them", "-RRB-", ",", "and", "I", "was", "skeptical", "about", "Filiberto", "'s", "after", "hearing", "they", "are", "nothing", "like", "Julio", "'s", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "hearing", "e2_pos": 25, "label": "after"}
+]

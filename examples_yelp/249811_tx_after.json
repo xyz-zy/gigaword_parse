@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "looking", "for", "a", "cheap", "place", "to", "stay", "after", "driving", "to", "Phoenix", "from", "San", "Diego", "and", "I", "figured", "that", "Red", "Roof", "Inn", "seemed", "pretty", "decent", "for", "$", "70", "for", "a", "night", "so", "I", "decided", "to", "book", "on", "Trip", "Advisor", "."], "e1_text": "stay", "e1_pos": 8, "e2_text": "driving", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "in", "here", "after", "spending", "13", "hours", "in", "the", "car", "-LRB-", "I", "would", "n't", "recommend", "doing", "this", "-RRB-", "and", "it", "was", "9:30", "on", "a", "Monday", "night", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "spending", "e2_pos": 5, "label": "after"},
+{"tokens": ["Upon", "entering", ",", "we", "were", "greeted", "promptly", "and", "our", "order", "was", "taken", "precisely", "and", "in", "record", "time", ",", "and", "after", "that", "is", "when", "it", "all", "went", "downhill", "."], "e1_text": "taken", "e1_pos": 11, "e2_text": "is", "e2_pos": 21, "label": "after"}
+]

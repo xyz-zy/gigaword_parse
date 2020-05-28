@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "post", "a", "pic", "I", "took", "after", "pointing", "out", "to", "one", "of", "the", "workers", "at", "the", "buffet", "that", "we", "were", "all", "waiting", "for", "her", "to", "finish", "her", "convo", "with", "another", "worker", "and", "get", "some", "freakin", "eggs", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "pointing", "e2_pos": 8, "label": "after"},
+{"tokens": ["There", "'s", "no", "protein", "which", "is", "n't", "pork", "except", "teriyaki", "chicken", "-LRB-", "I", "'m", "dead", "serious", "-RRB-", "so", "the", "mountain", "of", "bacon", "which", "they", "added", "to", ",", "even", "after", "it", "was", "toppling", "over", "and", "the", "gray", "sausage", "-LRB-", "browned", "would", "be", "good", ",", "right", "?", "-RRB-"], "e1_text": "added", "e1_pos": 24, "e2_text": "was", "e2_pos": 30, "label": "after"}
+]

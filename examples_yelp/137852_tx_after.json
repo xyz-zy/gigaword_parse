@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "was", "some", "what", "rude", ",", "he", "was", "irritated", "because", "he", "actually", "had", "to", "serve", "us", ",", "right", "after", "we", "got", "our", "food", ",", "the", "cook", "came", "out", "and", "told", "us", "to", "not", "tip", "him", "because", "he", "racist", ".", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "got", "e2_pos": 21, "label": "after"}
+]

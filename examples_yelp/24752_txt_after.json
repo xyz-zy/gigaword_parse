@@ -1,0 +1,5 @@
+[
+{"tokens": ["\\*\\*\\*", "Update", "\\*\\*\\*", "So", "after", "visiting", "this", "place", "again", "today", ",", "to", "grab", "some", "lunch", "to", "go", ",", "I", "have", "to", "bump", "up", "my", "4", "stars", "to", "5", "."], "e1_text": "\\*\\*\\*", "e1_pos": 2, "e2_text": "visiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["And", "I", "never", "get", "tired", "of", "reading", "the", "randomly", "odd", "stuff", "on", "the", "walls", "...", "like", "how", "Sean", "McLaughlin", "stopped", "there", "for", "a", "slice", "after", "getting", "married", "...", "or", "a", "Xerox", "certification", "of", "Elvis", "'", "check", "for", "the", "purchase", "of", "three", "Caddys", "...", "or", "the", "poster", "for", "the", "maiden", "voyage", "of", "the", "Titanic", "."], "e1_text": "stopped", "e1_pos": 19, "e2_text": "getting", "e2_pos": 25, "label": "after"},
+{"tokens": ["A", "huge", "thank", "you", "to", "my", "friend", "Tina", ",", "for", "fronting", "me", "cash", "after", "I", "realized", "I", "did", "n't", "have", "any", "."], "e1_text": "cash", "e1_pos": 12, "e2_text": "realized", "e2_pos": 15, "label": "after"}
+]

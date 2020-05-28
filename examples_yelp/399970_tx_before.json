@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "Review", "is", "from", "our", "visit", "on", "8\\/29\\/11", ":", "Robyn", "N.", "&", "Mike", "C.", "joined", "me", "today", ",", "&", "both", "of", "them", "have", "been", "here", "before", "as", "well", "."], "e1_text": "joined", "e1_pos": 14, "e2_text": "have", "e2_pos": 22, "label": "before"},
+{"tokens": ["Let", "'s", "hope", "they", "give", "it", "a", "little", "tune-up", "before", "it", "'s", "too", "late", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "'s", "e2_pos": 11, "label": "before"}
+]

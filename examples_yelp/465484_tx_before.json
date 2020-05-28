@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "by", "looking", "at", "the", "color", "of", "the", "soup", "prompt", "me", "to", "ask", "for", "a", "side", "of", "chili", "even", "before", "sampling", "it", "."], "e1_text": "ask", "e1_pos": 12, "e2_text": "sampling", "e2_pos": 20, "label": "before"}
+]

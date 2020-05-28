@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "was", "even", "more", "aggravating", "was", "seeing", "people", "having", "ordered", "after", "me", "get", "their", "food", "first", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "get", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "cashier", "gave", "me", "my", "coffee", "right", "after", "ordering", ",", "but", "I", "wanted", "to", "wait", "for", "my", "panini", "so", "as", "to", "not", "drink", "the", "whole", "thing", "prior", "to", "eating", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 8, "label": "after"}
+]

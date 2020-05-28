@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "watched", "as", "two", "different", "families", "sat", "at", "a", "table", "across", "from", "us", "and", "left", "after", "waiting", "for", "about", "10", "minutes", "to", "give", "a", "drink", "order", ",", "nobody", "ever", "came", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

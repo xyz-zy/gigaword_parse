@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "had", "to", "order", "her", "Grey", "Goose", "L'Orange", "and", "soda", "3", "times", "before", "he", "understood", "what", "she", "wanted", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "understood", "e2_pos": 15, "label": "before"},
+{"tokens": ["Our", "waiter", "stumbled", "through", "a", "few", "words", "and", "umms", "before", "he", "said", "he", "would", "go", "ask", "the", "kitchen", "."], "e1_text": "stumbled", "e1_pos": 2, "e2_text": "said", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "also", "had", "to", "ASK", "for", "the", "cheese", "plate", "that", "was", "supposed", "to", "be", "ready", "in", "her", "bridal", "room", "which", "we", "received", "about", "5", "mins", "before", "we", "had", "to", "make", "that", "walk", "down", "the", "aisle", "."], "e1_text": "received", "e1_pos": 21, "e2_text": "had", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "look", "up", "and", "the", "DJ", "looks", "as", "lost", "as", "ever", "trying", "to", "figure", "out", "his", "equipment", "-LRB-", "Bliss", "Entertainment", "Las", "Vegas", "-RRB-", "who", "by", "the", "way", "is", "NOT", "the", "same", "DJ", "from", "the", "night", "before", "."], "e1_text": "figure", "e1_pos": 13, "e2_text": "is", "e2_pos": 27, "label": "before"},
+{"tokens": ["-", "Did", "n't", "have", "starving", "Bride", "'s", "cheese", "plate", "ready", "in", "room", "and", "it", "did", "n't", "come", "until", "minutes", "before", "we", "had", "to", "leave", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "had", "e2_pos": 21, "label": "before"}
+]

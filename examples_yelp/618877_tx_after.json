@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "gave", "her", "our", "orders", "after", "looking", "at", "the", "little", "flip", "page", "of", "specials", "we", "never", "received", "menus", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "looking", "e2_pos": 6, "label": "after"},
+{"tokens": ["Our", "original", "server", "brought", "them", "over", "after", "mine", "had", "a", "bug", "in", "it", "and", "no", "I", "'m", "not", "making", "this", "up", "."], "e1_text": "brought", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

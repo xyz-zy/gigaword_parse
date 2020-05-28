@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "usually", "like", "to", "visit", "a", "place", "twice", "before", "I", "review", ",", "but", "there", "were", "so", "many", "issues", "with", "my", "first", "visit", ",", "it", "'s", "highly", "unlikely", "I", "'ll", "return", "."], "e1_text": "visit", "e1_pos": 4, "e2_text": "review", "e2_pos": 10, "label": "before"}
+]

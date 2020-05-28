@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bartender", "demanded", "cash", "immediately", "after", "I", "ordered", "instead", "of", "creating", "a", "tab", "for", "me", "and", "said", "it", "'s", "too", "difficult", "to", "track", "tabs", "."], "e1_text": "demanded", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 6, "label": "after"}
+]

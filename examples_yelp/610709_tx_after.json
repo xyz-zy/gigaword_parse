@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "busy", ",", "but", "not", "busy", "enough", "to", "warrant", "us", "being", "forgotten", "about", "for", "25", "minutes", "after", "being", "seated", "."], "e1_text": "forgotten", "e1_pos": 12, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["Now", ",", "you", "'d", "think", "that", "after", "a", "server", "forgot", "about", "a", "table", ",", "they", "'d", "do", "their", "best", "to", "be", "on", "top", "of", "service", ":", "not", "the", "case", "."], "e1_text": "think", "e1_pos": 4, "e2_text": "forgot", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "had", "to", "grab", "another", "waitress", "to", "get", "our", "check", "because", "after", "an", "hour", "and", "a", "half", "of", "being", "here", ",", "we", "wanted", "to", "go", "home", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

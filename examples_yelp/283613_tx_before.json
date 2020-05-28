@@ -1,0 +1,4 @@
+[
+{"tokens": ["Should", "n't", "someone", "of", "noticed", "just", "a", "piece", "of", "fish", "alone", "on", "the", "plate", "before", "it", "was", "sent", "out", "?"], "e1_text": "noticed", "e1_pos": 4, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["Yes", "I", "would", "go", "back", "at", "some", "point", ",", "but", "there", "are", "many", "places", "I", "want", "to", "try", "before", "I", "give", "them", "another", "chance", "."], "e1_text": "try", "e1_pos": 17, "e2_text": "give", "e2_pos": 20, "label": "before"}
+]

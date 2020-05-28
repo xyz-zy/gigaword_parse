@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "family", "was", "in", "town", "from", "Chicago", "and", "we", "came", "here", "on", "a", "whim", "after", "asking", "Siri", "-LRB-", "yes", ",", "the", "one", "from", "iPhone", "-RRB-", "for", "a", "nearby", "Italian", "restaurant", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "asking", "e2_pos": 15, "label": "after"}
+]

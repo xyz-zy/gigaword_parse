@@ -1,0 +1,3 @@
+[
+{"tokens": ["Between", "mandatory", "coat", "check", "and", "music", "cover", "charge", ",", "I", "had", "paid", "$", "14", "before", "I", "even", "sat", "down", "at", "my", "special", ",", "young", "adult", "table", ";", "conveniently", "located", "obnoxiously", "close", "to", "a", "floor", "speaker", "."], "e1_text": "paid", "e1_pos": 11, "e2_text": "sat", "e2_pos": 17, "label": "before"}
+]

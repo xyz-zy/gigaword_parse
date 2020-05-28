@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "yelped", "Holstein", "'s", "Shakes", "and", "Buns", "&", "decided", "to", "give", "it", "a", "try", "after", "seeing", "it", "was", "given", "4", "stars", "."], "e1_text": "give", "e1_pos": 10, "e2_text": "seeing", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "appetite", "disappeared", "soon", "after", "as", "I", "found", "it", "hard", "to", "even", "eat", "the", "french", "fries", "."], "e1_text": "disappeared", "e1_pos": 2, "e2_text": "found", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "asked", "how", "much", "for", "a", "gel", "mani", "was", "told", "$", "28", "then", "after", "all", "is", "done", "it", "was", "$", "38", "because", "he", "said", "I", "did", "n't", "tell", "him", "mani", "when", "I", "asked", "for", "price", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "is", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", "the", "bartender", "in", "the", "main", "restaurant", "was", "kind", "enough", "to", "sell", "us", "a", "bottle", "of", "wine", "after", "they", "closed", "and", "pour", "it", "into", "plastic", "cups", "so", "we", "could", "drink", "it", "at", "the", "pool", "."], "e1_text": "sell", "e1_pos": 11, "e2_text": "closed", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "wish", "I", "remembered", "to", "read", "my", "earlier", "review", "before", "returning", "so", "I", "would", "be", "sure", "to", "order", "something", "different", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "returning", "e2_pos": 11, "label": "before"},
+{"tokens": ["Our", "waitress", "did", "n't", "seem", "to", "mind", "that", "we", "kept", "wanting", "to", "sample", "wine", "before", "we", "bought", "a", "bottle", "."], "e1_text": "seem", "e1_pos": 4, "e2_text": "bought", "e2_pos": 16, "label": "before"}
+]

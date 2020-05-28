@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "gives", "Illy", "a", "bad", "name", "...", "poor", "service", ",", "the", "barista", "lack", "knowledge", "and", "skill", "...", "and", "it", "makes", "me", "want", "to", "buy", "them", "a", "cup", "of", "cappuccino", "and", "ask", "them", "if", "this", "is", "really", "what", "they", "want", "to", "serve", "to", "their", "customers", ",", "and", "then", "leave", "before", "I", "hear", "their", "response", "."], "e1_text": "leave", "e1_pos": 48, "e2_text": "hear", "e2_pos": 51, "label": "before"}
+]

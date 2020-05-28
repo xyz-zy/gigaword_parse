@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "received", "a", "photo", "of", "the", "flowers", "right", "after", "the", "person", "getting", "them", "received", "them", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "getting", "e2_pos": 11, "label": "after"},
+{"tokens": ["i", "have", "not", "heard", "back", "from", "the", "company", "yet", "but", "after", "reviewing", "other", "complaints", "i", "am", "sure", "i", "just", "threw", "away", "money", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "reviewing", "e2_pos": 11, "label": "after"}
+]

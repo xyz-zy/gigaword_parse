@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "understandable", "because", "it", "was", "on", "a", "Friday", "and", "shortly", "after", "we", "entered", "a", "line", "of", "other", "dog-parents", "stacked", "up", "behind", "us", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "entered", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "also", "had", "to", "get", "her", "groomed", "right", "after", "leaving", "the", "facility", "because", "she", "smelled", "so", "awful", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "leaving", "e2_pos": 9, "label": "after"}
+]

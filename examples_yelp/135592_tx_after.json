@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "not", "many", "people", "there", "at", "our", "6pm", "reservation", "and", "right", "after", "our", "server", "introduced", "herself", ",", "she", "was", "replaced", "by", "2", "others", "who", "told", "us", "she", "was", "sent", "home", "because", "it", "was", "slow", "...", "you", "order", "everything", "separate", "and", "the", "servers", "were", "nice", "to", "say", "they", "were", "big", "enough", "for", "two", "-", "the", "price", "sure", "was", "!!", "I", "ordered", "a", "wedge", "starter", "and", "it", "came", "out", "split", "into", "two", "plates", "-", "awesome", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "introduced", "e2_pos": 15, "label": "after"}
+]

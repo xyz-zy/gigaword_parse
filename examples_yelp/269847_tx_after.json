@@ -1,0 +1,3 @@
+[
+{"tokens": ["Did", "n't", "get", "to", "explore", "the", "hotel", "outside", "of", "the", "room", ",", "much", ",", "but", "after", "walking", "into", "our", "suite", ",", "we", "immediately", "knew", "we", "'d", "regret", "moving", "to", "the", "Bellagio", "the", "next", "day", "."], "e1_text": "explore", "e1_pos": 4, "e2_text": "walking", "e2_pos": 16, "label": "after"}
+]

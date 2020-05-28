@@ -1,0 +1,4 @@
+[
+{"tokens": ["Have", "been", "here", "multiple", "times", "but", "after", "today", ",", "not", "going", "back", "."], "e1_text": "been", "e1_pos": 1, "e2_text": "going", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "expect", "to", "wait", "for", "a", "table", ",", "but", "expect", "to", "be", "greeted", "by", "my", "server", "sooner", "than", "15", "minutes", "after", "being", "seated", "!"], "e1_text": "greeted", "e1_pos": 12, "e2_text": "being", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "'ve", "found", "ourselves", "near", "it", "4", "times", "in", "the", "past", "3", "weeks", "for", "various", "unrelated", "reasons", "just", "before", "returning", "home", "and", "decided", "to", "drop", "in", "for", "the", "`", "bottle", "of", "milk", "\\/", "loaf", "of", "bread", "'", "errand", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "returning", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "have", "to", "manufacture", "excuses", "to", "be", "in", "that", "neighborhood", "more", "often", "just", "before", "heading", "home", "-", "like", "tonight", "for", "instance", ":", "-RRB-", "See", "you", "there", "soon", "I", "hope", "!"], "e1_text": "manufacture", "e1_pos": 3, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

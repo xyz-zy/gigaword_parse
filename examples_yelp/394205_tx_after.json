@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "friend", "and", "I", "decided", "on", "this", "place", "last", "night", "for", "dinner", "and", "after", "picking", "it", "out", "of", "a", "hat", "-LRB-", "not", "kidding", "-RRB-", "because", "we", "could", "n't", "exactly", "decide", "where", "we", "wanted", "to", "go", "and", "we", "are", "happy", "that", "we", "did", "."], "e1_text": "decided", "e1_pos": 4, "e2_text": "picking", "e2_pos": 14, "label": "after"}
+]

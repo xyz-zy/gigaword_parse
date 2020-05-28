@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "having", "the", "treatment", "done", ",", "my", "eyebrows", "healed", "in", "4", "days", "-LRB-", "should", "take", "a", "full", "week", "-RRB-", "and", "after", "healing", "they", "are", "both", "different", "shapes", "and", "sizes", "and", "almost", "completely", "faded", "!!", "I", "do", "NOT", "recommend", "this", "salon", "&", "although", "the", "ladies", "who", "work", "there", "are", "lovely", "I", "don", "not", "feel", "that", "they", "take", "their", "work", "seriously", ",", "its", "only", "a", "matter", "of", "time", "before", "something", "goes", "really", "wrong", "."], "e1_text": "healed", "e1_pos": 8, "e2_text": "healing", "e2_pos": 21, "label": "after"}
+]

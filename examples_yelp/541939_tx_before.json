@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "and", "I", "split", "up", "met", "a", "bunch", "of", "new", "people", ",", "got", "all", "this", "dancing", "in", ",", "then", "of", "course", "met", "back", "up", "right", "before", "Sean", "Paul", "hit", "the", "stage", "and", "got", "our", "drinks", "to", "enjoy", "for", "the", "night", "."], "e1_text": "met", "e1_pos": 22, "e2_text": "hit", "e2_pos": 29, "label": "before"}
+]

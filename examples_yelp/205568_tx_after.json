@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "the", "plates", "at", "Lola", "were", "so", "small", "that", "in", "some", "cases", ",", "even", "after", "ordering", "3", "plates", "of", "a", "dish", ",", "someone", "in", "our", "party", "of", "9", "did", "n't", "even", "get", "one", "bite", "!"], "e1_text": "were", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "would", "have", "had", "a", "little", "more", "patience", "for", "the", "portion", "sizes", "-LRB-", "which", "already", "made", "me", "want", "to", "go", "down", "a", "burger", "after", "we", "left", "-RRB-", "if", "the", "flavors", "were", "brighter", "and", "more", "memorable", ",", "but", "that", "aspect", "of", "our", "meal", "was", "also", "a", "letdown", "."], "e1_text": "go", "e1_pos": 19, "e2_text": "left", "e2_pos": 25, "label": "after"}
+]

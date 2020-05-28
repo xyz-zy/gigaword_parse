@@ -1,0 +1,3 @@
+[
+{"tokens": ["Besides", "that", "issue", "the", "service", "was", "slow", "we", "watched", "to", "employees", "talk", "for", "several", "minutes", "before", "they", "acknowledged", "us", ",", "and", "when", "we", "got", "our", "burgers", "we", "had", "to", "remind", "them", "that", "we", "needed", "drinks", "."], "e1_text": "watched", "e1_pos": 8, "e2_text": "acknowledged", "e2_pos": 17, "label": "before"}
+]

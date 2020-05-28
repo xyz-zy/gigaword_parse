@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "this", "time", ",", "there", "have", "already", "been", "other", "customers", "who", "have", "come", "in", "after", "us", "and", "left", "before", "we", "even", "got", "our", "food", "."], "e1_text": "left", "e1_pos": 17, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

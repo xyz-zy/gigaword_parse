@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "we", "'d", "been", "told", "to", "arrive", "very", "early", "we", "were", "unable", "to", "actually", "enter", "our", "theater", "until", "30", "minutes", "before", "show", "time", "-LRB-", "even", "though", "the", "theater", "had", "been", "empty", "for", "nearly", "40", "minutes", "before", "we", "were", "able", "to", "be", "seated", "-RRB-", "."], "e1_text": "enter", "e1_pos": 15, "e2_text": "had", "e2_pos": 29, "label": "before"}
+]

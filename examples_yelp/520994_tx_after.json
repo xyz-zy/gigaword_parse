@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "what", "seemed", "like", "an", "a", "long", "time", "after", "ordering", ",", "I", "still", "have", "not", "been", "served", "my", "simple", "breakfast", ",", "the", "gentleman", "that", "arrived", "after", "me", "was", "served", "his", "breakfast", ",", "and", "then", "a", "table", "that", "arrived", "after", "him", "was", "also", "served", "their", "breakfast", "."], "e1_text": "seemed", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["GROSS", "!!!!", "Unfortunately", ",", "I", "was", "given", "a", "voucher", "to", "this", "hotel", "from", "US", "Airways", "after", "they", "canceled", "our", "flight", "in", "the", "midle", "of", "the", "night", "."], "e1_text": "given", "e1_pos": 6, "e2_text": "canceled", "e2_pos": 17, "label": "after"}
+]

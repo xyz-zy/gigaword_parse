@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "did", "n't", "put", "the", "cheese", "or", "meat", "on", "the", "bread", "before", "he", "put", "it", "in", "the", "oven", "so", ",", "obviously", ",", "there", "was", "no", "melted", "cheese", "."], "e1_text": "put", "e1_pos": 3, "e2_text": "put", "e2_pos": 13, "label": "before"}
+]

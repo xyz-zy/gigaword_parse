@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "n't", "get", "asked", "if", "we", "wanted", "dessert", ",", "though", "there", "is", "a", "menu", ",", "because", "~", "4", "hours", "after", "our", "dinner", "started", ",", "I", "had", "to", "walk", "up", "to", "ask", "for", "the", "bill", "."], "e1_text": "is", "e1_pos": 12, "e2_text": "started", "e2_pos": 23, "label": "after"},
+{"tokens": ["Perhaps", "the", "bar", "was", "over", "capacity", "and", "raw", "food", "takes", "longer", "to", "prepare", "than", "cooked", "stuff", "-LRB-", "though", "the", "1\\/6", "who", "ordered", "steak", "and", "did", "n't", "split", "the", "raw", "platter", "had", "to", "eat", "after", "we", "were", "all", "done", "!!!", "-RRB-", "Perhaps", "the", "cleaning", "lady", "quit", "that", "day", "and", "the", "lack", "of", "toilet", "paper", "in", "the", "women", "'s", "restroom", "was", "her", "responsibility", "."], "e1_text": "eat", "e1_pos": 32, "e2_text": "were", "e2_pos": 35, "label": "after"}
+]

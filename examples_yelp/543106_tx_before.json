@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "was", "clean", ",", "the", "staff", "was", "helpful", "and", "nice", ",", "and", "the", "linemen", "carefully", "trimmed", "the", "excess", "fat", "from", "the", "tri-tip", "before", "serving", "it", ",", "but", "between", "these", "two", "joints", "at", "this", "intersection", ",", "I", "'ve", "had", "it", "up", "to", "here", "with", "''", "``", "barbecue", "''", "''", "of", "questionable", "provenance", "that", "comes", "out", "of", "bins", "wrapped", "in", "saran-wrap", "before", "it", "'s", "cut", "and", "served", "."], "e1_text": "trimmed", "e1_pos": 16, "e2_text": "serving", "e2_pos": 24, "label": "before"}
+]

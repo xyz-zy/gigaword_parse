@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "question", "to", "this", "business", "is", "why", "do", "you", "make", "appointments", "over", "the", "phone", "if", "you", "can", "not", "understand", "your", "clients", "or", "respond", "to", "them", "appropriately", ",", "and", "why", "do", "you", "have", "a", "massage", "business", "if", "you", "are", "only", "going", "to", "stress", "out", "your", "potential", "client", "even", "more", "than", "they", "already", "were", "before", "they", "attempted", "to", "come", "to", "your", "establishment", "?"], "e1_text": "were", "e1_pos": 51, "e2_text": "attempted", "e2_pos": 54, "label": "before"},
+{"tokens": ["I", "am", "glad", "I", "saved", "$", "50", "before", "wasting", "it", "on", "a", "place", "that", "is", "clearly", "not", "managed", "properly", "and", "illegitimate", "."], "e1_text": "saved", "e1_pos": 4, "e2_text": "wasting", "e2_pos": 8, "label": "before"}
+]

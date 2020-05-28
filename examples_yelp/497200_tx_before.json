@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "and", "I", "were", "super", "tired", "and", "wanted", "to", "eat", "somewhere", "for", "dinner", "before", "going", "out", "so", "we", "decided", "to", "stay", "at", "the", "hotel", "and", "check", "out", "one", "of", "the", "restaurants", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "going", "e2_pos": 15, "label": "before"}
+]

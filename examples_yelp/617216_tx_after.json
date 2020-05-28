@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "decided", "to", "try", "this", "place", "after", "hearing", "how", "awesome", "the", "burgers", "were", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "'s", "like", "everyone", "disappeared", "after", "that", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "disappeared", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "should", "mention", "that", "the", "man", "who", "helped", "us", "at", "counter", "did", "come", "out", "and", "ask", "how", "everything", "was", "a", "few", "minutes", "after", "dropping", "it", "off", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "dropping", "e2_pos": 23, "label": "after"}
+]

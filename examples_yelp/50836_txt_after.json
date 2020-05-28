@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "also", "had", "failed", "to", "notice", "that", "we", "had", "an", "iced", "tea", "on", "the", "table", "that", "had", "been", "empty", "since", "shortly", "after", "the", "food", "arrived", "."], "e1_text": "been", "e1_pos": 17, "e2_text": "arrived", "e2_pos": 24, "label": "after"},
+{"tokens": ["She", "never", "even", "offered", "to", "refill", "that", "even", "after", "I", "saw", "her", "take", "note", "of", "it", "."], "e1_text": "refill", "e1_pos": 5, "e2_text": "saw", "e2_pos": 10, "label": "after"}
+]

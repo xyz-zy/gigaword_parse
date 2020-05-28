@@ -1,0 +1,3 @@
+[
+{"tokens": ["BC", "K-Town", "is", "ALWAYS", "busy", "-LRB-", "there", "'s", "a", "huge", "line", "of", "people", "waiting", "in", "line", "before", "the", "place", "even", "opens", "-RRB-", "but", "BCLV", "barely", "had", "anyone", "and", "yet", ",", "my", "server", "spent", "more", "time", "at", "one", "table", "full", "of", "girls", "than", "my", "table", "."], "e1_text": "waiting", "e1_pos": 13, "e2_text": "opens", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "big", "''", "``", "culinary", "faux", "pas", "''", "''", "in", "my", "opinion", "...", "I", "ordered", "a", "chicken", "panini", "and", "my", "boyfriend", "decides", "on", "a", "roast", "panini", "...", "Sandwiches", "arrive", "about", "2", "mins", "later", ",", "right", "after", "our", "apps", "were", "set", "down", ",", "and", "I", "ca", "n't", "even", "begin", "to", "explain", "how", "bad", "these", "things", "were", "."], "e1_text": "arrive", "e1_pos": 30, "e2_text": "were", "e2_pos": 40, "label": "after"}
+]

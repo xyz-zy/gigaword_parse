@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "always", "the", "last", "stop", "before", "we", "head", "out", "from", "Vegas", "cuz", "it", "'s", "just", "good", "to", "leave", "after", "a", "hearty", "burger", ",", "fries", ",", "and", "really", "good", "ice", "cream", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "head", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "think", "the", "burgers", "are", "the", "best", "thing", "on", "their", "menu", "cuz", "I", "was", "disappointed", "with", "a", "couple", "of", "their", "sandwiches", "before", "."], "e1_text": "are", "e1_pos": 4, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

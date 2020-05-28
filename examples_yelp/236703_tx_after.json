@@ -1,0 +1,3 @@
+[
+{"tokens": ["food", "comp", "not", "a", "good", "way", "to", "do", "business", "the", "service", "was", "very", "poor", ",", "no", "greeting", "and", "no", "smile", ",", "and", "i", "was", "told", "i", "did", "n't", "have", "to", "wait", "because", "i", "am", "a", "VIP", "but", "was", "told", "this", "after", "we", "waited", "2", "hrs", ",", "and", "it", "seemed", "that", "all", "the", "personal", "where", "reading", "out", "of", "the", "same", "book", "of", "rudeness", "as", "if", "they", "hated", "their", "job", "."], "e1_text": "told", "e1_pos": 24, "e2_text": "waited", "e2_pos": 42, "label": "after"}
+]

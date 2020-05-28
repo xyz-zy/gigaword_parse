@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "was", "the", "guy", "unfriendly", ",", "he", "was", "rude", "when", "he", "demanded", "the", "money", "as", "if", "I", "was", "n't", "going", "to", "pay", "him", "&", "immediately", "told", "me", "the", "test", "failed", "after", "I", "handed", "him", "the", "cash", "."], "e1_text": "failed", "e1_pos": 30, "e2_text": "handed", "e2_pos": 33, "label": "after"}
+]

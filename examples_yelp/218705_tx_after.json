@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "a", "nice", "spot", "to", "grab", "a", "drink", "after", "you", "check", "out", "the", "Cirque", "Du", "Soleil", "Beatle-centric", "show", "''", "``", "Love", ",", "''", "''", "-LRB-", "for", "my", "money", ",", "one", "of", "the", "best", "shows", "in", "town", ",", "right", "up", "there", "with", "Penn", "and", "Teller", "-RRB-", ",", "but", "it", "'s", "not", "worth", "waiting", "in", "long", "lines", "on", "Friday", "and", "Saturday", "nights", "to", "get", "in", "."], "e1_text": "grab", "e1_pos": 6, "e2_text": "check", "e2_pos": 11, "label": "after"}
+]

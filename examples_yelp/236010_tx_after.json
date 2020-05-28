@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "told", "10", "minutes", "for", "the", "food", "after", "already", "have", "been", "waiting", "20", ",", "then", "10", "passed", "still", "no", "food", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "have", "e2_pos": 10, "label": "after"},
+{"tokens": ["Another", "10", "minutes", "came", "by", "and", "we", "asked", "our", "server", "he", "said", "''", "``", "I", "do", "n't", "care", ",", "we", "'re", "busy", "it", "'ll", "be", "here", "soon", "''", "''", "by", "this", "point", "we", "were", "very", "upset", "being", "told", "''", "``", "I", "do", "n't", "care", "''", "''", "so", "now", "after", "waiting", "50", "minutes", "the", "food", "finally", "came", "and", "was", "not", "at", "all", "worth", "it", "'s", "price", "."], "e1_text": "asked", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 49, "label": "after"}
+]

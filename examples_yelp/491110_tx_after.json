@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "she", "kept", "saying", "that", "our", "milkshakes", "were", "in", "the", "way", ",", "but", "me", "and", "my", "family", "noticed", "that", "people", "who", "arrived", "after", "us", "were", "already", "getting", "their", "milk", "shakes", "and", "we", "were", "still", "waiting", "for", "ours", "to", "come", "."], "e1_text": "arrived", "e1_pos": 21, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["Then", "when", "our", "food", "arrived", "the", "burgers", "and", "fries", "were", "EXCELLENT", ",", "but", "our", "shakes", "still", "have", "yet", "to", "arrive", "...", "So", "after", "we", "finished", "our", "burgers", "and", "fries", "the", "waitress", "gives", "us", "our", "check", "but", "we", "still", "did", "not", "have", "our", "milk", "shakes", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "finished", "e2_pos": 24, "label": "after"}
+]

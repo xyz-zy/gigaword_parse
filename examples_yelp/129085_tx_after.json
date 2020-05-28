@@ -1,0 +1,3 @@
+[
+{"tokens": ["GROSS", "!!", "My", "white", "socks", "were", "pure", "black", "after", "walking", "around", "sock", "footed", "in", "the", "room", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "walking", "e2_pos": 9, "label": "after"}
+]

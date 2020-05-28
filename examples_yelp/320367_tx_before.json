@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "came", "by", "4", "times", "before", "taking", "our", "order", "when", "we", "were", "ready", "after", "5", "minutes", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "taking", "e2_pos": 6, "label": "before"},
+{"tokens": ["Oh", ",", "and", "maybe", "if", "the", "jerk", "who", "was", "our", "server", "had", "put", "aside", "the", "desserts", "for", "us", "when", "we", "ordered", "it", "over", "TWO", "HOURS", "before", "the", "time", "when", "we", "actually", "got", "dessert", ",", "that", "would", "have", "been", "nice", "too", "."], "e1_text": "ordered", "e1_pos": 20, "e2_text": "got", "e2_pos": 31, "label": "before"}
+]

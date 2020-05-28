@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "went", "through", "four", "plates", "in", "the", "stack", "before", "finding", "one", "that", "was", "acceptable", ".", "-RRB-"], "e1_text": "went", "e1_pos": 2, "e2_text": "finding", "e2_pos": 10, "label": "before"},
+{"tokens": ["If", "you", "'re", "looking", "for", "cheap", "then", "this", "is", "apparently", "the", "place", ",", "but", "I", "'d", "recommend", "looking", "ANYWHERE", "else", "before", "staying", "here", "."], "e1_text": "recommend", "e1_pos": 16, "e2_text": "staying", "e2_pos": 21, "label": "before"}
+]

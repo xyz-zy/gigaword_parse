@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "the", "daily", "specials", "was", "ocean", "trout", ",", "which", "I", "'ve", "never", "tried", "before", ",", "but", "now", "LOVE", "-", "it", "'s", "really", "similar", "to", "salmon", ",", "but", "better", "somehow", "...", "Spicy", "tuna", "on", "crispy", "rice", "was", "the", "only", "other", "thing", "I", "'d", "say", "was", "good", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 11, "label": "before"},
+{"tokens": ["Every", "single", "crappy", "sushi", "place", "I", "'ve", "been", "to", ",", "I", "look", "around", "before", "we", "leave", "and", "it", "'s", "a", "lot", "of", "non-Asians", "enjoying", "an", "awesome", "california", "roll", "."], "e1_text": "look", "e1_pos": 11, "e2_text": "leave", "e2_pos": 15, "label": "before"}
+]

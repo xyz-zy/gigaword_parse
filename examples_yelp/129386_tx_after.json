@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "diet", "coke", "finally", "came", "after", "I", "asked", "another", "waiter", "and", "he", "said", "claimed", "that", "the", "soda", "dispenser", "was", "just", "being", "repaired", "which", "I", "felt", "was", "a", "lie", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "asked", "e2_pos": 7, "label": "after"}
+]

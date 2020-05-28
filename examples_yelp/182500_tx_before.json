@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "if", "you", "'re", "not", "sure", "-", "ask", "the", "waiter", "before", "you", "order", "."], "e1_text": "'re", "e1_pos": 3, "e2_text": "order", "e2_pos": 12, "label": "before"},
+{"tokens": ["With", "a", "large", "group", ",", "and", "half", "that", "left", "for", "a", "play", ",", "before", "the", "bill", "came", ",", "others", "picked", "up", "the", "slack", "for", "those", "soup", "and", "salads", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Those", "worries", "were", "soon", "calmed", "after", "Jon", "convinced", "me", "to", "just", "give", "it", "my", "best", "for", "7", "days", "."], "e1_text": "calmed", "e1_pos": 4, "e2_text": "convinced", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "co-workers", "and", "friends", "have", "been", "astounded", "by", "how", "different", "I", "look", "after", "having", "lost", "so", "much", "weight", "."], "e1_text": "look", "e1_pos": 11, "e2_text": "having", "e2_pos": 13, "label": "after"}
+]

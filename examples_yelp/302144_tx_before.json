@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "was", "really", "snappy", "and", "rude", ",", "complaining", "before", "we", "even", "sat", "down", "about", "splitting", "checks", "."], "e1_text": "complaining", "e1_pos": 8, "e2_text": "sat", "e2_pos": 12, "label": "before"},
+{"tokens": ["If", "she", "would", "have", "said", "that", "in", "the", "beginning", ",", "maybe", "everyone", "would", "have", "had", "a", "chance", "to", "order", "before", "the", "kitchen", "closed", "."], "e1_text": "order", "e1_pos": 18, "e2_text": "closed", "e2_pos": 22, "label": "before"}
+]

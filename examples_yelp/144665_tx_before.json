@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "told", "me", "this", "information", "before", "I", "even", "said", "my", "name", "or", "anything", "else", "!!", "He", "then", "went", "on", "to", "say", "there", "was", "50something", "ppl", "ahead", "of", "me", "and", "that", "it", "can", "not", "be", "done", "sooner", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "said", "e2_pos": 8, "label": "before"}
+]

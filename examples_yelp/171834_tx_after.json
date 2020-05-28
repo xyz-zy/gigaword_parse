@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "left", "something", "in", "my", "room", "and", "did", "not", "realize", "it", "until", "8", "hours", "later", "after", "we", "were", "already", "home", "."], "e1_text": "realize", "e1_pos": 9, "e2_text": "were", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "next", "day", "when", "we", "called", "back", ",", "after", "getting", "ANOTHER", "run", "around", "we", "were", "told", "nothing", "was", "turned", "in", "and", "the", "room", "was", "occupied", "so", "there", "was", "nothing", "they", "could", "do", "but", "leave", "a", "message", "for", "the", "occupant", "and", "hope", "they", "look", "."], "e1_text": "called", "e1_pos": 5, "e2_text": "getting", "e2_pos": 9, "label": "after"}
+]

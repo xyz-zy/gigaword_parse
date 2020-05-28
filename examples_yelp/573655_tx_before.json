@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "planning", "to", "order", "a", "few", "more", "rounds", "before", "heading", "to", "Thomas", "Street", "Tavern", "and", "were", "enjoying", "a", "nice", "few", "minutes", "of", "conversation", "when", "the", "server", "comes", "to", "our", "table", "and", "asks", "if", "we", "'re", "ordering", "food", "or", "just", "drinks", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "heading", "e2_pos": 10, "label": "before"}
+]

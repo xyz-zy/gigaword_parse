@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wicked", "Weed", "had", "a", "steady", "line", "even", "before", "general", "admission", "was", "admitted", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["Also", ",", "eat", "before", "you", "come", "."], "e1_text": "eat", "e1_pos": 2, "e2_text": "come", "e2_pos": 5, "label": "before"}
+]

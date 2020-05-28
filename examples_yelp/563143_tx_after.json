@@ -1,0 +1,3 @@
+[
+{"tokens": ["Your", "donuts", "are", "fried", "right", "after", "you", "order", "them", "at", "Chez", "Boris", ",", "they", "are", "small", ",", "so", "you", "can", "order", "one", "or", "two", "or", "three", "depending", "on", "how", "much", "you", "want", ",", "and", "the", "crazy", "thing", "is", "that", "they", "are", "only", "0.50", "cents", "each", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "order", "e2_pos": 7, "label": "after"}
+]

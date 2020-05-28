@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "desk", "lady", "promised", "me", "she", "would", "get", "us", "in", "twice", "before", "we", "leave", ",", "but", "refused", "to", "schedule", "the", "second", "ahead", "of", "time", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "leave", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "said", "they", "ca", "n't", "do", "that", "until", "the", "first", "appointment", ",", "but", "again", "PROMISED", "she", "would", "get", "us", "in", "both", "times", "before", "we", "leave", "...", "more", "on", "that", "later", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "leave", "e2_pos": 24, "label": "before"}
+]

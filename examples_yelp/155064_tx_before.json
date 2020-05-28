@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ate", "at", "Emeril", "Lagasse", "'s", "New", "Orlean", "'s", "Fish", "House", "Saturday", "evening", "before", "the", "KA", "show", "at", "MGM", ",", "and", "it", "was", "the", "worse", "meal", "I", "'ve", "ever", "had", "in", "a", "casino", "yet", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "show", "e2_pos": 16, "label": "before"}
+]

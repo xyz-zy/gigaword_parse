@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "too", "long", "for", "our", "server", "to", "make", "her", "appearance", "after", "we", "were", "seated", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "were", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "must", "have", "taken", "15", "minutes", "for", "my", "beer", "to", "arrive", ",", "and", "that", "was", "about", "10", "minutes", "after", "my", "buddy", "'s", "diet", "coke", "was", "delivered", "by", "a", "staffer", "who", "informed", "us", "the", "beer", "he", "did", "n't", "bring", "would", "be", "coming", "''", "``", "soon", ".", "''", "''"], "e1_text": "was", "e1_pos": 14, "e2_text": "was", "e2_pos": 14, "label": "after"}
+]

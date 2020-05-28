@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upswing", "in", "furniture", "recently", "which", "has", "made", "this", "my", "go-to", "before", "St.", "Vinny", "when", "it", "comes", "to", "looking", "for", "random", "pieces", "to", "add", "to", "my", "pad", "!"], "e1_text": "made", "e1_pos": 6, "e2_text": "comes", "e2_pos": 15, "label": "before"},
+{"tokens": ["You", "might", "have", "to", "bounce", "around", "to", "a", "few", "ReStores", "before", "you", "find", "what", "you", "'re", "looking", "for", ",", "and", "you", "have", "to", "wade", "through", "all", "the", "tile", ",", "cabinets", "and", "random", "pieces", "of", "wood", "."], "e1_text": "bounce", "e1_pos": 4, "e2_text": "find", "e2_pos": 12, "label": "before"}
+]

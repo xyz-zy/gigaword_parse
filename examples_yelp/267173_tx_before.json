@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "had", "never", "made", "the", "noise", "before", "but", "I", "thought", "maybe", "it", "was", "just", "because", "they", "had", "washed", "it", "and", "some", "water", "was", "left", "behind", ",", "so", "I", "shrugged", "it", "off", "."], "e1_text": "made", "e1_pos": 3, "e2_text": "thought", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "am", "a", "very", "reasonable", "and", "courteous", "person", ",", "but", "it", "'s", "ridiculous", "to", "not", "even", "offer", "to", "assess", "the", "vehicle", "before", "making", "a", "determination", "."], "e1_text": "assess", "e1_pos": 18, "e2_text": "making", "e2_pos": 22, "label": "before"}
+]

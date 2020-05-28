@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "the", "concession", "stand", "nearest", "us", "ran", "out", "of", "food", "before", "the", "event", "even", "started", "."], "e1_text": "ran", "e1_pos": 7, "e2_text": "started", "e2_pos": 15, "label": "before"}
+]

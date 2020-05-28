@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "prime", "rib", "was", "as", "rare", "as", "I", "asked", "but", "-", "as", "it", "'s", "often", "the", "case", "-", "the", "chef", "had", "rubbed", "way", "too", "much", "salt", "on", "the", "slab", "before", "cooking", "it", "and", "there", "'s", "no", "desalting", "it", "."], "e1_text": "rubbed", "e1_pos": 21, "e2_text": "cooking", "e2_pos": 30, "label": "before"}
+]

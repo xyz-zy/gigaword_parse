@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "told", "us", "we", "needed", "to", "try", "the", "$", "120\\/person", "tasting", "menu", ",", "because", "it", "REALLY", "showcased", "what", "Mario", "Batali", "is", "known", "for", ",", "and", "then", "proceeded", "to", "name-drop", "''", "``", "Mario", "Batali", "''", "''", "about", "half", "a", "dozen", "more", "times", "before", "leaving", "our", "table", "."], "e1_text": "name-drop", "e1_pos": 28, "e2_text": "leaving", "e2_pos": 42, "label": "before"}
+]

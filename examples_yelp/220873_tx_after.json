@@ -1,0 +1,4 @@
+[
+{"tokens": ["if", "you", "get", "a", "frequent", "eater", "card", "after", "you", "dine", "there", "a", "couple", "times", "it", "'s", "Sushi", "Khan", "as", "it", "says", "on", "the", "card", "and", "menu", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "dine", "e2_pos": 9, "label": "after"},
+{"tokens": ["-LRB-", "note", "to", "self", ":", "do", "n't", "do", "that", "again", "unless", "you", "'re", "a", "cute", "brunette", "chick", "-RRB-", "So", "the", "benefit", "and", "a", "very", "recent", "one", "at", "that", ",", "of", "eating", "at", "Khan", "frequently", "is", "the", "Frequent", "Eater", "card", "...", "after", "you", "'ve", "had", "9", "glorious", "seating", "'s", "your", "10th", "meal", "is", "free", "."], "e1_text": "is", "e1_pos": 34, "e2_text": "'ve", "e2_pos": 42, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "on", "the", "guest", "list", "and", "already", "paid", "for", "the", "package", ",", "and", "they", "tried", "to", "charge", "us", "$", "55", "per", "person", "after", "keeping", "us", "in", "the", "line", "for", "an", "hour", "!"], "e1_text": "tried", "e1_pos": 15, "e2_text": "keeping", "e2_pos": 24, "label": "after"}
+]

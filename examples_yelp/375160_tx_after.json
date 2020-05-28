@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "if", "someone", "else", "had", "already", "reserved", "our", "room", "for", "the", "day", "after", "we", "were", "scheduled", "to", "leave", ",", "but", "they", "totally", "did", "n't", "have", "to", "be", "so", "rude", "to", "him", "especially", "when", "we", "were", "trying", "to", "give", "them", "money", "."], "e1_text": "reserved", "e1_pos": 7, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

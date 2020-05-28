@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "are", "spending", "$", "$", "$", "on", "a", "new", "Sea", "Lion", "exhibit", ",", "but", "perhaps", "they", "should", "resolve", "some", "of", "the", "older", "areas", "of", "the", "zoo", "before", "moving", "onto", "new", "ones", "."], "e1_text": "resolve", "e1_pos": 17, "e2_text": "moving", "e2_pos": 27, "label": "before"},
+{"tokens": ["Nothing", "against", "sea", "lions", ",", "but", "the", "small", "mammals", "deserve", "a", "new", "home", "first", "before", "bringing", "in", "new", "exhibits", "."], "e1_text": "deserve", "e1_pos": 9, "e2_text": "bringing", "e2_pos": 15, "label": "before"}
+]

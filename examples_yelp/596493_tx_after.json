@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "the", "exact", "email", "I", "sent", "to", "the", "brewery", "after", "leaving", "this", "establishment", "about", "my", "''", "``", "experience", "''", "''", "which", "has", "yet", "to", "be", "acknowledged", ":", "Pretty", "disappointed", "by", "last", "night", "'s", "experience", "."], "e1_text": "sent", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 11, "label": "after"},
+{"tokens": ["Sure", "you", "maybe", "thinking", ",", "''", "``", "we", "were", "going", "to", "honor", "it", ",", "just", "45", "minutes", "late", "''", "''", "...", "Which", "means", "it", "would", "take", "me", "how", "long", "to", "get", "food", "and", "beer", "after", "arriving", "at", "this", "imaginary", "table", "?"], "e1_text": "get", "e1_pos": 30, "e2_text": "arriving", "e2_pos": 35, "label": "after"}
+]

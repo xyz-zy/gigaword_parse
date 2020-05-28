@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "tables", "that", "had", "still", "been", "left", "uncleaned", "from", "gosh", "knows", "how", "long", "before", "we", "arrived", "that", "were", "still", "that", "way", "after", "we", "left", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "left", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "waited", "15", "minutes", "for", "the", "check", "after", "they", "'d", "taken", "my", "dates", "plate", "and", "left", "mine", "empty", "-LRB-", "so", "they", "knew", "we", "were", "done", "-RRB-", ",", "but", "our", "waitress", "was", "somehow", "MIA", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "'d", "e2_pos": 9, "label": "after"}
+]

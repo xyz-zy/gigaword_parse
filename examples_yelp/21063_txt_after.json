@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "had", "faster", "results", "because", "after", "the", "wait", "staff", "argued", "with", "her", "about", "how", "the", "table", "was", "not", "missing", "a", "place", "setting", ",", "my", "brother-in-law", "went", "to", "get", "one", "himself", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "argued", "e2_pos": 10, "label": "after"}
+]

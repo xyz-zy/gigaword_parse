@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "seafood", "green", "curry", "had", "some", "nice", "flavor", "and", "heat", ",", "but", "arrived", "barely", "warm", "and", "I", "found", "two", "pieces", "of", "calamari", "in", "it", ",", "so", "apparently", "they", "just", "picked", "out", "the", "clams", "and", "calamari", "before", "serving", "it", "to", "me", "and", "failed", "to", "add", "any", "extra", "shrimp", "or", "scallops", "."], "e1_text": "picked", "e1_pos": 29, "e2_text": "serving", "e2_pos": 36, "label": "before"}
+]

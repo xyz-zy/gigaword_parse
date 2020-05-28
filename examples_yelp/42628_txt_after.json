@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "super", "sensitive", ",", "acne-prone", "skin", "and", "my", "face", "was", "glowing", "after", "she", "did", "the", "pore", "extracting", "facial", "."], "e1_text": "glowing", "e1_pos": 11, "e2_text": "did", "e2_pos": 14, "label": "after"},
+{"tokens": ["All-in-all", "our", "package", "came", "out", "to", "be", "$", "290", "before", "gratuity", "which", "after", "this", "full", "day", "of", "pampering", "-LRB-", "we", "were", "there", "from", "8:30", "to", "almost", "4", "-RRB-", "seemed", "like", "quite", "the", "deal", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "visit", ",", "a", "mechanic", "talked", "me", "out", "of", "getting", "my", "brakes", "repaired", "after", "I", "came", "in", "expressing", "concern", "about", "a", "grinding", "deeling", "I", "experience", "when", "I", "back", "up", "."], "e1_text": "repaired", "e1_pos": 12, "e2_text": "came", "e2_pos": 15, "label": "after"},
+{"tokens": ["Nothing", "is", "wrong", ",", "its", "just", "the", "brakes", "adjusting", "after", "it", "rains", "he", "said", "."], "e1_text": "adjusting", "e1_pos": 8, "e2_text": "rains", "e2_pos": 11, "label": "after"}
+]

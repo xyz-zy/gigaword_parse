@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "I", "was", "spoiled", "from", "eating", "at", "Phils", "BBQ", "-LRB-", "and", "I", "mean", "Phils", "in", "their", "original", "location", "in", "Mission", "Hills", "where", "the", "wait", "was", "always", "over", "1", "1\\/2", "hours", "...", "before", "they", "expanded", "to", "Sports", "Arena", "and", "one", "other", "location", "-RRB-", "Or", "maybe", "Lucilles", "was", "a", "winning", "restaurant", "compared", "to", "here", "\\/", "Whatever", "it", "was", "...", "please", "take", "down", "your", "sign", "!"], "e1_text": "mean", "e1_pos": 12, "e2_text": "expanded", "e2_pos": 33, "label": "before"}
+]

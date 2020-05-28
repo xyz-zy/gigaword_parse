@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "waiting", "for", "it", "I", "nibbled", "on", "my", "bruschetta", "-", "but", "I", "found", "out", "after", "beginning", "to", "eat", "the", "bruschetta", "that", "beneath", "the", "piles", "of", "tomatoes", "and", "basil", ",", "my", "bread", "was", "burned", "."], "e1_text": "found", "e1_pos": 12, "e2_text": "beginning", "e2_pos": 15, "label": "after"}
+]

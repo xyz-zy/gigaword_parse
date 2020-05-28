@@ -1,0 +1,3 @@
+[
+{"tokens": ["Flaws", ",", "albeit", "minor", "ones", ",", "were", "numerous", ":", "our", "table", "was", "quite", "wobbly", ";", "candles", "were", "lit", "-LRB-", "with", "a", "Zippo", "-RRB-", "after", "we", "sat", "down", ",", "even", "though", "we", "had", "made", "a", "reservation", "beforehand", "-LRB-", "and", "so", "the", "table", "should", "have", "been", "fully", "prepped", "for", "our", "arrival", "-RRB-", ";", "there", "was", "nowhere", "to", "put", "my", "wife", "'s", "sweater", "so", "she", "put", "it", "on", "the", "banquette", "beside", "her", ";", "the", "restaurant", "was", "quite", "chilly", ",", "etc.", "etc.", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "sat", "e2_pos": 25, "label": "after"}
+]

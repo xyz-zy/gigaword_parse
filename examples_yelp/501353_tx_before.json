@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "customer", "support", "said", ",", "while", "I", "was", "on", "the", "phone", "with", "them", "for", "an", "hour", "before", "they", "did", "the", "work", "in", "Washington", "over", "the", "phone", "that", "customer", "service", "should", "have", "taken", "care", "of", "in", "the", "store", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "did", "e2_pos": 18, "label": "before"}
+]

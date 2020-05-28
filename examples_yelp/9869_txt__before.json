@@ -1,0 +1,5 @@
+[
+{"tokens": ["Although", "the", "parking", "lot", "was", "full", "-LRB-", "I", "had", "to", "wait", "for", "a", "car", "to", "leave", "before", "I", "was", "able", "to", "park", "-RRB-", ",", "we", "were", "able", "to", "find", "a", "table", "immediately", "on", "entering", "."], "e1_text": "leave", "e1_pos": 15, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["It", "took", "us", "all", "of", "2", "minutes", "to", "figure", "out", "our", "drink", "preferences", ",", "but", "it", "was", "10", "minutes", "before", "our", "server", "returned", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "returned", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "'ll", "spare", "you", "the", "remaining", "saga", ",", "but", "I", "'ll", "bet", "you", "can", "guess", "that", "it", "was", "more", "of", "the", "same", "as", "it", "took", "us", "one", "hour", "and", "fifty", "minutes", "before", "we", "had", "paid", "our", "tab", "and", "were", "able", "to", "leave", "."], "e1_text": "took", "e1_pos": 24, "e2_text": "had", "e2_pos": 33, "label": "before"}
+]

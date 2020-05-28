@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "return", "home", "to", "pittsburgh", "this", "is", "always", "a", "must", "to", "ease", "myself", "into", "a", "Saturday", "morning", "recovery", "after", "getting", "banged", "up", "on", "cheap", "south", "side", "cocktails", "the", "night", "before", "."], "e1_text": "ease", "e1_pos": 12, "e2_text": "getting", "e2_pos": 20, "label": "after"},
+{"tokens": ["When", "I", "think", "of", "pittsburgh", ",", "I", "remember", "cutting", "morning", "classes", "in", "highschool", "just", "to", "get", "after", "the", "best", "bacon", "egg", "and", "cheese", "i", "know", "of", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "know", "e2_pos": 24, "label": "after"}
+]

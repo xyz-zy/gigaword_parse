@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "should", "have", "used", "the", "windshield", "rag", "to", "clean", "there", "hands", "before", "working", "on", "any", "ones", "vehicle", "and", "then", "use", "a", "squeegee", "to", "do", "the", "windows", ".", "."], "e1_text": "hands", "e1_pos": 10, "e2_text": "working", "e2_pos": 12, "label": "before"}
+]

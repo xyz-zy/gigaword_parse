@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "got", "there", "and", "told", "them", "I", "merely", "wanted", "to", "see", "what", "the", "new", "pool", "and", "what", "the", "cabana", "'s", "were", "like", "before", "I", "dropped", "a", "lot", "of", "money", "on", "one", ",", "they", "told", "me", "I", "was", "not", "allowed", "to", "go", "in", "without", "paying", "the", "$", "50", "dollar", "fee", "."], "e1_text": "were", "e1_pos": 21, "e2_text": "dropped", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "'ll", "spend", "my", "time", "and", "money", "at", "MGM", "or", "Cosmo", "from", "here", "on", "out", "-LRB-", "both", "of", "whom", "had", "let", "me", "view", "their", "cabana", "'s", "before", "booking", "them", "the", "first", "time", "I", "went", "to", "their", "pools", "-RRB-", "."], "e1_text": "view", "e1_pos": 22, "e2_text": "'s", "e2_pos": 25, "label": "before"}
+]

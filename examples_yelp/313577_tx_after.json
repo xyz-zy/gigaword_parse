@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "price", "started", "at", "$", "19k", ",", "after", "we", "said", "no", ",", "it", "went", "down", "to", "$", "15k", ",", "then", "when", "we", "said", "no", "again", "...", "it", "went", "down", "to", "$", "10k", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "said", "e2_pos": 9, "label": "after"}
+]

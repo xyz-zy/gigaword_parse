@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "waited", "in", "line", "outside", "next", "to", "the", "''", "``", "best", "breakfast", "in", "pittsburgh", "''", "''", "sign", "for", "about", "30", "minutes", "before", "being", "seated", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 22, "label": "before"}
+]

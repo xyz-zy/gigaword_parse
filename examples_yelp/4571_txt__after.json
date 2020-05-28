@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "neighbor", "moved", "out", "after", "2", "months", "of", "living", "in", "mozart", "because", "of", "things", "like", "this", "."], "e1_text": "moved", "e1_pos": 2, "e2_text": "living", "e2_pos": 8, "label": "after"},
+{"tokens": ["They", "'ll", "never", "be", "as", "nice", "after", "you", "sign", ",", "unless", "you", "get", "a", "perfect", "room", "with", "no", "problems", "and", "you", "never", "talk", "to", "any", "of", "their", "staff", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "sign", "e2_pos": 8, "label": "after"}
+]

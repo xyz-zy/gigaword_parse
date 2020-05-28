@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "and", "I", "were", "sitting", "at", "the", "bar", "for", "ten", "minutes", "before", "someone", "came", "over", "not", "to", "ask", "us", "what", "we", "wanted", "to", "drink", "or", "to", "show", "us", "menus", ",", "but", "to", "stand", "there", "."], "e1_text": "sitting", "e1_pos": 5, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

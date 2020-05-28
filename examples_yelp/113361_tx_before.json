@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "a", "young", "guy", "who", "could", "have", "washed", "his", "shirt", "a", "few", "times", "before", "wearing", "it", "again", "."], "e1_text": "washed", "e1_pos": 9, "e2_text": "wearing", "e2_pos": 16, "label": "before"}
+]

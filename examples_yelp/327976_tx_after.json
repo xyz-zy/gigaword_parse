@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "do", "n't", "forget", "to", "return", "your", "car", "on", "time", ",", "or", "you", "'ll", "get", "charged", "another", "day", "'s", "rent", "after", "you", "are", "1", "hour", "late", "!"], "e1_text": "charged", "e1_pos": 15, "e2_text": "are", "e2_pos": 22, "label": "after"}
+]

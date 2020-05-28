@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "objected", "to", "the", "resort", "fee", ",", "I", "declined", "to", "cancel", "the", "reservation", "with", "the", "desk", "clerk", "--", "but", "did", "cancel", "it", "after", "talking", "to", "this", "cyborg", "-LRB-", "the", "concierge", "-RRB-", "We", "ended", "up", "staying", "at", "The", "Mirage", "and", "had", "a", "much", "better", "time", "than", "I", "'m", "sure", "we", "'d", "have", "had", "in", "this", "place", "."], "e1_text": "cancel", "e1_pos": 11, "e2_text": "talking", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "really", "sad", "part", "began", "after", "we", "got", "the", "bill", "."], "e1_text": "began", "e1_pos": 4, "e2_text": "got", "e2_pos": 7, "label": "after"},
+{"tokens": ["On", "our", "way", "out", ",", "I", "asked", "the", "hostess", "what", "the", "difference", "between", "the", "two", "menus", "was", "and", "after", "she", "told", "me", "the", "smaller", "menu", "was", "for", "lunch", ",", "I", "asked", "what", "was", "needed", "to", "order", "lunch", "items", "next", "time", "."], "e1_text": "asked", "e1_pos": 6, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "highly", "recommend", "this", "place", "and", "am", "intending", "to", "revisit", "this", "place", "before", "I", "leave", "Vegas", "to", "head", "back", "home", "to", "LA.", "."], "e1_text": "revisit", "e1_pos": 9, "e2_text": "leave", "e2_pos": 14, "label": "before"}
+]

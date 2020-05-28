@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "a", "reasonable", "line", "and", "after", "about", "10", "minutes", "wait", "it", "was", "my", "turn", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "wait", "e2_pos": 10, "label": "after"},
+{"tokens": ["After", "some", "protracted", "exchange", "of", "views", "I", "was", "allowed", "to", "depart", ",", "some", "45", "minutes", "after", "arriving", "with", "my", "car", "with", "an", "assurance", "that", "the", "lack", "of", "gas", "would", "have", "been", "documented", "on", "my", "rental", "agreement", "."], "e1_text": "depart", "e1_pos": 10, "e2_text": "arriving", "e2_pos": 16, "label": "after"}
+]

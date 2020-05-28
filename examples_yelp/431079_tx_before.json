@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "up", "to", "tell", "him", "that", "he", "might", "want", "to", "make", "sure", "that", "it", "is", "thawed", "out", "before", "he", "gives", "it", "to", "another", "customer", "and", "he", "muttered", "out", "some", "sentence", "fragment", "that", "I", "think", "was", "that", "it", "came", "from", "the", "freezer", "."], "e1_text": "thawed", "e1_pos": 16, "e2_text": "gives", "e2_pos": 20, "label": "before"}
+]

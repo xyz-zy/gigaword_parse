@@ -1,0 +1,4 @@
+[
+{"tokens": ["Have", "had", "pleasant", "meals", "at", "Rita", "'s", "before", ",", "tonight", "'s", "was", "horrible", ",", "even", "with", "the", "place", "nearly", "empty", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["No", "one", "asked", "if", "we", "wanted", "another", "drink", ",", "and", "no", "one", "filled", "water", "glasses", "until", "just", "before", "the", "check", "arrived", "."], "e1_text": "filled", "e1_pos": 12, "e2_text": "arrived", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "was", "burned", "and", "when", "we", "asked", "to", "address", "an", "issue", "we", "waited", "for", "30", "minutes", "before", "we", "left", "because", "no", "one", "came", "manager", "was", "too", "busy", "standing", "at", "the", "bar", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

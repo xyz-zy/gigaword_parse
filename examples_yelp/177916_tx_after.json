@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "hit", "this", "place", "up", "after", "doing", "reaserch", "on", "da", "web", "and", "this", "was", "rated", "one", "of", "the", "top", "10", "buffets", "in", "Vegas", "."], "e1_text": "hit", "e1_pos": 3, "e2_text": "doing", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "soooooo", "dont", "recommend", "this", "place", "because", "after", "I", "ate", "and", "we", "were", "walking", "back", "to", "our", "hotel", "in", "the", "Aria", "hotel", "halway", "I", "was", "holding", "my", "yack", "in", "and", "as", "soon", "as", "I", "opened", "my", "room", "door", "and", "I", "YACKED", "all", "the", "food", "I", "ate", "."], "e1_text": "recommend", "e1_pos": 3, "e2_text": "ate", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["But", "I", "had", "a", "major", "case", "of", "the", "number", "2", "emergency", "around", "20", "minutes", "after", "consuming", "the", "food", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "consuming", "e2_pos": 15, "label": "after"},
+{"tokens": ["But", "you", "know", "what", ",", "for", "the", "SECOND", "TIME", ",", "both", "me", "and", "my", "gf", "had", "to", "run", "into", "the", "bathroom", "at", "College", "of", "Southern", "Nevada", "after", "consuming", "the", "food", "."], "e1_text": "run", "e1_pos": 17, "e2_text": "consuming", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "was", "humiliated", "after", "I", "was", "caught", "up", "by", "my", "friends", "who", "was", "taking", "their", "sweet", "assed", "time", "telling", "their", "long", "fucking", "story", "to", "me", "."], "e1_text": "humiliated", "e1_pos": 2, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

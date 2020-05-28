@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stood", "there", "after", "the", "customer", "left", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "left", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "stood", "there", "quietly", "as", "the", "associate", "behind", "the", "desk", "glanced", "at", "me", "and", "went", "behind", "his", "cash", "register", ",", "and", "after", "another", "minute", "of", "silence", "I", "got", "tired", "of", "feeling", "ignored", "and", "felt", "like", ",", "Wow", "really", "!?", "How", "can", "they", "ignore", "a", "customer", "like", "that", "??", "So", "I", "got", "mad", "and", "walked", "off", "to", "see", "if", "I", "could", "find", "some", "rope", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "got", "e2_pos": 27, "label": "after"}
+]

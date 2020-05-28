@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "to", "the", "room", "couple", "more", "issues", ":", "The", "toilet", "ran", "for", "15", "minutes", "after", "you", "flush", "it", "."], "e1_text": "ran", "e1_pos": 12, "e2_text": "flush", "e2_pos": 18, "label": "after"},
+{"tokens": ["We", "found", "this", "out", "after", "we", "had", "placed", "all", "of", "our", "stuff", "in", "it", "and", "unpacked", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "after"}
+]

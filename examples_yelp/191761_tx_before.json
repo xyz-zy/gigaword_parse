@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "exemplifies", "the", "lack", "of", "polish", "here", ",", "as", "at", "any", "other", "fine", "restaurant", ",", "the", "credit", "card", "would", "be", "handed", "back", "by", "name", "to", "the", "person", "who", "possesses", "it", "-LRB-", "and", "it", "'s", "pretty", "easy", "to", "tell", "who", "did", "between", "the", "two", "of", "us", "and", "similarly", "so", "if", "you", "note", "the", "person", "handing", "it", "off", "to", "you", "before", "you", "swipe", "it", "-RRB-", "."], "e1_text": "did", "e1_pos": 39, "e2_text": "swipe", "e2_pos": 60, "label": "before"}
+]

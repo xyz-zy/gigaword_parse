@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "evening", "was", "long", "and", "strange", "...", "We", "came", "in", "on", "Saturday", "night", "before", "heading", "over", "to", "see", "Chelsea", "Handler", "at", "Time", "Warner", ",", "apparently", "not", "just", "our", "idea", "!"], "e1_text": "came", "e1_pos": 8, "e2_text": "heading", "e2_pos": 14, "label": "before"},
+{"tokens": ["Then", "I", "had", "the", "Sangria-red", "I", "had", "n't", "read", "the", "description", "before", "ordering", "it", "thinking", "that", "it", "would", "be", "like", "every", "other", "Sangria", "I", "'ve", "ever", "drank", ",", "WRONG", "this", "is", "served", "with", "Tequila", "in", "it", "!!", "It", "was", "gross", "why", "put", "Tequila", "with", "wine", "?"], "e1_text": "read", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "know", "our", "server", "was", "n't", "young", "probably", "30", "'s", "and", "it", "was", "as", "if", "he", "has", "never", "done", "this", "before", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "has", "e2_pos": 16, "label": "before"}
+]

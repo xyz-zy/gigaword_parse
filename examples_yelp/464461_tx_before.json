@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "usually", "try", "to", "give", "Vegas", "hotels", "several", "chances", "before", "writing", "a", "review", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "writing", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "love", "to", "see", "how", "I", "look", "before", "I", "got", "out", "for", "the", "day\\/night", "."], "e1_text": "look", "e1_pos": 6, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

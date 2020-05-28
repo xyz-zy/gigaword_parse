@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "should", "have", "been", "communicated", "better", "within", "the", "dealership", "before", "my", "parents", "took", "time", "to", "go", "pick", "it", "up", "!!", "When", "my", "step", "dad", "asked", "the", "manager", "to", "help", "him", ",", "he", "told", "him", "he", "could", "n't", "help", "at", "all", "."], "e1_text": "communicated", "e1_pos": 4, "e2_text": "took", "e2_pos": 12, "label": "before"}
+]

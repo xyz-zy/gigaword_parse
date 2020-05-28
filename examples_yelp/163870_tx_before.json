@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "exterior", "paint", "and", "windows", "still", "look", "''", "``", "fresh", "''", "''", ",", "while", "the", "furniture", "inside", "rooms", "are", "replaced", "before", "they", "look", "worn", "out", "."], "e1_text": "replaced", "e1_pos": 19, "e2_text": "look", "e2_pos": 6, "label": "before"}
+]

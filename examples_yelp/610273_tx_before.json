@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "is", "great", ",", "fresh", "ingredients", "and", "any", "pizza", "place", "that", "cooks", "their", "onions", ",", "peppers", "&", "mushrooms", "before", "putting", "them", "on", "the", "pizza", "-LRB-", "an", "extra", "touch", "I", "SO", "appreciate", "for", "flavor", "and", "no", "soggy", "pizza", "-RRB-", "is", "a", "great", "pizza", "place", "!!"], "e1_text": "cooks", "e1_pos": 12, "e2_text": "putting", "e2_pos": 20, "label": "before"}
+]

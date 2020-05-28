@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "seen", "one", "before", "but", "a", "quick", "search", "on", "my", "phone", "confirmed", "their", "identity", "."], "e1_text": "seen", "e1_pos": 3, "e2_text": "confirmed", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "was", "passed", "around", "to", "about", "4", "different", "people", "before", "someone", "was", "able", "to", "tell", "me", "if", "my", "clothes", "could", "be", "laundered", "."], "e1_text": "passed", "e1_pos": 2, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

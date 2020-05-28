@@ -1,0 +1,3 @@
+[
+{"tokens": ["Alexis", "served", "me", ",", "with", "a", "smile", "and", "an", "apology", ",", "after", "waiting", "for", "15", "minutes", ",", "with", "my", "to", "go", "order", "that", "should", "have", "been", "taken", "to", "my", "car", "."], "e1_text": "served", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

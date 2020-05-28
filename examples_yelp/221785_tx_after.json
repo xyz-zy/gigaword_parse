@@ -1,0 +1,4 @@
+[
+{"tokens": ["SERIOUS", "MEXICAN", "NOM", "'S", "!!!", "My", "husband", "and", "I", "stopped", "here", "after", "flying", "into", "Phoenix", "."], "e1_text": "stopped", "e1_pos": 9, "e2_text": "flying", "e2_pos": 12, "label": "after"},
+{"tokens": ["It", "was", "a", "bit", "late", "but", "they", "were", "more", "than", "willing", "to", "accommodate", "us", ",", "thank", "goodness", "!!!", "I", "was", "craving", "good", ",", "real", "homemade", "Mexican", "food", "after", "being", "in", "the", "Midwest", "for", "months", "with", "no", "real", "Mexican", "."], "e1_text": "craving", "e1_pos": 20, "e2_text": "being", "e2_pos": 28, "label": "after"}
+]

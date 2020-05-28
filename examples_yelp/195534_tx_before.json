@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "been", "more", "observant", "before", "venturing", "here", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "venturing", "e2_pos": 7, "label": "before"},
+{"tokens": ["Before", "I", "go", "on", ",", "I", "will", "add", "that", "I", "have", "been", "here", "before", "."], "e1_text": "add", "e1_pos": 7, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

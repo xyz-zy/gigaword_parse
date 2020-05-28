@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "host", "was", "friendly", ",", "and", "the", "rest", "of", "the", "service", "staff", "was", "wonderful", "--", "fast", ",", "efficient", ",", "and", "totally", "unobtrusive", ",", "sliding", "silverware", "and", "refills", "in", "as", "needed", "before", "slipping", "quietly", "away", ",", "doing", "quality", "control", "checks", "after", "we", "'d", "taken", "a", "couple", "of", "bites", "of", "each", "course", "."], "e1_text": "sliding", "e1_pos": 23, "e2_text": "slipping", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "eat", "my", "veggies", "first", "before", "any", "other", "part", "of", "the", "entree", ",", "and", "if", "I", "do", "n't", "want", "to", "go", "into", "my", "main", "dish", "feeling", "sad", "."], "e1_text": "eat", "e1_pos": 1, "e2_text": "do", "e2_pos": 16, "label": "before"}
+]

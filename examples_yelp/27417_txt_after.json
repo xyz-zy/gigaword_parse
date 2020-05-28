@@ -1,0 +1,3 @@
+[
+{"tokens": ["Left", "with", "a", "dirty", "car", "even", "after", "paying", "$", "35.00"], "e1_text": "Left", "e1_pos": 0, "e2_text": "paying", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "them", "that", "I", "could", "n't", "afford", "$", "1000", "and", "I", "would", "have", "to", "take", "the", "car", "somewhere", "else", ";", "when", "I", "pick", "up", "the", "car", "they", "spring", "a", "$", "192", "''", "``", "diagnostic", "fee", "''", "''", ",", "which", "they", "waved", "after", "I", "complained", ",", "but", "then", "I", "go", "to", "drive", "the", "car", "and", "it", "no", "longer", "runs", "!"], "e1_text": "waved", "e1_pos": 41, "e2_text": "complained", "e2_pos": 44, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["...", "Rehab", "...", "I", "was", "speechless", "before", "and", "you", "leave", "me", "speechless", "after", "Here", "is", "a", "rundown", "."], "e1_text": "speechless", "e1_pos": 11, "e2_text": "is", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "must", "add", "after", "going", "here", "my", "friend", "and", "I", "now", "use", "this", "as", "a", "''", "``", "would", "you", "rather", "''", "''", "."], "e1_text": "add", "e1_pos": 2, "e2_text": "going", "e2_pos": 4, "label": "after"},
+{"tokens": ["Trust", "me", "you", "may", "take", "the", "2nd", "option", "after", "being", "here", "for", "6", "hours", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

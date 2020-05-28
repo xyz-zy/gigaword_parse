@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "first", "stepped", "in", "I", "was", "kindly", "greeted", "by", "the", "staff", "and", "owner", "-LRB-", "who", "was", "also", "the", "chef", "-RRB-", "and", "we", "exchanged", "a", "few", "pleasantries", "before", "I", "ordered", "."], "e1_text": "exchanged", "e1_pos": 23, "e2_text": "ordered", "e2_pos": 29, "label": "before"}
+]

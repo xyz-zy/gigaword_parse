@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "first", "gripe", "happened", "before", "I", "even", "left", "the", "shop", "with", "my", "sandwiches", "."], "e1_text": "happened", "e1_pos": 3, "e2_text": "left", "e2_pos": 7, "label": "before"},
+{"tokens": ["It", "took", "me", "two", "big", "bites", "before", "I", "tasted", "a", "hint", "of", "cheese", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "tasted", "e2_pos": 8, "label": "before"}
+]

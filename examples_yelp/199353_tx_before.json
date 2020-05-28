@@ -1,0 +1,4 @@
+[
+{"tokens": ["Quick", "Review", ":", "If", "you", "'re", "staying", "at", "Mandalay", "and", "you", "go", "out", "at", "night", ",", "eat", "before", "you", "come", "back", ",", "or", "else", "you", "'ll", "be", "eating", "here", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "come", "e2_pos": 19, "label": "before"},
+{"tokens": ["There", "are", "cheaper", "alternatives", "on", "the", "strip", ",", "just", "make", "sure", "you", "go", "to", "them", "before", "coming", "back", "to", "Mandalay", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "coming", "e2_pos": 16, "label": "before"}
+]

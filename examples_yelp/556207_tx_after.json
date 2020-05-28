@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "attempted", "to", "use", "Brothers", "Gonzalez", "Landscaping", "after", "they", "left", "a", "card", "on", "my", "doorstep", "."], "e1_text": "use", "e1_pos": 3, "e2_text": "left", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "home", "and", "was", "able", "to", "pay", "them", "after", "the", "work", "was", "completed", "."], "e1_text": "pay", "e1_pos": 7, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

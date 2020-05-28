@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "do", "n't", "know", "what", "their", "system", "says", "about", "me", ",", "but", "I", "ca", "n't", "understand", "why", "you", "would", "n't", "ask", "someone", "before", "shaving", "their", "hair", "off", ",", "especially", "if", "it", "was", "clear", "they", "did", "n't", "have", "that", "down", "last", "time", "."], "e1_text": "ask", "e1_pos": 20, "e2_text": "shaving", "e2_pos": 23, "label": "before"},
+{"tokens": ["She", "quickly", "told", "me", "it", "was", "n't", "her", "fault", "and", "that", "I", "should", "have", "said", "something", "before", "she", "did", "this", "."], "e1_text": "said", "e1_pos": 14, "e2_text": "did", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "assure", "you", ",", "there", "was", "no", "real", "time", "to", "react", "before", "she", "had", "already", "lopped", "off", "a", "good", "part", "of", "my", "hair", "."], "e1_text": "react", "e1_pos": 10, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

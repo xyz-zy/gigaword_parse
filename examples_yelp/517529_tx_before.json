@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "did", "n't", "bring", "us", "water", ",", "and", "it", "was", "HOT", "out", "and", "we", "were", "sitting", "on", "the", "patio", ";", "AND", "he", "took", "a", "LONG", "LONG", "time", "to", "get", "us", "our", "drinks", "-LRB-", "I", "think", "we", "went", "thru", "2", "servings", "of", "chips", "and", "salsa", "before", "we", "got", "our", "drinks", "-RRB-", "-", "not", "a", "good", "thing", "in", "AZ", "!"], "e1_text": "went", "e1_pos": 37, "e2_text": "got", "e2_pos": 47, "label": "before"}
+]

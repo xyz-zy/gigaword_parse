@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "just", "came", "here", "&", "have", "been", "here", "before", "the", "donuts", "are", "excellent", "...", "MANAGEMENT", "is", "the", "problem", "they", "have", "set", "hours", "&", "this", "is", "the", "3rd", "time", "I", "have", "stopped", "here", "&", "they", "are", "closed", "before", "the", "actual", "time", "."], "e1_text": "been", "e1_pos": 6, "e2_text": "are", "e2_pos": 11, "label": "before"}
+]

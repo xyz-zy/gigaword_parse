@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "was", "I", "thinking", "for", "not", "checking", "yelp", "before", "entering", "into", "this", "restaurant", "!!", "Salty", "Fish", "with", "Duck", "fried", "rice", "-LRB-", "$", "10.50", "-RRB-", ":", "This", "dish", "got", "a", "response", "of", "''", "``", "this", "is", "n't", "worth", "$", "10.50", "!"], "e1_text": "checking", "e1_pos": 6, "e2_text": "entering", "e2_pos": 9, "label": "before"}
+]

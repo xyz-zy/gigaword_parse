@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", "I", "blamed", "the", "person", "picking", "up", "the", "order", "for", "not", "checking", "before", "leaving", "the", "restaurant", "to", "see", "if", "they", "forgot", "anything", "."], "e1_text": "checking", "e1_pos": 13, "e2_text": "leaving", "e2_pos": 15, "label": "before"},
+{"tokens": ["This", "time", "the", "item", "we", "ordered", "had", "been", "sold", "out", "AFTER", "we", "ordered", "but", "before", "we", "picked", "up", "so", "PinKaow", "decided", "to", "sub", "a", "different", "item", "and", "not", "tell", "us", "."], "e1_text": "sold", "e1_pos": 8, "e2_text": "picked", "e2_pos": 16, "label": "before"}
+]

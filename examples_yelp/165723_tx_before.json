@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "the", "toilet", "is", "full", ",", "no", "can", "wash", "there", "hands", "and", "no", "showers", "before", "we", "catch", "our", "flight", "."], "e1_text": "wash", "e1_pos": 8, "e2_text": "catch", "e2_pos": 16, "label": "before"}
+]

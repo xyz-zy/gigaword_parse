@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "signed", "on", "for", "a", "timeshare", "presentation", "in", "Las", "Vegas", "because", "we", "were", "PROMISED", "tickets", "to", "Donny", "and", "Marie", ",", "and", "these", "were", "confirmed", "by", "telephone", "by", "the", "carnival", "barker", "at", "the", "sign", "up", "kiosk", "before", "ever", "agreeing", "to", "anything", "."], "e1_text": "kiosk", "e1_pos": 34, "e2_text": "agreeing", "e2_pos": 37, "label": "before"}
+]

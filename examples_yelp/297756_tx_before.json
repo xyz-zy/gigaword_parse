@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "the", "owner", ":", "Last", "Thursday", "you", "had", "a", "young", "man", "waiting", "tables", "who", "I", "had", "never", "seen", "before", "."], "e1_text": "waiting", "e1_pos": 11, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "service", "left", "much", "to", "be", "desired", "and", "the", "habits", "of", "this", "particular", "waiter", "touching", "himself", "before", "he", "served", "our", "food", "was", "disconcerting", "not", "to", "mention", ",", "a", "bit", "''", "``", "nasty", ".", "''", "''"], "e1_text": "touching", "e1_pos": 14, "e2_text": "served", "e2_pos": 18, "label": "before"}
+]

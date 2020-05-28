@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "my", "family", "'s", "''", "``", "annual", "''", "''", "trip", "to", "Las", "Vegas", "from", "Cali", ",", "we", "stopped", "by", "this", "place", "on", "glowing", "recommendations", "from", "my", "sister", "before", "we", "headed", "out", "of", "town", "...", "we", "figure", "we", "might", "as", "well", "get", "some", "good", "food", "before", "losing", "the", "rest", "of", "our", "wages", "."], "e1_text": "stopped", "e1_pos": 17, "e2_text": "headed", "e2_pos": 29, "label": "before"}
+]

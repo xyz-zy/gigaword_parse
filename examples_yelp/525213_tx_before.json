@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "approach", "the", "door", "and", "there", "'s", "a", "podium", "set", "up", "and", "a", "lady", "we", "had", "n't", "seen", "before", "who", "asked", "us", ",", "''", "``", "May", "I", "help", "you", "?", "''", "''", "''"], "e1_text": "seen", "e1_pos": 17, "e2_text": "asked", "e2_pos": 20, "label": "before"},
+{"tokens": ["That", "'s", "odd", ",", "well", ",", "it", "was", "already", "past", "midnight", "so", "I", "did", "n't", "think", "it", "was", "worth", "paying", "a", "cover", ",", "which", "we", "had", "n't", "been", "asked", "to", "pay", "before", "so", "I", "turned", "around", ".", "''"], "e1_text": "pay", "e1_pos": 30, "e2_text": "turned", "e2_pos": 34, "label": "before"}
+]

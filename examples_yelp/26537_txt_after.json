@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thought", "it", "was", "odd", "to", "do", "this", "so", "last", "minute", "-LRB-", "If", "I", "was", "n't", "able", "to", "see", "the", "ENT", "the", "next", "day", "...", "which", "I", "was", ",", "I", "even", "asked", "my", "surgeon", "if", "he", "thought", "I", "should", "delay", "chemo", "until", "after", "I", "saw", "the", "ENT", ",", "but", "he", "did", "n't", "think", "that", "was", "necessary", "-RRB-", "."], "e1_text": "delay", "e1_pos": 39, "e2_text": "saw", "e2_pos": 44, "label": "after"}
+]

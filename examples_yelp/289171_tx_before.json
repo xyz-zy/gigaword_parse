@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "gamble", ",", "stop", "here", "before", "going", "home", "all", "the", "time", "."], "e1_text": "stop", "e1_pos": 4, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "guess", "more", "food", "conscious", "makes", "you", "notice", "more", "about", "what", "you", "'re", "eating", "because", "I", "could", "n't", "even", "tell", "you", "if", "this", "ever", "happened", "before", "."], "e1_text": "tell", "e1_pos": 19, "e2_text": "happened", "e2_pos": 24, "label": "before"}
+]

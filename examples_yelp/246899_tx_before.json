@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "time", "I", "go", "to", "the", "Scottsdale", "Fashion", "Square", "location", "it", "takes", "several", "minutes", "before", "I", "am", "acknowledged", "in", "a", "store", "as", "big", "as", "my", "bathroom", "."], "e1_text": "takes", "e1_pos": 11, "e2_text": "am", "e2_pos": 16, "label": "before"}
+]

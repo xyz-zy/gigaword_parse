@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bread", "obviously", "ordered", "by", "the", "hundred", "thousand", ",", "and", "obviously", "arrived", "frozen", "and", "partially", "cooked", ",", "Shamrock", "style", ",", "with", "the", "finish", "in", "a", "quick-heat", "just", "before", "serving", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "serving", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Spent", "15", "minutes", "in", "their", "drive", "thru", "last", "night", "with", "only", "ONE", "car", "in", "front", "of", "me", "-LRB-", "who", "had", "already", "ordered", "and", "was", "sitting", "at", "the", "window", "when", "we", "got", "there", "-RRB-", "before", "leaving", "without", "any", "food", "."], "e1_text": "thru", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 34, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "info", "should", "have", "been", "given", "to", "us", "before", "we", "waited", "to", "be", "seated", "so", "we", "could", "have", "gone", "elsewhere", ",", "and", "My", "dinner", "was", "''", "``", "Irish", "Lamb", "Stew", "''", "''", "I", "counted", "the", "lamb", "pieces", "in", "that", "stew", "I", "got", "4", "tiny", "little", "chunks", "so", "I", "paid", "for", "mashed", "potatoes", "&", "lamb", "gravy", "it", "was", "terrible", "and", "expensive", "."], "e1_text": "given", "e1_pos": 5, "e2_text": "waited", "e2_pos": 10, "label": "before"}
+]

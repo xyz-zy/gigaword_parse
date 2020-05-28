@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "it", "took", "an", "unreasonably", "long", "time", "before", "a", "wait", "staff", "came", "by", "to", "get", "our", "drink", "order", "and", "it", "ended", "up", "being", "the", "''", "``", "host", "''", "''", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["Uh", "...", "should", "n't", "they", "know", "before", "we", "put", "in", "the", "order", "?"], "e1_text": "know", "e1_pos": 5, "e2_text": "put", "e2_pos": 8, "label": "before"}
+]

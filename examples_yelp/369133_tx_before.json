@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "employees", "were", "a", "delight", "to", "work", "with", "and", "also", "very", "patient", "as", "they", "waited", "for", "my", "friend", "Melissa", "and", "I", "to", "finish", "eating", "before", "we", "stepped", "into", "the", "booth", "."], "e1_text": "eating", "e1_pos": 23, "e2_text": "stepped", "e2_pos": 26, "label": "before"}
+]

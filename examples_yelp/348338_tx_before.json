@@ -1,0 +1,4 @@
+[
+{"tokens": ["Very", "bad", "workers", "need", "to", "get", "there", "story", "straight", "before", "they", "take", "action", "accusing", "people", "wrongly", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "take", "e2_pos": 11, "label": "before"},
+{"tokens": ["That", "poor", "person", "that", "got", "searched", "and", "came", "out", "clean", "by", "cops", "use", "your", "damn", "cameras", "before", "you", "do", "shit", "like", "that"], "e1_text": "use", "e1_pos": 12, "e2_text": "do", "e2_pos": 18, "label": "before"}
+]

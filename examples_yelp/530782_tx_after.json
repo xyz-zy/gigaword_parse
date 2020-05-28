@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "front", "desk", "did", "n't", "always", "seem", "knowledgeable", "about", "the", "amenities", "listed", "-", "like", "when\\/where", "the", "free", "Saturday", "yoga", "is", "-LRB-", "9am", "in", "the", "gazebo", "by", "the", "calm", "pool", "-RRB-", "or", "how", "to", "sign", "up", "for", "it", "-LRB-", "call", "the", "spa", "or", "just", "show", "up", "and", "hope", "there", "'s", "a", "space", "if", "you", "arrive", "after", "the", "spa", "closes", "on", "Friday", "night", "-RRB-", "."], "e1_text": "arrive", "e1_pos": 53, "e2_text": "closes", "e2_pos": 57, "label": "after"}
+]

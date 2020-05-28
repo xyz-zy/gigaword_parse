@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lunch", "meetings", "for", "work", ",", "not", "in", "the", "mood", "to", "cook", ",", "after", "traveling", "with", "nothing", "in", "the", "fridge", ",", "and", "my", "go", "to", "for", "a", "quick", "meal", "with", "out", "of", "town", "guests", "."], "e1_text": "cook", "e1_pos": 10, "e2_text": "traveling", "e2_pos": 13, "label": "after"}
+]

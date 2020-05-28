@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "person", "who", "took", "our", "order", "ended", "up", "handing", "off", "the", "table", "and", "that", "person", "brought", "the", "wrong", "drinks", "three", "times", "after", "we", "repeated", "our", "order", "to", "him", "every", "time", "."], "e1_text": "brought", "e1_pos": 15, "e2_text": "repeated", "e2_pos": 23, "label": "after"},
+{"tokens": ["After", "all", "of", "this", "had", "happened", "we", "wanted", "the", "check", "which", "also", "took", "another", "15", "minutes", "after", "telling", "our", "waiter", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "telling", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "location", "to", "inform", "them", "of", "my", "lack", "of", "service", "and", "after", "being", "on", "hold", "or", "ten", "minutes", ",", "I", "spoke", "with", "Gabe", "-LRB-", "Manager", "-RRB-", "who", "offered", "to", "''", "``", "assist", "''", "''", "me", "the", "next", "time", "I", "returned", ",", "if", "I", "identified", "myself", "to", "him", "."], "e1_text": "inform", "e1_pos": 5, "e2_text": "being", "e2_pos": 14, "label": "after"}
+]

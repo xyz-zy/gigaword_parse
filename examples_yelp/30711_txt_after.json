@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "also", "pretty", "slow", "at", "getting", "them", ",", "i", "'m", "sure", "we", "would", "'ve", "had", "4", "minutes", "to", "order", "if", "she", "knew", "the", "urgency", "of", "HR", "ending", "at", "6:30", "pm", "!!", "Come", "on", "now", "...", "There", "were", "alot", "of", "older", "people", "and", "it", "got", "pretty", "dead", "after", "HR", "ended", ".", "."], "e1_text": "got", "e1_pos": 44, "e2_text": "ended", "e2_pos": 49, "label": "after"},
+{"tokens": ["but", "corrected", "it", "after", "we", "mentioned", "it", "."], "e1_text": "corrected", "e1_pos": 1, "e2_text": "mentioned", "e2_pos": 5, "label": "after"}
+]

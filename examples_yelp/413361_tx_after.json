@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "this", "point", "I", "'m", "extremely", "upset", "after", "watching", "one", "of", "the", "people", "attending", "my", "car", "walk", "off", "and", "chat", "with", "a", "guy", "who", "pulled", "up", "in", "a", "supped", "up", "honda", "and", "decided", "to", "chat", "for", "a", "few", "minutes", "."], "e1_text": "'m", "e1_pos": 4, "e2_text": "watching", "e2_pos": 8, "label": "after"},
+{"tokens": ["Not", "to", "mention", "when", "I", "looked", "over", "my", "car", "after", "this", "I", "saw", "a", "lot", "os", "spots", "left", "untouched", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "saw", "e2_pos": 12, "label": "after"}
+]

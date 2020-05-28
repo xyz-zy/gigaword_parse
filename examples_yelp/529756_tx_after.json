@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "co-worker", "and", "I", "decided", "to", "check", "out", "Le", "Thai", "for", "lunch", "after", "reading", "and", "hearing", "the", "rave", "reviews", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "reading", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "were", "seated", "outside", "after", "a", "10", "minute", "wait", "or", "so", ",", "which", "is", "typical", "at", "popping", "restaurant", "during", "lunchtime", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "is", "e2_pos": 13, "label": "after"}
+]

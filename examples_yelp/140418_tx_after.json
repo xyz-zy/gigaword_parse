@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "I", "get", "a", "24", "hour", "notice", "the", "day", "after", "my", "grandmother", "passes", "by", "this", "time", "I", "had", "talked", "to", "three", "different", "people", "in", "the", "office", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "passes", "e2_pos": 12, "label": "after"},
+{"tokens": ["She", "spoke", "to", "me", "like", "I", "was", "a", "child", "and", "expected", "me", "to", "be", "calm", "after", "being", "treated", "with", "such", "disrespect", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

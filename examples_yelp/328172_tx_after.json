@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "send", "them", "an", "e-mail", "the", "next", "day", "after", "I", "'d", "sent", "the", "application", ",", "letting", "them", "know", "about", "my", "application", "and", "2", "kittens", "we", "were", "interested", "in", "."], "e1_text": "send", "e1_pos": 2, "e2_text": "'d", "e2_pos": 11, "label": "after"}
+]

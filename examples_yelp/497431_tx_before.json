@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "had", "tried", "to", "order", "another", "round", "of", "those", "bulldog", "margaritas", "before", "happy", "hour", "was", "over", ",", "cause", "they", "were", "most", "definitely", "the", "highlight", "of", "our", "meal", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "had", "meant", "to", "ask", "our", "server", "about", "this", "before", "he", "ran", "the", "bill", ",", "he", "should", "have", "mentioned", "that", "they", "were", "full", "price", ",", "but", "did", "n't", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "ran", "e2_pos": 11, "label": "before"},
+{"tokens": ["He", "had", "ran", "the", "card", "before", "we", "even", "noticed", "he", "had", "picked", "up", "the", "check", "."], "e1_text": "ran", "e1_pos": 2, "e2_text": "noticed", "e2_pos": 8, "label": "before"}
+]

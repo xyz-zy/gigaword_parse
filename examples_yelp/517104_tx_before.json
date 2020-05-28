@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ask", "for", "another", "PBR", "and", "state", "that", "if", "the", "wings", "are", "not", "done", "before", "I", "am", "done", "with", "the", "beer", ",", "I", "am", "going", "to", "head", "out", "."], "e1_text": "done", "e1_pos": 13, "e2_text": "am", "e2_pos": 16, "label": "before"}
+]

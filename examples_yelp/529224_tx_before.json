@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "seated", "us", "but", "it", "took", "a", "while", "before", "they", "brought", "the", "menus", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "brought", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "'ve", "had", "corn", "tortillas", "before", "that", "had", "better", "taste", "and", "texture", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["However", ",", "between", "the", "price", "and", "fairly", "poor", "service", ",", "it", "may", "be", "a", "while", "before", "we", "are", "back", "."], "e1_text": "be", "e1_pos": 12, "e2_text": "are", "e2_pos": 17, "label": "before"}
+]

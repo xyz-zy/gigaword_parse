@@ -1,0 +1,3 @@
+[
+{"tokens": ["Placed", "a", "very", "large", "order", "which", "included", "chicken", "wings", ",", "about", "$", "80", "of", "food", "and", "after", "waiting", "an", "hour", "to", "eat", "it", "gets", "delivered", "with", "no", "ranch", "or", "blue", "cheese", "for", "wings", "...", "I", "call", "and", "let", "them", "know", "and", "she", "acts", "like", "it", "'s", "my", "fault", "somehow", "for", "not", "specifying", "even", "though", "I", "specifically", "asked", "delivery", "guy", "if", "ranch", "was", "in", "the", "bag", "and", "he", "said", "yes", "."], "e1_text": "Placed", "e1_pos": 0, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

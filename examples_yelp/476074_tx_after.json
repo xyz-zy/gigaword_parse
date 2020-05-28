@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "ask", "3", "times", "after", "giving", "the", "bartender", "my", "order", "for", "a", "drink", "to", "please", "get", "it", "for", "me", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "giving", "e2_pos": 7, "label": "after"},
+{"tokens": ["Was", "really", "bummed", "because", "I", "was", "expecting", "more", "after", "reading", "the", "reviews", "by", "others", "before", "me", "."], "e1_text": "expecting", "e1_pos": 6, "e2_text": "reading", "e2_pos": 9, "label": "after"}
+]

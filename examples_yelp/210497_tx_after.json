@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "the", "first", "one", "who", "tried", "to", "call", "him", "over", "after", "we", "ordered", "10", "minutes", "ago", "and", "I", "was", "still", "waiting", "for", "my", "ice", "tea", ",", "I", "looked", "him", "dead", "in", "the", "eyes", "and", "waved", "him", "over", "and", "he", "turned", "around", "and", "walked", "into", "the", "back", "."], "e1_text": "tried", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 13, "label": "after"}
+]

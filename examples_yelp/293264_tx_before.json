@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "is", "a", "show", "right", "before", "theirs", "so", "expect", "it", "to", "take", "awhile", "to", "clear", "out", ",", "especially", "if", "that", "show", "is", "running", "over", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "expect", "e2_pos": 8, "label": "before"},
+{"tokens": ["They", "do", "draw", "a", "younger", "crowd", "in", "though", "-LRB-", "the", "guys", "are", "younger", "than", "the", "guys", "in", "other", "similar", "shows", "-RRB-", ",", "and", "instead", "of", "bachelorette", "or", "divorce", "parties", ",", "it", "'s", "mostly", "young", "singles", "just", "wanting", "to", "get", "the", "night", "started", "by", "watching", "half-nekkid", "men", "before", "hitting", "the", "clubs", ",", "or", "it", "'s", "girls", "celebrating", "birthdays", "."], "e1_text": "watching", "e1_pos": 43, "e2_text": "hitting", "e2_pos": 47, "label": "before"}
+]

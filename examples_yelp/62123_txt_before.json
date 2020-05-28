@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "is", "also", "good", "at", "accommodating", "big", "groups", "-LRB-", "I", "'ve", "come", "with", "10-15people", "before", "-RRB-", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 11, "label": "before"},
+{"tokens": ["And", "one", "time", "my", "friends", "ordered", "my", "soup", "for", "me", "before", "I", "got", "there", "so", "by", "the", "time", "I", "got", "there", "the", "broth", "had", "gotten", "not", "so", "hot", "."], "e1_text": "ordered", "e1_pos": 5, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

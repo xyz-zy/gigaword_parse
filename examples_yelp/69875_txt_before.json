@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", "I", "'m", "glad", "he", "thinks", "he", "can", "predict", "the", "weather", "and", "I", "had", "to", "ask", "him", "3", "times", "before", "he", "finally", "told", "me", "what", "they", "would", "do", "with", "responding", "that", "it", "wont", "."], "e1_text": "ask", "e1_pos": 15, "e2_text": "told", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["RWC", "dude", "says", "''", "``", "You", "ca", "n't", "return", "a", "meal", "after", "eating", "some", "now", "can", "you", "?", "''", "''"], "e1_text": "return", "e1_pos": 8, "e2_text": "eating", "e2_pos": 12, "label": "after"},
+{"tokens": ["Of", "course", "you", "can", "return", "a", "meal", "after", "eating", "some", "and", "there", "'s", "a", "problem", "."], "e1_text": "return", "e1_pos": 4, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

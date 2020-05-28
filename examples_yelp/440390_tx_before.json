@@ -1,0 +1,5 @@
+[
+{"tokens": ["Never", "had", "one", "before", "but", "this", "was", "pretty", "good", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "could", "only", "eat", "half", "before", "getting", "stuffed", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "getting", "e2_pos": 6, "label": "before"},
+{"tokens": ["Ck", "ur", "newpaper", "before", "you", "toss", "all", "those", "fliers", "that", "kill", "trees", ":", "occasionally", "they", "will", "throw", "Sweet", "Tomatoes", "&", "Timbers", "coupons", "out", "there", "."], "e1_text": "newpaper", "e1_pos": 2, "e2_text": "toss", "e2_pos": 5, "label": "before"}
+]

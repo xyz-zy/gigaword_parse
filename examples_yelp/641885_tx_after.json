@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wife", "had", "a", "salad", "that", "she", "really", "liked", "-LRB-", "although", "it", "was", "fairly", "small", "considering", "it", "was", "about", "$", "13", "-", "$", "15", "after", "adding", "a", "piece", "a", "salmon", "-RRB-", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "adding", "e2_pos": 25, "label": "after"}
+]

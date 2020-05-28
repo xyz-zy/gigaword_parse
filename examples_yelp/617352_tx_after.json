@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "found", "this", "place", "through", "Yelp", ",", "i", "saw", "some", "good", "and", "bad", "comments", ",", "when", "we", "looked", "originally", "good", "comments", "came", "up", ",", "5", "days", "before", "the", "wedding", "after", "I", "reserved", "i", "noticed", "some", "bad", "comments", "."], "e1_text": "saw", "e1_pos": 8, "e2_text": "reserved", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "lived", "in", "Philly", "for", "almost", "40", "years", "before", "moving", "to", "Arizona", "."], "e1_text": "lived", "e1_pos": 1, "e2_text": "moving", "e2_pos": 9, "label": "before"}
+]

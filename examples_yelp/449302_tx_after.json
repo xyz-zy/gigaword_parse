@@ -1,0 +1,3 @@
+[
+{"tokens": ["theyre", "my", "favorite", ",", "I", "have", "usually", "done", "pick", "up", "orders", "in", "the", "past", "since", "I", "work", "near", "by", ",", "I", "dined", "in", "only", "once", "after", "work", "with", "coworkers", "."], "e1_text": "dined", "e1_pos": 21, "e2_text": "work", "e2_pos": 16, "label": "after"}
+]

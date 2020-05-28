@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "better", "than", "to", "NOT", "check", "through", "Yelp", "before", "I", "do", "something", "."], "e1_text": "NOT", "e1_pos": 5, "e2_text": "do", "e2_pos": 11, "label": "before"},
+{"tokens": ["Making", "sure", "you", "get", "some", "of", "the", "good", "free", "stuff", "before", "you", "are", "whisked", "in", "a", "hurry", "to", "the", "cattle", "call", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "are", "e2_pos": 12, "label": "before"}
+]

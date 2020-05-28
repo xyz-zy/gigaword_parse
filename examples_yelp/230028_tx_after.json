@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "a", "watery", "Arnold", "Palmer", "about", "15", "minutes", "after", "I", "ordered", "it", ",", "and", "my", "husband", "got", "a", "flat", "Long", "Island", "Iced", "Tea", "-LRB-", "after", "being", "brought", "a", "regular", "iced", "tea", "incorrectly", "-RRB-", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "were", "not", "offered", "dessert", "and", "the", "check", "was", "brought", "immediately", "after", "the", "table", "was", "cleared", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

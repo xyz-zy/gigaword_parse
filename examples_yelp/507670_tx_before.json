@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "signed", "my", "lease", "they", "did", "n't", "charge", "me", "for", "the", "lock", "and", "then", "expected", "me", "to", "drive", "back", "across", "town", "-LRB-", "where", "I", "was", "moving", "to", "-RRB-", "I", "told", "them", "I", "would", "n't", "be", "able", "to", "until", "they", "were", "closed", "and", "then", "had", "work", "during", "their", "hours", "for", "the", "next", "few", "days", "they", "said", "I", "had", "to", "pay", "for", "it", "before", "I", "move", "in", "which", "I", "was", "doing", "that", "day", "so", "I", "had", "to", "get", "a", "manager", "involved", "to", "take", "my", "payment", "over", "the", "phone", "."], "e1_text": "pay", "e1_pos": 59, "e2_text": "move", "e2_pos": 64, "label": "before"}
+]

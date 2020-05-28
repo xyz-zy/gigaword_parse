@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "also", "enjoyed", "the", "Porchetta", "Sandwich", "from", "Davanti", "and", "decided", "after", "a", "little", "time", "passed", "he", "wanted", "another", "one", "but", "sadly", "Davanti", "was", "out", "of", "sandwiches", "by", "1:00", "."], "e1_text": "decided", "e1_pos": 9, "e2_text": "passed", "e2_pos": 14, "label": "after"},
+{"tokens": ["But", "we", "did", "notice", "after", "wards", "things", "looked", "like", "they", "were", "coming", "out", "right", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "looked", "e2_pos": 7, "label": "after"}
+]

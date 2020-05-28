@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "it", "took", "forever", "to", "come", "out", "and", "our", "mushroom", "sides", ",", "which", "probably", "takes", "the", "least", "amount", "of", "time", "to", "cook", ",", "came", "at", "the", "very", "end", "after", "we", "were", "finished", "with", "everything", "else", "."], "e1_text": "came", "e1_pos": 24, "e2_text": "were", "e2_pos": 31, "label": "after"},
+{"tokens": ["How", "the", "hell", "were", "we", "supposed", "to", "eat", "our", "Bolognese", "with", "???", "Our", "hands", "?!", "We", "had", "to", "hail", "someone", "down", "after", "waiting", "for", "a", "while", "just", "to", "ask", "for", "forks", "."], "e1_text": "hail", "e1_pos": 18, "e2_text": "waiting", "e2_pos": 22, "label": "after"}
+]

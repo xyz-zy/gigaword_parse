@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "sat", "for", "lunch", "after", "a", "lunch", "rush", "there", "were", "2", "other", "table", "in", "the", "restaurant", "besides", "ours", ",", "we", "ordered", "a", "blt", "with", "chili", "and", "a", "cesar", "salad", "...", "1", "hour", "latler", "a", "stale", "BLT", "and", "chili", "that", "looked", "like", "it", "had", "been", "sitting", "there", "for", "2", "hours", "comes", "out", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "rush", "e2_pos": 7, "label": "after"}
+]

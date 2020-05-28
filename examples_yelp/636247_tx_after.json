@@ -1,0 +1,3 @@
+[
+{"tokens": ["Susan", "-LRB-", "waitress", "-RRB-", "brought", "out", "this", "incredible", ",", "warm", ",", "freshly", "baked", "6", "''", "''", "-8", "''", "''", "cookie", "with", "melting", "ice", "cream", "on", "top", "and", "needless", "to", "say", ",", "after", "eating", "most", "of", "a", "medium", "pizza", ",", "I", "made", "room", "for", "the", "cookie", "...", "yes", ",", "I", "shared", "with", "my", "wife", "...", "We", "love", "the", "pizza", "so", "much", "here", ",", "we", "find", "it", "difficult", "to", "order", "anything", "else", "off", "the", "menu", "!"], "e1_text": "brought", "e1_pos": 4, "e2_text": "made", "e2_pos": 40, "label": "after"}
+]

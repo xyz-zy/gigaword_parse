@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "'s", "no", "reason", "you", "should", "have", "to", "wait", "more", "than", "10", "minutes", "after", "being", "seated", "for", "a", "server", "to", "come", "take", "your", "drink", "order", "."], "e1_text": "wait", "e1_pos": 8, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["You", "should", "n't", "have", "to", "ask", "again", "after", "the", "server", "forgets", "it", "the", "first", "time", "."], "e1_text": "ask", "e1_pos": 5, "e2_text": "forgets", "e2_pos": 10, "label": "after"}
+]

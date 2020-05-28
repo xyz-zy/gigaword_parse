@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "handing", "our", "claim", "check", "to", "the", "attendant", ",", "we", "waited", "only", "a", "few", "minutes", "before", "he", "returned", ",", "but", "our", "car", "was", "nowhere", "in", "sight", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "returned", "e2_pos": 17, "label": "before"},
+{"tokens": ["That", "'s", "interesting", "because", "the", "valet", "asked", "my", "spouse", "while", "I", "was", "with", "security", "if", "the", "car", "was", "damaged", "before", "and", "they", "were", "told", "in", "no", "uncertain", "terms", "that", "it", "was", "not", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

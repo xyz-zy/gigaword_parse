@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "pretty", "much", "describes", "the", "''", "``", "original", "''", "''", "Bill", "Johnson", "'s", "restaurant", ",", "which", "continues", "to", "thrive", "after", "50", "years", "on", "a", "still", "very", "depressed\\/depressing", "stretch", "of", "Van", "Buren", "St.", "The", "menu", "offers", "a", "large", "selection", "of", "breakfast", ",", "burger", ",", "steak", ",", "and", "BBQ", "dishes", "."], "e1_text": "thrive", "e1_pos": 18, "e2_text": "offers", "e2_pos": 34, "label": "after"},
+{"tokens": ["They", "offer", "discounts", "on", "certain", "menu", "items", "if", "you", "dine", "before", "or", "after", "their", "''", "``", "peak", "''", "''", "dinner", "hours", "of", "6", "PM", "to", "9", "PM", "."], "e1_text": "discounts", "e1_pos": 2, "e2_text": "dine", "e2_pos": 9, "label": "after"}
+]

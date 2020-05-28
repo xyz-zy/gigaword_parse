@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "spouse", "and", "I", "got", "$", "200", "worth", "of", "Chili", "'s", "gift", "cards", "for", "Christmas", "and", "after", "quickly", "getting", "tired", "of", "their", "offerings", "decided", "to", "try", "some", "of", "the", "other", "places", "that", "take", "their", "gift", "cards", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "getting", "e2_pos": 18, "label": "after"}
+]

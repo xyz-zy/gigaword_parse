@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "family", "was", "in", "town", ",", "staying", "at", "Paris", "so", "we", "were", "craving", "a", "late", "night", "snack", "after", "drinking", "all", "day", "."], "e1_text": "craving", "e1_pos": 12, "e2_text": "drinking", "e2_pos": 18, "label": "after"},
+{"tokens": ["Felt", "like", "I", "needed", "to", "bathe", "after", "being", "there", ":", "\\/"], "e1_text": "bathe", "e1_pos": 5, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

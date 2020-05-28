@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "could", "so", "easily", "have", "been", "called", ",", "texted", ",", "emailed", "or", "sent", "a", "message", "the", "evening", "before", "when", "I", "called", "to", "make", "sure", "she", "knew", "of", "the", "last", "minute", "booking", "."], "e1_text": "sent", "e1_pos": 12, "e2_text": "knew", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["During", "the", "appointment", "I", "noticed", "the", "office", "seemed", "much", "dirtier", "than", "I", "had", "ever", "noticed", "before", ",", "saw", "after", "we", "left", "the", "exam", "room", "the", "tech", "barely", "wiped", "things", "down", "before", "putting", "someone", "else", "in", "the", "room", "."], "e1_text": "saw", "e1_pos": 17, "e2_text": "left", "e2_pos": 20, "label": "after"},
+{"tokens": ["My", "dogs", "both", "ended", "up", "with", "coughs", "after", "this", "appointment", "that", "lasted", "a", "couple", "weeks", "."], "e1_text": "ended", "e1_pos": 3, "e2_text": "lasted", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "used", "to", "love", "this", "place", "and", "recommended", "them", "to", "everyone", "I", "know", "...", "maybe", "it", "was", "a", "fluke", ",", "but", "my", "dogs", "getting", "sick", "after", "being", "there", "and", "then", "the", "fact", "they", "did", "n't", "detect", "her", "heart", "problem", "...", "that", "'s", "a", "risk", "I", "wont", "take"], "e1_text": "getting", "e1_pos": 23, "e2_text": "being", "e2_pos": 26, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "line", "at", "the", "ground", "level", "check-in", "counter", "for", "nearly", "30", "minutes", "while", "a", "confused", "employee", "tried", "to", "sort", "through", "another", "customer", "'s", "rental", "paperwork", "before", "being", "told", "that", "he", "could", "n't", "help", "us", "and", "that", "we", "must", "AGAIN", "wait", "at", "a", "different", "check-in", "counter", "downstairs", "."], "e1_text": "sort", "e1_pos": 20, "e2_text": "being", "e2_pos": 28, "label": "before"},
+{"tokens": ["We", "must", "'ve", "waited", "at", "least", "and", "hour", "before", "being", "talked", "to", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "being", "e2_pos": 9, "label": "before"}
+]

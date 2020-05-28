@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "forgot", "my", "bike", "lock", "and", "Gold", "'s", "refused", "to", "let", "me", "park", "it", "in", "their", "large", ",", "empty", "lobby", "-LRB-", "despite", "the", "fact", "I", "have", "seen", "bikes", "parked", "there", "before", "-RRB-", "."], "e1_text": "let", "e1_pos": 10, "e2_text": "have", "e2_pos": 25, "label": "before"}
+]

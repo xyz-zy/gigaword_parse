@@ -1,0 +1,4 @@
+[
+{"tokens": ["Pool", "was", "nice", "&", "refreshing", ",", "smaller", "than", "I", "expected", "after", "reading", "other", "reviews", ",", "also", "the", "decking", "around", "was", "extremely", "hot", ",", "wondered", "why", "they", "did", "n't", "have", "the", "cool", "decking", "most", "hotels", "do", "."], "e1_text": "expected", "e1_pos": 9, "e2_text": "reading", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "waitress", "never", "came", "around", "to", "us", "to", "see", "if", "we", "wanted", "drinks", ",", "so", "we", "went", "inside", "to", "the", "bar", "to", "get", "them", ",", "after", "that", "we", "asked", "her", "twice", "for", "a", "menu", "&", "she", "never", "got", "us", "one", ",", "and", "it", "was", "n't", "busy", "at", "all", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "asked", "e2_pos": 28, "label": "after"}
+]

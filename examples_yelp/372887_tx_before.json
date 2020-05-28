@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "drove", "back", "with", "the", "order", "to", "show", "they", "were", "missing", "and", "not", "only", "did", "she", "accuse", "me", "of", "already", "removing", "them", "before", "coming", "back", "to", "the", "restaurant", "but", "she", "also", "tried", "to", "charge", "me", "for", "the", "rolls", "I", "had", "already", "paid", "for", "."], "e1_text": "removing", "e1_pos": 20, "e2_text": "coming", "e2_pos": 23, "label": "before"}
+]

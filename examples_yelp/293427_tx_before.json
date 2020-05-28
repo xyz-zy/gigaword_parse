@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "wegot", "there", "we", "waited", "about", "2", "minutes", "before", "being", "acknowledged", "then", "after", "finally", "being", "greeted", "we", "were", "shown", "to", "a", "table", "that", "was", "2", "seats", "and", "very", "close", "to", "another", "table", "with", "people", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "my", "first", "time", "ever", "reviewing", "anything", "here", "but", "i", "felt", "the", "public", "should", "know", "my", "experience", "before", "thinking", "of", "spending", "$", "60", "for", "lunch", "."], "e1_text": "know", "e1_pos": 15, "e2_text": "thinking", "e2_pos": 19, "label": "before"},
+{"tokens": ["Given", "we", "were", "seated", "up", "close", "and", "personal", "and", "were", "only", "going", "per", "section", "so", "the", "food", "was", "on", "our", "plate", "for", "no", "more", "than", "a", "minute", "before", "we", "sat", "down", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "sat", "e2_pos": 29, "label": "before"}
+]

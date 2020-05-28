@@ -1,0 +1,4 @@
+[
+{"tokens": ["Picked", "him", "up", "a", "little", "bit", "ago", "and", "after", "getting", "home", "I", "see", "that", "three", "of", "his", "nails", "were", "trimmed", "so", "short", "that", "he", "had", "clearly", "been", "bleeding", "."], "e1_text": "Picked", "e1_pos": 0, "e2_text": "getting", "e2_pos": 9, "label": "after"},
+{"tokens": ["They", "claim", "to", "have", "done", "an", "evaluation", "of", "his", "temperament", "but", "clearly", "had", "not", "-", "the", "dog", "they", "described", "was", "not", "how", "my", "dog", "acts", "around", "other", "dogs", "-", "unless", ",", "I", "guess", ",", "they", "did", "it", "after", "they", "hurt", "him", "while", "trimming", "his", "nails", "."], "e1_text": "did", "e1_pos": 35, "e2_text": "hurt", "e2_pos": 39, "label": "after"}
+]

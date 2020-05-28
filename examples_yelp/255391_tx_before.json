@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "never", "seen", "him", "there", "before", "but", "he", "claimed", "that", "''", "``", "in", "all", "the", "time", "I", "have", "worked", "here", ",", "we", "have", "never", "used", "this", "stamp", ".", "''", "''"], "e1_text": "seen", "e1_pos": 3, "e2_text": "claimed", "e2_pos": 9, "label": "before"}
+]

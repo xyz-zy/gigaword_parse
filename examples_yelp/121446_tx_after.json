@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "for", "a", "fact", "it", "was", "a", "year", "maybe", "a", "bit", "more", "because", "right", "after", "I", "brought", "proof", "with", "a", "date", "of", "when", "I", "got", "my", "piercing", "and", "tattoo", "on", "a", "paper", "with", "the", "tattoo", "parlor", "I", "went", "to", "to", "get", "my", "work", "done", "and", "he", "tells", "me", "sorry", "but", "you", "came", "too", "late", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "brought", "e2_pos": 17, "label": "after"},
+{"tokens": ["You", "only", "have", "1", "hour", "after", "you", "leave", "here", "before", "you", "'re", "86", "'d", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "leave", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "cousin", "did", "deliver", "on", "that", "promise", "and", "we", "only", "had", "to", "wait", "about", "5", "minutes", "before", "we", "got", "in", "also", "for", "free", "."], "e1_text": "wait", "e1_pos": 12, "e2_text": "got", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "believe", "I", "already", "mentioned", "my", "hatred", "of", "stairs", "in", "a", "club", "before", "."], "e1_text": "believe", "e1_pos": 1, "e2_text": "mentioned", "e2_pos": 4, "label": "before"}
+]

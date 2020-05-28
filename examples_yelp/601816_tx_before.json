@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "number", "like", "I", "'ve", "done", "before", "...", "The", "guy", "answered", "the", "phone", "and", "told", "me", "that", "he", "was", "n't", "at", "that", "location", "and", "that", "I", "needed", "to", "pack", "it", "up", "and", "drive", "it", "down", "a", "few", "blocks", "to", "their", "other", "location", "...", "Excuse", "me", "?"], "e1_text": "called", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 6, "label": "before"}
+]

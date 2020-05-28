@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "very", "large", "party", "arrived", "just", "after", "we", "did", "and", "so", "I", "got", "to", "watch", "about", "fifteen", "people", "walk", "in", "the", "front", "door", "and", "then", "sequentially", "have", "the", "same", "reaction", ":", "walk", "in", "from", "the", "cold", ",", "take", "a", "deep", "breath", ",", "and", "start", "coughing", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "did", "e2_pos": 8, "label": "after"}
+]

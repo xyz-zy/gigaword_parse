@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "chose", "Pete", "'s", "after", "having", "dinner", "in", "Town", "Square", "and", "had", "a", "great", "time", "."], "e1_text": "'s", "e1_pos": 3, "e2_text": "having", "e2_pos": 5, "label": "after"},
+{"tokens": ["Service", "was", "a", "little", "slow", "after", "it", "got", "crowded", "but", "our", "drinks", "were", "never", "completely", "empty", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "pianists", "did", "a", "few", "ice", "breakers", "until", "it", "got", "crowded", "and", "after", "that", "focused", "on", "requests", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "focused", "e2_pos": 14, "label": "after"}
+]

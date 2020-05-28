@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "I", "went", "in", "when", "it", "was", "slow", "because", "I", "was", "seated", "as", "soon", "as", "I", "walked", "in", ",", "the", "girl", "waiting", "on", "me", "was", "ultra", "work", "efficient", ",", "took", "my", "order", ",", "got", "me", "my", "drink", "and", "before", "I", "knew", "it", "BAM", "."], "e1_text": "seated", "e1_pos": 12, "e2_text": "knew", "e2_pos": 41, "label": "before"}
+]

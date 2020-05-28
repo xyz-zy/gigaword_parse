@@ -1,0 +1,3 @@
+[
+{"tokens": ["How", "hard", "is", "it", "for", "maintenance", "to", "say", "we", "will", "Need", "to", "turn", "off", "water", "for", "this", "repair", ",", "take", "20", "minutes", "and", "call", "everyone", "before", "we", "start", "."], "e1_text": "call", "e1_pos": 23, "e2_text": "start", "e2_pos": 27, "label": "before"}
+]

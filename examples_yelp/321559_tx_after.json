@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chick", "with", "the", "Buddy", "Holly", "glasses", "apparently", "only", "likes", "to", "help", "the", "people", "she", "wants", "even", "though", "she", "actually", "acknowledged", "me", "and", "saw", "me", "come", "in", ",", "but", "decided", "she", "would", "rather", "help", "all", "the", "folks", "that", "came", "in", "after", "me", "then", "completely", "ignore", "me", "."], "e1_text": "came", "e1_pos": 38, "e2_text": "ignore", "e2_pos": 44, "label": "after"}
+]

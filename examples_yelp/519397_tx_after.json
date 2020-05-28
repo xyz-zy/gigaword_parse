@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "will", "most", "likely", "be", "forced", "to", "reschedule", "at", "THEIR", "convenience", "even", "after", "you", "have", "payed", "hundreds", "on", "the", "spot", "."], "e1_text": "reschedule", "e1_pos": 7, "e2_text": "have", "e2_pos": 14, "label": "after"},
+{"tokens": ["My", "current", "lashes", "do", "not", "budge", "at", "all", "even", "after", "3", "weeks", "they", "actually", "grow", "out", "with", "my", "lashes", "rather", "then", "gap", "and", "look", "ridiculous", "."], "e1_text": "budge", "e1_pos": 5, "e2_text": "grow", "e2_pos": 14, "label": "after"}
+]

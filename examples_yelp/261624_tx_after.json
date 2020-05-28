@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "they", "'ll", "comp", "me", "a", "free", "lunch", "after", "I", "paralyze", "myself", "in", "a", "crash", "from", "falling", "asleep", "on", "the", "road", "."], "e1_text": "comp", "e1_pos": 3, "e2_text": "paralyze", "e2_pos": 10, "label": "after"},
+{"tokens": ["This", "is", "insane", ",", "even", "after", "I", "'ve", "called", "and", "screamed", ",", "they", "'re", "still", "doing", "it", "!"], "e1_text": "is", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 7, "label": "after"}
+]

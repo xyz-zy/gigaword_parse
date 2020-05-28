@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "would", "have", "read", "the", "reviews", "before", "I", "bought", "the", "Amazon", "Local", "coupon", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "bought", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "asked", "did", "you", "have", "anything", "before", "as", "I", "have", "a", "party", "Thursday", "and", "he", "exclaimed", "''", "``", "You", "know", "what", ",", "I", "'m", "at", "lunch", "and", "you", "need", "to", "call", "back", "in", "a", "hour", "!", "''", "''"], "e1_text": "have", "e1_pos": 4, "e2_text": "have", "e2_pos": 4, "label": "before"}
+]

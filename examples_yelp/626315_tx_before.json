@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "how", "it", "slipped", "my", "mind", "but", "my", "friend", "ended", "up", "getting", "the", "oysters", "and", "only", "eating", "two", "before", "giving", "up", "."], "e1_text": "eating", "e1_pos": 19, "e2_text": "giving", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "one", "screw", "up", "was", "that", "we", "got", "a", "side", "of", "rice", "and", "it", "was", "overlooked", "and", "was", "sitting", "in", "the", "service", "window", "before", "we", "had", "to", "ask", "for", "it", "."], "e1_text": "sitting", "e1_pos": 18, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

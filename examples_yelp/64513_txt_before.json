@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "...", "clearly", "that", "'s", "why", "I", "wanted", "them", "fixed", "before", "they", "broke", "."], "e1_text": "fixed", "e1_pos": 9, "e2_text": "broke", "e2_pos": 12, "label": "before"},
+{"tokens": ["Kept", "telling", "me", "to", "come", "back", "tomorrow", "and", "before", "I", "was", "to", "my", "car", "...", "-LRB-", "parked", "right", "outside", "the", "door", "-RRB-", "they", "were", "out", "smoking", "."], "e1_text": "telling", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

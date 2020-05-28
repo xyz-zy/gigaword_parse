@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "fast", "service", ",", "but", "the", "waitress", "knows", "what", "we", "want", "before", "we", "tell", "her", "."], "e1_text": "want", "e1_pos": 11, "e2_text": "tell", "e2_pos": 14, "label": "before"},
+{"tokens": ["Jennifer", "brings", "out", "my", "grandsons", "egg", "rolls", "-LRB-", "which", "he", "loves", "-RRB-", "before", "we", "put", "in", "our", "order", "."], "e1_text": "brings", "e1_pos": 1, "e2_text": "put", "e2_pos": 14, "label": "before"}
+]

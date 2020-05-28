@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "believe", "in", "tipping", ",", "but", "I", "find", "that", "too", "many", "workers", "in", "Las", "Vegas", "expect", "a", "tip", "after", "barely", "doing", "a", "deed", "because", "that", "is", "the", "culture", "of", "Vegas", ",", "but", "it", "was", "not", "the", "case", "at", "this", "restaurant", "."], "e1_text": "expect", "e1_pos": 15, "e2_text": "doing", "e2_pos": 20, "label": "after"}
+]

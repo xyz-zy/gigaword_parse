@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "very", "very", "loud", ",", "with", "open", "seating", "after", "9pm", "on", "weekends", ",", "so", "do", "n't", "expect", "to", "have", "any", "conversations", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "do", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "was", "startled", "by", "two", "of", "them", "yelling", "''", "``", "thief", "''", "''", "at", "me", "after", "I", "walked", "out", "with", "my", "group", "of", "co-workers", "."], "e1_text": "startled", "e1_pos": 2, "e2_text": "walked", "e2_pos": 17, "label": "after"}
+]

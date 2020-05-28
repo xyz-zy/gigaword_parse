@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "a", "couple", "shrimp", "tempura", "rolls", ",", "generally", "these", "come", "out", "warm", "however", "ours", "must", "have", "been", "sitting", "before", "it", "reached", "our", "table", "because", "it", "was", "stone", "cold", "."], "e1_text": "sitting", "e1_pos": 18, "e2_text": "reached", "e2_pos": 21, "label": "before"}
+]

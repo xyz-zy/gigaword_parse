@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "decided", "to", "buy", "a", "roll", "of", "tape", "for", "$", "7", ",", "then", "he", "said", "I", "can", "leave", "my", "box", "on", "the", "desk", "and", "he", "'ll", "tape", "for", "me", "with", "his", "tape", ",", "after", "I", "bought", "one", "!"], "e1_text": "tape", "e1_pos": 27, "e2_text": "bought", "e2_pos": 36, "label": "after"}
+]

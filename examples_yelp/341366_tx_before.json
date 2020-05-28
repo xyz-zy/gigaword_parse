@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "plan", "a", "early", "arrival", "at", "a", "place", "we", "have", "been", "to", "before", "...", "EDO", "!"], "e1_text": "plan", "e1_pos": 2, "e2_text": "have", "e2_pos": 10, "label": "before"},
+{"tokens": ["2", "-RRB-", "Why", "would", "you", "bring", "our", "entree", "our", "before", "our", "appetizer", "when", "we", "clearly", "wanted", "the", "sushi", "first", "?"], "e1_text": "bring", "e1_pos": 5, "e2_text": "wanted", "e2_pos": 15, "label": "before"}
+]

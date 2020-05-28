@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "work", "took", "2-full", "days", "-LRB-", "6", "am", "-", "2", "pm", "-RRB-", "and", "was", "a", "bit", "messy", ",", "but", "the", "crew", "did", "their", "best", "to", "partition", "off", "the", "area", "where", "they", "worked", "and", "cleaned", "up", "before", "they", "left", "each", "day", "."], "e1_text": "did", "e1_pos": 21, "e2_text": "left", "e2_pos": 37, "label": "before"},
+{"tokens": ["The", "temperature", "in", "my", "home", "is", "balanced", "-", "there", "are", "areas", "that", "remain", "cooler", "than", "others", "-", "but", "there", "is", "not", "the", "extreme", "change", "in", "temperature", "as", "was", "the", "case", "before", "IdealEnergy", "did", "their", "work", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "did", "e2_pos": 32, "label": "before"}
+]

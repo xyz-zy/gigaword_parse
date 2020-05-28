@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "for", "a", "good", "stylist", ",", "and", "after", "reading", "all", "the", "good", "reviews", "about", "Johnny", "G.", "and", "his", "claims", "how", "he", "cuts", "hair", "accordingly", "to", "the", "face", "shape", ",", "about", "his", "B.H.", "training", ",", "etc", ",", "etc.", "."], "e1_text": "looking", "e1_pos": 2, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["He", "used", "a", "lot", "of", "styling", "products", ",", "right", "after", "he", "washed", "my", "hair", ",", "and", "made", "it", "limp", ",", "and", "it", "was", "hard", "to", "tell", "what", "was", "cut", "and", "what", "was", "not", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "washed", "e2_pos": 11, "label": "after"}
+]

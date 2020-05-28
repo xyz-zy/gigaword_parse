@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "around", "another", "10", "minutes", "to", "at", "least", "finish", "our", "drinks", ",", "then", "our", "party", "of", "8", "walked", "out", "-LRB-", "after", "we", "paid", "for", "the", "hot", "wings", "and", "drinks", "-RRB-", "."], "e1_text": "walked", "e1_pos": 18, "e2_text": "paid", "e2_pos": 23, "label": "after"}
+]

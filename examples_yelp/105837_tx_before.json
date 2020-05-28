@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "and", "i", "'ve", "NEVER", "done", "that", "before", "in", "my", "life", ",", "which", "tells", "you", "how", "unacceptable", "it", "was", "-RRB-", "since", "i", "'m", "fairly", "new", "in", "town", ",", "someone", "else", "in", "our", "group", "suggested", "we", "go", "to", "Bandera", "instead", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "tells", "e2_pos": 13, "label": "before"},
+{"tokens": ["no", "one", "ordered", "dessert", ",", "but", "we", "all", "stayed", "around", "a", "little", "to", "chat", "over", "one", "last", "cocktail", "before", "finally", "closing", "out", "our", "tab", "."], "e1_text": "chat", "e1_pos": 13, "e2_text": "closing", "e2_pos": 20, "label": "before"}
+]

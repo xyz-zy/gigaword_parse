@@ -1,0 +1,3 @@
+[
+{"tokens": ["Chicken", "was", "good", "but", "it", "was", "cleared", "before", "we", "were", "finished", "."], "e1_text": "cleared", "e1_pos": 6, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

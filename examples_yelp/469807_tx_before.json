@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "waiting", "for", "forty-five", "minutes", "and", "spending", "over", "$", "100", ",", "they", "switched", "the", "lights", "on", "15", "minutes", "before", "closing", "to", "let", "us", "know", "to", "get", "the", "hell", "out", "."], "e1_text": "switched", "e1_pos": 12, "e2_text": "closing", "e2_pos": 19, "label": "before"}
+]

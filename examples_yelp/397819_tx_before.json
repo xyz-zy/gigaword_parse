@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "condoning", "the", "employees", "behavior", "at", "all", ",", "but", "you", "also", "have", "no", "idea", "what", "went", "on", "in", "that", "bathroom", "before", "you", "walked", "in", "there", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "walked", "e2_pos": 22, "label": "before"},
+{"tokens": ["Meanwhile", ",", "our", "beers", "were", "empty", "and", "this", "said", "bartender", "grabbed", "us", "two", "beers", "before", "finally", "helping", "this", "person", "."], "e1_text": "grabbed", "e1_pos": 10, "e2_text": "helping", "e2_pos": 16, "label": "before"}
+]

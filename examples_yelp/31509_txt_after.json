@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "can", "I", "find", "a", "coupon", "and", "place", "my", "order", "on", "Dominos.com", ",", "but", "the", "coolest", "part", "is", "the", "Order", "Tracker", "that", "pops", "up", "after", "I", "complete", "my", "order", "."], "e1_text": "pops", "e1_pos": 23, "e2_text": "complete", "e2_pos": 27, "label": "after"}
+]

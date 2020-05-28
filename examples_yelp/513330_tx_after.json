@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "are", "not", "the", "ones", "to", "complain", "often", "but", "the", "experience", "after", "we", "discovered", "the", "burnt", "brick", "is", "what", "gets", "this", "review", "."], "e1_text": "complain", "e1_pos": 6, "e2_text": "discovered", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "call", "Oliveo", "after", "we", "realized", "that", "we", "were", "not", "going", "to", "be", "enjoying", "our", "bread-sticks", "to", "see", "if", "we", "can", "get", "another", "order", ",", "I", "was", "willing", "to", "pick", "it", "up", "if", "that", "were", "an", "option", "to", "save", "them", "from", "making", "another", "0.8", "mile", "drive", "to", "our", "place", ",", "but", "no.", "."], "e1_text": "call", "e1_pos": 1, "e2_text": "realized", "e2_pos": 5, "label": "after"}
+]

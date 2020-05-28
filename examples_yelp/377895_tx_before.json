@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "The", "journey", "...", "skip", "to", "the", "bottom", "of", "the", "paragraph", "for", "the", "''", "``", "in", "all", "''", "''", "-RRB-", "I", "'ve", "never", "heard", "of", "this", "place", "before", "we", "came", "here", ",", "all", "we", "knew", "was", "that", "it", "had", "a", "lot", "of", "great", "street", "cred", "."], "e1_text": "heard", "e1_pos": 23, "e2_text": "came", "e2_pos": 29, "label": "before"}
+]

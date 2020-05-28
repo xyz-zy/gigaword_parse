@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "friends", "and", "I", "decided", "to", "come", "here", "to", "grab", "a", "bite", "to", "eat", "after", "clubbing", "at", "XS", ",", "as", "this", "was", "right", "in", "our", "hotel", "and", "we", "were", "all", "too", "tired", "to", "go", "elsewhere", "."], "e1_text": "eat", "e1_pos": 13, "e2_text": "clubbing", "e2_pos": 15, "label": "after"},
+{"tokens": ["By", "the", "way", ",", "it", "took", "him", "about", "10", "minutes", "to", "bring", "us", "the", "bill", "after", "we", "asked", "for", "it", "and", "another", "10", "for", "him", "to", "come", "back", "and", "get", "it", ",", "and", "yet", "another", "10", "to", "bring", "it", "back", "to", "us", "."], "e1_text": "bring", "e1_pos": 11, "e2_text": "asked", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "pretty", "much", "just", "sat", "there", "waiting", "for", "30", "minutes", "after", "finishing", "our", "meal", "."], "e1_text": "waiting", "e1_pos": 6, "e2_text": "finishing", "e2_pos": 11, "label": "after"}
+]

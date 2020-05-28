@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "for", "a", "table", "and", "they", "told", "me", "to", "wait", "which", "was", "fine", ",", "but", "a", "couple", "walked", "in", "after", "me", "and", "they", "were", "sat", "immediately", ",", "I", "overlooked", "that", "but", "it", "happened", "again", "so", "I", "walked", "out", "."], "e1_text": "walked", "e1_pos": 18, "e2_text": "were", "e2_pos": 24, "label": "after"}
+]

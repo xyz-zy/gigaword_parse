@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "arrived", "I", "was", "told", "by", "management", "that", "they", "charge", "your", "card", "well", "before", "you", "get", "there", ",", "and", "if", "your", "card", "does", "n't", "go", "thru", ",", "they", "cancel", "you", "just", "like", "that", "and", "sell", "your", "room", "to", "someone", "else", "."], "e1_text": "charge", "e1_pos": 10, "e2_text": "get", "e2_pos": 16, "label": "before"}
+]

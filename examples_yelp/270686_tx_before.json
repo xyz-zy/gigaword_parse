@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "had", "to", "wait", "20", "+", "minutes", "after", "sitting", "down", "before", "ordering", "."], "e1_text": "sitting", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 11, "label": "before"},
+{"tokens": ["When", "we", "asked", "for", "more", ",", "the", "waiter", "let", "out", "a", "large", "exasperated", "sigh", "before", "complying", "."], "e1_text": "let", "e1_pos": 8, "e2_text": "complying", "e2_pos": 15, "label": "before"},
+{"tokens": ["When", "the", "check", "arrived", ",", "we", "quickly", "threw", "in", "our", "credit", "cards", "and", "set", "it", "to", "the", "side", "of", "the", "table", "-LRB-", "cards", "sticking", "out", ",", "easily", "visible", "-RRB-", "and", "proceeded", "to", "wait", "another", "15", "minutes", "before", "they", "came", "back", "to", "pick", "up", "the", "check", "."], "e1_text": "wait", "e1_pos": 32, "e2_text": "came", "e2_pos": 38, "label": "before"},
+{"tokens": ["After", "that", "it", "was", "a", "good", "20", "minutes", "before", "we", "got", "our", "cards", "back", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

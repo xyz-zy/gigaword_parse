@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "really", "excited", "after", "reading", "reviews", "which", "implied", "that", "the", "service", "had", "been", "improved", "and", "that", "the", "menu", "has", "been", "changed", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "had", "the", "turkey", "burger", "this", "time", ",", "and", "the", "burger", "was", "much", "smaller", "than", "the", "bun", ",", "with", "the", "toppings", "-LRB-", "avacado", ",", "mayo", ",", "sprouts", "-RRB-", "completely", "overwhelming", "the", "flavor", "of", "the", "turkey", ",", "which", "after", "I", "took", "everything", "off", "of", "it", "was", "actually", "decent", "."], "e1_text": "overwhelming", "e1_pos": 29, "e2_text": "took", "e2_pos": 39, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "I", "got", "summoned", "to", "pick", "up", "''", "``", "food", "''", "''", "from", "here", "after", "going", "to", "the", "gym", "nearby", "."], "e1_text": "summoned", "e1_pos": 4, "e2_text": "going", "e2_pos": 16, "label": "after"},
+{"tokens": ["If", "you", "'re", "serving", "food", "and", "you", "'re", "sick", ":", "wear", "a", "mask", ",", "cover", "your", "mouth", "when", "coughing", "then", "wash\\/sanitize", "your", "hands", "right", "after", ",", "cover", "your", "mouth", "when", "coughing", "using", "your", "upper", "arm\\/shoulder", "or", "do", "n't", "come", "to", "work", "."], "e1_text": "cover", "e1_pos": 14, "e2_text": "wash\\/sanitize", "e2_pos": 20, "label": "after"}
+]

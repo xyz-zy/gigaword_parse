@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "I", "visited", "was", "with", "a", "group", "of", "friends", "before", "attending", "a", "concert", "across", "the", "street", "at", "the", "MGM", "Grand", "Garden", "Arena", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "attending", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "in", "the", "party", "with", "another", "reviewer", "who", "mentions", "our", "food", "taking", "an", "hour", "and", "a", "half", "to", "get", "ready", "...", "and", "after", "that", "hour", "and", "a", "half", "we", "still", "had", "not", "heard", "our", "name", "being", "called", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 31, "label": "after"}
+]

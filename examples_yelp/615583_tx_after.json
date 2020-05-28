@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "last", "week", "after", "waiting", "for", "it", "to", "finally", "open", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 5, "label": "after"}
+]

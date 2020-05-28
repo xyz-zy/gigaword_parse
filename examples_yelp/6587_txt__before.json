@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "Thursdays", "through", "Sundays", ",", "this", "place", "is", "pretty", "packed", "with", "twenty-somethings", "and", "maybe", "braver", "older", "adults", "looking", "to", "booze", "and", "get", "after", "it", ",", "probably", "before", "hitting", "a", "louder\\/dancier", "place", "nearby", "."], "e1_text": "get", "e1_pos": 21, "e2_text": "hitting", "e2_pos": 27, "label": "before"},
+{"tokens": ["There", "are", "plenty", "of", "food", "options", "-LRB-", "try", "their", "mini", "pizzas", "and", "other", "appetizers", "-RRB-", ",", "so", "you", "can", "come", "here", "and", "grab", "a", "snick", "whilst", "you", "drink", "or", "before", "you", "head", "out", "to", "drink", "more", "."], "e1_text": "grab", "e1_pos": 22, "e2_text": "head", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "ordered", "a", "martini", "which", "took", "the", "waiter", "30", "min", "to", "bring", ",", "and", "i", "ordered", "another", "one", "before", "our", "food", "came", "out", "and", "i", "did", "n't", "get", "it", "until", "the", "middle", "of", "dinner", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "due", "for", "the", "''", "``", "new", "every", "2", "''", "''", "deal", ",", "but", ",", "would", "n't", "you", "know", "it", "-", "the", "prices", "for", "the", "phones", "we", "wanted", "that", "Hubby", "had", "been", "quoted", "in", "an", "e-mail", "expired", "2", "days", "before", "!"], "e1_text": "wanted", "e1_pos": 28, "e2_text": "had", "e2_pos": 31, "label": "before"},
+{"tokens": ["So", "now", "I", "have", "to", "squeeze", "in", "a", "trip", "back", "to", "the", "store", "sometime", "very", "soon", "before", "the", "whole", "deal", "expires", ",", "or", "possibly", "and", "tragically", "lose", "my", "-", "wait", "for", "it", "...", "wait", "for", "it", "...", "f-ing", "''", "``", "Verizon", "Debit", "Card", ".", "''", "''"], "e1_text": "squeeze", "e1_pos": 5, "e2_text": "expires", "e2_pos": 20, "label": "before"}
+]

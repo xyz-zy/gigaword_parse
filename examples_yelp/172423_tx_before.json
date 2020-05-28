@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "Free", "Range", "Chicken", "and", "I", "suppose", "by", "keeping", "the", "bones", "in", "it", "they", "are", "able", "to", "give", "the", "''", "``", "organic", "''", "''", "feel", ",", "but", "I", "feel", ",", "if", "I", "'m", "spending", "that", "much", "for", "chicken", ",", "that", "the", "bones", "should", "be", "removed", "before", "I", "eat", "it", "to", "prevent", "having", "to", "remove", "them", "from", "my", "mouth", "after", "I", "'ve", "taken", "a", "bite", "."], "e1_text": "removed", "e1_pos": 46, "e2_text": "eat", "e2_pos": 49, "label": "before"}
+]

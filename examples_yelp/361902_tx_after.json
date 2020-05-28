@@ -1,0 +1,3 @@
+[
+{"tokens": ["Most", "recent", "visit", "-", "Steak", "was", "not", "cooked", "anywhere", "close", "-LRB-", "not", "to", "mention", "they", "disregard", "the", "''", "``", "hold", "the", "bacon", "''", "''", "every", "time", "on", "the", "order", "-RRB-", "to", "my", "liking", "after", "cutting", "into", "it", ",", "so", "they", "took", "it", "back", "and", "proceeded", "to", "cook", "it", "more", "."], "e1_text": "cooked", "e1_pos": 7, "e2_text": "cutting", "e2_pos": 34, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Eventually", "we", "were", "handed", "our", "drinks", "and", "finally", "served", "-", "it", "had", "been", "a", "good", "fifteen", "minutes", "or", "longer", "since", "we", "arrived", "before", "anyone", "came", "close", "to", "our", "table", "."], "e1_text": "arrived", "e1_pos": 21, "e2_text": "came", "e2_pos": 24, "label": "before"},
+{"tokens": ["As", "the", "boy", "paid", ",", "the", "waiter", "asked", "if", "we", "enjoyed", "our", "meal", "-", "I", "had", "to", "walk", "out", "before", "spewing", "forth", "a", "volume", "of", "expletives", "about", "how", "much", "I", "had", "not", "enjoyed", "the", "experience", "of", "dining", "at", "Suruchi", "Too", "."], "e1_text": "walk", "e1_pos": 17, "e2_text": "spewing", "e2_pos": 20, "label": "before"}
+]

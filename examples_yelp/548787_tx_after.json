@@ -1,0 +1,4 @@
+[
+{"tokens": ["eventually", "one", "couple", "left", "after", "waiting", "several", "minutes", "to", "even", "be", "acknowledged", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["prior", "to", "ordering", "we", "were", "told", "that", "the", "meal", "is", "capped", "off", "with", "some", "free", "banana", "fritters", "-", "after", "asking", "the", "now", "frazzled", "server", "for", "the", "fritters", "several", "times", "over", "a", "15", "minute", "time", "span", "-", "we", "opted", "to", "leave", "...", "sad", "this", "place", "has", "potential", "but", "the", "service", "kinks", "need", "serious", "massaging"], "e1_text": "told", "e1_pos": 5, "e2_text": "asking", "e2_pos": 19, "label": "after"}
+]

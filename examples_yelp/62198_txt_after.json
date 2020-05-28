@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "back", "to", "Tofu", "Hut", "over", "the", "weekend", ",", "after", "walking", "around", "all", "day", "at", "CES", ",", "I", "was", "starving", "-LRB-", "I", "refused", "to", "buy", "LV", "Convention", "food", "-RRB-", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "walking", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "you", "have", "to", "walk", "quite", "a", "long", "distance", "to", "get", "to", "the", "coaster", "after", "you", "put", "your", "stuff", "in", "the", "locker", ",", "it", "'s", "a", "bit", "of", "a", "hassle", "especially", "if", "you", "left", "your", "glasses", "and", "ca", "n't", "see", "without", "them", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "put", "e2_pos": 16, "label": "after"}
+]

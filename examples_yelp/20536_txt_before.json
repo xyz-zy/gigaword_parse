@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "going", "there", "since", "literally", "before", "it", "opened", "-LRB-", "the", "dry", "run", "-RRB-", "and", "have", "always", "had", "good", "food", "and", "service", "that", "ranges", "from", "acceptable", "to", "great", "with", "one", "notable", "exception", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "opened", "e2_pos": 9, "label": "before"},
+{"tokens": ["Although", "I", "liked", "it", "more", "before", "the", "remodel", "when", "it", "was", "a", "bit", "more", "formal", "and", "different", "from", "Richardson", "'s", "."], "e1_text": "liked", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

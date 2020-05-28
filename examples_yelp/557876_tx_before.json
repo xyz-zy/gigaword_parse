@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", "probably", "another", "ten", "minutes", "goes", "by", "and", "finally", "the", "food", "comes", "out", ",", "and", "before", "the", "waiter", "has", "even", "dropped", "the", "food", "on", "the", "table", "I", "already", "see", "there", "is", "cheese", "on", "my", "salad", "."], "e1_text": "goes", "e1_pos": 5, "e2_text": "has", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "was", "another", "fifteen", "minutes", "before", "I", "received", "a", "new", "one", ",", "which", "at", "that", "point", "I", "just", "wanted", "to", "go", "home", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "received", "e2_pos": 7, "label": "before"},
+{"tokens": ["Food", "allergies", "are", "a", "serious", "thing", "and", "cooks", "should", "receive", "training", "on", "it", "before", "they", "even", "step", "foot", "in", "the", "kitchen", "."], "e1_text": "receive", "e1_pos": 9, "e2_text": "step", "e2_pos": 16, "label": "before"}
+]

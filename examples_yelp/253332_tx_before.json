@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "been", "looking", "for", "a", "decent", "area", "rug", "cleaning", "service", "for", "a", "few", "weeks", "before", "I", "found", "Kiwi", "Services", "."], "e1_text": "cleaning", "e1_pos": 9, "e2_text": "found", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "unwrapped", "it", "and", "to", "my", "immense", "surprise", "the", "rug", "had", "basically", "never", "been", "cleaned", ",", "and", "what", "'s", "more", ",", "it", "smelled", "like", "it", "had", "been", "wet", "and", "did", "n't", "dry", "completely", "before", "they", "wrapped", "it", "."], "e1_text": "dry", "e1_pos": 31, "e2_text": "wrapped", "e2_pos": 35, "label": "before"}
+]

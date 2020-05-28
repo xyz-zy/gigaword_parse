@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "settled", "on", "the", "shrimp", "scampi", "after", "we", "were", "told", "the", "coupon", "did", "not", "included", "the", "crab", "legs", "-LRB-", "which", "gave", "no", "mention", "to", "on", "the", "actual", "coupon", "-RRB-", "."], "e1_text": "settled", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "friend", "ordered", "the", "lobster", "bisque", "after", "the", "waiter", "strongly", "encouraged", "her", "to", "try", "it", "."], "e1_text": "bisque", "e1_pos": 5, "e2_text": "encouraged", "e2_pos": 10, "label": "after"}
+]

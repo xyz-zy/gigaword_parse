@@ -1,0 +1,4 @@
+[
+{"tokens": ["the", "appetizer", "finally", "came", "after", "we", "were", "done", "with", "our", "meals", "and", "our", "waiter", "did", "not", "even", "bother", "to", "apologize", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "were", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "were", "all", "so", "hungry", "after", "the", "meal", "we", "had", "to", "go", "to", "another", "restaurant", "for", "more", "food", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

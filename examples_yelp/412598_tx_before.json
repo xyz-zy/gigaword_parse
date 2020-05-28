@@ -1,0 +1,4 @@
+[
+{"tokens": ["Six", "of", "us", "were", "all", "finished", "before", "the", "two", "had", "even", "got", "their", "food", "."], "e1_text": "finished", "e1_pos": 5, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["No", "thank", "you", ",", "no", "smile", ",", "not", "even", "a", "slight", "glance", "before", "walking", "away", "."], "e1_text": "thank", "e1_pos": 1, "e2_text": "walking", "e2_pos": 13, "label": "before"}
+]

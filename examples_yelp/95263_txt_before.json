@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "work", "in", "medicine", "&", "know", "shit", "happens", ",", "so", "I", "went", "in", "there", "not", "really", "bothered", ",", "but", "when", "I", "walked", "to", "the", "front", "desk", "and", "said", "hi", ",", "the", "receptionist", "made", "an", "annoyed", "face", "and", "kept", "typing", "for", "another", "10", "seconds", "before", "asking", "what", "I", "needed", "."], "e1_text": "typing", "e1_pos": 38, "e2_text": "asking", "e2_pos": 44, "label": "before"}
+]

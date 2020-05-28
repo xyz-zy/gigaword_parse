@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "there", "was", "no", "attendant", "to", "guide", "me", "in", ",", "I", "crossed", "my", "fingers", ",", "hoping", "that", "I", "pulled", "my", "tire", "into", "the", "exact", "spot", "it", "needed", "to", "be", "before", "receiving", "my", "wash", "."], "e1_text": "be", "e1_pos": 28, "e2_text": "receiving", "e2_pos": 30, "label": "before"},
+{"tokens": ["Yep", ",", "your", "car", "starts", "to", "air-dry", "before", "you", "even", "officially", "begin", "."], "e1_text": "starts", "e1_pos": 4, "e2_text": "begin", "e2_pos": 11, "label": "before"}
+]

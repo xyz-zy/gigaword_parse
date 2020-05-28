@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "been", "looking", "forward", "to", "eating", "here", "for", "awhile", ",", "so", "this", "past", "Sunday", "I", "stopped", "in", "around", "7am", "for", "breakfast", "and", "some", "paper-reading", "time", "before", "continuing", "with", "my", "day", "."], "e1_text": "stopped", "e1_pos": 16, "e2_text": "continuing", "e2_pos": 27, "label": "before"},
+{"tokens": ["This", "went", "on", "for", "at", "least", "10", "minutes", "before", "I", "'d", "decided", "I", "'d", "had", "enough", "and", "left", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "'d", "e2_pos": 10, "label": "before"}
+]

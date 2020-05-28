@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "was", "behind", "the", "bar", "and", "said", "the", "chef", "would", "come", "out", "and", "make", "me", "whatever", "I", "wanted", "after", "I", "explained", "to", "him", "about", "celiac", "disease", "and", "gluten", "."], "e1_text": "wanted", "e1_pos": 18, "e2_text": "explained", "e2_pos": 21, "label": "after"}
+]

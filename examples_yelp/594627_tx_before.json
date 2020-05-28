@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "Mez", "had", "it", "'s", "problems", "before", "Studio", "Movie", "Grill", "took", "over", "-LRB-", "Paying", "higher", "price", "for", "regular", "seating", ",", "they", "called", "it", "''", "``", "Premium", "Seating", "''", "''", "-RRB-", ",", "SMG", "added", "a", "host", "of", "other", "issues", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "took", "e2_pos": 10, "label": "before"},
+{"tokens": ["After", "that", "I", "waited", "another", "10", "minutes", "before", "a", "staff", "member", "came", "by", "with", "what", "looked", "like", "a", "spray", "bottle", "and", "a", "paper", "towel", "and", "tried", "to", "spray", "it", "down", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

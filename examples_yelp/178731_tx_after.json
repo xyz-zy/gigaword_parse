@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", ",", "I", "went", "the", "mistake", "of", "going", "after", "the", "brunch", "portions", "were", "cleared", "away", "."], "e1_text": "going", "e1_pos": 7, "e2_text": "were", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "service", "sucked", "--", "our", "waiter", "evidently", "went", "home", "after", "he", "brought", "my", "friend", "her", "drink", "-LRB-", "she", "was", "seated", "a", "few", "minutes", "before", "me", "-RRB-", ",", "and", "NEVER", "came", "back", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "brought", "e2_pos": 11, "label": "after"}
+]

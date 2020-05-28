@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "needed", "a", "minute", "to", "look", "at", "the", "menu", "though", ",", "since", "we", "had", "never", "been", "here", "before", "."], "e1_text": "needed", "e1_pos": 1, "e2_text": "had", "e2_pos": 13, "label": "before"},
+{"tokens": ["It", "would", "'ve", "been", "nice", "if", "she", "checked", "to", "see", "if", "we", "were", "ready", "before", "she", "let", "people", "skip", "us", ",", "but", "she", "did", "n't", "bother", "."], "e1_text": "were", "e1_pos": 12, "e2_text": "let", "e2_pos": 16, "label": "before"}
+]

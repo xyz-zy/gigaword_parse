@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "actually", "had", "to", "spit", "it", "into", "my", "napkin", ",", "which", "I", "'ve", "never", "done", "in", "a", "restaurant", "before", "."], "e1_text": "spit", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 12, "label": "before"},
+{"tokens": ["Oh", ",", "and", "our", "food", "sat", "in", "the", "window", "for", "about", "15", "minutes", "before", "our", "server", "brought", "it", "to", "us", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "brought", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ok", "so", "I", "have", "a", "biased", "opinion", "because", "I", "only", "stopped", "in", "for", "a", "quick", "drink", "before", "visiting", "Nonna", "Maria", "at", "Italia", "Fest", "...", "But", "the", "service", "was", "not", "quick", "at", "all", "."], "e1_text": "stopped", "e1_pos": 10, "e2_text": "visiting", "e2_pos": 17, "label": "before"}
+]

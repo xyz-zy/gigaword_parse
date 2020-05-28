@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "used", "to", "leave", "long", "comments", "on", "receipts", "complaining", "about", "the", "servers", ",", "but", "stopped", "after", "we", "noticed", "they", "never", "would", "fire", "the", "ones", "which", "everyone", "had", "issues", "."], "e1_text": "stopped", "e1_pos": 14, "e2_text": "noticed", "e2_pos": 17, "label": "after"},
+{"tokens": ["My", "recent", "experience", ",", "and", "why", "I", "decided", "to", "write", "the", "review", ",", "was", "after", "trying", "to", "use", "a", "Groupon", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "trying", "e2_pos": 15, "label": "after"}
+]

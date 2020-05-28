@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "almost", "like", "they", "could", "earn", "another", "star", "if", "they", "only", "took", "the", "3", "extra", "minutes", "to", "properly", "prepare", "the", "food", "before", "it", "comes", "to", "the", "table", "-", "pick", "out", "some", "good", "slices", "of", "pickles", ",", "arrange", "the", "meat", "neatly", "on", "the", "bun", "so", "it", "is", "n't", "falling", "off", "onto", "the", "plate", ",", "etc.", "."], "e1_text": "prepare", "e1_pos": 19, "e2_text": "comes", "e2_pos": 24, "label": "before"}
+]

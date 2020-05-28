@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "recently", "moved", "to", "this", "area", "of", "Phoenix", "and", "thought", "we", "would", "try", "it", "one", "night", "after", "seeing", "the", "sign", "that", "it", "was", "on", "the", "food", "network", "walking", "out", "of", "Sprout", "'s", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "seeing", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "think", "this", "might", "be", "the", "angriest", "I", "have", "ever", "been", "after", "eating", "dinner", "out", "."], "e1_text": "been", "e1_pos": 10, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

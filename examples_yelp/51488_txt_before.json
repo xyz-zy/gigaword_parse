@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "example", ",", "when", "you", "order", "the", "Jumbo", "popcorn", "chicken", "it", "asks", "what", "type", "of", "sauce", ";", "I", "chose", "barbecue", ",", "and", "it", "did", "n't", "come", "with", "the", "sauce", ",", "we", "had", "to", "ask", "before", "the", "gentlemen", "left", "."], "e1_text": "ask", "e1_pos": 33, "e2_text": "left", "e2_pos": 37, "label": "before"}
+]

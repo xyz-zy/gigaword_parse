@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "for", "a", "fact", "they", "were", "still", "in", "business", "when", "I", "tried", "to", "go", ",", "because", "I", "had", "friends", "who", "went", "in", "here", "to", "eat", "not", "long", "before", "or", "after", "I", "attempted", "to", "go", "in", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "attempted", "e2_pos": 32, "label": "after"}
+]

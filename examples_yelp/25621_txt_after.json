@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "tried", "going", "to", "5", "other", "nail", "places", "yesterday", "after", "work", "-LRB-", "in", "Scottsdale", "and", "Phoenix", "-RRB-", "because", "I", "have", "no", "time", "the", "rest", "of", "the", "week", ",", "and", "every", "single", "place", "was", "crowded", ",", "so", "this", "was", "my", "final", "spot", "before", "giving", "up", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "have", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "watched", "while", "they", "disinfected", "the", "pedi", "tub", "so", "it", "put", "me", "at", "ease", "after", "watching", "the", "thorough", "cleaning", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "watching", "e2_pos": 15, "label": "after"}
+]

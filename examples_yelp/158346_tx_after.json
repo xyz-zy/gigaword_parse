@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "given", "up", "on", "this", "place", "after", "giving", "it", "many", "chances", "."], "e1_text": "given", "e1_pos": 2, "e2_text": "giving", "e2_pos": 8, "label": "after"},
+{"tokens": ["And", "the", "guy", "checked", "the", "rest", "of", "it", "in", "the", "fridge", "and", "noticed", "it", "all", "had", "mold", ",", "but", "only", "after", "I", "pointed", "it", "out", "."], "e1_text": "noticed", "e1_pos": 12, "e2_text": "pointed", "e2_pos": 22, "label": "after"}
+]

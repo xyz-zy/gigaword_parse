@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wandered", "into", "town", "still", "half", "asleep", "before", "hopping", "onto", "a", "bus", "up", "to", "Aberdeen", "."], "e1_text": "wandered", "e1_pos": 1, "e2_text": "hopping", "e2_pos": 8, "label": "before"},
+{"tokens": ["My", "Belly", "was", "not", "happy", "at", "the", "thought", "of", "having", "to", "wait", "til", "reaching", "the", "granite", "city", "before", "getting", "something", "to", "eat", ",", "so", "a", "quick", "breakfast", "was", "what", "I", "was", "looking", "for", "."], "e1_text": "reaching", "e1_pos": 13, "e2_text": "getting", "e2_pos": 18, "label": "before"}
+]

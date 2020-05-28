@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Update", ":", "One", "of", "them", "messaged", "me", "after", "reading", "this", "review", "to", "tell", "me", "she", "actually", "did", "n't", "like", "the", "food", "...", "lol", "I", "guess", "my", "husband", "and", "I", "were", "not", "the", "only", "ones", "that", "did", "n't", "enjoy", "it", "-RRB-", "Nobody", "enjoyed", "the", "service", "though", ",", "I", "can", "assure", "you", "of", "that", "lol", "."], "e1_text": "messaged", "e1_pos": 6, "e2_text": "reading", "e2_pos": 9, "label": "after"}
+]

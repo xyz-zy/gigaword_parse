@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ate", "the", "daily", "special", "and", "a", "Caesar", "salad", "-LRB-", "which", "tasted", "just", "fine", "-RRB-", ",", "but", "it", "was", "far", "more", "enjoyable", "to", "speak", "about", "the", "Presidential", "election", "-LRB-", "and", "years", "past", "-RRB-", ",", "the", "lack", "of", "success", "of", "the", "Pirates", "baseball", "team", ",", "and", "the", "guy", "who", "skipped", "out", "on", "his", "check", "the", "night", "before", "-LRB-", "and", "was", "chased", "into", "the", "street", "by", "the", "bartender", "-RRB-", "."], "e1_text": "skipped", "e1_pos": 48, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

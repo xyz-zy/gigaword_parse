@@ -1,0 +1,3 @@
+[
+{"tokens": ["Hell", ",", "go", "to", "Dave", "and", "Busters", "before", "you", "come", "here", ",", "they", "at", "least", "have", "reverse", "happy", "hour", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "come", "e2_pos": 9, "label": "before"}
+]

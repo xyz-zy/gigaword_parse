@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "be", "honest", "I", "'m", "not", "sure", "if", "I", "picked", "this", "popsicle", "because", "it", "sounded", "good", ",", "or", "because", "after", "I", "read", "its", "name", "I", "could", "n't", "get", "the", "tune", "out", "of", "my", "head", "and", "just", "so", "happened", "to", "accidentally", "blurt\\/sing", "it", "to", "the", "gentleman", "helping", "me", "."], "e1_text": "picked", "e1_pos": 9, "e2_text": "read", "e2_pos": 21, "label": "after"},
+{"tokens": ["Random", "Tip", ":", "We", "ended", "up", "asking", "the", "Gentleman", "after", "we", "ordered", "what", "item", "had", "the", "highest", "alcohol", "content", "."], "e1_text": "asking", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 11, "label": "after"}
+]

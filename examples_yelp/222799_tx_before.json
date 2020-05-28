@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "when", "we", "asked", "for", "the", "sommelier", "to", "make", "a", "wine", "selection", ",", "he", "was", "there", "and", "gone", "before", "I", "looked", "up", "from", "the", "wine", "list", "...", "Will", "not", "go", "back", "."], "e1_text": "gone", "e1_pos": 17, "e2_text": "looked", "e2_pos": 20, "label": "before"}
+]

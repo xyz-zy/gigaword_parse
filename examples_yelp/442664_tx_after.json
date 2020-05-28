@@ -1,0 +1,4 @@
+[
+{"tokens": ["Busy", "office", "that", "treats", "you", "like", "cattle", "and", "then", "leaves", "you", "sitting", "in", "the", "room", "after", "they", "are", "done", "...", "none", "even", "told", "me", "they", "were", "done", "with", "me", "until", "they", "realized", "they", "needed", "the", "room", "!"], "e1_text": "sitting", "e1_pos": 11, "e2_text": "are", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "called", "back", "after", "the", "long", "wknd", "holiday", "and", "some", "dude", "named", "Omar", "answered", "the", "phone", "with", "a", "hello", "...", "then", "I", "asked", "for", "he", "office", "mgr", "and", "got", "Joan", "who", "I", "find", "out", "is", "a", "family", "memeber", "who", "also", "is", "not", "very", "professional", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "named", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "there", "to", "show", "my", "friend", "what", "a", "cool", "place", "this", "was", "and", "the", "bartender", "I", "think", "her", "name", "was", "Lindsay", "charged", "both", "my", "friend", "and", "I", "for", "all", "of", "our", "drinks", "after", "LOSING", "70", "bucks", "in", "less", "than", "40", "minutes", "."], "e1_text": "charged", "e1_pos": 21, "e2_text": "LOSING", "e2_pos": 33, "label": "after"},
+{"tokens": ["I", "said", "Thats", "NO", "problem", "and", "paid", "and", "left", "shortly", "after", "paying", "for", "our", "drinks", "."], "e1_text": "paid", "e1_pos": 6, "e2_text": "paying", "e2_pos": 11, "label": "after"}
+]

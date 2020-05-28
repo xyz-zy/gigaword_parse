@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "like", "beansprouts", "and", "i", "tend", "to", "eat", "those", "first", "but", "there", "was", "still", "a", "lot", "and", "it", "watered", "down", "the", "sauce", "so", "much", "that", "it", "just", "tasted", "like", "water", "after", "eating", "most", "of", "the", "udon", "."], "e1_text": "tasted", "e1_pos": 27, "e2_text": "eating", "e2_pos": 31, "label": "after"},
+{"tokens": ["This", "was", "an", "average", "day", ",", "i", "was", "full", "after", "eating", ",", "but", "was", "n't", "satisfied", "with", "how", "it", "tasted", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "eating", "e2_pos": 10, "label": "after"}
+]

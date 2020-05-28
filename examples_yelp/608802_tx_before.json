@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "friend", "told", "the", "server", "that", "the", "chicken", "was", "pink", "she", "said", "ok", "and", "then", "added", "that", "she", "never", "eats", "at", "work", ",", "she", "makes", "sure", "she", "eats", "before", "she", "gets", "to", "work", "."], "e1_text": "eats", "e1_pos": 20, "e2_text": "gets", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "there", "we", "were", "seated", "in", "the", "restaurant", "and", "shortly", "after", "told", "that", "they", "did", "not", "have", "a", "server", "working", "that", "night", "."], "e1_text": "seated", "e1_pos": 6, "e2_text": "told", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "sat", "next", "to", "two", "other", "people", "that", "came", "in", "way", "after", "us", "and", "they", "got", "their", "food", "immediately", "while", "we", "were", "sitting", "waiting", "and", "waiting", "for", "our", "food", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "got", "e2_pos": 15, "label": "after"}
+]

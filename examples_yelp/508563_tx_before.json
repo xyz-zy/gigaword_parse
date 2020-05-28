@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mel", "C.", "and", "I", "dropped", "in", "before", "we", "met", "some", "peeps", "for", "dinner", "around", "7:00", "pm", "on", "a", "Saturday", "and", "the", "place", "was", "fairly", "empty", "."], "e1_text": "dropped", "e1_pos": 4, "e2_text": "met", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "would", "n't", "have", "done", "that", "if", "someone", "was", "waiting", "to", "play", ",", "but", ",", "lucky", "for", "me", ",", "no", "one", "was", "so", "I", "got", "to", "play", "to", "my", "heart", "'s", "content", "for", "a", "while", "before", "I", "died", "for", "good", "."], "e1_text": "play", "e1_pos": 11, "e2_text": "died", "e2_pos": 37, "label": "before"}
+]

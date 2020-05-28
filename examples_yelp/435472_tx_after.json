@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "the", "day", "of", "my", "wedding", "I", "called", "for", "room", "service", "before", "my", "appointments", "at", "the", "salon", "and", "they", "told", "me", "35", "min", ",", "a", "hour", "later", "of", "no", "room", "service", "I", "called", "back", "and", "they", "told", "me", "that", "it", "was", "on", "it", "'s", "way", ",", "a", "half", "hour", "after", "that", "it", "finally", "came", "."], "e1_text": "was", "e1_pos": 41, "e2_text": "came", "e2_pos": 54, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "seen", "Sno", "Monkey", "parked", "at", "the", "gas", "station", "by", "my", "house", "last", "year", "but", "never", "got", "the", "chance", "to", "try", "it", "before", "they", "closed", "for", "the", "winter", "."], "e1_text": "try", "e1_pos": 21, "e2_text": "closed", "e2_pos": 25, "label": "before"}
+]

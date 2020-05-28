@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "biggest", "concern", "with", "the", "gym", "was", "that", "after", "charging", "the", "day", "rate", "and", "signing", "the", "log", "there", "was", "no", "orientation", "or", "safety", "check", "before", "they", "let", "us", "on", "the", "wall", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "let", "e2_pos": 26, "label": "before"},
+{"tokens": ["On", "the", "positive", "side", ";", "the", "gym", "does", "seem", "oriented", "well", "for", "kids", "\\/", "beginners", "\\/", "UNLV", "students", "who", "would", "take", "a", "class", "before", "starting", "without", "much", "climbing", "background", "."], "e1_text": "take", "e1_pos": 20, "e2_text": "starting", "e2_pos": 24, "label": "before"}
+]

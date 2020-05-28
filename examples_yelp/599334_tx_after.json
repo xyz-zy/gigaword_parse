@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "day", "he", "came", "out", "to", "assess", "the", "situation", "and", "provide", "a", "quote", ",", "he", "came", "5", "hours", "late", "and", "we", "had", "to", "call", "HIM", "to", "inquire", "when", "he", "would", "arrive", "after", "not", "showing", "up", "within", "the", "window", "he", "gave", "us", "."], "e1_text": "arrive", "e1_pos": 30, "e2_text": "showing", "e2_pos": 33, "label": "after"}
+]

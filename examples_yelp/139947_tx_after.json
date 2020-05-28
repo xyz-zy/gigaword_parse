@@ -1,0 +1,4 @@
+[
+{"tokens": ["CONS", "-RRB-", "1", "-RRB-", "They", "lost", "our", "reservation", "after", "making", "it", "on", "the", "internet", "and", "calling", "."], "e1_text": "lost", "e1_pos": 5, "e2_text": "making", "e2_pos": 9, "label": "after"},
+{"tokens": ["Super", "let", "down", "for", "us", "after", "planning", "it", "weeks", "in", "advance", "for", "our", "traveling", "company", "."], "e1_text": "let", "e1_pos": 1, "e2_text": "planning", "e2_pos": 6, "label": "after"}
+]

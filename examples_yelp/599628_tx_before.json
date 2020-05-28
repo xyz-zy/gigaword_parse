@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "wanted", "to", "show", "my", "friend", "a", "room", "she", "'s", "never", "seen", "before", "and", "figured", "it", "would", "change", "her", "upset", "mood", "over", "the", "security", "guard", "incident", "."], "e1_text": "show", "e1_pos": 4, "e2_text": "'s", "e2_pos": 10, "label": "before"},
+{"tokens": ["And", "did", "n't", "see", "the", "big", "deal", "of", "taking", "a", "quick", "look", "before", "we", "headed", "out", ",", "in", "addition", "there", "were", "still", "a", "lot", "people", "!"], "e1_text": "taking", "e1_pos": 8, "e2_text": "headed", "e2_pos": 14, "label": "before"}
+]

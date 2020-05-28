@@ -1,0 +1,3 @@
+[
+{"tokens": ["US", "Airways", "lost", "my", "carry", "on", "luggage", "in", "Charlotte", "which", "I", "checked", ",", "as", "a", "courtesy", "to", "them", ",", "after", "they", "went", "on", "the", "loud", "speaker", "asking", "for", "volunteers", "to", "check", "luggage", "because", "of", "such", "a", "full", "flight", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "went", "e2_pos": 21, "label": "after"}
+]

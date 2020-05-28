@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "asked", "how", "long", "the", "wait", "for", "a", "table", "4", "for", "might", "be", ",", "he", "looked", "rather", "perplexed", "as", "if", "no", "one", "had", "ever", "asked", "such", "a", "question", "before", "."], "e1_text": "looked", "e1_pos": 16, "e2_text": "had", "e2_pos": 23, "label": "before"},
+{"tokens": ["He", "then", "preceded", "to", "look", "around", "confusedly", "and", "stammer", "out", "a", "few", "statements", "before", "declaring", "that", "he", "had", "no", "idea", "."], "e1_text": "stammer", "e1_pos": 8, "e2_text": "declaring", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "never", "brought", "refills", ",", "never", "checked", "the", "table", "between", "the", "time", "she", "brought", "our", "order", "and", "when", "she", "put", "the", "check", "down", ",", "it", "took", "her", "10", "minutes", "after", "running", "the", "check", "to", "come", "back", "and", "let", "my", "friend", "know", "the", "Groupon", "covered", "the", "tab", "-LRB-", "it", "was", "NOT", "busy", "last", "night", "at", "5:30", "-RRB-", "."], "e1_text": "took", "e1_pos": 25, "e2_text": "running", "e2_pos": 30, "label": "after"}
+]

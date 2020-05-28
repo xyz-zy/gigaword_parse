@@ -1,0 +1,4 @@
+[
+{"tokens": ["Moral", "of", "the", "story", ":", "1", "-RRB-", "read", "the", "contract", "carefully", ",", "if", "anything", "looks", "fishy", "to", "you", ",", "have", "them", "correct", "it", "before", "you", "sign", "it", "."], "e1_text": "correct", "e1_pos": 21, "e2_text": "sign", "e2_pos": 25, "label": "before"},
+{"tokens": ["They", "tried", "to", "offer", "to", "split", "the", "difference", "before", "giving", "us", "the", "rate", "we", "were", "promised", "."], "e1_text": "split", "e1_pos": 5, "e2_text": "giving", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "i", "have", "ten", "sets", "of", "french", "doors", "-RRB-", "It", "'s", "a", "bit", "suspect", "that", "I", "hear", "nothing", "for", "two", "weeks", "yet", "they", "can", "call", "back", "two", "minutes", "after", "I", "ask", "for", "my", "$", "95", "back", "on", "the", "grounds", "of", "services", "not", "performed", "."], "e1_text": "call", "e1_pos": 24, "e2_text": "ask", "e2_pos": 30, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "go", "after", "9pm", "chances", "are", "you", "'ll", "stand", "at", "the", "counter", "for", "10", "minuets", "before", "anyone", "will", "even", "say", "be", "with", "you", "in", "a", "minute", "if", "they", "even", "do", "that", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "are", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "did", "n't", "even", "do", "that", "2", "times", ",", "however", ",", "on", "Halloween", "they", "did", "say", "they", "'d", "be", "with", "us", "in", "a", "min", "after", "we", "stood", "there", "for", "7", "to", "8", "min", "."], "e1_text": "be", "e1_pos": 18, "e2_text": "stood", "e2_pos": 26, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "late", "on", "a", "Sunday", "night", "and", "the", "BF", "suggests", "trying", "out", "the", "original", "Osaka", "after", "having", "visited", "their", "second", "location", "a", "few", "weeks", "back", "."], "e1_text": "trying", "e1_pos": 11, "e2_text": "having", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "took", "a", "walk", "down", "there", "after", "eating", "to", "check", "out", "their", "tatami", "room", "-LRB-", "lots", "of", "space", "-RRB-", ",", "semi-private", "booths", ",", "and", "a", "hibachi", "grill", "area", "too", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

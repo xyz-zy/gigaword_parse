@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "numerous", "employees", "eating", "on", "the", "line", "in", "plane", "site", "of", "customers", ",", "there", "were", "2", "little", "kids", "working", "as", "well", "that", "didnt", "appear", "to", "be", "washing", "their", "hands", "after", "touching", "their", "face", "or", "hair", "or", "after", "going", "outside", "."], "e1_text": "washing", "e1_pos": 27, "e2_text": "touching", "e2_pos": 31, "label": "after"}
+]

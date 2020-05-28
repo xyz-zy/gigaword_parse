@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "guess", "is", "that", "they", "dipped", "it", "in", "hot", "oil", "before", "throwing", "it", "in", "the", "tortilla", "."], "e1_text": "dipped", "e1_pos": 5, "e2_text": "throwing", "e2_pos": 11, "label": "before"},
+{"tokens": ["My", "youngest", "only", "took", "a", "couple", "bites", "before", "he", "had", "to", "stop", "because", "of", "grease", "running", "down", "his", "chin", "and", "fore", "arms", "."], "e1_text": "bites", "e1_pos": 6, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

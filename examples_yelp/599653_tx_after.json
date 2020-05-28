@@ -1,0 +1,3 @@
+[
+{"tokens": ["Simple", "things", "are", "missed", ",", "like", "the", "metal", "detailing", "on", "my", "steering", "wheel", "which", "always", "has", "smudges", "on", "it", "after", "they", "turn", "my", "car", "over", "to", "me", "again", "."], "e1_text": "detailing", "e1_pos": 8, "e2_text": "turn", "e2_pos": 21, "label": "after"}
+]

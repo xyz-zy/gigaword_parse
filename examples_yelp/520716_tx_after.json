@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "haircuts", "their", "twice", "before", "after", "making", "phone", "reservations", "."], "e1_text": "haircuts", "e1_pos": 2, "e2_text": "making", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "was", "told", "I", "'d", "be", "next", "after", "another", "walk-in", "was", "serviced", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

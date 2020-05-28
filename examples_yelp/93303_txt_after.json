@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "yelled", "at", "me", "in", "front", "of", "customers", "for", "no", "reason", ",", "and", "yelled", "at", "me", "for", "giving", "him", "a", "''", "``", "dinner", "napkin", "''", "''", "and", "not", "a", "''", "``", "drink", "napkin", "''", "''", "after", "he", "split", "some", "of", "his", "shot", "."], "e1_text": "yelled", "e1_pos": 1, "e2_text": "split", "e2_pos": 37, "label": "after"}
+]

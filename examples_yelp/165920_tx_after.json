@@ -1,0 +1,4 @@
+[
+{"tokens": ["what", "a", "great", "place", "to", "rest", "our", "weary", "feet", "after", "a", "long", "day", "of", "walking", "and", "knocking", "on", "strangers", "'", "doors", "!"], "e1_text": "rest", "e1_pos": 5, "e2_text": "walking", "e2_pos": 14, "label": "after"},
+{"tokens": ["coming", "back", "to", "the", "jockey", "club", "to", "rest", "my", "feet", "after", "a", "day", "of", "doing", "my", "little", ",", "wittle", "part", "to", "contribute", "to", "this", "campaign", "for", "change", "...", "PRICELESS", "."], "e1_text": "rest", "e1_pos": 7, "e2_text": "doing", "e2_pos": 14, "label": "after"}
+]

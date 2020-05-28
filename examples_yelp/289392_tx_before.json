@@ -1,0 +1,3 @@
+[
+{"tokens": ["Second", ",", "ordering", "a", "la", "carte", "or", "off-menu", "is", "very", ",", "very", "expensive", ",", "so", "think", "carefully", "before", "you", "ask", "for", "an", "omelette", "that", "'s", "not", "on", "the", "menu", "."], "e1_text": "think", "e1_pos": 15, "e2_text": "ask", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "a", "Root", "beer", ",", "it", "has", "alcohol", "and", "they", "allowed", "the", "ice", "cream", "to", "completely", "melt", "before", "bringing", "it", "to", "the", "table", "."], "e1_text": "melt", "e1_pos": 17, "e2_text": "bringing", "e2_pos": 19, "label": "before"},
+{"tokens": ["Id", "rather", "go", "to", "Holsteins", "or", "even", "Smashburger", "before", "I", "actively", "choose", "Stripburger", "again", "!"], "e1_text": "go", "e1_pos": 2, "e2_text": "choose", "e2_pos": 11, "label": "before"}
+]

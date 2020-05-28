@@ -1,0 +1,4 @@
+[
+{"tokens": ["AS", "YOU", "PLEASE", "We", "just", "could", "not", "resist", "trying", "this", "new", "Chinese", "restautrant", "that", "had", "just", "opened", "at", "the", "Palms", "September", "12th", "seven", "days", "before", "Jack", "Ma", "'s", "Alibaba", "IPO", "that", "became", "the", "largest", "in", "US", "history", "."], "e1_text": "opened", "e1_pos": 16, "e2_text": "became", "e2_pos": 31, "label": "before"},
+{"tokens": ["We", "waited", "just", "twenty", "minutes", "before", "being", "called", "on", "our", "cell", "phone", "that", "our", "table", "was", "waiting", "for", "us", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 6, "label": "before"}
+]

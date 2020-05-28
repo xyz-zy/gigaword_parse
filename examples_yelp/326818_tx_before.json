@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "it", "to", "Wilhelm", "as", "they", "have", "done", "service", "for", "us", "before", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "have", "e2_pos": 7, "label": "before"},
+{"tokens": ["But", "when", "they", "called", "to", "tell", "me", "it", "was", "ready", "to", "go", "they", "asked", "if", "the", "air", "conditioning", "was", "working", "before", "I", "brought", "it", "in", "."], "e1_text": "working", "e1_pos": 19, "e2_text": "brought", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiting", "turned", "into", "an", "hour", "before", "they", "tell", "us", "that", "there", "'s", "a", "problem", "with", "the", "computer", "and", "they", "ca", "n't", "do", "the", "pictures", "."], "e1_text": "turned", "e1_pos": 2, "e2_text": "tell", "e2_pos": 8, "label": "before"},
+{"tokens": ["Well", "I", "guess", "they", "do", "n't", "know", "what", "asap", "means", "cause", "we", "had", "to", "keep", "calling", "them", "all", "day", "before", "they", "finally", "said", "they", "will", "deliver", "the", "new", "video", "to", "the", "hotel", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "said", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "lunch", "hour", "drive", "thru", "order", "was", "ready", "before", "I", "was", "with", "the", "cash", ",", "meaning", "the", "chicken", "'s", "precooked", ",", "but", "they", "still", "had", "to", "slap", "it", "together", ",", "since", "I", "got", "the", "lettuce", "and", "tomato", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

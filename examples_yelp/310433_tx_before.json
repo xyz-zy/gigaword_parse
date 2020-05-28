@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "least", "we", "went", "here", "in", "May", "for", "my", "birthday", "before", "they", "changed", ",", "I", "wish", "we", "knew", "it", "would", "be", "the", "last", "time", "that", "we", "could", "enjoy", "our", "favorites", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "changed", "e2_pos": 12, "label": "before"}
+]

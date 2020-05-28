@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "put", "the", "usual", "amount", "in", "the", "machine", ",", "and", "only", "to", "find", "out", "the", "timer", "was", "not", "set", "completely", "and", "I", "ran", "out", "of", "time", "before", "my", "car", "was", "completely", "finished", "."], "e1_text": "ran", "e1_pos": 22, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "happened", "in", "here", "after", "not", "seeing", "many", "options", "at", "Slumberland", "across", "the", "street", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 6, "label": "after"},
+{"tokens": ["Plus", ",", "by", "then", "I", "had", "noticed", "a", "substantial", "coupon", "in", "the", "mail", "and", "he", "honored", "it", "after", "I", "had", "already", "made", "the", "purchase", "!"], "e1_text": "honored", "e1_pos": 15, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "shoes", "between", "size", "8-11", "at", "2pm", "and", "the", "lane", "did", "n't", "work", "after", "waiting", "30", "mins", "in", "a", "empty", "bowling", "alley", "."], "e1_text": "work", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

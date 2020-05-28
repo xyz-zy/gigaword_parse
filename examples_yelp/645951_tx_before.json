@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "appetizer", ",", "chocolate", "covered", "bacon", ",", "came", "out", "just", "before", "our", "meals", "started", "to", "be", "delivered", "...", "which", "took", "about", "20", "minutes", "after", "ordering", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "started", "e2_pos": 13, "label": "before"}
+]

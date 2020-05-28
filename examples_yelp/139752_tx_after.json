@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "assuming", "they", "just", "shoved", "the", "bag", "in", "a", "corner", ",", "it", "contained", "his", "leash", "&", "collar", "as", "well", "-LRB-", "they", "tried", "to", "give", "him", "back", "without", "either", "-RRB-", "after", "about", "10", "minutes", "of", "looking", "they", "finally", "found", "the", "bag", "with", "everything", "in", "it", "."], "e1_text": "contained", "e1_pos": 13, "e2_text": "found", "e2_pos": 38, "label": "after"}
+]

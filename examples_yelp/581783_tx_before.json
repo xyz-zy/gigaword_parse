@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "to", "the", "Desert", "Botanical", "Garden", "to", "meet", "up", "with", "boo", "thang", "'s", "dad", ",", "brother", "and", "his", "family", ",", "and", "wanted", "to", "have", "breakfast", "at", "Gertrude", "'s", "before", "we", "decided", "to", "walk", "around", "the", "Garden", "."], "e1_text": "have", "e1_pos": 23, "e2_text": "decided", "e2_pos": 30, "label": "before"},
+{"tokens": ["All", "in", "all", "-", "loved", "the", "Desert", "Botanical", "Garden", ",", "just", "next", "time", ",", "I", "'ll", "eat", "before", "I", "get", "there"], "e1_text": "eat", "e1_pos": 16, "e2_text": "get", "e2_pos": 19, "label": "before"}
+]

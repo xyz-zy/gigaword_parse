@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "noticed", "that", "just", "now", "after", "being", "short", "changed", "and", "when", "we", "brought", "it", "up", "to", "the", "bartender", "she", "made", "it", "seem", "like", "it", "'s", "a", "totally", "normal", "thing", "to", "do", "and", "was", "actually", "very", "unprofessional", "about", "it", "."], "e1_text": "noticed", "e1_pos": 1, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["``", "Oh", "I", "can", "give", "you", "your", "small", "change", "if", "you", "Really", "want", "it", "''", "''", "''", "``", "Oh", "really", "?!", "You", "will", "?!", "Even", "after", "you", "just", "told", "us", "that", "you", "do", "n't", "carry", "coins", "in", "your", "register", "?", "''", "''"], "e1_text": "?!", "e1_pos": 23, "e2_text": "told", "e2_pos": 28, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "close", "too", "early", "in", "the", "day", "and", "start", "closing", "about", "30", "minutes", "before", "they", "lock", "the", "doors", "so", "its", "a", "crap", "shoot", "if", "you", "'ll", "be", "able", "to", "buy", "what", "you", "want", ",", "when", "you", "want", "it", "."], "e1_text": "close", "e1_pos": 1, "e2_text": "lock", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "then", "milled", "around", "for", "90", "MINUTES", "...", "An", "hour", "and", "a", "half", "for", "an", "inspection", "-LRB-", "that", "should", "have", "been", "done", "before", "they", "sold", "me", "the", "car", "...", "-RRB-", "?"], "e1_text": "done", "e1_pos": 21, "e2_text": "sold", "e2_pos": 24, "label": "before"}
+]

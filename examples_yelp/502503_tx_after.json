@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "over", "an", "hour", ",", "and", "after", "being", "30", "minutes", "over", "an", "hour", "the", "lady", "who", "delivered", "my", "food", "yelled", "at", "me", "for", "not", "telling", "her", "the", "access", "key", "to", "our", "apartment", "complex", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

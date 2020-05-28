@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "dogs", "had", "to", "go", "there", "for", "a", "severe", "ear", "infection", "when", "my", "regular", "vet", "was", "closed", "and", "another", "time", "for", "acute", "pancreatitis", "-LRB-", "which", "was", "life-threatening", "-RRB-", "after", "eating", "some", "tainted", "Chinese", "dog", "jerky", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "eating", "e2_pos": 31, "label": "after"}
+]

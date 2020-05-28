@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "two", "workers", "exchanged", "fist", "bumps", "and", "words", ",", "before", "the", "first", "worker", "-LRB-", "who", "just", "left", "a", "used", "toilet", "-RRB-", "exited", "the", "men", "'s", "room", "WITHOUT", "WASHING", "HIS", "HANDS", "!"], "e1_text": "exchanged", "e1_pos": 3, "e2_text": "exited", "e2_pos": 21, "label": "before"}
+]

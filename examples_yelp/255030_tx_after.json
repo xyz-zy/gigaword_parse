@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "back", "for", "my", "xrays", "20", "minutes", "after", "my", "appointment", "was", "supposed", "to", "start", ",", "they", "took", "900", "pictures", ",", "a", "little", "excessive", "if", "you", "ask", "me", ",", "moved", "me", "around", "3", "different", "times", ",", "then", "half", "assed", "cleaned", "my", "teeth", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

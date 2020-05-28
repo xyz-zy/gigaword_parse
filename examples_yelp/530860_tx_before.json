@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "few", "different", "ones", "come", "to", "our", "table", "to", "introduce", "themselves", ",", "educate", "us", "on", "the", "juice", "menu", ",", "and", "just", "generally", "welcome", "us", "to", "Fern", "before", "we", "even", "ordered", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "previewed", "the", "online", "menu", "before", "heading", "over", "there", ",", "and", "a", "few", "of", "the", "key", "dishes", "that", "I", "was", "hoping", "to", "try", "are", "apparently", "only", "served", "at", "dinner", "."], "e1_text": "previewed", "e1_pos": 1, "e2_text": "heading", "e2_pos": 6, "label": "before"}
+]

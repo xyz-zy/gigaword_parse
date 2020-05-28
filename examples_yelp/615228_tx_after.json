@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "read", "about", "these", "hipster-Brooklyn", "barber", "shops", "in", "the", "NYTimes", "so", "after", "checking", "this", "place", "out", "online", ",", "I", "was", "real", "hyped", "up", "about", "coming", "here", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "checking", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "only", "good", "thing", "that", "came", "out", "of", "this", "mess", "was", "the", "compliments", "I", "got", "on", "Monday", "at", "work", "about", "how", "nice", "I", "looked", "after", "shaving", "my", "face", "&", "cutting", "my", "own", "hair", "."], "e1_text": "looked", "e1_pos": 23, "e2_text": "shaving", "e2_pos": 25, "label": "after"}
+]

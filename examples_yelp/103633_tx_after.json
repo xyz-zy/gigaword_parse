@@ -1,0 +1,5 @@
+[
+{"tokens": ["That", "is", ",", "until", "I", "was", "with", "a", "few", "friends", "on", "a", "Sunday", "evening", "looking", "for", "a", "bite", "to", "eat", "after", "visiting", "the", "DBG", "for", "the", "Chihuly", "exhibit", "."], "e1_text": "eat", "e1_pos": 19, "e2_text": "visiting", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "all", "agreed", "to", "give", "it", "a", "try", "after", "we", "realized", "that", "the", "other", "mentioned", "options", "were", "closed", "on", "Sunday", "evening", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "realized", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "already", "had", "my", "concerns", "after", "visiting", "the", "restroom", "to", "wash", "my", "hands", "before", "dinner", ",", "what", "a", "freaking", "mess", "!"], "e1_text": "had", "e1_pos": 2, "e2_text": "visiting", "e2_pos": 6, "label": "after"}
+]

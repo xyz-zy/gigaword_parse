@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "on", "Yelp", "before", "I", "left", "the", "house", "and", "it", "had", "the", "opening", "time", "for", "Sunday", "at", "6", "am", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "left", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "will", "say", "before", "I", "go", "any", "further", "with", "this", "review", "that", "none", "of", "the", "donuts", "tasted", "like", "they", "were", "freshly", "made", "and", "I", "was", "there", "at", "7", "am", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "go", "e2_pos": 5, "label": "before"}
+]

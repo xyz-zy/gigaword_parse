@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "though", "we", "would", "hit", "up", "Surang", "'s", "because", "it", "was", "close", "to", "home", "and", "he", "had", "never", "had", "Thai", "food", "before", "-LRB-", "sad", "I", "know", "-RRB-", "."], "e1_text": "'s", "e1_pos": 7, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "waitress", "apologized", "and", "I", "had", "plenty", "of", "time", "to", "finish", "eating", "before", "leaving", "for", "work", ":", "-RRB-", "I", "am", "a", "loyal", "customer", "of", "Archi", "'s", "but", "this", "place", "is", "a", "close", "second", "best", "for", "me", "!"], "e1_text": "eating", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 13, "label": "before"}
+]

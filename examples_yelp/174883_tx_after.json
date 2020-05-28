@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "eggs", "benedict", ",", "which", "was", "daring", "but", "usually", "in", "Vegas", "it", "turns", "out", "for", "the", "better", "--", "that", "was", "the", "saltiest", "ish", "I", "have", "had", "in", "a", "loonnnng", "time", ",", "and", "I", "did", "n't", "even", "try", "to", "eat", "the", "hash", "browns", "after", "watching", "my", "friend", "bang", "a", "piece", "of", "toast", "against", "the", "table", "and", "not", "only", "did", "it", "not", "break", "or", "bend", ",", "but", "crumbs", "did", "n't", "even", "fall", "off", "."], "e1_text": "eat", "e1_pos": 40, "e2_text": "watching", "e2_pos": 45, "label": "after"}
+]

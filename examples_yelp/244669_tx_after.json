@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "think", "about", "it", "after", "Jared", "Fogel", "attributed", "much", "of", "his", "weight", "loss", "to", "Subway", ",", "EVERYTHING", "changed", "."], "e1_text": "think", "e1_pos": 2, "e2_text": "attributed", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "gives", "me", "comfort", "to", "know", "that", "there", "'s", "a", "place", "out", "there", "where", "I", "wo", "n't", "feel", "completely", "guilty", "after", "eating", "there", "."], "e1_text": "feel", "e1_pos": 17, "e2_text": "eating", "e2_pos": 21, "label": "after"}
+]

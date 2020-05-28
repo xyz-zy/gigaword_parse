@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "person", "we", "have", "dealt", "with", "for", "nearly", "a", "year", "-LRB-", "Genette", "Edwards", "-RRB-", "has", "been", "lying", "to", "us", "since", "before", "we", "moved", "in", "."], "e1_text": "lying", "e1_pos": 16, "e2_text": "moved", "e2_pos": 22, "label": "before"},
+{"tokens": ["This", "woman", "told", "us", "she", "had", "had", "the", "locks", "changed", "before", "we", "moved", "in", "."], "e1_text": "changed", "e1_pos": 9, "e2_text": "moved", "e2_pos": 12, "label": "before"}
+]

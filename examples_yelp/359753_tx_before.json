@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "literally", "sat", "there", "for", "about", "30", "minutes", "before", "Michael", "came", "over", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["He", "said", "to", "wait", "a", "few", "weeks", "before", "putting", "any", "sort", "of", "color\\/highlights", "in", "it", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "putting", "e2_pos": 8, "label": "before"}
+]

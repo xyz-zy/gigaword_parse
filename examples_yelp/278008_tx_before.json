@@ -1,0 +1,4 @@
+[
+{"tokens": ["Storing", "silverware", "on", "the", "table", "is", "disgusting", ",", "who", "knows", "what", "was", "done", "to", "it", "before", "we", "sat", "down", "."], "e1_text": "done", "e1_pos": 12, "e2_text": "sat", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "sat", "for", "a", "while", "waiting", "for", "our", "check", "before", "finally", "having", "to", "ask", "someone", "to", "send", "our", "waiter", "back", "with", "it", "."], "e1_text": "waiting", "e1_pos": 5, "e2_text": "having", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "picked", "this", "place", "for", "my", "bday", "dinner", "and", "made", "a", "reservation", "a", "week", "before", "going", "as", "we", "had", "a", "lot", "of", "people", "in", "our", "party", "."], "e1_text": "made", "e1_pos": 9, "e2_text": "going", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "staff", "were", "great", "in", "taking", "the", "reservation", ",", "following", "up", "a", "few", "days", "before", "to", "make", "sure", "we", "were", "still", "coming", "and", "then", "again", "the", "day", "of", "."], "e1_text": "following", "e1_pos": 9, "e2_text": "were", "e2_pos": 2, "label": "before"}
+]

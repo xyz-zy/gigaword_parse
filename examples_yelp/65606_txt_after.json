@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "clams", "in", "black", "bean", "sauce", "was", "n't", "that", "good", ",", "the", "sauce", "was", "super", "salty", "-LRB-", "we", "ordered", "it", "after", "reading", "all", "the", "rave", "reviews", "on", "it", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 18, "e2_text": "reading", "e2_pos": 21, "label": "after"}
+]

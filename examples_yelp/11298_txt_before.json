@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "gave", "myself", "an", "hour", "to", "eat", "dining", "in", "before", "I", "have", "to", "catch", "a", "plane", "."], "e1_text": "dining", "e1_pos": 7, "e2_text": "have", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "seemed", "busy", "and", "I", "was", "stupid", "enough", "to", "keep", "waiting", "even", "though", "I", "see", "the", "guy", "who", "ordered", "before", "me", "get", "his", "and", "leave", "20", "minutes", "in", "."], "e1_text": "ordered", "e1_pos": 18, "e2_text": "get", "e2_pos": 21, "label": "before"}
+]

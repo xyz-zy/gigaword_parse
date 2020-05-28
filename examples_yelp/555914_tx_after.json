@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "what", "the", "waitress", "asked", "us", "after", "she", "told", "us", "she", "could", "bring", "us", "the", "Martini", "'s", "with", "Gargonzola", "Olives", "they", "had", "on", "the", "menu", "."], "e1_text": "asked", "e1_pos": 5, "e2_text": "told", "e2_pos": 9, "label": "after"}
+]

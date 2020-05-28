@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "beef", "teriyaki", "came", "out", "10", "minutes", "before", "the", "rolls", "and", "the", "rolls", "came", "out", "10", "minutes", "before", "the", "sushi", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "came", "e2_pos": 3, "label": "before"},
+{"tokens": ["It", "was", "very", "uncomfortable", "when", "the", "only", "non", "sushi", "eater", "finished", "his", "meal", "before", "the", "rest", "of", "us", "started", "."], "e1_text": "finished", "e1_pos": 10, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

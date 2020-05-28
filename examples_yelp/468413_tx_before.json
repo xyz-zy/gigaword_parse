@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "a", "pretty", "good", "restaurant", "and", "would", "recommend", "it", "if", "you", "want", "a", "decent", "meal", "before", "heading", "to", "the", "Playhouse", "."], "e1_text": "want", "e1_pos": 12, "e2_text": "heading", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "came", "here", "with", "a", "couple", "of", "friends", "before", "watching", "a", "movie", "in", "the", "omnicentre", "just", "down", "the", "road", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "watching", "e2_pos": 9, "label": "before"}
+]

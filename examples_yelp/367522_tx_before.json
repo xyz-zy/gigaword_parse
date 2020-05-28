@@ -1,0 +1,3 @@
+[
+{"tokens": ["Thanks", "to", "the", "bartender", "for", "recommending", "it", "!!", "We", "ordered", "food", "and", "ate", "an", "appetizer", "in", "the", "lounge", "before", "taking", "our", "entree", "into", "the", "theater", "."], "e1_text": "ate", "e1_pos": 12, "e2_text": "taking", "e2_pos": 19, "label": "before"}
+]

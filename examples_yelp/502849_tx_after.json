@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "have", "frequent", "guests", "that", "fly", "in", "from", "France", "for", "work", "and", "we", "always", "bring", "them", "here", "after", "we", "pick", "them", "up", "from", "the", "airport", "."], "e1_text": "bring", "e1_pos": 14, "e2_text": "pick", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "started", "going", "here", "long", "before", "they", "even", "had", "the", "outdoor", "patio", "."], "e1_text": "going", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["Yeah", "I", "knew", "about", "this", "place", "before", "it", "was", "cool", "."], "e1_text": "knew", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

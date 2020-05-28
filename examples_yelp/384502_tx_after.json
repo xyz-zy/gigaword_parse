@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "super", "excited", "about", "trying", "this", "place", "after", "months", "of", "trying", "to", "convince", "my", "boyfriend", "to", "try", "it", "."], "e1_text": "trying", "e1_pos": 5, "e2_text": "trying", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "potatoes", "were", "more", "than", "bland", ",", "even", "after", "adding", "a", "pound", "of", "salt", "they", "still", "were", "n't", "satisfying", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "adding", "e2_pos": 9, "label": "after"}
+]

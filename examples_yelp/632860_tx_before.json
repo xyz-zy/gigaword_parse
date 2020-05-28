@@ -1,0 +1,4 @@
+[
+{"tokens": ["Keep", "in", "mind", "we", "wanted", "to", "change", "into", "different", "clothes", "and", "freshen", "up", "before", "eating", "."], "e1_text": "freshen", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "before"},
+{"tokens": ["So", "we", "came", "back", "to", "the", "hotel", "service", "desk", "before", "4pm", "for", "the", "''", "``", "3rd", "time", ",", "''", "''", "and", "still", "found", "out", "that", "our", "room", "was", "not", "ready", "yet", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "3rd", "e2_pos": 15, "label": "before"}
+]

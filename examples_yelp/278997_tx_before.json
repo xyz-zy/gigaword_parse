@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*", "This", "review", "is", "for", "their", "happy", "hour", "only", "\\*\\*\\*", "Sat", "down", "and", "waited", "about", "10", "minutes", "before", "we", "were", "acknowledged", ",", "menus", "finally", "arrive", ",", "drink", "orders", "are", "placed", "-LRB-", "I", "get", "a", "glass", "of", "wine", ",", "my", "dining", "partner", "gets", "a", "coke", "-RRB-", "we", "wait", "another", "15", "minutes", "to", "get", "our", "drinks", "and", "we", "still", "have", "n't", "ordered", "."], "e1_text": "waited", "e1_pos": 13, "e2_text": "were", "e2_pos": 19, "label": "before"},
+{"tokens": ["They", "were", "so", "soggy", ",", "I", "do", "n't", "think", "they", "drained", "the", "beans", "before", "piling", "them", "on", "."], "e1_text": "drained", "e1_pos": 10, "e2_text": "piling", "e2_pos": 14, "label": "before"}
+]

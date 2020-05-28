@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "waited", "another", "7", "minutes", "before", "he", "brought", "me", "mine", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "brought", "e2_pos": 7, "label": "before"},
+{"tokens": ["He", "had", "dropped", "3", "other", "guests", "theirs", "before", "giving", "me", "mine", "."], "e1_text": "dropped", "e1_pos": 2, "e2_text": "giving", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "Manager", "walked", "past", "me", "several", "times", "and", "was", "too", "busy", "telling", "people", "to", "get", "signed", "in", "before", "walking", "to", "a", "table", "."], "e1_text": "signed", "e1_pos": 15, "e2_text": "walking", "e2_pos": 18, "label": "before"}
+]

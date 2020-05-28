@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "would", "have", "liked", "a", "little", "bit", "of", "heat", "-LRB-", "a", "bit", "more", "pepper", "-RRB-", "before", "calling", "it", "perfect", "."], "e1_text": "liked", "e1_pos": 3, "e2_text": "calling", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "tasted", "like", "it", "had", "been", "on", "a", "fresh", "cob", "about", "30", "minutes", "-LRB-", "I", "'m", "guessing", "at", "how", "long", "it", "takes", "to", "cook", "it", "to", "that", "nice", "consistency", "-RRB-", "before", "I", "got", "it", "."], "e1_text": "been", "e1_pos": 5, "e2_text": "got", "e2_pos": 32, "label": "before"},
+{"tokens": ["I", "'m", "leaving", "NC", "to", "move", "to", "TX", "so", "I", "'m", "glad", "I", "got", "to", "visit", "this", "restaurant", "before", "I", "left", "."], "e1_text": "visit", "e1_pos": 15, "e2_text": "left", "e2_pos": 20, "label": "before"}
+]

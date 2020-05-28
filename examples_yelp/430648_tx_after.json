@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "walk", "away", "after", "saying", "no", "thanks", "numerous", "times", "just", "to", "get", "away", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "saying", "e2_pos": 6, "label": "after"},
+{"tokens": ["Then", "they", "did", "n't", "even", "bother", "to", "say", "the", "carwash", "was", "broken", "while", "I", "paid", ",", "they", "just", "washed", "my", "car", "w", "\\/", "a", "hose", "and", "some", "brushes", "after", "paying", "for", "the", "''", "``", "ultimate", "''", "''", "wash", "."], "e1_text": "\\/", "e1_pos": 22, "e2_text": "paying", "e2_pos": 29, "label": "after"}
+]

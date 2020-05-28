@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiters", "and", "chef", "see", "the", "plates", "before", "they", "are", "taken", "out", "to", "the", "tables", ",", "right", "?"], "e1_text": "see", "e1_pos": 4, "e2_text": "are", "e2_pos": 9, "label": "before"},
+{"tokens": ["Make", "them", "step", "their", "game", "up", "before", "you", "eat", "here", "!"], "e1_text": "step", "e1_pos": 2, "e2_text": "eat", "e2_pos": 8, "label": "before"}
+]

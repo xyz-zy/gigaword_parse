@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "I", "received", "for", "New", "Year", "'s", "Eve", "was", "horrible", ",", "We", "never", "got", "seated", "after", "paying", "the", "$", "900", "for", "the", "table", "online", "."], "e1_text": "seated", "e1_pos": 15, "e2_text": "paying", "e2_pos": 17, "label": "after"},
+{"tokens": ["This", "is", "a", "very", "poorly", "managed", "establishment", ",", "I", "have", "never", "had", "to", "deal", "with", "such", "immature", "management", "ever", "in", "my", "life", ",", "the", "restaurant", "will", "never", "see", "any", "of", "my", "friends", "or", "family", "come", "to", "this", "restaurant", "after", "what", "I", "have", "to", "say", "and", "I", "hope", "you", "do", "the", "same", "."], "e1_text": "come", "e1_pos": 34, "e2_text": "have", "e2_pos": 9, "label": "after"}
+]

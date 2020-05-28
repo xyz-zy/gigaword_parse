@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "waited", "outside", "for", "a", "few", "minutes", "before", "my", "wife", "got", "cold", ",", "in", "which", "case", ",", "we", "headed", "back", "inside", "to", "wait", "in", "the", "VERY", "cramped", "waiting", "area", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "other", "frustrating", "part", "was", "that", "it", "seemed", "that", "they", "were", "waiting", "for", "a", "2", "person", "table", "to", "open", "up", "before", "seating", "us", "."], "e1_text": "open", "e1_pos": 18, "e2_text": "seating", "e2_pos": 21, "label": "before"},
+{"tokens": ["All", "the", "groups", "that", "we", "saw", "sat", "before", "us", "were", "4", "+", ",", "which", "made", "the", "wait", "much", "more", "frustrating", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

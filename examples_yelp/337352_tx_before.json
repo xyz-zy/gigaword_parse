@@ -1,0 +1,5 @@
+[
+{"tokens": ["Were", "left", "with", "the", "menus", "for", "almost", "45", "minutes", "before", "going", "out", "of", "our", "way", "to", "call", "the", "staff", "to", "finally", "take", "down", "our", "orders", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["Finally", "got", "our", "bills", "and", "were", "again", "ignored", "for", "more", "than", "half", "an", "hour", "before", "we", "had", "to", "flag", "down", "another", "waiter", "to", "ask", "if", "we", "could", "pay", "."], "e1_text": "ignored", "e1_pos": 7, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "staff", "turned", "up", "the", "lights", "and", "started", "glaring", "at", "us", "before", "even", "giving", "us", "the", "chance", "to", "settle", "our", "bills", "I", "have", "dined", "in", "hundreds", "of", "restaurants", "across", "the", "globe", ",", "ranging", "from", "food", "courts", "to", "Cordon", "Bleu", "restaurants", ",", "poor", "to", "amazing", "service", "."], "e1_text": "glaring", "e1_pos": 8, "e2_text": "giving", "e2_pos": 13, "label": "before"}
+]

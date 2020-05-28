@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "did", "she", "eavesdrop", "on", "our", "quiet", "conversation", ",", "but", "then", "she", "butts", "in", "to", "tell", "us", "that", "we", "are", "being", "rude", "talking", "about", "how", "we", "disagree", "about", "her", "not", "advertising", "that", "only", "the", "1st", "bottle", "is", "half", "off", "wine", "night", "but", "fails", "to", "tell", "us", "until", "after", "we", "have", "ordered", "2", "bottles", "."], "e1_text": "tell", "e1_pos": 16, "e2_text": "have", "e2_pos": 50, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "family", "waited", "for", "5", "minutes", "before", "we", "got", "a", "''", "``", "hello", "''", "''", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "got", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "'m", "giving", "2", "stars", "because", "at", "least", "the", "place", "inside", "looked", "nice", "enough", "to", "stare", "at", "for", "five", "minutes", "before", "we", "left", "."], "e1_text": "looked", "e1_pos": 11, "e2_text": "left", "e2_pos": 22, "label": "before"}
+]

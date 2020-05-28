@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "under", "warranty", ",", "so", "they", "replaced", "it", ",", "but", "left", "a", "big", "mess", "of", "green", "coolant", "all", "over", "my", "engine", ",", "which", "was", "clean", "before", "the", "radiator", "blew", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "blew", "e2_pos": 29, "label": "before"},
+{"tokens": ["They", "did", "n't", "bother", "to", "hose", "it", "off", "before", "they", "gave", "it", "back", "to", "me", "."], "e1_text": "bother", "e1_pos": 3, "e2_text": "gave", "e2_pos": 10, "label": "before"},
+{"tokens": ["So", "I", "learned", "to", "always", "check", "the", "car", "myself", "before", "driving", "away", "."], "e1_text": "learned", "e1_pos": 2, "e2_text": "driving", "e2_pos": 10, "label": "before"}
+]

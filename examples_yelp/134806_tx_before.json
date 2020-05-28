@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "horrible", "from", "the", "seating", ",", "to", "our", "waitress", "not", "knowing", "if", "we", "needed", "to", "be", "helped", "or", "not", ",", "having", "to", "go", "get", "a", "condiment", "ourselves", "because", "the", "gal", "wanted", "to", "clean", "dishes", "first", "before", "bringing", "what", "we", "had", "asked", "for", "."], "e1_text": "clean", "e1_pos": 34, "e2_text": "bringing", "e2_pos": 38, "label": "before"},
+{"tokens": ["I", "was", "pretty", "disappointed", ",", "guess", "we", "should", "have", "read", "the", "reviews", "before", "stopping", "."], "e1_text": "read", "e1_pos": 9, "e2_text": "stopping", "e2_pos": 13, "label": "before"}
+]

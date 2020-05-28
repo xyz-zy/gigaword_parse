@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "ape", "of", "a", "waitress", "did", "n't", "deserve", "anything", "after", "being", "so", "rude", "to", "all", "of", "us", "."], "e1_text": "deserve", "e1_pos": 7, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["What", "is", "more", "disturbing", "than", "ever", "was", "that", "after", "we", "ate", ",", "they", "thought", "that", "extra", "protein", "is", "a", "good", "thing", ",", "because", "we", "saw", "cockroaches", "on", "the", "floor", "as", "well", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "ate", "e2_pos": 10, "label": "after"}
+]

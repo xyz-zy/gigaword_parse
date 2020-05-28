@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "planning", "on", "ordering", "our", "meals", "but", "eventually", "decided", "to", "leave", "after", "one", "drink", "because", "service", "is", "taking", "that", "long", "."], "e1_text": "leave", "e1_pos": 11, "e2_text": "drink", "e2_pos": 14, "label": "after"},
+{"tokens": ["And", "just", "right", "now", ",", "another", "table", "that", "was", "sat", "15", "minutes", "ago", "decided", "to", "leave", "after", "their", "waitress", "did", "n't", "even", "bring", "them", "a", "menu", "."], "e1_text": "leave", "e1_pos": 15, "e2_text": "did", "e2_pos": 19, "label": "after"}
+]

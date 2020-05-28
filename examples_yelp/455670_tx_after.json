@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "for", "Dusty", "Limits", "after", "seeing", "the", "5.30", "taster", "-LRB-", "Worth", "checking", "out", "and", "I", "loved", "the", "show", "but", "a", "gay", "cabaret", "artist", "and", "mental", "illness", "might", "not", "be", "to", "everyone", "'s", "taste", "-RRB-", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "did", "n't", "go", "to", "the", "bar", "so", "no", "comment", "on", "the", "prices", "here", "after", "being", "ripped", "off", "at", "56", "North", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

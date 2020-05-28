@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "group", "of", "10", "of", "us", "showed", "up", "at", "5:00", "to", "find", "a", "sign", "on", "the", "door", ",", "in", "pen", ",", "saying", "''", "``", "sorry", "we", "closed", "at", "4:30", "!!!", "''", "''", "-LRB-", "This", "was", "20", "minutes", "after", "we", "called", "-RRB-", "."], "e1_text": "was", "e1_pos": 34, "e2_text": "called", "e2_pos": 39, "label": "after"}
+]

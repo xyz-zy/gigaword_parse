@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "receptionist", "said", "the", "manager", "would", "call", "me", "back", "and", "he", "never", "did", "to", "apologize", "or", "thank", "that", "I", "took", "the", "time", "to", "warn", "them", "before", "they", "poison", "other", "people", "."], "e1_text": "apologize", "e1_pos": 14, "e2_text": "poison", "e2_pos": 27, "label": "before"}
+]

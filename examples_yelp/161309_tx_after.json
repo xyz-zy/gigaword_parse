@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "to", "Las", "Vegas", "Hotel", "after", "having", "issues", "with", "my", "initial", "reservation", "at", "another", "hotel", "during", "a", "very", "busy", "week", "where", "it", "was", "impossible", "to", "find", "a", "room", "anywhere", "in", "Las", "Vegas", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["Completely", "new", "bathroom", ",", "no", "rust", ",", "no", "dust", ",", "cleaner", "carpets", ",", "my", "view", "was", "worse", "but", "I", "could", "n't", "care", "less", "after", "witnessing", "that", "scary", "bathroom", "in", "my", "first", "room", "."], "e1_text": "care", "e1_pos": 21, "e2_text": "witnessing", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["6\\/3\\/13", "around", "6PM", "and", "the", "owner", "has", "not", "called", "me", "back", "after", "leaving", "a", "detailed", "voice", "mail", "on", "his", "personal", "cell", "phone", ";", "the", "manager", "on-site", "gave", "me", "the", "number", "and", "insisted", "that", "I", "call", "saying", "the", "owner", "was", "really", "good", "about", "taking", "care", "of", "things", "like", "this", "."], "e1_text": "called", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 12, "label": "after"}
+]

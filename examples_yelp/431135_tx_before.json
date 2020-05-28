@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "reminded", "them", "I", "had", "been", "in", "the", "day", "before", "and", "was", "told", "she", "would", "be", "there", "."], "e1_text": "reminded", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["Why", "could", "n't", "she", "have", "heated", "up", "her", "wax", "when", "I", "was", "there", "the", "day", "before", "??", "It", "took", "about", "10", "minutes", "for", "the", "wax", "to", "heat", "and", "she", "actually", "did", "a", "very", "good", "job", "on", "my", "eyebrows", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "took", "e2_pos": 18, "label": "before"}
+]

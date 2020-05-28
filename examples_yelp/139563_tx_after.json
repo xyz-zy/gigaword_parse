@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "to", "speak", "to", "the", "service", "department", "about", "it", ",", "they", "told", "me", "that", "they", "fixed", "the", "only", "thing", "that", "they", "could", "find", "that", "was", "wrong", "with", "it", "and", "that", "I", "should", "document", "the", "issues", "with", "the", "car", "and", "maybe", "after", "documenting", "a", "few", "instances", ",", "the", "technician", "would", "be", "able", "to", "find", "what", "was", "causing", "the", "error", "."], "e1_text": "find", "e1_pos": 24, "e2_text": "documenting", "e2_pos": 43, "label": "after"}
+]

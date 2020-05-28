@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "15", "minutes", "before", "they", "closed", "the", "kitchen", "and", "I", "had", "just", "walked", "on", "to", "the", "patio", "seeing", "the", "waiter", "leaving", "a", "table", "of", "4", "men", "after", "taking", "their", "order", "."], "e1_text": "leaving", "e1_pos": 21, "e2_text": "taking", "e2_pos": 28, "label": "after"}
+]

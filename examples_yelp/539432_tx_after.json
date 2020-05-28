@@ -1,0 +1,4 @@
+[
+{"tokens": ["Took", "a", "few", "calls", "but", "after", "a", "few", "days", "got", "a", "new", "refrigerator", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["They", "did", "not", "appear", "immediately", "but", "a", "few", "months", "after", "I", "had", "moved", "in", ",", "which", "I", "found", "out", "from", "a", "neighbor", "that", "they", "too", "were", "plagued", "with", "these", "pests", "about", "a", "week", "or", "two", "after", "a", "downstairs", "apartment", "was", "bug", "bomed", "."], "e1_text": "appear", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "family", "there", "last", "night", "who", "are", "visiting", "from", "out", "of", "town", "as", "I", "thought", "they", "would", "enjoy", "the", "atmosphere", ",", "but", "after", "an", "hour", "of", "waiting", "for", "two", "appetizers", "we", "ordered", "and", "asking", "where", "is", "our", "food", "...", "We", "finally", "received", "our", "bill", "-LRB-", "already", "charged", "to", "my", "card", "as", "they", "had", "held", "it", "-RRB-", "."], "e1_text": "visiting", "e1_pos": 9, "e2_text": "appetizers", "e2_pos": 31, "label": "after"}
+]

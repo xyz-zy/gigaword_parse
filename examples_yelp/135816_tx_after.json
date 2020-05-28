@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "for", "our", "food", "for", "a", "good", "half", "hour", "after", "we", "ordered", ",", "so", "long", ",", "that", "when", "we", "received", "it", ",", "it", "was", "luke", "warm", "and", "not", "fresh", "at", "all", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 12, "label": "after"},
+{"tokens": ["Another", "thing", "that", "totally", "turned", "me", "off", "about", "this", "restaurant", "is", "that", "their", "ladies", "restroom", "did", "n't", "have", "any", "soap", ",", "meaning", "ladies", ",", "including", "their", "employees", ",", "had", "to", "leave", "the", "restroom", "after", "handling", "their", "business", "to", "wash", "their", "hands", "-LRB-", "not", "cute", "-RRB-", "."], "e1_text": "leave", "e1_pos": 30, "e2_text": "handling", "e2_pos": 34, "label": "after"}
+]

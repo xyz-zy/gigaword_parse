@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "very", "few", "waiters", "working", "a", "packed", "lunch", "crowd", ",", "and", "this", "meant", "the", "waitress", "gave", "us", "the", "check", "immediately", "after", "giving", "us", "the", "food", ",", "and", "then", "someone", "else", "came", "and", "took", "it", "before", "I", "even", "had", "time", "to", "ask", "for", "a", "box", "."], "e1_text": "gave", "e1_pos": 16, "e2_text": "giving", "e2_pos": 22, "label": "after"}
+]

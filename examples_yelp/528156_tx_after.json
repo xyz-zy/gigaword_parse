@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lee", "Ann", "called", "me", "back", ",", "promptly", ",", "on", "Monday", "after", "I", "left", "a", "message", "on", "the", "prior", "Saturday", ",", "set", "up", "an", "appointment", "to", "have", "Eric", "tint", "the", "windows", "on", "my", "Evoque", "Thursday", "of", "that", "week", "-LRB-", "My", "first", "availability", "-RRB-", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "left", "e2_pos": 12, "label": "after"}
+]

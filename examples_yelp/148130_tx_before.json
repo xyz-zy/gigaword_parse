@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "cleaning", "out", "old", "bills", "and", "junk", "mail", "I", "found", "it", "stuck", "to", "something", "and", "glad", "to", "see", "we", "had", "a", "few", "weeks", "before", "it", "expired", "!"], "e1_text": "had", "e1_pos": 19, "e2_text": "expired", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "did", "n't", "have", "a", "big", "problem", "except", "before", "leaving", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 9, "label": "before"}
+]

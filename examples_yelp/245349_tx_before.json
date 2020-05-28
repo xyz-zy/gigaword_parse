@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "chicken", "or", "steak", "had", "to", "wait", "for", "employees", "to", "finish", "their", "conversations", "before", "giving", "the", "lady", "making", "the", "food", "the", "meat", "."], "e1_text": "finish", "e1_pos": 10, "e2_text": "giving", "e2_pos": 14, "label": "before"},
+{"tokens": ["Had", "to", "wait", "longer", "since", "the", "front", "end", "ran", "out", "of", "cups", "then", "employee", "decided", "to", "have", "a", "conversation", "before", "bringing", "out", "the", "cups", "Update", "still", "bad", "service", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "bringing", "e2_pos": 20, "label": "before"}
+]

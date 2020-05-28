@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "did", "n't", "really", "set", "in", "until", "after", "I", "'d", "left", "because", "I", "was", "in", "shock", "."], "e1_text": "set", "e1_pos": 4, "e2_text": "'d", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "going", "to", "go", "get", "my", "hair", "cut", "after", "but", "I", "'m", "so", "self", "conscious", "of", "my", "face", "right", "now", ",", "I", "want", "to", "cry", "!"], "e1_text": "get", "e1_pos": 5, "e2_text": "'m", "e2_pos": 12, "label": "after"}
+]

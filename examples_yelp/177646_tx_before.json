@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Sunday", "champagne", "brunch", "was", "comparable", "to", "the", "Wynn", "dinner", "I", "had", "over", "a", "year", "ago", ",", "the", "Spice", "Market", "dinner", "-LRB-", "also", "over", "a", "year", "ago", "-RRB-", ",", "and", "the", "Mirage", "lunch", "I", "had", "two", "days", "before", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["She", "even", "filled", "us", "up", "one", "last", "time", "before", "we", "left", ",", "so", "we", "walked", "out", "with", "a", "full", "champagne", "flute", "on", "our", "way", "to", "gamble", "."], "e1_text": "filled", "e1_pos": 2, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "talked", "to", "multiple", "people", "-LRB-", "both", "at", "the", "gym", "and", "on", "the", "phone", "-RRB-", "and", "they", "explained", "that", "after", "my", "contract", "was", "terminated", "that", "no", "further", "action", "was", "necessary", "in", "order", "end", "the", "monthly", "charges", "."], "e1_text": "explained", "e1_pos": 17, "e2_text": "was", "e2_pos": 22, "label": "after"}
+]

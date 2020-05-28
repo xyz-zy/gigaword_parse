@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "got", "to", "stand", "in", "line", "for", "an", "hour", "at", "the", "very", "front", "of", "the", "line", "before", "they", "were", "told", "that", "the", "rest", "of", "the", "line", "would", "not", "be", "getting", "in", "the", "club", "."], "e1_text": "stand", "e1_pos": 3, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["He", "had", "to", "finish", "listening", "to", "his", "earpiece", "before", "he", "said", "to", "me", ",", "''", "``", "Go", "ahead", ".", "''", "''"], "e1_text": "had", "e1_pos": 1, "e2_text": "said", "e2_pos": 10, "label": "before"}
+]

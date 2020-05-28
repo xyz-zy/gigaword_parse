@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "a", "Texas", "transplant", ",", "this", "is", "some", "of", "the", "best", "chicken", "fried", "steak", "and", "eggs", "you", "will", "find", "in", "AZ", "-LRB-", "I", "actually", "discovered", "this", "place", "after", "Ranch", "House", "Grill", "burned", "down", "-RRB-", "."], "e1_text": "discovered", "e1_pos": 24, "e2_text": "burned", "e2_pos": 31, "label": "after"}
+]

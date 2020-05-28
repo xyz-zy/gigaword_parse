@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "tre", "tre", "was", "as", "delicious", "as", "it", "has", "been", "every", "time", "before", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "has", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "kool-aid", "is", "still", "filled", "to", "the", "brim", "in", "a", "huge-ass", "jar", "and", "the", "waffles", "make", "my", "mouth", "water", "before", "I", "even", "sit", "down", "."], "e1_text": "make", "e1_pos": 15, "e2_text": "sit", "e2_pos": 22, "label": "before"}
+]

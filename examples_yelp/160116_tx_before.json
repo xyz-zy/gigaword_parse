@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bell", "man", "was", "getting", "ready", "to", "help", "us", "with", "our", "luggage", "until", "we", "decided", "to", "ask", "him", "how", "long", "it", "will", "take", "before", "we", "get", "our", "luggage", "if", "he", "were", "to", "help", "us", "with", "them", "."], "e1_text": "take", "e1_pos": 22, "e2_text": "get", "e2_pos": 25, "label": "before"},
+{"tokens": ["From", "the", "beginning", "we", "were", "disappointed", "because", "it", "took", "about", "half", "hour", "before", "we", "got", "keys", "to", "our", "rooms", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

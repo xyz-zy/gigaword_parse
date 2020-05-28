@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "easily", "and", "immediately", "after", "our", "drink", "order", "was", "being", "taken", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "fast", "service", "allowed", "us", "a", "good", "amount", "of", "time", "after", "eating", "before", "needing", "to", "leave", "for", "our", "next", "stop", "which", "allowed", "us", "to", "have", "some", "great", "dinner", "conversation", "which", "just", "adds", "to", "the", "already", "great", "time", "at", "dinner", "."], "e1_text": "allowed", "e1_pos": 3, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

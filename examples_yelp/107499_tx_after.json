@@ -1,0 +1,3 @@
+[
+{"tokens": ["15", "minutes", "later", ",", "everyone", "that", "had", "ordered", "after", "me", "had", "received", "their", "food", ",", "so", "I", "went", "to", "the", "front", "and", "the", "kitchen", "asked", "if", "I", "was", "waiting", "for", "anything", ",", "I", "told", "them", "I", "was", "waiting", "on", "a", "sandwich", "and", "they", "told", "me", "I", "was", "not", "and", "they", "had", "no", "ticket", "for", "my", "sandwich", ",", "as", "she", "'s", "telling", "me", "this", ",", "she", "is", "eating", "chips", "right", "in", "front", "of", "me", "while", "making", "my", "sandwich", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "had", "e2_pos": 6, "label": "after"}
+]

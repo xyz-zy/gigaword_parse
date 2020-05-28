@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "some", "drinks", "in", "during", "happy", "hour", "and", "waited", "for", "the", "rest", "of", "my", "party", "before", "ordering", "."], "e1_text": "waited", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "salad", "came", "out", "before", "my", "app", "which", "was", "weird", "but", "forgiveable", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

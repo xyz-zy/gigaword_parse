@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "seated", "on", "the", "waiting", "bench", "and", "had", "to", "wait", "for", "10", "mins", "before", "the", "receptionist", "showed", "up", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "showed", "e2_pos": 16, "label": "before"},
+{"tokens": ["To", "make", "the", "story", "short", ",", "we", "waited", "for", "another", "30", "mins", "before", "our", "number", "called", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "called", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "had", "to", "wait", "for", "another", "20", "minutes", "before", "our", "order", "came", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": [":-RRB-", "After", "greeting", "me", "a", "warm", "welcome", "and", "asking", "me", "if", "I", "'ve", "ever", "been", "there", "before", ",", "I", "answered", "with", "a", "''", "``", "no", ",", "she", "then", "asked", "me", "for", "my", "surname", "."], "e1_text": "asking", "e1_pos": 8, "e2_text": "'ve", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "to", "ask", "for", "everything", "we", "needed", "from", "other", "employees", "that", "seemed", "to", "be", "floating", "around", "the", "restaurant", "not", "doing", "much", "else", "other", "then", "saying", "they", "would", "let", "our", "server", "know", "...", "I", "do", "n't", "think", "they", "ever", "did", "because", "the", "same", "server", "only", "visited", "our", "table", "twice", "after", "we", "ordered", "."], "e1_text": "visited", "e1_pos": 45, "e2_text": "ordered", "e2_pos": 51, "label": "after"}
+]

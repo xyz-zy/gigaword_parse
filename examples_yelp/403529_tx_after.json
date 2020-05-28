@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "What", "I", "did", "after", "she", "let", "us", "wait", "and", "then", "deiceded", "to", "seat", "us", "for", "what", "ever", "place", "she", "want", "without", "asking", "if", "this", "table", "is", "good", "or", "not", "."], "e1_text": "did", "e1_pos": 3, "e2_text": "let", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "waitress", "who", "appeared", "to", "our", "table", "after", "we", "changed", "our", "mind", "is", "a", "great", "waitress", ",", "but", "the", "turn", "down", "to", "the", "host", "lady", "."], "e1_text": "appeared", "e1_pos": 3, "e2_text": "changed", "e2_pos": 9, "label": "after"}
+]

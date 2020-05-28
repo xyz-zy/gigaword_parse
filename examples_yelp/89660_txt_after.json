@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "have", "thought", "any", "respectable", "car", "dealership", "would", "of", "mentioned", "that", "when", "I", "had", "to", "bring", "it", "back", "2", "days", "after", "we", "bought", "it", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "bought", "e2_pos": 23, "label": "after"},
+{"tokens": ["So", "now", "next", "year", "when", "it", "breaks", "again", "it", "will", "be", "out", "of", "warranty", "and", "we", "are", "just", "SOL", "!!", "\\*", "We", "also", "had", "problems", "with", "the", "fact", "that", "I", "had", "to", "turn", "around", "immediately", "after", "having", "it", "serviced", "many", "times", "because", "the", "alignment", "was", "off", "."], "e1_text": "turn", "e1_pos": 32, "e2_text": "having", "e2_pos": 36, "label": "after"}
+]

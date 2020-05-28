@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "need", "to", "be", "very", "patient", "to", "get", "full", "at", "this", "location", "as", "they", "brought", "the", "salad", "and", "then", "it", "was", "close", "to", "15", "minutes", "before", "they", "brought", "the", "first", "bowl", "of", "soup", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "brought", "e2_pos": 14, "label": "before"}
+]

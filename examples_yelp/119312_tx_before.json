@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "of", "course", ",", "the", "gaming", "machines", "!!!!", "As", "a", "recent", "convert", "to", "video", "poker", ",", "I", "delight", "in", "the", "ability", "to", "lose", "another", "$", "100", "just", "before", "I", "board", "my", "flight", "."], "e1_text": "lose", "e1_pos": 22, "e2_text": "board", "e2_pos": 29, "label": "before"},
+{"tokens": ["A", "few", "months", "ago", ",", "they", "asked", "for", "ID", "from", "someone", "in", "a", "wheelchair", ",", "with", "a", "ventilator", "and", "a", "colostomy", "bag", "who", "turned", "out", "to", "be", "100", "years", "old", "-LRB-", "which", "was", "n't", "bad", "because", "the", "bartender", "bought", "free", "drinks", "for", "all", "to", "celebrate", "the", "century", "!!!", "-RRB-", "But", "really", ",", "you", "had", "to", "ID", "that", "dude", "before", "giving", "him", "his", "Jack", "and", "coke", "?"], "e1_text": "ID", "e1_pos": 55, "e2_text": "giving", "e2_pos": 59, "label": "before"}
+]

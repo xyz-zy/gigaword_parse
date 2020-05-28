@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fridge", "made", "too", "much", "noise", "at", "night", "so", "I", "shut", "it", "off", "before", "bed", "-LRB-", "turned", "back", "on", "upon", "waking", "-RRB-", "."], "e1_text": "shut", "e1_pos": 9, "e2_text": "turned", "e2_pos": 15, "label": "before"}
+]

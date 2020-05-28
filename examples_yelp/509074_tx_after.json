@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "thought", "that", "they", "were", "apologizing", "by", "giving", "us", "a", "discount", "on", "the", "chicken", "-LRB-", "charging", "us", "for", "the", "small", "bucket", "rather", "than", "the", "large", "-RRB-", ",", "but", "after", "we", "paid", ",", "our", "waitress", "realized", "that", "she", "had", "mixed", "up", "our", "order", "with", "someone", "else", "'s", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "paid", "e2_pos": 30, "label": "after"}
+]

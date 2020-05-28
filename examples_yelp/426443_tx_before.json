@@ -1,0 +1,3 @@
+[
+{"tokens": ["OK", ",", "so", "we", "leave", "our", "contact", "number", "so", "he", "can", "call", "us", "when", "our", "room", "is", "ready", "and", "we", "decide", "to", "go", "shopping", "for", "some", "things", "at", "miracle", "mile", "...", "It", "is", "now", "6:30", "PM", "and", "still", "no", "call", ",", "so", "we", "decide", "to", "call", "the", "front", "desk", "before", "walking", "all", "the", "way", "back", "to", "the", "front", "desk", ",", "no", "answer", "...", "Are", "they", "serious", "?"], "e1_text": "call", "e1_pos": 11, "e2_text": "walking", "e2_pos": 50, "label": "before"}
+]

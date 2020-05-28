@@ -1,0 +1,3 @@
+[
+{"tokens": ["Valet", "parking", ",", "I", "paid", "after", "I", "left", "the", "restaurant", "and", "paying", "$", "5.00", "was", "no", "big", "deal", "."], "e1_text": "paid", "e1_pos": 4, "e2_text": "left", "e2_pos": 7, "label": "after"}
+]

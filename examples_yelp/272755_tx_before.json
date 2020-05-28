@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mind", "you", "buddy", "ate", "two", "or", "three", "before", "I", "noticed", "they", "were", "bad", "."], "e1_text": "ate", "e1_pos": 3, "e2_text": "noticed", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "mean", "we", "just", "tried", "to", "poison", "you", "!!", "When", "we", "asked", "for", "salt", "before", "this", "experience", "it", "took", "so", "long", "we", "just", "went", "and", "got", "it", "our", "selves", "."], "e1_text": "asked", "e1_pos": 11, "e2_text": "experience", "e2_pos": 16, "label": "before"}
+]

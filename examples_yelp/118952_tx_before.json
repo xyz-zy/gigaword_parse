@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", "I", "signed", "a", "contract", "for", "braces", "before", "I", "realized", "how", "little", "the", "people", "here", "care", "about", "the", "customers", "."], "e1_text": "signed", "e1_pos": 2, "e2_text": "realized", "e2_pos": 9, "label": "before"},
+{"tokens": ["Just", "wish", "I", "read", "the", "reviews", "before", "I", "came", "here", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

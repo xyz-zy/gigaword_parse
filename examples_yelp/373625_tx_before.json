@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "was", "Excellent", ",", "but", "my", "friend", "and", "I", "ending", "up", "talking", "for", "15", "minutes", "before", "any", "staff", "came", "to", "our", "table", "for", "ordering", "."], "e1_text": "talking", "e1_pos": 11, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "all", "girl", "waitresses", "liked", "to", "huddle", "and", "hang", "out", "before", "heading", "to", "any", "of", "the", "tables", ",", "which", "I", "did", "not", "like", "."], "e1_text": "hang", "e1_pos": 8, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

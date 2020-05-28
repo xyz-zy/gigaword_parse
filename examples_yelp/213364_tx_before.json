@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yet", "another", "example", "of", "''", "``", "Check", "Yelp", "before", "eating", "here", "''", "''", "...", "after", "waiting", "thirty", "minutes", "to", "get", "our", "food", "and", "receiving", "a", "bagel", "sandwich", "that", "seemed", "to", "have", "been", "soaked", "in", "grease", ",", "I", "logged", "on", "to", "Yelp", "to", "check", "what", "others", "say", "about", "the", "place", "."], "e1_text": "Yelp", "e1_pos": 7, "e2_text": "eating", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "passing", "by", "this", "area", "one", "night", "and", "seeing", "the", "ridiculously", "long", "lines", "outside", "at", "7", "PM", "to", "come", "into", "this", "place", ",", "I", "was", "convinced", "I", "should", "make", "the", "visit", "after", "reading", "these", "generous", "5", "star", "reviews", "to", "this", "little", "pizzeria", "."], "e1_text": "make", "e1_pos": 28, "e2_text": "reading", "e2_pos": 32, "label": "after"},
+{"tokens": ["I", "also", "was", "n't", "given", "water", "until", "I", "asked", "for", "it", "after", "I", "received", "my", "pizza", "and", "I", "waited", "close", "to", "15", "minutes", "to", "pay", "my", "bill", "completely", "unsure", "if", "I", "was", "going", "to", "pay", "at", "the", "table", "or", "at", "the", "counter", "."], "e1_text": "asked", "e1_pos": 8, "e2_text": "received", "e2_pos": 13, "label": "after"}
+]

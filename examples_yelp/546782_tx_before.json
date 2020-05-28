@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "thought", "it", "was", "cucumber", "sauce", "and", "used", "it", "on", "half", "of", "her", "wrap", "before", "she", "realized", "that", "the", "major", "kick", "she", "was", "tasting", "was", "wasabi", "!"], "e1_text": "used", "e1_pos": 8, "e2_text": "realized", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "lied", "to", "tonight", "!!", "We", "went", "to", "Bobby", "'s", "for", "dinner", "on", "2-16", "at", "5:30", "-LRB-", "1000", "points", "-RRB-", "using", "Opentable", "for", "the", "reservation", "but", "got", "an", "email", "later", ",", "after", "we", "finished", "eating", "there", "that", "the", "reservation", "was", "canceled", "."], "e1_text": "got", "e1_pos": 27, "e2_text": "finished", "e2_pos": 34, "label": "after"}
+]

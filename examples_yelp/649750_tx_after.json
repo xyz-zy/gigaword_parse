@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "drive-thru", "is", "always", "long", ",", "and", "in", "my", "2nd", "trip", "there", ",", "I", "did", "use", "the", "drive-thru", "and", "watched", "people", "who", "would", "enter", "the", "place", "after", "I", "already", "placed", "my", "order", ",", "walk", "up", ",", "order", ",", "get", "their", "food", "and", "leave", "before", "I", "even", "went", "up", "1", "spot", "."], "e1_text": "enter", "e1_pos": 23, "e2_text": "placed", "e2_pos": 29, "label": "after"}
+]

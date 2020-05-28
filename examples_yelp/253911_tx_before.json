@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "word", "of", "advice", ":", "do", "n't", "forget", "to", "grab", "a", "shopping", "cart", "outside", "the", "doors", "before", "you", "go", "in", "."], "e1_text": "grab", "e1_pos": 9, "e2_text": "go", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "will", "try", "again", "before", "forming", "judgement", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "forming", "e2_pos": 5, "label": "before"}
+]

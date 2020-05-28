@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "nearly", "30", "minutes", "before", "I", "finally", "flagged", "a", "waitress", "down", "to", "find", "out", "who", "our", "server", "was", "-", "she", "simply", "sneered", "and", "said", "''", "``", "well", "it", "'s", "not", "me", "honey", "!", "''", "''"], "e1_text": "waited", "e1_pos": 1, "e2_text": "flagged", "e2_pos": 8, "label": "before"}
+]

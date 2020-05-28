@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "gladly", "gone", "up", "to", "the", "bar", "and", "ordered", "it", "myself", "if", "it", "were", "n't", "for", "the", "fact", "that", "the", "waitress", "promptly", "disappeared", "after", "taking", "our", "order", "-LRB-", "she", "could", "sometimes", "be", "seen", "behind", "the", "bar", "or", "chatting", "with", "regulars", "before", "once", "again", "slipping", "into", "the", "back", "-RRB-", "."], "e1_text": "seen", "e1_pos": 34, "e2_text": "slipping", "e2_pos": 45, "label": "before"}
+]

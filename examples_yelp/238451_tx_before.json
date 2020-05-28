@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "time", "we", "ordered", "take-out", ",", "we", "were", "eating", "barbeque", "for", "3", "days", "before", "deciding", "to", "call", "it", "quits", ",", "for", "more", "than", "one", "reason", "."], "e1_text": "eating", "e1_pos": 8, "e2_text": "deciding", "e2_pos": 14, "label": "before"}
+]

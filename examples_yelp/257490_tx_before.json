@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "not", "know", "that", "you", "can", "sample", "at", "least", "two", "flavors", "before", "committing", ",", "so", "I", "will", "be", "sure", "to", "do", "so", "next", "time", "I", "'m", "in", "town", "!"], "e1_text": "sample", "e1_pos": 7, "e2_text": "committing", "e2_pos": 13, "label": "before"}
+]

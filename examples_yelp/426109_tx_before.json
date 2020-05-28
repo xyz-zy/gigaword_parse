@@ -1,0 +1,5 @@
+[
+{"tokens": ["Because", "of", "that", "experience", ",", "I", "like", "to", "give", "a", "place", "a", "while", "to", "work", "out", "the", "kinks", "before", "I", "visit", "."], "e1_text": "work", "e1_pos": 14, "e2_text": "visit", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "apples", "looked", "to", "have", "been", "cut", "long", "before", "they", "were", "put", "on", "top", "of", "my", "salad", "because", "they", "were", "turning", "brown", "from", "being", "exposed", "to", "air", ",", "the", "bananas", "were", "also", "turning", "brown", "and", "did", "n't", "taste", "fresh", "at", "all", "."], "e1_text": "cut", "e1_pos": 6, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "was", "REALLY", "hungry", ",", "as", "I", "did", "n't", "have", "time", "to", "eat", "before", "going", "into", "my", "6pm", "class", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "going", "e2_pos": 14, "label": "before"}
+]

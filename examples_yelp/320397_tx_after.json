@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "n't", "get", "the", "complementary", "bread", "basket", "until", "10", "minutes", "after", "I", "got", "the", "cocktail", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "got", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "bread", "was", "good", ",", "but", "the", "waiter", "never", "asked", "if", "I", "wanted", "more", "while", "I", "was", "waiting", "for", "my", "meal", "-LRB-", "I", "was", "starving", "by", "that", "time", ",", "after", "waiting", "so", "long", "-RRB-", "."], "e1_text": "starving", "e1_pos": 24, "e2_text": "waiting", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "also", "found", "it", "odd", "that", "after", "all", "of", "that", "had", "happened", ",", "and", "my", "server", "knew", "that", "it", "was", "my", "first", "time", "visiting", ",", "he", "did", "n't", "have", "a", "manager", "come", "to", "my", "table", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "group", "of", "folks", "walked", "out", "after", "waiting", "."], "e1_text": "walked", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "got", "up", "to", "leave", "after", "about", "20-30", "seconds", "of", "investigating", "our", "salads", "for", "traces", "of", "chicken", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "investigating", "e2_pos": 10, "label": "after"}
+]

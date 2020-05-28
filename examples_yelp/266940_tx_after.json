@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "month", "of", "working", "on", "the", "bag", ",", "forgetting", "what", "they", "were", "supposed", "to", "do", "on", "the", "bag", ",", "and", "after", "repeatedly", "assuring", "me", "that", "they", "would", "be", "able", "to", "clean", "it", "without", "ruining", "it", ",", "I", "received", "a", "totally", "f*#&@ed-up", "bag", "."], "e1_text": "forgetting", "e1_pos": 9, "e2_text": "assuring", "e2_pos": 23, "label": "after"}
+]

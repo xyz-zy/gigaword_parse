@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "wish", "she", "would", "have", "brought", "that", "to", "my", "attention", "before", "I", "left", "."], "e1_text": "brought", "e1_pos": 6, "e2_text": "left", "e2_pos": 13, "label": "before"},
+{"tokens": ["Anyway", "...", "make", "sure", "you", "write", "all", "your", "questions", "down", "before", "you", "go", "!"], "e1_text": "write", "e1_pos": 5, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

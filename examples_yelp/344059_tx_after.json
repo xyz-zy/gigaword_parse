@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "sitting", "outside", "waiting", "patiently", "for", "a", "half", "hour", "and", "watching", "a", "slew", "of", "people", "who", "arrived", "far", "after", "us", "get", "seated", ",", "we", "asked", "how", "much", "longer", "for", "our", "party", "of", "two", "."], "e1_text": "arrived", "e1_pos": 16, "e2_text": "get", "e2_pos": 20, "label": "after"}
+]

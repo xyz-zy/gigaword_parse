@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "would", "like", "to", "bring", "him", "20", "minutes", "before", "her", "name", "is", "called", "and", "then", "leave", "right", "after", "-", "is", "this", "possible", "?"], "e1_text": "like", "e1_pos": 2, "e2_text": "is", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "would", "be", "leaving", "before", "the", "ceremony", "offically", "ends", "so", "we", "'re", "not", "stuck", "in", "traffic", "."], "e1_text": "leaving", "e1_pos": 3, "e2_text": "ends", "e2_pos": 8, "label": "before"}
+]

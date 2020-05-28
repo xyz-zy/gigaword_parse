@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "the", "next", "time", ",", "they", "scheduled", "a", "two-hour", "appointment", "window", "but", "did", "n't", "show", "-", "this", "after", "I", "had", "re-scheduled", "my", "work", "appointments", "to", "make", "sure", "I", "could", "be", "home", "during", "the", "window", "."], "e1_text": "show", "e1_pos": 16, "e2_text": "had", "e2_pos": 21, "label": "after"}
+]

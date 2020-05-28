@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "always", "gone", "to", "Saltys", "in", "the", "other", "locations", "and", "after", "moving", "to", "glendale", ",", "this", "one", "is", "not", "far", "from", "me", "so", "I", "'ve", "gone", "twice", "now", "and", "each", "time", "got", "worse", "."], "e1_text": "gone", "e1_pos": 3, "e2_text": "moving", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "bartender", "was", "the", "only", "wait", "staff", "on", "duty", "and", "he", "was", "put", "out", "to", "have", "to", "even", "talk", "to", "us", ",", "after", "one", "drink", "we", "could", "n't", "get", "out", "of", "there", "quick", "enough", "."], "e1_text": "have", "e1_pos": 15, "e2_text": "drink", "e2_pos": 24, "label": "after"}
+]

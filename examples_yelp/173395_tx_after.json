@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "the", "sommelier", "and", "that", "was", "after", "a", "good", "10", "minutes", "of", "being", "seated", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "were", "all", "in", "great", "moods", "after", "seeing", "a", "show", "and", "went", "with", "it", "making", "wine", "our", "main", "focus", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"}
+]

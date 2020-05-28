@@ -1,0 +1,4 @@
+[
+{"tokens": ["THEN", "this", "GUY", "was", "ON", "HIS", "PHONE", "!!", "He", "made", "4", "calls", "on", "SPEAKER", "LOUDLY", "after", "coming", "back", "from", "emptying", "the", "bucket", "of", "water", "and", "while", "massaging", "my", "legs", "."], "e1_text": "made", "e1_pos": 9, "e2_text": "coming", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "got", "jipped", "for", "more", "than", "10", "minutes", "of", "my", "BAD", "massage", "bc", "it", "was", "n't", "even", "6:15", "pm", "when", "we", "got", "to", "our", "car", "after", "we", "paid", "for", "our", "massages", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "paid", "e2_pos": 27, "label": "after"}
+]

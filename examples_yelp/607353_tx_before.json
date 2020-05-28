@@ -1,0 +1,3 @@
+[
+{"tokens": ["Further", "observation", "revealed", "blatant", "health", "code", "violations", "such", "as", "servers", "going", "into", "the", "kitchen", "and", "preparing\\/handling", "food", "without", "washing", "their", "hands", "and", "employees", "using", "fingers", "instead", "of", "tissue", "to", "wipe", "their", "nose", "right", "before", "they", "handle", "food", "!"], "e1_text": "wipe", "e1_pos": 29, "e2_text": "handle", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["How", "I", "wished", "I", "would", "have", "yelped", "before", "I", "came", "to", "this", "place", "!"], "e1_text": "yelped", "e1_pos": 6, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["He", "was", "so", "bad", "that", "before", "I", "left", ",", "I", "wrote", "''", "``", "you", "can", "definitely", "be", "more", "attentive", "''", "''", "on", "the", "receipt", "and", "left", "it", "on", "the", "table", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "before"}
+]

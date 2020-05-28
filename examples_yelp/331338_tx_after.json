@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "overall", "experience", "was", "good", ",", "may", "be", "because", "we", "got", "seated", "early", "enough", "-LRB-", "I", "saw", "some", "people", "leave", "after", "waiting", "for", "too", "long", "for", "the", "service", "-RRB-", "."], "e1_text": "leave", "e1_pos": 19, "e2_text": "waiting", "e2_pos": 21, "label": "after"}
+]

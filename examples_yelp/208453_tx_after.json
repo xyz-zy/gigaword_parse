@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyone", "who", "walks", "into", "this", "venue", "after", "having", "been", "in", "the", "other", "one", "really", "gets", "a", "shock", "when", "they", "see", "the", "new", "size", "of", "this", "thing", "and", "a", "bigger", "shock", "if", "they", "get", "a", "terrible", "line-of-sight", "to", "the", "stage\\/cage", "."], "e1_text": "walks", "e1_pos": 2, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "get", "there", "right", "after", "she", "is", "threatened", "with", "being", "kicked", "out", "in", "her", "condition", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "is", "e2_pos": 6, "label": "after"}
+]

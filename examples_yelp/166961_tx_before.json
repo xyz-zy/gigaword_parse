@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "take", "my", "showers", ",", "I", "want", "to", "make", "sure", "the", "water", "is", "warm", "from", "the", "spout", "before", "I", "run", "it", "through", "the", "shower", "head", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "run", "e2_pos": 20, "label": "before"}
+]

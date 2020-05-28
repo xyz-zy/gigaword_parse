@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "place", "I", "'ve", "eaten", "in", "Montreal", ",", "I", "was", "surprised", "to", "see", "others", "reviewing", "the", "place", "as", "pricey", ";", "I", "'m", "guessing", "these", "people", "do", "n't", "goto", "many", "other", "restaurants", "-LRB-", "especially", "veg", "\\*", "ones", "-RRB-", "We", "came", "in", "an", "hour", "before", "the", "kitchen", "closed", ",", "place", "was", "packed", "and", "we", "still", "got", "seated", "and", "served", "quickly", "."], "e1_text": "came", "e1_pos": 38, "e2_text": "closed", "e2_pos": 45, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "insisted", "the", "8", "of", "us", "needed", "to", "be", "placed", "at", "two", "different", "tables", "-LRB-", "no", "problem", "-RRB-", "and", "after", "the", "hostess", "left", "us", ",", "we", "did", "n't", "see", "a", "server", "for", "ten", "minutes", "."], "e1_text": "insisted", "e1_pos": 1, "e2_text": "left", "e2_pos": 22, "label": "after"},
+{"tokens": ["In", "the", "end", ",", "the", "food", "was", "consumed", "when", "the", "first", "round", "came", "and", "the", "second", "round", "did", "n't", "arrive", "until", "after", "the", "check", "had", "been", "paid", "."], "e1_text": "arrive", "e1_pos": 19, "e2_text": "had", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "same", "person", "then", "needed", "to", "find", "out", "if", "our", "dog", "was", "allowed", "into", "the", "''", "``", "store", "''", "''", ",", "however", "after", "a", "very", "brief", "discussion", "it", "was", "agreed", "that", "a", "leashed", "dog", "was", "allowed", "into", "an", "area", "full", "of", "chickens", ",", "cows", ",", "pigs", "and", "other", "farm", "animals", "."], "e1_text": "needed", "e1_pos": 4, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

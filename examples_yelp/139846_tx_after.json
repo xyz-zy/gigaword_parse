@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "on", "a", "time", "restriction", "with", "my", "lunch", "time", "so", "I", "verbalized", "this", "to", "the", "waitress", "after", "I", "placed", "my", "order", "-LRB-", "at", "this", "point", "I", "could", "n't", "down", "the", "Caesar", "salad", "because", "I", "would", "n't", "have", "enough", "time", "to", "eat", "it", "so", "I", "opted", "for", "the", "side", "salad", ".", "-RRB-"], "e1_text": "verbalized", "e1_pos": 12, "e2_text": "placed", "e2_pos": 19, "label": "after"}
+]

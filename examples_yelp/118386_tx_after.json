@@ -1,0 +1,5 @@
+[
+{"tokens": ["Do", "not", "expect", "automatic", "drink", "refills", ",", "asking", "if", "you", "need", "anything", ",", "if", "you", "want", "dessert", "or", "to", "have", "your", "plate", "removed", "after", "you", "are", "done", "."], "e1_text": "removed", "e1_pos": 22, "e2_text": "are", "e2_pos": 25, "label": "after"},
+{"tokens": ["When", "we", "got", "the", "bill", ",", "that", "is", "the", "only", "time", "our", "server", ",", "Jemma\\/Gemma", ",", "came", "back", "to", "our", "table", "after", "delivering", "the", "food", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "delivering", "e2_pos": 22, "label": "after"},
+{"tokens": ["You", "can", "also", "order", "these", "''", "``", "double", "baked", "''", "''", "which", "means", "they", "bake", "them", "in", "the", "pizza", "oven", "after", "deep", "frying", "."], "e1_text": "order", "e1_pos": 3, "e2_text": "means", "e2_pos": 12, "label": "after"}
+]

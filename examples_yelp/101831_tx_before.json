@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stood", "there", "for", "a", "minute", "before", "I", "asked", "if", "we", "should", "sear", "ourselves", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "asked", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "told", "him", "about", "the", "lasagna", ",", "the", "salad", "and", "before", "getting", "any", "farther", "he", "got", "defensive", "telling", "us", "his", "lasagna", "does", "n't", "have", "cheese", "and", "if", "the", "waitress", "told", "us", "that", ",", "we", "should", "n't", "tip", "her", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "getting", "e2_pos": 11, "label": "before"}
+]

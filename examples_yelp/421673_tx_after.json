@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "n't", "OK", "with", "the", "waitress", "telling", "me", "-LRB-", "3-minutes", "after", "I", "paid", "my", "bill", "-RRB-", ":", "''", "``", "you", "'ve", "already", "paid", ",", "so", "you", "ca", "n't", "just", "sit", "here", "...", "we", "have", "people", "waiting", "for", "tables", "''", "''", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "paid", "e2_pos": 13, "label": "after"}
+]

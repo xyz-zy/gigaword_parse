@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "given", "Sprinkles", "a", "three", "-LRB-", "3", "-RRB-", "star", "rating", "if", "I", "was", "not", "for", "the", "fact", "that", "about", "ten", "minutes", "after", "eating", "the", "cupcake", "-LRB-", "I", "did", "not", "finish", "it", "-RRB-", "I", "began", "to", "feel", "sick", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "eating", "e2_pos": 24, "label": "after"}
+]

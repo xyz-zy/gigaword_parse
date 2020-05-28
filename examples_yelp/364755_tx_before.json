@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "the", "nice", "person", "that", "packed", "the", "order", "did", "read", "off", "gluten", "free", "before", "adding", "each", "item", "to", "the", "bag", "I", "still", "felt", "the", "need", "to", "call", "and", "clarify", "that", "all", "the", "food", "in", "our", "order", "was", "gluten", "free", "."], "e1_text": "read", "e1_pos": 9, "e2_text": "adding", "e2_pos": 14, "label": "before"}
+]

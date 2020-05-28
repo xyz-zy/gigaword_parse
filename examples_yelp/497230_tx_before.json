@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "only", "staying", "to", "have", "appetizers", "-LRB-", "meat", "\\/", "cheese", "platter", "and", "olives", "-RRB-", "before", "deciding", "to", "leave", "and", "eat", "dinner", "elsewhere", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "table", "next", "to", "us", "had", "to", "ask", "3", "different", "times", "before", "they", "ever", "received", "their", "drinks", "."], "e1_text": "ask", "e1_pos": 7, "e2_text": "received", "e2_pos": 14, "label": "before"}
+]

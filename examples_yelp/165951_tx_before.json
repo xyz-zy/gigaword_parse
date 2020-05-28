@@ -1,0 +1,3 @@
+[
+{"tokens": ["she", "simply", "said", "the", "room", "we", "want", "would", "not", "be", "cleaned", "before", "5:30", "???", "what", "the", "regular", "check", "in", "is", "at", "4:00", "I", "was", "ready", "to", "wait", "for", "1", "more", "hour", "but", "5:30", "???", "come", "on", "she", "kept", "on", "stressing", "3PM", "check", "in", "is", "early", "and", "they", "can", "not", "give", "a", "room", "and", "all", "that", "without", "any", "consideration", "what", "so", "ever", "."], "e1_text": "cleaned", "e1_pos": 10, "e2_text": "is", "e2_pos": 19, "label": "before"}
+]

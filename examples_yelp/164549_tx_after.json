@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "girlfriend", "and", "i", "both", "noticed", "that", "our", "waiter", "was", "not", "exactly", "polite", "after", "we", "pointed", "out", "our", "steaks", "were", "cooked", "incorrectly", "and", "did", "n't", "offer", "to", "bring", "us", "new", "steaks", "knowingly", "that", "the", "cook", "blew", "it", "by", "a", "long", "shot", "with", "the", "beef", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "pointed", "e2_pos": 15, "label": "after"}
+]

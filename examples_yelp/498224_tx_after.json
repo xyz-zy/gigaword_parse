@@ -1,0 +1,3 @@
+[
+{"tokens": ["Needless", "to", "say", ",", "it", "took", "them", "some", "time", "to", "correct", "it", "and", "my", "food", "grew", "cold", "even", "after", "i", "told", "them", "this", "would", "happen", "."], "e1_text": "grew", "e1_pos": 15, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Is", "it", "really", "that", "big", "of", "a", "deal", "to", "see", "a", "movie", "a", "week", "ahead", "of", "time", "before", "it", "expands", "into", "more", "theaters", "?"], "e1_text": "see", "e1_pos": 9, "e2_text": "expands", "e2_pos": 19, "label": "before"},
+{"tokens": ["The", "next", "time", "you", "want", "to", "see", "an", "''", "``", "independent", "film", ",", "''", "''", "stop", "and", "ask", "yourself", ":", "''", "``", "Did", "I", "ever", "go", "to", "the", "old", "Madstone", "Theater", "before", "it", "closed", "?"], "e1_text": "go", "e1_pos": 25, "e2_text": "closed", "e2_pos": 33, "label": "before"}
+]

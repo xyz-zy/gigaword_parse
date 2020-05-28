@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guy", "at", "the", "counter", "pulls", "slices", "of", "pizza", "from", "the", "oven", "but", "walks", "past", "me", "and", "gives", "it", "to", "the", "2", "people", "who", "ordered", "after", "I", "did", "."], "e1_text": "ordered", "e1_pos": 24, "e2_text": "did", "e2_pos": 27, "label": "after"}
+]

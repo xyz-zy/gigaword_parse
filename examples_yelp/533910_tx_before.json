@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "visited", "Trattoria", "Nakamura-Ya", "several", "times", "already", "and", "hesitant", "to", "write", "a", "review", "because", "I", "have", "yet", "to", "try", "other", "items", "on", "the", "menu", "before", "I", "do", "so", "."], "e1_text": "try", "e1_pos": 19, "e2_text": "do", "e2_pos": 27, "label": "before"},
+{"tokens": ["If", "it", "'s", "your", "first", "time", "experiencing", "squid", "ink", ",", "do", "n't", "knock", "it", "before", "you", "try", "it", "!"], "e1_text": "knock", "e1_pos": 12, "e2_text": "try", "e2_pos": 16, "label": "before"}
+]

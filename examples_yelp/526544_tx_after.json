@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tried", "to", "make", "an", "appointment", "to", "get", "my", "hair", "dyed", "and", "even", "though", "I", "have", "been", "to", "the", "locations", "in", "Tucson", "for", "the", "same", "exact", "thing", "they", "still", "would", "not", "schedule", "me", "for", "an", "appointment", "until", "after", "an", "allergy", "test", "where", "I", "would", "have", "to", "wait", "24", "hours", "."], "e1_text": "schedule", "e1_pos": 30, "e2_text": "test", "e2_pos": 39, "label": "after"}
+]

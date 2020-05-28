@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", "it", "took", "a", "good", "10-15", "minutes", "for", "our", "waiter", "to", "appear", "and", "briefly", "introduce", "himself", "before", "rushing", "to", "take", "another", "tables", "order", "."], "e1_text": "introduce", "e1_pos": 14, "e2_text": "rushing", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "ice", "cream", "we", "both", "received", "was", "melted", "before", "we", "even", "received", "it", ",", "and", "the", "reeses", "in", "my", "blizzard", "were", "whole", "and", "not", "even", "broken", "or", "chunks", "."], "e1_text": "melted", "e1_pos": 7, "e2_text": "received", "e2_pos": 5, "label": "before"}
+]

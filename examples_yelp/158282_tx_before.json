@@ -1,0 +1,4 @@
+[
+{"tokens": ["Remember", "to", "load", "your", "plate", "up", "with", "any", "condiments", "-LRB-", "ketchup", ",", "jelly", ",", "etc", "-RRB-", "you", "may", "need", "before", "getting", "back", "to", "your", "table", "."], "e1_text": "need", "e1_pos": 18, "e2_text": "getting", "e2_pos": 20, "label": "before"},
+{"tokens": ["Note", ":", "they", "do", "switch", "over", "from", "the", "breakfast", "to", "the", "lunch", "menu", "at", "11am", "-LRB-", "weekdays", "only", "-RRB-", "and", "staff", "did", "go", "through", "the", "line", "to", "determine", "who", "was", "there", "for", "breakfast", "before", "they", "made", "the", "official", "lunch", "switch", "-LRB-", "which", "consisted", "of", "flipping", "menu", "chalk", "boards", "around", "and", "declaring", "it", "would", "be", "lunch-only", "once", "new", "folks", "wandered", "in", "."], "e1_text": "was", "e1_pos": 29, "e2_text": "made", "e2_pos": 35, "label": "before"}
+]

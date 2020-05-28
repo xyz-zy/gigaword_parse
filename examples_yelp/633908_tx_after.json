@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "thing", "that", "unnerved", "me", "was", "that", "both", "of", "our", "plates", "sat", "in", "front", "of", "us", "for", "15", "mins", "after", "we", "were", "done", "."], "e1_text": "mins", "e1_pos": 19, "e2_text": "were", "e2_pos": 22, "label": "after"},
+{"tokens": ["What", "kind", "of", "bartender", "does", "n't", "pre-bus", "after", "they", "have", "been", "done", "for", "over", "10", "mins", "."], "e1_text": "pre-bus", "e1_pos": 6, "e2_text": "have", "e2_pos": 9, "label": "after"}
+]

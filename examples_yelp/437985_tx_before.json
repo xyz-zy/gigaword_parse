@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "train", "their", "people", "to", "call", "their", "friends", "and", "tell", "them", "how", "much", "this", "program", "changed", "their", "lives", "and", "how", "their", "lives", "were", "so", "sad", "before", "and", "now", "that", "they", "went", "to", "this", "program", "that", "costs", "$", "3000", "will", "change", "your", "life", "forever", "."], "e1_text": "tell", "e1_pos": 9, "e2_text": "were", "e2_pos": 22, "label": "before"}
+]

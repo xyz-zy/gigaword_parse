@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "continually", "apologised", "for", "the", "delay", "and", "even", "brought", "out", "complementary", "poppadoms", "when", "we", "asked", "for", "something", "because", "we", "were", "starving", "after", "waiting", "for", "such", "a", "long", "time", "."], "e1_text": "starving", "e1_pos": 21, "e2_text": "waiting", "e2_pos": 23, "label": "after"}
+]

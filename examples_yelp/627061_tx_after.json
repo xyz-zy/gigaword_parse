@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "mom", "ordered", "wine", "3", "times", ",", "each", "time", "it", "came", "more", "than", "10", "minutes", "after", "she", "ordered", "it", "and", "the", "wrong", "wine", "was", "given", "to", "her", "...", "The", "third", "time", "the", "correct", "wine", "finally", "arrived", "-LRB-", "after", "she", "changed", "her", "order", "to", "an", "easier", ",", "more", "recognizable", "wine", "-RRB-", "but", "by", "then", "we", "had", "finished", "our", "meal", "and", "were", "ready", "for", "the", "check", "...", "The", "food", "is", "pretty", "unimpressive", "as", "well", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 2, "label": "after"}
+]

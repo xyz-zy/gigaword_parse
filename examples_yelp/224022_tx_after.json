@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "freely", "admit", "after", "practically", "begging", "the", "man", "for", "a", "part", "off", "a", "floor", "model", "and", "him", "absolutely", "refusing", "to", "do", "ANYTHING", "to", "help", "me", "at", "all", ",", "I", "cussed", "him", "out", ",", "quite", "well", "I", "must", "add", "."], "e1_text": "admit", "e1_pos": 2, "e2_text": "begging", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "make", "it", "a", "point", "to", "bad-mouth", "that", "store", "after", "that", "experience", "with", "them", "anytime", "the", "subject", "of", "going", "to", "that", "place", "comes", "up", "!"], "e1_text": "make", "e1_pos": 1, "e2_text": "going", "e2_pos": 18, "label": "after"}
+]

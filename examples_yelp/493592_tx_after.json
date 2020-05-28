@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "seemed", "a", "bit", "flustered", "by", "our", "request", ",", "but", "did", "let", "us", "eat", "at", "our", "own", "table", "after", "offering", "us", "the", "bar", "instead", ",", "which", "we", "declined", "."], "e1_text": "eat", "e1_pos": 14, "e2_text": "offering", "e2_pos": 20, "label": "after"}
+]

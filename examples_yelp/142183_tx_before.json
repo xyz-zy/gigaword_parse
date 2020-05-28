@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "around", "1am", "when", "we", "sat", "and", "began", "our", "wait", "...", "and", "I", "mean", "WAIT", "!!!", "We", "starting", "timing", "the", "waitress", "on", "our", "phones", "to", "see", "how", "long", "it", "was", "going", "to", "take", "her", "to", "get", "our", "order", "...", "10", "minutes", "and", "a", "solid", "minute", "before", "we", "were", "going", "to", "leave", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 48, "label": "before"},
+{"tokens": ["So", "my", "friend", "waited", "another", "10", "minutes", "before", "he", "actually", "got", "his", "coffee", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

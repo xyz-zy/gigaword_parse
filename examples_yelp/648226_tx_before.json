@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "think", "to", "look", "inside", "before", "we", "left", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "left", "e2_pos": 9, "label": "before"},
+{"tokens": ["Instead", ",", "I", "'ll", "double", "check", "for", "gross", "interiors", "before", "leaving", "the", "parking", "lot", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "leaving", "e2_pos": 10, "label": "before"}
+]

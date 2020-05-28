@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "to", "wait", "a", "very", "long", "time", "-LRB-", "about", "30", "min", "-RRB-", "before", "the", "waiter", "came", "by", "to", "take", "our", "drink", "order", ",", "ordered", "food", "at", "the", "same", "time", "."], "e1_text": "wait", "e1_pos": 2, "e2_text": "came", "e2_pos": 15, "label": "before"},
+{"tokens": ["At", "that", "point", ",", "every", "single", "person", "at", "the", "other", "tables", "had", "paid", "and", "started", "leaving", "before", "our", "waiter", "even", "came", "back", "to", "give", "us", "our", "bills", "."], "e1_text": "leaving", "e1_pos": 15, "e2_text": "came", "e2_pos": 20, "label": "before"}
+]

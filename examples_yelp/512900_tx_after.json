@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "must", "not", "forget", "dessert", "!!", "The", "most", "important", "meal", "I", "never", "ever", "miss", ";-RRB-", "You", "cant", "beat", "Yia", "Yia", "'s", "Rice", "pudding", "to", "top", "of", "your", "meal", "!!", "Im", "not", "a", "big", "puddin", "fan", "but", "after", "Chef", "came", "over", "with", "a", "sample", "of", "rice", "pudding", "for", "me", "to", "try", ",", "I", "can", "say", "I", "am", "fan", "of", "rice", "pudding", "!!", "At", "least", "the", "way", "Alice", "makes", "it", "here", "."], "e1_text": "forget", "e1_pos": 3, "e2_text": "came", "e2_pos": 38, "label": "after"}
+]

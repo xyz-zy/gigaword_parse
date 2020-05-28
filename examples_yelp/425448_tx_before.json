@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "in", "about", "an", "hour", "before", "closing", "looking", "for", "food", "-LRB-", "every", "restaurant", "'s", "nightmare", "-RRB-", "on", "a", "Saturday", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "closing", "e2_pos": 7, "label": "before"},
+{"tokens": ["He", "even", "gave", "us", "a", "heads", "up", "to", "make", "our", "dessert", "order", "before", "the", "kitchen", "was", "closed", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

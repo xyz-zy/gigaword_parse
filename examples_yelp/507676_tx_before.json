@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "walk", "in", ",", "decide", "then", "and", "there", "what", "you", "'d", "like", "to", "eat", ",", "order", "and", "pay", "up", "front", "to", "the", "cashier", "-", "all", "before", "putting", "ass", "to", "seat", "."], "e1_text": "like", "e1_pos": 11, "e2_text": "putting", "e2_pos": 26, "label": "before"},
+{"tokens": ["I", "only", "wish", "I", "knew", "about", "that", "before", "I", "waited", "5", "minutes", "to", "be", "seated", "."], "e1_text": "knew", "e1_pos": 4, "e2_text": "waited", "e2_pos": 9, "label": "before"}
+]

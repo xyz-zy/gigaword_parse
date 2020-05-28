@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "at", "a", "table", "on", "a", "Saturday", "afternoon", "and", "had", "two", "servers", "walk", "past", "us", "multiple", "times", "before", "we", "actually", "had", "to", "say", "something", "to", "get", "any", "acknowledgement", "."], "e1_text": "walk", "e1_pos": 13, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["When", "we", "told", "the", "waitress", "she", "said", "''", "``", "oh", "yeah", "i", "'ve", "heard", "that", "complaint", "before", ",", "we", "just", "have", "bad", "tea", "here", "''", "''", "."], "e1_text": "heard", "e1_pos": 13, "e2_text": "have", "e2_pos": 20, "label": "before"}
+]

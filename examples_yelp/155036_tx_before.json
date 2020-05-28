@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "an", "incredibly", "indecisive", "person", "so", "I", "find", "it", "odd", "when", "I", "have", "n't", "been", "bothered", "at", "least", "twice", "before", "I", "finally", "make", "my", "decision", "on", "a", "meal", "."], "e1_text": "bothered", "e1_pos": 16, "e2_text": "make", "e2_pos": 23, "label": "before"}
+]

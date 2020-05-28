@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "mooshy", "and", "tasteless", "aside", "from", "the", "bbq", "sauce", "that", "was", "ladled", "onto", "the", "meat", "right", "before", "it", "arrived", "."], "e1_text": "ladled", "e1_pos": 12, "e2_text": "arrived", "e2_pos": 19, "label": "before"},
+{"tokens": ["The", "meat", "tasted", "like", "it", "may", "have", "been", "boiled", "before", "it", "was", "put", "into", "the", "smoker", "."], "e1_text": "boiled", "e1_pos": 8, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

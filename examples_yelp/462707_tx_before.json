@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "had", "many", "cupcakes", "before", "including", "Sprinkles", "&", "Crumbs", "Cupcakes", "in", "Beverly", "Hills", ",", "Yummy", "Cupcakes", "in", "Santa", "Monica", "&", "various", "others", "on", "a", "trip", "around", "L.A.", "where", "a", "friend", "&", "I", "decided", "to", "find", "the", "best", "cupcakes", "in", "the", "city", "for", "fun", "girls", "day", "out", ",", "most", "of", "them", "costing", "$", "5", "or", "more", "each", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "costing", "e2_pos": 51, "label": "before"}
+]

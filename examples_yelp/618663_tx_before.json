@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "ordered", "apple", "juice", ",", "I", "expected", "the", "same", "juice", "I", "get", "at", "every", "restaurant", ",", "but", "it", "was", "freshly", "juiced", "the", "second", "before", "it", "was", "brought", "to", "my", "table", "!"], "e1_text": "was", "e1_pos": 19, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

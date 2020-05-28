@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "SWEAR", "I", "'ve", "had", "their", "salsa", "before", ",", "I", "just", "ca", "n't", "place", "it", "!"], "e1_text": "SWEAR", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 3, "label": "before"},
+{"tokens": ["We", "did", "need", "to", "get", "going", "-", "we", "had", "another", "errand", "to", "run", "before", "heading", "home", "but", "still", "."], "e1_text": "run", "e1_pos": 12, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "it", "would", "be", "interesting", "to", "try", "the", "salmon", "panang", ",", "since", "I", "had", "never", "seen", "that", "as", "an", "option", "for", "panang", "before", "."], "e1_text": "seen", "e1_pos": 16, "e2_text": "panang", "e2_pos": 22, "label": "before"},
+{"tokens": ["However", ",", "it", "'s", "my", "fault", "for", "not", "asking", "or", "thinking", "about", "it", "before", "I", "ordered", "."], "e1_text": "'s", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 15, "label": "before"}
+]

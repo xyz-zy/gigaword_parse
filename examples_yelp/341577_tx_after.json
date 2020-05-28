@@ -1,0 +1,3 @@
+[
+{"tokens": ["Delivery", "woman", "gave", "me", "a", "club", "card", "to", "receive", "a", "free", "sandwich", "after", "ordering", "so", "many", "."], "e1_text": "receive", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 13, "label": "after"}
+]

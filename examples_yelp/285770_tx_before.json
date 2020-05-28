@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "entering", "the", "employee", "asked", "us", "what", "samples", "we", "wanted", "before", "washing", "her", "hands", "."], "e1_text": "wanted", "e1_pos": 9, "e2_text": "washing", "e2_pos": 11, "label": "before"},
+{"tokens": ["My", "friend", "and", "I", "asked", "if", "she", "would", "please", "wash", "her", "hands", "before", "serving", "us", "and", "from", "this", "point", "forward", "she", "was", "cold", "towards", "us", "."], "e1_text": "wash", "e1_pos": 9, "e2_text": "serving", "e2_pos": 13, "label": "before"}
+]

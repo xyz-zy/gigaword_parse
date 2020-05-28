@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "now", "2:15", "and", "you", "have", "n't", "even", "looked", "at", "it", "-LRB-", "after", "I", "was", "even", "told", "2", "hours", "?????", "-RRB-", "."], "e1_text": "looked", "e1_pos": 9, "e2_text": "was", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "'m", "an", "extremely", "easy", "going", "person", "when", "it", "comes", "to", "dealerships", ",", "but", "this", "was", "absolutely", "ridiculous", "and", "the", "worst", "service", "I", "have", "ever", "experienced", "after", "dealing", "with", "well", "over", "10", "dealers", "in", "my", "past", "with", "cars", "and", "service", "."], "e1_text": "experienced", "e1_pos": 25, "e2_text": "dealing", "e2_pos": 27, "label": "after"}
+]

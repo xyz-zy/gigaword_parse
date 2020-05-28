@@ -1,0 +1,4 @@
+[
+{"tokens": ["Or", "having", "their", "valet", "so", "full", "that", "hotel", "guests", "need", "to", "wait", "25", "minutes", "in", "the", "valet", "lane", "before", "leaving", "their", "cars", "?"], "e1_text": "wait", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "waited", "30", "minutes", "before", "she", "came", "to", "take", "my", "drink", "order", "...", "There", "is", "one", "pro", "about", "Cosmo", "though", ".", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 6, "label": "before"}
+]

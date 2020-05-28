@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "regular", "line", "takes", "about", "5", "hours", "after", "asking", "the", "people", "who", "were", "near", "the", "front", "of", "the", "line", "."], "e1_text": "takes", "e1_pos": 3, "e2_text": "asking", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "took", "the", "express", "line", "to", "save", "time", "but", "after", "being", "seated", "there", "are", "more", "lines", "just", "to", "get", "food", "-", "ridiculous", "."], "e1_text": "save", "e1_pos": 6, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

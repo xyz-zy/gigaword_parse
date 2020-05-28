@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "we", "ordered", "two", "three-course", "meals", "but", "we", "just", "left", "without", "even", "eating", "the", "desserts", "because", "1", "-RRB-", "the", "server", "gave", "us", "the", "bill", "before", "I", "was", "even", "half", "way", "thru", "my", "main", "entree", "and", "2", "-RRB-", "we", "waited", "for", "the", "desserts", "for", "15minutes", "even", "after", "paying", "the", "bill", "and", "the", "server", "didnt", "even", "care", "to", "explain", "what", "happened", "with", "the", "desserts", "until", "I", "asked", "."], "e1_text": "waited", "e1_pos": 39, "e2_text": "paying", "e2_pos": 47, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "waiting", "20", "min", "after", "they", "called", "for", "a", "person", "to", "help", "me", "in", "paint", ",", "I", "was", "told", "by", "an", "employee", "that", "I", "will", "never", "get", "spray", "paint", "due", "to", "it", "being", "after", "10pm", "and", "that", "it", "is", "illegal", "in", "Clark", "County", "to", "sell", "it", "to", "me", "after", "9pm", ",", "she", "backed", "this", "comment", "up", "by", "pointing", "to", "a", "sign", "on", "the", "case", "that", "said", "''", "``", "if", "you", "find", "this", "case", "unlocked", "please", "find", "an", "worker", "to", "lock", "it", "."], "e1_text": "waiting", "e1_pos": 1, "e2_text": "called", "e2_pos": 6, "label": "after"}
+]

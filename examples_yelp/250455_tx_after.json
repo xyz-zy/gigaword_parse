@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "paid", "$", "100", "for", "that", "crap", "and", "I", "paid", "$", "60", "and", "realized", "after", "if", "we", "had", "gotten", "the", "more", "expensive", "$", "55", "pedicure", ",", "we", "got", "a", "free", "manicure", "too", "."], "e1_text": "realized", "e1_pos": 13, "e2_text": "got", "e2_pos": 27, "label": "after"}
+]

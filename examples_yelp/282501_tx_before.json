@@ -1,0 +1,3 @@
+[
+{"tokens": ["Driving", "past", "Mel", "'s", "Diner", ",", "I", "told", "my", "boyfriend", ",", "''", "``", "We", "have", "to", "eat", "breakfast", "here", "before", "we", "leave", "town", "!", "''", "''"], "e1_text": "eat", "e1_pos": 16, "e2_text": "leave", "e2_pos": 21, "label": "before"}
+]

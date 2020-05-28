@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "told", "us", "we", "had", "to", "leave", "our", "table", "right", "after", "we", "paid", "our", "bill", "-LRB-", "and", "tipped", "her", "generously", "-RRB-", "just", "because", "we", "had", "n't", "ordered", "another", "drink", "."], "e1_text": "leave", "e1_pos": 7, "e2_text": "paid", "e2_pos": 13, "label": "after"}
+]

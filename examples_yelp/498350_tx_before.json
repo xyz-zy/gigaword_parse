@@ -1,0 +1,3 @@
+[
+{"tokens": ["Only", "the", "crepes", "are", "gluten", "free", "-LRB-", "not", "the", "waffles", "-RRB-", "and", "oh", "did", "they", "neglect", "to", "mention", "-LRB-", "before", "they", "rang", "my", "order", "through", "on", "my", "credit", "card", "-RRB-", "that", "NONE", "of", "the", "sweet", "crepes", "-", "CHOCOLATE", "&", "fruit", "-", "are", "gluten", "free", "?"], "e1_text": "mention", "e1_pos": 17, "e2_text": "rang", "e2_pos": 21, "label": "before"}
+]

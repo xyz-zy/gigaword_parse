@@ -1,0 +1,4 @@
+[
+{"tokens": ["His", "meal", "came", "without", "the", "roll", ",", "and", "when", "he", "asked", "the", "waitress", "about", "it", ",", "she", "seemed", "confused", ",", "then", "consulted", "a", "menu", "before", "realizing", "he", "was", "right", "."], "e1_text": "consulted", "e1_pos": 21, "e2_text": "realizing", "e2_pos": 25, "label": "before"},
+{"tokens": ["And", "then", "it", "was", "a", "while", "longer", "before", "the", "forgotten", "roll", "came", "out", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "have", "a", "chain", "restaurant", "called", "''", "``", "Firebirds", "''", "''", "here", "that", "I", "would", "go", "to", "everyday", "for", "steak", "and\\/or", "salmon", "before", "I", "went", "to", "Gordon", "Ramsay", "'s", "."], "e1_text": "go", "e1_pos": 15, "e2_text": "went", "e2_pos": 24, "label": "before"}
+]

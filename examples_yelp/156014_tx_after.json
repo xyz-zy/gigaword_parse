@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "a", "vegetarian", "and", "the", "only", "things", "that", "were", "veggie", "had", "GOBS", "of", "cheese", "...", "I", "mean", "thick", "gobs", "that", "turned", "hard", "after", "they", "cooled", "a", "bit", "."], "e1_text": "turned", "e1_pos": 21, "e2_text": "cooled", "e2_pos": 25, "label": "after"}
+]

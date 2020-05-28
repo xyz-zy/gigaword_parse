@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "paid", "the", "bill", "with", "$", "100", "cash", "and", "almost", "left", "before", "realizing", "the", "waitress", ",", "Vickie", ",", "had", "short", "changed", "me", "$", "10", "and", "did", "not", "give", "me", "the", "coin", "change", "from", "the", "bill", "."], "e1_text": "left", "e1_pos": 10, "e2_text": "realizing", "e2_pos": 12, "label": "before"},
+{"tokens": ["Why", "then", "she", "did", "n't", "check", "it", "before", "she", "gave", "it", "to", "me", "is", "puzzling", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "gave", "e2_pos": 9, "label": "before"}
+]

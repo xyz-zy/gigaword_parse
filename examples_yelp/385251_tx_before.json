@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "ideas", "about", "what", "it", "would", "look", "like", "before", "it", "came", "out", "."], "e1_text": "look", "e1_pos": 8, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "had", "the", "Banana", "'s", "Foster", "for", "dessert", "which", "I", "thought", "I", "would", "like", "because", "I", "'ve", "had", "one", "before", "."], "e1_text": "like", "e1_pos": 13, "e2_text": "'ve", "e2_pos": 16, "label": "before"}
+]

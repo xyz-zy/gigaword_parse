@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "the", "employees", "are", "incredibly", "slow", "and", "put", "the", "wrong", "ingredients", "on", "pizzas", ",", "I", "had", "the", "guy", "behind", "the", "counter", "asking", "ME", "what", "went", "on", "the", "pizza", "...", "um", "you", "work", "there", ",", "you", "should", "know", "-", "not", "me", "-LRB-", "I", "think", "he", "hit", "the", "bong", "too", "much", "before", "he", "came", "to", "work", "that", "day", ".", "-RRB-"], "e1_text": "hit", "e1_pos": 45, "e2_text": "came", "e2_pos": 52, "label": "before"},
+{"tokens": ["I", "only", "managed", "to", "choke", "down", "one", "piece", "before", "I", "sent", "it", "back", "."], "e1_text": "choke", "e1_pos": 4, "e2_text": "sent", "e2_pos": 10, "label": "before"}
+]

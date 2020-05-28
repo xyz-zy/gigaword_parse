@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "comes", "out", "and", "talks", "to", "me", "and", "after", "almost", "yelling", "at", "me", "that", "it", "'s", "a", "felony", "it", "walk", "out", "on", "a", "bar", "tab", "he", "proceeded", "to", "tell", "me", "if", "I", "do", "n't", "pay", "in", "five", "minutes", "he", "will", "call", "the", "cops", "."], "e1_text": "talks", "e1_pos": 5, "e2_text": "yelling", "e2_pos": 11, "label": "after"},
+{"tokens": ["With", "out", "missing", "a", "beat", "i", "tell", "him", "that", "sounds", "like", "a", "great", "idea", "and", "he", "calmed", "down", "after", "that", "."], "e1_text": "sounds", "e1_pos": 9, "e2_text": "calmed", "e2_pos": 16, "label": "after"}
+]

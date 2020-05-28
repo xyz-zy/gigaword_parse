@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "5", "rooms", "booked", "and", "I", "was", "the", "first", "to", "get", "there", "and", "check", "in", "and", "everyone", "else", "came", "over", "the", "next", "1-2", "hours", ",", "so", "why", "did", "I", "have", "to", "wait", "two", "hours", "before", "I", "got", "my", "room", "and", "everyone", "else", "got", "there", "'s", "immediately", "???", "I", "checked", "in", "with", "the", "front", "desk", "3", "times", "in", "that", "time", "frame", "and", "each", "time", "was", "told", "we", "have", "no", "rooms", "available", "you", "are", "next", "."], "e1_text": "wait", "e1_pos": 32, "e2_text": "got", "e2_pos": 37, "label": "before"}
+]

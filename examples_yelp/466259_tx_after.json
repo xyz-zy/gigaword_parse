@@ -1,0 +1,3 @@
+[
+{"tokens": ["From", "where", "we", "where", "standing", "at", "the", "bar", "l", "could", "see", "a", "constant", "stream", "of", "customers", "coming", "to", "the", "bar", "as", "the", "service", "was", "slow", "some", "complaining", "that", "they", "had", "waited", "an", "hour", "for", "their", "main", "courses", "after", "having", "their", "starters", "."], "e1_text": "waited", "e1_pos": 30, "e2_text": "having", "e2_pos": 38, "label": "after"}
+]

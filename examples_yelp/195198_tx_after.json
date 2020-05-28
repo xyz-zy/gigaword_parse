@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "reviews", "-LRB-", "not", "on", "yelp", "-RRB-", "and", "Le", "Village", "consistently", "ranks", "very", "high", ",", "after", "eating", "here", "I", "was", "left", "scratching", "my", "head", "and", "wondering", "why", "."], "e1_text": "ranks", "e1_pos": 12, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

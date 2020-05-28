@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "after", "making", "this", "complaint", "at", "9pm", "and", "stayed", "until", "11pm", "with", "the", "food", "coming", "at", "10pm", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "making", "e2_pos": 4, "label": "after"},
+{"tokens": ["Was", "told", "they", "were", "out", "of", "oysters", "after", "waiting", "for", "10-15", "minutes", "and", "was", "asked", "if", "I", "wanted", "to", "cancel", "the", "order", "-", "yes", "since", "they", "ran", "out", ",", "right", "?!", "Excellent", "flavor", "but", "just", "too", "much", "sriracha", "-LRB-", "I", "think", "?", "-RRB-"], "e1_text": "were", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "tonight", "to", "see", "some", "friends", "before", "my", "trip", "in", "Phoenix", "comes", "to", "an", "end", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "comes", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "brought", "me", "out", "drinks", "and", "some", "menus", "to", "review", "before", "everyone", "showed", "up", "."], "e1_text": "review", "e1_pos": 9, "e2_text": "showed", "e2_pos": 12, "label": "before"}
+]

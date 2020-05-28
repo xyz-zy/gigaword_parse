@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", "my", "food", "did", "n't", "get", "here", "until", "8:40", "tonight", ",", "right", "before", "it", "got", "here", "I", "called", "to", "complain", "and", "spoke", "with", "the", "really", "unpleasant", "manager", "and", "she", "blamed", "it", "on", "the", "delivery", "guy", ",", "when", "he", "got", "here", "he", "blamed", "it", "on", "her", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "not", "sure", "if", "it", "speaks", "to", "the", "location", "of", "the", "restaurant", ",", "or", "that", "I", "am", "absolutely", "oblivious", "to", "my", "surroundings", ",", "but", "I", "visited", "this", "shopping", "center", "no", "less", "than", "10", "times", "before", "I", "even", "noticed", "this", "McAlister", "'s", "in", "the", "parking", "lot", "."], "e1_text": "visited", "e1_pos": 26, "e2_text": "noticed", "e2_pos": 38, "label": "before"},
+{"tokens": ["Chips", "were", "as", "good", "as", "bagged", "chips", "get", ",", "smothered", "with", "cheese", "and", "chili", ",", "it", "made", "for", "a", "decent", "snack", "before", "grocery", "shopping", "-LRB-", "do", "n't", "grocery", "shop", "hangry", "!", "-RRB-", "."], "e1_text": "made", "e1_pos": 16, "e2_text": "shop", "e2_pos": 28, "label": "before"}
+]

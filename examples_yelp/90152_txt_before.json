@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "gate", "agent", "said", "over", "the", "intercom", ",", "before", "they", "canceled", ",", "''", "``", "the", "new", "time", "of", "departure", "is", "4:15", "-LRB-", "and", "hour", "later", "-RRB-", "."], "e1_text": "said", "e1_pos": 3, "e2_text": "canceled", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "went", "to", "Su", "Vino", "winery", "right", "before", "they", "were", "closing", "&", "needed", "to", "find", "a", "new", "place", "to", "eat", "so", "I", "pulled", "up", "Trip", "Advisor", "&", "found", "F&B", "had", "amazing", "reviews", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "were", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "would", "have", "to", "say", "that", "the", "absolute", "worst", "part", "for", "me", "was", "the", "dessert", ",", "of", "all", "things", "this", "should", "be", "executed", "perfectly", "because", "that", "'s", "the", "last", "thing", "you", "eat", "before", "you", "leave", "."], "e1_text": "eat", "e1_pos": 31, "e2_text": "leave", "e2_pos": 34, "label": "before"}
+]

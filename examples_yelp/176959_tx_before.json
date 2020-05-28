@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "also", "try", "the", "machaca", "and", "carnitas", "but", "seconds", "after", "she", "hands", "me", "my", "first", "sample", ",", "-LRB-", "the", "man", "before", "me", "was", "offered", "almost", "everything", "-RRB-", "she", "asked", "me", "if", "I", "was", "ready", "to", "order", "!"], "e1_text": "wanted", "e1_pos": 1, "e2_text": "was", "e2_pos": 24, "label": "before"},
+{"tokens": ["FOOD", "-LRB-", "I", "have", "only", "tried", "3", "of", "their", "dishes", "because", "again", "I", "arrive", "40", "minutes", "before", "they", "close", "so", "samples", "are", "not", "an", "option", "-RRB-", "Chinese", "BBQ", "Pork", "."], "e1_text": "arrive", "e1_pos": 13, "e2_text": "close", "e2_pos": 18, "label": "before"}
+]

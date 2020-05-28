@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "'s", "about", "3", "shuttles", "for", "different", "hotels", "and", "they", "have", "to", "wait", "until", "it", "'s", "filled", "before", "taking", "off", "."], "e1_text": "filled", "e1_pos": 16, "e2_text": "taking", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "shuttle", "for", "our", "hotel", "just", "filled", "up", "before", "we", "got", "there", "so", "we", "waited", "about", "10", "minutes", "for", "another", "one", "while", "the", "other", "shuttles", "came", "and", "went", "."], "e1_text": "filled", "e1_pos": 6, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "def", "took", "advantage", "of", "this", "and", "passed", "mine", "along", "to", "my", "friend", "before", "waiting", "a", "few", "min", "for", "refills", ".", "."], "e1_text": "passed", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 14, "label": "before"},
+{"tokens": ["after", "a", "few", "trips", "to", "the", "bar", "i", "got", "another", "glass", "of", "champ", "and", "we", "were", "allowed", "to", "pour", "it", "into", "a", "plastic", "cup", "-LRB-", "classy", ",", "i", "know", "-RRB-", "before", "leaving", "the", "lounge", ".", "."], "e1_text": "allowed", "e1_pos": 16, "e2_text": "leaving", "e2_pos": 31, "label": "before"}
+]

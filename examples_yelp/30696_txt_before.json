@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "do", "n't", "know", "if", "the", "food", "was", "an", "improvement", "because", "we", "went", "on", "a", "Saturday", "afternoon", "and", "waited", "a", "full", "5", "minutes", "inside", "before", "being", "acknowledged", "and", "seated", "."], "e1_text": "waited", "e1_pos": 18, "e2_text": "being", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "place", "was", "deserted", "and", "we", "sat", "at", "our", "table", "for", "another", "10", "minutes", "before", "being", "approached", "by", "a", "waiter", "reeking", "of", "cigarette", "smoke", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "being", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "eventually", "took", "my", "gift", "certificates", "to", "the", "Scottsdale", "location", "and", "blew", "them", "all", "on", "beer", "and", "filet", "mignon", "before", "they", "expired", ",", "but", "that", "'s", "a", "different", "review", "."], "e1_text": "blew", "e1_pos": 11, "e2_text": "expired", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "finally", "ended", "my", "visit", "before", "I", "got", "out", "I", "asked", "from", "the", "host", "for", "a", "pen", "so", "I", "could", "sign", "my", "visa", "because", "the", "waiter", "was", "''", "``", "too", "busy", "''", "''", "too", "remember", "to", "bring", "one", "."], "e1_text": "ended", "e1_pos": 3, "e2_text": "got", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "'re", "crazy", "enough", "to", "consider", "trying", "these", "guys", "out", "after", "reading", "these", "reviews", "...", "Do", "n't", "."], "e1_text": "trying", "e1_pos": 7, "e2_text": "reading", "e2_pos": 12, "label": "after"},
+{"tokens": ["And", "if", "you", "'re", "reading", "this", "after", "you", "have", "learned", "from", "your", "mistake", "-LRB-", "meaning", ",", "you", "went", "with", "them", "anyway", "-RRB-", ",", "do", "n't", "beat", "yourself", "up", "."], "e1_text": "reading", "e1_pos": 4, "e2_text": "have", "e2_pos": 8, "label": "after"}
+]

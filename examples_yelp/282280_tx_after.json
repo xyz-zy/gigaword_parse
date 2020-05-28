@@ -1,0 +1,3 @@
+[
+{"tokens": ["Those", "came", "out", "five", "minutes", "after", "we", "ordered", ",", "which", "was", "nice", ",", "and", "the", "tempura", "roll", "that", "my", "friend", "ordered", "came", "out", "shortly", "after", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 7, "label": "after"}
+]

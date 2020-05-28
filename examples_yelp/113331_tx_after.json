@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "review", "may", "be", "biased", "because", "after", "bringing", "my", "mom", "in", "2", "years", "ago", ",", "who", "spoke", "vietnamese", "to", "them", ",", "everyone", "there", "is", "very", "nice", "to", "me", "."], "e1_text": "biased", "e1_pos": 4, "e2_text": "bringing", "e2_pos": 7, "label": "after"}
+]

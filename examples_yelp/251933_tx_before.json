@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Am", "I", "buying", "this", "car", "or", "just", "renting", "it", "for", "a", "couple", "of", "days", "...", "-RRB-", "Anyway", ",", "I", "had", "planned", "to", "purchase", "fuel", "myself", "before", "dropping", "off", "the", "car", ",", "but", "the", "guy", "was", "so", "nuts", "about", "it", "being", "within", "10", "miles", "that", "I", "waited", "until", "I", "was", "near", "the", "drop", "off", "area", "and", "then", "could", "not", "find", "a", "gas", "station", "."], "e1_text": "fuel", "e1_pos": 24, "e2_text": "dropping", "e2_pos": 27, "label": "before"}
+]

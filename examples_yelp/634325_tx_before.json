@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fact", "that", "they", "said", "that", "they", "are", "the", "best", "studio", "in", "Scottsdale", "-LRB-", "or", "something", "like", "that", "-RRB-", "before", "they", "even", "opened", "left", "a", "sour", "taste", "in", "my", "mouth", "."], "e1_text": "are", "e1_pos": 7, "e2_text": "opened", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "enjoying", "my", "stay", "until", "the", "next", "morning", "when", "I", "woke", "up", "with", "bed", "bug", "bites", ":", "\\/", "!!!!", "I", "'ve", "stayed", "at", "lower", "end", "hotels", "before", "and", "never", "had", "this", "problem", "."], "e1_text": "woke", "e1_pos": 11, "e2_text": "'ve", "e2_pos": 21, "label": "before"},
+{"tokens": ["We", "had", "to", "call", "ourselves", "the", "next", "morning", "before", "we", "checked", "out", "and", "of", "course", "the", "same", "guys", "who", "helped", "us", "out", "the", "night", "before", "were", "n't", "there", "so", "they", "could", "n't", "really", "give", "us", "answers", "yet", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "checked", "e2_pos": 10, "label": "before"}
+]

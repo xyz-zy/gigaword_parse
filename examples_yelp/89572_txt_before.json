@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waiting", "close", "to", "ten", "minutes", "by", "the", "bar", ",", "with", "nobody", "in", "front", "of", "me", ",", "and", "having", "the", "bartenders", "listlessly", "walk", "around", "without", "doing", "anything", ",", "and", "then", "immediately", "serving", "someone", "older", "that", "comes", "up", "-LRB-", "before", "they", "served", "me", "-RRB-", "really", "put", "a", "damper", "on", "the", "rest", "of", "the", "experience", "."], "e1_text": "serving", "e1_pos": 30, "e2_text": "served", "e2_pos": 39, "label": "before"}
+]

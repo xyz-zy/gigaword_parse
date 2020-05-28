@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "the", "second", "visit", "in", "particular", "we", "had", "a", "reservation", ",", "but", "ended", "up", "waiting", "50", "minutes", "for", "our", "chef", "after", "we", "had", "been", "seated", ",", "and", "it", "was", "n't", "that", "busy", "."], "e1_text": "waiting", "e1_pos": 14, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "was", "very", "peculiar", "as", "I", "ca", "n't", "recall", "ever", "waiting", "much", "longer", "after", "the", "appetizers", "have", "been", "served", "during", "any", "other", "teppanyaki", "experience", "."], "e1_text": "waiting", "e1_pos": 10, "e2_text": "have", "e2_pos": 16, "label": "after"}
+]

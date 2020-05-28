@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "waiting", "for", "two", "more", "people", "to", "show", "before", "we", "ordered", "dinner", "."], "e1_text": "show", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 11, "label": "before"},
+{"tokens": ["If", "a", "party", "is", "waiting", "on", "more", "people", "to", "show", "up", "before", "ordering", ",", "then", "either", "give", "yourself", "some", "cushion", "in", "table", "reservation", "scheduling", ",", "or", "have", "a", "policy", "of", "not", "seating", "parties", "until", "all", "members", "show", "up", "."], "e1_text": "show", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 12, "label": "before"}
+]

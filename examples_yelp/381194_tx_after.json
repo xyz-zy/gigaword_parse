@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "Night", "i", "took", "my", "family", "to", "the", "Movies", "at", "Nor-terra", ",", "after", "the", "movie", "we", "sat", "outside", "the", "store", "and", "we", "were", "going", "to", "go", "into", "your", "store", "to", "grab", "a", "bite", "to", "eat", "but", "we", "were", "waiting", "for", "someone", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "sat", "e2_pos": 16, "label": "after"}
+]

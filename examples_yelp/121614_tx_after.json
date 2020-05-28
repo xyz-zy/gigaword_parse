@@ -1,0 +1,4 @@
+[
+{"tokens": ["Strike", "3", "We", "were", "never", "asked", "how", "the", "food", "was", ",", "our", "waters", "&", "beers", "were", "never", "refilled", "&", "even", "after", "seeing", "the", "majority", "of", "food", "still", "on", "all", "the", "plates", "our", "waitress", "never", "thought", "to", "ask", "if", "everything", "was", "ok", "."], "e1_text": "refilled", "e1_pos": 17, "e2_text": "plates", "e2_pos": 30, "label": "after"},
+{"tokens": ["When", "we", "were", "leaving", "I", "expressed", "my", "disappointment", "to", "the", "manager", "&", "all", "he", "did", "was", "smile", "&", "say", "''", "``", "have", "a", "nice", "night", "''", "''", "And", "to", "top", "it", "off", "after", "expressing", "these", "feelings", "a", "few", "of", "the", "servers", "were", "laughing", "&", "highfived", "."], "e1_text": "top", "e1_pos": 29, "e2_text": "expressing", "e2_pos": 33, "label": "after"}
+]

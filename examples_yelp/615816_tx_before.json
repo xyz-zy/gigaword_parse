@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "same", "thing", "happened", "as", "before", "in", "terms", "of", "the", "quote", "but", "this", "time", "my", "radio", "was", "not", "working", "after", "the", "work", "was", "done", "on", "my", "car", "."], "e1_text": "happened", "e1_pos": 3, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["If", "your", "radio", ",", "windshield", "wipers", "or", "anything", "else", "is", "not", "working", "properly", "after", "they", "repair", "your", "car", "and", "you", "ca", "n't", "prove", "that", "it", "was", "working", "properly", "before", "you", "brought", "it", "in", ",", "be", "prepared", "to", "spend", "money", "to", "get", "their", "mistakes", "fixed", "...", "because", "you", "ca", "n't", "prove", "that", "it", "was", "n't", "working", "when", "you", "brought", "it", "in", "."], "e1_text": "working", "e1_pos": 11, "e2_text": "brought", "e2_pos": 30, "label": "before"}
+]

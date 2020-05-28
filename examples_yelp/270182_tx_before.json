@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "call", "the", "front", "desk", "and", "are", "told", "it", "would", "be", "at", "least", "4:30", "before", "housekeeping", "gets", "there", "to", "clean", "the", "room", "but", "they", "would", "be", "happy", "to", "send", "us", "clean", "towels", "in", "the", "mean", "time", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "gets", "e2_pos": 16, "label": "before"}
+]

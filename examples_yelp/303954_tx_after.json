@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "became", "intrigued", "after", "hearing", "about", "it", "from", "various", "people", "and", "watched", "videos", "on", "Youtube", "about", "it", "."], "e1_text": "intrigued", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "burger", "arrived", "not", "too", "long", "after", "finishing", "my", "first", "set", "of", "fries", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "finishing", "e2_pos": 7, "label": "after"}
+]

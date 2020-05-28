@@ -1,0 +1,3 @@
+[
+{"tokens": ["how", "did", "they", "not", "know", "there", "out", "of", "shirmp", "before", "ordering", "and", "wating", "almost", "an", "hour", "to", "tell", "us", "??????", "so", "he", "had", "to", "order", "another", "dinner", "and", "wait", "again", ".", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 10, "label": "before"}
+]

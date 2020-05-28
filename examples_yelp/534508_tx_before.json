@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "then", "informed", "that", "there", "are", "no", "refunds", "-LRB-", "even", "though", "the", "transaction", "only", "took", "place", "minutes", "before", "-RRB-", "."], "e1_text": "are", "e1_pos": 6, "e2_text": "took", "e2_pos": 15, "label": "before"}
+]

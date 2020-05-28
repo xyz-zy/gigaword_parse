@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "only", "stayed", "here", "cause", "my", "parents", "were", "curious", "after", "eating", "at", "Baja", "Miguels", "one", "night", "."], "e1_text": "curious", "e1_pos": 8, "e2_text": "eating", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "decided", "to", "go", "bowling", "and", "would", "n't", "you", "know", "it", "there", "is", "a", "tournament", "going", "on", "and", "then", "there", "are", "leagues", "after", "that", ",", "so", "they", "tell", "us", "we", "need", "to", "come", "back", "at", "8:15", "pm", "to", "pick", "up", "a", "ticket", "like", "I", "am", "at", "some", "damn", "deli", "waiting", "for", "meat", "."], "e1_text": "know", "e1_pos": 9, "e2_text": "is", "e2_pos": 12, "label": "after"}
+]

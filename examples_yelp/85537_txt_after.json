@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "n't", "been", "here", "for", "10", "years", "after", "they", "made", "me", "and", "my", "nine", "guests", "wait", "four", "hours", "for", "a", "table", "-LRB-", "yes", "we", "had", "reservations", "-RRB-", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "made", "e2_pos": 10, "label": "after"}
+]

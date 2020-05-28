@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "only", "go", "here", "since", "it", "is", "close", "to", "my", "work", "but", "that", "changed", "after", "the", "2nd", "time", "I", "went", "here", "and", "left", "with", "out", "what", "I", "came", "for", "."], "e1_text": "changed", "e1_pos": 13, "e2_text": "went", "e2_pos": 19, "label": "after"}
+]

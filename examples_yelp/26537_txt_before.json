@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "said", "I", "only", "saw", "him", "once", "and", "that", "was", "before", "I", "started", "chemo", ",", "my", "oncologist", "said", "since", "technically", "I", "DID", "see", "him", "the", "one", "time", "during", "this", "whole", "process", "he", "would", "fax", "him", "my", "latest", "report", "-LRB-", "along", "with", "all", "my", "other", "doctors", "-RRB-", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "started", "e2_pos": 13, "label": "before"}
+]

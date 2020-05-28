@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "snapped", "a", "quick", "photo", "after", "they", "had", "just", "stepped", "away", "which", "does", "n't", "quite", "show", "how", "tight", "it", "was", "but", "it", "will", "give", "you", "an", "idea", "of", "the", "space", "I", "'m", "talking", "about", "."], "e1_text": "snapped", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "was", "in", "a", "huge", "hurry", "after", "having", "to", "wait", "so", "long", "for", "my", "food", "that", "I", "did", "n't", "have", "time", "to", "hunt", "someone", "down", "to", "correct", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

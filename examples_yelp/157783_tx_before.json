@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "kind", "of", "annoying", "thing", "was", "as", "we", "were", "waiting", "for", "our", "last", "round", "before", "heading", "over", "to", "the", "Kohl", "Center", ",", "the", "hostess", "came", "over", "to", "''", "``", "remind", "''", "''", "us", "about", "the", "1", "hr", "."], "e1_text": "waiting", "e1_pos": 10, "e2_text": "heading", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "'s", "a", "great", "option", "if", "you", "'ve", "been", "to", "the", "Gritty", "a", "few", "too", "many", "times", "before", "heading", "over", "to", "the", "hockey", "game", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "heading", "e2_pos": 18, "label": "before"}
+]

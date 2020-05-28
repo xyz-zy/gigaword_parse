@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "normally", "would", "n't", "complain", "but", "I", "was", "hungry", ",", "yet", "had", "someplace", "to", "be", "heading", "to", "before", "they", "closed", "at", "7pm", "and", "there", "was", "only", "a", "1", "top", ",", "two", "2", "top", "and", "a", "4", "top", "between", "two", "chefs", "."], "e1_text": "heading", "e1_pos": 15, "e2_text": "closed", "e2_pos": 19, "label": "before"}
+]

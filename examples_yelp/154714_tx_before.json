@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "for", "about", "10", "minutes", "before", "we", "were", "even", "acknowledged", "by", "the", "bartender", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "before"},
+{"tokens": ["At", "least", "the", "dealers", "smile", "at", "me", "before", "they", "take", "my", "money", "."], "e1_text": "smile", "e1_pos": 4, "e2_text": "take", "e2_pos": 9, "label": "before"}
+]

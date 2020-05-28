@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "right", "before", "they", "closed", "so", "they", "ran", "out", "of", "lemon", ",", "I", "got", "3", "tiny", "pieces", "but", "I", "feel", "like", "that", "'s", "my", "fault", "for", "going", "so", "late", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "closed", "e2_pos": 5, "label": "before"}
+]

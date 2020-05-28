@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "every", "time", "I", "'ve", "come", "before", ",", "I", "'ve", "never", "had", "an", "issue", "with", "the", "number", "of", "people", "I", "brought", "with", "me", ".", "''", "''"], "e1_text": "come", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 4, "label": "before"},
+{"tokens": ["He", "made", "me", "lie", "to", "kick", "it", "-LRB-", "especially", "since", "the", "group", "before", "me", "had", "like", "6", "people", "on", "one", "card", "-RRB-", "."], "e1_text": "kick", "e1_pos": 5, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

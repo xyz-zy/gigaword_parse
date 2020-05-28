@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "the", "women", "at", "the", "cutting", "table", "left", "right", "after", "I", "got", "there", "-LRB-", "there", "were", "five", "of", "us", "in", "line", "then", "-RRB-", "saying", "that", "she", "was", "already", "late", "for", "her", "break", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

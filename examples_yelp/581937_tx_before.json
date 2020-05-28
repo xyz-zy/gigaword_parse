@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "we", "came", "here", "twice", "before", "but", "the", "wait", "was", "more", "than", "an", "hour", "so", "we", "decided", "not", "to", "wait", "...", "Pub", "feeling", ",", "many", "tv", "and", "loud", "!"], "e1_text": "came", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "starters", "were", "very", "good", ",", "unfortunately", "they", "were", "gone", "before", "I", "got", "a", "chance", "to", "take", "a", "picture", "."], "e1_text": "gone", "e1_pos": 9, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

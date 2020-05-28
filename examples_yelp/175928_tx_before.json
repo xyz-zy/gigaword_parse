@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "good", "luck", "trying", "to", "get", "someone", "to", "call", "you", "back", "about", "bottle", "service", "...", "I", "once", "left", "three", "messages", "-LRB-", "each", "48", "hours", "apart", "-RRB-", "to", "try", "to", "find", "out", "before", "I", "got", "a", "call", "back", "."], "e1_text": "find", "e1_pos": 29, "e2_text": "got", "e2_pos": 33, "label": "before"},
+{"tokens": ["Three", "visits", "ago", "-LRB-", "yeah", ",", "stupid", "me", "went", "back", "two", "more", "times", "after", "this", "before", "giving", "up", "-RRB-", "when", "I", "was", "there", ",", "while", "waiting", "in", "the", "VIP", "line", "for", "re-entry", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "giving", "e2_pos": 16, "label": "before"}
+]

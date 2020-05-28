@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "a", "drink", "shortly", "after", "sitting", "down", "-LRB-", "summer", "ale", "-RRB-", "about", "10", "minutes", "go", "by", "when", "she", "comes", "back", "to", "say", "they", "were", "changing", "the", "cag", ",", "okay", "no", "problem", "."], "e1_text": "Ordered", "e1_pos": 0, "e2_text": "sitting", "e2_pos": 5, "label": "after"}
+]

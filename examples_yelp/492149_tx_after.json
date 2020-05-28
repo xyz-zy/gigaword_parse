@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "pretty", "big", "fan", "of", "the", "Buffet", "at", "the", "Wynn", ",", "but", "after", "coming", "here", "last", "year", ".", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "coming", "e2_pos": 15, "label": "after"},
+{"tokens": ["however", ",", "I", "still", "opted", "to", "skip", "it", "after", "seeing", "their", "selection", "."], "e1_text": "skip", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "appetizer", "of", "Town", "Dock", "Calamari", "with", "pickled", "cherry", "peppers", "and", "a", "Lemon", "Caper", "Aioli", "that", "featured", "really", "tasty", "and", "excellent", "strips", "of", "calamari", "arrived", "quickly", "after", "it", "was", "ordered", "."], "e1_text": "arrived", "e1_pos": 24, "e2_text": "was", "e2_pos": 28, "label": "after"},
+{"tokens": ["But", "it", "took", "15", "minutes", "before", "any", "drinks", "arrived", "at", "our", "booth", ",", "and", "slightly", "over", "30", "minutes", "after", "we", "finished", "our", "starter", "before", "any", "ordered", "entrees", "were", "placed", "before", "us", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "finished", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "also", "saw", "a", "couple", "that", "arrived", "after", "us", "receive", "their", "entrees", "first", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "receive", "e2_pos": 9, "label": "after"}
+]

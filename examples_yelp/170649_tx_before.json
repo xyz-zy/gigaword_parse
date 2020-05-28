@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "go", "to", "the", "check", "in", "counter", "THREE", "TIMES", "before", "finding", "my", "room", "because", "the", "incompetent", "staff", "had", "given", "me", "completely", "WRONG", "directions", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "finding", "e2_pos": 12, "label": "before"}
+]

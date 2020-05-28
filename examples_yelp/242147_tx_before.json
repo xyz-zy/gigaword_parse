@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "another", "time", "and", "just", "had", "to", "get", "something", "from", "the", "customer", "service", "counter", "and", "waited", "7", "to", "10", "minutes", "before", "I", "asked", "if", "anyone", "was", "working", "the", "counter", "and", "they", "finally", "sent", "someone", "my", "way", "about", "another", "5", "minutes", "later", "."], "e1_text": "waited", "e1_pos": 15, "e2_text": "asked", "e2_pos": 22, "label": "before"}
+]

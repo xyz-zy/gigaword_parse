@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "waiter", "finally", "came", "after", "chatting", "with", "the", "bartender", "I", "said", "could", "we", "please", "have", "some", "butter", ",", "I", "think", "the", "oil", "was", "rancid", ",", "he", "said", "of", "course", ",", "brought", "some", "butter", "and", "left", "the", "oil", "on", "the", "table", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "chatting", "e2_pos": 6, "label": "after"}
+]

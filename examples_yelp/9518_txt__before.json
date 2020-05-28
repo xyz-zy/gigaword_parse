@@ -1,0 +1,3 @@
+[
+{"tokens": ["let", "me", "tell", "you", "it", "was", "just", "a", "plate", "with", "dry", "ribs", ",", "hard", "-LRB-", "some", "rotten", "like", "-RRB-", "french", "fries", "and", "no", "slaw", "i", "had", "to", "ask", "for", "it", "-LRB-", "it", "came", "w\\/plate", "-RRB-", ",15", "minutes", "pass", "before", "a", "got", "my", "slaw", "."], "e1_text": "pass", "e1_pos": 37, "e2_text": "got", "e2_pos": 40, "label": "before"}
+]

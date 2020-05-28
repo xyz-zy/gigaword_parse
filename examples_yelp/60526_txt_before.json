@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "man", "on", "the", "phone", "said", "he", "remembered", "me", "and", "said", "that", "my", "car", "was", "leaking", "and", "my", "oil", "pressure", "sensor", "was", "out", "...", "umm", "why", "did", "n't", "they", "tell", "me", "this", "initially", "before", "letting", "me", "drive", "off", "&", "even", "after", "I", "called", "the", "first", "day", "they", "never", "told", "me", "this", "????", "SO", "I", "knew", "something", "was", "up", "."], "e1_text": "tell", "e1_pos": 29, "e2_text": "letting", "e2_pos": 34, "label": "before"}
+]

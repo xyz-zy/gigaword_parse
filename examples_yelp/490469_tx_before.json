@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "5", "or", "6", "times", "of", "trying", "before", "someone", "answered", "."], "e1_text": "trying", "e1_pos": 7, "e2_text": "answered", "e2_pos": 10, "label": "before"},
+{"tokens": ["Im", "moving", "back", "home", "in", "two", "weeks", "so", "Im", "sad", "that", "Joey", "wont", "be", "able", "to", "cut", "my", "hair", "anymore", "but", "I", "may", "just", "have", "to", "schedule", "an", "apointment", "for", "before", "I", "leave", "or", "next", "time", "im", "back", "in", "town", "."], "e1_text": "schedule", "e1_pos": 26, "e2_text": "leave", "e2_pos": 32, "label": "before"}
+]

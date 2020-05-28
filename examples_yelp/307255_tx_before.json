@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "find", "it", "odd", "that", "the", "other", "couple", "received", "their", "food", "before", "my", "wife", "and", "I.", "The", "quality", "of", "meat", "in", "my", "soup", "was", "questionable", "-LRB-", "color", "of", "the", "meat", "not", "what", "I", "have", "experienced", "before", ".", "."], "e1_text": "received", "e1_pos": 8, "e2_text": "was", "e2_pos": 23, "label": "before"}
+]

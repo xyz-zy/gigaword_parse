@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "difficult", "to", "tell", "where", "we", "needed", "to", "pull", "up", ",", "and", "then", "we", "waited", "a", "significant", "amount", "of", "time", "before", "finally", "being", "greeted", "by", "the", "valet", "."], "e1_text": "waited", "e1_pos": 15, "e2_text": "being", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "valet", "himself", "was", "curt", "and", "unfriendly", ",", "and", "when", "we", "returned", "at", "the", "end", "of", "the", "night", "we", "once", "again", "had", "to", "wait", "an", "interminable", "amount", "of", "time", "before", "we", "were", "finally", "able", "to", "get", "our", "car", "."], "e1_text": "had", "e1_pos": 21, "e2_text": "were", "e2_pos": 31, "label": "before"}
+]

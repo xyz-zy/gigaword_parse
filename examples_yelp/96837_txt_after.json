@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "computer", "would", "not", "start", "up", "again", "today", ",", "after", "many", "tries", "-", "3hrs", "worth", "of", "tries", "-", "so", "had", "to", "go", "shopping", "for", "new", "computer", "."], "e1_text": "start", "e1_pos": 4, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

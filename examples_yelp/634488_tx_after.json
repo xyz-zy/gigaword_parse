@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "very", "strong", "opinions", "about", "cupcakes", ",", "and", "I", "was", "prepared", "to", "tear", "this", "place", "apart", "after", "pretty", "much", "everyone", "I", "know", "was", "proclaiming", "it", "to", "be", "THE", "BEST", "."], "e1_text": "tear", "e1_pos": 13, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "was", "glad", "to", "see", "we", "were", "the", "only", "people", "in", "line", ",", "especially", "after", "I", "had", "heard", "how", "crowded", "it", "can", "get", "in", "the", "evenings", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

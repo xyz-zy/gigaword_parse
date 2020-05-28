@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "the", "main", "course", ",", "the", "chicken", "curry", "was", "spicy", ",", "but", "not", "in", "a", "pleasant", "way", ",", "just", "a", "slow", "after", "burn", "from", "the", "long", "red", "peppers", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "burn", "e2_pos": 22, "label": "after"}
+]

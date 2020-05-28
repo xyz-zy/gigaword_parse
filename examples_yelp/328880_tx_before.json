@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "the", "only", "person", "in", "the", "store", "at", "that", "time", "!!", "A", "customer", "did", "check", "out", "while", "my", "yarn", "was", "being", "rolled", "and", "they", "rolled", "her", "single", "skein", "before", "completing", "my", "order", "."], "e1_text": "rolled", "e1_pos": 25, "e2_text": "completing", "e2_pos": 30, "label": "before"}
+]

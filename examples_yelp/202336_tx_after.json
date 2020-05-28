@@ -1,0 +1,3 @@
+[
+{"tokens": ["Given", "the", "significant", "wait", "time", "and", "nothing", "being", "done", "after", "serving", "our", "food", "-LRB-", "no", "discount", "or", "apologies", "-RRB-", ",", "I", "can", "only", "give", "them", "2", "stars", "."], "e1_text": "done", "e1_pos": 8, "e2_text": "serving", "e2_pos": 10, "label": "after"}
+]

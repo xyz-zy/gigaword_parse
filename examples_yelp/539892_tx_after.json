@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "actually", "locked", "the", "door", "after", "yelling", "at", "me", "to", "go", "."], "e1_text": "locked", "e1_pos": 2, "e2_text": "yelling", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "bought", "a", "groupon", "but", "I", "do", "n't", "know", "if", "I", "will", "continue", "after", "the", "groupon", "is", "over", "because", "I", "do", "not", "want", "take", "a", "class", "with", "the", "nasty", "lady", "."], "e1_text": "continue", "e1_pos": 12, "e2_text": "is", "e2_pos": 16, "label": "after"}
+]

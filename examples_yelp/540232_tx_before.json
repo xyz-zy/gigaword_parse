@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "just", "wondering", "if", "I", "was", "going", "to", "make", "it", "to", "Cure", "before", "I", "move", "out", "of", "the", "city", ",", "since", "it", "'s", "been", "on", "my", "to-eat", "list", "for", "ages", "."], "e1_text": "Cure", "e1_pos": 12, "e2_text": "move", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "had", "never", "had", "lardo", "before", "but", "it", "'s", "basically", "just", "an", "excuse", "to", "smear", "animal", "fat", "on", "crostini", "and", "still", "be", "able", "to", "act", "like", "you", "'re", "a", "total", "foodie", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "'s", "e2_pos": 8, "label": "before"}
+]

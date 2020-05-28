@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "all", "started", "to", "slide", "downhill", "about", "three", "days", "after", "I", "purchased", "my", "Fatbike", ",", "when", "I", "realized", "I", "needed", "fenders", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "purchased", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "mechanic", "said", "that", "the", "bike", "was", "n't", "meant", "to", "be", "subject", "to", "such", "harsh", "conditions", ",", "and", "that", "it", "should", "have", "had", "the", "bottom", "bracket", "cleaned", "and", "re-lubricated", "after", "riding", "through", "snow", "or", "water", "."], "e1_text": "cleaned", "e1_pos": 26, "e2_text": "riding", "e2_pos": 30, "label": "after"}
+]

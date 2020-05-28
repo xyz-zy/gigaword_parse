@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "with", "some", "friends", "to", "celebrate", "a", "birthday", "after", "we", "'d", "seen", "the", "restaurant", "highlighted", "in", "the", "restaurant", "edition", "of", "Desert", "Companion", "."], "e1_text": "celebrate", "e1_pos": 7, "e2_text": "'d", "e2_pos": 12, "label": "after"},
+{"tokens": ["Service", "went", "down", "after", "the", "place", "got", "packed", ",", "but", "I", "ca", "n't", "fault", "the", "waiter", "because", "he", "was", "holding", "the", "fort", "down", "pretty", "much", "by", "himself", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "after"}
+]

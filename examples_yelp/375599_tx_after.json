@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "problem", "came", "10", "minutes", "after", "we", "checked", "out", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "checked", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "asked", "to", "talk", "to", "a", "manager", ",", "his", "name", "is", "Ryan", "Gregory", ",", "after", "I", "explained", "to", "whole", "thing", "to", "him", "and", "how", "frustrated", "I", "was", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "explained", "e2_pos": 16, "label": "after"},
+{"tokens": ["He", "said", "we", "can", "not", "do", "anything", "and", "right", "after", "that", "he", "asked", "smiling", "is", "there", "anything", "else", "he", "can", "do", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "asked", "e2_pos": 12, "label": "after"}
+]

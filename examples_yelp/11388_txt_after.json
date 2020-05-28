@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "drove", "from", "Chicago", "to", "Madison", "to", "meet", "with", "Terri", "regarding", "flowers", "for", "our", "wedding", ",", "after", "confirming", "our", "appointment", "time", "and", "location", "via", "e-mail", "."], "e1_text": "meet", "e1_pos": 7, "e2_text": "confirming", "e2_pos": 17, "label": "after"}
+]

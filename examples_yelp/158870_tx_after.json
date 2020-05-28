@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "give", "it", "a", "higher", "rating", "but", "the", "food", "was", "only", "good", "-LRB-", "maybe", "it", "was", "our", "food", "choice", "-RRB-", "and", "they", "put", "mayo", "on", "the", "sandwich", "after", "I", "asked", "for", "it", "to", "be", "on", "the", "side", "."], "e1_text": "put", "e1_pos": 23, "e2_text": "asked", "e2_pos": 30, "label": "after"}
+]

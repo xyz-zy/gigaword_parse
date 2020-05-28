@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "never", "in", "a", "million", "years", "bring", "my", "nephew", "or", "any", "child", "into", "this", "store", "after", "seeing", "the", "array", "of", "toys", "scattered", "about", "."], "e1_text": "bring", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "owner", "was", "the", "only", "one", "there", "and", "told", "me", "herself", "after", "she", "more", "then", "once", "told", "me", "the", "business", "was", "her", "''", "``", "baby", "and", "livelihood", "''", "''", "and", "said", "repeatedly", "how", "she", "was", "trying", "her", "best", "to", "juggle", "running", "the", "cash", "register\\/store", "while", "watch", "her", "own", "4", "children", "along", "with", "a", "drop", "in", "child", "she", "had", "from", "a", "customer", "."], "e1_text": "told", "e1_pos": 8, "e2_text": "told", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Let", "me", "begin", "by", "saying", "that", "we", "literally", "looked", "at", "the", "menu", "for", "20", "minutes", "after", "ordering", "an", "appetizer", "-LRB-", "onion", "rings", "!", "-RRB-", ".", "."], "e1_text": "looked", "e1_pos": 8, "e2_text": "ordering", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "should", "also", "mentioned", "that", "after", "I", "finally", "decided", "what", "I", "wanted", ",", "Bobby", "brought", "up", "that", "there", "was", "still", "a", "back", "side", "to", "the", "menu", "."], "e1_text": "mentioned", "e1_pos": 3, "e2_text": "decided", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "stopped", "after", "5", "&", "I", "'m", "surprised", "I", "made", "it", "that", "far", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "'m", "e2_pos": 6, "label": "after"}
+]

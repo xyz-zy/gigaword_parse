@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "on", "the", "Mediterranean", "chop", "with", "chicken", "shawerma", "as", "the", "protein", "before", "I", "even", "got", "to", "the", "front", "counter", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["As", "soon", "as", "I", "asked", "for", "it", ",", "the", "guy", "had", "to", "look", "at", "the", "menu", "before", "he", "started", "making", "it", "."], "e1_text": "look", "e1_pos": 12, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Red", "Flag", "#", "1", ":", "I", "'ve", "never", "had", "a", "call", "from", "a", "second", "agent", "EVER", "after", "I", "bought", "an", "insurance", "policy", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "bought", "e2_pos": 18, "label": "after"}
+]

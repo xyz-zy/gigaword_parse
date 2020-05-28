@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "is", "super", "anal", "so", "he", "actually", "cleaned", "the", "carpet", "using", "those", "vacuums", "that", "cleans", "your", "carpet", "stains", "from", "pets", "and", "others", "-LRB-", "borrowed", "from", "my", "parents", "-RRB-", "so", "it", "'s", "even", "extra", "clean", "the", "week", "before", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "'s", "e2_pos": 31, "label": "before"},
+{"tokens": ["The", "carpet", "looks", "exact", "the", "same", "as", "it", "was", "before", "except", "it", "has", "those", "triangular", "pattern", "you", "see", "on", "the", "pictures", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "has", "e2_pos": 12, "label": "before"}
+]

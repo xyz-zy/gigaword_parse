@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", ",", "to", "start", "our", "three", "glasses", "of", "wine", "ordered", "before", "even", "placing", "dinner", "orders", "came", "AFTER", "dinner", "was", "served", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "placing", "e2_pos": 12, "label": "before"}
+]

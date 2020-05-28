@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "drove", "6", "hours", "arriving", "at", "10", "am", "and", "were", "able", "to", "check", "in", "and", "rest", "before", "beginning", "our", "day", "in", "Charlotte", "."], "e1_text": "rest", "e1_pos": 15, "e2_text": "beginning", "e2_pos": 17, "label": "before"}
+]

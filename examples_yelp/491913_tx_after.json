@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "n't", "tell", "you", "that", "you", "have", "to", "wait", "in", "a", "massive", "line", "after", "you", "pay", ",", "the", "food", "is", "just", "okay", "and", "the", "service", ",", "while", "nice", ",", "is", "slow", "as", "shit", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "pay", "e2_pos": 16, "label": "after"}
+]

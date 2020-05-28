@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "Difficult", "to", "find", "-", "Friendly", "greeting", "but", "had", "to", "fill", "out", "too", "much", "information", "-", "Had", "to", "get", "a", "parking", "pass", "at", "another", "desk", "even", "after", "I", "gave", "car", "details", "at", "desk", "#", "1", ".", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "gave", "e2_pos": 28, "label": "after"},
+{"tokens": ["There", "were", "actually", "many", "options", "down", "the", "street", "so", "that", "'s", "just", "poor", "messaging", ",", "but", "really", "no", "food", "service", "after", "7", "!?", "that", "is", "too", "early", "or", "a", "resort", "to", "stop", "feeding", "you", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "is", "e2_pos": 24, "label": "after"}
+]

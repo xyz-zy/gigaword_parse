@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "known", "we", "were", "in", "trouble", "when", "we", "drove", "onto", "the", "lot", "and", "before", "we", "even", "parked", "the", "car", "and", "a", "vulture", "...", "er", ",", "I", "mean", "''", "``", "Salesmen", "''", "''", "was", "circling", "us", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "parked", "e2_pos": 18, "label": "before"},
+{"tokens": ["And", "who", "asks", "to", "run", "a", "credit", "check", "before", "you", "have", "even", "told", "him", "what", "you", "are", "looking", "for", "?"], "e1_text": "run", "e1_pos": 4, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

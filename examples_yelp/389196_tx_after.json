@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "did", ",", "after", "searching", "thru", "a", "mostly", "empty", "dining", "room", "for", "a", "clean", "table", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "searching", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "manager", "did", "do", "a", "drive-by", "a", "few", "minutes", "after", "we", "got", "our", "drinks", "but", "before", "our", "food", "arrived", "--", "how", "can", "I", "answer", "''", "``", "how", "'s", "everything", "guys", "?", "''", "''"], "e1_text": "do", "e1_pos": 3, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["Neither", "did", "the", "server", ",", "although", "she", "did", "drop", "off", "the", "check", "about", "three", "minutes", "after", "the", "food", "--", "that", "'s", "when", "DH", "was", "able", "to", "ask", "for", "the", "mayo", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "'s", "e2_pos": 20, "label": "after"}
+]

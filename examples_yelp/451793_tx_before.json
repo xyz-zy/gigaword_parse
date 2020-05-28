@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "wise", "I", "'ve", "only", "tried", "the", "Turkey", "and", "Brie", ",", "and", "that", "was", "before", "their", "menu", "changed", "so", "it", "might", "be", "different", "now", ",", "but", "it", "was", "really", "good", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "changed", "e2_pos": 17, "label": "before"}
+]

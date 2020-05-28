@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Sign", "up", "for", "the", "mailing", "list", "before", "you", "book", "a", "room", "!", "-RRB-"], "e1_text": "Sign", "e1_pos": 1, "e2_text": "book", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "'m", "trying", "to", "get", "a", "hold", "of", "Sandra", "-LRB-", "hotel", "manager", "of", "the", "century", "-RRB-", "the", "customer", "service", "attendant", "states", "that", "I", "could", "not", "be", "issued", "a", "new", "room", "since", "it", "was", "after", "five", "-LRB-", "we", "checked", "in", "around", "5:30", "pm", "-RRB-", "and", "that", "I", "the", "manager", "had", "already", "offered", "to", "change", "my", "room", "which", "I", "declined", "-LRB-", "bold", "face", "lie", "left", "in", "the", "notes", "-RRB-", "."], "e1_text": "was", "e1_pos": 33, "e2_text": "checked", "e2_pos": 38, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "mind", "having", "to", "wait", "for", "a", "table", "and", "at", "that", "time", ",", "a", "bunch", "of", "other", "tables", "opened", "up", "minutes", "after", "we", "were", "seated", "."], "e1_text": "opened", "e1_pos": 20, "e2_text": "were", "e2_pos": 25, "label": "after"},
+{"tokens": ["And", "we", "were", "n't", "always", "asked", "if", "we", "were", "finished", "when", "plates", "were", "cleared", "so", "it", "was", "laughable", "that", "we", "were", "asked", "if", "we", "wanted", "more", "bread", "only", "to", "have", "2", "small", "ovals", "of", "pretzel", "bread", "brought", "to", "the", "table", "after", "our", "plates", "were", "gone", "."], "e1_text": "brought", "e1_pos": 36, "e2_text": "were", "e2_pos": 2, "label": "after"}
+]

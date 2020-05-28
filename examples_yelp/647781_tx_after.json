@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "bought", "a", "month", "pass", "via", "Groupon", "and", "just", "after", "redeeming", "my", "first", "day", ",", "I", "realized", "''", "``", "DAMN", "!", "''", "''"], "e1_text": "bought", "e1_pos": 1, "e2_text": "redeeming", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "will", "continue", "to", "come", "here", "even", "after", "my", "month", "expires", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "expires", "e2_pos": 10, "label": "after"}
+]

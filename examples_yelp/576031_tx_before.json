@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "order", "my", "order", "w", "\\/", "the", "cash", "register", "guy", "4", "times", "before", "he", "repeated", "it", ",", "then", "the", "guy", "making", "the", "hotdogs", "still", "got", "it", "wrong", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "repeated", "e2_pos": 16, "label": "before"}
+]

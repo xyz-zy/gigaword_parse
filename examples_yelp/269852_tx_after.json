@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "mattress", "was", "thin", ",", "uncomfortable", "and", "unappealing", ",", "even", "after", "several", "drinks", "...", "ask", "my", "roommate", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "ask", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "took", "a", "shower", "right", "after", "I", "settled", "in", "just", "to", "test", "it", "out", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "settled", "e2_pos": 7, "label": "after"}
+]

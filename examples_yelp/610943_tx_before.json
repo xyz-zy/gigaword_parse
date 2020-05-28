@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "fab", "-LRB-", "she", "had", "my", "Diet", "Coke", "replaced", "before", "I", "was", "halfway", "through", "-RRB-", ",", "the", "pizza", "was", "good", "-LRB-", "the", "crust", "was", "a", "little", "salty", "-", "we", "had", "the", "Margherita", "-RRB-", ",", "and", "it", "was", "very", "conveniently", "located", "inside", "our", "hotel", "."], "e1_text": "replaced", "e1_pos": 10, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

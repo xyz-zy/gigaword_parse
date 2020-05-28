@@ -1,0 +1,3 @@
+[
+{"tokens": ["Location", "faces", "west", "-LRB-", "faces", "Hayden", "Rd.", "right", "before", "it", "reaches", "Frank", "Lloyd", "Wright", "-RRB-", "."], "e1_text": "faces", "e1_pos": 1, "e2_text": "reaches", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["More", "or", "less", "someone", "who", "handled", "our", "food", "did", "not", "wash", "their", "hands", "after", "using", "the", "toilet", "."], "e1_text": "wash", "e1_pos": 10, "e2_text": "using", "e2_pos": 14, "label": "after"},
+{"tokens": ["He", "eluded", "to", "the", "fact", "that", "most", "establishments", "when", "notified", "of", "potential", "contamination", "with", "their", "food", "would", "do", "a", "thorough", "cleaning", "prior", "to", "his", "arrival", "which", "was", "2-3", "days", "after", "we", "reported", "the", "issue", "to", "the", "manager", "."], "e1_text": "was", "e1_pos": 26, "e2_text": "reported", "e2_pos": 31, "label": "after"}
+]

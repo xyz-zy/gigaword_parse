@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "waiter", "promptly", "brought", "us", "our", "drinks", "after", "sitting", "-LRB-", "coffee", "-RRB-", "."], "e1_text": "brought", "e1_pos": 3, "e2_text": "sitting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Sitting", "next", "to", "the", "open", "air", "kitchen", ",", "we", "watched", "at", "least", "6", "party", "'s", "seated", "after", "us", "receive", "their", "food", "before", "us", "."], "e1_text": "seated", "e1_pos": 15, "e2_text": "receive", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "eventually", "received", "coffee", "refills", "after", "throwing", "dirty", "looks", "at", "the", "young", "waitress", "who", "brags", "about", "also", "working", "at", "the", "Hard", "Rock", "steakhouse", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "throwing", "e2_pos": 6, "label": "after"}
+]

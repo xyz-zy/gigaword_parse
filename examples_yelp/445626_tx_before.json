@@ -1,0 +1,4 @@
+[
+{"tokens": ["Shuttle", "then", "waited", "an", "extra", "20", "min", "before", "it", "filled", "up", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "filled", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "ended", "up", "waiting", "a", "full", "hour", "before", "we", "actually", "left", "for", "our", "hotel", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

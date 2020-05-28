@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "meal", "also", "came", "with", "a", "caesar", "salad", ",", "which", "was", "served", "to", "me", "before", "I", "received", "the", "main", "entree", "."], "e1_text": "served", "e1_pos": 11, "e2_text": "received", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "drink", "menu", "is", "huge", ",", "but", "due", "to", "a", "long", "night", "of", "drinking", "the", "night", "before", ",", "water", "is", "all", "we", "wanted", "that", "night", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "is", "e2_pos": 3, "label": "before"}
+]

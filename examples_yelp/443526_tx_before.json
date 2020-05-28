@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "say", "this", "because", "there", "were", "several", "times", "that", "I", "saw", "our", "rolls", "sitting", "and", "waiting", "to", "be", "delivered", "for", "quite", "some", "time", "before", "she", "brought", "it", "over", "."], "e1_text": "delivered", "e1_pos": 18, "e2_text": "brought", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "amaebi", "nigiri", "that", "I", "ordered", "was", "sitting", "on", "the", "counter", "for", "so", "long", "before", "I", "got", "it", "that", "the", "heads", "were", "completely", "cold", "and", "soggy", "."], "e1_text": "sitting", "e1_pos": 7, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

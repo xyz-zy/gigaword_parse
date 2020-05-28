@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "in", "before", "I", "came", "in", "to", "check", "on", "pricing", "on", "alterations", "and", "the", "girl", "told", "me", "$", "6-7", "over", "the", "phone", "and", "so", "I", "was", "reluctant", "to", "bring", "my", "pants", "in", "right", "away", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "came", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "would", "have", "been", "one", "thing", "to", "understand", "that", "the", "customer", "was", "obviously", "misinformed", "bc", "I", "was", "surprised", "on", "the", "price", "and", "even", "explained", "to", "them", "what", "I", "was", "told", "by", "the", "other", "employee", ",", "but", "they", "had", "poor", "customer", "service", "by", "automatically", "telling", "me", "the", "manager", "would", "still", "make", "me", "pay", "before", "even", "trying", "anything", "."], "e1_text": "pay", "e1_pos": 51, "e2_text": "trying", "e2_pos": 54, "label": "before"}
+]

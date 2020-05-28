@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "YES", ",", "i", "have", "become", "a", "wine", "snob", "after", "having", "lots", "of", "great", "wines", ",", "there", "is", "a", "HUGE", "difference", "when", "it", "is", "slightly", "chilled", "and", "decanted", "-RRB-", "Dinner", ",", "I", "ordered", "the", "Chilean", "Sea", "Bass", "-LRB-", "$", "32", "-RRB-", "and", "hubby", "had", "the", "New", "York", "Strip", "-LRB-", "$", "I", "think", "$", "30", "something", "-RRB-", "along", "with", "a", "side", "that", "was", "a", "mix", "of", "quinoa", ",", "corn", ",", "green", "beans", "and", "much", "to", "my", "distaste-goat", "cheese", "."], "e1_text": "become", "e1_pos": 5, "e2_text": "having", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "bamboo", "was", "my", "favorite", "and", "found", "my", "fish", "tasty", "after", "seasoning", "it", "."], "e1_text": "found", "e1_pos": 6, "e2_text": "seasoning", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "have", "tried", "their", "omelets", "before", "which", "are", "decent", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "are", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "fajita", "crepes", "are", "pretty", "good", ",", "but", "the", "potato", "pancakes", "are", "not", "quite", "the", "way", "we", "'ve", "had", "them", "before", "."], "e1_text": "are", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 17, "label": "before"},
+{"tokens": ["Good", "thing", "my", "boyfriend", "has", "a", "habit", "of", "checking", "my", "Yelp", "reviews", "before", "we", "go", "to", "a", "place", "to", "see", "what", "we", "like", "and", "what", "we", "do", "n't", ",", "so", "now", "that", "I", "have", "mentioned", "that", ",", "hopefully", "I", "wo", "n't", "be", "ordering", "any", "more", "coffee", "here", "."], "e1_text": "checking", "e1_pos": 8, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

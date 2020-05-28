@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "thought", "this", "through", "for", "over", "3", "months", "before", "coming", "to", "this", "decision", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "coming", "e2_pos": 9, "label": "before"},
+{"tokens": ["Not", "like", "the", "other", "woman", "who", "said", "she", "would", "let", "her", "children", "go", "hungry", "before", "giving", "her", "animal", "away", ",", "and", "that", "we", "were", "terrible", "for", "not", "doing", "the", "same", "...", "This", "place", "really", "needs", "to", "work", "on", "their", "customer", "service", "skills", ",", "and", "if", "they", "do", "n't", "want", "their", "adopted", "animals", "returned", ",", "''", "``", "no", "questions", "asked", "''", "''", ",", "then", "do", "n't", "put", "that", "on", "your", "adoption", "forms", "!!!!"], "e1_text": "go", "e1_pos": 12, "e2_text": "giving", "e2_pos": 15, "label": "before"}
+]

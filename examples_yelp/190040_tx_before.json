@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "at", "a", "table", "and", "watched", "a", "booth", "next", "to", "where", "we", "were", "seated", "turn", "over", "twice", "before", "we", "even", "received", "our", "bill", "."], "e1_text": "turn", "e1_pos": 15, "e2_text": "received", "e2_pos": 21, "label": "before"}
+]

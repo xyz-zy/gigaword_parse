@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "to", "find", "out", "that", "the", "store", "closes", "at", "900pm", "and", "after", "that", "they", "are", "still", "''", "``", "open", "''", "''", "but", "it", "'s", "only", "a", "window", "with", "a", "slot", "where", "you", "can", "pawn", "items", "."], "e1_text": "find", "e1_pos": 3, "e2_text": "are", "e2_pos": 15, "label": "after"}
+]

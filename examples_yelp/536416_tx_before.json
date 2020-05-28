@@ -1,0 +1,4 @@
+[
+{"tokens": ["http:\\/\\/www.yelp.com\\/biz_photos\\/soul-cafe-scottsdale?select=L34DPTxzCgE3Z8OYDy2Kaw#L34DPTxzCgE3Z8OYDy2Kaw", "The", "green", "chili", "pork", "topper", "blew", "the", "sausage", "gravy", "away", ",", "so", "I", "suggest", "you", "try", "the", "pork", "gravy", "first", "before", "moving", "onto", "the", "chili", "pork", "."], "e1_text": "try", "e1_pos": 16, "e2_text": "moving", "e2_pos": 22, "label": "before"},
+{"tokens": ["It", "was", "an", "hour", "before", "my", "cup", "of", "coffee", "was", "refilled", ",", "and", "that", "was", "after", "I", "requested", "for", "one", "and", "had", "to", "wait", "another", "ten", "minutes", "for", "Crystal", "to", "do", "so", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

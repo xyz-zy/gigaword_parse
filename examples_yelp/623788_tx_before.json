@@ -1,0 +1,3 @@
+[
+{"tokens": ["Whenever", "I", "tried", "one", "flavor", ",", "she", "stuck", "her", "hand", "inside", "the", "bucket", "bare", "hands", "and", "all", ",", "no", "gloves", ",", "no", "scooper", "and", "grabbed", "a", "few", "pieces", "and", "ate", "it", "while", "I", "ate", "my", "sample", "and", "when", "I", "asked", "her", "questions", "she", "had", "food", "in", "her", "mouth", ",", "I", "almost", "felt", "like", "I", "had", "to", "wait", "for", "her", "to", "finish", "chewing", "and", "swallowing", "before", "asking", "for", "another", "sample", "."], "e1_text": "swallowing", "e1_pos": 63, "e2_text": "asking", "e2_pos": 65, "label": "before"}
+]

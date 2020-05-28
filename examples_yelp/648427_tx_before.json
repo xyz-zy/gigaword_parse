@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", ",", "the", "chicken", "was", "cold", ",", "tasteless", ",", "and", "was", "hard", "like", "it", "had", "been", "cooked", "for", "quite", "a", "while", "before", "we", "ordered", "it", "."], "e1_text": "cooked", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 24, "label": "before"}
+]

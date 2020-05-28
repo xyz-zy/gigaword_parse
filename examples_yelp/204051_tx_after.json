@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "I", "signed", "the", "contract", ",", "but", "really", ",", "charging", "me", "an", "annual", "fee", "2", "days", "after", "I", "cancel", "seems", "a", "little", "ridiculous", "!"], "e1_text": "charging", "e1_pos": 11, "e2_text": "cancel", "e2_pos": 20, "label": "after"}
+]

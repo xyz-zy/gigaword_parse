@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "get", "you", "in", "right", "away", ",", "but", "every", "time", "I", "went", "for", "a", "rotation", "it", "was", "90", "minutes", "-LRB-", "even", "after", "they", "said", "about", "45", "to", "an", "hour", "-RRB-", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "said", "e2_pos": 24, "label": "after"},
+{"tokens": ["They", "did", "n't", "try", "to", "win", "me", "over", ",", "even", "after", "expressing", "my", "concerns", "to", "the", "store", "owner", "via", "email", "."], "e1_text": "win", "e1_pos": 5, "e2_text": "expressing", "e2_pos": 11, "label": "after"}
+]

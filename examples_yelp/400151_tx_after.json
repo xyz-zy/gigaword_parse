@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "have", "to", "say", ",", "after", "my", "first", "visit", "here", "I", "'m", "not", "dying", "to", "come", "back", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "'m", "e2_pos": 12, "label": "after"},
+{"tokens": ["Unfortunately", ",", "the", "service", "did", "absolutely", "nothing", "to", "improve", "my", "opinion", "of", "the", "place", ";", "I", "watched", "three", "tables", "that", "arrived", "after", "us", "get", "service", "."], "e1_text": "arrived", "e1_pos": 20, "e2_text": "get", "e2_pos": 23, "label": "after"}
+]

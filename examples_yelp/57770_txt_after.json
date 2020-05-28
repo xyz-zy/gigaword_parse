@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "after", "I", "got", "yelled", "at", "by", "the", "clerk", "because", "it", "was", "''", "``", "my", "doctor", "that", "was", "n't", "calling", "back", "''", "''", "WHEN", "THEY", "NEVER", "CALLED", "HIM", "!"], "e1_text": "is", "e1_pos": 1, "e2_text": "got", "e2_pos": 4, "label": "after"}
+]

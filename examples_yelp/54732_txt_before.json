@@ -1,0 +1,4 @@
+[
+{"tokens": ["Same", "as", "before", ",", "it", "took", "forever", "for", "the", "girl", "at", "the", "cash", "register", "to", "ring", "us", "up", ",", "she", "forgot", "both", "of", "the", "food", "items", "we", "ordered", "."], "e1_text": "Same", "e1_pos": 0, "e2_text": "took", "e2_pos": 5, "label": "before"},
+{"tokens": ["5", "other", "customers", "received", "their", "drinks", "before", "he", "did", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "did", "e2_pos": 8, "label": "before"}
+]

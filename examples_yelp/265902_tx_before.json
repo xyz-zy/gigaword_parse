@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "funny", "I", "called", "it", "out", "to", "myself", "that", "my", "order", "was", "going", "to", "be", "messed", "up", "because", "the", "person", "taking", "my", "order", "was", "laughing", "before", "she", "said", "welcome", "to", "jack", "in", "the", "box", "would", "you", "like", "to", "try", "the", "breakfast", "burrito", ".", "."], "e1_text": "laughing", "e1_pos": 25, "e2_text": "said", "e2_pos": 28, "label": "before"},
+{"tokens": ["Just", "make", "sure", "you", "check", "what", "'s", "in", "your", "bag", "before", "you", "go", "home", "!!!!!"], "e1_text": "'s", "e1_pos": 6, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

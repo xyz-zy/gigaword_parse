@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "tried", "to", "call", "down", "to", "valet", "parking", "from", "our", "room", "to", "have", "our", "car", "pulled", "around", "before", "we", "get", "downstairs", "and", "there", "'s", "never", "anyone", "monitoring", "the", "phone", "lines", "in", "the", "valet", "office", "."], "e1_text": "pulled", "e1_pos": 15, "e2_text": "get", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "remember", "before", "they", "remodeled", "&", "expanded", "."], "e1_text": "remember", "e1_pos": 1, "e2_text": "remodeled", "e2_pos": 4, "label": "before"},
+{"tokens": ["But", "hopefully", "it", "'s", "not", "an", "emergency", "because", "you", "will", "probably", "wet", "yourself", "before", "someone", "pays", "attention", "to", "you", "standing", "in", "front", "of", "the", "desk", "."], "e1_text": "wet", "e1_pos": 11, "e2_text": "pays", "e2_pos": 15, "label": "before"}
+]

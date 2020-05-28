@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "probably", "waited", "about", "30", "minutes", "or", "so", "after", "we", "were", "sat", "down", "until", "the", "owner\\/manager", "came", "over", "to", "our", "table", "and", "told", "us", "that", "if", "we", "did", "n't", "order", "now", "he", "was", "going", "to", "kick", "us", "out", "of", "his", "restaurant", "since", "other", "people", "were", "waiting", "!!!!", "Keep", "in", "mind", "that", "our", "waiter", "had", "n't", "even", "been", "by", "our", "table", "!"], "e1_text": "waited", "e1_pos": 2, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

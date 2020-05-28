@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", ",", "it", "was", "n't", "their", "fault", "I", "went", "to", "the", "wrong", "location", "but", "they", "should", "have", "checked", "before", "the", "massage", "instead", "of", "waiting", "until", "after", "."], "e1_text": "checked", "e1_pos": 17, "e2_text": "waiting", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "Cancellation", "call", "was", "26", "minutes", "after", "receiving", "an", "email", "confirmation", "to", "that", "same", "appointment", "no", "less", "-RRB-", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "receiving", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "pregnant", "wife", "tells", "me", "they", "gave", "her", "a", "local", "anesthetic", "she", "'s", "not", "supposed", "to", "receive", ",", "after", "she", "specifically", "instructed", "them", "not", "to", "give", "her", "this", "and", "a", "few", "other", "specific", "meds", "-LRB-", "she", "gave", "them", "a", "pamphlet", "of", "what", "to", "avoid", "-RRB-", "."], "e1_text": "supposed", "e1_pos": 14, "e2_text": "instructed", "e2_pos": 21, "label": "after"}
+]

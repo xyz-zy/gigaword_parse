@@ -1,0 +1,4 @@
+[
+{"tokens": ["so", "i", "have", "to", "drive", "to", "their", "location", "before", "i", "go", "to", "work", "just", "to", "do", "this", "and", "now", "the", "motivation", "changes", "to", "i", "paid", "so", "much", "money", "on", "this", "."], "e1_text": "drive", "e1_pos": 4, "e2_text": "go", "e2_pos": 10, "label": "before"},
+{"tokens": ["this", "is", "waste", "of", "money", ",", "i", "could", "have", "listen", "to", "those", "bad", "comments", "before", "i", "signed", "up", "."], "e1_text": "listen", "e1_pos": 9, "e2_text": "signed", "e2_pos": 16, "label": "before"}
+]

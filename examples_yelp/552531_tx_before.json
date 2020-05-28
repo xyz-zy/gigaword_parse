@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "'ll", "guess", "what", ",", "if", "you", "did", "n't", "print", "it", "-LRB-", "even", "thou", "you", "already", "checked", "in", "-RRB-", "before", "the", "45", "minute", "cut", "off", "time", ",", "you", "are", "considered", "not", "checked", "in", "."], "e1_text": "print", "e1_pos": 9, "e2_text": "cut", "e2_pos": 23, "label": "before"}
+]

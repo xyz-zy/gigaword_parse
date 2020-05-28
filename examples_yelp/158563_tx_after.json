@@ -1,0 +1,5 @@
+[
+{"tokens": ["She", "never", "stopped", "back", "after", "setting", "the", "plates", "down", "."], "e1_text": "stopped", "e1_pos": 2, "e2_text": "setting", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "hostess", "did", "clear", "the", "salad", "plates", "and", "brought", "our", "check", "10", "mins", "after", "we", "finished", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "finished", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "did", "gp", "and", "check", "on", "our", "table", "after", "an", "hour", "or", "so", "???", "I", "have", "heard", "Fitz", "'", "on", "the", "Lake", "and", "Villa", "Tap", "both", "have", "good", "walleye", "might", "try", "those", "next", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "have", "e2_pos": 15, "label": "after"}
+]

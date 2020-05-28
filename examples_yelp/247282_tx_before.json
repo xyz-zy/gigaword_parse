@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "fries", "are", "popular", ",", "but", "I", "opted", "for", "the", "bottomless", "broccoli", ",", "which", "arrived", "well", "after", "everyone", "else", "had", "their", "fries", ",", "and", "apparently", "you", "need", "to", "specifically", "request", "more", ",", "although", "they", "might", "have", "been", "too", "generous", "with", "their", "endless", "lemonade", ",", "they", "actually", "gave", "me", "a", "second", "before", "I", "drank", "the", "first", "a", "couple", "of", "times", "."], "e1_text": "gave", "e1_pos": 46, "e2_text": "drank", "e2_pos": 52, "label": "before"}
+]

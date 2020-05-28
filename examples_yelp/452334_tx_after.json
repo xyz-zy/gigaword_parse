@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "back", "to", "the", "resturant", "but", "I", "noticed", "the", "resturant", "had", "cleared", "out", "for", "the", "most", "part", "and", "after", "paying", "our", "bill", "-LRB-", "over", "$", "20", "per", "person", "-RRB-", "our", "waiter", "seemed", "to", "disappear", ",", "which", "was", "fine", "with", "us", "."], "e1_text": "cleared", "e1_pos": 13, "e2_text": "paying", "e2_pos": 21, "label": "after"},
+{"tokens": ["Esp", "after", "spending", "$", "20", "+", "per", "person", "."], "e1_text": "Esp", "e1_pos": 0, "e2_text": "spending", "e2_pos": 2, "label": "after"}
+]

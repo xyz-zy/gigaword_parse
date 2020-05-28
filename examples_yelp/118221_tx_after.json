@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "liked", "the", "Macaroni", "and", "Cheese", ",", "but", "changed", "her", "mind", "after", "they", "replaced", "the", "batch", "and", "it", "started", "to", "taste", "like", "soap", "."], "e1_text": "changed", "e1_pos": 9, "e2_text": "replaced", "e2_pos": 14, "label": "after"}
+]

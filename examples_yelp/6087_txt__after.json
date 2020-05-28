@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ended", "up", "ordering", "one", "of", "the", "specials", "after", "seeing", "them", "on", "a", "chalkboard", ",", "only", "to", "find", "out", "after", "some", "more", "confusing", ",", "disinterested", "interaction", "with", "our", "waitress", "that", "they", "had", "stopped", "the", "special", "just", "minutes", "before", "-LRB-", "9:30", "am", "-RRB-", "."], "e1_text": "ordering", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "will", "definitely", "come", "back", "again", ",", "and", "hopefully", "next", "time", "get", "there", "before", "they", "close", "so", "we", "can", "eat", "in", "the", "restaurant", "instead", "of", "our", "car", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "close", "e2_pos": 15, "label": "before"}
+]

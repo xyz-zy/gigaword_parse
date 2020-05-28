@@ -1,0 +1,5 @@
+[
+{"tokens": ["Since", "avocado", "is", "in", "most", "of", "them", "-LRB-", "and", "in", "the", "Vegas", "one", "-RRB-", "I", "always", "ask", "to", "have", "asparagus", "substituted", "after", "explaining", "my", "allergy", "."], "e1_text": "substituted", "e1_pos": 20, "e2_text": "explaining", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "'ve", "been", "to", "other", "sushi", "restaurants", "with", "similar", "pricing", "and", "was", "stuffed", "after", "eating", "only", "one", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "after"},
+{"tokens": ["So", "the", "straw", "that", "broke", "the", "camels", "back", "is", "what", "happened", "after", "receiving", "the", "check", "."], "e1_text": "happened", "e1_pos": 10, "e2_text": "receiving", "e2_pos": 12, "label": "after"}
+]

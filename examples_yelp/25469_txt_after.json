@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "tasted", "really", "really", "bad", ",", "as", "if", "they", "re", "heated", "it", "-LRB-", "the", "taste", "of", "left", "over", "chicken", "-RRB-", ",", "also", "the", "rice", "comes", "on", "the", "side", "in", "a", "pot", "that", "you", "scoop", "from", "and", "it", "will", "go", "to", "other", "guests", "after", "you", "finish", "."], "e1_text": "go", "e1_pos": 39, "e2_text": "finish", "e2_pos": 45, "label": "after"}
+]

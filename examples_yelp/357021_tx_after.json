@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "real", "kicker", "was", "once", "we", "were", "finally", "done", ",", "it", "took", "them", "over", "45", "minutes", "to", "run", "our", "credit", "cards", "after", "we", "figured", "out", "the", "bill", "."], "e1_text": "run", "e1_pos": 17, "e2_text": "figured", "e2_pos": 23, "label": "after"},
+{"tokens": ["We", "sat", "there", "waiting", ",", "after", "all", "the", "food", "was", "cleared", ",", "with", "no", "drinks", "while", "our", "waiter", "was", "in", "the", "back", "I", "guess", "doing", "something", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

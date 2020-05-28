@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "here", "once", "for", "a", "work", "event", "and", "after", "a", "few", "hours", "my", "boss", "said", "he", "had", "to", "leave", "before", "I", "''", "``", "drank", "everything", "on", "the", "menu", ".", "''", "''"], "e1_text": "leave", "e1_pos": 19, "e2_text": "drank", "e2_pos": 24, "label": "before"}
+]

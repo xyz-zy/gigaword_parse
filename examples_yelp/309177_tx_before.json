@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "also", "a", "small", "nitpick", "-", "I", "also", "prefer", "the", "steak", "came", "out", "hotter", ";", "I", "know", "you", "are", "supposed", "to", "let", "steaks", "sit", "for", "5", "minutes", "before", "serving", "but", "my", "steak", "was", "very", "slightly", "colder", "than", "I", "enjoy", ".", "''"], "e1_text": "sit", "e1_pos": 24, "e2_text": "serving", "e2_pos": 29, "label": "before"}
+]

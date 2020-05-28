@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "dining", "partner", "and", "I", "were", "looking", "forward", "to", "using", "our", "Groupon", "after", "reading", "so", "many", "great", "reviews", "."], "e1_text": "using", "e1_pos": 9, "e2_text": "reading", "e2_pos": 13, "label": "after"},
+{"tokens": ["Our", "appetizer", "-LRB-", "goat", "cheese", "&", "slow", "roasted", "tomatoes", "crustini", "-RRB-", "came", "out", "aboout", "20", "minutes", "after", "ordering", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "ordering", "e2_pos": 17, "label": "after"},
+{"tokens": ["Maybe", "she", "had", "taken", "a", "break", ",", "but", "we", "had", "to", "wait", "another", "15-20", "minutes", "to", "get", "the", "check", "after", "we", "finished", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "finished", "e2_pos": 21, "label": "after"}
+]

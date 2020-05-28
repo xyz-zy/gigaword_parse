@@ -1,0 +1,3 @@
+[
+{"tokens": ["Without", "washing", "his", "hands", ",", "he", "returned", "to", "the", "cooking", "area", "while", "picking", "his", "nose", "and", ",", "after", "flicking", "whatever", "he", "found", ",", "began", "to", "cook", "-LRB-", "again", ",", "without", "washing", "his", "hands", "-RRB-", "."], "e1_text": "returned", "e1_pos": 6, "e2_text": "flicking", "e2_pos": 18, "label": "after"}
+]

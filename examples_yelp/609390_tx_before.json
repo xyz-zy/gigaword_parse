@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "our", "waitress", "10", "minutes", "before", "she", "came", "to", "take", "our", "drink", "order", "-LRB-", "however", "she", "was", "very", "attentive", "to", "the", "table", "next", "to", "us", "while", "we", "just", "sat", "that", "-RRB-", "once", "she", "got", "out", "drink", "orders", "it", "took", "another", "5", "minutes", "to", "fill", "those", "-LRB-", "again", "lots", "of", "attention", "was", "given", "to", "the", "other", "table", "-RRB-", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

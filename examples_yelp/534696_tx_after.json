@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "had", "problems", "with", "their", "driver", "breaking", "down", ",", "which", "I", "totally", "understand", "as", "stuff", "happens", ",", "but", "then", "it", "took", "another", "hour", "and", "half", "after", "we", "checked", "in", "for", "it", "to", "get", "here", "still", "."], "e1_text": "took", "e1_pos": 20, "e2_text": "checked", "e2_pos": 27, "label": "after"}
+]

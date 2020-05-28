@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "last", "visit", ",", "I", "ordered", "the", "barrata", "cheese", "salad", "which", "I", "'ve", "had", "here", "before", "and", "was", "luscious", "."], "e1_text": "ordered", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 12, "label": "before"},
+{"tokens": ["Will", "have", "to", "be", "convinced", "that", "they", "have", "improved", "greatly", "before", "I", "return", "!"], "e1_text": "improved", "e1_pos": 8, "e2_text": "return", "e2_pos": 12, "label": "before"}
+]

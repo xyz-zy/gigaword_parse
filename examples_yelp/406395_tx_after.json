@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "misters", "ca", "n't", "be", "on", "outside", "after", "the", "sun", "goes", "down", "...", "apparently", "this", "makes", "the", "patio", "slippery", ",", "but", ",", "frankly", ",", "it", "also", "makes", "the", "patio", "really", ",", "really", "hot", ",", "especially", "if", "the", "misters", "are", "on", "when", "you", "'re", "seated", "and", "then", "turned", "off", "a", "few", "minutes", "later", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "goes", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "also", "sometimes", "list", "items", "on", "the", "menu", "long", "after", "they", "'ve", "actually", "discontinued", "them", "-LRB-", "the", "ground", "ahi", "burger", "is", "an", "example", "-", "the", "server", "said", ":", "oh", ",", "we", "have", "n't", "carried", "that", "for", "ages", "-RRB-", "."], "e1_text": "list", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 11, "label": "after"}
+]

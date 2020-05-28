@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "ordered", "our", "food", ",", "I", "loved", "that", "our", "waiter", "said", "we", "could", "have", "our", "fries", "come", "out", "before", "our", "burgers", "did", ",", "which", "I", "was", "so", "happy", "about", "because", "I", "came", "hungry", "."], "e1_text": "come", "e1_pos": 17, "e2_text": "did", "e2_pos": 22, "label": "before"}
+]

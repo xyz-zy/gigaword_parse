@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "I", "overheard", "a", "young", "man", "telling", "his", "friends", "that", "he", "had", "the", "night", "before", "ordered", "a", "dish", "spiced", "to", "''", "``", "4", ".", "''", "''"], "e1_text": "telling", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "would", "probably", "try", "some", "other", "restaurants", "before", "going", "back", ",", "but", "I", "would", "not", "say", "to", "not", "try", "it", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "going", "e2_pos": 8, "label": "before"}
+]

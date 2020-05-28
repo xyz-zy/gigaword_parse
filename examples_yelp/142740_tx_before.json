@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "never", "met", "Joe", "before", "but", "he", "came", "off", "as", "a", "real", "nice", "guy", "."], "e1_text": "met", "e1_pos": 3, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "go", "back", "a", "week", "later", "1", "day", "before", "I", "need", "my", "shirt", "and", "when", "I", "come", "to", "the", "door", "he", "has", "an", "''", "``", "Oh", "No", "!", "''", "''"], "e1_text": "back", "e1_pos": 2, "e2_text": "need", "e2_pos": 10, "label": "before"}
+]

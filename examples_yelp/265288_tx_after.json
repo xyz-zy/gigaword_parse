@@ -1,0 +1,4 @@
+[
+{"tokens": ["Every", "time", "I", "come", "here", "the", "ask", "me", "to", "''", "``", "pull", "around", "''", "''", "after", "taking", "my", "money", "."], "e1_text": "pull", "e1_pos": 11, "e2_text": "taking", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "looks", "you", "get", "after", "saying", "this", "is", "amusing", ",", "they", "do", "n't", "know", "what", "to", "do", ",", "and", "what", "do", "you", "know", "?"], "e1_text": "get", "e1_pos": 3, "e2_text": "saying", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["In", "addition", ",", "rather", "than", "take", "our", "order", "after", "having", "the", "menu", "'s", "for", "5", "minutes", ",", "our", "waitress", "waited", "at", "the", "bar", "for", "what", "seemed", "like", "forever", "for", "4", "glasses", "of", "water", "to", "be", "filled", "for", "another", "table", "and", "chatted", "with", "the", "other", "waiters", "."], "e1_text": "take", "e1_pos": 5, "e2_text": "having", "e2_pos": 9, "label": "after"},
+{"tokens": ["Our", "waitress", "was", "more", "friendly", "after", "striking", "up", "a", "conversation", "and", "all", "the", "food", "was", "good", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "striking", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "missed", "the", "sunset", "during", "dinner", "which", "I", "'m", "sure", "would", "have", "added", "to", "the", "experience", "but", "watching", "highway", "traffic", "whiz", "by", "on", "the", "101", "after", "dark", "is", "n't", "overly", "romantic", "in", "my", "opinion", "."], "e1_text": "'m", "e1_pos": 8, "e2_text": "is", "e2_pos": 27, "label": "after"}
+]

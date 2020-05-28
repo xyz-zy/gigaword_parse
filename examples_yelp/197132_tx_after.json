@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "they", "managed", "to", "make", "the", "beef", "rice", "noodles", "taste", "burnt", "which", "is", "the", "resulting", "taste", "if", "one", "does", "n't", "wash", "the", "wok", "after", "cooking", "for", "a", "long", "period", "of", "time", "."], "e1_text": "wash", "e1_pos": 20, "e2_text": "cooking", "e2_pos": 24, "label": "after"}
+]

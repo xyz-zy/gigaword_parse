@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "my", "car", "in", "at", "8:30", "am", "after", "calling", "first", "to", "ask", "if", "they", "could", "finish", "my", "car", "by", "the", "end", "of", "the", "day", "and", "if", "they", "had", "an", "available", "courtesy", "shuttle", "to", "take", "me", "to", "work", "while", "they", "had", "my", "car", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "calling", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "only", "reason", "they", "got", "2", "stars", "was", "because", "after", "speaking", "with", "a", "CSR", "on", "LiveChat", ",", "a", "manager", "called", "me", "personally", "to", "inquire", "about", "my", "experience", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "speaking", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "ask", "to", "get", "our", "water", "glasses", "refilled", "and", "we", "got", "a", "dirty", "glass", "-LRB-", "bright", "red", "lipstick", "and", "you", "ca", "n't", "see", "it", "before", "you", "put", "that", "on", "our", "table", "????", "-RRB-", "The", "seats", "are", "too", "low", "and", "tables", "too", "high", ",", "particularly", "for", "short", "people", "like", "me", "."], "e1_text": "see", "e1_pos": 24, "e2_text": "put", "e2_pos": 28, "label": "before"},
+{"tokens": ["By", "comparison", ",", "my", "experience", "at", "the", "Bellagio", "was", "way", "better", "and", "my", "experience", "at", "the", "Wynn", "the", "night", "before", "was", "more", "pleasant", "even", "though", "the", "food", "is", "a", "notch", "down", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

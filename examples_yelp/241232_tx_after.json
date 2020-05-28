@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "not", "going", "to", "lie", ",", "I", "had", "my", "doubts", "about", "this", "place", "after", "seeing", "a", "mix", "of", "reviews", "with", "some", "mentioning", "BED", "BUGS", "in", "them", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 15, "label": "after"},
+{"tokens": ["It", "seemed", "like", "management", "was", "very", "responsive", "and", "transparent", "about", "situations", "that", "had", "happened", "which", "I", "can", "appreciate", "so", "I", "decided", "to", "stay", "here", "after", "reading", "a", "lot", "of", "positive", "reviews", "overall", "."], "e1_text": "stay", "e1_pos": 22, "e2_text": "reading", "e2_pos": 25, "label": "after"}
+]

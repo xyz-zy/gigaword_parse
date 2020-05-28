@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "diner", "actually", "vomited", "in", "the", "parking", "lot", "immediately", "after", "walking", "out", "and", "the", "other", "later", "on", "that", "day", ";", "both", "as", "a", "result", "of", "the", "red", "sauce", "most", "likely", "tainted", "by", "cross", "contamination", "or", "an", "expired", "batch", "."], "e1_text": "vomited", "e1_pos": 3, "e2_text": "walking", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Silverware", "was", "brought", "to", "the", "table", ",", "but", "our", "server", "quickly", "snatched", "a", "knife", "back", "and", "replaced", "it", "before", "the", "utensils", "were", "handed", "to", "me", "."], "e1_text": "replaced", "e1_pos": 16, "e2_text": "were", "e2_pos": 21, "label": "before"}
+]

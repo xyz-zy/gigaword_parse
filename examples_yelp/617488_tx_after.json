@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Seems", "like", "there", "is", "a", "good", "set", "of", "reviews", "under", "another", "name", "Sushi", "Saint", "Jean", "vs", "Sushi", "St", "Jean", "-RRB-", "I", "went", "to", "this", "place", "after", "seeing", "the", "sign", "through", "the", "kanda", "sushi", "window", "while", "having", "dinner", "at", "Kanda", "."], "e1_text": "went", "e1_pos": 22, "e2_text": "seeing", "e2_pos": 27, "label": "after"}
+]

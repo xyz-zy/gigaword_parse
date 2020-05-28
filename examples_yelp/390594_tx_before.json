@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "radio", "promo", "tickets", "for", "only", "$", "10", "so", "it", "was", "well", "worth", "it", ",", "also", "because", "we", "moved", "from", "our", "$", "10", "seats", "down", "to", "a", "lower", "level", "before", "the", "show", "started", "so", "we", "got", "an", "even", "better", "view", "=-RRB-", "Oh", ",", "parking", "was", "free", ",", "which", "I", "did", "n't", "know", "so", "that", "was", "a", "very", "pleasant", "surprise", "!"], "e1_text": "moved", "e1_pos": 19, "e2_text": "started", "e2_pos": 33, "label": "before"}
+]

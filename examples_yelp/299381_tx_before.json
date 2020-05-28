@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "seat", "you", "and", "sometimes", "it", "takes", "10-15mins", "before", "anyone", "notices", "you", "did", "n't", "even", "get", "drinks", "or", "place", "settings", "."], "e1_text": "takes", "e1_pos": 7, "e2_text": "did", "e2_pos": 13, "label": "before"},
+{"tokens": ["Then", "it", "takes", "another", "15-20", "mins", "before", "the", "server", "asks", "for", "your", "order", "."], "e1_text": "takes", "e1_pos": 2, "e2_text": "asks", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "kitchen", "was", "out", "of", "most", "items", ",", "granted", "it", "was", "a", "late", "dinner", ",", "but", "the", "waiter", "made", "an", "offhand", "remark", "about", "us", "coming", "late", ",", "and", "came", "after", "we", "were", "served", "to", "tell", "us", "that", "the", "item", "we", "asked", "about", "on", "the", "menu", "had", "come", "back", "to", "life", "."], "e1_text": "came", "e1_pos": 28, "e2_text": "were", "e2_pos": 31, "label": "after"},
+{"tokens": ["The", "food", "came", "dry", ",", "not", "at", "all", "fresh", ",", "and", "clearly", "left", "for", "at", "least", "an", "hour", "after", "it", "'s", "even", "made", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "'s", "e2_pos": 20, "label": "after"}
+]

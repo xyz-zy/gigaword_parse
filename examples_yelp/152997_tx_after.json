@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "son", "has", "been", "eating", "California", "rolls", "since", "he", "was", "2", "years", ",", "and", "he", "nice", "told", "me", "after", "he", "finished", "two", "whole", "rolls", ",", "they", "were", "the", "worst", "he", "has", "ever", "eaten", "."], "e1_text": "told", "e1_pos": 16, "e2_text": "finished", "e2_pos": 20, "label": "after"}
+]

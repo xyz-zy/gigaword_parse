@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "there", "just", "before", "the", "dinner", "rush", "and", "as", "we", "checked", "out", "the", "menu", "the", "gal", "behind", "the", "counter", "offered", "us", "a", "sampling", "of", "all", "of", "their", "different", "marinated", "meats", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "rush", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "I", "'m", "still", "healthy", "after", "eating", "here", ",", "but", "it", "was", "the", "worst", "lunch", "I", "have", "had", "!"], "e1_text": "'m", "e1_pos": 3, "e2_text": "eating", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "best", "part", "of", "the", "lunch", "!!!!!", ",", ",", ",", ",", "I", "won", "$", "200", "right", "after", "the", "lunch", "!!!!", "Will", "not", "be", "back", "or", "recommend", "...", ".", "."], "e1_text": "won", "e1_pos": 12, "e2_text": "Will", "e2_pos": 20, "label": "after"}
+]

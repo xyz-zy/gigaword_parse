@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "walking", "out", "when", "the", "girl", "behind", "the", "counter", "finally", "came", "back", "to", "take", "my", "order", "after", "she", "slowly", "prepared", "a", "few", "drinks", "for", "the", "other", "customer", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "prepared", "e2_pos": 20, "label": "after"}
+]

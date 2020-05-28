@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "turns", "you", "downshift", "to", "3rd", "before", "entering", "a", "tunnel", "and", "then", "just", "blast", "thru", "the", "echo", "chamber", "which", "left", "me", "smiling", "ear", "to", "ear", "-LRB-", "second", "thrill", "-RRB-", "."], "e1_text": "downshift", "e1_pos": 4, "e2_text": "entering", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "final", "thrill", "was", "zipping", "thru", "4", "gears", "from", "a", "dead", "stop", "before", "hitting", "afternoon", "traffic", "."], "e1_text": "zipping", "e1_pos": 4, "e2_text": "hitting", "e2_pos": 13, "label": "before"}
+]

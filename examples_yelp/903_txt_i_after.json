@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "go", "out", "of", "my", "way", "to", "ask", "for", "menus", "about", "five", "or", "ten", "minutes", "after", "we", "had", "been", "seated", "."], "e1_text": "ask", "e1_pos": 9, "e2_text": "had", "e2_pos": 1, "label": "after"},
+{"tokens": ["Also", ",", "our", "utensils", "were", "n't", "given", "to", "us", "until", "after", "our", "food", "was", "served", "."], "e1_text": "given", "e1_pos": 6, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

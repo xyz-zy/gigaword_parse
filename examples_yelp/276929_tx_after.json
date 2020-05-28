@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "servers", "are", "nice", "enough", ",", "although", "we", "did", "wait", "a", "while", "for", "our", "bill", "after", "we", "were", "done", "eating", ",", "despite", "being", "the", "only", "people", "in", "the", "restaurant", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "were", "e2_pos": 17, "label": "after"}
+]

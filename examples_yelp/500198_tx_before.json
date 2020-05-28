@@ -1,0 +1,4 @@
+[
+{"tokens": ["Find", "an", "ENT", "office", "that", "will", "explain", "what", "''", "``", "procedure", "''", "''", "you", "are", "going", "through", "before", "they", "do", "it", "to", "you", "."], "e1_text": "going", "e1_pos": 15, "e2_text": "do", "e2_pos": 19, "label": "before"},
+{"tokens": ["Having", "been", "properly", "informed", ",", "I", "would", "have", "declined", "this", "''", "``", "surgery", ",", "''", "''", "ESPECIALLY", "before", "having", "had", "my", "CTs", "evaluated", "."], "e1_text": "ESPECIALLY", "e1_pos": 16, "e2_text": "having", "e2_pos": 18, "label": "before"}
+]

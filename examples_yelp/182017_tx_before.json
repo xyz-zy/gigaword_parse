@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "can", "get", "a", "bit", "crowded", "when", "everyone", "was", "waiting", "before", "the", "doors", "opened", ",", "but", "once", "you", "get", "in", "the", "theater", "it", "is", "an", "amazing", "sight", "."], "e1_text": "waiting", "e1_pos": 9, "e2_text": "opened", "e2_pos": 13, "label": "before"}
+]

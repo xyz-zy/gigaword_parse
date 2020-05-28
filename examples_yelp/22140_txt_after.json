@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "put", "up", "here", "after", "not", "making", "a", "flight", "-LRB-", "the", "woman", "I", "talked", "to", "at", "the", "gate", "blamed", "Orbitz", "for", "not", "scheduling", "enough", "time", "to", "make", "a", "connection", "-RRB-", "."], "e1_text": "put", "e1_pos": 2, "e2_text": "making", "e2_pos": 7, "label": "after"}
+]

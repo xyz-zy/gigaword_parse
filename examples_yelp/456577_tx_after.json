@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "just", "about", "died", "from", "shock", "after", "hearing", "the", "lady", "quote", "me", "the", "final", "price", "of", "$", "85", "-", "the", "10", "%", "Yelp", "discount", "=", "$", "76", "+", "a", "very", "generous", "$", "15", "tip", "."], "e1_text": "died", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "am", "now", "home", "after", "walking", "out", "with", "one", "hand", "minus", "polish", "and", "the", "other", "hand", "with", "old", "polish", "on", "it", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "walking", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "asked", "him", "to", "be", "careful", "because", "after", "he", "files", "my", "nail", "to", "straighten", "out", "the", "curve", "he", "had", "made", ",", "it", "would", "be", "shorter", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "files", "e2_pos": 9, "label": "after"}
+]

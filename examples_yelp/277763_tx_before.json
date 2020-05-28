@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "are", "a", "cupcake", "fanatic", "like", "I", "am", "-LRB-", "although", ",", "I", "have", "vowed", "to", "change", "my", "ways", "before", "I", "gain", "weight", "-RRB-", "try", "Caketini", ",", "Barb", "'s", "or", "Sweet", "Daddy", "'s", "...", "or", ",", "if", "you", "need", "to", "try", "Sprinkles", ",", "give", "it", "a", "shot", ",", "and", "then", "go", "to", "some", "of", "the", "other", "cupcake", "stores", "the", "Valley", "has", "..."], "e1_text": "change", "e1_pos": 16, "e2_text": "gain", "e2_pos": 21, "label": "before"}
+]

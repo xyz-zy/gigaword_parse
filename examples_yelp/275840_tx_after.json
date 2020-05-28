@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "reservations", "at", "Wing", "Lei", "since", "it", "was", "a", "convenient", "location", "after", "seeing", "Spamalot", "at", "the", "Wynn", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 13, "label": "after"},
+{"tokens": ["When", "we", "were", "finally", "seated", ",", "we", "did", "enjoy", "the", "decor", "of", "the", "room", ",", "but", "we", "were", "really", "hungry", "after", "having", "being", "kept", "waiting", ",", "and", "we", "were", "n't", "offered", "appetizers", "or", "amuses", "or", "anything", "to", "hold", "us", "over", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "having", "e2_pos": 21, "label": "after"}
+]

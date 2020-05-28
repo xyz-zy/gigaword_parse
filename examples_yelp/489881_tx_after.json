@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*\\*", "4\\/5", "Stars", "\\*\\*\\*\\*", "The", "Service", "-", "I", "was", "in", "Vegas", "for", "a", "conference", "and", "I", "came", "to", "Holstein", "'s", "right", "after", "the", "last", "session", "ended", ",", "which", "was", "around", "5:00", "pm", "or", "so", "on", "a", "Thursday", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "ended", "e2_pos": 25, "label": "after"},
+{"tokens": ["\\*\\*\\*\\*", "4\\/5", "Stars", "\\*\\*\\*\\*", "Overall", "-", "Like", "I", "said", ",", "after", "comparing", "the", "burgers", "that", "I", "'ve", "had", "from", "BurGR", "to", "Holstein", "'s", ",", "I", "would", "definitely", "choose", "BurGR", ";", "however", ",", "if", "you", "happen", "to", "be", "in", "The", "Cosmo", "and", "the", "mood", "for", "having", "a", "burger", "strikes", "you", ",", "this", "place", "can", "definitely", "deliver", "."], "e1_text": "said", "e1_pos": 8, "e2_text": "comparing", "e2_pos": 11, "label": "after"}
+]

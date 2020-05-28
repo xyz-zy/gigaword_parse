@@ -1,0 +1,4 @@
+[
+{"tokens": ["According", "to", "the", "manager", "this", "is", "common", "and", "they", "are", "supposed", "to", "check", "the", "pizza", "for", "coal", "before", "serving", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "serving", "e2_pos": 18, "label": "before"},
+{"tokens": ["My", "sister", "got", "the", "run", "around", "for", "awhile", "before", "she", "finally", "got", "her", "tooth", "looked", "at", "by", "a", "dentist", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "got", "e2_pos": 2, "label": "before"}
+]

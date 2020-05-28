@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "said", "i", "wanted", "her", "to", "examine", "daughter", "since", "this", "happened", "before", "and", "she", "knew", "about", "this", "history", "."], "e1_text": "examine", "e1_pos": 6, "e2_text": "happened", "e2_pos": 10, "label": "before"},
+{"tokens": ["Sat", ",", "waited", "for", "over", "1", "hr", "before", "we", "saw", "a", "Dr.", "ER", "Dr", "did", "a", "quick", "exam", ",", "said", "given", "toddler", "'s", "history", "of", "this", "before", ",", "continue", "to", "give", "Tylenol\\/Ibupro", "to", "reduce", "fever", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "saw", "e2_pos": 9, "label": "before"},
+{"tokens": ["Never", "heard", "of", "that", "before", ",", "wanted", "to", "know", "what", "pediatrician", "it", "was", ",", "told", "us", "she", "had", "probs", "with", "Dr", "S", "in", "the", "past", "."], "e1_text": "heard", "e1_pos": 1, "e2_text": "wanted", "e2_pos": 6, "label": "before"}
+]

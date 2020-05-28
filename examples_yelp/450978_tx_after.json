@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "40", "minutes", "to", "get", "our", "salad", "and", "that", "was", "after", "we", "had", "asked", "our", "waiter", "about", "it", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["Now", "to", "be", "fair", ",", "these", "people", "had", "been", "seated", "prior", "to", "us", ",", "but", "had", "ordered", "after", "we", "had", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["All", "in", "all", ",", "I", "watched", "10", "people", "who", "came", "in", "and", "ordered", "after", "we", "did", "get", "their", "meals", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "did", "e2_pos": 15, "label": "after"}
+]

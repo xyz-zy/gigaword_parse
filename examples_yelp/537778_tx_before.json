@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "kids", "ate", "less", "than", "half", "their", "meals", "before", "announcing", "they", "were", "full", ";", "come", "to", "find", "out", "my", "daughter", "hated", "her", "grilled", "cheese", "because", "it", "was", "n't", "even", "MELTED", "!"], "e1_text": "ate", "e1_pos": 2, "e2_text": "announcing", "e2_pos": 9, "label": "before"},
+{"tokens": ["And", "it", "will", "be", "a", "good", "long", "while", "before", "I", "attempt", "to", "eat", "ANY", "BBQ", "again", ",", "that", "'s", "how", "much", "this", "meal", "put", "me", "off", "it", "!"], "e1_text": "be", "e1_pos": 3, "e2_text": "attempt", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "backup", "cashier", "arrived", "she", "motioned", "to", "the", "next", "person", "in", "line", ",", "which", "was", "the", "man", "in", "front", "of", "me", "before", "I", "had", "let", "the", "lady", "behind", "me", "in", "front", ",", "to", "come", "on", "over", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 24, "label": "before"}
+]

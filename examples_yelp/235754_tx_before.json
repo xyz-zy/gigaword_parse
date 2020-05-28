@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "so", "full", "when", "we", "finished", "that", "we", "all", "had", "to", "sit", "back", "and", "relax", "for", "a", "while", "before", "we", "started", "walking", "down", "the", "Strip", "again", "."], "e1_text": "relax", "e1_pos": 15, "e2_text": "started", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "ate", "so", "much", "that", "I", "think", "I", "heard", "the", "chair", "crack", "a", "little", "before", "I", "stood", "up", "."], "e1_text": "heard", "e1_pos": 8, "e2_text": "stood", "e2_pos": 16, "label": "before"}
+]

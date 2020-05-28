@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "a", "coupon", "for", "50", "bucks", "worth", "of", "food", "and", "it", "took", "them", "until", "after", "we", "ate", "to", "know", "if", "they", "were", "going", "to", "honor", "it", "or", "not", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "ate", "e2_pos": 17, "label": "after"}
+]

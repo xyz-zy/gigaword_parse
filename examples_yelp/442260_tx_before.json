@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "nervous", "before", "I", "had", "arrived", "because", "I", "was", "n't", "too", "sure", "of", "what", "to", "expect", ",", "but", "upon", "my", "departure", "I", "was", "extremely", "pleased", "with", "the", "serviced", "I", "had", "received", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "am", "always", "nervous", "to", "get", "my", "hair", "done", "since", "I", "'ve", "had", "bad", "coloring", "and", "cut", "services", "before", "so", "of", "course", "I", "was", "just", "crawling", "out", "of", "my", "skin", "nervous", "while", "I", "was", "getting", "my", "hair", "done", "but", "Kristin", "exceeded", "my", "expectations", "!"], "e1_text": "done", "e1_pos": 8, "e2_text": "'ve", "e2_pos": 11, "label": "before"}
+]

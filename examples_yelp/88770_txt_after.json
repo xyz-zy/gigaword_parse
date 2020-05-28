@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "was", "''", "``", "corrected", "''", "''", "by", "one", "of", "the", "ladies", "in", "the", "alterations", "department", ",", "after", "I", "put", "up", "a", "big", "stink", "about", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "put", "e2_pos": 19, "label": "after"}
+]

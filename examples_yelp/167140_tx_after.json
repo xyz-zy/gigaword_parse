@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "very", "first", "thing", "I", "did", "after", "finally", "getting", "my", "room", "was", "get", "on", "Yelp", "and", "write", "my", "first", "review", "ever", "...", "it", "'s", "that", "bad", ",", "and", "I", "want", "to", "warn", "others", "not", "stay", "here", "."], "e1_text": "did", "e1_pos": 5, "e2_text": "getting", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "is", "now", "1:15", "AM", "and", "I", "am", "finally", "in", "my", "room", "-LRB-", "an", "hour", "and", "a", "half", "after", "getting", "to", "the", "hotel", "-RRB-", "."], "e1_text": "am", "e1_pos": 7, "e2_text": "getting", "e2_pos": 19, "label": "after"}
+]

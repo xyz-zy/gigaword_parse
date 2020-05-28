@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "in", "here", "to", "munch", "before", "having", "cocktails", "at", "The", "Chandalier", "."], "e1_text": "munch", "e1_pos": 4, "e2_text": "having", "e2_pos": 6, "label": "before"},
+{"tokens": ["Great", "snacks", "or", "appetizer", "option", "before", "hitting", "the", "town", "!"], "e1_text": "appetizer", "e1_pos": 3, "e2_text": "hitting", "e2_pos": 6, "label": "before"}
+]

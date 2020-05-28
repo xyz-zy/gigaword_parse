@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "being", "the", "case", ",", "it", "would", "have", "been", "difficult", "for", "me", "to", "vacuum", "after", "we", "moved", "everything", "out", "."], "e1_text": "vacuum", "e1_pos": 13, "e2_text": "moved", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "did", "n't", "argue", "the", "extra", "damage", "fees", "they", "charged", "us", "at", "move-out", "because", "I", "did", "n't", "take", "pictures", "of", "the", "entire", "apartment", "to", "prove", "otherwise", "...", "An", "overall", "good", "experience", "at", "this", "apartment", "was", "completely", "tarnished", "by", "the", "fact", "that", "they", "really", "screwed", "us", "after", "we", "were", "done", "living", "there", ",", "and", "really", "did", "n't", "care", "."], "e1_text": "screwed", "e1_pos": 43, "e2_text": "were", "e2_pos": 47, "label": "after"}
+]

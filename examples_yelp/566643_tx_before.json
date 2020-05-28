@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "13", "months", "Norm", "R", "and", "I", "returned", "to", "Cleo", "'s", "on", "Saturday", "evening", ",", "10\\/19\\/13", ",", "and", "we", "remain", "totally", "satisfied", "customers", "who", "loved", "the", "food", "before", "and", "now", "."], "e1_text": "remain", "e1_pos": 19, "e2_text": "loved", "e2_pos": 24, "label": "before"},
+{"tokens": ["This", "time", "I", "went", "for", "the", "lamb", "chops", "I", "'d", "sampled", "before", "and", "they", "were", "equally", "perfectly", "seasoned", ",", "perfectly", "cooked", ",", "tender", ",", "moist", ",", "and", "just", ",", "well", ",", "perfect", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "'d", "e2_pos": 9, "label": "before"}
+]

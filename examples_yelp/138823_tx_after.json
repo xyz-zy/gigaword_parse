@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "a", "patient", "here", "after", "finding", "them", "through", "my", "PEBP", "network", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "finding", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "finally", "received", "a", "call", "back", "2", "days", "after", "my", "refill", "was", "supposed", "to", "be", "done", "with", "his", "assistant", "saying", "Dr.", "Merutka", "can", "not", "do", "the", "refill", "because", "it", "says", "you", "were", "gaining", "weight", "so", "you", "went", "off", "the", "prescription", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

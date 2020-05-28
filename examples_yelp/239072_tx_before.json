@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "enjoyed", "a", "glass", "of", "Pinot", "and", "a", "house", "lager", "before", "the", "rest", "of", "our", "party", "joined", "us", "."], "e1_text": "enjoyed", "e1_pos": 1, "e2_text": "joined", "e2_pos": 16, "label": "before"}
+]

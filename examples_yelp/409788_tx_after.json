@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "came", "on", "a", "Saturday", "night", "to", "try", "one", "of", "the", "restaurants", ",", "do", "a", "little", "gamling", ",", "and", "just", "check", "the", "place", "out", "after", "driving", "by", "it", "dozens", "of", "times", "."], "e1_text": "check", "e1_pos": 20, "e2_text": "driving", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "totally", "not", "what", "I", "wanted", ",", "but", "it", "was", "fine", "for", "now", ",", "since", "I", "was", "tired", ",", "and", "I", "just", "wanted", "to", "leave", "after", "putting", "up", "with", "the", "terrible", "customer", "service", "-LRB-", "not", "by", "the", "girl", "though", "-RRB-", "."], "e1_text": "leave", "e1_pos": 25, "e2_text": "putting", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "really", "did", "n't", "want", "to", "give", "anything", "considering", "the", "horrible", "service", "from", "him", ",", "but", "I", "was", "grateful", "that", "they", "stayed", "about", "20", "minutes", "after", "closing", "to", "finish", "my", "nails", ",", "so", "I", "tipped", "him", "well", "anyway", "."], "e1_text": "stayed", "e1_pos": 21, "e2_text": "closing", "e2_pos": 26, "label": "after"}
+]

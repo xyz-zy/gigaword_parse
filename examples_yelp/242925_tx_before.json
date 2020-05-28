@@ -1,0 +1,4 @@
+[
+{"tokens": ["Take", "the", "box", "home", ",", "set", "it", "up", ",", "it", "works", "wonderfully", "for", "all", "of", "about", "a", "day", "before", "it", "breaks", "down", "completely", "."], "e1_text": "works", "e1_pos": 10, "e2_text": "breaks", "e2_pos": 20, "label": "before"},
+{"tokens": ["We", "hook", "that", "up", "but", "it", "only", "worked", "for", "about", "4", "months", "before", "it", "started", "randomly", "kicking", "us", "off", "the", "Internet", ",", "forcing", "me", "to", "dig", "my", "way", "under", "the", "desk", "to", "hook", "it", "back", "up", "."], "e1_text": "worked", "e1_pos": 7, "e2_text": "started", "e2_pos": 14, "label": "before"}
+]

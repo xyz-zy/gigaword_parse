@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "40", "minutes", "before", "we", "got", "our", "food", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "saw", "one", "patient", "guy", "sitting", "at", "his", "table", "for", "30", "minutes", "before", "he", "got", "his", "food", ",", "and", "he", "was", "there", "BEFORE", "us", "so", "who", "knows", "how", "long", "he", "was", "waiting", "-", "for", "biscuits", "and", "gravy", "!!!", "As", "we", "waited", ",", "we", "had", "a", "lot", "of", "time", "to", "observe", "."], "e1_text": "sitting", "e1_pos": 5, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

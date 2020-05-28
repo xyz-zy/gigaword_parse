@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "recently", "hit", "up", "Ciudad", "-LRB-", "Susan", "Feniger", "'s", "DTLA", "restaurant", "-RRB-", "and", "felt", "it", "was", "imperative", "we", "try", "Border", "Grill", "the", "restaurant", "before", "we", "meet", "the", "food", "truck", "bearing", "the", "same", "name", "."], "e1_text": "try", "e1_pos": 18, "e2_text": "meet", "e2_pos": 25, "label": "before"},
+{"tokens": ["Check", "before", "you", "go", "anywhere", "new", "!"], "e1_text": "Check", "e1_pos": 0, "e2_text": "go", "e2_pos": 3, "label": "before"}
+]

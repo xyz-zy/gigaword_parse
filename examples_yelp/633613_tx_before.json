@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "the", "second", "beer", "she", "asked", "if", "I", "'d", "like", "another", "-LRB-", "BTW", "both", "beers", "were", "empty", "before", "she", "checked", "on", "me", "and", "the", "bar", "was", "not", "that", "full", ",", "but", "I", "'ll", "let", "that", "go", "-RRB-", "and", "I", "then", "asked", "for", "the", "HH", "menu", "."], "e1_text": "were", "e1_pos": 15, "e2_text": "checked", "e2_pos": 19, "label": "before"}
+]

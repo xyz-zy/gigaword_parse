@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "why", ":", "You", "wait", "in", "line", "for", "1", "-", "2", "hours", "before", "and", "just", "after", "they", "open", "."], "e1_text": "wait", "e1_pos": 5, "e2_text": "open", "e2_pos": 18, "label": "before"},
+{"tokens": ["Why", "should", "we", "wait", "in", "line", "like", "a", "bunch", "of", "cows", "while", "the", "VIP", "folks", "waltz", "into", "line", "next", "to", "us", "and", "get", "their", "tickets", "long", "before", "we", "do", "?"], "e1_text": "get", "e1_pos": 22, "e2_text": "do", "e2_pos": 28, "label": "before"}
+]

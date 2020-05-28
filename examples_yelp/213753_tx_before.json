@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sat", "at", "the", "bar", ",", "took", "25", "minutes", "before", "anyone", "offered", "us", "a", "menu", "-", "even", "though", "they", "were", "all", "looking", "at", "us", "but", "kept", "horsing", "around", "&", "talking", "with", "other", "patrons", "who", "were", "obviously", "dressed", "to", "get", "a", "free", "drink", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "offered", "e2_pos": 10, "label": "before"}
+]

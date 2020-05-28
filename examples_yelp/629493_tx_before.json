@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "circles", "the", "area", "a", "second", "time", "before", "placing", "my", "food", "on", "someone", "else", "'s", "table", "."], "e1_text": "circles", "e1_pos": 1, "e2_text": "placing", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "was", "highly", "displeased", "with", "the", "lack", "of", "service", "and", "mediocre", "foods", "especially", "after", "having", "another", "guest", "served", "my", "food", "before", "brining", "it", "to", "my", "table", "!"], "e1_text": "served", "e1_pos": 17, "e2_text": "brining", "e2_pos": 21, "label": "before"}
+]

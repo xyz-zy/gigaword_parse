@@ -1,0 +1,4 @@
+[
+{"tokens": ["Before", "I", "left", "I", "asked", "to", "speak", "to", "the", "manager", "I", "then", "waited", "up", "at", "the", "hostess", "stand", "for", "over", "5", "minutes", "before", "I", "walked", "out", "all", "together", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "walked", "e2_pos": 24, "label": "before"},
+{"tokens": ["It", "will", "be", "a", "while", "before", "I", "go", "back", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "go", "e2_pos": 7, "label": "before"}
+]

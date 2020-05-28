@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "we", "were", "finished", "eating", "we", "waited", "about", "15", "minutes", "before", "our", "waitress", "appeared", "to", "ask", "if", "we", "wanted", "boxes", "for", "the", "pile", "of", "uneaten", "bread", "on", "my", "bf", "'s", "plate", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "appeared", "e2_pos": 13, "label": "before"},
+{"tokens": ["It", "'ll", "be", "a", "long", "time", "before", "we", "come", "back", ",", "and", "it", "'s", "because", "of", "her", ",", "not", "to", "mention", "you", "'re", "charging", "$", "9", "for", "untoasted", "white", "bread", "and", "lettuce", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "come", "e2_pos": 8, "label": "before"}
+]

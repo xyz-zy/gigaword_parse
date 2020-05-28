@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "was", "great", ",", "we", "received", "our", "first", "round", "of", "drinks", "quickly", "and", "she", "was", "sure", "to", "let", "us", "know", "all", "the", "specials", "before", "ordering", "."], "e1_text": "know", "e1_pos": 20, "e2_text": "ordering", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "was", "a", "while", "before", "we", "were", "ready", "to", "order", "our", "food", "because", "we", "were", "busy", "catching", "up", "and", "the", "server", "was", "great", "about", "coming", "by", "to", "check", "drinks", "during", "that", "time", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

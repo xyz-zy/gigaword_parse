@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "n't", "great", "but", "what", "really", "turned", "me", "off", "was", "that", "they", "refused", "to", "sell", "takeout", "boxes", "to", "the", "rest", "of", "the", "people", "at", "our", "table", "after", "a", "couple", "of", "people", "from", "our", "party", "of", "12", "decided", "to", "purchase", "another", "bowl", "."], "e1_text": "sell", "e1_pos": 16, "e2_text": "decided", "e2_pos": 38, "label": "after"}
+]

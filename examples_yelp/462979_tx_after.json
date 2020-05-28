@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "until", "8:00", "P.M.", "until", "after", "the", "team", "captain", "overheard", "us", "starting", "to", "complain", "about", "the", "length", "of", "time", "we", "have", "been", "waiting", "for", "our", "food", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "overheard", "e2_pos": 10, "label": "after"}
+]

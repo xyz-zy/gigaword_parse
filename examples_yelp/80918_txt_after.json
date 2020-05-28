@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "found", "Monroe", "Road", "Animal", "Hospital", "soon", "after", "adopting", "our", "little", "rescue", "mix", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "adopting", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "worked", "the", "pieces", "off", "after", "we", "got", "her", "home", "and", "have", "taken", "her", "to", "a", "different", "groomers", "ever", "since", "and", "she", "has", "never", "come", "out", "looking", "terrified", "."], "e1_text": "worked", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

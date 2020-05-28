@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "taking", "a", "job", "offer", "in", "another", "country", ",", "I", "was", "informed", "five", "days", "before", "leaving", "that", "I", "need", "a", "health", "examination", "done", "."], "e1_text": "informed", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 15, "label": "before"}
+]

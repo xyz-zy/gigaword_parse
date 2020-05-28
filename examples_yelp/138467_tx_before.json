@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "high", "expectations", "for", "the", "school", "but", "I", "was", "turned", "off", "before", "it", "was", "even", "my", "child", "'s", "first", "day", "."], "e1_text": "turned", "e1_pos": 10, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "registered", "my", "child", "and", "about", "a", "week", "before", "he", "was", "scheduled", "to", "start", "I", "took", "my", "extended", "family", "in", "for", "a", "tour", "."], "e1_text": "registered", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

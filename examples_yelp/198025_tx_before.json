@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "before", "touring", "the", "Shark", "Reef", "at", "Mandalay", "Bay", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "touring", "e2_pos": 3, "label": "before"},
+{"tokens": ["Thankfully", ",", "he", "showed", "up", "right", "before", "the", "final", "straw", "came", "down", "."], "e1_text": "showed", "e1_pos": 3, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

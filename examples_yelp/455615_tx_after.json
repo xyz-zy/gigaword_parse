@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "was", "right", ",", "the", "whole", "thing", "-LRB-", "Let", "it", "Be", "on", "my", "left", "wrist", "-RRB-", "took", "about", "30", "minutes", ",", "but", "after", "it", "healed", "I", "realized", "that", "he", "may", "have", "stopped", "paying", "attention", "after", "the", "first", "two", "letters", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "healed", "e2_pos": 24, "label": "after"}
+]

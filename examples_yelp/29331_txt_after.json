@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "me", "explain", "to", "you", "what", "a", "plus", "one", "means", "...", "It", "means", "they", "make", "you", "go", "through", "the", "peek-a-boo", "-", "I", "see", "you", "-", "X-Ray", "machine", ",", "THEN", "you", "get", "pulled", "over", "to", "the", "side", "and", "thoroughly", "frisked", "like", "a", "prison", "inmate", ",", "THEN", "they", "thoroughly", "go", "through", "all", "your", "shit", "even", "after", "it", "too", "had", "just", "passed", "through", "an", "X-Ray", "machine", "."], "e1_text": "go", "e1_pos": 16, "e2_text": "had", "e2_pos": 56, "label": "after"}
+]

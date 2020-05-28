@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "liked", "the", "fact", "that", "they", "had", "a", "pretty", "good", "assortment", "of", "bikes", "outside", "as", "well", "as", "inside", ",", "and", "I", "had", "a", "chance", "to", "look", "around", "before", "I", "was", "greeted", "and", "asked", "if", "I", "needed", "help", "."], "e1_text": "look", "e1_pos": 25, "e2_text": "was", "e2_pos": 29, "label": "before"},
+{"tokens": ["There", "were", "bikes", "that", "were", "in", "the", "price", "range", "-LRB-", "I", "saw", "before", "he", "greeted", "me", "-RRB-", ",", "he", "did", "n't", "even", "give", "any", "explanation", "such", "as", ",", "''", "``", "Oh", ",", "a", "decent", "bike", "is", "$", "$", "$", ",", "let", "me", "show", "you", "why", ".", "''", "''"], "e1_text": "saw", "e1_pos": 11, "e2_text": "greeted", "e2_pos": 14, "label": "before"}
+]

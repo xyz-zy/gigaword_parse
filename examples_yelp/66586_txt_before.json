@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "typically", ",", "I", "do", "n't", "get", "bottle", "service", "but", "apparently", "your", "host\\/hostess", "usually", "shows", "you", "the", "bottle", "before", "opening", "it", "."], "e1_text": "shows", "e1_pos": 14, "e2_text": "opening", "e2_pos": 19, "label": "before"},
+{"tokens": ["Well", "the", "geniuses", "at", "OG", "opened", "our", "bottle", "while", "we", "were", "getting", "our", "lap", "dances", "so", "they", "could", "later", "blame", "us", "for", "not", "looking", "at", "the", "bottle", "before", "they", "opened", "it", "."], "e1_text": "blame", "e1_pos": 19, "e2_text": "opened", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "failed", "to", "enter", "our", "beer", "order", "and", "it", "took", "40", "minutes", "to", "be", "served", "-", "10", "after", "we", "reminded", "her", "."], "e1_text": "served", "e1_pos": 15, "e2_text": "reminded", "e2_pos": 20, "label": "after"},
+{"tokens": ["The", "other", "couple", "with", "us", "had", "n't", "received", "their", "dinner", "30", "minutes", "after", "we", "were", "served", "-", "looks", "like", "she", "forgot", "to", "enter", "that", "one", "too", "."], "e1_text": "received", "e1_pos": 7, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

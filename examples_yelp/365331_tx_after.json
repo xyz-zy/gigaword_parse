@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "were", "in", "need", "of", "a", "new", "chiropractor", "after", "moving", "here", "from", "out", "of", "state", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "moving", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "made", "an", "appointment", "with", "Dr.", "Bennett", "after", "reading", "the", "other", "yelp", "reviews", "and", "her", "website", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "reading", "e2_pos": 8, "label": "after"}
+]

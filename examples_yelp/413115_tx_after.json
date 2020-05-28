@@ -1,0 +1,8 @@
+[
+{"tokens": ["I", "have", "to", "say", ",", "after", "reading", "the", "reviews", "I", "was", "very", "disappointed", "by", "the", "Yelp", "community", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "had", "high", "hopes", "for", "this", "place", "but", "they", "sizzled", "to", "the", "floor", "moments", "after", "I", "walked", "in", "."], "e1_text": "sizzled", "e1_pos": 9, "e2_text": "walked", "e2_pos": 16, "label": "after"},
+{"tokens": ["Our", "order", "was", "taken", "pretty", "quickly", "after", "we", "arrive", "and", "we", "ordered", "some", "oysters", "for", "starters", "."], "e1_text": "taken", "e1_pos": 3, "e2_text": "arrive", "e2_pos": 8, "label": "after"},
+{"tokens": ["They", "were", "tiny", "too", "--", "like", "the", "size", "of", "dimes", "for", "the", "oyster", "meat", "--", "or", ",", "at", "least", "what", "was", "left", "of", "the", "oysters", "after", "the", "kitchen", "got", "their", "fiery", "hands", "on", "them", "!"], "e1_text": "were", "e1_pos": 1, "e2_text": "got", "e2_pos": 28, "label": "after"},
+{"tokens": ["We", "watched", "guests", "that", "were", "seated", "after", "us", "be", "served", "their", "dishes", "well", "in", "advance", "of", "us", "."], "e1_text": "seated", "e1_pos": 5, "e2_text": "be", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "fish", "was", "so", "dry", "I", "quit", "eating", "shortly", "after", "I", "started", "."], "e1_text": "eating", "e1_pos": 7, "e2_text": "started", "e2_pos": 11, "label": "after"}
+]

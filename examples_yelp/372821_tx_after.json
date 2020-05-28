@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "middle", "age", "asian", "waitress", "didnt", "look", "happy", "at", "all", "after", "I", "told", "her", "what", "i", "wanted", "."], "e1_text": "look", "e1_pos": 6, "e2_text": "told", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "gave", "her", "cash", "-LRB-", "cash", "and", "coins", "-RRB-", "after", "she", "took", "my", "order", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "took", "e2_pos": 11, "label": "after"}
+]

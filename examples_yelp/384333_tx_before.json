@@ -1,0 +1,4 @@
+[
+{"tokens": ["Never", "even", "seen", "that", "done", "before", "but", "it", "was", "really", "good", "."], "e1_text": "done", "e1_pos": 4, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["Great", "place", "to", "eat", "and", "watch", "the", "planes", "coming", "and", "going", "before", "you", "hit", "the", "skies", "!"], "e1_text": "coming", "e1_pos": 8, "e2_text": "hit", "e2_pos": 13, "label": "before"}
+]

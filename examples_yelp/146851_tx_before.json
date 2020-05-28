@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "'ve", "waited", "at", "the", "apple", "store", "and", "bought", "an", "iphone", "6", "before", "I", "got", "my", "food", "."], "e1_text": "bought", "e1_pos": 9, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "'ve", "been", "here", "before", "but", "the", "service", "was", "different", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

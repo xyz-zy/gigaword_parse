@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "suppose", "I", "should", "thank", "them", "for", "that", ",", "as", "it", "fills", "the", "first", "ride", "after", "a", "repair", "with", "challenges", "you", "never", "expected", "."], "e1_text": "fills", "e1_pos": 11, "e2_text": "expected", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "have", "to", "say", "the", "every", "time", "I", "have", "had", "a", "problem", "with", "a", "repair", ",", "with", "the", "exception", "of", "the", "initial", "set", "up", ",", "when", "my", "handle", "bars", "went", "one", "way", "and", "the", "front", "tire", "another", "-LRB-", "I", "fixed", "that", "after", "I", "made", "it", "through", "the", "intersection", "on", "my", "own", "-RRB-", "they", "have", "repaired", "their", "repair", "."], "e1_text": "fixed", "e1_pos": 39, "e2_text": "made", "e2_pos": 43, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "thing", "that", "did", "confuse", "me", "a", "little", "at", "first", ",", "and", "I", "'m", "not", "trying", "to", "be", "picky", "here", ",", "I", "just", "want", "to", "help", "out", "people", "who", "have", "never", "been", "there", "before", ":", "the", "rolls", "are", "all", "listed", "in", "the", "front", "section", "of", "the", "menu", "while", "the", "pieces", "are", "listed", "in", "the", "back", "section", ",", "so", "you", "kind", "of", "have", "to", "look", "for", "them", "."], "e1_text": "help", "e1_pos": 25, "e2_text": "have", "e2_pos": 29, "label": "before"},
+{"tokens": ["It", "'s", "worth", "checking", "out", "before", "you", "go", "."], "e1_text": "checking", "e1_pos": 3, "e2_text": "go", "e2_pos": 7, "label": "before"}
+]

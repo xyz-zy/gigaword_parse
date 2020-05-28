@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "never", "left", "a", "review", "on", "Yelp", "before", "but", "I", "was", "inspired", "to", "download", "the", "app", "just", "to", "warn", "people", "about", "this", "place", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "wish", "I", "would", "have", "looked", "at", "reviews", "before", "I", "came", "here", "today", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "n't", "stomach", "it", "after", "forcing", "down", "half", "."], "e1_text": "stomach", "e1_pos": 3, "e2_text": "forcing", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "was", "most", "let", "down", "by", "the", "food", ",", "which", "ultimately", "got", "me", "sick", "...", "I", "had", "heard", "good", "things", "about", "the", "place", "which", ",", "after", "I", "mentioned", "my", "experience", ",", "were", "met", "with", "''", "``", "oh", "but", "it", "was", "empty", "when", "I", "went", "and", "I", "just", "tried", "the", "pizza", "''", "''", "-", "so", "I", "guess", "it", "'s", "better", "when", "it", "'s", "not", "busy", "and", "I", "should", "have", "ordered", "the", "pizza", "?"], "e1_text": "heard", "e1_pos": 17, "e2_text": "mentioned", "e2_pos": 27, "label": "after"}
+]

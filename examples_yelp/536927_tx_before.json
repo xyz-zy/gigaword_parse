@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "did", "try", "one", "of", "the", "few", "straight-backed", "chairs", "before", "I", "left", ",", "just", "for", "comparison", "purposes", ",", "and", "they", "were", "fine", ";", "if", "we", "go", "back", ",", "I", "'ll", "insist", "on", "that", "-RRB-", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "left", "e2_pos": 12, "label": "before"}
+]

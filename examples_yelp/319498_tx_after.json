@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "picking", "up", "our", "order", "the", "guy", "at", "the", "counter", "told", "us", "we", "pay", "after", "we", "'re", "done", "...", "well", ",", "some", "pretty", "lively", "conversation", "and", "a", "few", "beers", "later", "we", "promptly", "ran", "out", "on", "our", "tab", "-LRB-", "by", "accident", "-RRB-", "."], "e1_text": "pay", "e1_pos": 13, "e2_text": "'re", "e2_pos": 16, "label": "after"},
+{"tokens": ["TaCarbon", ",", "just", "a", "suggestion", ",", "get", "your", "payment", "at", "time", "of", "food", "delivery", "!!!!!", "This", "place", "is", "run", "sort", "of", "like", "a", "cafeteria", "-", "there", "'s", "no", "reason", "to", "think", "you", "have", "to", "go", "back", "after", "you", "'re", "done", "eating", "!"], "e1_text": "go", "e1_pos": 34, "e2_text": "'re", "e2_pos": 38, "label": "after"}
+]

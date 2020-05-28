@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "here", "for", "dinner", "after", "going", "to", "Brixx", "Pizza", "and", "it", "was", "packed", "!"], "e1_text": "ended", "e1_pos": 1, "e2_text": "going", "e2_pos": 7, "label": "after"},
+{"tokens": ["Mine", "was", "good", "but", "after", "further", "inspection", "realized", "it", "basically", "was", "all", "frozen", "or", "canned", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "realized", "e2_pos": 7, "label": "after"}
+]

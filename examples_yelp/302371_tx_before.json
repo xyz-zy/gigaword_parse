@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "saw", "2", "bar", "fights", "-LRB-", "same", "people", ",", "two", "separte", "fights", ",", "-RRB-", "before", "the", "music", "even", "started", "."], "e1_text": "saw", "e1_pos": 1, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "for", "several", "minutes", "before", "realizing", "this", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "realizing", "e2_pos": 6, "label": "before"},
+{"tokens": ["No", "one", "apologized", "for", "the", "error", ",", "and", "I", "had", "to", "wait", "several", "more", "minutes", "before", "my", "order", "was", "ready", "."], "e1_text": "wait", "e1_pos": 11, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

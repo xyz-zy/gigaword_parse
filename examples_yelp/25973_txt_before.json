@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "watched", "him", "go", "to", "every", "table", "around", "us", "a", "couple", "times", "while", "we", "received", "our", "appetizer", ",", "ate", "it", ",", "and", "a", "busser", "took", "the", "plate", "before", "I", "flagged", "him", "down", "so", "we", "could", "order", "."], "e1_text": "took", "e1_pos": 24, "e2_text": "flagged", "e2_pos": 29, "label": "before"}
+]

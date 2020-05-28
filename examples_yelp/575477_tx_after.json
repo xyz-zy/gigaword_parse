@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", "it", "did", "not", "sound", "like", "a", "brake", "problem", "and", "would", "need", "to", "have", "a", "$", "30", "noise", "inspection", "done", "-LRB-", "this", "was", "also", "after", "I", "told", "them", "I", "had", "a", "coupon", "for", "the", "brakes", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "told", "e2_pos": 29, "label": "after"}
+]

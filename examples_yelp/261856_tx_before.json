@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "gave", "me", "a", "shot", "to", "numb", "it", "before", "starting", "the", "filling", ",", "and", "I", "do", "n't", "know", "what", "she", "did", "but", "the", "shot", "sent", "a", "terrible", "pain", "into", "my", "ear", "and", "after", "30", "min", "I", "still", "felt", "no", "numbness", "so", "she", "had", "to", "give", "me", "another", "shot", "in", "my", "gums", "and", "this", "time", "it", "worked", "somewhat", "but", "I", "still", "felt", "pain", "while", "she", "was", "working", "on", "the", "tooth", "."], "e1_text": "numb", "e1_pos": 6, "e2_text": "starting", "e2_pos": 9, "label": "before"},
+{"tokens": ["Within", "a", "week", ",", "that", "tooth", "had", "terrible", "sensitivity", "it", "never", "had", "before", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "had", "e2_pos": 6, "label": "before"}
+]

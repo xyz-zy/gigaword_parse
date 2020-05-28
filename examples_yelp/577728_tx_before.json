@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "they", "want", "a", "pork", "on", "pork", "sandwich", ",", "maybe", "do", "the", "pork", "tenderloin", "and", "bacon", "to", "add", "crispiness", "or", "if", "they", "want", "to", "do", "pork", "belly", ",", "they", "should", "render", "out", "the", "fat", "before", "serving", "."], "e1_text": "render", "e1_pos": 30, "e2_text": "serving", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "called", "a", "waitress", "like", "5", "times", "before", "she", "even", "realized", "-LRB-", "she", "was", "daydreaming", "-RRB-", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "realized", "e2_pos": 11, "label": "before"},
+{"tokens": ["As", "far", "as", "the", "food", ",", "do", "n't", "even", "bother", "...", "stuff", "that", "we", "had", "before", "did", "not", "taste", "the", "same", "and", "it", "was", "under", "seasoned", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "did", "e2_pos": 16, "label": "before"}
+]

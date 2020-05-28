@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "gets", "me", "is", "they", "did", "n't", "check", "the", "pre-order", "sheet", "before", "the", "meal", "-LRB-", "when", "they", "had", "it", "for", "2", "week", "before", "-RRB-", "and", "call", "me", "to", "say", "they", "had", "made", "a", "mistake", "."], "e1_text": "check", "e1_pos": 7, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

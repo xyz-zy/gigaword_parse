@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "smart", "and", "got", "there", "20", "min", "before", "they", "opened", "at", "10:40", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "opened", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "got", "in", "right", "away", "and", "tryed", "4", "tacos", "stands", "before", "11:10", ":-RRB-", "haha", "All", "the", "tacos", "were", "delish", "that", "we", "had", "and", "everything", "was", "running", "really", "smooth", ".", "."], "e1_text": "stands", "e1_pos": 9, "e2_text": "were", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Instead", "they", "informed", "me", "that", "the", "owner", "was", "not", "making", "any", "changes", "until", "after", "the", "first", "tenants", "moved", "out", "."], "e1_text": "making", "e1_pos": 9, "e2_text": "moved", "e2_pos": 17, "label": "after"},
+{"tokens": ["When", "it", "came", "time", "for", "my", "lease", "to", "come", "up", "for", "renewal", "I", "called", "the", "office", "multiple", "times", "and", "they", "kept", "dodging", "my", "phone", "calls", "and", "then", "I", "received", "a", "letter", "informing", "me", "that", "they", "were", "not", "renewing", "my", "lease", "!!!!", "They", "could", "n't", "even", "give", "me", "a", "heads", "up", "on", "the", "phone", "the", "VERY", "SAME", "DAY", "!!!", "I", "would", "never", "do", "business", "with", "this", "company", "after", "the", "way", "I", "was", "treated", "."], "e1_text": "do", "e1_pos": 61, "e2_text": "was", "e2_pos": 70, "label": "after"}
+]

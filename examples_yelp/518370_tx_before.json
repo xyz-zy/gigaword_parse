@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "located", "inside", "of", "the", "M", "Resort", "and", "I", "do", "believe", "it", "used", "to", "be", "called", "something", "else", "as", "I", "recall", "eating", "here", "once", "before", "."], "e1_text": "called", "e1_pos": 16, "e2_text": "recall", "e2_pos": 21, "label": "before"},
+{"tokens": ["The", "staff", "was", "all", "around", "great", "--", "our", "drinks", "never", "reached", "the", "halfway", "point", "before", "being", "refilled", "."], "e1_text": "reached", "e1_pos": 10, "e2_text": "being", "e2_pos": 15, "label": "before"}
+]

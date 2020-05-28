@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "actually", "got", "to", "the", "counter", "the", "lady", "chewed", "my", "head", "off", "because", "I", "walked", "up", "before", "she", "waved", "me", "over", "."], "e1_text": "walked", "e1_pos": 15, "e2_text": "waved", "e2_pos": 19, "label": "before"},
+{"tokens": ["Then", "call", "the", "operator", "and", "wait", "through", "literally", "20", "min", "of", "ringing", "before", "someone", "answered", "."], "e1_text": "wait", "e1_pos": 5, "e2_text": "answered", "e2_pos": 14, "label": "before"}
+]

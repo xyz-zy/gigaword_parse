@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "took", "a", "while", "to", "figure", "out", "what", "to", "order", "because", "we", "were", "informed", "by", "our", "group", "of", "comrades", "who", "had", "a", "reservation", "before", "we", "did", "that", "the", "portions", "were", "fantastically", "small", "and", "the", "food", "not", "all", "that", "great", "."], "e1_text": "had", "e1_pos": 20, "e2_text": "did", "e2_pos": 25, "label": "before"},
+{"tokens": ["One", "friend", "honestly", ",", "and", "repeatedly", ",", "told", "us", "to", "get", "up", "and", "flee", "the", "place", "before", "it", "was", "too", "late", "."], "e1_text": "flee", "e1_pos": 13, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

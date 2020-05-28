@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "location", "closed", "at", "6:00", "pm", ",", "which", "meant", "that", "we", "would", "not", "make", "it", "there", "before", "they", "closed", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "closed", "e2_pos": 2, "label": "before"},
+{"tokens": ["Ultimately", ",", "we", "had", "to", "get", "to", "work", "2", "hours", "late", "so", "that", "we", "could", "wait", "till", "8am", "to", "drop", "off", "the", "rental", "car", "before", "driving", "to", "the", "other", "side", "of", "town", "where", "we", "work", "."], "e1_text": "drop", "e1_pos": 19, "e2_text": "driving", "e2_pos": 25, "label": "before"}
+]

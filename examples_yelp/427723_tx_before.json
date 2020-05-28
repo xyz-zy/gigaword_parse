@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "waiter", "dropped", "off", "her", "food", "w\\/o", "saying", "a", "word", ",", "countless", "wait", "staff", "walked", "by", "her", "as", "she", "slept", "for", "45", "minutes", "before", "a", "manager", "came", "out", ",", "he", "tried", "to", "wake", "her", "then", "just", "left", ".", "."], "e1_text": "slept", "e1_pos": 19, "e2_text": "came", "e2_pos": 26, "label": "before"}
+]

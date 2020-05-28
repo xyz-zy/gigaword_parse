@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "thought", "that", ",", "surely", ",", "after", "leaving", "us", "with", "NO", "service", "after", "being", "seated", "they", "'d", "be", "attentive", "and", "get", "our", "order", "through", "fast", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 7, "label": "after"},
+{"tokens": ["A", "table", "that", "had", "arrived", "about", "ten", "minutes", "after", "us", "paid", "their", "bill", "and", "left", "about", "ten", "minutes", "before", "the", "food", "ever", "showed", "up", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "paid", "e2_pos": 10, "label": "after"}
+]

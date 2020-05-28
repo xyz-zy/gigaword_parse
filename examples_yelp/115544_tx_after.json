@@ -1,0 +1,3 @@
+[
+{"tokens": ["April", "'s", "husband", "did", "my", "fill", "and", "April", "polished", "my", "nails", "after", "her", "husband", "completed", "the", "fill", "."], "e1_text": "polished", "e1_pos": 8, "e2_text": "completed", "e2_pos": 14, "label": "after"}
+]

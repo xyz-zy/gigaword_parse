@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "week", "I", "ordered", "2", "pizzas", "for", "my", "family", "an", "hour", "and", "a", "half", "before", "we", "had", "to", "leave", "the", "houseand", "was", "govern", "an", "eta", "of", "45", "minutes", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "called", "to", "complain", "since", "we", "had", "enough", "time", "to", "pay", "for", "the", "pizza", "and", "set", "it", "on", "The", "counter", "before", "leaving", "."], "e1_text": "set", "e1_pos": 15, "e2_text": "leaving", "e2_pos": 21, "label": "before"}
+]

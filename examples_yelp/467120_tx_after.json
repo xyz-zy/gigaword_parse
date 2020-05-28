@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "sandwich", "is", "very", "sloppy", "to", "eat", "and", "that", "'s", "OK", "but", "you", "will", "have", "to", "use", "the", "restroom", "to", "clean", "yourself", "up", "after", "you", "eat", "it", "."], "e1_text": "have", "e1_pos": 14, "e2_text": "eat", "e2_pos": 25, "label": "after"},
+{"tokens": ["This", "one", "star", "rating", "is", "because", "we", "WILL", "NEVER", "COME", "BACK", "after", "visiting", "the", "restrooms", "."], "e1_text": "NEVER", "e1_pos": 8, "e2_text": "visiting", "e2_pos": 12, "label": "after"}
+]

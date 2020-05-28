@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "buy", "an", "item", "that", "was", "on", "sale", ",", "and", "they", "took", "it", "up", "for", "the", "front", "for", "me", "and", "realized", "the", "sale", "tags", "were", "out", "of", "date", "so", "one", "of", "the", "workers", "disposed", "of", "them", "before", "I", "got", "to", "the", "checkout", "!"], "e1_text": "disposed", "e1_pos": 35, "e2_text": "got", "e2_pos": 40, "label": "before"}
+]

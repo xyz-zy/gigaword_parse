@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "member", "of", "our", "party", "ordered", "ravioli", "which", "was", "$", "20", ";", "the", "issue", "was", "that", "the", "plate", "had", "a", "total", "of", "5", "medium", "sized", "raviolis", "and", "they", "were", "still", "hungry", "after", "an", "appetizer", "and", "dinner", "course", "-LRB-", "that", "'s", "$", "4", "for", "each", "piece", "of", "a", "medium", "sized", "no-frills", "ravioli", "!!", "-RRB-", "."], "e1_text": "were", "e1_pos": 28, "e2_text": "'s", "e2_pos": 39, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "at", "4am", "after", "leaving", "Vanity", "at", "Hard", "Rock", "and", "it", "was", "definitely", "the", "best", "way", "to", "end", "the", "night", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "knew", "after", "eating", "this", "meal", "that", "I", "would", "not", "feel", "the", "effects", "of", "my", "alcohol", "intake", "during", "a", "full", "night", "of", "dancing", "and", "drinking", "."], "e1_text": "knew", "e1_pos": 1, "e2_text": "eating", "e2_pos": 3, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "also", "inquired", "about", "the", "fries", "they", "serve", "at", "the", "tables", ",", "because", "we", "were", "starved", "after", "sitting", "there", "for", "about", "45", "minutes", "."], "e1_text": "starved", "e1_pos": 15, "e2_text": "sitting", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "waiter", "said", "the", "kitchen", "was", "really", "backed", "up", "so", "it", "was", "out", "of", "his", "control", ",", "but", "the", "manager", "had", "no", "problem", "getting", "them", "for", "us", ",", "which", "was", "n't", "surprising", "because", "all", "of", "the", "tables", "seated", "after", "us", "had", "already", "been", "served", "."], "e1_text": "seated", "e1_pos": 37, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

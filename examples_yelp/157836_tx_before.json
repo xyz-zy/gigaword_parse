@@ -1,0 +1,3 @@
+[
+{"tokens": ["Check", "whether", "there", "is", "an", "event", "at", "the", "Kohl", "Center", "--", "or", "a", "Wisconsin", "game", "on", "TV", "--", "before", "trying", "to", "grab", "dinner", "at", "Dotty", "'s", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "trying", "e2_pos": 19, "label": "before"}
+]

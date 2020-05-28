@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "finished", "it", "off", "with", "veggies", "and", "egg", "noodles", ",", "which", "were", "ok", ",", "but", "the", "napa", "cabbage", "was", "pretty", "bitter", ",", "even", "after", "boiling", "them", "for", "a", "long", "time", ".", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "boiling", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "best", "thing", "I", "tried", "was", "probably", "the", "tofu", ",", "it", "got", "really", "soft", "after", "boiling", "it", "for", "a", "while", "and", "it", "was", "nice", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "boiling", "e2_pos": 15, "label": "after"}
+]

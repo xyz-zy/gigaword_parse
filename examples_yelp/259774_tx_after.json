@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "first", "time", "I", "came", "was", "just", "to", "look", "at", "some", "bikes", "after", "getting", "completely", "blown", "off", "by", "the", "Vegas", "Harley", "dealership", "on", "Rainbow", "and", "ignored", "."], "e1_text": "look", "e1_pos": 8, "e2_text": "getting", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "start", "getting", "a", "bad", "feeling", ",", "worse", "than", "I", "already", "had", "about", "dealing", "with", "these", "guys", "in", "the", "future", "after", "I", "'ve", "made", "the", "purchase", "if", "that", "'s", "how", "business", "is", "done", "."], "e1_text": "dealing", "e1_pos": 13, "e2_text": "'ve", "e2_pos": 22, "label": "after"},
+{"tokens": ["So", "I", "decide", "I", "want", "to", "think", "things", "over", ",", "consider", "my", "options", ",", "and", "make", "a", "decision", "after", "taking", "the", "time", "to", "properly", "evaluate", "everything", "."], "e1_text": "make", "e1_pos": 15, "e2_text": "taking", "e2_pos": 19, "label": "after"}
+]

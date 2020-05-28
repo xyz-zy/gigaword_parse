@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "no", "physical", "therapy", ",", "no", "massage", "therapy", "included", "in", "my", "visit", ",", "which", "was", "disappointing", "as", "I", "called", "and", "asked", "about", "these", "things", "before", "I", "made", "my", "appointment", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "made", "e2_pos": 27, "label": "before"}
+]

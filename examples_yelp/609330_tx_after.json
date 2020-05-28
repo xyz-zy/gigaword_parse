@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "to", "make", "an", "appointment", "through", "their", "third-party", "affiliate", "and", "after", "being", "on", "hold", "twice", "was", "told", "the", "actual", "location", "''", "``", "was", "n't", "picking", "up", "''", "''", "and", "she", "would", "make", "a", "note", "on", "my", "file", "to", "have", "them", "''", "``", "call", "me", "in", "a", "minute", ".", "''", "''"], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "appears", "as", "though", "even", "after", "you", "have", "been", "seen", "you", "are", "sent", "to", "the", "waiting", "room", "to", "playing", "the", "waiting", "game", "for", "your", "paperwork", "-LRB-", "discharge", "-RRB-", "."], "e1_text": "appears", "e1_pos": 1, "e2_text": "have", "e2_pos": 7, "label": "after"}
+]

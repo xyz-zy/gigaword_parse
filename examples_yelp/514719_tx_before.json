@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "appetizers", "are", "fairly", "small", ",", "and", "wo", "n't", "fill", "you", "up", "before", "you", "get", "to", "the", "tacos", "."], "e1_text": "fill", "e1_pos": 9, "e2_text": "get", "e2_pos": 14, "label": "before"},
+{"tokens": ["Our", "waitress", "came", "to", "our", "table", "right", "away", ",", "asked", "if", "we", "had", "been", "there", "before", ",", "and", "filled", "us", "in", "on", "what", "we", "needed", "to", "know", "as", "first-time-diners", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

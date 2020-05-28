@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "a", "cabana", "reservation", "for", "Sunday", "at", "the", "pool", "-LRB-", "you", "have", "to", "do", "it", "before", "you", "get", "there", "-", "they", "go", "quick", "-RRB-", "."], "e1_text": "do", "e1_pos": 14, "e2_text": "get", "e2_pos": 18, "label": "before"}
+]

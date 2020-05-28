@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "arriving", "in", "Vegas", "after", "a", "10", "hr", "drive", "-LRB-", "stopped", "by", "Ktown", "in", "LA", "-RRB-", "from", "San", "Francisco", ",", "we", "were", "ready", "to", "start", "drinking", "!!", "A", "friend", "of", "ours", "had", "recommend", "this", "place", "to", "try", "."], "e1_text": "arriving", "e1_pos": 1, "e2_text": "stopped", "e2_pos": 10, "label": "after"}
+]

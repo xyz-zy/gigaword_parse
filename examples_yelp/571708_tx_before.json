@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "sent", "this", "review", "to", "them", "before", "I", "posted", "it", "to", "see", "if", "they", "could", "explain", "."], "e1_text": "sent", "e1_pos": 2, "e2_text": "posted", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "just", "regret", "not", "asking", "that", "question", "before", "I", "hired", "Moving", "Buddies", "."], "e1_text": "question", "e1_pos": 6, "e2_text": "hired", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["THE", "FOOD", "BEAT", "OUT", "THE", "DRINKS", "!!", "How", "does", "this", "happen", "??", "Not", "only", "did", "we", "wait", "7", "minutes", "to", "order", "our", "drinks", ",", "we", "waited", "another", "20", "minutes", "to", "receive", "our", "drinks", "!!", "How", "do", "you", "expect", "a", "customer", "to", "be", "happy", "when", "it", "takes", "almost", "a", "half", "hour", "after", "sitting", "down", "to", "have", "a", "drink", "in", "their", "hand", "?"], "e1_text": "BEAT", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 51, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "will", "say", "the", "Volcanic", "Nachos", "were", "like", "manna", "from", "heaven", ",", "after", "we", "got", "seated", ",", "stacked", "THIIIIIS", "high", "with", "lots", "and", "lots", "of", "`", "penos", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "got", "e2_pos": 14, "label": "after"},
+{"tokens": ["One", "person", "'s", "steak", "was", "still", "mooing", ",", "after", "ordering", "it", "medium", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "never", "had", "to", "ask", "for", "another", "drink", ",", "and", "our", "guy", "was", "incredibly", "patient", "while", "we", "waited", "for", "the", "rest", "of", "our", "party", "to", "show", "up", "after", "we", "had", "been", "seated", "."], "e1_text": "show", "e1_pos": 25, "e2_text": "had", "e2_pos": 2, "label": "after"}
+]

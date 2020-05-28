@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "little", "wary", "of", "staying", "at", "this", "hotel", "after", "reading", "some", "of", "the", "negative", "reviews", "-", "but", "note", "that", "they", "'ve", "recently", "renovated", "so", "I", "think", "some", "of", "those", "reviews", "are", "out-dated", "."], "e1_text": "staying", "e1_pos": 6, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

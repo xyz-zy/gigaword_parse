@@ -1,0 +1,4 @@
+[
+{"tokens": ["Occasionally", ",", "a", "jumper", "freezes", "and", "takes", "a", "bit", "of", "time", "before", "making", "the", "plunge", "."], "e1_text": "freezes", "e1_pos": 4, "e2_text": "making", "e2_pos": 12, "label": "before"},
+{"tokens": ["If", "you", "'re", "close", "to", "the", "limit", ",", "do", "n't", "indulge", "in", "too", "many", "all-you-can-eat", "Vegas", "buffets", "before", "jumping", "."], "e1_text": "indulge", "e1_pos": 10, "e2_text": "jumping", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "the", "buffets", "will", "charge", "you", "gratuity", "each", "time", "before", "sitting", "and", "if", "you", "do", "n't", "pay", "they", "will", "make", "your", "family", "and", "friends", "split", "even", "if", "there", "'s", "an", "open", "table", "next", "to", "you", "."], "e1_text": "gratuity", "e1_pos": 6, "e2_text": "sitting", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "resolution", ":", "I", "fill", "out", "a", "form", "to", "order", "new", "restore", "disks", "from", "HP", "for", "$", "17", ",", "I", "mail", "it", "to", "HP", ",", "and", "then", "I", "make", "another", "trip", "back", "to", "Best", "Buy", "and", "they", "will", "reimburse", "me", "the", "cash", "after", "the", "disks", "arrive", "."], "e1_text": "order", "e1_pos": 9, "e2_text": "arrive", "e2_pos": 45, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Put", "out", "breakfast", "order", "on", "door", "for", "early", "delivery", "before", "catching", "a", "flight", "."], "e1_text": "Put", "e1_pos": 0, "e2_text": "catching", "e2_pos": 10, "label": "before"}
+]

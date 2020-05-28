@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "the", "intended", "clientle", "is", "the", "over", "65", "crowd", "and", "although", "my", "11", "year", "old", "and", "9", "month", "old", "were", "treated", "kindly", ",", "I", "found", "it", "a", "bit", "off", "putting", "to", "have", "one", "of", "the", "staff", "sweep", "the", "floor", "for", "the", "5", "baby", "snacks", "my", "baby", "dropped", "under", "his", "high", "chair", "before", "we", "'ve", "even", "been", "served", "dinner", "."], "e1_text": "dropped", "e1_pos": 46, "e2_text": "'ve", "e2_pos": 53, "label": "before"},
+{"tokens": ["And", "I", "would", "have", "picked", "them", "up", "myself", "before", "we", "left", "but", "apparently", "they", "were", "bothering", "someone", "enough", "that", "she", "had", "to", "drag", "out", "the", "broom", "and", "dust", "pan", "and", "make", "a", "scene", "about", "sweeping", "them", "up", "."], "e1_text": "picked", "e1_pos": 4, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

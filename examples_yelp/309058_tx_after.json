@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "best", "friend", "has", "been", "raving", "about", "the", "$", "28", "ounce", "of", "kobe", "from", "Cut", "and", "how", "great", "it", "was", "-LRB-", "his", "gf", "did", "n't", "let", "him", "eat", "it", "after", "she", "tried", "it", "-RRB-", "and", "so", "I", "'ve", "wanting", "to", "try", "Cut", "for", "a", "while", "."], "e1_text": "eat", "e1_pos": 27, "e2_text": "tried", "e2_pos": 31, "label": "after"}
+]

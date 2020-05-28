@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "dishwasher", "at", "the", "Sears", "online", "store", "and", "changed", "my", "mind", "after", "I", "paid", "for", "it", "with", "paypal", "."], "e1_text": "changed", "e1_pos": 10, "e2_text": "paid", "e2_pos": 15, "label": "after"}
+]

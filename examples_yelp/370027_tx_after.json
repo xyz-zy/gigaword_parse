@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "booked", "the", "island", "tower", ",", "after", "reading", "reviews", "about", "the", "garden", "rooms", "."], "e1_text": "booked", "e1_pos": 1, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "would", "be", "scared", "to", "see", "what", "the", "Island", "or", "Garden", "rooms", "are", "like", "after", "being", "in", "the", "Paradise", "tower", "."], "e1_text": "are", "e1_pos": 12, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

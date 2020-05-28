@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "boyfriend", "and", "I", "waited", "a", "half", "an", "hour", "after", "we", "ordered", "to", "receive", "our", "water", "and", "coffee", "-LRB-", "well", ",", "only", "his", "coffee", "arrived", "-RRB-", ",", "and", "we", "would", "have", "walked", "out", ",", "except", "that", "our", "food", "came", "at", "exactly", "the", "same", "time", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 11, "label": "after"}
+]

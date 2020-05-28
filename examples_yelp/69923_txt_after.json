@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "talked", "me", "into", "a", "cleaning", "first", "because", "I", "would", "n't", "I", "want", "to", "do", "that", "after", "I", "had", "it", "stretched", "."], "e1_text": "do", "e1_pos": 14, "e2_text": "had", "e2_pos": 18, "label": "after"},
+{"tokens": ["They", "rushed", "through", "a", "half-assed", "cleaning", "and", "then", "the", "guys", "that", "came", "to", "stretch", "it", "said", "that", "it", "was", "too", "difficult", "of", "a", "job", "after", "gouging", "the", "wood-work", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "gouging", "e2_pos": 25, "label": "after"}
+]

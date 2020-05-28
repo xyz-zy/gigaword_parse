@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "also", "was", "not", "so", "great", ",", "the", "waiter", "forgot", "our", "salad", "and", "completely", "spaced", "out", "ordering", "one", "of", "our", "pizzas", ",", "which", "actually", ",", "we", "were", "glad", "to", "see", "because", "we", "did", "n't", "really", "want", "it", "after", "trying", "the", "first", "one", "."], "e1_text": "want", "e1_pos": 36, "e2_text": "trying", "e2_pos": 39, "label": "after"}
+]

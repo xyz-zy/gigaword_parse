@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "moved", "back", "to", "Tempe", "to", "attend", "graduate", "school", "at", "ASU", ",", "after", "having", "lived", "out", "of", "state", "for", "a", "number", "of", "years", ",", "I", "learned", "of", "the", "3", "Roots", "Coffee", "Shop", "from", "a", "couple", "of", "colleagues", "."], "e1_text": "moved", "e1_pos": 2, "e2_text": "having", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "cafe", "'s", "proximity", "to", "a", "campus", "that", "is", "laughably", "short", "on", "food", "options", "allows", "them", "to", "markup", "menu", "items", "to", "a", "point", "that", "a", "peanut", "butter", "and", "jelly", "sandwich", "and", "a", "cup", "of", "coffee", "leaves", "you", "with", "little", "change", "after", "paying", "with", "a", "ten", "dollar", "bill", "."], "e1_text": "leaves", "e1_pos": 35, "e2_text": "paying", "e2_pos": 41, "label": "after"}
+]

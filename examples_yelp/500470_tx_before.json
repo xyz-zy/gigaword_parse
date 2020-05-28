@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nothing", "to", "wrap", "the", "meat", "in", "before", "popping", "them", "in", "your", "mouth", "."], "e1_text": "wrap", "e1_pos": 2, "e2_text": "popping", "e2_pos": 7, "label": "before"},
+{"tokens": ["You", "add", "it", "with", "the", "meat", ",", "ssam", "jang", ",", "and", "rice", "into", "your", "lettuce", "before", "trying", "to", "stuff", "it", "all", "down", "your", "throat", "."], "e1_text": "add", "e1_pos": 1, "e2_text": "trying", "e2_pos": 16, "label": "before"}
+]

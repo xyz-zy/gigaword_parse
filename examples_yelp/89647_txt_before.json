@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "called", "Monday", "morning", "to", "talk", "to", "our", "car", "salesman", "we", "were", "told", "that", "we", "'d", "have", "to", "wait", "to", "pick", "up", "the", "car", "until", "right", "before", "closing", "because", "the", "''", "``", "carpets", "were", "still", "drying", ".", "''", "''"], "e1_text": "wait", "e1_pos": 19, "e2_text": "closing", "e2_pos": 28, "label": "before"},
+{"tokens": ["The", "paint", "work", "that", "was", "supposed", "to", "have", "been", "completed", "was", "the", "wrong", "color", "--", "he", "even", "admitted", "it", "before", "we", "saw", "it", "."], "e1_text": "admitted", "e1_pos": 17, "e2_text": "saw", "e2_pos": 21, "label": "before"}
+]

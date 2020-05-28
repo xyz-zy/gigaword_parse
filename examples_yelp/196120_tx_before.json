@@ -1,0 +1,3 @@
+[
+{"tokens": ["try", "those", "if", "you", "'re", "hungry", "or", "if", "you", "need", "to", "refuel", "yourself", "before", "you", "lose", "your", "shorts", "at", "the", "craps", "table", "."], "e1_text": "refuel", "e1_pos": 11, "e2_text": "lose", "e2_pos": 15, "label": "before"}
+]

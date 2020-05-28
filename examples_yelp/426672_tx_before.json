@@ -1,0 +1,3 @@
+[
+{"tokens": ["Buyer", "beware", "...", "we", "looked", "at", "a", "BEAUTIFUL", "model", "approximately", "seven", "months", "before", "we", "moved", "in", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "moved", "e2_pos": 14, "label": "before"}
+]

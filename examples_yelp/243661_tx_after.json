@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "my", "Allsate", "agent", "and", "went", "to", "get", "my", "vehicle", "the", "next", "day", "after", "being", "assured", "I", "would", "n't", "have", "to", "speak", "to", "that", "man", "or", "sign", "any", "paper", "work", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["Of", "course", "when", "I", "get", "there", "they", "want", "me", "to", "sign", "so", "Allstate", "will", "pay", "for", "the", "work", "they", "did", "I", "refused", "and", "after", "an", "hour", "of", "arguing", "they", "called", "my", "agent", "and", "let", "me", "go", "without", "signing", "the", "paperwork", "."], "e1_text": "pay", "e1_pos": 14, "e2_text": "called", "e2_pos": 29, "label": "after"}
+]

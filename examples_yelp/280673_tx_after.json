@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "a", "pizza", "place", "which", "I", "figured", "out", "after", "we", "already", "ordered", "which", "sucked", "especially", "after", "eating", "the", "gross", "pasta", "which", "came", "to", "our", "table", "and", "saw", "the", "delicious", "pizza", "which", "went", "to", "others", "'", "tables", "."], "e1_text": "figured", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "after"}
+]

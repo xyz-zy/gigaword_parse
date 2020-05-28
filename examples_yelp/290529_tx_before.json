@@ -1,0 +1,4 @@
+[
+{"tokens": ["does", "the", "guy", "lose", "the", "girl", ",", "and", "then", "see", "her", "pursued", "and", "wooed", "by", "another", "dude", "before", "she", "gets", "killed", "in", "an", "accident", "and", "go", "to", "heaven", "?"], "e1_text": "pursued", "e1_pos": 11, "e2_text": "gets", "e2_pos": 19, "label": "before"},
+{"tokens": ["and", "that", "should", "have", "been", "my", "cue", "to", "request", "a", "refund", "before", "I", "even", "go", "it", "."], "e1_text": "request", "e1_pos": 8, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

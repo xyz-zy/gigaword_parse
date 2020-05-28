@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "iPhone", "here", "after", "I", "dropped", "it", "in", "my", "pool", "and", "it", "went", "dead", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "dropped", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "still", "had", "some", "water", "spots", "on", "the", "screen", "after", "cleaning", "but", "they", "cleared", "up", "within", "12", "hours", "from", "just", "using", "the", "phone", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "cleaning", "e2_pos": 10, "label": "after"}
+]

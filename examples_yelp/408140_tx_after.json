@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "couple", "that", "came", "after", "us", "complained", ",", "following", "our", "first", "inquiry", "about", "our", "number", "in", "line", ",", "and", "they", "received", "a", "free", "appetizer", "--", "we", "did", "not", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "complained", "e2_pos": 6, "label": "after"},
+{"tokens": ["Our", "waitress", "then", "forgot", "our", "orders", "after", "we", "had", "placed", "them", "-LRB-", "and", "had", "to", "come", "back", "to", "our", "table", "10", "minutes", "later", "to", "ask", "us", "what", "we", "had", "ordered", "-RRB-", "."], "e1_text": "forgot", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

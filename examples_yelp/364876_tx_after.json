@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "a", "regular", "at", "Sauce", "Pizza", "+", "Wine", ",", "and", "it", "usually", "takes", "them", "about", "3", "minutes", "to", "bring", "my", "salad", "after", "ordering", ",", "then", "another", "5", "minutes", "to", "have", "my", "pizza", "out", "."], "e1_text": "bring", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 23, "label": "after"}
+]

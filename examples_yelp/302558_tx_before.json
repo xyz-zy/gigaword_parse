@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "the", "time", "we", "got", "the", "check", "I", "told", "our", "waiter", "that", "we", "were", "there", "for", "happy", "hour", "and", "that", "our", "check", "did", "not", "reflect", "those", "prices", "and", "she", "said", "that", "because", "we", "got", "seated", "a", "few", "minutes", "before", "happy", "hour", "started", "-LRB-", "probably", "5-10", "minutes", "before", "-RRB-", "she", "had", "to", "charge", "us", "full", "price", "."], "e1_text": "seated", "e1_pos": 34, "e2_text": "started", "e2_pos": 41, "label": "before"}
+]

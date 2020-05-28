@@ -1,0 +1,5 @@
+[
+{"tokens": ["\\*\\*\\*", "Reply", "to", "''", "``", "owners", "''", "''", "comment", "\\*\\*\\*\\*", "Jason", ",", "Maybe", "you", "should", "get", "YOUR", "facts", "straight", "before", "posting", "a", "reply", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "posting", "e2_pos": 20, "label": "before"},
+{"tokens": ["Your", "bartender", "is", "not", "a", "pleasant", "person", "as", "she", "would", "ask", "what", "we", "wanted", "and", "not", "wait", "for", "the", "answer", "before", "turning", "and", "getting", "another", "customer", "a", "drink", "."], "e1_text": "wait", "e1_pos": 16, "e2_text": "turning", "e2_pos": 21, "label": "before"},
+{"tokens": ["Also", "please", "learn", "to", "read", "before", "posting", "replies", "as", "I", "stated", "the", "owner", "BASICALLY", "said", "to", "shut", "up", "and", "stop", "whining", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "posting", "e2_pos": 6, "label": "before"}
+]

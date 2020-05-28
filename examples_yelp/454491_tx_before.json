@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "egg", "drop", "soup", "had", "mushrooms", "in", "it", "that", "I", "am", "positive", "they", "did", "not", "clean", "before", "putting", "them", "in", "the", "soup", "."], "e1_text": "clean", "e1_pos": 15, "e2_text": "putting", "e2_pos": 17, "label": "before"}
+]

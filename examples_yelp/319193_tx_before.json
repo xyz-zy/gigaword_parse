@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "we", "had", "confirmed", "the", "number", "of", "people", "in", "our", "party", "the", "day", "before", "but", "they", "still", "seemed", "unprepared", "for", "such", "a", "large", "party", "."], "e1_text": "confirmed", "e1_pos": 3, "e2_text": "seemed", "e2_pos": 17, "label": "before"},
+{"tokens": ["Rolling", "her", "eyes", "and", "sighing", "when", "we", "asked", "for", "the", "check", "to", "be", "split", "and", "never", "saying", "thank", "you", "before", "we", "left", "."], "e1_text": "thank", "e1_pos": 17, "e2_text": "left", "e2_pos": 21, "label": "before"}
+]

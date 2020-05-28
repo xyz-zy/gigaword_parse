@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dirty", "dishes", "remained", "on", "the", "table", "the", "duration", "of", "our", "meal", "even", "though", "the", "apps", "were", "done", "-LRB-", "when", "I", "say", "done", "I", "do", "n't", "mean", "completed", "-RRB-", "before", "the", "entrees", "were", "delivered", "."], "e1_text": "done", "e1_pos": 17, "e2_text": "were", "e2_pos": 16, "label": "before"}
+]

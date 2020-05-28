@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "came", "highly", "recommended", "-LRB-", "I", "should", "have", "considered", "the", "source", "before", "believing", "them", "-RRB-", "."], "e1_text": "considered", "e1_pos": 9, "e2_text": "believing", "e2_pos": 13, "label": "before"}
+]

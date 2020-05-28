@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "-", "is", "dry", "maybe", "because", "I", "already", "judged", "it", "before", "tasting", "it", "and", "probably", "because", "the", "experience", "left", "a", "bad", "taste", "in", "my", "mouth", "Wish", "it", "was", "a", "better", "experience", "."], "e1_text": "judged", "e1_pos": 8, "e2_text": "tasting", "e2_pos": 11, "label": "before"}
+]

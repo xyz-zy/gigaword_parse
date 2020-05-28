@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "did", "n't", "give", "us", "menus", "for", "at", "least", "10-15", "minutes", "after", "we", "sat", "waiting", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "sat", "e2_pos": 13, "label": "after"},
+{"tokens": ["After", "all", "the", "rudeness", "and", "check", "delivered", ",", "we", "were", "charged", "for", "dessert", "after", "several", "servers", "advised", "it", "was", "part", "of", "the", "prix", "fix", "menu", "."], "e1_text": "charged", "e1_pos": 10, "e2_text": "advised", "e2_pos": 16, "label": "after"}
+]

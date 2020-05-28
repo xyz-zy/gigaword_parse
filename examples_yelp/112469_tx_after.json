@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "blast", "singing", "karaoke", "on", "stage", "and", "it", "rocked", "the", "house", ",", "so", "much", "so", ",", "that", "the", "DJ", "would", "n't", "even", "acknowledge", "me", "after", "that", ",", "when", "I", "tried", "to", "submit", "another", "song", "."], "e1_text": "acknowledge", "e1_pos": 24, "e2_text": "tried", "e2_pos": 31, "label": "after"},
+{"tokens": ["We", "finally", "left", "after", "the", "second", "drum", "solo", "that", "was", "going", "on", "without", "any", "other", "accompaniment", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

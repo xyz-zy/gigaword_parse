@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "also", "comment", "that", "I", "had", "not", "in", "the", "two", "conversations", "I", "had", "with", "her", "raised", "my", "voice", "or", "acted", "unprofessionally", "-LRB-", "it", "was", "a", "business", "transaction", ",", "after", "all", "-RRB-", "."], "e1_text": "comment", "e1_pos": 3, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "Short", "Story", ":", "I", "'m", "very", "disappointed", "and", "since", "the", "Phoenician", "probably", "does", "n't", "really", "care", "if", "I", "'m", "happy", "with", "them", "or", "not", ",", "the", "best", "I", "could", "do", "is", "review", "the", "resort", "with", "the", "added", "warning", ":", "watch", "your", "credit", "card", "statements", "after", "you", "stay", "here", "because", "your", "credit", "card", "on", "file", "at", "the", "hotel", "IS", "NOT", "SAFE", "."], "e1_text": "watch", "e1_pos": 40, "e2_text": "stay", "e2_pos": 47, "label": "after"}
+]

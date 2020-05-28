@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waited", "5", "minutes", "before", "I", "was", "even", "acknowledged", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "was", "e2_pos": 5, "label": "before"},
+{"tokens": ["When", "I", "chose", "to", "sit", "outside", "-LRB-", "the", "only", "place", "there", "was", "an", "available", "table", "-RRB-", ",", "I", "sat", "for", "another", "10", "minutes", "before", "anyone", "came", "to", "my", "table", ",", "and", "that", "was", "only", "because", "they", "saw", "me", "get", "up", "to", "leave", "."], "e1_text": "sat", "e1_pos": 18, "e2_text": "came", "e2_pos": 25, "label": "before"}
+]

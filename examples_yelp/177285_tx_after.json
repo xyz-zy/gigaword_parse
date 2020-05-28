@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "agree", "to", "join", "the", "group", "for", "dinner", "at", "the", "buffet", "after", "all", "we", "came", "to", "Vegas", "to", "see", "each", "other", "and", "it", "would", "be", "easy", "to", "see", "every", "one", "while", "eating", "."], "e1_text": "join", "e1_pos": 4, "e2_text": "came", "e2_pos": 15, "label": "after"}
+]

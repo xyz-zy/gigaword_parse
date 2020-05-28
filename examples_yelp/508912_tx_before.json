@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wickenburg", "is", "the", "mid-way", "point", "for", "this", "long", "drive", ",", "and", "Tastee", "Freez", "is", "a", "great", "place", "to", "stop", "for", "a", "refreshing", "drink", "before", "getting", "back", "on", "the", "road", "."], "e1_text": "stop", "e1_pos": 18, "e2_text": "getting", "e2_pos": 24, "label": "before"},
+{"tokens": ["On", "a", "hot", "summer", "day", ",", "you", "are", "lucky", "to", "make", "it", "to", "your", "car", "before", "it", "starts", "to", "melt", "and", "drip", "all", "over", "your", "hand", "."], "e1_text": "make", "e1_pos": 10, "e2_text": "starts", "e2_pos": 17, "label": "before"}
+]

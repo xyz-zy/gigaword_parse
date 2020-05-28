@@ -1,0 +1,4 @@
+[
+{"tokens": ["From", "what", "I", "heard", ",", "it", "took", "about", "20", "minutes", "for", "maintenance", "to", "show", "up", "and", "then", "another", "20", "before", "they", "got", "a", "new", "room", "."], "e1_text": "show", "e1_pos": 13, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "gave", "up", "before", "I", "actually", "found", "another", "hotel", ",", "so", "we", "checked", "out", "and", "figured", "that", "it", "would", "be", "better", "to", "sleep", "in", "my", "car", "than", "in", "this", "hotel", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "found", "e2_pos": 6, "label": "before"}
+]

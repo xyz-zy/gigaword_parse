@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "them", "several", "times", "to", "figure", "out", "what", "was", "wrong", "with", "it", "after", "throwing", "random", "parts", "at", "it", "to", "see", "if", "that", "was", "the", "problem", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "throwing", "e2_pos": 14, "label": "after"},
+{"tokens": ["Update", "as", "of", "12\\/5\\/14", "On", "Monday", "12\\/1", "i", "started", "to", "have", "the", "same", "shifting", "problem", "again", "after", "getting", "my", "truck", "back", "a", "few", "days", "previously", "."], "e1_text": "have", "e1_pos": 10, "e2_text": "getting", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "had", "to", "get", "Chrysler", "involved", "after", "they", "have", "wasted", "over", "a", "month", "and", "half", "of", "my", "life", "...", "Please", "people", "Never", "take", "your", "vehicles", "there", "for", "repair", "...", "Unless", "you", "never", "want", "to", "see", "it", "again", "."], "e1_text": "involved", "e1_pos": 5, "e2_text": "have", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "also", "ordered", "an", "appetizer", "and", "that", "did", "not", "come", "out", "until", "after", "the", "main", "dishes", "were", "almost", "gone", "."], "e1_text": "come", "e1_pos": 9, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "also", "noticed", "that", "two", "fairly", "attractive", "women", "came", "to", "the", "bar", "after", "we", "went", "back", "to", "our", "table", ",", "they", "were", "helped", "right", "away", "and", "they", "even", "finished", "and", "left", "before", "us", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "went", "e2_pos": 14, "label": "after"}
+]

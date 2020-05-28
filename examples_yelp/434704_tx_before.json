@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "problem", "I", "have", "ever", "run", "into", "is", "when", "I", "order", "with", "soy", "paper", ",", "on", "many", "occasions", "they", "have", "done", "it", "incorrectly", "and", "done", "the", "seaweed", "and", "I", "get", "home", "before", "I", "realize", "it", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "realize", "e2_pos": 34, "label": "before"},
+{"tokens": ["Just", "check", "your", "order", "before", "you", "leave", "if", "you", "order", "to", "go", "!"], "e1_text": "check", "e1_pos": 1, "e2_text": "leave", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "sat", "myself", "on", "down", "and", "waited", "for", "about", "5", "minutes", "before", "I", "got", "my", "water", ",", "and", "then", "took", "a", "look", "over", "the", "menu", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "got", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "place", "was", "pretty", "full", ",", "yes", ",", "but", "I", "watched", "several", "other", "tables", "that", "showed", "up", "after", "me", "get", "their", "stuff", "before", "I", "did", "."], "e1_text": "get", "e1_pos": 19, "e2_text": "did", "e2_pos": 24, "label": "before"}
+]

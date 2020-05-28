@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "about", "you", "but", "when", "I", "go", "to", "they", "gym", "I", "do", "n't", "like", "to", "be", "sweaty", "before", "I", "even", "start", "working", "out", "."], "e1_text": "be", "e1_pos": 18, "e2_text": "start", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "would", "double", "check", "before", "going", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "going", "e2_pos": 5, "label": "before"}
+]

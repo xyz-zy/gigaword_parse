@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "seafood", "was", "fresh", ",", "the", "food", "was", "always", "served", "hot", ",", "and", "the", "wait", "staff", "was", "pretty", "prompt", "about", "making", "sure", "the", "tables", "were", "clean", ",", "plates", "were", "taken", "soon", "after", "finishing", "a", "mean", ",", "and", "the", "drinks", "were", "always", "refilled", "."], "e1_text": "taken", "e1_pos": 29, "e2_text": "finishing", "e2_pos": 32, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "the", "reviews", "before", "preordering", "wings", "before", "the", "Super", "Bowl", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "preordering", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "asked", "to", "speak", "to", "the", "manager", "before", "posting", "this", "review", "."], "e1_text": "speak", "e1_pos": 3, "e2_text": "posting", "e2_pos": 8, "label": "before"}
+]

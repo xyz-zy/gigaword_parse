@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "the", "cashier", "can", "not", "box", "them", "up", "immediately", "after", "handing", "money", "and", "cash", ",", "but", "it", "still", "seemed", "a", "bit", "unfair", "that", "I", "had", "to", "wait", "behind", "all", "of", "the", "sandwich", "orders", "."], "e1_text": "box", "e1_pos": 7, "e2_text": "handing", "e2_pos": 12, "label": "after"}
+]

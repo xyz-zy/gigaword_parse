@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "occurred", "on", "a", "Tuesday", "afternoon", "around", "2:00", "pm", "when", "the", "restaurant", "was", "practically", "empty", "before", "the", "drinks", "were", "placed", "on", "the", "table", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "have", "never", "walked", "out", "before", "getting", "my", "drinks", "."], "e1_text": "walked", "e1_pos": 3, "e2_text": "getting", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "was", "that", "they", "informed", "me", "that", "they", "would", "be", "canceling", "the", "reservation", "5", "days", "after", "I", "made", "them", ",", "not", "10", ",", "which", "is", "correct", "."], "e1_text": "canceling", "e1_pos": 11, "e2_text": "made", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "putting", "that", "aside", "we", "were", "seated", "shortly", "after", "arriving", "...", "and", "waited", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "arriving", "e2_pos": 10, "label": "after"},
+{"tokens": ["Dessert", "was", "also", "included", "-", "we", "opted", "for", "the", "cheesecake", "however", ",", "between", "the", "odd", "tasting", "crust", "&", "the", "neon", "green", "gel-like", "stuff", "swirled", "on", "the", "plate", "after", "2", "bites", "my", "husband", "was", "''", "``", "done", "''", "''", "."], "e1_text": "swirled", "e1_pos": 23, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

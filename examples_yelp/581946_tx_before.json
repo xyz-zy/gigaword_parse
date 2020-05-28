@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "quite", "use", "to", "Thai", "Express", "'", "level", "of", "service", ",", "which", "is", "''", "``", "express", "''", "''", "level", ",", "at", "most", "locations", "you", "'re", "chowing", "down", "before", "McDonalds", "has", "even", "finished", "microwaving", "your", "burger", "."], "e1_text": "chowing", "e1_pos": 26, "e2_text": "has", "e2_pos": 30, "label": "before"},
+{"tokens": ["I", "stood", "there", "a", "good", "3", "minutes", "before", "someone", "finally", "meandered", "over", ",", "after", "placing", "my", "order", "I", "stood", "and", "waited", ",", "there", "was", "no", "one", "cooking", "anything", ",", "and", "now", "a", "few", "others", "placed", "orders", "after", "me", ",", "still", "no", "one", "manning", "the", "wok", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "meandered", "e2_pos": 10, "label": "before"}
+]

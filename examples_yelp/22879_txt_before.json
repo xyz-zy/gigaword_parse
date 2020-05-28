@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "then", "went", "through", "the", "line", "to", "make", "our", "order", "but", "for", "some", "reason", "were", "moving", "at", "the", "slowest", "pace", "I", "have", "ever", "seen", "at", "any", "Chiptole", "location", ",", "there", "was", "no", "sense", "of", "urgency", "and", "I", "had", "placed", "my", "order", "over", "a", "half", "hour", "before", "arriving", ",", "mind", "you", ",", "there", "was", "no", "line", ",", "which", "is", "rare", "for", "any", "Chiptole", ",", "so", "it", "really", "made", "no", "sense", "that", "our", "service", "was", "this", "poor", "."], "e1_text": "placed", "e1_pos": 38, "e2_text": "arriving", "e2_pos": 46, "label": "before"},
+{"tokens": ["And", "will", "defintely", "think", "twice", "before", "ordering", "online", "with", "you", "guys", ",", "very", "disappointing", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 6, "label": "before"}
+]

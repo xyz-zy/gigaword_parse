@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "prove", "myself", "to", "her", "via", "emails", "before", "she", "finally", "admitted", "any", "error", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "admitted", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "went", "in", "to", "the", "office", "before", "I", "had", "paid", "my", "final", "bill", ",", "which", "is", "when", "I", "saw", "the", "charge", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

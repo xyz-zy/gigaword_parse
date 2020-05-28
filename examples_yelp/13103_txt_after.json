@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "Bell", "'s", "HopSlam", "the", "next", "moment", "I", "saw", "the", "waitress", ",", "and", "it", "came", "only", "5", "minutes", "after", "I", "pained", "through", "the", "flat", "gin", "and", "tonic", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "pained", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "firearm", "was", "clear", ",", "though", "within", "seconds", "of", "walking", "in", ",", "I", "was", "approached", "by", "a", "staff", "member", ",", "''", "``", "before", "you", "walk", "in", ",", "will", "you", "be", "sure", "a", "round", "is", "n't", "chambered", "?", "''", "''"], "e1_text": "approached", "e1_pos": 14, "e2_text": "walk", "e2_pos": 24, "label": "before"},
+{"tokens": ["Second", ",", "how", "does", "he", "know", "I", "did", "n't", "do", "this", "because", "he", "asked", "me", "to", "clear", "before", "I", "walked", "in", "."], "e1_text": "clear", "e1_pos": 16, "e2_text": "walked", "e2_pos": 19, "label": "before"}
+]

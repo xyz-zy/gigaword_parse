@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "think", "about", "it", ",", "since", "he", "'s", "always", "been", "just", "flat", "toast", "and", "worn", "out", "after", "boarding", "before", "-LRB-", "lots", "of", "excitement", "from", "being", "around", "so", "many", "other", "dogs", "-RRB-", "."], "e1_text": "worn", "e1_pos": 16, "e2_text": "boarding", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "took", "him", "back", "the", "following", "day", "--", "the", "vet", "-LRB-", "not", "the", "one", "we", "'ve", "seen", "before", "-RRB-", "says", "''", "``", "let", "'s", "boost", "his", "Bordatella", "and", "go", "with", "some", "antibiotics", "''", "''", "."], "e1_text": "back", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 15, "label": "before"}
+]

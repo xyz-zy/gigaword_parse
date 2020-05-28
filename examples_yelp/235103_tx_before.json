@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "have", "a", "decent", "system", "for", "the", "wait", "list", ",", "but", "from", "what", "I", "can", "tell", ",", "people", "have", "about", "20-30", "minutes", "to", "get", "to", "their", "lane", "when", "texted", "before", "they", "give", "it", "to", "the", "next", "person", "...", "THIRTY", "minutes", "!"], "e1_text": "texted", "e1_pos": 28, "e2_text": "give", "e2_pos": 31, "label": "before"},
+{"tokens": ["There", "is", "much", "room", "for", "improvement", "in", "that", "system", "but", "for", "now", ",", "you", "can", "go", "pretty", "far", "and", "make", "it", "back", "in", "30", "min", "before", "they", "give", "your", "lane", "away", "."], "e1_text": "make", "e1_pos": 19, "e2_text": "give", "e2_pos": 27, "label": "before"}
+]

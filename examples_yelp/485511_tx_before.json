@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "anyone", "has", "any", "intentions", "of", "planning", "a", "dinner", "party", "at", "this", "restaurant", ",", "I", "would", "recommend", "you", "have", "a", "signed", "agreement", "on", "the", "seating", "plan", "before", "spending", "an", "evening", "in", "a", "storage", "room", "."], "e1_text": "have", "e1_pos": 18, "e2_text": "spending", "e2_pos": 27, "label": "before"}
+]

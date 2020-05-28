@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "can", "not", "understand", "why", "they", "would", "n't", "find", "it", "important", "to", "let", "me", "know", ",", "after", "I", "told", "them", "I", "heard", "about", "them", "on", "the", "Internet", ",", "that", "the", "Cotswold", "location", "was", "n't", "open", "right", "now", "."], "e1_text": "know", "e1_pos": 14, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

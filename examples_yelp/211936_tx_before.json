@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "members", "of", "our", "group", "were", "a", "little", "late", ",", "but", "still", "made", "it", "to", "the", "restaurant", "before", "our", "reservation", "was", "canceled", "."], "e1_text": "made", "e1_pos": 12, "e2_text": "was", "e2_pos": 20, "label": "before"},
+{"tokens": ["For", "no", "particular", "reason", ",", "the", "waitstaff", "at", "Tao", "decided", "that", "the", "appropriate", "action", "was", "to", "make", "our", "group", "wait", "before", "seating", "us", "."], "e1_text": "make", "e1_pos": 16, "e2_text": "seating", "e2_pos": 21, "label": "before"}
+]

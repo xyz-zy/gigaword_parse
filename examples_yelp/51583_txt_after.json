@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "establish", "my", "credibility", ",", "I", "must", "first", "say", "that", "I", "had", "been", "in", "the", "food", "service", "industry", "for", "almost", "10", "years", "-LRB-", "highschool", "and", "college", "-RRB-", "and", "so", "I", "'ve", "worked", "low", "end", "and", "high", "end", "and", "I", "think", "after", "experiencing", "different", "levels", "of", "the", "food", "industry", ",", "I", "know", "what", "I", "'m", "talking", "about", "."], "e1_text": "think", "e1_pos": 39, "e2_text": "experiencing", "e2_pos": 41, "label": "after"},
+{"tokens": ["If", "we", "were", "there", "after", "closing", "time", ",", "which", "is", "I", "believe", "11", ",", "I", "could", "understand", ",", "but", "there", "was", "still", "an", "hour", "and", "15", "minutes", "still", "left", "to", "service", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "is", "e2_pos": 9, "label": "after"}
+]

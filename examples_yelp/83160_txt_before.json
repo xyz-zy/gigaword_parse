@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "it", "was", "time", "to", "take", "our", "order", ",", "she", "barely", "gave", "us", "time", "to", "finish", "saying", "what", "we", "wanted", "before", "she", "was", "on", "to", "the", "next", "person", "."], "e1_text": "wanted", "e1_pos": 19, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["It", "will", "be", "a", "while", "before", "I", "give", "this", "place", "another", "chance", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "give", "e2_pos": 7, "label": "before"}
+]

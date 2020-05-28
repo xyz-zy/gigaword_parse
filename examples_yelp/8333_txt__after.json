@@ -1,0 +1,3 @@
+[
+{"tokens": ["Three", "of", "us", "were", "there", "for", "dinner", "on", "Wednesday", ",", "they", "brought", "out", "one", "persons", "meal", ",", "then", "after", "that", "person", "was", "done", "eating", ",", "they", "brought", "out", "the", "second", "persons", "meal", ",", "and", "then", "after", "that", "person", "was", "done", "eating", ",", "they", "brought", "out", "the", "last", "meal", ",", "-LRB-", "which", "was", "sushi", ",", "so", "should", "not", "have", "taken", "an", "hour", "-RRB-", "."], "e1_text": "brought", "e1_pos": 11, "e2_text": "was", "e2_pos": 21, "label": "after"}
+]

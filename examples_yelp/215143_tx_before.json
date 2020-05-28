@@ -1,0 +1,4 @@
+[
+{"tokens": ["Did", "n't", "know", "which", "wine", "I", "wanted", "to", "have", "and", "had", "to", "ask", "if", "I", "could", "sample", "a", "few", "before", "ordering", "a", "glass", "."], "e1_text": "sample", "e1_pos": 16, "e2_text": "ordering", "e2_pos": 20, "label": "before"},
+{"tokens": ["Many", "servers", "in", "other", "restaurants", "and", "wine", "bars", "automatically", "offer", "samples", "before", "you", "buy", ",", "but", "not", "here", "."], "e1_text": "offer", "e1_pos": 9, "e2_text": "buy", "e2_pos": 13, "label": "before"}
+]

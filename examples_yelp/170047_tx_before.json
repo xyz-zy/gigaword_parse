@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "do", "n't", "crash", "into", "someone", "before", "you", "'ve", "passed", "all", "these", "sections", ",", "you", "\\*", "might", "\\*", "find", "a", "spot", "on", "the", "uncovered", "roof", "!", ".", "."], "e1_text": "crash", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "garage", "empties", "into", "the", "gift", "shops", ",", "so", "be", "ready", "for", "sexually", "suggestive", "imagery", ",", "people", "trying", "to", "squirt", "stuff", "on", "you", ",", "and", "miles", "more", "walking", "before", "you", "get", "to", "the", "registration", "desk", "."], "e1_text": "walking", "e1_pos": 27, "e2_text": "get", "e2_pos": 30, "label": "before"}
+]

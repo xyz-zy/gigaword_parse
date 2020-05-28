@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "had", "to", "flag", "her", "down", "for", "a", "refill", "even", "after", "losing", "$", "100", "on", "a", "machine", "in", "20", "minutes", "."], "e1_text": "flag", "e1_pos": 4, "e2_text": "losing", "e2_pos": 12, "label": "after"},
+{"tokens": ["It", "was", "actually", "good", "in", "the", "beginning", "when", "the", "brunette", "was", "working", "when", "it", "opened", "and", "went", "downhill", "after", "she", "left", "."], "e1_text": "went", "e1_pos": 16, "e2_text": "left", "e2_pos": 20, "label": "after"}
+]

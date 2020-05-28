@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "neighbor", "is", "having", "him", "out", "next", "week", "after", "I", "raved", "about", "his", "work", "."], "e1_text": "having", "e1_pos": 3, "e2_text": "raved", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "may", "have", "him", "come", "out", "next", "month", "and", "do", "my", "tile", "after", "reading", "some", "of", "these", "other", "reviews", "."], "e1_text": "do", "e1_pos": 9, "e2_text": "reading", "e2_pos": 13, "label": "after"}
+]

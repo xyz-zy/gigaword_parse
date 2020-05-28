@@ -1,0 +1,4 @@
+[
+{"tokens": ["mind", "you", "this", "is", "only", "about", "15", "minutes", "after", "the", "lunch", "menu", "was", "closed", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["when", "the", "waitress", "came", "back", "after", "taking", "the", "order", ",", "the", "chef", "told", "her", "that", "they", "can", "make", "a", "grilled", "cheese", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "taking", "e2_pos": 6, "label": "after"}
+]

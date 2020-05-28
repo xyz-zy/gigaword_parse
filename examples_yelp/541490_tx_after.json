@@ -1,0 +1,3 @@
+[
+{"tokens": ["Everything", "was", "good", ",", "not", "great", ",", "and", "for", "the", "30", "minutes", "we", "waited", "to", "get", "our", "food", ",", "after", "waiting", "about", "20", "to", "sit", "down", ",", "and", "another", "10", "for", "our", "coffee", ",", "it", "just", "was", "n't", "worth", "it", "."], "e1_text": "waited", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 20, "label": "after"}
+]

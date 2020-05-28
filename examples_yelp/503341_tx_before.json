@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "took", "our", "menus", "away", "before", "we", "ordered", ",", "then", "came", "back", "to", "take", "our", "order", "-LRB-", "???", "-RRB-", "Later", ",", "he", "left", "our", "empty", "plate", "on", "the", "table", "for", "a", "very", "long", "time", ",", "despite", "the", "fact", "that", "we", "were", "clearly", "ready", "to", "pay", "the", "bill", "and", "leave", "...", "not", "to", "mention", "there", "was", "a", "long", "wait", "to", "be", "seated", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 8, "label": "before"}
+]

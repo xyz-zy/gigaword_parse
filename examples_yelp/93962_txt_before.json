@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "decided", "to", "wait", "for", "someone", "to", "call", "me", "for", "payment", "so", "I", "could", "ask", "them", "to", "finish", "the", "job", "before", "I", "gave", "them", "my", "credit", "card", "info", "since", "I", "expected", "that", "would", "be", "the", "only", "way", "to", "get", "their", "attention", "."], "e1_text": "finish", "e1_pos": 17, "e2_text": "gave", "e2_pos": 22, "label": "before"}
+]

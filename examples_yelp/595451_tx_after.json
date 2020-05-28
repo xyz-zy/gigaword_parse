@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "was", "not", "sweet", "after", "I", "have", "traveled", "this", "long", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "have", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "staff", "told", "me", "that", ",", "this", "is", "all", "he", "can", "see", "in", "the", "computer", ",", "there", "is", "no", "note", "for", "the", "change", "of", "room", "rate", ",", "after", "I", "told", "him", "everything", "what", "happened", "at", "the", "check-in", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "told", "e2_pos": 2, "label": "after"}
+]

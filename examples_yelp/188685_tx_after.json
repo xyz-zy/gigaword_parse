@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "also", "brought", "the", "entire", "table", "a", "seafood", "amuse", "bouche", "after", "we", "explicitly", "discussed", "that", "one", "person", "in", "our", "party", "did", "n't", "eat", "seafood", "."], "e1_text": "amuse", "e1_pos": 8, "e2_text": "discussed", "e2_pos": 13, "label": "after"},
+{"tokens": ["Our", "vegetarian", "received", "a", "plate", "full", "of", "vegetables", "piled", "on", "top", "of", "each", "other", "after", "insisting", "that", "the", "waiter", "ask", "the", "chef", "to", "make", "a", "collection", "of", "sides", "."], "e1_text": "piled", "e1_pos": 8, "e2_text": "insisting", "e2_pos": 15, "label": "after"}
+]

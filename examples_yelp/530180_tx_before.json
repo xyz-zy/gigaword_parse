@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "ate", "here", "once", "before", ",", "was", "n't", "terribly", "impressed", "but", "thought", "I", "would", "give", "them", "another", "chance", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["Overall", ",", "I", "was", "so", "grossed", "out", "that", "I", "only", "ate", "one", "plate", "before", "leaving", "-LRB-", "for", "the", "record", ",", "I", "'m", "a", "biggish", "guy", ",", "usually", "I", "will", "chow", "down", "3-4", "plates", "at", "a", "good", "buffet", "-RRB-", "."], "e1_text": "ate", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 14, "label": "before"},
+{"tokens": ["Hopefully", "they", "get", "shut", "down", "before", "they", "kill", "someone", "."], "e1_text": "shut", "e1_pos": 3, "e2_text": "kill", "e2_pos": 7, "label": "before"}
+]

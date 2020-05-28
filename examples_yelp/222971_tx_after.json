@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "to", "as", "many", "Michael", "Mina", "steak", "restaurants", "as", "possible", "after", "falling", "in", "love", "with", "Bourbon", "Steak", "in", "DC", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "falling", "e2_pos": 13, "label": "after"},
+{"tokens": ["My", "dining", "companion", "got", "the", "Waygu", "vs", "Waygu", "entree", "and", "that", "was", "fantastic", "-", "probably", "what", "I", "will", "get", "the", "next", "time", "I", "go", "-LRB-", "although", "bacon", "rapped", "veal", "is", "pretty", "enticing", "as", "well", "-RRB-", "The", "Sides", "Some", "people", ",", "after", "eating", "2", "lbs", "of", "French", "fries", ",", "might", "think", "''", "``", "You", "know", "what", ";", "I", "probably", "do", "n't", "need", "another", "potato", "side", "''", "''", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "eating", "e2_pos": 41, "label": "after"}
+]

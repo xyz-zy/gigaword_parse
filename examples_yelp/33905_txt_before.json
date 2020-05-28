@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "then", "came", "along", "and", "asked", "what", "we", "wanted", "to", "drink", "before", "our", "butts", "even", "hit", "the", "crappy", "booth", "seats", "."], "e1_text": "drink", "e1_pos": 11, "e2_text": "hit", "e2_pos": 16, "label": "before"},
+{"tokens": ["Okay", ",", "I", "wanted", "to", "glance", "at", "the", "drinks", "before", "I", "ordered", "-", "not", "memorize", "the", "menu", "."], "e1_text": "glance", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 11, "label": "before"}
+]

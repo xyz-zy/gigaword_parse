@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "ordered", "a", "custom", "harness", "for", "one", "of", "my", "Bengals", "after", "purchasing", "the", "same", "one", "in", "a", "different", "size", ",", "and", "they", "said", "that", "they", "would", "call", "the", "lady", "who", "makes", "them", "and", "place", "my", "order", "and", "give", "me", "a", "call", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "purchasing", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Pizza", "was", "very", "good", "but", "that", "is", "based", "on", "being", "starved", "for", "2", "hours", "before", "finally", "getting", "a", "table", "."], "e1_text": "starved", "e1_pos": 11, "e2_text": "getting", "e2_pos": 17, "label": "before"}
+]

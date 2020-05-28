@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "server", "informed", "us", "of", "the", "happy", "hour", "specials", "2", "mins", "after", "the", "happy", "hour", "had", "ended", "...", "we", "might", "have", "gotten", "the", "deal", "if", "she", "had", "even", "acknowledged", "our", "table", "for", "the", "first", "10", "mins", "that", "we", "were", "sitting", "there", "!"], "e1_text": "informed", "e1_pos": 2, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

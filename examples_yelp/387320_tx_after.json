@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "with", "my", "boyfriend", "and", "roommate", "one", "Monday", ",", "arrived", "fairly", "early", ",", "around", "6pm", ",", "and", "the", "server", "told", "us", "about", "the", "specials", "and", "I", "ended", "up", "grabbing", "their", "flatbread", "special", "after", "I", "heard", "the", "words", "''", "``", "crab", "''", "''", "and", "''", "``", "arugula", ".", "''", "''"], "e1_text": "grabbing", "e1_pos": 28, "e2_text": "heard", "e2_pos": 34, "label": "after"},
+{"tokens": ["I", "sampled", "the", "new", "Greek", "wine", "they", "had", "n't", "put", "on", "the", "menu", "after", "ordering", "an", "Assyrtiko", "blend", "that", "was", "on", "the", "menu", ",", "but", "it", "was", "n't", "for", "me", ",", "and", "the", "server", "graciously", "agreed", "that", "she", "may", "not", "have", "wanted", "an", "entire", "glass", "of", "it", ",", "either", "."], "e1_text": "put", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 14, "label": "after"}
+]

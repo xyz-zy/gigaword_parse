@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "spending", "a", "lot", "of", "dough", "on", "an", "amazing", "meal", "at", "STK", "the", "night", "before", "we", "decided", "on", "a", "more", "casual", "less", "expensive", "-LRB-", "or", "so", "we", "thought", "!", "-RRB-"], "e1_text": "spending", "e1_pos": 1, "e2_text": "decided", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "nearly", "spit", "up", "a", "gold", "tooth", "when", "I", "saw", "the", "bill", "was", "$", "87", "before", "the", "tip", "!!", "$", "20", "for", "one", "beer", "flight", "of", "four", "tiny", "tastes", "?"], "e1_text": "was", "e1_pos": 12, "e2_text": "!!", "e2_pos": 18, "label": "before"}
+]

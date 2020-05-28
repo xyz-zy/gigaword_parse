@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "was", "very", "well", "cooked", "&", "did", "n't", "feel", "weighed", "down", "after", "eating", "it", "."], "e1_text": "weighed", "e1_pos": 10, "e2_text": "eating", "e2_pos": 13, "label": "after"}
+]

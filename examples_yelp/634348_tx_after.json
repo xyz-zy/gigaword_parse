@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "n't", "carry", "on", "a", "conversation", "once", "a", "few", "people", "got", "there", "after", "their", "movie", "got", "out", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["She", "was", "new", ",", "so", "I", "do", "n't", "wan", "na", "rattle", "the", "cage", "too", "much", "but", "after", "our", "pizza", "came", "she", "was", "overly", "occupied", "with", "small", "talk", "with", "other", "tables", "it", "seemed", "."], "e1_text": "rattle", "e1_pos": 10, "e2_text": "came", "e2_pos": 19, "label": "after"}
+]

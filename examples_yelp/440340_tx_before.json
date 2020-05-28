@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "be", "fair", ",", "I", "have", "been", "accustomed", "to", "great", "nail", "salons", "in", "California", "before", "I", "came", "back", "to", "Vegas", "."], "e1_text": "accustomed", "e1_pos": 7, "e2_text": "came", "e2_pos": 16, "label": "before"},
+{"tokens": ["This", "was", "ridiculous", "because", "I", "have", "never", "had", "this", "happen", "before", "in", "my", "entire", "3", "years", "of", "nail-art", "history", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "have", "e2_pos": 5, "label": "before"}
+]

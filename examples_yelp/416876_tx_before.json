@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "I", "wish", "they", "would", "remove", "the", "ingredients", "you", "do", "n't", "eat", "-LRB-", "those", "that", "are", "just", "cooked", "with", "for", "flavor", "-RRB-", "before", "they", "serve", "it", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "serve", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "waiting", "at", "least", "15", "minutes", "he", "brought", "our", "food", "out", "and", "tossed", "it", "onto", "our", "table", "before", "shuffling", "back", "into", "the", "kitchen", "to", ",", "I", "can", "only", "assume", ",", "take", "a", "nap", "."], "e1_text": "tossed", "e1_pos": 12, "e2_text": "shuffling", "e2_pos": 18, "label": "before"}
+]

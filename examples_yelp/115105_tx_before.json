@@ -1,0 +1,3 @@
+[
+{"tokens": ["not", "to", "mention", "at", "a", "previous", "appt", "before", "this", "whole", "ACL", "business", "he", "spent", "five", "minutes", "going", "on", "and", "on", "about", "this", "revolutionary", "new", "dog", "food", "that", "'s", "great", "for", "joints", "-LRB-", "dozer", "also", "has", "bad", "hips", "-RRB-", "even", "though", "i", "kept", "interrupting", "him", "to", "say", "we", "were", "n't", "interested", "in", "it", ",", "all", "while", "staring", "at", "a", "huge", "poster", "ad", "for", "the", "food", "behind", "his", "head", "on", "the", "cabinet", "."], "e1_text": "mention", "e1_pos": 2, "e2_text": "spent", "e2_pos": 13, "label": "before"}
+]

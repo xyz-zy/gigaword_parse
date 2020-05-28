@@ -1,0 +1,3 @@
+[
+{"tokens": ["Of", "the", "two", "lbs", "of", "clams", "I", "ordered", ",", "the", "second", "which", "was", "supposed", "to", "be", "a", "garlic", "butter", "seasoning", "finally", "came", "out", "after", "3", "different", "servers", "asked", "if", "I", "had", "gotten", "my", "order", "yet", "and", "if", "it", "'s", "correct", "."], "e1_text": "came", "e1_pos": 21, "e2_text": "asked", "e2_pos": 27, "label": "after"}
+]

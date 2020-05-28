@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lesson", "learned", "-", "priceline", "does", "not", "care", "about", "its", "customers", "and", "always", "check", "yelp", "reviews", "before", "you", "book", "your", "hotel", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "book", "e2_pos": 17, "label": "before"}
+]

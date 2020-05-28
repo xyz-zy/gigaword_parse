@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "should", "also", "be", "said", "that", "my", "friend", "-LRB-", "the", "one", "who", "had", "been", "there", "before", "-RRB-", "agreed", "that", "the", "experience", "was", "awful", "and", "the", "polar", "opposite", "of", "what", "had", "happened", "the", "last", "time", "she", "came", "."], "e1_text": "said", "e1_pos": 4, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

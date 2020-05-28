@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "going", "to", "another", "doctor", "I", "found", "out", "that", "they", "did", "not", "run", "a", "complete", "work", "up", "on", "my", "condition", "before", "making", "a", "decision", "."], "e1_text": "run", "e1_pos": 12, "e2_text": "making", "e2_pos": 21, "label": "before"}
+]

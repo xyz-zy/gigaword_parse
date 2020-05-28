@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "reason", "I", "gave", "4", "stars", "instead", "of", "5", "is", "because", "Stephy", "Anne", "bought", "a", "Coach", "umbrella", "and", "had", "it", "in", "her", "suitcase", "the", "day", "before", "we", "left", "and", "when", "we", "got", "home", "we", "discovered", "it", "had", "been", "stolen", "."], "e1_text": "had", "e1_pos": 19, "e2_text": "left", "e2_pos": 28, "label": "before"},
+{"tokens": ["We", "went", "over", "that", "room", "several", "times", ",", "even", "under", "the", "bed", ",", "before", "we", "left", "and", "we", "had", "everything", "packed", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "left", "e2_pos": 15, "label": "before"}
+]

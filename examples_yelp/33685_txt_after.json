@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "made", "my", "payment", "2", "days", "after", "I", "received", "the", "statement", "but", "online", "still", "shows", "that", "I", "need", "to", "make", "a", "min", "payment", "of", "$", "XXXX", "by", "5\\/11\\/2013", "even", "though", "they", "acknowledged", "receipt", "of", "the", "payment", "I", "made", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "received", "e2_pos": 9, "label": "after"}
+]

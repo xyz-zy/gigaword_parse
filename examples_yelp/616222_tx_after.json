@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "hostess", "got", "us", "our", "drinks", "after", "we", "had", "been", "waiting", "for", "a", "while", ",", "which", "was", "nice", "of", "her", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "really", "felt", "like", "I", "was", "bothering", "her", "by", "asking", "her", "for", "things", "-LRB-", "apps", "came", "without", "plates", ",", "refills", "on", "drinks", "after", "they", "sat", "empty", "for", "a", "while", ".", "-RRB-"], "e1_text": "came", "e1_pos": 15, "e2_text": "sat", "e2_pos": 24, "label": "after"}
+]

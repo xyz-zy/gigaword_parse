@@ -1,0 +1,3 @@
+[
+{"tokens": ["DH", "&", "I", "went", "there", "last", "night", ",", "after", "black", "Friday", "shopping", "at", "the", "outlets", "...", "service", "was", "slow", "and", "terrible", ",", "we", "ordered", "mango", "juice", ",", "which", "never", "arrived", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "shopping", "e2_pos": 11, "label": "after"}
+]

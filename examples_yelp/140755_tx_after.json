@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "staff", "member", "in", "particular", "has", "a", "bit", "of", "a", "attitude", ",", "saw", "him", "throw", "a", "dog", "name", "tag", "at", "the", "customer", "after", "she", "requested", "a", "new", "one", ",", "if", "that", "were", "me", ",", "i", "would", "have", "smashed", "his", "face", "on", "the", "counter", "."], "e1_text": "throw", "e1_pos": 14, "e2_text": "requested", "e2_pos": 24, "label": "after"}
+]

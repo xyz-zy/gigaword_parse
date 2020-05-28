@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "totally", "regret", "not", "having", "read", "the", "reviews", "before", "booking", "my", "flight", "-", "cheap", "fares", "are", "definitely", "too", "good", "to", "be", "true", "with", "this", "airline", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "booking", "e2_pos": 9, "label": "before"},
+{"tokens": ["Found", "out", "a", "few", "hours", "before", "my", "flight", "departed", "that", "there", "was", "a", "charge", "for", "carry-on", "and", "check-in", "luggage", "-", "$", "100", "at", "the", "gate", "if", "you", "do", "n't", "buy", "it", "beforehand", "!"], "e1_text": "Found", "e1_pos": 0, "e2_text": "departed", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Excuse", "me", "for", "assuming", "that", "I", "should", "ask", "before", "just", "reaching", "in", "a", "closed", "case", "with", "expensive", "instruments", "."], "e1_text": "ask", "e1_pos": 7, "e2_text": "reaching", "e2_pos": 10, "label": "before"}
+]

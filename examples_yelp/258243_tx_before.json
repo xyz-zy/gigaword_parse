@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "it", "for", "about", "a", "minute", "before", "the", "novelty", "wore", "off", "."], "e1_text": "watched", "e1_pos": 1, "e2_text": "wore", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "probably", "walked", "around", "for", "half", "an", "hour", "before", "we", "left", ",", "and", "it", "was", "n't", "worth", "the", "hassle", "in", "my", "opinion", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

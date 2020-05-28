@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "more", "fries", "came", "out", ",", "I", "said", "they", "were", "to", "come", "with", "the", "meal", "and", "we", "ordered", "apps", ",", "the", "server", "came", "over", "and", "said", "sorry", "I", "forgot", "to", "put", "the", "app", "order", "In", ",", "after", "she", "told", "us", "they", "would", "be", "out", "in", "a", "few", "mins", "."], "e1_text": "ordered", "e1_pos": 17, "e2_text": "told", "e2_pos": 38, "label": "after"},
+{"tokens": ["So", "our", "apps", "came", "after", "our", "meals", "came", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "came", "e2_pos": 3, "label": "after"}
+]

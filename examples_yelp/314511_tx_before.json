@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fruits", "and", "vegetables", "were", "freshly", "plucked", "from", "the", "ground", "just", "minutes", "before", "we", "washed", "it", "and", "cooked", "it", "up", "."], "e1_text": "plucked", "e1_pos": 6, "e2_text": "washed", "e2_pos": 14, "label": "before"}
+]

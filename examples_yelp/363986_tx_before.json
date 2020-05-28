@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "explained", "to", "the", "waiter", "that", "the", "whole", "point", "of", "an", "appetizer", "is", "to", "have", "something", "to", "eat", "before", "the", "meal", "arrives", "."], "e1_text": "eat", "e1_pos": 17, "e2_text": "arrives", "e2_pos": 21, "label": "before"},
+{"tokens": ["Too", "bad", "we", "had", "to", "eat", "2", "baskets", "of", "it", "before", "we", "got", "our", "food", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

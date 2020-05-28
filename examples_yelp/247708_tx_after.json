@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "liked", "the", "slightly", "thinner", ",", "toothy", "texture", "of", "the", "crust", "and", "most", "of", "all", ",", "I", "felt", "fantastic", "after", "eating", "several", "slices", "."], "e1_text": "felt", "e1_pos": 17, "e2_text": "eating", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "was", "full", ",", "but", "not", "bloated", ",", "and", "felt", "great", "the", "next", "day", ",", "not", "how", "I", "usually", "feel", "after", "eating", "regular", "pizza", "."], "e1_text": "feel", "e1_pos": 19, "e2_text": "eating", "e2_pos": 21, "label": "after"}
+]

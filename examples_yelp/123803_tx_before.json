@@ -1,0 +1,4 @@
+[
+{"tokens": ["During", "this", "time", ",", "I", "noticed", "that", "one", "of", "the", "servers", "arrived", "late", "from", "behind", "us", "and", "had", "n't", "had", "the", "chance", "to", "clock", "in", "before", "she", "sat", "us", "."], "e1_text": "had", "e1_pos": 19, "e2_text": "sat", "e2_pos": 27, "label": "before"},
+{"tokens": ["Maybe", "this", "way", "I", "would", "n't", "mind", "the", "mediocre", "tasting", "food", ",", "but", "I", "'d", "probably", "bleed", "out", "before", "I", "get", "my", "chili", "sauce", "!"], "e1_text": "bleed", "e1_pos": 16, "e2_text": "get", "e2_pos": 20, "label": "before"}
+]

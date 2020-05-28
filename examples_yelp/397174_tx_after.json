@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "an", "uncomfortable", "situation", "that", "was", "only", "made", "worse", "by", "the", "pool", "of", "yellow", "liquid", "under", "our", "table", "and", "the", "realization", "that", "it", "never", "went", "away", "even", "after", "we", "told", "someone", "to", "clean", "it", "up", "."], "e1_text": "went", "e1_pos": 25, "e2_text": "told", "e2_pos": 30, "label": "after"}
+]

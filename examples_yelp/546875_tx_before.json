@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "actually", "was", "surprised", "too", "that", "this", "particular", "bus", "was", "making", "stops", "before", "arriving", "to", "my", "destination", "."], "e1_text": "making", "e1_pos": 10, "e2_text": "arriving", "e2_pos": 13, "label": "before"},
+{"tokens": ["Last", "but", "not", "least", "...", "on", "my", "departing", "trip", "...", "I", "arrive", "6mins", "before", "bus", "was", "scheduled", "to", "leave", "so", ",", "I", "thought", "it", "left", "early", "."], "e1_text": "arrive", "e1_pos": 11, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

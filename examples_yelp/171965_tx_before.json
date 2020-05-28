@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "complained", ",", "the", "clerk", "looked", "so", "used", "to", "hearing", "the", "complaint", "that", "he", "offered", "me", "an", "upgrade", "before", "I", "finished", "a", "sentence", "."], "e1_text": "offered", "e1_pos": 15, "e2_text": "finished", "e2_pos": 21, "label": "before"}
+]

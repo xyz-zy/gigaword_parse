@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "commented", "how", "I", "needed", "to", "go", "run", "a", "few", "miles", "after", "inhaling", "all", "of", "those", "calories", "and", "my", "buddy", "said", "''", "``", "run", "a", "couple", "for", "me", "''", "''", "HAHA", "All-in-all", "a", "pretty", "good", "experience", ",", "food", "was", "above", "average", ",", "price", "was", "a", "little", "bit", "high", "but", "maybe", "they", "justify", "that", "because", "they", "give", "you", "about", "2", "pounds", "of", "fries", "for", "the", "regular", "size", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "run", "e2_pos": 23, "label": "after"}
+]

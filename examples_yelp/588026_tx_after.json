@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waiter", "went", "MIA", "right", "after", "salads", "were", "delivered", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["Was", "disappointed", "after", "letting", "management", "know", "it", "was", "a", "special", "occasion", "that", "they", "never", "recognized", "it", "-", "a", "small", "dessert", "for", "the", "anniversary", "couple", "would", "have", "been", "a", "nice", "touch", "."], "e1_text": "disappointed", "e1_pos": 1, "e2_text": "letting", "e2_pos": 3, "label": "after"}
+]

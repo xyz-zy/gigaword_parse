@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "a", "good", "10", "minutes", "before", "anyone", "attended", "us", "after", "being", "seated", "."], "e1_text": "attended", "e1_pos": 8, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "husband", "ordered", "a", "wells", ",", "after", "another", "10", "or", "so", "mins", "of", "waiting", ",", "he", "asked", "about", "his", "drink", ",", "which", "the", "server", "said", "they", "were", "out", "of", ",", "then", "realized", "they", "WERE", "N'T", "out", ",", "and", "20", "minutes", "later", "finally", "brought", "the", "drink", "...", "The", "thing", "about", "the", "sushi", "on", "the", "happy", "hour", "menu", "is", "that", ",", "for", "4.50", "you", "get", "4", "pieces", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "realized", "e2_pos": 31, "label": "after"}
+]

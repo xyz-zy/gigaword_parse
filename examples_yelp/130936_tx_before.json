@@ -1,0 +1,4 @@
+[
+{"tokens": ["but", "it", "can", "be", "descent", "if", "you", "look", "at", "the", "apartments", "ahead", "of", "time", "and", "thoroughly", "inspect", "your", "possible", "apartment", "before", "moving", "in", "."], "e1_text": "inspect", "e1_pos": 16, "e2_text": "moving", "e2_pos": 21, "label": "before"},
+{"tokens": ["It", "'s", "what", "you", "make", "of", "it", ",", "but", "you", "have", "to", "be", "meticulous", "in", "checking", "the", "apartments", "out", "before", "agreeing", "to", "a", "lease", "."], "e1_text": "checking", "e1_pos": 15, "e2_text": "agreeing", "e2_pos": 20, "label": "before"}
+]

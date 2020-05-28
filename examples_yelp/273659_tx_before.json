@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "what", "you", "should", "know", "before", "reading", "my", "inaugural", "review", ":", "1", "-RRB-", "I", "'ve", "shattered", "my", "iphone", "six", "times", "since", "October", "."], "e1_text": "know", "e1_pos": 5, "e2_text": "reading", "e2_pos": 7, "label": "before"},
+{"tokens": ["2", "-RRB-", "This", "place", "is", "located", "in", "old", "town", "on", "a", "pretty", "neat", "little", "street", "that", "I", ",", "in", "my", "28", "years", "-LRB-", "fine", ",", "in", "30", "years", "-RRB-", "growing", "up", "here", ",", "had", "never", "been", "down", "before", "."], "e1_text": "located", "e1_pos": 5, "e2_text": "had", "e2_pos": 33, "label": "before"}
+]

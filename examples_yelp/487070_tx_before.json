@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "This", "was", "before", "Starbucks", "offered", "China", "Green", "Tip", "Tea", "-RRB-", "She", "was", "referring", "to", "a", "green", "tea", "blend", "with", "peppermint", "and", "other", "flavors", "...", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "offered", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "eaten", "here", "many", "times", "before", "but", "this", "time", "we", "ordered", "the", "taco", "baskets", "."], "e1_text": "eaten", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 11, "label": "before"},
+{"tokens": ["Be", "careful", "and", "check", "your", "tacos", "before", "you", "bite", "into", "them", "because", "you", "could", "choke", "or", "lose", "a", "tooth", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "bite", "e2_pos": 8, "label": "before"}
+]

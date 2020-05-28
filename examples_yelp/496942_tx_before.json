@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "'", "food", "came", "out", "way", "before", "my", "chicken", "wings", "did", "and", "I", "had", "to", "play", "catch-up", "to", "try", "and", "finish", "them", "before", "heading", "out", "to", "the", "casino", "floor", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "did", "e2_pos": 11, "label": "before"}
+]

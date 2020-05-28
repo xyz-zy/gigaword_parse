@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "once", "had", "a", "bartender", "ask", "me", "several", "times", "what", "I", "wanted", "after", "ordering", "a", "Long", "Island", "."], "e1_text": "wanted", "e1_pos": 11, "e2_text": "ordering", "e2_pos": 13, "label": "after"},
+{"tokens": ["Maybe", "it", "'s", "just", "me", "getting", "older", ",", "but", "Thursday", "nights", "now", "consist", "of", "drunk", "18-year-olds", "twerking", "and", "stripping", "around", "the", "club", "after", "sipping", "their", "water", "bottles", "filled", "with", "vodka", "."], "e1_text": "stripping", "e1_pos": 18, "e2_text": "sipping", "e2_pos": 23, "label": "after"}
+]

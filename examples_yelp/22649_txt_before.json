@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "only", "10", "minutes", "before", "they", "stopped", "serving", "lunch", ",", "and", "they", "had", "everything", "ready", "really", "quickly", "-", "about", "10", "minutes", ":", "rice", "paper", "rolls", ",", "lemongrass", "faux", "chicken", ",", "a", "vegetable", "curry", "chow", "mein", ",", "and", "brown", "rice", "to", "go", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "stopped", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "about", "2", "o'clock", "in", "the", "morning", "and", "there", "was", "a", "mix", "of", "people", "getting", "a", "late", "meal", "after", "checking", "in", "to", "the", "hotel", "and", "a", "few", "clubbers", "coming", "from", "LAX", "&", "Cathouse", "."], "e1_text": "getting", "e1_pos": 15, "e2_text": "checking", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "do", "n't", "know", "who", "would", "want", "to", "stay", "up", "after", "eating", "all", "that", "!"], "e1_text": "stay", "e1_pos": 8, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

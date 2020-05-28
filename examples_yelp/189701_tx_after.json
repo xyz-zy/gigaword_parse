@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "been", "sat", "at", "9pm", "two", "hours", "of", "dining", "would", "take", "us", "to", "11pm", "which", "is", "about", "when", "they", "close", "anyways", ",", "not", "like", "they", "were", "going", "to", "seat", "someone", "else", "at", "our", "table", "after", "we", "left", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "left", "e2_pos": 36, "label": "after"}
+]

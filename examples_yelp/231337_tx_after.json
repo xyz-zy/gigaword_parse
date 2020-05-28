@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "informed", "the", "manager", "of", "an", "incident", "where", "during", "my", "stay", "I", "went", "to", "the", "office", "to", "get", "the", "WiFi", "password", "and", "again", "Jordan", "after", "make", "me", "wait", "5mins", "while", "he", "discussed", "sports", "with", "the", "maintenance", "man", "he", "then", "took", "a", "piece", "of", "paper", "with", "the", "wifi", "password", "on", "it", "and", "threw", "it", "at", "me", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "make", "e2_pos": 26, "label": "after"}
+]

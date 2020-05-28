@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "after", "reading", "the", "reviews", "."], "e1_text": "think", "e1_pos": 1, "e2_text": "reading", "e2_pos": 3, "label": "after"},
+{"tokens": ["It", "does", "n't", "surprise", "me", "how", "they", "are", "losing", "their", "company", "business", "after", "treating", "people", "with", "disrespect", "."], "e1_text": "losing", "e1_pos": 8, "e2_text": "treating", "e2_pos": 13, "label": "after"}
+]

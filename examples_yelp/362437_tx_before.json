@@ -1,0 +1,4 @@
+[
+{"tokens": ["Make", "sure", "you", "ALWAYS", "look", "at", "the", "reviews", "before", "you", "eat", "some", "where", "!"], "e1_text": "look", "e1_pos": 4, "e2_text": "eat", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "had", "the", "yellow", "tail", ",", "salmon", ",", "edamame", "to", "start", "and", "before", "the", "rest", "of", "our", "food", "came", "out", "we", "canceled", "the", "order", "and", "left", "to", "go", "grab", "something", "at", "Grottos", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "about", "10", "minutes", "after", "being", "seated", "before", "the", "waiter", "acknowledged", "us", ",", "even", "though", "he", "had", "to", "practically", "jump", "over", "me", "to", "get", "to", "the", "table", "behind", "ours", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "acknowledged", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "had", "to", "ask", "twice", "for", "the", "drinks", "to", "be", "given", "to", "us", "before", "they", "finally", "were", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "were", "e2_pos": 16, "label": "before"}
+]

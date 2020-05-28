@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "we", "already", "waited", "for", "10", "minutes", ",", "with", "a", "child", "that", "can", "not", "be", "around", "the", "machines", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waited", "e2_pos": 5, "label": "after"},
+{"tokens": ["Then", "proceeded", "to", "accuse", "me", "of", "lying", "!!", "saying", "I", "called", "for", "the", "maid", ",", "when", "I", "had", "only", "been", "in", "the", "room", "for", "5", "minutes", "!!", "I", "can", "not", "believe", "how", "rude", "the", "staff", "was", "and", "unaccommodating", "after", "such", "a", "serious", "thing", "happened", "."], "e1_text": "unaccommodating", "e1_pos": 37, "e2_text": "happened", "e2_pos": 43, "label": "after"}
+]

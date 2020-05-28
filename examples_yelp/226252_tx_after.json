@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "co-owner\\/worker", "-LRB-", "Samantha", "and", "Valerie", "-RRB-", "are", "nice", "and", "friendly", ";", "after", "a", "while", "of", "shopping", "there", "I", "never", "leave", "without", "having", "a", "good", "conversation", "with", "them", ".", "."], "e1_text": "are", "e1_pos": 7, "e2_text": "leave", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "the", "pan", "fried", "hake", "fillet", "with", "smoked", "fish", "potato", "cake", "and", "mustard", "sauce", ",", "and", "it", "was", "really", "flavorful", "and", "well", "cooked", "...", "I", "'d", "never", "really", "had", "hake", "before", "but", "this", "dish", "made", "me", "want", "to", "seek", "it", "out", "elsewhere", "-LRB-", "such", "a", "lovely", "flavor", "-RRB-", ",", "and", "the", "mustard", "sauce", "had", "me", "thinking", "about", "licking", "the", "plate", "-LRB-", "the", "potato", "cake", "was", "of", "course", "delicious", "as", "well", ",", "as", "was", "the", "spinach", "hidden", "atop", "of", "it", "-RRB-", "."], "e1_text": "hake", "e1_pos": 30, "e2_text": "made", "e2_pos": 35, "label": "before"}
+]

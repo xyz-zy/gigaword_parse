@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "even", "said", "that", "she", "had", "never", "seen", "it", "before", "and", "had", "me", "read", "her", "off", "the", "coupon", "code", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "ate", "half", "of", "my", "sandwich", "and", "had", "given", "up", "on", "the", "ranch", "and", "was", "using", "ketchup", "before", "we", "finally", "got", "our", "ranch", "."], "e1_text": "using", "e1_pos": 15, "e2_text": "got", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "ordered", "our", "drinks", ",", "they", "arrived", "and", "then", "she", "disappeared", "for", "a", "good", "10-15", "minutes", "before", "coming", "to", "get", "the", "order", "."], "e1_text": "disappeared", "e1_pos": 10, "e2_text": "coming", "e2_pos": 17, "label": "before"},
+{"tokens": ["My", "sons", "Mac", "&", "cheese", "came", "before", "our", "bread", ",", "that", "'s", "how", "long", "it", "took", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "'s", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "'ve", "waited", "awhile", "for", "food", "before", ",", "it", "usually", "does", "n't", "bother", "me", "but", "what", "really", "set", "me", "off", "was", "by", "the", "time", "it", "finally", "came", "it", "was", "lukewarm", "at", "best", "!"], "e1_text": "waited", "e1_pos": 2, "e2_text": "does", "e2_pos": 10, "label": "before"},
+{"tokens": ["At", "this", "point", "I", "am", "furious", "and", "just", "want", "the", "check", "to", "come", ",", "I", "had", "like", "2", "bites", "of", "food", "before", "giving", "up", "on", "the", "whole", "experience", "."], "e1_text": "had", "e1_pos": 15, "e2_text": "giving", "e2_pos": 22, "label": "before"}
+]

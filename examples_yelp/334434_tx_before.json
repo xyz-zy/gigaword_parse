@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "for", "it", "to", "be", "something", "that", "would", "n't", "melt", "seeing", "as", "I", "still", "had", "to", "eat", "my", "Lafleur", "lunch", "before", "moving", "on", "to", "the", "creamy", "delicacy", "so", "he", "even", "offered", "to", "let", "me", "pay", "in", "advance", "-LRB-", "to", "skip", "the", "lunch", "rush", "-RRB-", "and", "that", "he", "'d", "make", "it", "on", "the", "spot", "once", "I", "was", "done", "my", "lunch", "."], "e1_text": "eat", "e1_pos": 17, "e2_text": "moving", "e2_pos": 22, "label": "before"}
+]

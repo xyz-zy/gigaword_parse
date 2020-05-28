@@ -1,0 +1,3 @@
+[
+{"tokens": ["Basically", "the", "only", "way", "you", "can", "cancel", "your", "membership", "with", "them", "is", "if", "you", "move", "15", "miles", "away", "from", "the", "location", "after", "you", "purchase", "a", "membership", "OR", "if", "your", "doctor", "provides", "you", "with", "a", "note", "stating", "your", "unable", "to", "continue", "bootcamp", "again", "."], "e1_text": "move", "e1_pos": 14, "e2_text": "purchase", "e2_pos": 23, "label": "after"}
+]

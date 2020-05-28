@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "'s", "Salmon", "Salad", "-LRB-", "which", "they", "brought", "out", "long", "after", "the", "others", "had", "finished", "their", "meals", "-RRB-", "was", "good", "-LRB-", "I", "did", "taste", "it", "-RRB-", "and", "the", "lime", "dressing", "was", "heavenly", "."], "e1_text": "brought", "e1_pos": 8, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

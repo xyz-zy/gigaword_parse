@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "decided", "on", "Elements", "-LRB-", "at", "The", "Sanctuary", "-RRB-", "for", "our", "anniversary", "after", "narrowing", "down", "our", "top", "3", "choices", "of", "highly-rated", "restaurants", "...", "anticipating", "it", "would", "be", "a", "special", "experience", "."], "e1_text": "decided", "e1_pos": 4, "e2_text": "narrowing", "e2_pos": 16, "label": "after"},
+{"tokens": ["Not", "the", "way", "I", "would", "have", "liked", "to", "have", "been", "treated", "after", "waiting", "45", "minutes", "."], "e1_text": "treated", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

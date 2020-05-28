@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "avoided", "Centurion", "for", "awhile", "after", "a", "couple", "of", "visits", "in", "which", "I", "was", "burned", "by", "the", "fact", "that", "they", "did", "n't", "carry", "menu", "items", "during", "normal", "business", "hours", "."], "e1_text": "avoided", "e1_pos": 2, "e2_text": "was", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "actually", "took", "a", "friend", "here", "after", "seeing", "that", "they", "'d", "revamped", "their", "menu", "with", "a", "tilt", "towards", "tapas", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "first", "saw", "the", "current", "show", "right", "after", "they", "converted", "it", "."], "e1_text": "saw", "e1_pos": 2, "e2_text": "converted", "e2_pos": 9, "label": "after"}
+]

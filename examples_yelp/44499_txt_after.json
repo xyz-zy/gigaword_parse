@@ -1,0 +1,4 @@
+[
+{"tokens": ["Received", "a", "coupon", "in", "the", "mail", "for", "one-half", "off", "of", "an", "entree", "after", "purchasing", "one", ",", "and", "my", "wife", "and", "I", "decided", "to", "give", "it", "a", "go", "."], "e1_text": "Received", "e1_pos": 0, "e2_text": "purchasing", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "had", "to", "ask", "twice", "for", "bread", "after", "waiting", "for", "about", "10", "minutes", "after", "asking", "the", "first", "time", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

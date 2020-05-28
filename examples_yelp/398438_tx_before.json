@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sampled", "a", "vanilla", "wafer", "flavor", "and", "a", "coconut", "flavor", "before", "choosing", "a", "pomegranate", "tart", "and", "plain", "tart", "twist", "in", "my", "cup", "."], "e1_text": "sampled", "e1_pos": 1, "e2_text": "choosing", "e2_pos": 11, "label": "before"}
+]

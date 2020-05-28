@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "also", "took", "us", "some", "time", "before", "we", "realized", "that", "we", "were", "being", "served", "by", "a", "''", "``", "team", "''", "''", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "realized", "e2_pos": 8, "label": "before"},
+{"tokens": ["And", "I", "even", "backed", "out", "the", "tax", "before", "making", "my", "calculation", "."], "e1_text": "backed", "e1_pos": 3, "e2_text": "making", "e2_pos": 8, "label": "before"}
+]

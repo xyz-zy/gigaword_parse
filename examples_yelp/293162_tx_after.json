@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "trouble", "figuring", "out", "what", "star", "rating", "to", "give", "it", ",", "but", "after", "some", "thought", "I", "think", "3", "is", "fair", "."], "e1_text": "figuring", "e1_pos": 3, "e2_text": "thought", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "will", "be", "back", "soon", "with", "the", "BF", "since", "he", "would", "like", "to", "try", "the", "chicken", ",", "but", "after", "much", "thought", "...", "I", "'m", "going", "to", "do", "this", "CASH", "only", "and", "wait", "a", "while", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "thought", "e2_pos": 20, "label": "after"}
+]

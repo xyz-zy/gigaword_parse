@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "should", "'ve", "done", "some", "bench", "presses", ",", "arm", "curls", "and", "gotten", "a", "new", "tattoo", "-LRB-", "and", "tan", "and", "teeth", "whitening", "and", "designer", "t-shirt", "and", "coifed", "hair", "and", "necklace", "bling", "and", "big", "sunglasses", "-RRB-", "before", "coming", "here", "."], "e1_text": "gotten", "e1_pos": 11, "e2_text": "coming", "e2_pos": 35, "label": "before"}
+]

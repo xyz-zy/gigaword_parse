@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "smart", ",", "I", "looked", "the", "place", "up", "on", "my", "cell", "phone", "before", "walking", "in", "the", "door", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "walking", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "asked", "questions", "at", "the", "front", "desk", "before", "handing", "them", "my", "money", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "handing", "e2_pos": 8, "label": "before"}
+]

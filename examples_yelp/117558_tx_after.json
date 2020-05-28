@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "clerk", "told", "me", "I", "could", "n't", "bring", "my", "service", "dog", "in", ",", "even", "after", "I", "informed", "her", "she", "was", "a", "service", "dog", "."], "e1_text": "bring", "e1_pos": 7, "e2_text": "informed", "e2_pos": 16, "label": "after"}
+]

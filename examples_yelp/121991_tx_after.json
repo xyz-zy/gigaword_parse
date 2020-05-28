@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "returning", "to", "the", "room", "prior", "to", "dinner", "the", "sink", "was", "half", "filled", "with", "sludge", "after", "what", "appeared", "an", "engineer", "attempted", "to", "fix", "it", "."], "e1_text": "filled", "e1_pos": 12, "e2_text": "appeared", "e2_pos": 17, "label": "after"},
+{"tokens": ["All", "we", "were", "offered", "was", "a", "credit", "for", "one", "night", "out", "of", "our", "four", "after", "our", "health", "and", "welfare", "were", "compromised", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "were", "e2_pos": 2, "label": "after"}
+]

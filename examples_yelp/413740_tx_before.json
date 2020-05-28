@@ -1,0 +1,3 @@
+[
+{"tokens": ["Be", "sure", "to", "pick", "up", "a", "''", "``", "Boarding", "Pass", "''", "''", "player", "awards", "card", "in", "the", "casino", "before", "getting", "in", "line", "to", "save", "you", "$", "2.00", "per", "person", "."], "e1_text": "card", "e1_pos": 14, "e2_text": "getting", "e2_pos": 19, "label": "before"}
+]

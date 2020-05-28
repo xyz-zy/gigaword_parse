@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "here", "after", "seeing", "KA", "across", "the", "street", "and", "just", "wanted", "to", "get", "a", "beer", "and", "split", "some", "giant", "plate", "of", "nachos", "or", "something", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["It", "took", "10", "minutes", "to", "get", "the", "check", "after", "we", "asked", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "asked", "e2_pos": 10, "label": "after"}
+]

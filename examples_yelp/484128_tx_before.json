@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sure", ",", "I", "had", "a", "case", "of", "''", "``", "twitchy", "leg", "''", "''", "before", "they", "launched", "me", ",", "but", "once", "out", "and", "on", "my", "way", ",", "I", "enjoyed", "the", "ride", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "launched", "e2_pos": 15, "label": "before"}
+]

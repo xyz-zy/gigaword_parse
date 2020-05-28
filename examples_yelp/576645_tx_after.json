@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "two", "kids", "and", "I", "went", "to", "the", "Taco", "Festival", "after", "anticipating", "it", "ALL", "week", "!"], "e1_text": "went", "e1_pos": 7, "e2_text": "anticipating", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "did", "n't", "mind", "the", "$", "10", "tickets", ",", "although", "we", "were", "annoyed", "they", "were", "half", "off", "the", "day", "after", "we", "bought", "them", "on", "deal", "chicken", "or", "living", "social", "or", "something", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "bought", "e2_pos": 21, "label": "after"}
+]

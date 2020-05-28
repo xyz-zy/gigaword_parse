@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "pointed", "out", "that", "it", "defeats", "the", "purpose", "to", "take", "my", "complaint", "after", "I", "am", "gone", "but", "they", "said", "that", "was", "their", "system", "."], "e1_text": "take", "e1_pos": 9, "e2_text": "am", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "most", "disappointing", "was", "the", "customer", "support", ",", "they", "only", "want", "feed", "back", "after", "you", "leave", "."], "e1_text": "feed", "e1_pos": 11, "e2_text": "leave", "e2_pos": 15, "label": "after"}
+]

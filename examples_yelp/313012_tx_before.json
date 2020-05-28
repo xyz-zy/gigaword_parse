@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "eaten", "anything", "like", "that", "before", ",", "the", "pork", "was", "`", "gamey", "'", "-LRB-", "if", "that", "'s", "possible", ",", "with", "refrigerator", "flavor", "-RRB-", ",", "dry", ",", "tough", "and", "hard", "like", "a", "shell", "-LRB-", "like", "crispy", "without", "the", "crisp", "-RRB-", "on", "the", "outside", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "-LRB-", "not", "a", "chef", "-RRB-", "have", "grilled", "pork", "rollatini", "'s", "before", ",", "and", "managed", "to", "not", "cook", "them", "to", "death", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "'s", "e2_pos": 10, "label": "before"}
+]

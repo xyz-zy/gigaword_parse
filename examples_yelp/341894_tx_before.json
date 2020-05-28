@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "unreasonably", "picky", "eater", "who", "keeps", "taking", "one", "slice", "of", "each", "pizza", "on", "the", "line", ",", "taking", "the", "smallest", "of", "bites", ",", "and", "deciding", "its", "too", "salty", "too", "cheesy", "too", "saucy", "for", "his", "tastes", "and", "throws", "it", "away", ",", "forcing", "you", "and", "the", "staff", "to", "watch", "at", "least", "three", "whole", "pizzas", "thrown", "away", "before", "he", "finds", "a", "flavor", "he", "likes", "."], "e1_text": "thrown", "e1_pos": 51, "e2_text": "finds", "e2_pos": 55, "label": "before"}
+]

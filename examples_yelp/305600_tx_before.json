@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sat", "at", "a", "table", "for", "15-20", "minutes", "before", "a", "server", "took", "our", "drink", "order", "."], "e1_text": "Sat", "e1_pos": 0, "e2_text": "took", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "took", "30", "minutes", "to", "get", "food", "and", "after", "asking", "for", "the", "check", "it", "took", "aboit", "20", "minutes", "before", "our", "server", "dropped", "it", "off", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "dropped", "e2_pos": 21, "label": "before"}
+]

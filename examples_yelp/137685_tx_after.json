@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "hint", "of", "buyer", "'s", "remorse", "trickled", "up", "upon", "checking", "in", "on", "Yelp", ",", "then", "came", "in", "a", "raging", "torrent", "of", "disappointment", "after", "taking", "the", "first", "bite", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "taking", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "far", "as", "spot", "free", "goes", ",", "I", "think", "my", "truck", "was", "dirtier", "when", "I", "left", "than", "before", "I", "got", "there", "-LRB-", "actually", "washed", "it", "again", "when", "I", "got", "home", "-RRB-", "."], "e1_text": "left", "e1_pos": 15, "e2_text": "got", "e2_pos": 19, "label": "before"},
+{"tokens": ["The", "guy", "handing", "out", "the", "towels", "just", "inside", "the", "tunnel", "made", "sure", "to", "finish", "his", "conversation", "about", "his", "Friday", "night", "before", "handing", "me", "my", "towel", "."], "e1_text": "finish", "e1_pos": 13, "e2_text": "handing", "e2_pos": 2, "label": "before"}
+]

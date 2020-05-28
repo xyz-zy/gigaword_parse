@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "glad", "I", "did", "not", "read", "the", "reviews", "before", "we", "called", "Empire", "to", "come", "and", "give", "us", "a", "bid", ",", "or", "we", "never", "would", "have", "called", "them", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "called", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "installers", "did", "a", "beatiful", "job", ",", "completed", "on", "schedule", ",", "and", "returned", "our", "home", "to", "better", "than", "new", "condition", "before", "leaving", "that", "evening", "."], "e1_text": "returned", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "my", "dining", "partners", "asked", "for", "a", "wine", "menu", "and", "15", "minutes", "later", ",", "he", "finally", "got", "one", "after", "asking", "twice", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "asking", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "should", "have", "had", "the", "answer", "before", "i", "ordered", "my", "meal", ",", "not", "1\\/2", "hour", "later", "after", "i", "had", "to", "ask", "the", "third", "time", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

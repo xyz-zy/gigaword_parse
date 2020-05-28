@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "n't", "one", "of", "the", "crazy", "ones", "that", "required", "fasting", ",", "so", "I", "did", "not", "scheduled", "an", "appointment", "in", "advanced", "and", "did", "the", "walk-in", "thing", "on", "one", "of", "my", "days", "off", "when", "I", "planned", "an", "impromptu", "medical", "facilities", "visit", "after", "getting", "up", "."], "e1_text": "planned", "e1_pos": 34, "e2_text": "getting", "e2_pos": 41, "label": "after"},
+{"tokens": ["It", "is", "recommended", "that", "you", "drink", "a", "lot", "of", "water", "before", "and", "after", "coming", "in", "to", "have", "your", "blood", "drawn", "for", "tests", ",", "your", "veins", "will", "be", "bigger", "thus", "making", "the", "procedure", "easier", "for", "you", "and", "the", "medical", "staff", "."], "e1_text": "drink", "e1_pos": 5, "e2_text": "coming", "e2_pos": 13, "label": "after"},
+{"tokens": ["And", "you", "probably", "will", "not", "feel", "as", "tired", "and", "lightheaded", "like", "I", "was", "for", "a", "few", "hours", "after", "this", "was", "done", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

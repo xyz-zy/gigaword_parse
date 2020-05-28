@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "get", "all", "indignant", "about", "the", "potato", "skins", "taking", "forever", ",", "but", "when", "I", "saw", "the", "hostess\\/waitress\\/bartender", "walking", "out", "with", "our", "skins", "and", "realizing", "she", "was", "the", "only", "employee", "on", "duty", ",", "I", "shut", "my", "mouth", "before", "I", "made", "an", "ass", "of", "myself", "."], "e1_text": "shut", "e1_pos": 35, "e2_text": "made", "e2_pos": 40, "label": "before"},
+{"tokens": ["I", "was", "really", "impressed", "with", "the", "fries", ",", "in", "part", "because", "I", "in", "my", "endless", "skepticism", "expected", "steak", "fries", ",", "which", "are", "always", "soggy", "before", "you", "even", "bite", "into", "them", "."], "e1_text": "soggy", "e1_pos": 23, "e2_text": "bite", "e2_pos": 27, "label": "before"}
+]

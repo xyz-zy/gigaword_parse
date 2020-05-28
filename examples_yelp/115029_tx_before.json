@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "walked", "around", "the", "store", "for", "a", "while", "before", "I", "talked", "to", "anyone", "as", "the", "ladies", "appeared", "busy", "even", "though", "I", "was", "the", "only", "customers", "in", "the", "store", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "talked", "e2_pos": 10, "label": "before"},
+{"tokens": ["They", "mentioned", "that", "at", "the", "end", "of", "the", "day", "they", "like", "to", "close", "the", "store", "and", "drink", "wine", "before", "heading", "home", "."], "e1_text": "close", "e1_pos": 12, "e2_text": "heading", "e2_pos": 19, "label": "before"},
+{"tokens": ["After", "learning", "of", "this", "my", "first", "thought", "was", "boy", "I", "wonder", "how", "much", "they", "drink", "before", "they", "drive", "home", "."], "e1_text": "drink", "e1_pos": 14, "e2_text": "drive", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "could", "have", "met", "with", "Tina", "with", "my", "wife", "before", "I", "departed", "to", "fix", "this", "."], "e1_text": "met", "e1_pos": 3, "e2_text": "departed", "e2_pos": 11, "label": "before"}
+]

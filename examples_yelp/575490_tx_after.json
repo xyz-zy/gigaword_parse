@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "start", "by", "asking", "this", ":", "Have", "you", "ever", "been", "to", "a", "restaurant", "where", "they", "skipped", "your", "starter", "-LRB-", "soup", "-RRB-", "never", "brought", "you", "your", "beverage", ",", "and", "brought", "the", "entree", "out", "with", "the", "bill", "15", "minutes", "after", "it", "was", "ordered", "?"], "e1_text": "brought", "e1_pos": 23, "e2_text": "was", "e2_pos": 40, "label": "after"},
+{"tokens": ["I", "ordered", "the", "Chow", "Mein", ",", "which", "came", "out", "about", "15", "minutes", "after", "I", "ordered", "it", "with", "the", "bill", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 1, "label": "after"}
+]

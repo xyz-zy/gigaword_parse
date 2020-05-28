@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "that", ",", "but", "he", "asked", "for", "payment", "upfront", "and", "the", "check", "cleared", "on", "Monday", ",", "five", "days", "before", "we", "were", "expected", "home", "."], "e1_text": "cleared", "e1_pos": 13, "e2_text": "were", "e2_pos": 21, "label": "before"}
+]

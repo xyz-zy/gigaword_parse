@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "first", ",", "we", "got", "lost", "and", "had", "to", "turn", "around", "by", "Desert", "Inn", "Road", "which", "1", "-RRB-", "did", "n't", "allow", "a", "u-turn", "-", "and", "-", "2", "-RRB-", "it", "'s", "actually", "a", "long", "road", "that", "takes", "you", "all", "the", "way", "over", "to", "the", "other", "side", "before", "letting", "you", "turn", "around", ",", "so", "it", "took", "us", "awhile", "to", "find", "it", ",", "but", "we", "found", "it", "nevertheless", "."], "e1_text": "takes", "e1_pos": 35, "e2_text": "letting", "e2_pos": 46, "label": "before"}
+]

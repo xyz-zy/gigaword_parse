@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "tried", "to", "pull", "a", "bait", "and", "switch", "on", "me", "by", "accepting", "a", "reservation", "for", "one", "thing", ",", "and", "then", "telling", "me", "that", "it", "was", "not", "available", "--", "only", "after", "I", "called", "and", "two", "weeks", "before", "my", "party", "."], "e1_text": "telling", "e1_pos": 20, "e2_text": "called", "e2_pos": 31, "label": "after"}
+]

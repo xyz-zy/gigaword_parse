@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "the", "hummus", "appetizer", ",", "after", "being", "told", "that", "the", "flaming", "cheese", ",", "which", "was", "advertised", "on", "both", "the", "outdoor", "sign", "and", "the", "specials", "board", ",", "was", "no", "longer", "available", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["To", "her", "credit", ",", "our", "waitress", "told", "us", "about", "the", "communication", "snafu", ",", "but", "this", "was", "well", "after", "we", "had", "received", "our", "meals", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

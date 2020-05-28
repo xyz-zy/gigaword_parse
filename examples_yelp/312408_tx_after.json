@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sushi", "came", "out", "super", "fast", "after", "we", "ordered", ",", "which", "is", "troubling", "considering", "it", "took", "10", "minutes", "just", "for", "the", "waiter", "to", "take", "our", "drink", "orders", "and", "then", "another", "15", "before", "the", "manager", "realized", "our", "order", "had", "n't", "been", "taken", "yet", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

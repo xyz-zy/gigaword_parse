@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "follow", "up", "with", "us", ",", "did", "n't", "answer", "his", "phone", "after", "calling", "multiple", "times", "."], "e1_text": "answer", "e1_pos": 8, "e2_text": "calling", "e2_pos": 12, "label": "after"},
+{"tokens": ["Thank", "goodness", "there", "ARE", "competent", "people", "there", "picking", "up", "his", "SLACK", "after", "we", "had", "to", "reach", "out", "to", "them", "."], "e1_text": "picking", "e1_pos": 7, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

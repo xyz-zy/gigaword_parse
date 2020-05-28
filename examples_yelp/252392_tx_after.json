@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "come", "here", "often", "on", "Friday", "nights", "after", "my", "son", "gets", "done", "with", "football", "practice", "and", "I", "come", "occassionally", "during", "the", "week", "for", "happy", "hour", "while", "my", "son", "is", "at", "practice", "."], "e1_text": "come", "e1_pos": 1, "e2_text": "gets", "e2_pos": 10, "label": "after"},
+{"tokens": ["Believe", "me", "after", "being", "at", "a", "football", "game", "and", "my", "son", "playing", "all", "night", ",", "he", "was", "tired", "and", "we", "did", "n't", "want", "to", "be", "there", "till", "midnight", "anyway", "."], "e1_text": "Believe", "e1_pos": 0, "e2_text": "being", "e2_pos": 3, "label": "after"}
+]

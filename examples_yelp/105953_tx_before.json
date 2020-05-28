@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "picked", "up", "the", "watch", "initially", ",", "before", "I", "knew", "there", "was", "a", "problem", ",", "I", "also", "brought", "in", "an", "earring", "I", "wanted", "reconfigured", "so", "that", "the", "two", "stones", "in", "one", "earring", "would", "make", "two", "separate", "earrings", "."], "e1_text": "picked", "e1_pos": 2, "e2_text": "knew", "e2_pos": 10, "label": "before"}
+]

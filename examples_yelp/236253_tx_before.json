@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "line", "at", "the", "Bellagio", "buffet", "was", "ridiculously", "long", "-LRB-", "we", "would", "have", "waited", "2", "hours", "-RRB-", ",", "and", "we", "really", "really", "wanted", "to", "stuff", "ourselves", "silly", "with", "buffet", "food", "-LRB-", "after", "stuffing", "ourselves", "silly", "the", "day", "before", "at", "the", "Aladdin", "buffet", "-RRB-", ",", "so", "settled", "in", "at", "Caeser", "'s", "."], "e1_text": "stuff", "e1_pos": 24, "e2_text": "stuffing", "e2_pos": 32, "label": "before"}
+]

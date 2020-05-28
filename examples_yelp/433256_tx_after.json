@@ -1,0 +1,3 @@
+[
+{"tokens": ["it", "came", "with", "a", "soup", "-LRB-", "but", "the", "soup", "did", "n't", "make", "it", "out", "to", "our", "table", "until", "after", "the", "dinner", "came", "-RRB-", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "came", "e2_pos": 1, "label": "after"}
+]

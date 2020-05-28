@@ -1,0 +1,3 @@
+[
+{"tokens": ["and", "it", "was", "served", "in", "the", "tail", "-LRB-", "cut", "in", "half", "-RRB-", "on", "my", "plate", "which", "made", "it", "a", "little", "harder", "to", "eat", "as", "i", "'m", "used", "to", "-LRB-", "steak", "houses", "i", "go", "to", "-RRB-", ",", "the", "waiter", "usually", "removes", "the", "tail", "from", "the", "shell", "before", "i", "consume", "it", "."], "e1_text": "removes", "e1_pos": 39, "e2_text": "consume", "e2_pos": 47, "label": "before"}
+]

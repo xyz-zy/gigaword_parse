@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "1,169", "reviews", "on", "The", "Bellagio", ",", "I", "want", "to", "share", "my", "experiences", "on", "my", "staycation", "here", "before", "my", "review", "gets", "buried", "like", "a", "Cadillac", "in", "the", "desert", "."], "e1_text": "share", "e1_pos": 10, "e2_text": "gets", "e2_pos": 20, "label": "before"},
+{"tokens": ["Chances", "are", "I", "will", "be", "staying", "in", "another", "Strip", "property", "before", "staying", "in", "the", "Bellagio", "."], "e1_text": "staying", "e1_pos": 5, "e2_text": "staying", "e2_pos": 5, "label": "before"}
+]

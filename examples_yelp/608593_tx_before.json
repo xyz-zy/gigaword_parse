@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "-", "waitress", "-LRB-", "Ana", "-RRB-", "was", "n't", "pleasant", "and", "had", "a", "minor", "attitude", "when", "I", "asked", "questions", "about", "bringing", "our", "apps", "out", "-LRB-", "I", "saw", "them", "on", "the", "counter", "for", "10", "mins", "before", "asking", "her", "about", "it", "-RRB-", "."], "e1_text": "saw", "e1_pos": 25, "e2_text": "asking", "e2_pos": 34, "label": "before"},
+{"tokens": ["Waitress", "slightly", "over", "poured", "my", "wine", "at", "the", "bar", "and", "she", "poured", "it", "back", "in", "the", "bottle", "before", "serving", "to", "me", "."], "e1_text": "poured", "e1_pos": 3, "e2_text": "serving", "e2_pos": 18, "label": "before"}
+]

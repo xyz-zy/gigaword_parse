@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "lunch", "bill", "for", "a", "party", "of", "four", "came", "to", "$", "68.53", "before", "tip", "and", "everything", "was", "very", "good", ",", "though", "admittedly", "some", "of", "the", "portions", "were", "small", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

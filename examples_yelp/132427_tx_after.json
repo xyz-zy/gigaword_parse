@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "seen", "it", "before", "but", "about", "a", "month", "after", "I", "booked", "the", "room", "I", "received", "an", "email", "pushing", "upgrades", "for", "my", "stay", "."], "e1_text": "seen", "e1_pos": 3, "e2_text": "booked", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "thought", "it", "was", "interesting", "they", "were", "still", "trying", "to", "upsell", "after", "I", "had", "said", "no", "over", "the", "phone", "."], "e1_text": "upsell", "e1_pos": 10, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "felt", "obligated", "to", "purchase", "another", "as", "well", "...", "The", "waiter", "then", "told", "us", "the", "dessert", "was", "not", "complimentary", "-", "after", "we", "ate", "it", "-", "and", "billed", "us", "for", "it", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "ate", "e2_pos": 22, "label": "after"}
+]

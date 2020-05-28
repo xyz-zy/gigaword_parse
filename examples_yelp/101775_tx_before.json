@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "more", "than", "15", "minutes", "to", "get", "the", "bill", ",", "and", "when", "she", "did", "arrive", "with", "it", "-", "I", "paid", "w", "\\/", "a", "giftcard", "-", "the", "credit", "balance", "was", "missing", "on", "the", "receipt", ",", "so", "I", "had", "to", "wait", "another", "ten", "minutes", "before", "finally", "going", "in", "myself", "to", "look", "for", "her", "."], "e1_text": "wait", "e1_pos": 39, "e2_text": "going", "e2_pos": 45, "label": "before"}
+]

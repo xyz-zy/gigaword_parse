@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "and", "I", "decided", "to", "stop", "by", "Deseret", "to", "kill", "some", "time", "after", "avoiding", "this", "place", "for", "a", "while", ",", "and", "found", "a", "beat", "up", "nightstand", "that", "we", "could", "restore", "for", "$", "20", "."], "e1_text": "kill", "e1_pos": 10, "e2_text": "avoiding", "e2_pos": 14, "label": "after"}
+]

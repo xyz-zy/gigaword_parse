@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "check", "for", "$", "74", "is", "cleared", ",", "it", "was", "cleared", "the", "next", "morning", "after", "i", "gave", "it", "to", "the", "tech", "so", "he", "must", "have", "handed", "the", "paperwork", "in", "contrary", "to", "what", "the", "secretary", "stated", "."], "e1_text": "cleared", "e1_pos": 6, "e2_text": "gave", "e2_pos": 16, "label": "after"}
+]

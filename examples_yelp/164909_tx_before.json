@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "hostess", ",", "waiter", "and", "busboy", "were", "all", "very", "friendly", "and", "attentive", ",", "however", "I", "will", "say", "that", "they", "were", "a", "bit", "too", "quick", "to", "want", "to", "remove", "my", "husband", "'s", "salad", "before", "he", "was", "even", "finished", "eating", "it", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "was", "e2_pos": 34, "label": "before"}
+]

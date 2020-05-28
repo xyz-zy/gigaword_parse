@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "her", "that", "the", "lighting", "is", "dimmer", "at", "night", "and", "neither", "the", "saleswoman", "or", "I", "noticed", "the", "mark", "the", "night", "before", ",", "She", "texted", "the", "owner", "and", "I", "waited", ",", "she", "was", "singing", "and", "tying", "a", "ribbon", "on", "a", "candle", "and", "acting", "as", "if", "I", "was", "n't", "there", "!"], "e1_text": "noticed", "e1_pos": 16, "e2_text": "texted", "e2_pos": 24, "label": "before"}
+]

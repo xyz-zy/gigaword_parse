@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "would", "be", "better", "than", "to", "rather", "than", "to", "stack", "3", "separate", "customer", "orders", "at", "the", "same", "time", ",", "it", "'s", "better", "to", "do", "one", "order", "at", "a", "time", ",", "because", "the", "2", "other", "people", "received", "their", "orders", "1", "minute", "after", "mine", "was", "ready", ":", "\\/", "The", "coffee", "is", "ok", "but", "pricy", "for", "the", "portion", "size", "."], "e1_text": "received", "e1_pos": 35, "e2_text": "was", "e2_pos": 42, "label": "after"}
+]

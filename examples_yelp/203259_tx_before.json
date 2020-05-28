@@ -1,0 +1,4 @@
+[
+{"tokens": ["Uhh", "...", "We", "wanted", "a", "quick", "bite", "before", "leaving", "Vegas", "and", "we", "decided", "whats", "faster", "than", "a", "cheeseburger", "?"], "e1_text": "wanted", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "wonder", "if", "they", "were", "hand", "feeding", "and", "raising", "the", "turkey", "in", "the", "back", "before", "butchering", "it", "and", "bringing", "it", "onto", "my", "plate", "and", "they", "decided", "that", "it", "needed", "to", "go", "in", "the", "fridge", "or", "something", "?"], "e1_text": "feeding", "e1_pos": 6, "e2_text": "butchering", "e2_pos": 15, "label": "before"}
+]

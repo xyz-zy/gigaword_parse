@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "area", "looks", "a", "little", "sketchy", ",", "but", "maybe", "only", "because", "I", "'ve", "always", "gone", "after", "it", "'s", "already", "dark", "out", "."], "e1_text": "gone", "e1_pos": 14, "e2_text": "'s", "e2_pos": 17, "label": "after"},
+{"tokens": ["There", "has", "always", "been", "a", "lot", "of", "leftover", "honey", "hot", "sauce", "even", "after", "I", "'ve", "finished", "eating", ",", "so", "they", "definitely", "are", "n't", "lacking", "on", "the", "sauce", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 14, "label": "after"}
+]

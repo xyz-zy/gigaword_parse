@@ -1,0 +1,5 @@
+[
+{"tokens": ["If", "that", "was", "n't", "enough", ",", "after", "a", "couple", "of", "months", "of", "not", "eating", "there", ",", "we", "thought", "that", "we", "would", "give", "them", "one", "more", "try", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "eating", "e2_pos": 13, "label": "after"},
+{"tokens": ["Yea", ",", "we", "cooked", "supper", "instead", "after", "this", "''", "``", "food", "''", "''", "arrived", "."], "e1_text": "cooked", "e1_pos": 3, "e2_text": "arrived", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "guy", "showed", "up", "around", "30", "minutes", "after", "we", "placed", "the", "order", "."], "e1_text": "showed", "e1_pos": 2, "e2_text": "placed", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Things", "started", "off", "slow", "...", "sat", "there", "for", "10", "minutes", "before", "being", "greeted", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "being", "e2_pos": 11, "label": "before"},
+{"tokens": ["She", "could", "not", "even", "wait", "until", "I", "finished", "my", "sentence", "before", "walking", "away", "."], "e1_text": "finished", "e1_pos": 7, "e2_text": "walking", "e2_pos": 11, "label": "before"}
+]

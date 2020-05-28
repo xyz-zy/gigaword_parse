@@ -1,0 +1,3 @@
+[
+{"tokens": ["HEAD", "'S", "UP", ":", "I", "would", "definitely", "suggest", "that", "you", "phone", "your", "orders", "in", "before", "coming", "as", "it", "tends", "to", "get", "busy", "here", "and", "it", "might", "take", "a", "while", "to", "get", "your", "food", "."], "e1_text": "phone", "e1_pos": 10, "e2_text": "coming", "e2_pos": 15, "label": "before"}
+]

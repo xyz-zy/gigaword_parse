@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "have", "never", "been", "charged", "for", "cleaning", "and", "minor", "repairs", "before", "another", "tenant", "moves", "in", "to", "your", "recently", "vacated", "apartment", ",", "then", "this", "is", "NOT", "the", "complex", "for", "you", "."], "e1_text": "charged", "e1_pos": 5, "e2_text": "moves", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "have", "never", ",", "ever", ",", "heard", "of", "charging", "former", "tenants", "for", "the", "minor", "clean", "up", "job", "necessary", "before", "new", "tenants", "move", "in", "."], "e1_text": "charging", "e1_pos": 8, "e2_text": "move", "e2_pos": 21, "label": "before"}
+]

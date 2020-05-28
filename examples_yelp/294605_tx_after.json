@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "the", "end", "they", "did", "say", "go", "to", "one", "of", "the", "pay", "counters", "at", "the", "second", "floor", "to", "claim", "your", "unused", "beer", "sample", "tickets", ",", "but", "when", "I", "got", "down", "there", "at", "9:40", "only", "a", "few", "minutes", "after", "the", "announcement", "they", "were", "already", "closing", "up", "and", "we", "were", "unable", "to", "claim", "the", "rest", "of", "our", "tickets", "."], "e1_text": "got", "e1_pos": 28, "e2_text": "were", "e2_pos": 41, "label": "after"}
+]

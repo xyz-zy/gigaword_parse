@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "the", "first", "place", "we", "ate", "after", "checking", "into", "the", "hotel", "-", "we", "quickly", "changed", "to", "go", "swimming", "and", "-LRB-", "since", "we", "were", "starting", "to", "lose", "sun", "-RRB-", "decided", "to", "eat", "at", "the", "cafe", "."], "e1_text": "ate", "e1_pos": 6, "e2_text": "checking", "e2_pos": 8, "label": "after"}
+]

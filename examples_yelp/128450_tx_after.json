@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "Jan", "\\/", "2006", "-RRB-", "We", "came", "here", "really", "late", "after", "watching", "''", "``", "O", "''", "''", "at", "the", "Bellagio", "and", "waited", "at", "the", "bar", "for", "a", "while", "before", "we", "got", "a", "table", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "watching", "e2_pos": 11, "label": "after"},
+{"tokens": ["Tip", ":", "If", "you", "need", "a", "cab", "to", "get", "back", "to", "your", "hotel", "after", "eating", "here", "late", "night", ",", "make", "sure", "you", "ask", "have", "the", "hostess", "call", "while", "you", "are", "dining", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

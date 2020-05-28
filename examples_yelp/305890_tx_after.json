@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "the", "past", "I", "used", "to", "go", "to", "Mexican", "restaurants", "and", "order", "the", "taco", ",", "burrito", ",", "enchilada", "special", "so", "after", "seeing", "a", "Groupon", "for", "Blue", "Adobe", "Grille", "-LRB-", "although", "I", "did", "n't", "purchase", "it", "-RRB-", ",", "I", "stopped", "after", "being", "in", "the", "area", "."], "e1_text": "order", "e1_pos": 11, "e2_text": "seeing", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "a", "lot", "of", "orders", "go", "in", "at", "one", "time", "-LRB-", "before", "the", "movie", "starts", "-RRB-", "it", "takes", "a", "while", "...", "So", "you", "end", "up", "getting", "up", "after", "the", "movie", "started", "&", "you", "miss", "part", "of", "it", "."], "e1_text": "getting", "e1_pos": 25, "e2_text": "started", "e2_pos": 30, "label": "after"}
+]

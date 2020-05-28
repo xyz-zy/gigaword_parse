@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "already", "knew", "the", "diagnosis", "-LRB-", "I", "made", "it", "before", "I", "came", "in", "-RRB-", ",", "but", "when", "he", "told", "me", "of", "the", "CT", "scan", "results", ",", "it", "implied", "that", "I", "was", "going", "to", "lose", "my", "leg", "."], "e1_text": "made", "e1_pos": 7, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

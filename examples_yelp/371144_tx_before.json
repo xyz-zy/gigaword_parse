@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "I", "love", "all", "things", "Top", "Chef", "in", "any", "of", "its", "various", "forms", ",", "and", "I", "am", "trying", "to", "have", "a", "Top", "Chef", "food", "baby", "before", "I", "die", "."], "e1_text": "have", "e1_pos": 20, "e2_text": "die", "e2_pos": 28, "label": "before"},
+{"tokens": ["He", "even", "swooped", "in", "with", "a", "drink", "refill", "before", "I", "had", "the", "chance", "to", "open", "my", "big", "mouth", "."], "e1_text": "swooped", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

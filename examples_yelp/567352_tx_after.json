@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "give", "this", "restaurant", "a", "try", "after", "receiving", "a", "gift", "certificate", "as", "part", "of", "a", "cooking", "class", "and", "was", "less", "than", "impressed", "with", "the", "quality", "of", "both", "the", "food", "and", "service", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "receiving", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "can", "only", "assume", "her", "hesitation", "to", "use", "the", "certificates", "was", "out", "of", "concern", "for", "her", "tip", "-LRB-", "perhaps", "she", "thought", "we", "would", "think", "the", "amount", "due", "after", "the", "certificate", "was", "our", "total", "in", "a", "tip", "calculation", "-RRB-", "."], "e1_text": "think", "e1_pos": 23, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

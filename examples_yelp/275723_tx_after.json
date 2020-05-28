@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "extremely", "cranky", "server", "barked", "at", "myself", "and", "another", "woman", "at", "the", "table", "next", "to", "me", "-LRB-", "after", "we", "waited", "patiently", "for", "20", "minutes", "to", "be", "acknowledged", "-RRB-", "that", "it", "was", "going", "to", "be", "a", "`", "really", "long", "time", "'", "before", "she", "'d", "get", "to", "us", "and", "another", "30", "minutes", "at", "least", "to", "get", "our", "order", "."], "e1_text": "barked", "e1_pos": 4, "e2_text": "waited", "e2_pos": 19, "label": "after"}
+]

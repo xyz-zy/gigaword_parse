@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "supposed", "to", "grovel", "in", "gratitude", "because", "after", "45", "minutes", "of", "calling", "the", "cab", "only", "to", "hear", "the", "dispatcher", "say", ",", "''", "``", "It", "should", "have", "been", "there", "''", "''", "as", "if", "this", "was", "supposed", "to", "console", "me", "for", "missing", "the", "first", "25", "minutes", "of", "Robert", "Klein", "'s", "show", ",", "she", "managed", "to", "find", "the", "casino", "?"], "e1_text": "grovel", "e1_pos": 4, "e2_text": "say", "e2_pos": 20, "label": "after"}
+]

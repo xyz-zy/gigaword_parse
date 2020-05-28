@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "the", "cashier", "tried", "to", "send", "me", "off", "after", "I", "paid", "but", "before", "remembering", "she", "had", "n't", "even", "given", "me", "my", "drink", ".", "."], "e1_text": "send", "e1_pos": 6, "e2_text": "paid", "e2_pos": 11, "label": "after"}
+]

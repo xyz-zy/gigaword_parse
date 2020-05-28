@@ -1,0 +1,5 @@
+[
+{"tokens": ["That", "'s", "before", "I", "even", "went", "into", "the", "pornographic", "details", "about", "how", "it", "was", "swimming", "in", "Makers", "Mark", "Caramel", "Bourbon", "Sauce", "that", "was", "set", "ablaze", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "went", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "kept", "my", "expectations", "at", "bay", "before", "dining", "here", "."], "e1_text": "kept", "e1_pos": 1, "e2_text": "dining", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "was", "given", "a", "bit", "of", "sorbet", "to", "cleanse", "the", "palate", "before", "being", "presented", "with", "my", "Pear", "and", "Endive", "salad", ",", "blue", "cheese", "brulee", "and", "pink", "apple", "vinaigrette", "."], "e1_text": "cleanse", "e1_pos": 8, "e2_text": "being", "e2_pos": 12, "label": "before"}
+]

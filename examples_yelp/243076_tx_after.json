@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "dont", "like", "sitting", "outside", "because", "A", "-RRB-", "I", "have", "no", "plug", "and", "my", "battery", "dies", "after", "an", "hour", ",", "and", "B", "-RRB-", "in", "the", "summer", "Im", "not", "sitting", "in", "the", "heat", "."], "e1_text": "dies", "e1_pos": 15, "e2_text": "sitting", "e2_pos": 3, "label": "after"}
+]

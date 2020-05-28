@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "had", "the", "other", "one", "done", "the", "next", "day", ",", "I", "asked", "dentist", "-LRB-", "a", "different", "one", "this", "time", "-RRB-", "if", "he", "saw", "notes", "from", "day", "before", ",", "that", "I", "needed", "extra", "Novocain", ",", "as", "I", "was", "afraid", "of", "feeling", "pain", "again", "...", "his", "testy", "response", ":", "''", "``", "So", "?", "''", "''"], "e1_text": "saw", "e1_pos": 23, "e2_text": "needed", "e2_pos": 31, "label": "before"},
+{"tokens": ["Then", ":", "''", "``", "well", ",", "let", "'s", "see", "if", "this", "works", "-LRB-", "the", "same", "amt", "I", "got", "the", "day", "before", ",", "which", "was", "n't", "enough", ".", "-RRB-"], "e1_text": "works", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "town", "for", "the", "Vegas", "marathon", "and", "on", "an", "extremely", "tight", "schedule", "between", "flying", "in", ",", "checking", "into", "the", "Venetian", ",", "getting", "to", "the", "Expo", "and", "trying", "to", "grab", "a", "tasty", "dinner", "before", "heading", "to", "the", "Mirage", "to", "see", "''", "``", "Love", "''", "''", "."], "e1_text": "grab", "e1_pos": 30, "e2_text": "heading", "e2_pos": 35, "label": "before"},
+{"tokens": ["I", "understand", "the", "black", "beans", ",", "and", "cilantro", "rice", "are", "probably", "already", "made", "and", "I", "think", "the", "server", "said", "this", "pork", "is", "cooked", "for", "4", "hours", "...", "I", "'d", "only", "had", "a", "few", "sips", "of", "my", "margarita", "before", "ordering", "but", "ca", "n't", "recall", ",", "anyhow", "my", "plate", "was", "out", "SO", "fast", "."], "e1_text": "had", "e1_pos": 30, "e2_text": "was", "e2_pos": 47, "label": "before"}
+]

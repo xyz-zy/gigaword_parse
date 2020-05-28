@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "greeted", "right", "away", "upon", "entering", "the", "store", ",", "and", "wanted", "to", "do", "a", "little", "browsing", "around", "first", "before", "I", "asked", "for", "any", "help", "."], "e1_text": "do", "e1_pos": 13, "e2_text": "asked", "e2_pos": 21, "label": "before"},
+{"tokens": ["But", "I", "did", "a", "little", "perusing", "myself", "before", "asking", "for", "the", "piano", "Christmas", "music", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "asking", "e2_pos": 8, "label": "before"}
+]

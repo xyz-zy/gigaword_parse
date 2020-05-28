@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", ",", "he", "prescribed", "allergy", "medication", "that", "I", "had", "to", "pick", "up", "from", "the", "office", "and", "his", "staff", "broke", "several", "safety", "protocols", "that", "are", "in", "place", "to", "keep", "patients", "from", "going", "into", "anaphylactic", "shock", ",", "including", "failing", "to", "mention", "that", "I", "needed", "to", "have", "an", "epipen", "before", "I", "ever", "tried", "the", "medication", "."], "e1_text": "have", "e1_pos": 43, "e2_text": "tried", "e2_pos": 49, "label": "before"}
+]

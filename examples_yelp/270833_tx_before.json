@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "place", "is", "like", "the", "great", "lost", "city", "of", "Atlantis", "that", "was", "buried", "beneath", "the", "sea", "before", "people", "ever", "moved", "into", "it", "."], "e1_text": "buried", "e1_pos": 12, "e2_text": "moved", "e2_pos": 19, "label": "before"},
+{"tokens": ["Or", "like", "some", "great", "monument", "to", "civic", "pride", "built", "in", "Chernobyl", "shortly", "before", "large", "quantities", "of", "radioactive", "particles", "were", "inadvertently", "released", "into", "the", "atmosphere", "and", "it", "had", "to", "be", "abandoned", "too", "quickly", "to", "even", "demolish", "it", "first", "."], "e1_text": "built", "e1_pos": 8, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "last", "time", "I", "was", "there", "I", "was", "using", "the", "toilet", "and", "had", "to", "step", "on", "one", "before", "it", "crawled", "up", "my", "leg", "."], "e1_text": "step", "e1_pos": 14, "e2_text": "crawled", "e2_pos": 19, "label": "before"}
+]

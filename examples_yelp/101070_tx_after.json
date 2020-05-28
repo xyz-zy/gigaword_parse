@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "store", "'s", "layout", "is", "supposed", "to", "be", "modeled", "after", "one", "'s", "own", "closet", ",", "which", "is", "laughable", "because", "if", "my", "own", "closet", "looked", "like", "that", "I", "would", "n't", "be", "shopping", "at", "BR", "."], "e1_text": "modeled", "e1_pos": 8, "e2_text": "is", "e2_pos": 4, "label": "after"},
+{"tokens": ["It", "was", "nice", "to", "see", "that", "the", "store", "was", "well", "stocked", ",", "and", "that", "even", "after", "opening", "day", "hubbub", "in", "our", "anorexic", "town", ",", "there", "were", "smalls", "and", "extra-smalls", "in", "everything", "that", "I", "wanted", "to", "try", "on", "."], "e1_text": "see", "e1_pos": 4, "e2_text": "opening", "e2_pos": 16, "label": "after"}
+]

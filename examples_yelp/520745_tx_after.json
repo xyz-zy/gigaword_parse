@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "explained", "to", "them", "how", "I", "had", "called", "first", ",", "asked", "again", "at", "rtegistration", "before", "being", "seen", ",", "and", "spoke", "with", "someone", "after", "receiving", "initial", "bill", "and", "was", "told", "disreguard", "it", "."], "e1_text": "spoke", "e1_pos": 19, "e2_text": "receiving", "e2_pos": 23, "label": "after"},
+{"tokens": ["This", "is", "like", "going", "to", "a", "restaurant", "and", "told", "your", "given", "a", "complimentary", "Fillet", "and", "after", "eating", "it", "the", "manager", "tells", "you", "oh", "sorry", "the", "waitress", "did", "n't", "know", "what", "she", "was", "talking", "about", "but", "you", "still", "have", "to", "pay", "."], "e1_text": "told", "e1_pos": 8, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

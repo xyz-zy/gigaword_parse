@@ -1,0 +1,4 @@
+[
+{"tokens": ["Decided", "to", "go", "to", "a", "theater", "that", "we", "have", "never", "visited", "before", "and", "decided", "on", "this", "one", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "have", "e2_pos": 8, "label": "before"},
+{"tokens": ["Grab", "a", "bite", "before", "or", "after", "going", "to", "the", "theater", "."], "e1_text": "Grab", "e1_pos": 0, "e2_text": "going", "e2_pos": 6, "label": "before"}
+]

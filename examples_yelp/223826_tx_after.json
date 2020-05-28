@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waitress", "takes", "another", "10", "minutes", "after", "water", "is", "delivered", "to", "come", "back", "to", "take", "my", "order", "even", "though", "the", "restaurant", "is", "more", "than", "half", "empty", "and", "I", "try", "to", "give", "her", "a", "visual", "que", "by", "closing", "my", "menu", "and", "placing", "it", "way", "on", "the", "other", "side", "of", "the", "table", "."], "e1_text": "takes", "e1_pos": 1, "e2_text": "is", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "shrimp", "tasted", "like", "it", "had", "been", "cooked", "separately", "and", "added", "as", "a", "garnish", "after", "the", "dish", "was", "plated", "."], "e1_text": "added", "e1_pos": 10, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

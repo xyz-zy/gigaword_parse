@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "listened", "to", "what", "I", "wanted", "before", "starting", ",", "asked", "me", "questions", ",", "made", "suggestions", "and", "approached", "it", "as", "both", "an", "artist", "and", "a", "professional", "."], "e1_text": "wanted", "e1_pos": 5, "e2_text": "starting", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "owner", ",", "Karl", ",", "came", "over", "when", "I", "was", "sitting", "there", "and", "chatted", "to", "me", "before", "taking", "his", "own", "client", "."], "e1_text": "chatted", "e1_pos": 13, "e2_text": "taking", "e2_pos": 17, "label": "before"}
+]

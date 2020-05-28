@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "saw", "the", "chef", "plating", "the", "ginger", "cake", ",", "piling", "the", "whipped", "cream", "on", "the", "top", "artfully", ",", "after", "which", "he", "stuck", "the", "spoon", "into", "his", "mouth", ",", "cleaned", "it", "with", "obvious", "relish", ",", "and", "threw", "the", "spoon", "into", "the", "dish", "pit", "."], "e1_text": "piling", "e1_pos": 9, "e2_text": "stuck", "e2_pos": 21, "label": "after"}
+]

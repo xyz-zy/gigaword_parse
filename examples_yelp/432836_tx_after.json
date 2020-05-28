@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "vehicle", "back", "in", "after", "dicovering", "that", "they", "had", "failed", "to", "tighten", "the", "lock", "nut", "on", "one", "of", "the", "tie", "rod", "ends", "which", "is", "what", "caused", "the", "alignment", "to", "go", "out", "and", "ruin", "the", "tires", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "ends", "e2_pos": 23, "label": "after"}
+]

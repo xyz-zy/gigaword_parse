@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "there", "is", "the", "fact", "that", "you", "go", "to", "this", "pharmacy", "wait", "in", "line", "and", "then", "have", "them", "ignore", "you", "for", "about", "five", "minutes", ",", "if", "not", "more", "before", "they", "acknowledge", "your", "presence", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "acknowledge", "e2_pos": 30, "label": "before"}
+]

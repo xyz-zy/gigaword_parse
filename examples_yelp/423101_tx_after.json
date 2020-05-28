@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "'m", "finally", "able", "to", "get", "our", "server", "'s", "attention", "-LRB-", "after", "having", "seen", "her", "standing", "with", "another", "table", "'s", "initial", "drinks", "and", "chatting", "with", "another", "server", "for", "several", "minutes", "-RRB-", ",", "she", "scowls", "at", "me", "when", "I", "ask", "her", "for", "more", "drinks", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "having", "e2_pos": 13, "label": "after"}
+]

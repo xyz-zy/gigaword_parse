@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "used", "Sky", "Harbor", "during", "Christmas", "and", "we", "got", "the", "SAME", "driver", "again", "after", "being", "picked", "up", "and", "taken", "back", "to", "the", "lot", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["Thankfully", ",", "it", "did", "n't", "happen", "to", "us", ",", "because", "I", "would", "have", "blown", "a", "fuse", "after", "dealing", "with", "the", "driver", "."], "e1_text": "blown", "e1_pos": 13, "e2_text": "dealing", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "front", "desk", "staff", "was", "friendly", "&", "personable", ",", "and", "I", "was", "introduced", "to", "my", "massage", "therapist", "shortly", "after", "I", "arrived", "."], "e1_text": "introduced", "e1_pos": 12, "e2_text": "arrived", "e2_pos": 20, "label": "after"},
+{"tokens": ["Although", "I", "waited", "5", "minutes", "for", "her", "to", "enter", "after", "I", "was", "undressed", "and", "under", "the", "sheet", ",", "I", "think", "the", "made", "up", "for", "the", "time", "and", "I", "still", "got", "the", "full", "hour", "."], "e1_text": "enter", "e1_pos": 8, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["She", "also", "gave", "me", "a", "full", "scalp", "massage", ",", "which", "I", "am", "not", "accustomed", "to", "after", "going", "to", "other", "massage", "locations", "."], "e1_text": "am", "e1_pos": 11, "e2_text": "going", "e2_pos": 16, "label": "after"}
+]

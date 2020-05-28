@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "feel", "that", "you", "really", "need", "to", "be", "in", "the", "mood", "for", "Betos", "before", "you", "go", "there", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "go", "e2_pos": 15, "label": "before"},
+{"tokens": ["When", "I", "am", "in", "the", "mood", "for", "pizza", ",", "I", "am", "heading", "for", "the", "flowing", ",", "stringy", "cheese", "and", "the", "flavors", "melting", "together", "before", "it", "hits", "my", "mouth", "."], "e1_text": "melting", "e1_pos": 21, "e2_text": "hits", "e2_pos": 25, "label": "before"}
+]

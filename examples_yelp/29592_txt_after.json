@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "let", "the", "clerk", "know", "we", "needed", "a", "ride", "to", "the", "airport", "in", "the", "morning", "and", "it", "turns", "out", "that", "you", "can", "leave", "your", "car", "there", "if", "you", "'re", "planning", "to", "stay", "on", "your", "return", "trip", "and", "the", "stay", "is", "14", "days", "or", "less", "-LRB-", "I", "asked", "after", "a", "friend", "informed", "me", "you", "can", "do", "this", "--", "beats", "paying", "for", "airport", "parking", "!", "-RRB-", "."], "e1_text": "asked", "e1_pos": 46, "e2_text": "informed", "e2_pos": 50, "label": "after"}
+]

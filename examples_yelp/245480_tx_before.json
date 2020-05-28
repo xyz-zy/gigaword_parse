@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sometimes", "I", "get", "homesick", "for", "the", "stuff", "I", "took", "for", "granted", "before", "leaving", "my", "home", "."], "e1_text": "granted", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 12, "label": "before"},
+{"tokens": ["However", ",", "I", "'d", "like", "to", "try", "Babaloo", "and", "Sabor", "Cubano", "before", "officially", "declaring", "any", "particular", "Cuban", "place", "my", "go-to", "here", "in", "the", "desert", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "declaring", "e2_pos": 13, "label": "before"}
+]

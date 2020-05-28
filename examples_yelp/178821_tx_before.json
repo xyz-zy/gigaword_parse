@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "only", "2", "hours", "ago", "that", "I", "had", "lunch", "but", "I", "only", "had", "4", "more", "hours", "before", "this", "24", "hour", "bracelet", "expires", "!"], "e1_text": "had", "e1_pos": 8, "e2_text": "expires", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "deed", "was", "done", "...", "Both", "of", "us", "being", "still", "full", "from", "our", "last", "buffet", "adventure", ",", "sat", "for", "a", "very", "long", "time", "before", "heading", "up", "to", "grab", "food", "."], "e1_text": "sat", "e1_pos": 17, "e2_text": "heading", "e2_pos": 24, "label": "before"}
+]

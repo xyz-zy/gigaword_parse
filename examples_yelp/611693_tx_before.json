@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "now", "taken", "a", "day", "off", "to", "clean", "everything", "before", "we", "bring", "the", "bugs", "into", "our", "own", "house", "."], "e1_text": "clean", "e1_pos": 8, "e2_text": "bring", "e2_pos": 12, "label": "before"}
+]

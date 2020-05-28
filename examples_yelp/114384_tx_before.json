@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "the", "garlic", "bread", "on", "the", "side", "was", "so", "dry", "it", "felt", "like", "they", "used", "stale", "bread", "before", "toasting", "it", "."], "e1_text": "used", "e1_pos": 14, "e2_text": "toasting", "e2_pos": 18, "label": "before"},
+{"tokens": ["Just", "make", "sure", "you", "'ve", "eaten", "dinner", "before", "you", "go", "."], "e1_text": "eaten", "e1_pos": 5, "e2_text": "go", "e2_pos": 9, "label": "before"}
+]

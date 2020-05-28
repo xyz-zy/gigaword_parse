@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "has", "never", "had", "to", "order", "another", "meal", "after", "eating", "a", "meal", "before", "just", "to", "satisfy", "his", "hunger", "."], "e1_text": "order", "e1_pos": 5, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["She", "thanked", "us", "for", "the", "feedback", "and", "then", "told", "us", "that", "she", "hoped", "we", "would", "try", "them", "again", "even", "after", "we", "said", "honestly", "after", "this", "experience", "we", "wouldnt", "be", "back", "."], "e1_text": "try", "e1_pos": 15, "e2_text": "said", "e2_pos": 21, "label": "after"}
+]

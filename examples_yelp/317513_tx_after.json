@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nice", "light", "blue", "compact", "car", ",", "but", "there", "were", "many", "barely", "non-obvious", "damages", "to", "the", "car", "\\*", "the", "car", "inspection", "was", "done", "in", "poor", "lighting", "condition", "and", "after", "a", "car", "wash", "making", "it", "very", "difficult", "to", "inspect", "\\*", "3", "."], "e1_text": "were", "e1_pos": 8, "e2_text": "wash", "e2_pos": 30, "label": "after"}
+]

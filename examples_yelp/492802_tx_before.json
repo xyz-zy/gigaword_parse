@@ -1,0 +1,3 @@
+[
+{"tokens": ["WOW", "...", "then", "she", "managed", "not", "to", "come", "around", "our", "table", "to", "check", "and", "was", "totally", "out", "of", "sight", "until", "6:58", "pm", "-LRB-", "she", "was", "fully", "visible", "as", "she", "should", "before", "we", "ordered", "anything", "from", "the", "happy", "hour", "-RRB-", "and", "said", "''", "``", "do", "you", "guys", "want", "another", "drink", "?"], "e1_text": "was", "e1_pos": 14, "e2_text": "ordered", "e2_pos": 32, "label": "before"}
+]

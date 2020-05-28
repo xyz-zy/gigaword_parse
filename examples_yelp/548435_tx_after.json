@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "for", "new", "glasses", "after", "having", "an", "excellent", "appointment", "at", "UPMC", "'s", "Eye", "and", "Ear", "Center", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["However", ",", "the", "salesperson", "neglected", "to", "tell", "me", "until", "after", "I", "had", "paid", "for", "my", "frames", "that", "the", "lens", "shop", "my", "insurance", "employs", "was", "on", "strike", "and", "it", "could", "be", "a", "month", "before", "I", "actually", "get", "my", "new", "glasses", "."], "e1_text": "tell", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "across", "this", "restaurant", "because", "I", "was", "actually", "interested", "in", "Mr.", "Charlie", "Palmer", "'s", "other", "restaurant", ",", "Aureole", ",", "at", "the", "Mandalay", "Bay", "after", "seeing", "him", "guest", "judge", "on", "TOP", "CHEF", ",", "where", "he", "gave", "the", "challenge", "of", "pairing", "pinot", "and", "pigs", "for", "one", "of", "his", "annual", "events", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 25, "label": "after"},
+{"tokens": ["We", "were", "sat", "promptly", "after", "checking", "in", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "checking", "e2_pos": 5, "label": "after"}
+]

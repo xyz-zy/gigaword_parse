@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "have", "n't", "filled", "at", "this", "location", "before", "but", "it", "'s", "the", "closest", "24", "hour", "store", "."], "e1_text": "filled", "e1_pos": 4, "e2_text": "'s", "e2_pos": 11, "label": "before"},
+{"tokens": ["So", "I", "dropped", "off", "at", "same", "CVS", "and", "he", "ended", "up", "grilling", "me", "with", "irrelevant", "questions", "I", "'ve", "NEVER", "been", "asked", "before", ",", "which", "I", "can", "only", "chalk", "up", "to", "him", "thinking", "I", "am", "a", "drug", "addict", "or", "faking", "an", "identity", "."], "e1_text": "grilling", "e1_pos": 11, "e2_text": "'ve", "e2_pos": 17, "label": "before"}
+]

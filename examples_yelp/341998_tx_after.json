@@ -1,0 +1,4 @@
+[
+{"tokens": ["Danny", "'s", "service", "personnel", "will", "discount", "the", "detailing", "service", "to", "$", "130", "after", "you", "say", "NO", "the", "first", "time", "."], "e1_text": "discount", "e1_pos": 5, "e2_text": "say", "e2_pos": 14, "label": "after"},
+{"tokens": ["After", "2", "hours", "your", "car", "will", "look", "the", "same", "as", "it", "did", "after", "you", "take", "it", "through", "the", "$", "12.99", "basic", "wash", "."], "e1_text": "did", "e1_pos": 11, "e2_text": "take", "e2_pos": 14, "label": "after"}
+]

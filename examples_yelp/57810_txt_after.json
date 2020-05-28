@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "final", "straw", "of", "this", "decision", "was", "that", "she", "never", "once", "said", "a", "simple", "''", "``", "Happy", "Birthday", "''", "''", "to", "my", "friend", ",", "even", "after", "it", "was", "mentioned", "in", "the", "beginning", "and", ",", "of", "course", ",", "when", "she", "ran", "the", "promotional", "credit", "for", "the", "bday", "burger", "."], "e1_text": "said", "e1_pos": 11, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

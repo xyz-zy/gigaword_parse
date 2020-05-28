@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "is", "a", "fun", "airport", ",", "from", "the", "slots", ",", "to", "the", "food", "and", "shopping", ",", "the", "cute", "little", "sculptures", "before", "you", "get", "to", "the", "tram", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "get", "e2_pos": 22, "label": "before"},
+{"tokens": ["All", "I", "want", "is", "to", "find", "my", "gate", "and", "get", "home", "before", "I", "crash", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "crash", "e2_pos": 13, "label": "before"},
+{"tokens": ["That", "'s", "before", "they", "banned", "you", "from", "carrying", "liquids", "on", "board", "...", "I", "always", "had", "a", "bottle", "of", "water", "''", "``", "wink", "''", "''", "with", "me", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "banned", "e2_pos": 4, "label": "before"}
+]

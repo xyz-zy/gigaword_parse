@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "is", "always", "very", "good", ",", "but", "can", "I", "take", "my", "last", "bite", "before", "the", "waiter", "takes", "my", "plate", "away", "without", "even", "asking", "me", "if", "I", "am", "done", "?"], "e1_text": "take", "e1_pos": 10, "e2_text": "takes", "e2_pos": 17, "label": "before"}
+]

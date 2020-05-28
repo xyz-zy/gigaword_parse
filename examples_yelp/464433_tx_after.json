@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "tried", "to", "say", "he", "'d", "pay", "for", "us", "to", "stay", "in", "a", "hotel", "20", "minutes", "away", "at", "some", "random", "hotel", "he", "did", "n't", "even", "know", "where", "it", "was", "located", "or", "what", "it", "looked", "like", ",", "then", "after", "talking", "about", "it", "he", "said", "he", "would", "n't", "pay", "at", "all", "and", "just", "bs", "'d", "his", "way", "to", "try", "and", "''", "``", "make", "me", "happy", "''", "''", "."], "e1_text": "looked", "e1_pos": 34, "e2_text": "talking", "e2_pos": 39, "label": "after"}
+]

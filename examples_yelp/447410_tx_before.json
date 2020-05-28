@@ -1,0 +1,3 @@
+[
+{"tokens": ["Should", "n't", "the", "waitress", "be", "checking", "the", "order", "for", "accuracy", "before", "serving", "it", "??", "4", "-RRB-", "My", "son", "'s", "soup", "was", "n't", "served", "before", "the", "pizza", "."], "e1_text": "checking", "e1_pos": 5, "e2_text": "serving", "e2_pos": 11, "label": "before"}
+]

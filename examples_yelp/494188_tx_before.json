@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "think", "I", "should", "train", "for", "a", "1\\/2", "marathon", "before", "coming", "to", "this", "club", "."], "e1_text": "train", "e1_pos": 4, "e2_text": "coming", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "covered", "with", "melted", "cheese", ",", "so", "I", "did", "not", "notice", "it", "until", "after", "I", "had", "maybe", "two", "or", "three", "healthy", "bites", "."], "e1_text": "notice", "e1_pos": 11, "e2_text": "had", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "seriously", "almost", "threw", "up", "after", "I", "had", "realized", "what", "I", "was", "eating", "."], "e1_text": "threw", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

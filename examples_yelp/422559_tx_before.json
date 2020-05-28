@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "is", "pre-made", "and", "they", "just", "warm", "it", ",", "however", "they", "did", "not", "put", "the", "toppings", "on", "before", "they", "fired", "it", ",", "they", "did", "it", "after", "."], "e1_text": "put", "e1_pos": 14, "e2_text": "fired", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "were", "seated", "and", "ordered", "our", "food", "before", "the", "film", "started", ",", "but", "then", "we", "were", "interrupted", "several", "times", "during", "the", "viewing", "by", "the", "server", "to", "get", "the", "food", ",", "the", "check", "and", "make", "the", "payment", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "started", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "had", "gotten", "our", "tickets", "on", "Fandango", "and", "arrived", "early", "so", "that", "we", "could", "finish", "eating", "before", "it", "started", "but", "we", "were", "not", "allowed", "in", "the", "theater", "."], "e1_text": "eating", "e1_pos": 15, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

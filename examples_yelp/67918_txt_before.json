@@ -1,0 +1,4 @@
+[
+{"tokens": ["Seriously", ",", "they", "have", "more", "of", "these", "things", "than", "I", "'ve", "ever", "seen", "in", "a", "storefront", "before", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 10, "label": "before"},
+{"tokens": ["To", "sum", "up", ",", "my", "tip", "is", "to", "budget", "an", "extra", "twenty", "before", "you", "go", "because", ",", "if", "you", "'re", "like", "me", "-LRB-", "and", "I", "hope", "for", "your", "sake", ",", "you", "'re", "not", "-RRB-", "you", "will", "end", "up", "spending", "that", "too", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

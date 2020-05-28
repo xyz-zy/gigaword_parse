@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "what", "we", "ordered", ":", "-LRB-", "make", "sure", "to", "add", "hot", "sauce", "and", "salsa", "on", "your", "tacos", "and", "kimchi", "fried", "rice", ",", "before", "you", "eat", "them", "!"], "e1_text": "add", "e1_pos": 10, "e2_text": "eat", "e2_pos": 25, "label": "before"}
+]

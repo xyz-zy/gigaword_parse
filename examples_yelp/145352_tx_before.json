@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "Those", "were", "the", "places", "that", "did", "n't", "leave", "standard", "dinner", "rolls", "before", "the", "food", "came", "out", ";", "it", "was", "muffins", "or", "raisin", "bread", ".", "-RRB-"], "e1_text": "leave", "e1_pos": 8, "e2_text": "came", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "Menu", "is", "bar", "food", "and", "I", "would", "go", "there", "before", "I", "go", "to", "an", "Ihop", "or", "Denny", "'s", "."], "e1_text": "go", "e1_pos": 8, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

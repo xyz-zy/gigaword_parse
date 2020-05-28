@@ -1,0 +1,3 @@
+[
+{"tokens": ["Whenever", "my", "friends", "came", "to", "visit", "me", ",", "it", "was", "always", "our", "first", "stop", "after", "I", "picked", "them", "up", "at", "the", "airport", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "picked", "e2_pos": 16, "label": "after"}
+]

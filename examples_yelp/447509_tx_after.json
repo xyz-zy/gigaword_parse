@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "digress", ",", "a", "drunk", "Sunday", "night", "brought", "a", "few", "of", "us", "here", "after", "everywhere", "else", "on", "Fremont", "was", "closed", "...", "to", "think", ",", "Vegas", "actually", "closes", "early", "on", "Sundays", "."], "e1_text": "brought", "e1_pos": 8, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["The", "Gooseberry", "Pie", "is", "a", "phenomenon", "that", "still", "intrigues", "me", "a", "month", "after", "consuming", "it", "."], "e1_text": "intrigues", "e1_pos": 8, "e2_text": "consuming", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "if", "the", "southwest", "egg", "rolls", "were", "very", "spicy", "before", "I", "ordered", ",", "she", "said", "no", "and", "low", "and", "behold", "I", "get", "them", "and", "they", "are", "spicy", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "before"}
+]

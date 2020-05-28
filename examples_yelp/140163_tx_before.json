@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "at", "the", "podium", "for", "about", "5", "minutes", "before", "anyone", "came", "to", "seat", "us", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "also", "thought", "it", "was", "a", "bit", "tacky", "to", "take", "the", "dessert", "order", ",", "enter", "it", "into", "a", "nearby", "terminal", ",", "and", "then", "put", "the", "bill", "on", "the", "table", "before", "clearing", "the", "dishes", "and", "well", "before", "dessert", "was", "brought", "."], "e1_text": "put", "e1_pos": 23, "e2_text": "clearing", "e2_pos": 30, "label": "before"}
+]

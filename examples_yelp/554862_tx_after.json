@@ -1,0 +1,3 @@
+[
+{"tokens": ["Meanwhile", ",", "my", "friend", "had", "ordered", "a", "Pepsi", "and", "did", "n't", "receive", "it", "until", "after", "we", "got", "our", "food", ",", "even", "though", "she", "mentioned", "it", "to", "3", "of", "the", "wait", "staff", "."], "e1_text": "receive", "e1_pos": 11, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

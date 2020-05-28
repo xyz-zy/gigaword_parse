@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Carpet", "Cleaner", "NEVER", "worked", "right", "again", "after", "taking", "it", "to", "him", "to", "clean", "out", "and", "repair", "anything", "that", "'s", "wrong", "."], "e1_text": "worked", "e1_pos": 4, "e2_text": "taking", "e2_pos": 8, "label": "after"},
+{"tokens": ["Many", "times", "I", "'d", "have", "to", "take", "it", "BACK", "to", "him", ",", "less", "than", "a", "month", "after", "just", "doing", "so", "."], "e1_text": "BACK", "e1_pos": 8, "e2_text": "doing", "e2_pos": 18, "label": "after"}
+]

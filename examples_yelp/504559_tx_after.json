@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "burger", "itself", "was", "good", "but", "it", "arrived", "with", "tomatoes", "after", "I", "requested", "to", "have", "them", "left", "off", ",", "and", "cooked", "well", "done", "when", "I", "had", "kindly", "asked", "for", "medium", "rare", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "requested", "e2_pos": 12, "label": "after"}
+]

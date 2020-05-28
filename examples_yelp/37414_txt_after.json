@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bought", "wiper", "blades", "from", "here", "and", "was", "told", "they", "'d", "install", "em", ",", "attendant", "brings", "out", "the", "''", "``", "correct", "''", "''", "blades", "after", "giving", "him", "the", "make\\/model", "of", "the", "car", "."], "e1_text": "blades", "e1_pos": 22, "e2_text": "giving", "e2_pos": 24, "label": "after"},
+{"tokens": ["He", "comes", "back", "to", "me", "after", "attempting", "to", "install", "the", "wipers", "and", "tells", "me", "it", "turns", "out", "they", "dont", "carry", "the", "type", "for", "my", "car", "."], "e1_text": "comes", "e1_pos": 1, "e2_text": "attempting", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "strictly", "a", "review", "about", "their", "frozen", "hot", "chocolate", ";", "we", "did", "n't", "order", "anything", "else", "since", "we", "ate", "brunch", "at", "Jean", "Philippe", "before", "heading", "here", "."], "e1_text": "ate", "e1_pos": 19, "e2_text": "heading", "e2_pos": 25, "label": "before"}
+]

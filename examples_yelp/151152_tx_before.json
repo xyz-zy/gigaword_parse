@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "have", "to", "get", "in", "line", "outside", "about", "3", "hours", "before", "it", "opens", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "opens", "e2_pos": 12, "label": "before"},
+{"tokens": ["You", "should", "definitly", "get", "there", "3", "or", "more", "hours", "before", "it", "opens", "at", "5", ",", "because", "it", "is", "a", "small", "place", "and", "there", "will", "be", "long", "lines", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "opens", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "slow", "-LRB-", "Sunday", "night", "in", "December", "-RRB-", "we", "ordered", "the", "Calamari", "as", "an", "appetizer", "-LRB-", "which", "was", "OK", "-RRB-", "and", "literally", "a", "minute", "after", "another", "waiter", "showed", "up", "with", "our", "Entrees", "!"], "e1_text": "slow", "e1_pos": 1, "e2_text": "showed", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "are", "places", "to", "hang", "out", "before", "you", "check", "in", "."], "e1_text": "hang", "e1_pos": 4, "e2_text": "check", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "lets", "parents", "linger", "a", "while", "before", "sending", "off", "their", "kids", "to", "college", ",", "grandma", ",", "or", "camp", "."], "e1_text": "linger", "e1_pos": 3, "e2_text": "sending", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "decided", "to", "have", "one", "more", "beer", "before", "leaving", "while", "we", "finished", "our", "conversation", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "had", "never", "had", "anything", "like", "that", "happen", "to", "me", "before", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "happen", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "told", "them", "that", "we", "had", "never", "been", "there", "before", "and", "were", "there", "to", "checkout", "a", "club", "that", "gathers", "there", "and", "brings", "them", "plenty", "of", "business", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

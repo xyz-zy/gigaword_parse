@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "found", "this", "place", "after", "leaving", "AMC", ".", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 6, "label": "after"},
+{"tokens": ["Then", "when", "the", "pasta", "missing", "entre", "finally", "arrived", ",", "after", "the", "other", "two", "people", "had", "already", "finished", "eating", ",", "it", "was", "n't", "even", "what", "we", "ordered", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

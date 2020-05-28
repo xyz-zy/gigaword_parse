@@ -1,0 +1,3 @@
+[
+{"tokens": ["Overall", "the", "service", "is", "awful", "as", "we", "came", "back", "after", "the", "show", "for", "additional", "beers", "and", "the", "horrible", "service", "continued", "as", "they", "seemed", "displeased", "to", "serve", "us", "as", "it", "was", "close", "to", "closing", "the", "kitchen", "but", "their", "bar", "was", "still", "open", "-", "we", "were", "only", "getting", "beers", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "continued", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "booked", "the", "hotel", "through", "priceline.com", "and", "yes", "there", "was", "about", "a", "$", "6", "a", "night", "hotel", "fee", "which", "covers", "the", "Denny", "'s", "breakfast", "you", "get", "each", "day", "-LRB-", "valid", "only", "until", "12pm", "btw", "-RRB-", "Since", "I", "saw", "on", "Yelp", "that", "people", "seemed", "to", "be", "confused", "about", "the", "total", "price", "of", "the", "room", "after", "fees", "and", "all", ",", "I", "just", "made", "sure", "to", "call", "and", "ask", "for", "a", "price", "total", "before", "I", "left", "for", "my", "trip", "so", "I", "knew", "exactly", "what", "to", "expect", "."], "e1_text": "call", "e1_pos": 63, "e2_text": "left", "e2_pos": 72, "label": "before"}
+]

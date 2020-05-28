@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "seafood", "brunch", "price", "is", "crazy", "cheap", "for", "what", "you", "get", ",", "and", "if", "you", "come", "right", "before", "the", "brunch", "ends", ",", "it", "'s", "not", "so", "crowded", "and", "you", "get", "both", "brunch", "and", "the", "start", "of", "dinner", "-", "score", "!"], "e1_text": "come", "e1_pos": 15, "e2_text": "ends", "e2_pos": 20, "label": "before"}
+]

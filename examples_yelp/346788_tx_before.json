@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "return", "to", "my", "vehicle", "to", "turn", "on", "my", "flashers", "-LRB-", "hoping", "not", "to", "get", "towed", "-RRB-", "before", "returning", "to", "wait", "in", "line", "."], "e1_text": "turn", "e1_pos": 8, "e2_text": "returning", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "waited", "about", "15", "minutes", "before", "getting", "up", "to", "the", "window", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "getting", "e2_pos": 6, "label": "before"}
+]

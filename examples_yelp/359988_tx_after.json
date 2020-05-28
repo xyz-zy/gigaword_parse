@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "called", "her", "over", "and", "explained", "it", "was", "n't", "diet", "she", "argued", "with", "us", "and", "after", "saying", "just", "bring", "us", "another", "one", "please", "."], "e1_text": "argued", "e1_pos": 11, "e2_text": "saying", "e2_pos": 16, "label": "after"},
+{"tokens": ["When", "she", "came", "back", "to", "the", "table", "after", "we", "waived", "her", "down", "again", "she", "said", "oh", "looks", "like", "it", "is", "over", "toasted", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "waived", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "the", "did", "n't", "get", "the", "bread", "or", "the", "diet", "coke", "till", "after", "the", "meal", "had", "come", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

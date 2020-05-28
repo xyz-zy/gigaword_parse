@@ -1,0 +1,4 @@
+[
+{"tokens": ["Asked", "for", "help", "w\\/wine", "after", "describing", "what", "I", "like", "in", "a", "red", "and", "she", "tried", "to", "steer", "me", "toward", "the", "$", "15", "glass", "."], "e1_text": "Asked", "e1_pos": 0, "e2_text": "describing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Now", ",", "I", "am", "just", "getting", "back", "to", "the", "Chicken", "and", "Turkey", "world", "after", "eating", "just", "fish", "for", "3yrs", "."], "e1_text": "getting", "e1_pos": 5, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "other", "sister", "was", "happy", "with", "her", "hair", ",", "but", "only", "after", "her", "original", "stylist", "re-curled", "it", "because", "it", "was", "way", "too", "droopy", "and", "loose", "the", "first", "time", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "re-curled", "e2_pos": 15, "label": "after"}
+]

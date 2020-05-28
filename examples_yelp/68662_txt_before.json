@@ -1,0 +1,4 @@
+[
+{"tokens": ["Walked", "into", "the", "restaurant", "and", "waited", "almost", "5", "minutes", "before", "the", "hostess", "came", "over", "or", "anyone", "greeted", "us", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["Then", "she", "tells", "us", "that", "if", "we", "want", "the", "lunch", "special", "there", "'s", "different", "seating", "so", "we", "have", "to", "decide", "before", "we", "sit", "down", "?!", "Ummmmm", "...", "what", "if", "somebody", "wants", "the", "lunch", "special", "and", "the", "other", "person", "does", "n't", "??", "Can", "we", "sit", "down", "and", "look", "at", "the", "menu", "before", "deciding", "?"], "e1_text": "have", "e1_pos": 17, "e2_text": "sit", "e2_pos": 22, "label": "before"}
+]

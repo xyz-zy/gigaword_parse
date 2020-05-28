@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "the", "server", "to", "send", "the", "manager", "over", "and", "he", "blamed", "the", "slowness", "on", "the", "kitchen", "getting", "slammed", "because", "there", "was", "an", "event", "nearby", ",", "but", "we", "had", "arrived", "before", "''", "``", "the", "kitchen", "was", "slammed", "''", "''", "."], "e1_text": "arrived", "e1_pos": 29, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

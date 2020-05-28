@@ -1,0 +1,3 @@
+[
+{"tokens": ["Very", "tasty", "but", "the", "pizza", "is", "cut", "before", "the", "prosciutto", "is", "added", "to", "the", "pizza", ",", "so", "you", "have", "to", "recut", "it", "to", "avoid", "ending", "up", "with", "all", "the", "prosciutto", "on", "one", "piece", "."], "e1_text": "cut", "e1_pos": 6, "e2_text": "is", "e2_pos": 5, "label": "before"}
+]

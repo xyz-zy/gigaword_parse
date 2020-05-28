@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "a", "couple", "weeks", "ago", "to", "get", "some", "coffee", "after", "hearing", "good", "things", "about", "this", "place", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "hearing", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "might", "have", "high", "expectations", "after", "living", "in", "Seattle", ",", "but", "this", "coffee", "was", "n't", "even", "as", "good", "as", "dunkin", "donuts", "...", "so", "...", "I", "'d", "pass", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "living", "e2_pos": 6, "label": "after"}
+]

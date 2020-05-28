@@ -1,0 +1,3 @@
+[
+{"tokens": ["Out", "of", "my", "group", ",", "at", "least", "3", "people", "felt", "sick", "after", "eating", "3", "different", "dinners\\/types", "of", "meat", "-LRB-", "fish", ",", "lamb", "&", "beef", "-RRB-", "."], "e1_text": "felt", "e1_pos": 9, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

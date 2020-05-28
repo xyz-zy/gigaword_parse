@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "this", "point", ",", "his", "staff", "member", "tired", "to", "explain", "my", "unfortunate", "experience", "from", "the", "year", "before", "as", "I", "asked", "if", "that", "was", "my", "job", "to", "make", "sure", "he", "called", "the", "right", "person", ",", "and", "he", "just", "shook", "his", "head", "and", "looked", "down", "at", "my", "chart", "."], "e1_text": "explain", "e1_pos": 9, "e2_text": "asked", "e2_pos": 19, "label": "before"}
+]

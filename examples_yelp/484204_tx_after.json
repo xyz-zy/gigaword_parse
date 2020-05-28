@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "as", "I", "explained", "to", "my", "husband", "after", "trying", "a", "sample", "from", "a", "Teavana", "employee", ",", "''", "``", "Tea", "is", "inexpensive", ",", "let", "'s", "just", "check", "it", "out", ".", "''", "''"], "e1_text": "explained", "e1_pos": 3, "e2_text": "trying", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "tea", "I", "tried", "was", "$", "12", "for", "2", "oz", "...", "which", "I", "found", "out", "after", "I", "asked", "for", "4", "oz", "."], "e1_text": "found", "e1_pos": 13, "e2_text": "asked", "e2_pos": 17, "label": "after"}
+]

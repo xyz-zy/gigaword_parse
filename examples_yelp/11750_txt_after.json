@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "my", "rear", "bumper", "`", "fixed", "'", "there", "and", "a", "couple", "weeks", "after", "I", "got", "the", "car", "back", ",", "I", "noticed", "that", "the", "paint", "was", "cracked", "and", "chipping", "in", "four", "different", "places", "across", "the", "bumper", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "got", "e2_pos": 14, "label": "after"},
+{"tokens": ["They", "also", "forgot", "to", "put", "the", "fuel", "tank", "rubber", "seal", "back", "after", "fixing", "fender", "."], "e1_text": "seal", "e1_pos": 9, "e2_text": "fixing", "e2_pos": 12, "label": "after"}
+]

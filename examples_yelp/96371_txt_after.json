@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "so", "full", "after", "eating", "the", "small", "Cevapi", "that", "I", "did", "not", "have", "any", "room", "for", "dessert", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "eating", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "had", "discovered", "Caffe", "Sarajevo", "after", "reading", "about", "it", "in", "the", "ratings", "for", "''", "``", "10", "best", "sandwiches", "in", "the", "valley", ".", "''", "''"], "e1_text": "discovered", "e1_pos": 2, "e2_text": "reading", "e2_pos": 6, "label": "after"}
+]

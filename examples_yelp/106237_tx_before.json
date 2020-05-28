@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "we", "should", "have", "actually", "looked", "at", "course", "before", "we", "paid", "."], "e1_text": "looked", "e1_pos": 6, "e2_text": "paid", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "attendant", "informed", "us", "that", "growth", "retardant", "had", "been", "sprayed", "2", "days", "before", "and", "he", "was", "amazed", "it", "worked", "in", "such", "a", "short", "time", "."], "e1_text": "informed", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

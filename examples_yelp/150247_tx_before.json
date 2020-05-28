@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "it", "was", "the", "first", "''", "``", "nice", "''", "''", "meal", "I", "had", "in", "Pittsburgh", ",", "before", "I", "even", "made", "my", "official", "move", "...", "I", "celebrated", "my", "21st", "birthday", "here", "!"], "e1_text": "was", "e1_pos": 4, "e2_text": "made", "e2_pos": 21, "label": "before"}
+]

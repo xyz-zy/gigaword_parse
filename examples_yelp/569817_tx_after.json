@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "quite", "slow", "-", "although", "we", "were", "asked", "about", "drinks", "shortly", "after", "sitting", "down", ",", "our", "server", "returned", "more", "than", "ten", "minutes", "later", "without", "the", "drinks", "to", "take", "our", "orders", "and", "then", "brought", "them", "out", "rather", "slowly", "and", "one", "at", "a", "time", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "sitting", "e2_pos": 14, "label": "after"}
+]

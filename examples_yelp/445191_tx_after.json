@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "informative", "plaque", "on", "their", "aquarium", "will", "let", "you", "know", "that", "Fish", "and", "Wildlife", "first", "moved", "them", "to", "Coal", "Creek", "after", "their", "original", "home", "got", "drained", ",", "and", "then", "they", "were", "moved", "to", "the", "tank", "because", "invasive", "crawdads", "and", "frogs", "kept", "eating", "them", "."], "e1_text": "moved", "e1_pos": 15, "e2_text": "got", "e2_pos": 24, "label": "after"}
+]

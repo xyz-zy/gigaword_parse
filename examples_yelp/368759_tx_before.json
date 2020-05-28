@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", ",", "someone", "took", "a", "knife", "to", "the", "bird", "minutes", "before", "it", "hit", "our", "table", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "hit", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "'ll", "give", "it", "one", "more", "try", "before", "I", "die", "...", "but", "just", "one", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "die", "e2_pos": 9, "label": "before"}
+]

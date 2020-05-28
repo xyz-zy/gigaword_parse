@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "said", "the", "shuttle", "was", "there", "on", "time", "but", "did", "n't", "see", "anyone", "so", "they", "left", "-LRB-", "A", "huge", "lie", "-RRB-", "Thankfully", "-LRB-", "after", "many", "phone", "calls", "-RRB-", ",", "they", "sent", "someone", "within", "10", "min", "-LRB-", "His", "name", "is", "Brandon", "and", "he", "was", "super", "friendly", "-RRB-", "Next", "time", ",", "I", "'ll", "do", "research", "on", "more", "reliable", "transportation"], "e1_text": "left", "e1_pos": 15, "e2_text": "calls", "e2_pos": 26, "label": "after"}
+]

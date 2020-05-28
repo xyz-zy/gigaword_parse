@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "checked", "out", "this", "business", "in", "connection", "with", "a", "Groupon", ",", "and", "after", "becoming", "very", "disenchanted", "with", "the", "dealership", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "becoming", "e2_pos": 13, "label": "after"},
+{"tokens": ["After", "my", "regular", "service", "adviser", "was", "''", "``", "transferred", "''", "''", "after", "returning", "from", "maternity", "leave", ",", "I", "was", "regularly", "facing", "pricey", "service", "visits", "even", "for", "regular", "maintenance", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "returning", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "went", "ahead", "and", "purchased", "the", "Groupon", "after", "checking", "out", "the", "business", "on", "garagefly.com", "."], "e1_text": "purchased", "e1_pos": 4, "e2_text": "checking", "e2_pos": 8, "label": "after"}
+]

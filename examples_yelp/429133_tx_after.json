@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "normally", "go", "to", "this", "Starbucks", "but", "it", "was", "convenient", "after", "dropping", "my", "daughter", "off", "at", "school", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "dropping", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "now", "appreciate", "the", "over", "the", "top", "happiness", "and", "excitement", "that", "exudes", "from", "Dutch", "Bros", "after", "interacting", "with", "the", "less", "than", "enthused", "staff", "at", "this", "location", "."], "e1_text": "exudes", "e1_pos": 11, "e2_text": "interacting", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Two", "couples", "come", "into", "the", "the", "restaurant", "and", "after", "waiting", "5", "minutes", "at", "the", "hostess", "station", ",", "one", "of", "the", "couples", "walks", "to", "the", "back", ",", "hoping", "to", "get", "someone", "'s", "attention", "so", "they", "can", "put", "their", "name", "down", "for", "a", "table", "."], "e1_text": "come", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

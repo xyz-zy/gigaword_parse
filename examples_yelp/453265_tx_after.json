@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "2", "hours", "for", "our", "food", ",", "and", "the", "last", "person", "that", "ordered", "waited", "2.5", "hours", ",", "which", "is", "after", "everyone", "had", "already", "finished", "eating", "."], "e1_text": "is", "e1_pos": 19, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["It", "did", "seem", "like", "they", "were", "a", "little", "under", "staffed", "for", "the", "crowd", ",", "but", "still", "...", "there", "was", "not", "a", "real", "good", "system", "for", "getting", "your", "food", "or", "drinks", "after", "you", "have", "ordered", ",", "especially", "when", "the", "music", "is", "blaring", "."], "e1_text": "getting", "e1_pos": 25, "e2_text": "have", "e2_pos": 32, "label": "after"}
+]

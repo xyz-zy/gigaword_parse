@@ -1,0 +1,4 @@
+[
+{"tokens": ["None", "of", "my", "stars", "go", "to", "our", "server", ";", "he", "did", "not", "even", "send", "water", "to", "the", "table", "or", "acknowledge", "us", "at", "all", "for", "at", "least", "10", "mins", ",", "and", "we", "constantly", "watched", "him", "standing", "around", "and", "just", "chatting", "with", "other", "servers", "after", "we", "asked", "for", "something", "like", "ranch", ",", "soda", "refill", ",", "dessert", "or", "the", "check", "."], "e1_text": "chatting", "e1_pos": 38, "e2_text": "asked", "e2_pos": 44, "label": "after"},
+{"tokens": ["Then", "the", "server", "had", "the", "nerve", "to", "shoot", "us", "dirty", "looks", "after", "I", "complained", "."], "e1_text": "looks", "e1_pos": 10, "e2_text": "complained", "e2_pos": 13, "label": "after"}
+]

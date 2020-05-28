@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "I", "was", "only", "in", "town", "for", "my", "sister", "'s", "wedding", ",", "and", "despite", "being", "exhausted", "after", "spending", "the", "whole", "day", "doing", "wedding", "related", "stuff", ",", "I", "could", "not", "get", "myself", "to", "call", "it", "a", "night", "early", "when", "I", "'m", "in", "Vegas", "."], "e1_text": "exhausted", "e1_pos": 16, "e2_text": "spending", "e2_pos": 18, "label": "after"}
+]

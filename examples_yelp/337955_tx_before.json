@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "line", "up", "process", "was", "a", "bit", "confusing", ",", "we", "stood", "inside", "for", "about", "5", "minutes", "before", "told", "that", "we", "need", "to", "wait", "inside", "the", "vestibule", "where", "they", "had", "a", "sign", "-LRB-", "tout", "en", "francais", "-RRB-", "stating", "to", "wait", "in", "the", "vestibule", "."], "e1_text": "stood", "e1_pos": 10, "e2_text": "told", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "skillets", "are", "unique", "but", "I", "would", "try", "elsewhere", "before", "come", "back", "for", "a", "return", "visit", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "come", "e2_pos": 10, "label": "before"}
+]

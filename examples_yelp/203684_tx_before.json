@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "generally", "a", "slow", "eater", "and", "I", "could", "pretty", "much", "gobble", "up", "my", "meat", "before", "they", "even", "got", "around", "the", "table", "."], "e1_text": "gobble", "e1_pos": 11, "e2_text": "got", "e2_pos": 18, "label": "before"},
+{"tokens": ["As", "time", "goes", "on", ",", "food", "settles", "and", "you", "get", "full", "...", "so", "again", ",", "we", "were", "there", "for", "business", "and", "wanted", "more", "before", "it", "settled", "."], "e1_text": "wanted", "e1_pos": 21, "e2_text": "settled", "e2_pos": 25, "label": "before"}
+]

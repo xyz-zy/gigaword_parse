@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "store", "after", "the", "driver", "left", "and", "the", "manager", "was", "apologetic", "and", "offered", "a", "free", "pizza", "on", "my", "next", "order", "but", "it", "did", "n't", "make", "up", "for", "the", "fact", "that", "my", "dinner", "was", "ruined", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "after"}
+]

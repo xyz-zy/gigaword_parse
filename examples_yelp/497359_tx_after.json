@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "have", "to", "say", "after", "seeing", "all", "these", "positive", "reviews", "it", "makes", "me", "even", "more", "disappointed", "that", "I", "had", "just", "an", "unpleasant", "experience", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "was", "our", "first", "time", "so", "when", "we", "walked", "in", "we", "were", "not", "sure", "if", "it", "was", "open", "seating", "or", "what", "so", "after", "being", "ignored", "for", "a", "few", "minutes", "we", "just", "decided", "to", "have", "a", "seat", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "being", "e2_pos": 23, "label": "after"},
+{"tokens": ["is", "that", "a", "joke", "?!", "-RRB-", "Now", "at", "this", "point", "I", "was", "so", "upset", "and", "our", "server", "also", "had", "n't", "been", "back", "to", "check", "on", "us", "after", "several", "minutes", "-LRB-", "I", "'m", "not", "exaggerating", ",", "there", "was", "one", "othe", "so", "we", "just", "got", "up", "and", "left", "all", "together", "."], "e1_text": "check", "e1_pos": 23, "e2_text": "'m", "e2_pos": 31, "label": "after"}
+]

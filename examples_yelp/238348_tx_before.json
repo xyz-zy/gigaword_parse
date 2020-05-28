@@ -1,0 +1,3 @@
+[
+{"tokens": ["Beer", "pong", "is", "decent", ",", "you", "have", "to", "wait", "for", "the", "whole", "tournament", "to", "end", "before", "starting", "a", "game", ",", "even", "if", "not", "competing", ".", "."], "e1_text": "end", "e1_pos": 14, "e2_text": "starting", "e2_pos": 16, "label": "before"}
+]

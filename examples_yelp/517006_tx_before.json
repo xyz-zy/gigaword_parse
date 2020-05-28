@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "there", "for", "nearly", "15", "minutes", "-LRB-", "what", "feels", "like", "an", "eternity", "on", "a", "slow", "night", "-RRB-", "before", "deciding", "to", "leave", "sadly", ",", "in", "utter", "disappointment", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "'m", "not", "against", "a", "laid", "back", ",", "drink-on-the-clock", "bar", "style", ",", "but", "a", "good", "bartender", "knows", "how", "to", "multitask", "and", "should", "at", "least", "greet", "people", "who", "are", "sitting", "there", "before", "he", "puts", "one", "back", "."], "e1_text": "sitting", "e1_pos": 28, "e2_text": "puts", "e2_pos": 32, "label": "before"}
+]

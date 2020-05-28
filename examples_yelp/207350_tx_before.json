@@ -1,0 +1,4 @@
+[
+{"tokens": ["Gilleys", "used", "to", "be", "located", "at", "The", "New", "Frontier", "Hotel", "and", "Casino", "in", "Las", "Vegas", "before", "the", "place", "got", "demolished", "to", "dust", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "got", "e2_pos": 18, "label": "before"},
+{"tokens": ["However", "this", "did", "cause", "the", "bun", "below", "to", "quickly", "get", "soggy", "which", "was", "disappointing", "because", "the", "bun", "was", "very", "good", "before", "it", "turned", "to", "mush", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "turned", "e2_pos": 22, "label": "before"}
+]

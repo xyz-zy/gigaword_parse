@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "lot", "of", "time", "actually", "passes", "before", "you", "get", "to", "have", "your", "meat", "."], "e1_text": "passes", "e1_pos": 5, "e2_text": "get", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "'s", "almost", "like", "they", "'re", "trying", "to", "fill", "you", "before", "the", "meat", "comes", ",", "but", "since", "you", "pay", "so", "much", ",", "you", "feel", "some", "sort", "of", "obligation", "to", "eat", "a", "ton", "of", "meat", "anyway", ",", "and", "walk", "out", "feeling", "like", "a", "fat", "tick", "about", "to", "pop", "."], "e1_text": "fill", "e1_pos": 8, "e2_text": "comes", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "Saturday", "night", "after", "watching", "the", "Bristol", "race", "at", "the", "Belk", "Theater", "inside", "the", "Hall", "of", "Fame", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "watching", "e2_pos": 6, "label": "after"},
+{"tokens": ["A", "number", "of", "the", "people", "at", "that", "event", "seemed", "to", "filter", "over", "to", "Buffalo", "Wild", "Wings", "after", "it", "ended", "."], "e1_text": "filter", "e1_pos": 10, "e2_text": "ended", "e2_pos": 18, "label": "after"}
+]

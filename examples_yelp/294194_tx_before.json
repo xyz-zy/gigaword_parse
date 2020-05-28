@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "paying", "for", "our", "food", ",", "me", "and", "the", "boyfriend", "waited", "for", "a", "long", "time", ",", "everyone", "before", "us", "had", "gotten", "their", "order", "and", "people", "after", "us", "started", "to", "get", "their", "orders", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["So", "my", "boyfriend", "went", "to", "go", "ask", "if", "our", "order", "was", "coming", "up", ",", "all", "the", "boyfriend", "got", "out", "of", "his", "mouth", "was", "''", "``", "excuse", "me", "''", "''", "before", "some", "lady", "who", "looked", "like", "the", "manager", "rudely", "said", "''", "``", "yes", ",", "the", "order", "for", "Susan", "is", "on", "its", "way", "''", "''", "."], "e1_text": "excuse", "e1_pos": 25, "e2_text": "looked", "e2_pos": 33, "label": "before"}
+]

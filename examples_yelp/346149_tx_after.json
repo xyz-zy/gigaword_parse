@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "sat", "by", "the", "open", "doors", "to", "the", "patio", "and", "after", "a", "few", "minutes", "someone", "who", "we", "assumed", "to", "be", "the", "manager", "asked", "us", "if", "anyone", "had", "come", "over", "to", "see", "us", "yet", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "assumed", "e2_pos": 17, "label": "after"},
+{"tokens": ["She", "brought", "our", "food", "to", "us", ",", "and", "any", "time", "after", "that", "that", "we", "needed", "her", ",", "we", "had", "to", "literally", "CALL", "to", "her", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

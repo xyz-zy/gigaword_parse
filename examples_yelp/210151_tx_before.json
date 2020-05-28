@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "and", "my", "friends", "typically", "make", "our", "way", "to", "this", "place", "around", "9", "or", "so", ",", "about", "an", "hour", "before", "it", "closes", "and", "the", "place", "is", "usually", "not", "that", "crowded", ",", "or", "winding", "down", "."], "e1_text": "make", "e1_pos": 5, "e2_text": "closes", "e2_pos": 21, "label": "before"},
+{"tokens": ["While", "a", "bit", "pricey", ",", "I", "can", "slurp", "down", "4", "of", "those", "orangy-fruity", "things", "before", "the", "meal", "gets", "there", "."], "e1_text": "slurp", "e1_pos": 7, "e2_text": "gets", "e2_pos": 17, "label": "before"}
+]

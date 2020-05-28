@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "mom", "'s", "hair", "was", "done", "first", "and", "she", "was", "told", "by", "the", "female", "owner", "that", "before", "we", "left", "she", "would", "redo", "the", "curls", "a", "little", "bit", "because", "she", "knew", "that", "they", "would", "fall", "before", "we", "left", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

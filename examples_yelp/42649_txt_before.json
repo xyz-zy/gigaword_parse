@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "-LRB-", "I", "believe", "the", "owner", "-RRB-", "came", "to", "us", "and", "told", "us", "they", "pride", "themselves", "on", "being", "on", "time", ",", "but", "it", "was", "4", "minutes", "after", "2", "and", "it", "would", "be", "another", "5", "minutes", "before", "they", "were", "ready", "for", "us", "."], "e1_text": "be", "e1_pos": 32, "e2_text": "were", "e2_pos": 38, "label": "before"}
+]

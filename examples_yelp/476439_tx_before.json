@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "the", "burger", ",", "wrapped", "in", "tin-foil", ",", "looked", "like", "someone", "tried", "to", "force", "it", "from", "hamburger", "shape", "into", "a", "round", "ball", "before", "putting", "it", "in", "the", "bag", "."], "e1_text": "looked", "e1_pos": 8, "e2_text": "putting", "e2_pos": 23, "label": "before"}
+]

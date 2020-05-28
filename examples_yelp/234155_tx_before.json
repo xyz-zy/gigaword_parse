@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "watched", "him", "watch", "football", "for", "a", "good", "10", "min", "before", "helping", "the", "Sushi", "Chef", ",", "but", "I", "gave", "him", "the", "benefit", "of", "the", "doubt", "in", "case", "there", "was", "something", "out", "of", "his", "control", "."], "e1_text": "watch", "e1_pos": 3, "e2_text": "helping", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "asked", "for", "boxes", "and", "the", "bill", "about", "3", "times", "before", "we", "got", "it", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

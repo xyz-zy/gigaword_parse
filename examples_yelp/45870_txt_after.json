@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "feel", "too", "bad", "about", "it", "after", "reading", "the", "local", "reviews", "on", "Yelp", "on", "the", "food", "there", "."], "e1_text": "feel", "e1_pos": 3, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["One", "nice", "thing", "is", "that", "I", "was", "able", "to", "talk", "front", "desk", "into", "getting", "a", "late", "2pm", "checkout", "on", "Sunday", "after", "a", "long", "night", "of", "partying", "in", "Scottsdale", "."], "e1_text": "getting", "e1_pos": 13, "e2_text": "partying", "e2_pos": 25, "label": "after"}
+]

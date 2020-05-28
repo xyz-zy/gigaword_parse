@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "barely", "close", "the", "door", "after", "putting", "the", "luggage", "cart", "in", "there", "."], "e1_text": "close", "e1_pos": 3, "e2_text": "putting", "e2_pos": 7, "label": "after"},
+{"tokens": ["Bed", "was", "very", "comfortable", "they", "also", "gave", "me", "a", "hard", "time", "about", "a", "late", "-LRB-", "noon", "-RRB-", "checkout", ",", "which", "I", "got", "after", "some", "complaining", "."], "e1_text": "got", "e1_pos": 21, "e2_text": "complaining", "e2_pos": 24, "label": "after"}
+]

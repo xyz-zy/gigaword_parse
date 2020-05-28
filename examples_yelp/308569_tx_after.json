@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "carpet", "was", "very", "wet", "after", "he", "finished", ",", "and", "it", "was", "n't", "nearly", "dry", "after", "5", "hours", "-", "even", "with", "the", "ceiling", "fans", "and", "a", "box", "fan", "blowing", "on", "them", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "finished", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "had", "to", "put", "towels", "down", "on", "the", "carpet", "in", "places", "after", "the", "kids", "got", "home", "to", "keep", "them", "from", "walking", "on", "wet", "carpet", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chef", "started", "the", "meal", "announcing", "to", "everyone", "that", "they", "had", "changed", "the", "menu", "three", "times", "before", "preparing", "it", "for", "that", "night", ",", "believe", "me", "it", "showed", "!"], "e1_text": "changed", "e1_pos": 11, "e2_text": "preparing", "e2_pos": 17, "label": "before"}
+]

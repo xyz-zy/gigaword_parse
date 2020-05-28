@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "chicken", "fajitas", "with", "corn", "tortillas", "and", "had", "to", "wait", "for", "several", "minutes", "after", "everyone", "at", "my", "table", "received", "their", "orders", "before", "they", "remembered", "I", "had", "ordered", "corn", "instead", "of", "flour", "tortillas", "."], "e1_text": "wait", "e1_pos": 10, "e2_text": "received", "e2_pos": 19, "label": "after"}
+]

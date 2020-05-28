@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "the", "plants", "were", "doing", "well", "except", "one", "shrub", "which", "started", "doing", "poorly", "and", "dying", "the", "day", "after", "bringing", "it", "home", "."], "e1_text": "dying", "e1_pos": 14, "e2_text": "bringing", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "have", "never", "experienced", "something", "so", "violent", "in", "a", "workplace", "and", "now", "two", "hours", "after", "it", "happened", "I", "am", "still", "shaky", "."], "e1_text": "experienced", "e1_pos": 3, "e2_text": "happened", "e2_pos": 16, "label": "after"}
+]

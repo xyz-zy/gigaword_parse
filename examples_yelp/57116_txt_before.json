@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "do", "your", "research", "before", "deciding", "to", "purchase", "from", "Carmax", "."], "e1_text": "do", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "wish", "I", "had", "gone", "through", "all", "of", "the", "reviews", "on", "this", "site", "before", "making", "my", "decision", "."], "e1_text": "gone", "e1_pos": 4, "e2_text": "making", "e2_pos": 14, "label": "before"}
+]

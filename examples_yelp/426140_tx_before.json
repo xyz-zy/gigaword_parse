@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "''", "``", "fresh", "''", "''", "ingredients", "in", "their", "salads", "have", "been", "prepared", "days", "before", "it", "ever", "gets", "sold", "-", "the", "onions", "are", "translucent", "and", "soggy", ",", "the", "lettuce", "is", "brown", "and", "cracking", "-", "if", "not", "wet", "and", "rotting", "-", "The", "dressings", "are", "even", "older", "."], "e1_text": "prepared", "e1_pos": 12, "e2_text": "gets", "e2_pos": 17, "label": "before"}
+]

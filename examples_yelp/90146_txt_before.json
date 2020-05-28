@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wait", "a", "half", "hour", "before", "finally", "talking", "to", "someone", "and", "she", "tells", "me", "the", "flight", "is", "overbooked", "and", "United", "never", "officially", "reserved", "seat", "for", "me", "!"], "e1_text": "wait", "e1_pos": 1, "e2_text": "talking", "e2_pos": 7, "label": "before"}
+]

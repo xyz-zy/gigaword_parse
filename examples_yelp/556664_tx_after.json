@@ -1,0 +1,3 @@
+[
+{"tokens": ["Despite", "the", "service", "being", "rather", "satisfactory", "-LRB-", "drinks", "and", "food", "were", "delivered", "somewhat", "rapidly", "-RRB-", ",", "we", "were", "pretty", "perturbed", "when", "they", "moved", "us", "from", "our", "table", "after", "being", "seated", "for", "at", "least", "15", "minutes", "."], "e1_text": "moved", "e1_pos": 22, "e2_text": "being", "e2_pos": 3, "label": "after"}
+]

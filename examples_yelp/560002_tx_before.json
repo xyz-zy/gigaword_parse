@@ -1,0 +1,3 @@
+[
+{"tokens": ["Came", "in", "with", "some", "coworkers", "and", "waited", "an", "hour", "before", "our", "orders", "were", "even", "taken", ",", "place", "was", "empty", "...", "Almost", "a", "half", "hour", "to", "get", "the", "food", "after", "the", "orders", "were", "put", "in", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

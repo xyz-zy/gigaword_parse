@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "an", "hour", "after", "we", "finished", "our", "appetizers", "-LRB-", "and", "long", "after", "our", "glasses", "were", "empty", "-RRB-", "before", "our", "server", "came", "back", "to", "take", "our", "orders", ",", "and", "then", "another", "hour", "before", "we", "had", "our", "food", "."], "e1_text": "finished", "e1_pos": 6, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

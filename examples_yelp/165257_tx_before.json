@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "had", "glass", "doors", "though", "and", "even", "if", "they", "were", "frosted", "I", "'d", "say", "you", "'d", "better", "be", "pretty", "close", "to", "your", "roomie", "before", "you", "start", "lathering", "up", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "start", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "pool", "looked", "fun", "too", "-LRB-", "even", "if", "a", "chemical", "spill", "did", "cause", "problems", "just", "2", "days", "before", "I", "was", "there", "-RRB-", "and", "I", "hear", "Wet", "Republic", "is", "the", "bomb", "diggity", "so", "no", "problems", "there", "."], "e1_text": "did", "e1_pos": 11, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

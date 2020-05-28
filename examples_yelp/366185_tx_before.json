@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "there", "with", "my", "parents", "the", "day", "after", "Christmas", "before", "seeing", "Le", "Reve", "in", "the", "Wynn", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "shared", "a", "caprese", "salad", "next", "which", "they", "split", "onto", "two", "plates", "and", "it", "was", "the", "perfect", "size", "to", "keep", "me", "from", "filling", "up", "too", "much", "before", "my", "actual", "dinner", "came", "out", "."], "e1_text": "filling", "e1_pos": 22, "e2_text": "came", "e2_pos": 30, "label": "before"}
+]

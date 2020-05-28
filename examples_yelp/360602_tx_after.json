@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "met", "my", "aunt", "and", "cousin", "here", "for", "a", "relaxing", "noon", ",", "and", "it", "was", "just", "that", "-LRB-", "after", "I", "gulped", "down", "the", "$", "75", "credit", "card", "swipe", "to", "just", "use", "the", "facilities", "-RRB-", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "gulped", "e2_pos": 20, "label": "after"},
+{"tokens": ["The", "cold", "deluge", "was", "quite", "refreshing", "after", "working", "up", "a", "sweat", "with", "all", "that", "relaxing", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "working", "e2_pos": 7, "label": "after"}
+]

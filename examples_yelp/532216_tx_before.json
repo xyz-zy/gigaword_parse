@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "5", "minutes", "of", "waiting", "for", "the", "server", "to", "come", "up", ",", "I", "placed", "my", "order", "for", "a", "coors", "light", "...", "waited", "15", "minutes", ",", "then", "the", "server", "came", "back", "saying", "my", "beer", "must", "of", "been", "delivered", "to", "the", "wrong", "table", ",", "asked", "what", "I", "wanted", "and", "then", "I", "waited", "another", "15", "minutes", "before", "getting", "my", "first", "beer", "."], "e1_text": "waited", "e1_pos": 21, "e2_text": "getting", "e2_pos": 54, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "employee", "who", "answered", "the", "phone", "seemed", "annoyed", "that", "I", "was", "calling", "before", "I", "even", "spoke", "."], "e1_text": "calling", "e1_pos": 11, "e2_text": "spoke", "e2_pos": 15, "label": "before"},
+{"tokens": ["She", "immediately", "set", "out", "to", "look", "for", "it", "with", "the", "given", "description", "and", "location", "and", "I", "even", "heard", "buzz", "on", "their", "radios", "as", "I", "walked", "in", "-LRB-", "I", "found", "it", "before", "yet", "did", "-RRB-", "."], "e1_text": "found", "e1_pos": 28, "e2_text": "did", "e2_pos": 32, "label": "before"}
+]

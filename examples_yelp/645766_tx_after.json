@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "got", "back", "to", "LA", "late", "on", "the", "25th", "I", "figured", "I", "'d", "write", "my", "review", "on", "the", "Palazzo", "after", "I", "got", "some", "rest", "."], "e1_text": "write", "e1_pos": 14, "e2_text": "got", "e2_pos": 2, "label": "after"},
+{"tokens": ["To", "my", "surprise", "when", "I", "went", "to", "the", "Palazzo", "'s", "yelp", "page", "someone", "else", "wrote", "the", "first", "review", "on", "the", "25th", "!!!", "I", "could", "n't", "believe", "it", "because", "I", "was", "trying", "to", "do", "the", "right", "thing", "and", "write", "the", "review", "after", "I", "had", "my", "whole", "experience", "and", "I", "missed", "being", "the", "first", "."], "e1_text": "write", "e1_pos": 37, "e2_text": "had", "e2_pos": 42, "label": "after"}
+]

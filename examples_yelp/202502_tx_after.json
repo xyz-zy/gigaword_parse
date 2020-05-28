@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Fleming", "'s", "potatoes", "are", "excellent", "--", "surprisingly", ",", "they", "are", "even", "better", "the", "day", "after", "when", "you", "heat", "them", "up", "in", "the", "microwave", "."], "e1_text": "are", "e1_pos": 4, "e2_text": "heat", "e2_pos": 18, "label": "after"}
+]

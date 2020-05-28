@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "I", "am", "sad", "to", "say", "that", "after", "more", "than", "a", "year", "of", "giving", "TC", "'s", "our", "business", "we", "are", "crossing", "them", "off", "our", "list", "."], "e1_text": "say", "e1_pos": 5, "e2_text": "giving", "e2_pos": 13, "label": "after"},
+{"tokens": ["After", "twenty", "more", "minutes", "we", "went", "inside", "to", "see", "if", "we", "were", "''", "``", "out", "of", "sight", ",", "out", "of", "mind", "''", "''", "and", "amazingly", "we", "were", "called", "to", "be", "seated", "after", "watching", "more", "parties", "of", "the", "same", "count", "be", "seated", "that", "arrived", "after", "us", "."], "e1_text": "seated", "e1_pos": 30, "e2_text": "watching", "e2_pos": 32, "label": "after"}
+]

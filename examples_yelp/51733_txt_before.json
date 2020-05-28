@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "office", "called", "to", "reschedule", "less", "then", "a", "week", "before", "me", "appointment", "because", "the", "doctor", "no", "longer", "works", "Mondays", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "appointment", "e2_pos": 11, "label": "before"}
+]

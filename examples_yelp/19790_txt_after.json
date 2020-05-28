@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "I", "was", "hoping", "to", "break", "a", "few", "plates", "after", "toasting", "a", "wonderful", "plate", "of", "desperately", "sought", "out", "seafood", "in", "the", "desert", "."], "e1_text": "break", "e1_pos": 5, "e2_text": "toasting", "e2_pos": 10, "label": "after"},
+{"tokens": ["To", "be", "more", "clear", "...", "imagine", "a", "child", "'s", "finger", "being", "grilled", "and", "placed", "in", "front", "of", "you", "after", "being", "dehydrated", "."], "e1_text": "grilled", "e1_pos": 11, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["this", "shop", "is", "100", "%", "fantastic", "!!!", "my", "friend", "and", "i", "made", "the", "trip", "out", "from", "the", "strip", "after", "she", "raved", "about", "the", "fresh", "turkey", "sub", "she", "'d", "had", "with", "her", "husband", "a", "year", "ago", "."], "e1_text": "made", "e1_pos": 11, "e2_text": "raved", "e2_pos": 20, "label": "after"}
+]

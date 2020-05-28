@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "came", "here", "with", "friends", "for", "dinner", "after", "Day", "1", "of", "selling", "at", "Handmade", "Arcade", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "selling", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "got", "there", "just", "in", "time", "since", "it", "got", "packed", "shortly", "after", "we", "sat", "down", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "sat", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "did", "n't", "even", "notice", "until", "5", "minutes", "after", "eating", "and", "then", "I", "looked", "across", "the", "table", "at", "my", "friend", "Jessica", "'s", "dish", "that", "clearly", "had", "chicken", "and", "we", "had", "ordered", "the", "same", "thing", "."], "e1_text": "notice", "e1_pos": 4, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "only", "come", "back", "for", "the", "frozen", "hot", "chocolate", ",", "after", "the", "night", "my", "bf", "and", "I", "spent", "in", "the", "restroom", "we", "will", "stay", "far", "away", "from", "the", "food", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "spent", "e2_pos": 18, "label": "after"},
+{"tokens": ["\\*\\*", "update", "-", "ok", "after", "looking", "at", "the", "pictures", "of", "other", "peoples", "nachos", "ours", "looked", "nothing", "like", "that", ",", "I", "am", "convinced", "it", "was", "the", "nachos", "that", "got", "us", "sick", "."], "e1_text": "ok", "e1_pos": 3, "e2_text": "looking", "e2_pos": 5, "label": "after"}
+]

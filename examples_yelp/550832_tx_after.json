@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "'s", "been", "3", "weeks", "since", "I", "'ve", "ordered", "my", "business", "cards", "and", "after", "5", "days", "and", "I", "still", "did", "n't", "get", "my", "online", "proof", "so", "I", "called", "and", "he", "responded", "in", "10", "minutes", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "did", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "got", "it", "and", "confirmed", "and", "gave", "him", "the", "okay", "to", "print", "ONE", "minute", "after", "I", "got", "it", "."], "e1_text": "print", "e1_pos": 11, "e2_text": "got", "e2_pos": 1, "label": "after"},
+{"tokens": ["She", "then", "tells", "me", "I", "'ll", "get", "them", "by", "the", "end", "of", "this", "week", "or", "early", "next", "week", ",", "which", "will", "be", "1", "month", "after", "I", "ordered", "."], "e1_text": "be", "e1_pos": 21, "e2_text": "ordered", "e2_pos": 26, "label": "after"}
+]

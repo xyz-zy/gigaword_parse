@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "we", "'re", "told", "we", "could", "sit", "immediately", "-LRB-", "which", "was", "nice", "to", "hear", "-RRB-", "but", "we", "decided", "to", "go", "upstairs", "and", "enjoy", "a", "drink", "before", "we", "sat", "down", "at", "the", "table", "."], "e1_text": "enjoy", "e1_pos": 22, "e2_text": "sat", "e2_pos": 27, "label": "before"},
+{"tokens": ["We", "sit", "down", "and", "wait", "about", "three", "minutes", "before", "anyone", "approaches", "us", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "approaches", "e2_pos": 10, "label": "before"}
+]

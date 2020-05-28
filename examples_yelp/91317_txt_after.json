@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "to", "this", "place", "after", "seeing", "a", "wonderful", "show", "at", "the", "Symphony", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Walked", "in", "with", "my", "mother", "and", "aunt", "and", "after", "a", "few", "minutes", "of", "not", "being", "acknowledged", ",", "I", "tried", "to", "flag", "down", "the", "server", "that", "walked", "by", ".", "''"], "e1_text": "Walked", "e1_pos": 0, "e2_text": "being", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "line", "for", "maybe", "5", "minutes", "before", "they", "took", "us", "on", ".", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "took", "e2_pos": 10, "label": "before"},
+{"tokens": ["there", "are", "cocktail", "waitresses", "that", "come", "quite", "a", "bit", "so", "be", "sure", "to", "get", "your", "free", "drinks", "before", "you", "head", "on", "out", "!"], "e1_text": "get", "e1_pos": 13, "e2_text": "head", "e2_pos": 19, "label": "before"}
+]

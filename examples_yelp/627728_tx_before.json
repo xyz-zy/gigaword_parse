@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "corn", "beef", "is", "never", "fatty", "and", "the", "guy", "said", "he", "actually", "spends", "the", "time", "to", "trim", "it", "before", "he", "cooks", "it", "."], "e1_text": "trim", "e1_pos": 16, "e2_text": "cooks", "e2_pos": 20, "label": "before"}
+]

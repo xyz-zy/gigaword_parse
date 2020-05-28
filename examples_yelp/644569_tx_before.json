@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "as", "long", "as", "your", "server", "does", "n't", "take", "off", "with", "the", "round", "disc", "before", "you", "get", "all", "your", "food", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "get", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "indicates", "they", "are", "open", "at", "7am", "and", "2", "employees", "I", "asked", "the", "day", "before", "verified", "it", "."], "e1_text": "asked", "e1_pos": 11, "e2_text": "verified", "e2_pos": 15, "label": "before"}
+]

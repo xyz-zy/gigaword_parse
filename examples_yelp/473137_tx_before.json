@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "lure", "you", "in", "with", "the", "$", "9.00", "flight", ",", "it", "turns", "into", "$", "67", "before", "you", "click", "pay", "."], "e1_text": "turns", "e1_pos": 11, "e2_text": "click", "e2_pos": 17, "label": "before"}
+]

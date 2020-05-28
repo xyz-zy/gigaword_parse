@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "recently", "visited", "both", "and", "here", "is", "why", ";", "-", "Mandalay", "has", "better", "layout", "and", "more", "seating", "-", "Mandalay", "bar", "is", "better", "and", "bartenders", "are", "more", "FUN", "!!!!!!!", "-", "Mandalay", "bar", "has", "better", "music", "-", "Mandalay", "bar", "has", "a", "''", "``", "lodge", "''", "''", "themed", "bar", "outside", "the", "ice", "bar", "to", "warm", "up", "after", "you", "exit", "the", "ice", "bar", "."], "e1_text": "warm", "e1_pos": 51, "e2_text": "exit", "e2_pos": 55, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "given", "extra", "bottles", "during", "my", "3", "month", "trial", "period", "only", "to", "run", "out", "after", "the", "three", "months", "were", "up", "."], "e1_text": "run", "e1_pos": 13, "e2_text": "were", "e2_pos": 19, "label": "after"},
+{"tokens": ["Upon", "clear", "reflection", ",", "I", "started", "running", "out", "of", "water", "after", "my", "3", "month", "plan", "was", "up", "forcing", "me", "to", "seek", "answers", "and", "only", "to", "find", "out", "that", "Myself", "and", "my", "9", "year", "old", "daughter", "would", "need", "to", "spend", "over", "$", "60", "monthly", "just", "to", "keep", "us", "from", "having", "to", "peddle", "water", "from", "the", "kiosk", "at", "the", "store", "."], "e1_text": "started", "e1_pos": 5, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

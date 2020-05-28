@@ -1,0 +1,4 @@
+[
+{"tokens": ["Crab", "was", "dry", "and", "I", "could", "tell", "it", "was", "left", "over", "from", "the", "day", "before", "and", "was", "just", "reheated", "."], "e1_text": "tell", "e1_pos": 6, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "even", "asked", "him", ",", "''", "``", "is", "that", "coke", "because", "that", "'s", "what", "I", "'m", "drinking", "''", "''", "before", "he", "poured", "it", "."], "e1_text": "'s", "e1_pos": 12, "e2_text": "poured", "e2_pos": 21, "label": "before"}
+]

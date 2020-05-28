@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "typically", "stop", "there", "for", "our", "first", "meal", "after", "the", "long", "drive", "from", "Orange", "County", ",", "or", "else", "just", "before", "we", "hit", "the", "road", "on", "the", "way", "out", "of", "town", "."], "e1_text": "stop", "e1_pos": 2, "e2_text": "hit", "e2_pos": 21, "label": "before"}
+]

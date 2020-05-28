@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "they", "have", "an", "automated", "computer", "system", "that", "takes", "your", "payment", "we", "still", "waited", "in", "line", "for", "about", "30", "minutes", "before", "we", "were", "seated", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "were", "e2_pos": 23, "label": "before"}
+]

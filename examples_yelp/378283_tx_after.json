@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'d", "give", "the", "food", "4", "stars", ",", "but", "they", "are", "a", "bit", "understaffed", ",", "because", "we", "spent", "15", "minutes", "at", "the", "front", "of", "the", "seating", "line", "after", "we", "paid", "and", "then", "our", "''", "``", "waiter", "''", "''", "took", "a", "while", "for", "the", "drinks", "."], "e1_text": "spent", "e1_pos": 17, "e2_text": "paid", "e2_pos": 29, "label": "after"}
+]

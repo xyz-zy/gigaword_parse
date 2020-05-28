@@ -1,0 +1,5 @@
+[
+{"tokens": ["She", "managed", "to", "get", "me", "tickets", "on", "a", "Saturday", "morning", "for", "a", "show", "that", "night", "-LRB-", "yes", ",", "I", "am", "aware", "that", "she", "'s", "amazing", "and", "wonderful", "-RRB-", "and", "insisted", "that", "I", "thank", "Penn", "during", "their", "after", "show", "meet", "and", "greet", ",", "but", "we", "'ll", "get", "back", "to", "that", "."], "e1_text": "thank", "e1_pos": 32, "e2_text": "meet", "e2_pos": 38, "label": "after"},
+{"tokens": ["Also", ",", "both", "Penn", "and", "Teller", "hang", "out", "after", "the", "show", "for", "a", "meet", "and", "greet", "and", "they", "stick", "around", "for", "every", "single", "person", "which", "is", "so", "generous", "."], "e1_text": "hang", "e1_pos": 6, "e2_text": "meet", "e2_pos": 13, "label": "after"},
+{"tokens": ["Overall", ",", "I", "'d", "like", "to", "go", "back", "and", "see", "the", "show", "again", "as", "they", "added", "in", "some", "new", "elements", "the", "week", "after", "I", "was", "there", "."], "e1_text": "added", "e1_pos": 15, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

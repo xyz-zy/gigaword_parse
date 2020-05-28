@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "thought", "I", "had", "the", "stomach", "flu", "after", "eating", "here", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "bent", "over", "with", "terrible", "stomach", "cramps", "and", "the", "pain", "was", "so", "bad", ",", "after", "hours", "of", "it", "coming", "out", "of", "both", "ends", "I", "went", "to", "the", "Emergency", "Room", "and", "they", "informed", "me", "I", "had", "terrible", "food", "poisoning", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "coming", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "was", "already", "not", "very", "happy", "because", "the", "seating", "area", "is", "so", "congested", "and", "tacky", ",", "its", "really", "not", "my", "style", "to", "be", "in", "a", "dim", "cheap", "looking", "cafe", "and", "then", "to", "get", "food", "poisoning", "after", "lowering", "my", "standards", "made", "me", "realize", "why", "I", "dont", "go", "to", "these", "carnival", "type", "places", "to", "begin", "with", "."], "e1_text": "get", "e1_pos": 32, "e2_text": "lowering", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "they", "cook", "your", "food", "after", "you", "order", ",", "do", "not", "expect", "this", "to", "be", "fast", "food", "like", "Panda", "Express", ",", "I", "was", "lucky", "and", "got", "to", "wait", "even", "longer", "because", "they", "messed", "up", "my", "order", "and", "had", "to", "redo", "it", "!"], "e1_text": "cook", "e1_pos": 2, "e2_text": "order", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Chow", "Fun", "was", "very", "overdone", ",", "so", "much", "so", "that", "the", "noodles", "were", "breaking", "up", "and", "the", "vegetables", "in", "it", "were", "turning", "from", "their", "bright", ",", "friendly", "colors", "to", "a", "dim", ",", "sad", "mess", "...", "I", "do", "agree", "that", "the", "pork", "was", "cooked", "good", ",", "but", "it", "had", "a", "fishy", "undertone", "that", "tells", "me", "it", "was", "cooked", "after", "some", "fish", "or", "shrimp", "dish", "which", "carried", "over", "the", "taste", "into", "the", "noodles", "."], "e1_text": "cooked", "e1_pos": 43, "e2_text": "carried", "e2_pos": 65, "label": "after"}
+]

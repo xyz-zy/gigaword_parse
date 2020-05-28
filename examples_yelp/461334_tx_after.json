@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Benneton", "Club", "and", "I", "went", "there", "on", "Sunday", "afternoon", "after", "catching", "a", "movie", ",", "it", "was", "rainy", "-LRB-", "maybe", "that", "is", "where", "I", "got", "the", "Seattle", "association", "from", "-RRB-", "and", "it", "was", "the", "perfect", "place", "to", "sit", "and", "watch", "the", "rain", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "catching", "e2_pos": 11, "label": "after"}
+]

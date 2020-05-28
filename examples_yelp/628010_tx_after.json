@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "originally", "came", "in", "to", "have", "a", "few", "drinks", "after", "I", "left", "dinner", "."], "e1_text": "have", "e1_pos": 5, "e2_text": "left", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "originally", "asked", "for", "a", "Basil", "Hayden", "bourbon", "-LRB-", "which", "is", "one", "of", "my", "favorite", "bourbons", "-RRB-", "however", "after", "talking", "to", "the", "bar", "manager", "and", "him", "listening", "to", "what", "my", "pallet", "is", "and", "what", "I", "typically", "like", ",", "he", "recommended", "I", "try", "something", "new", "and", "suggested", "a", "Cody", "bourbon", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "talking", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", ",", "annoyed", "with", "the", "wait", "since", "we", "had", "just", "arrived", "to", "Vegas", "after", "roadtripping", "5", "hours", ",", "I", "walked", "over", "to", "the", "waiter", "station", "and", "asked", "for", "someone", "to", "bring", "us", "drinks", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "roadtripping", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "noticed", "patrons", "who", "arrived", "long", "after", "us", "who", "already", "received", "their", "drinks", "and", "their", "food", "arrived", "at", "about", "the", "same", "time", "as", "ours", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "received", "e2_pos": 10, "label": "after"},
+{"tokens": ["Funny", "thing", "is", ",", "we", "devoured", "our", "food", "and", "was", "out", "of", "there", "so", "soon", "after", "we", "received", "our", "entrees", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "received", "e2_pos": 17, "label": "after"}
+]

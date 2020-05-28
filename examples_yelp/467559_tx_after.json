@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "happens", "often", "with", "me", "these", "days", "...", "the", "best", "part", "was", "that", "one", "of", "individuals", "from", "our", "table", "took", "it", "upon", "themselves", "to", "walk", "back", "to", "the", "kitchen", ",", "check", "the", "cleanliness", ",", "and", "later", "returned", "after", "we", "ordered", "to", "let", "the", "chef", "know", "not", "to", "mess", "up", "our", "order", "."], "e1_text": "returned", "e1_pos": 36, "e2_text": "ordered", "e2_pos": 39, "label": "after"}
+]

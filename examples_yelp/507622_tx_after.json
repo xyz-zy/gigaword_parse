@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "got", "so", "sick", "after", "eating", "here", "that", "we", "'ll", "never", "go", "back", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "eating", "e2_pos": 5, "label": "after"},
+{"tokens": ["This", "is", "as", "bad", "as", "it", "gets", ",", "after", "my", "first", "bite", "i", "knew", "something", "was", "up", ",", "it", "just", "tasted", "off", "."], "e1_text": "gets", "e1_pos": 6, "e2_text": "knew", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "thought", "it", "was", "me", "but", "after", "my", "GF", "tried", "she", "too", "said", "something", "was", "n't", "rite", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "tried", "e2_pos": 9, "label": "after"}
+]

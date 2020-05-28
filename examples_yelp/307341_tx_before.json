@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "food", "market", "in", "this", "sprawling", "metropolis", "offers", "to", "cook", "your", "food", "for", "you", "before", "you", "leave", "the", "store", "?"], "e1_text": "cook", "e1_pos": 9, "e2_text": "leave", "e2_pos": 16, "label": "before"}
+]

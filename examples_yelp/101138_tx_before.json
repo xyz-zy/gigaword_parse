@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "last", "two", "visits", "we", "had", "to", "sit", "about", "5", "minutes", "after", "we", "had", "our", "food", "served", ",", "before", "we", "actually", "had", "silverware", "to", "eat", "it", "."], "e1_text": "served", "e1_pos": 16, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["One", "thing", "I", "have", "learned", "is", "to", "ask", "for", "the", "check", "as", "soon", "as", "you", "get", "your", "last", "bit", "of", "food", ",", "or", "else", "you", "will", "end", "up", "sitting", "at", "a", "table", "with", "empty", "plates", "for", "a", "long", "while", "before", "they", "realize", "you", "are", "done", "."], "e1_text": "sitting", "e1_pos": 28, "e2_text": "realize", "e2_pos": 41, "label": "before"}
+]

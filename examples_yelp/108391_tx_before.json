@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "picked", "up", "the", "bike", "we", "were", "very", "late", "-", "10", "minutes", "before", "closing", "due", "to", "taking", "a", "wrong", "turn", "and", "rush", "hour", "traffic", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "closing", "e2_pos": 14, "label": "before"}
+]

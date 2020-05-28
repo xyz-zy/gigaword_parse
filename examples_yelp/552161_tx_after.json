@@ -1,0 +1,3 @@
+[
+{"tokens": ["Because", "I", "asked", "for", "the", "beef", "after", "we", "had", "ordered", ",", "they", "brought", "it", "out", "on", "a", "plate", "and", "it", "was", "already", "precooked", ",", "so", "after", "adding", "to", "the", "hotpot", "it", "became", "overcooked", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

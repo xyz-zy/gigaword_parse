@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fact", "that", "they", "were", "so", "unorganized", "even", "after", "keeping", "us", "waiting", "is", "unacceptable", "for", "any", "restaurant", ",", "and", "very", "unprofessional", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "keeping", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "took", "ten", "minutes", "after", "being", "seated", "at", "our", "table", "for", "the", "waitress", "to", "come", "around", "to", "take", "our", "orders", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 5, "label": "after"}
+]

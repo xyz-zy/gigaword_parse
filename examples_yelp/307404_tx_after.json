@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "contacted", "First", "Impressions", "after", "speaking", "with", "them", "at", "the", "home", "and", "garden", "show", "about", "a", "small", "project", "for", "two", "decorative", "window", "coverings", "which", "they", "said", "was", "not", "too", "small", "of", "a", "job", "and", "would", "be", "able", "to", "take", "on", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "speaking", "e2_pos": 5, "label": "after"},
+{"tokens": ["Approximately", "6", "weeks", "later", "I", "contacted", "Shane", "again", "and", "said", "I", "would", "like", "to", "move", "forward", ",", "I", "resent", "photos", "and", "dimensions", "per", "his", "request", "and", "he", "said", "he", "would", "get", "back", "to", "me", "the", "next", "day", "after", "speaking", "with", "the", "owner", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "speaking", "e2_pos": 38, "label": "after"}
+]

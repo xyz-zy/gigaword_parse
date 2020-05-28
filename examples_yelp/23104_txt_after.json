@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "appears", "after", "only", "a", "few", "months", "of", "living", "here", ",", "that", "anyone", "can", "get", "away", "with", "anything", "here", "."], "e1_text": "appears", "e1_pos": 1, "e2_text": "living", "e2_pos": 8, "label": "after"},
+{"tokens": ["Finally", "there", "was", "one", "huge", "flood", "where", "we", "had", "to", "move", "out", "for", "a", "couple", "of", "weeks", "until", "everything", "could", "dry", "and", "things", "could", "get", "put", "back", "into", "place", "and", "they", "FINALLY", "evicted", "the", "man", "after", "dealing", "with", "his", "crap", "for", "over", "a", "year", "."], "e1_text": "evicted", "e1_pos": 32, "e2_text": "dealing", "e2_pos": 36, "label": "after"}
+]

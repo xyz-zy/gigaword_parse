@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "3", "times", "in", "the", "last", "couple", "of", "years", "but", "have", "n't", "been", "back", "after", "the", "last", "time", "because", "the", "service", "was", "bad", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "was", "e2_pos": 23, "label": "after"},
+{"tokens": ["The", "waitress", "did", "not", "tell", "us", "about", "any", "specials", "which", "was", "annoying", "because", "after", "we", "had", "ordered", "we", "heard", "her", "explaining", "them", "to", "the", "next", "table", "and", "they", "sounded", "like", "something", "we", "would", "have", "considered", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

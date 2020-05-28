@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "called", "in", "orders", "to", "both", ",", "I", "realize", "that", "they", "had", "longer", "hold", "times", "as", "well", ",", "which", "could", "account", "for", "longer", "delivery", "times", ",", "but", "if", "all", "the", "pizzas", "are", "getting", "baked", "and", "ready", "but", "not", "getting", "delivered", "while", "the", "cheese", "is", "still", "hot", "and", "stringy", "on", "a", "consistent", "basis", ",", "you", "either", "need", "to", "wait", "another", "couple", "of", "minutes", "before", "throwing", "the", "next", "batch", "of", "pizzas", "through", "the", "oven", ",", "or", "hire", "more", "drivers", "."], "e1_text": "wait", "e1_pos": 57, "e2_text": "throwing", "e2_pos": 63, "label": "before"}
+]

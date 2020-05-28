@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "studied", "the", "menu", "online", "before", "I", "went", "and", "I", "had", "narrowed", "my", "decision", "to", "two", "choices", ",", "the", "Japanese", "Kobe", "wagyu", "A-5", "filet", "or", "the", "wild", "game", "tasting", "of", "three", "game", "foods", "."], "e1_text": "studied", "e1_pos": 1, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["After", "some", "discussion", "with", "the", "server", ",", "I", "opted", "to", "order", "the", "Kobe", "filet", "as", "I", "have", "not", "tried", "real", "Japanese", "waygu", "before", "."], "e1_text": "order", "e1_pos": 10, "e2_text": "have", "e2_pos": 16, "label": "before"}
+]

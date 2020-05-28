@@ -1,0 +1,4 @@
+[
+{"tokens": ["Which", "stinks", "because", "we", "used", "to", "frequent", "the", "one", "in", "north", "scottsdale", "NIGHTLY", "years", "ago", "before", "the", "kiddos", "came", ":-RRB-", "We", "were", "looking", "for", "a", "quick", "bite", "to", "eat", "at", "the", "start", "of", "a", "date", "night", ",", "and", "my", "husband", "suggested", "zipps", "so", "he", "could", "watch", "a", "game", "."], "e1_text": "used", "e1_pos": 4, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["-LRB-", "Who", "started", "to", "resemble", "Wolverine", "when", "the", "server", "did", "n't", "show", "up", "before", "happy", "hour", "ended", "so", "we", "could", "order", "more", "beers", "-RRB-", "Our", "food", "took", "forever", "to", "come", "out", "."], "e1_text": "show", "e1_pos": 11, "e2_text": "ended", "e2_pos": 16, "label": "before"}
+]

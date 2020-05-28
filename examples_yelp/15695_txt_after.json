@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "walked", "in", "2", "minutes", "after", "they", "closed", "-LRB-", "by", "my", "watch", "-RRB-", "and", "did", "n't", "even", "think", "that", "they", "would", "be", "closed", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "closed", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "know", "how", "it", "is", "to", "have", "that", "customer", "come", "in", "1", "minute", "before", "you", "close", "...", "and", "1", "minute", "after", "you", "close", "."], "e1_text": "come", "e1_pos": 9, "e2_text": "close", "e2_pos": 22, "label": "after"}
+]

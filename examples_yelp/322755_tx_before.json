@@ -1,0 +1,4 @@
+[
+{"tokens": ["Before", "we", "entered", "he", "and", "my", "other", "brother", "had", "a", "cigarette", "outside", "before", "they", "entered", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "entered", "e2_pos": 2, "label": "before"},
+{"tokens": ["He", "says", "you", "were", "the", "ones", "smoking", "outside", "before", "you", "came", "in", "so", "I", "just", "wanted", "to", "ensure", "you", "knew", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

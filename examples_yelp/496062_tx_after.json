@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "sure", "they", "rolled", "them", "after", "I", "ordered", ",", "but", "the", "ingredients", "may", "not", "have", "been", "the", "best", "."], "e1_text": "rolled", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

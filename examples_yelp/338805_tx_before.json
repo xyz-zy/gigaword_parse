@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "a", "reservation", "for", "two", "at", "7:00", "pm", ",", "got", "to", "the", "restaurant", "and", "our", "table", "was", "not", "ready", "...", "They", "told", "us", "the", "people", "before", "were", "still", "eating", "!!", "We", "finally", "got", "our", "table", "at", "7:15", ",", "our", "waiter", "came", "to", "our", "table", "not", "before", "7:45", "-8:00", "to", "get", "our", "order", "."], "e1_text": "told", "e1_pos": 22, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

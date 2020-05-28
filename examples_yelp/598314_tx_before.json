@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "very", "nice", "to", "be", "able", "to", "sample", "from", "several", "food", "trucks", "at", "once", "but", "the", "food", "trucks", "only", "offer", "regular", "dinner", "portions", "so", "technically", "you", "might", "only", "be", "able", "to", "sample", "2", "food", "trucks", "each", "Friday", "before", "you", "become", "so", "full", "that", "you", "wo", "n't", "want", "to", "walk", "back", "to", "your", "car", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "become", "e2_pos": 40, "label": "before"}
+]

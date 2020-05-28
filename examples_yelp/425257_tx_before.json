@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "when", "I", "try", "a", "restaurant", "and", "love", "it", "so", "much", "that", "I", "start", "planning", "my", "next", "visit", "before", "I", "leave", "!!!", "We", "got", "there", "around", "9pm", "Monday", "night", "and", "they", "had", "an", "awesome", "happy", "hour", "going", "on", "!"], "e1_text": "planning", "e1_pos": 15, "e2_text": "leave", "e2_pos": 21, "label": "before"}
+]

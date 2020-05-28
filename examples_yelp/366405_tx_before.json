@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "side", "order", "of", "onion", "rings", "came", "out", "before", "my", "main", "dish", ",", "which", "I", "found", "to", "be", "weird", "and", "they", "were", "more", "soggy", "than", "crispy", ",", "pretty", "bland", "tasting", "as", "well", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "found", "e2_pos": 15, "label": "before"},
+{"tokens": ["Check", "yourself", "before", "criticizing", "others", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "criticizing", "e2_pos": 3, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "finally", "caught", "by", "''", "``", "Ryan", "''", "''", "at", "the", "check", "out", "booth", "-LRB-", "after", "a", "20", "minute", "wait", "to", "get", "out", "-RRB-", "."], "e1_text": "caught", "e1_pos": 3, "e2_text": "wait", "e2_pos": 20, "label": "after"}
+]

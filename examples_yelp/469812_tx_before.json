@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "been", "done", "with", "our", "food", "and", "drinks", "for", "15", "minutes", "before", "our", "waitress", "came", "by", "with", "our", "check", ",", "and", "we", "actually", "had", "to", "stop", "her", "when", "she", "was", "walking", "past", "to", "get", "the", "check", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "came", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "people", "next", "to", "us", "did", "n't", "get", "their", "check", "until", "right", "after", "we", "got", "ours", ",", "and", "they", "had", "been", "done", "eating", "before", "we", "even", "got", "our", "cheese", "curds", "."], "e1_text": "eating", "e1_pos": 22, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

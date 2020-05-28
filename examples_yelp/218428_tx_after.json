@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "2", "stars", "are", "for", "the", "delicious", "orange", "juice", "-LRB-", "after", "the", "waiter", "finally", "brought", "it", "to", "us", "-RRB-", "along", "with", "the", "delicious", "bacon", "."], "e1_text": "are", "e1_pos": 3, "e2_text": "brought", "e2_pos": 14, "label": "after"}
+]

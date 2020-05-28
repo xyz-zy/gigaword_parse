@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "low", "rating", "b\\/c", "when", "I", "called", "to", "book", "an", "appointment", "to", "use", "up", "my", "groupon", "before", "it", "expired", ",", "they", "were", "totally", "booked", "-", "for", "the", "next", "two", "days", "with", "Zero", "openings", "."], "e1_text": "use", "e1_pos": 12, "e2_text": "expired", "e2_pos": 18, "label": "before"}
+]

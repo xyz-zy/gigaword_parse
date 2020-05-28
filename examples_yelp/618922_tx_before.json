@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "I", "did", "n't", "like", "was", "that", "I", "decided", "not", "to", "take", "my", "son", "any", "more", "but", "forgot", "to", "cancel", "before", "they", "charged", "my", "card", "so", "before", "they", "charged", "my", "card", "again", "I", "called", "to", "cancel", "and", "the", "receptionist", "told", "me", "that", "the", "manager", "said", "he", "would", "not", "refund", "my", "money", "and", "since", "I", "did", "n't", "give", "two", "weeks", "notice", "they", "are", "going", "to", "charge", "me", "for", "an", "additional", "month", "."], "e1_text": "cancel", "e1_pos": 19, "e2_text": "charged", "e2_pos": 22, "label": "before"}
+]

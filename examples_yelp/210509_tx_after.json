@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "also", "had", "an", "ant", "in", "our", "bowl", ",", "which", "we", "found", "after", "we", "had", "been", "eating", "."], "e1_text": "found", "e1_pos": 11, "e2_text": "had", "e2_pos": 2, "label": "after"},
+{"tokens": ["When", "we", "told", "a", "passing", "server", "about", "it", ",", "she", "responded", "with", "''", "``", "Did", "you", "find", "it", "before", "or", "after", "you", "ate", "the", "biscuits", "?", "''", "''"], "e1_text": "responded", "e1_pos": 10, "e2_text": "ate", "e2_pos": 22, "label": "after"},
+{"tokens": ["We", "did", "n't", "see", "him", "until", "after", "it", "was", "time", "to", "drop", "the", "check", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

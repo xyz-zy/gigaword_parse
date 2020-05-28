@@ -1,0 +1,4 @@
+[
+{"tokens": ["Water", "was", "not", "topped", "off", "and", "it", "took", "2", "hours", "before", "anybody", "got", "any", "of", "their", "food", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "got", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "owner", "of", "this", "restaurant", "really", "needs", "to", "re-evaluate", "he", "staff", "before", "this", "restaurant", "sinks", "hard", "and", "fast", "!"], "e1_text": "staff", "e1_pos": 10, "e2_text": "sinks", "e2_pos": 14, "label": "before"}
+]

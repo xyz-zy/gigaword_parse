@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "came", "out", "the", "day", "after", "I", "returned", "which", "was", "a", "week", "later", "and", "found", "that", "the", "tech", "had", "ordered", "and", "installed", "the", "wrong", "''", "``", "board", "''", "''", "the", "first", "time", "but", "they", "told", "me", "they", "would", "rush", "the", "correct", "part", "and", "have", "it", "within", "the", "week", "-LRB-", "before", "my", "out", "of", "town", "company", "arrives", "-RRB-", "."], "e1_text": "have", "e1_pos": 43, "e2_text": "arrives", "e2_pos": 55, "label": "before"}
+]

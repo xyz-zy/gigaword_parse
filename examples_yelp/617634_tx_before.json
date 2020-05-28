@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "purchased", "-LRB-", "2", "shoes", "-RRB-", "and", "I", "sold", "a", "few", "pairs", "of", "shoes", "through", "them", "which", "they", "charge", "20", "%", "no", "problem", "they", "sold", "my", "shoes", "and", "said", "they", "would", "have", "someone", "call", "me", "to", "pick", "up", "a", "check", "well", "after", "a", "few", "weeks", "I", "noticed", "my", "shoes", "had", "sold", "but", "no", "call", "I", "waited", "another", "week", "before", "I", "decided", "to", "call", ",", "they", "lied", "and", "said", "they", "just", "sold", "the", "day", "before", "and", "I", "was", "going", "to", "get", "a", "call", "soon", "."], "e1_text": "waited", "e1_pos": 55, "e2_text": "decided", "e2_pos": 60, "label": "before"}
+]

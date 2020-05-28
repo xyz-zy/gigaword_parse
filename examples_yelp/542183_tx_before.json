@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waited", "15", "minutes", "before", "-LRB-", "I", "think", "-RRB-", "waitress", "told", "me", "they", "were", "out", "of", "lobster", "egg", "rolls", "-LRB-", "not", "exactly", "sure", "what", "the", "reason", "was", "her", "English", "was", "n't", "great", ".", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "think", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "final", "nail", "on", "the", "coffin", "was", "I", "asked", "a", "half", "an", "hour", "before", "my", "check", "came", "to", "have", "a", "mango", "pudding", "saved", "for", "my", "dessert", "."], "e1_text": "asked", "e1_pos": 8, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

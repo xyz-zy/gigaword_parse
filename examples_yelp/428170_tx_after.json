@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "I", "went", "there", "after", "it", "switched", "from", "Exxon", ",", "an", "attendant", "came", "running", "out", "to", "pump", "my", "gas", "for", "me", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "switched", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "hit", "the", "gym", "first", "for", "a", "quick", "work", "out", "then", "''", "``", "brunch", "''", "''", "before", "the", "games", "begin", "."], "e1_text": "hit", "e1_pos": 1, "e2_text": "begin", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "was", "a", "lil", "miffed", "waiting", "a", "few", "minutes", "after", "being", "seated", "before", "our", "drink", "orders", "taken", "-LRB-", "place", "not", "that", "busy", "-RRB-", "even", "more", "miffed", "that", "after", "we", "ordered", "our", "food", ",", "two", "other", "couples", "come", "into", "the", "place", ",", "seated", ",", "orders", "taken", "AND", "they", "get", "their", "food", "before", "we", "do", "!"], "e1_text": "seated", "e1_pos": 11, "e2_text": "taken", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "waited", "a", "week", "before", "writing", "a", "review", "because", "I", "would", "have", "annihilated", "them", "had", "I", "written", "the", "review", "at", "the", "time", "...", "It", "started", "off", "with", "them", "seating", "us", "in", "the", "noisy", "bar", "area", "even", "though", "my", "husband", "had", "told", "them", "it", "was", "my", "birthday", "when", "he", "made", "the", "reservations", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "writing", "e2_pos": 5, "label": "before"}
+]

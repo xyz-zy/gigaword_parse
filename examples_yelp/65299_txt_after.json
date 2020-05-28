@@ -1,0 +1,5 @@
+[
+{"tokens": ["Hubby", "wanted", "pancakes", "too", "so", "after", "learning", "the", "short", "stack", "is", "three", "pancakes", ",", "we", "decided", "we", "'d", "split", "a", "stack", ":", "two", "for", "him", "and", "one", "for", "me", "."], "e1_text": "wanted", "e1_pos": 1, "e2_text": "is", "e2_pos": 10, "label": "after"},
+{"tokens": ["Our", "server", "never", "came", "by", "after", "we", "had", "tried", "our", "food", "to", "ask", "how", "things", "were", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "were", "disappointed", "in", "our", "experience", "at", "Blueberry", "Hill", ",", "especially", "after", "hearing", "such", "great", "things", "about", "it", "!"], "e1_text": "disappointed", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 12, "label": "after"}
+]

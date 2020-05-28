@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "checked", "the", "bill", "after", "leaving", "the", "restaurant", ",", "I", "found", "that", "they", "charged", "an", "extra", "$", "4.00", "for", "the", "shrimp", "and", "no", "beef", "making", "this", "dish", "close", "to", "$", "13.00", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 6, "label": "after"},
+{"tokens": ["P.S.", "I", "received", "a", "$", "10.00", "refund", "for", "their", "error", "and", "a", "$", "25.00", "gift", "certificate", "two", "days", "after", "posting", "this", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "posting", "e2_pos": 19, "label": "after"}
+]

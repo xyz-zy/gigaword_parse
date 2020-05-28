@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "seriously", "...", "-RRB-", "Even", "after", "I", "asked", "for", "the", "right", "drink", ",", "it", "never", "came", ",", "so", "I", "gave", "up", "."], "e1_text": "-RRB-", "e1_pos": 3, "e2_text": "asked", "e2_pos": 7, "label": "after"},
+{"tokens": ["2nd", "visit", ":", "Did", "n't", "get", "service", "until", "23", "minutes", "after", "being", "sat", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["``", "Did", "you", "unplug", "the", "vacuum", "before", "you", "removed", "the", "old", "belt", "?", "''", "''"], "e1_text": "unplug", "e1_pos": 3, "e2_text": "removed", "e2_pos": 8, "label": "before"}
+]

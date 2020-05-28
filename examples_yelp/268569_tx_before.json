@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "in", "yesterday", "afternoon", "to", "see", "if", "they", "can", "take", "an", "appointment", "for", "sometime", "before", "they", "closed", ",", "and", "they", "told", "me", "to", "come", "in", "at", "anytime", "before", "7pm", "to", "get", "the", "eyebrow", "waxing", "done", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "closed", "e2_pos": 17, "label": "before"}
+]

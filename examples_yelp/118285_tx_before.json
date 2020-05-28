@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "only", "went", "here", "because", "we", "needed", "to", "stop", "by", "the", "post", "office", "before", "getting", "some", "food", "in", "the", "morning", ",", "and", "now", "I", "'ve", "learned", "my", "lesson", "."], "e1_text": "stop", "e1_pos": 8, "e2_text": "getting", "e2_pos": 14, "label": "before"}
+]

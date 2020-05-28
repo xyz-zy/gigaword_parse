@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "catch", "Hugo", "on", "the", "big", "screen", "before", "it", "went", "the", "way", "of", "DVD", "only", ",", "and", "I", "was", "happy", "to", "see", "it", "available", "-LRB-", "for", "the", "''", "``", "kiddies", "''", "''", "-RRB-", "for", "$", "1", ",", "so", "off", "I", "went", "."], "e1_text": "catch", "e1_pos": 3, "e2_text": "went", "e2_pos": 11, "label": "before"},
+{"tokens": ["But", "as", "much", "as", "they", "touted", "on", "the", "screen", "how", "awesome", "it", "is", "to", "see", "and", "hear", "movies", "at", "the", "theater", ",", "on", "a", "big", "screen", ",", "the", "sound", "was", "n't", "as", "HD", "as", "I", "'ve", "heard", "before", "."], "e1_text": "was", "e1_pos": 29, "e2_text": "'ve", "e2_pos": 35, "label": "before"}
+]

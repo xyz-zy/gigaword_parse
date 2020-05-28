@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "Tikka", "Masala", "is", "their", "star", "dish", ",", "the", "chicken", ",", "onions", "and", "peppers", "are", "seared", "in", "heat", "before", "marinating", "in", "the", "sauce", "."], "e1_text": "seared", "e1_pos": 16, "e2_text": "marinating", "e2_pos": 20, "label": "before"}
+]

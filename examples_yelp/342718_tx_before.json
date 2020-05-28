@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fortunately", "it", "still", "charged", ",", "but", "only", "for", "a", "little", "while", "before", "it", "started", "making", "feedback", "noises", "."], "e1_text": "charged", "e1_pos": 3, "e2_text": "started", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "waited", "patiently", ",", "for", "45", "minutes", ",", "then", "an", "hour", "before", "we", "called", "down", "to", "see", "what", "was", "going", "on", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "called", "e2_pos": 13, "label": "before"}
+]

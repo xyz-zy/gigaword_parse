@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "more", "odd", "was", "that", "once", "we", "had", "clearly", "finished", "our", "entrees", ",", "it", "was", "a", "long", "time", "before", "anyone", "came", "by", "to", "take", "away", "our", "plates", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "came", "e2_pos": 20, "label": "before"}
+]

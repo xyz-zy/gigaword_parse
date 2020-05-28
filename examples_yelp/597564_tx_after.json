@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "only", "reason", "I", "removed", "a", "star", "is", "because", "after", "we", "paid", "our", "bill", ",", "the", "waitress", "let", "us", "know", "that", "the", "service", "was", "not", "included", "in", "the", "bill", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "paid", "e2_pos": 11, "label": "after"}
+]

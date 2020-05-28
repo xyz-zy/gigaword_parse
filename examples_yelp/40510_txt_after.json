@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "dog", "got", "a", "blood", "clot", "after", ",", "they", "werent", "sure", "what", "went", "wrong", "and", "when", "I", "decided", "to", "do", "a", "pop", "in", "visit", "to", "check", "on", "my", "dog", "he", "was", "laying", "on", "a", "cement", "cell", "with", "no", "a\\/c", "and", "it", "was", "over", "100", "degrees", "that", "day", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "werent", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "coolidge", "hospital", "never", "even", "called", "after", "I", "left", "that", "day", "and", "I", "have", "been", "going", "there", "for", "3", "yrs", "now", "with", "my", "dogs", "."], "e1_text": "called", "e1_pos": 5, "e2_text": "left", "e2_pos": 8, "label": "after"}
+]

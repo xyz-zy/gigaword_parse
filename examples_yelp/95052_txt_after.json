@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "a", "capper", ",", "they", "brought", "out", "my", "cold", ",", "burnt", ",", "lifeless", "cheese", "bread", "about", "10", "minutes", "after", "the", "rest", "of", "the", "meal", "arrived", "."], "e1_text": "brought", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 24, "label": "after"},
+{"tokens": ["He", "passed", "by", "our", "table", "literally", "a", "hundred", "times", "during", "the", "course", "of", "the", "meal", ",", "but", "actually", "stopped", "exactly", "4", "times", ":", "Once", "to", "take", "our", "order", "-LRB-", "somebody", "else", "took", "the", "drink", "order", "-RRB-", ",", "once", "about", "45", "minutes", "later", "to", "apologize", "for", "the", "delay", ",", "once", "after", "being", "flagged", "down", "by", "my", "wife", "to", "re-up", "our", "long-empty", "drinks", ",", "and", "once", "to", "drop", "the", "check", "."], "e1_text": "apologize", "e1_pos": 43, "e2_text": "being", "e2_pos": 50, "label": "after"}
+]

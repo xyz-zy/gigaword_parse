@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "when", "I", "went", "in", ",", "after", "having", "to", "call", "and", "book", "my", "appt", "over", "a", "month", "ago", "which", "was", "difficult", "to", "make", "in", "a", "shorter", "notice", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

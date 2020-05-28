@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "and", "I", "were", "on", "our", "way", "back", "to", "our", "cars", "after", "watching", "the", "Mac", "King", "Comedy", "Show", "at", "Harrah", "'s", "when", "we", "stumbled", "across", "a", "group", "of", "people", "gathered", "around", "this", "place", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "watching", "e2_pos": 13, "label": "after"},
+{"tokens": ["Once", "you", "'ve", "selected", "those", "things", "you", "can", "choose", "to", "add", "as", "many", "toppings", "as", "you", "'d", "like", "although", "I", "would", "n't", "add", "more", "than", "3", "or", "4", "as", "it", "beings", "to", "get", "pricey", "after", "that", "."], "e1_text": "add", "e1_pos": 10, "e2_text": "beings", "e2_pos": 30, "label": "after"}
+]

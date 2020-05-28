@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "desperate", "for", "a", "drink", "after", "trying", "the", "fried", "pickles", "...", "or", "at", "least", "that", "is", "what", "I", "think", "they", "were", "before", "the", "cook", "decided", "to", "keep", "them", "in", "the", "fryer", "until", "they", "were", "puck-like", "."], "e1_text": "were", "e1_pos": 21, "e2_text": "decided", "e2_pos": 25, "label": "before"}
+]

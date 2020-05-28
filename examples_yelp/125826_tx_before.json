@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "that", "was", "n't", "terrible", ",", "they", "just", "did", "n't", "come", "by", "very", "often", "and", "we", "ordered", "before", "the", "rest", "of", "our", "group", "came", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "got", "our", "food", "right", "before", "they", "walked", "in", "and", "the", "waiter", "came", "back", "maybe", "20", "minutes", "later", "but", "we", "were", "already", "done", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "walked", "e2_pos": 7, "label": "before"}
+]

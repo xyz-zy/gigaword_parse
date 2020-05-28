@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "should", "know", "you", "can", "do", "bottle", "service", "and", "get", "a", "table", "for", "a", "show", ",", "but", "decide", "that", "before", "you", "buy", "your", "first", "round", "."], "e1_text": "decide", "e1_pos": 17, "e2_text": "buy", "e2_pos": 21, "label": "before"},
+{"tokens": ["So", "there", "were", "a", "ton", "of", "teens", ",", "including", "the", "ones", "standing", "in", "front", "of", "us", "whom", "at", "first", "I", "was", "hoping", "would", "leave", "to", "go", "to", "the", "bar", "-LRB-", "before", "I", "realized", "they", "were", "probably", "underage", "-RRB-", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "realized", "e2_pos": 32, "label": "before"}
+]

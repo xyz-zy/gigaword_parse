@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "it", "was", "the", "fact", "that", "I", "told", "them", "their", "organization", "at", "this", "location", "is", "crap", "and", "that", "after", "months", "of", "being", "open", "the", "Management", "staff", "should", "have", "these", "issues", "resolved", "."], "e1_text": "told", "e1_pos": 8, "e2_text": "being", "e2_pos": 22, "label": "after"},
+{"tokens": ["Its", "sad", "really", ",", "I", "am", "sure", "Mark", "Russell", "did", "not", "build", "his", "empire", "on", "idiots", "however", "after", "dealing", "with", "this", "location", "on", "several", "occasions", "I", "question", "that", "."], "e1_text": "build", "e1_pos": 11, "e2_text": "dealing", "e2_pos": 18, "label": "after"}
+]

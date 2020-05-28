@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "Jason", "would", "n't", "shut", "up", "about", "the", "Bang", "Bang", "shrimp", "since", "he", "'d", "had", "it", "while", "on", "TDY", "in", "Florida", ",", "so", "naturally", "after", "we", "rolled", "by", "Bonefish", "Grill", "after", "a", "day", "shopping", "at", "Town", "Square", ",", "we", "had", "to", "make", "plans", "to", "visit", "."], "e1_text": "shut", "e1_pos": 4, "e2_text": "rolled", "e2_pos": 26, "label": "after"},
+{"tokens": ["We", "did", "so", "a", "couple", "weeks", "later", "after", "the", "Wine", "Walk", "in", "Town", "Square", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "Walk", "e2_pos": 10, "label": "after"}
+]

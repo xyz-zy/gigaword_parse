@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "grab", "some", "dinner", "here", "before", "heading", "to", "a", "show", "at", "the", "Benedum", "."], "e1_text": "grab", "e1_pos": 3, "e2_text": "heading", "e2_pos": 8, "label": "before"},
+{"tokens": ["5-10", "minutes", "later", ",", "which", "I", "feel", "is", "a", "reasonable", "amount", "of", "time", "to", "wait", ",", "we", "asked", "if", "the", "bf", "could", "just", "use", "the", "women", "'s", "bathroom", "given", "that", "they", "have", "a", "locked", "bathroom", "policy", "-LRB-", "he", "drank", "a", "lot", "of", "water", "before", "heading", "here", "-RRB-", "."], "e1_text": "drank", "e1_pos": 38, "e2_text": "heading", "e2_pos": 44, "label": "before"}
+]

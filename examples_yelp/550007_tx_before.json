@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "a", "party", "of", "5", ",", "and", "arrived", "early", "because", "people", "told", "us", "the", "line", "was", "long", "and", "we", "should", "plan", "on", "waiting", "a", "while", "before", "being", "seated", "."], "e1_text": "waiting", "e1_pos": 23, "e2_text": "being", "e2_pos": 27, "label": "before"},
+{"tokens": ["In", "the", "restroom", "there", "is", "a", "sign", "that", "states", ":", "''", "``", "Employees", "must", "wash", "their", "hands", "before", "returning", "to", "work", "''", "''", "."], "e1_text": "wash", "e1_pos": 14, "e2_text": "returning", "e2_pos": 18, "label": "before"}
+]

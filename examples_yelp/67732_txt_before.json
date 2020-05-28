@@ -1,0 +1,4 @@
+[
+{"tokens": ["Second", "time", "I", "came", "in", ",", "I", "came", "specifically", "to", "apply", "for", "credit", "which", "was", "a", "lengthy", "process", "but", "I", "would", "rather", "know", "how", "much", "I", "'m", "approved", "for", "ahead", "of", "time", "before", "I", "find", "something", "fall", "in", "love", "and", "ca", "n't", "have", "it", "."], "e1_text": "approved", "e1_pos": 27, "e2_text": "find", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "arrived", "an", "hour", "before", "they", "closed", "and", "once", "we", "were", "done", "she", "asked", "about", "a", "delivery", "date", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "closed", "e2_pos": 6, "label": "before"}
+]

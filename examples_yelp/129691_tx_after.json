@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "love", "me", "some", "games", "and", "had", "a", "good", "time", "but", "after", "about", "45", "minutes", "I", "did", "n't", "know", "what", "to", "do", "with", "myself", "."], "e1_text": "do", "e1_pos": 1, "e2_text": "did", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "almost", "ripped", "off", "my", "shirt", "and", "challenged", "AJ", "to", "a", "topless", "game", "of", "beach", "volleyball", "after", "a", "few", "successful", "bombing", "missions", ",", "'cause", "that", "is", "what", "all", "gay", "fighter", "pilots", "do", "...", "right", "?"], "e1_text": "challenged", "e1_pos": 7, "e2_text": "is", "e2_pos": 25, "label": "after"}
+]

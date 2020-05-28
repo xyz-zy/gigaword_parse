@@ -1,0 +1,4 @@
+[
+{"tokens": ["Issue", "#", "1", ":", "Girlfriend", "had", "arranged", "for", "a", "gift", "basket", "and", "birthday", "cake", "as", "well", "as", "reservations", "at", "a", "restaurant", "to", "be", "made", "before", "we", "arrived", "at", "the", "resort", "and", "charged", "to", "the", "room", "do", "to", "it", "being", "my", "birthday", "."], "e1_text": "made", "e1_pos": 23, "e2_text": "arrived", "e2_pos": 26, "label": "before"},
+{"tokens": ["Warning", "signals", "go", "off", "here", "because", "you", "would", "think", "that", "the", "frontdesk", "would", "call", "them", "first", "before", "I", "had", "to", "."], "e1_text": "call", "e1_pos": 13, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

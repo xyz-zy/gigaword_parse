@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "paid", "for", "the", "$", "6", "wash", "and", "after", "waiting", "about", "20", "minutes", "was", "on", "the", "road", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "waiting", "for", "the", "cashier", "to", "come", "back", "in", "after", "helping", "someone", "with", "propane", ",", "I", "nicely", "asked", "him", "to", "allow", "me", "to", "run", "my", "car", "through", "for", "no", "charge", "and", "he", "then", "looked", "at", "me", "like", "I", "was", "crazy", "and", "denied", "the", "fact", "that", "a", "rain", "guarantee", "exists", "in", "this", "world", "anywhere", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "helping", "e2_pos": 10, "label": "after"}
+]

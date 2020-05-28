@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "went", "in", ",", "the", "two", "clerks", "were", "busy", "gossiping", "over", "another", "employee", "for", "at", "least", "15", "minutes", "before", "they", "realized", "someone", "had", "been", "in", "the", "store", "."], "e1_text": "were", "e1_pos": 8, "e2_text": "realized", "e2_pos": 21, "label": "before"}
+]

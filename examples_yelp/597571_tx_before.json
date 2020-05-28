@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", ",", "I", "purchased", "a", "bedframe", "-LRB-", "again", "very", "reasonably", "priced", "for", "the", "quality", ",", "esp", "when", "compared", "to", "another", "nearby", "showroom", "I", "checked", "right", "before", "-RRB-", "and", "plan", "to", "return", "for", "a", "dining", "room", "table", "in", "the", "next", "couple", "months", "."], "e1_text": "priced", "e1_pos": 10, "e2_text": "checked", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pro", "'s", ":", "unique", ",", "good", "tasting", "food", "CONS", ":", "1", "-RRB-", "pompous", ",", "poor", "service", "2", "-RRB-", "very", "expensive", "3", "-RRB-", "incredibly", "small", "portions", "I", "had", "to", "go", "to", "Wendy", "'s", "afterwards", "because", "I", "was", "still", "hungry", ",", "and", "after", "spending", "$", "80", "."], "e1_text": "was", "e1_pos": 35, "e2_text": "spending", "e2_pos": 41, "label": "after"}
+]

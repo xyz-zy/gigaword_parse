@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "girlfriends", "and", "I", "were", "having", "lunch", "at", "Pho", "So", "1", "before", "heading", "home", "after", "a", "bachelorette", "party", "this", "past", "wkend", "and", "I", "happen", "to", "see", "this", "nail", "place", "in", "the", "same", "plaza", "."], "e1_text": "having", "e1_pos": 5, "e2_text": "wkend", "e2_pos": 20, "label": "before"},
+{"tokens": ["After", "everyone", "had", "to", "drive", "home", "or", "fly", "home", ",", "only", "me", "and", "another", "gf", "were", "left", "and", "I", "had", "some", "time", "to", "spare", "before", "I", "flew", "home", "so", "we", "decided", "to", "get", "our", "nails", "done", "."], "e1_text": "spare", "e1_pos": 23, "e2_text": "flew", "e2_pos": 26, "label": "before"}
+]

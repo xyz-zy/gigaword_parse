@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'ll", "take", "you", "30", "min", "before", "you", "even", "sit", "down", "at", "a", "table", "-LRB-", "if", "you", "can", "find", "an", "empty", "one", "-RRB-", "because", "the", "line", "for", "the", "two", "toasters", "is", "freaking", "long", "and", "everyone", "is", "toasting", "for", "them", "plus", "their", "five", "family", "members", "-LRB-", "read", ":", "toaster", "hoggers", "and", "their", "neverending", "towers", "of", "bread", "-RRB-", "."], "e1_text": "take", "e1_pos": 2, "e2_text": "sit", "e2_pos": 9, "label": "before"}
+]

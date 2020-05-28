@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "randomly", "bc", "we", "had", "celebrated", "our", "V-day", "dinner", "on", "Sunday", "and", "had", "time", "to", "kill", "before", "watching", "Phantom", "of", "the", "Opera", "."], "e1_text": "kill", "e1_pos": 16, "e2_text": "watching", "e2_pos": 18, "label": "before"},
+{"tokens": ["Maybe", "it", "'s", "because", "we", "only", "had", "10", "min", "to", "eat", "after", "our", "entree", "arrived", "before", "we", "had", "to", "dash", "over", "to", "catch", "our", "9:30", "show", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "had", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "the", "people", "in", "our", "party", "ordered", "one", "of", "their", "''", "``", "specials", "''", "''", "and", "was", "not", "informed", "they", "were", "out", "of", "it", "until", "about", "1", "minute", "before", "everyone", "elses", "food", "came", "out", ",", "he", "ended", "up", "getting", "his", "entree", "right", "about", "the", "same", "time", "the", "rest", "of", "us", "were", "finishing", "ours", "-LRB-", "not", "cool", "-RRB-", "."], "e1_text": "were", "e1_pos": 21, "e2_text": "came", "e2_pos": 33, "label": "before"}
+]

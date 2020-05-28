@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "have", "to", "get", "a", "shuttle", "pass", "for", "the", "return", "trip", "to", "Las", "Vegas", "and", "I", "never", "heard", "anybody", "tell", "me", "that", ",", "so", "we", "missed", "a", "couple", "of", "shuttles", "before", "we", "figured", "it", "out", "."], "e1_text": "missed", "e1_pos": 25, "e2_text": "figured", "e2_pos": 32, "label": "before"}
+]

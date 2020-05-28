@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", "brought", "us", "the", "check", "as", "soon", "as", "the", "plates", "were", "cleared", "and", "she", "never", "asked", "us", "if", "we", "wanted", "desert", "or", "anything", "else", "before", "the", "check", "came", "."], "e1_text": "wanted", "e1_pos": 20, "e2_text": "came", "e2_pos": 28, "label": "before"},
+{"tokens": ["When", "we", "paid", "for", "lunch", "the", "server", "brought", "just", "1", "pen", "so", "I", "waited", "for", "my", "friend", "to", "sign", "and", "give", "me", "the", "pen", ",", "but", "the", "waitress", "came", "by", "too", "fast", "and", "grabbed", "the", "one", "signed", "receipt", "before", "I", "had", "a", "chance", "to", "sign", "mine", "."], "e1_text": "signed", "e1_pos": 36, "e2_text": "had", "e2_pos": 40, "label": "before"}
+]

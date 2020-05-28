@@ -1,0 +1,4 @@
+[
+{"tokens": ["Judging", "from", "the", "website", "this", "looked", "like", "a", "really", "special", "place", ",", "so", "I", "went", "to", "go", "check", "it", "out", "before", "I", "made", "a", "reservation", "."], "e1_text": "check", "e1_pos": 17, "e2_text": "made", "e2_pos": 22, "label": "before"},
+{"tokens": ["There", "was", "one", "waitress", "in", "the", "whole", "place", "which", "would", "have", "been", "fine", "if", "she", "was", "experienced", "and", "didnt", "have", "10", "stitches", "in", "her", "hand", "from", "a", "dishwashing", "accident", "a", "few", "days", "before", ".", "."], "e1_text": "been", "e1_pos": 11, "e2_text": "have", "e2_pos": 19, "label": "before"}
+]

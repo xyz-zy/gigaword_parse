@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "Paul", "Krendler", "said", "to", "Dr.", "Hannibal", "Lecter", "while", "drinking", "drugged", "broth", "before", "Lecter", "fed", "him", "bites", "of", "his", "own", "brain", ",", "''", "``", "It", "'s", "not", "very", "good", ",", "Buddy", ".", "''", "''"], "e1_text": "broth", "e1_pos": 11, "e2_text": "fed", "e2_pos": 14, "label": "before"}
+]

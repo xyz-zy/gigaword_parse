@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "by", "the", "buffet", "at", "Treasure", "for", "dinner", "before", "going", "to", "the", "Cirque", "de", "Soleil", "show", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "'d", "never", "been", "to", "a", "casino", "dinner", "buffet", "before", "so", "I", "did", "n't", "really", "know", "what", "to", "expect", "quality-wise", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "did", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Update", ":", "Contacted", "the", "manager", "after", "the", "review", "was", "posted", "and", "never", "got", "a", "call", "back", "."], "e1_text": "Contacted", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["Abandoned", "the", "customer", "because", "it", "was", "hard", "communicating", "with", "the", "dealership", "after", "a", "diagnosis", "was", "paid", "."], "e1_text": "communicating", "e1_pos": 7, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

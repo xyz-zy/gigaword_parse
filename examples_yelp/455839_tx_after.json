@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "comped", "day", "bed", ",", "which", "I", "was", "very", "grateful", "for", ",", "but", "I", "showed", "up", "late", "to", "my", "reservation", "due", "to", "trying", "to", "locate", "some", "loved", "ones", "who", "are", "deployed", "after", "hearing", "about", "the", "recent", "accident", "in", "Afghanistan", "."], "e1_text": "deployed", "e1_pos": 32, "e2_text": "hearing", "e2_pos": 34, "label": "after"},
+{"tokens": ["We", "were", "about", "to", "pay", "for", "a", "day", "bed", ",", "but", "after", "walking", "in", "to", "check", "out", "the", "place", ",", "decided", "it", "was", "way", "too", "crowded", "and", "sweaty", "."], "e1_text": "decided", "e1_pos": 20, "e2_text": "walking", "e2_pos": 12, "label": "after"}
+]

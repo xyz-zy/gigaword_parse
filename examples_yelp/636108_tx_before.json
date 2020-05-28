@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "drinks", "came", "before", "our", "water", "glasses", "were", "filled", ",", "but", "my", "friend", "ordered", "a", "pitcher", "of", "sangria", ",", "and", "finally", "had", "to", "get", "up", "and", "get", "a", "glass", "for", "herself", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "before"}
+]

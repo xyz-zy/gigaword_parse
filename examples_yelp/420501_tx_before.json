@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tonight", "...", "I", "went", "in", "before", "the", "rest", "of", "the", "family", "and", "tried", "to", "order", "drinks", "and", "the", "conversation", "went", "like", "this", ":", "Me", ":", "''", "``", "Do", "you", "have", "Sierra", "Mist", "?", "''", "''"], "e1_text": "went", "e1_pos": 3, "e2_text": "Do", "e2_pos": 27, "label": "before"},
+{"tokens": ["Pork", "skewers", "arrive", "10", "minutes", "before", "anything", "else", "arrives", "at", "the", "table", "looking", "like", "they", "were", "put", "on", "the", "fire", "2", "months", "ago", "-", "and", "never", "left", "."], "e1_text": "arrive", "e1_pos": 2, "e2_text": "arrives", "e2_pos": 8, "label": "before"}
+]

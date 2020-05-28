@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "there", "on", "a", "Friday", "night", "after", "driving", "around", "forever", "trying", "to", "decide", "what", "we", "wanted", "and", "the", "wait", "at", "the", "bar", "was", "brief", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "driving", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "n't", "had", "any", "friends", "who", "tried", "this", "before", "so", "we", "did", "n't", "know", "how", "it", "was", "like", "."], "e1_text": "tried", "e1_pos": 7, "e2_text": "did", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "each", "had", "ordered", "a", "New", "England", "Clam", "Chowder", "but", "were", "kind", "of", "hesitant", "to", "eat", "too", "much", "of", "it", "so", "we", "do", "n't", "fill", "up", "and", "be", "full", "before", "the", "main", "attraction", "arrives", "."], "e1_text": "be", "e1_pos": 27, "e2_text": "arrives", "e2_pos": 33, "label": "before"}
+]

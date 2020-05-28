@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "the", "best", "meal", "I", "have", "had", "in", "Vegas", "-LRB-", "after", "working", "in", "Vegas", "for", "6", "+", "months", "-RRB-", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "working", "e2_pos": 12, "label": "after"}
+]

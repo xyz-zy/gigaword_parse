@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "brought", "out", "HOT", ",", "just", "what", "you", "'d", "expect", "after", "almost", "a", "half", "hour", "waiting", "to", "be", "seated", "and", "an", "additional", "half", "hour", "to", "get", "our", "food", ",", "which", "we", "ordered", "right", "when", "we", "sat", "down", "...", "and", "after", "all", "that", "wait", ",", "my", "food", "was", "overcooked", "-LRB-", "chicken", "and", "waffles", "-RRB-", "."], "e1_text": "expect", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Because", "when", "I", "went", "back", "to", "get", "my", "custom", "insoles", "that", "I", "had", "done", "on", "a", "Friday", "on", "that", "Monday", ",", "they", "had", "already", "been", "tossed", "-LRB-", "even", "after", "I", "said", "I", "was", "coming", "back", "-RRB-", "so", "I", "had", "to", "get", "refitted", "again", "."], "e1_text": "tossed", "e1_pos": 25, "e2_text": "said", "e2_pos": 30, "label": "after"}
+]

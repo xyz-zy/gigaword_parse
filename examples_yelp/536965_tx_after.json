@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "only", "complaint", "is", "that", "shortly", "after", "we", "were", "noshing", "on", "the", "app", ",", "we", "got", "our", "main", "events", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "each", "had", "a", "cup", "of", "the", "hyped", "''", "``", "Best", "Coffee", "in", "LA", "''", "''", "-LRB-", "still", "do", "n't", "understand", "what", "that", "meant", ",", "even", "after", "I", "asked", "our", "sweet", "energetic", "server", "-RRB-", "and", "split", "a", "piece", "of", "the", "7-layer", "carrot", "cake", "."], "e1_text": "understand", "e1_pos": 20, "e2_text": "asked", "e2_pos": 28, "label": "after"}
+]

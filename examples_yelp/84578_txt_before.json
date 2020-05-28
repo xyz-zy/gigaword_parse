@@ -1,0 +1,3 @@
+[
+{"tokens": ["Those", "options", "should", "include", "a", "light", "cheap", "appetizer", "menu", ",", "where", "the", "average", "price", "is", "n't", "$", "12", ",", "wait", "service", "for", "the", "waiting", "area", ",", "which", "already", "has", "tables", "for", "drinks", ",", "and", "a", "drink", "menu", "that", "will", "not", "break", "people", "before", "they", "ever", "sit", "down", "."], "e1_text": "break", "e1_pos": 40, "e2_text": "sit", "e2_pos": 45, "label": "before"}
+]

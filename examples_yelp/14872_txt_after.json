@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walked", "to", "the", "bar", "for", "our", "second", "round", "of", "drinks", "after", "waiting", "with", "empty", "glasses", "for", "about", "15", "minutes", "-LRB-", "the", "same", "amount", "of", "time", "it", "took", "us", "to", "get", "our", "first", "round", "-RRB-", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

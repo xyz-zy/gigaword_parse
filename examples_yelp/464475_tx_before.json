@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "stuck", "in", "a", "room", "with", "no", "air", "conditioning", "for", "3", "days", "before", "they", "moved", "me", "into", "a", "different", "room", ",", "not", "before", "treating", "me", "like", "a", "stupid", "person", "suggesting", "I", "did", "n't", "know", "how", "to", "operate", "the", "machine", "."], "e1_text": "stuck", "e1_pos": 2, "e2_text": "moved", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "needed", "to", "stand", "in", "line", "at", "the", "very", "slow", "front", "desk", ",", "every", "day", ",", "before", "they", "sent", "a", "''", "``", "house", "keeper", "''", "''", "not", "the", "maintenance", "person", "to", "check", "up", "the", "air", "conditioning", "."], "e1_text": "stand", "e1_pos": 3, "e2_text": "sent", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "to", "avoid", "traffic", "before", "heading", "back", "to", "Cali", "."], "e1_text": "avoid", "e1_pos": 3, "e2_text": "heading", "e2_pos": 6, "label": "before"},
+{"tokens": ["Would", "consider", "coming", "here", "again", "if", "I", "needed", "to", "kill", "time", "before", "heading", "home", "."], "e1_text": "kill", "e1_pos": 9, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

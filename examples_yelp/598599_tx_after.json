@@ -1,0 +1,5 @@
+[
+{"tokens": ["Started", "off", "bad", "-", "we", "waited", "45", "+", "minutes", "-LRB-", "after", "we", "were", "told", "that", "it", "would", "be", "a", "25", "minute", "wait", "-RRB-", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "were", "e2_pos": 12, "label": "after"},
+{"tokens": ["They", "did", "come", ";", "after", "the", "main", "entrees", "were", "brought", "and", "I", "asked", "why", "we", "had", "n't", "gotten", "our", "salads", "."], "e1_text": "come", "e1_pos": 2, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["So", ",", "we", "ate", "our", "salads", "and", "packed", "our", "steaks", "to", "go", "-", "we", "simply", "were", "n't", "hungry", "anymore", "since", "the", "appetizer", ",", "bread", "had", "filled", "us", "up", ",", "especially", "after", "we", "ate", "the", "salads", "."], "e1_text": "filled", "e1_pos": 25, "e2_text": "ate", "e2_pos": 3, "label": "after"}
+]

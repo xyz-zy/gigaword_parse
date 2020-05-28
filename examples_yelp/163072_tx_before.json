@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "though", "I", "'ve", "seen", "this", "show", "before", "it", "was", "great", "the", "second", "time", "around", "."], "e1_text": "show", "e1_pos": 6, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["There", "were", "things", "I", "did", "n't", "catch", "before", "and", "the", "audience", "interaction", "always", "makes", "it", "different", "so", "that", "'s", "great", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "did", "e2_pos": 4, "label": "before"}
+]

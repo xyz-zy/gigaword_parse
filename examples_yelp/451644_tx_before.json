@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "know", "when", "airlines", "started", "taking", "away", "all", "the", "little", "things", "that", "you", "did", "n't", "realize", "were", "little", "things", "that", "you", "appreciated", "before", "."], "e1_text": "were", "e1_pos": 16, "e2_text": "appreciated", "e2_pos": 21, "label": "before"},
+{"tokens": ["Well", ",", "Bally", "'s", "is", "like", "those", "airlines", "that", "has", "taken", "away", "all", "those", "little", "things", "that", "you", "did", "n't", "totally", "appreciate", "before", "."], "e1_text": "taken", "e1_pos": 10, "e2_text": "did", "e2_pos": 18, "label": "before"}
+]

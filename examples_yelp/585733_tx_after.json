@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "mind", "the", "wait", "to", "get", "in", "but", "the", "hour", "long", "wait", "to", "get", "my", "burger", "on", "top", "of", "waiting", "an", "hour", "to", "get", "in", "was", "accompanied", "by", "waiting", "almost", "another", "hour", "after", "I", "had", "to", "send", "my", "food", "back", "."], "e1_text": "waiting", "e1_pos": 21, "e2_text": "had", "e2_pos": 36, "label": "after"},
+{"tokens": ["It", "was", "n't", "until", "after", "I", "visibly", "looked", "upset", "that", "another", "server", "offered", "me", "coffee", "while", "I", "waited", ",", "which", "I", "was", "charged", "for", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "looked", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "very", "frustrating", "to", "find", "out", "what", "not", "to", "do", "after", "you", "'ve", "already", "done", "it", ",", "and", "now", "you", "'ve", "been", "told", "how", "it", "will", "mess", "up", "your", "painting", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "'ve", "e2_pos": 13, "label": "after"},
+{"tokens": ["-", "when", "I", "ran", "out", "of", "blue", "paint", "I", "asked", "for", "more", "-LRB-", "the", "paint", "jars", "were", "not", "set", "up", "to", "be", "a", "help", "yourself", "-", "no", "labels", "or", "anything", "-RRB-", "and", "was", "given", "a", "stern", "look", "by", "the", "instructor", "after", "she", "checked", "my", "plate", "to", "ensure", "I", "really", "did", "need", "more", "."], "e1_text": "given", "e1_pos": 33, "e2_text": "checked", "e2_pos": 42, "label": "after"}
+]

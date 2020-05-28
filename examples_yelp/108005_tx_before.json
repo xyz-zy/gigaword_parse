@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "at", "the", "dealer", "-LRB-", "it", "was", "a", "bit", "confusing", "about", "where", "to", "go", "to", "actually", "get", "to", "the", "service", "area", "-RRB-", "and", "was", "told", "that", "the", "car", "would", "have", "to", "stay", "overnight", "because", "there", "is", "no", "way", "it", "would", "be", "done", "before", "they", "closed", "."], "e1_text": "done", "e1_pos": 42, "e2_text": "closed", "e2_pos": 45, "label": "before"}
+]

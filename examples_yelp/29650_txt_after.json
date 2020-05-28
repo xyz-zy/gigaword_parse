@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "among", "the", "last", "customers", "and", "actually", "got", "locked", "in", "the", "restaurant", "because", "all", "the", "staff", "went", "home", "after", "we", "tipped", "a", "generous", "20", "%", "Eventually", "someone", "from", "the", "kitchen", "let", "us", "out", "the", "side", "door", "."], "e1_text": "went", "e1_pos": 17, "e2_text": "tipped", "e2_pos": 21, "label": "after"}
+]

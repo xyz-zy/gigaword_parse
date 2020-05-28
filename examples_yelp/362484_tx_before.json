@@ -1,0 +1,4 @@
+[
+{"tokens": ["Top", "3", "high\\/lowlights", "1", "-RRB-", "good", "food", "2", "-RRB-", "slow", "service", "3", "-RRB-", "atmosphere", "is", "''", "``", "mediocre", "hotel", "restaurant", "''", "''", "I", "came", "to", "Dayton", "Street", "Grille", "on", "a", "Friday", "night", "at", "545pm", "before", "heading", "to", "a", "performance", "at", "the", "Overture", "Center", "."], "e1_text": "came", "e1_pos": 23, "e2_text": "heading", "e2_pos": 35, "label": "before"},
+{"tokens": ["If", "you", "are", "looking", "for", "a", "place", "to", "eat", "dinner", "before", "heading", "to", "the", "Overture", "Center", ",", "I", "would", "recommend", "Icon", "which", "is", "right", "across", "the", "street", "or", "any", "of", "the", "restaurants", "on", "the", "square", ",", "just", "one", "block", "further", "from", "Dayton", "Street", "Grille", "."], "e1_text": "eat", "e1_pos": 8, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "why", "the", "other", "reviewer", "only", "gave", "this", "place", "one", "star", "after", "basically", "saying", "she", "likes", "it", "."], "e1_text": "gave", "e1_pos": 9, "e2_text": "saying", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "did", "n't", "feel", "rushed", "either", "and", "was", "able", "to", "post", "my", "pics", "and", "write", "this", "review", "after", "finishing", "my", "lunch", "."], "e1_text": "write", "e1_pos": 14, "e2_text": "finishing", "e2_pos": 18, "label": "after"}
+]

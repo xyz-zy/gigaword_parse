@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fixtures", "in", "the", "bath", "tub", "were", "loose", "and", "the", "cold", "water", "dripped", "after", "turning", "the", "faucet", "off", "."], "e1_text": "dripped", "e1_pos": 12, "e2_text": "turning", "e2_pos": 14, "label": "after"}
+]

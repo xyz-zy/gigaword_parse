@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "irritated", "that", "they", "still", "had", "n't", "fixed", "it", ",", "and", "outraged", "they", "did", "n't", "bother", "to", "make", "sure", "it", "was", "running", "correctly", "before", "having", "her", "come", "down", "to", "pick", "it", "up", "."], "e1_text": "running", "e1_pos": 22, "e2_text": "having", "e2_pos": 25, "label": "before"},
+{"tokens": ["One", "of", "the", "Abra", "agents", "claimed", "he", "had", "test-driven", "it", "that", "morning", "and", "that", "it", "had", "run", "fine", ",", "but", "the", "car", "was", "noisy", "and", "smoking", "before", "she", "had", "even", "gotten", "out", "of", "the", "parking", "lot", "."], "e1_text": "was", "e1_pos": 22, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

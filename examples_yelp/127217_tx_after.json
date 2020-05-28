@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "are", "taking", "the", "shuttle", "from", "the", "hotel", ",", "this", "is", "one", "of", "the", "first", "stops", "because", "it", "is", "on", "like", "the", "first", "corner", "after", "you", "turn", "onto", "Las", "Vegas", "Blvd.", "."], "e1_text": "is", "e1_pos": 11, "e2_text": "turn", "e2_pos": 27, "label": "after"}
+]

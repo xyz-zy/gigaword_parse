@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "that", "the", "animals", "I", "'m", "interested", "in", "are", "recovering", "from", "abuse", ",", "and", "had", "intended", "to", "start", "what", "might", "be", "a", "long", "process", "of", "me", "visiting", "once", "a", "week", "to", "help", "the", "dog", "get", "used", "to", "me", "before", "we", "bring", "up", "our", "pointer", "to", "meet", "them", "."], "e1_text": "visiting", "e1_pos": 27, "e2_text": "bring", "e2_pos": 41, "label": "before"},
+{"tokens": ["He", "goes", "on", "to", "tell", "me", "about", "how", "the", "dog", "is", "n't", "really", "good", "with", "people", "other", "than", "the", "volunteers", ",", "and", "that", "he", "bit", "someone", "a", "while", "back", "...", "Now", ",", "I", "'d", "called", "a", "few", "days", "before", ",", "and", "was", "forewarned", "that", "the", "dog", "was", "''", "``", "nippy", ".", "''", "''"], "e1_text": "tell", "e1_pos": 4, "e2_text": "is", "e2_pos": 10, "label": "before"}
+]

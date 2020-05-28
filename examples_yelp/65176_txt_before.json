@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "who", "ordered", "from", "the", "sushi", "menu", "got", "his", "food", "before", "the", "tepan", "chef", "even", "came", "out", "for", "our", "orders", ",", "which", "I", "thought", "was", "a", "little", "uncoordinated", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "came", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "'ve", "been", "to", "a", "teppan-style", "restaurant", "before", "that", "does", "this", "''", "``", "presentation", ",", "''", "''", "but", "for", "my", "friend", "who", "had", "n't", ",", "he", "did", "n't", "even", "know", "there", "was", "going", "to", "be", "a", "show", "!"], "e1_text": "been", "e1_pos": 2, "e2_text": "does", "e2_pos": 9, "label": "before"}
+]

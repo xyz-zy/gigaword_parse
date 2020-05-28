@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lol", "!!!", "After", "checking", "in", "at", "Hawaiian", "Airlines", ",", "passing", "the", "TSA", "screening", "area", ",", "catching", "the", "monorail", "to", "Terminal", "3", "...", "...", "it", "was", "time", "to", "sit", "down", ",", "relax", ",", "&", "get", "something", "to", "eat", "before", "I", "board", "my", "flight", "home", "."], "e1_text": "eat", "e1_pos": 36, "e2_text": "board", "e2_pos": 39, "label": "before"}
+]

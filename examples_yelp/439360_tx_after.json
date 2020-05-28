@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "in", "to", "get", "4", "new", "tires", ",", "30mins", "after", "I", "left", ",", "my", "car", "shuts", "down", "completely", ",", "found", "out", "my", "battery", "was", "drained", ",", "-LRB-", "9month", "old", "battery", "-RRB-", "They", "wanted", "to", "charge", "me", "to", "install", "a", "new", "battery", ",", "plus", "they", "wanted", "to", "sell", "a", "battery", "that", "was", "$", "80", "more", "than", "what", "I", "paid", "for", "next", "door", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "left", "e2_pos": 12, "label": "after"}
+]

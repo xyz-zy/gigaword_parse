@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "the", "room", "was", "for", "my", "bachelor", "party", "and", "was", "unable", "to", "get", "a", "bigger", "room", "even", "after", "tipping", "and", "paying", "for", "the", "most", "expensive", "night", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "tipping", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "would", "not", "request", "this", "place", "after", "be", "treated", "so", "poorly", "as", "a", "Platinum", "Mlife", "member", "!"], "e1_text": "request", "e1_pos": 3, "e2_text": "be", "e2_pos": 7, "label": "after"}
+]

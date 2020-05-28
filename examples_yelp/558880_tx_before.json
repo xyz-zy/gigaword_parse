@@ -1,0 +1,4 @@
+[
+{"tokens": ["Have", "eaten", "here", "a", "few", "times", "before", "&", "was", "very", "satisfied", "...", "UNTIL", "THIS", "VISIT", "service", "a", "little", "slow", "had", "to", "wait", "30", "mins", "."], "e1_text": "eaten", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "may", "have", "to", "rethink", "this", "visit", "before", "we", "go", "back", "again", "."], "e1_text": "rethink", "e1_pos": 4, "e2_text": "go", "e2_pos": 9, "label": "before"}
+]

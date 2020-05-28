@@ -1,0 +1,3 @@
+[
+{"tokens": ["Something", "happened", "to", "the", "heated", "water", "under", "the", "steamers", ",", "and", "some", "of", "the", "food", "had", "cooled", "somewhat", "before", "they", "got", "it", "back", "up", "to", "piping", "hot", "."], "e1_text": "cooled", "e1_pos": 16, "e2_text": "got", "e2_pos": 20, "label": "before"}
+]

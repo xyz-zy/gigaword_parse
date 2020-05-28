@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "going", "to", "a", "sporting", "event", "in", "the", "area", "and", "decided", "to", "grab", "a", "bite", "before", "going", "into", "the", "game", "."], "e1_text": "grab", "e1_pos": 13, "e2_text": "going", "e2_pos": 2, "label": "before"},
+{"tokens": ["Should", "have", "kept", "an", "exact", "clock", "running", "on", "all", "of", "these", "visits", "as", "I", "am", "sure", "it", "was", "another", "10", "minutes", "at", "least", "before", "our", "waitress", "came", "by", "with", "one", "of", "the", "three", "refills", "requested", ",", "the", "alcoholic", "one", "of", "course", "and", "a", "promise", "that", "our", "dinner", "order", "was", "next", "up", "."], "e1_text": "am", "e1_pos": 14, "e2_text": "came", "e2_pos": 26, "label": "before"}
+]

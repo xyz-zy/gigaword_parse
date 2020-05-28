@@ -1,0 +1,3 @@
+[
+{"tokens": ["Normally", "this", "Safeway", "is", "ok", "for", "getting", "some", "groceries", "after", "visiting", "the", "US", "Bank", "inside", "of", "the", "store", ",", "but", "today", "not", "so", "."], "e1_text": "getting", "e1_pos": 6, "e2_text": "visiting", "e2_pos": 10, "label": "after"}
+]

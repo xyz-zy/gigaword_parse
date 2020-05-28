@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "was", "left", "to", "wander", "the", "Vegas", "strip", "after", "being", "awake", "since", "3:30", "am", "to", "catch", "my", "flight", "."], "e1_text": "wander", "e1_pos": 5, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "then", "returned", "to", "check", "in", "after", "they", "called", "me", "to", "tell", "me", "my", "room", "was", "ready", "-LRB-", "it", "was", "n't", "because", "they", "were", "being", "nice", ",", "I", "requested", "they", "do", "so", "and", "after", "much", "discussion", "she", "agreed", "to", "-RRB-", "We", "were", "excited", "to", "brush", "off", "the", "morning", "'s", "events", "and", "relax", "in", "the", "room", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "called", "e2_pos": 8, "label": "after"}
+]

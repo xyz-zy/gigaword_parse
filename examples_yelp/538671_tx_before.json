@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "tried", "dr", "perricone", "before", "but", "I", "'m", "excited", "to", "try", "this", "mask", "."], "e1_text": "tried", "e1_pos": 3, "e2_text": "'m", "e2_pos": 9, "label": "before"},
+{"tokens": ["She", "even", "tried", "it", "on", "me", "and", "waiting", "till", "I", "saw", "the", "results", "before", "I", "left", "."], "e1_text": "saw", "e1_pos": 10, "e2_text": "left", "e2_pos": 15, "label": "before"}
+]

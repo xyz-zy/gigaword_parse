@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "girl", "standing", "at", "the", "Host", "Podium", "is", "standing", "there", "with", "the", "stankest", "look", "on", "her", "face", "...", "I", "looked", "at", "my", "watch", "and", "realized", "it", "was", "2", "minutes", "before", "they", "closed", ".", "."], "e1_text": "was", "e1_pos": 26, "e2_text": "closed", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "told", "her", "I", "realized", "that", "she", "did", "n't", "want", "to", "help", "me", "because", "it", "was", "2", "minutes", "before", "they", "closed", "but", "the", "attitude", "was", "uncalled", "for", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "closed", "e2_pos": 20, "label": "before"}
+]

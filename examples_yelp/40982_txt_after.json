@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "town", "for", "a", "busy", "wedding", "weekend", "so", "there", "was", "no", "time", "for", "me", "to", "exchange", "the", "car", "at", "the", "airport", "like", "one", "of", "the", "other", "associates", "told", "me", "when", "I", "called", "Saturday", "morning", "after", "picking", "up", "the", "rental", "on", "Friday", "."], "e1_text": "called", "e1_pos": 33, "e2_text": "picking", "e2_pos": 37, "label": "after"},
+{"tokens": ["Again", ",", "did", "n't", "have", "time", "to", "exchange", "it", "after", "I", "realized", "that", "it", "was", "n't", "just", "me", "--", "my", "mom", "could", "smell", "it", "and", "see", "it", ",", "too", "."], "e1_text": "exchange", "e1_pos": 7, "e2_text": "realized", "e2_pos": 11, "label": "after"}
+]

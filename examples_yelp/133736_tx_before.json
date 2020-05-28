@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "an", "hour", "and", "45", "minutes", "before", "being", "being", "taken", "back", "to", "the", "exam", "room", ",", "but", "in", "all", "fairness", ",", "they", "did", "squeeze", "me", "in", "last", "minute", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "do", "n't", "mind", "waiting", ",", "but", "when", "I", "did", "see", "the", "doctor", "-LRB-", "after", "35", "minutes", "more", "of", "waiting", "in", "the", "exam", "room", "-RRB-", ",", "he", "would", "n't", "perform", "the", "cyst", "injection", "that", "I", "specifically", "called", "and", "asked", "if", "he", "would", "perform", "before", "going", "in", "."], "e1_text": "perform", "e1_pos": 29, "e2_text": "going", "e2_pos": 44, "label": "before"}
+]

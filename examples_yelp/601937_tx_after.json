@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "we", "actually", "left", "hungrier", "than", "when", "we", "arrived", "and", "grabbed", "a", "Little", "Caeser", "'s", "pizza", "because", "after", "spending", "$", "28", "on", "a", "non-dinner", "-LRB-", "including", "tip", "because", "it", "was", "n't", "the", "waitress", "'", "fault", "-RRB-", ",", "our", "budget", "for", "dinner", "was", "deflated", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "spending", "e2_pos": 18, "label": "after"}
+]

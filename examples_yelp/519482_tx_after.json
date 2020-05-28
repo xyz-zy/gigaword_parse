@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "our", "pizzas", "very", "shortly", "after", "-", "another", "great", "thing", "since", "our", "appetites", "were", "appropriately", "whet", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "usually", "comment", "more", "on", "the", "food", "than", "the", "service", ",", "but", "seems", "like", "ours", "took", "a", "severe", "nose", "dive", "after", "we", "got", "our", "pizzas", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "got", "e2_pos": 22, "label": "after"}
+]

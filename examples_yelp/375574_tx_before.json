@@ -1,0 +1,4 @@
+[
+{"tokens": ["Take", "a", "look", "at", "the", "pix", "that", "I", "posted", "before", "you", "make", "a", "reservation", "."], "e1_text": "posted", "e1_pos": 8, "e2_text": "make", "e2_pos": 11, "label": "before"},
+{"tokens": ["Do", "not", "stay", "if", "you", "take", "a", "bath", "and", "please", "take", "a", "look", "at", "the", "pix", "that", "I", "posted", "before", "you", "make", "a", "reservation", "to", "avoid", "inconvenience"], "e1_text": "posted", "e1_pos": 18, "e2_text": "make", "e2_pos": 21, "label": "before"}
+]

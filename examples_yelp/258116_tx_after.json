@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "hate", "it", "when", "I", "end", "up", "playing", "at", "a", "cold", "table", "&", "some", "guy", "-LRB-", "or", "girl", ",", "equal", "opportunity", "for", "all", "-RRB-", "craps", "out", "right", "after", "the", "point", "is", "made", "\\*", "shakes", "fist", "angrily", "!"], "e1_text": "craps", "e1_pos": 24, "e2_text": "is", "e2_pos": 30, "label": "after"},
+{"tokens": ["And", "if", "you", "do", "n't", "love", "Downtown", "Vegas", "as", "much", "as", "I", "do", "after", "reading", "all", "that", ",", "well", ",", "you", "can", "just", "take", "your", "tushy", "back", "on", "the", "Strip", "!"], "e1_text": "do", "e1_pos": 3, "e2_text": "reading", "e2_pos": 14, "label": "after"}
+]

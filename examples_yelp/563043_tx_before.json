@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "my", "appetizer", ",", "entr", "\\", "u00e9e", ",", "and", "half", "of", "my", "dessert", "before", "I", "got", "the", "napkin", "I", "asked", "for", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "got", "e2_pos": 16, "label": "before"},
+{"tokens": ["Our", "party", "waited", "at", "least", "30", "minutes", ",", "before", "anyone", "came", "to", "get", "our", "order", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "he", "came", "back", "I", "told", "him", "that", "we", "were", "sitting", "at", "the", "table", "by", "the", "stage", "and", "asked", "if", "he", "could", "bring", "it", "over", "...", "said", "I", "tried", "to", "tell", "you", "before", "you", "ran", "off", "."], "e1_text": "tell", "e1_pos": 30, "e2_text": "ran", "e2_pos": 34, "label": "before"},
+{"tokens": ["So", "I", "told", "him", "I", "tried", "to", "tell", "him", "before", "and", "then", "he", "said", ",", "I", "'ll", "try", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "tried", "e2_pos": 5, "label": "before"}
+]

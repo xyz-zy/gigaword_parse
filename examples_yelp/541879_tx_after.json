@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "skip", "the", "line", "go", "into", "the", "club", "and", "they", "make", "us", "stand", "against", "a", "wall", "for", "30", "minutes", "and", "after", "repeatedly", "asking", "what", "was", "going", "on", "of", "the", "guy", "said", "they", "do", "n't", "have", "any", "tables", "available", "with", "the", "price", "we", "were", "quoted", "...", "REALLY", "?!?!", "How", "much", "more", "of", "my", "time", "do", "you", "want", "to", "waste", "?"], "e1_text": "make", "e1_pos": 10, "e2_text": "said", "e2_pos": 30, "label": "after"},
+{"tokens": ["My", "cousin", "had", "7", "bottles", "booked", "the", "following", "month", "for", "his", "bithday", "and", "canceled", "after", "I", "told", "him", "what", "happened", "."], "e1_text": "canceled", "e1_pos": 13, "e2_text": "told", "e2_pos": 16, "label": "after"}
+]

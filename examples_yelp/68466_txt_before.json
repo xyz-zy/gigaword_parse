@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "what", "she", "wrote", ",", "''", "``", "In", "the", "future", ",", "please", "know", "the", "laws", "of", "the", "city", "you", "live", "in", "before", "leaving", "a", "derogatory", "comment", "suggesting", "my", "employees", "break", "the", "law", "for", "you", ".", "''", "''"], "e1_text": "live", "e1_pos": 20, "e2_text": "leaving", "e2_pos": 23, "label": "before"}
+]

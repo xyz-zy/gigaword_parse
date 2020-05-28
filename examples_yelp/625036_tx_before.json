@@ -1,0 +1,5 @@
+[
+{"tokens": ["Same", "great", "menu", ",", "I", "think", "the", "food", "still", "tasted", "great", ",", "but", "I", "did", "n't", "feel", "the", "same", "sort", "of", "energy", "or", "enthusiasm", "or", "...", "something", "...", "that", "I", "have", "felt", "before", "when", "I", "'ve", "been", "to", "PJ", "."], "e1_text": "felt", "e1_pos": 31, "e2_text": "'ve", "e2_pos": 35, "label": "before"},
+{"tokens": ["The", "food", "was", "reliable", ",", "but", "there", "was", "no", "pizzazz", "like", "I", "have", "seen", "and", "felt", "before", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "have", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "will", "come", "back", "because", "it", "is", "so", "close", "to", "work", ",", "but", "I", "just", "did", "n't", "''", "``", "feel", "''", "''", "that", "something", "special", "I", "have", "felt", "before", "."], "e1_text": "did", "e1_pos": 15, "e2_text": "have", "e2_pos": 26, "label": "before"}
+]

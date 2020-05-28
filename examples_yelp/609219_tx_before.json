@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "closest", "they", "can", "come", "to", "in", "scheduling", "a", "delivery", "in", "the", "day", "before", ",", "and", "then", "they", "can", "only", "tell", "you", "it", "will", "be", "sometime", "during", "a", "9", "hour", "period", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "scheduling", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "huge", "box", "arrived", "and", "we", "had", "to", "have", "it", "in", "our", "entryway", "for", "3", "weeks", "before", "a", "tech", "came", "out", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "came", "e2_pos": 19, "label": "before"}
+]

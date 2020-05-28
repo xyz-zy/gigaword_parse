@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "sure", "it", "was", "5-star", "tasty", ",", "I", "'ll", "have", "to", "try", "some", "more", "stuff", "-LRB-", "pizza", "-RRB-", "before", "I", "give", "them", "that", "additional", "star", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "give", "e2_pos": 22, "label": "before"}
+]

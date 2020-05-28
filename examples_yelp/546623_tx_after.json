@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "declined", "the", "wine", "after", "that", "but", "the", "others", "I", "went", "with", "ordered", "some", "."], "e1_text": "declined", "e1_pos": 1, "e2_text": "went", "e2_pos": 10, "label": "after"},
+{"tokens": ["My", "party", "settled", "on", "a", "wine", "that", "was", "available", "and", "after", "delivering", "it", "the", "server", "said", "she", "needed", "to", "do", "her", "paperwork", "and", "asked", "if", "we", "were", "done", "."], "e1_text": "settled", "e1_pos": 2, "e2_text": "delivering", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "seen", "this", "place", "many", "times", "because", "it", "'s", "close", "to", "Von", "'s", "and", "the", "Dollar", "Store", "and", "after", "reading", "the", "reviews", "I", "thought", "I", "'d", "get", "it", "a", "try", "."], "e1_text": "'s", "e1_pos": 9, "e2_text": "reading", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "knew", "I", "would", "n't", "like", "it", "after", "seeing", "the", "meat", ",", "it", "was", "a", "pale", "color", "like", "it", "was", "n't", "cooked", "."], "e1_text": "like", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 8, "label": "after"}
+]

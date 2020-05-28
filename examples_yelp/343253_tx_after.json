@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "came", "out", "after", "some", "things", "had", "n't", "made", "it", "to", "our", "table", ",", "but", "he", "never", "came", "back", "to", "check", "on", "our", "food", "as", "promised", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "server", "even", "told", "us", "after", "we", "commented", "on", "the", "lack", "of", "flavor", "-LRB-", "I", "'ve", "had", "deli", "meat", "similar", "-RRB-", "that", "since", "they", "cater", "to", "an", "older", "demographic", "that", "they", "did", "n't", "try", "to", "smoke", "their", "brisket", "or", "turkey", "much", "to", "appease", "them", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "commented", "e2_pos": 7, "label": "after"}
+]

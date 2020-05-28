@@ -1,0 +1,3 @@
+[
+{"tokens": ["2", "-RRB-", "I", "found", "dirty", "underwear", "shoved", "in", "the", "corner", "of", "the", "closet", ",", "maids", "obviously", "did", "not", "clean", "room", "properly", "before", "we", "checked", "in", "."], "e1_text": "clean", "e1_pos": 18, "e2_text": "checked", "e2_pos": 23, "label": "before"}
+]

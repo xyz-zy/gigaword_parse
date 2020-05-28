@@ -1,0 +1,3 @@
+[
+{"tokens": ["Any", "of", "the", "sort", "apparel", "that", "you", "might", "buy", "-LRB-", "tshirts", ",", "cape", ",", "soft", "pants", "-LRB-", "?!?", "-RRB-", "-RRB-", "will", "have", "been", "stored", "right", "next", "to", "the", "minute", "smoking", "lounge", "area", ",", "meaning", "that", "even", "a", "hardcore", "cigar", "smoker", "will", "balk", "at", "packing", "anything", "from", "there", "down", "in", "his", "luggage", "before", "he", "heads", "to", "the", "next", "convention", "."], "e1_text": "balk", "e1_pos": 41, "e2_text": "heads", "e2_pos": 53, "label": "before"}
+]

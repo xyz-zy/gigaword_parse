@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "new", "patient", "appointment", "lasted", "about", "3", "minutes", "after", "waiting", "2", "hours", "past", "my", "appointment", "time", "in", "a", "tiny", ",", "hot", ",", "very", "full", "waiting", "room", ",", "and", "consisted", "of", "him", "cutting", "me", "off", "and", "not", "letting", "me", "talk", "."], "e1_text": "lasted", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["Then", "charged", "me", "a", "no-show", "fee", "for", "a", "follow", "up", "appointment", "that", "was", "canceled", "the", "day", "after", "it", "was", "booked", "."], "e1_text": "canceled", "e1_pos": 13, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

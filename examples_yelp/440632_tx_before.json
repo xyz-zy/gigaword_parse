@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "explain", "...", "I", "made", "reservations", "for", "dinner", "here", "before", "we", "were", "to", "go", "see", "Bela", "Fleck", "at", "The", "Smith", "Center", "."], "e1_text": "made", "e1_pos": 5, "e2_text": "were", "e2_pos": 12, "label": "before"},
+{"tokens": ["It", "has", "a", "perfect", "location", "if", "you", "are", "looking", "for", "somewhere", "to", "eat", "or", "drink", "before", "heading", "to", "The", "Smith", "Center", "."], "e1_text": "drink", "e1_pos": 14, "e2_text": "heading", "e2_pos": 16, "label": "before"}
+]

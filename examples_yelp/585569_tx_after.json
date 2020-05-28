@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "forgot", "all", "about", "the", "figgy-onion", "jam", "until", "after", "I", "had", "finished", "the", "burger", ";", "apparently", "either", "they", "did", "too", "or", "it", "just", "was", "n't", "flavorful", "enough", "to", "stand", "out", "."], "e1_text": "forgot", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["And", "$", "8", "for", "our", "plain", "fries", "is", "insanely", "high", ";", "I", "'m", "not", "sure", "I", "would", "ever", "consider", "spending", "$", "11", "for", "their", "truffle", "parmesan", "or", "$", "9", "for", "the", "sweet", "potato", "fries", "after", "sampling", "these", "."], "e1_text": "spending", "e1_pos": 19, "e2_text": "sampling", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "grandfather", "told", "the", "server", "he", "felt", "he", "had", "been", "waiting", "too", "long", "-LRB-", "45", "minutes", "-RRB-", ",", "she", "offered", "an", "apology", "and", "sent", "the", "manager", "over", "who", "began", "to", "actually", "argue", "with", "the", "man", ",", "she", "actually", "asked", "if", "he", "had", "ever", "eaten", "at", "a", "sushi", "place", "before", "."], "e1_text": "asked", "e1_pos": 38, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

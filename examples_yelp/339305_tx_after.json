@@ -1,0 +1,3 @@
+[
+{"tokens": ["Examples", ":", "on", "a", "visit", "today", ",", "my", "enchiladas", "tasted", "of", "chicken", "that", "had", "been", "stored", "in", "the", "fridge", "for", "too", "long", "after", "being", "cooked", ",", "while", "the", "green", "mole", "sauce", "had", "little", "flavor", ";", ";", "my", "partner", "asked", "for", "beans", "instead", "of", "rice", ",", "and", "received", "literally", "a", "tablespoon", "of", "beans", "."], "e1_text": "stored", "e1_pos": 15, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

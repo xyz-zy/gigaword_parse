@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "very", "politely", "told", "the", "lady", "that", "I", "was", "now", "less", "inclined", "to", "open", "up", "the", "checking", "account", "that", "she", "was", "trying", "to", "push", "on", "me", "after", "learning", "that", "I", "have", "to", "pay", "$", "6", "to", "cash", "my", "check", ",", "but", "as", "I", "was", "giving", "this", "opinion", "she", "argued", "with", "me", "vehemently", "that", "I", "should", "just", "open", "the", "account", "because", "everyone", "else", "does", "the", "same", "thing", "."], "e1_text": "push", "e1_pos": 23, "e2_text": "learning", "e2_pos": 27, "label": "after"}
+]

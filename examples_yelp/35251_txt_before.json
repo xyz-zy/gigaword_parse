@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stood", "at", "the", "checkout", "with", "clothes", "in", "hand", "for", "ten", "minutes", "before", "anyone", "came", "over", "to", "check", "me", "out", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "came", "e2_pos": 14, "label": "before"},
+{"tokens": ["This", "second", "associate", "answered", "three", "phone", "calls", "before", "beginning", "to", "ring", "me", "out", "."], "e1_text": "answered", "e1_pos": 3, "e2_text": "beginning", "e2_pos": 8, "label": "before"}
+]

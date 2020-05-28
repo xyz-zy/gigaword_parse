@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "gave", "her", "a", "break", "and", "decided", "to", "sit", "in", "the", "lounge", "for", "a", "drink", "while", "she", "sorted", "it", "out", "but", "after", "30", "minutes", "-LRB-", "10", "minutes", "after", "our", "reservation", "-RRB-", "we", "never", "got", "approached", "about", "our", "table", "-LRB-", "except", "for", "the", "wrong", "name", "-", "''", "``", "Are", "you", "Mr.", "Kluss", "''", "''", "?", "-RRB-"], "e1_text": "sit", "e1_pos": 8, "e2_text": "approached", "e2_pos": 34, "label": "after"},
+{"tokens": ["As", "native", "Las", "Vegans", "we", "like", "the", "Cosmo", "a", "lot", "as", "far", "as", "hotels", "go", "and", "may", "give", "STK", "another", "shot", "after", "we", "'ve", "tried", "the", "other", "restaurants", "at", "the", "hotel", "first", "."], "e1_text": "give", "e1_pos": 17, "e2_text": "'ve", "e2_pos": 23, "label": "after"}
+]

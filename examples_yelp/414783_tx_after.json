@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "my", "date", "and", "I", "were", "quite", "taken", "with", "the", "way", "the", "bartender", "addressed", "us", ",", "and", "futhermore", "the", "fact", "that", "the", "manager", "felt", "it", "was", "necessary", "to", "bring", "one", "of", "the", "male", "bartenders", "out", "to", "address", "us", "after", "I", "had", "already", "told", "her", "we", "just", "wanted", "to", "see", "the", "patio", "."], "e1_text": "address", "e1_pos": 36, "e2_text": "had", "e2_pos": 40, "label": "after"}
+]

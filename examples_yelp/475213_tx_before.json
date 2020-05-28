@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "father", "told", "me", "he", "waited", "with", "the", "other", "customers", "for", "45", "minutes", ",", "just", "him", "and", "the", "2", "others", "waiting", ",", "before", "he", "and", "the", "2", "other", "men", "decided", "to", "leave", "."], "e1_text": "waiting", "e1_pos": 20, "e2_text": "decided", "e2_pos": 29, "label": "before"}
+]

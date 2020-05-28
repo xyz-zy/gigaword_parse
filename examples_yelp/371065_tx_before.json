@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "in", "our", "home", "the", "night", "before", "the", "movers", "were", "set", "to", "deliver", "our", "things", "-", "and", "we", "were", "hungry", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "get", "upset", "when", "places", "mentally", "close", "before", "they", "are", "closed", "."], "e1_text": "places", "e1_pos": 4, "e2_text": "are", "e2_pos": 9, "label": "before"}
+]

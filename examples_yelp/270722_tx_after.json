@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "at", "a", "conference", "there", "while", "getting", "a", "beer", "I", "ask", "for", "a", "water", "and", "the", "only", "option", "is", "a", "12", "oz", "$", "3", "bottle", "which", "I", "do", "n't", "know", "until", "after", "I", "drink", "it", "."], "e1_text": "know", "e1_pos": 30, "e2_text": "drink", "e2_pos": 34, "label": "after"}
+]

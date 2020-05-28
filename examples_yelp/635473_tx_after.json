@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "water", "refill", "took", "3-5", "minutes", "after", "it", "was", "dry", "and", "I", "had", "to", "remind", "her", "at", "that", "point", "that", "I", "also", "ordered", "a", "coke", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["She", "did", "not", "come", "back", "to", "check", "on", "my", "food", "after", "delivering", "it", "until", "I", "was", "nearly", "done", "with", "my", "meal", "-LRB-", "she", "did", "get", "to", "eat", "her", "lunch", "in", "the", "meantime", "!", "-RRB-", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "delivering", "e2_pos": 11, "label": "after"}
+]

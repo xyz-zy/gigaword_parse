@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "was", "terrible", "and", "was", "sent", "back", "after", "looking", "at", "it", "!"], "e1_text": "sent", "e1_pos": 5, "e2_text": "looking", "e2_pos": 8, "label": "after"},
+{"tokens": ["He", "was", "very", "apologetic", "and", "comped", "the", "whole", "bill", "after", "making", "excuses", "about", "the", "whole", "situation", "."], "e1_text": "comped", "e1_pos": 5, "e2_text": "making", "e2_pos": 10, "label": "after"}
+]

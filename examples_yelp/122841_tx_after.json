@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "planned", "on", "getting", "married", "in", "Vegas", "and", "after", "reading", "all", "the", "good", "reviews", "on", "Yelp", ",", "we", "decided", "to", "go", "with", "Graceland", "and", "I", "am", "glad", "we", "did", "!!", "Pre-Wedding", ":", "The", "staff", "was", "very", "easy", "to", "work", "with", "from", "the", "very", "beginning", "."], "e1_text": "planned", "e1_pos": 4, "e2_text": "reading", "e2_pos": 12, "label": "after"}
+]

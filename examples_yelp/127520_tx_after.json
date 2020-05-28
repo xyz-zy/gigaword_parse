@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "roll", "up", "curtain", "on", "the", "window", "was", "broken", "and", "was", "not", "repaired", "even", "after", "I", "twice", "called", "for", "it", "to", "be", "repaired", "."], "e1_text": "repaired", "e1_pos": 12, "e2_text": "called", "e2_pos": 17, "label": "after"}
+]

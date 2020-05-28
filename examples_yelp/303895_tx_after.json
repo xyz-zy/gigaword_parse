@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "returned", "after", "thirty", "minutes", "-LRB-", "no", "hyperbole", "here", "-RRB-", "to", "bring", "us", "the", "cocktails", "and", "tell", "us", "the", "bottle", "of", "wine", "we", "'d", "chosen", "was", "out", "of", "stock", "."], "e1_text": "returned", "e1_pos": 1, "e2_text": "was", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "finally", "said", "we", "could", "proceed", "after", "he", "makes", "these", "phony", "call", "asking", "if", "it", "was", "OK", "to", "bring", "a", "cooler", "of", "beer", "to", "the", "room", ",", "apperently", "he", "wanted", "a", "payoff", "of", "some", "sort", "like", "he", "was", "doing", "me", "a", "big", "favor", "."], "e1_text": "proceed", "e1_pos": 5, "e2_text": "makes", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "took", "us", "about", "two", "hours", "to", "get", "reimbursed", "with", "no", "sorry", "or", "anything", "after", "we", "spend", "two", "hours", "at", "the", "front", "desk", "speaking", "with", "managers", ",", "supervisors", "etc.", "."], "e1_text": "reimbursed", "e1_pos": 8, "e2_text": "spend", "e2_pos": 16, "label": "after"}
+]

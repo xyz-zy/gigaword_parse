@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "a", "great", "disappointment", ",", "after", "originally", "coming", "here", "based", "on", "other", "yelp", "reviews", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "coming", "e2_pos": 8, "label": "after"},
+{"tokens": ["Hmmmm", "The", "elderly", "waitress", "was", "very", "sweet", "though", ",", "even", "after", "singing", "happy", "birthday", "twice", "to", "some", "of", "the", "other", "patrons", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "singing", "e2_pos": 11, "label": "after"}
+]

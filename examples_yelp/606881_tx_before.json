@@ -1,0 +1,6 @@
+[
+{"tokens": ["So", "I", "wrote", "a", "really", "scathing", "review", "of", "this", "place", "before", "it", "moved", "and", "when", "I", "walked", "in", ",", "I", "told", "the", "concierge", "."], "e1_text": "wrote", "e1_pos": 2, "e2_text": "moved", "e2_pos": 12, "label": "before"},
+{"tokens": ["Even", "the", "bread", "and", "butter", "they", "give", "you", ",", "I", "had", "to", "ask", "for", "twice", "before", "we", "got", "them", "and", "they", "took", "their", "time", "also", "."], "e1_text": "ask", "e1_pos": 12, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["What", "really", "made", "no", "sense", "was", "that", "we", "got", "our", "dessert", "before", "we", "even", "were", "served", "all", "our", "main", "courses", "!"], "e1_text": "got", "e1_pos": 8, "e2_text": "were", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "was", "done", "before", "they", "moved", "and", "now", "I", "'m", "done", "again", "with", "this", "place", "."], "e1_text": "done", "e1_pos": 2, "e2_text": "moved", "e2_pos": 5, "label": "before"}
+]

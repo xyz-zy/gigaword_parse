@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "the", "chicken", "dishes", "looked", "the", "same", "and", "they", "tasted", "like", "they", "just", "poured", "different", "sauces", "on", "them", "before", "serving", "."], "e1_text": "poured", "e1_pos": 13, "e2_text": "serving", "e2_pos": 19, "label": "before"}
+]

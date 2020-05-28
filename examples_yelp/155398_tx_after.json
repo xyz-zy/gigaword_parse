@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "place", "was", "packed", ",", "so", "we", "sat", "at", "the", "bar", "when", "two", "seats", "opened", "up", ",", "after", "waiting", "about", "25", "minutes", "for", "a", "table", "."], "e1_text": "sat", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "think", "I", "might", "have", "gotten", "food", "poisoning", "though", ",", "since", "I", "got", "violently", "ill", "after", "eating", "here", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

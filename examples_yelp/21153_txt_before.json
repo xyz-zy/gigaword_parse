@@ -1,0 +1,3 @@
+[
+{"tokens": ["Splitting", "the", "tab", "was", "clearly", "WAY", "too", "much", "work", "for", "her", ",", "as", "it", "took", "20", "minutes", "for", "her", "to", "figure", "out", "who", "ordered", "what", "-LRB-", "even", "though", "we", "asked", "if", "it", "was", "ok", "to", "split", "tabs", "long", "before", "we", "ordered", "-RRB-", "but", "actually", "running", "the", "tabs", "?"], "e1_text": "split", "e1_pos": 35, "e2_text": "ordered", "e2_pos": 23, "label": "before"}
+]

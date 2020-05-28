@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "standing", "there", "for", "a", "few", "the", "manager", "asks", "if", "we", "were", "dining", "in", "and", "we", "requested", "to", "look", "around", "before", "we", "made", "a", "decision", "...", "Went", "upstairs", "and", "the", "other", "hand", "full", "of", "employees", "were", "horse", "playing", "and", "giggling", "."], "e1_text": "look", "e1_pos": 18, "e2_text": "made", "e2_pos": 22, "label": "before"},
+{"tokens": ["We", "decided", "that", "we", "would", "rather", "take", "our", "guests", "somewhere", "we", "had", "been", "before", "and", "that", "we", "knew", "they", "would", "enjoy", "the", "food", "."], "e1_text": "take", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Which", "to", "start", "with", "is", "crazy", "over", "priced", ",", "but", "worse", "than", "that", ",", "the", "woman", "I", "worked", "with", "made", "me", "pay", "before", "I", "actually", "got", "any", "polish", "put", "on", "."], "e1_text": "pay", "e1_pos": 21, "e2_text": "got", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "manicure", "portion", "of", "the", "manicure", "was", "quick", "and", "to", "the", "point", ",", "she", "even", "almost", "forgot", "to", "buff", "my", "nails", "and", "had", "to", "call", "me", "back", "before", "I", "washed", "my", "hands", "."], "e1_text": "call", "e1_pos": 24, "e2_text": "washed", "e2_pos": 29, "label": "before"},
+{"tokens": ["As", "I", "said", "before", "the", "polish", "came", "out", "on", "well", "but", "at", "the", "end", "there", "was", "no", "lotion", "or", "hand", "massage", "that", "you", "would", "normally", "get", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "came", "e2_pos": 6, "label": "before"}
+]

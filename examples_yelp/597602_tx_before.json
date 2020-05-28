@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "thing", "that", "bothered", "me", "being", "a", "former", "restaurant", "owner", "is", "the", "amount", "of", "time", "that", "some", "of", "the", "food", "sat", "in", "the", "''", "``", "window", "''", "''", "before", "the", "waitstaff", "took", "it", "out", "."], "e1_text": "sat", "e1_pos": 20, "e2_text": "took", "e2_pos": 31, "label": "before"}
+]

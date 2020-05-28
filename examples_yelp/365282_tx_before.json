@@ -1,0 +1,3 @@
+[
+{"tokens": ["2", "patron", "shots", "for", "$", "10", "!!", "-LRB-", "during", "10pm-11pm", "i", "think", "-RRB-", "that", "means", "$", "5", "per", "shot", "of", "patron", "!!", "we", "took", "quite", "a", "few", "shots", "here", "before", "heading", "to", "XS", "."], "e1_text": "took", "e1_pos": 23, "e2_text": "heading", "e2_pos": 30, "label": "before"}
+]

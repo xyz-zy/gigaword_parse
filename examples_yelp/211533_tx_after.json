@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "split", "some", "of", "the", "meal", "with", "my", "friend", "so", "he", "had", "2", "cards", "and", "some", "cash", "he", "wanted", "to", "give", "towards", "the", "dinner", "with", "the", "intent", "of", "giving", "cash", "to", "the", "waitress", "after", "the", "transaction", "as", "a", "tip", "-LRB-", "we", "prefer", "tipping", "in", "cash", "as", "we", "believe", "the", "servers", "are", "not", "taxed", "on", "this", "and", "get", "to", "keep", "more", "of", "it", "-", "if", "that", "makes", "sense", "-RRB-", "."], "e1_text": "giving", "e1_pos": 29, "e2_text": "prefer", "e2_pos": 42, "label": "after"}
+]

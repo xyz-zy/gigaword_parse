@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "given", "paperwork", "to", "fill", "out", "and", "told", "that", "if", "I", "picked", "up", "the", "photos", "in-store", "there", "would", "be", "no", "shipping", "charge", ",", "which", "I", "later", "found", "out", "was", "false", "-LRB-", "only", "after", "I", "informed", "the", "sales-associate", "that", "I", "would", "only", "be", "getting", "the", "8x10", "included", "in", "my", "Groupon", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "informed", "e2_pos": 35, "label": "after"}
+]

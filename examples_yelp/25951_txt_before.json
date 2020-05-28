@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", ",", "he", "drove", "the", "car", "for", "like", "5", "minutes", "and", "about", "2", "miles", "away", "from", "the", "dealership", "before", "letting", "me", "take", "control", "of", "the", "vehicle", "."], "e1_text": "drove", "e1_pos": 3, "e2_text": "letting", "e2_pos": 19, "label": "before"}
+]

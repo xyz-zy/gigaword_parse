@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "n't", "checked", "in", "after", "our", "entrees", "came", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "came", "e2_pos": 8, "label": "after"},
+{"tokens": ["Now", "all", "this", "actually", "happened", "after", "the", "restaurant", "became", "less", "full", "."], "e1_text": "happened", "e1_pos": 4, "e2_text": "became", "e2_pos": 8, "label": "after"}
+]

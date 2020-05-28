@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "check", "came", "we", "had", "realized", "our", "waiter", "failed", "to", "mention", "the", "price", "of", "the", "crab", "legs", "appetizer", "before", "we", "decided", "to", "order", "it", "and", "the", "cost", "for", "about", "four", "-LRB-", "not", "even", "full", "legs", "-RRB-", "crab", "legs", "was", "$", "65", "."], "e1_text": "mention", "e1_pos": 11, "e2_text": "decided", "e2_pos": 21, "label": "before"}
+]

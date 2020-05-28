@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "some", "pants", "here", "right", "before", "I", "went", "on", "my", "business", "trip", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "went", "e2_pos": 8, "label": "before"},
+{"tokens": ["Anyone", "trying", "to", "use", "their", "website", "before", "coming", "in", "might", "assume", "they", "'re", "out", "of", "business", "."], "e1_text": "use", "e1_pos": 3, "e2_text": "coming", "e2_pos": 7, "label": "before"}
+]

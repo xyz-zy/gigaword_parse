@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "recently", "for", "the", "first", "time", "for", "lunch", "after", "getting", "a", "Groupon", "deal", "-LRB-", "It", "was", "close", "to", "me", ",", "okay", "?!", "-RRB-", "and", "pretty", "much", "most", "of", "the", "negative", "reviews", "were", "right", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "getting", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "feel", "sorta", "bad", "for", "writing", "a", "bad", "review", "after", "using", "a", "Groupon", "...", "But", "fuck", "it", "."], "e1_text": "writing", "e1_pos": 5, "e2_text": "using", "e2_pos": 10, "label": "after"}
+]

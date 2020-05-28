@@ -1,0 +1,4 @@
+[
+{"tokens": ["Okay", ",", "to", "find", "a", "bamboo", ",", "pool", "very", "crowded", ",", "so", "we", "head", "for", "the", "pool", "on", "the", "17", "th", "floor", ",", "before", "we", "get", "there", "run", "into", "a", "young", "couple", "who", "says", "that", "'s", "more", "crowded", "and", "the", "music", "is", "so", "loud", "it", "'s", "unbearable", "."], "e1_text": "head", "e1_pos": 13, "e2_text": "get", "e2_pos": 25, "label": "before"},
+{"tokens": ["Positive", "side", "STK", "restaurant", "was", "great", "even", "though", "they", "took", "away", "my", "drink", "before", "I", "was", "finished", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

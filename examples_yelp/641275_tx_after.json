@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "full", "hour", "went", "by", "and", "we", "never", "got", "our", "food", "after", "we", "inquired", "a", "couple", "of", "times", "!!!", "We", "were", "both", "starving", ",", "so", "we", "ended", "up", "leaving", "after", "we", "wasted", "1.5", "hrs", "there", "!"], "e1_text": "got", "e1_pos": 8, "e2_text": "inquired", "e2_pos": 13, "label": "after"}
+]

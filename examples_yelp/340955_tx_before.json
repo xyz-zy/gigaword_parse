@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "they", "moved", "to", "our", "arms", "before", "getting", "to", "our", "feet", "."], "e1_text": "moved", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "Big", "F", "must", "have", "enjoyed", "his", "foot", "massage", "because", "I", "soon", "heard", "snoring", "before", "we", "were", "half", "way", "through", "!"], "e1_text": "snoring", "e1_pos": 13, "e2_text": "were", "e2_pos": 16, "label": "before"}
+]

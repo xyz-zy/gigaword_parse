@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "checking", "out", "of", "my", "room", "at", "the", "Rio", ",", "I", "had", "about", "2", "hours", "to", "kill", "before", "heading", "back", "to", "the", "airport", "and", "car", "rental", "place", "to", "return", "my", "vehicle", "."], "e1_text": "kill", "e1_pos": 16, "e2_text": "heading", "e2_pos": 18, "label": "before"}
+]

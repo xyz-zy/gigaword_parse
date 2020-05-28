@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "went", "there", "with", "friends", "for", "drinks", "on", "a", "this", "evening", "-LRB-", "Sunday", "-RRB-", "and", "waited", "about", "20", "minutes", "to", "be", "served", "at", "bar", "-LRB-", "bar", "was", "not", "busy", "-RRB-", "before", "finally", "giving", "up", "."], "e1_text": "served", "e1_pos": 21, "e2_text": "giving", "e2_pos": 32, "label": "before"}
+]

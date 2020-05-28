@@ -1,0 +1,3 @@
+[
+{"tokens": ["Info", ":", "Happy", "hour", "3:30", "-6:30", "pm", "and", "9:30", "-11", "pm", "$", "10", "beer", "pitchers", "$", "5", ":", "Fish", "and", "chip", "sliders", "-LRB-", "2", "-RRB-", ",", "beef", "burger", "sliders", "-LRB-", "2", "-RRB-", ",", "cheese", "plate", ",", "cocktails", ",", "$", "4", ":", "pretzel", "bread", "basket", ",", "wine", "by", "the", "glass", ",", "well", "drinks", "$", "3", ":", "pint", "beers", "$", "2", "chip", "curry", ",", "courgettes", "I", "came", "here", "with", "Don", "for", "late", "night", "happy", "hour", "after", "he", "picked", "me", "up", "from", "the", "airport", "."], "e1_text": "came", "e1_pos": 64, "e2_text": "picked", "e2_pos": 75, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "did", "call", "the", "''", "``", "Risk", "Management", "''", "''", "number", "that", "was", "given", "to", "her", "after", "we", "filed", "a", "complain", "."], "e1_text": "given", "e1_pos": 14, "e2_text": "filed", "e2_pos": 19, "label": "after"},
+{"tokens": ["BUT", "the", "weekend", "after", "I", "started", "to", "get", "these", "itchy", "bumps", "."], "e1_text": "BUT", "e1_pos": 0, "e2_text": "started", "e2_pos": 5, "label": "after"}
+]

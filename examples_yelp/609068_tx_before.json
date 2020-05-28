@@ -1,0 +1,3 @@
+[
+{"tokens": ["i.e.", "Always", "get", "the", "drink", "orders", "first", "before", "taking", "food", "orders", "or", "any", "food", "has", "come", "out", ",", "not", "informing", "patrons", "of", "items", "that", "are", "currently", "unavailable", ",", "forgetting", "to", "bring", "the", "dessert", "portion", "of", "the", "meal", "-LRB-", "which", "is", "included", "when", "ordering", "one", "of", "the", "combo", "meals", "-RRB-", "-", "Restaurant", "was", "only", "half", "full", ",", "yet", "the", "waiting", "area", "in", "the", "front", "was", "nearly", "packed", "and", "the", "wait", "was", "10", "mins", "on", "what", "appears", "to", "be", "a", "slow", "night", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "taking", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "quite", "a", "few", "minutes", "of", "standing", "at", "the", "counter", "before", "being", "greeted", ",", "then", "the", "cashier", "was", "extremely", "distracted", "while", "taking", "our", "order", "."], "e1_text": "standing", "e1_pos": 7, "e2_text": "being", "e2_pos": 12, "label": "before"}
+]

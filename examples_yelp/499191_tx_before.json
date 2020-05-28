@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "physically", "go", "to", "the", "grocery", "store", "-LRB-", "even", "a", "busy", "one", "-RRB-", ",", "buy", "the", "ingredients", ",", "arrive", "home", "...", "take", "a", "brief", "nap", ",", "start", "prep", ",", "call", "your", "friends", "and", "invite", "them", "over", ",", "and", "fully", "digest", "your", "meal", "well", "before", "you", "'re", "seated", "here", "."], "e1_text": "digest", "e1_pos": 40, "e2_text": "'re", "e2_pos": 46, "label": "before"}
+]

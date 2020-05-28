@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "on", "an", "all-girls", "trip", "to", "Vegas", "and", "this", "was", "my", "friend", "Audrey", "and", "I", "'s", "first", "stop", "after", "dropping", "off", "our", "bags", "!"], "e1_text": "'s", "e1_pos": 16, "e2_text": "dropping", "e2_pos": 20, "label": "after"},
+{"tokens": ["It", "is", "a", "great", "place", "to", "come", "to", "after", "spending", "hours", "traveling", "to", "Vegas", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "traveling", "e2_pos": 11, "label": "after"}
+]

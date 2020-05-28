@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "think", "I", "ever", "saw", "any", "of", "the", "staff", "wash", "their", "hands", "after", "touching", "their", "hair", ",", "face", "or", "what", "not", "before", "serving", "food", "."], "e1_text": "touching", "e1_pos": 15, "e2_text": "serving", "e2_pos": 24, "label": "before"}
+]

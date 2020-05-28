@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "orange", "juice", "tasted", "like", "it", "was", "from", "the", "concentrate", "but", "I", "also", "did", "n't", "ask", "before", "we", "ordered", "it", "."], "e1_text": "ask", "e1_pos": 15, "e2_text": "ordered", "e2_pos": 18, "label": "before"}
+]

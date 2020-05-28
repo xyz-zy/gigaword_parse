@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "mac-n-cheese", "came", "out", "so", "hot", "that", "even", "after", "I", "waited", "to", "finish", "my", "entire", "burger", "so", "it", "would", "cool", "off", "it", "was", "still", "burning", "me", "to", "try", "to", "eat", "it", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "waited", "e2_pos": 10, "label": "after"}
+]

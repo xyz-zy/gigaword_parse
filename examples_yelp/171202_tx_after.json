@@ -1,0 +1,4 @@
+[
+{"tokens": ["U", "wake", "up", "after", "just", "going", "to", "bed", "at", "6am", "."], "e1_text": "wake", "e1_pos": 1, "e2_text": "going", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "mean", "after", "seeing", "Connie", "I", "wan", "na", "go", "home", "."], "e1_text": "mean", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 3, "label": "after"}
+]

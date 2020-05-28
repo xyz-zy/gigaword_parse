@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "reason", "I", "'m", "giving", "Pink", "Taco", "3", "stars", "instead", "of", "4", "is", "because", "of", "some", "rude", "behavior", "from", "the", "staff", "right", "before", "the", "restaurant", "opened", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "opened", "e2_pos": 26, "label": "before"},
+{"tokens": ["I", "would", "have", "no", "problem", "with", "this", "if", "they", "used", "at", "least", "some", "sort", "of", "common", "respect", "and", "tact", "while", "asking", "us", "to", "get", "out", "2", "minutes", "before", "they", "opened", "."], "e1_text": "get", "e1_pos": 23, "e2_text": "opened", "e2_pos": 29, "label": "before"}
+]

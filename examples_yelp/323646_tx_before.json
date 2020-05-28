@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "ran", "off", "before", "I", "had", "a", "chance", "to", "say", "anything", "."], "e1_text": "ran", "e1_pos": 2, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["She", "managed", "to", "mumble", "''", "``", "sorry", "about", "the", "tomatoes", "''", "''", "before", "disappearing", "again", "."], "e1_text": "managed", "e1_pos": 1, "e2_text": "disappearing", "e2_pos": 13, "label": "before"}
+]

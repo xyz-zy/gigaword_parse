@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "hour", "and", "20", "minutes", "later", "we", "were", "finally", "able", "to", "leave", "after", "getting", "the", "manager", "so", "we", "could", "get", "our", "bill", "and", "by", "now", "the", "restaurant", "was", "full", "and", "he", "had", "the", "audacity", "to", "say", "he", "was", "going", "to", "look", "to", "see", "when", "our", "ticket", "went", "up", "-LRB-", "like", "I", "was", "lying", "when", "I", "said", "we", "waited", "45", "minutes", "for", "our", "food", "and", "an", "hour", "for", "my", "salmon", "-RRB-", "."], "e1_text": "leave", "e1_pos": 11, "e2_text": "getting", "e2_pos": 13, "label": "after"}
+]

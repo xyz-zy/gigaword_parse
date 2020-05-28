@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "exchanged", "a", "few", "phone", "calls", "over", "a", "few", "days", ",", "decided", "on", "a", "menu", ",", "and", "they", "delivered", "it", "right", "on", "time", "just", "before", "our", "event", "started", "."], "e1_text": "delivered", "e1_pos": 18, "e2_text": "started", "e2_pos": 27, "label": "before"}
+]

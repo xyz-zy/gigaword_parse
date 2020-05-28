@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "immediately", "went", "down", "to", "one", "stop", "wireless", "and", "got", "there", "before", "they", "opened", "-LRB-", "Granted", "the", "did", "open", "5", "mins", "late", ".", "-RRB-"], "e1_text": "got", "e1_pos": 9, "e2_text": "opened", "e2_pos": 13, "label": "before"},
+{"tokens": ["While", "I", "was", "waiting", "the", "owner", "offered", "to", "change", "the", "channel", "to", "whatever", "I", "like", "and", "they", "had", "me", "check", "my", "screen", "to", "feel", "how", "it", "touches", "and", "reacts", "before", "having", "me", "pay", "."], "e1_text": "touches", "e1_pos": 26, "e2_text": "having", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "did", "n't", "check", "on", "the", "food", "after", "we", "received", "it", ",", "manager", "ignored", "me", "at", "first", "and", "then", "asked", "me", "if", "he", "could", "get", "me", "something", "else", "...", "did", "n't", "want", "me", "leaving", "''", "``", "hungry", ".", "''", "''"], "e1_text": "check", "e1_pos": 4, "e2_text": "received", "e2_pos": 10, "label": "after"}
+]

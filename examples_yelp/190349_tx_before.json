@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "my", "friends", "opted", "to", "try", "out", "the", "seasonal", "tasting", "menu", "since", "he", "'s", "had", "the", "cookbook", "before", "."], "e1_text": "opted", "e1_pos": 4, "e2_text": "'s", "e2_pos": 14, "label": "before"},
+{"tokens": ["It", "was", "difficult", "to", "finish", "off", "the", "whole", "tasting", "menu", "because", "before", "the", "first", "course", "came", "out", "we", "were", "already", "drunk", "-", "i", "'d", "like", "to", "note", "that", "the", "pinot", "noir", "was", "really", "good", "-LRB-", "not", "as", "good", "as", "the", "one", "I", "had", "at", "Comme", "Ca", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

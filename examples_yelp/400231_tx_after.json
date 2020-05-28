@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "admit", "that", "when", "i", "ordered", "it", "I", "was", "kind", "of", "wishing", "they", "had", "a", "chocolate", "option", "on", "the", "menu", ",", "but", "after", "it", "came", ",", "I", "forgot", "about", "that", "silly", "idea", ",", "because", "it", "was", "as", "rich", "and", "decadent", "as", "any", "chocolate", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "came", "e2_pos": 25, "label": "after"}
+]

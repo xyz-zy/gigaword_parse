@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "contacted", "them", "after", "I", "walked", "out", "the", "store", "after", "speaking", "to", "a", "rep.", "I", "am", "now", "getting", "a", "second", "warranty", "telephone", "in", "2", "weeks", ",", "which", "questions", "their", "whole", "stock", "of", "warranty", "phones", "at", "Verizon", ",", "The", "first", "Warranty", "phone", "lasted", "only", "one", "day", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "walked", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "Verizon", "611", "Technicians", "-LRB-", "two", "of", "them", "-RRB-", ",", "that", "I", "called", "from", "the", "parking", "lot", "after", "walking", "out", "the", "store", "were", "better", "trained", ",", "but", "did", "not", "understand", "the", "idea", "of", "failure", "and", "statistics", "."], "e1_text": "called", "e1_pos": 12, "e2_text": "walking", "e2_pos": 18, "label": "after"}
+]

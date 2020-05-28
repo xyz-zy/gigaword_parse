@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "a", "combination", "plate", "that", "had", "several", "different", "items", "on", "it", ",", "because", "we", "thought", "it", "would", "be", "fun", "to", "try", "things", "we", "had", "n't", "eaten", "before", "."], "e1_text": "try", "e1_pos": 21, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "went", "again", "tonite", "with", "friends", "who", "had", "been", "there", "before", ",", "and", "said", "they", "enjoyed", "it", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

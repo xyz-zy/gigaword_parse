@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "the", "first", "time", "I", "went", "in", "they", "had", "me", "waiting", "for", "an", "hour", "before", "I", "was", "seen", "for", "my", "eye", "appointment", "-LRB-", "and", "I", "did", "make", "an", "appointment", "-RRB-", "after", "waiting", "they", "finally", "saw", "me", "and", "I", "ended", "up", "spending", "3", "hours", "there", "."], "e1_text": "seen", "e1_pos": 17, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

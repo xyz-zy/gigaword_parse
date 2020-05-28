@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nice", "guy", ",", "asked", "what", "we", "ordered", "and", "suggested", "I", "tried", "some", "of", "their", "sauce", "...", "he", "made", "sure", "we", "got", "that", "added", "on", "the", "side", "before", "we", "left", ".", "."], "e1_text": "added", "e1_pos": 22, "e2_text": "left", "e2_pos": 28, "label": "before"}
+]

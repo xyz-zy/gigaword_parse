@@ -1,0 +1,7 @@
+[
+{"tokens": ["I", "was", "banned", "from", "every", "single", "Biomat", "and", "any", "other", "place", "associated", "with", "Griffols", "because", "-LRB-", "get", "this", "-RRB-", "because", "they", "decided", "to", "F", "up", "and", "not", "write", "down", "that", "I", "had", "a", "piercing", "and", "tattoo", "done", "a", "year", "before", "donating", "again", "."], "e1_text": "done", "e1_pos": 36, "e2_text": "donating", "e2_pos": 40, "label": "before"},
+{"tokens": ["I", "waited", "exactly", "12", "months", "a", "maybe", "a", "day", "or", "two", "before", "going", "back", "to", "donate", "because", "those", "are", "the", "rules", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["You", "have", "to", "wait", "a", "year", "before", "going", "back", "to", "donate", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["You", "only", "have", "1", "hour", "after", "you", "leave", "here", "before", "you", "'re", "86", "'d", "."], "e1_text": "leave", "e1_pos": 7, "e2_text": "'re", "e2_pos": 11, "label": "before"},
+{"tokens": ["They", "might", "even", "86", "you", "for", "drinking", "cold", "water", "2", "minutes", "before", "donating", "."], "e1_text": "drinking", "e1_pos": 6, "e2_text": "donating", "e2_pos": 12, "label": "before"}
+]

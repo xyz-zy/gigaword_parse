@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "sheets", "over", "the", "chairs", "were", "stained", ",", "the", "rugs", "on", "the", "floor", "were", "stained", "and", "they", "apparently", "did", "n't", "clean", "it", "the", "night", "before", ",", "there", "was", "food", "in", "the", "fridge", "from", "the", "previous", "person", "."], "e1_text": "clean", "e1_pos": 20, "e2_text": "was", "e2_pos": 27, "label": "before"},
+{"tokens": ["-", "Again", ",", "cleaning", "issues", "--", "the", "pools", "were", "quite", "dirty", ",", "it", "'s", "my", "understanding", "the", "pools", "are", "open", "24", "hours", "a", "day", "so", "I", "assume", "it", "'s", "hard", "to", "make", "it", "perfect", "every", "day", "before", "it", "gets", "busy", ",", "however", "there", "was", "a", "lot", "of", "stuff", "in", "the", "water", "and", "random", "trash", "in", "the", "`", "sand", "beach", "'", "area", "."], "e1_text": "make", "e1_pos": 31, "e2_text": "gets", "e2_pos": 38, "label": "before"}
+]

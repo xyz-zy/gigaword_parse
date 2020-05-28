@@ -1,0 +1,4 @@
+[
+{"tokens": ["Giving", "me", "ample", "time", "to", "finish", "what", "I", "was", "doing", "and", "then", "head", "over", "there", "before", "I", "headed", "for", "home", "."], "e1_text": "head", "e1_pos": 12, "e2_text": "headed", "e2_pos": 17, "label": "before"},
+{"tokens": ["Never", "using", "the", "drive", "thru", "here", "before", "I", "was", "a", "bit", "leery", "when", "I", "used", "the", "drive", "thru", "lane", "."], "e1_text": "thru", "e1_pos": 4, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

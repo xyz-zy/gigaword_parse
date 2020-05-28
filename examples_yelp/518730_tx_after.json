@@ -1,0 +1,3 @@
+[
+{"tokens": ["Summer", "hours", "are", "a", "little", "shorter", "than", "usual", "-LRB-", "they", "close", "an", "hour", "earlier", "-RRB-", ",", "but", "are", "still", "long", "enough", "for", "a", "midday", "coffee", "break", "-LRB-", "you", "know", ",", "like", "the", "one", "you", "need", "around", "2PM", "after", "inhaling", "a", "huge", "lunch", "at", "noon", "?", "-RRB-", "."], "e1_text": "need", "e1_pos": 34, "e2_text": "inhaling", "e2_pos": 38, "label": "after"}
+]

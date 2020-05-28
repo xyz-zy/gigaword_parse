@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "my", "speakers", "replaced", ",", "sub", "installed", "and", "a", "amp", "installed", "in", "my", "MINI", ",", "after", "less", "then", "8", "months", "all", "the", "products", "that", "were", "installed", "by", "Audio", "Express", "has", "failed", "."], "e1_text": "installed", "e1_pos": 6, "e2_text": "has", "e2_pos": 29, "label": "after"},
+{"tokens": ["I", "spent", "over", "2000", "dollars", "and", "after", "calling", "the", "store", "they", "said", "that", "they", "wouldnt", "warranty", "because", "i", "didnt", "buy", "their", "warranty", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "calling", "e2_pos": 7, "label": "after"}
+]

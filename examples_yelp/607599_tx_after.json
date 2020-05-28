@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "manager", "put", "out", "a", "few", "-LRB-", "metaphorical", "-RRB-", "fires", "in", "the", "place", ",", "we", "were", "seated", "at", "a", "booth", "...", "after", "passing", "another", "booth", "that", "had", "clearly", "contained", "a", "family", "with", "young", "children", "."], "e1_text": "seated", "e1_pos": 17, "e2_text": "passing", "e2_pos": 23, "label": "after"},
+{"tokens": ["While", "it", "was", "in", "a", "menu", "category", "stating", "that", "it", "came", "with", "hash", "browns", "and", "a", "biscuit", ",", "toast", ",", "or", "pancakes", ",", "the", "server", "informed", "me", "-LRB-", "after", "I", "'d", "ordered", "the", "side", "I", "preferred", "-RRB-", "that", "it", "did", "n't", "come", "with", "toast", "or", "pancakes", "because", "of", "the", "presence", "of", "naan", "."], "e1_text": "informed", "e1_pos": 25, "e2_text": "'d", "e2_pos": 30, "label": "after"}
+]

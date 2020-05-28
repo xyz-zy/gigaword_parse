@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "about", "ten", "minutes", "before", "actually", "being", "seated", ",", "which", "was", "understandable", "for", "a", "Sunday", "brunch", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "before"},
+{"tokens": ["All", "of", "us", "finished", "half", "of", "our", "entrees", "before", "calling", "it", "quits", "."], "e1_text": "finished", "e1_pos": 3, "e2_text": "calling", "e2_pos": 9, "label": "before"}
+]

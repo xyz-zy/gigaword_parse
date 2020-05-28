@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "few", "hours", "of", "shopping", "after", "the", "movie", ",", "we", "needed", "a", "restroom", "break", "before", "heading", "home", ",", "but", "the", "restrooms", "by", "the", "food", "court", "were", "already", "locked", ",", "so", "I", "thought", "I", "'d", "ask", "the", "movie", "ticket", "counter", "if", "we", "could", "use", "the", "restroom", "there", "."], "e1_text": "needed", "e1_pos": 11, "e2_text": "heading", "e2_pos": 16, "label": "before"}
+]

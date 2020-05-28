@@ -1,0 +1,4 @@
+[
+{"tokens": ["Right", "away", "less", "than", "10", "mins", "after", "getting", "our", "food", "I", "told", "the", "front", "cashier", "since", "our", "server", "was", "no", "where", "in", "sight", "after", "waiting", "10", "mins", "more", "she", "came", "to", "our", "table", "."], "e1_text": "mins", "e1_pos": 5, "e2_text": "getting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "ASKED", "the", "cashier", "to", "call", "the", "police", "since", "my", "food", "was", "tampered", "with", "but", "he", "stated", "they", "could", "not", "call", "the", "police", "we", "would", "have", "to", "-LRB-", "after", "we", "were", "threaten", "several", "times", "that", "they", "would", "call", "on", "us", "-RRB-", "."], "e1_text": "call", "e1_pos": 5, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

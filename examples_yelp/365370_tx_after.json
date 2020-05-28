@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "My", "friend", "and", "I", "had", "arrived", "on", "a", "late", "flight", "-RRB-", "Luckily", "we", "did", "n't", "have", "to", "pay", "but", "I", "think", "they", "charge", "$", "20", "after", "midnight", "for", "ladies", "and", "guys", "pay", "$", "20", "regardless", "Once", "you", "get", "in", "though", ",", "the", "club", "is", "really", "nice", "."], "e1_text": "charge", "e1_pos": 23, "e2_text": "pay", "e2_pos": 32, "label": "after"}
+]

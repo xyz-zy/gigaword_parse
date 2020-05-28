@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "this", "but", "the", "Manager", "of", "all", "people", "asked", "the", "woman", "behind", "me", "what", "she", "was", "here", "for", "before", "even", "taking", "a", "single", "glance", "at", "me", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "taking", "e2_pos": 21, "label": "before"},
+{"tokens": ["Go", "to", "a", "different", "FedEx", "store", "if", "you", "want", "to", "make", "it", "out", "before", "you", "'re", "old", "and", "crippled", "."], "e1_text": "want", "e1_pos": 8, "e2_text": "'re", "e2_pos": 15, "label": "before"}
+]

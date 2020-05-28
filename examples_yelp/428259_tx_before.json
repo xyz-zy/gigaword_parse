@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "for", "a", "full", "20", "minutes", "before", "my", "meal", "was", "brought", "out", "to", "me", ",", "only", "to", "find", "it", "was", "incorrect", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "my", "fault", "for", "not", "checking", "once", "again", "before", "leaving", ",", "I", "know", ",", "but", "seriously", "?"], "e1_text": "checking", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "'s", "meal", "arrived", "fine", "-LRB-", "albeit", "after", "a", "somewhat", "lengthy", "wait", ",", "though", "I", "was", "willing", "to", "overlook", "that", "given", "we", "went", "on", "a", "Friday", "night", "and", "the", "place", "was", "pretty", "crowded", "-RRB-", ",", "but", "my", "meal", "was", "nowhere", "to", "be", "found", "-", "apparently", "it", "was", "sent", "to", "another", "table", "by", "mistake", ",", "so", "we", "had", "to", "sit", "for", "another", "20", "minutes", "waiting", "on", "my", "dinner", "to", "be", "remade", "while", "my", "husband", "'s", "food", "got", "cold", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

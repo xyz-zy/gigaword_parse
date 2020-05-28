@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "hope", "they", "checked", "all", "the", "stuff", "for", "radiation", "before", "bringing", "the", "stuff", "in", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "bringing", "e2_pos": 10, "label": "before"},
+{"tokens": ["i", "was", "led", "in", "by", "a", "guy", "and", "he", "kinda", "did", "a", "brief", "''", "``", "you", "need", "to", "be", "debriefed", "before", "you", "head", "in", "''", "''", "and", "i", "was", "left", "in", "a", "room", "to", "watch", "a", "video", "of", "some", "guy", "talking", "."], "e1_text": "debriefed", "e1_pos": 19, "e2_text": "head", "e2_pos": 22, "label": "before"}
+]

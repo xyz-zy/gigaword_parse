@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "filed", "a", "claim", "with", "the", "veterinary", "board", "in", "September", "and", "after", "a", "lengthy", "process", "they", "finally", "made", "their", "decision", "yesterday", "."], "e1_text": "filed", "e1_pos": 1, "e2_text": "made", "e2_pos": 17, "label": "after"}
+]

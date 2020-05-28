@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "in", "and", "it", "was", "happy", "hour", "so", "ordered", "a", "mix", "of", "various", "appetizers", "and", "waited", "until", "they", "were", "done", "before", "ordering", "a", "pizza", "."], "e1_text": "done", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 21, "label": "before"}
+]

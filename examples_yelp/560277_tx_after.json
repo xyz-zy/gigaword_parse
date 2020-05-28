@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "do", "n't", "say", "Wow", "after", "paying", "my", "bill", "-LRB-", "to", "go", "-RRB-", "and", "then", "say", "Wow", "after", "eating", ",", "then", "I", "'ll", "just", "be", "the", "once", "or", "twice", "a", "year", "customer", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "paying", "e2_pos": 7, "label": "after"}
+]

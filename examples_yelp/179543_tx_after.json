@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "n't", "do", "that", "and", "even", "after", "spending", "over", "a", "hundred", "dollars", "each", "on", "dinner", "and", "wine", ",", "we", "were", "told", "by", "the", "bouncer", "at", "the", "top", "of", "the", "stairs", "that", "we", "could", "n't", "get", "in", "without", "paying", "the", "cover", "."], "e1_text": "do", "e1_pos": 3, "e2_text": "spending", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Did", "they", "fix", "it", "and", "then", "call", "me", "back", "after", "saying", "they", "'d", "call", "back", "the", "same", "day", "?"], "e1_text": "call", "e1_pos": 6, "e2_text": "saying", "e2_pos": 10, "label": "after"},
+{"tokens": ["How", "many", "times", "did", "I", "have", "to", "get", "transferred", "to", "the", "pharmacy", "when", "I", "called", "back", "after", "they", "did", "n't", "call", "?"], "e1_text": "called", "e1_pos": 14, "e2_text": "did", "e2_pos": 3, "label": "after"}
+]

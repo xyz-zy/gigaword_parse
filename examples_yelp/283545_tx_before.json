@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "offered", "other", "sauce", "options", "without", "batting", "an", "eye", "and", "pointed", "out", "the", "unpasteurized", "cheeses", "on", "the", "board", "before", "we", "even", "had", "to", "ask", "."], "e1_text": "pointed", "e1_pos": 10, "e2_text": "had", "e2_pos": 21, "label": "before"},
+{"tokens": [":-RRB-", "We", "marveled", "at", "their", "selection", "and", "that", "we", "had", "only", "seen", "about", "10", "%", "of", "their", "line-up", "before", "."], "e1_text": ":-RRB-", "e1_pos": 0, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

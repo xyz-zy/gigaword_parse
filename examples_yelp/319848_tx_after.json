@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "never", "came", "back", "after", "serving", "our", "sushi", "and", "we", "were", "stuck", "with", "another", "waitress", "who", "barely", "spoke", "two", "words", "with", "us", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "serving", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "were", "only", "brought", "drinks", "once", ",", "then", "after", "waiting", "20", "minutes", "for", "our", "check", "after", "we", "finished", ",", "I", "stuck", "a", "10", "in", "the", "fold", "and", "left", "because", "the", "waitress", "did", "n't", "come", "back", "to", "retrieve", "it", "."], "e1_text": "brought", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

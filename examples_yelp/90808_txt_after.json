@@ -1,0 +1,3 @@
+[
+{"tokens": ["Take", "home", "message", ":", "Sign", "up", "to", "be", "a", "Gold", "Member", "-LRB-", "it", "is", "free", "-RRB-", ",", "call", "ahead", "to", "ensure", "your", "reservation", "is", "current", "-LRB-", "I", "did", "so", ",", "after", "reading", "these", "reviews", "-RRB-", ",", "and", "you", "should", "be", "good", "to", "go", "."], "e1_text": "did", "e1_pos": 27, "e2_text": "reading", "e2_pos": 31, "label": "after"}
+]

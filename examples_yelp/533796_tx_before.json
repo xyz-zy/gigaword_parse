@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "disappears", "for", "another", "5", "minutes", "before", "she", "comes", "back", "to", "take", "our", "order", "-LRB-", "we", "are", "now", "into", "our", "adventure", "15", "minutes", "-RRB-", "Orders", "are", "made", "around", "the", "table", ",", "and", "just", "as", "she", "takes", "a", "step", "to", "leave", "again", ",", "I", "stop", "her", "to", "ask", "if", "we", "might", "order", "some", "drinks", "?", "''"], "e1_text": "disappears", "e1_pos": 1, "e2_text": "comes", "e2_pos": 8, "label": "before"}
+]

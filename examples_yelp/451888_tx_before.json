@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "prices", "were", "not", "posted", ",", "so", "I", "made", "a", "point", "to", "ask", "how", "much", "stuff", "was", "before", "I", "had", "the", "services", "done", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["Just", "ask", "about", "FIRM", "prices", "before", "you", "have", "services", "done", ":", "-RRB-"], "e1_text": "ask", "e1_pos": 1, "e2_text": "have", "e2_pos": 7, "label": "before"}
+]

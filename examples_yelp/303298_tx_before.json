@@ -1,0 +1,3 @@
+[
+{"tokens": ["then", "when", "we", "tried", "to", "use", "my", "friends", "free", "bowl", "coupon", "the", "server", "told", "us", "that", "it", "had", "already", "been", "used", "even", "though", "she", "showed", "the", "server", "that", "she", "just", "got", "a", "email", "reminder", "that", "she", "needed", "to", "use", "the", "coupon", "before", "it", "expired", "on", "the", "26th", "."], "e1_text": "use", "e1_pos": 5, "e2_text": "expired", "e2_pos": 43, "label": "before"}
+]

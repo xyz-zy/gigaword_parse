@@ -1,0 +1,3 @@
+[
+{"tokens": ["after", "I", "posted", "a", "negative", "review", "he", "called", "me", "up", "to", "scream", "at", "me", "called", "me", "pathetic", "and", "scream", "at", "me", "before", "slamming", "the", "phone", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "slamming", "e2_pos": 22, "label": "before"}
+]

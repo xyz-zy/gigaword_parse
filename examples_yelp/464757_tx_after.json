@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "craving", "for", "something", "filling", "after", "what", "seemed", "like", "a", "purgatorial", "wait", "at", "the", "dealership", "for", "my", "vehicle", "today", "."], "e1_text": "filling", "e1_pos": 4, "e2_text": "seemed", "e2_pos": 7, "label": "after"},
+{"tokens": ["If", "you", "'re", "planning", "to", "go", "elsewhere", "after", "having", "dined", "here", ",", "then", "you", "might", "want", "to", "bring", "cologne", "or", "perfume", "because", "the", "smoky", "BBQ", "bouquet", "will", "cling", "to", "your", "clothes", "."], "e1_text": "go", "e1_pos": 5, "e2_text": "having", "e2_pos": 8, "label": "after"}
+]

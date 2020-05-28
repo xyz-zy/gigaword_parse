@@ -1,0 +1,4 @@
+[
+{"tokens": ["Received", "drinks", "after", "45", "Good", "company", "made", "it", "bearable", "Servers", "were", "disinterested", "They", "follow", "the", "80\\/20", "rule", "in", "serving", "80", "%", "of", "service", "to", "20", "%", "of", "the", "tables", "."], "e1_text": "drinks", "e1_pos": 1, "e2_text": "made", "e2_pos": 6, "label": "after"},
+{"tokens": ["No", "service", "really", "and", "my", "friend", "had", "to", "yell", "and", "wave", "to", "get", "scissors", "after", "waiting", "20", "min", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

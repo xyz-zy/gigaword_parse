@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "can", "get", "a", "little", "loud", "before", "the", "show", "starts", "with", "everyone", "testing", "out", "their", "instrument", ",", "so", "do", "n't", "come", "if", "you", "have", "a", "headache", "!"], "e1_text": "get", "e1_pos": 2, "e2_text": "starts", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "table", "was", "a", "lot", "of", "fun", "because", "we", "had", "a", "few", "skilled", "drummers", ",", "so", "they", "had", "a", "little", "jam", "session", "before", "the", "show", "that", "actually", "sounded", "pretty", "good", "!"], "e1_text": "had", "e1_pos": 9, "e2_text": "sounded", "e2_pos": 27, "label": "before"}
+]

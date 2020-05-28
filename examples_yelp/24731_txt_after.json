@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "to", "the", "E.R.", "with", "a", "serious", "sinus", "infection", ",", "after", "my", "treatment", "at", "a", "local", "urgent", "care", "facility", "was", "not", "working", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

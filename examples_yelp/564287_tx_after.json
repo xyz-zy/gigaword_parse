@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "liked", "it", ",", "but", "I", "felt", "that", "I", "needed", "all", "the", "toothpaste", "in", "the", "world", "after", "I", "finished", "eating", "."], "e1_text": "needed", "e1_pos": 9, "e2_text": "finished", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "'m", "not", "kidding", "when", "I", "say", "that", "my", "teeth", "were", "wearing", "sweaters", "of", "sugar", "after", "I", "got", "done", "eating", "it", "--", "I", "was", "afraid", "that", "they", "were", "going", "to", "fall", "out", "at", "that", "moment", ",", "one", "by", "one", "."], "e1_text": "wearing", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "after"}
+]

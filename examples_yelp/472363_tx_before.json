@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "is", "certainly", "a", "cute", "little", "dinner", ",", "and", "well", "worth", "visiting", "if", "you", "have", "never", "been", "before", "."], "e1_text": "visiting", "e1_pos": 11, "e2_text": "have", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "decided", "to", "try", "it", "before", "going", "to", "the", "comedy", "club", "down", "the", "street", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "going", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "meatloaf", "was", "good", ",", "but", "he", "felt", "he", "had", "eaten", "better", "meatloaf", "before", "."], "e1_text": "felt", "e1_pos": 7, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

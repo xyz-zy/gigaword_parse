@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mom", "hoarded", "the", "aioli", ",", "but", "that", "'s", "fine", "with", "me", "because", "she", "was", "hurting", "after", "ingesting", "too", "much", "fat", "later", "-LRB-", "hehheh", "-RRB-", "."], "e1_text": "hurting", "e1_pos": 14, "e2_text": "ingesting", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "forgot", "how", "unhungry", "I", "was", "after", "having", "my", "first", "bite", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

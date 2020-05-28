@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "At", "least", "this", "last", "time", ",", "the", "girl", "waited", "for", "me", "to", "say", "yes", "before", "sending", "me", "into", "the", "cone", "of", "silence", ",", "which", "is", "more", "than", "I", "can", "say", "for", "the", "first", "two", "calls", "I", "made", "...", "-RRB-", "Eventually", ",", "I", "just", "gave", "up", "on", "each", "call", ",", "hung", "up", ",", "&", "decided", "to", "try", "back", "later", "."], "e1_text": "say", "e1_pos": 13, "e2_text": "sending", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "a", "fine", "meal", "to", "have", "before", "heading", "out", "on", "a", "Pink", "Jeep", "Tour", "!"], "e1_text": "have", "e1_pos": 6, "e2_text": "heading", "e2_pos": 8, "label": "before"},
+{"tokens": ["With", "so", "many", "other", "marvelous", "places", "to", "try", "in", "Sedona", ",", "I", "think", "it", "'ll", "be", "a", "while", "before", "I", "eat", "here", "again", "."], "e1_text": "be", "e1_pos": 15, "e2_text": "eat", "e2_pos": 20, "label": "before"}
+]

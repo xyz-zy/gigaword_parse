@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "bartender", "who", "helped", "us", "did", "n't", "attend", "to", "us", "until", "about", "5", "minutes", "after", "we", "sat", "down", "at", "the", "bar", ",", "and", "not", "because", "it", "was", "busy", ",", "but", "because", "she", "was", "chatting", "with", "the", "other", "bartender", "at", "the", "opposite", "end", "."], "e1_text": "attend", "e1_pos": 8, "e2_text": "sat", "e2_pos": 17, "label": "after"}
+]

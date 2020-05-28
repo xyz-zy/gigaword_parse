@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "in", "a", "hurry", "so", "we", "decided", "to", "check", "this", "place", "out", "after", "reading", "the", "yelp", "reviews", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["A", "pair", "of", "girls", "walking", "by", "got", "stuck", "at", "a", "table", "after", "the", "scary", "man", "outside", "convinced", "them", "to", "sit", "down", "after", "they", "asked", "if", "there", "was", "a", "bathroom", "."], "e1_text": "got", "e1_pos": 6, "e2_text": "convinced", "e2_pos": 16, "label": "after"}
+]

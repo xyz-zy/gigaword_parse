@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", ",", "she", "told", "me", "she", "was", "going", "to", "dry", "my", "hair", "to", "90", "%", "dry", "before", "sending", "me", "to", "the", "mani", "and", "then", "check", "on", "me", "later", "."], "e1_text": "dry", "e1_pos": 9, "e2_text": "sending", "e2_pos": 17, "label": "before"},
+{"tokens": ["But", "I", "had", "put", "the", "tips", "in", "the", "little", "envelopes", "before", "I", "got", "my", "nails", "done", "and", "I", "did", "n't", "want", "to", "wait", "for", "them", "to", "dry", "to", "decrease", "the", "tip", "."], "e1_text": "put", "e1_pos": 3, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

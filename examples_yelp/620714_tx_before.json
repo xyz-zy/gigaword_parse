@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "walked", "up", "and", "decided", "to", "go", "with", "a", "fettuccine", "alfredo", "with", "chicken", "+", "broccoli", "-LRB-", "add", ".50", "-RRB-", ",", "side", "caesar", "salad", "and", "breadsticks", "...", "I", "was", "hungry", "!!!", "I", "wish", "I", "would", "have", "checked", "in", "before", "I", "ordered", ",", "because", "I", "would", "have", "gotten", "those", "breadsticks", "for", "free", "."], "e1_text": "checked", "e1_pos": 35, "e2_text": "ordered", "e2_pos": 39, "label": "before"}
+]

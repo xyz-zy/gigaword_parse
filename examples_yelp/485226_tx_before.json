@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "asked", "before", "I", "scheduled", "an", "appointment", "if", "they", "were", "in", "network", "at", "BCBS", "-", "Yes", "2", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "scheduled", "e2_pos": 4, "label": "before"},
+{"tokens": ["Course", "of", "action", "was", "to", "go", "through", "\\*", "TWO", "\\*", "painful", "spine", "injection", "procedures", "because", "insurance", "required", "it", "before", "longer", "lasting", "RF", "procedure", "."], "e1_text": "required", "e1_pos": 16, "e2_text": "lasting", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "sat", "with", "Valerie", "-LRB-", "This", "was", "before", "I", "even", "know", "this", "was", "all", "out", "of", "network", "-RRB-", "and", "she", "said", "they", "always", "do", "2", "procedures", "because", "they", "do", "n't", "get", "paid", "for", "the", "other", "side", "otherwise", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "know", "e2_pos": 10, "label": "before"}
+]

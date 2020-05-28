@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "one", "sauce", "on", "the", "table", "which", "after", "reading", "reviews", "here", "I", "had", "assumed", "was", "the", "BBQ", "sauce", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["There", "was", "no", "atmosphere", ",", "the", "place", "was", "run", "down", "-LRB-", "does", "n't", "appear", "to", "have", "been", "remodeled", "after", "Shish", "Kabob", "House", "vacated", "-RRB-", "and", "was", "generally", "a", "dirty", "feeling", "place", "."], "e1_text": "remodeled", "e1_pos": 17, "e2_text": "vacated", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "not", "up", "to", "par", "to", "clean", "them", "and", "we", "clearly", "experience", "it", "during", "our", "visit", "with", "our", "milkshakes", "being", "brought", "to", "us", "almost", "a", "full", "20", "minutes", "after", "we", "ordered", "."], "e1_text": "experience", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 32, "label": "after"},
+{"tokens": ["The", "burgers", "arriving", "close", "to", "the", "30", "minute", "mark", "after", "we", "ordered", "at", "the", "counter", "."], "e1_text": "mark", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 11, "label": "after"}
+]

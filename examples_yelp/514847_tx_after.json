@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "in", "Vegas", "recently", "with", "my", "family", "and", "after", "a", "couple", "of", "hours", "roaming", "around", "the", "strip", ",", "we", "were", "\\*", "aching", "\\*", "for", "a", "massage", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "roaming", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "visited", "with", "2", "uncles", ",", "and", "I", "had", "to", "wait", "a", "good", "5", "minutes", "after", "their", "massages", "started", "before", "my", "masseuse", "actually", "arrived", "."], "e1_text": "wait", "e1_pos": 10, "e2_text": "started", "e2_pos": 18, "label": "after"},
+{"tokens": ["Not", "that", "big", "a", "deal", "but", "we", "paid", "for", "an", "hour", "and", "they", "still", "ended", "exactly", "an", "hour", "after", "they", "started", ",", "despite", "my", "massage", "starting", "later", "and", "them", "leaving", "constantly", "to", "answer", "the", "door", "."], "e1_text": "ended", "e1_pos": 14, "e2_text": "started", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "must", "have", "either", "1", "-RRB-", "never", "eaten", "real", "BBQ", "or", "2", "-RRB-", "never", "had", "food", "with", "flavor", "before", "."], "e1_text": "eaten", "e1_pos": 7, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

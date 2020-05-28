@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "receive", "my", "signed", "lease", "until", "a", "month", "and", "a", "half", "after", "I", "moved", "in", "-LRB-", "the", "property", "manager", "hand", "'s", "signed", "it", "-RRB-", "."], "e1_text": "receive", "e1_pos": 3, "e2_text": "moved", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "did", "not", "hear", "back", "from", "her", "until", "after", "the", "deadline", "-LRB-", "5", "weeks", "after", "I", "left", "the", "first", "message", "-RRB-", "."], "e1_text": "hear", "e1_pos": 3, "e2_text": "left", "e2_pos": 16, "label": "after"}
+]

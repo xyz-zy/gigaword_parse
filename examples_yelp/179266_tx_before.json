@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "terrific", "find", "in", "the", "locavore", "vein", ",", "recommended", "to", "us", "by", "multiple", "locals", "when", "we", "tried", "to", "find", "a", "place", "to", "have", "lunch", "on", "Sunday", "before", "leaving", "to", "come", "home", "to", "NYC", "."], "e1_text": "find", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "had", "a", "bloody", "mary", "that", "was", "slighly", "less", "good", "than", "the", "one", "I", "had", "at", "Smoky", "'s", "the", "night", "before", ",", "but", "also", "came", "with", "a", "PBR", "chaser", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "had", "e2_pos": 1, "label": "before"}
+]

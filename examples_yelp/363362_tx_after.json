@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "staying", "at", "the", "palazzo", ",", "and", "eating", "here", "3x", "during", "our", "stay", ",", "we", "noticed", "a", "consistent", "lengthy", "wait", "time", "to", "get", "food", "after", "ordering", "...", "Each", "time", "taking", "well", "over", "50", "minutes", "to", "an", "hour", "."], "e1_text": "get", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 25, "label": "after"}
+]

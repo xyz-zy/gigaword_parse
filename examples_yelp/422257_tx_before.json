@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "done", "big", "races", "before", "that", "they", "try", "to", "estimate", "when", "your", "corral", "will", "be", "released", "-LRB-", "because", "if", "it", "'s", "a", "4:30", "start", "but", "your", "corral", "wont", "'", "go", "until", "5:05", "there", "'s", "no", "reason", "to", "make", "you", "stand", "around", "-RRB-", "."], "e1_text": "done", "e1_pos": 2, "e2_text": "try", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "personally", "had", "a", "pretty", "slow", "run", "due", "to", "coming", "off", "being", "sick", "and", "getting", "terrible", "sleep", "the", "night", "before", ",", "but", "I", "think", "I", "was", "securely", "middle", "of", "the", "pack", "and", "they", "were", "out", "of", "GU", "by", "the", "time", "I", "got", "to", "the", "GU", "stop", "."], "e1_text": "getting", "e1_pos": 14, "e2_text": "think", "e2_pos": 23, "label": "before"}
+]

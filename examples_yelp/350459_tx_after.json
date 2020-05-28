@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "minutes", "before", "receiving", "our", "salads", "we", "finally", "received", "our", "waters", "after", "waiting", "at", "least", "15", "minutes", "."], "e1_text": "received", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "finally", "got", "my", "last", "glass", "of", "wine", "-LRB-", "I", "had", "ordered", "with", "my", "steak", "-RRB-", "after", "I", "was", "finished", "with", "my", "dessert", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "was", "e2_pos": 18, "label": "after"}
+]

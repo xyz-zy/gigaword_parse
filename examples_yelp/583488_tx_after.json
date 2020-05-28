@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "pay", "a", "great", "amount", "of", "money", "for", "good", "food", ",", "but", "if", "I", "'m", "spending", "$", "25", "for", "a", "dish", ",", "am", "never", "given", "entree", "or", "salad", "plates", ",", "am", "asked", "10", "minutes", "-LRB-", "after", "it", "took", "20", "minutes", "to", "get", "my", "food", "on", "an", "absolute", "empty", "night", "-RRB-", "how", "my", "food", "was", ",", "I", "expect", "more", "."], "e1_text": "asked", "e1_pos": 32, "e2_text": "took", "e2_pos": 38, "label": "after"}
+]

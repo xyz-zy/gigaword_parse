@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "front", "desk", "rep", "on", "the", "phone", "told", "me", "to", "call", "back", "later", "and", "also", "that", "there", "were", "no", "smoking", "rooms", "in", "the", "hotel", ",", "yet", "they", "had", "just", "switched", "to", "non-smoking", "the", "day", "before", "-LRB-", "and", "we", "were", "asking", "if", "we", "wanted", "a", "smoking", "room", "when", "we", "checked", "in", "-RRB-", "."], "e1_text": "switched", "e1_pos": 29, "e2_text": "were", "e2_pos": 17, "label": "before"}
+]

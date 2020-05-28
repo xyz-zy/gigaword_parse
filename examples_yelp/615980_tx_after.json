@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "great", "reviews", "on", "yelp", "so", "I", "decided", "to", "give", "it", "a", "try", "one", "afternoon", "after", "eating", "at", "Monta", "."], "e1_text": "decided", "e1_pos": 8, "e2_text": "eating", "e2_pos": 17, "label": "after"},
+{"tokens": ["Ok", ",", "imagine", "taking", "the", "ice", "tray", "from", "your", "freezer", ",", "adding", "water", ",", "a", "little", "bit", "of", "milk", ",", "shaving", "it", "after", "being", "frozen", "and", "Presto", "!"], "e1_text": "shaving", "e1_pos": 20, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

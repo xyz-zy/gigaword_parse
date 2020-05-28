@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "man", "at", "the", "front", "desk", "said", "our", "room", "would", "not", "be", "ready", "for", "TWO", "HOURS", "because", "there", "had", "been", "a", "lot", "of", "guests", "the", "night", "before", "who", "had", "not", "checked", "out", "on", "time", ",", "and", "they", "needed", "time", "to", "clean", "the", "room", "."], "e1_text": "said", "e1_pos": 6, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

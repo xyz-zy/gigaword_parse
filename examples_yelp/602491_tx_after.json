@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "that", "I", "would", "n't", "want", "anyone", "else", "to", "waste", "their", "hard", "earned", "money", "after", "dining", "at", "this", "establishment", ",", "I", "decided", "to", "do", "the", "good", "deed", "anyway", "!"], "e1_text": "earned", "e1_pos": 12, "e2_text": "dining", "e2_pos": 15, "label": "after"},
+{"tokens": ["What", "'s", "more", ",", "they", "jacked", "up", "the", "billing", "transactions", "and", "overcharged", "my", "parties", "debit", "cards", "after", "we", "told", "them", "3", "times", "how", "we", "wanted", "the", "pricing", "broke", "down", "."], "e1_text": "debit", "e1_pos": 14, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

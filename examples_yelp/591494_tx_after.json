@@ -1,0 +1,4 @@
+[
+{"tokens": ["Another", "friend", "came", "after", "we", "just", "placed", "the", "order", ",", "sat", "over", "20", "minutes", "without", "any", "type", "of", "service", "-LRB-", "no", "water", "or", "even", "a", "menu", "-RRB-", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "placed", "e2_pos": 6, "label": "after"},
+{"tokens": ["After", "1\\/2", "hour", "of", "waiting", ",", "we", "noticed", "the", "tables", "around", "came", "after", "us", "got", "their", "food", "even", "few", "ate", "and", "left", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

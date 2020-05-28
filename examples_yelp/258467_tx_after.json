@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "see", "Patricia", "at", "star", "nails", "today", "after", "having", "acrylic", "on", "my", "nails", "for", "many", "years", "I", "decided", "to", "take", "them", "off", "and", "get", "a", "gel", "manicure", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "having", "e2_pos": 10, "label": "after"},
+{"tokens": ["My", "nail", "beds", "were", "very", "thin", "after", "having", "acrylic", "for", "so", "long", ",", "she", "made", "sure", "to", "add", "extra", "gel", "on", "the", "base", "of", "my", "nails", "to", "give", "my", "nails", "more", "strength", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

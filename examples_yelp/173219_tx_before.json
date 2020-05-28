@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "seemed", "to", "disappear", "after", "salad", "was", "served", ",", "even", "though", "other", "tables", "near", "us", "received", "their", "food", "and", "finished", "before", "we", "received", "our", "entrees", "."], "e1_text": "finished", "e1_pos": 20, "e2_text": "received", "e2_pos": 16, "label": "before"}
+]

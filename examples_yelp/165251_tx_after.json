@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "checked", "into", "the", "wrong", "room", "type", "even", "after", "the", "front", "desk", "agent", "repeatedly", "said", "2", "Queens", "?"], "e1_text": "checked", "e1_pos": 2, "e2_text": "said", "e2_pos": 15, "label": "after"},
+{"tokens": ["this", "is", "frustrating", "after", "taking", "almost", "an", "hour", "to", "check", "in", "to", "have", "to", "go", "back", "to", "the", "desk", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "taking", "e2_pos": 4, "label": "after"}
+]

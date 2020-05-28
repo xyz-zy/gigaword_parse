@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "have", "used", "the", "policy", "we", "called", "to", "make", "sure", "that", "we", "understood", "our", "benefits", "and", "after", "taking", "our", "child", "to", "the", "doctor", "learned", "that", "those", "services", "were", "not", "covered", "at", "all", "and", "that", "they", "would", "have", "been", "if", "we", "went", "to", "a", "different", "doctor", "."], "e1_text": "make", "e1_pos": 9, "e2_text": "learned", "e2_pos": 24, "label": "after"}
+]

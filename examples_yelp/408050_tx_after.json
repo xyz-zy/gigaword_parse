@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "went", "to", "this", "store", "to", "register", "for", "a", "baby", "shower", "and", "after", "getting", "our", "scanner", "proceeded", "to", "the", "maternity", "section", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "getting", "e2_pos": 16, "label": "after"}
+]

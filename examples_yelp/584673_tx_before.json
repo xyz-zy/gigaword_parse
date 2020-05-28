@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "more", "problems", "with", "the", "car", "when", "I", "picked", "it", "up", ",", "than", "before", "I", "took", "it", "in", "to", "be", "fixed", "the", "first", "time", ",", "and", "now", "I", "had", "to", "take", "it", "in", "again", "for", "additional", "repairs", "!!", "What", "should", "have", "taken", "2-3", "weeks", "to", "fix", "took", "over", "2", "months", "!"], "e1_text": "picked", "e1_pos": 9, "e2_text": "took", "e2_pos": 16, "label": "before"}
+]

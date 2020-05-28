@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "n't", "had", "one", "before", "but", "my", "mother", "noted", "that", "they", "were", "usually", "much", "better", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "noted", "e2_pos": 9, "label": "before"},
+{"tokens": ["Now", ",", "I", "understand", "the", "idea", "but", "my", "parents", "had", "been", "quite", "open", "in", "their", "intentions", "before", "ordering", "."], "e1_text": "been", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 17, "label": "before"}
+]

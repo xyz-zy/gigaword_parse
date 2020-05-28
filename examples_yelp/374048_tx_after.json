@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "a", "customer", "waiting", "with", "my", "dad", "when", "Jason", "got", "there", ",", "and", "when", "my", "dad", "asked", "for", "him", "to", "please", "open", "the", "store", "so", "he", "could", "sell", "to", "the", "customer", ",", "Jason", "got", "the", "lock", "out", "very", "quickly", "and", "opened", "the", "door", "for", "my", "dad", "-LRB-", "after", "verification", "that", "he", "was", "the", "store", "owner", ",", "of", "course", "-RRB-", "."], "e1_text": "opened", "e1_pos": 41, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

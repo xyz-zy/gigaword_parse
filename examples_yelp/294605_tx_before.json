@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "despite", "knowing", "exactly", "how", "many", "people", "would", "attend", ",", "all", "the", "beer", "tables", "with", "the", "exception", "of", "one", "ran", "out", "of", "their", "beer", "well", "before", "the", "event", "ended", "at", "10pm", ",", "and", "one", "of", "them", "ran", "out", "at", "only", "8pm", "!"], "e1_text": "ran", "e1_pos": 20, "e2_text": "ended", "e2_pos": 29, "label": "before"},
+{"tokens": ["The", "lines", "were", "also", "ridiculously", "long", "to", "sample", "beer", ",", "probably", "in", "part", "to", "some", "tables", "closing", "down", "early", ",", "so", "that", "we", "had", "very", "little", "time", "to", "get", "all", "our", "beer", "samples", "we", "paid", "for", "before", "they", "ran", "out", "-LRB-", "we", "ended", "up", "missing", "a", "few", "-RRB-", "and", "getting", "to", "play", "in", "the", "museum", "."], "e1_text": "paid", "e1_pos": 34, "e2_text": "ran", "e2_pos": 38, "label": "before"}
+]

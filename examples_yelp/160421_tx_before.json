@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "stayed", "in", "Vegas", "6", "times", "before", ",", "all", "different", "hotels", "-LRB-", "PH", "towers", ",", "MGM", ",", "Cosmo", "...", "-RRB-", "...", "Saving", "this", "one", "as", "my", "''", "``", "dream", "hotel", "''", "''", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "Saving", "e2_pos": 22, "label": "before"}
+]

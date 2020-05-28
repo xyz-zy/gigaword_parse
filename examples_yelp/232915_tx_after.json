@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "seated", ",", "we", "were", "n't", "served", "our", "drinks", "until", "after", "the", "tables", "that", "arrived", "after", "ours", "got", "theirs", "and", "neither", "was", "our", "order", "taken", "until", "after", "theirs", "even", "though", "I", "had", "notified", "our", "waiter", "that", "we", "were", "ready", "to", "order", "."], "e1_text": "served", "e1_pos": 6, "e2_text": "arrived", "e2_pos": 14, "label": "after"},
+{"tokens": ["Needless", "to", "say", ",", "we", "walked", "out", "after", "paying", "for", "our", "drinks", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "paying", "e2_pos": 8, "label": "after"}
+]

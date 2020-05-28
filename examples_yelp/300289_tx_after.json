@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "HAD", "to", "bounce", "after", "listening", "to", "the", "music", "."], "e1_text": "bounce", "e1_pos": 3, "e2_text": "listening", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "took", "off", "from", "the", "club", "after", "being", "there", "for", "less", "than", "an", "hour", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

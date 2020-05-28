@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "gave", "me", "my", "number", ",", "my", "pop", "cup", ",", "and", "I", "mosied", "over", "to", "the", "salsa", "bar", "and", "filled", "up", "some", "cups", "with", "different", "salsas", "to", "try", "before", "settling", "at", "a", "high-top", "by", "the", "window", "."], "e1_text": "try", "e1_pos": 27, "e2_text": "settling", "e2_pos": 29, "label": "before"},
+{"tokens": ["Or", "maybe", "that", "'s", "just", "how", "they", "taste", "at", "Rubios", "--", "but", "I", "have", "had", "fish", "tacos", "before", "that", "have", "been", "delightful", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "have", "e2_pos": 13, "label": "before"}
+]

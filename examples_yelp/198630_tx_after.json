@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "table", "across", "from", "us", "sat", "there", "after", "finishing", "their", "meal", "waiting", "for", "the", "waiter", "to", "come", "back", "for", "almost", "the", "entire", "time", "we", "were", "there", ",", "and", "when", "he", "asked", "the", "host", "for", "the", "tab", ",", "he", "told", "the", "guy", "he", "should", "go", "find", "his", "waiter", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "finishing", "e2_pos": 8, "label": "after"}
+]

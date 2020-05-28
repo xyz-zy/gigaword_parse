@@ -1,0 +1,4 @@
+[
+{"tokens": ["4.5", "stars", "Bobby", "flay", "really", "knows", "how", "to", "use", "spices", "!!", "I", "'ve", "been", "there", "4-5", "times", "before", "and", "the", "food", "is", "always", "good", "."], "e1_text": "!!", "e1_pos": 10, "e2_text": "'ve", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "'ve", "encountered", "with", "an", "unfriendly", "hostess", "before", "but", "the", "hostess", "at", "other", "times", "were", "just", "as", "friendly", "and", "as", "welcoming", "as", "the", "waiters\\/waitresses", "there", "."], "e1_text": "encountered", "e1_pos": 2, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

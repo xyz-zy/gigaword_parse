@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "with", "my", "friend", "after", "watching", "Rose", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "watching", "e2_pos": 7, "label": "after"},
+{"tokens": ["So", "it", "'s", "perfect", "after", "a", "night", "out", "in", "Vegas", "of", "drinking", ",", "dancing", ",", "partying", "."], "e1_text": "'s", "e1_pos": 2, "e2_text": "partying", "e2_pos": 15, "label": "after"}
+]

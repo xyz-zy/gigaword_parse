@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "is", "Saturday", "My", "wife", "called", "at", "930", "to", "have", "our", "cat", "seen", "for", "a", "absest", "tooth", "after", "we", "noticed", "him", "drooling", "and", "some", "infection", "."], "e1_text": "seen", "e1_pos": 12, "e2_text": "noticed", "e2_pos": 19, "label": "after"}
+]

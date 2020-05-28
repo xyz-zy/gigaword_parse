@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "if", "I", "'ve", "ever", "spent", "~", "$", "20", "on", "Fettucini", "Alfredo", "before", "coming", "to", "Trevi", ",", "but", "the", "pasta", "was", "damn", "good", "!"], "e1_text": "~", "e1_pos": 9, "e2_text": "coming", "e2_pos": 16, "label": "before"}
+]

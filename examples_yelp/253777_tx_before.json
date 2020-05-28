@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "things", "worse", ",", "I", "tend", "to", "shop", "on", "Monday\\/Tuesdays", "when", "they", "get", "their", "new", "stock", "and", "even", "with", "people", "stocking", "the", "area", ",", "none", "of", "the", "rotting", "fruit", "was", "being", "removed", "and", "if", "they", "had", "just", "put", "the", "fresh", "stuff", "out", ",", "I", "'d", "hate", "to", "see", "what", "was", "there", "before", "."], "e1_text": "see", "e1_pos": 48, "e2_text": "was", "e2_pos": 30, "label": "before"},
+{"tokens": ["I", "'m", "looking", "to", "give", "this", "location", "one", "last", "shot", "before", "going", "to", "a", "different", "Fry", "'s", "or", "next", "door", "to", "Walmart", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "going", "e2_pos": 11, "label": "before"}
+]

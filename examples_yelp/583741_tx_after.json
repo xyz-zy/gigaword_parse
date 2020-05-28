@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "should", "'ve", "known", "after", "waiting", "15", "minutes", "before", "anyone", "greeted", "our", "table", "that", "our", "night", "was", "doomed", "."], "e1_text": "known", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["When", "our", "server", "returned", "with", "our", "beers", "five", "minutes", "later", ",", "he", "dropped", "them", "off", "and", "said", "he", "'d", "be", "right", "back", "after", "he", "dropped", "off", "a", "menu", "at", "another", "table", "."], "e1_text": "be", "e1_pos": 19, "e2_text": "dropped", "e2_pos": 12, "label": "after"},
+{"tokens": ["Another", "few", "minutes", "later", "he", "dropped", "off", "some", "bread", "and", "again", "said", "he", "'d", "be", "right", "back", "to", "take", "our", "order", "after", "he", "dropped", "off", "another", "table", "'s", "bill", "."], "e1_text": "be", "e1_pos": 14, "e2_text": "dropped", "e2_pos": 5, "label": "after"},
+{"tokens": ["Our", "server", "obviously", "felt", "bad", "about", "the", "service", "because", "after", "we", "finished", "eating", ",", "he", "dropped", "off", "our", "check", "and", "told", "us", "he", "was", "deducting", "$", "10", "from", "it", "."], "e1_text": "felt", "e1_pos": 3, "e2_text": "finished", "e2_pos": 11, "label": "after"}
+]

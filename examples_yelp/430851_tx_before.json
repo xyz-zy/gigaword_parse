@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "the", "carne", "asada", "fries", "are", "made", "with", "crinkle", "fries", "that", "are", "salted", "before", "everything", "else", "gets", "thrown", "on", "."], "e1_text": "salted", "e1_pos": 13, "e2_text": "gets", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "'ve", "got", "ta", "learn", "how", "to", "starve", "before", "going", "on", "these", "drunk", "Mexican", "food", "binges", "."], "e1_text": "starve", "e1_pos": 7, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

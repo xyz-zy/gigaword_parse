@@ -1,0 +1,6 @@
+[
+{"tokens": ["What", "ensued", "after", "was", "the", "worst", "hotel", "experience", "I", "have", "ever", "had", "."], "e1_text": "ensued", "e1_pos": 1, "e2_text": "was", "e2_pos": 3, "label": "after"},
+{"tokens": ["A", "sheepish", "''", "``", "Oh", "''", "''", "comes", "back", "after", "the", "situation", "is", "explained", "several", "times", "."], "e1_text": "comes", "e1_pos": 7, "e2_text": "is", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "say", "ok", ",", "but", "after", "he", "leaves", "I", "realize", "that", "'s", "weird", "...", "because", "it", "means", "that", "he", "'s", "just", "going", "to", "use", "his", "key", "to", "come", "in", "...", "while", "I", "'m", "sleeping", "."], "e1_text": "say", "e1_pos": 1, "e2_text": "leaves", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "hotel", "did", "comp", "my", "room", ",", "but", "unbelievably", ",", "sent", "a", "snarky", "email", "after", "we", "checked", "out", ",", "complaining", "about", "my", "colleague", "'s", "room", "charges", "."], "e1_text": "sent", "e1_pos": 10, "e2_text": "checked", "e2_pos": 16, "label": "after"}
+]

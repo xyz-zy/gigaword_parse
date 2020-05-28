@@ -1,0 +1,4 @@
+[
+{"tokens": ["Spirit", "Airlines", ",", "if", "the", "CEO", "is", "watching", ",", "give", "me", "my", "$", "70", "back", "plus", "time", "wasted", "on", "day", "before", "Christmas", "eve", "for", "trying", "to", "get", "back", "what", "is", "mine", "!"], "e1_text": "wasted", "e1_pos": 17, "e2_text": "trying", "e2_pos": 24, "label": "before"},
+{"tokens": ["And", "luckily", "I", "have", "the", "opportunity", "to", "discourage", "each", "family", "member", "before", "flying", "out", "there", "to", "go", "with", "a", "different", "airline", "company", "."], "e1_text": "discourage", "e1_pos": 7, "e2_text": "flying", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "here", "is", "why", "they", "get", "1", "star", ":", "The", "greasy-faced", "young", "teenager", "at", "the", "end", "of", "the", "line", "decided", "that", "when", "he", "called", "my", "number", ",", "he", "was", "going", "to", "wait", "only", "2", "seconds", "before", "putting", "my", "burger", "in", "its", "bag", "back", "in", "a", "place", "away", "from", "the", "other", "food", "."], "e1_text": "wait", "e1_pos": 31, "e2_text": "putting", "e2_pos": 36, "label": "before"},
+{"tokens": ["He", "was", "getting", "the", "fries", "out", "of", "the", "fryer", "so", "I", "understood", "he", "did", "n't", "want", "to", "overcook", "and", "waste", "them", ",", "so", "I", "wasted", "a", "few", "more", "seconds", "before", "saying", "excuse", "me", "louder", "when", "he", "was", "not", "busy", "."], "e1_text": "wasted", "e1_pos": 24, "e2_text": "saying", "e2_pos": 30, "label": "before"}
+]

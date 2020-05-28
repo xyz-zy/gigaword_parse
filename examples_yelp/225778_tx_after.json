@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "was", "brief", "with", "us", ",", "no", "smile", ",", "no", "chit-chat", "or", "other", "suggestions", "&", "after", "the", "food", "came", ",", "he", "did", "n't", "come", "back", "until", "we", "were", "completely", "done", "choking", "it", "all", "down", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "came", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "did", "not", "spend", "much", "to", "decorate", "the", "interior", "or", "the", "exterior", "of", "the", "restaurant", ",", "but", "they", "do", "have", "a", "small", "army", "of", "waiters\\/bussers", "that", "work", "there", "that", "is", "very", "good", "at", "cleaning", "up", "after", "the", "guests", "leave", "and", "picking", "up", "the", "used", "plates", "during", "the", "course", "of", "your", "meal", "."], "e1_text": "cleaning", "e1_pos": 33, "e2_text": "leave", "e2_pos": 38, "label": "after"}
+]

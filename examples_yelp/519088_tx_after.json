@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "as", "I", "walked", "out", "after", "being", "satisfied", ",", "she", "just", "stood", "there", "after", "I", "told", "her", "I", "was", "good", "with", "the", "medium", "."], "e1_text": "walked", "e1_pos": 3, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "guess", "when", "stores", "get", "big", "they", "allow", "their", "original", "and", "loyal", "customers", "to", "leave", "feeling", "frustrated", "and", "annoyed", "after", "being", "treated", "like", "I", "was", "n't", "worthy", "of", "even", "looking", "at", "their", "''", "``", "famous", "''", "''", "Zoltan", "shirt", "."], "e1_text": "feeling", "e1_pos": 15, "e2_text": "being", "e2_pos": 20, "label": "after"}
+]

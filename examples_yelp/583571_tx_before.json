@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "dish", ",", "the", "eggplant", "stew", "was", "waited", "for", "15", "min", "after", "we", "finished", "all", "the", "food", "before", "it", "appeared", "on", "our", "table", "."], "e1_text": "finished", "e1_pos": 14, "e2_text": "appeared", "e2_pos": 20, "label": "before"}
+]

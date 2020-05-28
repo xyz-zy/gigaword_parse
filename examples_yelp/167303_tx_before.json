@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "staying", "at", "the", "Paris", "and", "I", "would", "always", "see", "people", "doing", "the", "al", "fresco", "dining", "when", "I", "'d", "walk", "pass", ",", "so", "I", "thought", "I", "'d", "stop", "in", "and", "try", "to", "grab", "a", "quick", "meal", "before", "flying", "out", "that", "afternoon", "."], "e1_text": "grab", "e1_pos": 33, "e2_text": "flying", "e2_pos": 38, "label": "before"},
+{"tokens": ["In", "the", "end", ",", "I", "jogged", "out", "of", "the", "restaurant", "and", "left", "the", "strip", "an", "hour", "before", "my", "flight", "was", "to", "depart", ";", "barely", "making", "my", "flight", "."], "e1_text": "left", "e1_pos": 11, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

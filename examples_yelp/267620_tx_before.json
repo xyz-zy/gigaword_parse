@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "good", ",", "but", "I", "'d", "try", "something", "else", "next", "before", "ordering", "it", "again", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "ordering", "e2_pos": 12, "label": "before"},
+{"tokens": ["A", "sign", "says", "''", "``", "cash", "only", ",", "''", "''", "but", "I", "used", "Visa", "before", "I", "saw", "it", "and", "they", "accepted", "it", "."], "e1_text": "used", "e1_pos": 12, "e2_text": "saw", "e2_pos": 16, "label": "before"}
+]

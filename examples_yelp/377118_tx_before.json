@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "sure", "if", "she", "understands", "the", "business", "very", "much", "but", "if", "being", "told", "something", "costs", "X", "amount", "before", "ordering", ",", "and", "you", "are", "charged", "Y", "amount", "when", "being", "billed", "and", "when", "bringing", "light", "to", "the", "situation", "you", "are", "told", "you", "are", "wrong", "and", "you", "still", "have", "to", "pay", ",", "even", "she", "admitted", "the", "server", "was", "wrong", "."], "e1_text": "costs", "e1_pos": 14, "e2_text": "ordering", "e2_pos": 18, "label": "before"},
+{"tokens": ["LOL", "...", "Has", "anyone", "ever", "had", "an", "establishment", "say", "they", "were", "going", "to", "call", "the", "police", "even", "before", "you", "left", "?"], "e1_text": "had", "e1_pos": 5, "e2_text": "left", "e2_pos": 19, "label": "before"}
+]

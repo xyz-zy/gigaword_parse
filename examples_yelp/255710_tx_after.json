@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tough", "to", "review", "the", "bakery", "'s", "products", "considering", "I", "walked", "out", "after", "waiting", "at", "the", "counter", "-LRB-", "without", "being", "greeted", "-RRB-", "for", "ten", "minutes", "!"], "e1_text": "walked", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

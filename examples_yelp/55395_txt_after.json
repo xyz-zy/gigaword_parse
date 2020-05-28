@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "a", "big", "deal", ",", "but", "our", "waitress", "had", "no", "idea", "what", "the", "specials", "were", "and", "after", "we", "ordered", "water", "while", "we", "looked", "over", "the", "menu", "she", "sat", "down", "by", "the", "front", "door", "and", "proceeded", "to", "hang", "onto", "a", "guest", "who", "she", "was", "really", "wanting", "to", "talk", "too", "rather", "than", "earn", "a", "tip", "or", "help", "her", "restaurants", "dismal", "Sunday", "sales", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 18, "label": "after"}
+]

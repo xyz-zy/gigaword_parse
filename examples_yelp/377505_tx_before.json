@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "before", "arriving", "and", "learned", "they", "hosted", "a", "knitting", "night", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 5, "label": "before"},
+{"tokens": ["Just", "return", "the", "cup", "before", "you", "leave", "."], "e1_text": "return", "e1_pos": 1, "e2_text": "leave", "e2_pos": 6, "label": "before"}
+]

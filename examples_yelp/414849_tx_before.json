@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "only", "4", "of", "us", "and", "our", "server", "seemed", "so", "stressed", "out", "and", "rushed", "the", "entire", "time", ",", "until", "we", "needed", "the", "check", "and", "then", "she", "took", "forever", "splitting", "it", "since", "she", "forgot", "we", "requested", "separate", "checks", "before", "ordering", "."], "e1_text": "requested", "e1_pos": 35, "e2_text": "ordering", "e2_pos": 39, "label": "before"}
+]

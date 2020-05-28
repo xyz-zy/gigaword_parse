@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "have", "sent", "it", "back", ",", "but", "the", "waiter", "did", "n't", "check", "to", "see", "how", "everything", "was", "until", "about", "fifteen", "minutes", "after", "the", "food", "was", "brought", "to", "the", "table", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "was", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "went", "after", "buying", "the", "GroupOn", "coupon", ",", "but", "wo", "n't", "be", "returning", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "buying", "e2_pos": 3, "label": "after"}
+]

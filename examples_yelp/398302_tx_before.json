@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "quite", "a", "bit", "of", "research", "before", "deciding", "on", "Parvin", "for", "my", "first", "Brazilian", "and", "I", "would", "advise", "first", "timers", "to", "make", "this", "place", "your", "first", "experience", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 8, "label": "before"},
+{"tokens": ["Do", "n't", "be", "fooled", ",", "it", "is", "quite", "painful", "but", "she", "is", "very", "quick", "and", "done", "before", "you", "know", "it", "...", "...", "...", "although", "it", "may", "seems", "like", "a", "lifetime", "in", "that", "moment", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "know", "e2_pos": 18, "label": "before"}
+]

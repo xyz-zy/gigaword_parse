@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "totally", "BUFFADED", "after", "eating", "here", "."], "e1_text": "BUFFADED", "e1_pos": 3, "e2_text": "eating", "e2_pos": 5, "label": "after"},
+{"tokens": ["Yummm", "!!!", "Even", "though", "I", "went", "into", "food", "coma", "after", ",", "I", "enjoyed", "it", "here", "=", "-RRB-"], "e1_text": "went", "e1_pos": 5, "e2_text": "enjoyed", "e2_pos": 12, "label": "after"}
+]

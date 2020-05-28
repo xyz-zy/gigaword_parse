@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", ",", "I", "had", "to", "wait", "more", "than", "10", "minutes", "for", "my", "2", "drinks", "after", "ordering", "as", "I", "watched", "5", "people", "being", "served", "who", "was", "in", "front", "of", "me", "which", "was", "fine", "then", "the", "next", "4", "people", "AFTER", "me", "being", "served", "their", "drink", "within", "3", "mins", "of", "ordering", "plus", "their", "food", "."], "e1_text": "wait", "e1_pos": 7, "e2_text": "ordering", "e2_pos": 17, "label": "after"}
+]

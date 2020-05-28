@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "here", "for", "my", "last", "night", "after", "spending", "my", "whole", "summer", "in", "Phoenix\\/Scottsdale", "and", "it", "was", "perhaps", "the", "worst", "decision", "-LRB-", "and", "my", "least", "favorite", "place", "I", "ate", "at", "over", "the", "entire", "summer", "-RRB-", "!"], "e1_text": "ate", "e1_pos": 1, "e2_text": "spending", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "thoroughly", "bummed", "with", "my", "dining", "experience", "after", "hearing", "constantly", "how", "Zen", "32", "was", "supposedly", "''", "``", "the", "hip", "''", "''", "place", "."], "e1_text": "bummed", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 9, "label": "after"}
+]

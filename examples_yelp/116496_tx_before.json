@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "usual", "the", "food", "was", "great", ",", "but", "the", "service", "suffered", "as", "I", "'ve", "not", "experienced", "before", "."], "e1_text": "suffered", "e1_pos": 10, "e2_text": "'ve", "e2_pos": 13, "label": "before"},
+{"tokens": ["My", "one", "guest", "was", "also", "hit", "on", "the", "backs", "of", "her", "legs", "with", "pieces", "of", "the", "broken", "plates", "-LRB-", "we", "picked", "up", "three", "large", "pieces", "of", "broken", "plate", "before", "leaving", "-RRB-", "."], "e1_text": "picked", "e1_pos": 20, "e2_text": "leaving", "e2_pos": 29, "label": "before"}
+]

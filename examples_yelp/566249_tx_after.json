@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "...", "Because", "this", "place", "is", "right", "outside", "the", "LVAC", "I", "-LRB-", "sometimes", "-RRB-", "go", "to", ",", "I", "only", "ever", "come", "here", "after", "a", "workout", "when", "I", "'m", "starving", "and", "do", "n't", "feel", "like", "paying", "$", "7", "for", "a", "smoothie", "."], "e1_text": "come", "e1_pos": 20, "e2_text": "'m", "e2_pos": 27, "label": "after"},
+{"tokens": ["They", "always", "taste", "the", "way", "Panda", "Express", "chow", "mein", "tastes", "after", "I", "'ve", "left", "it", "sitting", "out", "for", "a", "few", "hours", "and", "then", "get", "back", "to", "it", "between", "episodes", "of", "Arrested", "Development", "."], "e1_text": "chow", "e1_pos": 7, "e2_text": "'ve", "e2_pos": 12, "label": "after"}
+]

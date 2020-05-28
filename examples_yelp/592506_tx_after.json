@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "pop", "machine", "was", "broken", "so", "they", "used", "cans", ",", "which", "was", "ok", "because", "they", "still", "honored", "the", "free", "refills", "but", "their", "menu", ",", "which", "consist", "of", "5", "things", ",", "3", "of", "which", "were", "chicken", ",", "is", "not", "much", "to", "look", "at", "after", "they", "tell", "you", "they", "are", "out", "of", "chicken", "."], "e1_text": "look", "e1_pos": 40, "e2_text": "tell", "e2_pos": 44, "label": "after"}
+]

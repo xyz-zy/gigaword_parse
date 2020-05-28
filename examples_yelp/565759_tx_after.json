@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "woman", "brought", "out", "my", "food", ",", "outside", ",", "after", "I", "told", "her", "I", "my", "step-dad", "was", "watching", "the", "baby", "in", "the", "truck", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "told", "e2_pos": 11, "label": "after"},
+{"tokens": ["Oh", "and", "I", "received", "my", "food", "roughly", "10minutes", "after", "ordering", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 9, "label": "after"}
+]

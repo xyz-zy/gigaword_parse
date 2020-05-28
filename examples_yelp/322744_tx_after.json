@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "'s", "because", "we", "received", "our", "hookah", "\\*", "one", "hour", "\\*", "after", "sitting", "down", "at", "our", "table", "."], "e1_text": "received", "e1_pos": 4, "e2_text": "sitting", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "watched", ",", "first", "concerned", ",", "then", "amused", ",", "then", "downright", "upset", "as", "everyone", "around", "us", "received", "hookahs", "-LRB-", "several", "tables", "who", "had", "arrived", "half", "an", "hour", "after", "we", "did", "got", "served", "before", "us", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 23, "e2_text": "did", "e2_pos": 29, "label": "after"}
+]

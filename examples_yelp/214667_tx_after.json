@@ -1,0 +1,3 @@
+[
+{"tokens": ["Strike", "1", "-", "The", "bartender", "comes", "back", "10", "minutes", "after", "I", "order", "my", "meal", ",", "and", "he", "says", "that", "they", "are", "out", "of", "the", "lunch", "special", ",", "and", "hands", "me", "a", "menu", "."], "e1_text": "comes", "e1_pos": 5, "e2_text": "order", "e2_pos": 11, "label": "after"}
+]

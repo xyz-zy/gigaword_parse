@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "even", "asked", "her", "when", "she", "ordered", "''", "``", "you", "know", "medium", "rare", "means", "pretty", "pink", "in", "the", "middle", "''", "''", "Which", ",", "she", "'s", "had", "steaks", "before", "."], "e1_text": "means", "e1_pos": 14, "e2_text": "'s", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "'d", "have", "complained", "about", "the", "level", "of", "disgust", "I", "had", "with", "them", "while", "the", "manager", "was", "at", "my", "table", "but", "...", "we", "took", "them", "to", "go", "and", "had", "ordered", "them", "before", "I", "realized", "my", "daughters", "steak", "was", "ruined", "."], "e1_text": "ordered", "e1_pos": 29, "e2_text": "realized", "e2_pos": 33, "label": "before"}
+]

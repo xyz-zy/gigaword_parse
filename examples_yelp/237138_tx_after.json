@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "here", ",", "starving", ",", "after", "unnecessarily", "fasting", "for", "over", "15", "hours", "-LRB-", "oh", "laziness", ",", "what", "you", "can", "do", "to", "a", "girl", "-RRB-", "I", "came", "here", ",", "STARVING", "."], "e1_text": "starving", "e1_pos": 4, "e2_text": "fasting", "e2_pos": 8, "label": "after"}
+]

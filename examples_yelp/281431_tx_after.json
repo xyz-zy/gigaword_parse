@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "a", "bloody", "Mary", "after", "we", "were", "seated", "and", "at", "15", "minutes", "it", "had", "yet", "to", "arrive", "and", "the", "place", "was", "not", "even", "full", ",", "so", "this", "seemed", "extreme", "!"], "e1_text": "ordered", "e1_pos": 1, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["Well", "from", "where", "we", "were", "seated", "at", "about", "20", "minutes", "after", "ordering", "I", "see", "him", "go", "over", "to", "the", "bartender", "and", "order", "the", "bloody", "Mary", "."], "e1_text": "seated", "e1_pos": 5, "e2_text": "ordering", "e2_pos": 11, "label": "after"}
+]

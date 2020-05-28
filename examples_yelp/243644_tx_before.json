@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dr.", "Hoag", "put", "my", "husbands", "health", "at", "risk", "by", "canceling", "him", "as", "a", "patient", "before", "allowing", "him", "a", "follow", "up", "after", "the", "antibiotics", "were", "done", "."], "e1_text": "canceling", "e1_pos": 9, "e2_text": "allowing", "e2_pos": 15, "label": "before"}
+]

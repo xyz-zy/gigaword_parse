@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "woman", "on", "the", "phone", "explained", "that", "there", "was", "no", "locksmith", "on", "duty", "and", "after", "less", "than", "stellar", "customer", "service", "stated", "she", "would", "send", "a", "message", "."], "e1_text": "explained", "e1_pos": 5, "e2_text": "stated", "e2_pos": 20, "label": "after"},
+{"tokens": ["To", "add", "further", "insult", "to", "injury", ",", "the", "$", "95", "dollars", "is", "for", "a", "regular", "-LRB-", "not", "alarm", "-RRB-", "key", ",", "although", "that", "same", "$", "95", "would", "have", "been", "the", "amount", "to", "upgrade", "to", "an", "alarm", "key", "had", "he", "contacted", "me", "back", "after", "the", "original", "key", "was", "made", "."], "e1_text": "had", "e1_pos": 37, "e2_text": "was", "e2_pos": 46, "label": "after"}
+]

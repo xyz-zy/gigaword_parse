@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "had", "just", "bought", "my", "MacBook", "Pro", "a", "while", "back", "about", "a", "month", "or", "so", "got", "it", "on", "Black", "Friday", "when", "I", "bought", "it", "full", "price", "@", "1600.00", "or", "so", "n", "they", "gave", "me", "a", "free", "150", "$", "gift", "card", "as", "a", "gift", "also", ",", "which", "I", "thought", "was", "nice", ",", "but", "after", "a", "while", "I", "felt", "I", "really", "did", "n't", "think", "I", "needed", "all", "that", "computer", "thought", "I", "would", "wait", "an", "buy", "one", "with", "less", "memory", "downgrade", "."], "e1_text": "bought", "e1_pos": 23, "e2_text": "needed", "e2_pos": 64, "label": "after"}
+]

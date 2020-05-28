@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "entered", "Los", "Taquitos", "and", "just", "stood", "at", "the", "front", "for", "a", "few", "seconds", "as", "two", "employees", "-LRB-", "I", "think", ",", "one", "for", "sure", "as", "she", "was", "behind", "the", "bar", ",", "the", "other-not", "sure", "based", "on", "her", "booty", "short", "attire", "-RRB-", "looked", "at", "us", "before", "returning", "to", "their", "conversation", "."], "e1_text": "looked", "e1_pos": 41, "e2_text": "returning", "e2_pos": 45, "label": "before"},
+{"tokens": ["Someone", "-LRB-", "a", "third", "woman", "-RRB-", "came", "up", "and", "asked", "if", "we", "had", "been", "here", "before", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

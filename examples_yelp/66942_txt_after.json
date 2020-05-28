@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "6", "trade", "call", "visits", "this", "year", "for", "them", "to", "fix", "my", "air-conditioning", "unit", "after", "their", "technician", "incorrectly", "wired", "the", "unit", "in", "January", "causing", "the", "unit", "to", "run", "hot", "and", "cold", "air", "at", "the", "same", "time", "through", "the", "summer", "months", "."], "e1_text": "fix", "e1_pos": 11, "e2_text": "wired", "e2_pos": 19, "label": "after"},
+{"tokens": ["It", "was", "only", "after", "I", "conducted", "my", "own", "investigation", "at", "my", "own", "expense", ",", "backed", "by", "photographic", "evidence", ",", "which", "documented", "their", "shoddy", "and", "unsafe", "repair", "work", ",", "that", "NHW", "finally", "corrected", "their", "work", "which", "stopped", "the", "excessive", "amp", "draw", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "conducted", "e2_pos": 5, "label": "after"}
+]

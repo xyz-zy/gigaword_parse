@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "like", "I", "should", "be", "on", "Lifestyles", "of", "the", "Rich", "and", "Famous", "after", "feeling", "so", "treated", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "treated", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "know", "that", "seems", "a", "little", "crazy", ",", "but", "I", "really", "felt", "fancy", "after", "eating", "the", "deliciousness", "that", "is", "Art", "of", "Flavors", "."], "e1_text": "felt", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

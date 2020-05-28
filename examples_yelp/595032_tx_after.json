@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "discovered", "an", "hour", "after", "we", "got", "back", "into", "the", "room", "that", "we", "had", "left", "it", "."], "e1_text": "discovered", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "was", "after", "we", "played", "a", "trick", "on", "them", "-LRB-", "my", "boyfriend", "rang", "the", "phone", "and", "I", "kept", "a", "close", "watch", "-RRB-", "that", "they", "then", "turned", "in", "the", "phone", "to", "us", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "played", "e2_pos": 4, "label": "after"}
+]

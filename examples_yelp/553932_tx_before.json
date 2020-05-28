@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "manager", "she", "should", "have", "told", "me", "before", "she", "reordered", "another", "item", "for", "me", "and", "if", "I", "have", "to", "pay", "for", "it", "I", "wanted", "to", "take", "it", "home", ",", "of", "course", "it", "was", "thrown", "out", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "reordered", "e2_pos": 11, "label": "before"}
+]

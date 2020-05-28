@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "our", "waiter", "more", "than", "10", "minutes", "to", "greet", "us", "and", "take", "our", "drink", "order", ",", "and", "it", "took", "about", "15", "minutes", "after", "he", "took", "the", "order", "for", "him", "to", "return", "with", "our", "drinks", "in", "hand", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "took", "e2_pos": 1, "label": "after"},
+{"tokens": ["Our", "waiter", "did", "not", "pay", "any", "more", "attention", "to", "our", "table", "after", "our", "meals", "were", "served", "and", "we", "had", "to", "ask", "another", "waiter", "for", "refills", "on", "our", "drinks", "."], "e1_text": "pay", "e1_pos": 4, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

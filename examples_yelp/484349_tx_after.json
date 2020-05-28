@@ -1,0 +1,4 @@
+[
+{"tokens": ["Considering", "I", "booked", "well", "in", "advance", "before", "they", "got", "wind", "that", "the", "Winter", "Classic", "was", "being", "played", "in", "DC", ",", "I", "got", "the", "room", "for", "a", "reasonable", "rate", "-LRB-", "$", "159\\/night", ",", "which", "it", "jumped", "up", "to", "$", "259", "+", "after", "I", "made", "reservations", "-RRB-", "."], "e1_text": "jumped", "e1_pos": 34, "e2_text": "made", "e2_pos": 42, "label": "after"},
+{"tokens": ["The", "shower", "had", "great", "water", "pressure", "-LRB-", "got", "a", "good", "massage", "from", "it", "-RRB-", ",", "but", "did", "not", "drain", "so", "I", "was", "standing", "in", "Lake", "Wyndham", "very", "shortly", "after", "beginning", "to", "shower", "."], "e1_text": "standing", "e1_pos": 22, "e2_text": "beginning", "e2_pos": 29, "label": "after"}
+]

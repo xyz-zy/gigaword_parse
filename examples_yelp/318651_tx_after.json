@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lost", "all", "interest", "in", "going", "here", "after", "a", "big", "cockroach", "crawled", "across", "our", "table", "a", "little", "before", "the", "nachos", "were", "delivered", "."], "e1_text": "going", "e1_pos": 5, "e2_text": "crawled", "e2_pos": 11, "label": "after"},
+{"tokens": ["And", "yes", ",", "we", "still", "ate", "after", "seeing", "that", "."], "e1_text": "ate", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 7, "label": "after"}
+]

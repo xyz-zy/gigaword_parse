@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "told", "me", "she", "wanted", "to", "dry", "my", "hair", "before", "she", "cut", "it", ",", "which", "I", "was", "okay", "with", "."], "e1_text": "dry", "e1_pos": 7, "e2_text": "cut", "e2_pos": 12, "label": "before"}
+]

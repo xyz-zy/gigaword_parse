@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", "I", "slipped", "and", "had", "already", "eaten", "just", "before", "we", "left", "so", "I", "did", "not", "have", "a", "burger", "but", "they", "sure", "did", "look", "amazing", "."], "e1_text": "eaten", "e1_pos": 6, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

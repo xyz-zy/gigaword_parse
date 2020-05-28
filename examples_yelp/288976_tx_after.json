@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wow", "...", "my", "friends", "and", "I", "went", "here", "last", "night", "after", "checking", "out", "the", "Yelp", "reviews", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "checking", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "had", "a", "stomach", "ache", "for", "about", "two", "hours", "after", "eating", "here", "...", "I", "'m", "thankful", "I", "did", "n't", "get", "sick", ",", "but", "this", "was", "honestly", "the", "worst", "sushi", "experience", "I", "'ve", "ever", "had", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "eating", "e2_pos": 10, "label": "after"}
+]

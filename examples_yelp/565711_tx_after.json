@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "have", "had", "dog", "sitters", "not", "show", "up", "after", "they", "said", "they", "would", "-RRB-", "and", "then", "decided", "I", "should", "text", "in", "case", "they", "do", "n't", "check", "messages", "."], "e1_text": "show", "e1_pos": 7, "e2_text": "said", "e2_pos": 11, "label": "after"}
+]

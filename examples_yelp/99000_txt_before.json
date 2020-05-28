@@ -1,0 +1,4 @@
+[
+{"tokens": ["Umm", "no", "we", "did", "n't", "...", "oh", "and", "wait", ",", "stop", ",", "hold", "up", "...", "let", "me", "get", "this", "straight", "so", "people", "who", "order", "biscuits", "and", "gravy", "and", "french", "toast", "get", "to", "eat", "before", "people", "who", "order", "eggs", "and", "french", "toast", "?"], "e1_text": "eat", "e1_pos": 32, "e2_text": "order", "e2_pos": 36, "label": "before"},
+{"tokens": ["Additional", "Tip", ":", "For", "all", "you", "omelete", "eaters", "out", "there", ",", "they", "cook", "them", "then", "microwave", "them", "before", "they", "'re", "served", "."], "e1_text": "microwave", "e1_pos": 15, "e2_text": "'re", "e2_pos": 19, "label": "before"}
+]

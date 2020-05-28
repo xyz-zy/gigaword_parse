@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "to", "say", "i", "was", "disappointed", "after", "reading", "reviews", "then", "trying", "out", "the", "food", "."], "e1_text": "disappointed", "e1_pos": 6, "e2_text": "trying", "e2_pos": 11, "label": "after"},
+{"tokens": ["Also", ",", "they", "didnt", "have", "Poke", "which", "i", "was", "shocked", "after", "seeing", "pictures", "on", "here", "of", "poke", "."], "e1_text": "shocked", "e1_pos": 9, "e2_text": "seeing", "e2_pos": 11, "label": "after"}
+]

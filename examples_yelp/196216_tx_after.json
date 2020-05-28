@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "ignored", "for", "20", "minutes", "after", "arriving", "at", "our", "table", "."], "e1_text": "ignored", "e1_pos": 2, "e2_text": "arriving", "e2_pos": 7, "label": "after"},
+{"tokens": ["Normally", "I", "would", "n't", "be", "so", "bothered", "when", "I", "have", "good", "conversation", "at", "the", "table", "but", "the", "fact", "that", "tables", "that", "were", "seated", "after", "us", "were", "having", "their", "drink", "orders", "taken", "and", "delivered", "before", "I", "had", "even", "seen", "my", "waiter", "was", "irritating", "."], "e1_text": "seated", "e1_pos": 22, "e2_text": "were", "e2_pos": 21, "label": "after"}
+]

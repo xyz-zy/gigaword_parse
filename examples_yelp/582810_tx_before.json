@@ -1,0 +1,4 @@
+[
+{"tokens": ["Oh", "God", "I", "wish", "I", "would", "have", "read", "these", "reviews", "before", "I", "came", "here", "."], "e1_text": "read", "e1_pos": 7, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "sat", "back", "down", "and", "waited", "another", "10", "minutes", "before", "I", "finally", "asked", "her", "as", "she", "walked", "by", "if", "she", "had", "time", "to", "talk", "to", "me", "yet", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "asked", "e2_pos": 12, "label": "before"}
+]

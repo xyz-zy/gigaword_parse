@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "know", "how", "when", "you", "go", "to", "a", "gas", "station", "and", "pay", "using", "a", "credit\\/debit", "card", "before", "pumping", "gas", "?"], "e1_text": "using", "e1_pos": 12, "e2_text": "pumping", "e2_pos": 17, "label": "before"},
+{"tokens": ["Let", "me", "back", "up", "and", "write", "a", "review", "for", "the", "actual", "dining", "experience", "before", "I", "get", "into", "the", "real", "reason", "for", "my", "1-star", "review", "."], "e1_text": "write", "e1_pos": 5, "e2_text": "get", "e2_pos": 15, "label": "before"}
+]

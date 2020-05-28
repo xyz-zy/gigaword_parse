@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "flagged", "him", "down", "after", "he", "abruptly", "left", "so", "I", "could", "make", "sure", "the", "order", "was", "correct", "and", "his", "answer", "was", "''", "``", "Yeah", "...", "I", "heard", "her", "''", "''", "to", "which", "my", "response", "was", "''", "``", "A", "reply", "of", "receipt", "would", "be", "nice", "!", "''", "''"], "e1_text": "flagged", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lindsey", "dropped", "off", "my", "check", "without", "asking", "me", "if", "I", "wanted", "anything", "else", ",", "nor", "after", "sitting", "on", "the", "check", "for", "about", "15", "minutes", ",", "did", "she", "come", "back", "over", "to", "see", "if", "there", "was", "something", "else", "I", "needed", "."], "e1_text": "did", "e1_pos": 25, "e2_text": "sitting", "e2_pos": 16, "label": "after"}
+]

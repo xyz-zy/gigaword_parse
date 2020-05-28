@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bottom", "line", "if", "you", "care", "about", "you", "car", "you", "should", "avoid", "Broadway", "Quality", "Car", "Wash", "or", "at", "least", "check", "your", "wheels", "and", "rest", "of", "your", "car", "for", "damage", "right", "after", "they", "wash", "it", "and", "not", "wait", "until", "you", "get", "home", "."], "e1_text": "check", "e1_pos": 18, "e2_text": "wash", "e2_pos": 31, "label": "after"}
+]

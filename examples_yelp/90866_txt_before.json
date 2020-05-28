@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "visiting", "friend", "and", "I", "gave", "breakfast", "here", "a", "try", "before", "heading", "to", "Sedona", "back", "in", "April", "'", "08", "."], "e1_text": "gave", "e1_pos": 5, "e2_text": "heading", "e2_pos": 11, "label": "before"},
+{"tokens": ["Service", "was", "very", "slow", "-", "we", "sat", "waiting", "for", "more", "than", "ten", "minutes", "before", "someone", "came", "out", "of", "the", "kitchen", "to", "greet", "us", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

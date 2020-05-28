@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "stopping", "by", "here", "with", "my", "fianc", "\\", "u00e9", "for", "a", "light", "afternoon", "snack", "after", "our", "lunch", "was", "n't", "enough", "food", "for", "either", "of", "us", "."], "e1_text": "stopping", "e1_pos": 3, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "ate", "my", "taco", "right", "after", "receiving", "it", "and", "it", "certainly", "hit", "the", "spot", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 6, "label": "after"}
+]

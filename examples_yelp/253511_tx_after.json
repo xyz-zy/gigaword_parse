@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "person", "who", "''", "``", "finished", "''", "''", "my", "car", "did", "n't", "clean", "the", "inside", "of", "my", "windows", "in", "the", "back", "seats", "-LRB-", "which", "I", "did", "n't", "notice", "until", "after", "I", "was", "gone", "-RRB-", "and", "not", "only", "that", "but", "there", "was", "this", "sales", "girl", "there", "trying", "to", "get", "me", "to", "repair", "my", "windshield", "for", "CASH", "only", "payment", "and", "said", "that", "if", "I", "wanted", "to", "go", "through", "my", "insurance", "I", "would", "have", "to", "come", "back", "."], "e1_text": "notice", "e1_pos": 27, "e2_text": "was", "e2_pos": 31, "label": "after"}
+]

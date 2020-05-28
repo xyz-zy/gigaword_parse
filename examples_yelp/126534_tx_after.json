@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "LOVE", "eating", "at", "nice", "places", "but", "I", "make", "shit", "money", ",", "so", "after", "eating", "at", "a", "couple", "more", "expensive", "places", "my", "gf", "and", "I", "found", "this", "place", "that", "Guy", "`", "The", "Tool", "'", "Fierio", "or", "whatever", "his", "name", "is", "featured", "on", "Diners", ",", "Drive-ins", "and", "Dives", "...", "WHY", "?"], "e1_text": "shit", "e1_pos": 9, "e2_text": "places", "e2_pos": 20, "label": "after"},
+{"tokens": ["She", "was", "nice", "but", "brought", "out", "`", "entrees", "'", "out", "after", "20", "mins", "then", "told", "us", "that", "she", "did", "n't", "remember", "that", "we", "ordered", "poppers", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "told", "e2_pos": 14, "label": "after"}
+]

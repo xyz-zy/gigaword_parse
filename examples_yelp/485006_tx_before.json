@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "friends", "showed", "up", "after", "we", "were", "seated", "-LRB-", "at", "a", "separate", "table", "-RRB-", ",", "and", "they", "ordered", ",", "ate", ",", "and", "left", "before", "our", "food", "showed", "up", "."], "e1_text": "left", "e1_pos": 22, "e2_text": "showed", "e2_pos": 2, "label": "before"}
+]

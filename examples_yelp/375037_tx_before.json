@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "hour", "went", "by", "and", "we", "called", "front", "desk", "to", "check", "the", "status", "only", "to", "be", "put", "on", "hold", "for", "20", "minute", "before", "being", "told", "that", "they", "were", "trying", "to", "connect", "with", "housekeeping", "for", "the", "status", "and", "will", "call", "us", "."], "e1_text": "put", "e1_pos": 16, "e2_text": "being", "e2_pos": 23, "label": "before"}
+]

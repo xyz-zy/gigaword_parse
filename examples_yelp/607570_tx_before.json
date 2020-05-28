@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "for", "the", "popular", "therapists", "and", "immediately", "Sue", "asked", "if", "I", "have", "been", "here", "before", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "have", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "was", "n't", "sure", "and", "said", "yes", "I", "think", "so", "because", "I", "'ve", "been", "to", "massage", "places", "before", "but", "was", "n't", "sure", "if", "it", "was", "this", "particular", "place", "."], "e1_text": "think", "e1_pos": 8, "e2_text": "'ve", "e2_pos": 12, "label": "before"}
+]

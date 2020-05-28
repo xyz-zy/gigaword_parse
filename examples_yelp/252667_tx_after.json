@@ -1,0 +1,3 @@
+[
+{"tokens": ["Must", "cancel", "before", "your", "billing", "date", ",", "or", "they", "charge", "you", "for", "an", "extra", "month", "-LRB-", "after", "you", "'ve", "decided", "you", "'re", "done", "-RRB-", "i.e.", "billing", "date", "Nov", "1", ",", "cancel", "on", "Nov", "2", "and", "they", "'ll", "bill", "you", "Dec", "1", "for", "your", "membership", "to", "finally", "end", "Jan", "1", "."], "e1_text": "charge", "e1_pos": 9, "e2_text": "'ve", "e2_pos": 18, "label": "after"}
+]

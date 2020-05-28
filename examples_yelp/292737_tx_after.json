@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "room", "wasnt", "ready", "2", "hrs", "after", "they", "said", "it", "would", "be", "and", "when", "I", "did", "get", "to", "my", "room", "it", "was", "a", "mess", "and", "smelled", "like", "a", "locker", "room", "."], "e1_text": "hrs", "e1_pos": 5, "e2_text": "said", "e2_pos": 8, "label": "after"}
+]

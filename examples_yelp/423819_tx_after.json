@@ -1,0 +1,4 @@
+[
+{"tokens": ["Furthermore", ",", "many", "times", "they", "have", "repaired", "things", "free", "of", "charge", "even", "after", "my", "warranty", "ended", "."], "e1_text": "repaired", "e1_pos": 6, "e2_text": "ended", "e2_pos": 15, "label": "after"},
+{"tokens": ["Anyway", ",", "I", "will", "most", "definitely", "be", "more", "than", "willing", "to", "purchase", "another", "pricey", "macbook", "-LRB-", "pro", "-RRB-", "after", "this", "one", "finally", "dies", "out", "-LRB-", "although", "I", "'m", "crossing", "my", "fingers", "that", "it", "holds", "out", "until", "I", "finish", "graduate", "school", "-RRB-", ",", "largely", "due", "to", "the", "help", "I", "know", "I", "will", "get", "if", "and", "when", "something", "goes", "wrong", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "dies", "e2_pos": 22, "label": "after"}
+]

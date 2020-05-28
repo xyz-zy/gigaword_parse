@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "for", "what", "seemed", "like", "an", "hour", "before", "the", "live", "entertainment", "started", "."], "e1_text": "seemed", "e1_pos": 4, "e2_text": "started", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "have", "a", "long", "way", "to", "go", "on", "the", "South", "Beach", "diet", "before", "that", "dream", "comes", "true", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "comes", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "about", "10", "minutes", "from", "the", "top", "before", "we", "turned", "around", "...", "I", "knew", "it", "would", "take", "longer", "for", "me", "to", "get", "down", "than", "it", "did", "to", "go", "up", ",", "so", "I", "did", "n't", "want", "to", "risk", "it", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "turned", "e2_pos": 10, "label": "before"},
+{"tokens": ["Pretty", "amazing", "!!!", "This", "hike", "is", "not", "for", "the", "faint", "of", "heart", "but", "will", "certainly", "get", "you", "in", "great", "shape", "!!!", "Know", "before", "you", "go", ":", "Parking", "is", "VERY", "limited", "and", "SUCKS", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "go", "e2_pos": 24, "label": "before"}
+]

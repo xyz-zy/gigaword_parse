@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yes", ",", "it", "'s", "nice", "to", "see", "all", "of", "Vegas", ",", "and", "it", "'s", "a", "cool", "idea", "if", "you", "'ve", "never", "been", "to", "a", "revolving", "restaurant", "before", "."], "e1_text": "'s", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 19, "label": "before"},
+{"tokens": ["Overall", ",", "I", "might", "go", "back", "if", "I", "had", "nothing", "else", "to", "do", "and", "was", "w", "\\/", "somebody", "who", "'d", "never", "been", "that", "before", ",", "but", "other", "than", "that", ",", "it", "'s", "just", "not", "worth", "the", "trouble", "."], "e1_text": "been", "e1_pos": 21, "e2_text": "'s", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Keep", "in", "mind", "this", "review", "is", "based", "on", "the", "first", "time", "I", "went", "to", "this", "restaurant", "2", "summers", "ago", "-", "before", "I", "lived", "in", "Las", "Vegas", "."], "e1_text": "went", "e1_pos": 12, "e2_text": "lived", "e2_pos": 22, "label": "before"}
+]

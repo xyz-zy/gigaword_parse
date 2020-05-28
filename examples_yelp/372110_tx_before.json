@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sushi", "chef", "that", "was", "there", "before", "-LRB-", "think", "his", "name", "was", "Yoshida", "-RRB-", "was", "not", "there", "on", "my", "last", "visit", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "think", "e2_pos": 8, "label": "before"}
+]

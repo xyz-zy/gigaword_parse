@@ -1,0 +1,4 @@
+[
+{"tokens": ["OK", ",", "as", "stated", "before", "we", "are", "big", "HHAGG", "fans", "but", "the", "last", "two", "times", ",", "while", "here", "in", "Vegas", ",", "not", "so", "much", "."], "e1_text": "stated", "e1_pos": 3, "e2_text": "are", "e2_pos": 6, "label": "before"},
+{"tokens": ["This", "place", "was", "unique", "and", "so", "good", "before", "they", "exploded", "with", "so", "many", "locations", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "exploded", "e2_pos": 9, "label": "before"}
+]

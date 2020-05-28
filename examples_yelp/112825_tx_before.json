@@ -1,0 +1,4 @@
+[
+{"tokens": ["after", "throwin", "my", "burger", "out", "i", "figured", "i", "could", "at", "least", "eat", "the", "fries", "-LRB-", "this", "was", "before", "i", "knew", "that", "they", "had", "been", "`", "rally'ed", "up", "-RRB-", "i", "KNEW", "i", "could", "smell", "mayonnaise", "somewhere", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "knew", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "didnt", "take", "a", "very", "long", "look", "at", "all", "of", "the", "nasty", "things", "on", "top", "bc", "i", "had", "to", "trash", "it", "before", "i", "threw", "up", "."], "e1_text": "had", "e1_pos": 17, "e2_text": "threw", "e2_pos": 23, "label": "before"}
+]

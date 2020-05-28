@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "way", "cheaper", "than", "the", "Taxi", "that", "we", "took", "from", "the", "airport", "even", "after", "we", "tipped", "the", "shuttle", "driver", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "tipped", "e2_pos": 16, "label": "after"}
+]

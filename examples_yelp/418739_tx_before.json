@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mom", "and", "I", "came", "in", "for", "some", "drinks", "and", "snacks", "before", "attending", "Zarkana", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "attending", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "wanted", "to", "order", "more", "food", ",", "but", "by", "the", "time", "we", "finally", "found", "her", ",", "there", "was", "n't", "enough", "time", "for", "it", "to", "be", "ready", "before", "the", "show", "started", "."], "e1_text": "be", "e1_pos": 24, "e2_text": "started", "e2_pos": 29, "label": "before"}
+]

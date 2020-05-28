@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dog", "is", "up-to-date", "on", "his\\/her", "shots", "when", "you", "adopt", ",", "microchipping", "and", "neuter\\/spay", "surgery", "is", "performed", "the", "day", "after", "you", "adopt", "your", "dog", ",", "so", "although", "you", "ca", "n't", "take", "your", "dog", "home", "the", "same", "day", "you", "adopt", "-LRB-", "unless", "he\\/she", "has", "already", "been", "fixed", "-RRB-", "at", "least", "you", "only", "have", "to", "wait", "until", "the", "following", "afternoon", "to", "pick", "him\\/her", "up", "."], "e1_text": "performed", "e1_pos": 16, "e2_text": "adopt", "e2_pos": 21, "label": "after"}
+]

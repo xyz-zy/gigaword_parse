@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "finally", "arrived", "after", "he", "had", "finished", "his", "salad", "and", "the", "first", "half", "of", "the", "order", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["He", "then", "made", "some", "small", "talk", "about", "the", "weather", "after", "asking", "where", "we", "were", "from", "-LRB-", "Indiana", "-RRB-", "and", "that", "was", "it", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "asking", "e2_pos": 10, "label": "after"}
+]

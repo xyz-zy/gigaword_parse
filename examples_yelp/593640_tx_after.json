@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "wanted", "to", "have", "us", "fill", "out", "a", "credit", "app", "after", "the", "very", "first", "car", "we", "saw", "and", "when", "we", "declined", "jumping", "the", "gun", "so", "soon", "without", "seeing", "other", "models", ",", "he", "got", "angry", "!"], "e1_text": "wanted", "e1_pos": 1, "e2_text": "saw", "e2_pos": 16, "label": "after"},
+{"tokens": ["He", "even", "lied", "about", "his", "name", "after", "he", "saw", "me", "check", "in", "on", "Yelp", "-LRB-", "as", "if", "I", "did", "n't", "already", "swipe", "his", "business", "card", "from", "his", "desk", "-RRB-", "!"], "e1_text": "lied", "e1_pos": 2, "e2_text": "saw", "e2_pos": 8, "label": "after"}
+]

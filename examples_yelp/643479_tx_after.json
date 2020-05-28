@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "got", "the", "attention", "of", "a", "bartender", "and", "I", "got", "my", "drinks", "rater", "quickly", "after", "I", "was", "able", "to", "place", "the", "order", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "after"},
+{"tokens": ["We", "were", "both", "still", "hungry", "after", "we", "finished", "the", "small", "portion", "controlled", "meals", "and", "there", "was", "no", "way", "we", "were", "going", "to", "make", "a", "second", "attempt", "at", "ordering", "more", "food", "...", "so", "we", "left", "hungry", "and", "went", "on", "to", "have", "a", "real", "dinner", "somewhere", "else", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "finished", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "main", "issue", "with", "this", "location", "comes", "down", "to", "the", "service", ",", "and", "while", "they", "are", "nice", "enough", ",", "it", "might", "actually", "be", "an", "issue", "with", "corporate", "policy", ",", "because", "I", "seem", "to", "have", "to", "go", "in", "and", "get", "extra", "items", "-LRB-", "as", "I", "usually", "go", "through", "the", "drive-through", "when", "I", "'m", "at", "this", "store", ",", "and", "I", "always", "forget", "to", "check", "before", "I", "leave", "the", "window", "-RRB-", "."], "e1_text": "check", "e1_pos": 61, "e2_text": "leave", "e2_pos": 64, "label": "before"}
+]

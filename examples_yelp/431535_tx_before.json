@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "on", "Yelp", "-LRB-", "of", "course", "-RRB-", "before", "taking", "Theo", "in", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "taking", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "had", "spoken", "with", "Cassandra", "before", "taking", "him", "in", "and", "she", "sounded", "very", "friendly", "and", "assured", "me", "that", "my", "car", "-LRB-", "Theo", "-RRB-", "would", "be", "well", "taken", "care", "of", "."], "e1_text": "spoken", "e1_pos": 2, "e2_text": "taking", "e2_pos": 6, "label": "before"},
+{"tokens": ["Cassandra", "had", "given", "me", "an", "estimate", "before", "the", "repair", "that", "was", "very", "accurate", "and", "I", "did", "not", "feel", "overcharged", "or", "hassled", "."], "e1_text": "given", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "knew", "that", "it", "was", "certainly", "working", "before", "I", "dropped", "my", "car", "off", "."], "e1_text": "working", "e1_pos": 6, "e2_text": "dropped", "e2_pos": 9, "label": "before"}
+]

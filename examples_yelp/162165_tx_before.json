@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "that", "the", "best", "waiting", "services", "are", "those", "that", "are", "not", "very", "visible", "but", "are", "attentive", "and", "will", "serve", "your", "needs", "before", "being", "asked", "."], "e1_text": "serve", "e1_pos": 19, "e2_text": "being", "e2_pos": 23, "label": "before"},
+{"tokens": ["But", ",", "it", "'ll", "be", "a", "long", "while", "before", "I", "come", "back", "especially", "when", "there", "are", "so", "many", "other", "options", "there", "in", "Vegas", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "come", "e2_pos": 10, "label": "before"}
+]

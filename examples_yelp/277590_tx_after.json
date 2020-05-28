@@ -1,0 +1,3 @@
+[
+{"tokens": ["WARNING", ":", "DO", "NOT", "ORDER", "FROM", "HERE", "Starving", "and", "exhausted", "after", "driving", "cross", "country", "3500", "miles", ",", "all", "my", "boyfriend", "and", "I", "wanted", "was", "some", "yummy", "chicken", "chow", "mein", "delivered", "to", "us", "after", "eating", "nothing", "but", "PB&J", "and", "bad", "gas", "station", "food", "for", "7", "days", "straight", "."], "e1_text": "exhausted", "e1_pos": 9, "e2_text": "driving", "e2_pos": 11, "label": "after"}
+]

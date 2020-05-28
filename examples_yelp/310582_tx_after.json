@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "must", "say", "I", "felt", "sorry", "for", "all", "the", "parents", "who", "were", "there", "with", "their", "children", "and", "quickly", "left", "after", "seeing", "the", "garbage", "that", "is", "Sirens", "of", "TI", "."], "e1_text": "left", "e1_pos": 18, "e2_text": "seeing", "e2_pos": 20, "label": "after"},
+{"tokens": ["But", "believe", "me", "it", "really", "is", "n't", "worth", "seeing", "and", "dealing", "with", "crowd", "after", "the", "show", "is", "done", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "is", "e2_pos": 5, "label": "after"}
+]

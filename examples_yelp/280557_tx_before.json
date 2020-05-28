@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "headed", "to", "Intermezzo", "before", "hitting", "up", "The", "Comedy", "Zone", "and", "walked", "away", "impressed", "with", "the", "place", "."], "e1_text": "headed", "e1_pos": 1, "e2_text": "hitting", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "ramekin", "must", "have", "been", "placed", "in", "a", "salamander", "before", "coming", "out", "because", "the", "cheese", "topping", "crustified", ",", "much", "like", "a", "french", "onion", "soup", "would", "."], "e1_text": "placed", "e1_pos": 5, "e2_text": "coming", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "line", "about", "10", "minutes", "before", "a", "group", "of", "people", "tried", "to", "cut", "in", "line", "in", "front", "of", "us", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "tried", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "ran", "into", "his", "arm", "before", "trying", "to", "move", "it", "out", "of", "the", "way", "."], "e1_text": "ran", "e1_pos": 1, "e2_text": "trying", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "once", "the", "gentleman", "came", "to", "assist", "us", "after", "customer", "service", "had", "called", "for", "assistance", "two", "times", "."], "e1_text": "assist", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["That", "her", "e-coupon", "was", "not", "valid", "on", "a", "television", "after", "he", "had", "already", "clearly", "told", "her", "that", "it", "would", "work", "on", "the", "television", "because", "it", "was", "a", "''", "''", "home", "''", "''", "item", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

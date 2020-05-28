@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "going", "in", "for", "happy", "hour", "before", "heading", "to", "another", "event", ",", "and", "initially", "figured", "we", "would", "make", "plans", "to", "return", "some", "other", "time", "for", "a", "full", "dinner", "based", "on", "the", "menu", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "heading", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "were", "joined", "by", "someone", "who", "had", "been", "there", "before", ",", "and", "she", "recommended", "the", "fish", "and", "chips", "."], "e1_text": "joined", "e1_pos": 2, "e2_text": "had", "e2_pos": 6, "label": "before"}
+]

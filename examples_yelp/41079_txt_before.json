@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "tomatoes", "were", "obviously", "kept", "for", "too", "long", "in", "the", "fridge", "before", "serving", "as", "they", "were", "not", "firm", "but", "mushy", "with", "tough", "skin", "."], "e1_text": "kept", "e1_pos": 4, "e2_text": "serving", "e2_pos": 12, "label": "before"}
+]

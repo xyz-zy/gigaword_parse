@@ -1,0 +1,4 @@
+[
+{"tokens": ["Seriously", "rude", "...", "I", "mean", "at", "least", "get", "out", "of", "the", "water", "before", "you", "do", "that", "!!", "Did", "n't", "even", "get", "to", "see", "the", "club", "Prive", "because", "it", "was", "shut", "down", "for", "serving", "alcohol", "to", "minors", "and", "prostitution", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "do", "e2_pos": 14, "label": "before"},
+{"tokens": ["P.S.", "check", "your", "bill", "before", "you", "check", "out", "!!!", "I", "heard", "that", "they", "have", "a", "habit", "of", "overcharging", "for", "random", "things", ",", "and", "lo", "and", "behold", "on", "our", "check", "out", "morning", "there", "were", "extra", "charges", "we", "had", "to", "take", "care", "of", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "check", "e2_pos": 1, "label": "before"}
+]

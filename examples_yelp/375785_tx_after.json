@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "also", "non-smoking", "which", "is", "nice", "to", "walk", "into", "after", "walking", "through", "all", "of", "the", "other", "smoking", "hotels", "."], "e1_text": "walk", "e1_pos": 8, "e2_text": "walking", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "received", "an", "on-line", "survey", "regarding", "my", "stay", "after", "I", "checked", "out", "and", "I", "wrote", "out", "the", "issues", "we", "had", "with", "our", "stay", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "checked", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "eaten", "here", "before", "so", "I", "knew", "better", "than", "to", "do", "that", "again", "-LRB-", "stale", "chips", "and", "unrecognizable", "''", "``", "chicken", "''", "''", "tacos", "-RRB-", ",", "but", "after", "waiting", "for", "15", "minutes", "at", "the", "bar", "for", "the", "bartender", "to", "acknowledge", "me", "and", "then", "having", "her", "walk", "past", "me", "to", "ask", "the", "guy", "next", "to", "me", "if", "he", "wanted", "another", "drink", ",", "I", "walked", "out", "this", "time", "."], "e1_text": "eaten", "e1_pos": 2, "e2_text": "knew", "e2_pos": 7, "label": "before"}
+]

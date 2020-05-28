@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nobody", "at", "hostess", "station", "for", "5", "minutes", "and", "then", "flagged", "to", "a", "booth", "where", "we", "sat", "for", "another", "15", "minutes", "without", "a", "hi", ",", "hello", ",", "here", "'s", "some", "water", "and", "I", "'ll", "be", "with", "you", "in", "a", "moment", "but", "the", "two", "groups", "that", "came", "in", "after", "us", "got", "coffee", "and", "their", "orders", "taken", "."], "e1_text": "came", "e1_pos": 44, "e2_text": "got", "e2_pos": 48, "label": "after"}
+]

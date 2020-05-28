@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "perfectly", "filling", "after", "a", "long", "night", "out", "at", "smashboxx\\/hefe\\/etc", "that", "ended", "with", "a", "late", "night", "at", "pattie", "'s", "3", "."], "e1_text": "filling", "e1_pos": 3, "e2_text": "ended", "e2_pos": 12, "label": "after"},
+{"tokens": ["It", "does", "n't", "make", "you", "full", "to", "the", "point", "where", "you", "ca", "n't", "hit", "up", "RnR", "after", "to", "go", "day", "party", "and", "get", "started", "with", "some", "bottomless", "bloodys", "mimosas", "4", "."], "e1_text": "hit", "e1_pos": 13, "e2_text": "mimosas", "e2_pos": 28, "label": "after"}
+]

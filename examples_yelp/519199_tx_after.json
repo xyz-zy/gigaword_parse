@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "I", "'m", "getting", "a", "good", "deal", "on", "the", "pie", "on", "a", "Monday", "night", ",", "but", "you", "are", "the", "ones", "after", "all", "offering", "the", "deal", "so", "you", "should", "serve", "up", "the", "exact", "same", "pizza", "on", "a", "Monday", "as", "you", "do", "on", "a", "Friday", "."], "e1_text": "are", "e1_pos": 18, "e2_text": "offering", "e2_pos": 23, "label": "after"}
+]

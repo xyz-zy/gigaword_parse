@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "so", "meaty", "that", "I", "actually", "only", "managed", "half", "of", "a", "taco", "before", "I", "just", "felt", "unwell", "."], "e1_text": "managed", "e1_pos": 8, "e2_text": "felt", "e2_pos": 16, "label": "before"},
+{"tokens": ["-LRB-", "I", "'ve", "actually", "just", "read", "my", "previous", "review", "...", "if", "only", "I", "'d", "read", "that", "before", "ordering", "the", "\\*", "same", "\\*", "dish", "again", "!"], "e1_text": "read", "e1_pos": 14, "e2_text": "ordering", "e2_pos": 17, "label": "before"}
+]

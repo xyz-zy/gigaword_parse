@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "for", "something", "else", "after", "taking", "a", "few", "bites", "because", "I", "did", "not", "enjoy", "the", "dish", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "taking", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "paid", "for", "my", "meal", "the", "server", "apologized", "I", "will", "never", "ever", "come", "back", "to", "this", "restaurant", "again", "after", "frequenting", "this", "restaurant", "for", "years", "!!!", "You", "have", "lost", "a", "loyal", "customer", "never", "to", "return", "AGAIN", "."], "e1_text": "come", "e1_pos": 12, "e2_text": "!!!", "e2_pos": 24, "label": "after"}
+]

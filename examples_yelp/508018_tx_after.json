@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "going", "to", "say", "Rush", "was", "a", "last", "minute", "resort", "after", "finding", "out", "Terrace", "Cafe", "nearby", "had", "a", "25", "minute", "wait", "for", "lunch", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "had", "e2_pos": 17, "label": "after"},
+{"tokens": ["Along", "with", "weird", "way", "it", "'s", "set", "up", "where", "you", "need", "to", "turn", "onto", "the", "street", "after", "making", "a", "round", "through", "the", "parking", "lot", "."], "e1_text": "turn", "e1_pos": 12, "e2_text": "making", "e2_pos": 17, "label": "after"}
+]

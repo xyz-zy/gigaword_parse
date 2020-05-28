@@ -1,0 +1,3 @@
+[
+{"tokens": ["Literally", "watched", "as", "my", "pizza", "came", "out", "from", "running", "through", "the", "oven", "and", "it", "sat", "on", "a", "table", "for", "a", "solid", "5", "min", "before", "they", "ran", "it", "out", "."], "e1_text": "sat", "e1_pos": 14, "e2_text": "ran", "e2_pos": 25, "label": "before"}
+]

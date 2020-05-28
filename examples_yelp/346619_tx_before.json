@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "the", "meantime", "I", "got", "a", "voicemail", "from", "someone", "who", "invited", "us", "to", "have", "a", "drink", "before", "going", "to", "Haze", "."], "e1_text": "have", "e1_pos": 13, "e2_text": "going", "e2_pos": 17, "label": "before"},
+{"tokens": ["Eventually", ",", "someone", "got", "the", "notice", "that", "we", "were", "''", "``", "paying", "citizens", "''", "''", "and", "finally", "walked", "us", "to", "our", "table", ",", "but", "not", "before", "telling", "us", "they", "were", "getting", "the", "''", "``", "tables", "ready", "''", "''", "still", "."], "e1_text": "walked", "e1_pos": 17, "e2_text": "telling", "e2_pos": 26, "label": "before"}
+]

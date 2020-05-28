@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "my", "#", "1", "suggestion", "is", "to", "eat", "before", "you", "go", "and", "tuck", "a", "drink", "in", "your", "purse", "for", "later", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "go", "e2_pos": 10, "label": "before"},
+{"tokens": ["When", "you", "go", "to", "the", "photo", "area", ",", "you", "'ll", "see", "a", "large", "flat", "screen", "TV", "behind", "the", "counter", "and", "will", "probably", "assume", ",", "as", "we", "did", ",", "that", "this", "is", "to", "display", "your", "picture", "so", "you", "can", "decide", "before", "they", "print", "it", "out", "if", "you", "want", "it", "or", "not", "."], "e1_text": "decide", "e1_pos": 38, "e2_text": "print", "e2_pos": 41, "label": "before"}
+]

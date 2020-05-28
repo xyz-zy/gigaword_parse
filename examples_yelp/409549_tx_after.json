@@ -1,0 +1,4 @@
+[
+{"tokens": ["they", "said", "that", "they", "would", "process", "the", "payment", "28", "days", "after", "the", "sale", "which", "was", "even", "better", "."], "e1_text": "process", "e1_pos": 5, "e2_text": "was", "e2_pos": 14, "label": "after"},
+{"tokens": ["they", "then", "decided", "to", "tell", "us", ",", "30", "days", "after", "they", "gave", "us", "the", "car", ",", "that", "they", "wanted", "another", "$", "1300", "to", "keep", "the", "car", "because", "something", "went", "wrong", "with", "the", "financing", "AND", "for", "us", "to", "pay", "the", "fees", "for", "the", "agent", "!"], "e1_text": "decided", "e1_pos": 2, "e2_text": "gave", "e2_pos": 11, "label": "after"}
+]

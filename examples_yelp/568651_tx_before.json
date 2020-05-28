@@ -1,0 +1,5 @@
+[
+{"tokens": ["But", "my", "experience", "here", "was", "so", "overwhelmingly", "awful", "and", "embarassing", ",", "that", "I", "feel", "as", "though", "people", "need", "to", "know", "how", "these", "people", "run", "their", "business", "before", "deciding", "if", "they", "want", "to", "go", "here", "."], "e1_text": "run", "e1_pos": 23, "e2_text": "deciding", "e2_pos": 27, "label": "before"},
+{"tokens": ["After", "soaking", "his", "feet", ",", "a", "lady", "whom", "I", "had", "never", "seen", "before", "trimmed", "his", "toenails", ",", "but", "upon", "seeing", "his", "foot", "problem", "started", "screaming", "''", "``", "EWWWWW", "!"], "e1_text": "seen", "e1_pos": 11, "e2_text": "trimmed", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "was", "apologizing", "to", "my", "friend", ",", "saying", "how", "they", "had", "never", "been", "this", "rude", "before", "."], "e1_text": "saying", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

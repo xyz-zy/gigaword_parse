@@ -1,0 +1,4 @@
+[
+{"tokens": ["Due", "to", "a", "combination", "of", "both", "it", "being", "my", "first", "time", "traveling", "for", "work", "and", "me", "just", "being", "the", "utter", "most", "forgetful", "person", "ever", ",", "promptly", "after", "dining", "at", "this", "fine", "establishment", ",", "I", "forgot", "my", "receipt", "at", "the", "table", "."], "e1_text": "being", "e1_pos": 7, "e2_text": "dining", "e2_pos": 27, "label": "after"},
+{"tokens": ["This", "was", "also", "after", "being", "THOSE", "patrons", "who", "ask", "for", "separate", "-LRB-", "from", "each", "other", ",", "and", "separate", "tabs", "for", "food", "and", "alcohol", "-RRB-", "AND", "itemized", "checks", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 4, "label": "after"}
+]

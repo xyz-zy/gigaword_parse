@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "to", "speak", "to", "the", "supervisor", "to", "try", "and", "resolve", "my", "anger", ",", "after", "10", "minutes", "on", "hold", "they", "picked", "up", "and", "without", "saying", "a", "word", "hung", "up", "on", "me", "."], "e1_text": "speak", "e1_pos": 3, "e2_text": "picked", "e2_pos": 20, "label": "after"}
+]

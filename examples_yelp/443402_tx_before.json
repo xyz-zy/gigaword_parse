@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "two", "times", "we", "have", "tried", "to", "go", "go", "eat", "here", ",", "they", "have", "been", "closed", "before", "the", "posted", "hours", "and", "this", "past", "weekend", "we", "were", "there", "@", "just", "after", "7:00", "pm", "to", "be", "turned", "away", "at", "the", "door", "by", "staff", "because", "they", "had", "a", "large", "party", "."], "e1_text": "closed", "e1_pos": 16, "e2_text": "posted", "e2_pos": 19, "label": "before"}
+]

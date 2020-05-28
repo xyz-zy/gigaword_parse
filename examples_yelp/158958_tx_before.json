@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "believe", "I", "had", "n't", "been", "to", "AZ", "88", "before", "."], "e1_text": "believe", "e1_pos": 3, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "was", "cheesy", ",", "but", "the", "cheese", "was", "n't", "really", "melted", "-LRB-", "maybe", "it", "had", "sat", "for", "a", "bit", "before", "being", "delivered", "?", "-RRB-", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "being", "e2_pos": 20, "label": "before"}
+]

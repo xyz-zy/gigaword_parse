@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "rub", "salt", "in", "the", "wound", ",", "the", "theater", "opened", "up", "the", "balcony", "and", "opera", "boxes", "after", "the", "opening", "act", "ended", ",", "so", "people", "who", "arrived", "late", "were", "rewarded", "with", "better", "spots", "."], "e1_text": "opened", "e1_pos": 9, "e2_text": "ended", "e2_pos": 20, "label": "after"}
+]

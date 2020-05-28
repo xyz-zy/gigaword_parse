@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Spice", "Market", "Buffet", "-LRB-", "Planet", "Hollywood", "-RRB-", "-", "6:00", "pm", "-", "Just", "beat", "the", "dinner", "rush", "+", "took", "our", "time", "here", "stretching", "our", "tummies", "to", "the", "max", "before", "a", "long", "night", "of", "partying", "ahead", "."], "e1_text": "stretching", "e1_pos": 22, "e2_text": "partying", "e2_pos": 33, "label": "before"},
+{"tokens": ["\\*\\*\\*\\*\\*", "Strategically", ",", "we", "planned", "this", "out", "perfectly", "so", "we", "barely", "had", "any", "line", "waiting", "+", "so", "we", "would", "hit", "up", "the", "better", "3", "buffets", "for", "more", "key", "meal", "times", "-LRB-", "dinner-ish", "before", "a", "long", "night", "of", "partying", "+", "then", "brunch", "the", "following", "day", "-RRB-", "."], "e1_text": "hit", "e1_pos": 19, "e2_text": "partying", "e2_pos": 37, "label": "before"}
+]

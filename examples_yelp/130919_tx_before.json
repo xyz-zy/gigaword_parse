@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "great", ",", "constantly", "checking", "on", "us", "before", "and", "after", "we", "ordered", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "chef", "did", "n't", "dip", "them", "in", "hot", "water", "long", "enough", "to", "prevent", "them", "from", "sticking", "together", "before", "adding", "the", "broth", "."], "e1_text": "sticking", "e1_pos": 15, "e2_text": "adding", "e2_pos": 18, "label": "before"}
+]

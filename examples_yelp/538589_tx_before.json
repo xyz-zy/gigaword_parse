@@ -1,0 +1,3 @@
+[
+{"tokens": ["Edit", ":", "I", "almost", "threw", "my", "drink", "cup", "away", "before", "I", "noticed", "the", "giveaway", "pull", "tab", "on", "it", "--", "I", "won", "a", "free", "slice", "os", "Texas", "toast", "!"], "e1_text": "threw", "e1_pos": 4, "e2_text": "noticed", "e2_pos": 11, "label": "before"}
+]

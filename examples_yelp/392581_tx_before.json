@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "this", "was", "such", "a", "disappointment", ",", "that", "it", "will", "be", "some", "time", "before", "I", "feel", "the", "need", "to", "go", "try", "another", "restaurant", "at", "Aria", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "feel", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "had", "quickly", "searched", "before", "we", "left", "the", "house", "just", "to", "get", "an", "idea", "of", "what", "type", "of", "restaurants", "there", "was", "to", "choose", "from", "."], "e1_text": "searched", "e1_pos": 3, "e2_text": "left", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "silliness", "happened", "after", "I", "had", "already", "asked", "about", "tweaking", "two", "other", "items", "to", "be", "to", "accommodate", "dietary", "restrictions", ",", "and", "was", "told", "that", "everything", "is", "''", "``", "made", "fresh", "''", "''", "except", "for", ",", "apparently", ",", "those", "other", "two", "items", "."], "e1_text": "happened", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["One", "member", "of", "our", "party", "waited", "10", "minutes", "for", "his", "food", "after", "the", "rest", "had", "been", "delivered", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

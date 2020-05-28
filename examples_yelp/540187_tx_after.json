@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", ",", "oops", ",", "they", "forgot", "to", "tell", "me", "that", "it", "was", "discontinued", "...", "after", "I", "had", "confirmed", "with", "them", "that", "it", "had", "shipped", "????", "So", "I", "went", "in", "to", "the", "store", "to", "get", "a", "refund", "...", "no", "apology", ",", "nothing", "."], "e1_text": "tell", "e1_pos": 10, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

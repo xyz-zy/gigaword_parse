@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "we", "sat", "down", "about", "8", "minutes", "before", "4pm", "that", "day", "but", "after", "remembering", "that", "the", "first", "thing", "I", "asked", "the", "bartender", "was", "about", "their", "happy", "hour", "specials", ",", "you", "would", "assume", "you", "would", "get", "happy", "hour", "prices", "or", "she", "would", "tell", "you", "that", "she", "would", "have", "to", "wait", "until", "after", "4pm", "to", "honor", "the", "prices", "if", "their", "pos", "system", "worked", "that", "way", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "remembering", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "sell", "their", "house", "made", "bread", "-LRB-", "for", "a", "reasonable", "$", "3", "a", "loaf", "-RRB-", ",", "but", "nearly", "all", "of", "those", "looked", "burnt", "and", "so", "after", "my", "sandwich", "experience", "I", "decided", "not", "to", "take", "one", "to", "go", "."], "e1_text": "looked", "e1_pos": 21, "e2_text": "experience", "e2_pos": 28, "label": "after"}
+]

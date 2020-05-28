@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "only", "went", "to", "this", "place", "because", "it", "was", "part", "of", "a", "Groupon", "deal", "and", "after", "reading", "reviews", "I", "thought", "''", "``", "everyone", "has", "their", "own", "experiences", "I", "'ll", "give", "this", "a", "chance", ".", "''", "''"], "e1_text": "went", "e1_pos": 2, "e2_text": "reviews", "e2_pos": 17, "label": "after"}
+]

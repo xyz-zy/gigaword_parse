@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "it", "before", "I", "traded", "in", "a", "SUV", "I", "had", "to", "make", "it", "look", "like", "it", "was", "worth", "at", "least", "a", "couple", "grand", "-LRB-", "wishful", "thinking", "-RRB-", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "traded", "e2_pos": 5, "label": "before"},
+{"tokens": ["This", "is", "my", "fault", "I", "guess", "for", "not", "looking", "before", "I", "drove", "away", "."], "e1_text": "looking", "e1_pos": 8, "e2_text": "drove", "e2_pos": 11, "label": "before"}
+]

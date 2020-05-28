@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "office", "has", "gone", "there", "numerous", "times", "in", "the", "past", "and", "recently", "went", "back", "after", "not", "being", "there", "for", "about", "a", "year", "."], "e1_text": "went", "e1_pos": 12, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

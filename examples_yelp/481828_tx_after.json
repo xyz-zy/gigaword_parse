@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Definitely", "not", "worth", "$", "14.95", "-RRB-", "then", "our", "meal", "came", "after", "being", "taken", "60", "minutes", "prior", "and", "presentation", "was", "beautiful", ",", "however", ",", "the", "preparation", "and", "food", "itself", "was", "once", "again", "terrible", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

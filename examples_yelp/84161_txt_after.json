@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "they", "told", "me", "that", "they", "took", "all", "of", "the", "wheels", "off", "the", "vehicle", "to", "check", "the", "brake", "light", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "told", "e2_pos": 4, "label": "after"},
+{"tokens": ["This", "was", "at", "the", "end", "of", "the", "day", "so", "I", "insisted", "they", "keep", "the", "car", "overnight", "and", "fix", "it", "-LRB-", "I", "did", "n't", "want", "responsibility", "for", "the", "car", "after", "they", "damaged", "it", "-RRB-", "."], "e1_text": "want", "e1_pos": 23, "e2_text": "damaged", "e2_pos": 30, "label": "after"}
+]

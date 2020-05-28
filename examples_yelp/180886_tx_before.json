@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*\\*", "Review", "is", "for", "Spring", "Restaurant", "Week", "2014", "menu", "\\*\\*\\*", "I", "arrived", "about", "10", "minutes", "before", "the", "restaurant", "opened", "and", "I", "sat", "in", "the", "bar", "area", "until", "opening", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "opened", "e2_pos": 18, "label": "before"}
+]

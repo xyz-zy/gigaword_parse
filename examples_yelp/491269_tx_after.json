@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "the", "people", "in", "our", "group", "ordered", "a", "chocolate", "shake", "which", "was", "brought", "to", "us", "so", "long", "after", "it", "was", "made", "that", "it", "was", "half-melted", "."], "e1_text": "brought", "e1_pos": 13, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "am", ",", "in", "fact", ",", "quite", "full", "after", "eating", "there", ",", "and", "I", "did", "pay", "a", "relatively", "cheap", "fare", "for", "Vegas", "Strip", "food", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

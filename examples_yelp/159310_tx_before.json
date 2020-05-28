@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "viewed", "their", "return", "policy", "on", "the", "website", "before", "going", "to", "make", "the", "return", "."], "e1_text": "viewed", "e1_pos": 1, "e2_text": "going", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "tried", "taking", "it", "from", "him", "three", "times", "before", "I", "told", "him", "to", "give", "me", "my", "f", "'n", "record", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "told", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "only", "wanted", "us", "to", "fill", "out", "paperwork", "that", "asked", "if", "she", "had", "been", "to", "a", "dog", "park", "before", "and", "provide", "them", "with", "permission", "to", "treat", "her", "in", "case", "of", "an", "emergency", "and", "of", "course", ",", "her", "shot", "records", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "waited", "a", "few", "seconds", "before", "asking", "her", "if", "she", "needed", "my", "dog", "'s", "food", "bag", ",", "blanket", ",", "and", "toys", "that", "was", "sitting", "on", "the", "ground", "in", "front", "of", "me", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "asking", "e2_pos": 6, "label": "before"},
+{"tokens": ["This", "was", "surprising", "because", "she", "is", "a", "very", "clean", "dog", "and", "had", "just", "been", "fully", "groomed", "and", "bathed", "the", "night", "before", "she", "came", "to", "Just", "Like", "Home", "."], "e1_text": "been", "e1_pos": 13, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "little", "nervous", "upon", "our", "arrival", "because", "I", "had", "been", "to", "the", "club", "before", "and", "if", "I", "remembered", "correctly", "...", "it", "was", "a", "dark", "and", "scary", "lesbian", "bar", "with", "ladies", "leering", "at", "you", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "decided", "to", "stay", "for", "a", "drink", "before", "heading", "out", "to", "continue", "our", "night", "out", "."], "e1_text": "stay", "e1_pos": 3, "e2_text": "heading", "e2_pos": 8, "label": "before"}
+]

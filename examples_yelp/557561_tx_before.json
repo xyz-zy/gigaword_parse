@@ -1,0 +1,4 @@
+[
+{"tokens": ["oh", "dear", ",", "i", "hope", "i", "'m", "not", "going", "to", "become", "hated", "by", "all", "the", "cake", "lovers", "and", "bakeries", "in", "edinburgh", ",", "but", "hear", "me", "out", "before", "i", "'m", "you", "start", "to", "boo", "me", "."], "e1_text": "hear", "e1_pos": 23, "e2_text": "'m", "e2_pos": 6, "label": "before"},
+{"tokens": ["i", "was", "actually", "quite", "glad", "i", "'d", "eaten", "a", "quick", "lunch", "before", "going", "."], "e1_text": "eaten", "e1_pos": 7, "e2_text": "going", "e2_pos": 12, "label": "before"}
+]

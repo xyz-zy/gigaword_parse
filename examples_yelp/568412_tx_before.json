@@ -1,0 +1,3 @@
+[
+{"tokens": ["3", "-RRB-", "Eat", "before", "going", "and", "drink", "water", "-LRB-", "24", "-", "32", "oz", "min", "-RRB-", "4", "-RRB-", "if", "you", "take", "aspirin", ",", "max", "320mg", "within", "12", "hrs", "-LRB-", "some", "uncertainty", "on", "time", ",", "could", "be", "less", "or", "more", ",", "I", "spelt", "the", "difference", "-RRB-", "6", "-RRB-", "bring", "2", "ID", "with", "address", "or", "proof", "of", "addresses", "."], "e1_text": "Eat", "e1_pos": 2, "e2_text": "going", "e2_pos": 4, "label": "before"}
+]

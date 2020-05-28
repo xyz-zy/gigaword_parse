@@ -1,0 +1,3 @@
+[
+{"tokens": ["Third", ",", "I", "love", "that", "they", "have", "gluten-free", "crust", "and", "will", "actually", "clean", "the", "oven", "before", "they", "cook", "your", "gluten-free", "pizza", "!!!!", "-LRB-", "Luckily", ",", "I", "'m", "just", "allergic", "--", "not", "celiac", "--", "so", "I", "did", "not", "have", "to", "take", "them", "up", "on", "THAT", ",", "but", "how", "cool", "that", "they", "'ll", "do", "that", "!", "-RRB-"], "e1_text": "clean", "e1_pos": 12, "e2_text": "cook", "e2_pos": 17, "label": "before"}
+]

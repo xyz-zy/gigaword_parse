@@ -1,0 +1,4 @@
+[
+{"tokens": ["Okay", ",", "I", "thought", "I", "liked", "this", "place", "after", "I", "ate", "there", "one", "time", "for", "lunch", "and", "the", "food", "was", "pretty", "good", "."], "e1_text": "liked", "e1_pos": 5, "e2_text": "ate", "e2_pos": 10, "label": "after"},
+{"tokens": ["Still", ",", "though", ",", "everything", "would", "have", "been", "okay", "if", "after", "I", "sent", "it", "back", "the", "OWNER", "of", "the", "restaurant", "did", "not", "run", "up", "to", "our", "table", "with", "the", "flan", "yelling", "at", "us", "that", "he", "could", "n't", "sell", "this", "dessert", "with", "a", "bite", "missing", "!"], "e1_text": "been", "e1_pos": 7, "e2_text": "sent", "e2_pos": 12, "label": "after"}
+]

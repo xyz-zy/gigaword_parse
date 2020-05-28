@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "call", "again", "and", "press", "2", "and", "their", "menu", "says", "''", "``", "system", "error", ",", "hang", "up", "and", "try", "again", "''", "''", "and", "I", "get", "hung", "up", "on", "!!", "I", "have", "tried", "the", "restaurant", "and", "they", "direct", "me", "back", "to", "the", "same", "phone", "menu", "that", "I", "called", "before", ",", "I", "have", "also", "tried", "the", "museum", "and", "they", "direct", "me", "to", "the", "same", "phone", "menu", "that", "I", "called", "myself", "."], "e1_text": "called", "e1_pos": 47, "e2_text": "have", "e2_pos": 31, "label": "before"}
+]

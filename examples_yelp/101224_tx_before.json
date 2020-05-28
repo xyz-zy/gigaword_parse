@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "knows", "I", "LOVE", "breakfast", "and", "brunch", ",", "so", "he", "was", "happy", "to", "treat", "me", "to", "breakfast", "before", "we", "enjoyed", "a", "relaxing", "day", "of", "visiting", "the", "Scottsdale", "Museum", "of", "Contemporary", "Art", "-LRB-", "SMoCA", "-RRB-", "and", "walking", "around", "Old", "Town", "."], "e1_text": "treat", "e1_pos": 14, "e2_text": "enjoyed", "e2_pos": 20, "label": "before"},
+{"tokens": ["Overall", ":", "this", "is", "a", "nice", "place", "for", "brunch", "that", "offers", "reasonably", "priced", "dishes", ",", "a", "cute", "patio", "dining", "area", "to", "enjoy", "when", "the", "weather", "is", "nice", ",", "and", "Orange", "Table", "is", "the", "perfect", "place", "to", "stop", "before", "visiting", "the", "museums", "in", "the", "area", "."], "e1_text": "stop", "e1_pos": 36, "e2_text": "visiting", "e2_pos": 38, "label": "before"}
+]

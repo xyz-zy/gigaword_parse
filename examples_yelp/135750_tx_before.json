@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "took", "care", "of", "the", "''", "``", "cooked", "''", "''", "-LRB-", "well-done", "-RRB-", "meat", "eaters", "at", "our", "table", ",", "and", "the", "''", "``", "let", "me", "hear", "it", "moo", "before", "I", "eat", "it", "''", "''", "eaters", "as", "well", "."], "e1_text": "moo", "e1_pos": 27, "e2_text": "eat", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "listed", "price", "of", "$", "75", "round", "trip", "was", "escalated", "to", "$", "150", "after", "all", "their", "additional", "charges", "-LRB-", "carry", "on", "luggage", ",", "reserving", "ANY", "seats", "...", "-RRB-", "."], "e1_text": "escalated", "e1_pos": 9, "e2_text": "carry", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "in", "after", "a", "little", "wait", "which", "is", "to", "be", "expected", ",", "we", "were", "showed", "to", "our", "table", "which", "was", "still", "dirty", ",", "after", "it", "being", "cleaned", "we", "waited", "for", "our", "server", "for", "20", "mins", "we", "should", "have", "left", "but", "we", "had", "a", "coupon", "for", "drinks", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "is", "e2_pos": 8, "label": "after"},
+{"tokens": ["Our", "sever", "Emmanuelle", "gave", "the", "drinks", "to", "wrong", "table", ",", "after", "noticing", "and", "people", "placing", "straws", "in", "the", "drinks", "he", "takes", "them", "off", "the", "table", "and", "gives", "them", "to", "us", "."], "e1_text": "gave", "e1_pos": 3, "e2_text": "placing", "e2_pos": 14, "label": "after"}
+]

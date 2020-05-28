@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "to", "Tommy", "'s", "for", "dinner", "before", "which", "I", "thought", "was", "good", ",", "but", "pricey", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "thought", "e2_pos": 11, "label": "before"},
+{"tokens": ["As", "I", "had", "stated", "before", "the", "bar", "was", "emptying", "out", "and", "by", "that", "time", "the", "bar", "was", "only", "half", "full", "."], "e1_text": "stated", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

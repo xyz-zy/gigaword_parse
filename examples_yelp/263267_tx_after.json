@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "then", "proceeded", "to", "tell", "me", "that", "the", "phone", "I", "ordered", "was", "n't", "in", "stock", "yet", "after", "I", "had", "already", "received", "a", "phone", "call", "earlier", "that", "same", "day", "notifying", "me", "that", "my", "device", "had", "arrived", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

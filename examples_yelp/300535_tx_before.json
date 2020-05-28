@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "told", "us", "the", "jam", "they", "were", "using", "before", "were", "not", "up", "to", "par", "for", "them", "so", "they", "switched", "to", "making", "their", "own", "-", "works", "for", "me", "!"], "e1_text": "using", "e1_pos": 8, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "polished", "off", "half", "my", "English", "muffin", "before", "I", "turned", "to", "my", "omelet", "."], "e1_text": "polished", "e1_pos": 1, "e2_text": "turned", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "a", "couple", "weeks", "ago", "with", "my", "boyfriend", "for", "late", "night", "dinner", "after", "driving", "from", "CA", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "driving", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "expected", "more", "for", "what", "I", "paid", ",", "especially", "after", "reading", "these", "reviews", "."], "e1_text": "expected", "e1_pos": 1, "e2_text": "reading", "e2_pos": 10, "label": "after"}
+]

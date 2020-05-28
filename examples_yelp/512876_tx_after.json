@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ok", "so", "I", "finally", "decided", "to", "do", "this", "review", "after", "going", "here", "for", "the", "second", "time", "."], "e1_text": "do", "e1_pos": 6, "e2_text": "going", "e2_pos": 10, "label": "after"},
+{"tokens": ["Its", "just", "the", "main", "product", "does", "not", "tickle", "my", "fancy", "even", "after", "giving", "them", "another", "chance", "."], "e1_text": "tickle", "e1_pos": 7, "e2_text": "giving", "e2_pos": 12, "label": "after"}
+]

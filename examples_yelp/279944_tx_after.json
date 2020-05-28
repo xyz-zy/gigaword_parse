@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "I", "went", "across", "the", "street", "to", "the", "shuttle", "area", ",", "the", "man", "there", "was", "very", "rude", ",", "and", "after", "asking", "what", "hotel", "I", "am", "going", "to", ",", "grabbed", "the", "suitcase", "out", "of", "my", "hand", "and", "threw", "it", "onto", "the", "shuttle", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "asking", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "edited", "this", "review", "to", "say", "that", "after", "the", "restaurant", "received", "my", "complaint", ",", "they", "called", "me", "and", "apologized", "."], "e1_text": "say", "e1_pos": 6, "e2_text": "received", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "would", "n't", "really", "know", "on", "the", "rest", "of", "the", "food", "because", "after", "waiting", "for", "over", "an", "hour", "for", "our", "entrees", "to", "show", "up", ",", "we", "had", "them", "wrapped", "up", "to", "go", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

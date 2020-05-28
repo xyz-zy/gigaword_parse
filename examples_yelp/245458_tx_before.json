@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "a", "minimum", ",", "Enotria", "could", "have", "put", "the", "cheese", "platter", "on", "plates", "before", "it", "is", "served", "."], "e1_text": "put", "e1_pos": 7, "e2_text": "is", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "owner", "did", "not", "even", "offer", "to", "allow", "us", "to", "taste", "the", "wine", "before", "we", "ordered", "it", "."], "e1_text": "taste", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 15, "label": "before"}
+]

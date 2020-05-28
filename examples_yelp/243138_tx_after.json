@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "mean", "anything", "since", "I", "returned", "a", "broken", "umbrella", "that", "I", "paid", "$", "700", "bucks", "for", "that", "blew", "over", "in", "the", "wind", "6", "months", "after", "I", "bought", "it", "."], "e1_text": "blew", "e1_pos": 18, "e2_text": "bought", "e2_pos": 27, "label": "after"}
+]

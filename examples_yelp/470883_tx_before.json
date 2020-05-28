@@ -1,0 +1,4 @@
+[
+{"tokens": ["1", "-RRB-", "The", "wait", "staff", "all", "wear", "silly", "costumes", "2", "-RRB-", "Our", "entrees", "came", "out", "before", "the", "appetizers", "which", "was", "totally", "bizarre", "."], "e1_text": "came", "e1_pos": 13, "e2_text": "was", "e2_pos": 19, "label": "before"},
+{"tokens": ["3", "-RRB-", "The", "apps", "were", "dropped", "off", "at", "the", "table", "before", "we", "finished", "the", "entrees", "."], "e1_text": "dropped", "e1_pos": 5, "e2_text": "finished", "e2_pos": 12, "label": "before"}
+]

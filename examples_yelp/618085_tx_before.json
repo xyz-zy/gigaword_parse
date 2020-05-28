@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "dirty", "chai", "latte", ",", "I", "was", "nervous", "that", "it", "was", "going", "to", "be", "too", "sweet", "but", "it", "was", "n't", "and", "they", "made", "sure", "I", "liked", "my", "drink", "before", "I", "left", "."], "e1_text": "liked", "e1_pos": 27, "e2_text": "left", "e2_pos": 32, "label": "before"}
+]

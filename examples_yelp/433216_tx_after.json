@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "been", "here", "several", "times", "passing", "thru", "on", "appointments", "and", "EVERY", "time", "I", "go", "there", ",", "the", "barrista", "'s", "have", "a", "nasty", "attitude", ",", "like", "you", "are", "lucky", "they", "are", "even", "going", "to", "take", "your", "order", "after", "waiting", "a", "couple", "of", "minutes", "at", "the", "counter", "this", "tall", ",", "gangly", ",", "brunette", "with", "big", "glasses", "FINALLY", "turned", "around", "and", "took", "my", "order", "without", "offering", "an", "apology", "for", "the", "wait", "."], "e1_text": "take", "e1_pos": 34, "e2_text": "waiting", "e2_pos": 38, "label": "after"}
+]

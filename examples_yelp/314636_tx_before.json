@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "place", "was", "packed", "and", "we", "had", "to", "wait", "til", "a", "table", "cleared", "before", "we", "got", "to", "sit", "down", "."], "e1_text": "cleared", "e1_pos": 12, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["Thankfully", "a", "family", "was", "leaving", "before", "our", "food", "was", "ready", "or", "else", "we", "would", "'ve", "been", "forced", "to", "take", "our", "food", "to", "go", "."], "e1_text": "leaving", "e1_pos": 4, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["But", "you", "can", "always", "call", "in", "your", "order", "before", "arriving", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "arriving", "e2_pos": 9, "label": "before"}
+]

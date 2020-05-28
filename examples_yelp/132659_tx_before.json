@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "attend", "a", "monthly", "car", "event", "there", "so", "we", "want", "to", "patronize", "the", "business", ",", "but", "next", "time", "we", "will", "eat", "before", "we", "get", "there", "."], "e1_text": "eat", "e1_pos": 20, "e2_text": "get", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "for", "about", "15-20", "minutes", "before", "our", "set-up", "was", "completed", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["There", "is", "a", "blue", "wrapper", "that", "needs", "to", "be", "peeled", "off", "before", "the", "cork", "is", "removable", "."], "e1_text": "peeled", "e1_pos": 9, "e2_text": "is", "e2_pos": 1, "label": "before"}
+]

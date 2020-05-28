@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "happy", "when", "I", "leave", "after", "getting", "4", "new", "tires", "put", "on", "and", "when", "I", "leave", "the", "car", "shakes", "out", "of", "control", ",", "after", "going", "back", "they", "had", "to", "re", "balance", "the", "tire", "so", "now", "I", "'ve", "spent", "over", "2", "hrs", "of", "my", "time", "when", "they", "are", "slow", "and", "I", "made", "a", "appointment", ".", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "put", "e2_pos": 10, "label": "after"}
+]

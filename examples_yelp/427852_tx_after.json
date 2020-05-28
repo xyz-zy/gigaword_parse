@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "used", "to", "have", "the", "best", "sushi", "I", "had", "ever", "had", "...", "went", "in", "there", "6", "months", "ago", "after", "not", "going", "for", "a", "few", "weeks", "and", "it", "was", "horrible", "!"], "e1_text": "went", "e1_pos": 13, "e2_text": "going", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "stopped", "going", "here", "after", "being", "longtime", "customers", "for", "many", "years", "."], "e1_text": "going", "e1_pos": 2, "e2_text": "being", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sorry", "-LRB-", "as", "for", "the", "filthy", "wine", "glass", ",", "it", "was", "replaced", "even", "after", "the", "wine", "was", "poured", "in", "...", "the", "bottle", "was", "replaced", "as", "well", "-RRB-", "."], "e1_text": "replaced", "e1_pos": 11, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

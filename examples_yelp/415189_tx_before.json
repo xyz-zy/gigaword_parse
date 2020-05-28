@@ -1,0 +1,3 @@
+[
+{"tokens": ["1", "-RRB-", "Easy", "access", "to", "reservation", "-", "Since", "I", "was", "not", "able", "to", "make", "a", "reservation", "via", "Opentable", ",", "I", "called", "MO", "and", "was", "transferred", "four", "times", "before", "I", "was", "able", "to", "make", "my", "reservation", "."], "e1_text": "transferred", "e1_pos": 24, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

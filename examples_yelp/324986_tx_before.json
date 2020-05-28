@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "the", "one", "worker", "I", "could", "find", "if", "they", "would", "be", "out", "before", "the", "sale", "was", "over", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "only", "time", "there", "are", "n't", "huge", "lines", "and", "at", "least", "20", "minutes", "of", "waiting", "is", "right", "before", "they", "close", "."], "e1_text": "is", "e1_pos": 15, "e2_text": "close", "e2_pos": 19, "label": "before"}
+]

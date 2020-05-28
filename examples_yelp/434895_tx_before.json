@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "4", "dollar", "mocha", "missed", "the", "yuminess", "mark", ",", "and", "my", "wifes", "cup", "of", "joe", "was", "not", "delicious", "enough", "to", "remind", "her", "she", "had", "wanted", "it", "before", "eating", "most", "of", "her", "meal", "."], "e1_text": "wanted", "e1_pos": 24, "e2_text": "eating", "e2_pos": 27, "label": "before"}
+]

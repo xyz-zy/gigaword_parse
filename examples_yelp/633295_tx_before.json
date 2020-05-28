@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "came", "here", "about", "a", "month", "ago", "before", "seeing", "a", "show", "-LRB-", "we", "are", "locals", "-RRB-", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "apps", "took", "forever", "and", "we", "saw", "half", "of", "the", "order", "sitting", "under", "the", "heat", "lamps", "for", "ten", "minutes", "before", "it", "got", "brought", "to", "us", "."], "e1_text": "sitting", "e1_pos": 11, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

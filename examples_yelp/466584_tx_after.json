@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "hoping", "for", "a", "4", "stars", "dining", "experience", "before", "we", "got", "there", "but", "let", "me", "say", "that", "after", "my", "visit", ",", "awarding", "them", "3", "is", "generous", "."], "e1_text": "say", "e1_pos": 16, "e2_text": "awarding", "e2_pos": 22, "label": "after"},
+{"tokens": ["The", "appetizers", "arrived", "about", "seventy", "minutes", "after", "we", "had", "ordered", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

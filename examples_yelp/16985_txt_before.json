@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "bf", "got", "the", "mushroom", "Swiss", "LUCKILY", "he", "saw", "a", "long", "hair", "strand", "stuck", "in", "the", "cheese", "before", "he", "took", "a", "bite", "!"], "e1_text": "stuck", "e1_pos": 13, "e2_text": "took", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "sat", "there", "10", "min", "before", "our", "waitress", "finally", "came", "back", "so", "we", "had", "to", "wait", "another", "15", "min", "so", "they", "can", "remake", "his", "burger", "that", "time", "I", "did", "n't", "want", "my", "burger", "so", "we", "just", "took", "them", "both", "to", "go", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"}
+]

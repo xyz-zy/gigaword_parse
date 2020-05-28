@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "was", "engaged", "in", "conversation", "with", "a", "guy", "at", "the", "bar", ",", "and", "that", "guy", "had", "to", "point", "out", "that", "our", "WHOLE", "table", "was", "staring", "at", "them", ",", "before", "he", "came", "back", "to", "grab", "our", "cards", "."], "e1_text": "point", "e1_pos": 18, "e2_text": "came", "e2_pos": 31, "label": "before"}
+]

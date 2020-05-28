@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "walked", "away", "from", "the", "Bakery", "counter", "twice", "after", "waiting", "for", "someone", "to", "come", "help", "me", "for", "10", "minutes", ";", "I", "'ll", "even", "walk", "around", "the", "perimeter", "of", "the", "counter", "standing", "on", "my", "tip", "toes", "trying", "to", "get", "a", "glimpse", "of", "an", "employee", "to", "flag", "down", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

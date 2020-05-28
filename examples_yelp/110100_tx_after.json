@@ -1,0 +1,3 @@
+[
+{"tokens": ["old", "kids", "but", "the", "young", "lady", "that", "was", "their", "server", "that", "night", "had", "them", "wait", "40", "minutes", "before", "taking", "their", "order", "after", "telling", "her", "twice", "they", "were", "ready", "and", "her", "response", "was", "''", "``", "I", "'ll", "be", "right", "back", "''", "''", "and", "never", "came", "back", "."], "e1_text": "taking", "e1_pos": 18, "e2_text": "telling", "e2_pos": 22, "label": "after"}
+]

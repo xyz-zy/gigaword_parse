@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "stayed", "on", "the", "strip", "for", "2", "days", "before", "we", "move", "out", "here", "for", "4", "days", ",", "so", "got", "a", "pretty", "good", "feel", "for", "the", "place", ",", "the", "restaurants", ",", "pool", ",", "casino", "etc.", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "move", "e2_pos": 10, "label": "before"}
+]

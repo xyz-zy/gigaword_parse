@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "few", "minutes", "we", "saw", "either", "the", "manager", "or", "owner", "come", "close", "and", "after", "looking", "at", "us", "spoke", "to", "one", "of", "his", "employees", "about", "all", "of", "the", "people", "standing", "near", "the", "door", "."], "e1_text": "come", "e1_pos": 11, "e2_text": "looking", "e2_pos": 15, "label": "after"}
+]

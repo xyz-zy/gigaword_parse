@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "thought", "the", "service", "was", "going", "to", "be", "poor", "when", "our", "food", "was", "delivered", "and", "we", "realized", "the", "extra", "condiments", "we", "ordered", "where", "no", "present", ",", "there", "server", "was", "there", "with", "them", "seconds", "after", "we", "realized", "they", "where", "missing", "-LRB-", "its", "was", "busy", "so", "this", "was", "more", "than", "expectable", "-RRB-", "will", "keep", "this", "in", "mind", "when", "i", "am", "on", "the", "strip", "!!"], "e1_text": "was", "e1_pos": 4, "e2_text": "realized", "e2_pos": 16, "label": "after"}
+]

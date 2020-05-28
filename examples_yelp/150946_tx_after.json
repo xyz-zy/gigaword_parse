@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "for", "more", ",", "and", "the", "water", "brought", "out", "maybe", "another", "dozen", "small", "pieces", ",", "but", "after", "that", "he", "informed", "us", "that", "they", "would", "need", "to", "charge", "for", "more", "bread", "."], "e1_text": "brought", "e1_pos": 8, "e2_text": "informed", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "teahouse", "-LRB-", "the", "24", "hour", "restaurant", "upstairs", "-RRB-", "serves", "okay", "food", "for", "reasonable", "prices", ",", "but", "make", "sure", "you", "have", "everything", "before", "your", "server", "leaves", "because", "it", "'ll", "be", "another", "hour", "until", "you", "see", "him", "to", "flag", "him", "down", "."], "e1_text": "make", "e1_pos": 17, "e2_text": "leaves", "e2_pos": 25, "label": "before"}
+]

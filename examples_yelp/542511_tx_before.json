@@ -1,0 +1,3 @@
+[
+{"tokens": ["for", "my", "appetizer", "to", "come", "that", "it", "came", "minutes", "before", "the", "meals", "started", "coming", ",", "and", "everyone", "at", "the", "table", "had", "their", "meals", "arrive", "at", "a", "different", "time", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "started", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "online", "before", "attending", "to", "make", "sure", "my", "oldest", "daughter", "could", "go", "on", "rides", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "attending", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "was", "in", "the", "area", "minutes", "before", "it", "happened", "and", "staff", "ended", "up", "telling", "us", "to", "stay", "put", "inside", "the", "coliseum", "during", "it", "...", "as", "it", "happened", "directly", "outside", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "happened", "e2_pos": 8, "label": "before"}
+]

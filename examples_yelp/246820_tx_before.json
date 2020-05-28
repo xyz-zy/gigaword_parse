@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "chance", "to", "try", "restaurants", "we", "never", "have", "before", "and", "get", "a", "taste", "of", "what", "they", "have", "to", "offer", "!"], "e1_text": "try", "e1_pos": 3, "e2_text": "have", "e2_pos": 7, "label": "before"},
+{"tokens": ["At", "the", "end", "of", "this", "debacle", ",", "I", "stopped", "in", "the", "ladies", "room", "before", "heading", "home", "...", "and", "low", "and", "behold", "...", "no", "toilet", "tissue", "in", "ANY", "of", "the", "stalls", "!"], "e1_text": "stopped", "e1_pos": 8, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

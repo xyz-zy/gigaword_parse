@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", ",", "I", "asked", "about", "the", "fluoride", "treatment", "before", "they", "gave", "it", "to", "my", "son", ",", "and", "my", "question", "was", "completely", "brushed", "over", "and", "she", "stuck", "it", "in", "his", "mouth", "before", "I", "could", "decide", "if", "I", "wanted", "him", "to", "have", "it", "or", "not", "."], "e1_text": "asked", "e1_pos": 3, "e2_text": "stuck", "e2_pos": 25, "label": "before"}
+]

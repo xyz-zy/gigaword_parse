@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mind", "you", "...", "we", "had", "to", "flag", "down", "our", "server", "to", "re-order", "drinks", "and", "we", "had", "to", "flag", "her", "down", "to", "ask", "about", "our", "dinner", "where", "she", "checked", "on", "it", "...", "said", "the", "kitchen", "was", "busy", "...", "and", "then", "we", "had", "to", "wait", "another", "35", "minutes", "before", "it", "came", "out", "...", "-LRB-", "so", "a", "total", "of", "an", "hour", "and", "a", "half", "from", "the", "time", "we", "ordered", "to", "the", "time", "it", "was", "delivered", ".", "-RRB-"], "e1_text": "wait", "e1_pos": 42, "e2_text": "came", "e2_pos": 48, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "that", "sat", "us", "was", "kind", "of", "snotty", "and", "said", "that", "their", "tables", "are", "only", "for", "full", "dining", "after", "we", "told", "her", "that", "we", "had", "dinner", "earlier", "and", "were", "joining", "our", "friends", "for", "dessert", "and", "drinks", "."], "e1_text": "are", "e1_pos": 14, "e2_text": "told", "e2_pos": 21, "label": "after"}
+]

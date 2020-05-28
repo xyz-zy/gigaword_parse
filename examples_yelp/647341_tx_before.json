@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "checked", "the", "bill", "after", "we", "left", "and", "they", "did", "n't", "discount", "my", "wine", "for", "Wednesday", "''", "``", "1\\/2", "price", "wine", "night", "''", "''", "but", "that", "was", "my", "fault", "for", "not", "checking", "it", "before", "I", "paid", "it", "."], "e1_text": "checking", "e1_pos": 31, "e2_text": "paid", "e2_pos": 35, "label": "before"}
+]

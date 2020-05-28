@@ -1,0 +1,4 @@
+[
+{"tokens": ["Two", "desks", ",", "one", "of", "which", "had", "to", "be", "taken", "apart", "before", "being", "reassembled", "...", "see", ",", "I", "am", "not", "handy", "."], "e1_text": "taken", "e1_pos": 9, "e2_text": "being", "e2_pos": 12, "label": "before"},
+{"tokens": ["But", "Jamie", "did", "tell", "me", "if", "he", "finished", "before", "the", "4", "hours", "he", "estimated", ",", "that", "would", "reflect", "on", "the", "total", "."], "e1_text": "finished", "e1_pos": 7, "e2_text": "estimated", "e2_pos": 13, "label": "before"}
+]

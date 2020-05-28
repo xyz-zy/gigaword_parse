@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "only", "got", "a", "refill", "after", "asking", "for", "one", ",", "when", "my", "glass", "had", "been", "empty", "for", "over", "ten", "minutes", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "asking", "e2_pos": 7, "label": "after"}
+]

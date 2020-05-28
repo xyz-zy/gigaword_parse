@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "showed", "up", "about", "an", "hour", "and", "a", "half", "before", "they", "were", "closing", "on", "Sunday", ",", "quoted", "us", "40", "minute", "wait", ",", "but", "we", "were", "seated", "in", "10", "minutes", "."], "e1_text": "showed", "e1_pos": 1, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["Everything", "was", "extremely", "satisfactory", "and", "we", "mat", "go", "back", "before", "our", "short", "trip", "is", "over", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "is", "e2_pos": 13, "label": "before"}
+]

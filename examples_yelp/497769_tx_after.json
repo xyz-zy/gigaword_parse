@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "the", "lamb", "shawarma", "plates", "-LRB-", "for", "a", "mere", "$", "8.95", "each", "-RRB-", "tonight", "for", "take-out", "after", "my", "brother", "recommended", "this", "place", "."], "e1_text": "plates", "e1_pos": 5, "e2_text": "recommended", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "already", "reserved", "and", "paid", "for", "our", "hotel", "online", "through", "hotels.com", "-LRB-", "$", "100", "for", "the", "weekend", "-RRB-", "I", "read", "the", "fine", "print", "before", "even", "booking", "that", "shows", "a", "resort", "fee", "so", "was", "n't", "surprised", "when", "I", "had", "to", "pay", "an", "extra", "$", "40", "at", "check", "in", "."], "e1_text": "read", "e1_pos": 20, "e2_text": "booking", "e2_pos": 26, "label": "before"}
+]

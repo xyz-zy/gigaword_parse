@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "offer", "a", "`", "service", "'", "to", "wash", "your", "car", "before", "you", "return", ",", "I", "find", "it", "ironic", "since", "sitting", "in", "their", "lot", "is", "what", "makes", "it", "dirty", "."], "e1_text": "wash", "e1_pos": 7, "e2_text": "return", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "also", "chose", "our", "wine", "for", "us", "-LRB-", "after", "we", "'d", "had", "our", "amazing", "Caesars", "first", "-RRB-", "which", "went", "perfectly", "with", "the", "whole", "meal", "."], "e1_text": "chose", "e1_pos": 3, "e2_text": "'d", "e2_pos": 11, "label": "after"}
+]

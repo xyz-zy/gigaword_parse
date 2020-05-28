@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "let", "that", "chill", "for", "another", "10", "minutes", "before", "bringing", "out", "the", "vegan", "noodles", "-LRB-", "shared", "between", "2", "-RRB-", "."], "e1_text": "let", "e1_pos": 1, "e2_text": "bringing", "e2_pos": 9, "label": "before"},
+{"tokens": ["5", "more", "minutes", "passed", "before", "the", "final", "order", "appeared", "."], "e1_text": "passed", "e1_pos": 3, "e2_text": "appeared", "e2_pos": 8, "label": "before"},
+{"tokens": ["Some", "people", "were", "done", "before", "the", "last", "entree", "was", "delivered", ",", "and", "no", "word", "of", "acknowledgement", "of", "the", "delay", "at", "all", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

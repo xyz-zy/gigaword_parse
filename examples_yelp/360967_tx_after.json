@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stand", "at", "the", "counter", ",", "fill", "out", "the", "menus", "and", "after", "several", "minutes", "are", "finally", "told", "we", "could", "seat", "ourselves", "."], "e1_text": "stand", "e1_pos": 1, "e2_text": "are", "e2_pos": 14, "label": "after"},
+{"tokens": ["25", "minutes", "pass", "and", "our", "fries", "arrive", ";", "10", "minutes", "after", "that", "our", "burgers", "arrive", "."], "e1_text": "arrive", "e1_pos": 6, "e2_text": "arrive", "e2_pos": 6, "label": "after"}
+]

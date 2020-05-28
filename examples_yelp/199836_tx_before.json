@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recommend", "arriving", "before", "the", "big", "crowds", "arrive", "so", "you", "can", "enjoy", "proper", "dance", "floor", "space", "."], "e1_text": "arriving", "e1_pos": 2, "e2_text": "arrive", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "do", "n't", "like", "clubs", "once", "they", "'re", "crowded", "so", "we", "got", "there", "at", "11", "pm", "and", "had", "a", "blast", "before", "it", "got", "packed", "."], "e1_text": "'re", "e1_pos": 7, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

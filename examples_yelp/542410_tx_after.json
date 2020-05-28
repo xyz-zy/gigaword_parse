@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "tweaked", "my", "eyebrows", "after", "visiting", "because", "they", "needed", "it", "...", "Some", "people", "have", "nice", ",", "naturally", "arched", "brows", ",", "but", "I", "do", "n't", "."], "e1_text": "tweaked", "e1_pos": 1, "e2_text": "visiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "came", "to", "this", "place", "because", "it", "was", "on", "the", "way", "back", "from", "my", "salon", "and", "it", "had", "good", "reviews", ",", "but", "after", "she", "was", "done", "my", "eyebrows", "still", "had", "no", "shape", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["For", "now", "I", "'ll", "just", "buy", "my", "own", "brow", "scissors", "because", "with", "the", "exception", "of", "the", "lady", "in", "MI", "I", "can", "do", "a", "better", "job", "myself", "...", "I", "even", "sent", "my", "best", "friend", "before\\/after", "pictures", "and", "she", "liked", "my", "eyebrows", "better", "after", "I", "touched", "them", "up", "."], "e1_text": "liked", "e1_pos": 37, "e2_text": "touched", "e2_pos": 43, "label": "after"}
+]

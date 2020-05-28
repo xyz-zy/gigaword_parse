@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "the", "LYNX", "system", ",", "you", "must", "purchase", "your", "ticket", "before", "boarding", "and", "I", "have", "seen", "ticket", "collectors", "often", "."], "e1_text": "purchase", "e1_pos": 7, "e2_text": "boarding", "e2_pos": 11, "label": "before"}
+]

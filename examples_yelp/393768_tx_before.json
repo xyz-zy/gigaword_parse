@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", "they", "forgot", "about", "us", "and", "we", "ended", "up", "waiting", "almost", "45", "min", "before", "we", "got", "seated", "...", "we", "decided", "to", "stay", "so", "long", "because", "we", "thought", "it", "was", "''", "``", "almost", "ready", "''", "''", "and", "did", "not", "expect", "it", "to", "turn", "out", "the", "way", "it", "did", "."], "e1_text": "waiting", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

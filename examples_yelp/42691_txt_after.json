@@ -1,0 +1,3 @@
+[
+{"tokens": ["During", "the", "winter", ",", "it", "'s", "not", "too", "bad", ",", "but", "when", "I", "go", "during", "the", "summer", ",", "it", "sucks", "-", "especially", "right", "after", "checking", "in", "and", "having", "to", "trek", "across", "the", "sprawling", "property", "-LRB-", "nicely", "manicured", ",", "though", "it", "may", "be", "-RRB-", "in", "120", "degree", "weather", "."], "e1_text": "sucks", "e1_pos": 19, "e2_text": "checking", "e2_pos": 24, "label": "after"}
+]

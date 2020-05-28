@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", ",", "I", "did", "n't", "arrive", "to", "the", "gate", "until", "15", "minutes", "before", "take", "off", "due", "to", "a", "problem", "at", "the", "security", "line", "that", "took", "us", "over", "an", "hour", ",", "however", "once", "I", "got", "to", "the", "gate", "they", "had", "already", "given", "my", "seats", "away", "!!!!", "The", "next", "flight", "was", "3", "hours", "later", "so", "I", "had", "to", "wait", "around", "-LRB-", "not", "to", "mention", "my", "original", "flight", "took", "off", "5", "mins", "early", ",", "so", "they", "gave", "my", "seats", "away", "way", "before", "the", "time", "they", "were", "suppose", "to", "-RRB-", "."], "e1_text": "arrive", "e1_pos": 5, "e2_text": "take", "e2_pos": 13, "label": "before"}
+]

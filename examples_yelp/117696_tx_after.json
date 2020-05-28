@@ -1,0 +1,3 @@
+[
+{"tokens": ["Between", "forgetting", "to", "wash", "multiple", "windows", "-LRB-", "one", "I", "caught", "before", "they", "left", ",", "then", "two", "others", "that", "I", "saw", "after", "they", "had", "left", "-RRB-", ",", "forgetting", "to", "relock", "the", "windows", "afterward", ",", "bending", "a", "sunscreen", "-LRB-", "which", "they", "took", "so", "they", "can", "have", "it", "fixed", ",", "hopefully", "-RRB-", "."], "e1_text": "saw", "e1_pos": 19, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

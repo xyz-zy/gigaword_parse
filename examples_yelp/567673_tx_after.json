@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "had", "a", "decent", "selection", "of", "bottles", "to", "choose", "from", ",", "but", "after", "ordering", "the", "wait", "got", "to", "the", "point", "where", "I", "was", "looking", "around", "and", "annoyingly", "asking", "the", "PIC", "''", "``", "Where", "the", "hell", "are", "our", "beers", "?", "''", "''"], "e1_text": "had", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 13, "label": "after"},
+{"tokens": ["Then", ",", "refills", "had", "to", "be", "requested", "by", "flagging", "down", "our", "server", "5", "minutes", "after", "my", "glass", "sat", "empty", ",", "and", "my", "PIC", "who", "ordered", "a", "Guinness", "was", "told", "upon", "trying", "to", "order", "another", "that", "they", "were", "out", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "sat", "e2_pos": 17, "label": "after"}
+]

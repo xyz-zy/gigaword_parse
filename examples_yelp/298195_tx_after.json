@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "me", "just", "say", "they", "didnt", "pay", "their", "bills", "before", "they", "opened", "-LRB-", "we", "are", "still", "waiting", "for", "payment", "-RRB-", "and", "they", "seem", "to", "be", "continuing", "their", "wonderful", "business", "practices", "after", "they", "opened", "!"], "e1_text": "continuing", "e1_pos": 25, "e2_text": "opened", "e2_pos": 11, "label": "after"}
+]

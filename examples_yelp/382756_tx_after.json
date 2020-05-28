@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "finally", "got", "seated", "-LRB-", "after", "more", "than", "15", "minutes", ",", "but", "that", "'s", "ok", "-RRB-", ",", "we", "knew", "what", "we", "wanted", "and", "our", "server", "took", "our", "order", "very", "quickly", "."], "e1_text": "seated", "e1_pos": 4, "e2_text": "'s", "e2_pos": 14, "label": "after"},
+{"tokens": ["He", "was", "nice", "and", "never", "really", "forgot", "about", "us", "until", "after", "our", "entrees", "were", "dropped", "off", "."], "e1_text": "forgot", "e1_pos": 6, "e2_text": "were", "e2_pos": 13, "label": "after"}
+]

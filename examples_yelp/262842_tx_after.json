@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "sent", "his", "meal", "back", "after", "4-5", "small", "bites", "-LRB-", "he", "said", "he", "really", "tried", "to", "get", "it", "down", "but", "he", "loves", "his", "meat", "and", "this", "was", "dog", "food", "quality", "if", "that", ",", "I", "would", "n't", "feed", "my", "dogs", "this", "-RRB-", "."], "e1_text": "sent", "e1_pos": 2, "e2_text": "said", "e2_pos": 12, "label": "after"}
+]

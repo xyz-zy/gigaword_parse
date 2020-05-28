@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "2nd", "thing", "was", "that", "the", "waitress", "took", "our", "drinks", "away", "before", "she", "brought", "us", "the", "bill", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "brought", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "'ve", "never", "had", "a", "waitress", "do", "that", "before", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "do", "e2_pos": 6, "label": "before"},
+{"tokens": ["She", "just", "came", "to", "our", "table", ",", "asked", "if", "we", "needed", "anything", "and", "then", "cleared", "the", "entire", "table", "before", "she", "brought", "the", "bill", "."], "e1_text": "cleared", "e1_pos": 14, "e2_text": "brought", "e2_pos": 20, "label": "before"}
+]

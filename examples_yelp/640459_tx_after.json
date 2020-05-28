@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "the", "server", "was", "a", "bit", "overbearing", "and", "pushy", ",", "trying", "to", "sell", "us", "this", ",", "that", ",", "and", "the", "other", "thing", "after", "we", "made", "it", "clear", "to", "her", "several", "times", "-LRB-", "I", "thought", "-RRB-", "that", "we", "just", "needed", "some", "time", "to", "look", "at", "the", "menus", "-LRB-", "yes", ",", "plural", "...", "and", "they", "'re", "all", "huge", "-RRB-", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "made", "e2_pos": 24, "label": "after"},
+{"tokens": ["Failure", "#", "2", "was", "the", "hibachi", "chicken", ",", "which", "took", "at", "least", "10", "minutes", "to", "arrive", "after", "the", "rest", "of", "us", "were", "served", "lunch", "."], "e1_text": "arrive", "e1_pos": 15, "e2_text": "were", "e2_pos": 21, "label": "after"}
+]

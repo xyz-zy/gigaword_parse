@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tara", ":", "Lied", "told", "us", "we", "get", "free", "stay", "after", "maid", "left", "rusted", "nail", "on", "floor", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "left", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "family", "stayed", "for", "four", "nights", "and", "paid", "even", "after", "Steven", "underhanded", "our", "rates", "like", "previous", "guest", "experience", "."], "e1_text": "paid", "e1_pos": 7, "e2_text": "underhanded", "e2_pos": 11, "label": "after"}
+]

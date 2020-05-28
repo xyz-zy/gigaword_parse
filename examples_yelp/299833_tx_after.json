@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "4", "of", "us", "and", "you", "know", "how", "it", "is", "when", "you", "share", "an", "ap", ",", "nobody", "wants", "to", "be", "the", "one", "to", "finish", "it", "-", "well", ",", "our", "waitress", "finally", "made", "her", "way", "back", "to", "our", "table", "-LRB-", "after", "I", "had", "an", "empty", "glass", "for", "over", "10", "minutes", "-RRB-", "and", "without", "asking", "took", "the", "plate", "of", "calamari", "!"], "e1_text": "made", "e1_pos": 32, "e2_text": "had", "e2_pos": 42, "label": "after"},
+{"tokens": ["The", "service", "is", "horrendous", "-", "and", "I", "say", "that", "only", "after", "giving", "it", "several", "tries", "."], "e1_text": "say", "e1_pos": 7, "e2_text": "giving", "e2_pos": 11, "label": "after"}
+]

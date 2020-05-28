@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "gone", "to", "beauty", "salons", "where", "English", "is", "n't", "the", "first", "language", "before", "."], "e1_text": "gone", "e1_pos": 2, "e2_text": "is", "e2_pos": 8, "label": "before"},
+{"tokens": ["He", "then", "tried", "to", "explain", "that", "he", "asked", "me", "if", "I", "liked", "my", "hair", "before", "why", "did", "I", "change", "my", "mind", "."], "e1_text": "liked", "e1_pos": 11, "e2_text": "change", "e2_pos": 18, "label": "before"}
+]

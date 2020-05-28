@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "there", "last", "night", "to", "use", "a", "Groupon", "coupon", "the", "hub", "had", "purchased", "a", "while", "back", ";", "he", "really", "needs", "to", "do", "more", "research", "into", "the", "places", "before", "he", "buys", "coupons", "."], "e1_text": "do", "e1_pos": 21, "e2_text": "buys", "e2_pos": 29, "label": "before"},
+{"tokens": ["We", "stopped", "in", "on", "our", "way", "home", "from", "work", ",", "and", "found", "ourselves", "alone", ";", "an", "older", "couple", "came", "in", "shortly", "before", "we", "left", "."], "e1_text": "came", "e1_pos": 18, "e2_text": "left", "e2_pos": 23, "label": "before"}
+]

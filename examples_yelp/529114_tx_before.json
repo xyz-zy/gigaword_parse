@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "u", "went", "in", "the", "bartender", "was", "too", "preoccupied", "in", "her", "conversation", "with", "the", "one", "waitress", "there", "that", "I", "had", "to", "sit", "there", "for", "15", "minutes", "before", "I", "was", "acknowledged", "."], "e1_text": "had", "e1_pos": 19, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["So", "I", "get", "a", "draft", ",", "finish", "it", "up", "and", "want", "to", "have", "one", "more", "before", "closing", "my", "tab", "."], "e1_text": "have", "e1_pos": 12, "e2_text": "closing", "e2_pos": 16, "label": "before"}
+]

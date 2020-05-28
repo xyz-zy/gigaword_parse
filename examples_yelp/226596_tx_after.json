@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "have", "the", "loyalty", "cup", "drinks", "are", "only", "1.50", "at", "Harkins", "and", "popcorn", "is", "basically", "free", "after", "you", "purchase", "the", "tshirt", "...", "which", "is", "$", "20", "bucks", "and", "lasts", "a", "year", "."], "e1_text": "are", "e1_pos": 7, "e2_text": "purchase", "e2_pos": 19, "label": "after"}
+]

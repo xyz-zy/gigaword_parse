@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "burger", "was", "the", "Ronin", "burger", ",", "which", "after", "reviewing", "the", "menu", ",", "had", "ALOT", "of", "ingredients", ",", "over", "7", "to", "be", "exact", ",", "including", "custom", "condiments", "which", "after", "tasting", ",", "i", "could", "do", "without", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "reviewing", "e2_pos": 9, "label": "after"},
+{"tokens": ["Our", "order", "of", "garlic", "and", "pepper", "fries", "came", "out", "about", "20", "min", "after", "we", "got", "our", "burgers", ",", "and", "to", "my", "suprise", ",", "it", "was", "jalapeno", "pepper", "fries", ",", "not", "black", "pepper", "like", "normal", "people", "use", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

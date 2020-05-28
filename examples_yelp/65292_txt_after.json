@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "me", "and", "my", "friend", "Traci", "P", "went", "here", "after", "wanting", "to", "try", "this", "place", "for", "weeks", ",", "we", "were", "all", "excited", "and", "hyped", "up", "until", "we", "sat", "down", "...", "Where", "do", "i", "start", "?"], "e1_text": "went", "e1_pos": 7, "e2_text": "wanting", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "also", "witnessed", "our", "waitress", "giving", "another", "table", "even", "worse", "service", "the", "table", "had", "been", "sat", "and", "was", "never", "brought", "there", "drinks", "until", "about", "20", "mins", "after", "being", "there", "the", "waitress", "comes", "up", "to", "them", "and", "says", "''", "''", "oh", "how", "about", "them", "drinks", ",", "what", "were", "they", "again", "''", "''", "."], "e1_text": "drinks", "e1_pos": 21, "e2_text": "being", "e2_pos": 27, "label": "after"}
+]

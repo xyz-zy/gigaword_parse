@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "enjoy", "this", "experience", "at", "all", "and", "it", "will", "make", "me", "think", "twice", "before", "returning", "."], "e1_text": "think", "e1_pos": 13, "e2_text": "returning", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "know", "servers", "are", "necessary", "by", "volume", "but", "they", "need", "to", "be", "checked", "out", "properly", "before", "they", "are", "put", "out", "on", "the", "floor", "alone", "."], "e1_text": "checked", "e1_pos": 12, "e2_text": "are", "e2_pos": 3, "label": "before"}
+]

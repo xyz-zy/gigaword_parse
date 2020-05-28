@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Pharmacists", "are", "very", "knowledgeable", "and", "make", "sure", "you", "understand", "your", "medications", "before", "you", "leave", "."], "e1_text": "understand", "e1_pos": 9, "e2_text": "leave", "e2_pos": 14, "label": "before"}
+]

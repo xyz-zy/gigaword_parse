@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "pay", "when", "you", "enter", ",", "and", "after", "I", "paid", ",", "the", "cashier", "wrote", "the", "amount", "of", "my", "tip", "-LRB-", "determined", "before", "we", "sat", "down", "-RRB-", "on", "a", "receipt", "in", "huge", "black", "letters", "with", "a", "sharpie", "."], "e1_text": "determined", "e1_pos": 20, "e2_text": "sat", "e2_pos": 23, "label": "before"}
+]

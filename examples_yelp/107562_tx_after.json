@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "heard", "about", "this", "place", "for", "years", "and", "after", "an", "afternoon", "freed", "up", ",", "two", "of", "my", "friends", "and", "I", "headed", "over", "for", "lunch", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "freed", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "had", "gotten", "there", "a", "few", "minutes", "after", "they", "had", "opened", "so", "service", "was", "a", "little", "slow", "but", "we", "were", "n't", "in", "a", "rush", "so", "it", "was", "fine", "."], "e1_text": "gotten", "e1_pos": 2, "e2_text": "had", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "table", "and", "seat", "were", "dirty", "and", "sticky", "when", "we", "arrived", "but", "this", "was", "n't", "discovered", "until", "after", "the", "stickiness", "was", "transferred", "to", "our", "arms", "and", "clothing", "."], "e1_text": "discovered", "e1_pos": 15, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["Apparently", "the", "tarter", "sauce", "is", "made", "fresh", "also", "as", "witnessed", "by", "the", "fact", "it", "arrived", "about", "10", "minutes", "after", "the", "dish", "was", "placed", "on", "the", "table", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "was", "e2_pos": 21, "label": "after"}
+]

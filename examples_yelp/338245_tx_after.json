@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "we", "were", "n't", "thrilled", "how", ",", "after", "waiting", "in", "line", "for", "10", "minutes", ",", "the", "cashier", "told", "us", "that", "the", "sunglasses", "we", "wanted", "to", "purchase", "were", "full", "price", "-LRB-", "nearly", "$", "20", "-RRB-", ",", "when", "the", "glasses", "were", "on", "a", "sale", "rack", "and", "had", "two", "different", "prices", "listed", "on", "its", "tag", "-LRB-", "one", "printed", "price", "was", "for", "$", "10", "and", "change", "-RRB-", "."], "e1_text": "thrilled", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

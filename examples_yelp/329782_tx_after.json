@@ -1,0 +1,4 @@
+[
+{"tokens": ["Jeremy", "had", "our", "entrees", "out", "moments", "after", "our", "appetizer", "was", "cleared", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "had", "cheesecakes", "out", "and", "check", "signed", "forty", "minutes", "after", "we", "sat", "."], "e1_text": "signed", "e1_pos": 6, "e2_text": "sat", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Made", "us", "wait", "20min", "so", "that", "we", "had", "to", "pay", "the", "after", "12pm", "price", "...", "Agree", "with", "what", "the", "other", "reviewers", "had", "to", "say", "the", "$", "20", "deal", "sounded", "great", "but", "ended", "up", "being", "a", "pretty", "big", "letdown", "."], "e1_text": "wait", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["Cons", "-", "S", "\\*\\*\\*", "Lounge\\/Club", "-", "Fun", "bouncers", "-", "Not", "honoring", "the", "drinks", "deal", "-", "Charging", "$", "30", "instead", "of", "$", "20", "Also", "noticed", "that", "they", "were", "holding", "people", "in", "line", "unless", "they", "wanted", "the", "$", "$", "$", "bottle", "service", "until", "the", "after", "12", "price", "increase", "kicked", "in", "."], "e1_text": "wanted", "e1_pos": 33, "e2_text": "kicked", "e2_pos": 46, "label": "after"}
+]

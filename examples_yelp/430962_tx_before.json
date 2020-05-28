@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "also", "...", "I", "got", "my", "glasses", "adjusted", "before", "we", "left", "...", "they", "were", "very", "out", "of", "whack", "and", "the", "staff", "was", "happy", "to", "adjust", "them", "multiple", "times", "for", "me", ".", "-RRB-"], "e1_text": "adjusted", "e1_pos": 7, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

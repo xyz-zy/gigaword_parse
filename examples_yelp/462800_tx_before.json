@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "reservation", "was", "made", "weeks", "in", "advance", "&", "would", "have", "been", "between", "10", "-", "14", "adult", "males", "all", "drinking", "alcohol", "and", "devouring", "wings", "and", "appetizers", ",", "etc", "for", "a", "few", "hours", "before", "moving", "the", "party", "to", "a", "more", "adult-oriented", "location", ".", "."], "e1_text": "devouring", "e1_pos": 21, "e2_text": "moving", "e2_pos": 32, "label": "before"}
+]

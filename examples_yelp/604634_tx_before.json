@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "imagine", "they", "had", "to", "clean", "up", "a", "fair", "amount", "from", "the", "crazy", "night", "before", "."], "e1_text": "imagine", "e1_pos": 1, "e2_text": "had", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "feel", "like", "it", "'s", "only", "a", "matter", "of", "time", "before", "this", "place", "starts", "getting", "packed", "on", "the", "weekends", "."], "e1_text": "'s", "e1_pos": 4, "e2_text": "starts", "e2_pos": 13, "label": "before"}
+]

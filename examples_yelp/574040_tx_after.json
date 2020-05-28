@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "car", "into", "Southwest", "Bimmers", "after", "reading", "about", "them", "on", "BMW", "forums", "online", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["Originally", "he", "thought", "he", "'d", "also", "need", "to", "replace", "the", "fuel", "pump", ",", "but", "after", "replacing", "the", "sensor", ",", "decided", "it", "was", "n't", "needed", "-LRB-", "saving", "me", "$", "500", "!!", "-RRB-", "."], "e1_text": "decided", "e1_pos": 19, "e2_text": "replacing", "e2_pos": 15, "label": "after"}
+]

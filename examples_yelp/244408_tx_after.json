@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "go", "home", "to", "burn", "some", "time", "after", "sitting", "at", "the", "depot", "for", "an", "hour", ",", "and", "come", "back", "at", "1:55", "and", "the", "bus", "is", "already", "there", "waiting", "."], "e1_text": "burn", "e1_pos": 4, "e2_text": "sitting", "e2_pos": 8, "label": "after"}
+]

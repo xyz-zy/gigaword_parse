@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "n't", "worth", "the", "wait", "or", "the", "queueing", "as", "we", "wanted", "to", "grab", "some", "mulled", "wine", "before", "heading", "home", "so", "we", "hopped", "over", "to", "St", "Andrews", "Sq.", "."], "e1_text": "grab", "e1_pos": 13, "e2_text": "heading", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "'s", "pretty", "much", "full", "of", "booze", "and", "fried", "food", "-LRB-", "not", "ideal", "if", "you", "are", "GF", "-RRB-", "and", "I", "stayed", "for", "one", "mulled", "wine", "before", "legging", "it", "home", "."], "e1_text": "stayed", "e1_pos": 20, "e2_text": "legging", "e2_pos": 26, "label": "before"}
+]

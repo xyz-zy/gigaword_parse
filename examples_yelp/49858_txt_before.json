@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", ",", "I", "made", "an", "appointment", "about", "a", "week", "before", "which", "was", "pointless", "."], "e1_text": "made", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["Three", "people", "were", "helped", "into", "chairs", "to", "begin", "their", "mani\\/pedi", "'s", "before", "I", "was", "even", "acknowledged", "again", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "played", "good", "music", "but", "cut", "the", "songs", "off", "after", "they", "played", "for", "about", "20", "seconds", "!!", "At", "that", "rate", "he", "could", "have", "played", "every", "dance\\/hip-hop", "song", "of", "the", "last", "decade", "in", "one", "evening", "."], "e1_text": "cut", "e1_pos": 5, "e2_text": "played", "e2_pos": 1, "label": "after"}
+]

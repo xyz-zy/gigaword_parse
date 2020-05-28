@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "canceling", "my", "services", "with", "the", "company", ",", "the", "company", "continued", "to", "charge", "two", "of", "my", "accounts", "close", "to", "$", "1,000", "--", "one", "year", "after", "having", "canceled", "my", "services", "."], "e1_text": "charge", "e1_pos": 12, "e2_text": "having", "e2_pos": 25, "label": "after"},
+{"tokens": ["FOUR", "months", "later", ",", "I", "finally", "was", "able", "to", "get", "a", "call", "back", "Barry", "Michaels", "on", "the", "phone", "-LRB-", "after", "threatening", "with", "legal", "action", "-RRB-", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "threatening", "e2_pos": 20, "label": "after"}
+]

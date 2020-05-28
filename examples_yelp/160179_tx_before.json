@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "invoice", "came", "out", "all", "wrong", "-LRB-", "overcharged", "-RRB-", "and", "when", "calling", "them", ",", "we", "'d", "been", "placed", "on", "hold", "forever", "before", "finally", "talking", "to", "another", "very", "rude", "customer", "rep.", "I", "do", "hope", "that", "i", "'m", "just", "a", "few", "unlucky", "ones", ",", "b\\/c", "Bellagio", "is", "still", "a", "nice", "place", "to", "me", "."], "e1_text": "hold", "e1_pos": 19, "e2_text": "talking", "e2_pos": 23, "label": "before"}
+]

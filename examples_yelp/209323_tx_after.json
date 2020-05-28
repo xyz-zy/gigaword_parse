@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fortunately", ",", "it", "was", "delicious", ",", "unfortunately", ",", "our", "server", "literally", "stood", "there", "and", "read", "the", "entire", "back", "of", "the", "wine", "bottle", "after", "pouring", "it", "for", "us", "...", "awkward", ",", "he", "then", "walked", "away", "from", "the", "table", "before", "we", "were", "able", "to", "place", "our", "food", "order", "and", "came", "back", "about", "10", "minutes", "later", "to", "take", "it", "."], "e1_text": "read", "e1_pos": 14, "e2_text": "pouring", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "fixed", "the", "issue", "of", "my", "keys", "not", "working", "right", "after", "I", "checked", "in", "-LRB-", "which", "is", "ridiculous", "after", "my", "1st", "encounter", "at", "the", "check-in", "desk", "-RRB-", ",", "and", "he", "changed", "my", "room", "to", "something", "a", "little", "more", "suitable", "and", "satisfying", "."], "e1_text": "working", "e1_pos": 8, "e2_text": "checked", "e2_pos": 12, "label": "after"},
+{"tokens": ["He", "also", "suggested", "I", "wait", "an", "hour", "or", "two", "while", "they", "pull", "the", "conversation", "before", "a", "check-in", "which", "I", "told", "him", "that", "'s", "preposterous", ",", "why", "should", "should", "I", "have", "to", "wait", "after", "I", "'ve", "already", "been", "waiting", "in", "what", "was", "a", "long", "check", "in", "line", "?"], "e1_text": "wait", "e1_pos": 31, "e2_text": "'ve", "e2_pos": 34, "label": "after"}
+]

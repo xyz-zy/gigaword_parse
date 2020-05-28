@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "take", "a", "piss", "before", "going", "to", "sleep", "and", "as", "I", "make", "an", "attempt", "to", "flush", "the", "toilet", ",", "it", "does", "n't", "work", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["Deciding", "to", "grin", "and", "bear", "it", ",", "I", "try", "to", "finish", "cleaning", "off", "to", "end", "this", "shower", "of", "disappointment", ",", "I", "then", "realize", "what", "I", "was", "not", "able", "to", "before", "after", "my", "brush", "with", "the", "boiling", "water", "experience", "."], "e1_text": "realize", "e1_pos": 22, "e2_text": "was", "e2_pos": 25, "label": "before"}
+]

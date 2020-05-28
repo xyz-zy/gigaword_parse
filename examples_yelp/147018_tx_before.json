@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "her", "that", "I", "had", "not", "brought", "any", "cash", "with", "me", "and", "she", "looked", "at", "me", ",", "skeptically", ",", "before", "snidely", "responding", "''", "``", "That", "was", "stupid", "."], "e1_text": "looked", "e1_pos": 14, "e2_text": "responding", "e2_pos": 22, "label": "before"}
+]

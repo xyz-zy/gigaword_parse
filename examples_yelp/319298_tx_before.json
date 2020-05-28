@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "a", "minute", "before", "7:30", ",", "which", "is", "showtime", ",", "and", "we", "were", "getting", "upset", "that", "we", "were", "going", "to", "miss", "part", "of", "the", "show", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "is", "e2_pos": 8, "label": "before"},
+{"tokens": ["Why", "would", "we", "even", "think", "that", "getting", "to", "a", "Will", "Call", "line", "30", "minutes", "before", "the", "show", "starts", ",", "-LRB-", "except", "when", "tickets", "are", "free", ",", "which", "has", "its", "own", "policies", "-RRB-", "would", "end", "up", "like", "this", "."], "e1_text": "getting", "e1_pos": 6, "e2_text": "starts", "e2_pos": 17, "label": "before"}
+]

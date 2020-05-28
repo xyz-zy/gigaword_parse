@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "ok", "maybe", "they", "were", "busy", "-RRB-", "Did", "n't", "get", "a", "greeting", "for", "awhile", "at", "the", "table", ",", "then", "after", "we", "ordered", ",", "Ice", "tea", "beverage", "took", "over", "ten", "minutes", ",", "apps", "at", "over", "half", "hour", ",", "dinner", "was", "cooked", "wrong", "."], "e1_text": "ok", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 21, "label": "after"}
+]

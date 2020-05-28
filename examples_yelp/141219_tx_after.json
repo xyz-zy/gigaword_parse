@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "table", "was", "dirty", "and", "even", "after", "being", "wiped", "down", "twice", "had", "food", "and", "gunk", "left", "on", "it", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["Both", "me", "and", "my", "friend", "both", "barely", "made", "it", "to", "a", "toilet", "with", "the", "runs", "after", "eating", "there", "."], "e1_text": "made", "e1_pos": 7, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

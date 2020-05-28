@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yesterday", "had", "a", "terrible", "experience", ":-LRB-", "While", "I", "appreciate", "that", "management", "apoligized", "and", "offered", "me", "other", "food", "only", "after", "I", "came", "to", "counter", "to", "say", "something", "even", "tho", "they", "saw", "me", "throw", "away", "sandwhich", "and", "sit", "down", "dejected", ",", "I", "was", "on", "a", "time", "crunch", "so", "had", "to", "leave", "hungry", "and", "unhappy", "!"], "e1_text": "had", "e1_pos": 1, "e2_text": "came", "e2_pos": 20, "label": "after"}
+]

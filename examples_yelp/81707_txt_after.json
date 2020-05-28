@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "harried", "young", "lady", "I", "can", "only", "assume", "was", "our", "server", "-", "she", "never", "introduced", "herself", "or", "apologized", "for", "making", "us", "wait", "-", "brought", "us", "our", "food", "pretty", "quickly", "after", "we", "ordered", "it", "."], "e1_text": "brought", "e1_pos": 23, "e2_text": "ordered", "e2_pos": 31, "label": "after"}
+]

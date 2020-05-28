@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "think", "the", "prices", "are", "too", "terribly", "high", ",", "after", "all", ",", "it", "'s", "in", "Kierland", ",", "which", "is", "n't", "exactly", "a", "discount", "enclave", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "are", "e2_pos": 6, "label": "after"},
+{"tokens": ["``", "Shannon", "''", "''", "then", "presented", "me", "with", "my", "bill", "a", "full", "few", "minutes", "after", "I", "sat", "in", "front", "of", "an", "empty", "plate", ",", "I", "paid", ",", "and", "as", "she", "handed", "me", "my", "change", "she", "said", ",", "''", "``", "bye", ".", "''", "''"], "e1_text": "presented", "e1_pos": 5, "e2_text": "sat", "e2_pos": 16, "label": "after"}
+]

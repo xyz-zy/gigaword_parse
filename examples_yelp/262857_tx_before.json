@@ -1,0 +1,5 @@
+[
+{"tokens": ["the", "bartender", "i", "was", "dealing", "with", "had", "messed", "up", "a", "previous", "order", "that", "I", "placed", "a", "few", "hours", "before", "."], "e1_text": "messed", "e1_pos": 7, "e2_text": "placed", "e2_pos": 14, "label": "before"},
+{"tokens": ["After", "I", "agreed", "to", "pay", "for", "the", "previous", "meal", "she", "messed", "up", "on", ",", "I", "had", "asked", "to", "speak", "with", "front", "desk", ",", "manager", ",", "or", "anybody", "who", "was", "in", "charge", "-LRB-", "in", "order", "to", "make", "sure", "I", "wont", "be", "double", "charged", "-RRB-", "before", "I", "took", "out", "my", "credit", "card", "."], "e1_text": "speak", "e1_pos": 18, "e2_text": "took", "e2_pos": 45, "label": "before"},
+{"tokens": ["I", "will", "now", "go", "out", "of", "my", "way", "to", "find", "another", "restaurant", "before", "I", "concider", "eating", "here", "."], "e1_text": "find", "e1_pos": 9, "e2_text": "concider", "e2_pos": 14, "label": "before"}
+]

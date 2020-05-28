@@ -1,0 +1,3 @@
+[
+{"tokens": ["Must", "have", "been", "important", "people", "as", "we", "had", "to", "endure", "the", "waiter", "pacing", "up", "and", "down", "for", "45", "mins", "before", "they", "got", "there", ",", "never", "once", "asking", "if", "we", "were", "ok", ",", "and", "then", "were", "ignored", "on", "the", "group", "'s", "arrival", "until", "we", "got", "the", "bill", "."], "e1_text": "endure", "e1_pos": 9, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

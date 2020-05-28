@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyway", ",", "we", "decided", "to", "do", "some", "more", "research", "before", "switching", "food", "and", "we", "picked", "up", "a", "dog", "toy", "for", "a", "friend", "'s", "dog", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "switching", "e2_pos": 10, "label": "before"},
+{"tokens": ["My", "husband", "stood", "there", "for", "about", "5", "minutes", "before", "it", "was", "his", "turn", "."], "e1_text": "stood", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

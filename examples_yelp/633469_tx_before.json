@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "raved", "about", "this", "place", "being", "so", "good", "and", "seeing", "it", "on", "triple", "D", ",", "but", "I", "beg", "to", "differ", "...", "we", "went", "here", "while", "my", "family", "and", "I", "took", "a", "little", "mini", "vacation", "to", "Vegas", "before", "the", "kids", "started", "school", "."], "e1_text": "took", "e1_pos": 30, "e2_text": "started", "e2_pos": 40, "label": "before"}
+]

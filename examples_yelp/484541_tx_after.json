@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "the", "second", "time", "I", "'ve", "been", "here", "and", "have", "had", "to", "wait", "at", "least", "20", "minutes", "for", "my", "prescription", "to", "get", "filled", "even", "though", "I", "waited", "at", "least", "a", "half", "hour", "after", "my", "doctor", "called", "in", "my", "prescription", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "called", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "common", "foodie", "knowledge", "that", "hummus", "has", "citrus", "juice", "in", "it", ",", "but", "do", "n't", "store", "it", "in", "metal", "containers", "without", "first", "lining", "the", "container", "with", "a", "barrier", "between", "the", "contents", "and", "the", "metal", "or", "maybe", "just", "add", "the", "citrus", "juice", "right", "before", "serving", "."], "e1_text": "add", "e1_pos": 38, "e2_text": "serving", "e2_pos": 44, "label": "before"},
+{"tokens": ["The", "metallic", "taste", "of", "the", "hummus", "had", "me", "wondering", "how", "long", "they", "'ve", "been", "serving", "that", "batch", "before", "making", "a", "fresh", "one", "."], "e1_text": "serving", "e1_pos": 14, "e2_text": "making", "e2_pos": 18, "label": "before"}
+]

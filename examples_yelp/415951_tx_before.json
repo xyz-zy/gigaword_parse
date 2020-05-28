@@ -1,0 +1,3 @@
+[
+{"tokens": ["Does", "n't", "everyone", "know", "you", "have", "to", "actually", "cook", "meat", "before", "you", "serve", "it", "?"], "e1_text": "cook", "e1_pos": 8, "e2_text": "serve", "e2_pos": 12, "label": "before"}
+]

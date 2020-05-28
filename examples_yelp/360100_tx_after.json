@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "most", "recent", "trip", "was", "for", "my", "mom", "'s", "birthday", "-LRB-", "her", "2nd", "choice", "after", "she", "found", "out", "her", "first", "choice", "was", "closed", "for", "the", "night", "-RRB-", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "found", "e2_pos": 16, "label": "after"}
+]

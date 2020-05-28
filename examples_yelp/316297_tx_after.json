@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "such", "high", "hopes", "for", "this", "restaurant", "after", "reading", "the", "previous", "reviews", "as", "well", "as", "the", "fact", "that", "the", "location", "is", "less", "than", "a", "mile", "from", "my", "house", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "have", "no", "problem", "with", "people", "that", "like", "to", "party", "and", "have", "a", "good", "time", ",", "but", "I", "was", "let", "down", "by", "the", "fact", "that", "the", "waiter", "did", "n't", "offer", "to", "move", "us", "even", "after", "I", "complained", "about", "the", "noise", "."], "e1_text": "move", "e1_pos": 31, "e2_text": "complained", "e2_pos": 36, "label": "after"}
+]

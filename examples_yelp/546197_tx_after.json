@@ -1,0 +1,3 @@
+[
+{"tokens": ["Anyhow", ",", "in", "my", "search", "for", "REAL", "bar-b-q", ",", "the", "reviews", "led", "me", "to", "try", "out", "ELLIS", "ISLAND", "a", "few", "days", "ago", ",", "even", "after", "reading", "that", "their", "''", "``", "bar-b-q", "''", "''", "ribs", "were", "''", "``", "steamed", "''", "''", "for", "4", "hours", "then", "flopped", "around", "on", "a", "grill", "for", "a", "few", "minutes", "-LRB-", "this", "is", "NOT", "''", "``", "BAR-B-Q", ".", "''", "''"], "e1_text": "try", "e1_pos": 14, "e2_text": "reading", "e2_pos": 25, "label": "after"}
+]

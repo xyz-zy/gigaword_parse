@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "son", "and", "I", "along", "with", "a", "friend", "and", "her", "girls", "headed", "up", "to", "Odysea", "Mirror", "Maze", "after", "my", "friend", "purchased", "a", "Groupon", "."], "e1_text": "headed", "e1_pos": 11, "e2_text": "purchased", "e2_pos": 20, "label": "after"},
+{"tokens": ["Our", "kids", "were", "confused", "as", "well", "and", "done", "after", "they", "went", "twice", "."], "e1_text": "done", "e1_pos": 7, "e2_text": "went", "e2_pos": 10, "label": "after"}
+]

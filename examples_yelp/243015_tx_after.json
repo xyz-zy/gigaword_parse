@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "tells", "me", "that", "the", "girl", "I", "first", "spoke", "with", "had", "gone", "home", "right", "after", "she", "spoke", "with", "me", "."], "e1_text": "gone", "e1_pos": 11, "e2_text": "spoke", "e2_pos": 8, "label": "after"}
+]

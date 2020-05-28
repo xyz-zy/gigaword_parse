@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "ummm", "maybe", "regulations", "have", "changed", "and", "you", "have", "to", "wrap", "your", "packages", "before", "you", "approach", "the", "counter", "."], "e1_text": "wrap", "e1_pos": 10, "e2_text": "approach", "e2_pos": 15, "label": "before"},
+{"tokens": ["you", "'re", "better", "off", "saying", ",", "''", "``", "Oh", ",", "you", "just", "need", "to", "wrap", "it", "with", "tape", "before", "we", "send", "it", "off", ".", "''", "''"], "e1_text": "wrap", "e1_pos": 14, "e2_text": "send", "e2_pos": 20, "label": "before"}
+]

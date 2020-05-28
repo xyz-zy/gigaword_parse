@@ -1,0 +1,3 @@
+[
+{"tokens": ["Home", "made", "onion", "rings", "and", "a", "delicious", "red", "potato", "salad", "completed", "the", "meal", "...", "was", "n't", "exactly", "ready", "for", "a", "5", "hour", "drive", "after", "we", "finished", "...", "a", "nap", "would", "have", "been", "preferred", "...", "but", "i", "was", "due", "at", "work", "in", "6", "hours", "haha", "Service", "was", "friendly", "and", "efficient", "refilling", "my", "coffee", "about", "a", "zillion", "times", "in", "preparation", "for", "the", "drive"], "e1_text": "was", "e1_pos": 14, "e2_text": "finished", "e2_pos": 25, "label": "after"}
+]

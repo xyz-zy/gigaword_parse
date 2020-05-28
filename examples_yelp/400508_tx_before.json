@@ -1,0 +1,3 @@
+[
+{"tokens": ["Recently", ",", "while", "waiting", "a", "LONG", "time", "for", "our", "order", "to", "arrive", ",", "we", "thought", "we", "saw", "our", "food", "sitting", "in", "the", "window", "for", "a", "while", "before", "it", "arrived", "at", "our", "table", "."], "e1_text": "sitting", "e1_pos": 19, "e2_text": "arrived", "e2_pos": 28, "label": "before"}
+]

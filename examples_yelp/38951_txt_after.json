@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", "I", "remembered", "that", "I", "needed", "to", "get", "a", "cup", "of", "ice", "water", "after", "I", "had", "ordered", "my", "drink", "and", "I", "politely", "asked", "the", "barista", "if", "she", "could", "possibly", "get", "me", "an", "ice", "water", "along", "with", "the", "drink", "I", "was", "waiting", "on", ",", "they", "were", "not", "busy", "at", "this", "time", "so", "it", "really", "should", "not", "have", "been", "a", "problem", "and", "usually", "is", "n't", "at", "most", "Starbucks", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["Today", "the", "barista", "seemed", "quite", "irritated", "that", "I", "had", "asked", "for", "water", "after", "ordering", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 13, "label": "after"}
+]

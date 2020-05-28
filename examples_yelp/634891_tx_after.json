@@ -1,0 +1,3 @@
+[
+{"tokens": ["Eventhough", "she", "stated", "the", "mockup", "of", "my", "logo", "would", "be", "completed", "by", "the", "next", "morning", ",", "it", "in", "fact", "took", "her", "two", "days", "and", "only", "after", "I", "contacted", "her", "twice", "by", "email", "and", "by", "phone", "had", "she", "sent", "the", "mockup", "."], "e1_text": "took", "e1_pos": 19, "e2_text": "contacted", "e2_pos": 27, "label": "after"}
+]

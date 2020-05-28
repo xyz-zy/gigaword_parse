@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "visited", "our", "table", "twice", "before", "correcting", "this", "error", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "correcting", "e2_pos": 7, "label": "before"},
+{"tokens": ["He", "refilled", "my", "soda", "before", "it", "was", "completely", "empty", ",", "so", "that", "'s", "a", "plus", "for", "me", "."], "e1_text": "refilled", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

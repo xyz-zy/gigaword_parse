@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "the", "cook", "would", "only", "allow", "2", "minutes", "resting", "time", "before", "placing", "it", "on", "the", "bun", "!"], "e1_text": "allow", "e1_pos": 5, "e2_text": "placing", "e2_pos": 11, "label": "before"}
+]

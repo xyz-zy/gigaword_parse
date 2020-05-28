@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "complaint", "is", "that", "the", "wait", "times", "are", "a", "bit", "too", "long", "-LRB-", "especially", "if", "you", "want", "lunch", ";", "but", "come", "10", "minutes", "before", "11am", ",", "which", "is", "when", "they", "start", "serving", "it", "-RRB-", "."], "e1_text": "come", "e1_pos": 21, "e2_text": "is", "e2_pos": 3, "label": "before"},
+{"tokens": ["However", ",", "the", "above", "was", "solved", "by", "asking", "if", "their", "was", "a", "solution", ";", "they", "told", "me", "to", "call", "to", "place", "a", "to", "go", "order", "about", "5-10", "minutes", "before", "leaving", "work", "and", "it", "'ll", "be", "ready", "by", "the", "time", "I", "get", "there", "-RRB-", "!"], "e1_text": "go", "e1_pos": 23, "e2_text": "leaving", "e2_pos": 29, "label": "before"}
+]

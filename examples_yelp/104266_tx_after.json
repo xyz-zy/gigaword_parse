@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "did", "n't", "seem", "to", "want", "to", "just", "take", "the", "dish", "from", "the", "table", "and", "leave", "it", "at", "that", ",", "after", "insisting", "on", "making", "a", "new", "dish", "to", "replace", "the", "unsatisfactory", "dish", "about", "five", "times", "."], "e1_text": "leave", "e1_pos": 16, "e2_text": "insisting", "e2_pos": 22, "label": "after"}
+]

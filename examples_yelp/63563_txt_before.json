@@ -1,0 +1,3 @@
+[
+{"tokens": ["Thank", "god", "I", "presented", "my", "gift", "cert", "before", "I", "order", "my", "food", ",", "the", "manager", "said", "it", "expired", "and", "wo", "n't", "honor", "it", ",", "and", "rudely", "walked", "away", "."], "e1_text": "presented", "e1_pos": 3, "e2_text": "order", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "were", "n't", "careful", "turning", "around", "after", "putting", "food", "on", "your", "plate", ",", "there", "would", "be", "a", "kid", "running", "by", "knocking", "the", "plate", "out", "of", "your", "hands", ",", "or", "they", "were", "in", "the", "line", "in", "front", "of", "you", "touching", ",", "and", "tasting", "the", "different", "items", "...", "."], "e1_text": "turning", "e1_pos": 5, "e2_text": "putting", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "would", "suggest", "entirely", "different", "management", ",", "and", "possibly", "many", "or", "all", "different", "chefs", ",", "because", "this", "place", "could", "n't", "have", "been", "a", "bigger", "disappointment", ",", "and", "this", "is", "coming", "from", "someone", "who", "'s", "first", "stop", "after", "the", "airport", "in", "Nebraska", "is", "Golden", "Corral", "!"], "e1_text": "'s", "e1_pos": 33, "e2_text": "is", "e2_pos": 28, "label": "after"}
+]

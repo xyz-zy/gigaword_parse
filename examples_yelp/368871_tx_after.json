@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "you", "have", "somewhere", "to", "eat", "after", "you", "buy", "the", "poke", "unless", "you", "want", "to", "eat", "outside", "in", "the", "Vegas", "heat", "!"], "e1_text": "eat", "e1_pos": 6, "e2_text": "buy", "e2_pos": 9, "label": "after"}
+]

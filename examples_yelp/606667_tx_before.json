@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "never", "been", "to", "a", "Mexican", "restaurant", "before", "where", "chips", "and", "salsa", "were", "not", "free", "of", "charge", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "were", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "'ve", "had", "this", "happen", "before", "when", "writing", "negative", "reviews", "for", "places", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "writing", "e2_pos": 7, "label": "before"}
+]

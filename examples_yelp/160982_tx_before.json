@@ -1,0 +1,3 @@
+[
+{"tokens": ["Everyone", "was", "flying", "in", "from", "different", "places", ",", "and", "I", "was", "the", "lucky", "one", "who", "experienced", "a", "major", "flight", "delay", ",", "so", "everyone", "checked", "in", "hours", "before", "I", "arrived", "."], "e1_text": "checked", "e1_pos": 23, "e2_text": "arrived", "e2_pos": 28, "label": "before"}
+]

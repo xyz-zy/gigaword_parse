@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "this", "place", "had", "been", "around", "for", "a", "while", ",", "we", "only", "made", "it", "in", "a", "few", "months", "ago", "before", "they", "closed", "."], "e1_text": "made", "e1_pos": 12, "e2_text": "closed", "e2_pos": 21, "label": "before"}
+]

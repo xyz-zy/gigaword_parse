@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dinner", "was", "served", "one", "hour", "later", "for", "most", "guest", "but", "ours", "was", "served", "15", "minutes", "after", "the", "other", "people", "We", "placed", "our", "orders", "two", "of", "us", "wrap", "with", "chipotle", "IT", "was", "so", "hot", "our", "mouth", "burned", ",", "lips", "were", "on", "fire", "."], "e1_text": "served", "e1_pos": 2, "e2_text": "placed", "e2_pos": 20, "label": "after"}
+]

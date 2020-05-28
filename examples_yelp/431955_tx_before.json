@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "I", "was", "once", "told", "by", "a", "dentist", "20", "years", "ago", "-LRB-", "after", "not", "having", "had", "my", "teeth", "cleaned", "for", "a", "few", "years", "before", "I", "went", "to", "see", "him", "-RRB-", "that", "he", "would", ",", "''", "``", "never", "have", "known", "it", "had", "been", "so", "long", ",", "had", "I", "not", "told", "him", ",", "because", "my", "teeth", "were", "so", "clean", ".", "''", "''"], "e1_text": "had", "e1_pos": 17, "e2_text": "went", "e2_pos": 27, "label": "before"}
+]

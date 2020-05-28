@@ -1,0 +1,4 @@
+[
+{"tokens": ["Before", "Greek", "Isles", ",", "I", "do", "n't", "think", "I", "'d", "ever", "been", "to", "a", "completely", "Greek", "restaurant", "before", ",", "so", "I", "was", "looking", "forward", "to", "experimenting", "."], "e1_text": "think", "e1_pos": 7, "e2_text": "'d", "e2_pos": 9, "label": "before"},
+{"tokens": ["Everything", "was", "pretty", "good", "and", "the", "combo", "contained", "things", "I", "had", "sampled", "before", "at", "festivals", ",", "except", "for", "the", "grape", "leaves", "."], "e1_text": "contained", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

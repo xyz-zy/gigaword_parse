@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "the", "smoothies", "here", "but", "...", "This", "last", "visit", "the", "customer", "service", "was", "a", "little", "under", "the", "weather", ",", "I", "think", "the", "two", "young", "guys", "working", "wanted", "to", "get", "out", "of", "there", "ASAP", "because", "they", "seemed", "very", "aggitated", "that", "I", "came", "in", "30", "minutes", "before", "they", "closed", "."], "e1_text": "came", "e1_pos": 41, "e2_text": "closed", "e2_pos": 47, "label": "before"}
+]

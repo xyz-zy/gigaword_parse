@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "colleague", "suggested", "we", "go", "to", "the", "Rio", "buffet", "after", "our", "conference", "ended", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "ended", "e2_pos": 12, "label": "after"}
+]

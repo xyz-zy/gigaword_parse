@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "credit", "the", "manager", "with", "taking", "steps", "to", "correct", "the", "experience", "only", "after", "I", "had", "to", "ask", "for", "the", "manager", "to", "visit", "the", "table", "a", "second", "time", "."], "e1_text": "correct", "e1_pos": 9, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["Then", "the", "table", "that", "sat", "and", "ordered", "after", "us", "got", "their", "order", "and", "I", "felt", "a", "mistake", "was", "made", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "got", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "first", "received", "our", "salad", "before", "our", "drinks", "even", "came", "out", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["Not", "that", "this", "is", "a", "big", "deal", "but", "I", "feel", "it", "is", "worth", "mentioning", "just", "because", "of", "everything", "else", ",", "normally", "the", "pasta", "comes", "with", "a", "soup", "spoon", "to", "help", "scoop", "your", "noodles", ",", "I", "had", "to", "ask", "for", "the", "spoon", "but", "it", "took", "so", "long", "I", "just", "gave", "up", "and", "started", "eating", "before", "my", "food", "got", "cold", "."], "e1_text": "eating", "e1_pos": 52, "e2_text": "got", "e2_pos": 56, "label": "before"},
+{"tokens": ["My", "own", "fault", "for", "paying", "before", "looking", "I", "suppose", "."], "e1_text": "paying", "e1_pos": 4, "e2_text": "looking", "e2_pos": 6, "label": "before"}
+]

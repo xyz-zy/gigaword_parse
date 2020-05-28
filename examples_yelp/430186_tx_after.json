@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "food", "arrived", "home", "I", "called", "them", "and", "after", "several", "no", "answers", "-LRB-", "they", "were", "n't", "busy", "on", "a", "Thurday", "night", "-", "not", "enough", "to", "not", "answer", "the", "phone", "-RRB-", "someone", "answered", "and", "when", "I", "asked", "to", "speak", "to", "a", "manager", "was", "placed", "on", "hold", "and", "hung", "up", "on", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "answered", "e2_pos": 32, "label": "after"}
+]

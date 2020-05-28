@@ -1,0 +1,4 @@
+[
+{"tokens": ["Met", "up", "with", "Dr.", "Kevin", "Axx", "for", "a", "consult", "and", "the", "actual", "root", "canal", "after", "I", "found", "him", "on", "my", "carrier", "'s", "directory", "."], "e1_text": "canal", "e1_pos": 13, "e2_text": "found", "e2_pos": 16, "label": "after"},
+{"tokens": ["Unfortunately", ",", "I", "was", "referred", "by", "my", "dentist", "to", "an", "out-of-network", "specialist", ",", "so", "I", "was", "crossing", "my", "fingers", "when", "I", "met", "up", "with", "Axx", "after", "I", "found", "him", "on", "the", "directory", ",", "with", "only", "the", "one", "other", "reviewer", "here", "on", "Yelp", "as", "my", "source", "of", "feedback", "."], "e1_text": "met", "e1_pos": 21, "e2_text": "found", "e2_pos": 27, "label": "after"}
+]

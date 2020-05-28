@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "location", "at", "Tempe", "Market", "Place", "makes", "it", "a", "great", "place", "to", "grab", "drinks", "and", "dinner", "with", "friends", ",", "before", "seeing", "a", "movie", "at", "the", "TMP", ",", "and", "of", "course", "the", "shopping", "."], "e1_text": "grab", "e1_pos": 12, "e2_text": "seeing", "e2_pos": 20, "label": "before"}
+]

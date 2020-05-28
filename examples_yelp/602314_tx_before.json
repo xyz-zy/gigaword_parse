@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "we", "ate", "before", "we", "paid", "bc", "they", "were", "waiting", "for", "the", "computer", "in", "order", "to", "run", "the", "CC", ".", "-RRB-"], "e1_text": "ate", "e1_pos": 2, "e2_text": "paid", "e2_pos": 5, "label": "before"}
+]

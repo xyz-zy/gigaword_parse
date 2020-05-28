@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "metal", "tools", "being", "used", "for", "manicure", "and", "pedicure", "were", "not", "sterilized", "at", "any", "point", "and", "were", "being", "used", "on", "other", "customers", "the", "same", "way", "as", "they", "were", "used", "on", "the", "customers", "coming", "before", "."], "e1_text": "used", "e1_pos": 4, "e2_text": "coming", "e2_pos": 32, "label": "before"}
+]

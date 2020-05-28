@@ -1,0 +1,3 @@
+[
+{"tokens": ["ABC", "was", "going", "to", "charge", "me", "$", "85", "after", "they", "dropped", "my", "car", "off", "in", "a", "bad", "location", "when", "I", "clearly", "needed", "it", "on", "my", "property", ",", "while", "Around", "the", "Clock", "towing", "put", "it", "into", "my", "garage", "!!", "On", "top", "of", "that", "they", "charged", "me", "$", "65", "!"], "e1_text": "charge", "e1_pos": 4, "e2_text": "dropped", "e2_pos": 10, "label": "after"}
+]

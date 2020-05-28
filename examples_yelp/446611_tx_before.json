@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "all", "the", "way", "to", "my", "car", "and", "thankfully", "had", "the", "inkling", "to", "look", "before", "driving", "away", "."], "e1_text": "look", "e1_pos": 14, "e2_text": "driving", "e2_pos": 16, "label": "before"},
+{"tokens": ["And", "the", "woman", "said", ",", "''", "``", "I", "tried", "to", "catch", "you", "before", "you", "left", "."], "e1_text": "catch", "e1_pos": 10, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

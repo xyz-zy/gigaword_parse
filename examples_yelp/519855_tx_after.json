@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "showed", "up", "a", "few", "minutes", "after", "the", "manager\\/seater", "left", "and", "took", "our", "drink", "order", "and", "a", "appetizer", "order", "."], "e1_text": "showed", "e1_pos": 2, "e2_text": "left", "e2_pos": 10, "label": "after"},
+{"tokens": ["Should", "have", "been", "after", "waiting", "the", "better", "part", "of", "an", "hour", "and", "a", "half", "to", "get", "it", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 4, "label": "after"}
+]

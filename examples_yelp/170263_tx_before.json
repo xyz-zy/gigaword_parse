@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "put", "us", "in", "a", "nice", "room", "-LRB-", "mold", "was", "on", "the", "ceiling", ",", "we", "were", "too", "tired", "to", "care", "-RRB-", ",", "better", "then", "the", "one", "before", "but", "it", "was", "already", "4", "in", "the", "morning", "by", "the", "time", "we", "reached", "it", "and", "unpacked", ",", "and", "we", "were", "going", "to", "check", "out", "at", "10", "am", "."], "e1_text": "put", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["She", "yells", "''", "``", "we", "put", "you", "in", "a", "better", "room", "then", "the", "one", "you", "had", "before", "so", "in", "our", "view", "you", "have", "already", "been", "comp", "''", "''", "."], "e1_text": "had", "e1_pos": 15, "e2_text": "have", "e2_pos": 22, "label": "before"},
+{"tokens": ["But", "we", "were", "only", "in", "there", "for", "4", "hours", "and", "that", "was", "to", "sleep", ",", "we", "would", "have", "been", "fine", "with", "the", "same", "room", "we", "had", "before", "."], "e1_text": "been", "e1_pos": 18, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

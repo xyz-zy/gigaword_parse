@@ -1,0 +1,4 @@
+[
+{"tokens": ["Kinda", "bummed", "to", "be", "writing", "this", "review", "after", "the", "expectations", "set", ",", "but", "I", "should", "have", "known", "the", "slow", "reviews", "would", "mean", "something", "would", "go", "awry", "with", "my", "must", "be", "on", "time", "lunch", "for", "a", "work", "event", "."], "e1_text": "writing", "e1_pos": 4, "e2_text": "set", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "did", "rush", "and", "get", "everything", "to", "us", "roughly", "25-30", "minutes", "after", "our", "lunch", "was", "scheduled", "to", "happen", "...", "But", "if", "you", "need", "a", "timely", "lunch", "or", "delivery", ",", "I", "would", "n't", "count", "on", "it", "."], "e1_text": "rush", "e1_pos": 2, "e2_text": "was", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", ",", "the", "bill", "in", "question", "was", "already", "in", "the", "cash", "register", "and", "the", "drawer", "was", "closed", "before", "I", "even", "knew", "what", "happened", ",", "so", "there", "is", "no", "way", "to", "prove", "anything", "."], "e1_text": "closed", "e1_pos": 16, "e2_text": "knew", "e2_pos": 20, "label": "before"}
+]

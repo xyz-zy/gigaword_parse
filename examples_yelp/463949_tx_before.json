@@ -1,0 +1,3 @@
+[
+{"tokens": ["Did", "n't", "like", "how", "the", "cooks", "did", "not", "sanitize", "very", "well", ",", "bare", "hands", "on", "food", "does", "n't", "bother", "me", ",", "but", "when", "you", "grab", "an", "egg", "and", "some", "pork", "slices", ",", "I", "'d", "like", "to", "see", "you", "wash", "them", "hands", "before", "moving", "on", "to", "the", "next", "order", "."], "e1_text": "hands", "e1_pos": 40, "e2_text": "moving", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "should", "have", "known", "better", "when", "we", "sat", "in", "the", "bar", "area", "to", "wait", "-LRB-", "me", ",", "my", "spouse", ",", "and", "my", "eight-year-old", "son", "-RRB-", "after", "the", "rather", "apathetic", "front-desk", "person", "took", "our", "name", "."], "e1_text": "known", "e1_pos": 3, "e2_text": "took", "e2_pos": 31, "label": "after"}
+]

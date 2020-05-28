@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "an", "Asian", "restaurant", "and", "rice", "is", "part", "of", "their", "meals", ",", "why", "would", "they", "ran", "out", "of", "rice", "at", "7pm", "??", "The", "other", "people", "that", "came", "after", "us", "had", "rice", "on", "their", "plates", "except", "for", "us", "."], "e1_text": "came", "e1_pos": 27, "e2_text": "had", "e2_pos": 30, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "regular", "spot", "for", "my", "husband", "on", "his", "way", "out", "of", "Vegas", "because", "-", "-", "It", "'s", "only", "like", "3-4", "minutes", "from", "the", "car", "rental", "place", "so", "it", "'s", "a", "good", "place", "to", "stop", "and", "have", "a", "drink", "and", "dinner", "before", "heading", "to", "the", "airport", "."], "e1_text": "have", "e1_pos": 37, "e2_text": "heading", "e2_pos": 43, "label": "before"}
+]

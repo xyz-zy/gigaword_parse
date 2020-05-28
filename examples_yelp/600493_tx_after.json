@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "go", "here", "often", "because", "it", "'s", "a", "convenient", "spot", "to", "meet", "up", "before", "the", "game", ",", "but", "after", "they", "treated", "my", "friends", "and", "I", "so", "rudely", "this", "past", "weekend", "I", "'ll", "never", "bother", "again", "."], "e1_text": "go", "e1_pos": 1, "e2_text": "treated", "e2_pos": 20, "label": "after"}
+]

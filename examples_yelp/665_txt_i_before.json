@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "like", "to", "come", "here", "before", "I", "go", "grocery", "shopping", "at", "the", "nearby", "Trader", "Joe", "'s", "because", "everybody", "knows", "it", "'s", "a", "bad", "idea", "to", "go", "shopping", "for", "food", "stuff", "on", "an", "empty", "stomach", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "go", "e2_pos": 8, "label": "before"}
+]

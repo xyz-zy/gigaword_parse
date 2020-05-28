@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "saying", "that", "you", "have", "to", "take", "my", "order", "immediately", "after", "I", "close", "my", "menu", ";", "however", ",", "I", "do", "n't", "think", "it", "'s", "an", "unreasonable", "expectation", "to", "want", "my", "Waiter", "to", "take", "my", "order", "during", "my", "first", "half", "hour", "in", "a", "restaurant", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "close", "e2_pos": 14, "label": "after"}
+]

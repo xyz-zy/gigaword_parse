@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "after", "finding", "this", "place", "on", "yelp", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "finding", "e2_pos": 4, "label": "after"},
+{"tokens": ["My", "hair", "flips", "outward", "in", "back", ",", "and", "curves", "in", "on", "the", "sides", "where", "there", "are", "less", "layers", "...", "Even", "after", "straightening", "it", "."], "e1_text": "are", "e1_pos": 15, "e2_text": "straightening", "e2_pos": 21, "label": "after"}
+]

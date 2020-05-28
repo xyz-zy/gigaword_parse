@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "the", "screen", "by", "the", "handle", "says", "''", "``", "Ready", "to", "Serve", "''", "''", "before", "pulling", "it", "down", "."], "e1_text": "Make", "e1_pos": 0, "e2_text": "pulling", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "opening", "the", "box", ",", "or", "should", "I", "say", "after", "I", "saw", "the", "box", "opened", "by", "the", "manager", "before", "I", "got", "there", ",", "I", "found", "the", "mesh", "was", "ripped", "."], "e1_text": "opened", "e1_pos": 14, "e2_text": "got", "e2_pos": 20, "label": "before"}
+]

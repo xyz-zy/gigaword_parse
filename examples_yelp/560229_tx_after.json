@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "her", "to", "be", "careful", "because", "after", "reading", "these", "reviews", ",", "he", "might", "throw", "something", "at", "her", "or", "cuss", "her", "out", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["Now", "I", "know", "after", "driving", "up", "and", "down", "on", "Rainbow", "Blvd.", "why", "they", "do", "n't", "have", "any", "customers", "."], "e1_text": "know", "e1_pos": 2, "e2_text": "driving", "e2_pos": 4, "label": "after"}
+]

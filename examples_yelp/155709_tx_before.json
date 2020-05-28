@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "enjoying", "my", "vacation", "till", "I", "stopped", "by", "the", "burger", "bar", "Jessica", "our", "server", "was", "less", "then", "pleasant", "and", "Scott", "the", "manager", "would", "not", "honor", "the", "happy", "hour", "specials", "think", "twice", "before", "stopping", "by", "for", "happy", "hour", "."], "e1_text": "think", "e1_pos": 30, "e2_text": "stopping", "e2_pos": 33, "label": "before"}
+]

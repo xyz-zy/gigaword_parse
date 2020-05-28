@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "honestly", "more", "thrilled", "by", "the", "expression", "on", "my", "best", "friend", "'s", "face", ",", "her", "periodic", "blushing", "as", "she", "gushed", "about", "how", "hot", "they", "all", "were", ",", "and", "the", "fact", "that", "as", "soon", "as", "it", "was", "over", ",", "she", "said", ",", "''", "``", "Do", "we", "have", "time", "to", "come", "back", "here", "before", "we", "head", "to", "San", "Francisco", "?", "''", "''"], "e1_text": "come", "e1_pos": 49, "e2_text": "head", "e2_pos": 54, "label": "before"}
+]

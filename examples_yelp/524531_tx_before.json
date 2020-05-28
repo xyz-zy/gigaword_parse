@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "the", "morning", "of", "scheduled", "service", "I", "got", "a", "call", "from", "the", "''", "``", "technician", "''", "''", "4", "hours", "before", "the", "appointment", "saying", "the", "gate", "was", "locked", "and", "he", "could", "n't", "get", "in", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "was", "e2_pos": 25, "label": "before"}
+]

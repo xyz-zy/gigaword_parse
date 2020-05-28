@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "ordering", ",", "I", "was", "surprised", "an", "abrupt", "male", "speaker", "hurried", "me", "for", "an", "order", ",", "after", "agressively", "asking", "if", "I", "knew", "what", "location", "I", "was", "calling", "."], "e1_text": "hurried", "e1_pos": 10, "e2_text": "asking", "e2_pos": 18, "label": "after"}
+]

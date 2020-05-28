@@ -1,0 +1,3 @@
+[
+{"tokens": ["b\\/c", "poutine", "is", "a", "great", "after-drinking", "snack", ",", "they", "require", "you", "to", "pay", "before", "you", "get", "your", "order", "but", "it", "actually", "works", "out", "pretty", "well", "since", "things", "get", "busy", "and", "it", "'s", "hard", "to", "catch", "one", "of", "those", "-LRB-", "cute", ",", "young", ",", "friendly", "-RRB-", "servers", "."], "e1_text": "pay", "e1_pos": 12, "e2_text": "get", "e2_pos": 15, "label": "before"}
+]

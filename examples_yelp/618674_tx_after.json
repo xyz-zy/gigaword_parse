@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "live", "in", "the", "area", "so", "after", "seeing", "the", "big", "sign", "reading", "Under", "New", "Management", "I", "talked", "my", "friends", "into", "going", "again", ",", "hoping", "it", "would", "be", "better", "."], "e1_text": "live", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["Then", "we", "get", "partial", "of", "our", "order", "after", "waiting", "an", "additional", "20-25", "minutes", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

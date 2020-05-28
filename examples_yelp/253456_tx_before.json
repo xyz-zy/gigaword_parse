@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "a", "reservation", "online", "initially", "but", "then", "had", "to", "call", "in", "and", "switch", "it", "to", "a", "wheelchair", "accessible", "room", "with", "a", "roll-in", "shower", ",", "add", "a", "night", "to", "the", "reservation", ",", "and", "add", "my", "friends", "'", "names", "to", "the", "reservation", "so", "they", "could", "check", "in", "before", "I", "got", "there", "."], "e1_text": "check", "e1_pos": 44, "e2_text": "got", "e2_pos": 48, "label": "before"}
+]

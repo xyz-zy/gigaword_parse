@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "being", "seated", ",", "we", "looked", "over", "the", "menus", ",", "but", "were", "set", "to", "order", "about", "5", "minutes", "after", "sitting", "down", "."], "e1_text": "order", "e1_pos": 14, "e2_text": "sitting", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "had", "gotten", "our", "waters", "a", "good", "thirty", "minutes", "after", "sitting", "down", "and", "without", "the", "lemons\\/limes", "we", "had", "asked", "for", "."], "e1_text": "gotten", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 10, "label": "after"}
+]

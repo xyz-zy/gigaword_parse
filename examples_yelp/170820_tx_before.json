@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "on", "the", "phone", ",", "which", "put", "me", "through", "a", "series", "of", "recordings", ",", "then", "an", "operator", "-LRB-", "hitting", "the", "''", "``", "front", "desk", "''", "''", "button", "on", "the", "phone", "takes", "you", "everywhere", "but", "there", "-RRB-", "before", "speaking", "to", "a", "desk", "clerk", "to", "to", "tell", "her", "that", "our", "A\\/C", "was", "n't", "working", "and", "we", "wanted", "to", "switch", "rooms", "."], "e1_text": "put", "e1_pos": 7, "e2_text": "speaking", "e2_pos": 38, "label": "before"}
+]

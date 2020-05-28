@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "you", "call", "about", "30", "minutes", "before", "you", "actually", "want", "to", "pick", "it", "up", "though", "as", "it", "does", "get", "busy", "here", "at", "dinner", "time", "as", "it", "'s", "not", "a", "fast", "food", "joint", "."], "e1_text": "call", "e1_pos": 3, "e2_text": "want", "e2_pos": 10, "label": "before"}
+]

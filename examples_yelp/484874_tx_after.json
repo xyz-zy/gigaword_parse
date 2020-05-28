@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "failed", "to", "provide", "me", "with", "quality", "service", ",", "had", "an", "extremely", "terrible", "attitude", "and", "then", "proceeded", "to", "ignore", "me", "for", "almost", "20", "minutes", "after", "she", "applied", "my", "eyelashes", "to", "help", "another", "customer", "."], "e1_text": "ignore", "e1_pos": 18, "e2_text": "applied", "e2_pos": 26, "label": "after"},
+{"tokens": ["I", "have", "to", "say", "that", "I", "have", "bought", "many", "eyelashes", "from", "your", "store", "here", "because", "it", "was", "tradition", "for", "my", "friends", "in", "vegas", ",", "but", "after", "they", "saw", "how", "she", "treated", "me", "they", "did", "not", "even", "want", "her", "help", "."], "e1_text": "bought", "e1_pos": 7, "e2_text": "saw", "e2_pos": 27, "label": "after"}
+]

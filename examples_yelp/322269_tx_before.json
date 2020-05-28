@@ -1,0 +1,4 @@
+[
+{"tokens": ["Clean", "bathrooms", ",", "as", "I", "went", "in", "there", "to", "wash", "my", "hands", "before", "we", "ate", "."], "e1_text": "wash", "e1_pos": 9, "e2_text": "ate", "e2_pos": 14, "label": "before"},
+{"tokens": ["They", "have", "a", "TV", "in", "the", "Floor", "near", "the", "waiting", "area", ",", "which", "I", "have", "never", "seen", "before", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "have", "e2_pos": 1, "label": "before"}
+]

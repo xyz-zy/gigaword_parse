@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "store", "is", "owned", "by", "the", "same", "people", "that", "own", "the", "other", "Ono", "'s", "in", "the", "valley", "they", "could", "have", "got", "some", "from", "another", "store", "before", "they", "opened", "or", "even", "gone", "to", "the", "Fry", "'s", "in", "the", "same", "parking", "lot", "and", "got", "some", "."], "e1_text": "got", "e1_pos": 20, "e2_text": "opened", "e2_pos": 27, "label": "before"}
+]

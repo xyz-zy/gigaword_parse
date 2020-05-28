@@ -1,0 +1,4 @@
+[
+{"tokens": ["Visited", "Juan", "'s", "after", "reading", "the", "numerous", "complementary", "reviews", "."], "e1_text": "'s", "e1_pos": 2, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "service", "left", "something", "to", "be", "desired", ",", "primarily", "because", "we", "had", "to", "wait", "over", "thirty", "minutes", "for", "our", "food", "to", "arrive", ",", "even", "though", "the", "restaurant", "was", "not", "packed", "until", "after", "we", "received", "our", "food", "."], "e1_text": "packed", "e1_pos": 29, "e2_text": "received", "e2_pos": 33, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "drink", "was", "empty", "so", "I", "would", "assume", "that", "would", "be", "something", "that", "the", "waitress", "would", "ask", "but", "I", "caught", "her", "before", "she", "left", "."], "e1_text": "caught", "e1_pos": 19, "e2_text": "left", "e2_pos": 23, "label": "before"}
+]

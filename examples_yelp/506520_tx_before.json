@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "blackened", "catfish", "was", "great", "but", "these", "are", "the", "things", "that", "went", "wrong", "on", "our", "second", "visit", ":", "-", "Once", "we", "were", "sat", ",", "We", "waited", "for", "15", "minutes", "before", "anyone", "helped", "us", "-LRB-", "party", "of", "3", "-RRB-", "."], "e1_text": "waited", "e1_pos": 25, "e2_text": "helped", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "was", "going", "to", "order", "the", "watermelon", "margarita", ",", "which", "was", "another", "drink", "special", ",", "but", "after", "waiting", "15", "mins", "before", "the", "waitress", "came", "to", "help", "us", "I", "overheard", "the", "next", "table", "that", "ordered", "it", "said", "it", "was", "gross", "and", "they", "sent", "it", "back", "."], "e1_text": "waiting", "e1_pos": 17, "e2_text": "came", "e2_pos": 23, "label": "before"}
+]

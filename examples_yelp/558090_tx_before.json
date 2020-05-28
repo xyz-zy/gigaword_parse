@@ -1,0 +1,3 @@
+[
+{"tokens": ["Took", "my", "husband", "there", "for", "his", "bday", "and", "mentioned", "it", "twice", "before", "he", "got", "there", "and", "once", "again", "after", "he", "got", "there", "and", "not", "even", "a", "happy", "birthday", "and", "guess", "they", "do", "n't", "do", "anything", "for", "bdays", "."], "e1_text": "mentioned", "e1_pos": 8, "e2_text": "got", "e2_pos": 13, "label": "before"}
+]

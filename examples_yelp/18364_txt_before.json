@@ -1,0 +1,4 @@
+[
+{"tokens": [",", "apps", "and", "dinner", "but", "passed", "on", "dessert", "with", "lingering", "looks", "back", "as", "if", "to", "validate", "the", "mutual", "decision", "I", "had", "studied", "the", "menu", "before", "but", "that", "had", "been", "weeks", "prior", "."], "e1_text": "looks", "e1_pos": 10, "e2_text": "had", "e2_pos": 20, "label": "before"},
+{"tokens": ["This", "Ninja", "has", "enjoyed", "the", "experience", "and", "plans", "on", "returning", "before", "the", "first", "clouds", "of", "Winter", "stretch", "out", "over", "the", "valley", "horizon", "."], "e1_text": "returning", "e1_pos": 9, "e2_text": "stretch", "e2_pos": 16, "label": "before"}
+]

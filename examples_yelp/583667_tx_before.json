@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "with", "our", "silverware", "on", "our", "plates", "after", "finishing", "our", "entrees", "for", "thirteen", "minutes", "and", "eight", "seconds", "before", "the", "plates", "were", "finally", "cleared", "away", "."], "e1_text": "finishing", "e1_pos": 9, "e2_text": "were", "e2_pos": 21, "label": "before"},
+{"tokens": ["And", "then", "we", "sat", "for", "another", "eleven", "minutes", "and", "fifty", "two", "seconds", "before", "the", "waiter", "came", "over", "to", "ask", "if", "we", "wanted", "dessert", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

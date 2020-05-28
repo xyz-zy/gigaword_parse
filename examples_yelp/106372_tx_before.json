@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "when", "my", "girlfriend", "informed", "me", "that", "we", "'ve", "been", "sitting", "here", "for", "nearly", "an", "hour", "before", "our", "pizza", "showed", "up", "."], "e1_text": "sitting", "e1_pos": 11, "e2_text": "showed", "e2_pos": 20, "label": "before"}
+]

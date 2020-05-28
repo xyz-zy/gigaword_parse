@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "final", "straw", "being", "him", "defending", "a", "policy", "that", "they", "have", "in", "place", "that", "holds", "cash", "deposits", "made", "at", "their", "ATMs", "for", "an", "outrageous", "length", "of", "time", "before", "making", "the", "funds", "available", "."], "e1_text": "made", "e1_pos": 17, "e2_text": "making", "e2_pos": 28, "label": "before"},
+{"tokens": ["It", "'s", "best", "to", "take", "your", "business", "elsewhere", "before", "they", "screw", "you", "too", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "screw", "e2_pos": 10, "label": "before"}
+]

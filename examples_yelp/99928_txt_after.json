@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "a", "recent", "order", "I", "called", "them", "back", "after", "the", "crust", "sounded", "and", "felt", "like", "hard", "candy", "when", "my", "wife", "and", "I", "bit", "into", "it", "."], "e1_text": "called", "e1_pos": 5, "e2_text": "sounded", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "is", "after", "recent", "orders", "that", "have", "been", "less", "than", "great", "quality", "wise", ",", "but", "okay", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "have", "e2_pos": 6, "label": "after"}
+]

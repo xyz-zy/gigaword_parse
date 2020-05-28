@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "needed", "new", "tires", "before", "I", "took", "my", "trip", "to", "California", ",", "so", "I", "came", "here", ",", "because", "it", "'s", "right", "down", "the", "street", "from", "my", "house", ",", "customer", "service", "was", "fine", ",", "I", "did", "n't", "have", "a", "problem", "with", "that", "."], "e1_text": "needed", "e1_pos": 1, "e2_text": "took", "e2_pos": 6, "label": "before"}
+]

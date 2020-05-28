@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "arriving", "for", "breakfast\\/brunch", ",", "waited", "5", "minutes", "at", "hostess", "stand", "before", "anyone", "arrived", "to", "greet", "us", "."], "e1_text": "stand", "e1_pos": 10, "e2_text": "arrived", "e2_pos": 13, "label": "before"}
+]

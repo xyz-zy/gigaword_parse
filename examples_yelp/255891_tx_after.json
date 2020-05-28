@@ -1,0 +1,5 @@
+[
+{"tokens": ["Another", "30", "min", "later", "-LRB-", "&", "after", "the", "appetizer", "gets", "there", "-RRB-", ",", "then", "my", "drink", "comes", "."], "e1_text": "min", "e1_pos": 2, "e2_text": "gets", "e2_pos": 9, "label": "after"},
+{"tokens": ["Other", "people", "come", "in", "after", "us", ",", "get", "seated", "first", ",", "get", "thier", "food", ",", "eat", "&", "leave", "&", "our", "food", "STILL", "has", "n't", "come", "."], "e1_text": "come", "e1_pos": 2, "e2_text": "eat", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "started", "going", "to", "this", "location", "after", "the", "service", "&", "food", "went", "downhill", "at", "the", "Montecito", "location", "on", "N", "Durango", "."], "e1_text": "started", "e1_pos": 1, "e2_text": "went", "e2_pos": 11, "label": "after"}
+]

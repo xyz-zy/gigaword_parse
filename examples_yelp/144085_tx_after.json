@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "both", "ordered", "the", "seafood", "burrito", "but", "after", "a", "few", "bites", "noticed", "that", "the", "other", "seafood", "listed", "on", "the", "menu", "was", "missing", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "noticed", "e2_pos": 11, "label": "after"}
+]

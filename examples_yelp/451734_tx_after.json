@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "waited", "3", "weeks", "after", "the", "1st", "week", "of", "waiting", "for", "the", "insurance", "to", "approve", "everything", "before", "I", "decided", "to", "contact", "them", "and", "see", "how", "my", "car", "was", "doing", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

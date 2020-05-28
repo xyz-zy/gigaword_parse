@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "local", "boutique", "recently", "took", "up", "shop", "at", "The", "Metropolitan", "so", "the", "space", "is", "not", "only", "filled", "with", "light", "but", "it", "'s", "great", "to", "pop", "in", "to", "take", "a", "look", "before", "you", "head", "to", "a", "delicious", "dinner", "or", "out", "for", "drinks", "."], "e1_text": "take", "e1_pos": 27, "e2_text": "head", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "decided", "to", "try", "this", "place", "out", "after", "reading", "so", "many", "good", "reviews", "on", "yelp", "and", "you", "guys", "were", "right", "."], "e1_text": "try", "e1_pos": 4, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "going", "to", "order", "a", "large", "but", "decided", "on", "the", "medium", "bowl", "after", "looking", "at", "the", "sizes", "."], "e1_text": "decided", "e1_pos": 8, "e2_text": "looking", "e2_pos": 14, "label": "after"}
+]

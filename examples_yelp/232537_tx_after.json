@@ -1,0 +1,3 @@
+[
+{"tokens": ["Actually", "that", "'s", "not", "really", "correct", "either", "as", "when", "we", "first", "stayed", "there", "we", "checked", "out", "after", "only", "being", "there", "for", "2", "1\\/2", "hours", "and", "had", "paid", "and", "not", "been", "reimbursed", "."], "e1_text": "checked", "e1_pos": 14, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "is", "still", "kind", "of", "new", ",", "but", "you", "should", "have", "a", "clue", "before", "you", "make", "a", "claim", "and", "advertise", "that", "you", "are", "friendly", "to", "people", "'s", "needs", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "make", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "will", "probably", "give", "hem", "one", "last", "chance", "before", "we", "write", "them", "off", "completely", ",", "I", "just", "hope", "they", "stay", "in", "business", "long", "enough", "for", "this", "to", "happen", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "write", "e2_pos": 10, "label": "before"}
+]

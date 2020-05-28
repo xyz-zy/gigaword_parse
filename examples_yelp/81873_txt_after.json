@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "ordered", "grits", "with", "his", "breakfast", "after", "inquiring", "if", "they", "were", "good", "-LRB-", "so", "they", "literally", "had", "a", "conversation", "about", "it", "-RRB-", "but", "then", "she", "brought", "him", "fruit", "instead", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "inquiring", "e2_pos": 8, "label": "after"}
+]

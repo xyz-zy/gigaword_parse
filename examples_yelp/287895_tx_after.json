@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "drop", "by", "Earl", "of", "Sandwich", "for", "a", "midnight", "snack", "after", "watching", "a", "show", "."], "e1_text": "drop", "e1_pos": 3, "e2_text": "watching", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "was", "very", "pleasantly", "surprised", "how", "full", "and", "satisfied", "I", "was", "after", "eating", "my", "sandwich", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

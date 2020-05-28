@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "examined", "by", "Dr.", "Tran", "of", "Fashion", "Eye", "Care", "for", "several", "years", "now", ",", "both", "before", "I", "became", "a", "resident", "of", "the", "Las", "Vegas", "valley", ",", "and", "since", "."], "e1_text": "examined", "e1_pos": 3, "e2_text": "became", "e2_pos": 19, "label": "before"},
+{"tokens": ["With", "Diane", ",", "Dr.", "Tran", "has", "also", "proven", "to", "be", "a", "master", "of", "the", "latest", "available", "contact", "lens", "products", ",", "and", "has", "been", "generous", "in", "providing", "her", "with", "various", "types", "of", "trial", "contact", "lenses", "to", "try", "at", "no", "extra", "charge", "beyond", "the", "cost", "of", "a", "comprehensive", "eye", "examination", ",", "before", "the", "best", "personal", "fit", "is", "determined", "and", "ordered", "."], "e1_text": "try", "e1_pos": 35, "e2_text": "is", "e2_pos": 54, "label": "before"}
+]

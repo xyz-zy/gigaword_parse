@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "it", "was", "some", "time", "before", "I", "was", "able", "to", "order", "that", "first", "drink", ",", "and", "in", "fact", ",", "almost", "left", "after", "waiting", "at", "the", "bar", "for", "quite", "some", "time", "without", "acknowledgement", "-", "and", "there", "were", "only", "about", "5", "other", "patrons", "nearby", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["My", "succeeding", "trip", "was", "very", "similar", "to", "the", "first", ",", "waited", "at", "the", "bar", "with", "a", "friend", "for", "an", "inordinate", "amount", "of", "time", "before", "finally", "having", "our", "drink", "and", "order", "of", "cheese", "and", "some", "appetizers", "taken", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "having", "e2_pos": 25, "label": "before"}
+]

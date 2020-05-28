@@ -1,0 +1,3 @@
+[
+{"tokens": ["how", "in", "the", "WORLD", "does", "this", "place", "get", "a", "5", "???", "Like", "a", "good", "little", "planner", ",", "I", "called", "30", "minutes", "ahead", "of", "my", "intended", "pick", "up", "time", ",", "it", "was", "after", "all", "1pm", "I", "thought", "maybe", "there", "'d", "be", "a", "lingering", "lunch", "crowd", "so", "I", "wanted", "to", "give", "them", "ample", "time", "."], "e1_text": "was", "e1_pos": 30, "e2_text": "thought", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wonder", "if", "the", "health", "department", "reads", "random", "reviews", "of", "places", "before", "they", "inspect", "."], "e1_text": "reads", "e1_pos": 6, "e2_text": "inspect", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "excellent", "experience", "had", "by", "both", "my", "wife", "and", "I", ",", "who", "went", "there", "for", "happy", "hour", "after", "we", "received", "sub-par", "service", "at", "another", "bar-restaurant", "in", "the", "area", "."], "e1_text": "went", "e1_pos": 12, "e2_text": "received", "e2_pos": 19, "label": "after"}
+]

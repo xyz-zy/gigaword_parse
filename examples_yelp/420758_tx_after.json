@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Chicken", "Parmesan", "was", "supposed", "to", "come", "with", "a", "salad", "which", "the", "waitress", "forgot", "until", "she", "brought", "my", "meal", "and", "asked", "if", "I", "still", "wanted", "it", "after", "my", "main", "dish", "was", "sitting", "there", "hot", "-", "NO.", "."], "e1_text": "wanted", "e1_pos": 24, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

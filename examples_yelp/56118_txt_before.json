@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "cashier", "asked", "the", "people", "behind", "us", "to", "go", "in", "front", "of", "me", "to", "the", "cashier", ",", "tried", "cutting", "in", "before", "they", "paid", "."], "e1_text": "cutting", "e1_pos": 18, "e2_text": "paid", "e2_pos": 22, "label": "before"}
+]

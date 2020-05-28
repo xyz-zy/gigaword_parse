@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "with", "the", "long", "wait", ",", "our", "empty", "iced", "teas", "only", "were", "refilled", "just", "before", "the", "check", "came", ",", "and", "sodas", "never", "were", "refilled", "."], "e1_text": "refilled", "e1_pos": 12, "e2_text": "came", "e2_pos": 17, "label": "before"}
+]

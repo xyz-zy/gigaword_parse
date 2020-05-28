@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "After", "waiting", "for", "the", "bell", "boy", "to", "come", "and", "get", "my", "stuff", "after", "check", "out", "for", "almost", "an", "hour", ",", "the", "security", "guard", "finally", "helped", "us", "out", "."], "e1_text": "come", "e1_pos": 8, "e2_text": "check", "e2_pos": 14, "label": "after"}
+]

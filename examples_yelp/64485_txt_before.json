@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "the", "trip", "to", "the", "hotel", "is", "20", "min", ",", "should", "n't", "the", "driver", "leave", "the", "car", "running", "or", "ensure", "the", "car", "is", "cozy", "before", "the", "client", "enters", "?"], "e1_text": "is", "e1_pos": 6, "e2_text": "enters", "e2_pos": 27, "label": "before"}
+]

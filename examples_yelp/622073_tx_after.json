@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "in", "before", "the", "big", "rush", ",", "since", "a", "few", "minutes", "after", "we", "ordered", ",", "there", "was", "a", "line", "out", "the", "door", ",", "winding", "around", "the", "block", "!"], "e1_text": "got", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 14, "label": "after"}
+]

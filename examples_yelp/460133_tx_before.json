@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "spent", "an", "usually", "long", "amount", "of", "time", "discussing", "our", "non-complicated\\/completely", "ordinary", "order", "of", "tacos", "and", "quesadillas", "with", "the", "cashier", ",", "and", "went", "over", "it", "not", "once", "but", "three", "times", "before", "she", "got", "it", "right", "."], "e1_text": "went", "e1_pos": 22, "e2_text": "got", "e2_pos": 32, "label": "before"}
+]

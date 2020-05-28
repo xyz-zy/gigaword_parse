@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "few", "of", "us", "changed", "our", "plans", "at", "the", "last", "minute", "to", "come", "in", "a", "day", "early", "and", "were", "looking", "for", "someplace", "cheap", "to", "stay", "on", "Friday", "night", "before", "we", "transitioned", "to", "our", "planned", "stay", "at", "Aria", "on", "Saturday", "."], "e1_text": "stay", "e1_pos": 24, "e2_text": "transitioned", "e2_pos": 30, "label": "before"}
+]

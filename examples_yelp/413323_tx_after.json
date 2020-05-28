@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "left", "after", "15", "minutes", "standing", "in", "line", "while", "the", "only", "two", "employees", "on", "the", "floor", "were", "making", "passes", "at", "the", "Pepsi", "vendor", "working", "on", "the", "soda", "fountain", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "passes", "e2_pos": 18, "label": "after"}
+]

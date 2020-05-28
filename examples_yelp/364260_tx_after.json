@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "at", "Nix", "late", "at", "night", "after", "a", "good", "night", "on", "the", "town", ",", "walking", "around", "and", "people", "watching", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "walking", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "actually", "followed", "the", "food", "smell", "to", "the", "place", ",", "the", "place", "was", "crowded", "but", "that", "was", "a", "night", "after", "NC", "won", "a", "game", "so", "what", "place", "that", "serves", "beer", "is", "n't", "?"], "e1_text": "was", "e1_pos": 12, "e2_text": "won", "e2_pos": 21, "label": "after"}
+]

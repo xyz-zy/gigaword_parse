@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "-LRB-", "after", "reading", "the", "rave", "reviews", "here", "-RRB-", "on", "July", "21", ",", "2012", "and", "the", "place", "had", "a", "for", "rent", "sign", "in", "the", "window", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"}
+]

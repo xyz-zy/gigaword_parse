@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "three", "draft", "beers", "our", "group", "tried", "were", "tasteless", ",", "even", "after", "we", "specified", "we", "prefer", "hoppy", "brews", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "specified", "e2_pos": 13, "label": "after"}
+]

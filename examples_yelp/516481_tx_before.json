@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "bf", "and", "I", "went", "on", "the", "Friday", "before", "Halloween", ",", "which", "was", "80s", "night", "and", "I", "liked", "the", "live", "music", ";", "HOWEVER", ",", "our", "server", "never", "put", "in", "our", "dinner", "and", "we", "were", "on", "a", "tight", "time-frame", "to", "get", "to", "the", "Louis", "CK", "show", "down", "the", "street", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

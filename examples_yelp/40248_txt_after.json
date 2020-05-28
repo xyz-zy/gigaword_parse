@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "'s", "no", "valet", ":-LRB-", "we", "waited", "a", "few", "min", "before", "we", "were", "sat", "at", "a", "booth", ",", "we", "let", "our", "server", "know", "we", "would", "need", "a", "steak", "to", "go", "and", "she", "advised", "us", "to", "order", "it", "after", "we", "get", "out", "meal", "."], "e1_text": "order", "e1_pos": 35, "e2_text": "get", "e2_pos": 39, "label": "after"}
+]

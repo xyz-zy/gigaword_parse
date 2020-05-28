@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "witnessed", "that", "one", "of", "the", "chef", "was", "using", "a", "spoon", "the", "taste", "test", "one", "of", "the", "dish", "and", "after", "he", "put", "this", "spoon", "in", "his", "mouth", ",", "he", "used", "the", "same", "spoon", "to", "stir", "the", "sauce", "."], "e1_text": "witnessed", "e1_pos": 1, "e2_text": "put", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "sucked", "!!", "We", "had", "a", "party", "of", "20", "and", "we", "did", "n't", "get", "our", "food", "till", "2", "hours", "later", "...", "I", "got", "my", "food", "5", "minutes", "after", "everyone", "in", "my", "party", "was", "done", "!!", "Seriously", "you", "really", "need", "to", "have", "a", "talk", "with", "your", "staff", "!!!!", "i", "work", "in", "a", "restaurant", "...", "serving", "the", "customers", "their", "food", "on", "a", "timely", "manner", "and", "not", "forgetting", "orders", "is", "very", "important", "!!"], "e1_text": "got", "e1_pos": 23, "e2_text": "was", "e2_pos": 33, "label": "after"}
+]

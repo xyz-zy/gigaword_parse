@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "view", "was", "beautiful", "and", "we", "took", "a", "catnap", "before", "everyone", "flew", "in", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "flew", "e2_pos": 11, "label": "before"},
+{"tokens": ["UPDATE", ":", "On", "our", "last", "night", ",", "I", "finally", "received", "the", "contact", "information", "for", "the", "director", "of", "hotel", "operations", ",", "who", "immediately", "responded", "to", "my", "email", "and", "set", "up", "a", "call", "for", "8am", "right", "before", "we", "were", "leaving", "Vegas", "."], "e1_text": "set", "e1_pos": 27, "e2_text": "were", "e2_pos": 36, "label": "before"}
+]

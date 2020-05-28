@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "that", "first", "appointment", "with", "Dr.", "Koch", ",", "most", "of", "my", "appointments", "have", "been", "the", "same", "-", "I", "leave", "him", "urgent", "voicemails", "that", "something", "is", "wrong", "with", "Tucker", "and", "he", "squeezes", "me", "into", "his", "booked", "schedule", "between", "appointments", ",", "and", "even", "before", "his", "official", "work", "day", "starts", "."], "e1_text": "leave", "e1_pos": 18, "e2_text": "starts", "e2_pos": 46, "label": "before"}
+]

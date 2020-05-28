@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "then", "on", "the", "Vegas", "flight", "we", "did", "n't", "end", "up", "getting", "anything", "anyway", "because", "they", "said", "it", "was", "too", "turbulent", "for", "service", "after", "they", "took", "everyone", "'s", "orders", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "took", "e2_pos": 25, "label": "after"},
+{"tokens": ["There", "was", "hardly", "any", "turbulence", "after", "they", "announced", "it", "though", "so", "that", "was", "really", "lame", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "announced", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "in", "a", "month", "or", "so", "after", "the", "remodel", "that", "was", "recently", "completed", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "guac", "was", "really", "good", ",", "something", "that", "I", "ca", "n't", "say", "I", "was", "expecting", "after", "eating", "their", "bland", "chips", "."], "e1_text": "expecting", "e1_pos": 14, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

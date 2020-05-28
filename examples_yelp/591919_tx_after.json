@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "give", "it", "one", "star", "for", "their", "customer", "service", "...", "I", "went", "to", "this", "restaurant", "on", "their", "opening", "day", "after", "reading", "an", "article", ":", "''", "``", "Pancheros", "Mexican", "Grill", ",", "a", "fast-casual", "Mexican", "restaurant", ",", "is", "opening", "Jan.", "29", "in", "Chandler", ",", "and", "they", "'ll", "sell", "$", "1", "burritos", "to", "mark", "the", "occasion", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "reading", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "am", "not", "unreasonable", "after", "I", "left", "I", "can", "see", "their", "ad", "was", "poorly", "written", "and", "easily", "misunderstood", "."], "e1_text": "am", "e1_pos": 1, "e2_text": "left", "e2_pos": 6, "label": "after"}
+]

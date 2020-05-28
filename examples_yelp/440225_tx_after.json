@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "after", "hearing", "friends", "rave", "about", "this", "place", "plus", "my", "roommate", "had", "gone", "the", "day", "before", "and", "had", "ordered", "the", "meatball", "sandwich", "and", "kept", "saying", "how", "awesome", "it", "was", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["Sadly", "I", "was", "disappointed", "by", "the", "sandwich", "after", "paying", "$", "20", "for", "2", "people", "to", "eat", "."], "e1_text": "disappointed", "e1_pos": 3, "e2_text": "paying", "e2_pos": 8, "label": "after"}
+]

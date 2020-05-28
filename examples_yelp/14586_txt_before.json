@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "believe", "I", "'ve", "never", "reviewed", "this", "place", "before", "."], "e1_text": "believe", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 5, "label": "before"},
+{"tokens": ["They", "have", "a", "starbucks", "here", "too", ",", "which", "is", "their", "regular", "prices", ",", "but", "is", "like", "an", "extra", "$", "5", "a", "person", "to", "eat", "here", ",", "so", "dine", "elsewhere", "before", "you", "come", "in", "here", "."], "e1_text": "eat", "e1_pos": 23, "e2_text": "come", "e2_pos": 31, "label": "before"}
+]

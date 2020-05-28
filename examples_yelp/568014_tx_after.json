@@ -1,0 +1,3 @@
+[
+{"tokens": ["New", "to", "Yelp", ",", "just", "moved", "back", "to", "the", "Phoenix", "area", "after", "living", "in", "CA", "for", "a", "few", "years", "."], "e1_text": "moved", "e1_pos": 5, "e2_text": "living", "e2_pos": 12, "label": "after"}
+]

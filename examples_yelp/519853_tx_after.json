@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "first", ",", "the", "server", "seamed", "quick", "and", "attentive", ",", "but", "after", "serving", "drinks", "and", "entrees", ",", "disappeared", "."], "e1_text": "seamed", "e1_pos": 5, "e2_text": "serving", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "had", "to", "wait", "about", "30", "minutes", "after", "finishing", "our", "meals", "to", "get", "a", "carryout", "container", ",", "then", "she", "never", "brought", "the", "check", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "finishing", "e2_pos": 8, "label": "after"}
+]

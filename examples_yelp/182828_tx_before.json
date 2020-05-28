@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "you", "do", "n't", "pay", "until", "you", "are", "finished", "with", "your", "dinner", "-LRB-", "bill", "comes", "at", "the", "end", "like", "a", "normal", "restaurant", "-RRB-", ",", "when", "you", "walk", "into", "the", "place", ",", "please", "look", "at", "the", "food", "selections", "before", "you", "sit", "down", "and", "order", "drinks", "."], "e1_text": "look", "e1_pos": 32, "e2_text": "sit", "e2_pos": 39, "label": "before"},
+{"tokens": ["Remember", "my", "tip", ":", "Look", "at", "the", "food", "selections", "before", "sitting", "down", "."], "e1_text": "Look", "e1_pos": 4, "e2_text": "sitting", "e2_pos": 10, "label": "before"}
+]

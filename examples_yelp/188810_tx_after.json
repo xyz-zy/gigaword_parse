@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "only", "gone", "to", "this", "buffet", "twice", ",", "but", "both", "times", ",", "there", "are", "tons", "of", "people", "who", "are", "willing", "to", "wait", "in", "the", "lines", "and", "fill", "up", "an", "entire", "plate", "or", "two", "with", "them", "-LRB-", "although", ",", "people", "like", "that", ",", "such", "as", "my", "parents", ",", "regret", "getting", "so", "much", "a", "bit", "after", "they", "remember", "there", "are", "other", "well-prepared", "foods", "surrounding", "them", "lol", "-RRB-", "."], "e1_text": "getting", "e1_pos": 49, "e2_text": "remember", "e2_pos": 56, "label": "after"}
+]

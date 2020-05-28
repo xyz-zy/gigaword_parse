@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "pizza", "and", "popcorn", "before", "the", "movie", "even", "started", ",", "we", "asked", "twice", "if", "it", "was", "coming", "out", "and", "we", "were", "told", "that", "they", "were", "very", "busy", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "started", "e2_pos": 9, "label": "before"},
+{"tokens": ["Overall", "we", "were", "really", "disappointed", "and", "will", "probably", "think", "twice", "before", "heading", "here", "again", "."], "e1_text": "think", "e1_pos": 8, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

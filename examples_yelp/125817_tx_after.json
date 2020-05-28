@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Do", "n't", "you", "hate", "when", "you", "forget", "to", "review", "after", "going", "to", "the", "place", "and", "then", "when", "you", "actually", "have", "time", "to", "write", "the", "review", ",", "you", "forget", "half", "the", "information", "??", "Darn", ".", "-RRB-"], "e1_text": "review", "e1_pos": 9, "e2_text": "going", "e2_pos": 11, "label": "after"}
+]

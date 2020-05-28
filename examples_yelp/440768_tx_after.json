@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "said", "they", "would", "email", "my", "release", "-LRB-", "at", "8", "am", "-RRB-", "and", "after", "they", "received", "the", "filled", "out", "copy", "it", "would", "take", "at", "least", "7", "business", "days", "to", "get", "the", "records", "to", "my", "new", "doc", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "received", "e2_pos": 15, "label": "after"}
+]

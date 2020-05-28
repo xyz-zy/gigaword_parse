@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "costumer", "service", "is", "horrible", "but", "I", "still", "kept", "going", "back", "because", "of", "the", "food", "...", "well", "let", "me", "just", "say", "that", "after", "trying", "other", "sushi", "places", "out", "."], "e1_text": "say", "e1_pos": 20, "e2_text": "trying", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "would", "n't", "recommend", "this", "place", "to", "anyone", "especially", "after", "the", "horrible", "food", "poisoning", "I", "go", "last", "time", "I", "had", "it", "."], "e1_text": "recommend", "e1_pos": 3, "e2_text": "go", "e2_pos": 15, "label": "after"}
+]

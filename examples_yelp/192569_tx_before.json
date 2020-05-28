@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "eye", "fucked", "their", "selection", "and", "browsed", "before", "going", "wild", "on", "their", "food", "."], "e1_text": "browsed", "e1_pos": 6, "e2_text": "going", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "wanted", "to", "try", "a", "few", "more", "things", "before", "giving", "up", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "giving", "e2_pos": 9, "label": "before"}
+]

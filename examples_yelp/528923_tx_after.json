@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "got", "my", "friend", "'s", "order", "wrong", "...", "he", "ordered", "a", "chili-cheese", "dog", "-LRB-", "after", "he", "saw", "how", "good", "mine", "looked", "-RRB-", "and", "35", "min", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "saw", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "so", "excited", "to", "try", "the", "pupusas", "after", "reading", "the", "reviews", ",", "but", "all", "the", "hype", "did", "n't", "reflect", "my", "experience", "...", "located", "in", "a", "bright", "blue", "building", ",", "it", "was", "very", "unassuming", "...", "we", "entered", "through", "the", "back", "into", "a", "dimly", "lit", ",", "but", "very", "clean", "dining", "area", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "tried", "ordering", "a", "dessert", ",", "however", "after", "taking", "our", "order", ",", "the", "server", "came", "back", "several", "minutes", "later", "to", "tell", "us", "they", "were", "out", "so", "we", "ordered", "something", "else", "only", "to", "be", "told", "later", "they", "were", "out", "of", "that", "too", "."], "e1_text": "ordering", "e1_pos": 2, "e2_text": "taking", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "few", "beers", "at", "the", "bar", "before", "we", "were", "seated", ",", "and", "I", "did", "n't", "exactly", "have", "an", "empty", "stomach", ",", "but", "the", "portion", "size", "of", "the", "mussels", "blew", "my", "mind", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["My", "girlfriend", "felt", "the", "exact", "same", "way", "I", "did", "and", "we", "took", "about", "a", "half", "a", "bite", "each", "before", "deciding", "to", "pitch", "it", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "deciding", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fish", "'n", "chips", "were", "good", ",", "but", "not", "as", "good", "as", "I", "was", "expecting", "after", "reading", "all", "the", "''", "``", "OMG", ",", "these", "are", "the", "best", "fish", "and", "chips", "on", "the", "planet", "''", "''", "reviews", "and", "anticipating", "my", "visit", "for", "three", "years", "-", "admittedly", ",", "my", "expectations", "were", "sky", "high", "."], "e1_text": "expecting", "e1_pos": 14, "e2_text": "reading", "e2_pos": 16, "label": "after"}
+]

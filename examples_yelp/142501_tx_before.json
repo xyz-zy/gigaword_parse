@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "about", "an", "hour", "before", "HH", "started", ",", "so", "we", "decided", "''", "``", "hey", "lets", "wait", "an", "hour", "to", "get", "1\\/2", "off", "!", "''", "''"], "e1_text": "arrived", "e1_pos": 1, "e2_text": "started", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "waiter", "told", "us", "that", "we", "did", "n't", "order", "the", "meal", "when", "clearly", "we", "did", "because", "he", "gave", "us", "soup", "and", "salad", "before", "...", "We", "told", "him", "this", "and", "he", "still", "refused", "to", "give", "us", "rice", "unless", "we", "paid", "extra", "...", "Just", "a", "mixture", "of", "the", "false", "advertisement", "and", "charging", "us", "for", "rice", "ruined", "my", "meal", "just", "a", "tad", "."], "e1_text": "did", "e1_pos": 6, "e2_text": "gave", "e2_pos": 17, "label": "before"}
+]

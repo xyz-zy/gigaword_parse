@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "chips", "and", "salsa", "-LRB-", "not", "fiery", "enough", "for", "our", "tastes", "-RRB-", "were", "placed", "on", "our", "table", "almost", "immediately", ",", "we", "had", "to", "wait", "a", "good", "10", "minutes", "before", "we", "managed", "to", "flag", "down", "a", "passing", "employee", "who", "went", "to", "look", "for", "a", "waiter", "."], "e1_text": "wait", "e1_pos": 23, "e2_text": "managed", "e2_pos": 30, "label": "before"},
+{"tokens": ["Another", "5", "minutes", "passed", "before", "our", "waiter", "approached", "."], "e1_text": "passed", "e1_pos": 3, "e2_text": "approached", "e2_pos": 7, "label": "before"}
+]

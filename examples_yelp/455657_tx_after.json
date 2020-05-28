@@ -1,0 +1,3 @@
+[
+{"tokens": ["Will", "not", "be", "returning", "even", "though", "the", "wine", "was", "decent", "-LRB-", "hard", "to", "screw", "that", "up", "-RRB-", "and", "service", "was", "good", "after", "the", "first", "initial", "problem", "we", "had", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "had", "e2_pos": 27, "label": "after"}
+]

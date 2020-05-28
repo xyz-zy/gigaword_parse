@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "ordered", "dim", "sum", "from", "the", "menu", "and", "I", "'m", "pretty", "sure", "it", "was", "microwaved", "after", "being", "frozen", "."], "e1_text": "microwaved", "e1_pos": 15, "e2_text": "being", "e2_pos": 17, "label": "after"},
+{"tokens": ["Holy", "MSG", "!!!", "My", "wife", "had", "a", "reaction", "both", "times", "after", "eating", "just", "a", "few", "bites", "of", "my", "dish", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

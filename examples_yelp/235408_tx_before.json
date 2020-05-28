@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "told", "her", "all", "I", "want", "to", "do", "is", "try", "to", "salvage", "what", "is", "left", "of", "this", "$", "600", "spaghetti", "evening", ",", "and", "one", "way", "to", "do", "that", "is", "to", "try", "get", "some", "food", "out", "here", "before", "the", "whole", "table", "falls", "asleep", "."], "e1_text": "get", "e1_pos": 32, "e2_text": "falls", "e2_pos": 41, "label": "before"},
+{"tokens": ["I", "spoke", "to", "the", "manager", "before", "I", "left", "."], "e1_text": "spoke", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "before"}
+]

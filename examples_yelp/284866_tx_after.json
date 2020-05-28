@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "saw", "a", "girl", "pull", "out", "$", "10", "after", "ordering", "a", "cocktail", "and", "immediately", "knew", "it", "was", "her", "first", "time", "in", "vegas", "-", "the", "fact", "that", "i", "'m", "getting", "old", ":", "LMFAO", "was", "scheduled", "to", "perform", "the", "night", "we", "were", "there", "but", "we", "got", "sleepy", "around", "1:30", "am", "and", "left", "before", "they", "hopped", "on", "the", "bar", "and", "did", "their", "thing", "...", "and", "i", "'m", "in", "las", "vegas", ",", "trick", "!"], "e1_text": "pull", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 9, "label": "after"}
+]

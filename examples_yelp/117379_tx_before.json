@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "a", "side", "note", ",", "the", "reason", "I", "am", "so", "upset", "is", "that", "I", "have", "worked", "in", "opthalmolgy", "before", ",", "and", "know", "that", "this", "IS", "standard", "practice", "to", "run", "late", "because", "of", "overbooking", ",", "HOWEVER", ",", "we", "also", "called", "patients", "and", "told", "them", "to", "come", "in", "later", "rather", "than", "having", "them", "sit", "in", "the", "lobby", "for", "hours", "."], "e1_text": "worked", "e1_pos": 15, "e2_text": "know", "e2_pos": 21, "label": "before"}
+]

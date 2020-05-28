@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "want", "to", "tip", "and", "are", "using", "a", "debit", "or", "credit", "card", "then", "you", "need", "to", "tell", "the", "guy", "before", "he", "charges", "the", "card", "or", "it", "is", "to", "late", "."], "e1_text": "tell", "e1_pos": 17, "e2_text": "charges", "e2_pos": 22, "label": "before"}
+]

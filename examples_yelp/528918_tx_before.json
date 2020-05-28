@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "texted", "my", "husband", "and", "asked", "him", "if", "a", "filet", "should", "have", "fat", "and", "\\/", "or", "gristle", ",", "because", "I", "did", "n't", "want", "to", "look", "like", "an", "idiot", "for", "complaining", ",", "although", "I", "have", "never", "seen", "it", "that", "way", "before", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "have", "e2_pos": 33, "label": "before"},
+{"tokens": ["I", "also", "ordered", "the", "Brussels", "sprouts", ",", "they", "were", "good", ",", "but", "soaked", "in", "butter", ",", "so", "much", "so", "that", "I", "had", "to", "pat", "each", "one", "with", "a", "beverage", "napkin", "before", "I", "ate", "them", "."], "e1_text": "had", "e1_pos": 21, "e2_text": "ate", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "reason", "I", "wanted", "to", "get", "our", "order", "in", "was", "because", "she", "had", "disappeared", "for", "so", "long", "after", "giving", "us", "our", "drinks", ",", "which", "also", "took", "a", "long", "time", "to", "arrive", "."], "e1_text": "disappeared", "e1_pos": 14, "e2_text": "giving", "e2_pos": 19, "label": "after"},
+{"tokens": ["She", "never", "came", "back", "to", "check", "on", "us", "after", "we", "got", "our", "food", ",", "so", "if", "we", "did", "need", "anything", ",", "we", "were", "pretty", "much", "out", "of", "luck", ":-LRB-", "We", "also", "ordered", "dessert", "-", "trio", "cheesecake", "-", "also", "decent", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "after"}
+]

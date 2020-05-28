@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "3", "other", "employees", "were", "civil", "for", "the", "most", "part", "despite", "our", "disagreements", "with", "how", "the", "way", "they", "backtracked", "on", "our", "deal", "-LRB-", "one", "of", "them", "kicked", "Jon", "out", "after", "making", "those", "threats", "and", "remarks", "at", "us", "-RRB-", "."], "e1_text": "kicked", "e1_pos": 26, "e2_text": "making", "e2_pos": 30, "label": "after"},
+{"tokens": ["They", "ran", "our", "credit", "scores", "and", "made", "the", "deal", "with", "us", "based", "on", "what", "they", "saw", "and", "after", "hours", "of", "negotiating", "-LRB-", "2", "days", "w", "\\/", "3", "+", "hours", "each", "-RRB-", "."], "e1_text": "based", "e1_pos": 11, "e2_text": "negotiating", "e2_pos": 20, "label": "after"}
+]

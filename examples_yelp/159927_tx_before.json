@@ -1,0 +1,4 @@
+[
+{"tokens": ["the", "room", "i", "paid", "for", "was", "not", "available", "even", "though", "i", "called", "the", "day", "before", "letting", "them", "know", "i", "was", "arriving", "late", "."], "e1_text": "called", "e1_pos": 11, "e2_text": "letting", "e2_pos": 15, "label": "before"},
+{"tokens": ["If", "you", "know", "there", "is", "a", "party", "please", "give", "your", "other", "guests", "the", "option", "of", "a", "different", "room", "before", "you", "put", "them", "\\*", "that", "room", "."], "e1_text": "give", "e1_pos": 8, "e2_text": "put", "e2_pos": 20, "label": "before"}
+]

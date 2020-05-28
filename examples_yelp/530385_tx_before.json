@@ -1,0 +1,4 @@
+[
+{"tokens": ["Kind", "of", "like", "a", "one", "last", "send", "off", "before", "cutting", "back", "on", "calories", "this", "year", "."], "e1_text": "send", "e1_pos": 6, "e2_text": "cutting", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "knew", "it", "would", "be", "a", "gimmick", "kind", "of", "place", "before", "arriving", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "arriving", "e2_pos": 11, "label": "before"}
+]

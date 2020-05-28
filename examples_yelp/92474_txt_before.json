@@ -1,0 +1,3 @@
+[
+{"tokens": ["Your", "cholesterol", "will", "raise", "by", "at", "least", "fifteen", "points", "before", "you", "leave", "."], "e1_text": "raise", "e1_pos": 3, "e2_text": "leave", "e2_pos": 11, "label": "before"}
+]

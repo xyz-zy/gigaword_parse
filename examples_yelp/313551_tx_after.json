@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "will", "be", "there", "longer", "than", "2", "hours", ",", "you", "will", "be", "treated", "like", "a", "nobody", "after", "you", "tell", "them", "no", "and", "have", "to", "wait", "another", "hour", "after", "to", "get", "your", "gifts", "."], "e1_text": "treated", "e1_pos": 12, "e2_text": "tell", "e2_pos": 18, "label": "after"}
+]

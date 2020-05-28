@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wait", ":", "It", "was", "fast", ",", "our", "food", "was", "served", "in", "the", "nick", "of", "time", "after", "we", "ordered", ",", "like", "fast", "food", ",", "except", "the", "food", "tasted", "better", "than", "we", "expected", "."], "e1_text": "served", "e1_pos": 9, "e2_text": "ordered", "e2_pos": 17, "label": "after"},
+{"tokens": ["This", "place", "ai", "n't", "that", "bad", "if", "you", "'re", "craving", "for", "hot", "soup", "after", "getting", "buzzed", "."], "e1_text": "ai", "e1_pos": 2, "e2_text": "getting", "e2_pos": 14, "label": "after"}
+]

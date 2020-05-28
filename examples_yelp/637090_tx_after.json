@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "local", ",", "I", "really", "wanted", "to", "love", "the", "place", ",", "and", "waited", "a", "month", "after", "opening", "before", "I", "tried", "it", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "opening", "e2_pos": 16, "label": "after"},
+{"tokens": ["Fajita", "was", "inedible", "after", "sitting", "under", "those", "veggies", "for", "a", "few", "minutes", "."], "e1_text": "inedible", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 4, "label": "after"}
+]

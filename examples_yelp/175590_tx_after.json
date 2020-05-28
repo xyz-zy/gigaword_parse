@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", "the", "waiter", "did", "not", "come", "for", "our", "drink", "orders", "at", "least", "10", "minutes", "-LRB-", "if", "not", "longer", "-RRB-", "after", "we", "were", "seated", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "were", "e2_pos": 21, "label": "after"},
+{"tokens": ["This", "was", "disappointing", "especially", "after", "the", "labyrinth", "of", "cars", "I", "had", "just", "maneuvered", "through", "-LRB-", "not", "to", "harp", "on", "parking", "but", ",", "people", "who", "park", "in", "places", "that", "are", "not", "stalls", "should", "die", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["However", ",", "I", "asked", "her", "about", "the", "seabass", "because", "I", "do", "n't", "recall", "every", "trying", "it", "before", "."], "e1_text": "asked", "e1_pos": 3, "e2_text": "do", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "was", "so", "excited", "because", "I", "just", "KNEW", "my", "dish", "was", "going", "to", "be", "way", "better", "than", "everyone", "else", "'s", "!!", "Wellll", "...", "Let", "'s", "just", "put", "it", "this", "way", "...", "I", "SMELLED", "my", "dish", "coming", "before", "I", "saw", "it", "."], "e1_text": "coming", "e1_pos": 35, "e2_text": "saw", "e2_pos": 38, "label": "before"},
+{"tokens": ["The", "smell", "of", "fish", "was", "so", "strong", "I", "could", "actually", "taste", "it", "in", "my", "mouth", "before", "ever", "taking", "a", "bite", "."], "e1_text": "taste", "e1_pos": 10, "e2_text": "taking", "e2_pos": 17, "label": "before"}
+]

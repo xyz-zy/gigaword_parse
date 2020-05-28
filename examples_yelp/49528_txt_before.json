@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "Hunan", "express", "took", "our", "delivery", "order", "20", "minutes", "before", "they", "closed", ",", "the", "food", "was", "half", "an", "hour", "late", "-LRB-", "after", "their", "35", "minute", "delivery", "estimate", "-RRB-", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "closed", "e2_pos": 11, "label": "before"}
+]

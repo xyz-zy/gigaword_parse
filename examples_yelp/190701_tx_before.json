@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "favorite", "part", "of", "the", "meal", "was", "the", "cheese", "plate", "we", "got", "before", "we", "ate", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "ate", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "left", "full", "and", "satisfied", ",", "and", "thankfully", "we", "were", "staying", "at", "Encore", "because", "we", "barely", "made", "it", "back", "to", "our", "room", "before", "we", "needed", "a", "nap", "."], "e1_text": "made", "e1_pos": 16, "e2_text": "needed", "e2_pos": 24, "label": "before"}
+]

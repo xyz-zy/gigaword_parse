@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "we", "ordered", "our", "dessert", "we", "waited", "another", "45", "minutes", "before", "our", "server", "returned", ",", "we", "asked", "for", "the", "bill", "and", "waited", "about", "15", "more", "minutes", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "returned", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "owner\\/manager", "was", "walking", "around", "and", "tried", "getting", "his", "attention", ",", "and", "was", "told", "he", "would", "get", "back", "to", "me", "in", "a", "moment", ",", "but", "never", "returned", "before", "we", "left", "."], "e1_text": "returned", "e1_pos": 26, "e2_text": "left", "e2_pos": 29, "label": "before"}
+]

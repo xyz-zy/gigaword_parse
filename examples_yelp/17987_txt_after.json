@@ -1,0 +1,3 @@
+[
+{"tokens": ["Attempted", "to", "use", "a", "50", "$", "gift", "cert", "and", "was", "told", "-LRB-", "after", "I", "ordered", "beers", "-RRB-", "that", "they", "could", "only", "be", "used", "in", "$", "15", "increments", "once", "a", "year", "...", "I", "was", "still", "responsible", "for", "the", "beers", "because", "she", "had", "poured", "them", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 14, "label": "after"}
+]

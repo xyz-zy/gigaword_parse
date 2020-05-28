@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "items", "on", "the", "menu", "may", "change", "each", "night", "so", "do", "n't", "be", "too", "surprised", "if", "you", "dont", "see", "something", "on", "the", "menu", "you", "''", "``", "thought", "''", "''", "you", "saw", "the", "day", "before", "."], "e1_text": "change", "e1_pos": 6, "e2_text": "saw", "e2_pos": 30, "label": "before"}
+]

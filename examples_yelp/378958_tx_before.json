@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "very", "critical", "fellow", "diner", ",", "definitely", "a", "pizza", "enthusiast", ",", "went", "for", "the", "Pizza", "ai", "due", "Salami", ",", "which", "after", "a", "few", "minutes", "of", "careful", "munching", "he", "announced", "was", "''", "``", "very", "good", "''", "''", ",", "definitely", "high", "praise", "for", "him", ",", "before", "continuing", "to", "devour", "the", "rest", "of", "his", "meal", ",", "-LRB-", "only", "offering", "me", "a", "small", "slither", "-RRB-", "."], "e1_text": "praise", "e1_pos": 39, "e2_text": "continuing", "e2_pos": 44, "label": "before"}
+]

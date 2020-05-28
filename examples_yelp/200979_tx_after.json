@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "was", "expectedly", "impeccable", ",", "because", "they", "brought", "out", "the", "check", "almost", "immediately", "after", "I", "mentioned", "I", "had", "an", "appointment", "in", "half", "an", "hour", "-LRB-", "an", "appointment", "with", "the", "Lion", "King", "matinee", "showing", "!", "-RRB-", "."], "e1_text": "brought", "e1_pos": 7, "e2_text": "mentioned", "e2_pos": 15, "label": "after"},
+{"tokens": ["After", "a", "long", "night", "of", "drinking", "and", "gambling", ",", "an", "early", "spa", "treatment", "is", "in", "order", ",", "and", "after", ",", "a", "quiet", "lunch", "at", "the", "Verandah", "followed", "by", "an", "early", "matinee", "show", "of", "the", "Lion", "King", "really", "puts", "you", "back", "in", "the", "mood", "to", "hit", "the", "town", "again", "!"], "e1_text": "is", "e1_pos": 13, "e2_text": "puts", "e2_pos": 37, "label": "after"}
+]

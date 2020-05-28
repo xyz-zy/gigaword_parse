@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "explained", "that", "the", "order", "is", "fired", "after", "salads", "are", "FINISHED", "on", "the", "table", "."], "e1_text": "fired", "e1_pos": 6, "e2_text": "are", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "'ll", "take", "out", "from", "now", "on", "after", "calling", "ahead", "."], "e1_text": "take", "e1_pos": 2, "e2_text": "calling", "e2_pos": 8, "label": "after"}
+]

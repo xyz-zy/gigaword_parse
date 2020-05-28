@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "my", "heart", "set", "on", "this", "hotel", "since", "I", "had", "seen", "it", "but", "upon", "arrival", "the", "front", "desk", "girl", "decided", "to", "argue", "with", "me", "about", "our", "room", "reservation", "and", "then", "told", "me", "there", "were", "100", "other", "rooms", "that", "needed", "to", "be", "attened", "to", "before", "a", "new", "room", "was", "available", "for", "us", "."], "e1_text": "attened", "e1_pos": 42, "e2_text": "was", "e2_pos": 48, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "again", "I", "waited", "on", "hold", "for", "8", "minutes", "before", "I", "gave", "up", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "gave", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "is", "very", "disappointing", ",", "before", "this", "place", "became", "very", "popular", "the", "customer", "service", "was", "excellent", "and", "now", "it", "seems", "some", "of", "there", "workers", "have", "an", "attitude", "as", "if", "you", "are", "lucky", "to", "be", "eat", "there", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "became", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "order", "came", "out", "pretty", "quickly", ",", "about", "10-15", "minutes", "after", "we", "ordered", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 12, "label": "after"},
+{"tokens": ["At", "least", "a", "couple", "of", "times", ",", "our", "water", "glasses", "were", "completely", "empty", "and", "ignored", "even", "though", "he", "was", "standing", "directly", "in", "front", "of", "us", "after", "he", "finished", "entering", "orders", "into", "the", "register", "."], "e1_text": "standing", "e1_pos": 19, "e2_text": "finished", "e2_pos": 27, "label": "after"}
+]

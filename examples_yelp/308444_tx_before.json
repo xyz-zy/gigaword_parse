@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "called", "my", "order", "back", "about", "five", "or", "six", "times", "before", "anyone", "heard", "her", ",", "and", "even", "then", "the", "workers", "seemed", "more", "interested", "in", "jawing", "than", "in", "making", "my", "food", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "heard", "e2_pos": 12, "label": "before"}
+]

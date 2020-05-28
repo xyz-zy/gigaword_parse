@@ -1,0 +1,6 @@
+[
+{"tokens": ["Our", "driver", "waited", "patiently", "for", "us", "to", "finish", "before", "he", "took", "us", "inside", "to", "give", "us", "further", "instructions", "."], "e1_text": "finish", "e1_pos": 7, "e2_text": "took", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "perused", "the", "many", "souvenirs", "to", "choose", "from", "and", "it", "was", "n't", "long", "before", "we", "were", "called", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "were", "e2_pos": 15, "label": "before"},
+{"tokens": ["He", "was", "very", "firm", "about", "the", "rules", "before", "we", "entered", "the", "firing", "range", "but", "we", "had", "been", "to", "firing", "ranges", "before", "and", "had", "no", "problem", "following", "directions", "when", "it", "came", "to", "safety", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "entered", "e2_pos": 9, "label": "before"},
+{"tokens": ["Fully", "automatic", ",", "it", "was", "n't", "long", "before", "he", "ran", "out", "of", "ammo", ",", "but", "that", "kept", "his", "adrenaline", "going", "for", "the", "rest", "of", "the", "day", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "ran", "e2_pos": 9, "label": "before"}
+]

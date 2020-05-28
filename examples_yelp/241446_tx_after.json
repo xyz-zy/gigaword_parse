@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "never", "changed", "his", "gloves", "from", "one", "sandwich", "to", "another", ",", "and", "more", "disgusting", ",", "after", "using", "the", "cash", "register", "!"], "e1_text": "changed", "e1_pos": 2, "e2_text": "using", "e2_pos": 16, "label": "after"},
+{"tokens": ["When", "the", "next", "customer", "came", "in", ",", "I", "saw", "the", "employee", "follow", "him", "in", "after", "he", "tossed", "his", "cigarette", ",", "and", "then", "I", "watched", "as", "he", "just", "went", "back", "behind", "the", "food", "counter", "and", "just", "put", "on", "some", "new", "gloves", ",", "not", "even", "bothering", "to", "wash", "his", "hands", "after", "being", "outside", "smoking", "!"], "e1_text": "follow", "e1_pos": 11, "e2_text": "tossed", "e2_pos": 16, "label": "after"},
+{"tokens": ["Once", "again", "I", "watched", "as", "he", "never", "changed", "his", "gloves", "after", "using", "the", "register", "and", "from", "sandwich", "to", "sandwich", ",", "and", "money", "exchanging", "."], "e1_text": "changed", "e1_pos": 7, "e2_text": "using", "e2_pos": 11, "label": "after"}
+]

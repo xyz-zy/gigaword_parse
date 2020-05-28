@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "charged", "to", "clean", "the", "carpets", "in", "which", "I", "was", "told", "in", "the", "beginning", "that", "they", "are", "going", "to", "remodel", "after", "I", "move", "out", "."], "e1_text": "remodel", "e1_pos": 20, "e2_text": "move", "e2_pos": 23, "label": "after"}
+]

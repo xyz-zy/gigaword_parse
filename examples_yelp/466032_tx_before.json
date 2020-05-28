@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "friend", "told", "me", "about", "it", "so", "we", "decided", "to", "head", "over", "before", "we", "hit", "the", "strip", "for", "some", "shopping", "."], "e1_text": "head", "e1_pos": 10, "e2_text": "hit", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "liked", "that", "even", "though", "I", "really", "wanted", "to", "kneel", "down", "and", "gawk", "at", "all", "the", "stuff", "I", "still", "wanted", "to", "try", "while", "I", "took", "mental", "pictures", "of", "everything", "in", "the", "case", "before", "it", "was", "my", "turn", "to", "get", "my", "butt", "out", "so", "someone", "else", "could", "drool", "."], "e1_text": "took", "e1_pos": 24, "e2_text": "was", "e2_pos": 34, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "has", "also", "been", "luke-warm", "every", "single", "time", ",", "like", "it", "had", "been", "sitting", "for", "about", "10", "minutes", "before", "being", "brought", "out", "."], "e1_text": "sitting", "e1_pos": 14, "e2_text": "being", "e2_pos": 20, "label": "before"},
+{"tokens": ["My", "party", "of", "two", "had", "to", "wait", "for", "15", "minutes", "before", "being", "seated", "and", "there", "were", "only", "2", "other", "families", "in", "there", "."], "e1_text": "wait", "e1_pos": 6, "e2_text": "being", "e2_pos": 11, "label": "before"}
+]

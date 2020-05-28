@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "time", "when", "I", "went", "to", "this", "place", "to", "print", "my", "boarding", "pass", "I", "left", "my", "sunglasses", "-LRB-", "$", "180", "value", "-RRB-", "on", "the", "computer", "desk", "-LRB-", "a", "normal", "reflex", "when", "you", "have", "sunglasses", "hanging", "on", "your", "shirt", ",", "and", "you", "want", "to", "feel", "more", "comfortable", "doing", "some", "computer", "work", "-RRB-", ",", "then", "I", "left", "the", "place", "after", "I", "was", "done", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "was", "e2_pos": 59, "label": "after"},
+{"tokens": ["The", "employee", "was", "rude", "and", "of", "no", "help", ",", "she", "said", "she", "was", "at", "the", "front", "desk", "and", "she", "did", "n't", "know", "who", "would", "have", "been", "in", "the", "computers", "area", "after", "I", "left", "."], "e1_text": "been", "e1_pos": 25, "e2_text": "left", "e2_pos": 32, "label": "after"}
+]

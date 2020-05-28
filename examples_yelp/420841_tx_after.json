@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "get", "it", "even", "after", "mentioning", "it", "to", "Rudy", "who", "did", "the", "work", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "mentioning", "e2_pos": 7, "label": "after"},
+{"tokens": ["Not", "what", "I", "was", "told", "would", "be", "done", "so", "another", "miscommunication", "!?!", "Went", "to", "do", "my", "laundry", "after", "they", "left", "and", "the", "dryer", "had", "no", "heat", "!", "."], "e1_text": "do", "e1_pos": 14, "e2_text": "left", "e2_pos": 19, "label": "after"}
+]

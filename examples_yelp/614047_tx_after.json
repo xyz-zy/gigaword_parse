@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "requested", "a", "custom", "pizza", ",", "adding", "pepperoni", "to", "a", "formula", "recipe", "pizza", ";", "after", "20", "minutes", "and", "a", "description", "of", "the", "first", "pizza", "coming", "out", "of", "the", "oven", "with", "a", "hole", "in", "the", "middle", "...", "I", "gave", "up", "and", "accepted", "the", "formula", "recipe", "pizza", "without", "the", "addition", "of", "pepperoni", "."], "e1_text": "adding", "e1_pos": 6, "e2_text": "coming", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "location", "was", "not", "very", "busy", "...", "2", "people", "before", "me", "were", "awaiting", "delivery", ",", "then", "me", "and", "3", "people", "after", "by", "the", "time", "I", "received", "my", "pizza", "."], "e1_text": "awaiting", "e1_pos": 12, "e2_text": "received", "e2_pos": 25, "label": "after"}
+]

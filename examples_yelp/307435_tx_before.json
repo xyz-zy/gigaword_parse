@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "here", "after", "we", "checked", "out", "and", "had", "to", "waste", "some", "time", "before", "our", "airport", "shuttle", "came", "to", "get", "us", "."], "e1_text": "waste", "e1_pos": 10, "e2_text": "came", "e2_pos": 17, "label": "before"}
+]

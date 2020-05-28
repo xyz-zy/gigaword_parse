@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mini-bar", "restocking", "person", ":", "I", "'m", "sorry", "that", "your", "hand-held", "device", "did", "not", "show", "that", "we", "paid", "$", "100", "for", "a", "late", "checkout", "Sunday", ",", "but", "you", "could", "be", "a", "little", "nicer", "to", "us", "after", "I", "explained", "what", "happened", "and", "not", "treat", "us", "like", "degenerate", "squatters", "staying", "past", "checkout", "time", "."], "e1_text": "be", "e1_pos": 28, "e2_text": "explained", "e2_pos": 36, "label": "after"}
+]

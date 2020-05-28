@@ -1,0 +1,4 @@
+[
+{"tokens": ["Rude", "staff", ",", "slower", "than", "molasses", "service", ",", "DIRTY", ",", "sloppy", ",", "unappealing", "food", "-LRB-", "that", "is", "expensive", "-RRB-", ",", "margaritas", "that", "taste", "like", "some", "tangy", ",", "sour", "tasting", "kool-aid", "--", "and", "if", "you", "are", "unlucky", "enough", "to", "be", "seated", "in", "what", "I", "call", "the", "''", "``", "after", "thought", "''", "''", "corridor", ",", "you", "will", "nearly", "suffocate", "from", "the", "lack", "of", "circulation", "and", "heat", "-LRB-", "the", "narrow", "little", "seating", "area", "off", "the", "main", "dining", "area", "-RRB-", "."], "e1_text": "call", "e1_pos": 43, "e2_text": "corridor", "e2_pos": 51, "label": "after"},
+{"tokens": ["I", "was", "EMBARRASSED", "after", "having", "taken", "out", "of", "town", "visitors", "to", "this", "place", "."], "e1_text": "EMBARRASSED", "e1_pos": 2, "e2_text": "having", "e2_pos": 4, "label": "after"}
+]

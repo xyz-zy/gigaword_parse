@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "older", "man", "that", "did", "my", "pedi", "started", "laughing", "at", "me", "after", "burning", "me", "with", "the", "callas", "remover", "."], "e1_text": "laughing", "e1_pos": 8, "e2_text": "burning", "e2_pos": 12, "label": "after"},
+{"tokens": ["WARNING", "!!", "my", "feet", "were", "cracked", ",", "painful", ",", "and", "downright", "ugly", "after", "this", "nightmare", "!!", "I", "would", "n't", "recommend", "sending", "anyone", "here", "even", "if", "they", "were", "my", "worst", "enemy", "!!!!!"], "e1_text": "were", "e1_pos": 4, "e2_text": "!!", "e2_pos": 1, "label": "after"}
+]

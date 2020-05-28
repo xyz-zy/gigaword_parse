@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "once", "you", "swipe", "your", "card", "there", "is", "a", "delay", "of", "approximately", "1", "minute", "before", "swiping", "again", "so", "if", "you", "keep", "on", "swiping", "during", "your", "game", "play", "then", "you", "can", "accumulate", "lots", "of", "credits", "."], "e1_text": "swipe", "e1_pos": 3, "e2_text": "swiping", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "sold", "the", "card", "before", "redeeming", "our", "tickets", "but", "the", "front", "desk", "gave", "us", "a", "copy", "of", "our", "old", "card", "no", "problem", "."], "e1_text": "sold", "e1_pos": 1, "e2_text": "redeeming", "e2_pos": 5, "label": "before"}
+]

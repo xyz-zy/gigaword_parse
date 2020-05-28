@@ -1,0 +1,4 @@
+[
+{"tokens": ["Burger", "was", "dry", "and", "my", "bun", "was", "soggy", "which", "they", "fixed", "after", "I", "flagged", "down", "another", "server", "."], "e1_text": "fixed", "e1_pos": 10, "e2_text": "flagged", "e2_pos": 13, "label": "after"},
+{"tokens": ["Missed", "my", "free", "beer", "in", "the", "four", "square", "checkin", "-LRB-", "my", "fault", "for", "doing", "it", "after", "I", "paid", "-RRB-", "."], "e1_text": "doing", "e1_pos": 13, "e2_text": "paid", "e2_pos": 17, "label": "after"}
+]

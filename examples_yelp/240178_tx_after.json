@@ -1,0 +1,4 @@
+[
+{"tokens": ["and", "cars", "that", "had", "pulled", "up", "way", "after", "me", "was", "coming", "out", "with", "soap", "...", "dirt", "...", "and", "mud", "still", "on", "them", "."], "e1_text": "pulled", "e1_pos": 4, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["She", "appeared", "just", "like", "new", "-LRB-", "hopefully", "the", "change", "was", "there", "...", "but", "she", "just", "sat", "after", "coming", "out", "while", "the", "cleaners", "just", "stood", "around", "...", "I", "did", "my", "wash", "check", "of", "course", "scratches", "was", "on", "my", "husbands", "presious", "rims", "...", "along", "with", "tire", "scratches", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "coming", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "practically", "beg", "to", "get", "our", "drinks", "refilled", "and", "we", "went", "for", "long", "periods", "of", "time", "before", "she", "checked", "on", "us", "."], "e1_text": "went", "e1_pos": 12, "e2_text": "checked", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "requested", "that", "the", "waitress", "bring", "a", "box", "out", "for", "the", "food", "which", "is", "normally", "a", "sign", "of", "''", "``", "hey", "-", "we", "are", "ready", "to", "leave", "''", "''", "but", "it", "was", "at", "least", "15", "minutes", "before", "we", "saw", "her", "again", "to", "request", "the", "check", "after", "bringing", "us", "the", "box", "."], "e1_text": "was", "e1_pos": 31, "e2_text": "saw", "e2_pos": 38, "label": "before"}
+]

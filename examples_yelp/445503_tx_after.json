@@ -1,0 +1,5 @@
+[
+{"tokens": ["Stopped", "in", "after", "seeing", "La", "R", "\\", "u00eave", "and", "on", "my", "way", "back", "to", "my", "room", "at", "Vdara", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 3, "label": "after"},
+{"tokens": ["Well", ",", "I", "did", "get", "a", "beer", ",", "but", "I", "ended", "up", "at", "Jean", "Patisserie", "for", "some", "cold", "sandwiches", "after", "the", "laughable", "experience", "I", "had", "at", "P.U.B.", "Initially", ",", "my", "server", "came", "across", "like", "a", "pretty", "decent", "guy", ",", "but", "after", "a", "short", "time", "he", "seemed", "to", "be", "bothered", "by", "mother", "and", "I.", "We", "were", "obviously", "not", "a", "priority", "to", "him", "by", "any", "means", "."], "e1_text": "ended", "e1_pos": 10, "e2_text": "experience", "e2_pos": 22, "label": "after"},
+{"tokens": ["Again", ",", "no", "restaurant", "I", "'ve", "ever", "been", "to", "has", "thought", "it", "acceptable", "for", "a", "server", "to", "not", "ask", "how", "everything", "is", "shortly", "after", "serving", "it", "."], "e1_text": "is", "e1_pos": 21, "e2_text": "serving", "e2_pos": 24, "label": "after"}
+]

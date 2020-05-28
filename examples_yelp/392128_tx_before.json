@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "best", "thing", "I", "like", "about", "the", "buffet", "are", "that", "the", "staff", "are", "completely", "open", "to", "letting", "me", "peruse", "the", "food", "before", "I", "decided", "dining", "there", "."], "e1_text": "peruse", "e1_pos": 18, "e2_text": "decided", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "say", "check", "out", "your", "choices", "of", "buffets", "before", "deciding", "to", "eat", "here", ",", "but", "you", "'re", "staying", "in", "the", "hotel", ",", "this", "to", "me", "is", "clearly", "the", "most", "convenient", "choice", "."], "e1_text": "check", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 9, "label": "before"}
+]

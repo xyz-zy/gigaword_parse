@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Wife", "and", "I", "stopped", "into", "Paul", "'s", "Pel", "`", "meni", "one", "night", "before", "going", "to", "a", "show", "at", "Overture", "because", "we", "wanted", "a", "quick", "dinner", "and", "love", "dumplings", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "going", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "guy", "working", "the", "counter", "was", "very", "nice", "and", "offer", "two", "taster", "pelmeni", "covered", "in", "''", "``", "The", "Works", "''", "''", "for", "us", "to", "try", "before", "ordering", "."], "e1_text": "try", "e1_pos": 24, "e2_text": "ordering", "e2_pos": 26, "label": "before"}
+]

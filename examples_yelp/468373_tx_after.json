@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "she", "initially", "took", "our", "drink", "orders", "she", "turned", "to", "walk", "away", "after", "my", "friend", "ordered", "her", "drinks", "and", "when", "I", "stopped", "her", "and", "said", ",", "''", "''", "I", "'d", "like", "to", "order", "a", "drink", "as", "well", ".", "''", "''"], "e1_text": "walk", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["People", "from", "our", "SAME", "previous", "flight", "made", "it", "onto", "the", "plane", "before", "us", "and", "they", "had", "just", "gotten", "off", "the", "Philly", "flight", "just", "before", "us", "...", "In", "flight", ",", "we", "were", "told", "to", "`", "move", "to", "empty", "seats", "in", "the", "front", "'", ",", "but", "then", "i", "was", "ridiculed", "by", "a", "`", "passenger-US", "Air", "flight-attendant", "for", "moving", "seats", "when", "we", "still", "had", "'40", "minutes", "left", "of", "flight", ".", "'"], "e1_text": "made", "e1_pos": 6, "e2_text": "had", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "were", "seated", "but", "before", "we", "ordered", "dinner", "the", "waiter", "advised", "us", "that", "he", "was", "being", "let", "go", "for", "the", "evening", "and", "that", "someone", "else", "would", "be", "taking", "care", "of", "us", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 6, "label": "before"},
+{"tokens": ["Salads", "were", "barely", "served", "before", "the", "main", "entrees", "were", "delivered", "."], "e1_text": "served", "e1_pos": 3, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["Drinks", "had", "to", "be", "asked", "for", "several", "times", "before", "they", "were", "delivered", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "were", "told", "that", "this", "particular", "location", "does", "n't", "have", "the", "shoestring", "fries", "because", "the", "restaurant", "is", "too", "big", "and", "they", "would", "get", "cold", "before", "they", "were", "delivered", "to", "the", "table", ";", "in", "reality", "we", "know", "now", "that", "the", "fries", "would", "get", "cold", "because", "the", "service", "was", "so", "bad", "."], "e1_text": "get", "e1_pos": 22, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

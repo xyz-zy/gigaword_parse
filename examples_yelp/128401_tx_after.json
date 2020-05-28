@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "after", "reading", "all", "the", "Yelp", "reviews", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["It", "was", "only", "after", "I", "got", "my", "bill", "that", "I", "found", "out", "that", "the", "cheese", "that", "my", "waitress", "suggested", "-LRB-", "''", "``", "what", "kind", "of", "cheese", "do", "you", "want", "on", "your", "omelet", "?", "-RRB-"], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 5, "label": "after"}
+]

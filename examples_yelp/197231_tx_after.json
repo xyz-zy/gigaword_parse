@@ -1,0 +1,5 @@
+[
+{"tokens": ["If", "the", "restaurant", "was", "busier", "I", "would", "understand", ",", "but", "wow", "it", "took", "literally", "more", "than", "half", "an", "hour", "after", "we", "ordered", ",", "and", "we", "only", "had", "five", "people", "in", "our", "party", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "ordered", "e2_pos": 21, "label": "after"},
+{"tokens": ["Yes", ",", "my", "friend", "did", "feel", "better", "after", "taking", "Benadryl", ",", "but", "after", "getting", "our", "information", "down", "and", "extensive", "phone", "conversations", "with", "us", "regarding", "the", "situation", ",", "and", "all", "of", "us", "waiting", "in", "our", "room", ",", "you", "would", "think", "management", "would", "come", "through", "."], "e1_text": "feel", "e1_pos": 5, "e2_text": "taking", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "also", "e-mailed", "them", "after", "we", "left", "Vegas", "a", "couple", "days", "later", "about", "this", ",", "but", "no", "response", "."], "e1_text": "e-mailed", "e1_pos": 2, "e2_text": "left", "e2_pos": 6, "label": "after"}
+]

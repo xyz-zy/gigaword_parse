@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "decided", "to", "visit", "the", "Cupcake", "ATM", "last", "night", "after", "midnight", "when", "they", "closed", "just", "to", "taste", "the", "product", "and", "see", "what", "it", "was", "like", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "closed", "e2_pos": 13, "label": "after"}
+]

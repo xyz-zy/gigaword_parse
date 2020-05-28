@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "and", "I", "came", "in", "some", "weeks", "ago", ",", "about", "end", "of", "August", "after", "attending", "a", "funeral", "service", "on", "that", "side", "of", "town", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "attending", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "stood", "outside", "in", "the", "heat", "and", "talked", "after", "because", "the", "atmosphere", "of", "bad", "service", "inside", "was", "so", "bad", ",", "lol", "."], "e1_text": "talked", "e1_pos": 7, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

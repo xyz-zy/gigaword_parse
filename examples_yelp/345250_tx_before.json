@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "everyone", "with", "one", "of", "these", "deals", "makes", "a", "note", "of", "it", "before", "the", "check", "comes", "out", ".", ".", "?"], "e1_text": "makes", "e1_pos": 7, "e2_text": "comes", "e2_pos": 15, "label": "before"},
+{"tokens": ["How", "about", "announcing", "they", "stopped", "accepting", "them", "before", "placing", "our", "order", "?"], "e1_text": "accepting", "e1_pos": 5, "e2_text": "placing", "e2_pos": 8, "label": "before"}
+]

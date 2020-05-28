@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "fairly", "quickly", "but", "waited", "quite", "awhile", "before", "our", "server", "came", "to", "the", "table", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "'ve", "had", "plenty", "of", "fish", "fry", "'s", "in", "the", "past", "but", "never", "before", "have", "I", "needed", "a", "knife", "to", "literally", "saw", "at", "my", "fish", "!"], "e1_text": "had", "e1_pos": 2, "e2_text": "have", "e2_pos": 14, "label": "before"}
+]

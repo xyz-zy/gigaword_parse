@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "read", "the", "reviews", "about", "Thai", "'d", "Up", "before", "going", "so", "I", "expected", "slow", "service", "with", "good", "food", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "sat", "for", "about", "10", "minutes", "before", "being", "asked", "what", "we", "'d", "like", "to", "drink", "and", "we", "ordered", "our", "waters", ",", "which", "was", "delivered", "in", "a", "timely", "manner", ",", "we", "did", "n't", "get", "to", "order", "for", "another", "20", "minutes", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "came", "here", "for", "Sunday", "brunch", ",", "just", "ten", "minutes", "after", "their", "posted", "opening", "time", "-LRB-", "11", "-RRB-", ",", "and", "the", "place", "was", "busy", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "posted", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "snagged", "an", "open", "table", ",", "but", "people", "who", "showed", "up", "just", "ten", "minutes", "after", "us", "had", "to", "wait", "."], "e1_text": "showed", "e1_pos": 9, "e2_text": "had", "e2_pos": 16, "label": "after"},
+{"tokens": ["Our", "server", "did", "n't", "check", "on", "us", "after", "our", "dishes", "arrived", ",", "so", "my", "brother", "could", "n't", "even", "ask", "for", "a", "spoon", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "arrived", "e2_pos": 10, "label": "after"}
+]

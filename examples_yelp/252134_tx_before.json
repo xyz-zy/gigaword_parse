@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "leaky", "ride", "to", "the", "airport", "took", "much", "to", "long", "because", "they", "transported", "one", "of", "their", "workers", "-LRB-", "who", "was", "filthy", "and", "smelled", "like", "a", "mix", "of", "urine", ",", "alcohol", ",", "and", "smoke", "-RRB-", "to", "their", "other", "location", "before", "dropping", "us", "off", "at", "the", "airport", "."], "e1_text": "transported", "e1_pos": 12, "e2_text": "dropping", "e2_pos": 39, "label": "before"}
+]

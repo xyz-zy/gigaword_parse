@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "used", "to", "occasionally", "shoot", "hoops", "after", "a", "workout", "but", "good", "luck", "getting", "on", "a", "court", "to", "shoot", "around", "."], "e1_text": "shoot", "e1_pos": 4, "e2_text": "getting", "e2_pos": 12, "label": "after"},
+{"tokens": ["Lastly", "and", "this", "is", "n't", "the", "fault", "of", "the", "club", ",", "but", "no", "one", "wipes", "down", "their", "machine", "after", "they", "are", "done", "."], "e1_text": "wipes", "e1_pos": 14, "e2_text": "are", "e2_pos": 20, "label": "after"},
+{"tokens": ["My", "wife", "commented", "that", "at", "her", "previous", "LA", "Fitness", ",", "everyone", "wiped", "down", "after", "they", "were", "done", "so", "ask", "other", "clubs", "what", "they", "are", "doing", "right", "!"], "e1_text": "wiped", "e1_pos": 11, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

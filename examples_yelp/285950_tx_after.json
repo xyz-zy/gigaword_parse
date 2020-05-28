@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "nearly", "walked", "out", "after", "paying", "for", "my", "drink", ",", "but", "the", "bartender", "did", "notice", "\\*", "after", "I", "had", "finished", "the", "whole", "drink", "\\*", "that", "maybe", "I", "would", "want", "some", "food", ",", "and", "asked", "if", "I", "wanted", "a", "menu", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "paying", "e2_pos": 5, "label": "after"}
+]

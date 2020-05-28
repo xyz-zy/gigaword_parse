@@ -1,0 +1,4 @@
+[
+{"tokens": ["started", "with", "crab", "cake", "and", "calamari", ",", "so", "had", "the", "gumbo", "-LRB-", "surprised", "she", "passed", "on", "the", "fresh", "seafood", "selection", "-RRB-", "i", "had", "the", "fish", "special", "of", "the", "day", ",", "sadly", ",", "do", "n't", "know", "what", "it", "'s", "called", "-", "caesar", ",", "our", "server", ",", "had", "a", "strong", "accent", ",", "after", "he", "said", "the", "name", "3", "times", ",", "i", "gave", "up", "!"], "e1_text": "had", "e1_pos": 8, "e2_text": "said", "e2_pos": 52, "label": "after"},
+{"tokens": ["the", "mushrooms", "and", "asparagus", "were", "very", "good", "-RRB-", "since", "i", "had", "to", "drive", "to", "LA", "after", "dinner", ",", "no", "vino", "for", "me", ",", "bummer", "!"], "e1_text": "drive", "e1_pos": 12, "e2_text": "bummer", "e2_pos": 23, "label": "after"}
+]

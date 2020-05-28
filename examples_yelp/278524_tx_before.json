@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "intersection", "has", "a", "lot", "of", "pedestrians", "...", "and", "let", "'s", "face", "it", "...", "when", "people", "are", "pedestrians", "on", "the", "strip", "...", "for", "some", "reason", ",", "they", "turn", "really", "stupid", "and", "forget", "the", "first", "lesson", "you", "learn", "in", "kindergarten", "-", "look", "both", "ways", "before", "crossing", "the", "street", "."], "e1_text": "look", "e1_pos": 40, "e2_text": "crossing", "e2_pos": 44, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "normally", "go", "to", "the", "Biltmore", "location", "but", "yesterday", "I", "had", "a", "craving", "for", "them", "after", "my", "workout", "so", "I", "headed", "over", "to", "the", "Glendale", "store", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "headed", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "have", "a", "onion", "allergy", "so", "I", "ended", "up", "tossing", "both", "salads", "-LRB-", "I", "bought", "one", "for", "today", "'s", "lunch", "&", "dinner", "last", "night", "-RRB-", ",", "maybe", "this", "was", "a", "slight", "error", "due", "to", "it", "being", "close", "to", "closing", "time", "last", "night", "-LRB-", "8:15", "-RRB-", "but", "I", "was", "deeply", "crushed", "I", "was", "n't", "able", "to", "enjoy", "my", "salad", "after", "driving", "10", "or", "so", "miles", "out", "of", "my", "way", "to", "get", "it", "."], "e1_text": "enjoy", "e1_pos": 55, "e2_text": "driving", "e2_pos": 59, "label": "after"}
+]

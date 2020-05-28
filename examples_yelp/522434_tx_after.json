@@ -1,0 +1,4 @@
+[
+{"tokens": ["WTF", "who", "sends", "certified", "letters", "any", "more", "?!", "Apparently", "after", "your", "contract", "ends", "you", "become", "month-to-month", "BUT", "they", "still", "charge", "you", "that", "$", "30", "maintenance", "fee", "."], "e1_text": "sends", "e1_pos": 2, "e2_text": "ends", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "had", "my", "bank", "stop", "payment", "since", "others", "are", "having", "an", "issue", "with", "them", "still", "charging", "them", "after", "they", "cancel", ",", "and", "I", "will", "be", "there", "Friday", "to", "end", "this", "once", "and", "for", "all", "."], "e1_text": "charging", "e1_pos": 15, "e2_text": "cancel", "e2_pos": 19, "label": "after"}
+]

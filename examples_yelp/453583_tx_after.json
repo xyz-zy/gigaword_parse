@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "advertises", "the", "best", "pool", "in", "Phoenix", "then", "the", "close", "the", "thing", "for", "three", "days", "of", "my", "stay", "for", "an", "event", "that", "was", "booked", "after", "I", "planned", "my", "trip", "."], "e1_text": "booked", "e1_pos": 24, "e2_text": "planned", "e2_pos": 27, "label": "after"}
+]

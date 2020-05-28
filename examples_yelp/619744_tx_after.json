@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "started", "using", "this", "animal", "hospital", "mid", "year", "after", "getting", "my", "2", "puppies", "."], "e1_text": "started", "e1_pos": 1, "e2_text": "getting", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "one", "time", "they", "told", "us", "they", "did", "n't", "have", "time", "to", "give", "them", "a", "bath", "because", "they", "had", "too", "many", "dogs", ",", "so", "we", "took", "them", "to", "the", "groomers", "right", "after", "picking", "them", "up", "."], "e1_text": "took", "e1_pos": 25, "e2_text": "picking", "e2_pos": 32, "label": "after"},
+{"tokens": ["Also", "referring", "friends", "and", "family", "to", "the", "hospital", "after", "we", "started", "going", "there", "he", "did", "n't", "seem", "to", "care", "."], "e1_text": "referring", "e1_pos": 1, "e2_text": "started", "e2_pos": 10, "label": "after"}
+]

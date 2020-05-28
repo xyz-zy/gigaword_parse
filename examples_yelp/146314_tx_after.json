@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "we", "go", "to", "the", "building", "that", "has", "the", "bar", "and", "we", "go", "in", "there", "and", "after", "waiting", "for", "him", "-LRB-", "only", "guy", "working", "there", "-RRB-", "to", "get", "off", "the", "phone", "he", "says", "we", "can", "order", "breakfast", "there", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

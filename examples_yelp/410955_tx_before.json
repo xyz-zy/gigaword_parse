@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "contacted", "mike", "about", "45", "minutes", "before", "I", "needed", "a", "ride", "as", "Jjs", "provides", "a", "courtesy", "shuttle", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "needed", "e2_pos": 8, "label": "before"},
+{"tokens": ["1", "-RRB-", "slower", "than", "molasses", "2", "-RRB-", "never", "seen", "her", "there", "before", ",", "perhaps", "she", "is", "new", "3", "-RRB-", "flat", "at", "rude", ",", "was", "ignored", "twice", "while", "clearly", "waiting", "for", "service", "4", "-RRB-", "lied", "and", "said", "she", "was", "the", "manager", "5", "-RRB-", "did", "not", "smile", "once", "6", "-RRB-", "are", "n't", "you", "supposed", "to", "personable", "and", "friendly", "of", "you", "'re", "a", "bartender", "?"], "e1_text": "seen", "e1_pos": 8, "e2_text": "is", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chips", "were", "particularly", "good", ",", "and", "I", "enjoyed", "the", "steak", "too", "-LRB-", "sirloin", "with", "pre-theatre", ",", "although", "your", "server", "does", "show", "you", "a", "platter", "of", "all", "the", "cuts", "before", "you", "order", "which", "is", "a", "nice", "touch", "-RRB-", "."], "e1_text": "show", "e1_pos": 21, "e2_text": "order", "e2_pos": 31, "label": "before"}
+]

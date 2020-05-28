@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "whole", "point", "was", "to", "try", "the", "gym", "at", "the", "times", "I", "go", "to", "see", "how", "crowded", "etc", "before", "I", "joined", "."], "e1_text": "crowded", "e1_pos": 16, "e2_text": "joined", "e2_pos": 20, "label": "before"}
+]

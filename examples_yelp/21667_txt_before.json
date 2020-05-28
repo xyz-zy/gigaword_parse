@@ -1,0 +1,5 @@
+[
+{"tokens": ["To", "start", "they", "insisted", "I", "had", "to", "have", "another", "expensive", "eye", "exam", "even", "though", "the", "optometrist", "who", "referred", "me", "did", "the", "exact", "same", "exam", "two", "weeks", "before", "."], "e1_text": "have", "e1_pos": 7, "e2_text": "did", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "waited", "months", "and", "MONTHS", "to", "be", "scheduled", "in", "and", "then", "had", "the", "staff", "tell", "me", "a", "few", "days", "before", "the", "surgery", "as", "they", "''", "``", "forgot", "''", "''", "to", "do", "the", "insurance", "paperwork", "and", "they", "could", "not", "do", "the", "surgery", "unless", "I", "paid", "for", "the", "whole", "thing", "up", "front", "."], "e1_text": "tell", "e1_pos": 14, "e2_text": "forgot", "e2_pos": 26, "label": "before"},
+{"tokens": ["Much", "to", "my", "chagrin", "I", "re-scheduled", "some", "weeks", "later", "but", "two", "days", "before", "they", "called", "again", "as", "they", "''", "``", "forgot", "'", "to", "have", "me", "get", "a", "physical", "."], "e1_text": "re-scheduled", "e1_pos": 5, "e2_text": "called", "e2_pos": 14, "label": "before"}
+]

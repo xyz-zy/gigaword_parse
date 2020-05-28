@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "here", "after", "watching", "the", "worst", "show", "on", "earth", "and", "just", "wanted", "to", "get", "off", "the", "street", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "watching", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "were", "imideatly", "seated", "after", "ordering", "our", "over", "priced", "drinks", "that", "were", "super", "week", ",", "to", "the", "point", "where", "we", "did", "n't", "drink", "them", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 5, "label": "after"}
+]

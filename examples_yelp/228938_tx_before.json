@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "well", "into", "our", "cocktails", "before", "we", "ordered", "our", "apps", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "had", "the", "fish", "special", "of", "the", "night", "and", "my", "dh", "had", "the", "ribbon", "pasta", "which", "he", "has", "had", "many", "times", "before", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "has", "e2_pos": 17, "label": "before"}
+]

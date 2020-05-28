@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "esthetician", "made", "me", "feel", "completely", "relaxed", "for", "my", "treatment", "-LRB-", "as", "much", "as", "you", "can", "when", "it", "feels", "like", "your", "heart", "is", "being", "ripped", "out", "-RRB-", "and", "in", "reality", ",", "it", "was", "over", "before", "I", "knew", "it", "."], "e1_text": "was", "e1_pos": 32, "e2_text": "knew", "e2_pos": 36, "label": "before"}
+]

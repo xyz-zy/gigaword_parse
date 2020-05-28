@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "after", "notifying", "her", "I", "needed", "more", "time", "she", "disappeared", "for", "20", "mins", "before", "coming", "back", "."], "e1_text": "disappeared", "e1_pos": 9, "e2_text": "coming", "e2_pos": 14, "label": "before"},
+{"tokens": ["Asked", "for", "the", "manager", "and", "waited", "another", "15", "mins", "before", "he", "decided", "he", "got", "around", "to", "my", "table", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "decided", "e2_pos": 11, "label": "before"}
+]

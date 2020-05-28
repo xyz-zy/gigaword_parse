@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "said", "they", "told", "her", "because", "we", "had", "GROUPONS", "our", "cars", "would", "n't", "even", "be", "see", "till", "two", "hours", "wait", ",", "three", "other", "customers", "where", "seen", "and", "done", "before", "they", "came", "to", "talk", "to", "me", "about", "my", "car", "car", "at", "around", "1pm", "."], "e1_text": "done", "e1_pos": 27, "e2_text": "came", "e2_pos": 30, "label": "before"}
+]

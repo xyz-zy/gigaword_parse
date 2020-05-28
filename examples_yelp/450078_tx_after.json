@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "seen", "this", "restaurant", "on", "Restaurant", "Stakeout", ",", "a", "show", "on", "Food", "Network", "last", "year", "and", "thought", "that", "after", "being", "on", "the", "show", "all", "of", "their", "issues", "would", "have", "been", "fixed", "."], "e1_text": "thought", "e1_pos": 17, "e2_text": "being", "e2_pos": 20, "label": "after"}
+]

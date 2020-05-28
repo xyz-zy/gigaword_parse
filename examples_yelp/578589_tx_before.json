@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "jokes", "about", "our", "visit", "and", "asks", "if", "we", "need", "anything", "else", "before", "we", "leave", ",", "''", "``", "would", "you", "like", "some", "more", "crispy", "salad", "?", "''", "''"], "e1_text": "need", "e1_pos": 10, "e2_text": "leave", "e2_pos": 15, "label": "before"}
+]

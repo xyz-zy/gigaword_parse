@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "not", "given", "any", "extra", "towels", ",", "and", "housekeeping", "did", "n't", "knock", "before", "coming", "into", "the", "room", "."], "e1_text": "knock", "e1_pos": 12, "e2_text": "coming", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'d", "stay", "at", "the", "Super", "8", "before", "I", "stay", "here", "!!!!"], "e1_text": "stay", "e1_pos": 2, "e2_text": "stay", "e2_pos": 9, "label": "before"}
+]

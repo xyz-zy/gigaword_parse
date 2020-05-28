@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "undesired", "effect", "is", "that", "you", "might", "get", "a", "''", "``", "milk", "mustache", "''", "''", "after", "you", "drink", "it", ",", "but", "hey", ",", "it", "'s", "cute", ",", "right", "?"], "e1_text": "is", "e1_pos": 3, "e2_text": "drink", "e2_pos": 17, "label": "after"}
+]

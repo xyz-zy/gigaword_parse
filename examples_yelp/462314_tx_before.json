@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wish", "I", "had", "read", "some", "of", "these", "reviews", "before", "I", "actually", "went", "there", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "went", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "waited", "for", "10", "minutes", "before", "our", "presence", "was", "even", "acknowledged", "by", "our", "''", "``", "waitress", "''", "''", ",", "when", "she", "said", "she", "would", "be", "right", "back", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

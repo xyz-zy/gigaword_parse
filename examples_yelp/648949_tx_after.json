@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "love", "to", "write", "a", "review", "on", "the", "food", "but", "after", "our", "hour", "+", "wait", "to", "get", "in", ",", "when", "we", "were", "told", "40", "minutes", "."], "e1_text": "love", "e1_pos": 2, "e2_text": "wait", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "coffee", "I", "initially", "did", "not", "get", "after", "ordering", ",", "and", "my", "second", "refill", "took", "30", "minutes", "after", "asking", "twice", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 8, "label": "after"}
+]

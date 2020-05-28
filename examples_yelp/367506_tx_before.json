@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "never", "told", "the", "entire", "party", "had", "to", "arrive", "before", "being", "seated", "nor", "that", "individuals", "would", "not", "be", "allowed", "to", "enter", "the", "restaurant", "after", "9:30", "pm", "without", "having", "their", "name", "on", "a", "''", "``", "list", "''", "''", "."], "e1_text": "arrive", "e1_pos": 9, "e2_text": "list", "e2_pos": 35, "label": "before"}
+]

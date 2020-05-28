@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "had", "the", "Sizzling", "Beef", ",", "I", "'ve", "never", "had", "it", "before", "but", "it", "was", "really", "good", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "'ve", "had", "this", "problem", "before", "where", "I", "'m", "craving", "Thai", "between", "2-4pm", "and", "no", "one", "seems", "to", "be", "open", ",", "it", "'s", "a", "pain", "!!"], "e1_text": "had", "e1_pos": 2, "e2_text": "'s", "e2_pos": 22, "label": "before"}
+]

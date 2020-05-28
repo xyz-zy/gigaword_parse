@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "Marley", "pulled", "by", "another", "rescue", "the", "night", "before", "he", "was", "scheduled", "to", "be", "euthanized", "and", "was", "more", "than", "thrilled", "to", "be", "adopting", "and", "saving", "a", "life", "."], "e1_text": "pulled", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["Apparently", "HALO", "has", "first", "picks", "of", "dogs", "and", "could", "have", "easily", "rescued", "Marley", "before", "sending", "him", "to", "the", "E-List", "."], "e1_text": "rescued", "e1_pos": 11, "e2_text": "sending", "e2_pos": 14, "label": "before"},
+{"tokens": ["This", "is", "really", "unfortunate", ",", "because", "really", "it", "is", "only", "the", "animals", "that", "are", "impacted", "but", "HALO", "should", "consider", "that", "before", "making", "shady", "moves", "."], "e1_text": "consider", "e1_pos": 18, "e2_text": "making", "e2_pos": 21, "label": "before"}
+]

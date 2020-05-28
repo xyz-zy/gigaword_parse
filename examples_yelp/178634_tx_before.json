@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "recommend", "the", "dinner", "time", "buffet", "over", "the", "breakfast", "one", "but", "get", "ready", "to", "stand", "for", "a", "good", "hour", "before", "you", "actually", "put", "anything", "into", "your", "mouth", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "put", "e2_pos": 22, "label": "before"}
+]

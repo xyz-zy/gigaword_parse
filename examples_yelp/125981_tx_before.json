@@ -1,0 +1,4 @@
+[
+{"tokens": [":-LRB-", "it", "my", "fault", "i", "guess", "that", "i", "didnt", "check", "yelp", "before", ",", "I", "usually", "believe", "her", "when", "it", "comes", "to", "food", "."], "e1_text": "guess", "e1_pos": 5, "e2_text": "didnt", "e2_pos": 8, "label": "before"},
+{"tokens": ["Regardless", "of", "the", "ROACH", "infestation", "which", "we", "saw", "momenta", "before", "we", "eat", ",", "i", "find", "this", "place", "pricey", "with", "foods", "that", "are", "not", "as", "highly", "as", "other", "yelpers", "say", "."], "e1_text": "saw", "e1_pos": 7, "e2_text": "eat", "e2_pos": 11, "label": "before"}
+]

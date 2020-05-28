@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "6", "of", "us", "in", "the", "party", "after", "the", "half", "marathon", "and", "the", "restaurant", "was", "probably", "60", "%", "full", ",", "yet", "we", "waited", "30", "min", "to", "get", "seated", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "was", "e2_pos": 15, "label": "after"},
+{"tokens": ["Our", "waitress", "did", "n't", "even", "say", "''", "``", "thanks", "for", "coming", "''", "''", "after", "we", "paid", ",", "completely", "lacking", "appreciation", "for", "our", "business", "."], "e1_text": "say", "e1_pos": 5, "e2_text": "paid", "e2_pos": 15, "label": "after"}
+]

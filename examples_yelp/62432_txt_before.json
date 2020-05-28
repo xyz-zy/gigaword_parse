@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wedding", "started", "15", "minutes", "late", "as", "a", "result", "and", "our", "picture", "time", "in", "the", "garden", "was", "then", "just", "a", "mere", "20", "minutes", "before", "we", "were", "rushed", "off", "to", "the", "reception", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "were", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "after", "seeing", "numerous", "reviews", "in", "the", "past", "few", "weeks", "about", "how", "great", "this", "place", "is", ",", "how", "great", "the", "food", "is", ",", "how", "excellent", "the", "service", "is", "...", "The", "best", "part", "of", "the", "buffet", "...", "new", "york", "strip", "steak", ",", "onion", "rings", "and", "some", "beef", "lasagna", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 3, "label": "after"},
+{"tokens": ["Our", "server", "was", "quite", "ornery", "and", "took", "almost", "10", "minutes", "to", "get", "steak", "knives", "for", "us", "after", "being", "asked", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "being", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "long", "lone", "formed", "behind", "us", "soon", "after", "ordering", "."], "e1_text": "formed", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "bread", "does", "n't", "hold", "up", "well", "after", "being", "dipped", "like", "other", "places", "I", "have", "been", "to", "."], "e1_text": "hold", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "had", "charged", "us", "$", "1500", "for", "two", "bottles", "told", "us", "that", "we", "would", "have", "to", "wait", "in", "line", "and", "that", "the", "club", "couldnt", "bump", "us", "from", "the", "table", "after", "we", "finished", "the", "bottles", "."], "e1_text": "bump", "e1_pos": 24, "e2_text": "finished", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "liked", "some", "compensation", "off", "of", "my", "hotel", "stay", "because", "it", "was", "n't", "cheap", ",", "instead", "after", "writing", "a", "letter", "upon", "my", "return", "I", "got", "a", "response", "for", "a", "free", "upgrade", "if", "I", "stay", "there", "at", "a", "future", "date", "."], "e1_text": "liked", "e1_pos": 3, "e2_text": "writing", "e2_pos": 19, "label": "after"}
+]

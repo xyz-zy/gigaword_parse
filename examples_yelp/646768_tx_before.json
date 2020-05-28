@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "all", "seem", "nice", "enough", "but", "almost", "every", "time", "we", "have", "been", "there", "the", "staff", "acts", "as", "if", "they", "'ve", "never", "taken", "an", "order", "before", "."], "e1_text": "acts", "e1_pos": 15, "e2_text": "'ve", "e2_pos": 19, "label": "before"},
+{"tokens": ["Water", "-", "we", "were", "charged", "$", "1", "for", "a", "cup", "of", "tap", "water", "and", "we", "were", "n't", "told", "about", "that", "before", "we", "paid", "for", "it", "."], "e1_text": "told", "e1_pos": 17, "e2_text": "paid", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Similarly", ",", "those", "who", "ordered", "pasta", "entrees", "got", "their", "plates", "about", "5", "minutes", "before", "those", "who", "ordered", "the", "non", "-", "pasta", "entrees", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "whole", "night", "was", "a", "''", "``", "do", "n't", "wait", "for", "me", ",", "go", "ahead", "and", "get", "started", "before", "your", "food", "gets", "cold", "''", "''", "experience", "."], "e1_text": "started", "e1_pos": 17, "e2_text": "gets", "e2_pos": 21, "label": "before"}
+]

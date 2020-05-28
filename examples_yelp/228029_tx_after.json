@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "3", "other", "tables", "seated", "after", "we", "were", "in", "the", "same", "servers", "section", "."], "e1_text": "seated", "e1_pos": 5, "e2_text": "were", "e2_pos": 1, "label": "after"},
+{"tokens": ["There", "was", "a", "wait", "assistant", "near", "our", "table", "filling", "water", "for", "us", "and", "others", "and", "he", "checked", "with", "us", "right", "after", "our", "food", "was", "dropped", "and", "asked", "if", "we", "needed", "anything", "else", "he", "was", "polite", "and", "friendly", "."], "e1_text": "checked", "e1_pos": 16, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

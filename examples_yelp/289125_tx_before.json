@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "really", "did", "n't", "care", "where", "we", "ate", ",", "as", "long", "as", "we", "got", "some", "pho", "before", "heading", "home", "back", "to", "LA.", "."], "e1_text": "got", "e1_pos": 13, "e2_text": "heading", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "had", "to", "hold", "my", "menu", "up", "and", "repeatedly", "ask", "for", "service", "before", "someone", "came", "to", "take", "our", "order", "."], "e1_text": "ask", "e1_pos": 9, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

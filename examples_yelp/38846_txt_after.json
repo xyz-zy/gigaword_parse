@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "glad", "I", "read", "these", "reviews", "\\*", "after", "\\*", "I", "went", "there", "because", "there", "are", "some", "really", "-LRB-", "a", "-RRB-", "uptight", "and", "-LRB-", "b", "-RRB-", "cheapa", "$", "$", "people", "writing", "reviews", "and", "I", "would", "n't", "have", "wanted", "to", "have", "been", "dissuaded", "by", "them", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "went", "e2_pos": 11, "label": "after"}
+]

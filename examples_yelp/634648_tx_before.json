@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "require", "socks", "from", "everyone", "then", "maybe", "you", "should", "kindly", "ask", "them", "if", "everybody", "has", "socks", "on", "before", "punching", "the", "stamp", "card", ",", "let", "the", "kid", "play", "for", "15", "minutes", "and", "then", "kick", "them", "out", "for", "not", "having", "socks", "."], "e1_text": "socks", "e1_pos": 16, "e2_text": "punching", "e2_pos": 19, "label": "before"},
+{"tokens": ["When", "I", "go", "to", "the", "Playground", "in", "Peoria", "I", "'m", "always", "asked", "if", "kiddo", "is", "wearing", "socks", "before", "our", "punchcard", "is", "punched", "...", "and", "I", "'m", "a", "regular", "there", "so", "they", "know", "me", "and", "still", "ask", "."], "e1_text": "wearing", "e1_pos": 15, "e2_text": "is", "e2_pos": 14, "label": "before"}
+]

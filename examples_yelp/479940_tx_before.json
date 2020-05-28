@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitress", "never", "checked", "in", "with", "us", "and", "had", "the", "nerve", "to", "drop", "off", "the", "check", "before", "our", "food", "even", "got", "there", "!"], "e1_text": "drop", "e1_pos": 11, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

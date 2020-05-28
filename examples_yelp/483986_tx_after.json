@@ -1,0 +1,4 @@
+[
+{"tokens": ["Luckily", "I", "did", "not", "know", "about", "any", "of", "this", "until", "after", "the", "wedding", "was", "over", "and", "I", "was", "able", "to", "enjoy", "myself", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "feel", "bad", "that", "my", "sisters", "experienced", "this", "after", "doing", "so", "much", "to", "help", "make", "my", "day", "perfect", "."], "e1_text": "experienced", "e1_pos": 6, "e2_text": "doing", "e2_pos": 9, "label": "after"}
+]

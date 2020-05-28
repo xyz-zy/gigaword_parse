@@ -1,0 +1,4 @@
+[
+{"tokens": ["Before", "I", "can", "even", "squeak", ",", "there", "'s", "another", "ox", "grabbing", "me", "by", "the", "arm", "telling", "me", "I", "could", "n't", "be", "there", "and", "some", "jerk", "who", "I", "had", "never", "seen", "before", "sitting", "at", "\\*", "our", "\\*", "table", "encouraging", "the", "bouncer", "to", "remove", "me", "!!", "I", "asked", "for", "a", "manager", "and", "was", "simply", "told", "NO.", "."], "e1_text": "seen", "e1_pos": 29, "e2_text": "sitting", "e2_pos": 31, "label": "before"},
+{"tokens": ["The", "Bar", "and", "Wait", "Staff", "were", "fine", ",", "but", "these", "VERY", "AGGRESSIVE", "bouncers", "have", "to", "GO", "before", "they", "either", "hurt", "someone", "our", "simply", "drive", "away", "all", "the", "customers", "."], "e1_text": "GO", "e1_pos": 15, "e2_text": "hurt", "e2_pos": 19, "label": "before"}
+]

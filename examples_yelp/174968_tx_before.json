@@ -1,0 +1,3 @@
+[
+{"tokens": ["Does", "not", "even", "get", "our", "drink", "order", "we", "order", "a", "quesadilla", "appetizer", ",", "we", "wait", "for", "over", "35", "minutes", "before", "we", "even", "have", "anyone", "approach", "the", "table", "only", "because", "I", "grabbed", "the", "bus", "boy", "and", "ask", "where", "our", "food", "is", "."], "e1_text": "wait", "e1_pos": 14, "e2_text": "have", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "noticed", "that", "the", "bartenders", "were", "really", "nice", "to", "them", "and", "bringing", "them", "refills", "right", "away", "and", "chatting", "with", "them", ",", "while", "my", "husband", "had", "to", "wait", "a", "long", "time", "for", "them", "to", "bring", "him", "another", "beer", ",", "even", "after", "2", "of", "the", "bartenders", "walked", "by", "at", "least", "10", "times", "-LRB-", "no", "exaggeration", "-RRB-", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "walked", "e2_pos": 44, "label": "after"}
+]

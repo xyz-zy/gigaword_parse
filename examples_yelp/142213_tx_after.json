@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitress", "was", "rude", "because", "she", "did", "n't", "really", "give", "us", "any", "attention", ",", "noticed", "her", "smiling", "at", "everyone", "else", "but", "our", "party", "-LRB-", "definitely", "did", "n't", "tip", "her", "-RRB-", "took", "her", "over", "5", "minutes", "to", "order", "some", "OJ", "after", "everyone", "else", "got", "coffee", "."], "e1_text": "order", "e1_pos": 35, "e2_text": "got", "e2_pos": 41, "label": "after"}
+]

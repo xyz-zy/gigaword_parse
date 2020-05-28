@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "get", "there", "early", "you", "get", "first", "pick", "but", "if", "you", "show", "up", "a", "few", "hours", "before", "closing", "on", "Sunday", "they", "are", "more", "willing", "to", "make", "a", "deal", "."], "e1_text": "show", "e1_pos": 12, "e2_text": "closing", "e2_pos": 18, "label": "before"}
+]

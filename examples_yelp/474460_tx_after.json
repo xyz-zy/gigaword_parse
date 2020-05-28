@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", ",", "I", "went", "into", "the", "store", "located", "on", "Eastern", "and", "Bonanza", "with", "$", "300.00", "in", "my", "purse", "because", "I", "had", "heard", "that", "you", "store", "has", "great", "specials", "and", "after", "looking", "at", "the", "weekly", "flyer", "I", "was", "in", "agreement", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "looking", "e2_pos": 30, "label": "after"}
+]

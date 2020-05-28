@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "felt", "like", "you", "were", "walking", "back", "into", "time", "a", "little", "before", ",", "with", "the", "old", "knickknacks", "everywhere", "and", "the", "family", "running", "the", "show", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "were", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "one", "positive", "is", "that", "the", "new", "ice", "cream", ",", "itself", ",", "is", "better", "than", "the", "Hershey", "'s", "they", "were", "selling", "before", "the", "business", "closed", ",", "and", "it", "'s", "great", "that", "they", "have", "accessible", "hours", "now", "."], "e1_text": "selling", "e1_pos": 20, "e2_text": "closed", "e2_pos": 24, "label": "before"}
+]

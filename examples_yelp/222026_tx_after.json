@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "would", "expect", "that", "the", "abundance", "of", "servers", ",", "waiters", ",", "busboys", ",", "etc", "running", "around", "make", "an", "efficient", "system", ",", "but", "the", "reason", "for", "them", "being", "there", "is", "to", "get", "you", "out", "of", "the", "restaurant", "as", "fast", "as", "possible", "after", "spending", "your", "money", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "spending", "e2_pos": 41, "label": "after"}
+]

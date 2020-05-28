@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "try", "to", "get", "there", "45-60min", "before", "the", "show", "starts", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "starts", "e2_pos": 10, "label": "before"},
+{"tokens": ["If", "you", "can", ",", "go", "before", "you", "leave", "home", ",", "do", "it", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "leave", "e2_pos": 7, "label": "before"}
+]

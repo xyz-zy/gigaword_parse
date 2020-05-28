@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "whatever", ",", "it", "was", "a", "girls", "holiday", "weekend", "getaway", "and", "we", "were", "going", "to", "have", "fun", "!!", "I", "was", "really", "excited", "to", "check", "out", "this", "place", "after", "hearing", "and", "seeing", "all", "the", "ho-ha", "about", "fire", "shows", "that", "go", "off", "in", "the", "club", "."], "e1_text": "check", "e1_pos": 23, "e2_text": "hearing", "e2_pos": 28, "label": "after"},
+{"tokens": ["Went", "here", "w", "the", "girls", "after", "watching", "Chippendales", "at", "Rio", "and", "we", "were", "disappointed", "that", "we", "had", "to", "leave", "our", "cheesy", "souviener", "cups", "from", "Rio", "outside", ":-LRB-", "Anyways", ",", "sorry", "people", ",", "but", "this", "place", "is", "HIGHLY", "overrated", "."], "e1_text": "w", "e1_pos": 2, "e2_text": "watching", "e2_pos": 6, "label": "after"}
+]

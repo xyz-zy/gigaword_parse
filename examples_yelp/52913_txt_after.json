@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "some", "guy", "storms", "in", ",", "complains", "his", "takeout", "order", "was", "wrong", ",", "and", "then", "people", "who", "order", "after", "him", "wait", "forever", "to", "get", "their", "food", "."], "e1_text": "order", "e1_pos": 17, "e2_text": "wait", "e2_pos": 20, "label": "after"},
+{"tokens": ["Some", "of", "the", "folks", "working", "there", "are", "polite", ",", "but", "politeness", "does", "n't", "make", "your", "tummy", "ache", "go", "away", "when", "you", "see", "groups", "of", "people", "who", "ordered", "after", "you", "receive", "their", "food", "first", "."], "e1_text": "ordered", "e1_pos": 26, "e2_text": "receive", "e2_pos": 29, "label": "after"}
+]

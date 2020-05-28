@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "the", "second", "appointment", ",", "I", "just", "canceled", "by", "email", "after", "they", "no-showed", "."], "e1_text": "canceled", "e1_pos": 7, "e2_text": "no-showed", "e2_pos": 12, "label": "after"}
+]

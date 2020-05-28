@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wife", "hit", "$", "60", "roulette", "payout", "after", "playing", "for", "five", "minutes", "on", "a", "$", "2", "table", "."], "e1_text": "hit", "e1_pos": 1, "e2_text": "playing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "hit", "$", "500", "payout", "on", "a", "$", "0.25", "video", "poker", "machine", "after", "playing", "for", "ten", "minutes", "on", "a", "$", "20", "bill", ",", "this", "while", "wife", "hit", "$", "60", "pot", "on", "Wheel", "O", "'", "Fortune", "slot", "."], "e1_text": "hit", "e1_pos": 1, "e2_text": "playing", "e2_pos": 13, "label": "after"}
+]

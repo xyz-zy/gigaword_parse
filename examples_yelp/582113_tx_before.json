@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "to", "specify", "you", "want", "to", "pay", "with", "a", "CC", "over", "the", "phone", "for", "delivery", "though", ",", "as", "they", "hung", "up", "after", "giving", "me", "the", "total", "and", "estimated", "wait", "before", "I", "had", "the", "chance", "to", "ask", "to", "pay", "with", "CC", "."], "e1_text": "specify", "e1_pos": 3, "e2_text": "had", "e2_pos": 32, "label": "before"}
+]

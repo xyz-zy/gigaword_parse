@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "is", "then", "gone", "for", "about", "10", "minutes", ",", "after", "she", "has", "spent", "time", "chatting", "with", "her", "acquaintance", ",", "and", "even", "gone", "to", "refill", "drinks", "somewhere", "else", ",", "etc.", "."], "e1_text": "gone", "e1_pos": 3, "e2_text": "has", "e2_pos": 11, "label": "after"}
+]

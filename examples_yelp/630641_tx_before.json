@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "disclosed", "that", "the", "pre-made", "soup", "that", "was", "shipped", "to", "their", "store", "may", "have", "already", "been", "contaminated", "with", "meat", "before", "they", "served", "the", "soup", "in", "the", "store", "."], "e1_text": "contaminated", "e1_pos": 17, "e2_text": "served", "e2_pos": 22, "label": "before"}
+]

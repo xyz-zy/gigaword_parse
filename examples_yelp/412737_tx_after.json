@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "gave", "Total", "Dog", "3", "stars", "after", "putting", "everything", "into", "account", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "putting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "last", "heard", "from", "him", "after", "I", "texted", "and", "face", "booked", "him", "and", "he", "texted", "back", "finally", "saying", "He", "was", "available", "after", "a", "certain", "time", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "texted", "e2_pos": 7, "label": "after"}
+]

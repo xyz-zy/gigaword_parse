@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "felt", "like", "they", "should", "have", "taken", "tests", "or", "something", "and", "given", "me", "more", "info", "bc", "it", "was", "the", "worst", "diarrhea", "I", "have", "ever", "seen", "and", "this", "is", "not", "my", "first", "child", "so", "it", "'s", "not", "like", "I", "have", "n't", "delt", "with", "it", "before", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "have", "e2_pos": 23, "label": "before"},
+{"tokens": ["So", ",", "maybe", "just", "try", "calling", "in", "first", "to", "see", "about", "the", "wait", "before", "going", "in", "."], "e1_text": "see", "e1_pos": 9, "e2_text": "going", "e2_pos": 14, "label": "before"}
+]

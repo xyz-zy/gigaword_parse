@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "make", "a", "purchase", "in", "the", "store", "but", "decided", "after", "I", "got", "home", "I", "decided", "that", "there", "were", "a", "couple", "of", "patterns", "that", "I", "wanted", "and", "24", "hours", "after", "placing", "the", "order", "I", "received", "an", "email", "from", "Gwen", "M.", "that", "my", "purchase", "had", "been", "received", "and", "was", "being", "put", "in", "the", "mail", "that", "day", "with", "the", "exception", "of", "one", "pattern", "that", "was", "out", "of", "stock", "."], "e1_text": "decided", "e1_pos": 10, "e2_text": "got", "e2_pos": 13, "label": "after"}
+]

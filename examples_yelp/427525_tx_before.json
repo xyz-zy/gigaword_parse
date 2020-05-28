@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "experienced", "the", "early", "morning", "crowd", "-LRB-", "I", "'m", "not", "sure", "how", "people", "get", "up", "for", "breakfast", "in", "Vegas", ",", "I", "just", "happened", "to", "be", "waiting", "for", "my", "hotel", "room", "to", "be", "ready", "-RRB-", "and", "the", "late", "night", "I", "should", "eat", "a", "lot", "of", "food", "before", "I", "make", "it", "back", "to", "my", "hotel", "room", "at", "4am", "."], "e1_text": "eat", "e1_pos": 40, "e2_text": "make", "e2_pos": 47, "label": "before"}
+]

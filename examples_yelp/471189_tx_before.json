@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "of", "the", "ones", "with", "cream", "cheese", "frosting", "are", "kept", "refrigerated", "which", "definitely", "changes", "the", "flavor", ",", "and", "texture", "of", "the", "cake", "...", "I", "know", ",", "I", "know", "food", "safety", "and", "all", "that", ",", "but", "maybe", "they", "should", "just", "frost", "'em", "right", "before", "they", "serve", "'em", "to", "you", "to", "preserve", "the", "integrity", "of", "the", "cake", "portion", "."], "e1_text": "frost", "e1_pos": 39, "e2_text": "serve", "e2_pos": 44, "label": "before"}
+]

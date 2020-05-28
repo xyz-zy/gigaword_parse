@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "mom", "tested", "the", "product", "in", "New", "York", "and", "after", "2", "weeks", "contacted", "Tony", "at", "the", "Adore", "booth", "at", "3663", "las", "vegas", "blvd", "and", "was", "told", "to", "file", "a", "customer", "claim", "form", "."], "e1_text": "tested", "e1_pos": 2, "e2_text": "contacted", "e2_pos": 12, "label": "after"}
+]

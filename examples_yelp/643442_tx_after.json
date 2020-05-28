@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "knew", "something", "was", "wrong", "when", "they", "did", "n't", "have", "any", "deli", "containers", "the", "day", "after", "they", "opened", "."], "e1_text": "have", "e1_pos": 9, "e2_text": "opened", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "diarrhea", "started", "a", "few", "hours", "after", "I", "ate", "it", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "ate", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "line", "was", "crazy", "long", "on", "a", "Wednesday", "morning", "at", "8:30", "am", ",", "there", "already", "was", "a", "severe", "shortage", "in", "options", "because", "several", "bagels", "and", "pastries", "were", "already", "sold", "out", ",", "and", "after", "ordering", "you", "continue", "to", "wait", "in", "line", "just", "to", "pay", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "continue", "e2_pos": 35, "label": "after"}
+]

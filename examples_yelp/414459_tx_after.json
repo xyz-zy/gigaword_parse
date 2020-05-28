@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "breakfast", "meal", "with", "Pancakes", ",", "bacon", ",", "and", "eggs", "arrived", "about", "5", "mins", "after", "being", "ordered", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

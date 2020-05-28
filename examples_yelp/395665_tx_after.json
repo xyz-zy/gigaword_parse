@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiters", "were", "not", "attentive", ",", "everyone", "around", "us", "who", "came", "in", "after", "us", "got", "there", "food", "before", "we", "did", ",", "they", "never", "came", "to", "change", "our", "plates", "or", "take", "away", "plates", "that", "were", "empty", ",", "the", "food", "was", "n't", "hot", "and", "the", "worst", "part", "is", "they", "added", "a", "16", "%", "gratuity", "onto", "our", "bill", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

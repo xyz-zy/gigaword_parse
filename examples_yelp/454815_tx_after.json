@@ -1,0 +1,6 @@
+[
+{"tokens": ["30", "minutes", "later", ",", "our", "name", "still", "was", "n't", "called", "and", "people", "who", "had", "arrived", "after", "us", "were", "getting", "seated", "before", "us", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "were", "e2_pos": 17, "label": "after"},
+{"tokens": ["This", "is", "also", "after", "he", "repeated", "our", "name", "to", "us", "TWICE", "when", "we", "first", "got", "there", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "repeated", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "table", "next", "to", "us", ",", "a", "party", "of", "6", ",", "who", "was", "sat", "about", "15", "minutes", "after", "us", ",", "who", "also", "had", "ordered", "the", "Oxtail", "Chili", "Cheese", "Fries", ",", "got", "their", "order", "about", "10", "minutes", "after", "placing", "it", "."], "e1_text": "sat", "e1_pos": 13, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["We", "finally", "got", "our", "food", "after", "40", "minutes", "of", "waiting", ",", "only", "for", "everything", "to", "come", "out", "on", "the", "table", "at", "once", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

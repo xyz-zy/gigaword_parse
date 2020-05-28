@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "looks", "just", "the", "same", "on", "the", "inside", ",", "complete", "with", "the", "horrible", "step", "up", "as", "you", "head", "left", "after", "entering", "the", "restaurant", "."], "e1_text": "left", "e1_pos": 18, "e2_text": "entering", "e2_pos": 20, "label": "after"},
+{"tokens": ["She", "came", "by", "after", "we", "waited", "nearly", "10", "minutes", "to", "get", "our", "drink", "order", "and", "we", "tried", "to", "put", "in", "our", "food", "order", ",", "but", "she", "walked", "away", "as", "we", "trying", "to", "say", "''", "``", "and", "then", "...", "''", "''", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "waited", "e2_pos": 5, "label": "after"}
+]

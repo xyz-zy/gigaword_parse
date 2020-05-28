@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "could", "n't", "have", "bought", "something", "even", "if", "i", "wanted", "to", "because", "the", "store", "was", "so", "gross", "-", "i", "got", "black", "''", "``", "stuff", "''", "''", "on", "my", "hand", "after", "touching", "a", "clothing", "rack", "."], "e1_text": "wanted", "e1_pos": 9, "e2_text": "touching", "e2_pos": 30, "label": "after"}
+]

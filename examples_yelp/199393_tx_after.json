@@ -1,0 +1,4 @@
+[
+{"tokens": ["Raffles", "Caf", "\\", "u00e9", "We", "ended", "up", "eating", "at", "Raffles", "Caf", "\\", "u00e9", "after", "finding", "out", "the", "hard", "way", "that", "TheCafe", "at", "TheHotel", "was", "closed", "for", "the", "week", "that", "we", "would", "be", "staying", "there", "."], "e1_text": "eating", "e1_pos": 7, "e2_text": "finding", "e2_pos": 14, "label": "after"},
+{"tokens": ["Anyway", ",", "we", "got", "a", "helping", "of", "mango", "butter", "after", "the", "waiter", "found", "some", "in", "the", "back", ",", "and", "I", "do", "n't", "think", "we", "saw", "him", "after", "that", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "found", "e2_pos": 12, "label": "after"}
+]

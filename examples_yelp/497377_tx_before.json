@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "was", "really", "kind", "about", "this", "but", "then", "brought", "the", "steak", "back", "without", "a", "fork", "to", "eat", "it", "with", ",", "having", "learned", "by", "this", "point", ",", "I", "asked", "for", "a", "fork", "before", "he", "left", "our", "table", "and", "it", "still", "took", "5", "minutes", "to", "get", "it", "."], "e1_text": "asked", "e1_pos": 28, "e2_text": "left", "e2_pos": 34, "label": "before"}
+]

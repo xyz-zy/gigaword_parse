@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "your", "table", "is", "ready", ",", "they", "give", "any", "women", "in", "your", "party", "long", "stemmed", "red", "roses", "to", "set", "the", "ambiance", "for", "the", "evening", "before", "leading", "you", "through", "their", "intimate", "dining", "area", "to", "your", "table", "."], "e1_text": "set", "e1_pos": 18, "e2_text": "leading", "e2_pos": 25, "label": "before"},
+{"tokens": ["After", "salad", ",", "you", "will", "be", "given", "a", "miniature", "sorbet", "ice", "cream", "cone", "as", "a", "palette", "cleanser", "before", "the", "main", "entree", "arrives", ",", "and", "this", "is", "when", "your", "taste", "buds", "will", "do", "a", "dance", "of", "joy", "."], "e1_text": "given", "e1_pos": 6, "e2_text": "arrives", "e2_pos": 21, "label": "before"}
+]

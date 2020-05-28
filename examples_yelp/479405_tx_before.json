@@ -1,0 +1,4 @@
+[
+{"tokens": ["Going", "into", "the", "festival", "it", "was", "very", "disorganized", "and", "I", "went", "early", "in", "the", "day", "before", "it", "got", "busy", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "was", "ready", "to", "leave", "before", "we", "got", "in", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "this", "location", "for", "a", "pre-game", "dinner", ",", "before", "heading", "over", "to", "the", "Bell", "Centre", "for", "a", "Bruins", "vs.", "Habs", "game", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "heading", "e2_pos": 11, "label": "before"}
+]

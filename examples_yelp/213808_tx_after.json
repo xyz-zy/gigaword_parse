@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "could", "n't", "catch", "our", "waitress", "for", "over", "10", "minutes", "after", "our", "meals", "came", "out", "at", "which", "point", "there", "was", "no", "way", "we", "were", "waiting", "for", "them", "recook", "them", "."], "e1_text": "catch", "e1_pos": 3, "e2_text": "came", "e2_pos": 13, "label": "after"},
+{"tokens": ["This", "place", "is", "extremely", "loud", "at", "night", "due", "to", "the", "live", "music", "and", "dancing", "-", "it", "is", "a", "bar", "after", "all", "so", "do", "n't", "expect", "less", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "do", "e2_pos": 22, "label": "after"}
+]

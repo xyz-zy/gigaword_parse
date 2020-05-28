@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "guy", "and", "I", "decided", "to", "stop", "in", "for", "breakfast", "...", "what", "a", "disappointment", "!!!", "We", "waited", "half", "an", "hour", "before", "the", "waiter", "came", "over", "to", "report", "that", "they", "had", "no", "Pumpkin", "bagels", ",", "which", "is", "something", "I", "was", "looking", "forward", "to", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "came", "e2_pos": 23, "label": "before"}
+]

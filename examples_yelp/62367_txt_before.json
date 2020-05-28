@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "hesitated", "before", "ordering", "it", ",", "expecting", "the", "spinach", "to", "be", "drowning", "in", "cream", "and", "ghee", "."], "e1_text": "hesitated", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "suspect", "Kristin", "B.", "did", "just", "that", "before", "writing", "her", "ridiculous", "non-review", "-RRB-", "."], "e1_text": "did", "e1_pos": 4, "e2_text": "writing", "e2_pos": 8, "label": "before"}
+]

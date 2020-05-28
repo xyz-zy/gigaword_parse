@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "figured", "I", "get", "my", "coffee", "first", "before", "hitting", "the", "freeway", "to", "go", "to", "work", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "hitting", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "would", "take", "forever", "before", "I", "get", "to", "pay", "."], "e1_text": "take", "e1_pos": 2, "e2_text": "get", "e2_pos": 6, "label": "before"},
+{"tokens": ["or", "a", "simple", "''", "``", "hi", "''", "''", "before", "asking", "for", "my", "payment", "."], "e1_text": "simple", "e1_pos": 2, "e2_text": "asking", "e2_pos": 9, "label": "before"}
+]

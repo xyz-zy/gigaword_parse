@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "was", "persistent", "I", "order", "food", ",", "even", "after", "I", "bought", "a", "drink", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "bought", "e2_pos": 11, "label": "after"},
+{"tokens": ["He", "even", "shoved", "a", "menu", "onto", "my", "table", "even", "after", "I", "told", "him", "I", "did", "not", "want", "to", "order", "food", "."], "e1_text": "shoved", "e1_pos": 2, "e2_text": "told", "e2_pos": 11, "label": "after"}
+]

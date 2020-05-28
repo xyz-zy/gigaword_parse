@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "ordering", "take", "out", "before", "actually", "eating", "there", "to", "try", "it", "-", "good", "thing", ",", "you", "could", "n't", "pay", "me", "to", "eat", "here", "."], "e1_text": "take", "e1_pos": 2, "e2_text": "eating", "e2_pos": 6, "label": "before"},
+{"tokens": ["Had", "to", "spit", "those", "things", "out", "before", "they", "took", "out", "a", "filling", "."], "e1_text": "Had", "e1_pos": 0, "e2_text": "took", "e2_pos": 8, "label": "before"}
+]

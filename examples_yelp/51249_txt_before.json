@@ -1,0 +1,3 @@
+[
+{"tokens": ["MEH", "...", "this", "used", "to", "be", "my", "favorite", "place", "years", "ago", ",", "took", "wife", "today", ",", "her", "black", "beans", "were", "cold", "and", "crunchy", ",", "I", "asked", "to", "see", "manager", ",", "he", "came", "over", "and", "immediately", "said", "''", "``", "yeah", ",", "that", "'s", "happened", "before", ",", "we", "keep", "them", "on", "salad", "bar", "and", "if", "anyone", "orders", "them", ",", "we", "just", "microwave", "some", "...", "''", "''", "then", "he", "walked", "off", "with", "the", "dish", "and", "never", "returned", ".", "."], "e1_text": "happened", "e1_pos": 42, "e2_text": "keep", "e2_pos": 46, "label": "before"}
+]

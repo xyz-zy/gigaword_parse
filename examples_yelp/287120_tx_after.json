@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "restaurant", "has", "been", "open", "for", "quite", "some", "time", "now", "and", "going", "back", "after", "not", "liking", "the", "taste", "of", "the", "food", "the", "first", "time", ",", "my", "opinions", "are", "the", "same", "."], "e1_text": "going", "e1_pos": 11, "e2_text": "liking", "e2_pos": 15, "label": "after"}
+]

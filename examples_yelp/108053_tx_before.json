@@ -1,0 +1,3 @@
+[
+{"tokens": ["Got", "my", "cone", "-LRB-", "$", "2.50", "-RRB-", ",", "and", "it", "was", "already", "drippy", "...", "I", "know", ",", "I", "know", ",", "it", "'s", "soft", "serve", "-LRB-", "that", "'s", "what", "she", "said", ":-RRB-", ",", "but", "still", ",", "I", "expect", "it", "to", "maintain", "a", "somewhat", "frosty", "and", "cohesive", "state", ",", "and", "wait", "until", "I", "get", "out", "of", "the", "drive", "through", "before", "it", "falls", "on", "my", "lap", "."], "e1_text": "get", "e1_pos": 51, "e2_text": "falls", "e2_pos": 59, "label": "before"}
+]

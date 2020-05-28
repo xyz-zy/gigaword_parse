@@ -1,0 +1,3 @@
+[
+{"tokens": ["SLOW", "service", "-LRB-", "I", "realize", "this", "is", "prolly", "related", "to", "our", "lazy", "server", "who", "took", "a", "smoke", "break", "during", "service", "and", "I", "think", "before", "he", "put", "our", "order", "into", "the", "system", "-RRB-", "."], "e1_text": "think", "e1_pos": 22, "e2_text": "put", "e2_pos": 25, "label": "before"}
+]

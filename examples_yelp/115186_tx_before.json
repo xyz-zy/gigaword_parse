@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "other", "chickie", "was", "bouncing", "between", "the", "drive-thru", "and", "the", "phone", ",", "while", "first", "girl", "flirted", "obliviously", "...", "I", "stood", "at", "the", "register", "for", "2", "minutes", "before", "chickie", "who", "was", "flirting", "realized", "I", "was", "ready", "to", "order", "."], "e1_text": "stood", "e1_pos": 19, "e2_text": "realized", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "asked", "if", "I", "had", "to", "and", "she", "replied", "''", "``", "Yes", "''", "''", "before", "making", "the", "phone", "click", "again", "by", "putting", "me", "on", "hold", "."], "e1_text": "replied", "e1_pos": 8, "e2_text": "making", "e2_pos": 15, "label": "before"}
+]

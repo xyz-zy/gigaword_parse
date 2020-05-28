@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "charged", "the", "fee", "after", "I", "had", "called", "to", "cancel", "and", "they", "would", "not", "refund", "because", "phone", "''", "``", "records", "''", "''", "did", "n't", "match", "my", "story", "."], "e1_text": "charged", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["Apparently", "she", "is", "the", "only", "one", "who", "can", "authorize", "a", "cancelation", "??", "After", "several", "attempts", "I", "finally", "got", "her", "on", "the", "phone", "-", "I", "was", "livid", "because", "I", "was", "charged", "a", "fee", "after", "leaving", "several", "''", "``", "messages", "''", "''", "with", "people", "to", "please", "cancel", "."], "e1_text": "charged", "e1_pos": 29, "e2_text": "leaving", "e2_pos": 33, "label": "after"}
+]

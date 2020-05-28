@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "a", "little", "buzzed", "when", "we", "got", "there", "and", "and", "literally", "sobered", "up", "after", "drinking", "their", "pathetic", "offerings", "."], "e1_text": "sobered", "e1_pos": 12, "e2_text": "drinking", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "kept", "his", "though", "after", "watching", "the", "little", "dance", "I", "was", "doing", "with", "the", "waitress", "."], "e1_text": "kept", "e1_pos": 1, "e2_text": "watching", "e2_pos": 5, "label": "after"}
+]

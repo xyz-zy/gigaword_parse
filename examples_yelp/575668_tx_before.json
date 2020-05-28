@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "read", "reviews", "before", "I", "went", ",", "but", "as", "a", "manager", "in", "town", "for", "the", "CES", "Show", "earlier", "this", "month", ",", "I", "booked", "a", "lane", "for", "me", "and", "my", "employees", "to", "have", "a", "company", "''", "``", "shoot", "out", "''", "''", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["This", "guy", "was", "obviously", "familiar", "with", "the", "rifles", ",", "but", "also", "familiar", "with", "newbies", "-", "and", "was", "extremely", "patient", "with", "people", "who", "have", "never", "shot", "before", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "have", "e2_pos": 22, "label": "before"}
+]

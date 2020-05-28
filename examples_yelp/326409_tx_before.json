@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "there", "right", "before", "midnight", "which", "i", "realize", "in", "vegas", "is", "like", "happy", "hour", "time", ",", "but", "geez", "there", "was", "only", "about", "5", "people", "in", "the", "place", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "realize", "e2_pos": 7, "label": "before"},
+{"tokens": ["Even", "though", "the", "dance", "floor", "was", "empty", "we", "stood", "somewhat", "nearby", "and", "danced", "a", "bit", "before", "leaving", "."], "e1_text": "danced", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 16, "label": "before"}
+]

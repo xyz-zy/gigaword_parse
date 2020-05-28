@@ -1,0 +1,4 @@
+[
+{"tokens": ["UPDATE", ":", "Just", "received", "a", "call", "from", "Ron", "who", "says", "he", "wants", "to", "make", "things", "better", "after", "finding", "out", "I", "am", "unhappy", "with", "the", "service", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "am", "e2_pos": 20, "label": "after"},
+{"tokens": ["But", "he", "did", "n't", "explain", "I", "'d", "have", "to", "hire", "my", "own", "separate", "drywaller", "after", "he", "was", "finished", "."], "e1_text": "hire", "e1_pos": 9, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

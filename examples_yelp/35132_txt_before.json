@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "wanted", "payment", "NOW", "--", "before", "I", "saw", "anyone", "."], "e1_text": "wanted", "e1_pos": 1, "e2_text": "saw", "e2_pos": 7, "label": "before"},
+{"tokens": ["Between", "the", "complete", "lack", "of", "personality", "I", "was", "treated", "to", "and", "the", "lack", "of", "helpfulness", "and", "being", "treated", "as", "an", "insurance", "number", "and", "not", "a", "person", ",", "I", "'d", "say", "it", "would", "be", "a", "cold", "day", "in", "Hades", "before", "I", "ever", "graced", "the", "doors", "of", "Desert", "View", "''", "``", "Family", "''", "''", "Medicine", "again", "."], "e1_text": "say", "e1_pos": 29, "e2_text": "graced", "e2_pos": 41, "label": "before"}
+]

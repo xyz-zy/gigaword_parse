@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pasta", "was", "fair", "and", "the", "fish", "was", "good", "but", "way", "to", "expensive", "-LRB-", "and", "why", "not", "bring", "the", "potatoes", "after", "they", "filet", "the", "fish", "so", "they", "are", "at", "least", "warm", "-RRB-", "."], "e1_text": "bring", "e1_pos": 16, "e2_text": "filet", "e2_pos": 21, "label": "after"}
+]

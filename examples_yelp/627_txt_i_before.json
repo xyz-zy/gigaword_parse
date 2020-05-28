@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "went", "on", "a", "marathon", "2", "hour", "bike", "ride", "right", "before", "heading", "to", "Enrico", "'s", "for", "the", "first", "time", "and", "on", "my", "last", "mile", "all", "I", "could", "think", "was", "''", "``", "iced", "caffe", "mocha", ",", "iced", "caffe", "mocha", "''", "''", "over", "and", "over", "again", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "was", "e2_pos": 29, "label": "before"},
+{"tokens": ["Sure", "but", "I", "definitely", "will", "ask", "for", "a", "nice", "hard", "shake", "of", "my", "iced", "caffe", "mocha", "before", "taking", "a", "swig", "."], "e1_text": "ask", "e1_pos": 5, "e2_text": "taking", "e2_pos": 17, "label": "before"}
+]

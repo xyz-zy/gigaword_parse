@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "explained", "to", "her", "we", "have", "ordered", "many", "times", "before", "and", "it", "has", "always", "come", "in", "a", "styrofoam", "cup", "with", "a", "lid", "and", "she", "said", "that", "they", "only", "do", "that", "for", "the", "entree", "not", "the", "lunch", "special", "because", "the", "cups", "are", "more", "expensive", "."], "e1_text": "explained", "e1_pos": 1, "e2_text": "said", "e2_pos": 24, "label": "before"}
+]

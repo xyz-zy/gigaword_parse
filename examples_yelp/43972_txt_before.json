@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "waiting", "around", "for", "15", "minutes", "to", "get", "someone", "to", "help", "us", ",", "we", "could", "n't", "even", "finish", "our", "sentence", "asking", "about", "the", "items", "before", "the", "guy", "started", "the", "whole", "spiel", ",", "''", "``", "they", "'ll", "call", "you", "when", "we", "have", "it", "...", "''", "''", "."], "e1_text": "asking", "e1_pos": 20, "e2_text": "started", "e2_pos": 27, "label": "before"}
+]

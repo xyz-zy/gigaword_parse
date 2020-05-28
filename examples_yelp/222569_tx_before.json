@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "salad", "good", ",", "the", "fettuccine", "well", "it", "was", "a", "group", "of", "noodles", "stuck", "together", ",", "as", "if", "they", "threw", "them", "in", "the", "pot", "and", "did", "n't", "stir", "them", "before", "they", "fused", "together", "by", "then", "it", "was", "too", "late", ",", "and", "of", "course", "they", "did", "n't", "redo", "them", "."], "e1_text": "stir", "e1_pos": 27, "e2_text": "fused", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "did", "n't", "even", "feel", "like", "returning", "them", ",", "because", "like", "I", "mentioned", "before", "the", "owner", "is", "n't", "nice", "."], "e1_text": "mentioned", "e1_pos": 12, "e2_text": "is", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "landing", "from", "an", "8", "flight", "and", "driving", "directly", "from", "LHR", "to", "Edinburgh", ",", "suffering", "motion", "sickness", "after", "not", "being", "able", "to", "stand", "still", "for", "long", "before", "getting", "in", "the", "car", "for", "our", "drive", ",", "and", "being", "exhausted", ",", "we", "arrived", "in", "Edinburgh", "starving", "."], "e1_text": "stand", "e1_pos": 22, "e2_text": "getting", "e2_pos": 27, "label": "before"}
+]

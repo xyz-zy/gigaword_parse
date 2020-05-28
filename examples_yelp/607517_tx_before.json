@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "stopped", "in", "the", "foyer", "to", "check", "out", "the", "menu", "before", "sitting", "down", "and", ",", "well", ",", "Chris", "B.", "said", "it", "best", ":", "''", "``", "When", "I", "glanced", "at", "the", "prices", "I", "seriously", "considered", "walking", "out", "and", "just", "going", "to", "Mai", "Xiang", "Yuan", "''", "''", "-RRB-", "-", "Taste", "is", "n't", "as", "good", "-", "Their", "take-out", "soy", "sauce", "is", "pre-flavoured", "with", "chili", "."], "e1_text": "check", "e1_pos": 7, "e2_text": "sitting", "e2_pos": 12, "label": "before"}
+]

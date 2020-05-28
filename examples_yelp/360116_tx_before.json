@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "little", "peturbed", "because", "we", "woke", "a", "sleeping", "toddler", "and", "then", "had", "to", "wait", "another", "15", "minutes", "before", "they", "found", "us", "a", "booth", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "found", "e2_pos": 21, "label": "before"}
+]

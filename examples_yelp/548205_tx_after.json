@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "visited", "this", "location", "after", "being", "sick", "for", "nearly", "5", "weeks", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "being", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "would", "have", "much", "rather", "not", "spent", "$", "65", "on", "medications", "that", "did", "n't", "work", "but", "after", "feeling", "terrible", "for", "so", "long", "I", "was", "willing", "to", "try", "anything", "."], "e1_text": "work", "e1_pos": 14, "e2_text": "feeling", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "first", "approach", "is", "to", "always", "resolve", "an", "issue", "with", "management", "before", "reverting", "to", "Yelp", "and", "the", "credit", "card", "co.", "to", "dispute", "a", "transaction", "."], "e1_text": "resolve", "e1_pos": 6, "e2_text": "reverting", "e2_pos": 12, "label": "before"}
+]

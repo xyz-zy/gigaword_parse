@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "one", "followed", "up", "with", "us", "after", "we", "asked", "about", "our", "food", "."], "e1_text": "followed", "e1_pos": 2, "e2_text": "asked", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "kids", "nachos", "had", "hardly", "any", "cheese", "and", "we", "had", "to", "send", "them", "back", "...", "after", "45", "minute", "wait", "!"], "e1_text": "send", "e1_pos": 11, "e2_text": "wait", "e2_pos": 18, "label": "after"}
+]

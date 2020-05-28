@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "paid", "over", "$", "1500", "for", "office", "desks", "and", "we", "finally", "after", "weeks", "of", "no", "delivery", "found", "out", "the", "owner", "did", "n't", "pay", "the", "vendor", "so", "our", "furniture", "was", "n't", "being", "released", "to", "us", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "found", "e2_pos": 16, "label": "after"}
+]

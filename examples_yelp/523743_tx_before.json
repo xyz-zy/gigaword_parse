@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "usual", ",", "in", "a", "place", "I", "have", "n't", "been", "before", ",", "I", "used", "Yelp", "to", "see", "what", "was", "available", "in", "Las", "Vegas", "Town", "Square", "-LRB-", "which", "is", "another", "review", "in", "itself", "-RRB-", "and", "read", "off", "the", "likely", "choices", "to", "my", "traveling", "companion", ",", "my", "brother", ".", "''"], "e1_text": "been", "e1_pos": 9, "e2_text": "used", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "had", "Steak", "and", "ale", "pie", "with", "mash", ",", "and", "he", "dithered", "before", "settling", "on", "Toad", "in", "the", "hole", ",", "and", "had", "his", "eye", "on", "sticky", "toffee", "pudding", "for", "dessert", "."], "e1_text": "dithered", "e1_pos": 11, "e2_text": "settling", "e2_pos": 13, "label": "before"}
+]

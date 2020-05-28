@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "wandered", "around", "the", "floor", "talking", "to", "his", "other", "parties", "and", "came", "back", "to", "us", "after", "waiting", "10", "mins", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 16, "label": "after"},
+{"tokens": ["This", "was", "after", "asking", "his", "assistance", "to", "get", "his", "attention", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asking", "e2_pos": 3, "label": "after"}
+]

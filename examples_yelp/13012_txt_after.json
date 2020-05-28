@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "all", "that", "is", "bad", "enough", ",", "I", "'ve", "always", "felt", "that", "the", "employees", "here", "are", "tremendously", "standoffish", "with", "anyone", "under", "40", ",", "and", "this", "is", "the", "only", "place", "I", "'ve", "been", "to", "downtown", "where", "they", "'ll", "chase", "your", "party", "down", "after", "you", "walk", "in", "the", "door", "."], "e1_text": "chase", "e1_pos": 37, "e2_text": "walk", "e2_pos": 43, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "was", "nice", "and", "the", "greeting", "from", "the", "waiter", "was", "prompt", "but", "after", "that", "it", "seemed", "to", "fall", "off", "as", "I", "was", "served", "without", "given", "any", "condiments", "until", "I", "flagged", "someone", "and", "asked", "for", "them", ",", "and", "I", "never", "got", "a", "refill", "on", "my", "coffee", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "seemed", "e2_pos": 16, "label": "after"}
+]

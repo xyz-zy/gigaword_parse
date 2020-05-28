@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "the", "area", "so", "I", "went", "in", "for", "a", "shave", "after", "hearing", "some", "good", "things", "about", "this", "place", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "hearing", "e2_pos": 13, "label": "after"},
+{"tokens": ["No", "pre-shave", "oil", ",", "lukewarm", "towel", ",", "barber", "does", "n't", "pull", "the", "skin", "tight", "which", "leads", "to", "numerous", "cuts", ",", "when", "he", "touched", "up", "parts", "of", "my", "face", "he", "did", "n't", "re-lather", "which", "means", "razor", "burn", "is", "going", "to", "happen", "...", "after", "all", "of", "that", "I", "get", "out", "of", "the", "chair", "to", "see", "half", "of", "my", "neck", "still", "had", "hair", "on", "it", "and", "my", "side", "burns", "were", "about", "an", "inch", "off", "from", "each", "other", "."], "e1_text": "pull", "e1_pos": 10, "e2_text": "had", "e2_pos": 58, "label": "after"}
+]

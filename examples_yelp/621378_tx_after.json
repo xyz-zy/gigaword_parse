@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "the", "production", "policy", "and", "it", "states", "that", "the", "order", "could", "be", "expected", "7-10", "business", "days", "after", "it", "is", "placed", "."], "e1_text": "expected", "e1_pos": 13, "e2_text": "is", "e2_pos": 19, "label": "after"},
+{"tokens": ["My", "friends", "birthday", "is", "October", "3rd", "which", "is", "10", "days", "after", "I", "placed", "the", "order", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "placed", "e2_pos": 12, "label": "after"}
+]

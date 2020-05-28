@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "very", "glad", "we", "did", "n't", "pay", "full", "price", "!!", "We", "paid", "$", "140", "for", "4", "of", "us", "after", "using", "a", "$", "10", "off", "per", "person", "discount", "coupon", "&", "it", "still", "was", "n't", "worth", "the", "price", "."], "e1_text": "paid", "e1_pos": 12, "e2_text": "using", "e2_pos": 20, "label": "after"}
+]

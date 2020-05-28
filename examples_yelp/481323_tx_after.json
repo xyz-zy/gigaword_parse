@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "would", "'ve", "reminded", "him", ",", "but", "he", "seemed", "to", "disappear", "for", "long", "periods", "of", "time", "after", "forgetting", "things", "."], "e1_text": "disappear", "e1_pos": 10, "e2_text": "forgetting", "e2_pos": 17, "label": "after"},
+{"tokens": ["Basically", ",", "I", "was", "thinking", "''", "``", "WTF", "?!", "''", "''", "When", "we", "were", "done", "eating", ",", "after", "we", "had", "paid", "the", "bill", ",", "we", "then", "realized", "that", "we", "had", "been", "there", "for", "over", "3.5", "hours", "."], "e1_text": "done", "e1_pos": 14, "e2_text": "had", "e2_pos": 19, "label": "after"},
+{"tokens": ["The", "service", "was", "extremely", "slow", "and", "mostly", "unfriendly", ",", "the", "food", "was", "n't", "good", "for", "the", "price", "we", "paid", ",", "and", "we", "just", "ended", "up", "being", "pissed", "off", "in", "general", "after", "leaving", "."], "e1_text": "pissed", "e1_pos": 26, "e2_text": "leaving", "e2_pos": 31, "label": "after"},
+{"tokens": ["This", "was", "our", "first", "trip", "to", "this", "Hayashi", ",", "but", "we", "wanted", "to", "try", "it", "out", "after", "having", "so", "many", "fantastic", "experience", "up", "at", "the", "Surprise", "location", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "having", "e2_pos": 17, "label": "after"}
+]

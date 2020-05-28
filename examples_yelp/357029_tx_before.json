@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "stop", "there", "before", "seeing", "Menopause", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 6, "label": "before"},
+{"tokens": ["Oh", ",", "I", "must", "add", "...", "two", "days", "later", ",", "my", "niece", "and", "I", "decided", "to", "go", "back", "to", "T&T", "to", "celebrate", "her", "birthday", "and", "for", "our", "last", "nice", "meal", "before", "leaving", "our", "Vegas", "Trip", "."], "e1_text": "decided", "e1_pos": 14, "e2_text": "leaving", "e2_pos": 31, "label": "before"}
+]

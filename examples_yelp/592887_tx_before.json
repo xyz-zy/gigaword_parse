@@ -1,0 +1,4 @@
+[
+{"tokens": ["2", "stars", ":", "Our", "waiter", "gave", "us", "2", "surprise", "plates", "of", "spaghetti", "topped", "with", "a", "kind", "of", "tomato", "cream", "sauce", "courtesy", "of", "the", "chef", "right", "before", "our", "entrees", "came", "out", "."], "e1_text": "topped", "e1_pos": 12, "e2_text": "came", "e2_pos": 28, "label": "before"},
+{"tokens": ["I", "know", "I", "sound", "like", "a", "putz", "complaining", "about", "free", "food", "but", "this", "was", "n't", "needed", "at", "all", "and", "I", "would", "just", "set", "this", "aside", "if\\/when", "they", "give", "it", "to", "you", "before", "the", "entrees", "come", "out", "."], "e1_text": "set", "e1_pos": 22, "e2_text": "come", "e2_pos": 34, "label": "before"}
+]

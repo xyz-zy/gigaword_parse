@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "at", "the", "first", "spot", "we", "could", "find", ",", "and", "only", "realized", "later", "right", "before", "leaving", "that", "it", "seems", "there", "is", "a", "separate", "room", "at", "the", "back", "near", "the", "restrooms", "with", "a", "more", "traditional", "bar", "area", "."], "e1_text": "realized", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 16, "label": "before"}
+]

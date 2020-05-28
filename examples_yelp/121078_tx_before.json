@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recalled", "seeing", "Uncle", "Joe", "'s", "on", "Yelp", "and", "decided", "to", "make", "a", "stop", "before", "I", "hit", "up", "the", "Fremont", "area", "for", "a", "rugby", "event", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "hit", "e2_pos": 16, "label": "before"},
+{"tokens": ["Go", "for", "the", "atmosphere", "and", "to", "fill", "up", "before", "a", "night", "of", "drinking", "in", "the", "Downtown", "area", "."], "e1_text": "fill", "e1_pos": 6, "e2_text": "drinking", "e2_pos": 12, "label": "before"}
+]

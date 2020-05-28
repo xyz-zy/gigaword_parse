@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "reason", "this", "place", "does", "n't", "get", "5", "stars", "is", "because", "of", "the", "bizarre", "hours", "and", "that", "despite", "the", "fact", "that", "I", "live", "2", "blocks", "away", ",", "I", "can", "never", "be", "there", "before", "they", "close", "."], "e1_text": "be", "e1_pos": 31, "e2_text": "close", "e2_pos": 35, "label": "before"},
+{"tokens": ["BUT", "somehow", "the", "planets", "were", "aligned", "yesterday", "-LRB-", "Sunday", "-RRB-", "and", "they", "were", "Open", "and", "I", "got", "there", "minutes", "before", "the", "owner", "closed", "up", "shop", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "closed", "e2_pos": 22, "label": "before"}
+]

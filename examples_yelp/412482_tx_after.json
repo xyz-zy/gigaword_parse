@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "put", "in", "some", "head-phones", "to", "listen", "to", "a", "few", "video", "lectures", "and", "about", "a", "minute", "after", "I", "put", "on", "the", "headphones", ",", "the", "barista", "walked", "from", "around", "the", "counter", "and", "turned", "up", "the", "volume", "of", "the", "speaker", "system", "to", "an", "abnormally", "loud", "level", "."], "e1_text": "listen", "e1_pos": 6, "e2_text": "put", "e2_pos": 1, "label": "after"}
+]

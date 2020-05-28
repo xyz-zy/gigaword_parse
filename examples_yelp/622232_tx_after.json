@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "new", "girl", "then", "informed", "us", "we", "could", "not", "order", "what", "we", "wanted", ",", "even", "after", "we", "assured", "her", "that", "we", "would", "pay", "the", "difference", "for", "the", "additional", "toppings", "like", "we", "have", "everytime", "in", "the", "past", "."], "e1_text": "order", "e1_pos": 9, "e2_text": "assured", "e2_pos": 17, "label": "after"}
+]

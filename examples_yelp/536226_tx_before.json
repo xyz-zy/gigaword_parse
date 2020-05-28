@@ -1,0 +1,3 @@
+[
+{"tokens": ["Saved", "the", "BBQ", "Salad", "for", "dinner", ",", "taste", "tested", "it", "before", "putting", "it", "in", "the", "frig", "."], "e1_text": "tested", "e1_pos": 8, "e2_text": "putting", "e2_pos": 11, "label": "before"}
+]

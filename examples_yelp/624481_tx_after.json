@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "positive", "as", "I", "walked", "in", "is", "that", "the", "drinks", "were", "50", "%", "off", "-LRB-", "I", "later", "found", "out", "that", "appetizers", "are", "too", "based", "on", "the", "yelp", "page", "and", "my", "server", "did", "n't", "even", "give", "us", "the", "50", "%", "off", ",", "even", "after", "I", "had", "to", "correct", "him", "on", "giving", "me", "50", "%", "off", "the", "drinks", "-", "maybe", "he", "was", "n't", "sure", "if", "we", "would", "tip", "off", "the", "regular", "price", "-", "who", "knows", "?", "-RRB-", "."], "e1_text": "give", "e1_pos": 34, "e2_text": "had", "e2_pos": 44, "label": "after"}
+]

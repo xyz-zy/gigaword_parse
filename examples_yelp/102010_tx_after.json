@@ -1,0 +1,3 @@
+[
+{"tokens": ["AVOID", "NO-NAME", "ELECTRONICS", "AT", "WALMART", ",", "AVOID", "THEIR", "EXTENDED", "WARRANTY", "...", "Bought", "a", "tablet", "online", "-LRB-", "Dopo", "-RRB-", ",", "stopped", "working", "shortly", "after", "receiving", ",", "used", "extended", "warranty", "to", "return", ",", "took", "2", "months", "and", "many", "calls", "to", "get", "my", "refund", ";", "actually", "received", "''", "``", "gift", "certificate", "''", "''", "that", "store", "manager", "said", "I", "could", "only", "use", "to", "buy", "something", "from", "store", ",", "and", "would", "not", "recognized", "for", "cash", "refund", "."], "e1_text": "working", "e1_pos": 20, "e2_text": "receiving", "e2_pos": 23, "label": "after"}
+]

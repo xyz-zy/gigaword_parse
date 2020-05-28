@@ -1,0 +1,4 @@
+[
+{"tokens": ["Check", "in", "takes", "about", "a", "half", "an", "hour", ",", "called", "down", "for", "extra", "towels", "&", "was", "on", "hold", "for", "ten", "mins", "before", "I", "gave", "up", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "gave", "e2_pos": 23, "label": "before"},
+{"tokens": ["Will", "stay", "again", "if", "I", "have", "no", "other", "choice", "but", "make", "sure", "I", "have", "everything", "I", "need", "before", "leaving", "the", "front", "desk", "as", "you", "can", "not", "get", "ahold", "of", "them", "after", "check", "in", "."], "e1_text": "need", "e1_pos": 16, "e2_text": "leaving", "e2_pos": 18, "label": "before"}
+]

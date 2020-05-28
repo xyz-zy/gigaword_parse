@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "pumpkin", "muffin", "came", "towards", "the", "middle", "of", "our", "lunch", "because", "our", "server", "forgot", "about", "it", ",", "she", "apologized", "saying", "she", "was", "so", "focused", "on", "getting", "my", "soup", "to", "me", "before", "the", "main", "entree", "came", "out", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "came", "e2_pos": 3, "label": "before"}
+]

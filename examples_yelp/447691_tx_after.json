@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mom", ",", "who", "is", "visiting", ",", "and", "I", "went", "here", "for", "lunch", "today", "after", "she", "had", "found", "a", "few", "creperies", "online", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "had", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "tasted", "just", "fine", ",", "but", "the", "sliminess", "of", "the", "meat", "and", "the", "fact", "that", "I", "could", "n't", "chew", "through", "the", "fat", "after", "already", "swallowing", "the", "lettuce", ",", "tomatoes", ",", "and", "cheese", "grossed", "me", "out", "to", "the", "core", "!"], "e1_text": "chew", "e1_pos": 18, "e2_text": "swallowing", "e2_pos": 24, "label": "after"}
+]

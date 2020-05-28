@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "visited", "Senor", "Frog", "'s", "after", "spending", "my", "whole", "life", "seeing", "it", "as", "THE", "place", "to", "visit", "in", "Cancun", "while", "on", "Spring", "Break", "."], "e1_text": "'s", "e1_pos": 5, "e2_text": "spending", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "ordered", "a", "BBQ", "chicken", "wrap", "after", "the", "server", "said", "they", "are", "huge", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "said", "e2_pos": 9, "label": "after"}
+]

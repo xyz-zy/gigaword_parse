@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "came", "for", "my", "first", "class", "I", "bought", "5", "class", "package", ",", "so", "I", "could", "give", "it", "a", "proper", "try", "before", "committing", "."], "e1_text": "give", "e1_pos": 16, "e2_text": "committing", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "front", "desk", "was", "hectic", "and", "I", "was", "ignored", "for", "quite", "a", "few", "minutes", "before", "someone", "paid", "me", "any", "attention", "."], "e1_text": "ignored", "e1_pos": 8, "e2_text": "paid", "e2_pos": 16, "label": "before"}
+]

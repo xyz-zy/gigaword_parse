@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "brought", "out", "and", "sat", "on", "the", "side", "of", "the", "bar", "for", "a", "good", "2", "minutes", "before", "the", "bartender", "went", "over", "to", "get", "it", "and", "bring", "it", "to", "us", ",", "he", "was", "too", "busy", "stuffing", "his", "face", "in", "the", "opposite", "corner", "of", "the", "bar", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "went", "e2_pos": 21, "label": "before"}
+]

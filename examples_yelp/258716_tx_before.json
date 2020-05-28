@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "there", "with", "our", "Siberian", "Husky", "that", "had", "been", "bitten", "by", "a", "snake", "they", "took", "our", "dog", "in", "the", "back", "and", "then", "it", "took", "quite", "some", "time", "before", "anyone", "came", "out", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "came", "e2_pos": 30, "label": "before"}
+]

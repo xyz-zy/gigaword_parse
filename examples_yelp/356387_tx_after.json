@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mimosas", "and", "bloody", "marys", "were", "half", "off", ",", "which", "was", "nice", ",", "but", "when", "I", "ordered", "a", "second", "one", "it", "did", "n't", "arrive", "until", "well", "after", "I", "was", "finished", "eating", "and", "then", "only", "after", "a", "reminder", "."], "e1_text": "arrive", "e1_pos": 22, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Maybe", "it", "was", "because", "we", "came", "so", "soon", "after", "they", "opened", "and", "maybe", "everyone", "was", "still", "hungover", "from", "Saturday", "night", ",", "but", "the", "hostess", ",", "server", "and", "cook", "just", "were", "n't", "on", "their", "A", "game", "today", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "opened", "e2_pos": 10, "label": "after"}
+]

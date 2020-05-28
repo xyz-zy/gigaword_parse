@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "wait", "until", "I", "ate", "the", "food", ",", "which", "I", "examined", "closely", "before", "doing", "so", "."], "e1_text": "examined", "e1_pos": 12, "e2_text": "doing", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "hope", "people", "think", "twice", "before", "going", "here", ",", "based", "on", "the", "service", "alone", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "going", "e2_pos": 6, "label": "before"}
+]

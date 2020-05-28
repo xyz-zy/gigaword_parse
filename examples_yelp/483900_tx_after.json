@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "early", "Sunday", "morning", ",", "after", "dropping", "our", "wild", "child", "-LRB-", "our", "pitbull", "terrier", "-RRB-", "at", "her", "day", "camp", "that", "we", "decided", "to", "make", "the", "drive", "to", "Patisserie", "Manon", "to", "taste", "the", "macarons", "for", "ourselves", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "dropping", "e2_pos": 7, "label": "after"},
+{"tokens": ["Earl", "been", "wanting", "to", "go", "after", "hearing", "a", "retired", "pastry", "chef", "raved", "about", "how", "he", "would", "be", "a", "Patisserie", "Manon", "at", "least", "3x", "a", "week", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "hearing", "e2_pos": 6, "label": "after"}
+]

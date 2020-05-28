@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "is", "a", "bar", "that", "you", "are", "able", "to", "stop", "at", "before", "boarding", "if", "you", "wish", "to", "take", "a", "drink", "with", "you", "."], "e1_text": "stop", "e1_pos": 9, "e2_text": "boarding", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "would", "be", "sure", "to", "check", "those", "out", "before", "heading", "straight", "to", "the", "box", "office", "to", "get", "tickets", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "heading", "e2_pos": 9, "label": "before"}
+]

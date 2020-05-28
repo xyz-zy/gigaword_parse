@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "booked", "my", "my", "car", "with", "Priceline.com", "and", "the", "reservation", "was", "for", "midnight", "but", "I", "got", "to", "the", "rental", "place", "about", "an", "hour", "and", "a", "half", "before", "that", "as", "my", "flight", "landed", "early", ",", "however", "the", "gentleman", "at", "the", "front", "desk", "was", "one", "of", "the", "rudest", "people", "I", "have", "ever", "dealt", "with", "in", "my", "life", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "have", "e2_pos": 48, "label": "before"},
+{"tokens": ["Can", "you", "imagine", "you", "want", "to", "return", "a", "car", "before", "the", "reservation", "is", "over", "and", "they", "want", "to", "charge", "you", "a", "penalty", "for", "that", "."], "e1_text": "return", "e1_pos": 6, "e2_text": "is", "e2_pos": 12, "label": "before"}
+]

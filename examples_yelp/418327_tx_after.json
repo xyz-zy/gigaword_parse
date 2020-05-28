@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", ",", "to", "my", "dismay", ",", "I", "may", "just", "never", "go", "back", "after", "what", "I", "experienced", "."], "e1_text": "go", "e1_pos": 10, "e2_text": "experienced", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "managers", "did", "n't", "even", "come", "back", "to", "check", "on", "us", "after", "we", "got", "served", "."], "e1_text": "check", "e1_pos": 8, "e2_text": "got", "e2_pos": 13, "label": "after"}
+]

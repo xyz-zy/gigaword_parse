@@ -1,0 +1,4 @@
+[
+{"tokens": ["Despite", "reading", "the", "horrible", "service", "reviews", "before", "going", "we", "decided", "to", "try", "it", "anyway", "."], "e1_text": "reading", "e1_pos": 1, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "were", "asked", "to", "throw", "away", "our", "drink", "before", "allowing", "to", "be", "sat", "."], "e1_text": "throw", "e1_pos": 4, "e2_text": "allowing", "e2_pos": 9, "label": "before"}
+]

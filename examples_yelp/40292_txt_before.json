@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "you", "want", "your", "meal", "brought", "to", "you", "by", "someone", "who", "just", "bussed", "another", "dirty", "table", "without", "washing", "thier", "hands", "before", "touching", "your", "plate", "."], "e1_text": "washing", "e1_pos": 17, "e2_text": "touching", "e2_pos": 21, "label": "before"}
+]

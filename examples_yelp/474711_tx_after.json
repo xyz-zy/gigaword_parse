@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "my", "sons", "ordered", "a", "meatball", "sub", "and", "the", "guy", "kept", "insisting", "on", "it", "being", "toasted", "even", "after", "we", "humbly", "declined", "."], "e1_text": "toasted", "e1_pos": 15, "e2_text": "declined", "e2_pos": 20, "label": "after"}
+]

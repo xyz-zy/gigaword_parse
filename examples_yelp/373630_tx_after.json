@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "another", "10", "minutes", ",", "after", "getting", "beverages", ",", "for", "our", "server", "to", "get", "back", "to", "us", "to", "take", "our", "meal", "order", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "getting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "told", "her", "that", "the", "rest", "can", "be", "served", "and", "then", "give", "us", "the", "mash", "after", "it", "'s", "ready", "."], "e1_text": "give", "e1_pos": 11, "e2_text": "'s", "e2_pos": 17, "label": "after"}
+]

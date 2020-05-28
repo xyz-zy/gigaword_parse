@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "coupon", "that", "the", "server", "asked", "to", "see", "before", "we", "ordered", "."], "e1_text": "see", "e1_pos": 9, "e2_text": "ordered", "e2_pos": 12, "label": "before"},
+{"tokens": ["This", "restaurant", "needs", "someone", "with", "good", "business", "sense", "to", "step", "up", "...", "before", "it", "'s", "too", "late", "...", "and", "they", "wind", "up", "with", "the", "same", "fate", "that", "has", "befallen", "other", "restaurants", "both", "at", "this", "exact", "location", "and", "in", "this", "strip", "center", "."], "e1_text": "needs", "e1_pos": 2, "e2_text": "'s", "e2_pos": 14, "label": "before"}
+]

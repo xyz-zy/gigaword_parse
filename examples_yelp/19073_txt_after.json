@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wait", "person", "said", "ok", "after", "we", "are", "done", "she", "will", "send", "someone", "out", "."], "e1_text": "said", "e1_pos": 3, "e2_text": "are", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "did", "sit", "a", "while", "after", "we", "were", "done", ";", "no", "one", "came", "out", "or", "was", "a", "card", "offered", "."], "e1_text": "sit", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "after"}
+]

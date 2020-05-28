@@ -1,0 +1,3 @@
+[
+{"tokens": ["Throw", "in", "the", "$", "12", "parking", "fee", "and", "you", "'re", "dropping", "some", "serious", "dough", "before", "even", "entering", "the", "park", "."], "e1_text": "dropping", "e1_pos": 10, "e2_text": "entering", "e2_pos": 16, "label": "before"}
+]

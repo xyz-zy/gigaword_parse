@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "do", "NOT", "make", "it", "clear", "before", "you", "sit", "down", "-LRB-", "I", "even", "called", "ahead", "and", "made", "an", "appointment", "-RRB-", "."], "e1_text": "make", "e1_pos": 3, "e2_text": "sit", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "drove", "around", "for", "SEVEN", "MINUTES", "before", "I", "found", "a", "space", "by", "Walgreen", "'s", "."], "e1_text": "drove", "e1_pos": 1, "e2_text": "found", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "cousin", "'s", "friend", "had", "booked", "10", "rooms", "for", "a", "bachelorette", "get-away", "in", "April", ",", "but", "quickly", "canceled", "after", "I", "told", "her", "about", "this", "incident", "."], "e1_text": "canceled", "e1_pos": 17, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

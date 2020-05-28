@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "there", "was", "someone", "at", "the", "ordering", "area", ",", "she", "apparently", "had", "a", "problem", "with", "one", "of", "the", "senior", "staff", "putting", "her", "hands", "up", "after", "asking", "a", "question", "stating", "''", "``", "I", "got", "it", ",", "I", "got", "it", "already", "!", "''", "''"], "e1_text": "putting", "e1_pos": 20, "e2_text": "asking", "e2_pos": 25, "label": "after"}
+]

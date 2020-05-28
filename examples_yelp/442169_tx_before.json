@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", ",", "after", "all", "of", "that", "stuff", "was", "taken", "care", "of", ",", "now", "we", "had", "to", "wait", "another", "1\\/2", "hour", "before", "we", "got", "mounted", "on", "our", "horses", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "got", "e2_pos": 22, "label": "before"},
+{"tokens": ["We", "sat", "on", "our", "horses", "for", "another", "good", "30", "minutes", "or", "so", "before", "embarking", "on", "our", "ride", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "embarking", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "would", "not", "recommend", "this", "ride", "for", "anyone", "especially", "a", "beginner", "who", "has", "never", "rode", "on", "a", "horse", "before", "."], "e1_text": "recommend", "e1_pos": 3, "e2_text": "has", "e2_pos": 12, "label": "before"}
+]

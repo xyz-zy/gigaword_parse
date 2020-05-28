@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "feel", "that", "everyone", "has", "the", "right", "to", "cancel", "but", "it", "'s", "common", "courtesy", "to", "notify", "your", "scheduled", "appointments", "before", "they", "arrive", "."], "e1_text": "notify", "e1_pos": 15, "e2_text": "arrive", "e2_pos": 21, "label": "before"}
+]

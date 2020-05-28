@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "can", "not", "say", "anything", "bad", "about", "the", "wait", "staff", "because", "our", "waiter", "was", "awesome", ",", "he", "was", "attentive", "and", "gave", "me", "a", "great", "wine", "recommendation", "for", "both", "an", "appetizer", "and", "the", "main", "course", "-LRB-", "had", "the", "same", "wine", "as", "Gabi", "after", "reading", "her", "review", "...", "-RRB-", "."], "e1_text": "had", "e1_pos": 35, "e2_text": "reading", "e2_pos": 42, "label": "after"},
+{"tokens": ["First", "off", ",", "if", "you", "decide", "to", "go", "here", "even", "after", "reading", "my", "review", "get", "the", "lobster", "chowder", "-", "the", "reason", "I", "thought", "I", "was", "in", "for", "an", "epic", "meal", "was", "that", "when", "I", "got", "this", "thing", "it", "had", "HUGE", "chunks", "of", "lobster", "and", "bacon", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "get", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "thought", "I", "was", "seriously", "in", "for", "it", "after", "having", "devoured", "that", "as", "an", "appetizer", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "having", "e2_pos": 9, "label": "after"}
+]

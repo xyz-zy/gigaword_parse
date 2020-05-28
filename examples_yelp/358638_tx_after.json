@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "back", "a", "few", "nights", "later", "after", "being", "fleeced", "for", "$", "40", "in", "return", "for", "table", "scraps", "at", "Sens.", "It", "took", "almost", "twenty", "minutes", "to", "order", "two", "pizzas", "and", "onion", "straws", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "finally", "went", "again", "after", "a", "night", "of", "drinking", "at", "the", "Clarendon", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "drinking", "e2_pos": 8, "label": "after"}
+]

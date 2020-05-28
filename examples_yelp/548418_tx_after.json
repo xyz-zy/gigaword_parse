@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "can", "you", "wait", "2", "+", "hrs", "after", "placing", "order", "the", "food", "is", "n't", "really", "worth", "the", "wait", "in", "that", "case", "very", "hard", "rice", "and", "dry", "sauces", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "placing", "e2_pos": 9, "label": "after"}
+]

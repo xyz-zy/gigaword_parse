@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "means", "I", "ended", "up", "covered", "in", "powdered", "sugar", ",", "even", "after", "shaking", "a", "bunch", "of", "it", "off", "."], "e1_text": "ended", "e1_pos": 3, "e2_text": "shaking", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "can", "easily", "name", "other", "places", "where", "we", "like", "the", "food", "more", "and", "will", "spend", "less", ",", "and", "so", "for", "that", "reason", ",", "I", "have", "to", "say", "I", "doubt", "we", "will", "ever", "return", ",", "but", "it", "'s", "possible", "after", "we", "exhaust", "the", "other", "post-show", "dining", "options", "and", "see", "where", "everything", "rates", ",", "but", "with", "only", "two", "shows", "left", "and", "us", "not", "sure", "if", "we", "will", "renew", "for", "the", "next", "season", "..."], "e1_text": "'s", "e1_pos": 36, "e2_text": "exhaust", "e2_pos": 40, "label": "after"}
+]

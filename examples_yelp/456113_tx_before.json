@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "enjoy", "the", "food", "here", ";", "on", "my", "last", "visit", ",", "I", "happily", "consumed", "the", "roast", "chicken", "salad", "sandwich", "-LRB-", "yummy", "and", "spicy", "-RRB-", "and", "potato", "salad", "-LRB-", "which", "was", "just", "made", "a", "few", "minutes", "before", "I", "placed", "my", "order", "-RRB-", "."], "e1_text": "made", "e1_pos": 32, "e2_text": "placed", "e2_pos": 38, "label": "before"}
+]

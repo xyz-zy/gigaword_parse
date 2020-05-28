@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "say", "I", "'ve", "had", "broth", "this", "bad", "before", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 5, "label": "before"},
+{"tokens": ["We", "went", "through", "4", "sets", "before", "coming", "up", "with", "a", "pair", "that", "split", "anywhere", "near", "properly", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "coming", "e2_pos": 6, "label": "before"}
+]

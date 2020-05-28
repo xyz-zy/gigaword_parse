@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "star", ":", "He", "forgot", "to", "bring", "the", "wine", "before", "the", "food", ",", "then", "finally", "came", "around", "after", "we", "finished", "eating", "."], "e1_text": "bring", "e1_pos": 6, "e2_text": "finished", "e2_pos": 19, "label": "after"},
+{"tokens": ["He", "deliberately", "refused", "to", "come", "back", "to", "collect", "our", "credit", "card", "for", "payment", "for", "almost", "20min", "after", "delivering", "the", "check", "."], "e1_text": "collect", "e1_pos": 7, "e2_text": "delivering", "e2_pos": 17, "label": "after"}
+]

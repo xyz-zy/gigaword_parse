@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "potato", "chips", "that", "were", "given", "as", "a", "snack", "tasted", "a", "bit", "burnt", "and", "unappetizing", "after", "trying", "a", "couple", "."], "e1_text": "tasted", "e1_pos": 9, "e2_text": "trying", "e2_pos": 16, "label": "after"},
+{"tokens": ["After", "this", "horrible", "veggie", "burger", "experience", ",", "we", "decided", "to", "go", "back", "to", "after", "purchasing", "the", "groupon", "."], "e1_text": "go", "e1_pos": 10, "e2_text": "purchasing", "e2_pos": 14, "label": "after"}
+]

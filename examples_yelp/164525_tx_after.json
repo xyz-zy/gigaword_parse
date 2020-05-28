@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "may", "be", "a", "pet-peeve", "of", "mine", ",", "but", "I", "hate", "it", "when", "the", "server", "does", "n't", "bring", "you", "the", "bill", "nor", "does", "he", "bring", "you", "back", "the", "bill", "after", "you", "paid", "."], "e1_text": "bring", "e1_pos": 17, "e2_text": "paid", "e2_pos": 31, "label": "after"}
+]

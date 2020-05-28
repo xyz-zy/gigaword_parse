@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "show", "up", "today", "with", "my", "party", "--", "and", "she", "pulls", "me", "out", "of", "the", "restaurant", ",", "tells", "me", "that", "''", "``", "i", "'m", "not", "supporting", "her", "business", "''", "''", "and", "that", "a", "few", "days", "after", "my", "email", "she", "gets", "an", "inspection", "from", "the", "Maricopa", "County", "Health", "Department", ",", "and", "they", "gave", "her", "a", "''", "``", "B", "''", "''", "rating", "."], "e1_text": "tells", "e1_pos": 17, "e2_text": "gets", "e2_pos": 39, "label": "after"},
+{"tokens": ["At", "this", "point", "she", "tells", "me", "she", "wo", "n't", "serve", "me", "anymore", "after", "being", "a", "customer", "for", "about", "seven", "years", "."], "e1_text": "serve", "e1_pos": 9, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

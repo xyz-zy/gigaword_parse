@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "dunno", "maybe", "after", "waiting", "like", "15", "to", "20", "minutes", "i", "wasnt", "impressed", "with", "it", "."], "e1_text": "dunno", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 4, "label": "after"},
+{"tokens": ["i", "guess", "if", "you", "never", "had", "it", "and", "after", "watching", "harold", "and", "kumar", "you", "have", "to", "try", "it", "."], "e1_text": "guess", "e1_pos": 1, "e2_text": "watching", "e2_pos": 9, "label": "after"}
+]

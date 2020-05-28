@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "recently", "went", "for", "brunch", "and", "arrived", "just", "after", "my", "friends", "received", "their", "food", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "received", "e2_pos": 11, "label": "after"},
+{"tokens": ["Coffee", "ordered", "again", "after", "the", "waitress", "returned", "to", "our", "table", "20", "minutes", "later", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "returned", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "was", "an", "hour", "after", "I", "had", "ordered", "my", "food", "and", "still", "no", "food", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "after"}
+]

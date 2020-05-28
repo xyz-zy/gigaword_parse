@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "the", "reviews", "on", "here", "and", "decided", "to", "go", "around", "3pm", "to", "avoid", "rush", "time", ",", "we", "were", "the", "only", "ones", "besides", "another", "table", "in", "the", "restaurant", "so", "there", "was", "no", "problem", "with", "service", ";", "however", ",", "our", "server", "seemed", "a", "little", "spacy", "and", "forgot", "to", "re-light", "our", "grill", "after", "we", "asked", "a", "couple", "times", "when", "the", "flame", "went", "out", "."], "e1_text": "re-light", "e1_pos": 47, "e2_text": "asked", "e2_pos": 52, "label": "after"}
+]

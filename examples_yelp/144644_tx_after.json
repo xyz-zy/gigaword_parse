@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "took", "10", "minutes", "to", "get", "to", "us", ",", "another", "10", "to", "bring", "the", "miso", "soup", ",", "after", "I", "asked", "again", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "asked", "e2_pos": 20, "label": "after"},
+{"tokens": ["When", "it", "came", "after", "I", "asked", "for", "it", ",", "the", "salmon", "-LRB-", "sake", "-RRB-", "and", "unagi", "sushi", "tasted", "like", "it", "came", "out", "of", "a", "freezer", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "asked", "e2_pos": 5, "label": "after"}
+]

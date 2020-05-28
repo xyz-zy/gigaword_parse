@@ -1,0 +1,3 @@
+[
+{"tokens": ["Because", "the", "waiter", "never", "bothered", "to", "come", "back", "and", "check", "on", "me", "after", "my", "food", "was", "there", "I", "finally", "ended", "up", "eating", "it", "instead", "of", "sending", "it", "back", "since", "it", "was", "at", "least", "10", "minutes", "between", "visits", "to", "our", "table", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

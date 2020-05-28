@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "my", "eyebrows", "threaded", "before", "but", "this", "time", "I", "opted", "for", "the", "whole", "face", "."], "e1_text": "threaded", "e1_pos": 5, "e2_text": "opted", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "was", "n't", "fully", "prepared", "for", "the", "hurt", "but", "it", "was", "n't", "something", "I", "could", "n't", "handle", "and", "the", "girls", "before", "me", "did", "n't", "even", "flinch", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "did", "e2_pos": 22, "label": "before"}
+]

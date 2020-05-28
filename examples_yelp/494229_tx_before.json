@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "after", "a", "certain", "hour", ",", "you", "need", "to", "sign", "over", "your", "firstborn", "before", "you", "get", "to", "use", "a", "table", ",", "but", "I", "suppose", "if", "you", "'re", "not", "too", "attached", "to", "your", "DNA", "the", "space", "is", "nice", "."], "e1_text": "sign", "e1_pos": 11, "e2_text": "get", "e2_pos": 17, "label": "before"},
+{"tokens": ["Marquee", "'s", "infestation", "of", "people", "and", "parking", "lot", "stairs", "really", "turned", "me", "off", ",", "and", "I", "will", "have", "to", "be", "plied", "with", "vodka", "before", "I", "'m", "willing", "to", "return", "."], "e1_text": "have", "e1_pos": 17, "e2_text": "'m", "e2_pos": 25, "label": "before"}
+]

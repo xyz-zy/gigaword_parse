@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "scheduled", "an", "appointment", ",", "was", "given", "a", "price", "after", "verifying", "my", "insurance", "and", "then", "when", "I", "was", "seen", "-LRB-", "a", "7", "min", "apt", "-RRB-", "I", "was", "charged", "3x", "the", "price", "I", "was", "initially", "quoted", ",", "with", "no", "reason", "why", "."], "e1_text": "given", "e1_pos": 6, "e2_text": "verifying", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "one", "thing", "I", "was", "disappointed", "about", "was", "after", "the", "flavor", "of", "the", "sauce", "went", "away", "the", "ribs", "were", "bland", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "went", "e2_pos": 14, "label": "after"},
+{"tokens": ["All", "in", "all", "not", "a", "bad", "rib", ",", "I", "just", "wanted", "something", "to", "savor", "on", "my", "pallet", "after", "the", "sauce", "went", "away", "."], "e1_text": "savor", "e1_pos": 13, "e2_text": "went", "e2_pos": 20, "label": "after"}
+]

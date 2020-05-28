@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "worst", "stomach-ache", "ever", "after", "eating", "here", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "eating", "e2_pos": 7, "label": "after"},
+{"tokens": ["Seriously", ",", "the", "ONLY", "time", "I", "have", "EVER", "thought", "I", "might", "throw", "up", "after", "eating", "a", "meal", "!"], "e1_text": "throw", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "WAITED", "OVER", "AN", "HR", "before", "finally", "I", "had", "to", "leave", "for", "work", ",", "no", "one", "ever", "came", ",", "called", ",", "nothing", "."], "e1_text": "WAITED", "e1_pos": 1, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["Today", "I", "went", "into", "the", "office", "to", "tell", "them", "it", "has", "been", "a", "week", "and", "no", "one", "has", "come", ",", "now", "I", "have", "family", "coming", "into", "town", "and", "need", "it", "fixed", "TODAY", "before", "i", "go", "to", "work", "at", "1:30", ",", "I", "was", "told", "with", "in", "the", "hr", "i", "should", "have", "someone", "there", ",", "and", "I", "explained", "that", "if", "not", "I", "would", "be", "back", "to", "see", "where", "they", "were", "since", "a", "simple", "poliet", "request", "did", "not", "seem", "to", "get", "anything", "done", "."], "e1_text": "fixed", "e1_pos": 30, "e2_text": "go", "e2_pos": 34, "label": "before"}
+]

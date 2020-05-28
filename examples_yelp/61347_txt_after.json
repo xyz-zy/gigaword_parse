@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "charge", "18", "%", "for", "gratuity", "for", "the", "party", "of", "five", "automatically", "include", "in", "your", "bill", ",", "but", "after", "the", "bill", "came", "back", "to", "sign", ",", "they", "also", "asking", "for", "tip", "again", "."], "e1_text": "charge", "e1_pos": 1, "e2_text": "came", "e2_pos": 21, "label": "after"}
+]

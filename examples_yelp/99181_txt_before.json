@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "woman", "proceeded", "to", "take", "the", "order", "of", "the", "large", "group", "behind", "me", "before", "starting", "to", "make", "mine", ",", "wasted", "ten", "minutes", "there", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "starting", "e2_pos": 14, "label": "before"}
+]

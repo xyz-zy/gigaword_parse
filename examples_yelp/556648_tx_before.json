@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "to", "try", "something", "new", "...", "I", "knew", "I", "should", "'ve", "checked", "yelp", "before", "going", "in", "but", "I", "didnt", "...", "fail", "!"], "e1_text": "checked", "e1_pos": 12, "e2_text": "going", "e2_pos": 15, "label": "before"},
+{"tokens": ["Next", "time", "ill", "be", "sure", "to", "check", "yelp", "before", "going", "blindly", "into", "a", "new", "restaurant", "I", "never", "tried", "before", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "dropped", "the", "car", "off", "to", "Ray", "with", "no", "concerns", "and", "picked", "it", "up", "a", "few", "hours", "later", "after", "being", "told", "the", "bearing", "was", "replaced", "and", "we", "were", "all", "set", "."], "e1_text": "picked", "e1_pos": 11, "e2_text": "being", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "insisted", "he", "replace", "it", ",", "especially", "after", "the", "dealership", "mechanic", "also", "believing", "the", "bearing", "is", "bad", "."], "e1_text": "insisted", "e1_pos": 1, "e2_text": "is", "e2_pos": 15, "label": "after"}
+]

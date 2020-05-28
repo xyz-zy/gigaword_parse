@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "she", "said", "-LRB-", "why", "did", "n't", "you", "call", "before", "you", "came", ",", "which", "I", "replied", "because", "this", "is", "a", "walkin", "Urgent", "Care", "clinic", ",", "I", "mean", "really", "...", "I", "need", "to", "call", "a", "walkin", "clinic", "before", "I", "walk", "in", "?", "-RRB-", "."], "e1_text": "call", "e1_pos": 8, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

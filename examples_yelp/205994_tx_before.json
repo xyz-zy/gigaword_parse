@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "I", "had", "made", "a", "reservation", "and", "specified", "the", "balcony", ",", "we", "still", "had", "to", "wait", "a", "good", "15", "minutes", "before", "a", "table", "was", "made", "available", "for", "us", "...", "so", "boo", "to", "that", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "guess", "that", "'s", "what", "I", "get", "for", "drinking", "excessive", "amounts", "of", "alcohol", "for", "5", "nights", "straight", "before", "heading", "to", "Vegas", "...", "whoops", "."], "e1_text": "drinking", "e1_pos": 8, "e2_text": "heading", "e2_pos": 18, "label": "before"}
+]

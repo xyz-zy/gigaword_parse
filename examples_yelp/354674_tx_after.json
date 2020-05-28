@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "boy", "and", "I", "stopped", "in", "here", "after", "I", "dragged", "him", ",", "fresh", "off", "the", "plane", ",", "all", "around", "town", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "dragged", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "staff", "is", "extremely", "friendly", "-", "our", "server", "brought", "us", "tastes", "of", "the", "beers", "before", "we", "had", "to", "settle", "on", "a", "proper", "pint", ",", "and", "wrapped", "up", "my", "half", "burger", "at", "the", "end", "after", "it", "got", "the", "best", "of", "me", "."], "e1_text": "wrapped", "e1_pos": 25, "e2_text": "got", "e2_pos": 35, "label": "after"}
+]

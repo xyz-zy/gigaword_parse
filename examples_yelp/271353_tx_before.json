@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dish", "served", "on", "is", "not", "meant", "to", "toss", "a", "salad", "in", ",", "so", "if", "you", "like", "your", "Cobb", "tossed", ",", "ask", "them", "to", "toss", "it", "before", "bringing", "it", "to", "your", "table", "."], "e1_text": "toss", "e1_pos": 8, "e2_text": "bringing", "e2_pos": 27, "label": "before"}
+]

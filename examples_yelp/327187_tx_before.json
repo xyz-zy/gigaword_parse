@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sorry", "you", "were", "too", "busy", "to", "throw", "out", "2", "more", "orders", "of", "Pad", "Thai", "and", "some", "summer", "rolls", "an", "hour", "before", "you", "closed", "."], "e1_text": "throw", "e1_pos": 6, "e2_text": "closed", "e2_pos": 22, "label": "before"}
+]

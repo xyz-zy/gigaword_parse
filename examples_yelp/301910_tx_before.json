@@ -1,0 +1,4 @@
+[
+{"tokens": ["Paco", "'s", "Bar", "&", "Grill", "was", "the", "previous", "location", "before", "Caravan", "moved", "in", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "moved", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "swear", "they", "were", "conserving", "too", "much", "cause", "I", "ate", "it", "fast", "before", "I", "finished", "it", "."], "e1_text": "ate", "e1_pos": 9, "e2_text": "finished", "e2_pos": 14, "label": "before"}
+]

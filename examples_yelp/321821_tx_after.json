@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "Thursday", ",", "we", "got", "to", "the", "Cafe", "Society", "just", "after", "it", "closed", "at", "a", "little", "past", "11pm", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "closed", "e2_pos": 12, "label": "after"},
+{"tokens": ["On", "Friday", ",", "we", "got", "there", "just", "after", "it", "closed", "again", ",", "at", "3am", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "closed", "e2_pos": 9, "label": "after"}
+]

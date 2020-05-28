@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "knew", "about", "that", "before", "I", "spent", "my", "money", "as", "a", "student", "on", "the", "2", "month", "pass", "."], "e1_text": "knew", "e1_pos": 3, "e2_text": "spent", "e2_pos": 8, "label": "before"},
+{"tokens": ["Do", "n't", "make", "my", "mistake", "and", "definitely", "check", "the", "studio", "out", "first", "before", "making", "this", "purchase", "."], "e1_text": "check", "e1_pos": 7, "e2_text": "making", "e2_pos": 13, "label": "before"}
+]

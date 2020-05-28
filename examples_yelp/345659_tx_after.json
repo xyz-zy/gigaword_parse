@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "then", "it", "went", "downhill", "...", "The", "waitress", "forgot", "to", "bring", "bread", "...", "no", "big", "deal", ",", "she", "brought", "it", "after", "we", "asked", "for", "it", "."], "e1_text": "brought", "e1_pos": 18, "e2_text": "asked", "e2_pos": 22, "label": "after"}
+]

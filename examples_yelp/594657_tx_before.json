@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "eventually", "made", "our", "way", "in", ",", "got", "our", "seats", "and", "I", "decided", "to", "run", "to", "the", "bathroom", "before", "the", "movie", "started", "."], "e1_text": "run", "e1_pos": 14, "e2_text": "started", "e2_pos": 21, "label": "before"},
+{"tokens": ["We", "ordered", "some", "popcorn", "before", "the", "movie", "started", "and", "it", "actually", "came", "out", "pretty", "quickly", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "started", "e2_pos": 7, "label": "before"}
+]

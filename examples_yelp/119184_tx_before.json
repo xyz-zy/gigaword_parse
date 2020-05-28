@@ -1,0 +1,4 @@
+[
+{"tokens": ["Watching", "people", "constantly", "go", "broke", "before", "boarding", "a", "plane", "is", "nothing", "short", "of", "brilliant", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "boarding", "e2_pos": 6, "label": "before"},
+{"tokens": ["That", "last", "fix", "before", "heading", "out", "of", "town", ";", "it", "'s", "marvelous", "."], "e1_text": "fix", "e1_pos": 2, "e2_text": "heading", "e2_pos": 4, "label": "before"}
+]

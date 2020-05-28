@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "not", "sure", "where", "she", "kept", "on", "disappearing", "to", "but", "she", "brought", "our", "drinks", "and", "then", "ran", "off", "for", "almost", "20min", "before", "taking", "any", "part", "of", "our", "order", "."], "e1_text": "ran", "e1_pos": 17, "e2_text": "taking", "e2_pos": 23, "label": "before"},
+{"tokens": ["Then", "after", "our", "meal", "it", "took", "awhile", "before", "she", "even", "asked", "if", "we", "wanted", "to", "dessert", "-LRB-", "which", "I", "did", ",", "come", "on", "it", "was", "my", "birthday", "!", "-RRB-", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "asked", "e2_pos": 10, "label": "before"}
+]

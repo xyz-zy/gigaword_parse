@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "three", "or", "four", "workers", "walk", "by", "us", "last", "night", "before", "we", "just", "left", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "left", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'ve", "never", "been", "to", "one", "of", "these", "shows", ",", "but", "I", "am", "planning", "on", "going", "before", "I", "move", "out", "of", "Arizona", "."], "e1_text": "going", "e1_pos": 15, "e2_text": "move", "e2_pos": 18, "label": "before"}
+]

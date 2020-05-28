@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "signed", "the", "bill", "with", "NO", "TIP", "-LRB-", "and", "I", "ALWAYS", "TIP", "-RRB-", "and", "wrote", "that", "it", "took", "30", "minutes", "before", "we", "decided", "that", "we", "'d", "have", "to", "do", "your", "job", "for", "you", "."], "e1_text": "took", "e1_pos": 17, "e2_text": "decided", "e2_pos": 22, "label": "before"}
+]

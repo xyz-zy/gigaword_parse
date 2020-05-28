@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "just", "felt", "nauseous", "for", "a", "while", "after", "eating", "their", "catered", "breakfasts", "."], "e1_text": "felt", "e1_pos": 3, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "have", "eaten", "some", "lunches", "that", "have", "been", "ok", "and", "I", "never", "became", "ill", "after", "eating", "a", "Gaylord", "'s", "catered", "lunch", "."], "e1_text": "became", "e1_pos": 12, "e2_text": "eating", "e2_pos": 15, "label": "after"}
+]

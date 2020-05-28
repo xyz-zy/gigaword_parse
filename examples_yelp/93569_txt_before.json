@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "came", "and", "our", "waitress", "sat", "watching", "her", "program", "for", "a", "half", "hour", "before", "we", "had", "to", "once", "again", "leave", "our", "table", "and", "pull", "her", "over", "to", "get", "refills", "on", "our", "drinks", "and", "get", "our", "check", "so", "we", "could", "leave", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

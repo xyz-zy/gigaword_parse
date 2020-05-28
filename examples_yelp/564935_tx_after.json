@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "now", "this", "was", "the", "second", "time", "they", "missed", "a", "delivery", ",", "even", "after", "they", "confirmed", "it", "was", "delivered", "!?", "Horribly", "disorganized", "&", "even", "worse", "service", "."], "e1_text": "missed", "e1_pos": 8, "e2_text": "confirmed", "e2_pos": 15, "label": "after"}
+]

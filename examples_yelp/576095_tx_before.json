@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "counted", "how", "many", "more", "people", "were", "waited", "on", "before", "I", "was", "''", "``", "served", "''", "''", "at", "your", "counter", "-LRB-", "8", "-RRB-", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "will", "pay", "full", "price", "before", "I", "rent", "from", "you", "again", "."], "e1_text": "pay", "e1_pos": 2, "e2_text": "rent", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "by", "this", "particular", "Lowes", ",", "after", "buying", "some", "replacement", "vertical", "blinds", "that", "I", "had", "cut", "at", "a", "different", "store", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "buying", "e2_pos": 8, "label": "after"},
+{"tokens": ["She", "was", "able", "to", "point", "me", "to", "the", "replacement", "parts", "I", "needed", "after", "I", "was", "n't", "able", "to", "find", "them", "."], "e1_text": "needed", "e1_pos": 11, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

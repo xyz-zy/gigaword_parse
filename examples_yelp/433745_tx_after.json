@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "protein", "powder", "that", "was", "suggested", "to", "me", "by", "the", "associate", "and", "after", "trying", "one", "drink", "I", "decided", "it", "wasnt", "for", "me", "as", "it", "tasted", "horrible", "."], "e1_text": "suggested", "e1_pos": 7, "e2_text": "trying", "e2_pos": 15, "label": "after"}
+]

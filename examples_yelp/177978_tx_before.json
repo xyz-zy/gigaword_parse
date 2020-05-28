@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "should", "give", "people", "at", "least", "an", "hour", "to", "eat", "before", "they", "start", "taking", "away", "the", "food", ",", "or", "let", "folks", "know", "sooner", "about", "their", "food", "roundup", "schedule", "instead", "of", "waiting", "until", "AFTER", "people", "wait", "1", "+", "hours", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "start", "e2_pos": 12, "label": "before"}
+]

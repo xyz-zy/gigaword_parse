@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", "we", "ended", "up", "being", "interrupted", "6", "times", "during", "the", "movie", "before", "we", "had", "our", "complete", "meal", "."], "e1_text": "interrupted", "e1_pos": 7, "e2_text": "had", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "swift", "three", "hours", "later", "the", "corporate", "customer", "service", "person", "calls", "me", "back", "with", "the", "excuse", "that", "she", "could", "n't", "return", "my", "call", "sooner", "because", "she", "was", "in", "meetings", "all", "day", "and", "had", "not", "actually", "received", "the", "message", "until", "some", "two", "hours", "after", "I", "had", "initially", "called", "."], "e1_text": "received", "e1_pos": 35, "e2_text": "had", "e2_pos": 32, "label": "after"}
+]

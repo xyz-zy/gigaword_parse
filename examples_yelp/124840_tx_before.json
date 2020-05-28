@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "find", "it", "almost", "as", "soon", "as", "you", "enter", "the", "casino", "'s", "main", "entrance", "to", "the", "right", ",", "with", "only", "a", "short", "walk", "along", "the", "food", "court", "before", "you", "reach", "it", "."], "e1_text": "enter", "e1_pos": 9, "e2_text": "reach", "e2_pos": 30, "label": "before"},
+{"tokens": ["They", "have", "an", "awesome", "line", "of", "previews", "about", "15", "minutes", "before", "your", "movie", "starts", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "starts", "e2_pos": 13, "label": "before"}
+]

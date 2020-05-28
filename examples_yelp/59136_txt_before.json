@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "in", "aprescription", "and", "had", "to", "wait", "4", "days", "before", "i", "received", "it", "."], "e1_text": "wait", "e1_pos": 7, "e2_text": "received", "e2_pos": 12, "label": "before"}
+]

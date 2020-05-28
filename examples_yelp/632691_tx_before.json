@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "as", "well", "bought", "a", "livingsocial", "deal", "from", "them", ",", "I", "contacted", "them", "before", "I", "bought", "it", "to", "make", "sure", "I", "could", "use", "it", "for", "a", "move", "out", "cleaning", "."], "e1_text": "contacted", "e1_pos": 11, "e2_text": "bought", "e2_pos": 3, "label": "before"},
+{"tokens": ["They", "did", "n't", "have", "an", "appointment", "till", "the", "day", "before", "I", "had", "to", "be", "out", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

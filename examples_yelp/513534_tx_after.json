@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "deep", "cleaning", "done", "at", "my", "new", "house", "and", "we", "needed", "to", "re-mop", "the", "floor", "multiple", "times", "after", "they", "left", "."], "e1_text": "needed", "e1_pos": 12, "e2_text": "left", "e2_pos": 21, "label": "after"},
+{"tokens": ["The", "toilet", "was", "still", "dirty", ",", "mildew", "in", "the", "grout", "of", "the", "bathroom", ",", "water", "spots", "all", "over", "the", "mirror", ",", "window", "sills", "still", "were", "dirty", "even", "after", "pointing", "out", "to", "the", "cleaners", "multiple", "times", "."], "e1_text": "were", "e1_pos": 24, "e2_text": "pointing", "e2_pos": 28, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "tried", "stopping", "here", "a", "couple", "of", "Sundays", "ago", ",", "only", "to", "be", "told", "by", "a", "douchebag", "maitre", "d'", "that", "if", "we", "did", "n't", "have", "a", "reservation", ",", "we", "could", "n't", "be", "seated", "until", "after", "happy", "hour", "ended", "at", "9pm", "."], "e1_text": "seated", "e1_pos": 35, "e2_text": "ended", "e2_pos": 40, "label": "after"}
+]

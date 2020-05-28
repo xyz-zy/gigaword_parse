@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", "he", "was", "very", "disappointed", "when", "there", "was", "no", "fruit", "to", "pick", "-LRB-", "after", "an", "hour", "of", "walking", "around", "we", "did", "manage", "to", "gather", "about", "5", "apples", "and", "1", "extremely", "small", "pumpkin", "-RRB-", "."], "e1_text": "pick", "e1_pos": 11, "e2_text": "did", "e2_pos": 20, "label": "after"}
+]

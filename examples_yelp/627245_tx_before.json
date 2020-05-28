@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "there", "was", "a", "miscommunication", "with", "our", "guacamole", "order", ",", "so", "it", "came", "out", "about", "20", "minutes", "after", "we", "ordered", "and", "about", "5", "minutes", "before", "our", "lunch", "entrees", "were", "delivered", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "were", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "would", "probably", "try", "another", "restaurant", "at", "this", "mall", "before", "repeating", "at", "Blanco", ",", "but", "I", "would", "definitely", "order", "that", "pork", "burrito", "from", "there", "again", "!"], "e1_text": "try", "e1_pos": 3, "e2_text": "repeating", "e2_pos": 10, "label": "before"}
+]

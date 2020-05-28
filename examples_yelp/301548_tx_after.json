@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "did", "n't", "chat", "to", "any", "of", "the", "customers", ",", "he", "left", "our", "food", "in", "front", "of", "us", "for", "a", "half", "hour", "after", "we", "were", "finished", "."], "e1_text": "left", "e1_pos": 11, "e2_text": "were", "e2_pos": 24, "label": "after"}
+]

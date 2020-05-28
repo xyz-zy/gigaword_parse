@@ -1,0 +1,5 @@
+[
+{"tokens": ["A", "most", "recent", "visit", "left", "us", "waiting", "in", "line", "for", "nearly", "10", "minutes", "before", "checking", "out", "."], "e1_text": "waiting", "e1_pos": 6, "e2_text": "checking", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "wandered", "the", "indoor", "lumberyard", "for", "a", "good", "5", "minutes", "before", "realizing", "that", "the", "2x4s", "are", "located", "in", "the", "faaaaaaaaaar", "back", "corner", "from", "the", "main", "entrance", "."], "e1_text": "wandered", "e1_pos": 1, "e2_text": "realizing", "e2_pos": 11, "label": "before"},
+{"tokens": ["You", "have", "to", "walk", "by", "scores", "of", "1-by-whatevers", ",", "fence", "posts", ",", "fence", "slats", ",", "decorative", "posts", ",", "synthetic", "decking", ",", "lattice", ",", "and", "other", "rarely", "used", "items", "before", "you", "get", "to", "the", "2-by-whatevers", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "get", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "even", "found", "a", "bug", "crawling", "on", "my", "dessert", "could", "n't", "eat", "after", "that", "!!", "The", "place", "was", "tiny", "if", "you", "like", "being", "cramped", "and", "eating", "gross", "food", "then", "this", "is", "your", "place", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "!!", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "finally", "the", "food", "comes", "out", "after", "25", "minutes", "and", "the", "next", "thing", "I", "know", "is", "I", "look", "down", "and", "my", "plate", "has", "all", "sorts", "of", "spice", "on", "top", "of", "the", "beef", ",", "shrimp", "&", "chicken", "."], "e1_text": "comes", "e1_pos": 4, "e2_text": "know", "e2_pos": 14, "label": "after"},
+{"tokens": ["What", "part", "of", "PLAIN", "is", "that", "difficult", "to", "understand", "especially", "after", "the", "first", "plate", "that", "was", "brought", "out", "did", "n't", "have", "anything", "on", "it", "!"], "e1_text": "understand", "e1_pos": 8, "e2_text": "did", "e2_pos": 18, "label": "after"}
+]

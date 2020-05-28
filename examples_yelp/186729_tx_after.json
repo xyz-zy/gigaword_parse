@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sigh", "...", "I", "was", "excited", "to", "come", "here", "after", "I", "saw", "the", "reviews", "including", "my", "yelp", "friends", "glowing", "reviews", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "saw", "e2_pos": 10, "label": "after"},
+{"tokens": ["But", "he", "kept", "asking", "do", "you", "want", "the", "coffee", "after", "I", "already", "explained", "I", "did", "n't", "want", "plain", "coffee", "."], "e1_text": "want", "e1_pos": 6, "e2_text": "explained", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "employee", "advised", "me", "that", "the", "price", "is", "$", "80", "your", "first", "month", "and", "$", "40", "every", "month", "after", "that", ",", "however", "since", "I", "already", "paid", "for", "the", "groupon", "and", "it", "was", "half", "way", "through", "the", "month", "so", "I", "only", "needed", "to", "pay", "an", "additional", "$", "40", "to", "upgrade", "for", "the", "rest", "of", "the", "month", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "paid", "e2_pos": 25, "label": "after"}
+]

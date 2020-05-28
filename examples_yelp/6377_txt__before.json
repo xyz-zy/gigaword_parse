@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "is", "would", "be", "a", "very", "nice", "meal", "and", "someplace", "I", "had", "not", "taken", "them", "before", "."], "e1_text": "someplace", "e1_pos": 10, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "waiter", "reached", "across", "the", "table", "versus", "walking", "around", ",", "and", "he", "plated", "the", "food", "close", "but", "not", "just", "right", "so", "you", "had", "to", "re-arrange", "the", "positioning", "of", "every", "dish", "before", "eating", "it", "."], "e1_text": "re-arrange", "e1_pos": 24, "e2_text": "eating", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Asked", "for", "a", "Caf", "\\", "u00e9", "Latte", ",", "was", "asked", "if", "I", "wanted", "milk", "??????", "Hellooo", "Asked", "for", "a", "glass", "of", "water", ",", "could", "not", "drink", "out", "the", "glass", "Dirteyyyyyy", "Order", "Bacon", ",", "got", "burned", "strips", "wll", "behond", "well", "done", "-LRB-", "I", "did", "not", "asked", "-RRB-", "Paid", "the", "bill", "and", "after", "45", "minutes", "of", "done", "eating", "had", "to", "asked", "the", "server", "to", "please", "clean", "the", "table", "."], "e1_text": "got", "e1_pos": 33, "e2_text": "had", "e2_pos": 56, "label": "after"}
+]

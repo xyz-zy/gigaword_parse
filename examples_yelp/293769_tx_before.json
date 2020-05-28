@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "do", "n't", "take", "reservations", "during", "that", "time", "...", "okay", ",", "that", "'s", "fine", ",", "I", "understand", "BUT", "they", "will", "accept", "call-aheads", "and", "they", "will", "make", "sure", "your", "name", "is", "already", "on", "the", "waiting", "list", "before", "you", "get", "there", "."], "e1_text": "make", "e1_pos": 25, "e2_text": "get", "e2_pos": 37, "label": "before"},
+{"tokens": ["Sadly", ",", "there", "were", "multiple", "tables", "around", "us", "in", "and", "out", "before", "we", "even", "got", "our", "entrees", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "got", "e2_pos": 14, "label": "before"},
+{"tokens": ["There", "were", "several", "tables", "that", "ended", "up", "having", "three", "parties", "in", "and", "out", "before", "we", "were", "finally", "done", "."], "e1_text": "having", "e1_pos": 7, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "eat", "them", "before", "they", "melt", ",", "because", "gosh", "does", "custard", "melt", "faster", "than", "ice", "cream", "!!", "I", "have", "never", "eaten", "the", "''", "``", "real", "''", "''", "food", "at", "this", "location", "-", "so", "I", "ca", "n't", "comment", "on", "that", "."], "e1_text": "eat", "e1_pos": 1, "e2_text": "melt", "e2_pos": 5, "label": "before"}
+]

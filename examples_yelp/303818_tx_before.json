@@ -1,0 +1,4 @@
+[
+{"tokens": ["Found", "our", "table", "but", "as", "usual", "with", "any", "given", "buffet", ",", "arse", "did", "n't", "hit", "the", "chair", "before", "I", "was", "schlopping", "food", "onto", "my", "plate", "."], "e1_text": "hit", "e1_pos": 14, "e2_text": "was", "e2_pos": 19, "label": "before"},
+{"tokens": ["Word", "of", "warning", "-", "it", "may", "be", "too", "much", "of", "a", "punch", "in", "the", "mouth", "for", "newcomers", "to", "the", "cuisine", "-", "if", "that", "'s", "you", ",", "I", "suggest", "getting", "your", "feet", "wet", "at", "Bombay", "Spice", "-LRB-", "Tatum", "and", "Shea", "-RRB-", "first", "before", "trying", "this", "joint", "."], "e1_text": "suggest", "e1_pos": 27, "e2_text": "trying", "e2_pos": 42, "label": "before"}
+]

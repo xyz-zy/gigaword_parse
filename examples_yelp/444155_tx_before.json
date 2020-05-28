@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "stylist", "arrived", "late", ",", "was", "rather", "shockingly", "unkempt", ",", "and", "sat", "down", "upon", "arrival", "and", "talked", "at", "us", "for", "thirty", "minutes", "before", "starting", "to", "cut", "my", "daughter", "'s", "hair", "."], "e1_text": "talked", "e1_pos": 16, "e2_text": "starting", "e2_pos": 23, "label": "before"}
+]

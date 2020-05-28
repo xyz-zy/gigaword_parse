@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "opened", "the", "door", "the", "woman", "threw", "my", "food", "at", "me", "and", "told", "me", "never", "to", "order", "again", "as", "she", "called", "me", "TWICE", "with", "no", "answer", "-LRB-", "my", "fianc", "\\", "u00e9", "was", "upstairs", "sleeping", "with", "his", "phone", ",", "but", "our", "home", "is", "clearly", "marked", "and", "we", "'ve", "never", "had", "problems", "before", "-RRB-", "."], "e1_text": "TWICE", "e1_pos": 23, "e2_text": "was", "e2_pos": 32, "label": "before"}
+]

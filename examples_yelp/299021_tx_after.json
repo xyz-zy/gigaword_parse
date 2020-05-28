@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "main", "waitress", "took", "our", "order", "etc", "but", "then", "the", "hostess", "and", "some", "other", "girl", "would", "keep", "coming", "around", "too", "and", "ask", "if", "we", "needed", "more", "water", "etc", "literally", "like", "3min", "after", "our", "main", "waitress", "had", "checked", "on", "us", "."], "e1_text": "needed", "e1_pos": 24, "e2_text": "had", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "two", "times", "I", "'ve", "been", "to", "SMG", ",", "the", "food", "has", "gotten", "progressively", "worse", ",", "to", "the", "point", "where", "I", "received", "a", "hamburger", "so", "burned", "that", "I", "could", "smell", "the", "charred", "meat", "immediately", "after", "they", "set", "it", "in", "front", "of", "me", "."], "e1_text": "smell", "e1_pos": 30, "e2_text": "set", "e2_pos": 37, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "to", "the", "store", ",", "asked", "three", "people", "how", "I", "can", "check", "the", "balance", "-LRB-", "after", "having", "interrupted", "their", "conversation", "on", "a", "video", "game", "and", "being", "eye", "'d", "to", "death", "-RRB-", "finally", "someone", "said", "to", "go", "to", "the", "register", "and", "I", "could", "just", "walk", "up", "and", "skip", "the", "line", "."], "e1_text": "check", "e1_pos": 11, "e2_text": "having", "e2_pos": 16, "label": "after"}
+]

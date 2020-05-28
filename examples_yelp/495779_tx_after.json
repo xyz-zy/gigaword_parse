@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "the", "place", "is", "not", "much", "of", "a", "secret", "anymore", "since", "everyone", "and", "their", "mamas", "could", "be", "found", "standing", "in", "the", "hour", "+", "line", "at", "2am", "after", "clubbing", "at", "Marquee", "."], "e1_text": "standing", "e1_pos": 18, "e2_text": "clubbing", "e2_pos": 27, "label": "after"},
+{"tokens": ["But", "during", "the", "second", "night", "I", "came", "with", "Sidney", "T.", "after", "clubbing", "and", "the", "line", "was", "ridiculous", "!"], "e1_text": "came", "e1_pos": 6, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "vacuumed", "nor", "washed", "full", "of", "spots", "after", "making", "them", "aware", "they", "did", "take", "it", "back", "and", "have", "it", "washed", "but", "the", "nerve", "."], "e1_text": "washed", "e1_pos": 3, "e2_text": "making", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "personally", "called", "and", "asked", "to", "speak", "to", "an", "office", "manager", "at", "Car", "Max", "in", "their", "Business", "office", "after", "two", "attempts", "I", "finally", "spoke", "with", "a", "gentleman", "named", "Jay", "and", "he", "seemed", "to", "be", "very", "professional", "how", "ever", "once", "everything", "was", "sent", "it", "was", "filled", "out", "incomplete", "and", "did", "not", "help", "us", "with", "this", "situation", "."], "e1_text": "speak", "e1_pos": 6, "e2_text": "spoke", "e2_pos": 23, "label": "after"}
+]

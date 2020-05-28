@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "there", "and", "watched", "3", "people", "have", "3", "turns", "singing", "while", "we", "got", "looked", "over", "every", "time", "even", "after", "the", "crowd", "loved", "our", "first", "songs", "even", "to", "the", "point", "of", "standing", "in", "front", "of", "our", "table", "singing", "along", "and", "high", "five", "-", "so", "I", "guess", "u", "ca", "n't", "go", "here", "and", "be", "over", "40", "because", "if", "so", ",", "the", "karaoke", "host", "will", "ignore", "u", "like", "u", "do", "n't", "exist"], "e1_text": "looked", "e1_pos": 14, "e2_text": "loved", "e2_pos": 22, "label": "after"}
+]

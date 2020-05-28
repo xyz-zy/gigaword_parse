@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "brought", "him", "the", "burger", "before", "we", "had", "even", "gotten", "our", "appetizer", ",", "and", "then", "picked", "it", "up", "again", "and", "delivered", "it", "to", "a", "different", "table", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

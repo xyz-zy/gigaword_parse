@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "tried", "the", "fried", "rice\\/noodles", "-LRB-", "bland", "-RRB-", ",", "the", "orange", "chicken", "-LRB-", "good", "-RRB-", ",", "beef", "&", "broccoli", "-LRB-", "good", "-RRB-", ",", "and", "the", "teriyaki", "chicken", "-", "which", "was", "the", "best", "thing", "after", "the", "girl", "poured", "sauce", "all", "over", "it", "."], "e1_text": "was", "e1_pos": 29, "e2_text": "poured", "e2_pos": 36, "label": "after"}
+]

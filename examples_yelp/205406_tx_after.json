@@ -1,0 +1,4 @@
+[
+{"tokens": ["Elephant", "Bar", "fell", "off", "my", "radar", "after", "multiple", "visits", "where", "we", "received", "progressively", "bad", "service", "...", "The", "last", "visit", "being", "one", "where", "we", "walked", "out", "without", "eating", "due", "to", "total", "incompetence", "by", "the", "wait", "staff", "."], "e1_text": "fell", "e1_pos": 2, "e2_text": "received", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "when", "my", "husband", "suggested", "we", "have", "dinner", "at", "Elephant", "Bar", "after", "doing", "some", "shopping", ",", "I", "was", "a", "little", "hesitant", ",", "but", "since", "I", "did", "enjoy", "the", "food", "on", "prior", "visits", "where", "we", "got", "to", "eat", ",", "I", "agreed", "to", "go", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "doing", "e2_pos": 12, "label": "after"}
+]

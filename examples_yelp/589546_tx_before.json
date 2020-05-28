@@ -1,0 +1,4 @@
+[
+{"tokens": ["Cons", "of", "the", "night", ":", "-", "The", "garlic", "bread", "was", "said", "to", "be", "out", "ASAP", ",", "but", "it", "came", "literally", "3", "minutes", "before", "our", "entrees", "came", "out", "."], "e1_text": "came", "e1_pos": 18, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["-", "The", "sign", "''", "``", "Stop", ",", "Forrest", ",", "Stop", "''", "''", "is", "supposed", "to", "bring", "a", "waiter", "over", "quickly", ",", "but", "my", "sign", "was", "out", "for", "about", "5", "minutes", "before", "a", "waiter", "came", ",", "even", "though", "we", "were", "right", "next", "to", "their", "payment", "machine", "."], "e1_text": "was", "e1_pos": 24, "e2_text": "came", "e2_pos": 33, "label": "before"}
+]

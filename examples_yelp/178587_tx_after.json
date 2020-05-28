@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "our", "last", "morning", "after", "staying", "at", "the", "new", "Planet", "Hollywood", "Westgate", "Tower", "Suites", "and", "I", "was", "a", "little", "skeptical", "after", "seeing", "the", "$", "30", "per", "person", "price", "tag", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "staying", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "would", "definitely", "recommend", "this", "place", "after", "going", "here", "."], "e1_text": "recommend", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "after"}
+]

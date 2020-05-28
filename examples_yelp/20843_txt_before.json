@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "you", "can", "grab", "a", "drink", "or", "two", "at", "any", "of", "those", "places", ",", "I", "recommend", "the", "Merc", "Bar", "for", "a", "change", "of", "scene", "before", "going", "to", "catch", "a", "late", "show", "."], "e1_text": "recommend", "e1_pos": 15, "e2_text": "going", "e2_pos": 25, "label": "before"}
+]

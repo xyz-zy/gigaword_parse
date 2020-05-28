@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "a", "while", "before", "we", "saw", "her", "again", "as", "the", "bar", "was", "pretty", "packed", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "saw", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "finished", "our", "beers", "well", "before", "the", "nachos", "came", "out", ",", "and", "she", "never", "once", "stopped", "by", "to", "ask", "if", "we", "needed", "another", "drink", "."], "e1_text": "finished", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

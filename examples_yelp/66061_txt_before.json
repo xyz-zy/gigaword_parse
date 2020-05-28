@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "bought", "our", "reservations", "a", "week", "before", "our", "wedding", "and", "all", "we", "were", "asked", "to", "do", "was", "be", "there", "15min", "before", "the", "ceremony", "with", "our", "marriage", "license", "."], "e1_text": "bought", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["However", ",", "when", "we", "got", "there", "they", "were", "so", "busy", "helping", "other", "customers", "we", "had", "to", "wait", "almost", "a", "half", "hour", "before", "they", "even", "acknowledged", "us", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "acknowledged", "e2_pos": 24, "label": "before"}
+]

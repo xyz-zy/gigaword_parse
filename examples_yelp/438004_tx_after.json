@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "in", "the", "evening", "after", "the", "doctor", "office", "had", "closed", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "instructed", "by", "the", "pharmacist", "at", "Walgreens", "to", "have", "CVS", "call", "her", "and", "she", "would", "transfer", "the", "prescription", "for", "that", "one", "med", "after", "they", "had", "already", "filled", "the", "other", "two", ",", "which", "had", "taken", "less", "than", "fifteen", "minutes", "."], "e1_text": "transfer", "e1_pos": 16, "e2_text": "had", "e2_pos": 25, "label": "after"}
+]

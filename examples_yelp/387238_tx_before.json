@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "said", "they", "had", "a", "new", "''", "``", "spec", "''", "''", "that", "required", "them", "to", "brush", "the", "omelets", "with", "butter", "before", "sending", "them", "out", "to", "the", "table", "."], "e1_text": "brush", "e1_pos": 15, "e2_text": "sending", "e2_pos": 21, "label": "before"}
+]

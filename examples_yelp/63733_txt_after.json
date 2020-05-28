@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "visited", "over", "Memorial", "weekend", "wanting", "something", "quick", "after", "arriving", "."], "e1_text": "wanting", "e1_pos": 5, "e2_text": "arriving", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "tried", "to", "flag", "a", "server", "who", ",", "even", "after", "making", "eye", "contact", "and", "turning", "his", "head", "towards", "me", "as", "I", "said", ",", "''", "``", "Excuse", "me", "''", "''", ",", "completely", "ignored", "me", "and", "went", "to", "another", "table", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "Excuse", "e2_pos": 25, "label": "after"}
+]

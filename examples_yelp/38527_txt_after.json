@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "my", "1st", "experience", "at", "Ninja", "last", "night", "after", "a", "co-worker", "recommended", "it", "...", "The", "place", "was", "busy", ",", "but", "not", "packed", "&", "there", "was", "no", "wait", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "recommended", "e2_pos": 12, "label": "after"}
+]

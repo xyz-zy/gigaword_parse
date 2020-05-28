@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "had", "a", "facial", "before", "but", "with", "my", "wedding", "coming", "up", "in", "a", "few", "months", "I", "wanted", "to", "do", "something", "to", "help", "my", "skin", "look", "great", "for", "the", "big", "day", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "wanted", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "ca", "n't", "say", "enough", "nice", "things", "about", "her", "and", "I", "will", "be", "booking", "many", "more", "follow", "ups", "before", "the", "wedding", "day", "rolls", "around", "."], "e1_text": "booking", "e1_pos": 13, "e2_text": "rolls", "e2_pos": 22, "label": "before"}
+]

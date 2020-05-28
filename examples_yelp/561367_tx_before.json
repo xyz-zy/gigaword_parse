@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "never", "eaten", "Carl", "'s", "Jr", "food", "before", "but", "my", "wife", "told", "me", "they", "were", "better", "than", "McDonalds", "and", "there", "was", "n't", "much", "choice", "in", "this", "desolate", "neck", "of", "the", "woods", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "told", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "Dr.", "Koppe", "after", "we", "moved", "here", "10", "years", "ago", ",", "and", "our", "kids", "have", "gone", "here", "for", "their", "physicals", "and", "shots", "ever", "since", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "moved", "e2_pos": 6, "label": "after"},
+{"tokens": ["Our", "two", "long", "hairs", "were", "adopted", "from", "Dr.", "Koppe", "after", "they", "were", "abandoned", "here", "by", "someone", "who", "left", "them", "there", "for", "boarding", "and", "then", "abandoned", "them", "."], "e1_text": "adopted", "e1_pos": 5, "e2_text": "were", "e2_pos": 4, "label": "after"}
+]

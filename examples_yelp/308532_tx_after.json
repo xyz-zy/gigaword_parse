@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "time", ",", "I", "ordered", "my", "food", "at", "9:30", "pm", "...", "and", "they", "just", "rang", "my", "doorbell", "5", "minutes", "before", "11pm", "after", "telling", "me", "30-45", "mins", "!"], "e1_text": "rang", "e1_pos": 14, "e2_text": "telling", "e2_pos": 22, "label": "after"}
+]

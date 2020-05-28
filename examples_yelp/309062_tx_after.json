@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "with", "a", "9pm", "rez", "after", "seeing", "Phantom", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "got", "the", "big", "eye", "tuna", "tartare", "after", "reading", "everyone", "'s", "recommendation", "and", "it", "certainly", "did", "not", "disappoint", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "reading", "e2_pos": 8, "label": "after"}
+]

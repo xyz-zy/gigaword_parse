@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "referred", "to", "go", "to", "this", "place", "by", "a", "buddy", "after", "a", "conversation", "about", "how", "I", "get", "shin", "splints", "after", "runs", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "get", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "have", "to", "say", "after", "this", "run", "I", "did", "not", "have", "any", "shin", "splints", ",", "however", "the", "muscles", "on", "the", "front", "of", "my", "shins", "hurt", "so", "bad", "the", "next", "day", "I", "could", "barely", "walk", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "run", "e2_pos": 6, "label": "after"}
+]

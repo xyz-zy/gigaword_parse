@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "loses", "a", "star", "because", ",", "after", "I", "ordered", "a", "Diet", "Coke", "-LRB-", "Tom", "Collicchio", "did", "those", "commercials", "for", "it", ",", "remember", "??", "-RRB-", ",", "they", "brought", "out", "a", "tiny", "aluminum", "bottle", "-LRB-", "AKA", ",", "no", "refills", "-RRB-", "."], "e1_text": "loses", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

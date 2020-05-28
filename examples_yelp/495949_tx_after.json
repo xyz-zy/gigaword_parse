@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "n't", "expect", "a", "whole", "pizza", "either", "on", "a", "busy", "night", "-", "you", "could", "be", "looking", "at", "an", "hour", "wait", "or", "more", "-LRB-", "after", "you", "wait", "30", "+", "minutes", "in", "line", "-RRB-", "."], "e1_text": "wait", "e1_pos": 19, "e2_text": "wait", "e2_pos": 25, "label": "after"}
+]

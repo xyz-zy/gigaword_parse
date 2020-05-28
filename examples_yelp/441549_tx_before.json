@@ -1,0 +1,4 @@
+[
+{"tokens": ["like", "i", "have", "said", "before", "honesty", "is", "always", "the", "best", "policy", "...", "so", "i", "go", "to", "get", "my", "nails", "done", "and", "unfortunately", "elaine", "was", "out", "for", "an", "operation", "so", "i", "had", "to", "cheat", "my", "nails", "couldnt", "bear", "6", "weeks", "so", "i", "saw", "a", "different", "lady", "-LRB-", "hiedi", "-RRB-", "who", "i", "asked", "if", "she", "was", "new", "or", "filling", "in", "for", "elaine", "-LRB-", "since", "she", "was", "at", "her", "station", "-RRB-", "she", "responded", "no", "im", "just", "new", "...", "Not", "telling", "me", "new", "OWNER", "!"], "e1_text": "said", "e1_pos": 3, "e2_text": "is", "e2_pos": 6, "label": "before"},
+{"tokens": ["AND", "THAT", "everyone", "who", "worked", "there", "before", "was", "practically", "gone", "!"], "e1_text": "worked", "e1_pos": 4, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

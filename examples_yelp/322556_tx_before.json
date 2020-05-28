@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "take", "off", "your", "shoes", "before", "you", "enter", "the", "locker", "room", "area", "!"], "e1_text": "take", "e1_pos": 1, "e2_text": "enter", "e2_pos": 7, "label": "before"},
+{"tokens": ["And", "all", "of", "us", "ladies", "there", "have", "seen", "boobies", "and", "vaginas", "before", "so", "do", "n't", "be", "shy", "."], "e1_text": "seen", "e1_pos": 7, "e2_text": "do", "e2_pos": 13, "label": "before"}
+]

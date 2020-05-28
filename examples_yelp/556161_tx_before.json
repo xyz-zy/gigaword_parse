@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "should", "have", "requested", "to", "see", "the", "suite", "before", "staying", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "staying", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "suggest", "they", "flush", "the", "toilets", "every", "once", "in", "while", "before", "booking", "the", "rooms", "."], "e1_text": "suggest", "e1_pos": 1, "e2_text": "booking", "e2_pos": 11, "label": "before"},
+{"tokens": ["My", "wedding", "started", "at", "1600", "and", "the", "reception", "area", "was", "not", "put", "together", "until", "1700", "??????", "They", "kept", "stating", "we", "have", "done", "this", "before", "."], "e1_text": "stating", "e1_pos": 18, "e2_text": "have", "e2_pos": 20, "label": "before"}
+]

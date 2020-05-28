@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "arrived", "I", "was", "greeted", "with", "a", "friendly", "smile", "and", "only", "had", "to", "wait", "about", "10", "minutes", "after", "my", "schedule", "appointment", "-LRB-", "it", "happens", ",", "no", "biggie", "-RRB-", "."], "e1_text": "wait", "e1_pos": 14, "e2_text": "happens", "e2_pos": 24, "label": "after"}
+]

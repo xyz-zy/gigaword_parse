@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "some", "have", "called", "this", "place", "Hooters", "with", "a", "Mexican", "theme", ",", "but", "I", "could", "eat", "pretty", "well", "for", "$", "18", "at", "Hooters", "-LRB-", "FYI", ",", "there", "'s", "a", "Hooters", "across", "the", "street", "with", "25", "cent", "wings", "during", "late", "night", "hours", "in", "their", "24", "hour", "cafe", ",", "but", "read", "my", "review", "before", "heading", "over", "there", "-RRB-", "."], "e1_text": "read", "e1_pos": 49, "e2_text": "heading", "e2_pos": 53, "label": "before"}
+]

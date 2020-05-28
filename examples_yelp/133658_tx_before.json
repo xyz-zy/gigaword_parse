@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "girlfriend", "and", "I", "had", "booked", "3", "nights", "at", "the", "Riviera", "3", "and", "half", "months", "before", "we", "stayed", "there", "."], "e1_text": "booked", "e1_pos": 5, "e2_text": "stayed", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "double", "checked", "the", "reservation", "before", "we", "left", ",", "and", "everything", "was", "good", "to", "go", "-", "we", "were", "excited", "!"], "e1_text": "checked", "e1_pos": 2, "e2_text": "left", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "clerks", "at", "least", "pretended", "like", "they", "wanted", "to", "help", "me", "and", "were", "doing", "everything", "they", "could", ",", "this", "guy", "had", "a", "pompous", "air", "about", "him", "that", "let", "me", "know", "I", "was", "wasting", "his", "time", "before", "he", "even", "said", "anything", "."], "e1_text": "wasting", "e1_pos": 32, "e2_text": "said", "e2_pos": 38, "label": "before"}
+]

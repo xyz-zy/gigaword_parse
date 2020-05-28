@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "tried", "to", "explain", "that", "the", "dog", "is", "not", "actually", "that", "large", "-LRB-", "he", "come", "up", "to", "my", "knees", "and", "I", "am", "5", "'", "2", "''", "''", "-RRB-", ",", "but", "apparently", "the", "owner", "refused", "to", "even", "look", "at", "the", "pictures", "of", "him", "after", "I", "sent", "in", "a", "dozen", "and", "a", "description", "of", "him", "."], "e1_text": "look", "e1_pos": 36, "e2_text": "sent", "e2_pos": 44, "label": "after"},
+{"tokens": ["The", "phone", "call", "after", "was", "very", "rude", "and", "they", "did", "nothing", "to", "help", "us", "after", "the", "fact", "."], "e1_text": "call", "e1_pos": 2, "e2_text": "was", "e2_pos": 4, "label": "after"}
+]

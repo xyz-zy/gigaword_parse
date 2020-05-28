@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "at", "the", "one", "seat", "open", "at", "the", "bar", "that", "had", "the", "leftovers", "from", "a", "previous", "guest", "for", "30", "minutes", "before", "I", "had", "to", "switch", "seats", "from", "the", "mess", "not", "being", "cleaned", "up", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

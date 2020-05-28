@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "heard", "about", "CrossFit", "for", "a", "few", "months", "before", "I", "started", "going", "to", "Cactus", "CrossFit", "in", "October", "2011", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "started", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "signed", "up", "with", "Kevin", "Cherrick", ",", "the", "owner", ",", "to", "first", "do", "some", "private", "lessons", "and", "learn", "the", "basic", "moves", "and", "get", "slowly", "up", "to", "speed", "before", "joining", "the", "group", "classes", "."], "e1_text": "speed", "e1_pos": 26, "e2_text": "joining", "e2_pos": 28, "label": "before"}
+]

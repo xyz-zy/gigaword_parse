@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "do", "not", "know", "anyone", "who", "stops", "to", "read", "the", "return", "policy", "before", "making", "a", "purchase", "."], "e1_text": "read", "e1_pos": 8, "e2_text": "making", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "will", "always", "ask", "about", "a", "store", "'s", "return", "policy", "before", "making", "a", "purchase", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "making", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "strongly", "caution", "you", "to", "read", "their", "policies", "before", "buying", "anything", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "buying", "e2_pos": 9, "label": "before"}
+]

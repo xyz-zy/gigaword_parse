@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fianc", "\\", "u00e9e", "and", "I", "decided", "to", "stay", "at", "the", "Palms", "for", "two", "nights", "after", "receiving", "an", "offer", "for", "a", "couple", "of", "comped", "nights", ",", "a", "comped", "cabana", "at", "the", "Palms", "Pool", ",", "and", "a", "bottle", "of", "liquor", "for", "our", "stay", "."], "e1_text": "stay", "e1_pos": 8, "e2_text": "receiving", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "Palms", "is", "a", "comparatively", "small", "property", "and", "still", "a", "veritable", "chameleon", ",", "catering", "to", "locals", "by", "day", "and", "appealing", "to", "a", "younger", ",", "club-going", "crowd", "after", "the", "sun", "goes", "down", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "goes", "e2_pos": 29, "label": "after"}
+]

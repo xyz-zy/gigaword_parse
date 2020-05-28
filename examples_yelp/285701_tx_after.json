@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stood", "there", "at", "the", "counter", "trying", "to", "check", "in", "for", "5", "minutes", "!!!!", "Finally", "my", "friend", "chirps", "up", "and", "says", "were", "hear", "for", "appointments", ",", "She", "replies", "back", "''", "``", "I", "know", "''", "''", "Come", "on", ",", "really", "-", "Why", "do", "n't", "you", "greeat", "me", "after", "I", "walk", "in", "the", "door", "."], "e1_text": "greeat", "e1_pos": 44, "e2_text": "walk", "e2_pos": 48, "label": "after"}
+]

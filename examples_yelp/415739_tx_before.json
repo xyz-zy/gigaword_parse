@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "were", "seated", "they", "took", "there", "time", "before", "a", "waiter", "came", "to", "our", "table", "and", "for", "the", "most", "part", "he", "was", "friendly", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["When", "he", "came", "over", "I", "informed", "him", "that", "when", "we", "arrived", "the", "party", "behind", "was", "just", "leaving", "and", "now", "there", "was", "a", "new", "party", "of", "6", "that", "have", "been", "sat", "and", "served", "before", "we", "got", "our", "food", "."], "e1_text": "sat", "e1_pos": 29, "e2_text": "got", "e2_pos": 34, "label": "before"}
+]

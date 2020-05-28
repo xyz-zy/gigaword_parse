@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "is", "regularly", "open", "til", "5AM", ",", "which", "further", "begs", "the", "question", ":", "how", "I", "have", "I", "not", "been", "here", "before", "?!", "Late", "night", "dim", "sum", "menu", "is", "about", "15", "items", ",", "we", "sampled", "quite", "a", "few", "."], "e1_text": "been", "e1_pos": 19, "e2_text": "?!", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "walked", "in", "and", "have", "sat", "there", "for", "5-10", "minutes", "before", "being", "acknowledged", "at", "all", "."], "e1_text": "sat", "e1_pos": 6, "e2_text": "being", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "have", "sat", "there", "for", "5-10", "minutes", "with", "empty", "glasses", "before", "being", "asked", "''", "``", "Would", "you", "like", "another", "?", "''", "''"], "e1_text": "sat", "e1_pos": 2, "e2_text": "Would", "e2_pos": 15, "label": "before"}
+]

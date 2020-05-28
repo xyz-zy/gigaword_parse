@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "noticed", "that", "they", "'ve", "never", "seen", "me", "before", "-LRB-", "I", "'m", "a", "visitor", "-RRB-", "and", "quickly", "struck", "up", "a", "conversation", ",", "something", "which", "does", "n't", "happen", "too", "often", "at", "a", "Chinese", "restaurant", "-LRB-", "or", "for", "that", "matter", ",", "any", "place", "-RRB-", "."], "e1_text": "noticed", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 4, "label": "before"}
+]

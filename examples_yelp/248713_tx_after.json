@@ -1,0 +1,4 @@
+[
+{"tokens": ["Huh", "??", "The", "hub", "asked", "what", "he", "thought", "was", "a", "manager", "if", "it", "would", "be", "a", "problem", "he", "was", "just", "a", "waiter", "and", "told", "us", "''", "``", "Yes", "that", "will", "be", "a", "problem", "''", "''", "so", "after", "a", "lot", "of", "looking", "at", "each", "other", "like", "WTF", "our", "waitress", "finally", "gets", "the", "manager", "please", "forgive", "me", "I", "am", "so", "bad", "w", "names", "people", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "looking", "e2_pos": 40, "label": "after"},
+{"tokens": ["At", "that", "time", "we", "decided", "to", "move", "outside", "anyway", "for", "the", "view", ",", "they", "helped", "move", "all", "our", "stuff", "over", "after", "that", "dilemma", "everything", "went", "pretty", "smoothly", "."], "e1_text": "move", "e1_pos": 6, "e2_text": "went", "e2_pos": 24, "label": "after"}
+]

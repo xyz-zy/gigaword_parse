@@ -1,0 +1,5 @@
+[
+{"tokens": ["However", ",", "it", "took", "about", "10", "minutes", "before", "our", "drinks", "came", "to", "us", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "took", "a", "good", "30-45", "minutes", "before", "our", "food", "came", "out", ",", "and", "by", "that", "time", ",", "my", "drink", "was", "running", "low", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "both", "really", "enjoyed", "the", "dip", ",", "we", "just", "wished", "it", "came", "out", "before", "the", "main", "dishes", "did", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

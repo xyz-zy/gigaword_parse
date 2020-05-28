@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "the", "end", "of", "the", "world", "in", "the", "scheme", "of", "things", ",", "but", "on", "a", "$", "400", "dinner", "...", "to", "charge", "for", "the", "second", "bottle", "after", "they", "mis-poured", "the", "first", "one", "."], "e1_text": "charge", "e1_pos": 20, "e2_text": "mis-poured", "e2_pos": 27, "label": "after"}
+]

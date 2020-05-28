@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "feel", "like", "my", "posture", "and", "gate", "were", "even", "better", "after", "finishing", "the", "class", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "finishing", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "loved", "the", "class", "and", "want", "to", "keep", "going", "after", "my", "deal", "is", "expired", ",", "but", "sadly", "I", "feel", "like", "I", "ca", "n't", "afford", "it", "at", "regular", "price", "."], "e1_text": "going", "e1_pos": 8, "e2_text": "is", "e2_pos": 12, "label": "after"}
+]

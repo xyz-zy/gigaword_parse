@@ -1,0 +1,4 @@
+[
+{"tokens": ["Originally", "Eric", "told", "me", "that", "he", "had", "personally", "reviewed", "them", "and", "then", "after", "I", "went", "over", "them", "with", "him", "he", "said", "that", "they", "were", "''", "``", "trash", "''", "''", "They", "sent", "me", "another", "list", "later", "and", "again", "I", "had", "to", "meet", "with", "Eric", "and", "his", "team", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "went", "e2_pos": 14, "label": "after"},
+{"tokens": ["Eric", "agreed", "we", "were", "not", "a", "good", "fit", "...", "Imagine", "my", "surprise", "when", "they", "held", "5,000.00", "of", "my", "money", "even", "after", "they", "did", "n't", "deliver", "."], "e1_text": "held", "e1_pos": 14, "e2_text": "did", "e2_pos": 22, "label": "after"}
+]

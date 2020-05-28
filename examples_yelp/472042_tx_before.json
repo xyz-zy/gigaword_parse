@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "neglects", "to", "switch", "out", "my", "fork", "and", "I", "catch", "him", "before", "he", "leaves", ",", "handing", "him", "my", "fork", "and", "telling", "him", "it", "was", "dirty", "."], "e1_text": "catch", "e1_pos": 9, "e2_text": "leaves", "e2_pos": 13, "label": "before"}
+]

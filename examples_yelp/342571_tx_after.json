@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "arrived", "we", "decided", "to", "eat", "at", "the", "kitchen", "bar", ",", "but", "after", "we", "ordered", "out", "drinks", "we", "saw", "a", "couple", "seated", "outside", "and", "decided", "it", "was", "a", "perfect", "night", "for", "it", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "hostess", "found", "this", "very", "upsetting", "and", "tried", "to", "force", "us", "to", "sit", "next", "to", "the", "door", ",", "but", "after", "our", "protestations", "finally", "said", "it", "would", "be", "OK", "with", "her", "if", "we", "sat", "at", "the", "other", "table", ",", "but", "that", "the", "server", "was", "not", "going", "to", "like", "it", "."], "e1_text": "tried", "e1_pos": 7, "e2_text": "said", "e2_pos": 23, "label": "after"}
+]

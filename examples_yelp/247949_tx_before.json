@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "shaped", "my", "fingernails", "and", "as", "i", "sat", "down", "to", "pay", "her", "before", "she", "did", "my", "polish", "and", "gave", "her", "the", "gift", "cert", "and", "my", "card", "for", "the", "extra", "she", "says", "they", "do", "n't", "take", "ANY", "cards", "."], "e1_text": "pay", "e1_pos": 10, "e2_text": "did", "e2_pos": 14, "label": "before"},
+{"tokens": ["especially", "cuz", "I", "'m", "just", "that", "kind", "of", "person", "wants", "to", "me", "touched", "like", "that", "by", "a", "stranger", "-LRB-", "i", "just", "would", "have", "rather", "asked", "before", "she", "went", "ahead", "with", "it", "."], "e1_text": "asked", "e1_pos": 24, "e2_text": "went", "e2_pos": 27, "label": "before"}
+]

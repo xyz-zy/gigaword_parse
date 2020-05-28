@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "always", "enjoy", "their", "pizza", "the", "next", "day", "...", "I", "'m", "telling", "you", "after", "this", "pizza", "sits", "for", "a", "day", "it", "'s", "yummy", "...", "Not", "that", "it", "'s", "gross", "fresh", "from", "the", "oven", ",", "I", "mean", "it", "'s", "o.k.", "but", "later", "it", "'s", "better", "."], "e1_text": "telling", "e1_pos": 11, "e2_text": "sits", "e2_pos": 16, "label": "after"}
+]

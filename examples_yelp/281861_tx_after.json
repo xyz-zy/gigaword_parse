@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "to", "ask", "where", "our", "waitress", "was", "to", "even", "greet", "us", ",", "then", "had", "to", "get", "up", "and", "ask", "for", "our", "waitress", "to", "please", "check", "back", "with", "us", "after", "we", "received", "our", "food", ",", "as", "we", "needed", "multiple", "refills", ",", "etc.", "."], "e1_text": "check", "e1_pos": 24, "e2_text": "received", "e2_pos": 30, "label": "after"},
+{"tokens": ["We", "received", "our", "bill", "shortly", "after", ",", "charged", "for", "everything", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "charged", "e2_pos": 7, "label": "after"}
+]

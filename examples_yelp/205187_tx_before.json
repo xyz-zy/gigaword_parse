@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyhow", ",", "I", "got", "the", "veal", "picatta", "because", "that", "'s", "what", "I", "had", "in", "my", "head", "before", "we", "got", "there", "and", "even", "as", "good", "as", "the", "marinara", "and", "pepperocini", "sauces", "were", ",", "I", "stuck", "to", "it", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "got", "e2_pos": 3, "label": "before"},
+{"tokens": ["The", "only", "thing", "we", "do", "n't", "put", "garlic", "on", "is", "our", "Captain", "Crunch", ",", "and", "that", "'s", "just", "because", "we", "have", "n't", "thought", "of", "doing", "it", "before", "!"], "e1_text": "thought", "e1_pos": 22, "e2_text": "doing", "e2_pos": 24, "label": "before"}
+]

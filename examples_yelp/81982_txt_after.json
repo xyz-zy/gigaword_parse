@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "then", "took", "my", "son", "to", "a", "pediatric", "dentist", "as", "Charlotte", "Dentistry", "-LRB-", "after", "telling", "me", "they", "treat", "cavities", "in", "kids", "-RRB-", "said", "they", "could", "n't", "treat", "him", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "treat", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "there", "on", "a", "Friday", "night", "aroung", "7PM", ",", "waiter", "took", "about", "15", "mins", "to", "come", "over", ",", "food", "took", "more", "than", "30", "mins", "after", "ordering", "and", "when", "it", "did", "come", "out", "it", "was", "cold", "!"], "e1_text": "took", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 25, "label": "after"}
+]

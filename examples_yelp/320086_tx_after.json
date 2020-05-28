@@ -1,0 +1,3 @@
+[
+{"tokens": ["Please", "...", "Make", "sure", "you", "ask", "your", "patrons", "whether", "they", "want", "a", "booth", "or", "a", "table", "BEFORE", "they", "'re", "seated", ",", "to", "avoid", "this", "situation", "in", "the", "future", ",", "and", "please", "for", "the", "love", "of", "god", ",", "make", "sure", "your", "guests", "have", "drinks", "at", "all", "times", "after", "their", "initial", "glasses", "come", ",", "until", "the", "point", "where", "they", "leave", "."], "e1_text": "make", "e1_pos": 37, "e2_text": "come", "e2_pos": 50, "label": "after"}
+]

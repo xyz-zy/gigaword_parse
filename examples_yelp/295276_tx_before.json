@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "Suzie", "Q", "'s", "review", "before", "deciding", "to", "see", "this", "show", ",", "but", "my", "hotel", "did", "n't", "have", "any", "wi-fi", "and", "I", "was", "n't", "going", "to", "pay", "to", "use", "the", "internet", "in", "my", "room", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "deciding", "e2_pos": 10, "label": "before"}
+]

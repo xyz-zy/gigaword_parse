@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "manage", "to", "get", "the", "same", "waiter", "as", "before", "and", "that", "ultimately", "at", "least", "saved", "the", "meal", "-LRB-", "for", "me", "anyways", "-RRB-", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "manage", "e2_pos": 2, "label": "before"},
+{"tokens": ["The", "food", "itself", "looked", "to", "have", "gone", "through", "a", "complete", "overhaul", "since", "we", "had", "been", "there", "before", "."], "e1_text": "gone", "e1_pos": 6, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

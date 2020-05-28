@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "the", "appts", "i", "had", "set", "2", "months", "prior", "were", "canceled", "a", "week", "before", "because", "their", "machine", "-LRB-", "yes", "one", "-RRB-", "broke", "down", "."], "e1_text": "canceled", "e1_pos": 10, "e2_text": "broke", "e2_pos": 21, "label": "before"}
+]

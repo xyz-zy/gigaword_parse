@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "arrived", "after", "another", "wait", "and", "he", "must", "have", "been", "having", "a", "bad", "day", "too", "because", "there", "was", "no", "smile", ",", "no", "hello", ",", "it", "was", "just", "''", "``", "What", "would", "you", "like", "to", "drink", "?", "'"], "e1_text": "arrived", "e1_pos": 2, "e2_text": "wait", "e2_pos": 5, "label": "after"}
+]

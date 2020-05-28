@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "also", "had", "to", "flag", "down", "our", "waiter", "to", "receive", "the", "check", "after", "waiting", "20", "minutes", "just", "to", "have", "a", "different", "person", "bring", "the", "check", "back", "and", "thank", "us", "for", "coming", "."], "e1_text": "receive", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

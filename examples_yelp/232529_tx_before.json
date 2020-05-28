@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "remember", "what", "my", "masseuse", "'s", "name", "was", ",", "but", "she", "was", "very", "nice", "and", "understanding", "as", "I", "had", "never", "had", "one", "before", "."], "e1_text": "understanding", "e1_pos": 17, "e2_text": "had", "e2_pos": 20, "label": "before"},
+{"tokens": ["After", "my", "massage", ",", "I", "went", "and", "had", "a", "steam", "--", "another", "thing", "I", "had", "never", "tried", "before", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

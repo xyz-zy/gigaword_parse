@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "pretty", "good", "even", "though", "it", "just", "fell", "apart", "after", "taking", "my", "first", "fail", "bite", "."], "e1_text": "fell", "e1_pos": 8, "e2_text": "taking", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "just", "felt", "so", "uncomfortable", "after", "hearing", "the", "employees", "LOUDLY", "say", "''", "``", "Just", "do", "it", "the", "customers", "will", "never", "know", "the", "difference", "''", "''", "and", "''", "``", "They", "will", "never", "find", "out", "''", "''", ".", "."], "e1_text": "felt", "e1_pos": 2, "e2_text": "do", "e2_pos": 14, "label": "after"}
+]

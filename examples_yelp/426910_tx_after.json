@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "had", "their", "marinated", "shredded", "pork", "in", "a", "burrito", "and", "got", "sick", "after", "taking", "the", "first", "bite", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "taking", "e2_pos": 14, "label": "after"}
+]

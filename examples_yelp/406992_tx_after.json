@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "internet", "is", "not", "working", ":-LRB-", "Actually", "the", "internet", "is", "working", "after", "I", "asked", "them", "to", "restart", "the", "wifi", "."], "e1_text": "working", "e1_pos": 4, "e2_text": "asked", "e2_pos": 13, "label": "after"}
+]

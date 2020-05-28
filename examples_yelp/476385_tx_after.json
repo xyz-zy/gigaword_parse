@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "late", "evening", "after", "a", "delayed", "flight", "and", "2", "hour", "immigration", "line", "to", "be", "told", "that", "we", "had", "been", "booked", "into", "another", "hotel", "due", "to", "''", "``", "a", "water", "infiltration", "''", "''", "and", "given", "the", "cab", "fare", "to", "get", "there", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "line", "e2_pos": 12, "label": "after"}
+]

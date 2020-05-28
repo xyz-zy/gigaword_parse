@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "forced", "us", "to", "rush", "through", "the", "soup", "and", "salad", "before", "we", "got", "started", "on", "the", "appetizer", ",", "which", "then", "was", "cold", "."], "e1_text": "rush", "e1_pos": 4, "e2_text": "got", "e2_pos": 12, "label": "before"},
+{"tokens": ["Our", "table", "was", "full", "of", "food", "before", "we", "even", "had", "time", "to", "finish", "one", "item", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

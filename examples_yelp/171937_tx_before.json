@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "the", "late", "checkout", "option", "-LRB-", "$", "30", "extra", "for", "a", "3pm", "checkout", "-RRB-", ",", "as", "I", "'m", "not", "a", "morning", "person", "and", "I", "stayed", "up", "super", "late", "the", "night", "before", "."], "e1_text": "love", "e1_pos": 1, "e2_text": "'m", "e2_pos": 18, "label": "before"}
+]

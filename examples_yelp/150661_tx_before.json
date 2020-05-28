@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "each", "visit", ",", "we", "had", "to", "wait", "a", "considerable", "amount", "of", "time", "before", "a", "server", "stopped", "by", "to", "take", "our", "drink", "orders", "."], "e1_text": "wait", "e1_pos": 7, "e2_text": "stopped", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "funny", "thing", "is", "that", "other", "folks", "arrived", "after", "we", "did", ",", "and", "yet", "their", "pizzas", "arrived", "before", "ours", "did", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

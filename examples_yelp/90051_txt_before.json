@@ -1,0 +1,4 @@
+[
+{"tokens": ["Can", "you", "imagine", "any", "other", "business", "where", "they", "can", "take", "your", "money", "in", "advance", ",", "then", "make", "you", "wait", "for", "hours", "before", "not", "telling", "you", "that", "they", "are", "n't", "going", "to", "deliver", "at", "all", ",", "then", "refuse", "to", "refund", "?"], "e1_text": "wait", "e1_pos": 18, "e2_text": "telling", "e2_pos": 23, "label": "before"},
+{"tokens": ["Think", "about", "the", "risks", "before", "opting", "for", "a", "slightly", "cheaper", "fair", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "opting", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "for", "a", "late", "dinner", "after", "seeing", "a", "show", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 8, "label": "after"},
+{"tokens": ["Here", ",", "we", "waited", "over", "FIFTEEN", "minutes", "after", "we", "finished", "our", "main", "course", ",", "before", "I", "threw", "in", "the", "towel", "and", "just", "asked", "for", "the", "check", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "finished", "e2_pos": 9, "label": "after"}
+]

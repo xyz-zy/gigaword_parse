@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "\\", "u00a37", "a", "head", "it", "was", "good", "value", ",", "but", "the", "quantity", "of", "food", "is", "on", "the", "small", "side", ",", "so", "make", "sure", "to", "eat", "your", "lunch", "before", "popping", "along", "for", "your", "tea", "and", "cakes", "!"], "e1_text": "eat", "e1_pos": 25, "e2_text": "popping", "e2_pos": 29, "label": "before"},
+{"tokens": ["My", "mistake", "was", "in", "not", "eating", "before", "arriving", "."], "e1_text": "eating", "e1_pos": 5, "e2_text": "arriving", "e2_pos": 7, "label": "before"}
+]

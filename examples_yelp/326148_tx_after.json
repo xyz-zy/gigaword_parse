@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "nurse", "that", "I", "had", "from", "the", "time", "I", "got", "into", "my", "room", "until", "an", "hour", "after", "giving", "birth", "was", "fantastic", "!"], "e1_text": "got", "e1_pos": 9, "e2_text": "giving", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "did", "n't", "meet", "the", "doctor", "caring", "for", "my", "baby", "until", "day", "5", "after", "I", "demanded", "to", "talk", "to", "him", "."], "e1_text": "meet", "e1_pos": 3, "e2_text": "demanded", "e2_pos": 15, "label": "after"}
+]

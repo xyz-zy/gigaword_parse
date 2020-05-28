@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "started", "thinking", "after", "I", "booked", "this", "hotel", "did", "I", "make", "a", "mistake", "?"], "e1_text": "thinking", "e1_pos": 2, "e2_text": "booked", "e2_pos": 5, "label": "after"},
+{"tokens": ["Which", "is", "nice", "when", "you", "just", "want", "something", "cheap", "to", "eat", "after", "leaving", "the", "bar", "Late", "night", ",", "or", "Roxys", "diner", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 12, "label": "after"}
+]

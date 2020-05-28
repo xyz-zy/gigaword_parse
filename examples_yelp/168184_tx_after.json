@@ -1,0 +1,3 @@
+[
+{"tokens": ["Luckily", ",", "they", "had", "space", "by", "the", "bar", "so", "after", "waiting", "in", "line", "for", "my", "turn", ",", "I", "was", "seated", "and", "went", "straight", "to", "ordering", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

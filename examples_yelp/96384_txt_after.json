@@ -1,0 +1,4 @@
+[
+{"tokens": ["Amongst", "the", "other", "issues", "that", "happened", "that", "evening", ",", "I", "got", "my", "salad", "at", "the", "end", "of", "the", "meal", ",", "after", "I", "got", "my", "check", "by", "the", "way", "!"], "e1_text": "got", "e1_pos": 10, "e2_text": "got", "e2_pos": 10, "label": "after"},
+{"tokens": ["So", "I", "proceeded", "to", "explain", "that", "I", "did", "n't", "want", "the", "salad", "because", "we", "were", "already", "leaving", "and", "she", "refused", "to", "take", "it", "off", "of", "my", "check", "even", "though", "I", "literally", "received", "it", "after", "I", "got", "my", "check", ",", "i", "figured", "fine", "I", "'ll", "deal", "with", "it", "."], "e1_text": "received", "e1_pos": 31, "e2_text": "got", "e2_pos": 35, "label": "after"}
+]

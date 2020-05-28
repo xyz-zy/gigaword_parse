@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "ordered", "sushi", "and", "did", "n't", "get", "his", "sushi", "until", "after", "I", "finished", "eating", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "finished", "e2_pos": 13, "label": "after"},
+{"tokens": ["She", "knew", "that", "serving", "my", "husband", "so", "long", "after", "I", "served", "was", "wrong", "but", "did", "n't", "offer", "to", "adjust", "the", "bill", "which", "was", "$", "66.00", "."], "e1_text": "serving", "e1_pos": 3, "e2_text": "served", "e2_pos": 10, "label": "after"}
+]

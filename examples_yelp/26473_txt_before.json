@@ -1,0 +1,3 @@
+[
+{"tokens": ["BUT", "on", "the", "way", "out", "I", "used", "the", "restroom", "and", "if", "I", "had", "used", "it", "before", "I", "ordered", ",", "I", "would", "have", "just", "walked", "out", "...", "."], "e1_text": "used", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "here", "for", "a", "few", "days", "after", "trying", "to", "find", "a", "place", "to", "stay", "in", "Phoenix", "that", "WAS", "N'T", "a", "chain", "or", "a", "massive", "resort", "for", "a", "decent", "price", "and", "were", "very", "pleased", "to", "find", "the", "Clarendon", "Hotel", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "trying", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "really", "deplore", "the", "addition", "of", "the", "resort", "fee", "tacked", "on", "after", "you", "check", "in", "-", "PLEASE", "just", "include", "this", "in", "the", "regular", "price", "of", "a", "room", "when", "you", "check", "in", "...", "but", "also", ",", "this", "is", "n't", "reaaaaaaally", "a", "resort", ",", "so", "why", "such", "an", "outrageous", "''", "``", "resort", "fee", "?", "''", "''"], "e1_text": "tacked", "e1_pos": 9, "e2_text": "check", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["$", "120", "!!!", "I", "presented", "the", "coupon", "just", "after", "he", "swiped", "my", "card", "for", "$", "120", "!"], "e1_text": "presented", "e1_pos": 4, "e2_text": "swiped", "e2_pos": 10, "label": "after"}
+]

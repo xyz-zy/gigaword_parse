@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "actually", "writing", "this", "review", "having", "gotten", "off", "the", "plane", "after", "traveling", "for", "12", "hours", "-LRB-", "when", "the", "flight", "should", "'ve", "been", "more", "than", "half", "that", "time", "-RRB-", "on", "my", "first", "and", "only", "encounter", "with", "Spirit", "Airlines", "."], "e1_text": "gotten", "e1_pos": 7, "e2_text": "traveling", "e2_pos": 12, "label": "after"}
+]

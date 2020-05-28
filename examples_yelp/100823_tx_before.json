@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "bridesmaid", "dress", "that", "was", "too", "small", "-LRB-", "online", "at", "another", "store", "-RRB-", "and", "two", "weeks", "before", "the", "wedding", "was", "told", "it", "could", "n't", "be", "altered", "to", "fit", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

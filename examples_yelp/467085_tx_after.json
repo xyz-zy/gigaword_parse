@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "=", "great", "ambiance", "=", "great", "service", "=", "my", "very", "worst", "experience", "of", "all", "time", "Cocky", "Waiter", "told", "us", "we", "could", "have", "wine", "by", "the", "glass", "but", "left", "the", "bottle", "on", "table", "after", "opening", "it", "up", "ripping", "the", "bottle", "rim", "like", "it", "was", "giaconda", "trash", ",", "then", "kept", "serving", "it", "to", "us", "until", "I", "told", "him", "that", "we", "had", "agreed", "to", "just", "have", "a", "glass", "."], "e1_text": "left", "e1_pos": 27, "e2_text": "opening", "e2_pos": 33, "label": "after"}
+]

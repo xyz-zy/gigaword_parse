@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "complaint", "we", "were", "charged", "dinner", "prices", "instead", "of", "lunch", "prices", ",", "so", "beware", ",", "and", "check", "your", "receipt", "before", "you", "pay", "if", "you", "go", "for", "lunch", "."], "e1_text": "check", "e1_pos": 16, "e2_text": "pay", "e2_pos": 21, "label": "before"}
+]

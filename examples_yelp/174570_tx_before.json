@@ -1,0 +1,4 @@
+[
+{"tokens": ["alongside", "a", "spectacular", "windowsill", "view", "of", "the", "waterworks", "fountain", "show", "at", "the", "Bellagio", ",", "overhearing", "a", "pair", "moments", "before", "that", "just", "proposing", ",", "one", "could", "not", "help", "but", "take", "a", "step", "back", ",", "pinch", "one", "'s", "own", "arm", "and", "ask", ",", "''", "``", "Am", "I", "dreaming", "?", "''", "''"], "e1_text": "overhearing", "e1_pos": 14, "e2_text": "proposing", "e2_pos": 21, "label": "before"},
+{"tokens": ["A", "dramatic", "liquid", "nitrogen", "effect", "occurred", "as", "cold", "vapors", "rose", "through", "pores", "under", "the", "plate", ",", "encompassing", "the", "dish", "for", "several", "minutes", "before", "dissolving", "away", "."], "e1_text": "encompassing", "e1_pos": 16, "e2_text": "dissolving", "e2_pos": 23, "label": "before"}
+]

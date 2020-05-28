@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "feel", "like", "the", "meal", "was", "worth", "$", "30", "and", "if", "you", "added", "up", "the", "same", "items", "on", "their", "regular", "menu", ",", "it", "only", "comes", "to", "$", "28", "which", "makes", "me", "wonder", "why", "I", "did", "n't", "calculate", "this", "before", "ordering", "the", "3", "for", "$", "30", "menu", "!"], "e1_text": "calculate", "e1_pos": 38, "e2_text": "ordering", "e2_pos": 41, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "big", "deal", "because", "they", "set", "me", "up", "w", "\\/", "someone", "else", "immediately", ",", "however", "after", "that", "guy", "sat", "me", "in", "his", "chair", ",", "he", "spent", "the", "next", "10", "minutes", "chatting", "up", "w", "\\/", "his", "coworkers", "."], "e1_text": "w", "e1_pos": 8, "e2_text": "sat", "e2_pos": 18, "label": "after"}
+]

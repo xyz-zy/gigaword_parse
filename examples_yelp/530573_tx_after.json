@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "literally", "just", "walked", "in", "the", "door", "and", "the", "boyfriend", "said", "after", "being", "asked", "to", "leave", "''", "``", "oh", "ok", ",", "no", "problem", ",", "we", "just", "wanted", "to", "look", "at", "the", "menu", "''", "''", "During", "mid", "sentence", "of", "my", "boyfriend", "saying", "that", ",", "the", "host", "replies", "''", "``", "sir", ",", "outside", "."], "e1_text": "said", "e1_pos": 10, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

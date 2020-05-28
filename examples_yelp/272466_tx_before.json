@@ -1,0 +1,4 @@
+[
+{"tokens": ["Beware", ",", "it", "'s", "very", "easy", "to", "miss", "if", "you", "'re", "heading", "from", "the", "Strip", "westbound", "--", "fortunately", "it", "'s", "on", "the", "right", "hand", "side", "if", "you", "'re", "heading", "west", "on", "Spring", "Mt", "before", "you", "reach", "Decatur", "."], "e1_text": "heading", "e1_pos": 11, "e2_text": "reach", "e2_pos": 35, "label": "before"},
+{"tokens": ["but", "we", "had", "4", "pounds", "of", "shrimp", "-LRB-", "16", "-", "20s", "-RRB-", ",", "1\\/2", "pound", "of", "sausage", ",", "1", "pound", "of", "crawfish", ",", "about", "a", "dozen", "rolls", ",", "1", "pc", "of", "corn", "and", "1", "potato", ",", "cajun", "fries", ",", "5", "beers", "and", "used", "up", "more", "wetnaps", "than", "I", "'m", "sure", "any", "table", "has", "ever", "before", "...", "so", "we", "thought", "it", "was", "completely", "fair", "."], "e1_text": "'m", "e1_pos": 48, "e2_text": "has", "e2_pos": 52, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Service", ":", "-5", "\\/", "5", "The", "waitress", "was", "rude", "!!!", "My", "friend", "walked", "in", "before", "I", "did", ",", "she", "said", "the", "first", "thing", "the", "waitress", "asked", "her", "was", "if", "she", "was", "going", "to", "use", "groupon", "?"], "e1_text": "walked", "e1_pos": 12, "e2_text": "did", "e2_pos": 16, "label": "before"},
+{"tokens": ["Management", ":", "-3", "\\/", "5", "Anyone", "who", "runs", "a", "successful", "restaurant", "will", "tell", "you", "that", "they", "need", "to", "be", "fully", "stock", "before", "Friday", "-LRB-", "because", "of", "the", "weekend", "crowds", "-RRB-", "."], "e1_text": "be", "e1_pos": 18, "e2_text": "crowds", "e2_pos": 28, "label": "before"},
+{"tokens": ["To", "allow", "a", "rude", "waitress", "in", "staff", "and", "lack", "of", "inventory", "before", "catching", "the", "weekend", "wave", "."], "e1_text": "allow", "e1_pos": 1, "e2_text": "catching", "e2_pos": 12, "label": "before"}
+]

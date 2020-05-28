@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "most", "awkward", "part", "of", "the", "night", "came", "at", "the", "end", "when", "we", "were", "waiting", "for", "our", "checks", "after", "explaining", "we", "really", "truly", "did", "n't", "need", "dessert", "."], "e1_text": "waiting", "e1_pos": 14, "e2_text": "did", "e2_pos": 23, "label": "after"},
+{"tokens": ["They", "stood", "there", "very", "near", "us", "as", "a", "host", "and", "server", "gestured", "at", "our", "table", "and", "after", "a", "couple", "minutes", "walked", "them", "back", "to", "the", "front", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "walked", "e2_pos": 20, "label": "after"}
+]

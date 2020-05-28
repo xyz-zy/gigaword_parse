@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "to", "go", "and", "the", "pizza", "was", "done", "in", "25", "mins", "!!", "I", "used", "a", "googleoffer", "and", "for", "some", "reason", "they", "made", "me", "pay", "for", "tax", "after", "even", "though", "the", "googleoffer", "was", "enough", "."], "e1_text": "pay", "e1_pos": 24, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

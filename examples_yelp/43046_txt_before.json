@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "have", "always", "received", "the", "to-go", "cups", "so", "I", "assumed", "they", "came", "with", "the", "meal", "since", "I", "'ve", "used", "those", "coupons", "before", "and", "never", "got", "questioned", "at", "any", "location", "-RRB-", "after", "telling", "her", "I", "would", "like", "the", "to-go", "cups", ",", "I", "was", "rudely", "told", "''", "``", "Well", "then", "you", "should", "have", "told", "me", "that", "before", "hand", "-", "you", "already", "purchased", "these", "ones", ".", "''", "''"], "e1_text": "came", "e1_pos": 12, "e2_text": "'ve", "e2_pos": 18, "label": "before"},
+{"tokens": ["But", "to", "be", "rudely", "told", "I", "should", "have", "said", "that", "before", "my", "transaction", "was", "complete", "-", "was", "completely", "uncalled", "for", "."], "e1_text": "said", "e1_pos": 8, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

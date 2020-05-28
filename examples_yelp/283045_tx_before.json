@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "she", "came", "with", "the", "food", ",", "she", "asked", "if", "we", "had", "ordered", "a", "sample", "platter", "at", "the", "bar", "before", "sitting", "down", ",", "because", "it", "was", "showing", "that", "we", "had", "ordered", "a", "total", "of", "TWO", "sample", "platter", "&", "the", "humus", "dish", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "sitting", "e2_pos": 20, "label": "before"}
+]

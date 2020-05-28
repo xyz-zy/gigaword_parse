@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "are", "trying", "to", "vomit", "in", "order", "to", "feel", "better", "after", "eating", "dinner", "there", "tonight", "."], "e1_text": "feel", "e1_pos": 11, "e2_text": "eating", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "waitress", "was", "nice", "and", "the", "salsa", "was", "good", ",", "but", "that", "does", "n't", "make", "up", "for", "the", "way", "that", "I", "physically", "feel", "after", "eating", "there", "!"], "e1_text": "feel", "e1_pos": 22, "e2_text": "eating", "e2_pos": 24, "label": "after"}
+]

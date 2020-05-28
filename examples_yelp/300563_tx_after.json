@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unfortunately", ",", "something", "happened", "to", "our", "order", ",", "and", "the", "server", "had", "to", "take", "it", "again", "about", "a", "half-hour", "after", "we", "first", "placed", "it", ",", "but", "then", "we", "continued", "to", "wait", "another", "30", "minutes", "for", "it", "to", "finally", "arrive", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "placed", "e2_pos": 22, "label": "after"}
+]

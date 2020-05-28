@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "did", "n't", "show", "up", "until", "about", "15", "minutes", "in", ",", "then", "it", "took", "forever", "for", "her", "to", "bring", "the", "food", "-LRB-", "despite", "the", "fact", "the", "table", "of", "4", "next", "to", "us", "ordered", "from", "her", "about", "10", "seconds", "before", "we", "did", ",", "we", "did", "n't", "get", "ours", "-LRB-", "a", "table", "of", "2", "-RRB-", "until", "a", "good", "10", "minutes", "after", "them", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 33, "e2_text": "did", "e2_pos": 2, "label": "before"}
+]

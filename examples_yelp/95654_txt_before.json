@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "that", "I", "had", "checked", "out", "the", "reviews", "here", "before", "going", "in", "to", "Jiffy", "Lube", "for", "an", "oil", "change", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "going", "e2_pos": 11, "label": "before"},
+{"tokens": ["Funny", "how", "that", "did", "n't", "happen", "even", "once", "before", "they", "touched", "my", "car", "."], "e1_text": "happen", "e1_pos": 5, "e2_text": "touched", "e2_pos": 10, "label": "before"}
+]

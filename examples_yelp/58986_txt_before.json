@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "my", "friend", "and", "he", "went", "back", "up", "to", "catch", "them", "before", "they", "made", "the", "burger", "and", "right", "away", "before", "he", "opened", "his", "mouth", "she", "said", "''", "``", "We", "are", "already", "cooking", "the", "burgers", "so", "you", "ca", "n't", "change", "your", "order", "''", "''", ",", "he", "said", "ok", "I", "was", "just", "wanting", "to", "tell", "you", "that", "the", "burger", "is", "suppose", "to", "be", "a", "cheeseburger", "with", "mustard", "only", "and", "it", "'s", "wrong", "on", "the", "ticket", "."], "e1_text": "catch", "e1_pos": 10, "e2_text": "made", "e2_pos": 14, "label": "before"}
+]

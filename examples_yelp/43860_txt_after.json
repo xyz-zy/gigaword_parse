@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "my", "dissapointing", "experience", "started", "when", "I", "pulled", "up", "to", "check", "in", ",", "and", "needed", "to", "promptly", "leave", "for", "an", "event", "directly", "after", "checking", "in", ",", "and", "was", "forced", "to", "valet", "my", "car", "-LRB-", "could", "not", "leave", "it", "in", "the", "entry", "for", "a", "few", "minutes", "-RRB-", "."], "e1_text": "needed", "e1_pos": 15, "e2_text": "checking", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "was", "rather", "shocked", "when", "I", "found", "out", "that", "after", "you", "pay", "$", "200", "+", "for", "a", "room", ",", "they", "still", "tack", "on", "daily", "charges", "for", "WiFi", "."], "e1_text": "found", "e1_pos": 6, "e2_text": "pay", "e2_pos": 11, "label": "after"}
+]

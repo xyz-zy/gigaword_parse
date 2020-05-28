@@ -1,0 +1,5 @@
+[
+{"tokens": ["Had", "decided", "to", "get", "a", "set", "of", "gel", "nails", "-LRB-", "after", "not", "having", "them", "for", "years", "-RRB-", ",", "as", "I", "'m", "hosting", "a", "conference", "of", "women", "coming", "to", "town", ",", "and", "I", "wanted", "to", "see", "if", "I", "could", "recommend", "them", "for", "visitors", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "having", "e2_pos": 12, "label": "after"},
+{"tokens": ["RIGHT", "-", "I", "'m", "not", "going", "to", "fasten", "a", "seatbelt", ",", "insert", "a", "car", "key", ",", "etc.", "after", "I", "leave", "the", "salon", "."], "e1_text": "fasten", "e1_pos": 7, "e2_text": "leave", "e2_pos": 19, "label": "after"},
+{"tokens": ["Again", ",", "petulant", ",", "abrupt", ",", "unreasonable", "-", "after", "I", "'d", "tipped", "60", "+", "cents\\/nail", "-LRB-", "for", "an", "ultimately", "lousy", "set", "of", "nails", "-RRB-", "."], "e1_text": "unreasonable", "e1_pos": 6, "e2_text": "'d", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "that", "was", "not", "my", "issue", "-LRB-", "although", "I", "was", "apprehensive", "about", "it", "after", "reading", "the", "reviews", "of", "cockroaches", "and", "bedbugs", "-RRB-", ",", "he", "persisted", "that", "I", "ca", "n't", "do", "anything", "because", "the", "rooms", "were", "clean", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "reading", "e2_pos": 15, "label": "after"}
+]

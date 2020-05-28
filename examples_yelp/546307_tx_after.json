@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "starters", "it", "took", "the", "waitress", "20", "mins", "to", "acknowledge", "our", "existence", ",", "and", "that", "was", "only", "after", "my", "friend", "had", "gone", "to", "the", "bar", "to", "ask", "for", "service", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "found", "it", "absolutely", "horrendous", "that", "the", "fist", "words", "out", "of", "the", "managers", "mouth", "was", "not", "an", "apology", "after", "they", "sent", "cold", "French", "fries", "out", "not", "once", "but", "twice", "!!!", "I", "do", "n't", "live", "in", "Vegas", "but", "if", "and", "when", "I", "go", "back", "I", "will", "NEVER", "set", "foot", "in", "this", "place", "again", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "sent", "e2_pos": 20, "label": "after"}
+]

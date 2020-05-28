@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "front", "desk", "was", "quick", "to", "say", "that", "they", "would", "charge", "my", "stolen", "credit", "card", "the", "balance", "of", "the", "room", "before", "I", "decided", "to", "call", "my", "credit", "card", "company", "to", "report", "it", "stolen", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "decided", "e2_pos": 22, "label": "before"}
+]

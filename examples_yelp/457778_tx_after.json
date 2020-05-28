@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "gentleman", "joins", "the", "dining", "area", "about", "5-7", "minutes", "after", "we", "arrive", "and", "he", "tells", "the", "hostess", "that", "he", "would", "like", "some", "ice", "water", "and", "she", "runs", "and", "fetches", "it", "for", "him", "."], "e1_text": "joins", "e1_pos": 2, "e2_text": "arrive", "e2_pos": 11, "label": "after"}
+]

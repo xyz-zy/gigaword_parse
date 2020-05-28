@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "not", "seated", "20", "minutes", "after", "our", "reservation", "and", "walk-ins", "were", "being", "seated", "before", "us", "-LRB-", "I", "know", "they", "were", "walk-ins", "because", "I", "asked", "them", "if", "they", "had", "reservations", "and", "they", "said", "no", "-RRB-", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "were", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Pros", ":", "Timely", "service", ";", "straightforward", "pricing", ";", "little", "to", "no", "upselling", "Cons", ":", "$", "800", "later", ",", "my", "car", "has", "the", "same", "issues", "it", "had", "before", "I", "visited", "Firestone", "."], "e1_text": "had", "e1_pos": 25, "e2_text": "visited", "e2_pos": 28, "label": "before"},
+{"tokens": ["When", "I", "directly", "asked", "the", "repair", "person", ",", "''", "``", "Why", "is", "my", "car", "having", "the", "exact", "same", "problems", "that", "it", "was", "having", "before", "you", "fixed", "it", "?", "''", "''"], "e1_text": "having", "e1_pos": 14, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "was", "waiting", "for", "me", "while", "I", "was", "getting", "my", "haircut", "and", "after", "we", "left", ",", "I", "found", "out", "that", "most", "of", "the", "magazines", "available", "for", "reading", "while", "you", "wait", "were", "playboys", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "left", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Rushing", "to", "make", "the", "flight", "on", "time", ",", "I", "typed", "in", "the", "wrong", "address", "into", "my", "GPS", "after", "my", "companion", "handed", "me", "the", "wrong", "sheet", "of", "paper", "w", "\\/", "the", "parking", "info", "on", "it", "."], "e1_text": "typed", "e1_pos": 9, "e2_text": "handed", "e2_pos": 20, "label": "after"},
+{"tokens": ["Sure", "enough", ",", "when", "it", "came", "time", "to", "pay", ",", "after", "we", "arrived", "from", "our", "vacation", ",", "the", "new", "attendant", "honored", "the", "coupon", ",", "bringing", "the", "total", "for", "six", "days", "'", "parking", "to", "$", "38.40", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 12, "label": "after"}
+]

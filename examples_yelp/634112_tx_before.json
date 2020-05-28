@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "prices", "were", "great", ";", "plus", ",", "like", "Maggiano", "'s", "and", "the", "Capital", "Grille", "-LRB-", "but", "unlike", "Morton", "'s", "-RRB-", ",", "you", "can", "taste", "almost", "anything", "before", "ordering", "--", "a", "great", "way", "to", "sell", "a", "bottle", "of", "wine", "."], "e1_text": "taste", "e1_pos": 23, "e2_text": "ordering", "e2_pos": 27, "label": "before"}
+]

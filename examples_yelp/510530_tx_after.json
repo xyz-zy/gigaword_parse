@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", ",", "so", "was", "the", "Little", "Hamburger", "with", "the", "same", "ingredients", "sans", "cheese", "that", "I", "got", "up", "and", "ordered", "immediately", "after", "I", "had", "finished", "my", "first", "order", "."], "e1_text": "ordered", "e1_pos": 18, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["And", ",", "I", "liked", "Five", "Guys", "'", "hand", "cut", "fries", "with", "some", "skin", "on", "after", "being", "bathed", "in", "hot", "peanut", "oil", "just", "a", "bit", "better", ",", "too", "."], "e1_text": "cut", "e1_pos": 8, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

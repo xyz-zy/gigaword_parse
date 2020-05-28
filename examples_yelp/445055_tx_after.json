@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "squeal", "from", "my", "front", "brakes", "that", "was", "never", "fixed", "...", "even", "after", "replacing", "pads", "and", "rotors", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "replacing", "e2_pos": 15, "label": "after"},
+{"tokens": ["They", "have", "left", "numerous", "things", "loose", "after", "performing", "work", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "performing", "e2_pos": 7, "label": "after"}
+]

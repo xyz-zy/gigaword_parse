@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", ",", "we", "ordered", "a", "greek", "salad", "which", "came", "out", "pretty", "quickly", "and", "then", "we", "noticed", "that", "the", "two", "other", "tables", "got", "their", "pizzas", "right", "after", "we", "finished", "our", "salad", "."], "e1_text": "got", "e1_pos": 21, "e2_text": "finished", "e2_pos": 27, "label": "after"}
+]

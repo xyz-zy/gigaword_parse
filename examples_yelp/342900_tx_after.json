@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ended", "up", "having", "our", "table", "moved", "downstairs", "after", "the", "host", "tried", "to", "put", "us", "in", "a", "broom", "closet", "sized", "table", "for", "8", "of", "us", "."], "e1_text": "moved", "e1_pos": 6, "e2_text": "sized", "e2_pos": 19, "label": "after"}
+]

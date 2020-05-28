@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "time", "I", "went", "there", ",", "we", "walked", "in", "approx", "10", "mins", "before", "they", "opened", "-LRB-", "the", "door", "was", "not", "locked", "-RRB-", "and", "they", "told", "us", "to", "come", "back", "and", "would", "n't", "let", "us", "sit", "and", "hang", "out", "for", "10", "mins", "until", "they", "were", "`", "officially", "'", "open", "."], "e1_text": "walked", "e1_pos": 7, "e2_text": "opened", "e2_pos": 14, "label": "before"}
+]

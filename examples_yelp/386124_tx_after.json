@@ -1,0 +1,3 @@
+[
+{"tokens": ["5", "-RRB-", "I", "pick", "up", "my", "bike", "after", "a", "tune-up", ",", "and", "as", "a", "kind", "of", "''", "``", "test", ",", "''", "''", "I", "ask", "the", "mechanic", ",", "''", "``", "So", ",", "what", "did", "you", "do", "on", "the", "bike", "?", "''", "''"], "e1_text": "pick", "e1_pos": 3, "e2_text": "test", "e2_pos": 18, "label": "after"}
+]

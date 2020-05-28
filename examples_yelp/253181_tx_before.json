@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "when", "ordering", "over", "the", "phone", "they", "place", "you", "on", "hold", "for", "10", "minutes", "before", "they", "decide", "to", "assist", "you", "in", "placing", "your", "order", "."], "e1_text": "place", "e1_pos": 7, "e2_text": "decide", "e2_pos": 16, "label": "before"}
+]

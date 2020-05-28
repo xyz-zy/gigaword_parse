@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "no", "follow", "up", "after", "I", "was", "shown", "the", "model", "."], "e1_text": "follow", "e1_pos": 3, "e2_text": "was", "e2_pos": 1, "label": "after"},
+{"tokens": ["She", "said", "she", "would", "call", "back", "in", "two", "days", "after", "the", "application", "process", "came", "back", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "came", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "made", "our", "reservations", "on", "Opentable.com", "and", "arrived", "on", "time", ",", "but", "the", "hostess", "had", "us", "wait", "a", "bit", "before", "getting", "seated", "."], "e1_text": "wait", "e1_pos": 16, "e2_text": "getting", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "son", "has", "autism", "and", "is", "on", "quite", "a", "few", "meds", "that", "can", "not", "be", "missed", "due", "to", "dangerous", "side", "effects", "so", "we", "always", "try", "to", "keep", "everything", "filled", "before", "they", "run", "out", "and", "this", "pharmacy", "always", "did", "an", "excellent", "job", "."], "e1_text": "filled", "e1_pos": 28, "e2_text": "run", "e2_pos": 31, "label": "before"}
+]

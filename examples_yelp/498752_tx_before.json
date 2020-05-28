@@ -1,0 +1,4 @@
+[
+{"tokens": ["These", "did", "not", "arrive", "until", "shortly", "before", "I", "took", "photos", "-LRB-", "8:57", "p", "-RRB-", "."], "e1_text": "arrive", "e1_pos": 3, "e2_text": "took", "e2_pos": 8, "label": "before"},
+{"tokens": ["While", "I", "was", "not", "able", "to", "enjoy", "the", "bread", "pudding", "tonight", "-LRB-", "I", "intend", "to", "visit", "again", "before", "YE", "'", "week", "ends", "-RRB-", ",", "I", "did", "bump", "into", "Donjay", "S.", ",", "who", "had", "tried", "it", "and", "said", "it", "was", "good", ",", "but", "not", "as", "good", "as", "the", "fondue", "version", "."], "e1_text": "visit", "e1_pos": 15, "e2_text": "ends", "e2_pos": 21, "label": "before"}
+]

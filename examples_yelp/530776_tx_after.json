@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "her", "I", "was", "allergic", "to", "orange", "oils", ",", "but", "was", "told", ",", "after", "she", "checked", "with", "another", "person", ",", "that", "orange", "blossom", "was", "different", "from", "orange", "oil", ",", "so", "I", "decided", "to", "try", "it", "."], "e1_text": "told", "e1_pos": 12, "e2_text": "checked", "e2_pos": 16, "label": "after"}
+]

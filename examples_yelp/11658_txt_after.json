@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "stayed", "over", "the", "weekend", "and", "the", "hotel", "rented", "to", "some", "''", "``", "shady", "''", "''", "characters", "immediately", "after", "we", "checked", "in", "and", "of", "course", ",", "they", "get", "the", "room", "across", "the", "hall", "from", "us", "."], "e1_text": "characters", "e1_pos": 16, "e2_text": "checked", "e2_pos": 20, "label": "after"}
+]

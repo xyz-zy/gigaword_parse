@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "had", "great", "hot", "crab", "legs", "and", "everything", "else", "was", "at", "least", "good", "if", "not", "great", "every", "time", "I", "had", "gone", "before", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "had", "e2_pos": 1, "label": "before"},
+{"tokens": ["When", "I", "got", "to", "dessert", "I", "was", "thinking", "of", "all", "the", "yummy", "things", "I", "had", "got", "there", "before", "-LRB-", "creme", "brulee", ",", "tarts", ",", "little", "cakes", "...", "-RRB-", "no", ",", "only", "a", "few", "sad", "little", "cupcakes", "and", "none", "of", "them", "tasted", "good", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "tasted", "e2_pos": 40, "label": "before"}
+]

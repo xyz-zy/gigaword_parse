@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "roach", "crawled", "across", "our", "table", "right", "after", "we", "received", "our", "bill", "."], "e1_text": "crawled", "e1_pos": 2, "e2_text": "received", "e2_pos": 9, "label": "after"}
+]

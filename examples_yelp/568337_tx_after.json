@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "7:30", "pm", ",", "the", "waiter", "came", "back", "after", "taking", "our", "order", "to", "inform", "us", "that", "they", "ran", "out", "of", "prime", "rib", "for", "the", "night", "!?", "Since", "4", "people", "at", "our", "table", "had", "all", "ordered", "the", "prime", "rib", ",", "we", "had", "to", "re-think", "our", "orders", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "taking", "e2_pos": 9, "label": "after"}
+]

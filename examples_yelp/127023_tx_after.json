@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mattress", "was", "springy", ",", "had", "little", "cushioning", "+", "Two", "large", "TVs", "Studio", "room", ":", "+", "Bed", "comes", "out", "of", "wall", ",", "queen", "size", "bed", "fits", "right", "over", "the", "couch", ",", "after", "all", "the", "cushions", "are", "removed", "+", "One", "TV", ",", "smaller", "than", "the", "ones", "in", "the", "one", "bedroom", "suite", "+", "Kitchenette", ":", "small", "refrigerator", ",", "coffee", "maker", ",", "sink", "."], "e1_text": "comes", "e1_pos": 16, "e2_text": "are", "e2_pos": 34, "label": "after"},
+{"tokens": ["Turn", "left", "after", "walking", "past", "the", "fountain", "in", "the", "front", "lobby", ",", "walk", "towards", "the", "side", "entrance", ",", "past", "the", "six", "elevator", "cluster", ",", "then", "make", "a", "left", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "walking", "e2_pos": 3, "label": "after"}
+]

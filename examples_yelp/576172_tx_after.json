@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "n't", "been", "able", "to", "get", "over", "to", "Noodlehead", "after", "moving", ",", "but", "now", "that", "I", "have", "...", "I", "'m", "actually", "mad", "that", "such", "an", "amazing", "place", "opened", "after", "I", "left", "Highland", "!"], "e1_text": "Noodlehead", "e1_pos": 9, "e2_text": "moving", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "not-so-good", "things", "were", "pretty", "minor", "though", "and", "outweighed", "by", "the", "outstanding", "food", ",", "and", "the", "fact", "that", "I", "'m", "already", "craving", "more", "Sukothai", "noodle", "soup", "two", "days", "after", "eating", "here", "...", "I", "ca", "n't", "give", "it", "any", "less", "than", "a", "perfect", "score", "!"], "e1_text": "'m", "e1_pos": 19, "e2_text": "eating", "e2_pos": 29, "label": "after"}
+]

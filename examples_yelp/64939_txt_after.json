@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "siblings", "and", "I", "were", "really", "craving", "some", "milk", "tea", "after", "eating", "lunch", "so", "we", "stopped", "by", "."], "e1_text": "craving", "e1_pos": 6, "e2_text": "eating", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "friend", "recommended", "this", "place", "after", "asking", "about", "a", "decent", "place", "for", "milk", "tea", "."], "e1_text": "recommended", "e1_pos": 2, "e2_text": "asking", "e2_pos": 6, "label": "after"},
+{"tokens": ["Really", "regretted", "getting", "the", "grass", "jelly", "instead", "of", "boba", ",", "especially", "after", "I", "tried", "my", "sister", "'s", "drink", ",", "raspberry", "slush", "w", "\\/", "boba", "."], "e1_text": "regretted", "e1_pos": 1, "e2_text": "tried", "e2_pos": 13, "label": "after"}
+]

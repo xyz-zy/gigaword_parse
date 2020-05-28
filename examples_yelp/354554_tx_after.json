@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "having", "dinner", "here", "after", "we", "found", "out", "that", "the", "kitchen", "was", "closed", "for", "the", "night", "at", "our", "original", "choice", ",", "The", "White", "Hart", "Inn", ",", "a", "few", "doors", "down", "."], "e1_text": "dinner", "e1_pos": 4, "e2_text": "found", "e2_pos": 8, "label": "after"},
+{"tokens": ["In", "hindsight", ",", "we", "should", "have", "complained", "and", "sent", "the", "cold", ",", "underseasoned", "food", "back", "...", "but", "we", "were", "tired", "and", "jet-lagged", "and", "just", "wanted", "something", "to", "fill", "our", "bellies", "after", "pretty", "much", "everywhere", "else", "had", "stopped", "serving", "for", "the", "night", "."], "e1_text": "fill", "e1_pos": 27, "e2_text": "had", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "get", "situated", "with", "the", "usual", "`", "the", "server", "will", "be", "with", "you", "shortly", "'", "nearly", "15", "minutes", "goes", "by", "and", "the", "girl", "behind", "the", "bar", "comes", "out", "to", "take", "our", "drink", "order", "after", "catching", "eye", "contact", "with", "us", "a", "few", "times", "during", "that", "period", "."], "e1_text": "take", "e1_pos": 29, "e2_text": "catching", "e2_pos": 34, "label": "after"},
+{"tokens": ["Our", "food", "came", "out", "after", "two", "groups", "who", "were", "sat", "after", "us", "get", "their", "food", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "the", "Web", "site", "for", "this", "place", "before", "going", "there", "for", "lunch", "today", ",", "&", "wrote", "down", "what", "I", "planned", "to", "order", ",", "including", "these", "items", ":", "Plinchik", "2pc", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "going", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "three", "young", "people", "behind", "the", "counter", "were", "so", "nice", "and", "friendly", ",", "very", "welcoming", ",", "and", "made", "sure", "we", "knew", "about", "the", "specials", "before", "ordering", "."], "e1_text": "knew", "e1_pos": 20, "e2_text": "ordering", "e2_pos": 25, "label": "before"}
+]

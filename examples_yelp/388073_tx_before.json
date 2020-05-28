@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "spoke", "to", "a", "manager", ",", "and", "the", "manager", "informed", "us", "that", "they", "were", "extremely", "busy", "and", "that", "they", "would", "not", "have", "our", "entrees", "ready", "before", "we", "had", "to", "leave", "to", "make", "it", "to", "the", "show", "."], "e1_text": "have", "e1_pos": 22, "e2_text": "had", "e2_pos": 28, "label": "before"},
+{"tokens": ["They", "brought", "our", "desserts", "and", "we", "quickly", "ate", "them", "before", "rushing", "out", "without", "dinner", "...", "My", "biggest", "complaint", "is", "that", "everyone", "from", "the", "server", "to", "the", "manager", "pointed", "fingers", "and", "made", "up", "excuses", "rather", "than", "fixing", "the", "problems", "."], "e1_text": "ate", "e1_pos": 7, "e2_text": "rushing", "e2_pos": 10, "label": "before"}
+]

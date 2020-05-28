@@ -1,0 +1,3 @@
+[
+{"tokens": ["Visiting", "Las", "Vegas", "last", "week", ",", "we", "wanted", "an", "intimate", "dinner", "before", "seeing", "The", "Phantom", "at", "the", "Venetian", ",", "and", "the", "Trattoria", "Reggiano", "is", "only", "a", "moment", "'s", "walk", "from", "the", "theater", "."], "e1_text": "wanted", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 12, "label": "before"}
+]

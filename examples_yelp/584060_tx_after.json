@@ -1,0 +1,4 @@
+[
+{"tokens": ["Things", "quickly", "went", "down", "hill", "after", "being", "seated", "in", "a", "tiny", "table", "stuck", "next", "to", "a", "row", "of", "4", "cramped", "tables", "with", "barely", "breathing", "room", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Our", "waiter", "was", "the", "worst", "I", "have", "ever", "encountered", "after", "eating", "out", "for", "30", "years", "at", "some", "of", "the", "better", "to", "best", "restaurants", "in", "the", "US", "and", "Europe", "."], "e1_text": "encountered", "e1_pos": 8, "e2_text": "eating", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "place", "started", "getting", "busy", "about", "3", "minutes", "after", "we", "sat", "down", "and", "I", "discovered", "the", "concept", "works", "quite", "well", "."], "e1_text": "getting", "e1_pos": 3, "e2_text": "sat", "e2_pos": 10, "label": "after"},
+{"tokens": ["You", "will", "not", "be", "disappointed", "with", "your", "fresh", "and", "delicious", "breakfast", "that", "does", "n't", "make", "you", "feel", "heavy", "and", "gross", "after", "you", "leave", "."], "e1_text": "gross", "e1_pos": 19, "e2_text": "leave", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "food", "off", "of", "their", "snack", "menu", "and", "it", "never", "came", ",", "yet", "they", "tried", "to", "charge", "us", "for", "it", ",", "so", "make", "sure", "you", "check", "your", "bill", "before", "you", "pay", "!"], "e1_text": "check", "e1_pos": 26, "e2_text": "pay", "e2_pos": 31, "label": "before"}
+]

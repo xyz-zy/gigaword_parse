@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "wanted", "my", "$", "400", "back", "after", "buying", "a", "$", "4", "burrito", "."], "e1_text": "wanted", "e1_pos": 2, "e2_text": "buying", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "have", "not", "and", "never", "will", "eat", "there", "again", "after", "being", "a", "loyal", "customer", "since", "the", "90", "'s", "."], "e1_text": "eat", "e1_pos": 6, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

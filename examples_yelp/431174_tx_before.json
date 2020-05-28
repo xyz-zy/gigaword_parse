@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "wait", "long", "before", "my", "name", "was", "called", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["She", "too", "asked", "if", "I", "wanted", "a", "water", "and", "said", "I", "could", "relax", "on", "the", "couch", "in", "the", "aesthetic", "side", "as", "long", "as", "I", "needed", "to", "before", "driving", "home", "."], "e1_text": "needed", "e1_pos": 24, "e2_text": "driving", "e2_pos": 27, "label": "before"}
+]

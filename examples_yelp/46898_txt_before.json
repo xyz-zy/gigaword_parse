@@ -1,0 +1,3 @@
+[
+{"tokens": ["Woman", "upfront", "entered", "it", "as", "7", "-LRB-", "I", "scheduled", "it", "2", "hours", "before", "I", "started", "work", "at", "930", "-RRB-", "when", "asked", "why", "I", "did", "n't", "receive", "a", "confirmation", "call", "or", "call", "when", "I", "was", "''", "``", "late", "''", "''", "she", "said", "we", "do", "n't", "offer", "those", "because", "they", "upset", "our", "clients", "."], "e1_text": "scheduled", "e1_pos": 8, "e2_text": "started", "e2_pos": 14, "label": "before"}
+]

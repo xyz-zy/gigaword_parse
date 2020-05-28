@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recently", "stayed", "here", "after", "getting", "a", "really", "good", "deal", "on", "a", "room", "-LRB-", "$", "30", "a", "night", "on", "a", "Thursday", "-RRB-", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "getting", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "called", "back", "later", "frantic", "that", "it", "was", "gone", "and", "shortly", "after", "I", "was", "told", "that", "they", "put", "it", "aside", "for", "me", "and", "would", "ship", "it", "to", "me", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

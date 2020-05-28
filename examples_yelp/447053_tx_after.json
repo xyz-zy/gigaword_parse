@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "wanted", "to", "review", "RnR", "after", "the", "first", "time", "I", "went", "there", "for", "happy", "hour", "."], "e1_text": "review", "e1_pos": 4, "e2_text": "went", "e2_pos": 11, "label": "after"},
+{"tokens": ["Although", "I", "let", "it", "slide", "after", "noticing", "the", "staff", "'s", "uniforms", "are", "proudly", "showcasing", "the", "Rockstar", "logo", "."], "e1_text": "slide", "e1_pos": 4, "e2_text": "noticing", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "we", "finally", "get", "back", "up", "to", "the", "register", "after", "having", "to", "re", "wait", "in", "line", "he", "tells", "us", "with", "an", "attitude", "`", "Next", "time", "you", "guys", "wan", "na", "split", "the", "check", ",", "tell", "us", "before", ".", "'"], "e1_text": "get", "e1_pos": 3, "e2_text": "having", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "go", "to", "pay", "for", "it", "with", "a", "credit", "card", "and", "he", "has", "the", "nerve", "to", "say", "'", "I", "see", "you", "did", "n't", "leave", "a", "tip", ",", "it", "'s", "not", "mandatory", "or", "anything", "but", "you", "know", "...", "'", "ARE", "YOU", "KIDDING", "ME", "?!?", "You", "'re", "insisting", "on", "a", "tip", "after", "you", "were", "just", "so", "rude", "to", "us", "?"], "e1_text": "say", "e1_pos": 16, "e2_text": "were", "e2_pos": 51, "label": "after"}
+]

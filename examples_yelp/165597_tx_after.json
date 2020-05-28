@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "really", "enjoyed", "the", "entertainment", "portion", ",", "it", "really", "is", "a", "beautiful", "experience", "and", "it", "was", "nice", "that", "dinner", "rolled", "into", "the", "evening", "without", "lines", ",", "etc", "There", "is", "a", "gift", "shop", "before", "the", "elevators", "that", "sells", "homemade", "large", "cupcakes", "for", "$", "4.00", ",", "but", "after", "10:00", "pm", "they", "are", "$", "2.00", "."], "e1_text": "rolled", "e1_pos": 19, "e2_text": "pm", "e2_pos": 47, "label": "after"}
+]

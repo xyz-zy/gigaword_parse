@@ -1,0 +1,5 @@
+[
+{"tokens": ["A", "miserable", "experience", "that", "started", "before", "we", "were", "even", "in", "the", "parking", "lot", "."], "e1_text": "started", "e1_pos": 4, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["C'mon", "guys", ",", "telling", "everybody", "in", "line", "before", "they", "entered", "the", "tiny", "parking", "lot", "would", "have", "shaved", "ten", "minutes", "off", "my", "experience", "."], "e1_text": "telling", "e1_pos": 3, "e2_text": "entered", "e2_pos": 9, "label": "before"},
+{"tokens": ["2", "-RRB-", "Physically", "frisked", "by", "hand", "before", "entering", "the", "building", "??", "Patted", "down", "?"], "e1_text": "frisked", "e1_pos": 3, "e2_text": "entering", "e2_pos": 7, "label": "before"}
+]

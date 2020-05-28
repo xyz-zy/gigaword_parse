@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "needed", "to", "kill", "some", "time", "after", "checking", "out", "of", "my", "hotel", "at", "3pm", "-LRB-", "flight", "was", "scheduled", "for", "almost", "9pm", "-RRB-", ",", "so", "I", "took", "a", "cab", "here", "for", "some", "shopping", "."], "e1_text": "kill", "e1_pos": 3, "e2_text": "checking", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "ended", "up", "spending", "about", "an", "hour", "at", "a", "Starbucks", "on", "my", "iPad", ",", "and", "after", "circling", "the", "mall", "four", "times", ",", "went", "to", "the", "airport", "three", "hours", "early", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "circling", "e2_pos": 16, "label": "after"}
+]

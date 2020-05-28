@@ -1,0 +1,3 @@
+[
+{"tokens": ["4\\/5", "Hella", "Pils", "and", "1\\/5", "Firehouse", "Added", "after", "meal", ":", "decided", "to", "go", "to", "the", "restroom", "before", "I", "left", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

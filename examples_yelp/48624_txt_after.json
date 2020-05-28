@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "product", "that", "was", "still", "under", "warranty", "and", "I", "had", "no", "luck", "dealing", "with", "them", "at", "the", "store", "level", "even", "after", "showing", "them", "the", "receipt", "that", "proved", "that", "the", "item", "was", "purchased", "at", "their", "store", "...", "Thank", "God", "that", "they", "have", "a", "strong", "Corporate", "backing", "that", "handled", "the", "problem", "within", "days", ".", "."], "e1_text": "dealing", "e1_pos": 14, "e2_text": "showing", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "all", "happened", "back", "in", "2004", ",", "way", "before", "I", "became", "a", "student", "of", "LVA", "."], "e1_text": "happened", "e1_pos": 2, "e2_text": "became", "e2_pos": 10, "label": "before"},
+{"tokens": ["This", "occurred", "before", "but", "it", "was", "during", "a", "different", "production", ",", "and", "the", "art", "department", "was", "doing", "their", "own", "thing", "at", "the", "same", "time", "."], "e1_text": "occurred", "e1_pos": 1, "e2_text": "was", "e2_pos": 5, "label": "before"}
+]

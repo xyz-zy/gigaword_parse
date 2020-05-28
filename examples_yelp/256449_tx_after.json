@@ -1,0 +1,3 @@
+[
+{"tokens": ["Granted", ",", "the", "main", "food", "was", "after", "waiting", "for", "45", "minutes", "for", "the", "food", "to", "come", "out", "and", "watching", "other", "tables", "around", "us", "sit", "down", "AND", "get", "their", "food", "before", "us", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "sit", "e2_pos": 23, "label": "after"}
+]

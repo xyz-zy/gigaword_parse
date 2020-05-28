@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "are", "unusual", "foods", "which", "I", "have", "not", "seen", "at", "other", "buffets", "before", ",", "one", "of", "them", "being", "pork", "belly", "fat", "wrapped", "inside", "a", "flour", "bun", "."], "e1_text": "seen", "e1_pos": 8, "e2_text": "wrapped", "e2_pos": 21, "label": "before"},
+{"tokens": ["Our", "finished", "plates", "literally", "filled", "up", "the", "entire", "table", "before", "the", "staff", "took", "it", "away", "."], "e1_text": "filled", "e1_pos": 4, "e2_text": "took", "e2_pos": 12, "label": "before"}
+]

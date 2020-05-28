@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "it", "will", "ONLY", "work", "in", "your", "room", ",", "and", "that", "'s", "after", "you", "enter", "your", "name", "and", "room", "number", ",", "and", "according", "to", "my", "assistant", ",", "it", "did", "n't", "even", "work", "."], "e1_text": "'s", "e1_pos": 11, "e2_text": "enter", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "did", "n't", "even", "bother", "to", "try", "their", "WiFi", "after", "losing", "all", "confidence", "in", "their", "ability", "to", "provide", "anything", ",", "but", "she", "said", "it", "was", "total", "crap", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "losing", "e2_pos": 10, "label": "after"}
+]

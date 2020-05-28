@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "around", "630ish", "right", "before", "a", "rush", "of", "people", "showed", "up", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "showed", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "'s", "going", "to", "be", "a", "long", "time", "before", "I", "go", "back", "to", "this", "place", "and", "spend", "my", "hard", "earned", "money", "for", "a", "par", "for", "the", "course", "meal", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "go", "e2_pos": 10, "label": "before"}
+]

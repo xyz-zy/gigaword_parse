@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wine", "and", "lemonade", "came", "out", "relatively", "quickly", ",", "20", "more", "minutes", "before", "we", "saw", "the", "water", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "saw", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "I", "had", "to", "stare", "down", "the", "waiter", "to", "get", "his", "attention", "and", "get", "our", "drink", "order", "placed", ",", "when", "we", "were", "ignored", "by", "the", "waitress", "serving", "the", "next", "table", ",", "who", "walked", "by", "us", "several", "times", "in", "the", "10", "+", "minutes", "we", "waited", "after", "sitting", "."], "e1_text": "waited", "e1_pos": 43, "e2_text": "sitting", "e2_pos": 45, "label": "after"}
+]

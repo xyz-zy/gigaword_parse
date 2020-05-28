@@ -1,0 +1,3 @@
+[
+{"tokens": ["Oh", ",", "and", "they", "have", "a", "credit", "card", "limit", "of", "$", "20", "so", "my", "party", "of", "four", "who", "wanted", "to", "split", "the", "check", "had", "to", "pay", "each", "other", "back", "after", "charging", "one", "card", "."], "e1_text": "pay", "e1_pos": 25, "e2_text": "charging", "e2_pos": 30, "label": "after"}
+]

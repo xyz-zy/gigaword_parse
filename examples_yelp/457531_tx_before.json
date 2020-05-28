@@ -1,0 +1,4 @@
+[
+{"tokens": ["Things", "break", "and", "the", "issues", "are", "n't", "addressed", ",", "because", "as", "i", "said", "before", ",", "trying", "to", "get", "their", "help", "is", "impossible", "."], "e1_text": "said", "e1_pos": 12, "e2_text": "is", "e2_pos": 20, "label": "before"},
+{"tokens": ["They", "'ll", "treat", "you", "great", "before", "you", "sign", "and", "then", "they", "'ll", "just", "screw", "you", "over", "."], "e1_text": "treat", "e1_pos": 2, "e2_text": "sign", "e2_pos": 7, "label": "before"}
+]

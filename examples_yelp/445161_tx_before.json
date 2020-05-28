@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "there", "just", "before", "they", "were", "closing", ",", "the", "guy", "working", "the", "counter", "was", "a", "bit", "unhappy", "I", "could", "tell", "...", "I", "apologized", "and", "told", "him", "I", "was", "only", "ordering", "one", "thing", ",", "was", "n't", "too", "helpful", "with", "recommendations", ",", "but", "alas", ".", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

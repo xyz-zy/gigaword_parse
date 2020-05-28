@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "should", "have", "left", "before", "I", "wasted", "close", "to", "$", "200", "on", "drinks", "in", "this", "club", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "wasted", "e2_pos": 6, "label": "before"},
+{"tokens": ["Save", "your", "$", "$", "$", "before", "going", "to", "this", "club", "if", "your", "not", "into", "rap\\/hiphop", "on", "Thursday", "nights", "."], "e1_text": "Save", "e1_pos": 0, "e2_text": "going", "e2_pos": 6, "label": "before"}
+]

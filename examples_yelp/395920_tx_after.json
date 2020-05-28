@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "new", ",", "clean", "bus", "in", "front", "of", "Chazen", "museum", "picked", "me", "up", "after", "I", "booked", "and", "paid", "online", "."], "e1_text": "picked", "e1_pos": 10, "e2_text": "booked", "e2_pos": 15, "label": "after"}
+]

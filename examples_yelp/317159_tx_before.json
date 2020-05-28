@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "the", "host", "calls", "up", "a", "waiting", "party", ",", "he", "asks", "if", "they", "have", "been", "here", "before", "and", "they", "reply", ",", "''", "``", "Yes", ".", "''", "''"], "e1_text": "asks", "e1_pos": 10, "e2_text": "have", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "group", "ordered", "the", "drinks", "and", "food", "and", "received", "their", "drinks", "before", "we", "even", "had", "a", "chance", "to", "put", "in", "any", "order", "whatsoever", "."], "e1_text": "received", "e1_pos": 8, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

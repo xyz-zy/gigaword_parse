@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "never", "stay", "here", "AGAIN", "and", "I", "will", "stay", "at", "the", "Westin", "or", "off", "the", "strip", "before", "staying", "here", "ever", "again", "."], "e1_text": "stay", "e1_pos": 3, "e2_text": "staying", "e2_pos": 18, "label": "before"}
+]

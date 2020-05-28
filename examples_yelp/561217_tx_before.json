@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "heard", "good", "things", "about", "Custom", "Built", "Pizza", "before", "the", "Groupon", "became", "available", "so", "I", "was", "pretty", "confident", "about", "the", "purchase", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "became", "e2_pos": 12, "label": "before"},
+{"tokens": ["After", "a", "long", "day", "of", "shopping", "and", "running", "errands", ",", "my", "fella", "and", "I", "decided", "to", "get", "a", "bite", "to", "eat", "before", "heading", "home", "."], "e1_text": "eat", "e1_pos": 20, "e2_text": "heading", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "staff", "encouraged", "us", "to", "sample", "them", "before", "choosing", "."], "e1_text": "sample", "e1_pos": 5, "e2_text": "choosing", "e2_pos": 8, "label": "before"}
+]

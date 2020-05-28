@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "first", "day", ",", "I", "waited", "about", "ten", "minutes", "before", "an", "associate", "helped", "me", "print", "some", "papers", "and", "there", "was", "only", "one", "other", "customer", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "helped", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "was", "actually", "listening", "to", "the", "radio", "right", "before", "I", "came", "inside", "and", "they", "were", "going", "to", "have", "a", "''", "``", "caller", "#", "20", "''", "''", "contest", "in", "ten", "minutes", "."], "e1_text": "listening", "e1_pos": 3, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "stood", "around", "for", "about", "5", "minutes", "before", "the", "greeter", "at", "the", "front", "of", "the", "store", "asked", "me", "if", "I", "needed", "help", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "asked", "e2_pos": 16, "label": "before"}
+]

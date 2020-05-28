@@ -1,0 +1,6 @@
+[
+{"tokens": ["Decided", "to", "check", "out", "this", "location", "with", "my", "girlfriend", "after", "we", "purchased", "a", "Deal", "Chicken", "half-price", "voucher", "."], "e1_text": "check", "e1_pos": 2, "e2_text": "purchased", "e2_pos": 11, "label": "after"},
+{"tokens": ["Cashier", "stated", "he", "could", "not", "accept", "my", "Deal", "Chicken", "discount", "after", "order", "was", "placed", "."], "e1_text": "accept", "e1_pos": 5, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["Food", "was", "ready", "at", "pick", "up", "counter", "very", "swiftly", "after", "transaction", "was", "completed", "."], "e1_text": "pick", "e1_pos": 4, "e2_text": "was", "e2_pos": 1, "label": "after"},
+{"tokens": ["Still", "piping", "hot", "when", "I", "popped", "the", "lid", "on", "the", "container", "20", "minutes", "after", "it", "was", "packed", ",", "I", "had", "hope", "."], "e1_text": "popped", "e1_pos": 5, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

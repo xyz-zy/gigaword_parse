@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "in", "her", "yesterday", "to", "trade", "my", "dads", "cell", "phone", "in", "after", "I", "called", "customer", "service", "and", "was", "advised", "that", "it", "was", "the", "14th", "day", "and", "I", "had", "to", "get", "there", "before", "the", "store", "closed", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "closed", "e2_pos": 35, "label": "before"}
+]

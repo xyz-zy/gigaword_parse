@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "my", "first", "time", "at", "the", "melting", "pot", "so", "I", "had", "no", "idea", "what", "to", "expect", "but", "after", "waiting", "and", "finally", "being", "seated", "we", "sat", "at", "the", "table", "for", "another", "15", "minutes", "before", "the", "waitress", "showed", "up", "and", "awkwardly\\/reluctantly", "introduced", "herself", "."], "e1_text": "sat", "e1_pos": 25, "e2_text": "showed", "e2_pos": 36, "label": "before"}
+]

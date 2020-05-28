@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guy", "behind", "the", "counter", "boxed", "up", "6", "cupcakes", "-", "was", "n't", "all", "that", "friendly", "to", "me", "-LRB-", "was", "to", "the", "teenagers", "girls", "ahead", "of", "me", "-RRB-", "and", "he", "moved", "on", "to", "the", "next", "customer", "before", "I", "even", "signed", "my", "receipt", "...", "."], "e1_text": "moved", "e1_pos": 29, "e2_text": "signed", "e2_pos": 38, "label": "before"}
+]

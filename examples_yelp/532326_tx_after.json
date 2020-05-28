@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fast", "forward", "3", "days", "to", "today", ",", "after", "getting", "everyone", "to", "finally", "buy", "all", "their", "tickets", "-LRB-", "again", "its", "a", "pain", "in", "the", "arse", "to", "do", "so", "-RRB-", "I", "called", "back", "and", "after", "three", "times", "of", "being", "sent", "to", "voicemail", "during", "what", "should", "be", "operating", "hours", ",", "I", "left", "a", "message", "."], "e1_text": "Fast", "e1_pos": 0, "e2_text": "getting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Was", "even", "going", "to", "consider", "your", "full", "price", "but", "James", "sealed", "the", "nail", "on", "the", "coffin", "after", "being", "such", "a", "difficult", "person", "to", "work", "with", "."], "e1_text": "sealed", "e1_pos": 10, "e2_text": "being", "e2_pos": 17, "label": "after"}
+]

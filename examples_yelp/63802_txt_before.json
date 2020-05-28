@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "came", "in", "a", "split", "second", "which", "made", "us", "question", "the", "food", "before", "we", "even", "tasted", "it", "."], "e1_text": "question", "e1_pos": 9, "e2_text": "tasted", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "shrimp", "looked", "like", "it", "swam", "in", "mud", "before", "it", "got", "to", "the", "table", "-", "I", "'ve", "never", "seen", "such", "black", "shrimp", "in", "my", "life", "!"], "e1_text": "swam", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "you", "do", "n't", "realize", "this", "until", "you", "get", "things", "home", ",", "and", "you", "'d", "think", "I", "'d", "learn", "to", "double", "check", "before", "I", "leave", ",", "but", "the", "place", "is", "always", "a", "bit", "of", "a", "madhouse", "."], "e1_text": "double", "e1_pos": 22, "e2_text": "leave", "e2_pos": 26, "label": "before"},
+{"tokens": ["Good", "food", ",", "but", "if", "you", "do", "take", "out", ",", "check", "things", "before", "you", "pay", "."], "e1_text": "take", "e1_pos": 7, "e2_text": "pay", "e2_pos": 14, "label": "before"}
+]

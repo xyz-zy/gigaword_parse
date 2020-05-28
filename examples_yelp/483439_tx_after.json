@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "staff", "refused", "to", "acknowledge", "me", "finally", "more", "customers", "came", "in", "and", "someone", "came", "up", "front", "after", "40", "min", "I", "asked", "to", "cancel", "my", "order", "and", "get", "a", "refund", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "asked", "e2_pos": 20, "label": "after"}
+]

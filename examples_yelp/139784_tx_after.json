@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "ta", "say", "this", "...", "I", "never", "expected", "to", "find", "good", "Southern", "Cookin", "in", "Vegas", "...", "I", "mean", "of", "all", "places", "...", "Vegas", "??", "My", "friend", "suggested", "we", "go", "...", "so", "we", "went", "on", "a", "Friday", "night", "...", "after", "drooling", "over", "the", "menu", "for", "a", "good", "10", "minutes", "...", "we", "finally", "decided", "to", "try", "out", "the", "Steak", ",", "Crab", "legs", ",", "Catfish", ",", "fried", "shrimp", ",", "greens", ",", "fried", "oysters", ",", "fried", "clams", "...", "and", "that", "Gumbo", "!"], "e1_text": "went", "e1_pos": 33, "e2_text": "drooling", "e2_pos": 40, "label": "after"},
+{"tokens": ["Yeah", "...", "I", "was", "feeling", "that", "way", "even", "after", "she", "offered", "me", "the", "last", "piece", "of", "shrimp", "in", "the", "gumbo", "."], "e1_text": "feeling", "e1_pos": 4, "e2_text": "offered", "e2_pos": 10, "label": "after"}
+]

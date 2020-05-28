@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "placed", "our", "order", "-LRB-", "probably", "15", "minutes", "after", "being", "asked", "the", "first", "time", "-RRB-", "."], "e1_text": "placed", "e1_pos": 1, "e2_text": "being", "e2_pos": 9, "label": "after"},
+{"tokens": ["Kandice", "managed", "to", "check", "with", "us", "just", "after", "the", "other", "staff", "had", "delivered", "our", "meals", "to", "the", "table", "and", "finally", "fixed", "the", "first", "drink", "issues", "and", "refilled", "the", "others", "that", "had", "been", "depleted", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "did", "n't", "have", "her", "stop", "by", "again", "until", "at", "least", "15", "minutes", "after", "we", "had", "finished", "eating", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

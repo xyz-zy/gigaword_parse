@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "knew", "my", "burger", "had", "potential", "before", "the", "first", "bite", "when", "i", "found", "''", "``", "cheese", "paper", "''", "''", "you", "know", "the", "overflow", "cheese", "that", "sticks", "to", "the", "burger", "wrapper", "that", "you", "pick", "off", "with", "your", "finger", "nail", "and", "eat", "...", "yes", "and", "it", "was", "good", "cheese", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "found", "e2_pos": 12, "label": "before"}
+]

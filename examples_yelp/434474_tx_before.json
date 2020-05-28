@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "did", "he", "change", "the", "oil", "and", "check", "all", "fluids", ",", "he", "also", "checked", "my", "A\\/C", ",", "found", "out", "it", "needed", "a", "pound", "of", "freon", "and", "added", "it", ",", "checked", "my", "brakes", "and", "informed", "me", "I", "had", "about", "10k", "more", "miles", "before", "they", "needed", "replaced", ",", "and", "doubled", "checked", "my", "tail", "lights", "to", "confirm", "all", "was", "in", "good", "order", "."], "e1_text": "had", "e1_pos": 37, "e2_text": "needed", "e2_pos": 21, "label": "before"}
+]

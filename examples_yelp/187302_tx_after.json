@@ -1,0 +1,4 @@
+[
+{"tokens": ["Note", ",", "this", "was", "one", "hour", "after", "they", "said", "they", "had", "seats", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "said", "e2_pos": 8, "label": "after"},
+{"tokens": ["Ultimately", ",", "our", "food", "came", "to", "us", "over", "90", "mins", "after", "the", "time", "we", "were", "told", "we", "'d", "be", "seated", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "came", "to", "the", "shop", "each", "day", "after", "the", "meat", "had", "been", "brought", "into", "the", "store", "and", "unwrapped", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["He", "was", "not", "pleased", "being", "paid", "in", "cash", "in", "an", "envelope", ",", "but", "he", "needed", "the", "job", "desperately", "after", "he", "separated", "from", "the", "Army", "during", "the", "summer", "."], "e1_text": "needed", "e1_pos": 14, "e2_text": "separated", "e2_pos": 20, "label": "after"}
+]

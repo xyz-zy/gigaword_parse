@@ -1,0 +1,4 @@
+[
+{"tokens": ["Their", "lie", "was", "extremely", "unprofessional", "and", "caused", "much", "inconvenience", "to", "continuously", "have", "to", "call", "the", "dealership", "to", "hear", "that", "to", "they", "had", "lied", "to", "me", "and", "my", "car", "would", "not", "be", "ready", "before", "I", "left", "the", "country", "for", "my", "trip", "."], "e1_text": "be", "e1_pos": 30, "e2_text": "left", "e2_pos": 34, "label": "before"},
+{"tokens": ["Every", "other", "dealership", "that", "I", "have", "ever", "bought", "a", "used", "car", "from", "has", "had", "the", "decency", "to", "fix", "up", "scratches", "before", "giving", "it", "to", "the", "customer", "-", "further", "showing", "me", "why", "I", "should", "not", "do", "business", "with", "Findlay", "North", "."], "e1_text": "fix", "e1_pos": 17, "e2_text": "giving", "e2_pos": 21, "label": "before"}
+]

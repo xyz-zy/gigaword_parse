@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mother", "was", "attempting", "to", "help", "my", "father", "and", "tried", "to", "explain", "that", "after", "the", "waitress", "took", "our", "orders", ",", "my", "mother", "asked", "my", "father", "what", "he", "ordered", "and", "he", "said", "''", "``", "the", "sausage", ",", "''", "''", "but", "she", "would", "n't", "let", "my", "mother", "finish", "what", "she", "was", "saying", "."], "e1_text": "explain", "e1_pos": 11, "e2_text": "took", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "'m", "sure", "that", "after", "the", "business", "is", "more", "established", "-LRB-", "it", "'s", "only", "been", "operating", "for", "a", "few", "months", "-RRB-", ",", "he", "'ll", "probably", "back", "off", "a", "little", ",", "especially", "if", "he", "makes", "more", "friends", "in", "this", "area", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "is", "e2_pos": 7, "label": "after"}
+]

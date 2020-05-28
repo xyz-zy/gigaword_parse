@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "great", ",", "though", "multiple", "tables", "seated", "after", "me", "got", "their", "dumplings", "before", "me", "-LRB-", "I", "suspect", "because", "I", "ordered", "fried", "and", "they", "had", "steamed", "-RRB-", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "got", "e2_pos": 10, "label": "after"}
+]

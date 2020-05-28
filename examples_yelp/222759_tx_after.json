@@ -1,0 +1,3 @@
+[
+{"tokens": ["when", "i", "mentioned", "it", "to", "the", "waiter", "-LRB-", "after", "only", "having", "a", "few", "bites", "-RRB-", ",", "he", "mentioned", "that", "the", "ribbons", "of", "fat", "through", "the", "meat", "sometimes", "make", "it", "looked", "more", "''", "``", "cooked", "''", "''", "than", "it", "was", ",", "and", "as", "long", "as", "it", "was", "medium-rare", "tender", ",", "it", "was", "fine", "."], "e1_text": "mentioned", "e1_pos": 2, "e2_text": "having", "e2_pos": 10, "label": "after"}
+]

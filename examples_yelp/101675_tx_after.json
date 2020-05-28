@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "was", "MIA", "most", "of", "the", "evening", ",", "and", "when", "she", "did", "show", "up", "it", "was", "to", "try", "to", "get", "us", "to", "order", "more", "drinks", "after", "we", "told", "her", "we", "had", "our", "fill", "at", "the", "bar", "waiting", "for", "our", "table", "."], "e1_text": "order", "e1_pos": 23, "e2_text": "told", "e2_pos": 28, "label": "after"},
+{"tokens": ["We", "had", "to", "request", "the", "tortillas", "because", "she", "did", "n't", "automatically", "bring", "them", "out", ",", "she", "was", "delayed", "with", "our", "check", "and", "with", "taking", "our", "bill", "after", "I", "was", "clearly", "fed", "up", "and", "wanted", "to", "leave", "."], "e1_text": "taking", "e1_pos": 23, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "to", "sign", "the", "refund", "receipt", "before", "she", "re-did", "the", "transaction", ",", "and", "when", "asked", "if", "she", "had", "a", "pen", "she", "replied", "''", "``", "No", ",", "we", "do", "n't", "have", "any", "pens", ".", "''", "''"], "e1_text": "sign", "e1_pos": 3, "e2_text": "re-did", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "left", "close", "to", "10", "minutes", "after", "that", "even", "though", "there", "are", "only", "4", "choices", "and", "the", "decision", "was", "quick", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["Couples", "who", "came", "in", "after", "us", "are", "getting", "their", "food", "and", "we", "have", "yet", "to", "have", "our", "order", "taken", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "are", "e2_pos": 6, "label": "after"}
+]

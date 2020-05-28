@@ -1,0 +1,4 @@
+[
+{"tokens": ["Baby", "cockroach", "floating", "my", "3-year", "old", "'s", "crystal", "clear", "to-go", "cup", "of", "water", "...", "Only", "noticed", "after", "we", "had", "paid", "the", "bill", "and", "on", "the", "way", "out", "to", "find", "this", "nasty", "insect", "swimming", "on", "the", "top", "."], "e1_text": "noticed", "e1_pos": 15, "e2_text": "had", "e2_pos": 18, "label": "after"},
+{"tokens": ["Reading", "goldilock", "'s", "story", "from", "last", "year", ",", "where", "they", "cleaned", "up", "their", "50", "demerits", "after", "being", "shut", "down", "only", "leaves", "me", "hopeful", "that", "you", "can", "make", "them", "clean", "up", "their", "act", ";", "better", "than", "what", "a", "disgruntled", "voice", "on", "Facebook", "would", "serve", "."], "e1_text": "cleaned", "e1_pos": 10, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

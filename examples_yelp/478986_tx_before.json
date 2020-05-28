@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "a", "cup", "of", "chilli", "to", "start", "and", "was", "asked", "if", "I", "'d", "like", "it", "before", "my", "meal", ",", "to", "which", "I", "said", "yes", "."], "e1_text": "like", "e1_pos": 14, "e2_text": "said", "e2_pos": 23, "label": "before"},
+{"tokens": ["At", "least", "she", "could", "have", "waited", "until", "we", "were", "almost", "done", "eating", "before", "interrupting", "us", "."], "e1_text": "eating", "e1_pos": 11, "e2_text": "interrupting", "e2_pos": 13, "label": "before"}
+]

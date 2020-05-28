@@ -1,0 +1,4 @@
+[
+{"tokens": ["he", "then", "paid", "$", "30", "+", "for", "the", "order", "and", "left", "20min", "after", "arriving", "."], "e1_text": "paid", "e1_pos": 2, "e2_text": "arriving", "e2_pos": 13, "label": "after"},
+{"tokens": ["My", "husband", "called", "to", "explain", "that", "all", "the", "food", "was", "wrong", "even", "after", "he", "had", "already", "waited", "for", "them", "to", "''", "``", "fix", "it", "''", "''", "when", "he", "arrived", "to", "pick", "it", "up", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

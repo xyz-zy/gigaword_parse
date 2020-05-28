@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "has", "always", "been", "friendly", ",", "but", "there", "is", "a", "very", "high", "turnover", "rate", "with", "sales-associated", "so", "it", "'s", "kind", "of", "annoying", "when", "your", "a", "weekly", "customer", "to", "be", "asked", "''", "``", "Have", "you", "ever", "been", "to", "Lush", "before", "?", "''", "''"], "e1_text": "'s", "e1_pos": 19, "e2_text": "been", "e2_pos": 4, "label": "before"},
+{"tokens": ["-LRB-", "Ummm", "I", "was", "here", "for", "the", "grand", "opening", ",", "YES", "I", "'ve", "been", "here", "before", "-RRB-", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "served", "us", "our", "salad", "and", "miso", "soup", "after", "we", "had", "already", "ate", "the", "sushi", "because", "she", "said", ",", "''", "``", "so", "sorry", ",", "they", "serve", "so", "fast", ".", "''", "''"], "e1_text": "served", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

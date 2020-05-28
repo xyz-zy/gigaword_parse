@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", "the", "server", "comes", "and", "takes", "our", "order", "and", "we", "see", "the", "bigger", "parties", "get", "seated", "2mins", "after", "we", "were", "...", "now", "I", "'m", "like", "super", "irritated", "...", "but", "I", "'m", "still", "super", "nice", "and", "what", "not", "."], "e1_text": "seated", "e1_pos": 15, "e2_text": "were", "e2_pos": 19, "label": "after"},
+{"tokens": ["Wait", ",", "my", "friends", "got", "here", "then", "10mins", "after", "that", "I", "got", "mine", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "got", "e2_pos": 4, "label": "after"},
+{"tokens": ["Who", "wants", "to", "sit", "there", "and", "eat", "after", "everyone", "on", "your", "table", "get", "their", "food", "?"], "e1_text": "eat", "e1_pos": 6, "e2_text": "get", "e2_pos": 12, "label": "after"}
+]

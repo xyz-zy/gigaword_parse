@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "are", "new", "to", "Madison", ",", "and", "just", "the", "week", "before", "we", "ate", "at", "Tutto", "'s", "down", "the", "street", "from", "Portabella", "'s", "for", "the", "first", "time", "."], "e1_text": "are", "e1_pos": 1, "e2_text": "ate", "e2_pos": 12, "label": "before"},
+{"tokens": ["It", "also", "had", "that", "peculiarly", "soft", "texture", "that", "comes", "from", "sitting", "in", "a", "steamy", "warmer", "for", "hours", "before", "being", "used", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "being", "e2_pos": 18, "label": "before"},
+{"tokens": ["Typically", ",", "if", "my", "sangria", "tastes", "a", "watery", "I", "assume", "that", "it", "'s", "ice-melt", ",", "but", "this", "was", "a", "degree", "of", "watery", "that", "I", "have", "only", "tasted", "before", "when", "I", "went", "back", "to", "a", "glass", "sitting", "in", "the", "hot", "sun", "that", "was", "n't", "worth", "drinking", "anymore", "."], "e1_text": "tasted", "e1_pos": 26, "e2_text": "went", "e2_pos": 30, "label": "before"}
+]

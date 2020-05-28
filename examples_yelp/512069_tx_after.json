@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "made", "sure", "not", "to", "damage", "any", "other", "landscaping", "and", "cleaned", "up", "after", "they", "were", "done", "."], "e1_text": "cleaned", "e1_pos": 10, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["Our", "yard", "was", "cleaner", "after", "they", "left", "than", "it", "was", "when", "they", "arrived", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "left", "e2_pos": 6, "label": "after"}
+]

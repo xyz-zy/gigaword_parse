@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "15", "minutes", "I", "had", "to", "ask", "for", "the", "manager", "repeatedly", ",", "she", "eventually", "arrived", "after", "another", "15", "minutes", "went", "by", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "went", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "disagreed", ",", "this", "$", "200", "bottle", "of", "wine", "is", "either", "spoiled", "or", "terrible", ",", "in", "any", "case", "not", "drinkable", "after", "being", "stored", "in", "their", "cellar", "for", "many", "years", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "being", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "vet", "came", "in", ",", "he", "shook", "all", "our", "hands", "and", "pet", "our", "cat", "before", "taking", "her", "back", "for", "an", "exam", "."], "e1_text": "pet", "e1_pos": 12, "e2_text": "taking", "e2_pos": 16, "label": "before"}
+]

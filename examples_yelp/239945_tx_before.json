@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "made", "me", "wait", "a", "almost", "a", "full", "day", "-LRB-", "24", "hours", "-RRB-", "before", "they", "started", "unloading", "me", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "started", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "staff", "made", "me", "wait", "for", "2", "hours", "before", "going", "in", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

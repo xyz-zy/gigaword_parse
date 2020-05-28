@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "and", "visited", "with", "the", "school", "advisors", "twice", "and", "met", "with", "the", "VA", "staff", "3", "times", "before", "classes", "started", "to", "make", "sure", "that", "I", "had", "the", "correct", "classes", "and", "that", "I", "would", "be", "able", "to", "be", "fully", "covered", "by", "the", "GI", "Bill", "."], "e1_text": "met", "e1_pos": 10, "e2_text": "started", "e2_pos": 19, "label": "before"}
+]

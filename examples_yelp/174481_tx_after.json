@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "concerned", "that", "we", "were", "going", "to", "leave", "hungry", "since", "the", "portions", "are", "so", "small", "and", "there", "were", "only", "5", "courses", "-LRB-", "we", "are", "used", "to", "10", "+", "courses", "with", "tasting", "menus", "-RRB-", ",", "but", "the", "Kobe", "was", "SOOOOOoooooo", "rich", "that", "my", "wife", "and", "I", "were", "immediately", "satiated", "after", "splitting", "the", "portion", "of", "beef", "-LRB-", "we", "also", "split", "the", "lamb", "-RRB-", "."], "e1_text": "satiated", "e1_pos": 48, "e2_text": "splitting", "e2_pos": 50, "label": "after"}
+]

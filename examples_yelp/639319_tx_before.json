@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "stay", "in", "the", "one", "of", "the", "rooms", "...", "We", "got", "here", "on", "a", "Saturday", "night", ",", "just", "to", "meet", "for", "drinks", "before", "really", "heading", "out", "."], "e1_text": "meet", "e1_pos": 21, "e2_text": "heading", "e2_pos": 26, "label": "before"},
+{"tokens": ["My", "overall", "feeling", "is", "that", "they", "hired", "a", "bunch", "of", "people", "that", "have", "n't", "worked", "in", "the", "service", "industry", "before", "."], "e1_text": "hired", "e1_pos": 6, "e2_text": "have", "e2_pos": 12, "label": "before"}
+]

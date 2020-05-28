@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "actually", "1.5", "Stars", "One", "of", "the", "worst", "experiences", "I", "'ve", "had", "dinning", "in", "Vegas", "...", "this", "is", "the", "reason", "you", "dont", "leave", "the", "strip", "to", "get", "food", "After", "my", "sisters", "Bachelorette", "party", "and", "her", "fiances", "Bachelor", "party", "we", "all", "decided", "to", "grab", "lunch", "before", "heading", "back", "to", "LA.", "."], "e1_text": "grab", "e1_pos": 43, "e2_text": "heading", "e2_pos": 46, "label": "before"}
+]

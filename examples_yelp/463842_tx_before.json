@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "still", "find", "it", "extremely", "rude", "that", "they", "bring", "the", "check", "before", "you", "'re", "finished", "eating", "and", "having", "to", "watch", "the", "waitress", "eyeball", "the", "table", "every", "few", "minutes", "to", "see", "if", "I", "'ve", "paid", "the", "bill", "yet", "."], "e1_text": "bring", "e1_pos": 8, "e2_text": "'re", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "know", "I", "'ve", "said", "it", "before", "but", "these", "buffet", "places", "really", "need", "to", "go", "to", "full", "self-service", "."], "e1_text": "said", "e1_pos": 4, "e2_text": "need", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "chicken", "sandwich", "was", "dry", ",", "the", "breast", "needed", "pounded", "a", "little", "before", "grilling", "because", "it", "was", "huge", "in", "the", "middle", "and", "thin", "on", "the", "ends", ".", "."], "e1_text": "pounded", "e1_pos": 9, "e2_text": "grilling", "e2_pos": 13, "label": "before"}
+]

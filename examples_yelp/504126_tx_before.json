@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "PO'ed", "and", "only", "stayed", "for", "20", "mins", "before", "I", "went", "back", "to", "my", "hotel", "room", "-LRB-", "my", "friends", "toughed", "it", "out", "a", "little", "longer", "than", "that", "--", "maybe", "an", "hour", "-RRB-", "."], "e1_text": "stayed", "e1_pos": 5, "e2_text": "went", "e2_pos": 11, "label": "before"}
+]

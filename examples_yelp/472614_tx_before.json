@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "was", "talking", "on", "the", "phone", "-LRB-", "2", "-RRB-", "times", "we", "were", "there", "and", "waited", "to", "end", "her", "conversation", "before", "acknowledging", "us", "."], "e1_text": "end", "e1_pos": 16, "e2_text": "acknowledging", "e2_pos": 20, "label": "before"}
+]

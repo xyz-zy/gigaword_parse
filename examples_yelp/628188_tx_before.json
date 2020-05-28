@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "aggravating", "to", "see", "people", "come", "in", "20", "minutes", "after", "you", "and", "they", "finish", "their", "meal", "before", "you", "even", "begin", "to", "eat", "."], "e1_text": "finish", "e1_pos": 14, "e2_text": "begin", "e2_pos": 20, "label": "before"}
+]

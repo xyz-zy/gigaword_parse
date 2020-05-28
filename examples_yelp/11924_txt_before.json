@@ -1,0 +1,4 @@
+[
+{"tokens": ["~", "~", "~", "This", "disastrafuck", "of", "an", "excuse", "for", "what", "on", "a", "charitable", "day", "I", "would", "consider", "a", "missed", "abortion", "opportunity", "of", "a", "so-called", "business", "would", "cause", "weaker", "souls", "to", "commit", "hara-kiri", "before", "reaching", "the", "front", "of", "the", "line", "."], "e1_text": "commit", "e1_pos": 30, "e2_text": "reaching", "e2_pos": 33, "label": "before"},
+{"tokens": ["He", "had", "three", "computers", "going", "with", "a", "customer", "at", "each", "and", "was", "walking", "back", "and", "forth", "between", "them", "doing", "a", "little", "bit", "at", "each", "before", "moving", "on", "to", "the", "next", "."], "e1_text": "doing", "e1_pos": 18, "e2_text": "moving", "e2_pos": 25, "label": "before"}
+]

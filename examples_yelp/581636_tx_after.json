@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "seemed", "to", "take", "forever", "before", "anyone", "came", "to", "our", "table", "after", "we", "sat", "down", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "sat", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "told", "them", "I", "did", "not", "want", "my", "food", "brought", "back", "to", "the", "table", "cold", ",", "but", "when", "it", "was", "brought", "back", "-LRB-", "after", "we", "finished", "the", "appetizer", "-RRB-", ",", "it", "was", "anything", "but", "hot", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "finished", "e2_pos": 25, "label": "after"}
+]

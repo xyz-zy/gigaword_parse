@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "they", "have", "amazing", "beef", "stew", ",", "bun", "rieu", ",", "banh", "mi", "...", "I", "checked", "out", "their", "banh", "xeo", "here", "after", "my", "vietmanese", "coworker", "said", "that", "'s", "his", "favorite", "thing", ",", "and", "it", "'s", "the", "best", "I", "'ve", "had", "so", "far", "."], "e1_text": "checked", "e1_pos": 14, "e2_text": "said", "e2_pos": 24, "label": "after"},
+{"tokens": ["My", "husband", "always", "has", "to", "take", "away", "their", "liver", "spread", "banh", "mi", "after", "we", "'ve", "come", "here", "."], "e1_text": "take", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 14, "label": "after"}
+]

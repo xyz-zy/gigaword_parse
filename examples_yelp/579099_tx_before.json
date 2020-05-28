@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wish", "I", "had", "read", "the", "other", "reviews", "before", "visiting", "this", "nail", "salon", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "visiting", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "asked", "to", "pay", "before", "they", "painted", "my", "nails", ",", "but", "they", "asked", "me", "to", "wait", ",", "so", "I", "had", "to", "dig", "into", "my", "purse", "with", "thick", ",", "damp", "nail", "polish", "."], "e1_text": "pay", "e1_pos": 3, "e2_text": "painted", "e2_pos": 6, "label": "before"}
+]

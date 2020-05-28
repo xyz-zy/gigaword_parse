@@ -1,0 +1,4 @@
+[
+{"tokens": ["Thankfully", ",", "we", "'re", "all", "casual", "enough", "to", "discard", "table", "mannerisms", "and", "begin", "eating", "before", "everyone", "is", "served", "."], "e1_text": "eating", "e1_pos": 13, "e2_text": "is", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "3", "who", "ordered", "lunch", "specials", "all", "commented", "on", "how", "the", "food", "was", "fine", ",", "but", "the", "plates", "were", "ice", "cold", ",", "which", "cooled", "the", "dish", "down", "significantly", "before", "they", "were", "1\\/2", "way", "through", "."], "e1_text": "cooled", "e1_pos": 23, "e2_text": "were", "e2_pos": 18, "label": "before"}
+]

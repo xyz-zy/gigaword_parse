@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "best", "way", "to", "describe", "my", "experience", "at", "Texas", "de", "Brazil", "can", "be", "summarized", "in", "two", "words", ":", "MEAT", "DIM-SUM", "Upon", "the", "suggestion", "of", "one", "of", "my", "friends", "who", "has", "been", "here", "before", "he", "cautioned", "us", "not", "to", "fill", "up", "on", "the", "stuff", "at", "the", "salad", "bar", "rather", "start", "with", "the", "meat", "first", "."], "e1_text": "describe", "e1_pos": 4, "e2_text": "cautioned", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "highly", "suggest", "not", "eating", "lunch", "before", "you", "come", "because", "there", "'s", "that", "many", "different", "cuts", "of", "meat", "that", "you", "can", "try", "."], "e1_text": "eating", "e1_pos": 4, "e2_text": "come", "e2_pos": 8, "label": "before"}
+]

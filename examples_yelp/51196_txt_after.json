@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "did", "not", "have", "an", "answer", "for", "me", "and", "I", "am", "perplexed", "why", "I", "was", "not", "informed", "of", "the", "delay", "after", "being", "told", "it", "would", "be", "about", "an", "hour", "."], "e1_text": "informed", "e1_pos": 16, "e2_text": "being", "e2_pos": 21, "label": "after"},
+{"tokens": ["What", "puzzles", "me", "is", "that", "I", "saw", "my", "car", "on", "the", "hydraulic", "lift", "a", "few", "minutes", "after", "getting", "there", "and", "then", "was", "told", "by", "German", "that", "there", "was", "a", "truck", "in", "front", "of", "me", "."], "e1_text": "saw", "e1_pos": 6, "e2_text": "getting", "e2_pos": 17, "label": "after"}
+]

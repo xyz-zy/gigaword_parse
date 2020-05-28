@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "then", "never", "heard", "from", "Bike", "Barn", "after", "they", "got", "my", "bike", "delivered", "to", "them", "with", "my", "information", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["Joe", "went", "over", "and", "picked", "up", "the", "bike", "-LRB-", "after", "Bike", "Barn", "refused", "to", "drive", "it", "the", "6", "mi", ".", "-RRB-"], "e1_text": "picked", "e1_pos": 4, "e2_text": "refused", "e2_pos": 12, "label": "after"}
+]

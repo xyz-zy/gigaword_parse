@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "came", "in", "Saturday", "night", "after", "visiting", "the", "Railroad", "Park", "'s", "holiday", "lights", "with", "family", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "visiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["As", "my", "husband", "and", "I", "walked", "out", "after", "being", "ignored", "for", "roughly", "15", "minutes", ",", "I", "started", "to", "ask", "for", "a", "manager", ",", "but", "my", "husband", "said", "forget", "it", ",", "it", "'s", "not", "even", "worth", "it", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

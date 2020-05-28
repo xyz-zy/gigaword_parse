@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "seemed", "like", "he", "was", "late", "for", "something", "very", "important", ",", "and", "we", "were", "his", "last", "obstacle", "to", "overcome", "before", "he", "was", "able", "to", "free", "himself", "from", "the", "self-imposed", "bonds", "of", "servitude", "to", "Red", "Robin", "."], "e1_text": "overcome", "e1_pos": 18, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["He", "begrudgingly", "gave", "me", "a", "refill", "on", "my", "drink", "before", "he", "dropped", "off", "the", "check", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "dropped", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "will", "definitely", "be", "a", "while", "-LRB-", "if", "ever", "-RRB-", "before", "I", "visit", "this", "location", "again", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "visit", "e2_pos": 12, "label": "before"}
+]

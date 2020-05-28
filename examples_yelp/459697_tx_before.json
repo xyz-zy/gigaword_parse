@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "only", "thing", "it", "has", "going", "for", "it", "is", "it", "'s", "convenient", "location", "to", "Waverly", "Station", "so", "if", "you", "'re", "in", "a", "rush", "you", "can", "nip", "in", "and", "out", "before", "jumping", "on", "your", "train", "."], "e1_text": "nip", "e1_pos": 25, "e2_text": "jumping", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "we", "went", ",", "the", "kitchen", "messed", "up", "our", "order", "-LRB-", "at", "least", "that", "'s", "what", "the", "manager", "told", "us", "after", "we", "waited", "nearly", "40", "minutes", "and", "then", "after", "that", "it", "took", "another", "20", "minutes", "to", "get", "our", "food", "-RRB-", "."], "e1_text": "told", "e1_pos": 20, "e2_text": "waited", "e2_pos": 24, "label": "after"}
+]

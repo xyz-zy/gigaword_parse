@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "other", "items", "I", "would", "love", "to", "try", "but", "after", "sampling", "several", "dishes", ",", "I", "'m", "not", "in", "a", "hurry", "to", "come", "back", "here", "but", "not", "opposed", "to", "it", "if", "someone", "wanted", "to", "come", "here", "."], "e1_text": "try", "e1_pos": 8, "e2_text": "sampling", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "'m", "not", "one", "to", "linger", "after", "I", "finish", "eating", "so", "it", "was", "n't", "a", "big", "deal", "."], "e1_text": "linger", "e1_pos": 5, "e2_text": "finish", "e2_pos": 8, "label": "after"}
+]

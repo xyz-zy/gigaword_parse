@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "not", "pay", "for", "services", "before", "they", "are", "rendered", ";", "thus", ",", "when", "I", "objected", "to", "paying", "before", "seeing", "the", "doctor", ",", "I", "was", "told", "to", "leave", "."], "e1_text": "pay", "e1_pos": 3, "e2_text": "are", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Been", "here", "before", "of", "course", ",", "but", "what", "ruined", "this", "experience", ",", "they", "did", "n't", "put", "our", "lids", "to", "our", "shakes", "on", "tight", "!"], "e1_text": "Been", "e1_pos": 0, "e2_text": "ruined", "e2_pos": 8, "label": "before"},
+{"tokens": ["Check", "your", "stuff", "before", "you", "drive", "!"], "e1_text": "Check", "e1_pos": 0, "e2_text": "drive", "e2_pos": 5, "label": "before"}
+]

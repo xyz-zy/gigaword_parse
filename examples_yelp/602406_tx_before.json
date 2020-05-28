@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "did", "ask", "before", "we", "opened", "our", "menus", "if", "we", "wanted", "guacamole", "with", "our", "chips", "-", "my", "friend", "immediately", "agreed", "-", "to", "which", "we", "experienced", "dismay", "upon", "opening", "the", "menu", "and", "seeing", "it", "for", "$", "11", "-", "and", "the", "$", "11", "did", "not", "include", "a", "tableside", "guac", "in", "molcajete", "show", "-", "but", "instead", "a", "small", "side", "bowl", "that", "was", "not", "much", "bigger", "than", "the", "mini", "salsa", "container", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "opened", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "mine", "in", "to", "cancel", "all", "non-basic", "channels", "after", "getting", "an", "across-the-board", "rate", "hike", "of", "40", "%", "."], "e1_text": "cancel", "e1_pos": 5, "e2_text": "getting", "e2_pos": 10, "label": "after"},
+{"tokens": ["This", "is", "the", "third", "time", "I", "'ve", "had", "to", "go", "in", "to", "turn", "something", "in", "-LRB-", "DVR", ",", "another", "decoder", "box", "-RRB-", "after", "opening", "my", "bill", "to", "find", "they", "once", "again", "raised", "my", "prices", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "opening", "e2_pos": 23, "label": "after"}
+]

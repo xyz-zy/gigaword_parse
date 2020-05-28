@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "the", "reviews", "before", "going", "to", "this", "location", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "moral", "of", "the", "story", ":", "do", "n't", "forget", "to", "check", "your", "order", "before", "you", "leave", "and", "ask", "for", "your", "condiments", "and", "napkins", "!!", "NEVER", "going", "back", "."], "e1_text": "check", "e1_pos": 10, "e2_text": "leave", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "know", ",", "a", "normal", "customer", "question", "when", "things", "are", "out", "of", "stock", "...", "and", "he", "just", "huffs", "and", "says", "in", "the", "most", "contemptuous", "way", "possible", "''", "``", "UH", "well", "MAYBE", "at", "the", "end", "of", "NEXT", "WEEK", "after", "we", "MOVE", "to", "the", "NEW", "LOCATION", "''", "''", "...", "with", "a", "scowl", "on", "his", "face", "while", "shaking", "his", "head", "and", "turning", "to", "his", "pipe", "."], "e1_text": "says", "e1_pos": 19, "e2_text": "MOVE", "e2_pos": 39, "label": "after"}
+]

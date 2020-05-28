@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "was", "very", "smiley", "and", "nice", "...", "until", "he", "called", "me", "10", "minutes", "after", "leaving", ",", "informed", "me", "that", "he", "had", "given", "me", "the", "box", "of", "chocolates", "by", "mistake", ",", "and", "that", "he", "would", "be", "coming", "back", "to", "get", "them", "."], "e1_text": "called", "e1_pos": 9, "e2_text": "leaving", "e2_pos": 14, "label": "after"}
+]

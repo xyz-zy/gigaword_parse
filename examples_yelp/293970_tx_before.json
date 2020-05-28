@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "we", "were", "waiting", "in", "line", ",", "there", "was", "a", "guy", "standing", "next", "to", "it", "checking", "papers", "and", "passing", "out", "cups", "to", "make", "sure", "they", "were", "clear", "before", "we", "got", "to", "the", "checkout", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "got", "e2_pos": 29, "label": "before"}
+]

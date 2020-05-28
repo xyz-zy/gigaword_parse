@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "went", "in", "for", "my", "root", "canal", "after", "being", "referred", "by", "my", "dentist", "Justenseen", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["i", "was", "expecting", "some", "big", "huge", "needle", "to", "numb", "my", "mouth", "after", "my", "BF", "telling", "me", "his", "Root", "canal", "experience", "as", "a", "child", "-LRB-", "i", "know", "rude", "-RRB-", "but", "it", "was", "super", "tiny", "."], "e1_text": "numb", "e1_pos": 8, "e2_text": "telling", "e2_pos": 14, "label": "after"}
+]

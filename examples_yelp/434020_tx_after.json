@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "ordering", "Dominoes", "after", "noticing", "that", "their", "coupon", "codes", "are", "a", "scam", "."], "e1_text": "ordering", "e1_pos": 2, "e2_text": "noticing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Upon", "returning", "from", "getting", "Chinese", "food", ",", "a", "Dominos", "driver", "pulled", "up", "to", "our", "house", "-LRB-", "a", "total", "of", "almost", "3", "hours", "after", "we", "had", "ordered", ".", "-RRB-"], "e1_text": "pulled", "e1_pos": 10, "e2_text": "had", "e2_pos": 24, "label": "after"}
+]

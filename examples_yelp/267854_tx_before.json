@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "was", "n't", "as", "good", "as", "it", "was", "before", "and", "I", "felt", "like", "we", "got", "a", "little", "attitude", "because", "we", "did", "n't", "order", "alcohol", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["The", "last", "slap", "was", "a", "cheap", "''", "``", "Thank", "You", "''", "''", "take", "out", "bag", "and", "generic", "Styrofoam", "to", "go", "containers", "instead", "of", "the", "classic", "red", "string", "reusable", "bag", "they", "had", "before", "."], "e1_text": "go", "e1_pos": 19, "e2_text": "had", "e2_pos": 30, "label": "before"}
+]

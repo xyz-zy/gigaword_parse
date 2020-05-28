@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "looked", "at", "their", "menu", "online", "and", "thought", "''", "``", "it", "might", "not", "be", "so", "bad", "''", "''", "after", "I", "saw", "some", "of", "their", "salad", "bar", "selection", "."], "e1_text": "looked", "e1_pos": 1, "e2_text": "saw", "e2_pos": 20, "label": "after"}
+]

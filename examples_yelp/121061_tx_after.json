@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "my", "very", "first", "experience", "of", "downtown", "Las", "Vegas", ",", "after", "years", "of", "always", "staying", "on", "the", "Strip", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "staying", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "bad", "was", "the", "sewage", "odor", "that", "emanated", "from", "the", "sinks", "and", "tub", ",", "so", "we", "had", "to", "make", "sure", "to", "shut", "them", "after", "using", "."], "e1_text": "shut", "e1_pos": 21, "e2_text": "using", "e2_pos": 24, "label": "after"}
+]

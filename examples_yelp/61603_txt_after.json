@@ -1,0 +1,3 @@
+[
+{"tokens": ["Cold", "soup", "and", "noodles", "for", "pho", "ha", "-LRB-", "Chicken", "Noodle", "Soup", "-RRB-", "plus", "the", "egg", "rolls", "gave", "after", "the", "payment", "waiting", "too", "long", "for", "this", "food", "never", "happen", "like", "this", "before", "in", "the", "past", "I", "'m", "sad", "and", "disappointed"], "e1_text": "gave", "e1_pos": 16, "e2_text": "happen", "e2_pos": 27, "label": "after"}
+]

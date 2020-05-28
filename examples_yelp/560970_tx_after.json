@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "also", "ran", "out", "of", "green", "curry", "paste", "for", "my", "chicken", "green", "curry", ",", "so", "they", "replaced", "it", "with", "red", "curry", "paste", "without", "asking", "me", "first", ",", "and", "ran", "out", "of", "shrimp", "for", "my", "friend", "'s", "dish", "so", "replaced", "it", "with", "tofu", "-LRB-", "in", "this", "case", "they", "did", "consult", "her", "--", "after", "we", "had", "already", "been", "waiting", "45", "minutes", "for", "our", "food", "-RRB-", "."], "e1_text": "consult", "e1_pos": 48, "e2_text": "had", "e2_pos": 53, "label": "after"}
+]

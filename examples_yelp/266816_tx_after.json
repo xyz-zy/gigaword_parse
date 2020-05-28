@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "canceled", "my", "plan", "2", "days", "after", "I", "got", "it", "."], "e1_text": "canceled", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "after"}
+]

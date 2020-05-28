@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "was", "excellent", ",", "as", "expected", "-LRB-", "as", "I", "have", "been", "here", "before", "-RRB-", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "have", "e2_pos": 10, "label": "before"},
+{"tokens": ["Tell", "me", "if", "you", "have", "ever", "heard", "of", "this", "before", ":", "Our", "reservation", "was", "for", "2", "people", "at", "8:00", "pm", "on", "Sat", "night", "."], "e1_text": "Tell", "e1_pos": 0, "e2_text": "have", "e2_pos": 4, "label": "before"}
+]

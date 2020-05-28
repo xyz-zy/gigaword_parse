@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "not", "okay", "with", "the", "slower", "than", "mollasses", "front", "desk", ",", "the", "warm", "and", "humid", "hallways", ",", "the", "fact", "that", "my", "key", "card", "did", "n't", "work", "at", "2am", "2", "days", "before", "I", "checked", "out", ",", "not", "okay", "with", "the", "non", "existent", "Wifi", "especially", "if", "I", "paid", "$", "12", "for", "it", "in", "''", "``", "resort", "fees", "''", "''", "."], "e1_text": "work", "e1_pos": 26, "e2_text": "checked", "e2_pos": 33, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "I", "said", "I", "been", "here", "before", "and", "the", "salmon", "was", "very", "good", "over", "the", "salad", "my", "last", "time", "here", "."], "e1_text": "been", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "manager", "was", "on", "the", "floor", "and", "did", "check", "in", "with", "the", "tables", ",", "I", "would", "recommend", "that", "he", "be", "checking", "the", "kitchen", "and", "food", "before", "it", "leaves", "the", "kitchen", "and", "order", "better", "selections", "of", "beef", "to", "serve", "to", "the", "customers", "."], "e1_text": "checking", "e1_pos": 20, "e2_text": "leaves", "e2_pos": 27, "label": "before"}
+]

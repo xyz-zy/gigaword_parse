@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "with", "a", "friend", "last", "night", "after", "wanting", "to", "try", "this", "place", "for", "some", "time", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "wanting", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "really", "excited", "to", "try", "their", "food", "after", "reading", "all", "of", "the", "rave", "reviews", ",", "but", "overall", ",", "I", "thought", "it", "was", "just", "ok", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "only", "heard", "of", "Earl", "of", "Sandwich", "in", "Las", "Vegas", "even", "though", "it", "appears", "that", "the", "company", "has", "been", "around", "far", "before", "I", "was", "born", ",", "and", "it", "recently", "opened", "another", "location", "right", "in", "the", "center", "of", "downtown", "Disneyland", "!"], "e1_text": "been", "e1_pos": 19, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["plainly", "put", "...", "horrible", "!!", "The", "food", "got", "worse", "than", "it", "was", "before", "and", "as", "there", "was", "not", "a", "whole", "lot", "of", "people", "there", "at", "3pm", "for", "lunch", ",", "I", "was", "surprised", "by", "this", "and", "the", "fact", "that", "it", "took", "almost", "35", "minutes", "to", "get", "our", "food", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

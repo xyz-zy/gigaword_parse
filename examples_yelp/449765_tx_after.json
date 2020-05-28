@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "day", ",", "we", "returned", "to", "the", "room", "after", "being", "gone", "all", "day", "to", "find", "our", "room", "still", "not", "cleaned", "at", "6", "pm", "!!", "Second", "day", ",", "our", "room", "was", "clean", "but", "we", "had", "no", "towels", "until", "7pm", "because", "they", "ran", "out", "!"], "e1_text": "returned", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

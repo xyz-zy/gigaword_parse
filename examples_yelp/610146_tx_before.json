@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "there", "on", "their", "grand", "opening", "night", ",", "I", "was", "able", "to", "stand", "in", "line", "and", "watch", "them", "make", "many", "dozens", "of", "shakes", "for", "a", "good", "hour", "before", "coming", "to", "mine", "."], "e1_text": "make", "e1_pos": 18, "e2_text": "coming", "e2_pos": 28, "label": "before"},
+{"tokens": ["I", "had", "to", "stop", "by", "a", "store", "before", "reaching", "home", "to", "grab", "some", "water", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "reaching", "e2_pos": 8, "label": "before"}
+]

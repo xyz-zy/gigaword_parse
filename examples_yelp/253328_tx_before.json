@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "first", "used", "kiwi", "July", "2012", "when", "my", "roommate", "was", "moving", "out", "and", "our", "carpets", "needed", "to", "be", "cleaned", "before", "the", "my", "new", "tenant", "moved", "in", "."], "e1_text": "cleaned", "e1_pos": 18, "e2_text": "moved", "e2_pos": 24, "label": "before"},
+{"tokens": ["Now", "my", "lease", "is", "up", "at", "the", "end", "of", "this", "July", "and", "I", "had", "to", "get", "them", "cleaned", "a", "final", "time", "before", "moving", "out", "."], "e1_text": "cleaned", "e1_pos": 17, "e2_text": "moving", "e2_pos": 22, "label": "before"}
+]

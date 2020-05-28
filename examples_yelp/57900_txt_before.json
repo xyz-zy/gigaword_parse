@@ -1,0 +1,3 @@
+[
+{"tokens": ["Except", "for", "the", "past", "2", "weeks", "when", "I", "visited", "my", "father", "before", "he", "passed", ",", "I", "felt", "like", "they", "just", "left", "him", "alone", "and", "did", "not", "take", "him", "a", "bath", "."], "e1_text": "visited", "e1_pos": 8, "e2_text": "passed", "e2_pos": 13, "label": "before"}
+]

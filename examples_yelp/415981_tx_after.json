@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "re", "here", "for", "breakfast", "party", "of", "seven", "6", "adults", "and", "child", "and", "we", "only", "order", "5", "entrees", "and", "1", "togo", "and", "we", "get", "our", "bill", "it", "was", "$", "120", "then", "i", "charged", "it", "to", "my", "room", "then", "i", "signed", "and", "realized", "the", "bill", "was", "$", "150", "after", "i", "sign", "waitress", "took", "the", "bill", "never", "gave", "us", "any", "receit", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "took", "e2_pos": 51, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "parked", "the", "car", "and", "walked", "to", "the", "front", "door", "and", "before", "walking", "into", "the", "restaurant", "was", "greeted", "with", "protesters", "with", "pictures", "of", "pig", "guts", "and", "the", "heinous", "treatment", "of", "animals", "as", "well", "as", "the", "posters", "of", "meat", "is", "murder", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "walking", "e2_pos": 12, "label": "before"}
+]

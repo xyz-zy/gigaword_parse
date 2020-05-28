@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "transitioned", "service", "just", "after", "we", "were", "served", "our", "3rd", "course", "-LRB-", "I", "'ve", "never", "experienced", "this", "at", "a", "''", "``", "fine", "dining", "''", "''", "restaurant", "with", "coursed", "dishes", "-", "typically", "the", "waiter", "finishes", "your", "service", "before", "leaving", "-RRB-", "."], "e1_text": "finishes", "e1_pos": 34, "e2_text": "leaving", "e2_pos": 38, "label": "before"}
+]

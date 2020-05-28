@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "with", "friends", "and", "we", "waited", "about", "20", "minutes", "before", "receiving", "our", "first", "sampling", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "receiving", "e2_pos": 11, "label": "before"},
+{"tokens": ["There", "are", "many", "places", "I", "would", "prefer", "to", "go", "before", "trying", "this", "place", "again", "!"], "e1_text": "go", "e1_pos": 8, "e2_text": "trying", "e2_pos": 10, "label": "before"}
+]

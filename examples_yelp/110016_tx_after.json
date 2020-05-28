@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "n't", "even", "drink", "1\\/2", "of", "it", "after", "having", "dinner", "-LRB-", "shrimp", "salad", "-RRB-", "and", "another", "beer", "-LRB-", "22", "oz", "-RRB-", "prior", "to", "coming", "here", "."], "e1_text": "drink", "e1_pos": 4, "e2_text": "having", "e2_pos": 9, "label": "after"},
+{"tokens": ["My", "brother", "and", "I", "checked", "it", "out", "last", "night", ",", "after", "learning", "you", "get", "a", "free", "dessert", "on", "your", "birthday", "."], "e1_text": "checked", "e1_pos": 4, "e2_text": "learning", "e2_pos": 11, "label": "after"}
+]

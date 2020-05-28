@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "family", "came", "in", "10", "minutes", "before", "they", "closed", "and", "every", "seat", "was", "filled", "-LRB-", "albeit", "there", "are", "only", "a", "few", "seats", "available", ",", "but", "I", "would", "have", "expected", "them", "to", "be", "completely", "dead", "by", "that", "time", ".", "-RRB-"], "e1_text": "came", "e1_pos": 2, "e2_text": "closed", "e2_pos": 8, "label": "before"}
+]

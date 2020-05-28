@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "her", "if", "she", "was", "implying", "that", ",", "after", "driving", "10", "hours", "and", "eager", "to", "get", "both", "myself", "and", "my", "young", "kids", "to", "bed", ",", "I", "brought", "dead", "bugs", "with", "me", "to", "plant", "there", "so", "that", "I", "could", "then", "deal", "with", "the", "hassle", "of", "finding", "another", "hotel", "in", "the", "middle", "of", "the", "night", "."], "e1_text": "implying", "e1_pos": 6, "e2_text": "driving", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "once", ",", "I", "was", "ready", "to", "go", "bright", "and", "early", "so", "that", "we", "could", "make", "the", "six-hour", "drive", "before", "the", "holiday", "weekend", "traffic", "got", "to", "be", "too", "terrible", "."], "e1_text": "make", "e1_pos": 15, "e2_text": "got", "e2_pos": 24, "label": "before"},
+{"tokens": ["We", "sat", "inside", "the", "small", "lobby", "and", "chatted", "for", "a", "while", "before", "she", "came", "back", "in", "."], "e1_text": "chatted", "e1_pos": 7, "e2_text": "came", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "found", "only", "after", "it", "was", "described", ",", "extoled", ",", "and", "ordered", ",", "that", "it", "was", "no", "longer", "available", "--", "this", "was", "at", "7", "pm", "-", "pretty", "early", "to", "''", "``", "run", "out", "''", "''", "of", "the", "evening", "special", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "was", "e2_pos": 5, "label": "after"},
+{"tokens": ["Why", "did", "we", "learn", "that", "after", "it", "was", "ordered", "?"], "e1_text": "learn", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

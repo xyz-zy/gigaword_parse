@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "big", "portion", "of", "our", "bill", "was", "the", "diet", "cokes", "we", "ordered", "-LRB-", "which", "were", "a", "necessity", "IMO", "after", "all", "the", "alcohol", "we", "consumed", "over", "the", "weekend", "-RRB-", "."], "e1_text": "were", "e1_pos": 14, "e2_text": "consumed", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "is", "not", "bad", ";", "we", "came", "here", "for", "lunch", "cuz", "our", "family", "friends", "wanted", "to", "treat", "us", "before", "we", "leave", "Vegas", "."], "e1_text": "treat", "e1_pos": 17, "e2_text": "leave", "e2_pos": 21, "label": "before"}
+]

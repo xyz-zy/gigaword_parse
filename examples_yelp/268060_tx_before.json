@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "did", "n't", "even", "try", "to", "look", "for", "us", "when", "we", "were", "literally", "standing", "just", "outside", "of", "the", "door", "-LRB-", "which", "we", "had", "also", "let", "the", "hostess", "know", "before", "stepping", "out", "-RRB-", ",", "and", "it", "took", "a", "leaving", "customer", "to", "inform", "us", "that", "we", "were", "up", "for", "a", "table", "."], "e1_text": "know", "e1_pos": 27, "e2_text": "stepping", "e2_pos": 29, "label": "before"},
+{"tokens": ["It", "was", "a", "good", "15", "minutes", "before", "anybody", "walked", "past", "us", "or", "any", "of", "the", "tables", "around", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "walked", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "had", "to", "asked", "for", "a", "manager", "twice", "before", "our", "waitress", "came", "back", "with", "my", "steak", "re-cooked", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

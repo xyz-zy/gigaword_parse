@@ -1,0 +1,4 @@
+[
+{"tokens": ["Many", "restos", "were", "closed", "and", "this", "was", "the", "first", "place", "on", "my", "''", "``", "to", "try", "list", "''", "''", "that", "I", "found", "open", "after", "calling", "several", "other", "places", "."], "e1_text": "found", "e1_pos": 21, "e2_text": "calling", "e2_pos": 24, "label": "after"},
+{"tokens": ["BUT", ",", "I", "must", "have", "been", "invisible", "after", "my", "food", "was", "delivered", "."], "e1_text": "been", "e1_pos": 5, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

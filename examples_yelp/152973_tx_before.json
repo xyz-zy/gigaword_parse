@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "wife", "had", "to", "go", "to", "the", "restroom", "before", "we", "got", "seated", ",", "and", "when", "she", "got", "back", "to", "the", "hostess", "table", "-LRB-", "i", "was", "already", "seated", "at", "the", "teppan", "table", "-RRB-", ",", "a", "male", "host", "led", "her", "to", "our", "table", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

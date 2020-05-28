@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "this", "place", "second", "time", "because", "I", "got", "a", "nice", "haircut", "at", "this", "salon", "few", "weeks", "before", "from", "a", "nice", "person", "-LRB-", "I", "am", "feeling", "very", "sorry", "for", "not", "remembering", "her", "name", ",", "a", "friendly", ",", "stout", ",", "not", "so", "short", "white", "woman", "-RRB-", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "am", "e2_pos": 25, "label": "before"}
+]

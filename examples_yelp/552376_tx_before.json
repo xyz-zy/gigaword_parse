@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "employees", "were", "apparently", "filling", "an", "order", "that", "seemed", "to", "be", "causing", "them", "some", "trouble", "and", "our", "food", ",", "once", "started", ",", "sat", "on", "the", "prep", "line", "for", "longer", "that", "it", "should", "have", "before", "they", "finished", "it", "."], "e1_text": "have", "e1_pos": 32, "e2_text": "finished", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "could", "be", "to", "fill", "up", "''", "``", "other", "tables", "''", "''", "in", "their", "building", "for", "a", "little", "while", "before", "you", "eat", "."], "e1_text": "fill", "e1_pos": 4, "e2_text": "eat", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "always", "look", "forward", "to", "a", "great", "meal", "before", "lots", "of", "drinking", "in", "Vegas", "and", "a", "recharge", "before", "we", "drive", "home", "."], "e1_text": "look", "e1_pos": 2, "e2_text": "drinking", "e2_pos": 11, "label": "before"}
+]

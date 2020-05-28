@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "a", "moment", "to", "breathe", "before", "sitting", "down", "before", "a", "cleaning", "on", "Monday", ",", "and", "then", "before", "the", "cleaning", "could", "occur", ",", "the", "dentist", "figured", "out", "that", "one", "of", "my", "teeth", "hurts", "because", "I", "have", "a", "filling", "that", "'s", "falling", "apart", "."], "e1_text": "breathe", "e1_pos": 5, "e2_text": "sitting", "e2_pos": 7, "label": "before"}
+]

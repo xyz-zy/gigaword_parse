@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "decided", "to", "try", "it", "for", "dinner", "after", "having", "an", "enjoyable", "day", "in", "Vegas", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "having", "e2_pos": 11, "label": "after"},
+{"tokens": ["After", "we", "brought", "the", "mistake", "to", "his", "attention", ",", "he", "said", "that", "he", "would", "correct", "it", "after", "he", "took", "our", "dinner", "order", "."], "e1_text": "correct", "e1_pos": 14, "e2_text": "took", "e2_pos": 18, "label": "after"}
+]

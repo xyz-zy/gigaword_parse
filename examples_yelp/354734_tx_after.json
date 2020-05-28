@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "after", "the", "kitchen", "was", "closed", "-LRB-", "9pm", "-RRB-", "and", "were", "hungry", ",", "so", "basically", "at", "some", "point", "I", "went", "to", "the", "takeaway", "across", "the", "road", ",", "under", "the", "soaking", "rain", ",", "to", "get", "some", "chips", "for", "my", "flatmate", "and", "I.", "She", "stayed", "inside", "with", "our", "common", "friend", "because", "our", "pints", "were", "still", "full", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

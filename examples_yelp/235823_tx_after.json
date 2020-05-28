@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "I", "accidentally", "dropped", "a", "fork", "o", "the", "ground", "and", "after", "waiting", "5", "minutes", "for", "someone", "to", "come", "out", "so", "I", "can", "ask", "for", "a", "new", "one", "I", "had", "to", "get", "up", "off", "my", "table", "go", "inside", "and", "get", "a", "clean", "one", "off", "another", "table", "."], "e1_text": "dropped", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "the", "grovelling", ",", "snivelling", "rat", "that", "I", "am", ",", "it", "'s", "time", "to", "crawl", "back", "to", "Global", "Deli", "and", "beg", "their", "forgiveness", "for", "the", "pitifully", "low", "4", "stars", "I", "awarded", "them", "before", "."], "e1_text": "stars", "e1_pos": 28, "e2_text": "awarded", "e2_pos": 30, "label": "before"},
+{"tokens": ["In", "hindsight", ",", "I", "should", "have", "perhaps", "tried", "more", "than", "the", "breakfast", "rolls", "before", "dishing", "out", "the", "scores", ",", "but", "after", "todays", "brie", ",", "bacon", "and", "guacamole", "toasted", "ciabatta", ",", "there", "'s", "only", "one", "score", "to", "give", "."], "e1_text": "tried", "e1_pos": 7, "e2_text": "dishing", "e2_pos": 14, "label": "before"}
+]

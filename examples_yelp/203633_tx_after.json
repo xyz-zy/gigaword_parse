@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "another", "3-4", "minutes", "after", "that", "before", "they", "brought", "our", "water", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "brought", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "manager", "walks", "over", "-LRB-", "and", "guess", "what", ",", "she", "had", "long", "blond", "hair", "-RRB-", "after", "we", "explained", "the", "evening", ",", "she", "rudely", "asked", "if", "the", "waiter", "saw", "the", "hair", ",", "then", "she", "said", "that", "they", "had", "people", "out", "and", "it", "was", "too", "busy", ",", "and", "then", "said", "they", "could", "n't", "do", "anything", "about", "our", "tab", "."], "e1_text": "walks", "e1_pos": 2, "e2_text": "explained", "e2_pos": 17, "label": "after"}
+]

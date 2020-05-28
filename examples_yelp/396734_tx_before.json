@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "show", "is", "long", "which", "thank", "goodness", "one", "of", "the", "ushers", "told", "me", "that", "before", "it", "started", "so", "that", "I", "knew", "to", "use", "the", "restroom", "."], "e1_text": "told", "e1_pos": 11, "e2_text": "started", "e2_pos": 16, "label": "before"}
+]

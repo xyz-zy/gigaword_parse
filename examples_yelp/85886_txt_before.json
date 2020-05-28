@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "sure", "how", "exactly", "they", "make", "the", "dish", ",", "but", "I", "have", "made", "pad", "thai", "at", "home", "before", "with", "a", "sauce", "that", "I", "bought", "and", "it", "tasted", "exactly", "the", "same", "...", "We", "also", "got", "cream", "cheese", "wontons", "for", "50", "cents", "each", "and", "they", "were", "really", "good", ":-RRB-", "Their", "cheap", "eats", "menu", "during", "the", "trivia", "was", "amazingly", "cheap", "."], "e1_text": "made", "e1_pos": 14, "e2_text": "bought", "e2_pos": 25, "label": "before"}
+]

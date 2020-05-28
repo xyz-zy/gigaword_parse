@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "still", "refused", "to", "take", "the", "meal", "off", "the", "tab", "-LRB-", "which", "by", "the", "way", "was", "only", "$", "9", "-RRB-", "and", "instead", "offered", "us", "a", "promotional", "punch", "card", "that", "would", "'ve", "required", "us", "to", "dine", "in", "five", "times", "before", "receiving", "a", "$", "20", "gift", "card", "of", "some", "sort", "."], "e1_text": "dine", "e1_pos": 34, "e2_text": "receiving", "e2_pos": 39, "label": "before"},
+{"tokens": ["We", "then", "asked", "for", "the", "check", "to", "be", "split", "as", "we", "gave", "them", "the", "money", "and", "it", "took", "over", "10", "minutes", "before", "we", "even", "received", "our", "money", "back", "."], "e1_text": "took", "e1_pos": 17, "e2_text": "received", "e2_pos": 24, "label": "before"}
+]

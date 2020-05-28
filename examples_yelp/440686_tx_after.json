@@ -1,0 +1,3 @@
+[
+{"tokens": ["Terrible", ",", "we", "called", "to", "make", "a", "reservation", "and", "were", "put", "on", "hold", "after", "waiting", "for", "5", "minutes", "we", "hung", "up", "and", "called", "back", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

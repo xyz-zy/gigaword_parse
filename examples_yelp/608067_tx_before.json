@@ -1,0 +1,4 @@
+[
+{"tokens": ["During", "this", "hour", ",", "we", "also", "noticed", "a", "filthy", "rag", "that", "had", "apparently", "been", "left", "on", "our", "table", "before", "we", "sat", "down", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "sat", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "tacos", "were", "actually", "pretty", "good", ",", "which", "is", "why", "I", "give", "two", "stars", "-", "but", "there", "is", "absolutely", "no", "excuse", "for", "having", "customers", "sit", "at", "a", "table", "for", "an", "hour", "and", "a", "half", "after", "ordering", "before", "their", "food", "comes", ",", "with", "no", "apology", "."], "e1_text": "ordering", "e1_pos": 35, "e2_text": "comes", "e2_pos": 39, "label": "before"}
+]

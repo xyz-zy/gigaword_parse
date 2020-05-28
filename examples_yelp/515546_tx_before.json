@@ -1,0 +1,3 @@
+[
+{"tokens": ["Drinks", ":", "My", "wife", "'s", "mango", "lassi", "was", "completely", "forgotten", "-LRB-", "thankfully", "we", "were", "n't", "charged", "-RRB-", ",", "and", "my", "water", "was", "never", "refilled", "even", "though", "it", "was", "empty", "before", "I", "got", "my", "main", "dish", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "got", "e2_pos": 31, "label": "before"}
+]

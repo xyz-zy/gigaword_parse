@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "on", "time", "and", "called", "before", "coming", "over", "."], "e1_text": "called", "e1_pos": 5, "e2_text": "coming", "e2_pos": 7, "label": "before"},
+{"tokens": ["He", "also", "told", "me", "how", "much", "it", "was", "going", "to", "be", "before", "he", "even", "came", "out", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

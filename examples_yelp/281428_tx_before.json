@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", ",", "if", "anything", "was", "overly", "attentive", "and", "asked", "me", "what", "I", "wanted", "upon", "sitting", "down", "-LRB-", "please", ",", "give", "me", "five", "minutes", "to", "glaze", "over", "your", "extensive", "menu", "-RRB-", ",", "and", "then", "asked", "me", "something", "like", "3", "more", "times", "-LRB-", "maybe", "2", "minute", "intervals", "-RRB-", "before", "I", "picked", "out", "what", "I", "thought", "were", "going", "to", "be", "chicken", "tenders", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "picked", "e2_pos": 49, "label": "before"},
+{"tokens": ["Either", "way", ",", "I", "am", "feeling", "absolutely", "ill", "and", "wish", "that", "I", "had", "been", "smart", "enough", "to", "check", "the", "overwhelmingly", "positive", "reviews", "of", "this", "place", "before", "venturing", "inside", "."], "e1_text": "check", "e1_pos": 17, "e2_text": "venturing", "e2_pos": 26, "label": "before"}
+]

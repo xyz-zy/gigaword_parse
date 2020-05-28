@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "for", "the", "first", "time", "after", "hearing", "rave", "reviews", "about", "it", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "know", "it", "'s", "fast", "food", ",", "but", "it", "got", "a", "little", "annoying", "when", "every", "customer", "who", "came", "in", "after", "us", "decided", "to", "sit", "RIGHT", "next", "to", "us", "even", "though", "there", "were", "plenty", "of", "empty", "tables", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "decided", "e2_pos": 21, "label": "after"}
+]

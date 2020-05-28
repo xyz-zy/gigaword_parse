@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "came", "back", "with", "a", "vengeance", "not", "long", "after", "the", "antibiotics", "were", "through", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "were", "e2_pos": 11, "label": "after"},
+{"tokens": ["To", "top", "it", "off", ",", "when", "we", "called", "for", "a", "second", "appointment", "after", "his", "skin", "inflammation", "got", "WAY", "worse", "they", "could", "n't", "get", "us", "an", "appointment", "for", "4", "days", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "ARL", "was", "much", "more", "accommodating", ",", "and", "we", "only", "paid", "$", "15", "for", "our", "appointment", "there", "since", "it", "was", "our", "first", "appointment", "after", "adopting", "him", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "adopting", "e2_pos": 24, "label": "after"}
+]

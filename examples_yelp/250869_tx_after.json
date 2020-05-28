@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "were", "also", "late", "to", "your", "own", "place", "of", "business", "which", "had", "3", "people", "waiting", "outside", "before", "I", "even", "got", "there", "3", "minutes", "after", "you", "opened", "only", "to", "see", "you", "stroll", "up", "about", "10", "minutes", "late", "."], "e1_text": "got", "e1_pos": 19, "e2_text": "opened", "e2_pos": 25, "label": "after"},
+{"tokens": ["Yes", "I", "stated", "what", "needed", "to", "be", "done", "twice", "before", "setting", "the", "appointment", "and", "when", "I", "got", "there", ",", "perhaps", "you", "did", "n't", "hear", "me", "because", "you", "were", "in", "a", "rush", "after", "being", "late", "?"], "e1_text": "were", "e1_pos": 27, "e2_text": "being", "e2_pos": 32, "label": "after"}
+]

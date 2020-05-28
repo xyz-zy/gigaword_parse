@@ -1,0 +1,3 @@
+[
+{"tokens": ["Green", "Cab", "used", "to", "be", "my", "favorite", "cab", "service", "in", "the", "city", "but", "after", "they", "lost", "my", "reservation", "today", "I", "will", "not", "be", "booking", "with", "them", "in", "the", "future", "."], "e1_text": "used", "e1_pos": 2, "e2_text": "lost", "e2_pos": 15, "label": "after"}
+]

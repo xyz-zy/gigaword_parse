@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "company", "is", "in", "Vegas", "twice", "a", "year", "and", "I", "was", "hoping", "this", "would", "be", "a", "restaurant", "that", "would", "be", "on", "our", "annual", "list", ",", "but", "it", "was", "so", "bad", "we", "skipped", "dessert", "and", "had", "cigars", "and", "after", "dinner", "drinks", "somewhere", "else", "instead", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "drinks", "e2_pos": 39, "label": "after"}
+]

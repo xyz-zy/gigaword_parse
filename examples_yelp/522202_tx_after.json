@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "4:30", "pm", "when", "I", "noticed", "the", "leak", "and", "4:50", "p", "-LRB-", "after", "refilling", "it", "with", "air", "at", "a", "local", "gas", "station", "-RRB-", "that", "I", "realize", "the", "leak", "was", "fast", "and", "I", "'d", "need", "it", "fixed", "before", "I", "could", "safely", "transport", "all", "those", "kids", "that", "evening", "."], "e1_text": "noticed", "e1_pos": 6, "e2_text": "refilling", "e2_pos": 14, "label": "after"}
+]

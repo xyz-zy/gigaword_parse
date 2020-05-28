@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "had", "to", "tell", "hotel", "staff", "that", "I", "needed", "to", "sign", "the", "checks", "a", "second", "time", "after", "they", "put", "them", "away", ",", "and", "they", "said", "they", "would", "stamp", "the", "checks", "for", "me", "so", "I", "would", "n't", "have", "to", "write", "the", "hotel", "'s", "name", "."], "e1_text": "needed", "e1_pos": 9, "e2_text": "put", "e2_pos": 19, "label": "after"}
+]

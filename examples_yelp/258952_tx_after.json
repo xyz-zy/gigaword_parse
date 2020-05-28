@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "in", "6", "days", "after", "dropping", "my", "shoes", "off", "and", "still", "no", "word", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "dropping", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "was", "shipped", "via", "UPS", "I", "finally", "got", "the", "shoes", "2", "1\\/2", "weeks", "after", "I", "dropped", "them", "off", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "dropped", "e2_pos": 15, "label": "after"}
+]

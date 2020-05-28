@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "here", "'s", "the", "kicker", "...", "Upon", "payment", ",", "the", "owner", "took", "our", "cell", "phones", "to", "redeem", "the", "yelp", "offer", ",", "and", "asked", "us", ",", "on", "the", "spot", "to", "leave", "a", "yelp", "review", "before", "we", "pay", "him", "and", "show", "him", "the", "review", "."], "e1_text": "leave", "e1_pos": 29, "e2_text": "pay", "e2_pos": 35, "label": "before"},
+{"tokens": ["Took", "too", "long", ",", "asking", "to", "review", "a", "yelp", "review", "before", "payment", "is", "not", "professional", "."], "e1_text": "review", "e1_pos": 6, "e2_text": "is", "e2_pos": 12, "label": "before"}
+]

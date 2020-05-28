@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", ",", "the", "woman", "in", "the", "first", "window", "sees", "me", "after", "the", "woman", "in", "the", "middle", "announces", "that", "she", "is", "going", "to", "lunch", "."], "e1_text": "sees", "e1_pos": 8, "e2_text": "announces", "e2_pos": 16, "label": "after"}
+]

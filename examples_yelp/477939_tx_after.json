@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "had", "a", "great", "selection", "of", "food", "to", "choose", "from", "-LRB-", "from", "your", "typical", "sliced", "beef", "to", "razor", "clams", "-RRB-", "after", "you", "order", "you", "walk", "to", "the", "front", "and", "they", "have", "a", "table", "that", "is", "just", "for", "all", "of", "the", "sauces", "you", "can", "mix", "yourself", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "order", "e2_pos": 22, "label": "after"}
+]

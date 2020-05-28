@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "have", "never", "gone", "to", "your", "place", "before", "so", "I", "decided", "to", "go", "to", "your", "durango", "location", "."], "e1_text": "gone", "e1_pos": 3, "e2_text": "decided", "e2_pos": 10, "label": "before"},
+{"tokens": ["My", "passanger", "seat", "was", "pulled", "up", "all", "the", "way", "up", "which", "was", "odd", "because", "it", "was", "not", "like", "that", "before", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["When", "I", "pulled", "the", "seat", "back", "I", "revealed", "a", "circle", "of", "dried", "up", "frosting", "on", "my", "carpet", "that", "was", "there", "before", "."], "e1_text": "frosting", "e1_pos": 13, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

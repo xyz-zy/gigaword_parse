@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "couple", "weeks", "later", ",", "while", "walking", "home", "from", "dinner", ",", "we", "decided", "to", "make", "it", "a", "''", "``", "Blockbuster", "night", "''", "''", ",", "and", "walked", "over", "to", "rent", "a", "DVD", "-LRB-", "and", "then", ",", "of", "course", "make", "our", "last", "stop", "at", "Total", "Wine", "before", "heading", "home", "-RRB-", "."], "e1_text": "make", "e1_pos": 37, "e2_text": "heading", "e2_pos": 45, "label": "before"}
+]

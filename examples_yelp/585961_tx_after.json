@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "after", "only", "waiting", "40", "minutes", "because", "we", "opted", "to", "sit", "at", "the", "bar", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["My", "bf", "'s", "burger", "looked", "better", "but", "after", "a", "few", "bites", ",", "he", "said", "his", "burger", "was", "dry", "and", "well", "done", ",", "not", "medium", ",", "which", "was", "what", "he", "had", "asked", "for", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "said", "e2_pos": 13, "label": "after"}
+]

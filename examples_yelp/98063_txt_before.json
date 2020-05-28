@@ -1,0 +1,6 @@
+[
+{"tokens": ["You", "MUST", "check", "out", "their", "website", "or", "call", "in", "advance", "to", "make", "sure", "you", "have", "all", "the", "info", "before", "you", "go", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "go", "e2_pos": 20, "label": "before"},
+{"tokens": ["Put", "it", "on", "before", "you", "leave", "home", ",", "before", "you", "get", "on", "the", "river", ",", "and", "at", "Point", "2", "if", "you", "'re", "floating", "on", "the", "whole", "thing", "."], "e1_text": "Put", "e1_pos": 0, "e2_text": "leave", "e2_pos": 5, "label": "before"},
+{"tokens": ["-", "If", "you", "do", "n't", "want", "to", "be", "on", "the", "river", "forever", ",", "check", "the", "height\\/flow", "before", "you", "go", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "go", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "only", "reason", "for", "docking", "them", "a", "star", "is", "because", "I", "feel", "like", "the", "price", "is", "a", "little", "high", "and", "you", "definitely", "have", "to", "do", "your", "homework", "before", "you", "go", "."], "e1_text": "do", "e1_pos": 24, "e2_text": "go", "e2_pos": 29, "label": "before"}
+]

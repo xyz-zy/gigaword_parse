@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "guessing", "they", "were", "n't", "but", "accommodated", "us", "after", "I", "complained", "."], "e1_text": "accommodated", "e1_pos": 7, "e2_text": "complained", "e2_pos": 11, "label": "after"},
+{"tokens": ["It", "was", "then", "I", "realized", "that", "the", "waiter", "never", "brought", "my", "card", "back", "to", "me", "after", "he", "ran", "it", "."], "e1_text": "brought", "e1_pos": 9, "e2_text": "ran", "e2_pos": 17, "label": "after"}
+]

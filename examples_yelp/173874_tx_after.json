@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "the", "service", "was", "lacking", ";", "the", "waitress", "never", "informed", "us", "of", "the", "specials", "and", "I", "only", "happened", "to", "glance", "at", "the", "chalk", "board", "in", "front", "of", "me", "after", "I", "placed", "my", "order", "."], "e1_text": "happened", "e1_pos": 17, "e2_text": "placed", "e2_pos": 30, "label": "after"}
+]

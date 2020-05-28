@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sunday", "brunch", "on", "the", "patio", ",", "before", "hitting", "the", "pools", "."], "e1_text": "brunch", "e1_pos": 1, "e2_text": "hitting", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "had", "4", "and", "my", "boyfriend", "had", "5", "before", "we", "went", "down", "to", "mandalay", "beach", "for", "a", "day", "in", "the", "sun", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

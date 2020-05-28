@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", "many", "times", "the", "beds", "would", "have", "a", "lot", "of", "bulbs", "out", ",", "for", "days", "at", "a", "time", "before", "getting", "fixed", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "getting", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "canceled", "my", "account", "before", "moving", ",", "and", "still", "have", "to", "have", "the", "last", "draw", "come", "out", "for", "an", "entire", "month", "I", "was", "n't", "there", "because", "nobody", "explained", "it", "to", "me", "."], "e1_text": "canceled", "e1_pos": 1, "e2_text": "moving", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Recently", "I", "went", "here", "with", "a", "group", "of", "8", ",", "we", "were", "seated", "on", "the", "patio", "for", "at", "least", "10-15", "minutes", "before", "the", "server", "made", "it", "to", "our", "table", "."], "e1_text": "seated", "e1_pos": 12, "e2_text": "made", "e2_pos": 24, "label": "before"},
+{"tokens": ["It", "was", "an", "hour", "before", "we", "finally", "ate", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "ate", "e2_pos": 7, "label": "before"}
+]

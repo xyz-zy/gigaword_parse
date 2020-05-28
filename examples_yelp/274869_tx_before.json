@@ -1,0 +1,3 @@
+[
+{"tokens": ["3", "-RRB-", "The", "caption", "on", "the", "front", "of", "the", "menu", "says", "something", "ridiculously", "like", "''", "''", "Restrooms", "are", "for", "guests", "only", "and", "you", "must", "get", "permission", "before", "entering", "it", ".", "''", "''"], "e1_text": "get", "e1_pos": 24, "e2_text": "entering", "e2_pos": 27, "label": "before"}
+]

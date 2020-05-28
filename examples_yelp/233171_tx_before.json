@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "had", "regular", "facials", "before", "coming", "to", "Fuchsia", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "coming", "e2_pos": 6, "label": "before"},
+{"tokens": ["However", ",", "when", "I", "went", "back", "for", "my", "second", "appointment", ",", "I", "waited", "for", "20", "minutes", "before", "leaving", "."], "e1_text": "waited", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 17, "label": "before"}
+]

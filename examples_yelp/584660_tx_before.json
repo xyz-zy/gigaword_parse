@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "started", "speaking", ",", "in", "another", "language", ",", "to", "one", "of", "the", "barbers", "who", "was", "not", "cutting", "anyone", "'s", "hair", "at", "the", "time", "and", "before", "he", "even", "finished", "the", "barber", "shook", "his", "head", "saying", "no.", "."], "e1_text": "started", "e1_pos": 1, "e2_text": "finished", "e2_pos": 27, "label": "before"}
+]

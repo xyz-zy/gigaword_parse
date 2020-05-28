@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "ended", "up", "at", "Nevada", "climbing", "centers", "so", "after", "the", "sweet", "princess", "show", "was", "over", ",", "we", "met", "them", "at", "NCC", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "still", "ate", "my", "cold", "nachos", "because", "I", "felt", "bad", "after", "taking", "so", "much", "out", "of", "it", ",", "to", "be", "sending", "it", "back", "."], "e1_text": "felt", "e1_pos": 8, "e2_text": "taking", "e2_pos": 11, "label": "after"}
+]

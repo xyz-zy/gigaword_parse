@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "a", "few", "minutes", "before", "my", "reservation", "and", "the", "hostess", "let", "me", "know", "that", "the", "table", "would", "n't", "quite", "be", "available", "at", "7:30", ",", "which", "was", "fine", "because", "my", "date", "was", "running", "super", "late", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "let", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "heard", "''", "``", "I", "'ll", "be", "right", "back", "''", "''", "three", "times", "from", "our", "waiter", "before", "he", "\\*", "finally", "\\*", "took", "our", "order", "25", "minutes", "after", "we", "sat", "down", "."], "e1_text": "took", "e1_pos": 21, "e2_text": "sat", "e2_pos": 28, "label": "after"},
+{"tokens": ["We", "were", "not", "even", "brought", "bread", "until", "after", "our", "order", "was", "taken", ",", "30", "minutes", "later", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

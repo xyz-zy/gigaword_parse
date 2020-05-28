@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "in", "...", "Tried", "to", "order", "some", "food", ",", "and", "felt", "incredibly", "rushed", "after", "he", "told", "me", "try", "did", "n't", "serve", "what", "I", "was", "ordering", "anymore", "."], "e1_text": "felt", "e1_pos": 11, "e2_text": "told", "e2_pos": 16, "label": "after"},
+{"tokens": ["So", "I", "switched", "to", "a", "vegetarian", "style", "with", "kimchi", "and", "a", "fried", "egg", "...", "He", "kept", "barking", "at", "me", "''", "``", "anything", "else", "??", "anything", "else", "??", "''", "''", "...", "even", "if", "I", "was", "thinking", "about", "getting", "something", "else", ",", "I", "did", "n't", "want", "to", "after", "being", "barked", "at", "like", "that", "."], "e1_text": "want", "e1_pos": 43, "e2_text": "being", "e2_pos": 46, "label": "after"}
+]

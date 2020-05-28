@@ -1,0 +1,3 @@
+[
+{"tokens": ["WONDERFUL", ":-RRB-", "So", "I", "get", "there", "at", "10:30", ",", "and", "they", "'re", "all", "locked", "up", "with", "the", "lights", "off", "!!", "So", "after", "inspecting", "the", "place", "for", "a", "minute", "I", "walk", "back", "to", "my", "car", "and", "run", "into", "the", "employees", "!"], "e1_text": "!!", "e1_pos": 19, "e2_text": "inspecting", "e2_pos": 22, "label": "after"}
+]

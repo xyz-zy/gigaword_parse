@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "returned", "immediately", "after", "I", "received", "my", "plate", "and", "before", "I", "tasted", "the", "food", ",", "then", "never", "returned", "except", "to", "collect", "my", "check", ",", "leaving", "my", "order", "in", "the", "hands", "of", "the", "busboy", "-LRB-", "who", "was", "quite", "nice", "and", "helpful", "-RRB-", "."], "e1_text": "returned", "e1_pos": 2, "e2_text": "received", "e2_pos": 6, "label": "after"}
+]

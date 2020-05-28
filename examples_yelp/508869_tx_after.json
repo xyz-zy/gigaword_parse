@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "check", "was", "dropped", "off", "with", "the", "standard", "''", "``", "no", "worries", ",", "I", "'ll", "take", "this", "when", "you", "'re", "ready", "''", "''", "about", "2", "minutes", "after", "the", "food", "came", "."], "e1_text": "dropped", "e1_pos": 3, "e2_text": "came", "e2_pos": 29, "label": "after"}
+]

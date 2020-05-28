@@ -1,0 +1,4 @@
+[
+{"tokens": ["the", "engineering", "guy", "probably", "thought", "we", "'re", "strange", "in", "that", "we", "do", "n't", "slam", "doors", "but", "then", "I", "never", "had", "this", "problem", "before", ".", "."], "e1_text": "slam", "e1_pos": 13, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["remember", "to", "tell", "the", "spa", "people", "to", "spray", "the", "eucalyptus", "spray", "aromatherapy", "in", "the", "Hamam", "before", "you", "go", "in", ".", "."], "e1_text": "remember", "e1_pos": 0, "e2_text": "go", "e2_pos": 17, "label": "before"}
+]

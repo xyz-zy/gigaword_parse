@@ -1,0 +1,6 @@
+[
+{"tokens": ["My", "friend", "asked", "to", "speak", "to", "someone", "regarding", "changing", "our", "reservations", "to", "another", "hotel", ",", "soon", "after", "we", "were", "moved", "over", "to", "the", "strip", "side", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "were", "e2_pos": 18, "label": "after"},
+{"tokens": ["Now", "i", "informed", "her", "that", "the", "spa", "began", "melting", "my", "swimsuit", "just", "minutes", "after", "entering", "the", "water", "and", "she", "stated", ",", "''", "''", "I", "would", "n't", "know", "about", "that", "."], "e1_text": "melting", "e1_pos": 8, "e2_text": "entering", "e2_pos": 14, "label": "after"},
+{"tokens": ["i", "could", "n't", "believe", "it", "when", "he", "actually", "tried", "to", "reach", "inside", "my", "trunk", "after", "i", "had", "already", "placed", "the", "bags", "in", "there", "."], "e1_text": "reach", "e1_pos": 10, "e2_text": "had", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "guess", "he", "thought", "he", "was", "going", "to", "help", "...", "after", "not", "helping", "."], "e1_text": "guess", "e1_pos": 1, "e2_text": "helping", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "that", "'s", "very", "elitist", "of", "them", "to", "provide", "service", "to", "people", "who", "had", "n't", "shown", "up", "before", "people", "who", "are", "here", "and", "waiting", "to", "have", "lunch", "."], "e1_text": "shown", "e1_pos": 15, "e2_text": "are", "e2_pos": 20, "label": "before"},
+{"tokens": ["Let", "'s", "see", "how", "long", "we", "actually", "have", "to", "wait", "before", "getting", "a", "table", "and", "let", "'s", "see", "as", "well", "just", "how", "many", "tables", "remain", "empty", "when", "we", "are", "finally", "seated", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "getting", "e2_pos": 11, "label": "before"}
+]

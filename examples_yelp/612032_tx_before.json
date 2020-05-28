@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "told", "that", "the", "new", "owners", "have", "never", "been", "in", "the", "restaurant", "business", "before", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "have", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "just", "hope", "they", "figure", "it", "out", "soon", "before", "I", "lose", "all", "interest", "in", "going", "there", "and", "I", "know", "I", "'m", "not", "the", "only", "one", "."], "e1_text": "figure", "e1_pos": 4, "e2_text": "lose", "e2_pos": 10, "label": "before"}
+]

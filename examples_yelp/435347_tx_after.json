@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "really", "hoped", "our", "bad", "experience", "was", "just", "a", "one", "off", ",", "but", "after", "reading", "other", "reviews", "i", "see", "it", "wasnt", "."], "e1_text": "hoped", "e1_pos": 3, "e2_text": "see", "e2_pos": 19, "label": "after"},
+{"tokens": ["Sat", "down", ",", "ordered", "water", "with", "lemons", ",", "Didnt", "get", "the", "lemons", "until", "after", "we", "had", "started", "eating", "and", "drank", "all", "the", "water", "2", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

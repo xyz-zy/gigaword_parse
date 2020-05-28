@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "decided", "to", "purchase", "tickets", "to", "''", "``", "The", "Beatles", "LOVE", "''", "''", "after", "reading", "about", "all", "of", "the", "rave", "reviews", "of", "it", "on", "yelp", "."], "e1_text": "purchase", "e1_pos": 3, "e2_text": "reading", "e2_pos": 14, "label": "after"}
+]

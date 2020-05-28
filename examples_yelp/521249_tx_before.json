@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "order", "sausage", "in", "NY", ",", "you", "get", "slices", "of", "Italian", "sausage", ",", "and", "they", "put", "more", "cheese", "on", "it", "before", "putting", "it", "back", "in", "the", "oven", "."], "e1_text": "put", "e1_pos": 16, "e2_text": "putting", "e2_pos": 22, "label": "before"}
+]

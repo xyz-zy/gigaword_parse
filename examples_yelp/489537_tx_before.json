@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "tell", "you", "how", "many", "times", "I", "stared", "drooling", "at", "the", "menu", "before", "we", "went", "for", "dinner", "."], "e1_text": "stared", "e1_pos": 9, "e2_text": "went", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "went", "and", "got", "stamped", "for", "the", "Marquee", "before", "we", "checked", "in", "for", "dinner", ",", "and", "we", "ended", "up", "missing", "our", "reservation", "-LRB-", "held", "for", "fifteen", "minutes", "-RRB-", "."], "e1_text": "stamped", "e1_pos": 4, "e2_text": "checked", "e2_pos": 10, "label": "before"}
+]

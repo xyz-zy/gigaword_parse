@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "that", "it", "was", "towards", "the", "end", "of", "the", "night", ",", "but", "it", "is", "really", "rude", "and", "bad", "customer", "service", "to", "start", "shutting", "down", "half", "an", "hour", "before", "closing", "while", "there", "are", "customers", "in", "the", "store", "."], "e1_text": "shutting", "e1_pos": 23, "e2_text": "closing", "e2_pos": 29, "label": "before"}
+]

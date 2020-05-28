@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "even", "knew", "the", "place", "existed", "before", "last", "week", ",", "and", "I", "drive", "by", "here", "all", "the", "time", "."], "e1_text": "knew", "e1_pos": 3, "e2_text": "existed", "e2_pos": 6, "label": "before"},
+{"tokens": ["Lesson", "here", "is", "nobody", "is", "perfect", ",", "but", "5", "Guys", "seems", "to", "F-up", "far", "more", "often", "than", "they", "should", "given", "their", "''", "``", "BYOB", "''", "''", "style", "of", "menu", ",", "so", "check", "the", "contents", "of", "your", "grease-soaked", "bag", "before", "you", "leave", "if", "you", "'re", "taking", "it", "to-go", "."], "e1_text": "check", "e1_pos": 31, "e2_text": "leave", "e2_pos": 40, "label": "before"}
+]

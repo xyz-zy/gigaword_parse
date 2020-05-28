@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "there", "for", "breakfast", "and", "football", "this", "morning", ".11", "am", "that", "'s", "morning", "on", "Sunday", ",", "anyway", "I", "'ve", "been", "here", "before", "and", "he", "food", "was", "good", ",", "but", "...", "today", "it", "was", "just", "completely", "crappy", "."], "e1_text": "'s", "e1_pos": 12, "e2_text": "'ve", "e2_pos": 19, "label": "before"},
+{"tokens": ["my", "wife", "got", "the", "corned", "beef", "hash", "which", "was", "good", "on", "a", "prior", "visit", "but", "today", "it", "was", "cremated", "before", "they", "put", "it", "on", "the", "plate", ",", "not", "bad", "if", "you", "like", "hash", "ashes", "."], "e1_text": "cremated", "e1_pos": 18, "e2_text": "put", "e2_pos": 21, "label": "before"}
+]

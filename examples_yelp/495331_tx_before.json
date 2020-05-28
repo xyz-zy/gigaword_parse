@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "why", "did", "n't", "you", "tell", "me", "before", "I", "bought", "the", "sandwich", "?"], "e1_text": "tell", "e1_pos": 6, "e2_text": "bought", "e2_pos": 10, "label": "before"},
+{"tokens": ["Jersey", "Mike", "'s", "is", "off", "my", "list", ",", "check", "what", "they", "are", "putting", "in", "your", "sandwich", "before", "you", "get", "burned", "too", "."], "e1_text": "putting", "e1_pos": 12, "e2_text": "get", "e2_pos": 18, "label": "before"}
+]

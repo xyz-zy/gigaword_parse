@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "proceeded", "to", "ask", "him", "if", "they", "did", "the", "step", "before", "the", "reprogramming", "step", "which", "was", "to", "check", "the", "software", "version", "#", "to", "see", "if", "the", "radio", "actually", "needed", "reprograming", "or", "if", "the", "multimedia", "player", "interface", "module", "needed", "replacing", "and", "he", "just", "kept", "telling", "me", "that", "the", "software", "was", "up", "to", "date", "and", "they", "could", "n't", "reprogram", "the", "radio", "."], "e1_text": "did", "e1_pos": 7, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

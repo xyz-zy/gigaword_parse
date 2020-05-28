@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "driving", "five", "hours", "and", "arriving", "at", "midnight", "to", "be", "given", "a", "cold", "room", "with", "no", "heat", "and", "no", "phone", "after", "I", "already", "paid", "more", "than", "$", "300", ",", "I", "was", "feeling", "quite", "frustrated", "."], "e1_text": "given", "e1_pos": 10, "e2_text": "paid", "e2_pos": 23, "label": "after"}
+]

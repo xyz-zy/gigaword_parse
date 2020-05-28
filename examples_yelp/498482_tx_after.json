@@ -1,0 +1,3 @@
+[
+{"tokens": ["Update", ":", "The", "owner", "sent", "me", "a", "nasty", "email", "right", "after", "I", "posted", "this", ",", "saying", "my", "bad", "experience", "must", "be", "bad", "karma", "-LRB-", "??", "for", "always", "tipping", "a", "lot", "??", "-RRB-", ",", "and", "that", "saying", "his", "filthy", "uv", "dryer", "was", "filthy", "-LRB-", "sorry", ",", "it", "was", "actually", "sticky", ",", "gross", "-RRB-", "was", "unethical", "."], "e1_text": "sent", "e1_pos": 4, "e2_text": "posted", "e2_pos": 12, "label": "after"}
+]

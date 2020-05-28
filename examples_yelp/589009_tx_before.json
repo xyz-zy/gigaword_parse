@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "it", "`", "fancy", "'", "they", "drizzle", "this", "mustard", "looking", "sauce", "on", "the", "plate", "before", "placing", "the", "wings", "."], "e1_text": "looking", "e1_pos": 10, "e2_text": "placing", "e2_pos": 16, "label": "before"},
+{"tokens": ["Hope", "you", "like", "that", "barrel", "sauce", "they", "drizzled", "on", "the", "plate", "before", "placing", "the", "food", "because", "its", "on", "your", "celery", "now", ",", "too", "."], "e1_text": "drizzled", "e1_pos": 7, "e2_text": "placing", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "rule", "I", "'ve", "recently", "found", "out", "was", "that", "any", "Kohl", "'s", "store", "will", "honor", "their", "Kohl", "'s", "Cash", "for", "up", "to", "seven", "days", "after", "the", "expiration", "date", ",", "which", "I", "told", "her", "."], "e1_text": "honor", "e1_pos": 14, "e2_text": "told", "e2_pos": 31, "label": "after"},
+{"tokens": ["The", "manager", "showed", "up", "and", "fiddled", "with", "the", "keys", "for", "a", "bit", "before", "he", "exasperatedly", "looked", "up", "and", "me", "and", "said", "...", "''", "``", "look", ",", "we", "ca", "n't", "really", "honor", "these", "things", "if", "you", "do", "n't", "give", "them", "to", "us", "until", "after", "everything", "'s", "already", "been", "totaled", ".", "''", "''"], "e1_text": "give", "e1_pos": 37, "e2_text": "'s", "e2_pos": 44, "label": "after"}
+]

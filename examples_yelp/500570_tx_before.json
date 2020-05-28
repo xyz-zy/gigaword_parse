@@ -1,0 +1,4 @@
+[
+{"tokens": ["Imadake", "is", "one", "of", "those", "places", "that", "is", "close", "to", "getting", "5", "stars", "from", "me", "but", "still", "needs", "to", "adjust", "a", "couple", "of", "things", "before", "I", "'m", "willing", "to", "go", "that", "far", "."], "e1_text": "adjust", "e1_pos": 19, "e2_text": "'m", "e2_pos": 26, "label": "before"},
+{"tokens": ["All", "and", "all", "I", "do", "really", "enjoy", "Imadake", "but", "feel", "they", "need", "to", "still", "tweak", "a", "couple", "of", "things", "before", "they", "get", "a", "perfect", "5", "from", "me", "."], "e1_text": "tweak", "e1_pos": 14, "e2_text": "get", "e2_pos": 21, "label": "before"}
+]

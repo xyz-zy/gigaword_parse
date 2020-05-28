@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "next", "weekend", ",", "another", "installer", "came", "out", "and", "measured", "the", "room", "before", "he", "began", ",", "and", "it", "was", "still", "not", "enough", "."], "e1_text": "measured", "e1_pos": 9, "e2_text": "began", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "told", "him", "of", "the", "problems", "I", "had", "and", "asked", "him", "to", "measure", "the", "room", "before", "we", "did", "anything", "."], "e1_text": "measure", "e1_pos": 12, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

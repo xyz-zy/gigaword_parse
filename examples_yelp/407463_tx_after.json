@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "curiously", "been", "wanting", "to", "try", "this", "place", "for", "a", "while", ",", "after", "constantly", "passing", "by", "here", "on", "Decatur", "on", "my", "way", "to", "work", "everyday", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "passing", "e2_pos": 16, "label": "after"},
+{"tokens": ["And", "my", "wallet", "is", "pretty", "empty", "after", "the", "fiasco", "that", "is", "Black", "Friday", "!!", "Happy", "Holidays", "all", "!"], "e1_text": "is", "e1_pos": 3, "e2_text": "is", "e2_pos": 3, "label": "after"}
+]

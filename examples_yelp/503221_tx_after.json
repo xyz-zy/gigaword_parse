@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "credit", "card", "machine", "was", "broken", ",", "which", "I", "can", "understand", ",", "but", "they", "did", "n't", "tell", "us", "until", "after", "they", "had", "taken", "our", "order", "and", "put", "it", "in", "."], "e1_text": "tell", "e1_pos": 16, "e2_text": "had", "e2_pos": 21, "label": "after"}
+]

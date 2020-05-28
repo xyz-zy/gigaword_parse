@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "noticed", "that", "they", "always", "wait", "to", "bring", "this", "complimentary", "garlic", "bread", "until", "after", "you", "order", "-", "probably", "because", "it", "'s", "HUGE", "and", "you", "'d", "order", "way", "less", "if", "you", "knew", "you", "were", "getting", "this", "."], "e1_text": "bring", "e1_pos": 7, "e2_text": "order", "e2_pos": 15, "label": "after"}
+]

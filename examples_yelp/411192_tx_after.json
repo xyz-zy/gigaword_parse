@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "they", "dropped", "it", "off", ",", "they", "let", "us", "know", "that", "the", "day", "after", "we", "purchased", "the", "table", ",", "someone", "else", "had", "tried", "to", "buy", "it", "."], "e1_text": "know", "e1_pos": 9, "e2_text": "purchased", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "story", "was", "the", "same", "with", "our", "couches", ",", "after", "they", "were", "delivered", "someone", "had", "come", "in", "the", "store", "looking", "for", "them", "specifically", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

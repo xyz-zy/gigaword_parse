@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "received", "an", "email", "from", "the", "PR", "staff", "of", "airport", "shuttle", "the", "day", "after", "I", "posted", "the", "original", "review", ",", "so", "I", "guess", "the", "review", "here", "does", "help", "solving", "the", "problem", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "posted", "e2_pos": 15, "label": "after"}
+]

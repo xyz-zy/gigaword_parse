@@ -1,0 +1,4 @@
+[
+{"tokens": ["July", "5th", ",", "2014", ":", "They", "get", "a", "1", "star", "for", "customer", "service", "before", "I", "even", "get", "there", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "get", "e2_pos": 16, "label": "before"},
+{"tokens": ["Guess", "it", "better", "be", "a", "really", "stellar", "experience", "for", "me", "to", "upgrade", "after", "getting", "hosed", "down", "like", "this", "before", "I", "even", "get", "into", "town", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "get", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "Pizza", "Rock", "on", "a", "Saturday", "night", ",", "mainly", "wanting", "to", "try", "it", "after", "hearing", "about", "the", "award", "winning", "pizza", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "hearing", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "will", "say", "the", "food", "did", "come", "quick", "after", "ordering", "it", "however", ",", "and", "the", "10", "%", "locals", "discount", "is", "appreciated", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 9, "label": "after"}
+]

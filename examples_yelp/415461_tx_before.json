@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "chips", "are", "house", "made", ",", "hot", ",", "and", "greasy", "-", "beware", "of", "filling", "up", "on", "them", "before", "the", "meal", "comes", ",", "especially", "on", "a", "long", "wait", "like", "we", "had", "!"], "e1_text": "filling", "e1_pos": 13, "e2_text": "comes", "e2_pos": 20, "label": "before"},
+{"tokens": ["All", "in", "all", ",", "considering", "that", "we", "live", "in", "Seattle", "and", "yearn", "for", "authentic", "Mexican", ",", "this", "fit", "the", "bill", "with", "some", "unique", "dishes", "we", "'d", "never", "tried", "before", "."], "e1_text": "fit", "e1_pos": 17, "e2_text": "'d", "e2_pos": 25, "label": "before"}
+]

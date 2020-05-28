@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Skins", "are", "very", "large", "too", "...", "and", "stuffed", "full", "of", "the", "toppings", "...", "I", "'m", "glad", "I", "split", "it", "with", "my", "Son", "...", "I", "was", "full", "after", "eating", "1\\/2", "of", "the", "order", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "eating", "e2_pos": 28, "label": "after"},
+{"tokens": ["There", "'s", "also", "a", "mechanical", "Bull", "in", "the", "corner", "for", "those", "who", "dare", "...", "needless", "to", "say", ",", "nobody", "in", "our", "group", "was", "in", "the", "mood", "for", "a", "Bull", "Ride", "...", "not", "after", "trying", "to", "house", "a", "4", "lb", "Omelet", ",", "ha", "!"], "e1_text": "was", "e1_pos": 22, "e2_text": "trying", "e2_pos": 33, "label": "after"}
+]

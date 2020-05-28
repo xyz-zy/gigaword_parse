@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "had", "just", "cleaned", "my", "room", "min", "before", "I", "got", "in", "."], "e1_text": "cleaned", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "decided", "to", "use", "the", "rest", "room", "to", "wash", "up", "before", "hitting", "g", "the", "strip", "and", "noticed", "that", "the", "bathroom", "was", "clean", "but", "on", "spot", "."], "e1_text": "wash", "e1_pos": 8, "e2_text": "hitting", "e2_pos": 11, "label": "before"}
+]

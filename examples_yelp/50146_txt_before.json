@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "got", "to", "the", "register", "and", "handed", "the", "cashier", "a", "credit", "card", "she", "informed", "me", "they", "were", "not", "taking", "cards", "today", ",", "all", "of", "matter", "of", "factly", ",", "as", "if", "I", "was", "supposed", "know", "this", "before", "walking", "through", "the", "door", "."], "e1_text": "know", "e1_pos": 34, "e2_text": "walking", "e2_pos": 37, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "the", "beef", "had", "a", "wonderful", "smokiness", "to", "it", ",", "the", "gyoza", "were", "disappointingly", "undersalted", "even", "after", "dunking", "in", "a", "good", "amount", "of", "soy", "sauce", "."], "e1_text": "undersalted", "e1_pos": 14, "e2_text": "dunking", "e2_pos": 17, "label": "after"},
+{"tokens": ["He", "was", "highly", "grumpy", "after", "being", "mauled", "and", "ignored", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 5, "label": "after"}
+]

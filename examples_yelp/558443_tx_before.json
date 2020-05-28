@@ -1,0 +1,4 @@
+[
+{"tokens": ["Urgent", "Cares", "are", "notorious", "for", "their", "wait", "...", "I", "get", "it", ",", "but", "we", "waited", "over", "an", "hour", "before", "I", "was", "seen", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "was", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "next", "day", ",", "I", "was", "far", "worse", ",", "the", "''", "``", "head", "congestion", "''", "''", "was", "now", "deep", "in", "my", "chest", ",", "and", "I", "was", "worse", "than", "I", "was", "the", "day", "before", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "was", "e2_pos": 5, "label": "before"}
+]

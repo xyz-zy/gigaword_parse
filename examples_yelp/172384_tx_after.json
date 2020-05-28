@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "best", "lobster", "I", "'ve", "had", "has", "not", "been", "in", "steakhouses", "...", "it", "usually", "seems", "to", "be", "on", "the", "beach", "after", "being", "freshly", "caught", "and", "after", "I", "am", "freshly", "inebriated", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "being", "e2_pos": 21, "label": "after"},
+{"tokens": ["Complicated", "computer", "calculation", "outcome", ":", "4.483", "stars", "I", "will", "likely", "never", "be", "able", "to", "afford", "to", "come", "here", "again", "after", "dropping", "more", "than", "300", "bucks", "for", "all", "of", "the", "above", "plus", "a", "half", "a", "bottle", "of", "wine", "...", "but", "that", "is", "ok", "."], "e1_text": "come", "e1_pos": 16, "e2_text": "dropping", "e2_pos": 20, "label": "after"}
+]

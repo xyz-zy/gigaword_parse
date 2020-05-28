@@ -1,0 +1,3 @@
+[
+{"tokens": ["how", "dogs", "need", "a", "routine", ",", "make", "sure", "you", "take", "them", "for", "walks", ",", "and", "feed", "them", "at", "the", "same", "time", "every", "day", ",", "and", "explained", "to", "me", "about", "their", "bowel", "movements", "and", "how", "they", "need", "to", "be", "walked", "after", "digesting", "...", "I", "guess", "she", "missed", "the", "part", "on", "my", "application", "where", "I", "stated", "that", "I", "'ve", "had", "two", "dogs", "already", "."], "e1_text": "walked", "e1_pos": 38, "e2_text": "digesting", "e2_pos": 40, "label": "after"}
+]

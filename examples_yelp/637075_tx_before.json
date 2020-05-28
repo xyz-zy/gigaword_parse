@@ -1,0 +1,4 @@
+[
+{"tokens": ["10", "of", "us", "gals", ",", "-LRB-", "yes", "10", "-RRB-", "rolled", "into", "Matt", "'s", "for", "one", "last", "drink", "-LRB-", "after", "draining", "Costco", "'s", "wine", "section", "for", "5", "days", "straight", "-RRB-", "and", "a", "bite", "to", "eat", "before", "boarding", "our", "flight", "home", "."], "e1_text": "eat", "e1_pos": 33, "e2_text": "boarding", "e2_pos": 35, "label": "before"},
+{"tokens": ["Right", "...", "So", "now", "we", "need", "to", "board", "a", "flight", ",", "they", "quickly", "make", "us", "our", "meals", ",", "it", "comes", "out", "under", "cooked", ",", "we", "have", "a", "few", "bites", "before", "running", "to", "board", ",", "we", "get", "the", "bill", "and", "the", "3", "of", "us", "have", "our", "meals", "10", "%", "compt", "."], "e1_text": "have", "e1_pos": 25, "e2_text": "running", "e2_pos": 30, "label": "before"}
+]

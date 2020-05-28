@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "that", "night", "was", "mousey", "and", "awkward", "and", "took", "our", "menus", "before", "we", "were", "ready", "to", "be", "done", "ordering", "...", "then", "tried", "to", "say", "that", "she", "left", "a", "menu", "and", "it", "must", "have", "fallen", "...", "into", "thin", "air", "?"], "e1_text": "took", "e1_pos": 9, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "printed", "out", "a", "coupon", "for", "an", "oil", "change", "&", "inspection", "for", "$", "29.95", "plus", "some", "other", "perks", ",", "and", "went", "in", "at", "3:35", "on", "a", "Saturday", "to", "use", "it", "after", "I", "got", "out", "of", "work", "."], "e1_text": "use", "e1_pos": 28, "e2_text": "got", "e2_pos": 32, "label": "after"}
+]

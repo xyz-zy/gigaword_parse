@@ -1,0 +1,3 @@
+[
+{"tokens": ["Shortages", "at", "the", "snack", "bar", "then", "went", "into", "the", "theater", "20", "minutes", "before", "showtime", "and", "the", "previous", "movie", "was", "still", "showing", "!"], "e1_text": "went", "e1_pos": 6, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

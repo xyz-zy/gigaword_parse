@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "i", "tried", "to", "send", "it", "back", "the", "server", "gave", "me", "incredible", "attitude", "saying", "they", "had", "recently", "switched", "sides", "even", "after", "i", "had", "specifically", "made", "sure", "they", "had", "what", "i", "wanted", "."], "e1_text": "send", "e1_pos": 4, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["-LRB-", "we", "'re", "drinkers", ",", "that", "was", "nothing", "-RRB-", "If", "it", "had", "been", "the", "wine", "i", "would", "have", "been", "similarly", "affected", ",", "the", "only", "thing", "it", "could", "have", "been", "was", "the", "lemonchellos", "as", "they", "were", "separate", "glasses", "and", "served", "after", "i", "complained", "."], "e1_text": "served", "e1_pos": 38, "e2_text": "complained", "e2_pos": 41, "label": "after"}
+]

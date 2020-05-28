@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "friends", "also", "apparently", "told", "the", "waitress", "that", "we", "were", "celebrating", "my", "birthday", ",", "because", "before", "I", "knew", "it", "she", "brought", "a", "piece", "of", "cake", "with", "a", "candle", "."], "e1_text": "celebrating", "e1_pos": 12, "e2_text": "knew", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["For", "starters", ",", "the", "moment", "I", "opened", "my", "car", "door", "before", "stepping", "out", ",", "I", "was", "met", "with", "a", "''", "``", "hey", "big", "man", "-LRB-", "I", "'m", "a", "big", "man", "-RRB-", ",", "you", "help", "me", "out", "with", "some", "change", "for", "the", "bus", "?", "''", "''"], "e1_text": "opened", "e1_pos": 6, "e2_text": "stepping", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "stand", "there", "for", "20", "seconds", "of", "silence", "before", "a", "man", "walks", "out", "and", "lists", "off", "the", "iced", "teas", "."], "e1_text": "stand", "e1_pos": 1, "e2_text": "walks", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "tell", "them", "and", "they", "look", "at", "me", "like", "I", "'m", "crazy", "before", "getting", "me", "a", "new", "bottle", "."], "e1_text": "'m", "e1_pos": 10, "e2_text": "getting", "e2_pos": 13, "label": "before"}
+]

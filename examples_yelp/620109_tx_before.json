@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "look", "exactly", "the", "same", "as", "they", "did", "before", "you", "got", "them", "done", "!", "''", "''"], "e1_text": "did", "e1_pos": 7, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["Well", "at", "this", "point", "I", "'m", "pissed", "and", "I", "wish", "I", "read", "the", "reviews", "on", "here", "before", "I", "chose", "this", "doctor", "."], "e1_text": "read", "e1_pos": 11, "e2_text": "chose", "e2_pos": 18, "label": "before"}
+]

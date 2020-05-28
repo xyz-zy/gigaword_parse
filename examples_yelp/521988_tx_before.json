@@ -1,0 +1,3 @@
+[
+{"tokens": ["Barista", "busy", "swatting", "flies", "and", "does", "n't", "wash", "hands", "before", "going", "back", "to", "the", "espresso", "machine", "."], "e1_text": "wash", "e1_pos": 7, "e2_text": "going", "e2_pos": 10, "label": "before"}
+]

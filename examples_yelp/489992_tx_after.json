@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "top", "off", "a", "successfull", "Vegas", "trip", ",", "we", "came", "to", "Holsteins", "hungry", "and", "anxious", "after", "seeing", "all", "the", "solid", "reviews", "."], "e1_text": "Holsteins", "e1_pos": 11, "e2_text": "seeing", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "took", "10", "minutes", "to", "have", "a", "waiter", "even", "greet", "us", "after", "sitting", "down", "."], "e1_text": "greet", "e1_pos": 9, "e2_text": "sitting", "e2_pos": 12, "label": "after"}
+]

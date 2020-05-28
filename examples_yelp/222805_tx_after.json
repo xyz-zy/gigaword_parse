@@ -1,0 +1,4 @@
+[
+{"tokens": ["Vegas", "never", "fails", "...", "and", "the", "concierge", "at", "The", "Hotel", "at", "Mandalay", "Bay", "deserves", "a", "raise", "after", "recommending", "this", "restaurant", "."], "e1_text": "deserves", "e1_pos": 13, "e2_text": "recommending", "e2_pos": 17, "label": "after"},
+{"tokens": ["They", "gave", "us", "complimentary", "duck", "fries", "-LRB-", "amazing", "-RRB-", "so", "after", "I", "was", "done", "eating", "those", ",", "I", "knew", "that", "I", "did", "n't", "want", "a", "big", "meal", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

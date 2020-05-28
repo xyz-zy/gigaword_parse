@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "had", "much", "tastier", "Korean", "food", "before", ",", "this", "place", "is", "really", "nothing", "special", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "is", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "came", "in", "and", "waited", "at", "the", "front", "counter", "for", "about", "15", "minutes", "before", "anyone", "even", "acknowledged", "us", ",", "when", "they", "finally", "did", "thy", "said", "it", "would", "be", "another", "5", "minutes", ",", "that", "turned", "into", "about", "another", "15", "minutes", "so", "after", "about", "a", "half", "an", "hour", "wait", "for", "a", "table", ",", "even", "though", "the", "place", "was", "n't", "crowded", "AT", "ALL", ",", "we", "were", "finally", "seated", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "acknowledged", "e2_pos": 16, "label": "before"}
+]

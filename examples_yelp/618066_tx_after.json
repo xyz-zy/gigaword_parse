@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "right", "after", "the", "rush", "and", "our", "server", "just", "seemed", "so", "tired", "or", "something", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "seemed", "e2_pos": 10, "label": "after"},
+{"tokens": ["In", "that", "time", "we", "had", "already", "seen", "3", "other", "guests", "that", "arrived", "after", "us", "already", "chowin", "down", "!!", "So", "we", "ended", "up", "waiting", "and", "had", "shoved", "our", "faces", "with", "delicious", "food", "right", "after", "the", "server", "dropped", "it", "off", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "chowin", "e2_pos": 15, "label": "after"}
+]

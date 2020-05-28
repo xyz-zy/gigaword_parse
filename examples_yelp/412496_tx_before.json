@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "make", "it", "more", "presentable", ",", "they", "should", "have", "scooped", "the", "rice", "into", "a", "bowl", "before", "turning", "it", "over", "onto", "the", "plate", "."], "e1_text": "scooped", "e1_pos": 9, "e2_text": "turning", "e2_pos": 16, "label": "before"}
+]

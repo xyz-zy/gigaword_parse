@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "here", "last", "night", "for", "the", "first", "time", ",", "ordered", "3lb", "stuffed", "lobster", ",", "stuffed", "with", "crab", "&", "scallops", ",", "lobster", "was", "tougher", "than", "nails", ",", "scallops", "were", "tasteless", ",", "crab", "was", "ok", ",", "charged", "an", "additional", "$", "15", "for", "this", "stuffing", "but", "neglected", "to", "tell", "us", "until", "after", "I", "questioned", "the", "bill", "."], "e1_text": "tell", "e1_pos": 45, "e2_text": "questioned", "e2_pos": 50, "label": "after"}
+]

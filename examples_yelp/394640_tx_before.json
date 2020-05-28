@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "frito", "pie", ",", "the", "chorizo", "chili", "is", "delicious", "but", "they", "need", "to", "give", "more", "chili", ",", "there", "were", "too", "many", "fritos", "and", "I", "finished", "the", "chili", "way", "before", "the", "fritos", "ran", "out", "."], "e1_text": "finished", "e1_pos": 26, "e2_text": "ran", "e2_pos": 33, "label": "before"}
+]

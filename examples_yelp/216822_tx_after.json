@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "problem", ":", "the", "waiter", "who", "clearly", "found", "no", "interest", "in", "interacting", "with", "us", "after", "tossing", "us", "our", "pre-planned", "menus", "groupon", "had", "chosen", ",", "seemed", "to", "purposefully", "set", "us", "up", "."], "e1_text": "interacting", "e1_pos": 11, "e2_text": "tossing", "e2_pos": 15, "label": "after"}
+]

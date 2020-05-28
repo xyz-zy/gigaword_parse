@@ -1,0 +1,3 @@
+[
+{"tokens": ["Rented", "an", "RV", "for", "Burning", "Man", "...", "we", "cleaned", "the", "RV", "thoroughly", ",", "then", "cleaned", "it", "again", "even", "more", "thoroughly", "at", "the", "drop", "off", "point", "and", "allowed", "them", "to", "inspect", "and", "reinspect", "after", "we", "cleaned", "."], "e1_text": "inspect", "e1_pos": 29, "e2_text": "cleaned", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Essentially", ",", "they", "flip", "a", "mini", "Corona", "into", "a", "regular", "margarita", "at", "your", "table", ",", "and", "you", "have", "to", "quickly", "drink", "it", "before", "it", "all", "overflows", "-LRB-", "http:\\/\\/www.yelp.com\\/biz_photos\\/cabo-wabo-cantina-las-vegas?select=vguZqf4mTUutzMe9wgw8Sw#RV-cRSWcsgg5ITs4n6OcAQ", "-RRB-", "."], "e1_text": "drink", "e1_pos": 20, "e2_text": "overflows", "e2_pos": 25, "label": "before"},
+{"tokens": ["As", "petty", "and", "trivial", "as", "that", "sounds", ",", "I", "would", "have", "seen", "the", "''", "``", "Free", "margarita", "with", "the", "purchase", "of", "an", "entr", "\\", "u00e9e", "''", "''", "deal", "before", "I", "ordered", ",", "and", "I", "could", "have", "saved", "myself", "$", "12", "on", "that", "Chupa", "Chupa", "!"], "e1_text": "deal", "e1_pos": 27, "e2_text": "ordered", "e2_pos": 30, "label": "before"}
+]

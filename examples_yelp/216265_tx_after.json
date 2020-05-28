@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "after", "clubbing", "and", "even", "though", "it", "was", "5AM", ",", "there", "was", "a", "wait", "!"], "e1_text": "Came", "e1_pos": 0, "e2_text": "clubbing", "e2_pos": 3, "label": "after"},
+{"tokens": ["Seats", "are", "first", "come", ",", "first", "serve", "and", "after", "that", "you", "wait", "in", "line", "until", "one", "of", "the", "20", "seats", "are", "free", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "wait", "e2_pos": 11, "label": "after"}
+]

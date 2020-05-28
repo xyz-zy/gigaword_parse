@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "good", ",", "reason", "for", "the", "4", "stars", "is", "the", "service", "was", "not", "that", "great", "but", "I", "always", "give", "people", "the", "benefit", "of", "the", "doubt", "it", "was", "an", "hour", "before", "closing", "so", "maybe", "the", "servers", "was", "tired", "I", "'ll", "try", "it", "again", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "closing", "e2_pos": 32, "label": "before"}
+]

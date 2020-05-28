@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "my", "haste", "to", "get", "dinner", "before", "I", "passed", "out", ",", "I", "almost", "made", "the", "mistake", "of", "entering", "Fazio", "'s", ",", "the", "other", "hole-in-the-wall", "pizza", "joint", "on", "Penn", "Avenue", "in", "Lawrenceville", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "passed", "e2_pos": 8, "label": "before"},
+{"tokens": ["Remembering", "that", "the", "restaurant", "I", "quickly", "Yelped", "before", "walking", "out", "from", "the", "hostel", "had", "a", "longer", "name", ",", "I", "continued", "to", "walk", "down", "Penn", "Avenue", "until", "I", "found", "Graziano", "'s", "."], "e1_text": "Yelped", "e1_pos": 6, "e2_text": "walking", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "would", "think", "after", "filling", "out", "the", "cancellation", "form", ",", "I", "would", "be", "contacted", "by", "the", "owners", "after", "they", "reviewed", "my", "form", ",", "but", "NO.", "."], "e1_text": "think", "e1_pos": 2, "e2_text": "filling", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "contacted", "the", "gym", "several", "times", "-LRB-", "many", "of", "which", "were", "unanswered", "phone", "calls", "-RRB-", ",", "after", "finally", "being", "called", "back", "by", "one", "of", "the", "owners", ",", "Ronald", "Clifford", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

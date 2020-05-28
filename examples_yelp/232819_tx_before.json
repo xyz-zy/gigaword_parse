@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "finally", "had", "someone", "come", "to", "help", "me", "-LRB-", "Kathy", "-RRB-", ",", "she", "asked", "if", "I", "had", "looked", "at", "dresses", "before", "I", "visited", "."], "e1_text": "looked", "e1_pos": 18, "e2_text": "visited", "e2_pos": 23, "label": "before"}
+]

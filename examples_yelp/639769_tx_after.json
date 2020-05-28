@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "in", "to", "eat", "and", "employees", "were", "in", "the", "back", ",", "never", "came", "to", "the", "front", "to", "check", "we", "left", "after", "about", "6", "minutes", "of", "waitin", ",", "love", "smashburger", "but", "the", "employees", "in", "this", "location", "were", "not", "really", "into", "it"], "e1_text": "left", "e1_pos": 19, "e2_text": "love", "e2_pos": 27, "label": "after"}
+]

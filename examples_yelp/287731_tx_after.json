@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bread", "was", "pretty", "good", ",", "but", "the", "rest", "of", "it", ",", "when", "I", "ate", "it", "I", "hardly", "acknowledged", "the", "taste", ",", "because", "all", "I", "could", "think", "about", "was", "the", "awful", "stomach", "ache", "I", "was", "now", "destined", "to", "have", "after", "eating", "this", "."], "e1_text": "have", "e1_pos": 38, "e2_text": "eating", "e2_pos": 40, "label": "after"},
+{"tokens": ["Real", "creative", "for", "a", "place", "named", "after", "a", "guy", "that", "INVENTED", "something", "as", "awesome", "as", "a", "sandwich", "."], "e1_text": "named", "e1_pos": 5, "e2_text": "INVENTED", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "months", "of", "lusting", "over", "the", "Chicken", "Benedict", "after", "seeing", "it", "on", "Food", "Network", "I", "could", "hardly", "wait", ",", "Too", "bad", "I", "had", "to", "."], "e1_text": "lusting", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "I", "caught", "up", "to", "the", "waitress", "she", "assured", "me", "the", "food", "was", "coming", "and", "after", "another", "5", "minutes", "it", "did", "."], "e1_text": "assured", "e1_pos": 8, "e2_text": "did", "e2_pos": 20, "label": "after"}
+]

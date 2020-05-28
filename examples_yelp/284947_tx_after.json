@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "wait", "about", "10", "minutes", "to", "eat", "it", "though", "because", "the", "server", "had", "to", "replace", "the", "bun", "after", "she", "accidentally", "knocked", "the", "bun", "off", "the", "sandwich", "when", "she", "served", "me", "."], "e1_text": "replace", "e1_pos": 16, "e2_text": "knocked", "e2_pos": 22, "label": "after"},
+{"tokens": ["The", "drinks", "were", "decent", ",", "but", "they", "took", "forever", "to", "arrive", "after", "ordering", "."], "e1_text": "arrive", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "a", "new", "appointment", "but", "from", "the", "advise", "of", "my", "wife", "that", "after", "3", "times", "going", "back", "for", "the", "same", "problem", "it", "was", "time", "to", "try", "another", "mechanic", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "going", "e2_pos": 16, "label": "after"}
+]

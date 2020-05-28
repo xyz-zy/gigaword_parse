@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "stylist", "did", "the", "trim", "and", "it", "was", "okay", "...", "my", "daughter", "still", "had", "some", "damage", "-LRB-", "hello", "this", "is", "why", "great", "cuts", "involve", "handling", "the", "hair", "again", "after", "it", "'s", "dry", "-RRB-", "."], "e1_text": "handling", "e1_pos": 24, "e2_text": "'s", "e2_pos": 30, "label": "after"},
+{"tokens": ["I", "'m", "sorry", ",", "but", "in", "no", "way", "should", "color", "look", "bad", "two", "weeks", "after", "it", "is", "done", "."], "e1_text": "look", "e1_pos": 10, "e2_text": "is", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wait", "staff", "is", "not", "always", "the", "friendliest", "and", "sometimes", "wo", "n't", "acknowledge", "you", "'re", "waiting", "at", "the", "counter", "until", "they", "'re", "finished", "working", "on", "what", "they", "were", "doing", "before", "you", "walked", "in", "-LRB-", "cutting", "meat", ",", "filling", "the", "cooler", ",", "etc.", ".", "-RRB-", "."], "e1_text": "doing", "e1_pos": 28, "e2_text": "walked", "e2_pos": 31, "label": "before"}
+]

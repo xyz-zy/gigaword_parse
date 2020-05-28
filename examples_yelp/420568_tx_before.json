@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "being", "on", "hold", "with", "them", "for", "about", "15", "minutes", "we", "canceled", "the", "order", "but", "not", "before", "they", "tried", "to", "pressure", "us", "to", "make", "the", "purchase", "."], "e1_text": "canceled", "e1_pos": 11, "e2_text": "tried", "e2_pos": 18, "label": "before"}
+]

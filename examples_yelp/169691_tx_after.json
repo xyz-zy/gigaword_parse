@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "reluctantly", "made", "reservations", "to", "stay", "at", "Flamingo", "hotel", "after", "my", "cousin", "assured", "me", "the", "hotel", "had", "been", "renovated", ",", "otherwise", ",", "I", "would", "have", "never", "dreamt", "of", "staying", "in", "a", "dump", "like", "this", "."], "e1_text": "stay", "e1_pos": 5, "e2_text": "assured", "e2_pos": 12, "label": "after"}
+]

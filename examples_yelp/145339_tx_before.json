@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "explained", "I", "'ve", "done", "it", "before", ",", "the", "girl", "says", "she", "'ll", "ask", "the", "manager", ",", "she", "yells", "to", "someone", "else", "&", "then", "a", "guy", "gets", "on", "the", "phone", "&", "tells", "me", "there", "is", "a", "new", "owner", "&", "they", "no", "longer", "make", "substitutions", "."], "e1_text": "done", "e1_pos": 5, "e2_text": "says", "e2_pos": 11, "label": "before"}
+]

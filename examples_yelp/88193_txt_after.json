@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "the", "final", "financial", "was", "not", "emailed", "to", "me", "until", "the", "day", "after", "they", "requested", "the", "huge", "payment", ",", "and", "they", "had", "no", "other", "documentation", "of", "attempts", "to", "collect", "monies", "from", "me", "through", "email", "or", "phone", "."], "e1_text": "emailed", "e1_pos": 8, "e2_text": "requested", "e2_pos": 16, "label": "after"}
+]

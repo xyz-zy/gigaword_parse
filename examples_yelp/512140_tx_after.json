@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "corn", "bread", "is", "great", ",", "but", "expands", "in", "your", "stomach", "after", "you", "eat", "it", ",", "so", "be", "careful", "not", "to", "overeat", "."], "e1_text": "expands", "e1_pos": 7, "e2_text": "eat", "e2_pos": 13, "label": "after"}
+]

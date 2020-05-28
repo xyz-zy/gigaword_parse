@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "that", "this", "location", "is", "close", "to", "my", "office", "and", "I", "was", "headed", "to", "Culver", "'s", "before", "I", "came", "here", "but", "that", "place", "smelled", "so", "bad", "inside", "I", "had", "to", "walk", "out", "."], "e1_text": "headed", "e1_pos": 13, "e2_text": "came", "e2_pos": 19, "label": "before"}
+]

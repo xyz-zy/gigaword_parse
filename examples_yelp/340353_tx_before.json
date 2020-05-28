@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "this", "is", "one", "of", "the", "only", "restaurants", "I", "'ve", "been", "to", "where", "the", "waitress", "waited", "for", "everyone", "to", "finish", "before", "clearing", "the", "plates", "-", "very", "unusual", "."], "e1_text": "finish", "e1_pos": 21, "e2_text": "clearing", "e2_pos": 23, "label": "before"}
+]

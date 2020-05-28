@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "if", "it", "was", "the", "cashier", "-LRB-", "s", "-RRB-", "or", "the", "customers", "but", "after", "waiting", "15", "minutes", "in", "line", "and", "only", "moved", "a", "couple", "steps", "we", "decided", "the", "wait", "was", "n't", "worth", "it", "."], "e1_text": "know", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "were", "n't", "the", "only", "people", "to", "decide", "we", "were", "n't", "going", "to", "wait", ",", "2", "other", "couples", "ended", "up", "walking", "away", "before", "us", "and", "then", "shortly", "after", "we", "left", "."], "e1_text": "walking", "e1_pos": 20, "e2_text": "left", "e2_pos": 29, "label": "after"}
+]

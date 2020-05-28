@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "having", "internet", "installed", "on", "a", "Sunday", ",", "so", "ordered", "a", "wireless", "modem\\/router", "through", "Amazon", "and", "scheduled", "it", "so", "it", "would", "be", "delivered", "to", "my", "work", "by", "Friday", ",", "before", "the", "installers", "came", "."], "e1_text": "delivered", "e1_pos": 22, "e2_text": "came", "e2_pos": 32, "label": "before"},
+{"tokens": ["So", "I", "call", ",", "and", "say", "the", "package", "HAS", "to", "be", "there", "before", "we", "close", "at", "5", "PM", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "close", "e2_pos": 14, "label": "before"}
+]

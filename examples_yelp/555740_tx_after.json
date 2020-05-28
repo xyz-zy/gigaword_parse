@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "A\\/C", "unit", "went", "out", "at", "my", "office", "so", ",", "after", "2", "days", "of", "feeling", "like", "a", "sauna", ",", "I", "jumped", "on", "Yelp", "to", "find", "a", "trusted", "resource", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "feeling", "e2_pos": 14, "label": "after"},
+{"tokens": ["He", "was", "polite", "and", "offered", "to", "come", "over", "after", "I", "returned", "from", "my", "dinner", "meeting", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "returned", "e2_pos": 10, "label": "after"}
+]

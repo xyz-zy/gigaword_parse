@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "eaten", "here", "a", "couple", "of", "times", ",", "either", "waiting", "for", "people", "on", "delayed", "flights", "or", "getting", "some", "food", "in", "before", "dropping", "them", "off", "."], "e1_text": "getting", "e1_pos": 17, "e2_text": "dropping", "e2_pos": 22, "label": "before"}
+]

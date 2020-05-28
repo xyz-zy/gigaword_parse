@@ -1,0 +1,3 @@
+[
+{"tokens": ["Instead", ",", "they", "just", "added", "to", "the", "credit", "card", "bill", "after", "wards", "!!", "My", "bill", "was", "$", "26.04", ",", "I", "put", "$", "28.00", "in", "total", ",", "my", "statement", "says", "$", "30.04", "."], "e1_text": "added", "e1_pos": 4, "e2_text": "!!", "e2_pos": 12, "label": "after"}
+]

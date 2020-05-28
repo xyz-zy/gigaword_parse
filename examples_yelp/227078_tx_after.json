@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*", "End", "Disclaimer", "\\*\\*\\*", "So", "after", "wanting", "to", "come", "here", "for", "a", "while", "now", "some", "friends", "and", "I", "were", "finally", "able", "to", "get", "in", "."], "e1_text": "\\*\\*\\*", "e1_pos": 3, "e2_text": "wanting", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "were", "finally", "seated", "after", "someone", "seemed", "to", "notice", "we", "were", "standing", "there", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "seemed", "e2_pos": 6, "label": "after"}
+]

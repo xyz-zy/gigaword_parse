@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "printer", "got", "jammed", "after", "printing", "a", "page", "so", "I", "had", "to", "personally", "fix", "the", "printer", ",", "as", "the", "receptionist", "saw", "me", "struggling", "and", "instead", "of", "offering", "to", "help", ",", "looked", "away", "and", "comfortably", "sat", "on", "a", "couch", "reading", "a", "newspaper", "."], "e1_text": "jammed", "e1_pos": 3, "e2_text": "printing", "e2_pos": 5, "label": "after"}
+]

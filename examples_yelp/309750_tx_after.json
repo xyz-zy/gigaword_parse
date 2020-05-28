@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "saw", "at", "least", "3-4", "people", "that", "placed", "their", "orders", "after", "I", "placed", "mine", "and", "they", "were", "delivered", "their", "food", "before", "I", "had", "mine", "."], "e1_text": "placed", "e1_pos": 7, "e2_text": "placed", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "food", "was", "ready", "about", "3-4", "minutes", "after", "the", "egg", "rolls", "came", "out", "and", "I", "went", "to", "pick", "the", "order", "up", "at", "the", "pickup", "window", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "came", "e2_pos": 11, "label": "after"}
+]

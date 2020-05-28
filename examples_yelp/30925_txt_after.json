@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thought", "that", "would", "make", "it", "somewhat", "healthier", "since", "I", "was", "in", "the", "mood", "for", "something", "light", "-LRB-", "thus", "the", "veggie", "sandwich", "-RRB-", ",", "but", "when", "it", "came", "out", ",", "it", "had", "a", "creamy", "sauce", "that", "was", "drizzled", "over", "it", "that", "I", "was", "totally", "not", "expecting", "...", "and", "my", "tummy", "ached", "after", "eating", "all", "that", "heaviness", "that", "should", "have", "been", "light", "!"], "e1_text": "ached", "e1_pos": 50, "e2_text": "eating", "e2_pos": 52, "label": "after"}
+]

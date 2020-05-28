@@ -1,0 +1,4 @@
+[
+{"tokens": ["``", "I", "apologize", "this", "has", "taken", "so", "long", ",", "after", "over", "a", "week", "of", "phone", "calls", "&", "3", "visits", "back", "to", "Accutest", "Fingerprinting", "I", "think", "I", "finally", "have", "the", "paper", "you", "need", "."], "e1_text": "taken", "e1_pos": 5, "e2_text": "think", "e2_pos": 24, "label": "after"},
+{"tokens": ["they", "confirmed", "I", "was", "good", "to", "go", "&", "all", "they", "had", "to", "do", "was", "submit", "electronically", ",", "I", "was", "given", "no", "paperwork", "or", "further", "instruction", "even", "after", "asking", "to", "make", "sure", "I", "had", "nothing", "left", "to", "do", "."], "e1_text": "given", "e1_pos": 19, "e2_text": "asking", "e2_pos": 27, "label": "after"}
+]

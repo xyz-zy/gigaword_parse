@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "used", "the", "drive-thru", ",", "which", "is", "uncommon", "for", "me", ",", "and", "I", "had", "to", "wait", "for", "close", "to", "5", "minutes", "before", "I", "was", "asked", "about", "my", "order", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "person", "did", "apologize", "for", "the", "wait", ",", "but", "the", "fact", "that", "I", "waited", "for", "that", "long", "before", "someone", "even", "acknowledge", "that", "I", "was", "there", "was", "a", "bit", "irksome", "."], "e1_text": "waited", "e1_pos": 13, "e2_text": "acknowledge", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "felt", "like", "I", "would", "be", "able", "to", "breathe", "fire", "after", "drinking", "it", ",", "but", "strep", "throat", "is", "going", "around", "my", "office", "so", "I", "am", "hoping", "it", "killed", "any", "germs", "I", "may", "have", "picked", "up", "earlier", "that", "day", "."], "e1_text": "breathe", "e1_pos": 8, "e2_text": "drinking", "e2_pos": 11, "label": "after"},
+{"tokens": ["Unfortunately", ",", "we", "both", "had", "the", "prime", "rib", "after", "the", "server", "stated", "it", "'s", "what", "they", "are", "known", "for", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "stated", "e2_pos": 11, "label": "after"}
+]

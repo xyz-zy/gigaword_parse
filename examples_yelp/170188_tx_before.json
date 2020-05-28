@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "left", "our", "stuff", "there", "while", "having", "breakfast", "before", "leaving", "."], "e1_text": "having", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 9, "label": "before"},
+{"tokens": ["If", "you", "decide", "to", "stay", ",", "please", "check", "all", "your", "bags", "before", "leaving", "."], "e1_text": "check", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 12, "label": "before"}
+]

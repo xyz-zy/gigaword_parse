@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "was", "proficient", ",", "but", "it", "took", "over", "an", "hour", "for", "the", "entrees", "to", "arrive", "after", "ordering", "."], "e1_text": "arrive", "e1_pos": 15, "e2_text": "ordering", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "eventually", "arrived", "after", "the", "rest", "of", "our", "party", "were", "done", "their", "meals", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "were", "e2_pos": 9, "label": "after"}
+]

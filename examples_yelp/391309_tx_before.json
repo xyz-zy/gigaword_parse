@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "back", "in", "with", "my", "group", "before", "going", "on", "a", "mile", "long", "adventure", "and", "my", "friend", "told", "me", "she", "would", "be", "OK", "as", "long", "as", "we", "were", "all", "mindful", "of", "her", "situation", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "going", "e2_pos": 8, "label": "before"},
+{"tokens": ["My", "friend", "is", "very", "aware", "of", "her", "allergy", "and", "waits", "until", "her", "husband", "tries", "breads", "or", "other", "high", "concern", "foods", "before", "she", "does", "."], "e1_text": "tries", "e1_pos": 13, "e2_text": "does", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "'m", "told", "''", "``", "oh", "no", "that", "'s", "just", "for", "the", "part", ",", "and", "it", "'s", "like", "$", "200", "''", "''", ",", "then", "from", "$", "200", "it", "went", "to", "$", "180", ",", "then", "the", "clerk", "said", "''", "``", "oh", "wait", "let", "me", "ask", "my", "boss", "''", "''", ",", "while", "the", "clerk", "and", "boss", "went", "back", "and", "forth", "as", "to", "what", "to", "charge", "me", "they", "settled", "on", "$", "180", ",", "after", "they", "tossed", "around", "$", "160", ",", "$", "170", ",", "$", "175", "."], "e1_text": "settled", "e1_pos": 66, "e2_text": "tossed", "e2_pos": 73, "label": "after"}
+]

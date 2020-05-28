@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "had", "me", "come", "in", "before", "they", "even", "opened", ",", "which", "I", "was", "not", "happy", "having", "to", "wait", "for", "someone", "to", "get", "there", "and", "for", "them", "to", "open", "up", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "opened", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "got", "there", "and", "as", "they", "drove", "my", "car", "from", "the", "garage", "to", "me", "the", "service", "engine", "light", "popped", "back", "on", ",", "which", "they", "never", "truly", "fixed", "they", "just", "temporarily", "fixed", "it", ",", "they", "said", "my", "sensor", "was", "bad", "but", "still", "charged", "me", "$", "34.67", "to", "reset", "it", ",", "and", "less", "then", "a", "week", "went", "by", "before", "it", "came", "back", "on", "."], "e1_text": "went", "e1_pos": 54, "e2_text": "came", "e2_pos": 58, "label": "before"}
+]

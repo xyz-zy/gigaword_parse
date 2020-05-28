@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", ",", "of", "course", ",", "is", "after", "being", "endlessly", ",", "uncomfortably", "pressured", "into", "buying", "a", "timeshare", "that", "we", "said", "multiple", "times", "that", "we", "were", "not", "interested", "in", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "'s", "now", "5PM", "and", "we", "'ve", "just", "gotten", "back", "to", "our", "hotel", ",", "after", "leaving", "at", "10AM", "."], "e1_text": "gotten", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 15, "label": "after"}
+]

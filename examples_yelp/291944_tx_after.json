@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "a", "pretty", "neat", "person", "and", "was", "very", "friendly", "but", "after", "placing", "our", "order", "things", "started", "to", "go", "wrong", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "placing", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "entrees", "finally", "showed", "up", ",", "this", "is", "a", "good", "hour", "after", "being", "sat", "in", "a", "mostly", "empty", "space", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

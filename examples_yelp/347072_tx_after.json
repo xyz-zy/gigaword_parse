@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "today", ",", "I", "got", "home", "after", "picking", "up", "a", "pizza", "that", "had", "BBQ", "sauce", "on", "it", ",", "and", "when", "I", "called", "the", "store", "and", "told", "them", "I", "did", "not", "order", "BBQ", "sauce", ",", "he", "said", "''", "``", "yes", "you", "did", ",", "its", "not", "our", "mistake", ",", "it", "was", "placed", "online", ".", "''", "''"], "e1_text": "got", "e1_pos": 4, "e2_text": "picking", "e2_pos": 7, "label": "after"}
+]

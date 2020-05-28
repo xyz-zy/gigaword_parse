@@ -1,0 +1,3 @@
+[
+{"tokens": ["Oh", ",", "the", "cucumber", "water", "was", "empty", "for", "around", "1\\/2", "hour", "before", "one", "of", "the", "guests", "asked", "it", "to", "be", "refilled", "The", "Bellagio", "has", "an", "outdoor", "portion", "that", "overlooks", "part", "of", "the", "hotel", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "asked", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "meal", "at", "THE", "PEARL", "and", "charged", "it", "to", "the", "room", "after", "having", "been", "told", "that", "the", "$", "75.00", "would", "be", "deducted", "automatically", "when", "we", "did", "this", "."], "e1_text": "charged", "e1_pos": 8, "e2_text": "having", "e2_pos": 14, "label": "after"},
+{"tokens": ["So", "I", "had", "to", "go", "back", ",", "park", ",", "get", "back", "in", "the", "check-out", "line", "-", "after", "having", "initially", "waited", "for", "10", "minutes", "in", "the", "line", "to", "check-out", "the", "first", "time", "-", "it", "was", "11:00", "am", "Sunday", "morning", "after", "all", "-", "the", "official", "check-out", "time", "-", "I", "then", "had", "to", "wait", "again", "to", "have", "the", "matter", "resolved", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "having", "e2_pos": 17, "label": "after"}
+]

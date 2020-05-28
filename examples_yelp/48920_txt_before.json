@@ -1,0 +1,3 @@
+[
+{"tokens": ["NO", "CASHIERS", "AFTER", "MIDNIGHT", "?!?", "Well", ",", "we", "went", "to", "our", "old", "Fry", "'s", "this", "evening", "-LRB-", "we", "used", "to", "shop", "here", "more", "often", "before", "their", "brand", "selection", "went", "down", "the", "tubes", "-RRB-", ",", "and", "much", "to", "our", "disappointment", ",", "they", "have", "decided", "that", "anyone", "that", "shops", "past", "midnight", "is", "not", "in", "need", "of", "a", "checkout", "line", "!"], "e1_text": "shop", "e1_pos": 20, "e2_text": "went", "e2_pos": 8, "label": "before"}
+]

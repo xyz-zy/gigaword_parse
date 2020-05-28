@@ -1,0 +1,3 @@
+[
+{"tokens": ["Made", "an", "appointment", "to", "get", "an", "oil", "change", "at", "11:00", "am", "-", "at", "11:15", ",", "noticed", "that", "the", "dude", "who", "came", "after", "me", "had", "his", "car", "driven", "into", "the", "garage", "."], "e1_text": "came", "e1_pos": 20, "e2_text": "had", "e2_pos": 23, "label": "after"}
+]

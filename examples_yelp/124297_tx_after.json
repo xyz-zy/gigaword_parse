@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "forever", "for", "her", "to", "take", "our", "order", ",", "and", "the", "three", "tables", "seated", "after", "us", "received", "their", "entrees", "before", "we", "did", "."], "e1_text": "seated", "e1_pos": 14, "e2_text": "received", "e2_pos": 17, "label": "after"},
+{"tokens": ["How", "does", "that", "make", "sense", "that", "all", "the", "tables", "seated", "around", "us", "after", "we", "were", "seated", "first", "received", "their", "entrees", "well", "before", "ours", "?"], "e1_text": "seated", "e1_pos": 9, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

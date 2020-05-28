@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "is", "non-existent", ",", "and", "I", "had", "a", "much", "better", "burger", "at", "the", "Fudruckers", "at", "Houston", "Intercontinental", "Airport", "before", "boarding", "my", "plane", "to", "Montreal", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "boarding", "e2_pos": 20, "label": "before"}
+]

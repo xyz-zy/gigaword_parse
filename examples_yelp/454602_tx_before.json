@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "was", "polite", "and", "friendly", ",", "but", "she", "brought", "the", "food", "my", "father", "ordered", "well", "before", "she", "brought", "the", "pizza", "the", "rest", "of", "us", "were", "sharing", "."], "e1_text": "ordered", "e1_pos": 14, "e2_text": "brought", "e2_pos": 9, "label": "before"},
+{"tokens": ["In", "fact", ",", "my", "father", "finished", "his", "dish", "about", "10", "minutes", "before", "we", "finally", "received", "the", "pizza", ",", "well", "after", "we", "were", "first", "seated", "."], "e1_text": "finished", "e1_pos": 5, "e2_text": "received", "e2_pos": 14, "label": "before"}
+]

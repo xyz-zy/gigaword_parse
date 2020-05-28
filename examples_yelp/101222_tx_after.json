@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "did", "n't", "feel", "rushed", "to", "leave", "the", "table", "after", "we", "were", "finished", "eating", "."], "e1_text": "leave", "e1_pos": 7, "e2_text": "were", "e2_pos": 12, "label": "after"},
+{"tokens": ["Our", "server", "actually", "gave", "us", "time", "to", "sit", "and", "digest", "our", "meal", "without", "rushing", "to", "run", "our", "credit", "card", "immediately", "after", "we", "finished", "."], "e1_text": "run", "e1_pos": 15, "e2_text": "finished", "e2_pos": 22, "label": "after"}
+]

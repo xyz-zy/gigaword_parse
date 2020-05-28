@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "was", "rude", "on", "the", "phone", ",", "rude", "in", "person", ",", "the", "owner", "had", "an", "attitude", "and", "was", "n't", "very", "professional", "to", "deal", "with", "even", "after", "admitting", "fault", "!"], "e1_text": "deal", "e1_pos": 23, "e2_text": "admitting", "e2_pos": 27, "label": "after"},
+{"tokens": ["Not", "to", "mention", "that", "my", "husband", "missed", "the", "first", "half", "of", "our", "sons", "second", "basketball", "game", "dealing", "with", "this", "nonsense", "!!!", "You", "know", ",", "even", "after", "admitting", "they", "screwed", "up", ",", "they", "could", "'ve", "at", "least", "acted", "like", "they", "cared", "!"], "e1_text": "know", "e1_pos": 22, "e2_text": "admitting", "e2_pos": 26, "label": "after"}
+]

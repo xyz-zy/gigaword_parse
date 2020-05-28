@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "generally", "goto", "barbers", "where", "I", "need", "at", "least", "2", "weeks", "before", "it", "looks", "like", "I", "'ve", "not", "got", "my", "head", "caught", "in", "a", "lawnmower", "."], "e1_text": "need", "e1_pos": 6, "e2_text": "looks", "e2_pos": 13, "label": "before"},
+{"tokens": ["However", "I", "was", "off", "to", "an", "important", "event", "just", "before", "christmas", "and", "my", "hair", "had", "become", "...", "untenable", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

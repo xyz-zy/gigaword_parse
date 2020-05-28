@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "cashier", "when", "I", "placed", "my", "order", "this", "was", "my", "first", "time", "dining", "there", "it", "would", "have", "been", "nice", "had", "she", "pointed", "me", "in", "the", "direction", "of", "the", "silverware", "after", "learning", "that", "information", "."], "e1_text": "pointed", "e1_pos": 23, "e2_text": "learning", "e2_pos": 32, "label": "after"}
+]

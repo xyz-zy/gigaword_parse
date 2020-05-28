@@ -1,0 +1,4 @@
+[
+{"tokens": ["Okay", "so", "my", "friend", "and", "I", "wanted", "to", "go", "somewhere", "we", "had", "n't", "been", "before", "so", "I", "googled", "Asian", "restaurants", "nearby", "."], "e1_text": "been", "e1_pos": 13, "e2_text": "googled", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "needed", "some", "time", "to", "look", "over", "the", "menu", "since", "we", "had", "n't", "been", "there", "before", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

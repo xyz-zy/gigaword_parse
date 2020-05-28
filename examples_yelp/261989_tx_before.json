@@ -1,0 +1,4 @@
+[
+{"tokens": ["Might", "as", "well", "save", "some", "cash", "to", "spend", "on", "the", "slots", ",", "right", "?!", "I", "'ve", "taken", "a", "taxi", "before", "and", "I", "think", "I", "paid", "$", "25", "-", "$", "30", "one", "way", "."], "e1_text": "?!", "e1_pos": 13, "e2_text": "'ve", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "somehow", "misplaced", "my", "boarding", "pass", "from", "the", "time", "I", "packed", "my", "belongings", "that", "morning", "to", "15", "mins", "before", "my", "shuttle", "was", "going", "to", "pick", "me", "up", "."], "e1_text": "packed", "e1_pos": 10, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

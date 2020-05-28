@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "love", "sushi", ",", "but", "if", "you", "develop", "a", "favorite", "spot", "and", "visit", "often", "enough", ",", "you", "start", "to", "know", "everything", "that", "you", "are", "going", "to", "order", "before", "you", "eat", "."], "e1_text": "order", "e1_pos": 26, "e2_text": "eat", "e2_pos": 29, "label": "before"},
+{"tokens": ["When", "I", "asked", "the", "waitress", "for", "the", "check", "she", "cleaned", "2", "more", "tables", "before", "bringing", "the", "check", "."], "e1_text": "cleaned", "e1_pos": 9, "e2_text": "bringing", "e2_pos": 14, "label": "before"}
+]

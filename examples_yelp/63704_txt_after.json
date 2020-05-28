@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "rushed", "us", "to", "order", ",", "stood", "there", "with", "an", "irritated", "look", "when", "we", "tried", "to", "change", "our", "minds", ",", "and", "finally", "--", "and", "literally", "--", "ran", "off", "after", "closing", "the", "ordering", "with", "a", "rude", "''", "``", "yeah", "''", "''", "."], "e1_text": "ran", "e1_pos": 27, "e2_text": "closing", "e2_pos": 30, "label": "after"},
+{"tokens": ["The", "food", "took", "about", "eight", "minutes", ",", "and", "the", "table", "next", "to", "us", "returned", "a", "bowl", "of", "soup", "after", "discovering", "dead", "flies", "-LRB-", "yes", ",", "SEVERAL", "-RRB-", "in", "her", "bowl", "."], "e1_text": "returned", "e1_pos": 13, "e2_text": "discovering", "e2_pos": 19, "label": "after"}
+]

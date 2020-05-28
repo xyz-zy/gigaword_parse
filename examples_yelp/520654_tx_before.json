@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "even", "rearranged", "my", "entire", "schedule", "and", "woke", "up", "at", "8am", "after", "working", "until", "3am", "to", "get", "them", "there", "before", "my", "day", "started", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "started", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "explained", "that", "they", "are", "somewhere", "in", "a", "pile", "of", "things", "that", "need", "to", "be", "filed", "and", "I", "am", "running", "out", "of", "time", "before", "I", "need", "to", "be", "somewhere", "else", "."], "e1_text": "running", "e1_pos": 19, "e2_text": "need", "e2_pos": 12, "label": "before"}
+]

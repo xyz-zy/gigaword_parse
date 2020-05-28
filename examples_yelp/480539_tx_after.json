@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "remodeled", "the", "office", "in", "October", "till", "December", "then", "after", "February", "started", "demoing", "the", "landscape", "and", "pool", "now", "it", "is", "April", "and", "the", "gym", ",", "pool", ",", "are", "still", "closed", "."], "e1_text": "remodeled", "e1_pos": 1, "e2_text": "started", "e2_pos": 11, "label": "after"}
+]

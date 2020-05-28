@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "waitress", "-LRB-", "out", "of", "three", "-RRB-", "notices", "me", "after", "sitting", "for", "about", "5", "minutes", "and", "proceeds", "to", "ask", "me", "if", "I", "have", "been", "seated", "."], "e1_text": "notices", "e1_pos": 7, "e2_text": "sitting", "e2_pos": 10, "label": "after"},
+{"tokens": ["During", "those", "30", "minutes", "I", "watched", "as", "everyone", "got", "their", "food", ",", "people", "before", "I", "came", "in", "and", "after", "I", "came", "in", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "came", "e2_pos": 15, "label": "after"}
+]

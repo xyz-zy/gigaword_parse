@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "a", "feeling", "I", "would", "'ve", "liked", "this", "place", "better", "before", "I", "stopped", "drinking", ";", "oh", "well", "."], "e1_text": "liked", "e1_pos": 7, "e2_text": "stopped", "e2_pos": 13, "label": "before"},
+{"tokens": ["So", "every", "time", "they", "opened", "the", "door", ",", "it", "would", "slam", "back", "against", "the", "wall", "and", "the", "rush", "of", "wind", "would", "blow", "everything", "off", "the", "table", ",", "Took", "3-4", "instances", "of", "this", "and", "a", "few", "parties", "complaining", "before", "they", "figured", "out", "not", "to", "use", "that", "door", "and", "divert", "to", "a", "door", "closer", "to", "the", "bar", "."], "e1_text": "complaining", "e1_pos": 36, "e2_text": "figured", "e2_pos": 39, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["my", "friend", "is", "allergic", "to", "nuts", "and", "they", "refused", "to", "use", "a", "clean", "knife", "when", "they", "were", "making", "his", "rolls", "after", "doing", "a", "Peanut", "Butter", "Roll", "."], "e1_text": "making", "e1_pos": 17, "e2_text": "doing", "e2_pos": 21, "label": "after"},
+{"tokens": ["HEALTH", "VIOLATION", "!!!", "and", "they", "refused", "to", "make", "him", "New", "rolls", "after", "they", "contaminated", "his", "."], "e1_text": "refused", "e1_pos": 5, "e2_text": "contaminated", "e2_pos": 13, "label": "after"}
+]

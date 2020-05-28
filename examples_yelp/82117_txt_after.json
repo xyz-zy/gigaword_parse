@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "starving", "at", "the", "time", "I", "told", "foodie", "call", "of", "the", "issue", "and", "after", "waiting", "an", "hour", "for", "the", "restaurant", "to", "remake", "the", "items", "and", "get", "them", "delivered", ",", "we", "already", "ate", "something", "else", "and", "now", "we", "have", "two", "more", "sandwiches", "that", "we", "do", "n't", "really", "want", "."], "e1_text": "starving", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "I", "have", "some", "time", "to", "kill", "before", "the", "kids", "show", "up", ",", "I", "decide", "to", "walk", "down", "the", "restaurant", "row", ",", "if", "you", "will", ",", "to", "see", "what", "fried", "goodies", "they", "have", "to", "offer", ".", "''"], "e1_text": "kill", "e1_pos": 6, "e2_text": "show", "e2_pos": 10, "label": "before"}
+]

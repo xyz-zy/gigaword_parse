@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "after", "I", "got", "home", "that", "I", "noticed", "that", "she", "did", "a", "bad", "job", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "was", "looking", "at", "my", "nails", "and", "saw", "that", "a", "couple", "of", "nails", "had", "bubbles", "from", "the", "top", "coat", "and", "some", "were", "messed", "up", "from", "the", "massage", "she", "gave", "me", "after", "the", "polish", "was", "applied", "."], "e1_text": "gave", "e1_pos": 28, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

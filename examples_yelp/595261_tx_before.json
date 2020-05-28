@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "her", "someone", "form", "the", "Hotel", "had", "contacted", "me", "the", "day", "before", "asking", "me", "if", "I", "wanted", "to", "upgrade", ",", "they", "were", "clearly", "lying", "."], "e1_text": "contacted", "e1_pos": 8, "e2_text": "asking", "e2_pos": 13, "label": "before"}
+]

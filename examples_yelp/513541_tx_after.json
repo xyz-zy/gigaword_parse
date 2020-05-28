@@ -1,0 +1,4 @@
+[
+{"tokens": ["Melissa", "did", "call", "after", "they", "came", "back", "out", "to", "follow", "up", "and", "I", "just", "let", "it", "go", "to", "voicemail", "and", "did", "n't", "call", "back", "to", "say", "anything", "about", "what", "I", "was", "seeing", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "came", "e2_pos": 5, "label": "after"},
+{"tokens": ["\\*\\*", "Owner", "contacted", "me", "after", "seeing", "the", "review", ",", "he", "offered", "me", "a", "few", "different", "options", "to", "rectify", "the", "situation", "."], "e1_text": "contacted", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

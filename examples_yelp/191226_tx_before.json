@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "not", "at", "all", "uncommon", "for", "one", "diner", "to", "have", "finished", "their", "roll", "before", "another", "diner", "receives", "theirs", "."], "e1_text": "finished", "e1_pos": 11, "e2_text": "receives", "e2_pos": 17, "label": "before"}
+]

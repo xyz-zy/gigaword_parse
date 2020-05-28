@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "vet", "could", "not", "tell", "us", "100", "%", "that", "the", "injury", "was", "sustained", "at", "the", "groomer", ",", "but", "the", "injury", "became", "apparent", "directly", "after", "picking", "up", "our", "baby", "from", "Malindas", "."], "e1_text": "became", "e1_pos": 20, "e2_text": "picking", "e2_pos": 24, "label": "after"}
+]

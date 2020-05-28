@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "meaning", ",", "if", "you", "are", "a", "girl", "and", "you", "start", "to", "dance", "alone", ",", "give", "it", "4", "seconds", "before", "someone", "is", "dancing", "ON", "your", "behind", "!", "-RRB-"], "e1_text": "give", "e1_pos": 15, "e2_text": "is", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "brought", "my", "Mom", "and", "Sisters", "to", "dinner", "here", "on", "Mother", "'s", "day", "before", "the", "bar", "turns", "into", "a", "club", "on", "another", "occasion", "and", "it", "was", "quite", "nice", ",", "the", "presentation", "was", "pretty", "and", "the", "service", "was", "good", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "turns", "e2_pos": 16, "label": "before"}
+]

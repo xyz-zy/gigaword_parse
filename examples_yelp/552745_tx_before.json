@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "tell", "her", "that", "I", "never", "had", "it", "done", "before", ",", "so", "she", "just", "tilted", "my", "head", "back", "and", "went", "to", "town", "on", "my", "brows", "-LRB-", "though", "I", "doubt", "she", "would", "of", "offered", "any", "mercy", "anyway", "had", "I", "mentioned", "it", "-RRB-", "A", "lot", "more", "painful", "than", "I", "thought", "it", "was", "going", "to", "be", ",", "I", "had", "trouble", "staying", "relaxed", "."], "e1_text": "tell", "e1_pos": 3, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["All", "in", "all", ",", "I", "think", "she", "did", "a", "fantastic", "job", "and", "I", "do", "n't", "think", "I", "'ve", "ever", "had", "them", "done", "so", "well", "before", ",", "will", "definitely", "come", "back", "."], "e1_text": "think", "e1_pos": 15, "e2_text": "'ve", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "my", "belt", "replaced", "after", "coming", "in", "originally", "for", "an", "oil", "change", "not", "once", ",", "but", "twice", "."], "e1_text": "replaced", "e1_pos": 5, "e2_text": "coming", "e2_pos": 7, "label": "after"},
+{"tokens": ["He", "did", "n't", "even", "hesitate", "in", "saying", "after", "looking", "at", "my", "car", "that", "the", "belt", "that", "was", "put", "on", "from", "before", "was", "too", "big", "!"], "e1_text": "saying", "e1_pos": 6, "e2_text": "looking", "e2_pos": 8, "label": "after"}
+]

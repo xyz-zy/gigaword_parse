@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "told", "me", "that", "they", "mailed", "a", "letter", "to", "me", "about", "a", "week", "after", "I", "got", "the", "car", ",", "telling", "me", "to", "come", "in", "to", "get", "the", "papers", "I", "needed", "to", "sign", "for", "registration", "."], "e1_text": "mailed", "e1_pos": 5, "e2_text": "got", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "told", "them", "I", "never", "received", "such", "a", "letter", ",", "and", "that", "they", "should", "have", "contacted", "me", "after", "time", "passed", "and", "I", "had", "n't", "come", "in", "to", "sign", "the", "papers", "."], "e1_text": "contacted", "e1_pos": 15, "e2_text": "passed", "e2_pos": 19, "label": "after"}
+]

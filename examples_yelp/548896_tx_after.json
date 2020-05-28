@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "complaint", ":", "if", "you", "'re", "going", "to", "serve", "second-rate", "crab-legs", ",", "do", "n't", "charge", "a", "first-rate", "price", "...", "or", "at", "least", "be", "honest", "-", "let", "your", "customers", "know", "that", "your", "items", "are", "n't", "in", "the", "first-rate", "class", ",", "and", "not", "have", "them", "discover", "that", "on", "their", "own", "...", "after", "they", "paid", "upon", "entrance", "."], "e1_text": "discover", "e1_pos": 43, "e2_text": "paid", "e2_pos": 51, "label": "after"}
+]

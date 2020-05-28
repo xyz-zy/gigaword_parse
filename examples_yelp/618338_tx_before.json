@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "even", "had", "a", "conversation", "with", "the", "store", "manager", "before", "we", "bought", "it", "and", "he", "GUARANTEED", "it", "would", "work", "FAR", "better", "-LRB-", "at", "$", "100", "mind", "you", "-RRB-", "than", "the", "ones", "we", "had", "bought", "in", "the", "past", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "bought", "e2_pos": 11, "label": "before"}
+]

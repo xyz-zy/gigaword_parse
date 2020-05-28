@@ -1,0 +1,4 @@
+[
+{"tokens": ["Despite", "coming", "in", "on", "a", "dead", "Monday", "-LRB-", "mid-day", ",", "no", "conventions\\/major", "events", "-RRB-", "I", "waited", "in", "line", "for", "over", "45", "minutes", "before", "I", "was", "helped", "."], "e1_text": "waited", "e1_pos": 15, "e2_text": "was", "e2_pos": 24, "label": "before"},
+{"tokens": ["What", "really", "pissed", "me", "off", ",", "was", "that", "when", "the", "return", "associate", "told", "me", "that", "the", "person", "who", "had", "my", "car", "before", "did", "n't", "fill", "up", "the", "tank", "."], "e1_text": "told", "e1_pos": 12, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

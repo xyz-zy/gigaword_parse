@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "some", "issues", "with", "my", "car", "after", "getting", "screwed", "by", "another", "shop", ",", "I", "was", "hesitant", "because", "of", "the", "reviews", "but", "Kevin", "took", "the", "car", "and", "did", "the", "repairs", "the", "other", "shop", "did", "not", "do", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

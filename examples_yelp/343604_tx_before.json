@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "remember", "when", "only", "a", "few", "months", "ago", "one", "would", "be", "waiting", "an", "hour", "or", "more", "in", "line", "on", "a", "Friday", "or", "Saturday", "night", "before", "reaching", "the", "cashier", ",", "then", "an", "additional", "20-30", "wait", "to", "get", "seated", "."], "e1_text": "waiting", "e1_pos": 11, "e2_text": "reaching", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", ",", "service", "is", "really", "important", "to", "both", "my", "husband", "and", "I.", "There", "was", "one", "customer", "when", "we", "got", "there", "just", "before", "2", "pm", "and", "he", "was", "eating", ",", "but", "he", "left", "shortly", "after", "we", "got", "there", "."], "e1_text": "left", "e1_pos": 31, "e2_text": "got", "e2_pos": 18, "label": "after"},
+{"tokens": ["She", "seemed", "friendly", "and", "tried", "to", "be", "helpful", ",", "but", "she", "left", "shortly", "after", "we", "asked", "her", "a", "couple", "questions", "and", "then", "we", "got", "another", "waitress", "who", "really", "was", "n't", "that", "great", "."], "e1_text": "left", "e1_pos": 11, "e2_text": "asked", "e2_pos": 15, "label": "after"}
+]

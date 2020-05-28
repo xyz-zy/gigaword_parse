@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "left", "saying", "nothing", "and", "after", "10", "minutes", "just", "dropped", "our", "check", "at", "the", "table", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "dropped", "e2_pos": 9, "label": "after"},
+{"tokens": ["Really", "all", "they", "needed", "to", "do", "is", "not", "ignore", "us", "and", "if", "they", "would", "have", "checked", "in", "shortly", "after", "we", "were", "served", ",", "we", "could", "have", "tried", "something", "else", "and", "maybe", "saved", "the", "meal", "."], "e1_text": "checked", "e1_pos": 15, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

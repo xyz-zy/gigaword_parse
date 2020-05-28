@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordering", "-", "with", "only", "1", "customer", "in", "front", "of", "me", ",", "after", "the", "gal", "took", "her", "order", ",", "she", "told", "me", "that", "she", "would", "be", "with", "me", "in", "a", "moment", "."], "e1_text": "Ordering", "e1_pos": 0, "e2_text": "took", "e2_pos": 14, "label": "after"}
+]

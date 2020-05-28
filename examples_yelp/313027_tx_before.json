@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "to", "savor", "my", "food", "and", "even", "admire", "it", "before", "eating", "it", "because", "for", "me", ",", "it", "'s", "my", "way", "of", "enjoying", "the", "moment", "-LRB-", "something", "tells", "me", "this", "guy", "does", "n't", "do", "that", "...", "ever", "-RRB-", "...", "he", "said", ",", "''", "``", "have", "you", "ever", "seen", "tiramisu", "before", "...", "why", "are", "you", "looking", "at", "it", "?", "''", "''"], "e1_text": "admire", "e1_pos": 8, "e2_text": "have", "e2_pos": 44, "label": "before"}
+]

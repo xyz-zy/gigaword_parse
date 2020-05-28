@@ -1,0 +1,3 @@
+[
+{"tokens": ["Given", "the", "fact", "that", "I", "live", "right", "next", "to", "it", ",", "I", "often", "attempt", "to", "stop", "after", "a", "night", "of", "drinking", "with", "hopes", "that", "things", "will", "be", "different", "."], "e1_text": "stop", "e1_pos": 15, "e2_text": "drinking", "e2_pos": 20, "label": "after"}
+]

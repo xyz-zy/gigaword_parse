@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "paninis", "are", "a", "little", "flat", "after", "being", "pressed", "and", "although", "it", "seems", "like", "you", "get", "enough", "meat", "on", "your", "sandwich", ",", "I", "do", "kind", "of", "wish", "the", "meat", "was", "placed", "more", "dainty", "-LRB-", "folded", "or", "something", "-RRB-", "and", "not", "stacked", "like", "bologna", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["It", "'s", "nice", "that", "they", "'re", "eager", ",", "but", "after", "I", "worked", "in", "retail", ",", "that", "is", "one", "of", "the", "first", "things", "they", "teach", "you", "...", "know", "who", "has", "been", "greeted", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "worked", "e2_pos": 11, "label": "after"}
+]

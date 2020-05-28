@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "above", "capture", "my", "experience", "at", "Pizzafarro", "'s", ",", "an", "intended", "quick", "stop", "before", "catching", "a", "flight", "back", "to", "a", "strange", "and", "distant", "habitat", "where", "95", "is", "considered", "hot", "."], "e1_text": "capture", "e1_pos": 2, "e2_text": "catching", "e2_pos": 14, "label": "before"},
+{"tokens": ["Arriving", "shortly", "after", "5", "on", "a", "Tuesday", ",", "we", "were", "the", "only", "dine-in", "patrons", "until", "right", "before", "we", "left", "when", "a", "lone", "diner", "arrived", ",", "signaling", "either", "a", "general", "or", "specific", "off-season", "."], "e1_text": "were", "e1_pos": 9, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

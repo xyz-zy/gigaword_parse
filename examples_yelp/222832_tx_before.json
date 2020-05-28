@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", "was", "very", "nice", "for", "the", "most", "part", "but", "did", "two", "things", "a", "server", "should", "not", "do", ":", "First", ":", "Please", "never", "clear", "one", "diner", "'s", "plate", "before", "the", "other", "diner", "has", "finished", "the", "course", "."], "e1_text": "clear", "e1_pos": 23, "e2_text": "has", "e2_pos": 32, "label": "before"},
+{"tokens": ["Partially", "my", "fault", "for", "not", "asking", "for", "a", "taste", ",", "but", "the", "proper", "manner", "should", "have", "been", "to", "be", "offered", "a", "taste", "first", "before", "bringing", "me", "both", "."], "e1_text": "offered", "e1_pos": 19, "e2_text": "bringing", "e2_pos": 24, "label": "before"}
+]

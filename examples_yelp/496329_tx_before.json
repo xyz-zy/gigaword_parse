@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "wait", "a", "little", "while", "before", "I", "wrote", "this", "...", "It", "has", "been", "about", "two", "months", "since", "I", "had", "my", "exam", "at", "3", "Guys", "and", "purchased", "eyeglasses", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "wrote", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "think", "that", "this", "location", "over", "booked", "itself", "because", "I", "was", "waiting", "for", "about", "a", "half", "hour", "before", "I", "was", "seen", "by", "the", "eye", "doctor", "."], "e1_text": "waiting", "e1_pos": 11, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

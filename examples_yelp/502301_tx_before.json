@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "thing", "I", "will", "point", "out", "-LRB-", "as", "many", "before", "me", "have", "-RRB-", "is", "that", "the", "quality", "of", "their", "store", "brand", "here", "is", "excellent", "."], "e1_text": "point", "e1_pos": 4, "e2_text": "have", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "toast", "for", "example", "was", "only", "toasted", "on", "one", "side", "the", "sausage", "was", "reheated", "from", "the", "night", "before", "because", "it", "was", "cold", "on", "the", "middle", "."], "e1_text": "reheated", "e1_pos": 13, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

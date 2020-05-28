@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "top", "of", "the", "awful", "food", ",", "for", "my", "husband", "'s", "second", "dish", ",", "the", "waiter", "served", "him", "his", "wine", "30", "minutes", "before", "they", "served", "him", "his", "dish", "so", "by", "the", "time", "he", "got", "anything", "to", "eat", "the", "wine", "was", "already", "finished", "and", "we", "were", "told", "no", "refills", "."], "e1_text": "served", "e1_pos": 16, "e2_text": "served", "e2_pos": 16, "label": "before"},
+{"tokens": ["For", "his", "third", "dish", ",", "he", "got", "the", "food", "30", "minutes", "before", "they", "served", "him", "his", "wine", "so", "by", "the", "time", "my", "husband", "received", "his", "wine", "for", "his", "wine", "pairing", "he", "was", "already", "done", "eating", "."], "e1_text": "got", "e1_pos": 6, "e2_text": "served", "e2_pos": 13, "label": "before"}
+]

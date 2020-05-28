@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Food", "seemed", "like", "it", "sat", "too", "long", "before", "reaching", "the", "table", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "reaching", "e2_pos": 9, "label": "before"},
+{"tokens": ["-LRB-", "maybe", "it", "sat", "out", "too", "long", "before", "being", "served", "as", "well", "-RRB-", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "being", "e2_pos": 8, "label": "before"}
+]

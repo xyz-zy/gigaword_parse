@@ -1,0 +1,3 @@
+[
+{"tokens": ["Often", "times", "an", "item", "on", "the", "menu", "requires", "you", "to", "look", "at", "2", "other", "menus", "before", "knowing", "what", "it", "is", "--", "and", "I", "'m", "not", "going", "to", "lie", ",", "I", "got", "a", "paper", "cut", "once", "and", "I", "was", "not", "happy", "."], "e1_text": "look", "e1_pos": 10, "e2_text": "knowing", "e2_pos": 16, "label": "before"}
+]

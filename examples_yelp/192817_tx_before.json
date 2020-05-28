@@ -1,0 +1,3 @@
+[
+{"tokens": ["Called", "to", "double", "check", "to", "make", "sure", "the", "discount", "was", "still", "available", "before", "driving", "to", "the", "strip", "and", "sure", "enough", "it", "says", "half", "off", "on", "the", "recording", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "driving", "e2_pos": 13, "label": "before"}
+]

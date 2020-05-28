@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bad", "idea", "was", "not", "the", "display", "cases", ",", "but", "the", "business", "practice", "they", "have", "of", "serving", "old", "pizza", "and", "garlic", "knots", "from", "the", "day", "before", "instead", "of", "just", "making", "a", "fresh", "product", "that", "any", "self", "respecting", "pizza", "shop", "would", "do", "and", "any", "customer", "would", "expect", "."], "e1_text": "serving", "e1_pos": 16, "e2_text": "making", "e2_pos": 29, "label": "before"}
+]

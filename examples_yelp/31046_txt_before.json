@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "acquired", "a", "gift", "card", ",", "so", "we", "decided", "to", "have", "an", "early", "dinner", "here", "before", "catching", "a", "show", "at", "AMC", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "catching", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "side", "salad", "was", "a", "lot", "bigger", "than", "any", "side", "salad", "I", "'ve", "ever", "encountered", "before", ";", "it", "was", "big", "enough", "to", "satisfy", "us", "until", "the", "main", "entree", "arrived", ",", "but", "there", "was", "the", "extra", "insalata", "blu", "to", "contend", "w", "\\/", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 12, "label": "before"}
+]

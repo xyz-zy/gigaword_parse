@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "the", "first", "20", "minutes", "it", "was", "great", "--", "not", "too", "crowded", ",", "and", "the", "1st", "DJ", "of", "the", "night", "was", "much", ",", "much", "better", "than", "the", "one", "we", "had", "at", "XS", "the", "night", "before", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "had", "e2_pos": 29, "label": "before"},
+{"tokens": ["It", "soon", "turned", "into", "the", "mosh", "pit", "that", "was", "XS", "the", "night", "before", "."], "e1_text": "turned", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

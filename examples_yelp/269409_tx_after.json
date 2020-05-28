@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "after", "dropping", "my", "car", "2", "hours", "before", "closing", "that", "my", "transaction", "would", "have", "to", "be", "cash", "only", "and", "I", "was", "n't", "given", "an", "explanation", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "dropping", "e2_pos": 4, "label": "after"}
+]

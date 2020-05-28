@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "pouring", "all", "this", "additional", "liquid", "off", "my", "plate", "into", "another", "plate", "before", "my", "rice", "and", "mac", "salad", "got", "too", "soggy", "from", "all", "this", "`", "juice", "'", "sitting", "on", "my", "dish", "."], "e1_text": "pouring", "e1_pos": 3, "e2_text": "got", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "was", "about", "halfway", "through", "my", "order", "before", "the", "BF", "'s", "order", "finally", "arrived", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 13, "label": "before"}
+]

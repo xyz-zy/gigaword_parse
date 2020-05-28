@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "funny", "that", "I", "went", "here", "after", "I", "watched", "the", "Anthony", "Bourdain", "where", "he", "bemoans", "the", "trend", "of", "traditional", "Italian-AMERICAN", "food", "disappearing", ",", "as", "it", "dissolves", "into", "a", "mishmash", "of", "regional", "cuisines", "of", "Italy", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "watched", "e2_pos": 9, "label": "after"}
+]

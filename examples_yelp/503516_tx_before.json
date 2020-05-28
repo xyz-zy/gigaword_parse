@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "our", "waiter", "for", "the", "house", "chips", "and", "it", "took", "several", "trips", "to", "the", "kitchen", "before", "he", "understood", "what", "we", "wanted", "and", "figured", "out", "they", "could", "make", "them", "-LRB-", "at", "first", "he", "said", "they", "were", "out", "of", "the", "sauce", "-RRB-", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "understood", "e2_pos": 18, "label": "before"}
+]

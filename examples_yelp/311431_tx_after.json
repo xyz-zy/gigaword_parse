@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "came", "out", "wrong", "so", "we", "waited", "15", "minutes", "after", "the", "food", "had", "been", "dropped", "for", "our", "server", "to", "check", "and", "see", "how", "it", "was", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

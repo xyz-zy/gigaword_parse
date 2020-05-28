@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "could", "have", "asked", "if", "I", "had", "a", "parent", "of", "friend", "close", "by", "that", "could", "purchase", "the", "item", "for", "me", ",", "or", "just", "politely", "deny", "my", "attempted", "purchase", "-LRB-", "and", "laughed", "about", "it", "later", "after", "I", "left", "the", "store", "-RRB-", "."], "e1_text": "laughed", "e1_pos": 30, "e2_text": "left", "e2_pos": 36, "label": "after"}
+]

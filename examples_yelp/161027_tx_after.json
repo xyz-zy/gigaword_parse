@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "it", "is", "the", "same", "when", "food", "tastes", "phenomenal", "after", "you", "have", "starved", ",", "but", "these", "beds", "were", "so", "comfortable", "that", "I", "felt", "rested", "even", "after", "4", "hours", "sleep", "."], "e1_text": "phenomenal", "e1_pos": 8, "e2_text": "have", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "was", "all", "about", "the", "ice", "cold", "showers", "after", "walking", "in", "the", "desert", "sun", ",", "but", "I", "do", "n't", "like", "to", "wake", "up", "by", "freezing", "my", "arse", "off", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "walking", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["with", "all", "the", "mirrors", "and", "the", "sound-proof", "room", ",", "the", "ultimate", "effect", "is", "that", "you", "literally", "feel", "like", "you", "are", "floating", "in", "space", "--", "it", "was", "unlike", "anything", "i", "had", "ever", "felt", "before", "and", "it", "literally", "took", "my", "breath", "away", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "had", "e2_pos": 29, "label": "before"},
+{"tokens": ["--", "side", "note", "--", "before", "i", "left", "i", "could", "n't", "resist", "and", "came", "back", "to", "the", "room", "for", "another", "experience", ",", "except", "this", "time", "i", "thought", "i", "knew", "what", "it", "was", "all", "about", "and", "just", "rushed", "in", "without", "taking", "my", "time", "to", "get", "my", "bearings", "and", "get", "oriented", "."], "e1_text": "note", "e1_pos": 2, "e2_text": "left", "e2_pos": 6, "label": "before"}
+]

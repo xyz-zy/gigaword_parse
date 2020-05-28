@@ -1,0 +1,3 @@
+[
+{"tokens": ["when", "i", "was", "forced", "to", "pay", "a", "quarter", "to", "get", "my", "2", "year", "old", "a", "cup", "of", "water", "after", "paying", "4", "bucks", "for", "coffee", ",", "i", "refused", "and", "gave", "the", "water", "back", "."], "e1_text": "forced", "e1_pos": 3, "e2_text": "paying", "e2_pos": 19, "label": "after"}
+]

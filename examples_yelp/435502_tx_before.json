@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "check", "in", "process", "needs", "work", "-", "we", "waited", "in", "line", "for", "an", "hour", "only", "to", "be", "told", "that", "it", "would", "be", "an", "additional", "two", "hours", "before", "our", "room", "was", "ready", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "was", "e2_pos": 29, "label": "before"}
+]

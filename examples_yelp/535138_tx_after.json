@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "a", "special", "that", "came", "with", "pizza", ",", "wings", ",", "and", "a", "soda", "that", "was", "supposed", "to", "be", "24", "$", "but", "we", "were", "charged", "34", "$", ",", "unfortunately", "I", "did", "n't", "realize", "this", "until", "after", "I", "paid", "."], "e1_text": "realize", "e1_pos": 32, "e2_text": "paid", "e2_pos": 37, "label": "after"}
+]

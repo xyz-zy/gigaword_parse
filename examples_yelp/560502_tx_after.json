@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "reading", "all", "of", "the", "reviews", "on", "here", "and", "trip", "advisor", "I", "was", "absolutely", "pumped", "to", "do", "the", "bourbon", "room", "after", "seeing", "Rock", "of", "Ages", "."], "e1_text": "do", "e1_pos": 16, "e2_text": "seeing", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "also", "visited", "right", "after", "watching", "the", "rock", "of", "ages", "show", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "watching", "e2_pos": 5, "label": "after"}
+]

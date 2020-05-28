@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "I", "think", "he", "should", "have", "asked", "me", "if", "he", "could", "do", "this", "and", "mentioned", "it", "to", "me", "before", "he", "finished", "."], "e1_text": "mentioned", "e1_pos": 14, "e2_text": "finished", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "only", "wished", "I", "had", "heard", "about", "it", "before", "I", "went", "to", "him", "."], "e1_text": "heard", "e1_pos": 5, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

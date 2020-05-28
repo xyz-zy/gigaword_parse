@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "right", "across", "from", "this", "man", "and", "never", "saw", "him", "move", "his", "chair", "out", "of", "it", "'s", "assigned", "spot", "-LRB-", "way", "too", "close", "to", "the", "kitchen", "door", "but", "where", "the", "restaurant", "located", "it", "-RRB-", "until", "the", "very", "end", "of", "the", "evening", ",", "after", "the", "check", "had", "been", "paid", "and", "most", "diners", "vacated", "the", "restaurant", "."], "e1_text": "saw", "e1_pos": 9, "e2_text": "had", "e2_pos": 46, "label": "after"}
+]

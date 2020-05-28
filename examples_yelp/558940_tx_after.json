@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "start", ",", "the", "woman", "on", "the", "phone", "insisted", "I", "had", "to", "be", "20", "minutes", "early", ",", "yet", "Dr.", "Heiland", "saw", "me", "45", "minutes", "after", "my", "scheduled", "time", ",", "which", "means", "I", "waited", "over", "an", "hour", "."], "e1_text": "saw", "e1_pos": 20, "e2_text": "means", "e2_pos": 30, "label": "after"}
+]

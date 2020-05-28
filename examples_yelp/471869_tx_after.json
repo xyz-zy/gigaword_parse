@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "talking", "to", "her", "manager", "she", "came", "back", "to", "question", "what", "my", "boyfriend", "would", "be", "eating", "and", "after", "he", "responded", "that", "he", "would", "just", "be", "nibbling", "off", "mine", "she", "again", "told", "us", "there", "was", "a", "strict", "no", "sharing", "policy", "and", "that", "sharing", "would", "not", "be", "allowed", "."], "e1_text": "question", "e1_pos": 9, "e2_text": "responded", "e2_pos": 19, "label": "after"}
+]

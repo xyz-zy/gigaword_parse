@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "was", "dipped", "in", "butter", "before", "hitting", "the", "hot", "griddle", "also", ",", "I", "could", "n't", "help", "but", "notice", "the", "filthy", "supposed-to-be-white", "uniforms", "everyone", "was", "wearing", "."], "e1_text": "dipped", "e1_pos": 2, "e2_text": "hitting", "e2_pos": 6, "label": "before"},
+{"tokens": ["Because", "this", "was", "in", "a", "mall", ",", "it", "was", "extremely", "busy", "and", "it", "took", "a", "while", "before", "the", "food", "made", "its", "way", "to", "us", "and", "even", "getting", "a", "refill", "was", "difficult", "."], "e1_text": "took", "e1_pos": 13, "e2_text": "made", "e2_pos": 19, "label": "before"}
+]

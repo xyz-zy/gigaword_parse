@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "was", "highly", "recommended", "by", "a", "friend", ",", "so", "we", "decided", "to", "stop", "by", "after", "watching", "Panda", "."], "e1_text": "stop", "e1_pos": 13, "e2_text": "watching", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "server", "was", "super", "friendly", "and", "quickly", "made", "recommendations", "after", "finding", "out", "its", "our", "first", "time", "there", "."], "e1_text": "made", "e1_pos": 7, "e2_text": "finding", "e2_pos": 10, "label": "after"}
+]

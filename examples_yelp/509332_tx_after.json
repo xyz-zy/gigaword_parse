@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "get", "the", "appeal", "that", "results", "in", "lines", "out", "the", "door", "-LRB-", "or", "maybe", "that", "'s", "just", "the", "poor", "setup", "where", "the", "line", "starts", "a", "few", "feet", "after", "you", "walk", "into", "the", "door", "."], "e1_text": "starts", "e1_pos": 25, "e2_text": "walk", "e2_pos": 31, "label": "after"},
+{"tokens": ["The", "employees", "taking", "your", "order", "seem", "to", "be", "working", "at", "warp-speed", ",", "to", "the", "point", "where", "your", "head", "might", "be", "spinning", "after", "you", "place", "your", "order", "."], "e1_text": "spinning", "e1_pos": 20, "e2_text": "place", "e2_pos": 23, "label": "after"}
+]

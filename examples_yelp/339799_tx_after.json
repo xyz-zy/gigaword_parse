@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sent", "my", "food", "back", "twice", ":", "once", "because", "it", "was", "cold", "and", "the", "second", "time", "because", "the", "meat", "sauce", "was", "missing", "-LRB-", "after", "being", "sent", "back", "for", "heating", "-RRB-", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "being", "e2_pos": 24, "label": "after"}
+]

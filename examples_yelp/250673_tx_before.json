@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "manage", "to", "at", "one", "point", "tell", "them", "I", "had", "not", "been", "there", "before", "."], "e1_text": "tell", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "ended", "up", "moving", "and", "the", "smell", "followed", "me", "...", "I", "actually", "had", "to", "spray", "myself", "with", "perfume", "while", "sitting", "there", "just", "to", "distract", "myself", "from", "the", "stench", "before", "I", "just", "decided", "to", "leave", "."], "e1_text": "sitting", "e1_pos": 19, "e2_text": "decided", "e2_pos": 31, "label": "before"}
+]

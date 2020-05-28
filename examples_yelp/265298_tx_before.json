@@ -1,0 +1,4 @@
+[
+{"tokens": ["Teller", "Isaac", "was", "outstanding", ",", "polite", ",", "always", "inform", "me", "what", "he", "is", "going", "to", "do", "before", "he", "left", "the", "counter", "to", "get", "me", "things", ",", "always", "have", "a", "natural", "caring", "smile", "and", "warm", "voice", ",", "and", "did", "extra", "effort", "to", "help", "me", "in", "multiple", "ways", "."], "e1_text": "do", "e1_pos": 15, "e2_text": "left", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "will", "be", "happy", "just", "call", "the", "number", "teller", "Issac", "wrote", "down", "for", "me", "before", "she", "came", "!"], "e1_text": "wrote", "e1_pos": 10, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

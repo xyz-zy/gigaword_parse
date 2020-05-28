@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", ",", "when", "I", "got", "there", ",", "-LRB-", "still", "an", "hour", "and", "a", "half", "before", "the", "store", "closes", "-RRB-", ",", "there", "were", "NO", "customers", "in", "the", "store", ",", "so", "I", "'m", "not", "sure", "why", "I", "was", "warned", "that", "they", "were", "so", "busy", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "closes", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Plus", ",", "unlike", "mail", "order", ",", "at", "a", "place", "like", "Pacific", ",", "you", "can", "try", "the", "bows", "out", "before", "you", "buy", "one", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "buy", "e2_pos": 20, "label": "before"},
+{"tokens": ["Most", "first-timers", "and", "periodic", "shooters", "find", "that", "their", "arms", "get", "tired", "long", "before", "an", "hour", "is", "up", ":-RRB-", "They", "are", "good", "at", "making", "sure", "you", "buy", "a", "bow", "that", "actually", "fits", "you", "too", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "is", "e2_pos": 15, "label": "before"}
+]

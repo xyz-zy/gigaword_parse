@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "stood", "up", "and", "walked", "away", "the", "moment", "that", "I", "noticed", "that", "she", "was", "shaving", "my", "face", "immediately", "after", "taking", "off", "the", "hot", "towel", "without", "applying", "any", "shaving", "cream", "."], "e1_text": "shaving", "e1_pos": 16, "e2_text": "taking", "e2_pos": 21, "label": "after"},
+{"tokens": ["Then", "she", "stated", "the", "''", "``", "you", "have", "sensitive", "skin", "''", "''", "and", "then", "told", "me", "that", "after", "I", "'ve", "received", "a", "service", "there", "was", "nothing", "I", "could", "do", "."], "e1_text": "told", "e1_pos": 14, "e2_text": "'ve", "e2_pos": 19, "label": "after"}
+]

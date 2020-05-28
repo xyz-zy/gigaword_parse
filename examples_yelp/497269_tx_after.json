@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "to", "Mike", "under", "the", "recommendation", "of", "several", "members", "of", "a", "local", "VW", "club", "after", "I", "had", "a", "very", "unsavory", "experience", "with", "another", "local", "VW", "mechanic", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "other", "mechanic", "told", "me", "I", "just", "needed", "to", "replace", "the", "rotors", "and", "pads", "on", "my", "brakes", ",", "but", "after", "Mike", "looked", "at", "it", "he", "determined", "they", "needed", "a", "complete", "overhaul", "...", "and", "called", "me", "to", "tell", "me", "why", "BEFORE", "he", "started", "the", "work", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "looked", "e2_pos": 21, "label": "after"}
+]

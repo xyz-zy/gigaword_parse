@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "prices", "are", "fair", "for", "the", "amount", "of", "meat", "and", "the", "gastronomical", "experience", "you", "'ll", "get", "after", "eating", "their", "pulled", "pork", "sandwich", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "eating", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "visited", "ths", "spot", "after", "reading", "all", "the", "positive", "reviews", "on", "Yelp", ",", "so", "it", "'s", "a", "definite", "must", "eat", "in", "Phoenix", "and", "Tempe", "!"], "e1_text": "visited", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"}
+]

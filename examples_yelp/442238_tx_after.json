@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "then", "we", "were", "told", "we", "needed", "to", "buy", "sparring", "gear", "back", "in", "December", "and", "it", "was", "n't", "used", "at", "all", "before", "our", "contract", "expired", "6", "months", "later", "after", "we", "spent", "$", "250", "on", "it", "."], "e1_text": "expired", "e1_pos": 24, "e2_text": "spent", "e2_pos": 30, "label": "after"},
+{"tokens": ["That", ",", "combined", "with", "the", "fact", "that", "she", "was", "going", "to", "be", "moved", "to", "a", "more", "advanced", "class", ",", "after", "only", "being", "in", "the", "beginners", "class", "for", "3", "months", ",", "with", "such", "large", "classes", ",", "helped", "make", "our", "decision", "on", "where", "to", "spend", "our", "hard", "earned", "money", "."], "e1_text": "moved", "e1_pos": 12, "e2_text": "being", "e2_pos": 21, "label": "after"}
+]

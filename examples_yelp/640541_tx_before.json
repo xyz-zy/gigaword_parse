@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "back", "a", "couple", "days", "ago", "and", "it", "is", "very", "much", "the", "same", "as", "it", "was", "before", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "fish", "tacos", "were", "good", ",", "but", "I", "feel", "like", "they", "were", "n't", "as", "good", "as", "when", "I", "had", "gone", "before", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

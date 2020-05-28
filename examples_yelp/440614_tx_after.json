@@ -1,0 +1,4 @@
+[
+{"tokens": ["Strike", "ONE", "!!!", "Our", "server", "finally", "came", "after", "waiting", "almost", "10", "minutes", ",", "and", "asked", "if", "we", "wanted", "something", "to", "drink", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "wife", "wanted", "the", "flan", "and", "I", "asked", "for", "an", "after", "dinner", "cordial", ",", "which", "the", "server", "did", "n't", "know", "if", "they", "had", "or", "not", "so", "he", "went", "to", "check", "."], "e1_text": "asked", "e1_pos": 7, "e2_text": "did", "e2_pos": 17, "label": "after"}
+]

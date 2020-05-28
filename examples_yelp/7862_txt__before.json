@@ -1,0 +1,4 @@
+[
+{"tokens": ["Access", "to", "outer", "runways", "is", "practically", "through", "the", "center", "of", "the", "inner", "runway", ",", "so", "each", "jet", "has", "to", "wait", "until", "runway", "is", "clear", "before", "crossing", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "crossing", "e2_pos": 25, "label": "before"},
+{"tokens": ["Be", "prepared", "to", "be", "sitting", "on", "the", "tarmac", "for", "minimum", "45min", "after", "gate", "pushback", "before", "plane", "takes", "off", "."], "e1_text": "pushback", "e1_pos": 13, "e2_text": "takes", "e2_pos": 16, "label": "before"}
+]

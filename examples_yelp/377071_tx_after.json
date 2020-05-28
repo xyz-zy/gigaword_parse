@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "person", "that", "I", "talked", "to", "the", "day", "after", "acted", "like", "he", "was", "refunding", "my", "money", ",", "yet", "I", "just", "noticed", "a", "new", "charge", "on", "my", "bank", "account", "four", "days", "later", "."], "e1_text": "talked", "e1_pos": 4, "e2_text": "acted", "e2_pos": 9, "label": "after"}
+]

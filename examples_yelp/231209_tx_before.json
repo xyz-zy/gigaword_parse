@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "starving", ",", "thanks", "to", "a", "complex", "disruption", "to", "our", "daily", "eating", "cycle", "caused", "by", "gorging", "at", "the", "buffet", "in", "the", "Paris", "casino", "the", "day", "before", ",", "and", "so", "we", "over-ordered", "."], "e1_text": "caused", "e1_pos": 14, "e2_text": "gorging", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "should", "be", "called", "''", "``", "My", "big", "fat", "ass", "after", "I", "ate", "here", "''", "''", "Drinks", "are", "served", "in", "plastic", "cups", "the", "size", "of", "big", "gulps", "and", "the", "plates", "are", "huge", "."], "e1_text": "ass", "e1_pos": 10, "e2_text": "ate", "e2_pos": 13, "label": "after"}
+]

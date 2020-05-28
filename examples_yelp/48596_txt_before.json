@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "asked", "when", "we", "first", "were", "seated", "if", "we", "'d", "been", "there", "before", ",", "and", "we", "said", "yes", "."], "e1_text": "seated", "e1_pos": 7, "e2_text": "'d", "e2_pos": 10, "label": "before"},
+{"tokens": ["Did", "she", "miss", "the", "part", "where", "we", "said", "yes", ",", "we", "'d", "been", "there", "before", "?"], "e1_text": "said", "e1_pos": 7, "e2_text": "'d", "e2_pos": 11, "label": "before"}
+]

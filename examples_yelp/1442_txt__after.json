@@ -1,0 +1,4 @@
+[
+{"tokens": ["Plus", ",", "when", "ordering", "my", "sandwich", "I", "had", "asked", "for", "one", "of", "three", "sauce", "options", "listed", "on", "the", "menu", "-", "but", "once", "it", "arrived", "I", "realized", "after", "biting", "into", "it", "that", "my", "sandwich", "contained", "the", "wrong", "sauce", "."], "e1_text": "realized", "e1_pos": 25, "e2_text": "biting", "e2_pos": 27, "label": "after"},
+{"tokens": ["It", "just", "was", "n't", "incredibly", "impressive", "to", "me", "after", "all", "the", "hype", "I", "'d", "heard", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "'d", "e2_pos": 13, "label": "after"}
+]

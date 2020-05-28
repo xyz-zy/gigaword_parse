@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "'ll", "give", "them", "another", "couple", "of", "months", "to", "shake", "off", "the", "''", "``", "newbies", "''", "''", "before", "commenting", "on", "the", "general", "menu", "."], "e1_text": "shake", "e1_pos": 9, "e2_text": "commenting", "e2_pos": 18, "label": "before"},
+{"tokens": ["Try", "the", "RH", "location", "before", "panning", "the", "new", "place", "."], "e1_text": "Try", "e1_pos": 0, "e2_text": "panning", "e2_pos": 5, "label": "before"}
+]

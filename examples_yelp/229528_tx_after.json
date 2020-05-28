@@ -1,0 +1,6 @@
+[
+{"tokens": ["Minutes", "fly", "by", "and", "before", "I", "knew", "it", ",", "it", "was", "already", "40", "minutes", "after", "our", "order", "and", "a", "group", "of", "10", "Giants", "fans", "walk", "in", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "walk", "e2_pos": 24, "label": "after"},
+{"tokens": ["At", "this", "point", "it", "is", "more", "than", "45", "minutes", "after", "we", "ordered", "and", "I", "stumble", "upon", "Jamie", "M.", "'s", "review", "where", "she", "mentioned", "that", "it", "took", "the", "the", "staff", "over", "35", "minutes", "for", "them", "to", "inform", "her", "that", "something", "she", "ordered", "was", "unavailable", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 11, "label": "after"},
+{"tokens": ["It", "is", "now", "55", "minutes", "after", "we", "ordered", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "watched", "them", "get", "their", "drinks", "about", "half", "an", "hour", "and", "their", "edamame", "about", "40", "minutes", "after", "ordering", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 17, "label": "after"}
+]

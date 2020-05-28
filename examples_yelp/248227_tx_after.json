@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "kid", "who", "answered", "the", "phone", "did", "not", "listen", "at", "all", "after", "I", "repeated", "a", "simple", "order", "of", "3", "peperoni", "and", "2", "cheeses", "."], "e1_text": "listen", "e1_pos": 8, "e2_text": "repeated", "e2_pos": 13, "label": "after"}
+]

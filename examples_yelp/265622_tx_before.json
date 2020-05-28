@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lived", "in", "Mexico", "before", "I", "did", "n't", "have", "as", "much", "pushy", "sales", "people", "."], "e1_text": "lived", "e1_pos": 1, "e2_text": "did", "e2_pos": 6, "label": "before"},
+{"tokens": ["Please", "do", "n't", "waste", "your", "time", "on", "supposed", "savings", "and", "check", "Yelp", "before", "you", "choose", "a", "vendor", "."], "e1_text": "check", "e1_pos": 10, "e2_text": "choose", "e2_pos": 14, "label": "before"}
+]

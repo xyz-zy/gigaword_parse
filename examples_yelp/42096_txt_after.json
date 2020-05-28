@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "endured", "a", "flowery", "speech", "and", "unsolicited", "updates", "on", "lava", "cake", ",", "until", "it", "finally", "arrived", "half", "an", "hour", "after", "entrees", "were", "cleared", "."], "e1_text": "arrived", "e1_pos": 15, "e2_text": "were", "e2_pos": 21, "label": "after"}
+]

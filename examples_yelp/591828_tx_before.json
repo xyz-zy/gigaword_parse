@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "on", "a", "Monday", "night", "for", "ladies", "night", "to", "get", "a", "few", "cheap", "drinks", "before", "we", "headed", "to", "a", "club", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "headed", "e2_pos": 17, "label": "before"},
+{"tokens": ["Overall", ",", "I", "would", "have", "rather", "just", "had", "a", "few", "more", "drinks", "in", "our", "room", "before", "going", "out", "the", "club", "and", "skipped", "this", "altogether", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "going", "e2_pos": 16, "label": "before"}
+]

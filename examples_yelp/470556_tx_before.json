@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "even", "introduced", "me", "to", "a", "girl", "they", "called", "their", "''", "``", "quality", "assurance", "specialist", "''", "''", "and", "assured", "me", "that", "she", "and", "the", "insurance", "adjuster", "would", "look", "the", "car", "over", "before", "releasing", "it", "to", "me", "."], "e1_text": "look", "e1_pos": 27, "e2_text": "releasing", "e2_pos": 32, "label": "before"},
+{"tokens": ["Nobody", "checked", "the", "work", "before", "calling", "me", "to", "pick", "up", "the", "car", "-LRB-", "unless", "they", "were", "blind", "-RRB-", "and", "it", "is", "now", "painfully", "obvious", "that", "nobody", "who", "worked", "on", "the", "car", "or", "oversaw", "it", "'s", "progress", "cared", "at", "all", "about", "the", "quality", "of", "work", "being", "done", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "calling", "e2_pos": 5, "label": "before"}
+]

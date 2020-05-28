@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "was", "n't", "as", "great", "as", "I", "expected", "it", "to", "be", "after", "hearing", "all", "the", "hype", "about", "it", ",", "but", "it", "was", "still", "pretty", "decent", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "hearing", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "seemed", "to", "forget", "a", "couple", "things", "because", "they", "also", "forgot", "my", "boyfriend", "'s", "burger", "and", "we", "reminded", "them", "after", "waiting", "a", "while", "."], "e1_text": "reminded", "e1_pos": 17, "e2_text": "waiting", "e2_pos": 20, "label": "after"}
+]

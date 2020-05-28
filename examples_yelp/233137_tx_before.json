@@ -1,0 +1,4 @@
+[
+{"tokens": ["NOTE", ":", "We", "decided", "this", "place", "was", "out", "of", "our", "price", "range", "and", "left", "before", "we", "even", "tried", "any", "of", "the", "food", "."], "e1_text": "left", "e1_pos": 13, "e2_text": "tried", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "decided", "this", "place", "was", "out", "of", "our", "price", "range", "and", "left", "before", "we", "even", "tried", "any", "of", "the", "food", "."], "e1_text": "left", "e1_pos": 11, "e2_text": "tried", "e2_pos": 15, "label": "before"}
+]

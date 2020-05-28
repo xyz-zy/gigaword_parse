@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", "there", "is", "a", "problem", "that", "''", "``", "McD", "'s", "''", "''", "needs", "to", "fix", "before", "''", "``", "they", "boldly", "go", "where", "no", "burger", "has", "gone", "before", ".", "''", "''"], "e1_text": "is", "e1_pos": 2, "e2_text": "needs", "e2_pos": 12, "label": "before"}
+]

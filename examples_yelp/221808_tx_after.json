@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "feel", "any", "desire", "to", "try", "another", "sandwich", "after", "sampling", "the", "beef", "&", "brie", "on", "wheat", "--", "a", "little", "too", "sweet", ",", "too", "much", "bread", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "sampling", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "service", "was", "mediocre", "at", "best", ",", "perhaps", "bordering", "on", "curt", "a", "couple", "times", ",", "but", "I", "did", "appreciate", "their", "leaving", "us", "to", "be", "and", "drink", "for", "some", "time", "after", "we", "finished", "eating", "."], "e1_text": "drink", "e1_pos": 25, "e2_text": "finished", "e2_pos": 31, "label": "after"}
+]

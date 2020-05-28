@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "one", "mentioned", "it", "was", "a", "corner", "room", "next", "to", "a", "rickety", ",", "rusted", "wire", "pool", "gate", "that", "would", "slam", "and", "re-slam", "every", "time", "someone", "walked", "out", "of", "it", ",", "which", "usually", "occurred", "around", "3am", "when", "all", "the", "drunks", "are", "wandering", "around", "the", "pool", "after", "the", "bar", "closes", "."], "e1_text": "slam", "e1_pos": 19, "e2_text": "closes", "e2_pos": 47, "label": "after"}
+]

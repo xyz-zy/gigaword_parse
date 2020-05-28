@@ -1,0 +1,5 @@
+[
+{"tokens": ["Gee", ",", "it", "would", "have", "been", "nice", "to", "know", "that", "before", "driving", "across", "town", "."], "e1_text": "know", "e1_pos": 8, "e2_text": "driving", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "took", "sooo", "long", "before", "we", "were", "asked", "for", "our", "drink", "order", ",", "then", "sooo", "long", "for", "the", "drinks", "to", "show", "up", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"},
+{"tokens": ["Instead", "of", "taking", "our", "food", "order", "at", "that", "time", "we", "were", "left", "sitting", "sooo", "long", "before", "he", "came", "back", "."], "e1_text": "sitting", "e1_pos": 12, "e2_text": "came", "e2_pos": 17, "label": "before"}
+]

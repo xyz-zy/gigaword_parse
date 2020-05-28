@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "tell", "him", "fine", "and", "ask", "him", "how", "long", "it", "will", "be", "before", "they", "get", "to", "it", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "get", "e2_pos": 14, "label": "before"},
+{"tokens": ["A", "real", "mechanic", "could", "start", "it", "and", "have", "a", "rough", "idea", "of", "what", "was", "wrong", "with", "it", "before", "having", "to", "repair", "a", "bunch", "of", "things", "that", "are", "n't", "even", "wrong", "with", "it", "in", "the", "first", "place", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "having", "e2_pos": 18, "label": "before"}
+]

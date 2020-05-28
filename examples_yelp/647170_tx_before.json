@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "would", "be", "interesting", "to", "see", "what", "the", "sales", "receipts", "reveal", "about", "how", "many", "people", "eat", "at", "Gus", "'s", "before", "10pm", "versus", "how", "many", "get", "delivery", "-LRB-", "for", "a", "$", "5", "fee", "-RRB-", "between", "midnight", "and", "4am", "."], "e1_text": "eat", "e1_pos": 15, "e2_text": "get", "e2_pos": 24, "label": "before"}
+]

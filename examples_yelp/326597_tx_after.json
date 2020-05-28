@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "booked", "my", "appointment", "over", "6", "weeks", "ago", "after", "my", "husband", "got", "me", "a", "groupon", "for", "a", "50", "minute", "Swedish", "massage", "for", "when", "were", "came", "to", "town", "."], "e1_text": "booked", "e1_pos": 1, "e2_text": "got", "e2_pos": 11, "label": "after"}
+]

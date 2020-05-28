@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "arrived", "very", "late", "on", "Thursday", "evening", "of", "last", "week", "about", "24", "hours", "before", "I", "was", "going", "to", "be", "married", ",", "and", "had", "to", "wait", "in", "quite", "the", "line", "to", "get", "checked", "in", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "pool", "did", "open", "15", "minutes", "late", "and", "they", "started", "kicking", "everyone", "out", "15", "minutes", "before", "they", "closed", "."], "e1_text": "started", "e1_pos": 9, "e2_text": "closed", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "could", "have", "gone", "out", "to", "eat", "and", "been", "back", "to", "the", "hotel", "before", "our", "food", "came", "."], "e1_text": "been", "e1_pos": 8, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

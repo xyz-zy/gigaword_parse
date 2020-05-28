@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "the", "combo", "fried", "rice", ",", "went", "home", "because", "after", "being", "there", "I", "had", "to", "get", "home", "to", "take", "a", "shower", ",", "fried", "rice", "was", "inedible", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

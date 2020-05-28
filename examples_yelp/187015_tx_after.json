@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "overwhelming", "urge", "to", "rub", "hand", "sanitizer", "all", "over", "my", "body", "after", "visiting", "this", "ghetto", "ass", "hotel", "in", "''", "``", "Downtown", "''", "''", "Las", "Vegas", "."], "e1_text": "rub", "e1_pos": 6, "e2_text": "visiting", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "plan", "was", "that", "after", "the", "Rat", "Pack", "show", "we", "were", "going", "to", "soak", "up", "some", "Downtown", "sun", "but", "as", "soon", "as", "the", "show", "was", "over", "I", "wanted", "to", "get", "out", "of", "there", "with", "a", "quickness", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "show", "e2_pos": 8, "label": "after"}
+]

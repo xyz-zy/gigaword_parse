@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "in", "the", "middle", "of", "the", "night", "and", "once", "during", "the", "day", "while", "I", "was", "napping", "after", "laying", "at", "the", "pool", "."], "e1_text": "napping", "e1_pos": 15, "e2_text": "laying", "e2_pos": 17, "label": "after"},
+{"tokens": ["On", "our", "last", "day", "we", "checked", "our", "luggage", "in", "at", "the", "concierge", "so", "that", "we", "could", "walk", "around", "without", "our", "luggage", "after", "checking", "out", "of", "our", "room", "."], "e1_text": "walk", "e1_pos": 16, "e2_text": "checking", "e2_pos": 22, "label": "after"}
+]

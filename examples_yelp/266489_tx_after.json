@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "the", "chicken", "Zaba", "bowl", "to", "go", "on", "my", "lunch", "break", ",", "only", "to", "discover", "a", "red", "roach", "in", "the", "chicken", ",", "this", "after", "I", "ate", "half", "the", "bowl", "."], "e1_text": "discover", "e1_pos": 15, "e2_text": "ate", "e2_pos": 26, "label": "after"},
+{"tokens": ["I", "took", "it", "back", "to", "the", "manager", "who", ",", "after", "looking", "at", "it", "for", "a", "solid", "minute", ",", "told", "me", "over", "&", "over", "it", "was", "a", "chili", "as", "he", "tore", "it", "up", "in", "his", "hands", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "looking", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "her", "and", "asked", "if", "she", "was", "going", "to", "clean", "up", "my", "cuticles", ",", "she", "told", "me", "she", "does", "them", "after", "she", "polishes", "them", "."], "e1_text": "does", "e1_pos": 19, "e2_text": "polishes", "e2_pos": 23, "label": "after"},
+{"tokens": ["To", "top", "it", "off", ",", "after", "I", "got", "home", "I", "noticed", "there", "were", "little", "bubbles", "or", "bumps", "in", "my", "nails", "."], "e1_text": "top", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "rug", "i", "purchased", "did", "not", "work", "where", "i", "wanted", "it", "so", "i", "attempted", "to", "return", "it", "about", "1", "week", "after", "i", "purchased", "it", ",", "i", "went", "back", "the", "following", "weekend", "and", "the", "manager", "refused", "."], "e1_text": "attempted", "e1_pos": 13, "e2_text": "purchased", "e2_pos": 3, "label": "after"}
+]

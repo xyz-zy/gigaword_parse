@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "just", "before", "9", "am", "on", "a", "Saturday", "and", "there", "were", "still", "a", "few", "tables", "open", ",", "so", "we", "did", "n't", "have", "to", "wait", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "am", "e2_pos": 5, "label": "before"},
+{"tokens": ["He", "was", "not", "rude", "to", "us", ",", "but", "it", "seemed", "that", "whatever", "he", "was", "doing", "the", "night", "before", "was", "interrupted", "by", "this", "work-thing", "that", "he", "had", "to", "get", "up", "for", "."], "e1_text": "seemed", "e1_pos": 9, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

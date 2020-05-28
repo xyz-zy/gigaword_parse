@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "has", "happened", "a", "few", "times", "before", "I", "realized", "that", "it", "was", "an", "everyday", "occurrence", "-LRB-", "especially", "on", "the", "weekends", "-RRB-", "."], "e1_text": "happened", "e1_pos": 2, "e2_text": "realized", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "went", "through", "this", "twice", "before", "we", "stopped", "having", "anything", "shipped", "to", "the", "store", "for", "pick-up", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "stopped", "e2_pos": 7, "label": "before"}
+]

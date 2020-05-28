@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plus", "they", "continue", "to", "charge", "you", "for", "another", "month", "after", "you", "quit", "-LRB-", "this", "was", "definitely", "not", "what", "they", "told", "me", "when", "I", "signed", "up", "-RRB-", "."], "e1_text": "charge", "e1_pos": 4, "e2_text": "quit", "e2_pos": 11, "label": "after"}
+]

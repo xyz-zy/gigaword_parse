@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "my", "father", "finished", "his", "dish", "about", "10", "minutes", "before", "we", "finally", "received", "the", "pizza", ",", "well", "after", "we", "were", "first", "seated", "."], "e1_text": "received", "e1_pos": 14, "e2_text": "were", "e2_pos": 21, "label": "after"}
+]

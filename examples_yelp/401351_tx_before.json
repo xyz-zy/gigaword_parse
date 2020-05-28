@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "owner", "or", "manager", "came", "out", "and", "charged", "me", "full", "price", "for", "my", "sandwich", "and", "tea", "which", "I", "thought", "was", "rude", "considering", "I", "waited", "30", "+", "mins", "before", "I", "had", "to", "leave", "and", "asked", "for", "it", "to", "go", "."], "e1_text": "waited", "e1_pos": 23, "e2_text": "had", "e2_pos": 29, "label": "before"}
+]

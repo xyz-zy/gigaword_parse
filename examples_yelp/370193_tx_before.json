@@ -1,0 +1,4 @@
+[
+{"tokens": ["Excited", ",", "since", "we", "'ve", "never", "stayed", "there", "before", "but", "knew", "it", "was", "this", "famous", "place", "on", "the", "strip", ",", "we", "looked", "into", "good", "food", "around", "the", "area", ",", "and", "what", "else", "we", "can", "do", "that", "was", "close", "."], "e1_text": "Excited", "e1_pos": 0, "e2_text": "'ve", "e2_pos": 4, "label": "before"},
+{"tokens": ["We", "arrive", "in", "Vegas", "around", "1:30", "pm", ",", "and", "decide", "to", "have", "lunch", "first", "before", "checking", "in", ",", "since", "it", "was", "too", "early", "to", "do", "so", "and", "our", "lunch", "reservation", "was", "North", "Strip", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "checking", "e2_pos": 15, "label": "before"}
+]

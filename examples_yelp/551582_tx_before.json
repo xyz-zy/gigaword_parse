@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "of", "us", "waited", "90", "minutes", "before", "our", "appointment", "started", "with", "the", "intention", "of", "us", "all", "getting", "our", "nails", "done", "together", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "started", "e2_pos": 9, "label": "before"}
+]

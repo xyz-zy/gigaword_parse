@@ -1,0 +1,4 @@
+[
+{"tokens": ["went", "back", "out", "to", "the", "Young", "Lady", "after", "a", "brief", "conversation", "this", "she", "quickly", "apologized", "...", "made", "a", "call", "."], "e1_text": "went", "e1_pos": 0, "e2_text": "made", "e2_pos": 16, "label": "after"},
+{"tokens": ["the", "food", "was", "fine", ",", "the", "drinks", "were", "good", "the", "view", "and", "the", "service", "were", "worth", "mention", "after", "the", "initial", "overlooking", "the", "arranged", "seating", "of", "our", "reservation", "."], "e1_text": "mention", "e1_pos": 16, "e2_text": "overlooking", "e2_pos": 20, "label": "after"}
+]

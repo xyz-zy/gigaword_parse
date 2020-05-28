@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "asked", "to", "''", "``", "keep", "it", "down", "''", "''", "twice", "and", "also", "wash", "our", "hands", "after", "each", "slice", "before", "using", "pool", "cues", "."], "e1_text": "keep", "e1_pos": 5, "e2_text": "using", "e2_pos": 20, "label": "after"},
+{"tokens": ["The", "owner", "did", "n't", "even", "have", "the", "guts", "to", "approach", "us", "until", "after", "he", "sent", "the", "waitress", "over", "twice", "."], "e1_text": "approach", "e1_pos": 9, "e2_text": "sent", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Called", "before", "leaving", "my", "house", "to", "ask", "if", "they", "had", "the", "PAC-12", "Network", "."], "e1_text": "Called", "e1_pos": 0, "e2_text": "leaving", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "got", "there", "and", "waited", "10", "minutes", "before", "a", "server", "came", "over", "to", "the", "table", "that", "I", "had", "sat", "down", "at", "to", "greet", "me", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["She", "disappeared", "for", "another", "8-10", "minutes", "before", "coming", "back", "with", "my", "tea", "and", "then", "told", "me", "they", "did", "n't", "have", "that", "channel", "."], "e1_text": "disappeared", "e1_pos": 1, "e2_text": "coming", "e2_pos": 7, "label": "before"}
+]

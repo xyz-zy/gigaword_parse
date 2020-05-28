@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "stellar", "waiter", "continued", "his", "amazing", "service", "by", "not", "bringing", "us", "bread", "until", "my", "mother", "asked", ",", "and", "he", "forgot", "to", "bring", "us", "water", "after", "we", "asked", "2", "times", "."], "e1_text": "water", "e1_pos": 23, "e2_text": "asked", "e2_pos": 15, "label": "after"}
+]

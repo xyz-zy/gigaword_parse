@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "are", "mocked", "and", "rushed", "when", "ordering", ",", "they", "are", "yelled", "at", "for", "laughing", ",", "rushed", "out", "of", "the", "restaurant", "after", "eating", ",", "ignored", "at", "time", "and", "recently", "my", "friend", "had", "the", "POLICE", "CALLED", "on", "him", "by", "the", "manager", "for", "setting", "a", "food", "tray", "on", "the", "ground", "!"], "e1_text": "rushed", "e1_pos": 4, "e2_text": "eating", "e2_pos": 21, "label": "after"}
+]

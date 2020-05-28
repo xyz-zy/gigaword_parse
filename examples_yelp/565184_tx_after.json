@@ -1,0 +1,4 @@
+[
+{"tokens": ["Oh", "and", "good", "luck", "asking", "for", "anything", "out", "of", "the", "worker", "'s", "way", "like", "a", "side", "of", "sauce", "of", "something", "small", "after", "you", "have", "paid", "."], "e1_text": "'s", "e1_pos": 11, "e2_text": "have", "e2_pos": 23, "label": "after"},
+{"tokens": ["One", "of", "my", "friend", "'s", "daughters", "started", "working", "there", "-LRB-", "And", "shortly", "after", "quit", "because", "of", "the", "drama", "between", "coworkers", "and", "unpleasant", "working", "environment", "-RRB-", "AND", "because", "she", "felt", "uncomfortable", "that", "the", "owner", "is", "PAYING", "HIS", "EMPLOYEES", "UNDER", "THE", "TABLE", "ILLEGALLY", "."], "e1_text": "started", "e1_pos": 6, "e2_text": "quit", "e2_pos": 13, "label": "after"}
+]

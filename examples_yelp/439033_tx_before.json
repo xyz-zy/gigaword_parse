@@ -1,0 +1,4 @@
+[
+{"tokens": ["he", "finally", "agreed", "to", "add", "it", "to", "our", "order", ",", "before", "making", "a", "smart", "ass", "remark", "about", "`", "the", "next", "time", ".", ".", "'"], "e1_text": "agreed", "e1_pos": 2, "e2_text": "making", "e2_pos": 11, "label": "before"},
+{"tokens": ["we", "had", "to", "ask", "the", "lady", "to", "wipe", "a", "table", "for", "us", "before", "we", "sat", "down", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "sat", "e2_pos": 14, "label": "before"}
+]

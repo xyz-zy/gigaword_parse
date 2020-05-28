@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "n't", "get", "our", "water", "until", "maybe", "10", "minutes", "after", "sitting", "there", "and", "we", "never", "got", "a", "refill", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "sitting", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "finally", "had", "to", "flag", "her", "down", "for", "our", "check", "and", "even", "asked", "to", "get", "more", "water", "after", "we", "got", "our", "check", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "got", "e2_pos": 19, "label": "after"}
+]

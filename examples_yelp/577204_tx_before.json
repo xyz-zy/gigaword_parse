@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "only", "admire", "the", "beauty", "for", "a", "few", "minutes", "before", "being", "driven", "away", "by", "the", "flaws", "."], "e1_text": "admire", "e1_pos": 3, "e2_text": "being", "e2_pos": 11, "label": "before"},
+{"tokens": ["A", "nice", "bar", ",", "sleek", "booths", ",", "a", "sharp", "decor", ",", "and", "a", "good", "looking", "staff", "all", "get", "your", "attention", "before", "taking", "your", "seat", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "taking", "e2_pos": 21, "label": "before"}
+]

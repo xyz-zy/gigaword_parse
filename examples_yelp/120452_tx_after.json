@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "major", "gripe", "with", "this", "place", "is", "the", "late-night", "diner", ",", "which", "is", "run", "by", "the", "worst", "group", "of", "skinflints", "imaginable", "...", "so", "much", "so", "that", "I", "walked", "out", "after", "they", "refused", "to", "substitute", "anything", "for", "the", "pork", "they", "served", "in", "one", "of", "their", "breakfast", "specials", "."], "e1_text": "walked", "e1_pos": 27, "e2_text": "refused", "e2_pos": 31, "label": "after"}
+]

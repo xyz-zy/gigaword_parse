@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "nobody", "there", "to", "seat", "us", ",", "which", "is", "no", "big", "deal", ",", "but", "the", "place", "was", "pretty", "slow", "and", "we", "waited", "about", "5", "min", "before", "anyone", "even", "acknowledged", "we", "were", "there", "."], "e1_text": "waited", "e1_pos": 22, "e2_text": "acknowledged", "e2_pos": 29, "label": "before"}
+]

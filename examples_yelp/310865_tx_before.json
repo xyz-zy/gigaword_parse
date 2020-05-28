@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "perused", "their", "flavor", "list", "online", "before", "visiting", "so", "that", "I", "knew", "what", "I", "wanted", "as", "soon", "as", "I", "went", "in", "."], "e1_text": "perused", "e1_pos": 1, "e2_text": "visiting", "e2_pos": 7, "label": "before"},
+{"tokens": ["Their", "cupcakes", "are", "normal", "size", "and", "you", "can", "eaaaaasily", "wolf", "down", "two", "cupcakes", ",", "possibly", "three", ",", "before", "the", "gluttony", "guilt", "begins", "to", "rear", "its", "ugly", "head", "."], "e1_text": "wolf", "e1_pos": 9, "e2_text": "begins", "e2_pos": 21, "label": "before"},
+{"tokens": ["They", "have", "won", "me", "over", "and", "I", "will", "gladly", "be", "back", "every", "trip", "to", "LV", "-LRB-", "and", "possibly", "once", "again", "before", "I", "leave", "this", "weekend", "!!", "-RRB-", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "leave", "e2_pos": 22, "label": "before"}
+]

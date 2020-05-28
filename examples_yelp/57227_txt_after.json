@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sandwiches", "are", "not", "made", "in", "order", ",", "so", "do", "n't", "be", "surprised", "if", "customers", "who", "arrive", "after", "you", "get", "their", "food", "first", ",", "even", "if", "it", "'s", "the", "exact", "same", "sandwich", "."], "e1_text": "arrive", "e1_pos": 15, "e2_text": "get", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "here", "for", "''", "``", "brunch", "''", "''", "in", "early", "May", "2013", "on", "a", "drive", "from", "Providence", ",", "RI", ",", "to", "Billings", ",", "MT", "after", "seeing", "yelp", "reviews", "for", "vegan\\/vegetarian", "places", "in", "Madison", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 26, "label": "after"},
+{"tokens": ["The", "coffee", "was", "great", "after", "driving", "about", "20", "hours", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "driving", "e2_pos": 5, "label": "after"}
+]

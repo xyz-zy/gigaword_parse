@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "''", "``", "SPF", "''", "''", "were", "perfectly", "cooked", "and", "were", "delightful", "!!", "However", ",", "our", "''", "``", "PS", "''", "''", "arrived", "about", "5", "minutes", "after", "the", "''", "``", "SPF", "''", "''", "and", "looked", "overcooked", "and", "greasy", "."], "e1_text": "!!", "e1_pos": 12, "e2_text": "SPF", "e2_pos": 29, "label": "after"}
+]

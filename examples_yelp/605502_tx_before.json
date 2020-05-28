@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "story", "begins", "well", "before", "we", "entered", "the", "shop", "."], "e1_text": "begins", "e1_pos": 2, "e2_text": "entered", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "did", "a", "little", "Yelping", "and", "found", "the", "reviews", "and", "the", "sample", "images", "for", "Broken", "Dagger", "to", "be", "a", "better", "fit", "for", "what", "we", "were", "looking", "for", ",", "since", "two", "of", "us", "had", "been", "inked", "before", "and", "two", "were", "newbies", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "had", "e2_pos": 32, "label": "before"}
+]

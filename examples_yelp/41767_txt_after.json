@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "they", "said", "he", "will", "be", "leaving", "soon", "then", "immediately", "after", "that", "said", "the", "driver", "left", "8mins", "ago", "."], "e1_text": "leaving", "e1_pos": 6, "e2_text": "said", "e2_pos": 2, "label": "after"}
+]

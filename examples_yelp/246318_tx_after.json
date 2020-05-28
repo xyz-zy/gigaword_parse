@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "booked", "here", "using", "rewards", "points", "for", "one", "room", "and", "paid", "for", "another", "after", "having", "a", "horrible", "experience", "elsewhere", "at", "a", "different", "chain", "."], "e1_text": "paid", "e1_pos": 10, "e2_text": "having", "e2_pos": 14, "label": "after"}
+]

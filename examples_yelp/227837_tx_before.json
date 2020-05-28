@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "knew", "we", "had", "a", "good", "45", "minutes", "before", "the", "drugs", "kicked", "in", "so", "we", "hightailed", "it", "on", "out", "to", "Blockbuster", "to", "get", "some", "movies", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "kicked", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "was", "a", "race", "against", "time", "to", "get", "in", ",", "grab", "some", "DVDs", "and", "get", "out", "before", "we", "started", "tripping", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

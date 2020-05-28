@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "were", "nice", "enough", "to", "set", "the", "tables", "up", "for", "us", "and", "unfortunately", "we", "arrived", "3", "minutes", "after", "happy", "hour", "ended", "."], "e1_text": "arrived", "e1_pos": 15, "e2_text": "ended", "e2_pos": 21, "label": "after"},
+{"tokens": ["The", "service", "was", "just", "ok", "and", "again", ",", "after", "reading", "some", "good", "reviews", "I", "'m", "not", "sure", "what", "happened", "because", "no", "one", "would", "have", "given", "the", "food", "or", "service", "five", "stars", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "reading", "e2_pos": 9, "label": "after"}
+]

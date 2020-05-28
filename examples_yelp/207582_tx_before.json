@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ate", "half", "of", "the", "burger", "before", "feeling", "like", "vomiting", "a", "little", "in", "my", "mouth", ",", "downed", "my", "water", ",", "paid", "-LRB-", "after", "hunting", "down", "my", "waitress", "-RRB-", ",", "and", "left", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "feeling", "e2_pos": 7, "label": "before"}
+]

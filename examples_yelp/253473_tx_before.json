@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "teacher", "even", "took", "time", "out", "to", "get", "to", "know", "her", "before", "we", "made", "our", "decision", "to", "enroll", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "made", "e2_pos": 13, "label": "before"},
+{"tokens": ["For", "the", "first", "month", "when", "she", "'d", "get", "there", "each", "morning", "the", "teacher", "would", "let", "her", "sit", "on", "a", "chair", "and", "get", "settled", "in", "before", "interacting", "with", "the", "other", "kids", "."], "e1_text": "settled", "e1_pos": 22, "e2_text": "interacting", "e2_pos": 25, "label": "before"}
+]

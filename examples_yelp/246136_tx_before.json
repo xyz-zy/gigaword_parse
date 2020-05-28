@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "the", "reviews", "before", "scheduling", "an", "appointment", "at", "this", "subpar", "tooth", "factory", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "scheduling", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "understand", "the", "insurance", "business", "in", "this", "country", "is", "a", "broken", "system", ",", "but", "as", "a", "staff", "member", "of", "a", "dental", "office", "-LRB-", "who", "probably", "makes", "$", "10", "an", "hour", "-RRB-", ",", "when", "someone", "expresses", "financial", "hardship", "and", "wants", "clarity", "before", "procedures", "are", "done", ",", "why", "on", "earth", "would", "you", "not", "have", "the", "integrity", "to", "simply", "say", ",", "''", "``", "We", "do", "not", "accept", "your", "insurance", ".", "''", "''"], "e1_text": "wants", "e1_pos": 38, "e2_text": "are", "e2_pos": 42, "label": "before"}
+]

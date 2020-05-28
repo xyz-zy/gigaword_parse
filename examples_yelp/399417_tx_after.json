@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "thing", "that", "bothered", "us", "was", "that", "we", "went", "when", "drinks", "were", "2", "for", "1", ",", "which", "is", "their", "happy", "hour", "special", ",", "and", "we", "did", "n't", "even", "see", "the", "sign", "on", "the", "table", "that", "let", "us", "know", "until", "after", "we", "ordered", "our", "drinks", "."], "e1_text": "know", "e1_pos": 38, "e2_text": "ordered", "e2_pos": 42, "label": "after"}
+]

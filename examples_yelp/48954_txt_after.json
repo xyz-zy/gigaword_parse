@@ -1,0 +1,3 @@
+[
+{"tokens": ["Speaking", "of", "the", "bathroom", ",", "I", "once", "overheard", "a", "conversation", "between", "two", "girls", ",", "one", "of", "which", "wanted", "to", "call", "some", "guy", "or", "another", "to", "''", "``", "hang", "out", "''", "''", "with", "after", "they", "left", ",", "the", "other", "of", "which", "was", "slurredly", "talking", "her", "out", "of", "it", ",", "at", "one", "point", "reminding", "her", "that", "the", "last", "time", "they", "hung", "out", ",", "he", "choked", "her", "."], "e1_text": "hang", "e1_pos": 27, "e2_text": "left", "e2_pos": 34, "label": "after"}
+]

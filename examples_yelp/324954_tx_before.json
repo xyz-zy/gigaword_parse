@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "even", "though", "that", "cookie", "was", "dated", "the", "day", "before", "I", "bought", "it", ",", "it", "was", "a", "moist", "and", "incredibly", "delicious", "oatmeal", "raisin", "cookie", "."], "e1_text": "dated", "e1_pos": 6, "e2_text": "bought", "e2_pos": 11, "label": "before"}
+]

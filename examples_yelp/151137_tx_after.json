@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "table", "next", "to", "us", "was", "filled", "with", "screaming", "patrons", "who", "sat", "there", "a", "good", "45", "minutes", "after", "they", "signed", "their", "check", "."], "e1_text": "sat", "e1_pos": 11, "e2_text": "signed", "e2_pos": 19, "label": "after"}
+]

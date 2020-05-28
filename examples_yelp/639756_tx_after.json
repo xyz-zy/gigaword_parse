@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "first", "visited", "this", "restaurant", "last", "weekend", "after", "hearing", "good", "things", "about", "their", "food", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 8, "label": "after"},
+{"tokens": ["She", "came", "back", "3", "times", "within", "5", "minutes", "to", "ask", "if", "we", "were", "ready", "to", "order", "after", "we", "told", "her", "we", "needed", "time", "."], "e1_text": "order", "e1_pos": 15, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

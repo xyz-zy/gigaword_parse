@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "to", "ask", "for", "napkins", ",", "had", "to", "ask", "for", "plates", ",", "had", "to", "ask", "for", "silverware\\/chopsticks", ",", "had", "to", "ask", "for", "refills", "of", "iced", "tea", "after", "our", "glasses", "sat", "empty", "at", "the", "edge", "of", "the", "table", "for", "10", "minutes", ",", "had", "to", "ask", "for", "sweetener", "for", "said", "tea", "and", "he", "handed", "us", "2", "packets", "at", "a", "time", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "sat", "e2_pos": 30, "label": "after"}
+]

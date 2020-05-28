@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "give", "Lucille", "'s", "another", "try", "seeing", "as", "how", "they", "took", "action", "after", "reading", "the", "review", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "'ll", "review", "after", "I", "'ve", "tried", "it", "again", "."], "e1_text": "review", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 5, "label": "after"}
+]

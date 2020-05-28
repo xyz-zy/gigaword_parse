@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "pretty", "sure", "one", "person", "left", "to", "check", "her", "text", "messages", "-LRB-", "she", "pulled", "out", "her", "phone", "after", "finishing", "a", "customer", "...", "50", "minutes", "after", "I", "got", "there", ",", "looked", "at", "it", "then", "left", "...", "only", "to", "return", "in", "10", "minutes", "-RRB-", "."], "e1_text": "pulled", "e1_pos": 14, "e2_text": "finishing", "e2_pos": 19, "label": "after"}
+]

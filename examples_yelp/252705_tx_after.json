@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "wrong", "--", "a", "lot", "of", "it", "came", "from", "the", "feta", "itself", ",", "which", "I", "detected", "later", "on", ",", "when", "I", "had", "more", "of", "the", "salad", "after", "arriving", "home", "."], "e1_text": "had", "e1_pos": 22, "e2_text": "arriving", "e2_pos": 28, "label": "after"},
+{"tokens": ["Just", "thought", "I", "'d", "warn", "you", ",", "in", "case", "this", "was", "an", "important", "issue", "...", "The", "pizza", "arrived", "about", "15", "minutes", "after", "I", "ordered", "it", "."], "e1_text": "arrived", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 23, "label": "after"}
+]

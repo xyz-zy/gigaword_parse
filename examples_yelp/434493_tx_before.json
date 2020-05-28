@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "discussed", "the", "need", "for", "me", "to", "resume", "my", "orthodontic", "treatment", ",", "since", "I", "pulled", "my", "braces", "off", "six", "months", "before", "after", "I", "lost", "my", "insurance", "."], "e1_text": "pulled", "e1_pos": 15, "e2_text": "lost", "e2_pos": 24, "label": "before"}
+]

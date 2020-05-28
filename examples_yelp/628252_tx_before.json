@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "-LRB-", "Aimee", "-RRB-", "told", "us", "the", "house", "was", "cleaned", "before", "we", "saw", "it", ",", "we", "would", "have", "garbage", "cans", "before", "we", "moved", "in", ",", "and", "that", "the", "damage", "to", "the", "wood", "floors", "just", "happened", "within", "the", "month", "."], "e1_text": "cleaned", "e1_pos": 9, "e2_text": "saw", "e2_pos": 12, "label": "before"},
+{"tokens": ["Turns", "out", "the", "house", "was", "not", "cleaned", "well", "before", "we", "moved", "in", "."], "e1_text": "cleaned", "e1_pos": 6, "e2_text": "moved", "e2_pos": 10, "label": "before"}
+]

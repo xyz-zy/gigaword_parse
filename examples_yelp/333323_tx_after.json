@@ -1,0 +1,4 @@
+[
+{"tokens": ["Never", "having", "been", "when", "I", "lived", "in", "the", "city", ",", "I", "figured", "it", "would", "be", "worthwhile", "to", "give", "Lem", "\\", "u00e9ac", "a", "try", "so", "I", "went", "with", "two", "friends", "-LRB-", "who", "have", "gone", "several", "times", "before", "-RRB-", "on", "a", "late", "Thursday", "evening", "to", "try", "their", "after", "10pm", "special", "-LRB-", "$", "27", "for", "an", "appetizer", "and", "entree", "and", "tea\\/coffee", "at", "the", "end", "-RRB-", "."], "e1_text": "be", "e1_pos": 14, "e2_text": "went", "e2_pos": 25, "label": "after"},
+{"tokens": ["With", "so", "many", "good", "restaurants", "in", "the", "city", ",", "especially", "french", ",", "I", "ca", "n't", "really", "recommend", "going", "after", "my", "first", "time", "trying", "it", "."], "e1_text": "going", "e1_pos": 17, "e2_text": "trying", "e2_pos": 22, "label": "after"}
+]

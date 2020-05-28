@@ -1,0 +1,4 @@
+[
+{"tokens": ["Screw", "him", "I", "came", "back", "about", "three", "times", ",", "after", "all", "this", "was", "a", "$", "53", "dollar", "buffet", "was", "n't", "going", "to", "let", "this", "go", "waste", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "service", "was", "ok", ",", "the", "lady", "that", "served", "us", "brought", "our", "drinks", "and", "after", "that", "I", "pretty", "much", "had", "to", "flag", "her", "down", "ever", "now", "and", "then", "to", "get", "a", "new", "drink", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 19, "label": "after"}
+]

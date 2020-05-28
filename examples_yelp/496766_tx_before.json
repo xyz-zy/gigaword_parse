@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recently", "visited", "tanzy", "before", "viewing", "at", "Ipic", "."], "e1_text": "visited", "e1_pos": 2, "e2_text": "viewing", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "will", "continue", "to", "eat", "here", "before", "going", "to", "the", "movies", "and", "I", "recommend", "you", "do", "that", "same", "!"], "e1_text": "eat", "e1_pos": 4, "e2_text": "going", "e2_pos": 7, "label": "before"}
+]

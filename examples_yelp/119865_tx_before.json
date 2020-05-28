@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "a", "couple", "bucks", "you", "want", "to", "burn", "before", "you", "leave", "town", "?"], "e1_text": "burn", "e1_pos": 7, "e2_text": "leave", "e2_pos": 10, "label": "before"},
+{"tokens": ["However", ",", "they", "are", "ready", "for", "it", "...", "and", "as", "long", "as", "you", "prepare", "you", "can", "save", "yourself", "some", "aggravation", "-LRB-", "ie", ":", "get", "ready", "for", "security", "before", "you", "hit", "security", ",", "have", "your", "IDs", "ready", ",", "and", "your", "patience", "handy", "-RRB-", "."], "e1_text": "get", "e1_pos": 23, "e2_text": "hit", "e2_pos": 29, "label": "before"}
+]

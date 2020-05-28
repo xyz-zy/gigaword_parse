@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "hear", "the", "food", "is", "hit", "or", "miss", "and", "on", "the", "night", "I", "visited", ",", "it", "was", "a", "HUGE", "HIT", "...", "We", "ate", "a", "few", "nights", "before", "at", "a", "place", "which", "prides", "itself", "on", "being", "an", "upscale", "place", "and", "we", "ordered", "a", "bone", "in", "ribeye", "AT", "THIS", "OTHER", "PLACE", "a", "few", "nights", "before", "."], "e1_text": "ate", "e1_pos": 22, "e2_text": "prides", "e2_pos": 31, "label": "before"}
+]

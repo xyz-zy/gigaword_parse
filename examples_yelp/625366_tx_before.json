@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "were", "under", "a", "time", "crunch", "and", "figured", "we", "would", "take", "a", "quick", "hour", "and", "a", "half", "to", "enjoy", "some", "smoke", "before", "going", "to", "dinner", "."], "e1_text": "enjoy", "e1_pos": 19, "e2_text": "going", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "place", "had", "just", "opened", "and", "so", "they", "did", "n't", "initially", "put", "carbonation", "in", "the", "beverage", ",", "however", "it", "was", "rectified", "before", "we", "got", "it", "."], "e1_text": "rectified", "e1_pos": 20, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

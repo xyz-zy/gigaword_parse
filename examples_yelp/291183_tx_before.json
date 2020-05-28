@@ -1,0 +1,6 @@
+[
+{"tokens": ["My", "friend", "had", "already", "bee", "to", "this", "place", "about", "twice", "before", "so", "he", "knew", "his", "way", "around", ",", "which", "was", "very", "helpful", "!"], "e1_text": "bee", "e1_pos": 4, "e2_text": "knew", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "mean", ",", "I", "supposed", "it", "'s", "nice", "of", "her", ",", "but", "I", "was", "already", "annoyed", "that", "she", "took", "away", "the", "TEA", "before", "I", "was", "done", "and", "that", "just", "kind", "of", "annoyed", "me", "a", "little", "bit", "more", "."], "e1_text": "took", "e1_pos": 18, "e2_text": "was", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "typically", "like", "to", "enjoy", "a", "cup", "of", "tea", "or", "two", "after", "a", "meal", "and", "before", "I", "leave", "the", "restaurant", "."], "e1_text": "like", "e1_pos": 2, "e2_text": "leave", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "'ve", "never", "had", "that", "happen", "to", "me", "at", "a", "restaurant", "before", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "happen", "e2_pos": 5, "label": "before"}
+]

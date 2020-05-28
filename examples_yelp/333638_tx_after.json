@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sandwich", "takes", "roughly", "5", "minutes", "to", "get", "to", "your", "table", "after", "ordering", ",", "and", "it", "will", "take", "the", "average", "eater", "roughly", "5", "minutes", "to", "eat", ",", "although", "I", "have", "witnessed", "it", "disappear", "in", "mere", "seconds", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "ordering", "e2_pos": 12, "label": "after"}
+]

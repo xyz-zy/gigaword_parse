@@ -1,0 +1,5 @@
+[
+{"tokens": ["Leonard", "just", "left", "after", "fixing", "my", "washing", "machine", "that", "would", "n't", "drain", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "fixing", "e2_pos": 4, "label": "after"},
+{"tokens": ["This", "was", "after", "two", "other", "companies", "did", "not", "show", "up", "as", "promised", "and", "one", "earlier", "today", "who", "told", "me", "to", "just", "buy", "a", "new", "one", "-LRB-", "my", "washer", "is", "only", "4", "years", "old", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "did", "e2_pos": 6, "label": "after"},
+{"tokens": ["When", "I", "called", "mid-afternoon", ",", "Cathy", "was", "so", "sympathetic", "after", "I", "told", "her", "my", "story", "she", "promised", "someone", "would", "be", "at", "my", "home", "before", "5", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "told", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "am", "in", "the", "process", "of", "checking", "out", "early", "from", "the", "Lowell", "Center", ",", "after", "having", "woken", "up", "at", "2", "am", "roasting", "because", "the", "''", "``", "air", "conditioning", "''", "''", "I", "paid", "extra", "for", "does", "n't", "work", "."], "e1_text": "checking", "e1_pos": 6, "e2_text": "am", "e2_pos": 1, "label": "after"},
+{"tokens": ["I", "called", "the", "front", "desk", "and", "requested", "that", "the", "room", "be", "given", "extra", "attention", "during", "cleaning", "the", "next", "day", ",", "but", "the", "exact", "same", "hair", "was", "still", "there", "even", "after", "housekeeping", "came", "through", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "came", "e2_pos": 31, "label": "after"},
+{"tokens": ["I", "had", "high", "hopes", "after", "reading", "all", "the", "positive", "reviews", ",", "but", "have", "found", "that", "unfortunately", "the", "hotel", "does", "not", "live", "up", "to", "its", "reputation", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"}
+]

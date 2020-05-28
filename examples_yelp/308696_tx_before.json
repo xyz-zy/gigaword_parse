@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "was", "ready", "relatively", "quickly", ",", "I", "barely", "got", "my", "hand", "out", "of", "the", "window", "as", "I", "reached", "for", "salt", "and", "pepper", "before", "it", "was", "slammed", "shut", "again", "."], "e1_text": "reached", "e1_pos": 18, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "managed", "to", "eat", "most", "of", "all", "the", "platter", "before", "I", "ran", "out", "of", "sauce", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "ran", "e2_pos": 11, "label": "before"}
+]

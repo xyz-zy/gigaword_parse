@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "lab", "mix", "and", "the", "large", "dog", "area", "was", "closed", "due", "to", "flooding", "...", "really", "??", "So", "it", "was", "early", "and", "I", "was", "frustrated", "after", "trying", "to", "find", "the", "place", "and", "to", "see", "it", "was", "closed", ",", "I", "went", "to", "the", "small", "dog", "area", "...", "only", "3", "dogs", "in", "there", "."], "e1_text": "frustrated", "e1_pos": 25, "e2_text": "trying", "e2_pos": 27, "label": "after"}
+]

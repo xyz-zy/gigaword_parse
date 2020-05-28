@@ -1,0 +1,3 @@
+[
+{"tokens": ["Everyone", "ordered", "something", "different", ",", "so", "we", "could", "share", "and", "before", "we", "knew", "we", "had", "pancakes", ",", "french", "toast", ",", "a", "meat", "omelet", ",", "bacon", ",", "hash", "browns", "and", "grits", "flying", "around", "the", "table", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "knew", "e2_pos": 12, "label": "before"}
+]

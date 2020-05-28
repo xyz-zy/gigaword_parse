@@ -1,0 +1,4 @@
+[
+{"tokens": ["By", "the", "time", "I", "was", "done", ",", "I", "'m", "not", "even", "kidding", ",", "my", "plate", "looked", "like", "what", "I", "had", "left", "in", "the", "bottom", "of", "a", "toilet", "in", "Portland", "last", "year", "when", "I", "was", "violently", "ill", "after", "having", "one", "of", "those", "churrascarria", "Brazilian", "meat", "shower", "meals", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "having", "e2_pos": 37, "label": "after"},
+{"tokens": ["Please", "see", "the", "photo", "-LRB-", "camphone", "-RRB-", "I", "'ll", "attach", "showing", "the", "pizza", "after", "we", "'d", "taken", "a", "few", "slices", "of", "it", "."], "e1_text": "attach", "e1_pos": 9, "e2_text": "'d", "e2_pos": 15, "label": "after"}
+]

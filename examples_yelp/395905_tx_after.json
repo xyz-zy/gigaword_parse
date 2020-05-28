@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "first", "moved", "here", "to", "Las", "Vegas", ",", "after", "driving", "for", "3", "days", "and", "over", "2000", "miles", ",", "Da", "Lat", "was", "the", "first", "restaurant", "I", "ever", "ate", "at", "in", "this", "fare", "city", "."], "e1_text": "moved", "e1_pos": 3, "e2_text": "driving", "e2_pos": 10, "label": "after"}
+]

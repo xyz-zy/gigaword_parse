@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "using", "this", "certificate", "was", "no", "problem", "the", "first", "time", "we", "went", ";", "the", "waiter", "checked", "with", "her", "manager", "before", "we", "even", "ordered", "to", "make", "sure", "it", "was", "alcohol", "+", "food", "."], "e1_text": "checked", "e1_pos": 15, "e2_text": "ordered", "e2_pos": 22, "label": "before"},
+{"tokens": ["Then", "the", "manager", "comes", "over", "and", "I", "explain", "to", "her", "the", "situation", "and", "they", "honored", "our", "certificate", "the", "month", "before", "no", "questions", "asked", ",", "but", "she", "insisted", "in", "arguing", "with", "me", "for", "about", "ten", "minutes", "asking", "who", "the", "manager", "was", ",", "whats", "their", "name", "and", "waitress", "'", "name", "who", "''", "``", "approved", "''", "''", "this", "the", "last", "time", "."], "e1_text": "honored", "e1_pos": 14, "e2_text": "asked", "e2_pos": 22, "label": "before"}
+]

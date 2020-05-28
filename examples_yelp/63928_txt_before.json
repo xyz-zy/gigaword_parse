@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "my", "suspicions", "about", "this", "place", "before", "I", "even", "walked", "through", "the", "door", "...", "The", "place", "was", "dead", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "walked", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "wish", "I", "checked", "reviews", "before", "we", "went", "!"], "e1_text": "checked", "e1_pos": 3, "e2_text": "went", "e2_pos": 7, "label": "before"}
+]

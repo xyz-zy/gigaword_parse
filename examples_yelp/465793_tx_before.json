@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "have", "to", "give", "a", "60", "day", "notice", "so", "if", "you", "sign", "a", "lease", "be", "sure", "to", "read", "all", "of", "the", "little", "things", "that", "they", "are", "going", "to", "get", "you", "with", "before", "you", "sign", "."], "e1_text": "get", "e1_pos": 28, "e2_text": "sign", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "pet", "fee", "has", "gone", "up", "but", "the", "dog", "baggie", "stations", "go", "for", "a", "couple", "weeks", "before", "they", "refill", "them", "."], "e1_text": "gone", "e1_pos": 4, "e2_text": "refill", "e2_pos": 18, "label": "before"}
+]

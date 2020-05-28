@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "heard", "of", "this", "happening", "before", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "happening", "e2_pos": 6, "label": "before"},
+{"tokens": ["She", "said", "it", "would", "be", "a", "little", "longer", "until", "we", "got", "our", "food", ",", "but", "it", "ended", "up", "being", "another", "half", "an", "hour", "before", "our", "food", "came", "."], "e1_text": "ended", "e1_pos": 16, "e2_text": "came", "e2_pos": 26, "label": "before"}
+]

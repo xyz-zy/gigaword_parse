@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "then", "cooked", "the", "main", "course", "and", "because", "vegans", "were", "at", "the", "table", "they", "served", "them", "before", "cooking", "our", "steak", "."], "e1_text": "served", "e1_pos": 14, "e2_text": "cooking", "e2_pos": 17, "label": "before"}
+]

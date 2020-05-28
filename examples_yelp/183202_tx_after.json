@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "waited", "over", "an", "hour", "-LRB-", "after", "ordering", "-RRB-", "for", "our", "breakfast", "...", "eggs", "and", "toast", "and", "some", "hollandaise", "sauce", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "eggs", "came", "out", "after", "sitting", "for", "so", "long", "that", "the", "yolks", "were", "gray", "and", "the", "hollandaise", "had", "a", "thick", "crusty", "coating", "on", "top", ".", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "started", "with", "parmesan", "fries", ",", "we", "devoured", "them", "before", "I", "thought", "to", "take", "a", "picture", "."], "e1_text": "devoured", "e1_pos": 7, "e2_text": "thought", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "had", "to", "ask", "for", "the", "ranch", "-LRB-", "weak", "-RRB-", "we", "ordered", "on", "the", "side", "a", "few", "times", "before", "we", "received", "it", "."], "e1_text": "ordered", "e1_pos": 11, "e2_text": "received", "e2_pos": 20, "label": "before"}
+]

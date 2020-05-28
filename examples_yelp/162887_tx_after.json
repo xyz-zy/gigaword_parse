@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "kind", "of", "disappointed", "walking", "into", "the", "room", "after", "looking", "at", "the", "photos", "posted", "on", "travelocity", "'s", "website", "."], "e1_text": "walking", "e1_pos": 5, "e2_text": "looking", "e2_pos": 10, "label": "after"},
+{"tokens": ["\\*", "Tip", "for", "seeing", "shows", ":", "Check", "living", "social", "or", "groupon", "for", "deals", "...", "saw", "some", "awesome", "deals", "on", "there", "after", "purchasing", "our", "blue", "man", "group", "tix", "."], "e1_text": "saw", "e1_pos": 14, "e2_text": "purchasing", "e2_pos": 21, "label": "after"}
+]

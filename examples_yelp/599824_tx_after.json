@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "hung", "up", "and", "after", "waiting", "another", "10", "minutes", ",", "decided", "I", "better", "take", "a", "cab", ",", "but", "fortunately", ",", "a", "shuttle", "bus", "from", "another", "company", "was", "just", "leaving", "for", "the", "airport", "and", "I", "was", "able", "to", "go", "on", "there", "for", "$", "7", "."], "e1_text": "decided", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "used", "to", "the", "three", "hour", "wait", "for", "pizza", "from", "Pizzeria", "Bianco", ",", "however", "after", "only", "10", "minutes", "we", "were", "able", "to", "get", "one", "of", "the", "best", "tables", "outside", "."], "e1_text": "used", "e1_pos": 2, "e2_text": "were", "e2_pos": 20, "label": "after"}
+]

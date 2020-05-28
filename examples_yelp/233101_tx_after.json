@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "our", "soup", "and", "salads", "shortly", "after", "which", "were", "not", "impressive", "at", "all", "but", "we", "were", "looking", "forward", "to", "our", "entrees", "...", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "asked", "our", "server", "how", "much", "longer", "it", "would", "be", "and", "were", "told", "''", "``", "2", "minutes", "''", "''", ",", "ten", "minutes", "had", "gone", "by", "and", "the", "table", "aside", "of", "us", "who", "got", "there", "well", "after", "us", "received", "there", "meals", "first", "which", "were", "steaks", "and", "pastas", "!"], "e1_text": "got", "e1_pos": 32, "e2_text": "received", "e2_pos": 37, "label": "after"}
+]

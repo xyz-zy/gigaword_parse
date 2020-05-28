@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "quoted", "me", "a", "rate", ",", "then", "when", "I", "received", "my", "first", "bill", "there", "was", "a", "connection", "fee", "-LRB-", "around", "$", "25", "I", "believe", "-RRB-", ",", "then", "after", "I", "canceled", "my", "service", "after", "the", "two", "months", "I", "needed", ",", "they", "charged", "me", "a", "CANCELLATION", "fee", "as", "well", "!!"], "e1_text": "received", "e1_pos": 9, "e2_text": "canceled", "e2_pos": 29, "label": "after"}
+]

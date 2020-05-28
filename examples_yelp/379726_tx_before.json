@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "they", "try", "hard", "to", "be", "a", "bit", "different", ",", "putting", "ciabatta", "on", "the", "bottom", "with", "a", "Parmesan", "artichoke", "spread", "on", "it", "before", "topping", "it", "with", "ham", "-LRB-", "not", "Canadian", "bacon", "-RRB-", "then", "the", "poached", "egg", "-LRB-", "which", "needs", "vinegar", "in", "the", "poaching", "water", "so", "they", "end", "up", "with", "more", "whites", "attached", "to", "the", "yolk", "-RRB-", "then", "a", "light", "hollandaise", "like", "sauce", "."], "e1_text": "putting", "e1_pos": 10, "e2_text": "topping", "e2_pos": 23, "label": "before"}
+]

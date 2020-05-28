@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "visited", "from", "Los", "Angeles", "and", "happened", "to", "pass", "by", "after", "visiting", "Frank", "L", "Wright", "'s", "home", "."], "e1_text": "pass", "e1_pos": 11, "e2_text": "visiting", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "ordered", "their", "special", "dish", "Siu", "Mai", ",", "after", "talking", "to", "the", "lady", "who", "seems", "to", "be", "the", "owner", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "talking", "e2_pos": 9, "label": "after"}
+]

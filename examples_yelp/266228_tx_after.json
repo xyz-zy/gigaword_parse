@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "got", "there", "15", "mins", "after", "they", "had", "opened", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["She", "said", "oh", "it", "'s", "going", "to", "be", "o.k.", "let", "me", "just", "use", "it", "a", "little", ",", "after", "I", "plainly", "stated", "I", "do", "n't", "want", "it", "."], "e1_text": "o.k.", "e1_pos": 8, "e2_text": "stated", "e2_pos": 20, "label": "after"},
+{"tokens": ["So", "she", "starts", "using", "it", "and", "then", "after", "a", "few", "mins", "with", "that", "one", "she", "whips", "out", "the", "smaller", "versions", "of", "the", "same", "cheese", "grater", "tool", "."], "e1_text": "starts", "e1_pos": 2, "e2_text": "whips", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "must", "admit", "that", "I", "am", "kind", "and", "I", "still", "gave", "her", "a", "great", "tip", "even", "after", "she", "made", "my", "feet", "bleed", "."], "e1_text": "gave", "e1_pos": 10, "e2_text": "made", "e2_pos": 18, "label": "after"}
+]

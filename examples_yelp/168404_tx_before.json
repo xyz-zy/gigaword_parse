@@ -1,0 +1,3 @@
+[
+{"tokens": ["Frites", ":", "Substituted", "the", "hash", "browns", "for", "fries", "because", "I", "'ve", "had", "them", "before", "and", "it", "was", "good", "."], "e1_text": "browns", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 10, "label": "before"}
+]

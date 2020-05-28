@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "the", "ultimate", "purchase", "decision", "-LRB-", "Saucony", "-RRB-", ",", "but", "they", "knew", "after", "watching", "me", "run", "which", "shoes", "would", "be", "good", "for", "me", ",", "and", "which", "pairs", "would", "not", "."], "e1_text": "knew", "e1_pos": 12, "e2_text": "watching", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "eating", "the", "3", "bite", "sandwich", "-LRB-", "it", "literally", "could", "have", "been", "smashed", "into", "1", "bite", "-RRB-", "in", "the", "car", "before", "pulling", "out", "of", "the", "parking", "lot", "I", "immediately", "wondered", "where", "I", "was", "going", "to", "get", "lunch", "."], "e1_text": "eating", "e1_pos": 1, "e2_text": "pulling", "e2_pos": 21, "label": "before"}
+]

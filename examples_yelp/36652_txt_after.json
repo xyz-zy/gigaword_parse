@@ -1,0 +1,4 @@
+[
+{"tokens": ["Appetizer", "soups", "came", "out", "only", "a", "minute", "after", "ordering", ",", "and", "by", "the", "time", "we", "finished", "our", "cups", "of", "soup", ",", "our", "HOT", "meals", "were", "on", "the", "table", "!"], "e1_text": "came", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "beef", "with", "snow", "peas", "was", "really", "good", ",", "especially", "after", "adding", "some", "chili", "sauce", "-LRB-", "which", "I", "asked", "for", "separately", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "adding", "e2_pos": 11, "label": "after"}
+]

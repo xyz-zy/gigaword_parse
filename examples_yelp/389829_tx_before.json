@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "him", "that", "''", "``", "Yes", "I", "have", "worked", "in", "a", "high", "volume", "stressed", "workplace", "before", "and", "as", "a", "manager", "I", "honor", "what", "comes", "out", "of", "my", "mouth", ".", "''", "''"], "e1_text": "worked", "e1_pos": 9, "e2_text": "stressed", "e2_pos": 14, "label": "before"}
+]

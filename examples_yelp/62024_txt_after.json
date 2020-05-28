@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "always", "hit", "the", "spot", ",", "especially", "after", "wasting", "all", "my", "money", "on", "the", "strip", "."], "e1_text": "hit", "e1_pos": 2, "e2_text": "wasting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Definitely", "a", "must", "stop", "after", "losing", "all", "your", "money", "on", "the", "strip", "and", "need", "some", "great", "tasting", "food", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "losing", "e2_pos": 5, "label": "after"}
+]

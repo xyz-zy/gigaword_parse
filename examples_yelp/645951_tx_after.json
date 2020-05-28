@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "very", "excited", "to", "try", "this", "place", "after", "seeing", "the", "reviews", "on", "here", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 9, "label": "after"},
+{"tokens": ["Our", "appetizer", ",", "chocolate", "covered", "bacon", ",", "came", "out", "just", "before", "our", "meals", "started", "to", "be", "delivered", "...", "which", "took", "about", "20", "minutes", "after", "ordering", "."], "e1_text": "took", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 24, "label": "after"}
+]

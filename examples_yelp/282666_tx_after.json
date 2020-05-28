@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "after", "reading", "through", "the", "yelp", "reviews", "hoping", "to", "have", "some", "great", "sushi", "...", "Unfortunately", "this", "was", "not", "the", "case", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["As", "I", "sit", "here", "at", "9pm", "after", "eating", "at", "pure", "sushi", "I", "feel", "disappointed", "and", "dissatisfied", "."], "e1_text": "sit", "e1_pos": 2, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

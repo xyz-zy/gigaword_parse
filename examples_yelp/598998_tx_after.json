@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", ",", "we", "were", "warmly", "greeted", "by", "the", "manager", "David", ",", "who", "made", "it", "a", "point", "to", "ask", "us", "for", "all", "our", "names", "after", "we", "ordered", "."], "e1_text": "ask", "e1_pos": 19, "e2_text": "ordered", "e2_pos": 27, "label": "after"}
+]

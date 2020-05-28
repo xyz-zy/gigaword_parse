@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "shuttle", "came", "shortly", "after", "we", "parked", "but", "it", "was", "dropping", "off", "customers", ",", "so", "we", "had", "to", "wait", "@", "5", "minutes", "or", "so", "for", "it", "to", "come", "back", "around", "to", "get", "us", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "parked", "e2_pos": 6, "label": "after"},
+{"tokens": ["Upon", "our", "return", ",", "I", "called", "the", "phone", "number", "after", "I", "'d", "deplaned", "and", "the", "shuttle", "was", "there", "about", "5", "minutes", "after", "we", "arrived", "at", "the", "dedicated", "pick-up", "spot", "."], "e1_text": "called", "e1_pos": 5, "e2_text": "'d", "e2_pos": 11, "label": "after"}
+]

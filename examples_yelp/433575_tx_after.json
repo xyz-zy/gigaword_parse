@@ -1,0 +1,3 @@
+[
+{"tokens": ["UPDATE", "-", "My", "daughter", "went", "here", "-LRB-", "after", "I", "told", "her", "not", "to", "-", "when", "will", "they", "learn", "??", "-RRB-", ",", "when", "she", "got", "there", "she", "realized", "a", "pair", "of", "her", "swimsuit", "bottoms", "had", "fallen", "out", "of", "her", "bag", "after", "swimming", "at", "my", "house", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "told", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "not", "to", "order", "any", "tapas", "with", "seafood", "in", "them", "after", "seeing", "the", "quality", "that", "was", "in", "the", "soup", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "paella", "arrived", "about", "20", "minutes", "after", "we", "had", "finished", "the", "rest", "of", "our", "meal", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

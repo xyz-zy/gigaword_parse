@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pork", "came", "out", "rare", "and", "had", "to", "send", "it", "back", "after", "being", "told", "by", "the", "waiter", "''", "``", "that", "'s", "how", "it", "'s", "prepared", "''", "''", "under", "the", "light", "it", "was", "purple", "rare", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["At", "the", "end", "of", "the", "day", "the", "meal", "was", "good", "after", "it", "was", "prepared", "correctly", "but", "also", "priced", "very", "high", "for", "what", "it", "was", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

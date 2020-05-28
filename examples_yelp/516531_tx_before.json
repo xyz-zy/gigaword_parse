@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Mac", "and", "cheese", "tasted", "like", "metal", ",", "as", "if", "it", "had", "been", "sitting", "in", "that", "cast", "iron", "pan", "all", "weekend", "before", "it", "was", "cooked", ",", "and", "they", "left", "off", "the", "chip", "topping", "that", "was", "described", "in", "the", "menu", "."], "e1_text": "pan", "e1_pos": 18, "e2_text": "was", "e2_pos": 23, "label": "before"}
+]

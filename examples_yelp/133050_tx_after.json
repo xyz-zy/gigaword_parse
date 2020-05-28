@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "because", "after", "4", "days", "of", "paying", "obscene", "prices", "to", "eat", "a", "meal", "on", "the", "strip", "-LRB-", "e.g.", "$", "5", "for", "A", "SLICE", "of", "pizza", "-RRB-", ",", "my", "pocketbook", "needed", "a", "break", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "paying", "e2_pos": 8, "label": "after"},
+{"tokens": ["Swearing", "you", "'re", "not", "going", "to", "eat", "for", "a", "year", "because", "you", "ate", "long", "after", "you", "were", "full", "because", "the", "food", "was", "That", "Good", "."], "e1_text": "ate", "e1_pos": 12, "e2_text": "were", "e2_pos": 16, "label": "after"}
+]

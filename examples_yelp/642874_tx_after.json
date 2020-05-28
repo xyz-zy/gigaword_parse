@@ -1,0 +1,3 @@
+[
+{"tokens": ["Confusingly", ",", "veggie", "and", "chicken", "wraps", "are", "more", "expensive", "-LRB-", "$", "4.49", "and", "$", "4.99", "respectively", "-", "a", "veggie", "wrap", "more", "expensive", "than", "beef", "wrap", "!?", "-RRB-", "Overall", ",", "4", "stars", "for", "good", "value", "after", "considering", "cost", "."], "e1_text": "are", "e1_pos": 6, "e2_text": "considering", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "was", "courteous", "but", "not", "very", "responsive", "considering", "the", "restaurant", "was", "n't", "busy", ",", "leaving", "empty", "plates", "on", "the", "table", "and", "making", "us", "wait", "for", "the", "bill", "for", "a", "while", "after", "we", "finished", "our", "meal", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "finished", "e2_pos": 33, "label": "after"}
+]

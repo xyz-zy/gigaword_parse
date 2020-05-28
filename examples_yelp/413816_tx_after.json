@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "off", "to", "the", "line", "to", "get", "crab", "legs", ",", "yes", "a", "line", ",", "then", "with", "my", "plate", "of", "legs", "I", "move", "into", "the", "line", "to", "get", "the", "legs", "cooked", "in", "a", "yummy", "Cajun", "style", "seasoning", ",", "so", "after", "a", "total", "of", "waiting", "too", "many", "hours", "&", "too", "many", "minutes", "to", "count", "I", "finally", "got", "to", "eat", "my", "crab", "legs", "."], "e1_text": "cooked", "e1_pos": 29, "e2_text": "waiting", "e2_pos": 42, "label": "after"}
+]

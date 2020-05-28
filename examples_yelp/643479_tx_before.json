@@ -1,0 +1,3 @@
+[
+{"tokens": ["and", "not", "having", "dined", "at", "Sumo", "Maya", "before", "and", "the", "waitress", "did", "n't", "ask", "if", "we", "were", "familiar", "with", "the", "way", "in", "which", "their", "''", "``", "free-flowing", "kitchen", "''", "''", "works", ",", "I", "did", "not", "understand", "what", "Sumo", "Maya", "'s", "''", "``", "unique", "dining", "style", "''", "''", "was", "."], "e1_text": "Maya", "e1_pos": 6, "e2_text": "works", "e2_pos": 30, "label": "before"}
+]

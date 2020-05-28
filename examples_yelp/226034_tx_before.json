@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "time", "she", "gave", "us", ",", "because", "it", "seemed", "like", "it", "was", "10", "minutes", "before", "she", "finally", "returned", ";", "they", "must", "have", "been", "understaffed", "that", "night", ",", "because", "it", "was", "just", "her", "and", "one", "other", "waitress", "covering", "the", "whole", "restaurant", ",", "so", "we", "decided", "not", "to", "get", "to", "upset", "by", "this", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "returned", "e2_pos": 17, "label": "before"}
+]

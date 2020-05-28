@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "planned", "to", "meet", "for", "dinner", "at", "the", "Waterfront", "before", "heading", "over", "to", "the", "show", ",", "and", "there", "'s", "a", "ton", "of", "options", "to", "pick", "from", "."], "e1_text": "meet", "e1_pos": 3, "e2_text": "heading", "e2_pos": 10, "label": "before"}
+]

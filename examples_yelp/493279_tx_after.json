@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "he", "was", "busy", "but", "we", "let", "him", "know", "we", "'ll", "wait", "for", "him", "after", "he", "was", "done", "with", "his", "customer", "done", "and", "he", "said", "okay", "."], "e1_text": "wait", "e1_pos": 13, "e2_text": "was", "e2_pos": 4, "label": "after"},
+{"tokens": ["He", "went", "to", "the", "back", "after", "waiting", "20", "minutes", "and", "never", "came", "back", "out", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 6, "label": "after"}
+]

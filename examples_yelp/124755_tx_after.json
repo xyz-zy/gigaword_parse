@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "here", "today", "for", "my", "free", "medium", "sandwich", "after", "racking", "up", "100", "points", "on", "my", "p.o.s.", "card", ",", "which", "by", "the", "way", "is", "a", "ton", "of", "money", "!"], "e1_text": "came", "e1_pos": 1, "e2_text": "racking", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "woman", "who", "is", "usually", "very", "sweet", "was", "very", "short", "with", "me", "after", "I", "asked", "for", "more", "olives", "and", "pepperocinnis", ",", "which", "she", "only", "put", "two", "or", "three", "on", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "asked", "e2_pos": 14, "label": "after"}
+]

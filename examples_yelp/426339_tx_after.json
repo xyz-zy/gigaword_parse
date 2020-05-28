@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "This", "\\*", "waitress", ",", "however", ",", "insisted", "-LRB-", "after", "supposedly", "checking", "with", "the", "owner", "-RRB-", "that", "there", "were", "also", "bread", "crumbs", "in", "the", "burger", "patties", "-LRB-", "even", "though", "this", "is", "something", "I", "'ve", "checked", "a", "number", "of", "times", "over", "the", "years", ",", "and", "was", "assured", "they", "did", "n't", "-RRB-", "--", "anyone", "who", "serves", "high-quality", "burgers", "does", "n't", "need", "bread", "crumbs", "in", "them", "!"], "e1_text": "insisted", "e1_pos": 7, "e2_text": "checking", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waffle", "fries", "were", "okay", "...", "chic-fil-a", "is", "still", "better", "-LRB-", "lol", "-RRB-", ",", "my", "sweet", "potato", "fries", "were", "over-seasoned", ",", "by", "the", "end", "I", "was", "scraping", "off", "the", "seasoning", "before", "eating", "them", "."], "e1_text": "scraping", "e1_pos": 26, "e2_text": "eating", "e2_pos": 31, "label": "before"},
+{"tokens": ["Service", ":", "We", "waited", "for", "5-10", "mins", "before", "our", "waitress", "acknowledged", "us", ",", "then", "after", "ordering", ",", "our", "food", "came", "out", "30", "mins", "if", "not", "more", "later", ",", "the", "waitress", "never", "came", "back", "to", "ask", "if", "we", "needed", "anything", "else", "until", "she", "wanted", "us", "to", "cash", "out", "...", "and", "the", "restaurant", "was", "n't", "really", "full", "or", "anything", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "acknowledged", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "a", "positive", "not", ",", "he", "loved", "them", "-LRB-", "Although", "they", "gave", "us", "nachos", "with", "three", "types", "of", "salsa", "after", "we", "ordered", ",", "LOL", "-RRB-", "."], "e1_text": "nachos", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 21, "label": "after"}
+]

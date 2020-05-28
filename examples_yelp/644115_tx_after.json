@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "at", "the", "-LRB-", "very", "cute", "-RRB-", "pizza", "place", "sometime", "around", "9", ",", "so", "not", "too", "long", "after", "they", "opened", "and", "ordered", "3", "slices", ",", "cheese", ",", "pepperoni", ",", "and", "a", "special", "-LRB-", "which", "was", "a", "white", "pizza", "with", "asparagus", ",", "bacon", ",", "and", "a", "few", "other", "toppings", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "opened", "e2_pos": 20, "label": "after"}
+]

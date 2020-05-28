@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "engine", "does", "n't", "burn", "oil", "and", "the", "vehicle", "had", "no", "vibration", "before", "the", "transmission", "was", "replaced", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["Essentially", "without", "saying", "it", "directly", ",", "Wendel", "was", "accusing", "me", "of", "being", "a", "liar", ",", "insisting", "that", "my", "engine", "shook", "violently", "before", "AAMCO", "replaced", "the", "transmission", "."], "e1_text": "shook", "e1_pos": 19, "e2_text": "replaced", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "calmly", "stated", "that", "I", "would", "be", "taking", "the", "vehicle", "to", "another", "shop", "for", "second", "opinion", "before", "replacing", "my", "engine", "."], "e1_text": "taking", "e1_pos": 7, "e2_text": "replacing", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "egg", "yolk", "had", "dripped", "all", "over", "my", "plate", "even", "before", "it", "made", "it", "to", "the", "table", ",", "making", "the", "bottom", "of", "an", "otherwise", "delightful", "bun", "soggy", "."], "e1_text": "dripped", "e1_pos": 4, "e2_text": "made", "e2_pos": 12, "label": "before"}
+]

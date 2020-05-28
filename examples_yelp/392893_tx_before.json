@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "design", "flaw", "of", "this", "spa", "is", "the", "toilet", "area", "is", "separated", "by", "a", "door", "to", "the", "rest", "of", "the", "spa", "facilities", ",", "but", "there", "are", "no", "sinks", "to", "wash", "your", "hands", "in", "before", "touching", "this", "communal", "door", "."], "e1_text": "wash", "e1_pos": 29, "e2_text": "touching", "e2_pos": 34, "label": "before"}
+]

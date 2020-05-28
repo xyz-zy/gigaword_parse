@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "the", "game", "is", "n't", "playing", "and", "I", "missed", "the", "entire", "1st", "quarter", "of", "it", "before", "one", "of", "the", "TV", "'s", "was", "finally", "changed", "to", "that", "game", ",", "along", "with", "the", "waitress", "doing", "the", "same", "thing", "that", "happened", "my", "first", "visit", ":", "taking", "the", "order", "to", "never", "be", "seen", "again", "."], "e1_text": "missed", "e1_pos": 10, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "feel", "it", "should", "also", "be", "mentioned", "that", "the", "table", "next", "to", "mine", ",", "as", "I", "was", "seated", ",", "waited", "a", "good", "20", "minutes", "before", "receiving", "their", "check", "and", "looked", "very", "disappointed", "."], "e1_text": "waited", "e1_pos": 19, "e2_text": "receiving", "e2_pos": 25, "label": "before"}
+]

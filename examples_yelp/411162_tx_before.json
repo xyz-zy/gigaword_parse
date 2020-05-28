@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "long", "drive", ",", "we", "needed", "a", "quick", "bite", "to", "eat", "before", "hitting", "the", "nightlife", "scene", "so", "this", "was", "a", "convenient", "place", "for", "us", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "hitting", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "made", "sure", "to", "chew", "13", "times", "before", "I", "swallowed", "."], "e1_text": "chew", "e1_pos": 4, "e2_text": "swallowed", "e2_pos": 9, "label": "before"}
+]

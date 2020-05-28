@@ -1,0 +1,3 @@
+[
+{"tokens": ["--", "Even", "though", "you", "have", "to", "check", "out", "at", "10:00", "a.m.", ",", "you", "can", "still", "use", "the", "facilities", "at", "the", "Villas", "and", "the", "Resort", ",", "which", "means", "you", "can", "still", "get", "an", "extra", "day", "of", "sun", "and", "fun", "before", "you", "head", "home", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "head", "e2_pos": 40, "label": "before"}
+]

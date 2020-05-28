@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "tried", "to", "change", "my", "payment", "date", "and", "was", "told", "that", "the", "only", "way", "to", "do", "so", "was", "to", "cancel", "my", "membership", ",", "pay", "the", "cancellation", "fee", "and", "come", "back", "on", "the", "day", "of", "the", "month", "that", "I", "want", "my", "payment", "to", "be", ",", "re", "sign", "up", "and", "pay", "another", "''", "``", "annual", "fee", "''", "''", "of", "$", "39", "even", "though", "I", "just", "paid", "that", "when", "I", "signed", "up", "three", "months", "before", "."], "e1_text": "paid", "e1_pos": 63, "e2_text": "signed", "e2_pos": 67, "label": "before"}
+]

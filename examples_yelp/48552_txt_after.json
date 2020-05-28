@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "over", "10", "minutes", "after", "we", "placed", "our", "drink", "order", "for", "our", "drinks", "to", "appear", "on", "the", "table", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "placed", "e2_pos": 7, "label": "after"},
+{"tokens": ["A", "mother", "and", "daughter", "walked", "in", "after", "we", "placed", "our", "dinner", "order", "and", "when", "I", "glanced", "over", "wondering", "where", "our", "food", "was", ",", "I", "noticed", "they", "were", "eating", "!"], "e1_text": "walked", "e1_pos": 4, "e2_text": "placed", "e2_pos": 8, "label": "after"}
+]

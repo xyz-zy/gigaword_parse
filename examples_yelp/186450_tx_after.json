@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "homemade", "roasted", "pork", "belly", "sandwich", "I", "think", "it", "was", "called", "after", "asking", "the", "waitress", "what", "her", "favorite", "dish", "on", "the", "menu", "was", "."], "e1_text": "called", "e1_pos": 12, "e2_text": "asking", "e2_pos": 14, "label": "after"}
+]

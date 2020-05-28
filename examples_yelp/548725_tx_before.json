@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "and", "spoke", "with", "the", "same", "girl", ",", "I", "asked", "why", "the", "extra", "charge", "and", "she", "said", "at", "first", "that", "she", "forgot", "to", "charge", "me", "for", "the", "taxes", "at", "the", "time", "of", "my", "order", ";", "then", "I", "asked", "why", "I", "did", "n't", "get", "a", "phone", "call", "explaining", "me", "the", "extra", "charge", "before", "charging", "it", "to", "my", "credit", "card", ",", "she", "said", "that", "her", "manager", "asked", "her", "to", "do", "the", "charge", "without", "consulting", "me", "first", "."], "e1_text": "explaining", "e1_pos": 47, "e2_text": "charging", "e2_pos": 53, "label": "before"}
+]

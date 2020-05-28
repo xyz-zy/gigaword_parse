@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "guy", "at", "the", "Meineke", "shop", "-LRB-", "Ben", "-RRB-", "told", "me", "that", "this", "was", "an", "urgent", "fix", "and", "needed", "to", "be", "done", "before", "any", "further", "damage", "was", "done", "to", "my", "vehicle", "."], "e1_text": "done", "e1_pos": 21, "e2_text": "was", "e2_pos": 13, "label": "before"},
+{"tokens": ["Again", ",", "I", "take", "it", "to", "Auto", "Zone", "to", "get", "a", "reading", ";", "it", "was", "the", "same", "reading", "as", "before", "so", "yes", ",", "I", "was", "a", "little", "upset", "that", "my", "car", "was", "n't", "fixed", "the", "first", "time", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

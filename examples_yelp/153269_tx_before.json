@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "food", "came", "to", "the", "table", "5", "minutes", "after", "I", "ordered", "it", "as", "if", "the", "magic", "food", "fairy", "knew", "what", "I", "was", "going", "to", "order", "and", "started", "cooking", "it", "before", "I", "arived", "!"], "e1_text": "cooking", "e1_pos": 27, "e2_text": "arived", "e2_pos": 31, "label": "before"}
+]

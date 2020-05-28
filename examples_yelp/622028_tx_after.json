@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mr", "customer", "very", "patiently", "restated", "his", "quandary", "after", "which", "he", "bartender", ",", "without", "a", "word", ",", "stormed", "off", "into", "the", "back", "of", "the", "restaurant", "."], "e1_text": "restated", "e1_pos": 4, "e2_text": "stormed", "e2_pos": 16, "label": "after"}
+]

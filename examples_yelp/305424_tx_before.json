@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "first", "came", "here", "for", "their", "Grand", "Opening", "and", "after", "things", "had", "died", "down", ",", "waited", "at", "the", "bar", "for", "10", "minutes", "before", "waving", "them", "down", "for", "a", "drink", "."], "e1_text": "waited", "e1_pos": 15, "e2_text": "waving", "e2_pos": 23, "label": "before"},
+{"tokens": ["It", "had", "been", "a", "good", "10-15", "minutes", "before", "the", "bartender", "asked", "if", "we", "wanted", "another", "mojito", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "asked", "e2_pos": 10, "label": "before"}
+]

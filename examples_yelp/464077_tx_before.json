@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "even", "end", "up", "getting", "ramen", "just", "because", "I", "did", "n't", "want", "to", "bloat", "and", "be", "all", "big", "before", "going", "out", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "going", "e2_pos": 21, "label": "before"},
+{"tokens": ["Nothing", "is", "speeding", "them", "up", "and", "I", "feel", "like", "I", "waited", "about", "30", "minutes", "for", "my", "food", "on", "top", "of", "the", "wait", "before", "being", "seated", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "being", "e2_pos": 23, "label": "before"}
+]

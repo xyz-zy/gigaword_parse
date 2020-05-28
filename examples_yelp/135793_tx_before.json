@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "other", "people", "'s", "review", "before", "I", "went", "there", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "went", "e2_pos": 11, "label": "before"},
+{"tokens": ["-LRB-", "diet", "coke", ",", "ice", "tea", "and", "a", "beer", "-RRB-", "We", "noticed", "that", "the", "restaurant", "is", "n't", "that", "big", "and", "it", "seem", "they", "had", "enough", "wait", "staff", ",", "however", ",", "it", "took", "20", "min", "before", "we", "finally", "get", "our", "drink", "."], "e1_text": "took", "e1_pos": 31, "e2_text": "get", "e2_pos": 37, "label": "before"}
+]

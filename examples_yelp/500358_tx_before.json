@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "imagine", "the", "Upper", "Crust", "head", "chef", "picking", "out", "the", "tumor", "at", "the", "market", ",", "throwing", "it", "in", "his", "backpack", ",", "and", "then", "riding", "to", "work", "on", "his", "bicycle", "before", "preparing", "it", "for", "me", "."], "e1_text": "work", "e1_pos": 25, "e2_text": "preparing", "e2_pos": 30, "label": "before"}
+]

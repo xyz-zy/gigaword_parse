@@ -1,0 +1,3 @@
+[
+{"tokens": ["PS", "it", "was", "12:30", "when", "we", "were", "there", "!!!", "About", "5", "people", "who", "ordered", "AFTER", "us", "were", "served", "their", "food", "before", "ours", "was", "ready", "."], "e1_text": "served", "e1_pos": 17, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

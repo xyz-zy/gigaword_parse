@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "finally", "came", "around", "after", "about", "an", "hour", "wait", "to", "see", "if", "we", "wanted", "boxes", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "wait", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "sending", "a", "dirty", "glass", "back", "someone", "should", "come", "apologize", ",", "after", "not", "being", "able", "to", "eat", "a", "meal", ",", "yet", "paid", "for", "it", ",", "management", "should", "have", "sprung", "into", "action", "."], "e1_text": "come", "e1_pos": 8, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Good", ",", "but", "come", "on", ",", "it", "'s", "a", "grilled", "cheese", "...", "And", "there", "was", "one", "more", "visit", "in", "between", "that", "where", "the", "dots", "began", "before", "they", "finally", "connected", "."], "e1_text": "began", "e1_pos": 24, "e2_text": "connected", "e2_pos": 28, "label": "before"},
+{"tokens": ["Then", "I", "remembered", "the", "time", "before", ",", "I", "had", "felt", "so", "bad", "after", "eating", "."], "e1_text": "remembered", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

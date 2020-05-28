@@ -1,0 +1,4 @@
+[
+{"tokens": ["Shane", "'s", "is", "good", "stop", "before", "heading", "to", "an", "event", "at", "the", "stadium", "or", "arena", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "heading", "e2_pos": 6, "label": "before"},
+{"tokens": ["Or", "somewhere", "to", "eat", "before", "or", "after", "hitting", "up", "a", "movie", "at", "the", "AMC", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "hitting", "e2_pos": 7, "label": "before"}
+]

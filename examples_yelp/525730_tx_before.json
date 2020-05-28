@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "close", "at", "7", "which", "is", "about", "an", "hour", "before", "I", "usually", "get", "out", "for", "the", "night", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "get", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "may", "give", "them", "another", "try", "-", "if", "I", "can", "make", "it", "out", "before", "they", "close", "."], "e1_text": "make", "e1_pos": 10, "e2_text": "close", "e2_pos": 15, "label": "before"}
+]

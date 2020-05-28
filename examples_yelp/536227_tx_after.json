@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "first", "time", "was", "a", "week", "after", "they", "opened", "and", "the", "pulled", "pork", "was", "very", "fatty", "and", "greasy", "and", "the", "fries", "were", "awful", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "opened", "e2_pos": 8, "label": "after"},
+{"tokens": ["When", "my", "server", "finally", "came", "to", "check", "on", "and", "acknowledge", "me", "after", "dropping", "off", "my", "food", ",", "I", "asked", "her", "if", "the", "kitchen", "could", "just", "heat", "it", "up", "a", "little", "."], "e1_text": "acknowledge", "e1_pos": 9, "e2_text": "dropping", "e2_pos": 12, "label": "after"}
+]

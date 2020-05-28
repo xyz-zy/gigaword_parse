@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "late", "Friday", "-LRB-", "10\\/11", "-RRB-", "night", "after", "driving", "all", "the", "way", "from", "Smithfield", "-LRB-", "3hrs", "away", "-RRB-", ",", "and", "after", "having", "a", "late", "dinner", "with", "friends", "in", "concord", "I", "arrived", "at", "abt", "1\\/2am", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "driving", "e2_pos": 9, "label": "after"}
+]

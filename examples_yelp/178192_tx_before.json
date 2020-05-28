@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "really", "wanted", "to", "have", "a", "nice", "Vegas", "buffet", "and", "since", "I", "had", "n't", "eaten", "there", "before", ",", "decided", "to", "check", "out", "the", "buffet", "at", "the", "Bellagio", "."], "e1_text": "eaten", "e1_pos": 14, "e2_text": "decided", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", ",", "literally", ",", "had", "piles", "of", "plates", "on", "our", "table", "before", "they", "were", "cleared", "and", "not", "even", "midway", "through", "our", "meal", ",", "our", "waiter", "told", "us", "he", "was", "getting", "off", "of", "work", "and", "he", "wanted", "to", "give", "us", "our", "drink", "bill", "then", "-LRB-", "because", "we", "might", "not", "want", "more", "???", "-RRB-", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "were", "e2_pos": 13, "label": "before"},
+{"tokens": ["You", "'d", "think", "these", "people", "had", "never", "eaten", "before", "and", "never", "learned", "manners", "in", "their", "lives", "!"], "e1_text": "think", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

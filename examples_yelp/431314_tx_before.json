@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", ",", "since", "they", "dropped", "off", "the", "flowers", "with", "the", "front", "desk", "of", "the", "hotel", "only", "five", "minutes", "before", "we", "were", "scheduled", "for", "photos", ",", "instead", "of", "dropping", "them", "off", "with", "me", "in", "my", "suite", ",", "I", "had", "no", "one", "to", "voice", "my", "concerns", "to", "."], "e1_text": "dropped", "e1_pos": 4, "e2_text": "were", "e2_pos": 20, "label": "before"}
+]

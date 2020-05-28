@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "door", "man", "ALWAYS", "calls", "us", "before", "they", "let", "someone", "up", "."], "e1_text": "calls", "e1_pos": 4, "e2_text": "let", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "person", "on", "the", "phone", "from", "Cafe", "Verdi", "goes", "on", "to", "say", "''", "``", "We", "have", "had", "problems", "with", "you", "guys", "not", "answering", "the", "door", "before", ".", "''", "''"], "e1_text": "had", "e1_pos": 16, "e2_text": "answering", "e2_pos": 22, "label": "before"}
+]

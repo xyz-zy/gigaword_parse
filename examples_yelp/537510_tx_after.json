@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "a", "very", "patient", "guy", "-LRB-", "and", "I", "realist", ",", "after", "all", "I", "purchased", "used", "tires", ",", "things", "can", "go", "wrong", "-RRB-", "so", "I", "politely", "called", "back", "for", "the", "next", "few", "weeks", "to", "only", "be", "told", "that", "they", "had", "not", "received", "any", "tires", "that", "would", "fit", "my", "van", "."], "e1_text": "realist", "e1_pos": 9, "e2_text": "purchased", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "find", "it", "irritating", "in", "general", "that", "they", "are", "trying", "to", "sell", "you", "something", "right", "after", "you", "pay", "for", "a", "ticket", "and", "before", "you", "ever", "see", "anything", "-LRB-", "I", "find", "the", "idea", "of", "a", "posed", "photo", "at", "the", "bodies", "exhibit", "tacky", "-RRB-", "but", "if", "they", "are", "going", "to", "do", "it", ",", "they", "should", "consider", "at", "least", "getting", "people", "that", "are", "n't", "going", "to", "be", "rude", "about", "it", "."], "e1_text": "sell", "e1_pos": 11, "e2_text": "see", "e2_pos": 25, "label": "before"}
+]

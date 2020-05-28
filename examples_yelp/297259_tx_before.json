@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "show", "up", ",", "get", "our", "beers", "and", "waiting", "around", "for", "a", "little", "bit", "before", "getting", "a", "table", "."], "e1_text": "waiting", "e1_pos": 8, "e2_text": "getting", "e2_pos": 15, "label": "before"},
+{"tokens": ["there", "was", "a", "menu", "sitting", "on", "the", "table", "already", "so", "we", "all", "decided", "what", "we", "wanted", "before", "our", "waiter", "came", "to", "us", "...", "which", "never", "happen", "."], "e1_text": "wanted", "e1_pos": 15, "e2_text": "came", "e2_pos": 19, "label": "before"}
+]

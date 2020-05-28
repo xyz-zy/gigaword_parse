@@ -1,0 +1,3 @@
+[
+{"tokens": ["Jeff", "showed", "up", "once", "on", "schedule", "but", "missed", "the", "next", "scheduled", "appointment", "after", "we", "waited", "all", "day", "to", "hear", "from", "him", "."], "e1_text": "missed", "e1_pos": 7, "e2_text": "waited", "e2_pos": 14, "label": "after"}
+]

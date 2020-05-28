@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "patronized", "this", "restaurant", "shortly", "after", "it", "opened", "and", "regretted", "the", "experience", "."], "e1_text": "patronized", "e1_pos": 2, "e2_text": "opened", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "only", "problem", "was", "after", "salad", "our", "cutlery", "was", "removed", ",", "we", "had", "no", "silverware", "when", "the", "pizza", "arrived", "and", "there", "was", "no", "sign", "of", "the", "waitress", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

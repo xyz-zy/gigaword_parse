@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "smaller", "inside", "than", "what", "most", "people", "might", "think", ",", "so", "you", "will", "most", "definitely", "want", "to", "use", "Open", "Table", "or", "call", "them", "to", "make", "reservations", "before", "going", "."], "e1_text": "make", "e1_pos": 25, "e2_text": "going", "e2_pos": 28, "label": "before"},
+{"tokens": ["It", "will", "spoil", "you", "appetite", "before", "you", "get", "your", "main", "course", "."], "e1_text": "spoil", "e1_pos": 2, "e2_text": "get", "e2_pos": 7, "label": "before"}
+]

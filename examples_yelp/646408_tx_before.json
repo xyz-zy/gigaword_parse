@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "deciding", "that", "we", "would", "give", "them", "two", "more", "minutes", "for", "SOMETHING", "to", "arrive", "before", "walking", "out", ",", "our", "drinks", "arrived", "."], "e1_text": "arrive", "e1_pos": 13, "e2_text": "walking", "e2_pos": 15, "label": "before"},
+{"tokens": ["Oh", ",", "and", "our", "check", "showed", "up", "before", "being", "asked", "if", "we", "were", "interested", "in", "dessert", "-LRB-", "which", "we", "were", "-RRB-", "!"], "e1_text": "showed", "e1_pos": 5, "e2_text": "being", "e2_pos": 8, "label": "before"}
+]

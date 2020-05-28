@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "this", "queso", "fundido", "and", "i", "figured", "it", "was", "like", "regular", "queso", "-LRB-", "you", "kno", "the", "Orange", "kind", "-RRB-", "well", "when", "it", "came", "it", "wasnt", "what", "i", "thought", "so", "i", "politely", "told", "our", "waitress", "and", "even", "apologized", "...", "as", "time", "went", "by", "we", "noticed", "2", "other", "tables", "after", "us", "were", "seated", "-LRB-", "one", "in", "which", "was", "a", "big", "party", "-RRB-", "i", "was", "with", "my", "2", "friends", "and", "my", "daughter", "."], "e1_text": "noticed", "e1_pos": 44, "e2_text": "were", "e2_pos": 50, "label": "after"},
+{"tokens": ["We", "got", "charged", "with", "only", "a", "$", "20", "tab", "after", "a", "couple", "times", "of", "asking", "where", "our", "food", "was", "."], "e1_text": "charged", "e1_pos": 2, "e2_text": "asking", "e2_pos": 14, "label": "after"}
+]

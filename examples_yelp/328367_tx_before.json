@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "were", "tolerable", "before", "but", "this", "weekend", "has", "been", "the", "worse", "one", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "has", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "'ve", "tried", "Crestwood", ",", "Wyndham", "and", "Candlewood", "Suites", "before", "so", "I", "do", "have", "a", "point", "of", "comparison", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "do", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "know", "for", "a", "fact", "that", "they", "do", "have", "one", "because", "I", "used", "it", "before", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "used", "e2_pos": 12, "label": "before"}
+]

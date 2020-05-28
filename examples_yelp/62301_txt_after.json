@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "born", "and", "raised", "in", "Las", "Vegas", "so", "after", "turning", "21", "I", "'ve", "been", "on", "a", "bar", "prowl", "trying", "to", "find", "the", "perfect", "hang", "out", "spots", "that", "are", "cool", "and", "chill", "for", "all", "age", "groups", "."], "e1_text": "born", "e1_pos": 2, "e2_text": "turning", "e2_pos": 10, "label": "after"},
+{"tokens": ["and", "the", "bartender", "was", "in", "and", "out", "of", "the", "back", "I", "only", "got", "two", "drinks", "after", "playing", "$", "30", "they", "do", "have", "a", "few", "pool", "table", "and", "nice", "size", "bar", "and", "a", "really", "nice", "seating", "area", "for", "watching", "the", "big", "screens", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "playing", "e2_pos": 16, "label": "after"}
+]

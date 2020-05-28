@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "my", "secret", "spot", "for", "peaceful", "meals", "and", "funny", "conversations", "after", "each", "night", "of", "the", "Life", "is", "Beautiful", "festival", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "is", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "also", "parked", "my", "car", "here", "and", "would", "get", "it", "validated", "after", "each", "meal", ",", "which", "I", "'m", "assuming", "they", "will", "change", "this", "for", "next", "year", "."], "e1_text": "validated", "e1_pos": 10, "e2_text": "'m", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "wanted", "to", "look", "at", "the", "menu", "before", "we", "ordered", ",", "but", "we", "kept", "getting", "moved", "around", "because", "the", "soda", "machine", "needed", "to", "be", "adjusted", "and", "then", "people", "were", "trying", "to", "get", "to", "the", "restroom", ",", "and", "others", "were", "trying", "to", "find", "a", "place", "to", "sit", ",", "and", "finally", "another", "group", "came", "in", "and", "wanted", "to", "look", "at", "the", "menu", "as", "well", "."], "e1_text": "look", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "daughter", "got", "a", "grilled", "cheese", ",", "and", "the", "cheese", "was", "n't", "even", "melted", ",", "and", "her", "fried", "were", "cold", "before", "they", "were", "exposed", "to", "the", "arctic", "blast", "."], "e1_text": "were", "e1_pos": 18, "e2_text": "were", "e2_pos": 18, "label": "before"}
+]

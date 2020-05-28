@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "tasty", "coke", "from", "a", "bottle", "-LRB-", "I", "'m", "rarely", "a", "caffeine", "drinker", "-RRB-", "and", "ordered", "the", "Margherita", "after", "debating", "whether", "to", "go", "red", "or", "white", "."], "e1_text": "ordered", "e1_pos": 17, "e2_text": "debating", "e2_pos": 21, "label": "after"}
+]

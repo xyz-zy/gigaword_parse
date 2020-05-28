@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "first", "arrived", "in", "Charlotte", "the", "first", "order", "of", "business", "was", "where", "do", "I", "need", "to", "eat", "before", "going", "home", "and", "this", "was", "top", "on", "the", "list", "-LRB-", "grilled", "cheese", "food", "truck", "is", "#", "2", "-RRB-", "."], "e1_text": "eat", "e1_pos": 17, "e2_text": "going", "e2_pos": 19, "label": "before"}
+]

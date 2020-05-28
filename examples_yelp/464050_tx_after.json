@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "too", "rich", "and", "too", "porky", "for", "me", "and", "I", "found", "myself", "wanting", "pho", "instead", "HAHA", "but", "oddly", "enough", "I", "started", "craving", "it", "a", "couple", "weeks", "after", "!"], "e1_text": "wanting", "e1_pos": 13, "e2_text": "started", "e2_pos": 21, "label": "after"},
+{"tokens": ["This", "is", "not", "a", "place", "to", "lolly-gag", "after", "you", "'re", "done", "eating", ",", "quickly", "give", "up", "your", "table", "to", "the", "next", "hungry", "group", "or", "suffer", "the", "consequence", "of", "angry", "looks", "!!!!!", "LOL", "Hot", "Tip", ":", "If", "you", "do", "n't", "want", "to", "wait", "go", "at", "really", "odd", "times", "like", "3:00", "-5:00", ";", "there", "'s", "usually", "never", "a", "wait", "~"], "e1_text": "is", "e1_pos": 1, "e2_text": "'re", "e2_pos": 9, "label": "after"}
+]

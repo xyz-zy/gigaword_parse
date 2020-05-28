@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "scored", "points", "with", "me", "before", "having", "stepped", "into", "the", "office", "!"], "e1_text": "scored", "e1_pos": 1, "e2_text": "having", "e2_pos": 6, "label": "before"},
+{"tokens": ["Brian", "greeted", "me", "with", "a", "friendly", "hello", "and", "it", "was", "n't", "very", "long", "before", "I", "met", "the", "optician", "Angela", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "met", "e2_pos": 15, "label": "before"}
+]

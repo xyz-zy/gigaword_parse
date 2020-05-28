@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sent", "an", "email", "to", "the", "center", "'s", "management", "but", "have", "not", "heard", "back", "as", "of", "yet", "regarding", "why", "we", "were", "kicked", "out", "after", "essentially", "paying", "for", "at", "least", "an", "hour", "and", "half", "of", "time", "!"], "e1_text": "kicked", "e1_pos": 21, "e2_text": "paying", "e2_pos": 25, "label": "after"}
+]

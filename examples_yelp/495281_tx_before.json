@@ -1,0 +1,4 @@
+[
+{"tokens": ["Other", "customers", "were", "looking", "around", "as", "I", "was", "almost", "seeming", "to", "wonder", "''", "``", "Where", "is", "our", "food", "?!", "''", "''", "Our", "edamame", "appetizer", "sat", "in", "the", "kitchen", "window", "for", "5", "minutes", "before", "being", "brought", "to", "us", "."], "e1_text": "sat", "e1_pos": 24, "e2_text": "being", "e2_pos": 33, "label": "before"},
+{"tokens": ["Not", "a", "good", "sign", "...", "We", "almost", "walked", "out", "before", "getting", "our", "sushi", "rolls", "but", "felt", "bad", "so", "we", "stayed", "."], "e1_text": "walked", "e1_pos": 7, "e2_text": "getting", "e2_pos": 10, "label": "before"}
+]

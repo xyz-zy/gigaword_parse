@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "leaves", "and", "a", "good", "amount", "of", "time", "goes", "by", "before", "we", "actually", "get", "our", "drinks", "."], "e1_text": "goes", "e1_pos": 8, "e2_text": "get", "e2_pos": 13, "label": "before"},
+{"tokens": ["But", "it", "'s", "going", "to", "be", "awhile", "before", "I", "come", "back", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "come", "e2_pos": 9, "label": "before"}
+]

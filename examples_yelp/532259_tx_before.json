@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "knew", "it", "was", "the", "server", "'s", "fault", "-LRB-", "as", "opposed", "to", "the", "bartender", "-RRB-", "because", "both", "times", "the", "beer", "had", "no", "head", "and", "was", "a", "few", "centimeters", "short", "from", "being", "full", "...", "definitely", "sat", "on", "the", "bar", "for", "a", "while", "before", "being", "picked", "up", "."], "e1_text": "sat", "e1_pos": 34, "e2_text": "being", "e2_pos": 30, "label": "before"}
+]

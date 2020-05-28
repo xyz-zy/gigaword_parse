@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "burger", "my", "g\\/f", "ordered", "had", "good", "flavor", "but", "we", "ordered", "medium", "and", "it", "was", "well", "done", ",", "again", "we", "were", "hungry", "and", "it", "was", "just", "before", "they", "were", "closing", "so", "we", "did", "n't", "send", "that", "back", "either", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "were", "e2_pos": 20, "label": "before"}
+]

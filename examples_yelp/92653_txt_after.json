@@ -1,0 +1,5 @@
+[
+{"tokens": ["However", ",", "not", "one", "vehicle", "parked", "in", "the", "spots", "I", "occupied", "the", "former", "two", "nights", "--", "even", "after", "a", "month", "had", "passed", "."], "e1_text": "occupied", "e1_pos": 10, "e2_text": "had", "e2_pos": 20, "label": "after"},
+{"tokens": ["-LRB-", "I", "immediately", "showered", "and", "shaved", "my", "head", "after", "getting", "back", "from", "that", "ordeal", ",", "and", "thoroughly", "checked", "the", "upholstery", "for", "stray", "louse", "."], "e1_text": "showered", "e1_pos": 3, "e2_text": "getting", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "was", "after", "I", "ordered", "pizza", "from", "Pizza", "Heaven", "and", "it", "was", "delivered", ",", "and", "several", "stories", "about", "my", "rural", "upbringing", "that", "he", "confessed", "he", "intended", "to", "engage", "in", "random", "sexual", "activities", "with", "me", ",", "even", "without", "consent", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 4, "label": "after"}
+]

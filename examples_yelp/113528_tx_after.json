@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "take", "it", "to", "CS&S", "and", "after", "a", "\\*", "MONTH", "\\*", "of", "having", "it", ",", "I", "call", "to", "check", "status", "and", "they", "say", ",", "''", "``", "We", "'ve", "put", "in", "two", "new", "motherboards", "and", "neither", "work", "."], "e1_text": "take", "e1_pos": 1, "e2_text": "having", "e2_pos": 12, "label": "after"}
+]

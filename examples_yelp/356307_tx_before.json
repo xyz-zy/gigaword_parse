@@ -1,0 +1,3 @@
+[
+{"tokens": ["Besides", "the", "tasty", "mezcal", "I", "tried", "-LRB-", "lick", "some", "Tabasco", "off", "your", "hand", "before", "you", "sip", "it", "--", "trust", "me", ",", "it", "'s", "great", "-RRB-", ",", "I", "also", "loved", "The", "Mission", "'s", "sangria", ",", "which", "was", "super-sweet", "."], "e1_text": "lick", "e1_pos": 7, "e2_text": "sip", "e2_pos": 15, "label": "before"}
+]

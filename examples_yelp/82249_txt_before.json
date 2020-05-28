@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "`", "Chinese", "Oven", "'", "is", "in", "this", "window", "just", "before", "you", "reach", "the", "bathroom", ",", "which", "I", "always", "found", "to", "be", "quite", "funny", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "reach", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "get", "to", "inspect", "it", "before", "I", "wash", "my", "hands", ",", "I", "guess", "."], "e1_text": "inspect", "e1_pos": 3, "e2_text": "wash", "e2_pos": 7, "label": "before"}
+]

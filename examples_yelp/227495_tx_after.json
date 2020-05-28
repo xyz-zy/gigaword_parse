@@ -1,0 +1,4 @@
+[
+{"tokens": ["Usually", "this", "would", "be", "an", "instant", "YES", "...", "but", "after", "our", "last", "visit", "there", ",", "I", "am", "reluctant", "and", "hesitant", "to", "go", ",", "but", "willing", "to", "give", "it", "another", "try", "...", "...", "...", ".", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "am", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "order", "a", "1\\/2", "salad", "this", "time", "and", "broccoli", "...", "al", "dente", "'", "which", "I", "have", "to", "explain", "to", "the", "watiress", "is", "just", "barely", "cooked", "and", "crisp", "-LRB-", "after", "a", "blank", "stare", "when", "I", "say", "Al", "dente", "'", "-RRB-", "."], "e1_text": "is", "e1_pos": 21, "e2_text": "say", "e2_pos": 34, "label": "after"}
+]

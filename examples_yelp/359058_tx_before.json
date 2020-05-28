@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "our", "second", "order", "was", "delivered", "to", "our", "table", ",", "the", "waitress", "explained", "that", "although", "it", "'s", "against", "the", "''", "``", "All", "You", "Can", "Eat", "''", "''", "policy", ",", "the", "manager", "had", "approved", "for", "us", "to", "order", "a", "third", "round", "of", "rolls", "right", "away", "instead", "of", "requiring", "each", "piece", "to", "be", "finished", "before", "ordering", "more", "."], "e1_text": "finished", "e1_pos": 51, "e2_text": "ordering", "e2_pos": 53, "label": "before"}
+]

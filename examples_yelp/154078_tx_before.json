@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "us", "a", "while", ",", "but", "we", "finally", "decided", "on", "3", "dishes", "we", "had", "never", "tried", "before", ":", "Spicy", "Shrimp", "Salad", ",", "Catfish", "red", "curry", "-LRB-", "without", "coconut", "milk", "-RRB-", ",", "and", "a", "Thai-style", "sausage", "."], "e1_text": "decided", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["There", "was", "a", "tart\\/sour", "almost", "citrus-y", "taste", "to", "the", "meat", ",", "like", "it", "had", "been", "pickled", "or", "brined", "before", "being", "chopped\\/ground", "and", "stuffed", "into", "its", "casing", "."], "e1_text": "pickled", "e1_pos": 15, "e2_text": "being", "e2_pos": 19, "label": "before"}
+]

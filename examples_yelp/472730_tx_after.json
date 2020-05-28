@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "boys", "-LRB-", "my", "husband", "and", "brother-in-law", "-RRB-", "did", "just", "that", ",", "but", "noot", "till", "after", "signing", "a", "waver", "."], "e1_text": "did", "e1_pos": 8, "e2_text": "signing", "e2_pos": 16, "label": "after"},
+{"tokens": ["Meanwhile", "I", "had", "to", "watch", "my", "family", "eat", "thier", "lunch", "because", "their", "was", "a", "mix-up", "in", "the", "back", "causing", "my", "food", "to", "be", "ordered", "after", "everyone", "at", "the", "table", "got", "their", "food", "."], "e1_text": "ordered", "e1_pos": 23, "e2_text": "got", "e2_pos": 29, "label": "after"}
+]

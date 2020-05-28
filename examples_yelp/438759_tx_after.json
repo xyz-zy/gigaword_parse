@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "n't", "eaten", "at", "Jack", "in", "the", "Box", "for", "awhile", ",", "and", "after", "seeing", "an", "ad", "for", "its", "new", "Outlaw", "Burger", ",", "which", "is", "made", "two", "ways", ",", "decided", "this", "was", "worth", "checking", "out", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 14, "label": "after"}
+]

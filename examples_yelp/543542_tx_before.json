@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "posting", "this", "because", "I", "wish", "I", "would", "of", "known", "these", "things", "before", "I", "moved", "into", "Sedona", "at", "Lone", "Mountain", "."], "e1_text": "known", "e1_pos": 10, "e2_text": "moved", "e2_pos": 15, "label": "before"},
+{"tokens": ["Do", "yourself", "a", "favor", "and", "do", "a", "walkthrough", "of", "the", "apartment", "property", "and", "community", "before", "you", "sign", "anything", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "sign", "e2_pos": 16, "label": "before"}
+]

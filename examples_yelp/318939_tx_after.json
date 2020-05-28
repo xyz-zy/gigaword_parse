@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "also", "continued", "to", "pour", "champagne", "and", "refill", "our", "water", "long", "after", "we", "finished", "eating", "."], "e1_text": "refill", "e1_pos": 7, "e2_text": "finished", "e2_pos": 13, "label": "after"},
+{"tokens": ["But", "generally", "you", "wear", "out", "your", "welcome", "quickly", "after", "your", "meal", "is", "finished", "."], "e1_text": "wear", "e1_pos": 3, "e2_text": "is", "e2_pos": 11, "label": "after"}
+]

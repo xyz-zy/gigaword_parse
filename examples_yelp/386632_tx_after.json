@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitperson", "I", "finally", "got", ",", "only", "took", "me", "after", "another", "waitperson", "argued", "-LRB-", "at", "another", "customers", "table", "-RRB-", "that", "she", "was", "not", "taking", "another", "table", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "argued", "e2_pos": 12, "label": "after"}
+]

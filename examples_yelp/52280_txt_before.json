@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "in", "the", "bar", "area", "kept", "walking", "by", "and", "looking", "at", "us", ",", "but", "it", "was", "several", "more", "minutes", "before", "the", "girl", "came", "to", "seat", "us", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "came", "e2_pos": 23, "label": "before"},
+{"tokens": ["So", "I", "grabbed", "the", "same", "girl", "from", "before", "since", "she", "was", "walking", "by", "and", "told", "her", "."], "e1_text": "grabbed", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

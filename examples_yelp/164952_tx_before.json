@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "did", "n't", "take", "long", "though", "before", "we", "started", "to", "see", "the", "cracks", "in", "the", "foundation", "here", "...", "and", "they", "run", "deep", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "started", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "had", "to", "say", "''", "``", "no", "''", "''", "half", "a", "dozen", "times", "and", "yank", "my", "arm", "away", "from", "her", "before", "she", "took", "the", "hint", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "took", "e2_pos": 22, "label": "before"},
+{"tokens": ["Arizona", "clubs", "give", "better", "dances", "for", "half", "the", "price", ",", "the", "girls", "do", "n't", "act", "like", "they", "'re", "too", "good", "for", "the", "job", ",", "and", "they", "let", "you", "get", "to", "know", "them", "a", "bit", "before", "you", "decide", "you", "want", "to", "go", "to", "the", "VIP", "lounge", "with", "them", "."], "e1_text": "know", "e1_pos": 30, "e2_text": "decide", "e2_pos": 36, "label": "before"}
+]

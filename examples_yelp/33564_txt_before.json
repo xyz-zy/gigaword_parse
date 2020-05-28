@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "never", "had", "it", "before", "but", "I", "know", "it", "is", "a", "Korean", "dining", "staple", "so", "I", "gave", "it", "a", "shot", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "know", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "bowl", "came", "out", "boiling", "hot", "which", "was", "good", "because", "we", "opted", "for", "the", "raw", "egg", "to", "be", "cracked", "and", "put", "into", "it", "right", "before", "it", "was", "served", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

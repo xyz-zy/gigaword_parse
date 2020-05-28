@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "wimp", "on", "going", "short", "after", "growing", "my", "hair", "out", "for", "years", ",", "and", "Marianna", "was", "a", "perfect", "hairdresser", "in", "letting", "me", "try", "my", "style", "at", "one", "length", "first", "and", "then", "come", "back", "for", "a", "tweak", "after", "I", "wanted", "to", "go", "shorter", "."], "e1_text": "going", "e1_pos": 5, "e2_text": "growing", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Continued", ":", "Apparently", "burgers", "are", "really", "hard", "too", "make", ",", "after", "an", "hour", "and", "30", "minutes", "of", "waiting", "from", "the", "time", "we", "sat", "down", ",", "we", "finally", "got", "or", "food", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "waitress", "came", "by", "once", "after", "we", "ordered", "during", "that", "whole", "wait", "at", "the", "hour", "and", "20", "minutes", "mark", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 7, "label": "after"}
+]

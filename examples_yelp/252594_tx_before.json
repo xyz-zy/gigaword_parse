@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "replacements", "were", "beautiful", ",", "and", "lasted", "for", "about", "a", "week", "before", "they", "began", "to", "wilt", "."], "e1_text": "lasted", "e1_pos": 6, "e2_text": "began", "e2_pos": 13, "label": "before"}
+]

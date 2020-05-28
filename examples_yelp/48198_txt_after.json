@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "enjoy", "Aveda", "salons", "so", "after", "receiving", "a", "horrible", "haircut", "from", "a", "high-end", "Aveda", "salon", "I", "decided", "to", "give", "Carsten", "Institute", "a", "go", "."], "e1_text": "salons", "e1_pos": 3, "e2_text": "receiving", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "was", "timid", "at", "first", "but", "warmed", "up", "after", "we", "started", "talking", "and", "the", "process", "took", "a", "little", "longer", "since", "the", "instructors", "check", "the", "students", "work", "several", "times", "."], "e1_text": "warmed", "e1_pos": 6, "e2_text": "started", "e2_pos": 10, "label": "after"}
+]

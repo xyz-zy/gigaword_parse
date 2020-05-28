@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "sure", "if", "food", "is", "prepared", "elsewhere", "or", "night", "before", "because", "they", "microwaved", "our", "food", "."], "e1_text": "prepared", "e1_pos": 5, "e2_text": "microwaved", "e2_pos": 12, "label": "before"}
+]

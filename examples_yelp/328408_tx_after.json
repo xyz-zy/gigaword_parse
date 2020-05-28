@@ -1,0 +1,4 @@
+[
+{"tokens": ["Only", "refilled", "our", "drinks", "once", "after", "we", "finally", "got", "his", "attention", "after", "20", "minutes", "."], "e1_text": "refilled", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["Then", "or", "order", "was", "wrong", "which", "they", "did", "correct", "the", "pizza", "without", "us", "mentioning", "it", "and", "the", "salad", "was", "corrected", "after", "my", "wife", "brought", "it", "to", "the", "attention", "of", "the", "manager", "who", "waited", "on", "us", "more", "than", "our", "actual", "waiter", "."], "e1_text": "corrected", "e1_pos": 19, "e2_text": "brought", "e2_pos": 23, "label": "after"}
+]

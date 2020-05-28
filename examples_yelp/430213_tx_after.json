@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "artist", "forgets", "that", "it", "'s", "a", "Turkey", ",", "AVOCADO", ",", "and", "spinach", "sandwich", "and", "has", "to", "add", "the", "avocado", "after", "I", "kindly", "remind", "him", "."], "e1_text": "add", "e1_pos": 17, "e2_text": "remind", "e2_pos": 23, "label": "after"}
+]

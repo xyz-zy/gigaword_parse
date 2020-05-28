@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "immediately", "seated", ",", "but", "I", "waited", "a", "very", "long", "-LRB-", "about", "15", "minutes", "-RRB-", "before", "my", "order", "was", "taken", "and", "water", "was", "brought", "to", "my", "table", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "know", "this", "place", "is", "new", "...", "and", "I", "hope", "they", "can", "get", "it", "together", "before", "they", "chase", "everyone", "away", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "chase", "e2_pos": 17, "label": "before"}
+]

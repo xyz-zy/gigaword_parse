@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "automatically", "assumed", "that", "I", "was", "given", "all", "of", "my", "items", "especially", "since", "the", "lady", "who", "rang", "me", "up", "left", "after", "handing", "me", "my", "bag", "and", "told", "me", "to", "have", "a", "nice", "day", "."], "e1_text": "rang", "e1_pos": 16, "e2_text": "handing", "e2_pos": 21, "label": "after"}
+]

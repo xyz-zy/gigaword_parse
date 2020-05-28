@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "only", "be", "vacuumed", "shortly", "after", "move", "in", "in", "August", "and", "right", "before", "people", "start", "coming", "to", "view", "the", "apartments", "in", "February", "."], "e1_text": "vacuumed", "e1_pos": 4, "e2_text": "start", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "was", "towed", "within", "2", "hours", "after", "parking", "back", "there", "at", "-LRB-", "10pm", "-RRB-", "."], "e1_text": "towed", "e1_pos": 2, "e2_text": "parking", "e2_pos": 7, "label": "after"}
+]

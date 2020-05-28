@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "day", "no", "one", "came", "to", "fix", "it", "until", "the", "next", "day", "we", "called", "again", "and", "finally", "after", "2", "hours", "someone", "comes", "and", "fixes", "the", "tub", "."], "e1_text": "fix", "e1_pos": 6, "e2_text": "comes", "e2_pos": 21, "label": "after"}
+]

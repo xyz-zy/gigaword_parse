@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "drinks", "coupons", "are", "n't", "valid", "most", "places", "and", "ours", "expired", "before", "the", "printed", "expiration", "date", "-LRB-", "surprise", ",", "now", "pay", "for", "those", "-RRB-", "."], "e1_text": "expired", "e1_pos": 10, "e2_text": "surprise", "e2_pos": 17, "label": "before"}
+]

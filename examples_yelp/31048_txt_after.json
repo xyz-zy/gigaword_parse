@@ -1,0 +1,3 @@
+[
+{"tokens": ["Thinking", "that", "a", "Macaroni", "Grill", "is", "a", "Macaroni", "Grill", ",", "I", "went", "to", "this", "location", "with", "my", "wife", "soon", "after", "we", "moved", "out", "to", "the", "Phoenix", "area", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "moved", "e2_pos": 21, "label": "after"}
+]

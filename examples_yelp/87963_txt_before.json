@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "two-star", "review", "is", "because", "I", "ordered", "three", "pounds", "of", "shrimp", "for", "my", "annual", "Christmas", "party", "about", "a", "week", "before", "the", "party", "happened", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "happened", "e2_pos": 22, "label": "before"}
+]

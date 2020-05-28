@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "online", "much", "earlier", "in", "the", "day", ",", "as", "I", "was", "hosting", "an", "event", "and", "needed", "pizza", "delivered", "but", "without", "the", "faff", "of", "calling", "an", "hour", "before", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "calling", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "then", "received", "a", "text", "half", "an", "hour", "before", "the", "time", "I", "specified", "letting", "me", "know", "it", "was", "on", "its", "way", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "specified", "e2_pos": 12, "label": "before"}
+]

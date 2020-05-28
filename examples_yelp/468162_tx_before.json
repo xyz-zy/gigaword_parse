@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "left", "our", "luggage", "there", "before", "returning", "to", "check", "in", "later", ",", "which", "was", "no", "problem", "at", "all", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "returning", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "cleanliness", "of", "the", "oven", "and", "some", "of", "the", "equipment", "was", "questionable", ",", "and", "I", "had", "to", "rewash", "a", "lot", "of", "things", "before", "using", "them", "."], "e1_text": "rewash", "e1_pos": 17, "e2_text": "using", "e2_pos": 23, "label": "before"}
+]

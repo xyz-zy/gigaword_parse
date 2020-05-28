@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nom", "Nom", "is", "so-so", "...", "I", "hate", "to", "be", "that", "girl", "that", "walks", "in", "to", "a", "restaurant", "right", "before", "they", "close", "but", "burgers", "were", "callng", "our", "taste", "buds", "and", "it", "was", "close", "and", "different", "."], "e1_text": "walks", "e1_pos": 12, "e2_text": "close", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "would", "n't", "disregard", "this", "place", "just", "yet", ",", "I", "think", "it", "will", "be", "one", "of", "those", "you", "need", "to", "try", "a", "few", "different", "things", "before", "you", "say", "it", "'s", "a", "favorite", "spot", "...", "have", "to", "admit", "I", "do", "n't", "think", "its", "as", "good", "as", "Bad", "Daddy", "'s", "."], "e1_text": "try", "e1_pos": 20, "e2_text": "say", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "not", "heard", "of", "this", "hotel", "before", "finding", "it", "amongst", "the", "listings", "in", "our", "Southwest", "Airlines", "Vacations", "brochure", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "finding", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "were", "in", "the", "room", "maybe", "15-20", "minutes", "before", "we", "got", "too", "excited", "to", "start", "exploring", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

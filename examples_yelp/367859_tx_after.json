@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "people", "have", "said", "that", "they", "were", "so", "hungry", "after", "eating", "seven", "courses", "at", "Posh", "that", "they", "had", "to", "stop", "at", "a", "drive", "through", "to", "get", "more", "food", ";", "I", "would", "say", "this", "is", "accurate", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "eating", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "waited", "about", "20", "minutes", "between", "two", "of", "the", "courses", "and", "that", "was", "a", "lot", "especially", "when", ",", "after", "having", "waited", ",", "it", "took", "me", "two", "bites", "to", "finish", "the", "dish", "that", "was", "finally", "brought", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "having", "e2_pos": 19, "label": "after"}
+]

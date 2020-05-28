@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "appetizer", "came", "before", "they", "opened", "our", "bottle", "of", "wine", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "opened", "e2_pos": 5, "label": "before"},
+{"tokens": ["And", "the", "entree", "came", "before", "I", "finished", "our", "appetizer", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "finished", "e2_pos": 6, "label": "before"}
+]

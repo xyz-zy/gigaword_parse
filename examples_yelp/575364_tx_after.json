@@ -1,0 +1,4 @@
+[
+{"tokens": ["El", "Hubbo", "-LRB-", "aka", "the", "Hubs", "or", "Hubby", "-RRB-", "and", "I", "stopped", "in", "on", "our", "way", "from", "Phoenix", "Sky", "Harbor", "Airport", "to", "Sedona", "AZ", ",", "as", "I", "had", "bookmarked", "this", "place", "as", "our", "lunch", "destination", "after", "reading", "the", "great", "reviews", "of", "it", "!"], "e1_text": "bookmarked", "e1_pos": 28, "e2_text": "reading", "e2_pos": 36, "label": "after"},
+{"tokens": ["Zookz", "is", "a", "small", "place", "and", "when", "we", "did", "go", "in", ",", "we", "were", "the", "only", "ones", "in", "there", "because", "it", "was", "like", "2", "p.m.", ",", "so", "clearly", "after", "lunch", "time", "for", "most", "normal", "people", "-LRB-", "including", "me", ",", "but", "I", "'m", "not", "normal", "-RRB-", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "including", "e2_pos": 36, "label": "after"}
+]

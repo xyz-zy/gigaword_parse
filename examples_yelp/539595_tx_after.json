@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "hard", "time", "deciding", "what", "to", "get", "after", "that", "because", "everything", "looked", "good", ",", "but", "I", "went", "with", "a", "chicken", "quesadilla", ",", "which", "was", "good", "but", "I", "was", "n't", "terribly", "fond", "of", "the", "chicken", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "looked", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "turns", "out", "that", "their", "service", "majorly", "lacks", "at", "this", "time", "of", "day", "-", "after", "we", "were", "seated", "it", "was", "several", "minutes", "before", "our", "drink", "order", "was", "asked", ",", "and", "we", "had", "to", "flag", "our", "waitress", "down", "to", "order", "after", "that", "."], "e1_text": "lacks", "e1_pos": 7, "e2_text": "were", "e2_pos": 16, "label": "after"}
+]

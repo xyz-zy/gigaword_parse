@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "...", "there", "is", "really", "NO", "point", "in", "purchasing", "tickets", "before", "showing", "up", "because", "it", "makes", "no", "difference", "as", "to", "whether", "you", "get", "into", "the", "show", "."], "e1_text": "purchasing", "e1_pos": 8, "e2_text": "showing", "e2_pos": 11, "label": "before"}
+]

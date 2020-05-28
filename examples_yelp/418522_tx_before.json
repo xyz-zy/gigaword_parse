@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "guys", "are", "the", "bomb", "dot", "com", "...", "I", "took", "my", "car", "here", "to", "get", "inspected", "and", "i", "need", "somethings", "on", "my", "car", "to", "be", "fixed", "before", "it", "passed", "."], "e1_text": "fixed", "e1_pos": 25, "e2_text": "passed", "e2_pos": 28, "label": "before"}
+]

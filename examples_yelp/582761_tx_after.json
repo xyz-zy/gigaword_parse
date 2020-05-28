@@ -1,0 +1,4 @@
+[
+{"tokens": ["3", "-RRB-", "Server", "unavailable\\/disappeared", "after", "different", "staff", "delivered", "food", "to", "table", "."], "e1_text": "unavailable\\/disappeared", "e1_pos": 3, "e2_text": "delivered", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "had", "intentions", "of", "having", "both", "but", "after", "the", "feeling", "of", "being", "ignored", "we", "decided", "against", "them", "."], "e1_text": "having", "e1_pos": 4, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

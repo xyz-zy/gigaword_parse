@@ -1,0 +1,4 @@
+[
+{"tokens": ["People", "were", "getting", "their", "sandwich", "an", "hour", "after", "getting", "in", "line", "."], "e1_text": "getting", "e1_pos": 2, "e2_text": "getting", "e2_pos": 2, "label": "after"},
+{"tokens": ["We", "waited", "a", "half", "hour", "for", "ours", "after", "ordering", ",", "but", "not", "sure", "how", "long", "we", "were", "in", "line", "before", "that", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 8, "label": "after"}
+]

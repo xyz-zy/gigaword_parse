@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "not", "really", "sure", "how", "that", "makes", "sense", "since", "they", "have", "numerous", "locations", "around", "the", "area", "but", "a", "free", "drink", "coupon", "is", "n't", "worth", "ruining", "my", "mood", "when", "going", "to", "hang", "with", "a", "bunch", "of", "people", "I", "have", "never", "met", "before", "."], "e1_text": "hang", "e1_pos": 31, "e2_text": "have", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "enjoyed", "the", "Down", "Dirty", "Martini", "and", "the", "Cucumber", "Martini", "but", "the", "bus", "boy", "took", "my", "cup", "before", "I", "got", "to", "actually", "eat", "my", "cucumber", "which", "also", "did", "n't", "help", "this", "place", "become", "somewhere", "I", "want", "to", "return", "."], "e1_text": "took", "e1_pos": 14, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

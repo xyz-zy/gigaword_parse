@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "kids", "did", "n't", "mind", "-RRB-", "When", "gathering", "my", "3", "pizzas", "they", "put", "my", "wings", "on", "top", ",", "I", "had", "to", "ask", "for", "a", "bag", "to", "put", "the", "wings", "in", "&", "then", ",", "I", "had", "to", "ask", "for", "napkins", "...", "and", "of", "course", ",", "I", "wanted", "cheese", "&", "crushed", "peppers", "...", "While", "writing", "this", "I", "feel", "a", "bit", "picky", "BUT", ",", "after", "all", "I", "'ve", "already", "paid", "&", "these", "are", "things", "they", "offer", "for", "free", "Right", "????", "Immediately", "leaving", "I", "had", "my", "review", "in", "mind", ".", "."], "e1_text": "put", "e1_pos": 26, "e2_text": "'ve", "e2_pos": 64, "label": "after"},
+{"tokens": ["I", "'m", "sure", "I", "will", "return", ",", "after", "all", "$", "5.99", "pizza", "is", "a", "good", "deal", "..."], "e1_text": "'m", "e1_pos": 1, "e2_text": "is", "e2_pos": 12, "label": "after"}
+]

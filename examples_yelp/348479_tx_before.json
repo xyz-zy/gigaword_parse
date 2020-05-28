@@ -1,0 +1,4 @@
+[
+{"tokens": ["Having", "brunch", "in", "Montreal", "is", "our", "last", "to-do", "before", "we", "headed", "back", "to", "Manhattan", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "headed", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "waited", "about", "twenty", "minutes", "before", "we", "finally", "got", "seated", "in", "the", "back", "room", "where", "there", "is", "comfy", "sofa", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "before"}
+]

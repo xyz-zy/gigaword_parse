@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lesson", "learned", "here", ":", "Check", "the", "Yelp", "reviews", "before", "ordering", "an", "sitting", "in", "the", "restaurant", "."], "e1_text": "Check", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 9, "label": "before"},
+{"tokens": ["Since", "they", "are", "one", "of", "the", "closest", "places", "to", "me", ",", "I", "placed", "an", "order", "on-line", ",", "this", "turned", "out", "to", "be", "mistake", "#", "2", ",", "with", "mistake", "#", "1", "being", "that", "I", "did", "n't", "check", "Yelp", "before", "deciding", "on", "this", "place", "."], "e1_text": "check", "e1_pos": 35, "e2_text": "deciding", "e2_pos": 38, "label": "before"}
+]

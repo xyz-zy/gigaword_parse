@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "your", "staff", ",", "even", "when", "they", "sometimes", "forget", "to", "check", "their", "fax", "machine", "for", "paper", "and", "do", "n't", "realize", "that", "we", "have", "sent", "in", "an", "online", "order", "-LRB-", "and", "I", "love", "them", "even", "more", "for", "the", "extra-cheesey", "pizza", "we", "got", "after", "they", "apologized", "for", "the", "mistake", "!", "-RRB-", "."], "e1_text": "got", "e1_pos": 41, "e2_text": "apologized", "e2_pos": 44, "label": "after"}
+]

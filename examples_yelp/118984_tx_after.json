@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", ":", "strange", "that", "I", "would", "want", "hot", "pho", "after", "being", "sunburnt", ",", "but", "I", "just", "had", "to", "have", "it", "."], "e1_text": "want", "e1_pos": 7, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["Now", "there", "was", "one", "exchange", "that", "I", "just", "was", "n't", "understanding", ",", "but", "after", "a", "bit", "of", "back-and-forth", ",", "turns", "out", "she", "was", "asking", "me", "if", "I", "was", "drunk", "because", "of", "my", "red", "face", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "turns", "e2_pos": 19, "label": "after"}
+]

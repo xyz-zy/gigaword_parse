@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "did", "n't", "seem", "to", "start", "bringing", "out", "the", "savory", "dishes", "til", "about", "15-20", "minutes", "after", "they", "opened", "."], "e1_text": "bringing", "e1_pos": 6, "e2_text": "opened", "e2_pos": 17, "label": "after"},
+{"tokens": ["If", "not", ",", "then", "show", "up", "about", "30", "minutes", "after", "they", "open", ",", "just", "be", "prepared", "to", "wait", "."], "e1_text": "show", "e1_pos": 4, "e2_text": "open", "e2_pos": 11, "label": "after"}
+]

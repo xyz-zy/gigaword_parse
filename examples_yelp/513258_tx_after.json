@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "at", "the", "bar", "and", "watched", "while", "a", "couple", "that", "came", "after", "us", "got", "served", "and", "it", "got", "later", "and", "later", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

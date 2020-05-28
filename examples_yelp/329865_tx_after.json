@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "came", "and", "apologized", "but", "that", "was", "15", "minutes", "after", "the", "food", "runner", "went", "back", "into", "the", "kitchen", "to", "see", "about", "the", "order", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "went", "e2_pos": 14, "label": "after"}
+]

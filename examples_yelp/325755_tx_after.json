@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "it", "really", "that", "amazing", "or", "were", "my", "senses", "amplified", "after", "having", "a", "few", "?!", "Hard", "to", "tell", "but", "I", "since", "this", "shake", "is", "still", "on", "my", "brain", "days", "later", "it", "must", "have", "been", "pretty", "solid", "!"], "e1_text": "amplified", "e1_pos": 9, "e2_text": "having", "e2_pos": 11, "label": "after"},
+{"tokens": ["Sidebar", "note", "--", "I", "was", "lenient", "to", "try", "this", "place", "after", "reading", "the", "reviews", ",", "so", "we", "decided", "on", "Burger", "Bar", "at", "the", "Mandalay", "Bay", "instead", ",", "but", "happened", "on", "this", "place", "12", "+", "hours", "later", "after", "a", "late", "night", "out", "on", "the", "town", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

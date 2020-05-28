@@ -1,0 +1,4 @@
+[
+{"tokens": ["Same", "thing", "like", "the", "first", "reservation", ",", "but", "nicer", "...", "was", "put", "on", "hold", "for", "like", "5", "minutes", "before", "anything", "happened", "."], "e1_text": "put", "e1_pos": 11, "e2_text": "happened", "e2_pos": 20, "label": "before"},
+{"tokens": ["Next", "time", ",", "I", "suggest", "the", "model", "of", "cuts", "of", "beef", "should", "be", "brought", "out", "before", "taking", "the", "order", "...", "maybe", ",", "so", "it", "'d", "convince", "me", "to", "order", "the", "kobe", "beef", "filet", "mignon", "and", "not", "the", "regular", "filet", "mignon", "."], "e1_text": "brought", "e1_pos": 13, "e2_text": "taking", "e2_pos": 16, "label": "before"}
+]

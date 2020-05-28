@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "terrible", "...", "he", "was", "inattentive", "-", "did", "not", "check", "back", "in", "with", "us", ",", "did", "not", "fill", "up", "our", "glasses", "of", "wine", ",", "gave", "a", "nasty", "look", "to", "our", "guest", "who", "changed", "their", "order", "less", "than", "30", "seconds", "after", "ordering", ",", "forgot", "to", "put", "part", "of", "our", "order", "in", ",", "and", "never", "once", "asked", "how", "the", "food", "was", "."], "e1_text": "changed", "e1_pos": 34, "e2_text": "ordering", "e2_pos": 42, "label": "after"}
+]

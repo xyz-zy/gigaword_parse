@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "seem", "to", "recall", "ordering", "from", "here", "once", "before", "I", "ordered", "today", "though", "I", "ca", "n't", "seem", "to", "remember", "when", "that", "was", "or", "even", "what", "I", "ordered", "."], "e1_text": "ordering", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "waited", "for", "one", "full", "hour", "before", "calling", "to", "check", "the", "status", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "calling", "e2_pos": 7, "label": "before"},
+{"tokens": ["It", "may", "be", "a", "while", "before", "I", "order", "from", "here", "again", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "order", "e2_pos": 7, "label": "before"}
+]

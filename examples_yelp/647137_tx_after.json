@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "a", "week", "after", "it", "opened", "in", "September", "2014", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "opened", "e2_pos": 7, "label": "after"},
+{"tokens": ["Our", "sake", "was", "served", "over", "ice", "and", "slices", "of", "cucumber", "in", "a", "clear", "glass", "pitcher", "after", "being", "poured", "from", "the", "bottle", "tableside", "."], "e1_text": "served", "e1_pos": 3, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

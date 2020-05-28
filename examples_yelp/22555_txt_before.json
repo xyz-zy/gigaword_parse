@@ -1,0 +1,4 @@
+[
+{"tokens": ["Either", "way", ",", "I", "like", "this", "place", "before", ",", "but", "I", "LOVE", "it", "now", "!!", "Sherry", "has", "done", "a", "great", "job", "of", "giving", "the", "place", "a", "face", "lift", "and", "it", "feels", "so", "much", "more", "cozy", "and", "inviting", "on", "the", "inside", "."], "e1_text": "like", "e1_pos": 4, "e2_text": "LOVE", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "came", "in", "one", "day", "just", "before", "they", "were", "about", "to", "close", "and", "Sherry", "let", "me", "stay", "and", "get", "an", "hour", "of", "work", "done", "while", "she", "was", "cleaning", "up", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "before"}
+]

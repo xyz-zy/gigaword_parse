@@ -1,0 +1,3 @@
+[
+{"tokens": ["drinks", "refills", ":", "if", "i", "drink", "2", "glasses", "of", "whatever", "before", "my", "food", "comes", ",", "offer", "to", "leave", "a", "pitcher", "at", "the", "table", "or", "be", "prepared", "to", "run", "your", "ass", "off", "and", "not", "bitch", "about", "."], "e1_text": "drink", "e1_pos": 5, "e2_text": "comes", "e2_pos": 13, "label": "before"}
+]

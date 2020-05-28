@@ -1,0 +1,3 @@
+[
+{"tokens": ["Park", "in", "the", "Golden", "Nugget", "parking", "garage", "and", "make", "sure", "to", "hit", "the", "left", "end", "of", "the", "Cashier", "Cage", "to", "push", "your", "parking", "ticket", "under", "the", "validator", "before", "you", "leave", ",", "so", "you", "do", "n't", "have", "to", "pay", "for", "parking", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "leave", "e2_pos": 29, "label": "before"}
+]

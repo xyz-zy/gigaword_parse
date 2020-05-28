@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "there", "for", "coffee", "in", "the", "morning", "and", "after", "looking", "at", "the", "menu", "came", "back", "for", "dinner", "with", "my", "whole", "family", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "looking", "e2_pos": 10, "label": "after"},
+{"tokens": ["This", "is", "the", "perfect", "place", "to", "be", "full", "after", "eating", "but", "not", "the", "gross-feeling-food-coma", "type", "of", "way", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

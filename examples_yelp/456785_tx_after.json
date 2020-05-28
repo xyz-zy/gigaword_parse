@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "subway", "attendant", "disregarded", "the", "fact", "that", "she", "cut", "ahead", "of", "me", ",", "failed", "to", "tell", "her", "he", "'d", "serve", "her", "after", "he", "was", "done", "with", "my", "transaction", "...", "&", "served", "her", "the", "coffee", "and", "checked", "her", "out", "before", "me", "!"], "e1_text": "tell", "e1_pos": 15, "e2_text": "was", "e2_pos": 23, "label": "after"}
+]

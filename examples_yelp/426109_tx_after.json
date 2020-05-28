@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "waited", "almost", "a", "year", "to", "eat", "here", "after", "this", "location", "opened", ",", "because", "I", "learned", "my", "lesson", "after", "going", "to", "the", "location", "in", "Scottsdale", "on", "it", "'s", "opening", "weekend", "."], "e1_text": "eat", "e1_pos": 6, "e2_text": "opened", "e2_pos": 11, "label": "after"},
+{"tokens": ["Mostly", "because", "it", "'s", "downtown", "and", "it", "dies", "down", "here", "after", "everyone", "gets", "out", "of", "work", "."], "e1_text": "dies", "e1_pos": 7, "e2_text": "gets", "e2_pos": 12, "label": "after"},
+{"tokens": ["Visit", "#", "2", "-", "I", "went", "in", "late", "one", "night", "to", "place", "a", "to-go", "order", "after", "I", "had", "gotten", "out", "of", "school", "."], "e1_text": "place", "e1_pos": 11, "e2_text": "had", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "even", "then", ",", "we", "only", "saw", "her", "one", "more", "time", "after", "bringing", "our", "food", "before", "she", "vanished", "for", "another", "half", "hour", "."], "e1_text": "bringing", "e1_pos": 12, "e2_text": "vanished", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "had", "to", "find", "her", "to", "close", "out", "our", "tab", "before", "we", "hit", "the", "inside", "for", "karaoke", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "hit", "e2_pos": 12, "label": "before"}
+]

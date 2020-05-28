@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wish", "I", "could", "have", "said", "something", "to", "my", "waitress", "but", "she", "did", "n't", "come", "back", "until", "after", "the", "bus", "boy", "took", "away", "the", "plates", "--", "not", "even", "a", "stop", "five", "minutes", "into", "the", "meal", "to", "see", "if", "we", "needed", "anything", ",", "thus", "no", "proof", "of", "the", "awful", "meal", "."], "e1_text": "come", "e1_pos": 14, "e2_text": "took", "e2_pos": 21, "label": "after"}
+]

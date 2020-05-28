@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "back", "and", "legs", "ached", "before", "we", "even", "received", "our", "entrees", "."], "e1_text": "ached", "e1_pos": 4, "e2_text": "received", "e2_pos": 8, "label": "before"},
+{"tokens": ["Maybe", "I", "'m", "just", "a", "pretentious", "wine", "snob", ",", "but", "I", "like", "to", "let", "the", "wine", "in", "my", "glass", "open", "up", "before", "pouring", "more", "."], "e1_text": "open", "e1_pos": 19, "e2_text": "pouring", "e2_pos": 22, "label": "before"}
+]

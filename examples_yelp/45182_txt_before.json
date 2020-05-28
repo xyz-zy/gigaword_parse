@@ -1,0 +1,5 @@
+[
+{"tokens": ["12\\/03\\/12", "Hmm", "...", "I", "could", "'ve", "sworn", "I", "had", "written", "a", "review", "of", "this", "place", "before", "."], "e1_text": "sworn", "e1_pos": 6, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["-LRB-", "Let", "'s", "see", "how", "long", "this", "NEW", "review", "sticks", "before", "it", "'s", "taken", "down", ",", "too", ".", "-RRB-"], "e1_text": "sticks", "e1_pos": 9, "e2_text": "'s", "e2_pos": 12, "label": "before"},
+{"tokens": ["My", "cousin", "tried", "mine", "first", "before", "trying", "the", "restaurant", "'s", "own", "syrup", ",", "ditched", "that", ",", "and", "then", "used", "mine", "until", "she", "was", "finished", "eating", ".", "-RRB-"], "e1_text": "tried", "e1_pos": 2, "e2_text": "trying", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "because", "it", "is", "dirty", "-LRB-", "which", "it", "generally", "kinda", "is", "-RRB-", ",", "but", "because", "the", "toilet", "door", "does", "n't", "lock", "and", "you", "have", "to", "rely", "on", "either", "the", "gals", "waiting", "to", "let", "people", "know", "that", "it", "'s", "in", "use", ",", "or", "potential", "drunks", "recalling", "the", "common", "sense", "notion", "of", "knocking", "before", "entering", "."], "e1_text": "knocking", "e1_pos": 50, "e2_text": "entering", "e2_pos": 52, "label": "before"}
+]

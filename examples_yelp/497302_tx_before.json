@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "plan", ",", "next", "time", "I", "need", "a", "bite", "before", "heading", "to", "the", "mall", ",", "is", "to", "grab", "a", "delicious", "treat", ",", "a", "small", "wedge", "of", "chees", "and", "a", "piece", "of", "fruit", ",", "no", "more", "mall", "food", "for", "me", "."], "e1_text": "need", "e1_pos": 6, "e2_text": "heading", "e2_pos": 10, "label": "before"}
+]

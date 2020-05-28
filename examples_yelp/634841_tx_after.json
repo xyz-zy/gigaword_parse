@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wasnt", "going", "to", "write", "this", "review", "because", "i", "hate", "seeing", "negative", "reviews", "but", "after", "i", "saw", "my", "credit", "card", "statement", "i", "am", "leaving", "it", "bc", "this", "is", "a", "dirty", "business", "."], "e1_text": "write", "e1_pos": 4, "e2_text": "saw", "e2_pos": 16, "label": "after"},
+{"tokens": ["Ok", "so", "total", "comes", "out", "to", "$", "36", "after", "the", "one", "is", "taken", "off", ",", "$", "7", "tip", "."], "e1_text": "comes", "e1_pos": 3, "e2_text": "is", "e2_pos": 11, "label": "after"}
+]

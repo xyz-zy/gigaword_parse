@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stayed", "in", "the", "North", "Tower", "and", "the", "prices", "were", "decent", ",", "though", "I", "waited", "5", "minutes", "too", "long", "to", "book", "my", "room", "online", "a", "few", "weeks", "before", "and", "the", "prices", "went", "up", "by", "25", "dollars", "."], "e1_text": "were", "e1_pos": 9, "e2_text": "waited", "e2_pos": 14, "label": "before"}
+]

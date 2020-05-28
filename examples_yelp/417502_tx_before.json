@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "white", "was", "boring", ",", "as", "well", "as", "the", "Hawaiian", "and", "both", "had", "been", "battered", "with", "way", "too", "much", "olive", "oil", "before", "hitting", "the", "oven", "."], "e1_text": "battered", "e1_pos": 14, "e2_text": "hitting", "e2_pos": 22, "label": "before"},
+{"tokens": ["As", "we", "'re", "waiting", "I", "'m", "watching", "the", "cooks", "in", "the", "back", "-LRB-", "they", "have", "an", "open", "kitchen-which", "is", "a", "cool", "idea", "-RRB-", ";", "once", ",", "twice", ",", "three", "times", "I", "see", "3", "different", "cooks", "wipe", "their", "runny", "ass", "nose", "down", "their", "fore-arms", ",", "just", "stopping", "before", "it", "hits", "their", "hand", "or", "glove", "."], "e1_text": "stopping", "e1_pos": 45, "e2_text": "hits", "e2_pos": 48, "label": "before"}
+]

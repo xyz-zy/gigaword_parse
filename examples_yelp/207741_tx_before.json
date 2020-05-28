@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "all", "ordered", "water", "at", "the", "start", ",", "and", "we", "were", "all", "out", "of", "water", "well", "before", "the", "time", "our", "margaritas", "came", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "came", "e2_pos": 22, "label": "before"},
+{"tokens": ["Surely", ",", "you", "would", "check", "something", "like", "this", "before", "delivering", "the", "bill", "-LRB-", "or", "when", "sending", "the", "food", "order", "to", "the", "kitchen", "-RRB-", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "delivering", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "restaurant", "was", "nearly", "empty", "at", "the", "time", "we", "went", "since", "it", "was", "a", "weekday", ",", "yet", "we", "were", "rudely", "dismissed", "by", "one", "of", "the", "passing", "servers", "after", "being", "seated", "."], "e1_text": "dismissed", "e1_pos": 20, "e2_text": "being", "e2_pos": 28, "label": "after"},
+{"tokens": ["I", "asked", "Groupon", "for", "a", "refund", "right", "after", "we", "left", "!"], "e1_text": "asked", "e1_pos": 1, "e2_text": "left", "e2_pos": 9, "label": "after"}
+]

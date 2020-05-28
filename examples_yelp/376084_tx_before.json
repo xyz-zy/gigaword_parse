@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "They", "tell", "you", "that", "there", "is", "a", "guy", "checking", "to", "make", "sure", "you", "have", "your", "room", "key", "before", "you", "get", "on", "the", "elevator", "and", "that", "you", "need", "your", "key", "to", "even", "get", "the", "elevator", "moving", ",", "not", "true", "."], "e1_text": "make", "e1_pos": 11, "e2_text": "get", "e2_pos": 20, "label": "before"}
+]

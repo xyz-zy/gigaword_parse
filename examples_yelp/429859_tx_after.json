@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "store", "place", "order", "...", "order", "was", "discovered", "to", "be", "wrong", "NOT", "only", "the", "wrong", "burger", ",", "but", "absolutely", "plain", "several", "mins", "later", "after", "I", "left", "was", "on", "HWY", "...", "another", "Carls", "Jr.", "store", "on", "the", "way", "home", "I", "stop", "tell", "them", "the", "problem", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

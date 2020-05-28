@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "on", "New", "Years", "Day", "this", "year", "with", "some", "girlfriends", "after", "a", "long", "night", "of", "going", "out", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "going", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "basically", "all", "fell", "asleep", "at", "the", "table", "after", "we", "ate", "."], "e1_text": "fell", "e1_pos": 3, "e2_text": "ate", "e2_pos": 10, "label": "after"}
+]

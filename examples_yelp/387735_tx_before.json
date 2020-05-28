@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "grabbed", "the", "table", "before", "I", "made", "it", "back", "but", "the", "hostess", "kindly", "directed", "me", "to", "our", "table", "."], "e1_text": "grabbed", "e1_pos": 2, "e2_text": "made", "e2_pos": 7, "label": "before"},
+{"tokens": ["One", "thing", "that", "I", "did", "not", "like", "was", "our", "waiter", "waited", "until", "we", "waited", "for", "a", "while", ",", "placed", "our", "drink", "order", ",", "had", "a", "our", "drinks", "refilled", ",", "and", "placed", "our", "food", "order", "before", "he", "brought", "bread", "to", "our", "table", "."], "e1_text": "placed", "e1_pos": 18, "e2_text": "brought", "e2_pos": 36, "label": "before"}
+]

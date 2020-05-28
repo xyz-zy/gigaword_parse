@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyway", ",", "I", "come", "to", "find", "out", "that", "my", "card", "was", "declined", "-LRB-", "thanks", "Chick", "Fil", "A", "and", "your", "security", "breech", "-RRB-", "and", "that", "they", "canceled", "the", "order", "after", "I", "did", "n't", "answer", "my", "phone", "-LRB-", "because", "no", "American", "has", "more", "than", "one", "credit", "card", "-RRB-", "."], "e1_text": "canceled", "e1_pos": 25, "e2_text": "did", "e2_pos": 30, "label": "after"},
+{"tokens": ["Adam", "said", "they", "canceled", "the", "order", "after", "I", "did", "n't", "pick", "up", "the", "phone", "."], "e1_text": "canceled", "e1_pos": 3, "e2_text": "did", "e2_pos": 8, "label": "after"}
+]

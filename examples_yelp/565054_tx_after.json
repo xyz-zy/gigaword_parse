@@ -1,0 +1,3 @@
+[
+{"tokens": ["ZERO", "STARS", "This", "guy", "sucks", "...", "Not", "professional", "very", "rude", "and", "not", "reliable", "made", "an", "appointment", "and", "I", "called", "4", "hours", "after", "the", "time", "he", "said", "and", "he", "'s", "not", "man", "enough", "to", "answer", "his", "phone", "."], "e1_text": "called", "e1_pos": 18, "e2_text": "said", "e2_pos": 25, "label": "after"}
+]

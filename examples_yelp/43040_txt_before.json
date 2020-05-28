@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "'ve", "switched", "from", "blah", "frozen", "yogurt", "for", "dessert", "to", "soft", "serve", "ice", "cream", ",", "which", "could", "have", "been", "good", ",", "but", "instead", "it", "was", "blah", "low", "calorie", "stuff", ",", "no", "better", "than", "what", "they", "had", "before", "."], "e1_text": "was", "e1_pos": 24, "e2_text": "had", "e2_pos": 35, "label": "before"}
+]

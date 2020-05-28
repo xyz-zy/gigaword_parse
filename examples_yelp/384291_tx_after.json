@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "heat", "it", "up", "the", "next", "morning", "for", "brekky", "-LRB-", "breakfast", "of", "champions", "-RRB-", ",", "they", "were", "pretty", "decent", "after", "they", "softened", "up", "some", "."], "e1_text": "were", "e1_pos": 16, "e2_text": "softened", "e2_pos": 21, "label": "after"},
+{"tokens": ["After", "I", "said", "the", "cakes", "were", "dry", ",", "we", "did", "n't", "get", "much", "attention", ";", "even", "though", "I", "did", "n't", "really", "complain", ",", "I", "just", "told", "her", "they", "were", "dry", "after", "she", "asked", "me", "how", "they", "were", "...", "I", "ca", "n't", "help", "being", "honest", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "asked", "e2_pos": 32, "label": "after"}
+]

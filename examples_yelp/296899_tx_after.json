@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "coincidentally", ",", "I", "decided", "to", "give", "this", "place", "another", "try", "after", "I", "wrote", "this", "review", ",", "and", "I", "ca", "n't", "say", "that", "I", "will", "be", "back", "."], "e1_text": "give", "e1_pos": 6, "e2_text": "wrote", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "do", "n't", "know", "if", "the", "excitement", "got", "to", "me", "or", "what", "but", "for", "at", "least", "a", "month", "after", "I", "found", "this", "place", "I", "was", "in", "here", "every", "week", "at", "least", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "found", "e2_pos": 20, "label": "after"}
+]

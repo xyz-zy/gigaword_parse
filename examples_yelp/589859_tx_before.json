@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "just", "getting", "a", "slice", "for", "$", "2.50", "before", "you", "add", ".50", "cents", "for", "every", "topping", "you", "want", "to", "add", "on", "."], "e1_text": "getting", "e1_pos": 4, "e2_text": "add", "e2_pos": 12, "label": "before"},
+{"tokens": ["Music", "was", "LOUD", "and", "they", "id", "you", "before", "they", "even", "let", "you", "in", "."], "e1_text": "id", "e1_pos": 5, "e2_text": "let", "e2_pos": 10, "label": "before"}
+]

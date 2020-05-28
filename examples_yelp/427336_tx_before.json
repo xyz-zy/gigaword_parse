@@ -1,0 +1,3 @@
+[
+{"tokens": ["when", "i", "went", "to", "order", "the", "item", "that", "i", "'d", "been", "eyeing", "the", "whole", "time", "we", "were", "waiting", ",", "i", "was", "told", "that", "i", "could", "n't", "have", "it", "because", "they", "switched", "over", "their", "menus", "at", "11", ",", "even", "though", "we", "first", "got", "there", "long", "before", "."], "e1_text": "switched", "e1_pos": 30, "e2_text": "got", "e2_pos": 41, "label": "before"}
+]

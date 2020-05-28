@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "the", "people", "behind", "us", "got", "all", "of", "their", "orders", "including", "their", "shake", "before", "we", "did", "and", "when", "I", "asked", "the", "girl", "at", "the", "front", "where", "my", "shake", "was", ",", "she", "said", "they", "were", "making", "it", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "did", "e2_pos": 15, "label": "before"}
+]

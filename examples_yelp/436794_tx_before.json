@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "the", "buses", "were", "so", "late", "departing", ",", "we", "missed", "a", "rest", "stop", "and", "spent", "over", "3", "hours", "on", "the", "bus", "before", "lunch", ",", "which", "was", "at", "a", "buffet", "that", "had", "run", "out", "of", "food", "."], "e1_text": "spent", "e1_pos": 14, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "arrived", "at", "the", "Grand", "Canyon", "with", "less", "than", "90", "minutes", "before", "it", "was", "dark", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

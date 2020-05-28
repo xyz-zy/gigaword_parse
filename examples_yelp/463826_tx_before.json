@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "chicken", "sub", "and", "it", "'s", "something", "I", "have", "never", "tried", "before", "...", "to", "my", "surprise", "it", "was", "very", "tasty", "...", "The", "service", "was", "good", "and", "I", "was", "on", "my", "lunch", "break", "and", "was", "in", "and", "out", "of", "there", "in", "no", "time", "."], "e1_text": "'s", "e1_pos": 7, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

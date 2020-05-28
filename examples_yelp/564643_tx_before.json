@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "being", "greeted", "by", "the", "doorman", ",", "I", "was", "basically", "ignored", "for", "quite", "a", "bit", "before", "someone", "decided", "to", "approach", "me", "and", "ask", "if", "I", "needed", "help", "."], "e1_text": "ignored", "e1_pos": 10, "e2_text": "decided", "e2_pos": 17, "label": "before"},
+{"tokens": ["She", "definitely", "took", "her", "time", "finishing", "up", "whatever", "she", "was", "doing", "before", "heading", "back", "to", "grab", "paper", "."], "e1_text": "doing", "e1_pos": 10, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

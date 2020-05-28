@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "eggs", ",", "bacon", ",", "and", "potatoes", "were", "so", "good", "that", "after", "trying", "a", "few", "other", "items", ",", "I", "went", "back", "for", "seconds", "!"], "e1_text": "were", "e1_pos": 7, "e2_text": "trying", "e2_pos": 12, "label": "after"}
+]

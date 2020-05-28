@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bartender", "gave", "me", "a", "dirty", "look", "when", "I", "asked", "her", "for", "some", "change", "so", "I", "could", "go", "add", "time", "to", "my", "parking", "meter", "-LRB-", "since", "the", "food", "was", "taking", "so", "long", "...", "-RRB-", "and", "then", "made", "me", "wait", "about", "5", "mins", "while", "she", "tended", "to", "other", "guest", "before", "she", "got", "it", "for", "me", "."], "e1_text": "tended", "e1_pos": 44, "e2_text": "got", "e2_pos": 50, "label": "before"}
+]

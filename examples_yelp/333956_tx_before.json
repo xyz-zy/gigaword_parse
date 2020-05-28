@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "for", "dinner", "before", "heading", "off", "to", "the", "OSM", "for", "the", "evening", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "heading", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "was", "almost", "dreading", "going", "to", "a", "nicer", "place", "this", "evening", "given", "that", "I", "was", "in", "a", "cocktail", "dress", "and", "rocking", "Sorels", "thanks", "to", "the", "snowfall", "earlier", "that", "day", ",", "but", "the", "hostess", "happily", "checked", "my", "furry", "boots", "so", "that", "I", "could", "change", "into", "my", "heels", "before", "being", "seated", "."], "e1_text": "change", "e1_pos": 42, "e2_text": "being", "e2_pos": 47, "label": "before"}
+]

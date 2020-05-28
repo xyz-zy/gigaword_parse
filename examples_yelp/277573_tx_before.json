@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "glasses", "were", "never", "empty", "nor", "did", "we", "have", "to", "ask", "for", "anything", "we", "needed", "since", "it", "was", "provided", "to", "us", "even", "before", "we", "asked", "for", "it", "."], "e1_text": "provided", "e1_pos": 18, "e2_text": "asked", "e2_pos": 24, "label": "before"}
+]

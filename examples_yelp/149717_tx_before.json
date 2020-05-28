@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waited", "about", "4-6", "minutes", "before", "being", "greeted", "to", "be", "sat", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "being", "e2_pos": 5, "label": "before"},
+{"tokens": ["At", "this", "point", "I", "have", "about", "10", "minutes", "left", "before", "I", "need", "to", "leave", "for", "work", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "need", "e2_pos": 11, "label": "before"}
+]

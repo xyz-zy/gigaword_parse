@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "an", "appetizer", "which", "never", "did", "arrive", "even", "after", "we", "reminded", "our", "server", "."], "e1_text": "arrive", "e1_pos": 7, "e2_text": "reminded", "e2_pos": 11, "label": "after"},
+{"tokens": ["Our", "toddler", "even", "refused", "the", "fries", "and", "he", "eats", "everything", "!!", "We", "spoke", "with", "manager", "after", "paying", "and", "she", "offered", "a", "comp", "."], "e1_text": "spoke", "e1_pos": 12, "e2_text": "paying", "e2_pos": 16, "label": "after"}
+]

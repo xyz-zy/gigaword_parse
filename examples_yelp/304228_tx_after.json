@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "whizzed", "by", "this", "place", "shortly", "after", "it", "opened", ",", "and", "I", "was", "ecstatic", "."], "e1_text": "whizzed", "e1_pos": 1, "e2_text": "opened", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "pedicurist", "did", "n't", "give", "me", "the", "foot", "and", "leg", "massage", "I", "was", "hoping", "for", "even", "after", "I", "told", "her", "to", "knead", "harder", "."], "e1_text": "hoping", "e1_pos": 13, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

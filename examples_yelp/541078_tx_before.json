@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "i.e.", ":", "took", "strep", "swab", "and", "insisted", "on", "waiting", "for", "results", "before", "taking", "flu", "test", ",", "left", "her", "waiting", "for", "more", "than", "15", "minutes", "for", "strep", "results", ",", "finally", "gave", "her", "flu", "test", "and", "DISAPPEARED", "for", "almost", "an", "HOUR", "!", "-RRB-"], "e1_text": "waiting", "e1_pos": 9, "e2_text": "taking", "e2_pos": 13, "label": "before"}
+]

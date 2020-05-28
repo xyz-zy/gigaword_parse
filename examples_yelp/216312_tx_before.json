@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "your", "food", "and", "I", "am", "a", "regular", "but", "I", "can", "only", "do", "this", "so", "much", "before", "I", "stop", "coming", "abd", "also", "tell", "my", "friends", "not", "to", "come", "anymore", "."], "e1_text": "do", "e1_pos": 13, "e2_text": "stop", "e2_pos": 19, "label": "before"}
+]

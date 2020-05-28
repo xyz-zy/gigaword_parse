@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bad", "part", "is", ",", "the", "line", "was", "so", "short", "and", "in", "fact", ",", "there", "was", "only", "8", "people", "ahead", "of", "us", "and", "it", "took", "us", "over", "an", "hour", "before", "they", "let", "us", "in", "."], "e1_text": "took", "e1_pos": 24, "e2_text": "let", "e2_pos": 31, "label": "before"}
+]

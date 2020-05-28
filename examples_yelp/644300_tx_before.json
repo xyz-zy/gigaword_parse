@@ -1,0 +1,4 @@
+[
+{"tokens": ["Again", ",", "I", "should", "have", "realized", "before", "I", "left", ",", "but", "I", "felt", "like", "I", "was", "under", "a", "lot", "of", "pressure", "."], "e1_text": "realized", "e1_pos": 5, "e2_text": "left", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "were", "there", "to", "clear", "the", "air", "and", "talk", "with", "the", "owner", "before", "writing", "a", "bad", "review", "somewhere", "."], "e1_text": "talk", "e1_pos": 8, "e2_text": "writing", "e2_pos": 13, "label": "before"}
+]

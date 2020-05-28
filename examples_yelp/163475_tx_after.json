@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "definitely", "giving", "them", "1", "stars", "now", "because", "I", "just", "found", "out", "they", "charged", "an", "extra", "$", "8", "to", "my", "credit", "card", "after", "i", "'ve", "checked", "out", "."], "e1_text": "charged", "e1_pos": 14, "e2_text": "'ve", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "know", "$", "8", "it", "'s", "not", "outrageous", ",", "but", "it", "'s", "shady", "that", "they", "charge", "shit", "to", "your", "card", "without", "your", "authorization", ",", "without", "letting", "you", "know", "what", "it", "'s", "for", ",", "and", "after", "you", "'ve", "checked", "out", "."], "e1_text": "know", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 36, "label": "after"}
+]

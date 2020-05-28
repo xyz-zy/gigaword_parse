@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "dig", "up", "anything", "negative", ",", "although", "I", "have", "yet", "to", "come", "across", "anyone", "who", "has", "heard", "of", "or", "used", "their", "services", "before", "."], "e1_text": "come", "e1_pos": 13, "e2_text": "has", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "never", "received", "any", "notification", "so", "I", "called", "back", "today", "before", "purchasing", "the", "Groupon", "to", "confirm", "and", "was", "informed", "that", "since", "my", "dog", "would", "be", "staying", "from", "midday", "Monday", "through", "the", "late", "afternoon", "Wednesday", ",", "I", "would", "be", "charged", "for", "another", "day", "of", "boarding", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "purchasing", "e2_pos": 11, "label": "before"}
+]

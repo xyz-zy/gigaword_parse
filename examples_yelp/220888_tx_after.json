@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "there", "one", "Saturday", "at", "1am", "after", "seeing", "a", "movie", "and", "the", "host", "told", "us", "we", "had", "a", "30", "min", "wait", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 7, "label": "after"},
+{"tokens": ["When", "it", "was", "time", "to", "leave", ",", "we", "had", "to", "wait", "for", "the", "check", "for", "more", "than", "20", "mins", "after", "we", "ate", "."], "e1_text": "wait", "e1_pos": 10, "e2_text": "ate", "e2_pos": 21, "label": "after"}
+]

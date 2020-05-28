@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "toast", "them", "up", "in", "the", "toaster", "oven", "before", "eating", ",", "so", "they", "'re", "warm", "and", "very", "flaky", "!", "-RRB-"], "e1_text": "toast", "e1_pos": 2, "e2_text": "eating", "e2_pos": 10, "label": "before"},
+{"tokens": ["Day-old", "pastries", "can", "be", "bought", "at", "a", "discount", ",", "so", "come", "in", "before", "they", "close", "for", "deals", "on", "your", "favorite", "stuff", "--", "I", "have", "n't", "been", "lucky", "though", ",", "as", "none", "of", "my", "faves", "stay", "long", "on", "the", "shelves", "."], "e1_text": "come", "e1_pos": 10, "e2_text": "close", "e2_pos": 14, "label": "before"}
+]

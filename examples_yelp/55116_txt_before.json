@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "realized", "that", "I", "was", "never", "particularly", "fond", "of", "their", "burger", ",", "which", "is", "what", "I", "used", "to", "order", "before", "I", "discovered", "that", "their", "BBQ", "Pulled", "Pork", "Sandwich", "was", "the", "best", "thing", "ever", "."], "e1_text": "order", "e1_pos": 18, "e2_text": "discovered", "e2_pos": 21, "label": "before"},
+{"tokens": ["Those", "butter", "rolls", "are", "so", "addictive", "that", "I", "am", "almost", "full", "before", "the", "main", "course", "even", "arrives", "."], "e1_text": "am", "e1_pos": 8, "e2_text": "arrives", "e2_pos": 16, "label": "before"}
+]

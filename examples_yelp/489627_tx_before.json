@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "table", "was", "''", "``", "ready", "''", "''", "before", "everyone", "in", "the", "party", "had", "arrived", "and", "they", "said", "they", "could", "hold", "it", "for", "5", "more", "minutes", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "said", "that", "was", "fine", ",", "they", "should", "be", "here", "any", "minute", ",", "and", "to", "please", "let", "me", "know", "before", "they", "gave", "our", "table", "away", "-LRB-", "I", "was", "sitting", "at", "the", "bar", "close", "to", "the", "hostess", "stand", "and", "they", "had", "my", "cell", "phone", "number", "-RRB-", "."], "e1_text": "know", "e1_pos": 18, "e2_text": "gave", "e2_pos": 21, "label": "before"},
+{"tokens": ["Needless", "to", "say", ",", "I", "was", "pretty", "pissed", "-", "especially", "as", "it", "had", "been", "exactly", "5", "minutes", "and", "they", "agreed", "to", "let", "me", "know", "before", "giving", "away", "the", "table", "."], "e1_text": "know", "e1_pos": 23, "e2_text": "giving", "e2_pos": 25, "label": "before"}
+]

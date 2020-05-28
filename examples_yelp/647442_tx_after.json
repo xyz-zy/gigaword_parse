@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "arrived", "cold", ",", "the", "brisket", "was", "more", "fat", "than", "meat", "and", "not", "very", "tender", ",", "the", "ribs", "were", "dry", "and", "unappealing", ";", "the", "mac", "and", "cheese", "side", "was", "bland", "and", "had", "not", "a", "taste", "of", "cheese", ";", "one", "of", "my", "dining", "companions", "sent", "his", "brisket", "back", "in", "exchange", "for", "the", "pulled", "pork", "but", ",", "after", "arriving", "looking", "like", "half", "a", "football", ",", "it", "too", "was", "sent", "back", "."], "e1_text": "sent", "e1_pos": 44, "e2_text": "arriving", "e2_pos": 57, "label": "after"}
+]

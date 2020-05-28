@@ -1,0 +1,3 @@
+[
+{"tokens": ["Long", "story", "short", ",", "Michelangelo", "'s", "was", "the", "last", "coffee", "shop", "on", "State", "before", "I", "hit", "the", "Capitol", ",", "so", "I", "decided", "to", "pop", "in", "and", "grab", "a", "coffee", "and", "quick", "breakfast", "before", "starting", "my", "day", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "hit", "e2_pos": 15, "label": "before"}
+]

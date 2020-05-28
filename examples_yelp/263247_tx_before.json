@@ -1,0 +1,4 @@
+[
+{"tokens": ["Seriously", "I", "'ll", "be", "buying", "one", "item", ",", "and", "the", "clerk", "will", "type", "away", "at", "the", "register", ",", "he", "'ll", "ask", "for", "my", "phone", "number", "-LRB-", "I", "'ll", "decline", "-RRB-", "and", "he", "'ll", "type", "again", "before", "finally", "scanning", "my", "item", "."], "e1_text": "type", "e1_pos": 12, "e2_text": "scanning", "e2_pos": 37, "label": "before"},
+{"tokens": ["It", "just", "seems", "excessive", ",", "their", "corporation", "must", "have", "them", "submit", "a", "300-word", "essay", "before", "they", "are", "allowed", "to", "ring", "up", "the", "sale", "!"], "e1_text": "submit", "e1_pos": 10, "e2_text": "are", "e2_pos": 16, "label": "before"}
+]

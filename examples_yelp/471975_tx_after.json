@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "a", "bit", "hungry", "so", "we", "were", "thinking", "of", "ordering", "some", "more", "food", "after", "we", "put", "our", "order", "in", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "put", "e2_pos": 16, "label": "after"},
+{"tokens": ["As", "for", "the", "S'mores", "Concoction", ",", "two", "words", "came", "to", "mind", "after", "tasting", "it", "."], "e1_text": "mind", "e1_pos": 10, "e2_text": "tasting", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "gone", "to", "Yolie", "'s", "many", "times", "in", "the", "past", "when", "I", "had", "visited", "Las", "Vegas", "but", "had", "n't", "been", "there", "for", "at", "least", "5", "years", "before", "I", "ate", "there", "last", "night", "."], "e1_text": "been", "e1_pos": 20, "e2_text": "ate", "e2_pos": 29, "label": "before"},
+{"tokens": ["After", ",", "what", "I", "'m", "assuming", "was", "the", "owner", ",", "gave", "his", "little", "introductory", "speech", "and", "left", ",", "we", "waited", "about", "15", "min", "before", "we", "had", "to", "flag", "someone", "down", "for", "drinks", "."], "e1_text": "waited", "e1_pos": 19, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

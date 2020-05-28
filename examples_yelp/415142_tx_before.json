@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "looked", "liked", "the", "product", "spilled", "over", "the", "entire", "shipment", "and", "no", "one", "bothered", "to", "wipe", "the", "bottles", "clean", "before", "putting", "them", "on", "display", "."], "e1_text": "wipe", "e1_pos": 15, "e2_text": "putting", "e2_pos": 20, "label": "before"}
+]

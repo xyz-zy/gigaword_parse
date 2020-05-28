@@ -1,0 +1,3 @@
+[
+{"tokens": ["Got", "to", "the", "front", "counter", "before", "anyone", "had", "answered", "the", "phone", "yet", "-LRB-", "it", "was", "on", "automated", "pick", "up", "for", "4", "minutes", "-RRB-", "when", "I", "got", "there", "the", "phone", "was", "ringing", "so", "I", "hung", "up", "my", "phone", "so", "it", "would", "stop", "ringing", "."], "e1_text": "counter", "e1_pos": 4, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

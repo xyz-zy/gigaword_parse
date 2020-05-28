@@ -1,0 +1,3 @@
+[
+{"tokens": ["TIP", ":", "Hotel", "bar", "and", "restaurant", "bar", "have", "different", "liquor", "licenses", ",", "so", "make", "sure", "to", "finish", "your", "hotel", "bar", "drink", "before", "going", "into", "the", "restaurant", "."], "e1_text": "drink", "e1_pos": 20, "e2_text": "going", "e2_pos": 22, "label": "before"}
+]

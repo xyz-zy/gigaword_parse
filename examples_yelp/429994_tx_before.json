@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "before", "going", "because", "it", "is", "located", "in", "an", "airport", "-LRB-", "a", "tiny", "one", "-RRB-", "&", "I", "wanted", "to", "make", "sure", "I", "would", "n't", "have", "to", "take", "dirty", "pics", "just", "to", "eat", "breakfast", ":-RRB-", "It", "is", "located", "at", "the", "main", "terminal", "of", "this", "tiny", "airport", "&", "it", "'s", "immediately", "to", "your", "left", "when", "you", "walk", "in", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "'s", "e2_pos": 48, "label": "before"},
+{"tokens": ["Before", "we", "left", "she", "announced", "that", "she", "eyeballed", "the", "menu", "before", "giving", "it", "back", "&", "next", "time", "she", "'s", "getting", "the", "Philly", "cheese", "steak", "sandwich", "."], "e1_text": "eyeballed", "e1_pos": 7, "e2_text": "giving", "e2_pos": 11, "label": "before"}
+]

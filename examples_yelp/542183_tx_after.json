@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "vegetable", "order", "-", "which", "was", "placed", "less", "than", "3", "minutes", "after", "my", "partner", "placed", "his", "Mongolian", "beef", "order", "-", "was", "also", "delivered", "15", "minutes", "after", "he", "was", "served", "-LRB-", "again", "she", "blamed", "the", "chef", ".", "-RRB-", "."], "e1_text": "placed", "e1_pos": 6, "e2_text": "placed", "e2_pos": 14, "label": "after"}
+]

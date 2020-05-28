@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "hair", "was", "SUPER", "dry", "and", "frizzy", "more", "so", "than", "ever", "before", "so", "I", "dumped", "my", "homemade", "hair", "oil", "to", "counteract", "this", "hair", "disaster", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "dumped", "e2_pos": 14, "label": "before"},
+{"tokens": ["Do", "n't", "be", "an", "ignoramus", "like", "me", "and", "read", "your", "labels", "before", "buying", "product", "from", "seemingly", "well-intentioned", "companies", "."], "e1_text": "read", "e1_pos": 8, "e2_text": "buying", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["should", "have", "asked", "for", "a", "manager", "in", "retrospect", "-RRB-", "but", "we", "wanted", "to", "make", "it", "to", "the", "spa", "before", "it", "closed", "at", "7pm", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "closed", "e2_pos": 20, "label": "before"}
+]

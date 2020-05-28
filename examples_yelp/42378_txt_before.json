@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "stopped", "off", "twice", "during", "the", "week", "...", "once", "for", "lunch", "and", "a", "second", "time", "for", "breakast", "before", "driving", "out", "of", "town", "-LRB-", "because", "we", "liked", "it", "so", "much", "-RRB-", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "driving", "e2_pos": 18, "label": "before"}
+]

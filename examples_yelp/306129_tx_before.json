@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "even", "sets", "up", "her", "last", "song", "with", "sincere", "gravity", "and", "starts", "to", "sing", "the", "opening", "bars", "of", "Celine", "'s", "''", "``", "My", "Heart", "Goes", "On", "''", "''", "before", "taking", "things", "more", "seriously", "with", "''", "``", "Wind", "Beneath", "My", "Wings", "''", "''", "."], "e1_text": "Goes", "e1_pos": 24, "e2_text": "taking", "e2_pos": 29, "label": "before"},
+{"tokens": ["Jamie", "W.", "and", "I", "had", "great", "seats", "in", "the", "rear", "orchestra", "section", "which", "cost", "us", "$", "145", "a", "piece", "the", "day", "before", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "cost", "e2_pos": 13, "label": "before"}
+]

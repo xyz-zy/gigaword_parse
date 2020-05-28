@@ -1,0 +1,4 @@
+[
+{"tokens": ["Skip", "refused", "to", "give", "his", "name", "or", "company", "name", "repeatedly", "after", "the", "service", "call", "went", "horribly", "bad", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "went", "e2_pos": 14, "label": "after"},
+{"tokens": ["He", "hung", "up", "on", "us", "after", "we", "requested", "his", "company", "info", "."], "e1_text": "hung", "e1_pos": 1, "e2_text": "requested", "e2_pos": 7, "label": "after"}
+]

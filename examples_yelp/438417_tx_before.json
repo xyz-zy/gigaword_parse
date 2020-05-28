@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wo", "n't", "even", "wait", "until", "my", "issue", "with", "them", "is", "resolved", "before", "writing", "this", "post", "just", "in", "case", "someone", "is", "thinking", "of", "taking", "their", "car", "here", "."], "e1_text": "resolved", "e1_pos": 11, "e2_text": "writing", "e2_pos": 13, "label": "before"},
+{"tokens": ["Time", "passes", "before", "another", "call", "at", "around", "6:45", "."], "e1_text": "passes", "e1_pos": 1, "e2_text": "call", "e2_pos": 4, "label": "before"}
+]

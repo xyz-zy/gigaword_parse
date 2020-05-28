@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "seems", "as", "the", "previous", "occupant", "was", "a", "comedian", "and", "decided", "to", "lock", "a", "water", "bottle", "in", "the", "safe", "before", "he", "left", "."], "e1_text": "lock", "e1_pos": 12, "e2_text": "left", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "will", "try", "to", "enjoy", "this", "again", "in", "the", "morning", "before", "I", "head", "back", "to", "LA.", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "head", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "only", "ordered", "a", "couple", "drinks", "and", "an", "appetizer", "sampler", ",", "but", "the", "waitress", "was", "sure", "to", "tell", "us", "all", "her", "favorites", "on", "the", "menu", "and", "make", "a", "lot", "of", "suggestions", "before", "we", "ordered", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "ordered", "e2_pos": 2, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "told", "the", "server", ",", "he", "reaches", "onto", "our", "plate", "and", "grabs", "a", "wing", "off", "of", "it", ",", "then", "says", "''", "``", "yea", ",", "you", "'re", "right", ",", "let", "me", "tell", "the", "cook", "''", "''", "He", "comes", "back", "out", "and", "takes", "another", "wing", "off", "the", "plate", "to", "''", "``", "check", "if", "they", "'re", "all", "cold", "''", "''", "at", "this", "point", "I", "do", "n't", "want", "any", "of", "the", "food", "on", "the", "plate", "after", "his", "hands", "have", "been", "in", "it", "."], "e1_text": "want", "e1_pos": 63, "e2_text": "have", "e2_pos": 74, "label": "after"}
+]

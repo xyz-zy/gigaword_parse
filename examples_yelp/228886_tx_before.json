@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "left", "before", "entering", "completely", "-", "but", "I", "was", "just", "worn", "out", "and", "thought", "surely", "it", "could", "n't", "be", "that", "bad", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "entering", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "was", "12:30", "-", "only", "2", "other", "tables", "straggled", "in", "before", "I", "left", "at", "1:30", "--", "and", "it", "'s", "near", "campus", "."], "e1_text": "straggled", "e1_pos": 8, "e2_text": "left", "e2_pos": 12, "label": "before"}
+]

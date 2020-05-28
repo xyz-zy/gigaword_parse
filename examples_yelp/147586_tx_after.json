@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "lady", "came", "to", "take", "our", "order", "but", "BEFORE", "greeting", "us", "she", "made", "an", "ugly", "face", "and", "told", "us", "in", "a", "bad", "mood", "than", "they", "were", "closing", "at", "9.30", "pm", ",", "I", "was", "asking", "questions", "about", "veggies", "in", "some", "dishes", ",", "after", "answering", "1", "or", "2", ",", "she", "said", "we", "needed", "to", "hurry", "up", "as", "they", "were", "closing", "in", "20", "minutes", "refusing", "to", "answer", "additional", "questions", "."], "e1_text": "asking", "e1_pos": 33, "e2_text": "answering", "e2_pos": 42, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "time", "it", "was", "full", "of", "noisy", "children", ",", "both", "outdoors", "and", "in", "...", "I", "mentioned", "this", "observation", "to", "a", "librarian", "after", "waiting", "for", "her", "to", "finish", "discussing", "w", "\\/", "another", "librarian", "how", "a", "group", "of", "unruly", "children", "must", "be", "addressed", "-LRB-", "they", "'d", "been", "warned", "twice", "already", "-RRB-", ",", "and", "she", "told", "me", "that", "the", "best", "times", "to", "visit", "is", "in", "the", "mornings", "and", "evenings", "."], "e1_text": "mentioned", "e1_pos": 15, "e2_text": "waiting", "e2_pos": 22, "label": "after"}
+]

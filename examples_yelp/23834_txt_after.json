@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "may", "not", "seem", "possible", "after", "you", "'ve", "had", "a", "Kosher", "meal", ",", "but", "it", "turns", "out", "that", "the", "food", "tends", "to", "get", "even", "blander", "the", "more", "ingredients", "that", "are", "not", "allowed", "."], "e1_text": "seem", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 7, "label": "after"},
+{"tokens": ["Besides", ",", "it", "'s", "nice", "to", "have", "some", "more", "leftovers", "after", "I", "am", "done", "eating", "the", "leftover", "brisket", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "am", "e2_pos": 12, "label": "after"}
+]

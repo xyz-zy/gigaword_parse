@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "office", "manager", "agreed", "to", "call", "LabCorp", "and", "negotiate", "a", "discount", "due", "to", "their", "error", "even", "after", "I", "advised", "that", "I", "would", "not", "be", "coming", "back", "to", "the", "clinic", "."], "e1_text": "negotiate", "e1_pos": 8, "e2_text": "advised", "e2_pos": 18, "label": "after"}
+]

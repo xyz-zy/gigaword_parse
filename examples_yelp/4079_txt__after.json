@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "rice", "was", "tough", "-LRB-", "probably", "not", "fully", "cooked", "once", "again", "-RRB-", ",", "and", "the", "spices", "were", "arbitrary", "to", "the", "chicken", "itself", ",", "as", "though", "they", "were", "thrown", "in", "after", "the", "chicken", "was", "already", "cooked", "."], "e1_text": "thrown", "e1_pos": 27, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "drinks", "-LRB-", "which", "are", "also", "discounted", "-RRB-", "and", "found", "that", "one", "after", "the", "other", "we", "tried", "were", "not", "very", "strong", "and", "mostly", "syrup", "."], "e1_text": "found", "e1_pos": 10, "e2_text": "tried", "e2_pos": 17, "label": "after"}
+]

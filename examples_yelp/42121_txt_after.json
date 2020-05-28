@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "chose", "a", "$", "56", "bottle", "of", "Oberon", "after", "paying", "about", "8", "dollars", "for", "2", "tastes", "."], "e1_text": "chose", "e1_pos": 2, "e2_text": "paying", "e2_pos": 10, "label": "after"},
+{"tokens": ["And", "the", "busboys", "were", "intrusive", "coming", "to", "collect", "plates", "seconds", "after", "it", "appeared", "we", "were", "finished", "with", "them", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "appeared", "e2_pos": 12, "label": "after"}
+]

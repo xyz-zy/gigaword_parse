@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "dinner", "at", "Luna", "by", "myself", "after", "the", "place", "was", "recommended", "to", "me", "by", "a", "friend", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["Funny", "how", "she", "said", "she", "was", "sorry", "after", "I", "told", "her", "I", "was", "visiting", "from", "NYC", "...", "sure", ",", "the", "dining", "scene", "and", "the", "nightlife", "in", "Champaign", "are", "n't", "exactly", "the", "most", "vibrant", ",", "but", "this", "place", "demonstrates", "that", "there", "are", "a", "few", "nice", "places", "to", "go", "to", "after", "all", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "told", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "landing", "from", "an", "8", "flight", "and", "driving", "directly", "from", "LHR", "to", "Edinburgh", ",", "suffering", "motion", "sickness", "after", "not", "being", "able", "to", "stand", "still", "for", "long", "before", "getting", "in", "the", "car", "for", "our", "drive", ",", "and", "being", "exhausted", ",", "we", "arrived", "in", "Edinburgh", "starving", "."], "e1_text": "suffering", "e1_pos": 14, "e2_text": "being", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "searched", "the", "streets", "close", "to", "9-ish", "looking", "for", "somewhere", "to", "eat", "after", "we", "spent", "some", "time", "relaxing", "in", "the", "Apex", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "spent", "e2_pos": 14, "label": "after"}
+]

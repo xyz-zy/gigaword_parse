@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "had", "a", "trip", "with", "them", "and", "I", "called", "to", "2", "days", "after", "making", "the", "reservation", "to", "confirm", "-", "quoted", "rate", "was", "$", "41", "+", "$", "5", "surcharge", "."], "e1_text": "called", "e1_pos": 9, "e2_text": "making", "e2_pos": 14, "label": "after"},
+{"tokens": ["My", "flight", "arrival", "was", "delayed", "an", "hour", "but", "I", "was", "contacted", "upon", "arrival", "and", "notified", "that", "cars", "were", "ready", "to", "pick", "me", "up", "after", "I", "had", "retrieved", "my", "luggage", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "had", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "stayed", "here", "the", "night", "before", "we", "left", "for", "our", "trip", "across", "the", "country", ",", "and", "as", "with", "most", "of", "our", "stops", ",", "we", "chose", "LQ", "because", "of", "its", "pet", "policy", "-LRB-", "pets", "stay", "free", "-RRB-", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "before"}
+]

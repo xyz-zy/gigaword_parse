@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "was", "from", "out", "of", "town", "I", "decided", "to", "give", "them", "a", "call", "and", "confirm", "there", "hours", ",", "I", "was", "told", "last", "order", "is", "an", "hour", "before", "the", "restaurant", "closes", "."], "e1_text": "is", "e1_pos": 24, "e2_text": "closes", "e2_pos": 30, "label": "before"},
+{"tokens": ["We", "mentioned", "to", "him", "that", "we", "called", "and", "they", "said", "as", "long", "as", "we", "come", "an", "hour", "before", "closing", "we", "would", "be", "served", "."], "e1_text": "come", "e1_pos": 14, "e2_text": "closing", "e2_pos": 18, "label": "before"}
+]

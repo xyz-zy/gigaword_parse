@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "one", "said", "anything", "after", "they", "bandaged", "it", "but", "what", "a", "nice", "dog", "he", "is", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "bandaged", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "only", "time", "the", "surgeon", "even", "bothered", "to", "check", "on", "the", "dog", "was", "after", "I", "refused", "to", "make", "any", "more", "follow-up", "visits", "-LRB-", "they", "charge", "extra", "for", "follow-up", "exams", "after", "surgery", "!"], "e1_text": "was", "e1_pos": 12, "e2_text": "refused", "e2_pos": 15, "label": "after"}
+]

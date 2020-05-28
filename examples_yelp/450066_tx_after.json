@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "at", "the", "bar", "...", "the", "bartender", "that", "was", "there", "when", "we", "arrived", "was", "an", "asshole", "with", "no", "concept", "of", "good", "customer", "service", ",", "and", "was", "joined", "shortly", "after", "we", "sat", "down", "by", "a", "pompous", "asshole", "who", "also", "had", "no", "concept", "of", "good", "customer", "service", "."], "e1_text": "joined", "e1_pos": 27, "e2_text": "sat", "e2_pos": 1, "label": "after"},
+{"tokens": ["So", "the", "food", "would", "be", "20", "minutes", "+", "the", "amount", "of", "time", "it", "actually", "took", "to", "prepare", "the", "food", "after", "it", "was", "ordered", "."], "e1_text": "prepare", "e1_pos": 16, "e2_text": "was", "e2_pos": 21, "label": "after"}
+]

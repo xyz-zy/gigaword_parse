@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "explained", "it", "had", "never", "been", "that", "way", "before", "."], "e1_text": "explained", "e1_pos": 1, "e2_text": "had", "e2_pos": 3, "label": "before"},
+{"tokens": ["Regardless", ",", "it", "'s", "going", "to", "be", "a", "little", "while", "before", "I", "go", "back", ";", "I", "do", "n't", "usually", "have", "90", "+", "minutes", "to", "waste", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "there", "'s", "a", "law", "that", "your", "not", "suppose", "to", "keep", "serving", "someone", "who", "is", "intoxicated", ",", "...", "kept", "bringing", "drinks", "even", "after", "I", "told", "her", "myself", "multiple", "times", "to", "not", "bring", "it", "."], "e1_text": "bringing", "e1_pos": 20, "e2_text": "told", "e2_pos": 25, "label": "after"},
+{"tokens": ["Yes", "I", "walked", "out", "cause", "my", "request", "was", "ignored", "and", "ya", "wanted", "to", "make", "$", "$", "$", "...", "even", "after", "I", "repeatedly", "told", "your", "wait", "staff", "NO", "MORE", "DRINKS", "!"], "e1_text": "make", "e1_pos": 13, "e2_text": "told", "e2_pos": 22, "label": "after"}
+]

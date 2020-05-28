@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "mattress", "came", "on", "the", "2nd", "day", "when", "I", "requested", "it", "again", "after", "asking", "if", "we", "can", "move", "to", "another", "room", "."], "e1_text": "requested", "e1_pos": 9, "e2_text": "asking", "e2_pos": 13, "label": "after"}
+]

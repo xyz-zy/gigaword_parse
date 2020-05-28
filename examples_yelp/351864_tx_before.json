@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ll", "agree", "that", "the", "fairly", "unique", "menu", "at", "True", "Food", "is", "what", "will", "draw", "folks", "in", "and", "the", "decor", "is", "beautiful", ",", "but", "the", "sales", "nature", "of", "the", "service", "and", "the", "talk", "up", "of", "menu", "items", "is", "enough", "to", "make", "me", "pause", "before", "I", "think", "about", "heading", "back", "."], "e1_text": "pause", "e1_pos": 42, "e2_text": "think", "e2_pos": 45, "label": "before"}
+]

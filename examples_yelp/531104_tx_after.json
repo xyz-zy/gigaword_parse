@@ -1,0 +1,3 @@
+[
+{"tokens": ["15", "minutes", "wait", "to", "have", "a", "server", "come", "to", "the", "table", "15", "minutes", "wait", "to", "get", "the", "drinks", "we", "ordered", "15", "minutes", "wait", "to", "get", "a", "refill", "on", "water", "15", "minutes", "wait", "to", "get", "our", "food", "15", "minutes", "wait", "to", "get", "a", "''", "``", "to", "go", "''", "''", "box", "after", "we", "ate", "15", "minutes", "wait", "to", "get", "our", "bill", "...", "and", "only", "took", "us", "10", "minutes", "to", "eat", "."], "e1_text": "wait", "e1_pos": 22, "e2_text": "ate", "e2_pos": 51, "label": "after"}
+]

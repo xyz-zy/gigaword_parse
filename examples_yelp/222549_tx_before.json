@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "Fukuda", "last", "night", "for", "dinner", "after", "a", "trip", "to", "the", "Galleria", "Mall", "before", "we", "hit", "the", "movie", "theater", "and", "we", "were", "both", "extremely", "impressed", "with", "our", "sushi", "."], "e1_text": "Tried", "e1_pos": 0, "e2_text": "hit", "e2_pos": 15, "label": "before"},
+{"tokens": ["Seems", "like", "were", "were", "arrived", "just", "before", "the", "Saturday", "night", "rush", "as", "well", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "rush", "e2_pos": 10, "label": "before"}
+]

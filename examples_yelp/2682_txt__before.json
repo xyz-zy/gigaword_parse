@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "the", "play-by-play", ":", "Me", ":", "Uhhhh", ",", "I", "do", "n't", "think", "this", "was", "on", "the", "boots", "before", "."], "e1_text": "think", "e1_pos": 12, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["-LRB-", "Get", "out", "my", "phone", "for", "the", "photo", "I", "took", "of", "the", "boots", "before", "dropping", "them", "off", ".", "-RRB-"], "e1_text": "took", "e1_pos": 9, "e2_text": "dropping", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Friend", "got", "the", "ribs", "and", "said", "they", "were", "okay", "...", "regretted", "not", "getting", "the", "brisket", "since", "it", "looked", "like", "that", "was", "what", "Bryan", "'s", "was", "known", "for", "after", "seeing", "all", "the", "plaques", "on", "the", "wall", "."], "e1_text": "known", "e1_pos": 25, "e2_text": "seeing", "e2_pos": 28, "label": "after"},
+{"tokens": ["We", "took", "advantage", "of", "that", "patio", "long", "after", "they", "had", "closed", "but", "no", "one", "ever", "made", "us", "feel", "rushed", "or", "in", "the", "way", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

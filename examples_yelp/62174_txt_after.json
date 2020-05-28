@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stumbled", "on", "it", "after", "a", "get", "together", "with", "some", "friends", "after", "our", "first", "semester", "of", "radiology", "school", "ended", "."], "e1_text": "stumbled", "e1_pos": 1, "e2_text": "get", "e2_pos": 6, "label": "after"},
+{"tokens": ["Beef", "tongue", "--", "I", "was", "very", "skeptical", "about", "this", "one", "at", "first", "but", "after", "taking", "a", "chance", "to", "try", "it", ",", "it", "'s", "really", "flavorful", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "taking", "e2_pos": 14, "label": "after"}
+]

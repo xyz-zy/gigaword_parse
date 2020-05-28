@@ -1,0 +1,4 @@
+[
+{"tokens": ["that", "would", "be", "fine", "IF", "they", "told", "us", "while", "we", "were", "ordering", "and", "not", "after", "we", "order", "and", "are", "already", "paying", "for", "our", "order", "at", "the", "window", "!"], "e1_text": "be", "e1_pos": 2, "e2_text": "order", "e2_pos": 16, "label": "after"},
+{"tokens": ["why", "is", "it", "so", "hard", "to", "get", "the", "order", "right", "even", "after", "you", "repeat", "it", "back", "?"], "e1_text": "get", "e1_pos": 6, "e2_text": "repeat", "e2_pos": 13, "label": "after"}
+]

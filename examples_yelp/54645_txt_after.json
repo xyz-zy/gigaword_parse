@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "kids", "do", "n't", "get", "sick", "after", "eating", "here", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "eating", "e2_pos": 7, "label": "after"},
+{"tokens": ["A", "sure", "way", "to", "know", "is", "based", "off", "if", "you", "get", "sick", "after", "eating", "here", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "eating", "e2_pos": 13, "label": "after"}
+]

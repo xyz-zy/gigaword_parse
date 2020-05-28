@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "collect", "after", "this", "time", ",", "the", "woman", "on", "the", "till", "took", "my", "money", "-LRB-", "more", "than", "the", "advertised", "amount", "-RRB-", "but", "then", "it", "became", "clear", "my", "food", "had", "n't", "been", "cooked", "-LRB-", "so", "why", "take", "my", "money", "?", "-RRB-", "."], "e1_text": "collect", "e1_pos": 3, "e2_text": "took", "e2_pos": 13, "label": "after"}
+]

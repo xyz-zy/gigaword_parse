@@ -1,0 +1,4 @@
+[
+{"tokens": ["Come", "4\\/23", "I", "woke", "up", "after", "little", "sleep", "at", "8:30", "am", "I", "call", "and", "get", "Crystal", "over", "the", "phone", "."], "e1_text": "woke", "e1_pos": 3, "e2_text": "am", "e2_pos": 10, "label": "after"},
+{"tokens": ["My", "friend", "who", "had", "come", "with", "me", "on", "this", "vacation", "also", "got", "in", "contact", "with", "Crystal", "shortly", "after", "i", "had", "gotten", "off", "the", "phone", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "had", "e2_pos": 3, "label": "after"}
+]

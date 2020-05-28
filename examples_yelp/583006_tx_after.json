@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "pissed", "me", "off", "was", "no", "one", "checked", "on", "our", "table", "after", "delivering", "the", "food", "until", "AFTER", "we", "'ve", "finished", "...", "we", "ordered", "dessert", "because", "we", "bought", "this", "groupon", "that", "required", "us", "to", "spend", "$", "200", "to", "make", "it", "worth", "our", "while", "."], "e1_text": "checked", "e1_pos": 7, "e2_text": "delivering", "e2_pos": 12, "label": "after"}
+]

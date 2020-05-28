@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cake", "was", "gooey", ",", "delicious", "and", "hot", ",", "and", "was", "swiped", "without", "question", "after", "we", "slowed", "down", "even", "though", "there", "was", "still", "nearly", "half", "of", "it", "left", "."], "e1_text": "swiped", "e1_pos": 11, "e2_text": "slowed", "e2_pos": 16, "label": "after"}
+]

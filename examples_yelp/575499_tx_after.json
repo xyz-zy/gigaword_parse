@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "just", "me", "and", "a", "friend", "there", "for", "lunch", ",", "and", "a", "party", "of", "6", "that", "arrive", "after", "us", "ended", "up", "getting", "their", "food", "before", "us", "."], "e1_text": "arrive", "e1_pos": 17, "e2_text": "ended", "e2_pos": 20, "label": "after"},
+{"tokens": ["A", "party", "of", "2", "that", "arrived", "after", "us", "got", "drinks", ",", "ate", "their", "entire", "lunch", ",", "paid", "the", "bill", "and", "left", "LONG", "before", "we", "even", "got", "our", "food", "."], "e1_text": "arrived", "e1_pos": 5, "e2_text": "got", "e2_pos": 8, "label": "after"}
+]

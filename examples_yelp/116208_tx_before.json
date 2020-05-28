@@ -1,0 +1,4 @@
+[
+{"tokens": ["Major", "safety", "concern", "-LRB-", "see", "photo", "-RRB-", "Bed", "5", "-", "Fan", "and", "face", "bulb", "control", "buttons", "have", "note", "not", "to", "touch", "Bed", "6", "-", "Fan", "and", "face", "bulb", "controls", "is", "barely", "attached", "-LRB-", "this", "has", "been", "for", "the", "entity", "of", "my", "membership", "-RRB-", "The", "broken", "areas", "I", "spoke", "about", "in", "my", "last", "update", "were", "broke", "4-6", "weeks", "before", "being", "repaired", "."], "e1_text": "were", "e1_pos": 53, "e2_text": "being", "e2_pos": 58, "label": "before"},
+{"tokens": ["This", "is", "before", "we", "get", "to", "the", "disgustingly", "dirty", "floors", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "get", "e2_pos": 4, "label": "before"}
+]

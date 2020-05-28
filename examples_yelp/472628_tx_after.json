@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "definitely", "NOT", "a", "gambler", "...", "lost", "a", "whole", "ONE", "dollar", "on", "a", "slot", "machine", "-LRB-", "after", "sticking", "in", "my", "dollar", "and", "within", "15", "seconds", "it", "was", "just", "GONE", "...", "''", "``", "ok", ",", "this", "BLOWS", "''", "''", "...", "I", "did", "try", "my", "hand", "at", "black", "jack", "on", "the", "LAST", "day", "and", "walked", "away", "$", "15", "richer", "!"], "e1_text": "lost", "e1_pos": 7, "e2_text": "sticking", "e2_pos": 18, "label": "after"}
+]

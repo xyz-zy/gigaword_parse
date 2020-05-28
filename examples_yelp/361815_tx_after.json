@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "slice", "of", "prime", "rib", "was", "pretty", "good", "and", "tasty", ",", "after", "chowing", "that", "down", ",", "I", "had", "to", "wait", "about", "another", "ten", "mins", "before", "my", "second", "one", "came", "out", "-LRB-", "which", "was", "thinner", "-RRB-", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "chowing", "e2_pos": 13, "label": "after"},
+{"tokens": ["Got", "another", "and", "final", "3rd", "slice", "about", "7-8", "mins", "after", "that", "was", "same", "size", "and", "2nd", "slice", "and", "ate", "it", "."], "e1_text": "mins", "e1_pos": 8, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

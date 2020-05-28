@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "exam", ",", "which", "he", "was", "so", "gentle", "and", "caring", "throughout", ",", "he", "let", "me", "wait", "in", "the", "waiting", "room", "well", "after", "his", "staff", "had", "gone", "home", "-LRB-", "late", "appointment", "in", "the", "day", "-RRB-", "so", "that", "I", "would", "n't", "have", "to", "wait", "out", "in", "the", "dark", "."], "e1_text": "wait", "e1_pos": 16, "e2_text": "had", "e2_pos": 25, "label": "after"},
+{"tokens": ["My", "gyno", "left", "LA", "and", "closed", "his", "doors", "after", "10", "years", "of", "my", "seeing", "him", "to", "move", "to", "Connecticut", "and", "I", "have", "to", "begin", "the", "search", "back", "at", "home", "."], "e1_text": "closed", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 13, "label": "after"}
+]

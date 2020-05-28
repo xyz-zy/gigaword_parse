@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "stated", "in", "my", "tip", "we", "went", "to", "Redbeard", "'s", "on", "6th", "after", "seeing", "a", "great", "play", "at", "the", "Pittsburgh", "Public", "Theater", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "was", "a", "little", "upset", "they", "charged", "$", ".75", "for", "me", "to", "add", "jalapenos", "when", "they", "almost", "stiffed", "me", "on", "bacon", ",", "and", "did", "n't", "have", "the", "side", "I", "ordered", "and", "did", "n't", "know", "it", "until", "15", "minutes", "after", "I", "ordered", "."], "e1_text": "know", "e1_pos": 33, "e2_text": "ordered", "e2_pos": 29, "label": "after"}
+]

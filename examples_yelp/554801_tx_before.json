@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "sucked", "...", "had", "three", "different", "people", "walk", "by", "me", "at", "the", "bar", "when", "I", "first", "walked", "in", "before", "some", "nice", "girl", "finally", "saw", "that", "I", "had", "been", "waiting", "at", "least", "10", "minutes", "for", "a", "drink", "."], "e1_text": "walked", "e1_pos": 16, "e2_text": "saw", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "probably", "would", "have", "popped", "some", "bottles", ",", "I", "know", "I", "had", "planned", "on", "that", "before", "I", "got", "there", "."], "e1_text": "planned", "e1_pos": 12, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

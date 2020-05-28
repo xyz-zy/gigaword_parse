@@ -1,0 +1,3 @@
+[
+{"tokens": ["Apparently", "6:30", "was", "too", "late", "to", "wash", "my", "dog", ",", "90", "minutes", "before", "the", "place", "closes", "and", "that", "'s", "supposedly", "the", "backbone", "of", "their", "business", "concept", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "closes", "e2_pos": 15, "label": "before"}
+]

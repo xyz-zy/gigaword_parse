@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "website", "asks", "viewers", "to", "come", "a", "minimum", "of", "30", "min", "before", "the", "movie", "starts", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "starts", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'m", "pretty", "confused", "as", "to", "why", "since", "we", "were", "n't", "allowed", "into", "the", "theater", "till", "5", "min", "before", "it", "started", "."], "e1_text": "min", "e1_pos": 17, "e2_text": "started", "e2_pos": 20, "label": "before"}
+]

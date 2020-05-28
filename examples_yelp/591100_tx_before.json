@@ -1,0 +1,3 @@
+[
+{"tokens": ["Veggie", "patty", "wrap", "-", "I", "'m", "not", "a", "vegetarian", ",", "but", "I", "'d", "order", "this", "before", "I", "order", "a", "wrap", "with", "a", "chicken", "patty", "."], "e1_text": "order", "e1_pos": 13, "e2_text": "order", "e2_pos": 13, "label": "before"}
+]

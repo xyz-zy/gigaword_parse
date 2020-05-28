@@ -1,0 +1,5 @@
+[
+{"tokens": ["Was", "surprised", "to", "get", "an", "appointment", "as", "I", "called", "the", "day", "before", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "called", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "have", "never", "been", "to", "a", "spa", "before", "while", "my", "girlfriend", "has", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "has", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "never", "had", "a", "massage", "before", "so", "I", "have", "nothing", "to", "compare", "it", "to", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "have", "e2_pos": 8, "label": "before"}
+]

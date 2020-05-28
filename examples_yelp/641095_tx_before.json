@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "received", "a", "phone", "call", "to", "confirm", "the", "delivery", "the", "night", "before", "like", "promised", "."], "e1_text": "confirm", "e1_pos": 7, "e2_text": "promised", "e2_pos": 14, "label": "before"},
+{"tokens": ["If", "you", "are", "going", "to", "purchase", "form", "this", "company", "make", "sure", "that", "you", "pick", "it", "up", "yourself", "and", "before", "you", "leave", "inspect", "the", "product", "."], "e1_text": "make", "e1_pos": 9, "e2_text": "leave", "e2_pos": 20, "label": "before"}
+]

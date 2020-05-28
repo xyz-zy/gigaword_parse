@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "came", "for", "breakfast", "today", "but", "had", "to", "leave", "due", "to", "an", "emergency", "before", "our", "food", "came", "out", ",", "they", "were", "more", "than", "happy", "to", "bag", "our", "stuff", "quickly", "so", "we", "could", "be", "in", "our", "way", "."], "e1_text": "leave", "e1_pos": 8, "e2_text": "came", "e2_pos": 1, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "includes", "knowing", "when", "treatment", "is", "necessary", "and", "the", "proper", "way", "to", "do", "the", "treatment", "for", "each", "specific", "condition", "and", "make", "sure", "you", "fully", "understand", "and", "can", "do", "it", "correctly", "before", "you", "leave", "."], "e1_text": "do", "e1_pos": 12, "e2_text": "leave", "e2_pos": 32, "label": "before"},
+{"tokens": ["Having", "been", "one", "of", "the", "patients", "who", "had", "to", "be", "treated", "for", "an", "emergency", "situation", "before", "I", "do", "n't", "see", "it", "as", "a", "bad", "thing", "at", "all", "when", "I", "have", "had", "to", "wait", "while", "someone", "else", "got", "emergency", "treatment", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "do", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Horrible", "experience", "with", "waitress", "Jaime", "...", "another", "waiter", "had", "to", "tell", "her", "to", "come", "serve", "my", "table", "before", "she", "even", "made", "a", "first", "appearance", ",", "and", "then", "once", "she", "finally", "came", "over", "to", "take", "our", "order", ",", "which", "was", "a", "food", "and", "drink", "order", ",", "we", "received", "our", "drinks", "-LRB-", "without", "the", "food", "-RRB-", "and", "then", "never", "saw", "her", "again", "."], "e1_text": "serve", "e1_pos": 14, "e2_text": "made", "e2_pos": 20, "label": "before"}
+]

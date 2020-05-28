@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "went", "into", "line", "some", "people", "were", "I", "talked", "to", "were", "telling", "me", "they", "were", "waiting", "downstairs", "for", "over", "an", "hour", "before", "someone", "from", "the", "hotel", "or", "club", "told", "them", "the", "actual", "line", "was", "upstairs", "on", "the", "2nd", "floor", "."], "e1_text": "waiting", "e1_pos": 16, "e2_text": "told", "e2_pos": 29, "label": "before"},
+{"tokens": ["And", "make", "sure", "your", "on", "the", "2nd", "floor", "and", "not", "the", "first", "cuz", "they", "may", "make", "you", "wait", "an", "hour", "or", "two", "before", "anyone", "tells", "you", "your", "on", "the", "wrong", "floor", "."], "e1_text": "wait", "e1_pos": 17, "e2_text": "tells", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "trick", "you", "after", "you", "check", "in", "by", "sending", "you", "to", "the", "''", "``", "concierge", "''", "''", "for", "your", "check", "in", "package", "-", "it", "'s", "a", "timeshare", "presentation", "and", "show", "sales", ",", "they", "are", "n't", "nice", "when", "you", "say", "you", "'re", "not", "interested", "."], "e1_text": "trick", "e1_pos": 1, "e2_text": "check", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "really", "do", "n't", "want", "apologies", "and", "an", "invitation", "back", "after", "they", "finish", "the", "much", "needed", "renovation", "."], "e1_text": "want", "e1_pos": 4, "e2_text": "finish", "e2_pos": 12, "label": "after"}
+]

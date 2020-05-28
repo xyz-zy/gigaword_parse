@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sat", "down", "at", "a", "manicure", "station", "and", "the", "chic", "proceeded", "to", "finish", "polishing", "her", "toes", "before", "starting", "my", "treatment", "."], "e1_text": "polishing", "e1_pos": 12, "e2_text": "starting", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Nice", "products\\/Unsatisfactory", "service", "Decided", "not", "to", "go", "forward", "in", "purchasing", "office", "furniture", "from", "them", "after", "several", "days", "of", "not", "receiving", "a", "quote", "for", "the", "items", "I", "wanted", "to", "purchase", "."], "e1_text": "purchasing", "e1_pos": 9, "e2_text": "receiving", "e2_pos": 19, "label": "after"}
+]

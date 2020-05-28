@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "really", "only", "used", "the", "room", "as", "a", "place", "to", "crash", "after", "celebrating", "at", "the", "clubs", ",", "but", "WOW", "."], "e1_text": "crash", "e1_pos": 10, "e2_text": "celebrating", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "suggest", "that", "every", "hotel", "have", "a", "vending", "machine", "for", "fold-up", "flats", ",", "after", "girls", "die", "in", "their", "heels", ":", "-RRB-"], "e1_text": "suggest", "e1_pos": 1, "e2_text": "die", "e2_pos": 15, "label": "after"}
+]

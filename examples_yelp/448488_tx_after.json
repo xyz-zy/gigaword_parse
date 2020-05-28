@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "mediocre", ",", "the", "margarita", "primero", "was", "watered", "down", "-LRB-", "after", "the", "server", "had", "to", "be", "reminded", "that", "we", "ordered", "it", "twice", "-RRB-", "."], "e1_text": "watered", "e1_pos": 9, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

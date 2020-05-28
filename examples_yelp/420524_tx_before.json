@@ -1,0 +1,5 @@
+[
+{"tokens": ["After", "ordering", "lunch", "for", "my", "wife", "and", "little", "sister", ",", "we", "waited", "for", "almost", "an", "hour", "before", "questioning", "what", "could", "be", "taking", "so", "long", "."], "e1_text": "waited", "e1_pos": 11, "e2_text": "questioning", "e2_pos": 17, "label": "before"},
+{"tokens": ["-LRB-", "I", "live", "about", "a", "mile", "from", "here", "-RRB-", "Another", "30", "minutes", "go", "by", "before", "i", "am", "livid", "and", "decide", "to", "start", "making", "lunch", "at", "home", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "am", "e2_pos": 16, "label": "before"},
+{"tokens": ["Thankfully", "my", "Stallings", "PD", "neighbor", "was", "out", "in", "his", "back", "yard", ",", "so", "the", "owner", "was", "asked", "to", "leave", "nicely", "by", "me", "2x", "before", "i", "threatened", "to", "get", "my", "neighbor", "."], "e1_text": "2x", "e1_pos": 22, "e2_text": "threatened", "e2_pos": 25, "label": "before"}
+]

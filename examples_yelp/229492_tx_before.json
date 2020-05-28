@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "you", "do", "n't", "smashed", "the", "night", "before", "because", "they", "pick", "you", "up", "at", "6", "AM", "."], "e1_text": "smashed", "e1_pos": 5, "e2_text": "pick", "e2_pos": 11, "label": "before"}
+]

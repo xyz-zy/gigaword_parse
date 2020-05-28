@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "tried", "to", "go", "once", "before", "but", "they", "close", "at", "5pm", "on", "Sundays", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "close", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "feel", "a", "conflict", "of", "interest", "when", "giving", "them", "only", "2", "stars", "since", "my", "bagel", "was", "free", ",", "but", "it", "'ll", "have", "to", "remain", "at", "2", "until", "I", "get", "my", "next", "bagel", "-LRB-", "also", "gratis", "-RRB-", "before", "the", "coupon", "expires", "."], "e1_text": "remain", "e1_pos": 23, "e2_text": "expires", "e2_pos": 39, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["WHY", "do", "does", "anyone", "close", "their", "kitchen", "before", "11", "in", "Phoenix", "is", "beyond", "me", "but", "that", "is", "a", "separate", "issue", "."], "e1_text": "close", "e1_pos": 4, "e2_text": "is", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "have", "worked", "in", "the", "industry", "most", "of", "my", "adult", "life", "and", "would", "not", "close", "a", "main", "entrance", "before", "closing", "time", "with", "the", "exceptions", "of", "safety", "and", "emergency", "."], "e1_text": "close", "e1_pos": 14, "e2_text": "closing", "e2_pos": 19, "label": "before"}
+]

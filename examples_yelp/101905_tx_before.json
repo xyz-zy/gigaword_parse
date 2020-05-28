@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "question", "was", "asked", "before", "the", "paperwork", "was", "signed", "where", "we", "could", "put", "our", "pod", "."], "e1_text": "asked", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["Here", "I", "am", "on", "the", "night", "before", "MyPod", "arrives", "watching", "for", "cars", "to", "move", "so", "that", "I", "can", "reserve", "the", "space", "necessary", "for", "the", "pod", "."], "e1_text": "am", "e1_pos": 2, "e2_text": "arrives", "e2_pos": 8, "label": "before"}
+]

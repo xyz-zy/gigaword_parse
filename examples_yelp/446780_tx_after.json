@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "noticed", "that", "Beth", "thought", "we", "had", "left", "without", "paying", "after", "we", "got", "up", ",", "but", "then", "when", "she", "saw", "us", "at", "the", "bar", "she", "did", "not", "acknowledge", "us", ",", "or", "even", "come", "over", "to", "apologize", "."], "e1_text": "paying", "e1_pos": 9, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

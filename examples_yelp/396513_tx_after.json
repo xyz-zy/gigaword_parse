@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "just", "left", "the", "location", "after", "standing", "in", "a", "line", "of", "2", "people", "for", "over", "5", "minutes", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "standing", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "were", "being", "totally", "ignored", "at", "the", "soup", "bar", "after", "having", "our", "salads", "made", "."], "e1_text": "ignored", "e1_pos": 4, "e2_text": "having", "e2_pos": 10, "label": "after"}
+]

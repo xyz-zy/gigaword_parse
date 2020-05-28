@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "time", ",", "it", "was", "at", "5:30", "pm", ",", "well", "before", "the", "business", "closes", "for", "the", "evening", "-LRB-", "1", "am", "-RRB-", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "closes", "e2_pos": 13, "label": "before"},
+{"tokens": ["My", "fiance", "'s", "milk", "tea", "tasted", "entirely", "different", "than", "it", "did", "the", "day", "before", "."], "e1_text": "tasted", "e1_pos": 5, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

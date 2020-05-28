@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "guy", "sitting", "at", "table", "behind", "bar", "sat", "there", "for", "over", "20", "minutes", "before", "a", "older", "-LRB-", "maybe", "manager", "asked", "if", "he", "wanted", "anything", ".", "-RRB-"], "e1_text": "sat", "e1_pos": 7, "e2_text": "asked", "e2_pos": 19, "label": "before"}
+]

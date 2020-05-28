@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "looked", "like", "he", "had", "n't", "showered", "and", "he", "told", "his", "employee", "to", "break", "after", "working", "two", "hours", "."], "e1_text": "break", "e1_pos": 14, "e2_text": "working", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "finally", "got", "my", "shake", "shortly", "after", ",", "it", "was", "nice", "&", "cold", "and", "had", "a", "thick", "texture", "like", "a", "shake", "should", "have", ",", "but", "really", "did", "not", "taste", "great", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "think", "the", "price", "of", "$", "3", "something", "after", "taxes", "is", "high", "for", "what", "you", "get", "."], "e1_text": "think", "e1_pos": 1, "e2_text": "is", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "'d", "think", "that", "the", "waitresses", "would", "know", "to", "CLEAR", "THE", "TABLES", "after", "the", "customers", "have", "left", "so", "it", "does", "n't", "make", "the", "place", "seem", "like", "a", "mess", "!"], "e1_text": "know", "e1_pos": 7, "e2_text": "have", "e2_pos": 15, "label": "after"}
+]

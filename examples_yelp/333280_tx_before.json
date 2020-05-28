@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "when", "we", "got", "there", "they", "had", "new", "staff", "who", "obviously", "had", "no", "experience", "in", "waiting", "before", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 15, "label": "before"},
+{"tokens": ["Why", "would", "you", "changed", "something", "thats", "been", "here", "before", "you", "were", "even", "born", "?!", "So", "we", "asked", "and", "they", "said", "they", "changed", "it", "but", "really", "what", "they", "did", "is", "use", "the", "regular", "cole", "slaw", "that", "they", "used", "to", "serve", "and", "just", "added", "some", "green", "stuff", "to", "it", "to", "give", "a", "different", "look", ".", "."], "e1_text": "been", "e1_pos": 6, "e2_text": "were", "e2_pos": 10, "label": "before"}
+]

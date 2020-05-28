@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "there", "on", "a", "slow", "Sunday", "eve", "after", "the", "mall", "was", "closed", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "found", "that", "out", "after", "one", "was", "in", "my", "mouth", ",", "and", "its", "not", "a", "pleasant", "experience", "chomping", "down", "on", "garlic", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

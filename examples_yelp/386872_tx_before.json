@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "went", "in", "with", "my", "dress", "about", "three", "weeks", "before", "I", "had", "to", "leave", "for", "the", "out-of-town", "wedding", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["They", "said", "the", "dress", "would", "be", "done", "in", "a", "little", "less", "than", "three", "weeks", ",", "two", "days", "before", "I", "had", "to", "leave", "."], "e1_text": "done", "e1_pos": 6, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["He", "says", "it", "will", "only", "be", "about", "half", "an", "hour", ",", "but", "when", "I", "come", "back", "in", "half", "an", "hour", "I", "have", "to", "wait", "another", "half", "hour", "before", "it", "was", "actually", "done", "."], "e1_text": "wait", "e1_pos": 23, "e2_text": "was", "e2_pos": 29, "label": "before"}
+]

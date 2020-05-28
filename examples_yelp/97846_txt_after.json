@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "Should", "have", "been", "better", "prepared", ",", "after", "all", "the", "TPC", "tournament", "'s", "only", "been", "here", "in", "Scottsdale", "for", "30", "years", "!", "-RRB-"], "e1_text": "been", "e1_pos": 3, "e2_text": "'s", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "noticed", "that", "the", "couple", "across", "from", "us", "had", "n't", "been", "waited", "on", "but", "a", "couple", "that", "came", "in", "after", "us", "had", "chips", "and", "salsa", "and", "water", "on", "their", "table", "."], "e1_text": "waited", "e1_pos": 11, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

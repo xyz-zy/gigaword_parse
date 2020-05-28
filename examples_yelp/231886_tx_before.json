@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "crab", "meat", "that", "makes", "the", "whole", "soup", "sounded", "wonderful", "before", "we", "ordered", "was", "imitation", "crab", "meat", ",", "and", "it", "was", "not", "even", "cooked", "with", "the", "soup", "."], "e1_text": "sounded", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 12, "label": "before"},
+{"tokens": ["They", "were", "thrown", "in", "before", "serving", "."], "e1_text": "thrown", "e1_pos": 2, "e2_text": "serving", "e2_pos": 5, "label": "before"}
+]

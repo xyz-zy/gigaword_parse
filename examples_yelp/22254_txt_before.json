@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "your", "trunk", "is", "EMPTY", "and", "contains", "ZERO", "valuables", "before", "you", "drive", "your", "car", "into", "Lindstrom", "'s", "."], "e1_text": "valuables", "e1_pos": 9, "e2_text": "drive", "e2_pos": 12, "label": "before"}
+]

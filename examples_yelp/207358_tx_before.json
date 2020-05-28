@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "was", "n't", "up", "to", "being", "three", "sheets", "to", "the", "wind", "16", "hours", "before", "needing", "to", "board", "a", "plane", ",", "I", "opted", "to", "take", "it", "home", "empty", "."], "e1_text": "being", "e1_pos": 6, "e2_text": "needing", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "was", "cheaper", "than", "the", "cowboy", "boots", "I", "had", "been", "ogling", "at", "Boot", "Star", "in", "Fashion", "Show", "the", "day", "before", "!"], "e1_text": "boots", "e1_pos": 6, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "the", "mistake", "of", "paying", "the", "$", "8.05", "in", "gas", "in", "cash", "-LRB-", "we", "'re", "in", "vegas", "after", "all", ",", "cash", "dealings", "is", "almost", "the", "norm", "-RRB-", ",", "so", "we", "did", "not", "have", "a", "receipt", "to", "provide", "to", "''", "``", "waive", "''", "''", "the", "fee", "."], "e1_text": "paying", "e1_pos": 5, "e2_text": "'re", "e2_pos": 15, "label": "after"},
+{"tokens": ["There", "'s", "also", "one", "line", "after", "that", "that", "says", "''", "``", "00-75", "miles", "will", "be", "charged", "$", "13.99", ",", "present", "receipt", "to", "waive", "''", "''", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "says", "e2_pos": 8, "label": "after"}
+]

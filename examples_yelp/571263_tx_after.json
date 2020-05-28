@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "like", "to", "give", "such", "a", "low", "review", "of", "this", "store", "after", "we", "experienced", "an", "enjoyable", "afternoon", "there", "during", "their", "pre-grand", "opening", ",", "but", "we", "tried", "to", "get", "in", "there", "yesterday", "afternoon", "and", "it", "was", "absolutely", "impossible", "."], "e1_text": "like", "e1_pos": 3, "e2_text": "experienced", "e2_pos": 15, "label": "after"},
+{"tokens": ["Hopefully", "that", "'s", "not", "a", "sign", "of", "the", "clientele", ",", "but", "I", "may", "never", "know", ",", "especially", "after", "reading", "some", "of", "the", "other", "reviews", "."], "e1_text": "know", "e1_pos": 14, "e2_text": "reading", "e2_pos": 18, "label": "after"}
+]

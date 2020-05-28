@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "used", "Sun", "Radiology", "services", "back", "in", "November", "after", "needing", "an", "urgent", "CT", ",", "my", "PCP", "-LRB-", "located", "next", "door", "-RRB-", "sent", "me", "to", "Sun", "Radiology", "."], "e1_text": "used", "e1_pos": 1, "e2_text": "needing", "e2_pos": 9, "label": "after"}
+]

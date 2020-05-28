@@ -1,0 +1,4 @@
+[
+{"tokens": ["Setting", "aside", "the", "garish", "atmosphere", ",", "the", "first", "thing", "that", "established", "the", "tone", "of", "the", "visit", "was", "a", "server", "who", "came", "within", "a", "minute", "after", "taking", "our", "drink", "orders", "and", "asked", "brusquely", "if", "we", "were", "ready", "to", "order", "."], "e1_text": "came", "e1_pos": 20, "e2_text": "taking", "e2_pos": 25, "label": "after"},
+{"tokens": ["Adding", "to", "the", "failure", "was", "that", "the", "food", "came", "out", "less", "than", "ten", "minutes", "after", "being", "ordered", ",", "which", "really", "highlights", "the", "fact", "that", "the", "food", "was", "almost", "certainly", "not", "cooked", "so", "much", "as", "reheated", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "being", "e2_pos": 15, "label": "after"}
+]

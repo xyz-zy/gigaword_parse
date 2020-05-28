@@ -1,0 +1,3 @@
+[
+{"tokens": ["he", "brought", "out", "the", "wrong", "pizzas", "-", "TWICE", "-", "screwed", "up", "our", "bill", "-", "TWICE", "-", "was", "super", "slow", "-", "and", "still", "even", "after", "correcting", "him", "-", "we", "did", "n't", "get", "the", "pizza", "we", "wanted", "-", "we", "ended", "up", "just", "being", "like", "ok", "fine", "fine", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "correcting", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "visited", "StripSteak", "only", "because", "a", "friend", "was", "in", "love", "with", "their", "macaroni", "and", "cheese", "and", "wanted", "to", "see", "if", "she", "could", "get", "it", "carryout", "after", "we", "'d", "attended", "a", "concert", "at", "The", "Beach", "in", "Mandalay", "Bay", "."], "e1_text": "carryout", "e1_pos": 24, "e2_text": "'d", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "thought", "great", ",", "I", "'m", "from", "Vegas", "so", "he", "'ll", "probably", "ignore", "us", "after", "we", "tell", "him", "."], "e1_text": "ignore", "e1_pos": 12, "e2_text": "tell", "e2_pos": 16, "label": "after"},
+{"tokens": ["But", "no", "-", "he", "was", "just", "as", "friendly", ",", "and", "after", "my", "friend", "left", "to", "play", "in", "the", "casino", "while", "Iwaited", "for", "our", "order", ",", "he", "brought", "me", "water", "with", "lemon", "-LRB-", "and", "refilled", "the", "glass", "-RRB-", "and", "continued", "to", "chat", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "left", "e2_pos": 13, "label": "after"}
+]

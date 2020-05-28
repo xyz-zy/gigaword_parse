@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "my", "fault", "for", "assuming", "there", "was", "only", "a", "vegetarian", "chile", "relleno", "on", "the", "menu", "but", "I", "also", "think", "my", "waiter", "should", "have", "clarified", "which", "one", "I", "wanted", "to", "order", "-LRB-", "especially", "after", "my", "husband", "ordered", "from", "the", "vegetarian", "menu", "-RRB-", "."], "e1_text": "order", "e1_pos": 30, "e2_text": "ordered", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "walked", "into", "San", "Felipe", "'s", "in", "the", "Tempe", "Market", "Place", "and", "had", "eerie", "feeling", "that", "I", "had", "been", "there", "before", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["She", "then", "walked", "past", "three", "times", "before", "we", "flagged", "her", "down", "to", "ask", "for", "or", "check", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "flagged", "e2_pos": 8, "label": "before"}
+]

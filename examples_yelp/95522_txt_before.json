@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "some", "reason", "everytime", "we", "go", "we", "get", "the", "same", "RUDE", "waiter", "''", "``", "Jesse", "''", "''", "who", "is", "ALWAYS", "in", "some", "kind", "of", "rush", "and", "spills", "when", "he", "is", "refilling", "drunks", "and", "never", "let", "'s", "us", "finish", "a", "sentence", "before", "rushing", "off", "."], "e1_text": "finish", "e1_pos": 37, "e2_text": "rushing", "e2_pos": 41, "label": "before"},
+{"tokens": ["I", "need", "to", "keep", "that", "in", "mind", "before", "we", "go", "back", "."], "e1_text": "keep", "e1_pos": 3, "e2_text": "go", "e2_pos": 9, "label": "before"}
+]

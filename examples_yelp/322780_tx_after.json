@@ -1,0 +1,4 @@
+[
+{"tokens": ["Customer", "service", "is", "the", "biggest", "joke", "ever", "!!!", "Not", "only", "was", "each", "and", "every", "agent", "I", "spoke", "with", "severely", "mentally", "delayed", ",", "they", "also", "hung", "up", "on", "me", "several", "times", "after", "I", "'d", "been", "on", "hold", "for", "a", "minimum", "of", "20", "minutes", "!"], "e1_text": "!!!", "e1_pos": 7, "e2_text": "'d", "e2_pos": 32, "label": "after"},
+{"tokens": ["When", "I", "called", "to", "cancel", "Clear", ",", "the", "idiot", "actually", "tried", "to", "offer", "me", "the", "same", "service", "in", "a", "bundle", "with", "Direct", "TV", "even", "after", "I", "told", "her", "that", "I", "do", "n't", "watch", "tv", "and", "that", "her", "companies", "crap", "did", "n't", "work", "at", "all", "!!!", "As", "I", "said", "earlier", ",", "severely", "mentally", "delayed", "!"], "e1_text": "tried", "e1_pos": 10, "e2_text": "told", "e2_pos": 26, "label": "after"}
+]

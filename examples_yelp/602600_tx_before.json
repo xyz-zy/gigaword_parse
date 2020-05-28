@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "almost", "as", "if", "they", "knew", "about", "the", "problem", "before", "it", "happened", "."], "e1_text": "knew", "e1_pos": 6, "e2_text": "happened", "e2_pos": 12, "label": "before"},
+{"tokens": ["Had", "we", "seen", "it", "before", "gorging", "on", "food", ",", "we", "would", "have", "simply", "finished", "our", "wine", "and", "left", "."], "e1_text": "seen", "e1_pos": 2, "e2_text": "gorging", "e2_pos": 5, "label": "before"}
+]

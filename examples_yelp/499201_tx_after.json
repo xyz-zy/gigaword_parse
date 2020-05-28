@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "refilled", "once", "after", "our", "dinners", "were", "already", "gone", ",", "and", "the", "drinks", "had", "been", "empty", "since", "the", "end", "of", "the", "salad", "."], "e1_text": "refilled", "e1_pos": 2, "e2_text": "were", "e2_pos": 1, "label": "after"},
+{"tokens": ["Of", "course", "when", "I", "finally", "saw", "the", "bill", "for", "the", "first", "time", ",", "after", "my", "card", "had", "already", "been", "run", "because", "I", "was", "becoming", "so", "impatient", ",", "I", "then", "noticed", "they", "charged", "us", "for", "the", "dinner", "portions", "of", "the", "Alfredo", "."], "e1_text": "saw", "e1_pos": 5, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

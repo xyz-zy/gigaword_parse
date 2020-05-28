@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "my", "very", "first", "time", "I", "did", "n't", "tip", "a", "waiter", ",", "if", "that", "'s", "how", "I", "felt", "after", "this", "visit", "I", "feel", "that", "I", "need", "to", "share", "my", "experience", "."], "e1_text": "felt", "e1_pos": 18, "e2_text": "visit", "e2_pos": 21, "label": "after"}
+]

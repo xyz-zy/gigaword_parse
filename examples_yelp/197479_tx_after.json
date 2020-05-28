@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "so", "appalled", "and", "shocked", "of", "the", "attitude", "we", "received", "from", "our", "waitress", ",", "all", "four", "of", "us", "looked", "at", "one", "another", "and", "got", "up", "and", "left", "immediately", "after", "she", "took", "our", "order", "."], "e1_text": "left", "e1_pos": 27, "e2_text": "took", "e2_pos": 31, "label": "after"},
+{"tokens": ["We", "decided", "to", "try", "Kahunaville", "for", "breakfast", "after", "seeing", "that", "there", "was", "n't", "a", "line", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "made", "reservations", "for", "C.D.", "a", "couple", "days", "before", "we", "were", "going", "to", "go", "because", "Hard", "Rock", "was", "having", "a", "concert", "we", "were", "attending", "and", "we", "wanted", "to", "make", "sure", "we", "got", "a", "table", "."], "e1_text": "made", "e1_pos": 4, "e2_text": "were", "e2_pos": 13, "label": "before"}
+]

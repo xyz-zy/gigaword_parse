@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "eating", "at", "the", "cafe", "and", "watching", "the", "comedy", "show", ",", "I", "just", "wanted", "to", "get", "out", "of", "there", "before", "I", "contracted", "lung", "cancer", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "contracted", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Horrible", "service", "...", "Had", "to", "wait", "thirty", "mins", "on", "a", "table", "...", "The", "waitress", "dropped", "the", "food", "off", "and", "never", "came", "back", ",", "did", "not", "inform", "us", "that", "you", "had", "to", "push", "the", "button", "for", "service", "until", "after", "the", "meal", "was", "over", "."], "e1_text": "had", "e1_pos": 29, "e2_text": "was", "e2_pos": 40, "label": "after"}
+]

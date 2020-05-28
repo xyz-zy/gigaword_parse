@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "came", "and", "asked", "for", "last", "call", "around", "9:15", ",", "45", "mins", "before", "they", "close", "."], "e1_text": "mins", "e1_pos": 12, "e2_text": "close", "e2_pos": 15, "label": "before"},
+{"tokens": ["Perhaps", "that", "is", "why", "Ladies", "Night", "never", "took", "off", "--", "you", "only", "have", "time", "for", "one", "glass", "of", "champagne", "before", "it", "'s", "last", "call", "."], "e1_text": "have", "e1_pos": 12, "e2_text": "'s", "e2_pos": 21, "label": "before"}
+]

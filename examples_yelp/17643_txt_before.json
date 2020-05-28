@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "delivery", "was", "very", "late", "-LRB-", "not", "Applebees", "fault", "-RRB-", "and", "I", "wish", "we", "had", "n't", "ordered", "from", "there", "even", "before", "I", "tasted", "my", "food", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "tasted", "e2_pos": 22, "label": "before"}
+]

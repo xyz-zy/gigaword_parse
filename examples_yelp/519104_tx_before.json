@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "appears", "if", "you", "want", "to", "use", "your", "card", "you", "have", "to", "start", "a", "tab", "at", "the", "front", "door", ",", "carry", "around", "a", "number", "with", "you", "all", "night", "and", "then", "stand", "in", "line", "before", "you", "leave", "to", "pay", "your", "tab", "."], "e1_text": "stand", "e1_pos": 30, "e2_text": "leave", "e2_pos": 35, "label": "before"}
+]

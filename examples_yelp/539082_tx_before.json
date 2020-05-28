@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "something", "that", "they", "preface", "before", "you", "even", "enter", "the", "lounge", ",", "so", "do", "n't", "think", "this", "is", "an", "in-n-out", "type", "of", "thing", "."], "e1_text": "preface", "e1_pos": 5, "e2_text": "enter", "e2_pos": 9, "label": "before"}
+]

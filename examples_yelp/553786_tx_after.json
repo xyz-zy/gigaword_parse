@@ -1,0 +1,4 @@
+[
+{"tokens": ["either", "get", "some", "experienced", "servers", "instead", "of", "young", "teenagers", "who", "go", "right", "to", "texting", "on", "there", "cell", "phones", "after", "they", "finish", "taking", "our", "orders", "!"], "e1_text": "go", "e1_pos": 10, "e2_text": "finish", "e2_pos": 20, "label": "after"},
+{"tokens": ["Well", "the", "food", "was", "decent", ",", "only", "plus", "is", "that", "its", "the", "only", "one", "on", "my", "side", "of", "town", "but", "probably", "will", "never", "go", "here", "again", "unless", "i", "'m", "making", "a", "to", "go", "order", "but", "i", "'ll", "make", "sure", "to", "come", "45", "minutes", "after", "i", "call", "if", "i", "do", "=", "-RRB-"], "e1_text": "come", "e1_pos": 40, "e2_text": "call", "e2_pos": 45, "label": "after"}
+]

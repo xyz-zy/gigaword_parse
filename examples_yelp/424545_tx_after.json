@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "referred", "to", "Dr.", "Sundar-Raj", "for", "a", "new", "prescription", "after", "having", "retinal", "surgery", "with", "Dr.", "Eller", "."], "e1_text": "referred", "e1_pos": 2, "e2_text": "having", "e2_pos": 11, "label": "after"},
+{"tokens": ["When", "I", "got", "home", "-LRB-", "after", "paying", "another", "$", "80", "out", "of", "pocket", "-RRB-", "it", "turns", "out", "that", "there", "was", "an", "error", "on", "the", "axis", "line", "of", "the", "prescription", "that", "made", "it", "not", "match", "up", "with", "the", "existing", "lenses", "I", "had", "that", "worked", "so", "well", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "paying", "e2_pos": 6, "label": "after"}
+]

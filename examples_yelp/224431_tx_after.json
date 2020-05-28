@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "we", "had", "to", "wait", "about", "10", "minutes", "after", "the", "sushi", "got", "there", "for", "ginger", ",", "wasabi", ",", "and", "soy", "sauce", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "garlic", "edamame", "came", "last", ",", "and", "only", "after", "we", "reminded", "the", "server", "that", "we", "had", "ordered", "it", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "reminded", "e2_pos": 10, "label": "after"}
+]

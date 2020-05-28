@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "guess", "they", "thought", "a", "new", "order", "of", "snapper", "was", "going", "to", "stop", "my", "mouth", "from", "bleeding", "...", "well", "the", "chef", "never", "came", "out", "to", "appologize", "and", "after", "30", "min", "of", "waiting", "i", "got", "tired", "and", "asked", "for", "the", "check", "thinking", "that", "they", "would", "comp", "my", "meal", "and", "stuff", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "waiting", "e2_pos": 31, "label": "after"},
+{"tokens": ["Oh", "!!", "and", "the", "worse", "thing", "is", "after", "I", "paid", "the", "bill", "the", "server", "has", "the", "nerve", "to", "ask", "me", "if", "I", "wanted", "a", "stamp", "card", "where", "if", "I", "eat", "there", "10", "times", "the", "11th", "time", "is", "free", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "paid", "e2_pos": 9, "label": "after"}
+]

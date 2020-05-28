@@ -1,0 +1,4 @@
+[
+{"tokens": ["Again", ",", "this", "is", "prior", "to", "before", "I", "turned", "vegetarian", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "turned", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "first", "thing", "I", "will", "say", "--", "there", "are", "many", "better", "options", "for", "places", "to", "eat", "in", "Vegas", "for", "a", "lot", "less", "money", "so", "please", "consider", "before", "you", "come", "here", "."], "e1_text": "consider", "e1_pos": 25, "e2_text": "come", "e2_pos": 28, "label": "before"}
+]

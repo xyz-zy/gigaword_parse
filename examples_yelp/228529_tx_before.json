@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "esthetician", "for", "the", "day", "was", "very", "concerned", "and", "caring", ",", "and", "took", "her", "time", "with", "each", "step", ",", "explaining", "things", "in", "full", "before", "we", "began", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "began", "e2_pos": 25, "label": "before"}
+]

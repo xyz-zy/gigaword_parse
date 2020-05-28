@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "really", "is", "a", "beautiful", "presentation", ",", "but", "I", "have", "no", "freakin", "'", "idea", "what", "it", "was", "even", "after", "asking", "for", "the", "explanation", "to", "be", "translated", "''", "``", "into", "a", "language", "''", "''", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "asking", "e2_pos": 19, "label": "after"},
+{"tokens": ["POSH", "is", "a", "restaurant", "where", "only", "the", "truly", "adventurous", "need", "apply", "after", "checking", "their", "credit", "worthiness", "."], "e1_text": "apply", "e1_pos": 10, "e2_text": "checking", "e2_pos": 12, "label": "after"}
+]

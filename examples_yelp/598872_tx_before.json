@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "local", "S-Hubert", "should", "be", "ashamed", "to", "try", "to", "overcharge", "the", "customer", "even", "before", "treating", "customers", "like", "inferiors", "."], "e1_text": "overcharge", "e1_pos": 9, "e2_text": "treating", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "cant", "believe", "we", "got", "in", "for", "free", "for", "kaskade", "!!", "-LRB-", "his", "'12", "residency", "is", "amazing", "and", "was", "3hrs", ",", "btw", "-RRB-", "anyway", ",", "we", "got", "our", "stamps", "and", "stayed", "for", "30min", "before", "leaving", "while", "the", "opener", "was", "still", "on", ".", "."], "e1_text": "stayed", "e1_pos": 30, "e2_text": "leaving", "e2_pos": 34, "label": "before"},
+{"tokens": ["i", "finally", "got", "the", "chance", "to", "check", "out", "xs", "the", "night", "before", "and", "honestly", "prefer", "it", "over", "marquee", "a", "tad", "bit", ".", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "prefer", "e2_pos": 14, "label": "before"}
+]

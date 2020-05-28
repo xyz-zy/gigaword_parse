@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "10", "or", "15", "minutes", "of", "looking", "for", "our", "order", "after", "we", "finished", "the", "crisp", "we", "noticed", "a", "slight", "argument", "behind", "the", "counter", "and", "I", "watched", "as", "she", "picked", "up", "the", "food", "that", "had", "been", "sitting", "on", "the", "counter", "and", "brought", "it", "to", "us", "."], "e1_text": "looking", "e1_pos": 6, "e2_text": "finished", "e2_pos": 12, "label": "after"}
+]

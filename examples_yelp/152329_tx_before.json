@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "even", "got", "her", "wedding", "dress", "here", "-LRB-", "one", "of", "them", ",", "she", "bought", "about", "5", "before", "deciding", "which", "to", "wear", ",", "so", "annoying", "!", "-RRB-"], "e1_text": "bought", "e1_pos": 14, "e2_text": "deciding", "e2_pos": 18, "label": "before"}
+]

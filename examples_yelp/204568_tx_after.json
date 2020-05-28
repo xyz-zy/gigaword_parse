@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "also", "pretty", "sure", "they", "keep", "all", "the", "leftover", "from", "a", "table", "together", "after", "the", "waiters", "pick", "them", "up", "and", "serve", "to", "a", "different", "table", "if", "they", "ask", "for", "the", "same", "snacks", "or", "sides", "."], "e1_text": "keep", "e1_pos": 6, "e2_text": "pick", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "is", "pathetic", "that", "even", "after", "having", "such", "a", "prime", "location", "they", "are", "useless"], "e1_text": "is", "e1_pos": 1, "e2_text": "having", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "did", "n't", "feel", "like", "finishing", "the", "job", "-LRB-", "AS", "WAS", "SCHEDULED", "-RRB-", "and", "ended", "up", "scheduling", "me", "for", "a", "week", "later", "even", "though", "they", "knew", "I", "had", "prior", "arrangements", "to", "be", "out", "of", "town", "for", "school", "and", "needed", "my", "dental", "work", "done", "before", "I", "left", "."], "e1_text": "done", "e1_pos": 42, "e2_text": "left", "e2_pos": 45, "label": "before"}
+]

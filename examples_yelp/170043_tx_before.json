@@ -1,0 +1,5 @@
+[
+{"tokens": ["Anyways", "so", "I", "get", "a", "email", "from", "total", "rewards", "about", "2", "weeks", "before", "my", "stay", "for", "a", "room", "up", "grade", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "stay", "e2_pos": 14, "label": "before"},
+{"tokens": ["Partly", "might", "fault", "I", "should", "have", "read", "my", "emails", "before", "going", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "actually", "went", "out", "and", "got", "drinks", "and", "we", "got", "to", "our", "room", "by", "like", "11pm", "and", "my", "boyfriend", "went", "out", "and", "he", "got", "back", "before", "I", "did", "which", "was", "1am", "and", "STILL", "NO", "EXTRA", "BED", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "did", "e2_pos": 27, "label": "before"}
+]

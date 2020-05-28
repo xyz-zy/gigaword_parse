@@ -1,0 +1,3 @@
+[
+{"tokens": ["Note", "that", "I", "can", "buy", "most", "of", "the", "supplies", "I", "used", "to", "get", "through", "them", "online", "through", "Amazon", "and", "ebay", "for", "the", "same", "price", "or", "cheaper", "than", "what", "they", "billed", "me", "\\*", "after", "\\*", "billing", "my", "insurance", ";", "it", "'s", "worth", "shopping", "around", "."], "e1_text": "billed", "e1_pos": 29, "e2_text": "billing", "e2_pos": 34, "label": "after"}
+]

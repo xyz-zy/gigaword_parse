@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "can", "taste", "the", "slightest", "change", "in", "the", "amount", "of", "cumin", ",", "or", "how", "much", "salt", ",", "or", "the", "way", "someone", "cuts", "their", "meat", "before", "cooking", "it", ",", "or", "the", "way", "they", "make", "their", "spanish", "rice", ",", "because", "we", "'ve", "eaten", "so", "damned", "much", "of", "it", "."], "e1_text": "cuts", "e1_pos": 21, "e2_text": "cooking", "e2_pos": 25, "label": "before"}
+]

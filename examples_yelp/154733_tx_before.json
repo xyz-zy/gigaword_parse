@@ -1,0 +1,3 @@
+[
+{"tokens": ["BEWARE", ",", "some", "items", "on", "the", "menu", ",", "both", "food", "and", "at", "the", "bar", ",", "are", "EXTREMELY", "expensive", ",", "read", "well", "before", "you", "buy", "."], "e1_text": "are", "e1_pos": 15, "e2_text": "buy", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "visiting", "the", "museum", ",", "my", "sister", "was", "in", "a", "rush", "to", "go", "home", "but", "after", "a", "little", "arguing", "I", "convinced", "her", "that", "we", "needed", "to", "explore", "this", "colorful", "mystery", "house", "."], "e1_text": "go", "e1_pos": 12, "e2_text": "arguing", "e2_pos": 18, "label": "after"}
+]

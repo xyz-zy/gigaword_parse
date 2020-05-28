@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "on", "hold", "for", "45", "minutes", "before", "speaking", "to", "someone", "for", "it", "to", "be", "rescheduled", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "speaking", "e2_pos": 8, "label": "before"},
+{"tokens": ["Who", "on", "earth", "wants", "a", "cleaning", "person", "at", "their", "house", "until", "11:00", "pm", "!?!?!?", "I", "receive", "another", "confirmation", "for", "this", "''", "``", "new", "appointment", "time", "''", "''", "and", "again", ",", "have", "to", "wait", "another", "30", "before", "finally", "speaking", "with", "someone", "."], "e1_text": "wait", "e1_pos": 32, "e2_text": "speaking", "e2_pos": 37, "label": "before"}
+]

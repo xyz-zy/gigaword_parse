@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "there", "after", "my", "family", "have", "already", "ordered", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "have", "e2_pos": 6, "label": "after"},
+{"tokens": ["My", "food", "came", "out", "shortly", "after", "them", "which", "was", "nice", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

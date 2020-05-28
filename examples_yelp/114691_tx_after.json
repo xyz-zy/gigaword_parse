@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "then", "skipped", "the", "next", "meeting", "and", "when", "we", "finally", "met", "after", "an", "addition", "reschedule", ",", "she", "showed", "up", "meeting", "without", "her", "case", "notes", "so", "we", "had", "to", "start", "over", "."], "e1_text": "met", "e1_pos": 10, "e2_text": "reschedule", "e2_pos": 14, "label": "after"}
+]

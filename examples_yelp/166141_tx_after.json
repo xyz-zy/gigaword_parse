@@ -1,0 +1,3 @@
+[
+{"tokens": ["Mine", "are", ":", "-LRB-", "1", "-RRB-", "clean", ",", "comfortable", "room", ";", "-LRB-", "2", "-RRB-", "cheap", ";", "-LRB-", "3", "-RRB-", "centrally", "located", ";", "and", "-LRB-", "4", "-RRB-", "good", "pool", "to", "find", "a", "place", "for", "a", "nap", "after", "staying", "up", "all", "night", "."], "e1_text": "find", "e1_pos": 29, "e2_text": "staying", "e2_pos": 36, "label": "after"}
+]

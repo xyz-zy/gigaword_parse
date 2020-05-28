@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "was", "soooo", "good", "that", "I", "ended", "up", "going", "back", "for", "seconds", "-LRB-", "after", "the", "crew", "members", "told", "us", "there", "was", "enough", "to", "go", "back", "for", "seconds", "if", "we", "wanted", "to", "...", "yes", ",", "I", "was", "totally", "being", "a", "fatty", "and", "eating", "as", "if", "it", "was", "my", "last", "meal", "-RRB-", "."], "e1_text": "going", "e1_pos": 9, "e2_text": "told", "e2_pos": 18, "label": "after"},
+{"tokens": ["We", "arrived", "back", "at", "the", "dock", "after", "dark", "which", "was", "great", "as", "we", "were", "able", "to", "see", "all", "the", "stars", "come", "out", "and", "could", "even", "see", "the", "Milky", "Way", "since", "it", "was", "so", "dark", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

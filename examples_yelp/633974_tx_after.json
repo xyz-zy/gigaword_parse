@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "pretty", "terrible", ",", "super", "slow", "and", "inattentive", "-LRB-", "get", "your", "food", "with", "no", "serviettes", ",", "then", "forced", "to", "have", "to", "wait", "for", "your", "waitress", "to", "finally", "come", "around", "and", "ends", "up", "forgetting", "to", "bring", "them", "to", "you", "altogether", "after", "you", "'ve", "asked", ".", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 43, "label": "after"}
+]

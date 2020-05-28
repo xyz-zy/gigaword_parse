@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "consistency", "was", "so", "good", "that", "I", "barely", "got", "a", "couple", "of", "bites", "in", "before", "my", "kids", "gobbled", "it", "all", "up", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "gobbled", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "broth", "was", "good", ",", "although", "I", "tend", "to", "just", "take", "a", "preliminary", "taste", "before", "I", "dress", "it", "up", "with", "japalenos", ",", "lime", ",", "sriricha", ",", "and", "hoisen", "sauce", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "dress", "e2_pos": 16, "label": "before"}
+]

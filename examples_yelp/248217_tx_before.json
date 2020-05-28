@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "a", "small", "refund", "of", "a", "hundred", "dollars", "or", "so", "might", "have", "saved", "you", "thousands", ",", "because", "now", "people", "will", "see", "this", "post", "and", "think", "twice", "before", "they", "take", "their", "scooter", "in", "."], "e1_text": "think", "e1_pos": 24, "e2_text": "take", "e2_pos": 28, "label": "before"},
+{"tokens": ["Wow", ",", "I", "should", "'ve", "look", "up", "all", "these", "bad", "reviews", "on", "them", "before", "taking", "my", "scooter", "in", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "taking", "e2_pos": 14, "label": "before"}
+]

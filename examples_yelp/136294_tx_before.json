@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "Saturday", "night", "over", "a", "hot", "and", "busy", "Vegas", "weekend", ",", "and", "it", "was", "getting", "pretty", "late", "before", "we", "had", "to", "decide", "on", "something", "."], "e1_text": "getting", "e1_pos": 15, "e2_text": "had", "e2_pos": 20, "label": "before"},
+{"tokens": ["Now", ",", "I", "recommend", "doing", "your", "research", "on", "a", "place", "you", "plan", "to", "go", "to", ",", "before", "you", "go", ",", "because", "if", "you", "do", "n't", "know", "what", "something", "is", "on", "a", "menu", "when", "you", "get", "here", ",", "and", "you", "do", "n't", "have", "the", "balls", "to", "ask", ",", "then", "you", "should", "n't", "be", "disappointed", "when", "you", "order", "it", ",", "you", "get", "it", ",", "and", "you", "'re", "not", "happy", "with", "it", "."], "e1_text": "doing", "e1_pos": 4, "e2_text": "go", "e2_pos": 18, "label": "before"}
+]

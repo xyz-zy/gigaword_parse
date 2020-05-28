@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "restaurant", "and", "have", "been", "looking", "for", "a", "locally", "located", "carpet", "cleaning", "company", "to", "clean", "our", "restaurant", "after", "we", "close", "at", "night", "."], "e1_text": "clean", "e1_pos": 16, "e2_text": "close", "e2_pos": 21, "label": "after"}
+]

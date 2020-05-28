@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "few", "minutes", "my", "step", "daughter", "comes", "out", "looking", "slightly", "shook", "up", "and", "right", "after", "one", "of", "the", "female", "servers", "slung", "open", "a", "door", "and", "asked", "what", "''", "``", "my", "friend", "would", "like", "to", "drink", ".", "''", "''"], "e1_text": "shook", "e1_pos": 11, "e2_text": "slung", "e2_pos": 21, "label": "after"}
+]

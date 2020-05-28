@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "never", "eaten", "at", "a", "BBQ", "place", "before", "I", "moved", "over", "here", "to", "Arizona", "5", "1\\/2", "years", "ago", ",", "but", "now", "that", "I", "have", "a", "bunch", "of", "them", "''", "``", "under", "my", "belt", "''", "''", "to", "compare", ",", "I", "have", "to", "drop", "my", "rating", "on", "this", "one", "down", "based", "on", "today", "'s", "dining", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "moved", "e2_pos": 10, "label": "before"}
+]

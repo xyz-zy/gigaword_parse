@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "more", "sympathetic", "to", "waits", "\\*", "after", "\\*", "my", "order", "has", "been", "taken", ",", "that", "way", "my", "bad", "hip", "and", "I", "do", "n't", "have", "to", "stand", "in", "queue", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "has", "e2_pos": 11, "label": "after"},
+{"tokens": ["They", "use", "the", "Monin", "brand", "chocolate", "syrup", "which", "-LRB-", "after", "trying", "at", "several", "different", "shops", "-RRB-", "I", "have", "decided", "is", "crap", "."], "e1_text": "use", "e1_pos": 1, "e2_text": "trying", "e2_pos": 10, "label": "after"}
+]

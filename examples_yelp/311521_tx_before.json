@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "were", "heading", "to", "a", "movie", "at", "the", "Harkins", "theater", "next", "door", "and", "wanted", "a", "bite", "to", "eat", "before", "the", "flick", "started", "-", "so", "we", "popped", "into", "one", "of", "the", "nearest", "restaurants", "Ono", "Hawaiian", "BBQ", "-LRB-", "we", "talked", "about", "Rubio", "'s", "but", "decided", "to", "try", "something", "new", "-RRB-", "."], "e1_text": "eat", "e1_pos": 20, "e2_text": "started", "e2_pos": 24, "label": "before"}
+]

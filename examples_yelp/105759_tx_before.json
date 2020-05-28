@@ -1,0 +1,4 @@
+[
+{"tokens": ["Every", "time", "she", "did", "anything", "she", "was", "gone", "for", "an", "inordinate", "amount", "of", "time", "before", "returning", "."], "e1_text": "gone", "e1_pos": 7, "e2_text": "returning", "e2_pos": 15, "label": "before"},
+{"tokens": ["When", "the", "food", "finally", "arrived", ",", "it", "was", "no", "longer", "warm", ",", "so", "whatever", "she", "had", "been", "doing", "she", "allowed", "our", "food", "to", "sit", "for", "awhile", "before", "she", "brought", "it", "."], "e1_text": "sit", "e1_pos": 23, "e2_text": "brought", "e2_pos": 28, "label": "before"}
+]

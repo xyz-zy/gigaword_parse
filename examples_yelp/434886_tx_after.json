@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "also", "asked", "if", "they", "could", "make", "me", "something", "else", "but", "I", "was", "leaving", "after", "waiting", "for", "such", "a", "long", "time", "waiting", "for", "our", "food", "."], "e1_text": "leaving", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "love", "small", "places", "like", "this", "with", "good", "healthy", "options", "but", "I", "want", "to", "eat", "and", "feel", "good", "after", "spending", "40.00", "."], "e1_text": "feel", "e1_pos": 16, "e2_text": "spending", "e2_pos": 19, "label": "after"}
+]

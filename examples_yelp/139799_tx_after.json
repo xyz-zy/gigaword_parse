@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "it", "to", "the", "point", "that", "my", "-LRB-", "seafood", "fanatic", "-RRB-", "husband", "could", "n't", "touch", "another", "piece", "of", "fried", "fish", "for", "six", "months", "after", "I", "made", "him", "eat", "catfish", "for", "dinner", "daily", "for", "two", "weeks", "."], "e1_text": "touch", "e1_pos": 15, "e2_text": "made", "e2_pos": 26, "label": "after"},
+{"tokens": ["The", "basket", "of", "bullet-shaped", "hush", "puppies", "brought", "to", "the", "table", "shortly", "after", "sitting", "down", "is", "always", "solid", "."], "e1_text": "brought", "e1_pos": 6, "e2_text": "sitting", "e2_pos": 12, "label": "after"}
+]

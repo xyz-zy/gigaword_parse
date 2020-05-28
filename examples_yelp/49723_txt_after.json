@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "finally", "agreed", "to", "give", "us", "a", "refund", "and", "we", "left", "-LRB-", "after", "he", "offered", "us", "another", "crib", ",", "but", "if", "you", "will", "recall", "we", "had", "the", "last", "crib", ",", "right", "?!", "-RRB-", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "offered", "e2_pos": 14, "label": "after"}
+]

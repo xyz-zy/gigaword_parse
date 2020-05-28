@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guy", "who", "took", "my", "order", "was", "nice", "but", "when", "he", "made", "a", "mistake", "on", "my", "order", "-LRB-", "after", "asking", "my", "specifications", "-RRB-", ",", "the", "guy", "had", "the", "nerve", "to", "say\\/ask", ",", "''", "``", "what", "do", "you", "want", "me", "to", "do", "about", "it", "?", "''", "''"], "e1_text": "made", "e1_pos": 11, "e2_text": "asking", "e2_pos": 19, "label": "after"}
+]

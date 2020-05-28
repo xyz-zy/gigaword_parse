@@ -1,0 +1,3 @@
+[
+{"tokens": ["when", "i", "got", "back", "to", "the", "office", "the", "food", "was", "barely", "warm", "-LRB-", "i", "did", "n't", "have", "to", "go", "far", ",", "but", "i", "'ll", "take", "partial", "blame", "for", "ordering", "take-out", "to", "begin", "with", "-RRB-", "which", "told", "me", "it", "was", "ready", "waaaay", "before", "they", "told", "me", "it", "would", "be", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "told", "e2_pos": 35, "label": "before"}
+]

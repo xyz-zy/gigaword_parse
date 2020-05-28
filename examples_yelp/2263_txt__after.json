@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "happy", "hour", "ended", "2", "minutes", "after", "she", "gave", "us", "the", "menus", ",", "and", "she", "came", "back", "over", "10", "minutes", "later", "to", "take", "our", "drink", "order", "."], "e1_text": "ended", "e1_pos": 3, "e2_text": "gave", "e2_pos": 8, "label": "after"},
+{"tokens": ["There", "was", "lettuce", "there", ",", "but", "only", "after", "I", "uncovered", "it", "from", "a", "cup", "of", "croutons", "and", "a", "cup", "of", "parmesan", "cheese", "-LRB-", "not", "the", "fresh", "kind", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "uncovered", "e2_pos": 9, "label": "after"}
+]

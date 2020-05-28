@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "a", "little", "upset", "when", "2", "people", "came", "in", "after", "us", "and", "we", "watched", "them", "drive", "away", "in", "a", "loaner", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "watched", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "then", "told", "them", "about", "what", "Park", "Place", "told", "us", "and", "after", "laughing", "they", "said", "most", "of", "their", "employees", "came", "from", "dealerships", "and", "my", "story", "was", "not", "unique", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "laughing", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "of", "course", "I", "just", "bought", "this", "car", "2", "weeks", "ago", "and", "...", "yes", "I", "should", "have", "came", "to", "Eric", "before", "I", "signed", "the", "papers", "because", "he", "took", "the", "time", "to", "show", "me", "how", "he", "measured", "my", "breaks", "and", "why", "I", "will", "need", "new", "ones", "in", "about", "5,000", "miles", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "signed", "e2_pos": 22, "label": "before"}
+]

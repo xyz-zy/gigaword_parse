@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "and", "I", "came", "on", "a", "busy", "Sunday", "morning", "after", "finding", "Cozy", "Corner", "on", "Yelp", ",", "and", "even", "after", "informing", "the", "host", "that", "we", "had", "never", "been", "there", "before", ",", "she", "just", "shrugged", "us", "off", "and", "gave", "us", "a", "menu", "."], "e1_text": "informing", "e1_pos": 20, "e2_text": "had", "e2_pos": 25, "label": "before"}
+]

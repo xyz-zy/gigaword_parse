@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "never", "came", "back", "even", "after", "we", "requested", "our", "order", "be", "taken", ",", "she", "basically", "ignored", "us", "so", "after", "45", "minutes", "we", "got", "up", "and", "left", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "requested", "e2_pos": 7, "label": "after"}
+]

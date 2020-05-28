@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "he", "finally", "came", "to", "our", "table", "about", "3", "minutes", "later", ",", "another", "one", "of", "my", "guest", "'s", "asked", "for", "a", "water", "-LRB-", "that", "he", "forgot", "to", "bring", "from", "the", "beginning", "-RRB-", "and", "before", "the", "guest", "who", "wanted", "a", "beer", "could", "even", "ask", ",", "Scott", "walked", "away", "too", "fast", "to", "even", "get", "a", "word", "out", "."], "e1_text": "asked", "e1_pos": 18, "e2_text": "wanted", "e2_pos": 37, "label": "before"}
+]

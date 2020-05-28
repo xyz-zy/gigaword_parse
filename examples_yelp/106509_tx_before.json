@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "reviewer", "commented", "on", "the", "bathtub", "danger", "and", "I", "experienced", "something", "similar", ",", "but", "I", "only", "slipped", "and", "caught", "myself", "before", "falling", "and", "injuring", "myself", "."], "e1_text": "caught", "e1_pos": 18, "e2_text": "falling", "e2_pos": 21, "label": "before"}
+]

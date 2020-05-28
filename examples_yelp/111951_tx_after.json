@@ -1,0 +1,6 @@
+[
+{"tokens": ["The", "server", "told", "us", ",", "after", "being", "seated", "for", "just", "under", "an", "hour", ",", "that", "they", "were", "out", "of", "manicotti", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["This", "was", "after", "I", "had", "picked", "olive", "oil", "&", "garlic", "instead", "of", "pesto", "for", "my", "tortellini", "because", "they", "were", "out", "of", "that", "too", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "had", "sent", "that", "back", "after", "it", "showed", "up", "extremely", "over", "done", "and", "having", "a", "horrible", "taste", "."], "e1_text": "sent", "e1_pos": 2, "e2_text": "showed", "e2_pos": 7, "label": "after"},
+{"tokens": ["Our", "server", "was", "a", "space", "cadet", "and", "my", "iced", "tea", "did", "n't", "get", "refilled", "until", "I", "said", "something", "after", "waiting", "30", "mins", "."], "e1_text": "said", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

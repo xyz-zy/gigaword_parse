@@ -1,0 +1,4 @@
+[
+{"tokens": ["45mins", "passed", "after", "finishing", "our", "poppadom", "and", "we", "have", "not", "yet", "been", "served", "."], "e1_text": "passed", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 3, "label": "after"},
+{"tokens": ["The", "diners", "besides", "us", "apologized", "-LRB-", "even", "if", "they", "had", "not", "to", "-", "but", "they", "were", "British", "-RRB-", "After", "5-10", "minutes", "the", "waiter", "brought", "two", "large", "plates", "-LRB-", "we", "started", "to", "wonder", "why", "-RRB-", "?!", "Then", "5", "mins", "after", "a", "single", "thali", "dish", "We", "asked", "were", "is", "the", "other", "one", "?"], "e1_text": "?!", "e1_pos": 34, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

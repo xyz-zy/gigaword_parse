@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "never", "checked", "back", "with", "us", "after", "dropping", "off", "the", "appetizers", ",", "so", "we", "flagged", "down", "another", "staff", "member", "and", "requested", "some", "additional", "tortilla", "chips", "for", "our", "Ceviche", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "dropping", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "eventually", "had", "to", "flag", "her", "down", ",", "after", "our", "half", "eaten", "food", "got", "cold", ",", "to", "ask", "for", "the", "check", "."], "e1_text": "flag", "e1_pos": 4, "e2_text": "got", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "stylist", "did", "n't", "wet", "my", "hair", "before", "she", "cut", "it", "."], "e1_text": "wet", "e1_pos": 4, "e2_text": "cut", "e2_pos": 9, "label": "before"},
+{"tokens": ["All", "I", "wanted", "was", "a", "blowdry", "&", "styling", "so", "I", "could", "see", "what", "the", "hairstyle", "actually", "looked", "like", "before", "I", "walked", "out", "the", "door", "."], "e1_text": "looked", "e1_pos": 16, "e2_text": "walked", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "was", "very", "small", ",", "with", "a", "cold", "feeling", ",", "The", "service", "was", "not", "good", "either", ",", "We", "ordered", "our", "food", "and", "about", "3", "other", "table", "of", "guest", "came", "in", "after", "us", "got", "thier", "food", "before", "us", ",", "and", "of", "course", "they", "left", "before", "us", "also", ",", "not", "sure", "why", "."], "e1_text": "came", "e1_pos": 29, "e2_text": "got", "e2_pos": 33, "label": "after"}
+]

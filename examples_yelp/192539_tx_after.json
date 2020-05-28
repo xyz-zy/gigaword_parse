@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "first", "i", "thought", "the", "plates", "were", "WAY", "too", "small", "for", "a", "buffet", "but", "after", "my", "4th", "plate", "i", "began", "to", "realize", "the", "plates", "are", "small", "so", "you", "get", "less", "food", "-LRB-", "unless", "you", "pile", "on", "high", "-RRB-", "and", "make", "more", "trips", ",", "smaller", "portions", "of", "one", "thing", "encouraged", "sampling", "which", "resulted", "in", "a", "taste", "of", "as", "close", "to", "everything", "they", "have", "to", "offer", "as", "possible", "."], "e1_text": "thought", "e1_pos": 3, "e2_text": "began", "e2_pos": 19, "label": "after"},
+{"tokens": ["The", "slice", "my", "buddy", "got", "10", "minutes", "after", "i", "got", "mine", "looked", "like", "it", "'d", "been", "boiled", "and", "was", "tougher", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "got", "e2_pos": 4, "label": "after"}
+]

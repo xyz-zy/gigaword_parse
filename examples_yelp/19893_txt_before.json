@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "made", "a", "list", "at", "work", "ahead", "of", "time", "and", "ordered", "it", "right", "before", "we", "left", "the", "office", "."], "e1_text": "ordered", "e1_pos": 10, "e2_text": "left", "e2_pos": 15, "label": "before"}
+]

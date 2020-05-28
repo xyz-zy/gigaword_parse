@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "gave", "this", "place", "2", "chances", "before", "firing", "them", "as", "my", "dentist", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "firing", "e2_pos": 7, "label": "before"},
+{"tokens": ["He", "clearly", "had", "never", "done", "this", "before", "because", "the", "mixture", "was", "way", "too", "hard", "and", "he", "was", "using", "a", "tray", "too", "big", "for", "my", "mouth", "."], "e1_text": "done", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

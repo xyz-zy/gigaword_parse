@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "still", "in", "happy", "hour", "time", ",", "so", "we", "decided", "to", "get", "a", "few", "drinks", "and", "a", "few", "apps", "before", "moving", "on", "to", "the", "main", "course", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "moving", "e2_pos": 21, "label": "before"},
+{"tokens": ["Sadly", ",", "our", "meal", "came", "out", "before", "we", "were", "even", "done", "with", "the", "appetizers", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "were", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["EXREMELY", "disappointed", "after", "spending", "4", "hours", "for", "a", "color", "corrector", "and", "highlight", "."], "e1_text": "disappointed", "e1_pos": 1, "e2_text": "spending", "e2_pos": 3, "label": "after"},
+{"tokens": ["Walked", "out", "after", "paying", "$", "240", "for", "a", "service", "that", "was", "horrible", "."], "e1_text": "Walked", "e1_pos": 0, "e2_text": "paying", "e2_pos": 3, "label": "after"}
+]

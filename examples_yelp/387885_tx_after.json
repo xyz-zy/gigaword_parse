@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "had", "the", "nerve", "to", "say", "''", "``", "god", "bless", "you", "''", "``", "after", "stealing", "as", "well", "!"], "e1_text": "bless", "e1_pos": 9, "e2_text": "stealing", "e2_pos": 14, "label": "after"}
+]

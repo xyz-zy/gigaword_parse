@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "again", "at", "1:30", "and", "they", "said", "I", "was", "the", "next", "stop", "-LRB-", "which", "was", "a", "lie", "-RRB-", "I", "sat", "outside", "in", "the", "rain", "and", "40", "degree", "weather", "for", "an", "HOUR", "after", "I", "was", "supposed", "to", "be", "picked", "up", ",", "throughout", "which", "time", "6", "other", "airport", "shuttles", "came", "by", "and", "would", "have", "taken", "me", "to", "the", "airport", "a", "heck", "of", "a", "lot", "faster", "."], "e1_text": "sat", "e1_pos": 20, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

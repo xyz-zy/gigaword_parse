@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "feel", "a", "sense", "of", "guilt", "having", "to", "write", "a", "less", "than", "stellar", "review", "after", "meeting", "the", "owner", "of", "a", "restaurant", "."], "e1_text": "write", "e1_pos": 9, "e2_text": "meeting", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "was", "not", "what", "I", "was", "expecting", "AT", "ALL", ",", "when", "I", "think", "of", "a", "grilled", "veggie", "wrap", ",", "I", "imagine", "tasting", "all", "those", "veggies", "bursting", "with", "flavor", "after", "caramelizing", "on", "the", "grill", ",", "they", "had", "no", "flavor", "though", "."], "e1_text": "bursting", "e1_pos": 25, "e2_text": "caramelizing", "e2_pos": 29, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "Our", "server", "helped", "us", "promptly", "with", "our", "drink", "but", "dissapeared", "for", "20", "minutes", "to", "come", "back", "and", "take", "our", "order", "which", "he", "got", "wrong", ",", "but", "we", "couldnt", "tell", "him", "because", "he", "was", "no", "where", "to", "be", "found", "after", "our", "food", "came", "."], "e1_text": "found", "e1_pos": 38, "e2_text": "came", "e2_pos": 42, "label": "after"}
+]

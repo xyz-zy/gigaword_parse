@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "received", "a", "quote", "to", "for", "the", "repairs", "-LRB-", "$", "840", "-RRB-", "but", "not", "before", "paying", "$", "230", "to", "get", "my", "vehicle", "back", "when", "our", "warranty", "deductible", "is", "only", "$", "100", "???", "Long", "story", "short", ",", "took", "it", "to", "a", "different", "shop", "and", "was", "quoted", "$", "180", "...", "Go", "figure", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "paying", "e2_pos": 15, "label": "before"}
+]

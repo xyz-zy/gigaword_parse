@@ -1,0 +1,5 @@
+[
+{"tokens": ["two", "of", "the", "five", "of", "us", "went", "to", "get", "a", "table", ",", "and", "after", "waiting", "for", "25", "minutes", ",", "were", "told", "that", "we", "could", "n't", "be", "seated", "until", "our", "whole", "group", "was", "here", "-LRB-", "which", "would", "have", "been", "helpful", "to", "know", "when", "they", "took", "down", "our", "names", "-RRB-", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "were", "e2_pos": 19, "label": "after"},
+{"tokens": ["i", "finally", "decide", ",", "and", "we", "are", "finally", "seated", "at", "11:03", ",", "40", "minutes", "after", "we", "first", "got", "there", "."], "e1_text": "seated", "e1_pos": 8, "e2_text": "got", "e2_pos": 17, "label": "after"},
+{"tokens": ["it", "was", "so", "greasy", "i", "had", "to", "wash", "my", "hands", ",", "face", ",", "and", "forearms", "after", "eating", "it", "."], "e1_text": "wash", "e1_pos": 7, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

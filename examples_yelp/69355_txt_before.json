@@ -1,0 +1,5 @@
+[
+{"tokens": ["Luckily", ",", "I", "read", "Sierra", "'s", "Yelp", "reviews", "before", "signing", "a", "work", "order", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "signing", "e2_pos": 9, "label": "before"},
+{"tokens": ["Why", "not", "buy", "them", "now", "before", "they", "break", "in", "the", "heat", "of", "summer", "?"], "e1_text": "buy", "e1_pos": 2, "e2_text": "break", "e2_pos": 7, "label": "before"},
+{"tokens": ["Both", "estimated", "$", "500", "-", "$", "600", "for", "the", "repair", "I", "described", "but", "they", "would", "have", "to", "come", "out", "and", "inspect", "the", "system", "before", "providing", "an", "exact", "quote", "."], "e1_text": "inspect", "e1_pos": 20, "e2_text": "providing", "e2_pos": 24, "label": "before"}
+]

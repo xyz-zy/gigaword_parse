@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "did", "n't", "check-in", "after", "taking", "our", "order", ",", "hence", ",", "water", "glasses", "were", "n't", "refilled", "without", "tagging", "another", "server", ",", "and", "we", "were", "never", "asked", ",", "when", "our", "food", "was", "delivered", "to", "our", "table", ",", "''", "``", "Is", "there", "anything", "else", "I", "can", "get", "you", "?", "''", "''"], "e1_text": "check-in", "e1_pos": 4, "e2_text": "taking", "e2_pos": 6, "label": "after"}
+]

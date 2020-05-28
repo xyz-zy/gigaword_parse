@@ -1,0 +1,5 @@
+[
+{"tokens": ["She", "told", "me", "the", "moraine", "they", "give", "the", "dog", "makes", "her", "breath", "rapidly", "and", "look", "like", "she", "is", "in", "pain", "making", "her", "look", "worse", "than", "she", "is", "and", "to", "expect", "that", "after", "I", "got", "to", "see", "her", "again", "."], "e1_text": "expect", "e1_pos": 29, "e2_text": "got", "e2_pos": 33, "label": "after"},
+{"tokens": ["We", "paid", "for", "treatment", "that", "was", "refused", "to", "us", "after", "we", "asked", "that", "the", "IV", "be", "kept", "in", "."], "e1_text": "refused", "e1_pos": 6, "e2_text": "asked", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "got", "a", "refund", "from", "this", "new", "clinic", "I", "originally", "paid", "800", "$", "but", "after", "completing", "the", "treatment", "the", "Mesa", "vet", "refunded", "me", "130", "$", "."], "e1_text": "paid", "e1_pos": 10, "e2_text": "completing", "e2_pos": 15, "label": "after"}
+]

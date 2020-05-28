@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recommended", "that", "you", "do", "plenty", "of", "homework", "before", "doing", "business", "with", "Neos", "Medspa", "."], "e1_text": "do", "e1_pos": 4, "e2_text": "doing", "e2_pos": 9, "label": "before"},
+{"tokens": ["Think", "twice", "before", "getting", "a", "B12", "from", "them", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "getting", "e2_pos": 3, "label": "before"}
+]

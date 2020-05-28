@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "satisfied", "all", "of", "my", "needs", ",", "which", "was", "to", "stuff", "my", "utility", "pockets", "with", "movie", "treats", "like", "Whoppers", "and", "Hot", "Tamales", ",", "at", "drugstore", "price", "instead", "of", "movie", "theater", "price", ",", "before", "seeing", "Dark", "Knight", "."], "e1_text": "treats", "e1_pos": 16, "e2_text": "seeing", "e2_pos": 33, "label": "before"},
+{"tokens": ["When", "I", "walked", "in", "I", "noticed", "out", "of", "the", "corner", "of", "my", "eye", "that", "there", "was", "a", "new", "employee", "that", "I", "had", "n't", "seen", "before", ",", "and", "it", "was", "a", "girl", "that", "might", "have", "been", "attractive", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "had", "e2_pos": 21, "label": "before"},
+{"tokens": ["Reminds", "me", "of", "the", "time", "my", "friend", "told", "me", "he", "used", "to", "have", "a", "crush", "on", "one", "of", "Hansen", "before", "he", "found", "out", "they", "were", "boys", "...", "awkward", "!!!"], "e1_text": "have", "e1_pos": 12, "e2_text": "found", "e2_pos": 21, "label": "before"}
+]

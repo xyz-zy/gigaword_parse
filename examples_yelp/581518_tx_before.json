@@ -1,0 +1,3 @@
+[
+{"tokens": ["Everyone", "was", "very", "nice", ",", "and", "we", "were", "able", "to", "sit", "outside", "at", "a", "little", "table", "to", "enjoy", "the", "cool", "air", ",", "before", "it", "turned", "into", "a", "ridiculously", "hot", "day", "."], "e1_text": "sit", "e1_pos": 10, "e2_text": "turned", "e2_pos": 24, "label": "before"}
+]

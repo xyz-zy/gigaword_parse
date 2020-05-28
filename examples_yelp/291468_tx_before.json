@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "said", "if", "a", "dog", "stays", "there", "for", "3", "days", "my", "puppy", "gets", "a", "free", "bath", "so", "i", "called", "in", "the", "morning", "before", "i", "went", "to", "go", "pick", "her", "up", "to", "make", "sure", "she", "already", "got", "a", "bath", "and", "they", "told", "me", "on", "the", "phone", "that", "she", "already", "did", "."], "e1_text": "called", "e1_pos": 18, "e2_text": "went", "e2_pos": 24, "label": "before"}
+]

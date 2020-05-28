@@ -1,0 +1,4 @@
+[
+{"tokens": ["Again", ",", "had", "the", "same", "waitress", "from", "the", "couple", "days", "before", "who", "was", "super", "nice", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "had", "the", "ham", ",", "egg", "and", "cheese", "-LRB-", "had", "to", "put", "salt", ",", "pepper", "and", "hot", "sauce", "on", "it", "before", "I", "even", "wanted", "to", "finish", "eating", "it", "-RRB-", ",", "my", "mom", "had", "the", "tomato", ",", "spinach", ",", "egg", "and", "cheese", "-LRB-", "spinach", "was", "not", "saut", "\\", "u00e9ed", "and", "was", "cold", "-RRB-", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "wanted", "e2_pos": 23, "label": "before"}
+]

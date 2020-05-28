@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "it", "was", "a", "bit", "frustrating", "when", "then", "table", "that", "sat", "down", "next", "to", "us", "was", "brought", "their", "meal", "way", "before", "ours", "came", "out", "!"], "e1_text": "brought", "e1_pos": 16, "e2_text": "came", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "really", "did", "n't", "buy", "it", "as", "I", "had", "worked", "in", "restaurants", "before", "."], "e1_text": "buy", "e1_pos": 4, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

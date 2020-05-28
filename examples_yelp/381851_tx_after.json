@@ -1,0 +1,4 @@
+[
+{"tokens": ["Myself", "and", "my", "friend", "Soraya", "stopped", "here", "after", "finishing", "our", "wine", "making\\/labeling", "over", "at", "Casavino", "."], "e1_text": "stopped", "e1_pos": 5, "e2_text": "finishing", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "were", "starving", "after", "all", "the", "work", "we", "had", "to", "do", "-LRB-", "not", "really", "lots", "of", "work", "but", "starving", "nonetheless", "-RRB-", "We", "noticed", "it", "and", "decide", ",", "why", "not", "?"], "e1_text": "were", "e1_pos": 1, "e2_text": "work", "e2_pos": 6, "label": "after"}
+]

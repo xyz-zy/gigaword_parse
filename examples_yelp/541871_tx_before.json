@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "spent", "some", "time", "in", "a", "smaller", "room", "in", "the", "back", "of", "the", "club", "before", "we", "made", "our", "way", "to", "the", "main", "dance", "floor", "which", "was", "the", "highlight", "of", "the", "night", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "made", "e2_pos": 16, "label": "before"}
+]

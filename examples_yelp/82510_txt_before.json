@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "and", "drinks", "was", "delicious", "-LRB-", "omg", "those", "little", "muffins", "they", "give", "you", "-RRB-", "the", "servers", "were", "all", "amazing", "although", "they", "tried", "to", "take", "my", "plate", "at", "least", "four", "times", "before", "I", "was", "finished", "eating", "...", "But", "all", "in", "all", "a", "wonderful", "place", "!"], "e1_text": "take", "e1_pos": 24, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

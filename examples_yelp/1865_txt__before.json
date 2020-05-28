@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "do", "n't", "understand", "why", "my", "appointment", "is", "$", "55", "more", "than", "it", "was", "6", "weeks", "before", "-LRB-", "and", "6", "weeks", "before", "I", "actually", "bought", "PRODUCT", "!", "-RRB-", "."], "e1_text": "is", "e1_pos": 8, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

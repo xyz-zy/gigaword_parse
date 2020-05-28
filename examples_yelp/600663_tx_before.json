@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "nail", "tech", "did", "an", "adequate", "job", ",", "but", "unfortunately", ",", "they", "do", "n't", "have", "a", "dryer", "for", "your", "toenails", ",", "so", "you", "just", "have", "to", "sit", "in", "your", "pedi", "chair", "for", "a", "bit", "before", "you", "leave", "if", "you", "do", "n't", "want", "to", "mess", "up", "your", "new", "polish", "before", "it", "properly", "dries", "."], "e1_text": "sit", "e1_pos": 26, "e2_text": "leave", "e2_pos": 36, "label": "before"},
+{"tokens": ["But", "again", ",", "with", "no", "dryer", ",", "I", "decided", "to", "stay", "in", "the", "pedi", "chair", "&", "take", "my", "time", "finishing", "my", "wine", "before", "leaving", "."], "e1_text": "finishing", "e1_pos": 19, "e2_text": "leaving", "e2_pos": 23, "label": "before"}
+]

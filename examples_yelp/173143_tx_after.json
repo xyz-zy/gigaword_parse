@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "my", "cafe", "au", "lait", "took", "about", "20", "minutes", "to", "arrive", ",", "and", "that", "was", "only", "after", "I", "reminded", "one", "of", "our", "servers", "about", "it", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "reminded", "e2_pos": 18, "label": "after"}
+]

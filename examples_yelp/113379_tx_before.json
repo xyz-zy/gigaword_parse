@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "a", "little", "squeamish", "about", "eating", "things", "that", "have", "mushy\\/gushy\\/floppy", "textures", "so", "I", "was", "scared", "before", "trying", "it", "but", "it", "was", "INCREDIBLE", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "trying", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "engulfed", "that", "immediately", "and", "only", "waited", "briefly", "before", "getting", "our", "meals", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "getting", "e2_pos": 9, "label": "before"}
+]

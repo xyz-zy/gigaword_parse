@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "at", "the", "front", "desk", "confirmed", "that", "-LRB-", "after", "I", "had", "to", "wait", "in", "line", "15", "min", "to", "check", "out", "-RRB-", "."], "e1_text": "confirmed", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

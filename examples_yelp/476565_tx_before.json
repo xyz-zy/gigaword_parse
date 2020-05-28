@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "both", "asked", "me", "what", "I", "liked", "before", "they", "started", "and", "I", "gave", "them", "some", "loose", "guidelines", "."], "e1_text": "liked", "e1_pos": 6, "e2_text": "started", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "hair", "was", "done", "before", "I", "knew", "it", ",", "which", "is", "great", "because", "she", "did", "n't", "yank", "or", "pull", "or", "stab", "with", "me", "bobby", "pins", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "knew", "e2_pos": 6, "label": "before"}
+]

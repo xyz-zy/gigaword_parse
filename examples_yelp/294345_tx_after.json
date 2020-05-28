@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "came", "out", "a", "long", "while", "after", "the", "basket", "of", "crudites", "disappeared", ",", "and", "by", "then", "the", "restaurant", "had", "started", "to", "fill", ",", "and", "we", "kept", "hearing", "the", "same", "story", "about", "Bobby", "Darin", "and", "the", "Rat", "Pack", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "disappeared", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "asked", "for", "the", "check", "and", "that", "took", "an", "additional", "10", "minutes", ",", "then", "10", "more", "minutes", "before", "it", "was", "picked", "up", "after", "we", "laid", "down", "the", "credit", "card", "."], "e1_text": "picked", "e1_pos": 20, "e2_text": "laid", "e2_pos": 24, "label": "after"}
+]

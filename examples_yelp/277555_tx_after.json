@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "last", "roll", "did", "n't", "show", "up", "until", "about", "30", "minutes", "after", "we", "ordered", "and", "they", "almost", "completely", "forgot", "our", "Unagi", "pieces", "-LRB-", "which", "I", "found", "odd", "considering", "the", "waitress", "had", "highlighted", "all", "our", "selections", "on", "the", "order", "slip", "to", "make", "sure", "the", "chefs", "did", "n't", "forget", "anything", "-RRB-", "."], "e1_text": "show", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 13, "label": "after"},
+{"tokens": ["Even", "the", "special", "roll", "we", "ordered", "was", "boring", "-LRB-", "I", "do", "n't", "remember", "which", "state", "it", "was", "named", "after", "because", "all", "the", "names", "seemed", "to", "have", "been", "assigned", "arbitrarily", "and", "this", "was", "all", "just", "too", "gimicky", "even", "for", "me", "-RRB-", "."], "e1_text": "named", "e1_pos": 17, "e2_text": "seemed", "e2_pos": 23, "label": "after"}
+]

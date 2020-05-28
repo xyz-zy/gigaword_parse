@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "is", "also", "not", "acceptable", "customer", "service", "when", "you", "do", "n't", "even", "know", "how", "to", "act", "with", "simple", "courtesy", "--", "I", "would", "not", "have", "minded", "as", "much", "if", "they", "could", "just", "say", "''", "``", "sorry", "that", "the", "agent", "did", "not", "inform", "you", "of", "the", "policy", "before", "you", "rent", "the", "car", ",", "but", "...", "''", "''", "It", "'s", "bad", "enough", "to", "have", "a", "customer-alienating", "policy", "."], "e1_text": "inform", "e1_pos": 40, "e2_text": "rent", "e2_pos": 47, "label": "before"}
+]

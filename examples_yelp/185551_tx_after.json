@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "joked", "about", "it", "with", "the", "waitress", ",", "who", "did", "apologize", ",", "and", "wanted", "to", "replace", "it", "but", "after", "waiting", "so", "long", "I", "was", "pretty", "hungry", "from", "waiting", "so", "long", "...", "Wheres", "Gordon", "Ramsey", "when", "you", "need", "him", "checking", "the", "food", "?"], "e1_text": "replace", "e1_pos": 15, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

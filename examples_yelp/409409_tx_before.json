@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "like", "the", "convenience", "of", "the", "computers", "available", "inside", "...", "we", "frequently", "use", "these", "to", "check", "the", "movie", "times", "before", "heading", "to", "the", "theater", "."], "e1_text": "check", "e1_pos": 16, "e2_text": "heading", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wrong", ",", "he", "proceeded", "to", "clear", "more", "tables", "and", "more", "tables", "before", "someone", "else", "had", "to", "come", "seat", "us", "."], "e1_text": "clear", "e1_pos": 5, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "think", "this", "place", "needs", "to", "work", "on", "customer", "service", "more", "before", "they", "continue", "to", "lose", "customers", "."], "e1_text": "work", "e1_pos": 6, "e2_text": "continue", "e2_pos": 13, "label": "before"}
+]

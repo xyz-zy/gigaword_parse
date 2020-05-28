@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "looked", "at", "the", "menu", "before", "going", "and", "the", "vegetarian", "sandwiches", "sounded", "pretty", "good", "."], "e1_text": "looked", "e1_pos": 1, "e2_text": "going", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "have", "been", "to", "some", "places", "before", "where", "its", "been", "pretty", "dead", ",", "and", "the", "service", "is", "slower", "than", "it", "should", "be", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "is", "e2_pos": 16, "label": "before"}
+]

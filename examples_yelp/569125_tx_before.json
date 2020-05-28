@@ -1,0 +1,3 @@
+[
+{"tokens": ["Temperature", "control", "needs", "to", "be", "applied", "to", "their", "food", "before", "bringing", "it", "to", "the", "table", "."], "e1_text": "applied", "e1_pos": 5, "e2_text": "bringing", "e2_pos": 10, "label": "before"}
+]

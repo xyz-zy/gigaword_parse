@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "probably", "should", "have", "said", "to", "go", "in", "line", "but", "I", "was", "n't", "sure", "how", "this", "place", "worked", "so", "I", "had", "to", "ask", "the", "cashier", "to", "wrap", "up", "my", "plates", "to", "go", "after", "I", "paid", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "paid", "e2_pos": 34, "label": "after"}
+]

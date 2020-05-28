@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "also", "had", "to", "wait", "five", "minutes", "after", "my", "friends", "got", "their", "food", "for", "my", "plate", "to", "come", "out", ".", "-RRB-"], "e1_text": "wait", "e1_pos": 5, "e2_text": "got", "e2_pos": 11, "label": "after"},
+{"tokens": ["Our", "waitress", "was", "nice", ",", "but", "never", "really", "checked", "in", "on", "us", "after", "our", "food", "was", "served", ",", "thus", "my", "five", "minute", "wait", "for", "my", "food", "."], "e1_text": "checked", "e1_pos": 8, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

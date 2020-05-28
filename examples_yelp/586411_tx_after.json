@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "and", "I", "came", "here", "a", "little", "bit", "after", "they", "opened", "in", "the", "late", "morning", ",", "so", "we", "did", "n't", "have", "to", "wait", "too", "long", "for", "a", "table", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "opened", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "remember", "that", "our", "waiter", "forgot", "our", "order", "multiple", "times", "...", "and", "would", "disappear", "for", "a", "long", "time", "after", "we", "had", "asked", "him", "to", "check", "on", "our", "food", "."], "e1_text": "disappear", "e1_pos": 13, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

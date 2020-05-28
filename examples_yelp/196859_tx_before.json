@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "with", "five", "girls", "for", "a", "economical", "brunch", "before", "hitting", "the", "pool\\/slots", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "hitting", "e2_pos": 9, "label": "before"},
+{"tokens": ["Everything", "was", "terrible", "about", "this", "place", "-", "so", "bad", "that", "I", "made", "a", "severe", "mental", "note", "to", "warn", "THE", "OTHERS", "on", "Yelp", "before", "they", "made", "this", "tragic", "mistake", "."], "e1_text": "warn", "e1_pos": 17, "e2_text": "made", "e2_pos": 11, "label": "before"}
+]

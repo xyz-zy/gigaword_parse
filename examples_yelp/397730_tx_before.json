@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "bought", "a", "half", "off", "deal", "coupon", "before", "I", "got", "a", "chance", "to", "review", "this", "place", "on", "Yelp", "."], "e1_text": "bought", "e1_pos": 2, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["But", "I", "thought", "I", "'d", "look", "anyways", "before", "we", "went", "and", "it", "looked", "pretty", "dismal", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "went", "e2_pos": 9, "label": "before"}
+]

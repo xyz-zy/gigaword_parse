@@ -1,0 +1,4 @@
+[
+{"tokens": ["Rule", "#", "1", "Know", "what", "you", "want", "before", "you", "go", "into", "the", "store", "."], "e1_text": "want", "e1_pos": 6, "e2_text": "go", "e2_pos": 9, "label": "before"},
+{"tokens": ["Definitely", "check", "it", "out", "before", "you", "head", "there", "if", "you", "can", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "head", "e2_pos": 6, "label": "before"}
+]

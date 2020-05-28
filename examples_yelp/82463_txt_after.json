@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "know", "how", "after", "you", "eat", "something", "not", "very", "good", "--", "you", "'re", "angry", "you", "wasted", "calories", "?"], "e1_text": "know", "e1_pos": 1, "e2_text": "eat", "e2_pos": 5, "label": "after"},
+{"tokens": ["In", "fact", ",", "it", "was", "a", "bit", "wet", "as", "if", "someone", "did", "n't", "spin", "the", "salad", "spinner", "long", "enough", "after", "washing", "."], "e1_text": "spin", "e1_pos": 13, "e2_text": "washing", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Only", "negative", "I", "have", "to", "say", "is", "that", "the", "vet", "wanted", "to", "do", "X-rays", "on", "our", "dog", "after", "we", "talked", "to", "her", "but", "she", "did", "n't", "even", "touch", "him", "or", "look", "at", "him", "first", "."], "e1_text": "do", "e1_pos": 12, "e2_text": "talked", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "will", "NOT", "get", "housekeeping", "service", "-", "Overflowing", "trash", "and", "out", "of", "towels", "by", "day", "3", ",", "it", "was", "n't", "until", "I", "went", "downstairs", "and", "raised", "holy", "hell", "after", "the", "second", "night", "did", "they", "send", "someone", "to", "clean", "our", "room", "."], "e1_text": "raised", "e1_pos": 25, "e2_text": "did", "e2_pos": 32, "label": "after"},
+{"tokens": ["You", "will", "have", "nowhere", "to", "park", "your", "car", "-", "The", "valet", "and", "self", "park", "filled", "up", "every", "evening", "leaving", "us", "with", "no", "where", "to", "park", "the", "car", "after", "returning", "from", "the", "day", "."], "e1_text": "park", "e1_pos": 5, "e2_text": "returning", "e2_pos": 28, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "Not", "So", "Good", ":", "One", "of", "the", "gals", "in", "our", "party", "ordered", "a", "veggie", "sandwich", "off", "the", "lunch", "menu", "and", "it", "was", "explained", "to", "us", "that", "she", "would", "get", "her", "meal", "a", "few", "minutes", "after", "the", "rest", "of", "us", "who", "ordered", "breakfast", "."], "e1_text": "get", "e1_pos": 29, "e2_text": "ordered", "e2_pos": 41, "label": "after"},
+{"tokens": ["I", "guess", "if", "we", "wanted", "breakfast", "we", "had", "to", "order", "before", "11", "and", "after", "that", "is", "when", "the", "lunch", "menu", "kicks", "in", "."], "e1_text": "guess", "e1_pos": 1, "e2_text": "is", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "saw", "plenty", "of", "other", "people", "who", "sat", "down", "after", "11:00", "that", "got", "their", "sandwiches", "."], "e1_text": "sat", "e1_pos": 7, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

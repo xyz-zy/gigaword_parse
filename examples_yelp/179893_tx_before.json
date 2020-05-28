@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "get", "on", "the", "guest", "list", "ahead", "of", "time", "by", "visiting", "the", "web", "site", "well", "before", "arriving", "."], "e1_text": "visiting", "e1_pos": 11, "e2_text": "arriving", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "have", "only", "come", "to", "Vegas", "on", "non", "weekends", "before", "so", "being", "a", "Saturday", "night", "on", "Memorial", "Day", "weekend", "was", "a", "completely", "different", "experience", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

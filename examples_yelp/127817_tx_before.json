@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "loudly", "say", "''", "``", "it", "'s", "been", "there", "for", "a", "half", "hour", "and", "has", "n't", "been", "touched", ",", "he", "'s", "not", "doing", "his", "job", "''", "''", "before", "she", "asked", "him", "to", "run", "it", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "asked", "e2_pos": 31, "label": "before"}
+]

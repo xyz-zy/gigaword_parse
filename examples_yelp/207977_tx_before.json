@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "is", "complete", "and", "total", "garbage", ";", "I", "'ve", "left", "before", "ordering", "three", "times", "due", "to", "waiting", "for", "over", "15", "minutes", "for", "a", "waiter\\/waitress", "to", "take", "our", "order", "."], "e1_text": "left", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 12, "label": "before"}
+]

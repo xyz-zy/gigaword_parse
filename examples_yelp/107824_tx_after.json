@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "eating", "here", "-", "it", "'s", "slightly", "better", "than", "bar", "food", "and", "totally", "delicious", "...", "I", "'ve", "only", "felt", "ill", "after", "eating", "here", "a", "few", "times", ",", "but", "I", "ca", "n't", "necessarily", "blame", "the", "food", "for", "sure", "."], "e1_text": "felt", "e1_pos": 19, "e2_text": "eating", "e2_pos": 2, "label": "after"}
+]

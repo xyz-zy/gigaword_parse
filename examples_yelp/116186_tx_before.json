@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "short", "an", "sweet", "report", "about", "lunch", "...", "This", "was", "a", "quick", "lunch", "with", "my", "best", "friend", "Melissa", "and", "was", "well", "worth", "it", "!!", "We", "were", "greeted", "by", "the", "counter", "person", "with", "a", "warm", "welcome", "and", "when", "I", "advised", "I", "had", "never", "been", "here", "before", ",", "she", "took", "me", "through", "a", "quick", "tour", "of", "the", "menu", "and", "suggested", "what", "to", "order", "."], "e1_text": "advised", "e1_pos": 38, "e2_text": "had", "e2_pos": 40, "label": "before"}
+]

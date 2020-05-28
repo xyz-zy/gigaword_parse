@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "they", "are", "''", "``", "liable", "''", "''", "after", "taking", "the", "tire", "off", ",", "but", "if", "they", "would", "have", "examined", "the", "tire", "on", "the", "lift", "prior", "to", "taking", "it", "off", "they", "could", "have", "determined", "that", "and", "simply", "said", "they", "would", "n't", "patch", "it", "."], "e1_text": "understand", "e1_pos": 1, "e2_text": "taking", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "a", "table", "of", "6", "who", "left", "about", "30", "minutes", "after", "we", "got", "there", ",", "-LRB-", "they", "were", "done", "-RRB-", "and", "it", "took", "over", "20", "+", "minutes", "for", "the", "table", "to", "even", "get", "cleaned", "and", "reset", "while", "I", "watched", "a", "part", "of", "6", "or", "7", "sit", "up", "front", "for", "over", "20", "minutes", ",", "and", "there", "were", "some", "other", "free", "tables", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "got", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "felt", "horrible", "after", "I", "ate", "there", "but", "I", "may", "give", "them", "another", "shot", "in", "the", "future", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "ate", "e2_pos": 5, "label": "after"}
+]

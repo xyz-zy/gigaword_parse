@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "ate", "here", "last", "night", ",", "before", "seeing", "Jersey", "Boys", "."], "e1_text": "ate", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 10, "label": "before"},
+{"tokens": ["Despite", "the", "fact", "that", "I", "told", "our", "waiter", "I", "will", "need", "about", "10", "minutes", "before", "we", "'re", "ready", "to", "order", ",", "he", "kept", "coming", "back", "every", "minute", "or", "two", "to", "ask", "if", "I", "was", "ready", "to", "order", "...", "what", "'s", "his", "hurry", "?"], "e1_text": "need", "e1_pos": 10, "e2_text": "'re", "e2_pos": 16, "label": "before"}
+]

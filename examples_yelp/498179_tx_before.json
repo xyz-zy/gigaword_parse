@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "like", "the", "guy", "had", "never", "had", "a", "birthday", "table", "before", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["We", "had", "to", "all", "chip", "in", "our", "own", "napkins", "as", "well", "as", "take", "some", "from", "other", "tables", "to", "soak", "up", "the", "water", "before", "it", "spilled", "all", "over", "the", "floor", "."], "e1_text": "soak", "e1_pos": 18, "e2_text": "spilled", "e2_pos": 24, "label": "before"}
+]

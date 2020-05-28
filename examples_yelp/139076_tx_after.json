@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "was", "blah", ",", "and", "our", "waitress", "was", "nice", ",", "but", "disappeared", "for", "45", "min", "after", "we", "got", "our", "food", "!"], "e1_text": "disappeared", "e1_pos": 12, "e2_text": "got", "e2_pos": 18, "label": "after"}
+]

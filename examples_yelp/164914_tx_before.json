@@ -1,0 +1,3 @@
+[
+{"tokens": ["Everyone", "that", "ordered", "the", "lobster", "bisque", "got", "food", "poisoning", ",", "and", "it", "was", "so", "unfortunate", "we", "ate", "this", "the", "night", "before", "we", "were", "to", "head", "back", "home", "to", "LA.", "."], "e1_text": "ate", "e1_pos": 16, "e2_text": "were", "e2_pos": 22, "label": "before"}
+]

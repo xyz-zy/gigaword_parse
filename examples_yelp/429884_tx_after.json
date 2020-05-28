@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "they", "arranged", "for", "a", "pick", "up", "at", "the", "Scottsdale", "store", ",", "but", "it", "came", "back", "into", "stock", "at", "San", "Tan", "just", "a", "few", "hours", "after", "I", "left", "."], "e1_text": "came", "e1_pos": 14, "e2_text": "left", "e2_pos": 27, "label": "after"}
+]

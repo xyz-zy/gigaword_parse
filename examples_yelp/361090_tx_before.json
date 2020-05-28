@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "allowed", "several", "minutes", "extra", "I", "guess", ",", "because", "it", "had", "clearly", "been", "sitting", "awhile", "before", "being", "brought", "out", ",", "the", "ice", "cream", "was", "half", "melted", "-", "so", "much", "soup", "of", "ice", "cream", "you", "could", "not", "see", "the", "cookie", "."], "e1_text": "sitting", "e1_pos": 13, "e2_text": "being", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "'ll", "be", "picking", "Bravo", "or", "Chili", "'s", "again", "LOTS", "of", "times", "before", "picking", "Cheddars", "again", "."], "e1_text": "'s", "e1_pos": 7, "e2_text": "picking", "e2_pos": 3, "label": "before"}
+]

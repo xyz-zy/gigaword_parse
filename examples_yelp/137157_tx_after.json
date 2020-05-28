@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "came", "back", "to", "the", "room", "on", "our", "second", "day", "there", ",", "after", "only", "having", "two", "or", "three", "drinks", "out", "of", "the", "bottle", ",", "we", "opened", "up", "the", "fridge", "to", "find", "that", "it", "was", "almost", "empty", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "having", "e2_pos": 14, "label": "after"},
+{"tokens": ["This", "was", "after", "our", "room", "had", "been", "cleaned", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["They", "offered", "us", "a", "free", "breakfast", "after", "we", "first", "had", "mentioned", "it", "to", "them", "which", "was", "lovely", "...", "until", "we", "got", "back", "later", "in", "the", "day", "and", "they", "had", "messed", "with", "it", "again", "."], "e1_text": "offered", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

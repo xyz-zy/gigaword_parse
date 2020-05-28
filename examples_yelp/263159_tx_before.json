@@ -1,0 +1,5 @@
+[
+{"tokens": ["Unfortunately", ",", "in", "the", "contract", ",", "you", "have", "to", "look", "over", "all", "your", "furniture", "before", "the", "movers", "leave", "to", "determine", "what", "was", "damaged", "-LRB-", "how", "can", "you", "prove", "it", "anyway", "...", "It", "'s", "your", "word", "against", "theirs", "-RRB-", "...", "And", "who", "actually", "is", "going", "to", "look", "through", "every", "single", "item", "that", "was", "moved", "?"], "e1_text": "look", "e1_pos": 9, "e2_text": "leave", "e2_pos": 17, "label": "before"},
+{"tokens": ["Again", ",", "I", "just", "did", "n't", "have", "the", "time", "to", "put", "every", "piece", "of", "furniture", "under", "a", "microscope", ",", "especially", "with", "a", "newborn", ",", "before", "they", "left", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "left", "e2_pos": 26, "label": "before"},
+{"tokens": ["It", "was", "n't", "broken", "before", "he", "touched", "and", "I", "told", "him", "that", "."], "e1_text": "broken", "e1_pos": 3, "e2_text": "touched", "e2_pos": 6, "label": "before"}
+]

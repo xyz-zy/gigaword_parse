@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "an", "appointment", "for", "3", "pedicures", "for", "11:15", ",", "it", "was", "11:45", "before", "we", "were", "all", "in", "a", "chair", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "were", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "started", "on", "my", "friends", "before", "coming", "to", "me", "again", "throwing", "off", "the", "point", "of", "making", "an", "appointment", "for", "3", "."], "e1_text": "started", "e1_pos": 1, "e2_text": "coming", "e2_pos": 6, "label": "before"}
+]

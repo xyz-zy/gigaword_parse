@@ -1,0 +1,4 @@
+[
+{"tokens": ["Granted", "this", "was", "after", "I", "had", "given", "my", "notice", "to", "move", "out", ",", "but", "the", "lack", "of", "respect", "was", "extraordinary", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "was", "content", "with", "the", "location", "of", "the", "apartment", "complex", ",", "especially", "when", "I", "worked", "in", "the", "uptown", "area", ",", "but", "after", "I", "started", "to", "work", "from", "home", "last", "year", ",", "it", "was", "just", "ridiculous", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "started", "e2_pos": 23, "label": "after"}
+]

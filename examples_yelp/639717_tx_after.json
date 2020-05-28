@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hubby", "ordered", "a", "peach", "ale", "which", "still", "had", "n't", "arrived", "10", "mins", "after", "ordering", "since", "they", "needed", "to", "change", "out", "the", "tap", "-", "I", "appreciate", "they", "told", "us", "at", "least", ",", "but", "it", "would", "have", "been", "nice", "for", "them", "to", "get", "a", "move", "on", "!"], "e1_text": "arrived", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "received", "it", "after", "asking", "again", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "asking", "e2_pos": 4, "label": "after"}
+]

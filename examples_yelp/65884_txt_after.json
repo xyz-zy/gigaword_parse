@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "me", "and", "my", "husband", "got", "major", "headaches", "right", "after", "drinking", "their", "teas", "with", "boba", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "drinking", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "am", "still", "drowsy", "after", "couple", "hours", "!!!!", "Wtf", "is", "in", "our", "drinks", "?!!", "I", "'m", "not", "going", "again", "!"], "e1_text": "am", "e1_pos": 1, "e2_text": "?!!", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "guy", "who", "was", "supposed", "to", "help", "us", "just", "sat", "there", "and", "messed", "with", "the", "computer", "for", "about", "5", "mins", "before", "speaking", "to", "us", "."], "e1_text": "messed", "e1_pos": 12, "e2_text": "speaking", "e2_pos": 21, "label": "before"}
+]

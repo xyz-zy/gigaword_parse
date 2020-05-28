@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "ignored", "me", "when", "I", "tried", "to", "flag", "her", "down", "after", "we", "had", "made", "our", "initial", "order", ",", "because", "we", "decided", "to", "add", "an", "order", "of", "escargot", "as", "an", "appetizer", "."], "e1_text": "flag", "e1_pos": 7, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "also", "asked", "for", "raw", "sugar", "and", "she", "forgot", "and", "I", "had", "to", "ask", "her", "again", "after", "waiting", "a", "good", "while", "."], "e1_text": "ask", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

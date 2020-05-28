@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyway", ",", "we", "looked", "at", "the", "menu", "and", "knew", "what", "we", "wanted", "since", "we", "had", "been", "before", "."], "e1_text": "wanted", "e1_pos": 11, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["Mind", "you", "it", "was", "4:30", "on", "a", "Saturday", "afternoon", ",", "how", "does", "a", "BBQ", "joint", "run", "out", "of", "mac", "n", "cheese", "before", "Saturday", "night", "even", "starts", "???", "My", "sandwich", "was", "OK", ",", "not", "as", "good", "as", "it", "was", "the", "time", "before", "."], "e1_text": "run", "e1_pos": 15, "e2_text": "starts", "e2_pos": 25, "label": "before"}
+]

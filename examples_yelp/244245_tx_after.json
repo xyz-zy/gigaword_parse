@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "waited", "and", "saw", "a", "few", "small", "groups", "of", "customers", "after", "me", "receive", "there", "order", "before", "me", "I", "asked", "for", "my", "order", "and", "the", "cook", "says", "''", "``", "it", "takes", "a", "few", "minutes", "for", "the", "chili", "to", "boil", "''", "''", "45", "mins", "after", "ordering", "I", "got", "my", "order", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "receive", "e2_pos": 13, "label": "after"}
+]

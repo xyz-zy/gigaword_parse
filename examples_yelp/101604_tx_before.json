@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "terrible", "service", ",", "we", "waited", "for", "5", "minutes", "before", "receiving", "menus", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "receiving", "e2_pos": 11, "label": "before"},
+{"tokens": ["During", "that", "time", "they", "asked", "what", "we", "wanted", "to", "eat", "&", "drink", "before", "noticing", "that", "we", "did", "not", "have", "any", "menus", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "noticing", "e2_pos": 13, "label": "before"}
+]

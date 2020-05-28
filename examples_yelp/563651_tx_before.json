@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sent", "a", "email", "to", "Carl", "'s", "Jr", "as", "well", "as", "calling", "their", "''", "``", "guest", "''", "''", "Hotline", "asking", "them", "to", "fix", "the", "problem", "before", "someone", "gets", "sick", "."], "e1_text": "fix", "e1_pos": 22, "e2_text": "gets", "e2_pos": 27, "label": "before"}
+]

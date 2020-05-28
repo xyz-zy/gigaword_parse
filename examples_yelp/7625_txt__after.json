@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "here", "makes", "you", "feel", "real", "greasy", "after", "eating", "it", "."], "e1_text": "feel", "e1_pos": 5, "e2_text": "eating", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "instantaenously", "had", "the", "itis", "after", "leaving", "here", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 6, "label": "after"}
+]

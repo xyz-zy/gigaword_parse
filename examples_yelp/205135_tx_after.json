@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "a", "coupon", "off", "of", "restaurants.com", "to", "get", "a", "free", "$", "25", "even", "after", "the", "free", "$", "25", "I", "still", "had", "to", "pay", "$", "60", "which", "is", "crazy", "because", "thats", "really", "expensive", "for", "food", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "had", "e2_pos": 21, "label": "after"}
+]

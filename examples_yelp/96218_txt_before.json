@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "on", "multiple", "occasions", "when", "i", "call", "in", "to", "set", "an", "appointment", "they", "always", "have", "a", "nurse", "call", "back", "before", "hand", "to", "ensure", "that", "an", "appointment", "is", "needed", ",", "OK", "not", "a", "problem", "."], "e1_text": "have", "e1_pos": 15, "e2_text": "call", "e2_pos": 7, "label": "before"}
+]

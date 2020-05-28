@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "lactose", "intolerance", "has", "a", "lot", "to", "do", "with", "that", ",", "but", "time", "management", "plays", "a", "key", "factor", "as", "well", "as", "I", "usually", "just", "need", "something", "quick", "to", "eat", "before", "running", "out", "the", "door", "to", "work", "which", "limits", "the", "amount", "of", "breakfast", "I", "eat", "in", "general", "."], "e1_text": "eat", "e1_pos": 28, "e2_text": "running", "e2_pos": 30, "label": "before"}
+]

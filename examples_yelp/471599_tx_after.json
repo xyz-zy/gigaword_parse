@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", ":", "It", "had", "potential", "to", "be", "good", "but", "our", "server", "kept", "coming", "back", "every", "ten", "minutes", ",", "even", "after", "we", "told", "her", "we", "would", "be", "taking", "out", "time", "."], "e1_text": "coming", "e1_pos": 12, "e2_text": "told", "e2_pos": 21, "label": "after"}
+]

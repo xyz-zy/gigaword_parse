@@ -1,0 +1,3 @@
+[
+{"tokens": ["Update", ":", "he", "called", "12", "weeks", "later", "and", "said", "the", "chairs", "are", "being", "delivered", "and", "then", "20", "minutes", "before", "they", "show", "up", ",", "he", "says", "the", "chairs", "are", "the", "wrong", "color", "!?!", "I", "'ve", "had", "it", "!"], "e1_text": "said", "e1_pos": 8, "e2_text": "show", "e2_pos": 20, "label": "before"}
+]

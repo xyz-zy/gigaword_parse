@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "'d", "like", "to", "go", "here", ",", "I", "would", "suggest", "arriving", "before", "5:30", "or", "after", "9pm", "-LRB-", "the", "chef", "told", "us", "that", "9pm", "is", "about", "the", "best", "time", "to", "come", "-RRB-", "."], "e1_text": "arriving", "e1_pos": 11, "e2_text": "told", "e2_pos": 20, "label": "after"},
+{"tokens": ["When", "I", "go", "back", "-LRB-", "\\*", "if", "\\*", "is", "not", "a", "question", "-RRB-", ",", "I", "will", "probably", "skip", "the", "fries", "-LRB-", "blasphemy", "to", "some", ",", "I", "'m", "sure", ",", "but", "after", "the", "poutine", "maybe", "I", "was", "fry-overloaded", "-RRB-", ",", "but", "will", "be", "most", "tempted", "to", "order", "the", "ravioli", "and", "arancini", "again", "."], "e1_text": "skip", "e1_pos": 17, "e2_text": "was", "e2_pos": 35, "label": "after"}
+]

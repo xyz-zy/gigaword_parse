@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "started", "out", "okay", ",", "but", "felt", "like", "we", "were", "slighted", "after", "we", "started", "off", "on", "the", "wrong", "foot", "as", "it", "seems", "."], "e1_text": "slighted", "e1_pos": 10, "e2_text": "started", "e2_pos": 1, "label": "after"},
+{"tokens": ["Well", ",", "that", "was", "n't", "the", "case", ";", "after", "calling", "3", "times", "to", "attempt", "to", "make", "a", "reservation", "-", "I", "was", "told", "all", "three", "times", "none", "needed", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "calling", "e2_pos": 9, "label": "after"}
+]

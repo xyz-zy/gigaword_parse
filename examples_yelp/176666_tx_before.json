@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "tix", "to", "Zumanity", "that", "we", "had", "to", "pick", "up", "2hrs", "before", "the", "show", "started", ",", "we", "asked", "our", "friend", "-", "who", "'s", "worked", "at", "NYNY", "for", "several", "years", "-", "where", "we", "should", "grab", "dinner", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "started", "e2_pos": 14, "label": "before"},
+{"tokens": ["A", "good", "15", "more", "min", "went", "by", "before", "someone", "came", "to", "fetch", "our", "plastic", "to", "pay", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "came", "e2_pos": 9, "label": "before"}
+]

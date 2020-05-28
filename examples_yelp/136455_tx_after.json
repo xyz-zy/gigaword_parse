@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "really", "hesitant", "about", "this", "place", "after", "I", "read", "the", "yelp", "reviews", "...", "but", "because", "I", "was", "with", "a", "group", "and", "someone", "else", "was", "in", "charge", "of", "booking", "the", "hotel", "-LRB-", "and", "they", "already", "purchased", "a", "deal", "on", "Groupon", "-RRB-", ",", "there", "was", "nothing", "I", "could", "do", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "read", "e2_pos": 9, "label": "after"}
+]

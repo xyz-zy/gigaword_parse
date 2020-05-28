@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "the", "bus", "boy", "came", "to", "take", "our", "plates", "away", "2", "mins", "after", "being", "served", ",", "and", "before", "we", "had", "even", "started", "on", "the", "food", "!"], "e1_text": "take", "e1_pos": 7, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "had", "high", "hopes", "after", "reading", "my", "fellow", "yelpers", "'", "reviews", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"}
+]

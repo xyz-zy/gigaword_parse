@@ -1,0 +1,7 @@
+[
+{"tokens": ["We", "arrived", "at", "6:00", "PM", ",", "and", "we", "did", "n't", "start", "eating", "until", "8:20", "PM", "after", "watching", "scores", "of", "people", "coming", "in", "and", "out", "."], "e1_text": "eating", "e1_pos": 11, "e2_text": "watching", "e2_pos": 16, "label": "after"},
+{"tokens": ["How", "could", "it", "be", "that", "30", "minutes", "go", "by", ",", "and", "nothing", "opens", "up", "after", "being", "told", "we", "were", "next", "?"], "e1_text": "opens", "e1_pos": 12, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["Finally", ",", "a", "member", "of", "our", "party", "points", "to", "a", "couple", "sitting", "at", "a", "table", "that", "we", "noticed", "arrive", "about", "an", "hour", "after", "we", "did", "!"], "e1_text": "arrive", "e1_pos": 18, "e2_text": "did", "e2_pos": 24, "label": "after"},
+{"tokens": ["To", "cause", "insult", "to", "injury", ",", "their", "food", "arrived", "first", ",", "even", "after", "we", "ordered", "ahead", "of", "them", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "do", "n't", "care", "how", "good", "the", "food", "is", ",", "after", "an", "experience", "like", "that", ",", "I", "would", "never", "step", "my", "foot", "in", "this", "so", "called", "restaurant", "!"], "e1_text": "is", "e1_pos": 8, "e2_text": "like", "e2_pos": 13, "label": "after"}
+]

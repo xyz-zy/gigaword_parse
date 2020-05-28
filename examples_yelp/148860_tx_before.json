@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "about", "5", "minutes", "before", "an", "employee", "ran", "to", "my", "car", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "ran", "e2_pos": 8, "label": "before"},
+{"tokens": ["Always", "check", "your", "bag", "before", "you", "leave", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "leave", "e2_pos": 6, "label": "before"}
+]

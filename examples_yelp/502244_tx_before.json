@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "hired", "Pristine", "cleaning", "to", "clean", "my", "house", "from", "top", "to", "bottom", "including", "cleaning", "the", "carpets", "before", "I", "list", "my", "home", "."], "e1_text": "cleaning", "e1_pos": 3, "e2_text": "list", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "was", "scared", "because", "being", "a", "military", "family", "we", "have", "had", "to", "use", "people", "to", "clean", "our", "homes", "before", "and", "no", "one", "ever", "did", "a", "good", "job", "."], "e1_text": "being", "e1_pos": 4, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

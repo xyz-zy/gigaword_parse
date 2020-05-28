@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "disappeared", "shortly", "after", "our", "cocktails", "were", "delivered", "-LRB-", "we", "did", "not", "see", "him", "again", "until", "our", "meal", "was", "over", "which", "was", "about", "an", "hour", "and", "15", "minutes", "later", "-RRB-", "."], "e1_text": "disappeared", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "after"}
+]

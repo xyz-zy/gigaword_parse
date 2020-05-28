@@ -1,0 +1,4 @@
+[
+{"tokens": ["Most", "of", "the", "girls", "did", "n't", "like", "their", "hair", "and", "told", "the", "stylist", "after", "they", "had", "finished", "but", "once", "everyones", "hair", "was", "done", "the", "stylist", "disappeared", "in", "the", "back", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "sister", "later", "called", "to", "complain", "an", "hour", "after", "left", "seeing", "how", "everyone", "hair", "was", "flat", "at", "that", "point", "."], "e1_text": "complain", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

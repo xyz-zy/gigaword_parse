@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "an", "iced", "tea", "and", "she", "walked", "by", "several", "times", "before", "bringing", "it", ",", "and", "then", "took", "another", "5", "min", "before", "taking", "my", "order", "."], "e1_text": "walked", "e1_pos": 7, "e2_text": "bringing", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "table", "of", "4", "old", "people", "waited", "for", "maybe", "10", "min", "before", "being", "brought", "menus", ",", "and", "had", "to", "walk", "over", "to", "the", "bar", "to", "get", "napkins", "when", "their", "food", "came", "out", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "being", "e2_pos": 12, "label": "before"}
+]

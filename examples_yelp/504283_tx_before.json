@@ -1,0 +1,3 @@
+[
+{"tokens": ["Wha", "????", "-", "Took", "so", "long", "to", "bring", "drinks", "\\/", "take", "our", "order", ",", "my", "brother", "went", "up", "to", "the", "bar", "himself", ",", "got", "a", "beer", ",", "and", "was", "halfway", "through", "it", "at", "our", "table", "before", "the", "waitress", "returned", "with", "our", "original", "drink", "order", "."], "e1_text": "was", "e1_pos": 28, "e2_text": "returned", "e2_pos": 38, "label": "before"}
+]

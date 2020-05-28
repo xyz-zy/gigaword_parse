@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "car", "was", "pretty", "dirty", "after", "not", "having", "been", "washed", "in", "a", "long", "time", "and", "then", "having", "driven", "it", "to", "LA", "and", "back", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

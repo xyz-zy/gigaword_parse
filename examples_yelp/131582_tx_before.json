@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "for", "dinner", "with", "some", "friends", "before", "we", "head", "out", "to", "go", "drinking", "and", "dancing", "until", "the", "wee", "hours", "of", "the", "morning", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "head", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "Hibachi", "chef", "from", "the", "table", "infront", "of", "us", "finish", "their", "meal", "before", "ours", "came", "to", "cook", "for", "us", "."], "e1_text": "finish", "e1_pos": 9, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "a", "tip", "-", "Bring", "some", "bottles", "of", "booze", "with", "you", "so", "you", "can", "make", "your", "own", "drinks", "in", "your", "room", "before", "spending", "a", "fortune", "at", "the", "bars", "!"], "e1_text": "make", "e1_pos": 15, "e2_text": "spending", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "always", "stop", "by", "a", "fun", "bar\\/liquor", "store", "called", "Office", "Bar", "-LRB-", "which", "is", "a", "half", "mile", "from", "the", "airport", "on", "the", "way", "to", "the", "Strip", "-RRB-", "and", "buy", "a", "few", "bottles", "before", "checking", "into", "our", "hotel", "."], "e1_text": "buy", "e1_pos": 28, "e2_text": "checking", "e2_pos": 33, "label": "before"}
+]

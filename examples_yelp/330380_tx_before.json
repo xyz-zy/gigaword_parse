@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tip", ":", "the", "restaurant", "is", "just", "called", "''", "``", "Saloon", "''", "''", "on", "the", "door", ",", "but", "written", "in", "letters", "and", "numbers", ",", "so", "we", "walked", "by", "it", "a", "few", "times", "before", "we", "actually", "decided", "it", "was", "where", "we", "intended", "to", "dine", "."], "e1_text": "walked", "e1_pos": 25, "e2_text": "decided", "e2_pos": 34, "label": "before"}
+]

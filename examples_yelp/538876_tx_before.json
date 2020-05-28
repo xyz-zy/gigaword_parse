@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pork", "dish", "came", "out", "before", "I", "had", "even", "had", "a", "second", "spoonful", "of", "the", "soup", ",", "so", "I", "asked", "about", "the", "chicken", "wings", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

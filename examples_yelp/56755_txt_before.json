@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "the", "server", "if", "the", "soup", "and", "bread", "basket", "would", "be", "coming", "before", "the", "meal", "as-is", "normal", "for", "most", "restaurants", ",", "and", "she", "said", "''", "``", "I", "put", "the", "bread", "on", "table", "when", "meal", "come", ".", "''", "''"], "e1_text": "coming", "e1_pos": 12, "e2_text": "as-is", "e2_pos": 16, "label": "before"}
+]

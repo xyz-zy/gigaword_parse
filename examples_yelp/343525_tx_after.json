@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "forward", "to", "trying", "Alchemy", "for", "dinner", "last", "Friday", "after", "having", "drinks", "there", "a", "few", "weeks", "ago", "."], "e1_text": "trying", "e1_pos": 5, "e2_text": "having", "e2_pos": 12, "label": "after"},
+{"tokens": ["None", "of", "us", "thought", "too", "much", "of", "it", "until", "it", "took", "45", "minutes", "to", "get", "our", "food", "after", "ordering", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "ordering", "e2_pos": 18, "label": "after"}
+]

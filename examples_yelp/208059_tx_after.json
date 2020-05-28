@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "group", "stayed", "behind", "for", "almost", "another", "hour", "after", "we", "were", "done", "with", "our", "meals", "to", "chat", "-LRB-", "the", "place", "was", "empty", "by", "that", "point", "-RRB-", ",", "and", "our", "waitress", "was", "very", "nice", "and", "continued", "to", "fill", "our", "glasses", "with", "water", "and", "checked", "in", "on", "us", "way", "after", "we", "paid", "our", "bill", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "omelets", "are", "large", ",", "the", "biscuits", "are", "yum", "-LRB-", "but", "are", "substantially", "better", "before", "they", "start", "to", "sit", "out", "too", "long", "post", "breakfast-rush", "-RRB-", ",", "and", "my", "eggs", "are", "always", "cooked", "nicely", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "start", "e2_pos": 16, "label": "before"}
+]

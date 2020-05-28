@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ok", ",", "fricken", "A", "after", "staying", "here", "I", "really", "wish", "I", "was", "at", "Planet", "Hollywood", "again", "!"], "e1_text": "fricken", "e1_pos": 2, "e2_text": "staying", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "was", "hanging", "out", "with", "some", "buddies", "at", "the", "closed", "starbucks", "and", "two", "security", "guards", "stopped", "and", "told", "us", "that", "it", "was", "a", "closed", "area", ",", "and", "we", "had", "just", "ordered", "a", "latte", "or", "two", "and", "stayed", "after", "it", "closed", "...", "The", "place", "smells", "more", "than", "other", "casinos", "and", "the", "video", "slot", "machines", "are", "n't", "as", "good", "as", "a", "lot", "of", "the", "others", "further", "down", "the", "strip", ",", "or", "even", "at", "their", "sister", "casino", "MGM", "."], "e1_text": "stayed", "e1_pos": 36, "e2_text": "closed", "e2_pos": 39, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "sure", "if", "the", "food", "is", "any", "good", "since", "my", "party", "of", "eight", "left", "before", "we", "even", "looked", "at", "the", "menu", "."], "e1_text": "left", "e1_pos": 13, "e2_text": "looked", "e2_pos": 17, "label": "before"},
+{"tokens": ["They", "were", "very", "generally", "curt", "and", "insisted", "our", "entire", "party", "was", "present", "before", "seating", "us", "even", "for", "drinks", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "seating", "e2_pos": 13, "label": "before"}
+]

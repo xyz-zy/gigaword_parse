@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "took", "forever", "after", "we", "placed", "our", "order", ",", "like", "45", "minutes", ",", "and", "once", "it", "was", "finally", "brought", "out", "it", "was", "not", "only", "wrong", "but", "cold", "as", "well", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "placed", "e2_pos": 6, "label": "after"}
+]

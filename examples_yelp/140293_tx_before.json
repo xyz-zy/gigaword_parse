@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "when", "you", "get", "to", "watch", "someone", "play", "with", "your", "food", "before", "you", "eat", "it", ",", "so", "all", "in", "all", "this", "place", "was", "pretty", "good", "."], "e1_text": "watch", "e1_pos": 6, "e2_text": "eat", "e2_pos": 14, "label": "before"}
+]

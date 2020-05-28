@@ -1,0 +1,3 @@
+[
+{"tokens": ["DVDs", "are", "priced", "like", "the", "first", "price", "on", "an", "infomercial", "before", "they", "say", "''", "``", "BUT", "WAIT", "!", "''", "''"], "e1_text": "priced", "e1_pos": 2, "e2_text": "say", "e2_pos": 12, "label": "before"}
+]

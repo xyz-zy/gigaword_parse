@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "they", "steam", "the", "bagels", "after", "the", "sandwich", "is", "all", "put", "together", "."], "e1_text": "steam", "e1_pos": 2, "e2_text": "is", "e2_pos": 8, "label": "after"},
+{"tokens": ["Granted", "he", "did", "ask", "me", "only", "a", "few", "hours", "after", "we", "ate", "at", "Owen", "'s", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "ate", "e2_pos": 11, "label": "after"}
+]

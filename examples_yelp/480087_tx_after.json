@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "just", "said", "''", "``", "look", "I", "would", "n't", "have", "waited", "to", "eat", "after", "everyone", "else", "did", "if", "the", "server", "did", "n't", "tell", "me", "you", "were", "taking", "care", "of", "it", "''", "''", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "did", "e2_pos": 16, "label": "after"}
+]

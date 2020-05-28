@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "my", "parents", "here", "on", "a", "Saturday", "night", "at", "5:30", "for", "my", "dad", "'s", "birthday", "dinner", "before", "going", "to", "watch", "O.", "It", "'s", "really", "a", "3.7", "or", "so", "but", "I", "figured", "I", "would", "round", "up", "since", "my", "dad", "enjoyed", "himself", "so", "much", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "going", "e2_pos": 18, "label": "before"},
+{"tokens": ["They", "open", "at", "5:30", "and", "wo", "n't", "seat", "you", "before", "then", ",", "which", "is", "kind", "of", "annoying", "."], "e1_text": "seat", "e1_pos": 7, "e2_text": "is", "e2_pos": 13, "label": "before"}
+]

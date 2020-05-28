@@ -1,0 +1,4 @@
+[
+{"tokens": ["Monta", "closed", "down", "after", "failing", "a", "health", "inspection", ",", "but", "opened", "back", "up", "promptly", "after", "."], "e1_text": "closed", "e1_pos": 1, "e2_text": "failing", "e2_pos": 4, "label": "after"},
+{"tokens": ["My", "boyfriend", "and", "I", "left", "disappointed", "with", "our", "meal", ",", "but", "we", "were", "even", "more", "unhappy", "after", "getting", "home", "."], "e1_text": "were", "e1_pos": 12, "e2_text": "getting", "e2_pos": 17, "label": "after"}
+]

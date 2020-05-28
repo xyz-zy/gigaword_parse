@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "-LRB-", "who", "had", "also", "ignored", "us", "after", "she", "brought", "our", "first", "round", "of", "drinks", "some", "30", "minutes", "ago", "-RRB-", "had", "to", "ask", "us", "what", "we", "had", "again", "."], "e1_text": "ignored", "e1_pos": 6, "e2_text": "brought", "e2_pos": 10, "label": "after"}
+]

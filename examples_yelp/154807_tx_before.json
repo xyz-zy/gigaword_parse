@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "that", "we", "'ve", "got", "the", "sticker", "shock", "out", "of", "the", "way", ",", "I", "have", "to", "say", "this", "is", "one", "of", "the", "top", "things", "you", "must", "try", "in", "Vegas", "before", "you", "die", "."], "e1_text": "try", "e1_pos": 26, "e2_text": "die", "e2_pos": 31, "label": "before"},
+{"tokens": ["Or", "maybe", "I", "should", "say", ",", "this", "is", "one", "of", "the", "top", "things", "you", "must", "try", "in", "Vegas", "before", "they", "get", "wise", "to", "it", "and", "raise", "the", "price", "."], "e1_text": "try", "e1_pos": 15, "e2_text": "get", "e2_pos": 20, "label": "before"}
+]

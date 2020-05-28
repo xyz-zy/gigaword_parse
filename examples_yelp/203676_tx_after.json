@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "chose", "Brazilian", "Bull", "Steakhouse", "after", "seeing", "a", "billboard", "on", "the", "freeway", ",", "and", "after", "having", "our", "anniversary", "at", "Fogo", "de", "Chao", ",", "we", "were", "excited", "to", "have", "a", "Brazilian", "steakhouse", "on", "our", "side", "of", "town", "!"], "e1_text": "chose", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "made", "early", "reservations", "so", "we", "could", "have", "plenty", "of", "time", "before", "our", "movie", ",", "and", "when", "we", "got", "to", "the", "restaurant", "at", "4:30", "there", "was", "only", "one", "other", "table", "occupied", "and", "they", "left", "shortly", "after", "we", "got", "our", "drinks", "."], "e1_text": "left", "e1_pos": 33, "e2_text": "got", "e2_pos": 18, "label": "after"}
+]

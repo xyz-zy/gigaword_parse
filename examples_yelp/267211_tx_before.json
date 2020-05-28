@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "to", "walk", "thru", "the", "room", "with", "the", "lights", "off", "gives", "the", "cockroaches", "a", "chance", "to", "hide", "before", "the", "lights", "come", "on", "and", "the", "cold", "keeps", "them", "hidden", "as", "well", "."], "e1_text": "hide", "e1_pos": 16, "e2_text": "come", "e2_pos": 20, "label": "before"}
+]

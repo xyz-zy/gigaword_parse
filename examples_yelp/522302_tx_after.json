@@ -1,0 +1,3 @@
+[
+{"tokens": ["Side", "bar", ",", "I", "found", "it", "really", "unprofessional", "that", "the", "front", "office", "staff", "was", "eating", "chocolate", "cake", "-LRB-", "not", "joking", "-RRB-", ",", "surfing", "the", "internet", "for", "recipes", ",", "gossiping", "about", "patients", "after", "taking", "calls", "from", "them", "-LRB-", "again", ",", "not", "joking", "-RRB-", ",", "etc.", "."], "e1_text": "gossiping", "e1_pos": 28, "e2_text": "taking", "e2_pos": 32, "label": "after"}
+]

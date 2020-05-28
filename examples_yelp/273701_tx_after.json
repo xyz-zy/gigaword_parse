@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "at", "the", "restaurant", "at", "about", "5:30", "pm", ",", "after", "visiting", "the", "Dolphin", "Habitat", "and", "Secret", "Garden", "at", "the", "Mirage", "-LRB-", "which", "was", "excellent", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "visiting", "e2_pos": 11, "label": "after"}
+]

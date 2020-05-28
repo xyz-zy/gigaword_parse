@@ -1,0 +1,3 @@
+[
+{"tokens": ["Thanks", "to", "the", "cook", "last", "night", ",", "I", "'d", "eaten", "two", "undercooked", "near", "raw", "chicken", "tenders", "before", "my", "girlfriend", "pointed", "it", "out", "."], "e1_text": "eaten", "e1_pos": 9, "e2_text": "pointed", "e2_pos": 19, "label": "before"}
+]

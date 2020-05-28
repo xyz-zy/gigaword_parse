@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "got", "to", "the", "appointment", "at", "1030", ",", "after", "30", "seconds", "they", "called", "me", "to", "the", "front", "desk", ",", "that", "is", "when", "I", "was", "told", "that", "he", "had", "an", "emergency", "at", "the", "hospital", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "called", "e2_pos": 12, "label": "after"},
+{"tokens": ["If", "you", "choose", "to", "reschedule", "we", "can", "see", "you", "the", "next", "day", "or", "a", "day", "later", "not", "months", "and", "months", "especially", "after", "already", "waiting", "months", "to", "get", "an", "appointment", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 23, "label": "after"},
+{"tokens": ["The", "office", "staff", "did", "not", "handle", "this", "in", "the", "right", "way", "especially", "after", "I", "said", "I", "have", "some", "issues", "that", "need", "to", "be", "addressed", "."], "e1_text": "handle", "e1_pos": 5, "e2_text": "said", "e2_pos": 14, "label": "after"}
+]

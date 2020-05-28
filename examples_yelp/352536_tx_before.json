@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "breaded", "chicken", "cutlet", "was", "popped", "in", "the", "microwave", "before", "it", "was", "put", "on", "my", "sandwich", ",", "making", "the", "breading", "mushy", "and", "not", "appetizing", "whatsoever", "."], "e1_text": "popped", "e1_pos": 5, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "only", "ate", "half", "of", "it", "before", "throwing", "the", "rest", "away", "."], "e1_text": "ate", "e1_pos": 2, "e2_text": "throwing", "e2_pos": 7, "label": "before"}
+]

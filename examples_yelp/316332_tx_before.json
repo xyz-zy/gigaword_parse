@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "knew", "collars", "take", "forever", "to", "come", "out", "so", "we", "ordered", "that", "first", "before", "even", "deciding", "what", "entrees", "we", "wanted", "."], "e1_text": "ordered", "e1_pos": 11, "e2_text": "deciding", "e2_pos": 16, "label": "before"},
+{"tokens": ["So", "then", "we", "got", "our", "soups", "that", "comes", "with", "the", "entree", "and", "I", "did", "n't", "even", "get", "to", "take", "a", "sip", "of", "it", "and", "my", "entree", "came", "out", "super", "fast", "and", "my", "date", "is", "left", "waiting", "for", "his", "for", "about", "7", "mins", "or", "so", "and", "I", "had", "to", "starting", "eating", "my", "food", "before", "it", "got", "cold", "."], "e1_text": "had", "e1_pos": 46, "e2_text": "got", "e2_pos": 3, "label": "before"}
+]

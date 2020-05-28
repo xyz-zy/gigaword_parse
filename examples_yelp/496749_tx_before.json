@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "a", "chance", "to", "stare", "at", "our", "food", "for", "a", "few", "minutes", "before", "the", "wait", "staff", "procured", "a", "knife", "and", "fork", "."], "e1_text": "stare", "e1_pos": 5, "e2_text": "procured", "e2_pos": 17, "label": "before"},
+{"tokens": ["There", "are", "a", "ton", "of", "other", "restaurants", "in", "this", "shopping", "center", "that", "I", "would", "try", "before", "coming", "back", "here", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "coming", "e2_pos": 16, "label": "before"}
+]

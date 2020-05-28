@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "plate", "arrived", "almost", "10", "minutes", "after", "my", "husbands", "plate", "did", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "did", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "had", "requested", "extra", "sauce", "and", "had", "to", "repeat", "my", "request", "when", "my", "plate", "arrived", ",", "and", "again", "after", "I", "finished", "half", "of", "my", "meal", "."], "e1_text": "repeat", "e1_pos": 8, "e2_text": "finished", "e2_pos": 20, "label": "after"}
+]

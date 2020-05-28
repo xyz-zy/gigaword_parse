@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "put", "them", "under", "the", "broiler", "after", "they", "were", "delivered", "and", "they", "still", "tasted", "rubbery", "."], "e1_text": "put", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "skin", "was", "drenched", "in", "sauce", "but", "unable", "to", "get", "crispy", ",", "even", "after", "my", "broiler", "attempt", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "attempt", "e2_pos": 16, "label": "after"}
+]

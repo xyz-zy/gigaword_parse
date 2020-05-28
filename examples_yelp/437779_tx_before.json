@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "wait", "long", "before", "I", "was", "in", "with", "the", "doctor", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'m", "ok", "with", "that", ",", "but", "not", "sure", "that", "I", "'m", "anymore", "knowledgeable", "about", "my", "question", "after", "my", "visit", "than", "before", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "'m", "e2_pos": 1, "label": "before"}
+]

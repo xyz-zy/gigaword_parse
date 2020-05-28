@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "everyone", "-LRB-", "read", "most", "tenants", "-RRB-", "do", "n't", "pick", "up", "after", "their", "dogs", ",", "most", "of", "the", "time", "there", "are", "young", "-LRB-", "read", "under", "13", "y-o", "-RRB-", "kids", "at", "the", "pool", "-LRB-", "unattended", "-RRB-", "."], "e1_text": "pick", "e1_pos": 9, "e2_text": "read", "e2_pos": 3, "label": "after"}
+]

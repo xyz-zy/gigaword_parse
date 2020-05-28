@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "here", "before", "its", "a", "cute", "little", "place", "I", "love", "the", "staff", "they", "are", "super", "nice", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "love", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "agree", "with", "Aletheia", "on", "this", "place", "though", ",", "it", "truly", "is", "better", "than", "Hana", "on", "7th", "Ave.", "http:\\/\\/www.yelp.com\\/biz\\/jk-bowl-phoenix", "I", "really", "hope", "they", "get", "their", "liquor", "license", "soon", "before", "Ah-So", "opens", "up", "at", "Norterra", "."], "e1_text": "get", "e1_pos": 23, "e2_text": "opens", "e2_pos": 30, "label": "before"}
+]

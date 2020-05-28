@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "checking", "into", "the", "Heart", "Attack", "Grill", ",", "nurses", "slap", "a", "wristband", "and", "cotton", "gown", "on", "you", "before", "escorting", "you", "to", "the", "cafeteria", ",", "where", "all", "the", "other", "patients", "are", "dining", "."], "e1_text": "slap", "e1_pos": 9, "e2_text": "escorting", "e2_pos": 18, "label": "before"}
+]

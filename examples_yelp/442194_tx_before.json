@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sensibly", "took", "the", "decision", "to", "shop", "around", "a", "bit", "before", "comitting", "-LRB-", "even", "though", "I", "was", "offered", "a", "$", "500", "discount", "if", "I", "signed", "the", "paper", "right", "there", "on", "the", "day", "-RRB-", "I", "have", "since", "visited", "3", "other", "orthodontists", "and", "None", "have", "been", "so", "expensive", "as", "here", "also", "none", "have", "required", "such", "a", "high", "down", "payment", "for", "the", "initial", "trays", "to", "be", "made", "."], "e1_text": "shop", "e1_pos": 6, "e2_text": "comitting", "e2_pos": 11, "label": "before"}
+]

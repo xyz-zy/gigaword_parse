@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "desserts", "but", "did", "n't", "have", "forks", "to", "eat", "them", "with", "and", "could", "n't", "find", "the", "server", "to", "get", "any", "-LRB-", "we", "had", "to", "flag", "down", "someone", "else", ",", "10", "minutes", "after", "our", "desserts", "came", "-RRB-", "."], "e1_text": "flag", "e1_pos": 25, "e2_text": "came", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "state", "of", "the", "food", "served", "to", "us", "was", "bad", "enough", "that", "I", "would", "have", "said", "something", "to", "the", "waitress", ",", "but", "after", "depositing", "the", "food", ",", "she", "disappeared", "for", "quite", "a", "long", "period", ",", "so", "rather", "than", "sit", "there", "staring", "out", "our", "food", ",", "we", "ate", "what", "we", "could", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "depositing", "e2_pos": 23, "label": "after"}
+]

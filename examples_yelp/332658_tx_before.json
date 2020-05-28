@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "consumed", "a", "quarter", "of", "the", "jar", "and", "ate", "half", "a", "loaf", "of", "bread", "before", "I", "even", "placed", "my", "app", "order", ",", "not", "because", "service", "was", "slow", ",", "but", "because", "they", "were", "so", "tasty", "I", "could", "only", "inhale", "them", "."], "e1_text": "ate", "e1_pos": 8, "e2_text": "placed", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "upset", "after", "waiting", "to", "get", "a", "repair", "and", "due", "to", "miscommunication", ",", "i", "am", "asked", "when", "a", "good", "time", "to", "fix", "the", "repair", "is", "?"], "e1_text": "get", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 4, "label": "after"}
+]

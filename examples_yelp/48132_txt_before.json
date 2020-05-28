@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "five", "minutes", "in", "the", "front", "lobby", "before", "the", "hostess", "showed", "up", "-LRB-", "Tuesday", "night", "-", "with", "maybe", "15", "people", "in", "the", "restaurant", "-RRB-", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "showed", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "to", "see", "my", "car", "and", "he", "led", "me", "to", "an", "area", "around", "the", "corner", "with", "no", "lighting", "where", "he", "had", "parked", "it", "after", "retrieving", "from", "the", "valet", "lot", "."], "e1_text": "parked", "e1_pos": 22, "e2_text": "retrieving", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "called", "Risk", "Management", "to", "following", "morning", "well", "after", "8:00", "AM", "giving", "them", "plenty", "of", "time", "to", "review", "the", "report", "I", "made", "as", "well", "as", "a", "report", "security", "made", "and", "was", "connected", "to", "a", "young", "man", "named", "Mike", "who", "said", "he", "did", "n't", "refuse", "to", "give", "me", "his", "last", "name", "but", "would", "n't", "in", "spite", "of", "multiple", "requests", "for", "him", "to", "do", "so", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "giving", "e2_pos": 11, "label": "after"}
+]

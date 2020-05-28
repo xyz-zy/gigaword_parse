@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "gave", "me", "the", "best", "suggestions", "for", "each", "one", "of", "my", "dresses", "after", "really", "listening", "to", "what", "I", "wanted", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "listening", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "loved", "his", "customer", "service", "skills", "so", "much", "that", "I", "had", "my", "husband", "bring", "his", "shirts", "in", "two", "days", "after", "I", "went", "to", "see", "Wally", "!"], "e1_text": "had", "e1_pos": 10, "e2_text": "went", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "must", "say", "that", "after", "staying", "there", ",", "I", "agree", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "staying", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "think", "the", "keys", "should", "have", "access", "to", "all", "doors", ",", "after", "all", "you", "are", "staying", "there", "."], "e1_text": "have", "e1_pos": 5, "e2_text": "are", "e2_pos": 14, "label": "after"}
+]

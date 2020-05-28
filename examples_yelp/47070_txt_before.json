@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "know", "how", "busy", "they", "get", "during", "lunch", "time", ",", "so", "I", "called", "the", "day", "before", "our", "lunch", "outing", "to", "make", "reservations", "on", "the", "patio", "."], "e1_text": "called", "e1_pos": 14, "e2_text": "outing", "e2_pos": 20, "label": "before"},
+{"tokens": ["And", "please", "always", "offer", "people", "the", "covered", "patio", "first", "before", "you", "try", "to", "leave", "them", "out", "in", "the", "sun", "."], "e1_text": "offer", "e1_pos": 3, "e2_text": "try", "e2_pos": 11, "label": "before"}
+]

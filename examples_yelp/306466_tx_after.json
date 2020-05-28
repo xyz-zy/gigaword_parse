@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "get", "a", "bad", "stomach", "ache", "after", "eating", ",", "my", "guess", "was", "that", "the", "burger", "was", "too", "heavy", "with", "too", "much", "cheese-sauce", "etc", "-LRB-", "disclaimer", ":", "I", "try", "to", "eat", "fresh", "and", "light", ",", "dairy", "free", "food", "as", "on", "a", "daily", "basis", "so", "I", "probably", "have", "a", "lower", "tolerance", "than", "most", "on", "the", "rare", "occasion", "that", "I", "do", "indulge", "-RRB-", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["Based", "on", "that", ",", "I", "was", "expecting", "to", "see", "a", "packed", "restaurant", "when", "I", "arrived", ",", "yet", "we", "were", "the", "only", "two", "couples", "in", "there", "-LRB-", "it", "was", "early", ",", "right", "after", "they", "opened", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "opened", "e2_pos": 33, "label": "after"}
+]

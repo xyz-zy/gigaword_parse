@@ -1,0 +1,4 @@
+[
+{"tokens": ["Whilst", "pressed", "for", "time", ",", "I", "had", "a", "decent", "and", "affordable", "lunch", "there", "before", "dashing", "off", "to", "meetings", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "dashing", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'d", "willingly", "stay", "here", "again", ",", "but", "I", "'d", "double-check", "some", "other", "establishments", "in", "the", "area", "for", "comparable", "prices", "before", "caving", "into", "making", "a", "booking", "here", "."], "e1_text": "double-check", "e1_pos": 10, "e2_text": "caving", "e2_pos": 21, "label": "before"}
+]

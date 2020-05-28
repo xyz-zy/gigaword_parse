@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wrote", "a", "scathing", "review", "before", "but", "I", "realized", "hey", "maybe", "it", "'s", "not", "you", "it", "me", "."], "e1_text": "wrote", "e1_pos": 1, "e2_text": "realized", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "you", "want", "to", "see", "the", "dancing", "girls", "show", ",", "make", "sure", "you", "get", "there", "before", "the", "bar", "starts", "to", "crossover", "."], "e1_text": "get", "e1_pos": 13, "e2_text": "starts", "e2_pos": 18, "label": "before"}
+]

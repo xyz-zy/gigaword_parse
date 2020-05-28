@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "see", "another", "OBGYN", "after", "not", "hearing", "back", "from", "Dr.", "Deka", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 8, "label": "after"}
+]

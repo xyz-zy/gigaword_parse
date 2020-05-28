@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "my", "room", "mate", "and", "I", "started", "coughing", "every", "morning", "after", "the", "nights", "sleep", "so", "I", "checked", "the", "A\\/C", "filters", "and", "they", "were", "discussing", "."], "e1_text": "coughing", "e1_pos": 7, "e2_text": "sleep", "e2_pos": 13, "label": "after"}
+]

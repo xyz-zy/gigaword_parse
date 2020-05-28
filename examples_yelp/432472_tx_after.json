@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "ordered", "soup", ",", "which", "arrived", "only", "after", "reminding", "the", "waitress", "-LRB-", "where", "was", "she", "with", "hardly", "any", "patrons", "and", "2-3", "severs", "?", "-RRB-"], "e1_text": "arrived", "e1_pos": 6, "e2_text": "reminding", "e2_pos": 9, "label": "after"}
+]

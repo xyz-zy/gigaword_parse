@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nothing", "to", "do", "or", "see", "before", "or", "after", "eating", "here", ",", "too", "bad", "."], "e1_text": "see", "e1_pos": 4, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["Again", "I", "could", "be", "wrong", ",", "but", "it", "looks", "as", "though", "some", "restaurants", "were", "added", "to", "the", "list", "after", "we", "went", "to", "Kincaids", ",", "some", "offering", "an", "actual", "steak", "at", "the", "steak", "houses", "."], "e1_text": "added", "e1_pos": 14, "e2_text": "went", "e2_pos": 20, "label": "after"}
+]

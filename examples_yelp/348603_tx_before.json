@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "then", "placed", "our", "order", "immediately", "so", "as", "to", "not", "wait", "even", "longer", ",", "and", "we", "saw", "her", "go", "to", "several", "other", "tables", "for", "very", "long", "minutes", "before", "even", "turning", "in", "our", "order", "."], "e1_text": "go", "e1_pos": 18, "e2_text": "turning", "e2_pos": 29, "label": "before"}
+]

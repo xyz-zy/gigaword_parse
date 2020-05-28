@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "out", "of", "the", "nightly", "special", "-LRB-", "Fish", "&", "Chips", "-RRB-", ",", "but", "we", "did", "n't", "find", "this", "out", "until", "five", "minutes", "after", "we", "ordered", "."], "e1_text": "find", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 25, "label": "after"},
+{"tokens": ["Then", ",", "we", "had", "to", "practically", "hunt", "down", "the", "server", "to", "re-order", "and", "remind", "her", "that", "we", "were", "still", "waiting", "for", "our", "drinks", "-LRB-", "this", "is", "at", "least", "20", "minutes", "after", "we", "arrived", "-RRB-", "."], "e1_text": "is", "e1_pos": 25, "e2_text": "arrived", "e2_pos": 32, "label": "after"}
+]

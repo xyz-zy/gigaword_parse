@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "got", "to", "order", "after", "being", "served", "waters", ",", "banchan", "and", "ordered", "the", ":", "Jajangmyeon", ",", "Kalbi", "Dolsot", "Bibimbap", "and", "Bulgogi", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Saw", "a", "lot", "of", "parties", "leave", ",", "after", "being", "left", "to", "wait", "for", "one", "of", "the", "women", "to", "take", "their", "oder", "."], "e1_text": "Saw", "e1_pos": 0, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

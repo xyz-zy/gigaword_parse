@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "25", "minutes", "before", "the", "lunch", "buffet", "was", "going", "to", "shut", "down", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "we", "had", "known", "that", "before", "we", "started", "eating", ",", "we", "would", "have", "just", "ordered", "a", "pie", "and", "skipped", "the", "buffet", "."], "e1_text": "known", "e1_pos": 3, "e2_text": "started", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Walgreens", "had", "no", "way", "to", "get", "the", "prescription", "from", "another", "branch", "during", "their", "normal", "hours", ",", "I", "was", "told", "that", "what", "typically", "happens", "is", "a", "Walgreen", "'s", "employee", "will", "go", "to", "another", "branch", "after", "they", "get", "off", "their", "shift", "to", "pick", "up", "needed", "items", "."], "e1_text": "go", "e1_pos": 29, "e2_text": "get", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "decided", "to", "order", "online", "which", "seemed", "like", "a", "great", "idea", "except", "when", "he", "got", "home", "I", "realized", "something", "was", "n't", "right", "about", "my", "burrito", "before", "I", "even", "opened", "it", "up", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "opened", "e2_pos": 29, "label": "before"}
+]

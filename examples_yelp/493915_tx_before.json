@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pathetic", "excuse", "for", "a", "beet", "salad", "came", "out", "a", "full", "10", "minutes", "before", "my", "ceviche", "did", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "did", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "finally", "stopped", "the", "tall", ",", "bald", "corpse", "of", "a", "manager", "-LRB-", "you", "'ll", "know", "exactly", "who", "I", "mean", "if", "you", "see", "him", "-RRB-", "to", "ask", "if", "perhaps", "I", "might", "get", "my", "lunch", "before", "my", "companion", "finished", "."], "e1_text": "get", "e1_pos": 30, "e2_text": "finished", "e2_pos": 36, "label": "before"}
+]

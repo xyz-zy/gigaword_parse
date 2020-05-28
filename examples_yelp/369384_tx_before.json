@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "...", "We", "had", "to", "ask", "like", "5", "times", "before", "they", "came", "to", "take", "order", "."], "e1_text": "ask", "e1_pos": 5, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["Nobody", "came", "to", "ask", "if", "we", "needed", "water", "until", "our", "first", "order", "came", "like", "10", "mins", "before", "everybody", "else", "'s", "order", "and", "appetizer", "came", "with", "rest", "of", "other", "others", "..."], "e1_text": "came", "e1_pos": 1, "e2_text": "came", "e2_pos": 1, "label": "before"}
+]

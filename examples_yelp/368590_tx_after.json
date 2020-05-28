@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "last", "night", ",", "our", "waitress", "was", "so", "out", "of", "it", ",", "She", "came", "back", "to", "the", "table", "three", "times", "after", "we", "ordered", "to", "confirm", "our", "order", "."], "e1_text": "came", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 22, "label": "after"},
+{"tokens": ["My", "wife", "'s", "salad", "came", "after", "the", "entre", "was", "served", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

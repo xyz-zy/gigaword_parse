@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "beware", "of", "the", "following", "before", "getting", "locked", "into", "a", "contract", "with", "this", "establishment", "."], "e1_text": "beware", "e1_pos": 1, "e2_text": "getting", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "problem", "is", "you", "will", "email", "them", ",", "notify", "them", "of", "your", "request", "to", "cancel", ",", "and", "they", "will", "wait", "weeks", "before", "responding", "to", "you", "."], "e1_text": "wait", "e1_pos": 19, "e2_text": "responding", "e2_pos": 22, "label": "before"}
+]

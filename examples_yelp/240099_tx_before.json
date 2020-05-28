@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Healthy", "\\*", "-", "I", "get", "to", "see", "all", "of", "the", "ingredients", "before", "I", "use", "them", ",", "so", "I", "know", "they", "'re", "good", "quality", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "use", "e2_pos": 14, "label": "before"},
+{"tokens": ["\\*", "Quality", "\\*", "-", "As", "stated", "above", ",", "you", "see", "everything", "before", "it", "goes", "into", "the", "meal", "."], "e1_text": "see", "e1_pos": 9, "e2_text": "goes", "e2_pos": 13, "label": "before"}
+]

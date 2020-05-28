@@ -1,0 +1,3 @@
+[
+{"tokens": ["Based", "on", "positive", "reviews", "here", ",", "we", "went", "to", "Coco", "in", "early", "evening", "on", "Saturday", "for", "dinner", "before", "going", "to", "a", "concert", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "make", "their", "own", "pita", "bread", "sold", "fresh", "and", "warm", "so", "you", "can", "pick", "up", "a", "package", "before", "you", "leave", "."], "e1_text": "pick", "e1_pos": 13, "e2_text": "leave", "e2_pos": 19, "label": "before"},
+{"tokens": ["Same", "as", "Tucson", ",", "so", "beware", "before", "you", "park", "outside", "."], "e1_text": "beware", "e1_pos": 5, "e2_text": "park", "e2_pos": 8, "label": "before"}
+]

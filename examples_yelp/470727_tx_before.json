@@ -1,0 +1,4 @@
+[
+{"tokens": ["though", "I", "take", "allot", "of", "the", "blame", "for", "not", "reading", "reviews", "before", "ordering", "."], "e1_text": "reading", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 12, "label": "before"},
+{"tokens": ["but", "be", "very", "specific", "and", "I", "recommend", "paying", "cash", "so", "you", "can", "check", "the", "order", "before", "they", "leave", "you", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "leave", "e2_pos": 17, "label": "before"}
+]

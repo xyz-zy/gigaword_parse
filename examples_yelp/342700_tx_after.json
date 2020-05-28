@@ -1,0 +1,3 @@
+[
+{"tokens": ["Besides", "the", "food", ",", "our", "bill", "came", "to", "$", "28", "-LRB-", "including", "$", "4", "waiter", "tip", "-RRB-", ",", "after", "few", "days", "I", "noticed", "charge", "on", "my", "bank", "account", "that", "they", "charged", "me", "for", "$", "32", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "noticed", "e2_pos": 22, "label": "after"}
+]

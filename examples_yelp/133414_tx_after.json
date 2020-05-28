@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "grease", "trap", "is", "where", "all", "the", "solids", "and", "grease", "collects", "after", "it", "goes", "down", "the", "drain", "."], "e1_text": "collects", "e1_pos": 10, "e2_text": "goes", "e2_pos": 13, "label": "after"},
+{"tokens": ["Well", "that", "is", "after", "telling", "me", "6pm", "then", "6:30", "pm", ",", "he", "finally", "settled", "on", "7pm", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "telling", "e2_pos": 4, "label": "after"}
+]

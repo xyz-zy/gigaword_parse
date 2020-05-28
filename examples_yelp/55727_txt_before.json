@@ -1,0 +1,3 @@
+[
+{"tokens": ["Either", "they", "did", "not", "dry", "off", "the", "meat", "before", "coating", "it", "with", "batter", "or", "it", "was", "just", "a", "terrible", "frozen", "piece", "of", "catfish", "and", "was", "thawed", "out", "too", "long", "to", "hold", "any", "of", "its", "texture", "."], "e1_text": "dry", "e1_pos": 4, "e2_text": "coating", "e2_pos": 9, "label": "before"}
+]

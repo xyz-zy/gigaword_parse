@@ -1,0 +1,5 @@
+[
+{"tokens": ["However", ",", "because", "this", "is", "Scottsdale", ",", "I", "do", "n't", "think", "that", "allows", "an", "automatic", "20", "%", "gratuity", "on", "EVERY", "cocktail", "after", "they", "are", "already", "on", "the", "high", "end", "as", "far", "as", "price", "goes", "."], "e1_text": "allows", "e1_pos": 12, "e2_text": "are", "e2_pos": 23, "label": "after"},
+{"tokens": ["We", "waited", "for", "between", "10-15", "minutes", "for", "him", "to", "return", ",", "only", "after", "we", "flagged", "him", "down", ",", "asking", "where", "our", "tonic", "was", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "flagged", "e2_pos": 14, "label": "after"},
+{"tokens": ["Since", "my", "drink", "was", "done", "about", "20", "minutes", "after", "my", "dad", "had", "been", "served", "his", "cocktail", ",", "Richie", "offered", "to", "''", "``", "sponsor", "''", "''", "my", "dad", "'s", "next", "drink", "."], "e1_text": "done", "e1_pos": 4, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "came", "here", "before", "with", "a", "friend", "who", "is", "Korean", "and", "he", "ordered", "for", "me", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "is", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "still", "was", "n't", "sure", "what", "I", "had", "ordered", "before", ",", "so", "I", "just", "picked", "something", "that", "sounded", "delicious", "and", "I", "ended", "up", "being", "right", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["My", "boyfriend", "knew", "exactly", "what", "he", "wanted", "and", "loved", "it", "just", "as", "much", "as", "he", "did", "before", "."], "e1_text": "loved", "e1_pos": 8, "e2_text": "did", "e2_pos": 15, "label": "before"}
+]

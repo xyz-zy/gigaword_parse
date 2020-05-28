@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", ",", "what", "would", "you", "do", "if", "the", "staff", "is", "aware", "of", "your", "presence", "and", "does", "not", "bother", "taking", "your", "order", "more", "than", "20", "min", "after", "you", "seated", "?"], "e1_text": "bother", "e1_pos": 17, "e2_text": "seated", "e2_pos": 27, "label": "after"}
+]

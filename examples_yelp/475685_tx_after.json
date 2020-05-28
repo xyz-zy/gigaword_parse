@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "many", "people", ",", "I", "found", "Best", "in", "Show", "through", "yelp", "after", "moving", "farther", "away", "from", "our", "regular", "groomer", "."], "e1_text": "found", "e1_pos": 5, "e2_text": "moving", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "think", "letting", "them", "do", "there", "thing", "works", "out", "best", "as", "I", "'ve", "never", "been", "disappointed", "after", "picking", "up", "my", "dog", "after", "a", "groom", "."], "e1_text": "disappointed", "e1_pos": 15, "e2_text": "picking", "e2_pos": 17, "label": "after"}
+]

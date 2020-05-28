@@ -1,0 +1,4 @@
+[
+{"tokens": ["Interior", "finish", "issues", ":", "We", "had", "to", "drain", "our", "pool", "again", "today", "as", "after", "Shasta", "installed", "the", "interior", "finish", ",", "they", "failed", "to", "acid", "wash", "the", "surface", "properly", "-", "leaving", "4-ft", "stains", "coming", "out", "of", "the", "cleaner", "heads", "and", "highly", "irregular", "color", "distribution", "throughout", "the", "pool", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "installed", "e2_pos": 15, "label": "after"},
+{"tokens": ["They", "returned", "to", "fix", "their", "work", "to", "a", "satisfactory", "level", "about", "a", "month", "after", "the", "initial", "work", "was", "done", "-LRB-", "after", "involving", "the", "Shasta", "warranty", "manager", "and", "the", "tile", "company", "'s", "President", ".", "-RRB-"], "e1_text": "returned", "e1_pos": 1, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

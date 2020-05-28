@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "burgers", "came", "after", "watching", "them", "sit", "on", "the", "kitchen", "window", "getting", "cold", ",", "-LRB-", "could", "n't", "even", "return", "them", "because", "our", "server", "did", "n't", "come", "and", "check", "on", "us", "and", "we", "were", "starving", "-RRB-", "then", "our", "sweet", "potato", "fries", "did", "n't", "come", "til", "after", "we", "were", "done", "with", "our", "meal", "and", "once", "again", "those", "were", "cold", "as", "well", "because", "they", "were", "sitting", "up", "on", "the", "kitchen", "window", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "watching", "e2_pos": 4, "label": "after"}
+]

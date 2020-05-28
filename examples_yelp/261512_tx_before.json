@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "was", "disappointed", "to", "see", "that", "his", "favorite", "chicken", "dish", "was", "no", "longer", "on", "the", "menu", ",", "which", "seems", "to", "have", "fewer", "entrees", "and", "more", "sandwich", "choices", "than", "before", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "seems", "e2_pos": 19, "label": "before"},
+{"tokens": ["And", "I", "was", "halfway", "through", "before", "I", "realized", "that", "the", "kitchen", "left", "off", "the", "banana", "bread", "croutons", ",", "too", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "realized", "e2_pos": 7, "label": "before"}
+]

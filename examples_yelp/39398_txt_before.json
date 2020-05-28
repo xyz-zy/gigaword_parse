@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "looked", "at", "her", "and", "said", ",", "''", "``", "we", "have", "never", "had", "this", "problem", "in", "any", "restaurant", "before", ",", "we", "are", "not", "eating", "this", "and", "we", "are", "not", "paying", "for", "it", "''", "''", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "are", "e2_pos": 21, "label": "before"}
+]

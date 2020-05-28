@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "foods", "are", "such", "a", "delight", ",", "Chris", "the", "Chef", "actually", "trained", "years", "in", "San", "Francisoco", "before", "coming", "to", "the", "valley", ",", "their", "duck", "is", "crips", "and", "sweet", ",", "and", "to", "top", "it", "off", ",", "their", "Scallops", "...", "omg", "it", "is", "sweet", "and", "delicious", ",", "it", "melts", "in", "your", "mouth", "-LRB-", "not", "a", "taste", "of", "dry", "or", "fishyness", "-RRB-", "."], "e1_text": "trained", "e1_pos": 11, "e2_text": "coming", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "would", "suggest", "calling", "for", "the", "menu", "before", "going", ",", "because", "their", "menu", "changes", "daily", ",", "it", "enables", "them", "to", "serve", "up", "the", "freshest", "dishes", "."], "e1_text": "calling", "e1_pos": 3, "e2_text": "going", "e2_pos": 8, "label": "before"}
+]

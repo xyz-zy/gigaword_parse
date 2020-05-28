@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "decided", "not", "to", "pay", "attention", ",", "then", "not", "care", "after", "I", "called", "it", "out", ",", "management", "did", "n't", "care", ",", "and", "the", "food", "blew", "-LRB-", "though", "it", "was", "probably", "correct", "when", "they", "bagged", "it", "-", "I", "doubt", "it", "'s", "the", "chef", "'s", "fault", "-RRB-", "."], "e1_text": "pay", "e1_pos": 5, "e2_text": "called", "e2_pos": 13, "label": "after"}
+]

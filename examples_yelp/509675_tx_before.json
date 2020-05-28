@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "be", "safe", ",", "I", "had", "specified", "the", "gear", "to", "arrive", "2", "days", "before", "I", "needed", "it", "-", "just", "in", "case", "!"], "e1_text": "arrive", "e1_pos": 10, "e2_text": "needed", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "called", "lowergear", "the", "day", "before", "the", "gear", "was", "to", "arrive", "to", "confirm", "that", "the", "shipment", "was", "on", "it", "'s", "way", ",", "but", "the", "rep", "told", "me", "he", "had", "forgotten", "to", "ship", "my", "gear", "-LRB-", "oops", "!", "-RRB-"], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

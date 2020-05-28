@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "we", "went", "to", "use", "the", "credit", "at", "Cabana", "Grill", ",", "and", "after", "waiting", "15", "minutes", "in", "line", ",", "learned", "that", "we", "could", "n't", "charge", "to", "the", "room", "because", "the", "system", "was", "still", "down", "."], "e1_text": "use", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

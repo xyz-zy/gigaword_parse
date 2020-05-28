@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "came", "back", "from", "the", "kitchen", "after", "talking", "with", "the", "chef", "and", "said", "that", "the", "chef", "said", "he", "could", "have", "a", "Medium", "Rare", "Rack", "of", "Lamb", "up", "in", "4", "minutes", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "talking", "e2_pos": 8, "label": "after"}
+]

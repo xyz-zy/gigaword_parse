@@ -1,0 +1,3 @@
+[
+{"tokens": ["Meant", "to", "eat", "breakfast", "here", ",", "but", "did", "n't", "get", "there", "until", "breakfast", "had", "finished", "-LRB-", "although", "the", "signs", "all", "seemed", "to", "say", "we", "had", "another", "hour", "before", "breakfast", "closed", "...", "-RRB-", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "closed", "e2_pos": 29, "label": "before"}
+]

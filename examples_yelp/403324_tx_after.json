@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "food", "gets", "brought", "to", "the", "table", "and", "after", "a", "couple", "of", "bites", "I", "get", "up", "and", "get", "some", "soy", "\\/", "teriyaki", "sauce", "and", "some", "Sriracha", "sauce", "because", "while", "the", "garlic", "shrimp", "was", "good", ",", "the", "BBQ", "was", "woefully", "disappointing", "."], "e1_text": "brought", "e1_pos": 3, "e2_text": "bites", "e2_pos": 12, "label": "after"}
+]

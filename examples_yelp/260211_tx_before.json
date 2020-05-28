@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boyfriend", "and", "I", "went", "to", "Kennedy", "'s", "for", "dinner", "tonight-had", "never", "been", "there", "before", "and", "was", "looking", "forward", "to", "checking", "it", "out", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "been", "e2_pos": 12, "label": "before"}
+]

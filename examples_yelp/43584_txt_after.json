@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "fianc", "\\", "u00e9", "and", "I", "went", "to", "Zinc", "bistro", "last", "night", "for", "an", "extremely", "overpriced", ",", "so-so", "dinner", "that", "proceeded", "to", "come", "back", "up", "about", "6", "hours", "after", "we", "left", "."], "e1_text": "proceeded", "e1_pos": 20, "e2_text": "left", "e2_pos": 30, "label": "after"}
+]

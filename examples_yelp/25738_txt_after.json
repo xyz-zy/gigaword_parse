@@ -1,0 +1,4 @@
+[
+{"tokens": ["Called", "their", "customer", "service", ",", "after", "being", "on", "hold", "for", "31", "MINUTES", ",", "I", "was", "hung", "up", "on", "."], "e1_text": "Called", "e1_pos": 0, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Called", "again", "and", "after", "on", "hold", "for", "another", "32", "MINUTES", ",", "I", "was", "hung", "up", "on", "again", "."], "e1_text": "Called", "e1_pos": 0, "e2_text": "hold", "e2_pos": 5, "label": "after"}
+]

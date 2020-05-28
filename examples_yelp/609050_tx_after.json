@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "first", ",", "we", "were", "really", "digging", "the", "meal", ",", "but", "about", "halfway", "through", "the", "order", ",", "we", "both", "started", "feeling", "a", "little", "bit", "queasy", ",", "and", "ended", "up", "stopping", "after", "eating", "3\\/4", "of", "the", "meal", "."], "e1_text": "stopping", "e1_pos": 29, "e2_text": "eating", "e2_pos": 31, "label": "after"}
+]

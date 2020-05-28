@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "pretty", "sure", "that", "they", "had", "been", "out", "of", "pumpkin", "bagels", "before", "I", "got", "there", "as", "their", "entire", "top", "shelf", "of", "bagels", "was", "empty", "-LRB-", "meaning", "they", "ran", "out", "of", "others", "as", "well", "-RRB-", "."], "e1_text": "been", "e1_pos": 7, "e2_text": "got", "e2_pos": 14, "label": "before"},
+{"tokens": ["It", "was", "annoying", "that", "I", "was", "n't", "told", "this", "before", "I", "paid", "and", "disappointing", "that", "Einstein", "'s", "is", "going", "to", "promote", "the", "heck", "out", "of", "their", "pumpkin", "lineup", "and", "then", "not", "make", "enough", "to", "last", "through", "the", "day", "or", "morning", "for", "that", "matter", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "paid", "e2_pos": 11, "label": "before"}
+]

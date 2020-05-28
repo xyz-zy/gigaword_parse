@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "something", "come", "up", "and", "was", "no", "longer", "able", "to", "make", "the", "trip", "and", "canceled", "my", "reservation", "immediately", "after", "finding", "out", ",", "4", "days", "in", "advance", "of", "my", "trip", "and", "was", "still", "charged", "a", "one", "night", "fee", "for", "the", "room", "."], "e1_text": "canceled", "e1_pos": 15, "e2_text": "finding", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "accounting", "department", "to", "request", "a", "copy", "of", "his", "folio", "and", "it", "was", "in", "my", "inbox", "before", "I", "even", "got", "off", "of", "the", "phone", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "nephews", "to", "Mill", "Ave", "when", "they", "were", "visiting", ",", "World", "of", "Beer", "was", "our", "first", "stop", "for", "a", "beer", ",", "we", "sat", "for", "about", "15", "minutes", "before", "anyone", "even", "acknowledged", "us", "."], "e1_text": "sat", "e1_pos": 24, "e2_text": "acknowledged", "e2_pos": 32, "label": "before"},
+{"tokens": ["We", "sat", "there", "for", "another", "10-15", "minutes", "waiting", "for", "our", "beers", "&", "then", "just", "walked", "out", "before", "she", "brought", "them", ",", "It", "should", "n't", "take", "30", "minutes", "to", "get", "a", "beer", "but", "if", "the", "waitress", "was", "nice", ",", "I", "may", "have", "stayed", "."], "e1_text": "walked", "e1_pos": 14, "e2_text": "brought", "e2_pos": 18, "label": "before"}
+]

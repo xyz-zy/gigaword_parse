@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "2", "times", "they", "were", "canceled", "automatically", "after", "I", "called", "because", "the", "''", "``", "current", "tenant", "''", "''", "in", "the", "apartment", "had", "n't", "put", "in", "a", "turn", "off", "request", "yet", "."], "e1_text": "canceled", "e1_pos": 6, "e2_text": "called", "e2_pos": 10, "label": "after"}
+]

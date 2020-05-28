@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "back", "this", "week", "after", "searching", "google", "maps", "to", "find", "my", "Cinderella", "and", "WOW", "!!!", "I", "will", "forever", "visit", "this", "place", "every", "time", "I", "am", "in", "Vegas", "!"], "e1_text": "Came", "e1_pos": 0, "e2_text": "searching", "e2_pos": 5, "label": "after"},
+{"tokens": ["My", "wife", "also", "went", "1st", "time", "today", "and", "loves", "it", "as", "much", "as", "I", "do", "-LRB-", "after", "turning", "down", "my", "hunt", "for", "it", "6", "months", "ago", "-RRB-", "\\*", "Perfect", "grill", "flavor", "\\*", "Right", "amount", "of", "sauce", "\\*", "Crispy", "Onions", "\\*", "Warm", "slightly", "toasted", "Pita", "bread", "Ohhh", "ps", "I", "do", "n't", "like", "Mediterranean", "food", ",", "maybe", "because", "no", "one", "cooks", "it", "correctly", "."], "e1_text": "do", "e1_pos": 14, "e2_text": "turning", "e2_pos": 17, "label": "after"}
+]

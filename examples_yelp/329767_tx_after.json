@@ -1,0 +1,4 @@
+[
+{"tokens": ["Management", "was", "very", "unprofessionally", "gave", "our", "seats", "away", "after", "waiting", "for", "45", "min", "."], "e1_text": "gave", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "server", "was", "slow", ",", "after", "asking", "four", "times", "for", "new", "silverware", ",", "which", "was", "dirty", "...", "finally", "received", "a", "clean", "set", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "asking", "e2_pos": 6, "label": "after"}
+]

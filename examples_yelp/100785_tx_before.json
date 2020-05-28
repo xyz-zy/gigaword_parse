@@ -1,0 +1,4 @@
+[
+{"tokens": ["Parking", "for", "us", "was", "easy", "since", "we", "always", "went", "at", "least", "an", "hour", "before", "game", "start", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "start", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "recommend", "either", "buying", "your", "tickets", "early", "-LRB-", "ie", "not", "a", "week", "before", "you", "go", "like", "I", "did", "-RRB-", ",", "and\\/or", "using", "a", "ticket", "reseller", "like", "stubhub", "."], "e1_text": "ie", "e1_pos": 8, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "in", "the", "world", "do", "the", "baristas", "not", "cover", "hot", "drinks", "with", "a", "cap", "before", "giving", "them", "customers", ",", "who", "then", "have", "to", "walk", "across", "this", "poorly", "set", "up", "cafe", "with", "an", "open-top", ",", "overflowing", ",", "scalding", "hot", "drink", ",", "to", "the", "sugar\\/milk\\/caps", "station", "?"], "e1_text": "cover", "e1_pos": 8, "e2_text": "giving", "e2_pos": 15, "label": "before"},
+{"tokens": ["Cover", "the", "drinks", "with", "a", "cap", "before", "you", "give", "them", "to", "customers", ",", "and", "offer", "some", "kind", "of", "stopper", "for", "the", "drinks", "."], "e1_text": "Cover", "e1_pos": 0, "e2_text": "give", "e2_pos": 8, "label": "before"}
+]

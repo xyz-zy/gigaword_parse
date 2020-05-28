@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "ordered", "a", "lan", "and", "directed", "me", "to", "make", "appt", "to", "discuss", "it", "after", "it", "comes", "back", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "comes", "e2_pos": 15, "label": "after"},
+{"tokens": ["Called", "back", "on", "8\\/15", "and", "was", "told", "someone", "would", "call", "back", "after", "Dr", "was", "done", "''", "``", "reviewing", "''", "''", "my", "labs", "."], "e1_text": "call", "e1_pos": 9, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

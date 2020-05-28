@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "really", "expecting", "high", "marks", "for", "Gallagher", "'s", "after", "reading", "good", "reviews", ",", "but", "I", "came", "out", "feeling", "disappointed", ";", "not", "so", "much", "on", "the", "food", "but", "for", "the", "service", "."], "e1_text": "expecting", "e1_pos": 3, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "marinara", "sauce", "was", "the", "star", "of", "the", "appetizer", "...", "I", "could", "n't", "stop", "eating", "it", "even", "after", "all", "the", "calamari", "was", "gone", ",", "I", "dipped", "the", "complimentary", "bread", "with", "it", "."], "e1_text": "stop", "e1_pos": 13, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

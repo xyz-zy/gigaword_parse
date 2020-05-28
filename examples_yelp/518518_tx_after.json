@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "food", "arrived", "about", "10", "minutes", "after", "we", "sat", "down", ",", "and", "it", "was", "fresh", "and", "enjoyable", ",", "though", "it", "did", "n't", "stand", "out", "from", "other", "burgers", "I", "'ve", "had", "at", "places", "like", "5", "Guys", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "sat", "e2_pos": 8, "label": "after"}
+]

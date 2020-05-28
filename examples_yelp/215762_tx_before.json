@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "fan", "of", "the", "old", "mexican", "restaurant", "in", "this", "location", "before", "Corbin", "gentrified", "the", "place", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "gentrified", "e2_pos": 14, "label": "before"},
+{"tokens": ["So", "now", "we", "'ll", "have", "an", "empty", "building", "there", "for", "years", "before", "someone", "goes", "in", "there", "."], "e1_text": "have", "e1_pos": 4, "e2_text": "goes", "e2_pos": 13, "label": "before"}
+]

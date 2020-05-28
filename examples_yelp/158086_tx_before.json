@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "was", "HALF", "EMPTY", "??", "It", "appeared", "they", "were", "well", "staffed", ",", "but", "we", "were", "seated", "maybe", "ten", "minutes", "before", "our", "server", "came", "to", "the", "table", "."], "e1_text": "seated", "e1_pos": 16, "e2_text": "came", "e2_pos": 23, "label": "before"}
+]

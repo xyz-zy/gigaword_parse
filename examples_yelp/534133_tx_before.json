@@ -1,0 +1,4 @@
+[
+{"tokens": ["Be", "very", "cautious", ",", "this", "business", "does", "not", "list", "any", "names", "or", "credentials", "for", "medical", "professionals", "and", "they", "do", "not", "run", "any", "tests", "or", "ask", "for", "physician", "clearance", "before", "starting", "the", "patient\\/client", "on", "these", "supplements", "or", "medications", "."], "e1_text": "ask", "e1_pos": 24, "e2_text": "starting", "e2_pos": 29, "label": "before"},
+{"tokens": ["In", "recent", "years", ",", "many", "supplements", "have", "been", "taken", "off", "the", "market", "due", "to", "potentially", "life-threatening", "side", "effects", "and", "lack", "of", "proof", "that", "they", "are", "safe", "or", "efficacious", "so", "PLEASE", "discuss", "this", "diet", "with", "a", "board-certified", "medical", "physician", "before", "starting", "."], "e1_text": "discuss", "e1_pos": 30, "e2_text": "starting", "e2_pos": 39, "label": "before"}
+]

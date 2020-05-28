@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "been", "busy", "but", "I", "brought", "it", "back", "a", "week", "after", "I", "was", "having", "problems", "."], "e1_text": "brought", "e1_pos": 6, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["After", "telling", "him", "I", "never", "had", "these", "issues", "until", "after", "I", "had", "it", "fixed", "there", ",", "he", "still", "refused", "to", "take", "my", "phone", "in", "and", "look", "at", "it", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

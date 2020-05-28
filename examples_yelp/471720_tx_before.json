@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "walk", "from", "my", "car", "to", "the", "steps", "leading", "to", "my", "apartment", "was", "always", "a", "nightmare", "!!", "The", "thing", "that", "bothered", "me", "before", "moving", "was", "that", "the", "staff", "apparently", "changed", "multiple", "times", "in", "the", "past", "two", "years", "alone", "."], "e1_text": "bothered", "e1_pos": 20, "e2_text": "moving", "e2_pos": 23, "label": "before"}
+]

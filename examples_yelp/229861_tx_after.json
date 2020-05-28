@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "other", "night", ",", "we", "were", "starving", "after", "coming", "home", "from", "Mill", "."], "e1_text": "starving", "e1_pos": 6, "e2_text": "coming", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "want", "to", "make", "sure", "we", "'ll", "get", "a", "hot", "pizza", ",", "especially", "after", "waiting", "for", "2", "hours", ",", "but", "the", "worker", "says", "we", "'ll", "get", "the", "one", "we", "were", "getting", "originally", "...", "Finally", "our", "pizza", "shows", "up", ",", "2", "1\\/2", "hours", "later", ",", "around", "4:30", "am", ",", "cold", "and", "gross", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

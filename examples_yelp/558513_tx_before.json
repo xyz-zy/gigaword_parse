@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "going", "to", "avoid", "but", "some", "others", "from", "my", "same", "event", "had", "eaten", "here", "the", "day", "before", "&", "said", "they", "enjoyed", "so", "I", "decided", "to", "give", "it", "a", "try", "."], "e1_text": "eaten", "e1_pos": 13, "e2_text": "said", "e2_pos": 19, "label": "before"}
+]

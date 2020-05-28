@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "tasted", "like", "it", "was", "boiled", "or", "steamed", "before", "it", "hit", "the", "smoker", "."], "e1_text": "boiled", "e1_pos": 5, "e2_text": "hit", "e2_pos": 10, "label": "before"}
+]

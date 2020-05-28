@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "you", "ask", "for", "the", "price", "of", "specials", "before", "you", "order", "as", "the", "stews", "were", "far", "more", "expensive", "than", "the", "kabob", "on", "the", "menu", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "order", "e2_pos": 11, "label": "before"}
+]

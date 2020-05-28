@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "get", "up", "from", "behind", "your", "desk", ",", "realize", "your", "foot", "has", "fallen", "asleep", "and", "before", "you", "realize", "it", ",", "you", "are", "falling", "to", "the", "ground", "because", "you", "decided", "to", "wear", "cute", "heels", "that", "day", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "realize", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "doctor", "who", "saw", "me", "-LRB-", "I", "did", "n't", "catch", "his", "name", "-RRB-", "was", "very", "nice", "as", "well", "and", "he", "checked", "my", "obviously", "swollen", "ankle", "and", "foot", "before", "ordering", "some", "X-rays", "."], "e1_text": "checked", "e1_pos": 20, "e2_text": "ordering", "e2_pos": 28, "label": "before"}
+]

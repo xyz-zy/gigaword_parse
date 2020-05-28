@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "second", "night", "I", "ordered", "the", "lamb", "shank", "-LRB-", "I", "might", "have", "ordered", "it", "the", "night", "before", "but", "the", "waiter", "did", "not", "alert", "us", "to", "the", "specials", "and", "we", "had", "missed", "the", "billboard", "at", "the", "entrance", "to", "the", "restuarant", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "did", "e2_pos": 20, "label": "before"}
+]

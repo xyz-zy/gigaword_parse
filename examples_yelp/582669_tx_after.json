@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "that", ",", "it", "was", "another", "30", "minutes", "before", "we", "got", "served", "our", "ramen", ",", "which", "was", "particularly", "frustrating", "because", "we", "saw", "patrons", "that", "got", "there", "after", "us", "getting", "served", "before", "us", "."], "e1_text": "got", "e1_pos": 10, "e2_text": "getting", "e2_pos": 28, "label": "after"},
+{"tokens": ["They", "'re", "worth", "another", "try", "after", "they", "'ve", "had", "time", "to", "perfect", "their", "craft", ",", "but", "if", "they", "ca", "n't", "get", "their", "speed", "up", ",", "in", "the", "future", "I", "will", "speed", "right", "by", "them", "."], "e1_text": "try", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 7, "label": "after"}
+]

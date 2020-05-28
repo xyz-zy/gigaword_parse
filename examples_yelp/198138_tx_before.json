@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "seafood", "dishes", "--", "the", "scallop", "and", "the", "sole", "filet", "--", "are", "practically", "carbon", "copies", "of", "Chinese", "dishes", ";", "revelatory", ",", "perhaps", ",", "if", "you", "'ve", "never", "had", "it", "before", ",", "but", "for", "a", "seasoned", "Chinese", "seafood", "eater", ",", "par", "for", "the", "course", "."], "e1_text": "are", "e1_pos": 11, "e2_text": "'ve", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "definitely", "did", "n't", "help", "that", "Picasso", "at", "the", "Bellagio", "-LRB-", "where", "we", "had", "dined", "two", "nights", "before", "-RRB-", "set", "a", "pretty", "damned", "high", "bar", "for", "our", "dining", "experiences", "in", "Vegas", "!"], "e1_text": "help", "e1_pos": 4, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

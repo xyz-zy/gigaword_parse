@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "the", "worst", "place", "ever", "!!", "Our", "friends", "band", "was", "booked", "to", "play", "and", "then", "after", "they", "were", "set", "up", "were", "told", "they", "were", "double", "booked", "and", "another", "band", "would", "play", "first", "."], "e1_text": "!!", "e1_pos": 6, "e2_text": "were", "e2_pos": 18, "label": "after"}
+]

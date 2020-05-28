@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "wait", "a", "bit", "in", "the", "bar", "before", "our", "reservation", "was", "ready", "but", "the", "bar", "is", "quaint", "with", "live", "music", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["Needless", "to", "say", "we", "were", "stuffed", "before", "the", "food", "even", "came", "."], "e1_text": "stuffed", "e1_pos": 5, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

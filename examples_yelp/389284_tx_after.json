@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "they", "pointed", "me", "in", "the", "wrong", "direction", "for", "parking", "the", "car", "and", "walking", "back", "to", "the", "lobby", "in", "100", "plus", "degree", "heat", "to", "check", "in", "I", "had", "to", "walk", "back", "to", "the", "bell", "desk", "out", "front", "to", "ask", "them", "to", "bring", "my", "bags", "up", "after", "they", "never", "showed", "up", "in", "my", "room", "."], "e1_text": "had", "e1_pos": 27, "e2_text": "showed", "e2_pos": 48, "label": "after"}
+]

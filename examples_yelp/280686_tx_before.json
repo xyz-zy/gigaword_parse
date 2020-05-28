@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "they", "charge", "for", "tasters", ",", "so", "to", "try", "a", "beer", "to", "see", "how", "bad", "it", "is", "before", "committing", "to", "a", "full", "pint", "will", "cost", "you", "money", "."], "e1_text": "see", "e1_pos": 12, "e2_text": "is", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "took", "me", "4", "tries", "of", "this", "company", "before", "I", "realized", "I", "was", "never", "going", "to", "leave", "thrilled", "and", "to", "just", "give", "up", "on", "BJ", "'s", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "realized", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "group", "of", "us", "came", "here", "because", "we", "needed", "to", "get", "our", "drink", "on", "before", "standing", "in", "line", "to", "get", "into", "Pure", "nightclub", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "standing", "e2_pos": 15, "label": "before"},
+{"tokens": ["Other", "than", "that", ",", "I", "think", "this", "is", "a", "good", "pit", "stop", "to", "get", "your", "drink", "on", "before", "heading", "anywhere", "around", "Caesar", "'s", "Palace", "."], "e1_text": "get", "e1_pos": 13, "e2_text": "heading", "e2_pos": 18, "label": "before"}
+]

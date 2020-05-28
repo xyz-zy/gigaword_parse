@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "got", "his", "dish", "around", "20", "mins", "after", "ordering", "and", "I", "had", "to", "wait", "another", "15", "minutes", "for", "mine", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 9, "label": "after"},
+{"tokens": ["But", "I", "understand", "that", "after", "seeing", "him", "waiting", "miserably", "for", "his", "drink", "for", "20", "mins", "trying", "to", "get", "attention", "from", "them", "without", "success", "."], "e1_text": "understand", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

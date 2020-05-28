@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "out", "of", "curiosity", "because", "we", "could", "n't", "tell", "what", "the", "place", "was", "and", "the", "name", "was", "kind", "of", "cool", "after", "we", "figured", "out", "it", "was", "n't", "''", "``", "mellow", "marshmellow", "''", "''", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "figured", "e2_pos": 24, "label": "after"},
+{"tokens": ["To", "our", "disappointment", ",", "there", "was", "n't", "a", "whole", "lot", "of", "items", "with", "mushrooms", "on", "it", ",", "and", "was", "n't", "until", "after", "our", "server", "told", "us", "there", "is", "a", "special", "mushroom", "pizza", "that", "is", "n't", "listed", "on", "the", "menu", "and", "it", "would", "also", "take", "about", "30", "minutes", "to", "prep", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "told", "e2_pos": 24, "label": "after"}
+]

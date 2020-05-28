@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "say", "10", "more", "minutes", "and", "my", "drink", "arrived", "and", "then", "it", "was", "about", "ordering", "appetizers", "-LRB-", "45", "minutes", "after", "people", "had", "arrived", "-RRB-", "."], "e1_text": "ordering", "e1_pos": 15, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["It", "came", "with", "a", "sauce", "which", "they", "did", "n't", "bring", "until", "10", "minutes", "later", "after", "having", "to", "ask", "for", "it", "-LRB-", "meaning", "they", "forgot", "it", "on", "numerous", "orders", "-RRB-", "."], "e1_text": "bring", "e1_pos": 9, "e2_text": "having", "e2_pos": 15, "label": "after"}
+]

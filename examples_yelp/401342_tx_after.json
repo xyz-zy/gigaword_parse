@@ -1,0 +1,3 @@
+[
+{"tokens": ["To", "start", ",", "we", "were", "seated", "in", "a", "back", "room", "-LRB-", "there", "were", "5", "of", "us", "and", "it", "was", "pretty", "busy", "-RRB-", ",", "then", "after", "receiving", "our", "drinks", ",", "we", "were", "left", "to", "ourselves", "for", "what", "seemed", "like", "a", "very", "long", "time", "."], "e1_text": "seated", "e1_pos": 5, "e2_text": "receiving", "e2_pos": 25, "label": "after"}
+]

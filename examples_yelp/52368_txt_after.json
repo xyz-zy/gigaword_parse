@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "an", "exhaustive", "search", "for", "good", "sushi", "with", "good", "prices", "in", "the", "West", "Valley", ",", "I", "decided", "to", "take", "hubby", "here", "for", "lunch", "after", "reading", "recent", "Yelpers", "'", "glowing", "reviews", "of", "the", "place", "."], "e1_text": "take", "e1_pos": 18, "e2_text": "reading", "e2_pos": 24, "label": "after"}
+]

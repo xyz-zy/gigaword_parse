@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "cat", "was", "also", "treated", "by", "Dr.", "Simard", "for", "a", "bad", "case", "of", "worms", ",", "after", "apparently", "catching", "and", "consuming", "a", "mouse", "in", "our", "basement", "-", "again", "they", "got", "me", "in", "right", "away", "and", "before", "I", "knew", "it", "he", "was", "worm-free", "."], "e1_text": "treated", "e1_pos": 4, "e2_text": "catching", "e2_pos": 17, "label": "after"}
+]

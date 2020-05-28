@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "is", "open", "after", "everyone", "is", "at", "work", "and", "closes", "before", "most", "people", "get", "off", "work", "-LRB-", "except", "weekends", ",", "unless", "you", "work", "weekends", ",", "too", "-RRB-", "."], "e1_text": "closes", "e1_pos": 10, "e2_text": "get", "e2_pos": 14, "label": "before"}
+]

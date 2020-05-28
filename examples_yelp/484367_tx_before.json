@@ -1,0 +1,3 @@
+[
+{"tokens": ["Towels", "that", "I", "left", "on", "the", "floor", "and", "pillows", "that", "I", "accidently", "knocked", "off", "the", "bed", "during", "the", "night", "were", "in", "the", "same", "place", "I", "left", "them", "before", "my", "room", "was", "cleaned", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "was", "e2_pos": 30, "label": "before"}
+]

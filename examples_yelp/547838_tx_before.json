@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "to", "make", "sure", "my", "order", "was", "right", "before", "leaving", ",", "but", "did", "n't", "think", "to", "actually", "count", "the", "chicken", "pieces", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "a", "horrible", "experience", ",", "and", "it", "will", "be", "a", "while", "before", "I", "give", "them", "another", "chance", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "give", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "-", "after", "getting", "about", "5", "beers", "deep", "in", "about", "40", "minutes", "-LRB-", "my", "tablemates", "did", "n't", "want", "to", "forcefeed", "themselves", "3", "bottles", "of", "crappy", "Bud", "each", "before", "hitting", "a", "club", "-RRB-", "-", "I", "figured", "-", "alright", "."], "e1_text": "forcefeed", "e1_pos": 19, "e2_text": "hitting", "e2_pos": 28, "label": "before"},
+{"tokens": ["Let", "'s", "get", "a", "lap", "dance", "before", "we", "go", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "go", "e2_pos": 8, "label": "before"}
+]

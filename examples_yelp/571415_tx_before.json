@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "much", "about", "cars", ",", "so", "I", "usually", "get", "2nd", "or", "3rd", "opinions", "elsewhere", "before", "I", "decide", "whom", "I", "go", "to", "get", "my", "car", "repaired", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "decide", "e2_pos": 19, "label": "before"}
+]

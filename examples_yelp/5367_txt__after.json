@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "booked", "through", "Hotwire", "while", "in", "town", "for", "a", "bowl", "game", "under", "their", "hot", "rate", ",", "so", "you", "do", "n't", "know", "what", "hotel", "you", "get", "until", "after", "you", "pay", "for", "it", "."], "e1_text": "get", "e1_pos": 24, "e2_text": "pay", "e2_pos": 28, "label": "after"}
+]

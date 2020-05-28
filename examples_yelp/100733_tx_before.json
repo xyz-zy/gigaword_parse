@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "was", "out", "quickly", "which", "was", "nice", "but", "I", "was", "n't", "pleased", "with", "the", "quality", "as", "I", "have", "been", "times", "before", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "have", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "continued", "to", "enjoy", "what", "we", "could", "of", "our", "breakfast", "but", "at", "this", "point", "we", "felt", "so", "rushed", "that", "we", "sat", "there", "til", "the", "last", "second", "possible", "before", "we", "had", "to", "go", "."], "e1_text": "til", "e1_pos": 22, "e2_text": "had", "e2_pos": 29, "label": "before"}
+]

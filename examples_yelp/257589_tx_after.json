@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "probably", "around", "10:15", "pm", ";", "ordered", "as", "soon", "as", "our", "completely", "incompetent", "server", "decided", "to", "oblige", "us", "with", "his", "presence", "and", "proceeded", "to", "wait", "another", "HOUR", "AND", "A", "HALF", "for", "our", "food", "while", "several", "tables", "who", "came", "in", "well", "after", "us", "enjoyed", "their", "meals", "."], "e1_text": "came", "e1_pos": 39, "e2_text": "enjoyed", "e2_pos": 44, "label": "after"},
+{"tokens": ["I", "informed", "her", "that", "we", "were", "sat", "over", "an", "hour", "ago", "-LRB-", "closer", "to", "two", "at", "this", "point", "-RRB-", ",", "that", "we", "still", "did", "n't", "have", "our", "food", "and", "that", "several", "tables", "who", "sat", "after", "us", "were", "already", "eating", "."], "e1_text": "sat", "e1_pos": 33, "e2_text": "were", "e2_pos": 5, "label": "after"}
+]

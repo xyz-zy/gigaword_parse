@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ice", "cream", "machine", "kept", "running", "out", "or", "they", "said", "broke", "so", "we", "need", "to", "wait", "for", "it", "to", "freeze", "-LRB-", "any", "vanilla", "gotten", "prior", "to", "them", "saying", "it", "melted", "before", "you", "even", "got", "back", "to", "your", "seat", "-RRB-", "."], "e1_text": "melted", "e1_pos": 28, "e2_text": "got", "e2_pos": 32, "label": "before"}
+]

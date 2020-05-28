@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "him", "this", "and", "also", "expressed", "my", "astonishment", "that", "after", "paying", "a", "deposit", "that", "he", "would", "speak", "to", "me", "with", "such", "disrespect", "."], "e1_text": "expressed", "e1_pos": 6, "e2_text": "paying", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "call", "in", ",", "explain", "the", "situation", "after", "sharing", "with", "the", "person", "the", "exact", "issues", "."], "e1_text": "explain", "e1_pos": 4, "e2_text": "sharing", "e2_pos": 8, "label": "after"}
+]

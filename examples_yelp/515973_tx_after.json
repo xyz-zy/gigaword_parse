@@ -1,0 +1,6 @@
+[
+{"tokens": ["C'mon", "Mr.", "Findlay", ",", "you", "ca", "n't", "hire", "more", "people", "to", "work", "the", "desk", "and", "check", "in", "vehicles", "?!", "A", "woman", "who", "worked", "there", "walked", "by", "me", ",", "but", "quickly", "turned", "back", "and", "asked", "if", "I", "had", "been", "helped", "after", "I", "pulled", "up", "."], "e1_text": "helped", "e1_pos": 38, "e2_text": "pulled", "e2_pos": 41, "label": "after"},
+{"tokens": ["The", "time", "before", "last", ",", "they", "washed", "it", "after", "I", "asked", "them", "not", "to", "and", "I", "had", "just", "had", "it", "detailed", "the", "day", "before", "!"], "e1_text": "washed", "e1_pos": 6, "e2_text": "asked", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "shuttle", "dropped", "me", "off", "at", "the", "mall", "once", "and", "picked", "me", "up", "promptly", "after", "I", "called", "."], "e1_text": "picked", "e1_pos": 10, "e2_text": "called", "e2_pos": 16, "label": "after"},
+{"tokens": ["Do", "n't", "leave", "that", "in", "my", "van", ",", "I", "clean", "up", "enough", "stuff", "with", "three", "kids", ",", "I", "do", "n't", "need", "to", "clean", "up", "after", "a", "grown", "man", "whom", "I", "do", "n't", "even", "know", "!"], "e1_text": "clean", "e1_pos": 9, "e2_text": "do", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Even", "though", "I", "had", "never", "been", "to", "S", "&", "D", "'s", "before", "I", "was", "the", "one", "who", "recommended", "that", "we", "eat", "here", "since", "my", "father", "is", "half", "Polish", "and", "half", "Slovak", "."], "e1_text": "been", "e1_pos": 5, "e2_text": "was", "e2_pos": 13, "label": "before"},
+{"tokens": ["It", "was", "described", "on", "the", "menu", "as", "being", "made", "of", "potato", "noodles", "with", "cheese", "and", "bacon", "and", "came", "out", "looking", "unlike", "any", "dish", "I", "had", "ever", "seen", "before", "."], "e1_text": "looking", "e1_pos": 19, "e2_text": "had", "e2_pos": 24, "label": "before"},
+{"tokens": ["He", "told", "me", "stories", "about", "my", "grandparents", "and", "great-grandparents", "that", "I", "have", "never", "heard", "before", "which", "I", "loved", "."], "e1_text": "heard", "e1_pos": 13, "e2_text": "loved", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "in", "Korea", ",", "Japan", ",", "Vietnam", ",", "and", "China", "before", "coming", "to", "Madison", ",", "so", "I", "'m", "a", "big", "fan", "of", "Asian", "foods", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "coming", "e2_pos": 13, "label": "before"},
+{"tokens": ["It", "was", "not", "even", "close", "to", "Korean", "dish", "-LRB-", "i", "have", "some", "expectation", "when", "it", "comes", "to", "Korean", "dish", "since", "i", "tried", "a", "lot", "before", "-RRB-", "The", "taste", "was", "really", "weired", "."], "e1_text": "comes", "e1_pos": 15, "e2_text": "tried", "e2_pos": 21, "label": "before"}
+]

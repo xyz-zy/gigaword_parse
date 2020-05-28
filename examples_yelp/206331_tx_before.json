@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "we", "were", "seated", ",", "a", "bus", "boy", "came", "to", "offer", "water\\/tea\\/coffee", "and", "we", "got", "water", "and", "coffee", ";", "then", "we", "waited", "for", "another", "15min", "before", "we", "were", "able", "to", "spot", "our", "server", "to", "take", "our", "orders", ",", "other", "tables", "who", "got", "seated", "after", "us", "had", "already", "ordered", "-LRB-", "ridiculous", "-RRB-", "."], "e1_text": "waited", "e1_pos": 21, "e2_text": "were", "e2_pos": 2, "label": "before"},
+{"tokens": ["We", "ordered", "steak", "&", "egg", "and", "grilled", "salmon", ";", "after", "we", "placed", "our", "order", ",", "we", "waited", "another", "21min", "before", "we", "got", "our", "food", "-LRB-", "I", "felt", "like", "I", "was", "in", "France", "-RRB-", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["Not", "sure", "if", "she", "found", "her", "phone", "at", "the", "end", "because", "we", "left", "before", "more", "drama", "happens", "."], "e1_text": "left", "e1_pos": 12, "e2_text": "happens", "e2_pos": 16, "label": "before"}
+]

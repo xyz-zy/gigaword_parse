@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "Scottsdale", "this", "past", "weekend", "for", "a", "little", "R&R", "before", "attending", "a", "conference", "at", "the", "Hyatt", "at", "Gainey", "Ranch", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "attending", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "only", "waited", "about", "20", "minutes", "-LRB-", "sat", "at", "the", "bar", "-RRB-", "before", "a", "table", "opened", "up", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "opened", "e2_pos": 15, "label": "before"}
+]

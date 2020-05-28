@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "sure", "why", "the", "info", "says", "this", "place", "does", "not", "take", "credit", "cards", ",", "but", "I", "'ve", "used", "a", "credit", "card", "to", "pay", "for", "a", "total", "less", "than", "$", "2", "before", ".", "."], "e1_text": "says", "e1_pos": 5, "e2_text": "does", "e2_pos": 8, "label": "before"}
+]

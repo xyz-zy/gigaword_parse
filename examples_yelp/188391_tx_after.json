@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "it", "was", "winter", ",", "after", "being", "a", "tourist", "and", "walking", "2", "hours", "from", "the", "Bellagio", "to", "finally", "end", "up", "at", "the", "Wynn", ",", "it", "was", "time", "for", "an", "afternoon", "snack", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "think", "I", "def", "crashed", "from", "the", "sugar", "and", "caffeine", "high", "after", "eating", "my", "cone", "."], "e1_text": "crashed", "e1_pos": 4, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

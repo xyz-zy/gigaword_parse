@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "literally", "had", "to", "ask", "three", "different", "people", "before", "we", "got", "a", "straight", "answer", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["Also", ",", "I", "guess", "in", "this", "establishment", "it", "'s", "absolutely", "unheard", "of", "to", "greet", "a", "person", "before", "speaking", "to", "them", "."], "e1_text": "greet", "e1_pos": 13, "e2_text": "speaking", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "kid", "at", "the", "customer", "service", "desk", "actually", "gave", "me", "the", "most", "disgusted-weirded", "out", "look", "as", "I", "said", "hello", "to", "him", "before", "I", "asked", "a", "question", "."], "e1_text": "look", "e1_pos": 14, "e2_text": "asked", "e2_pos": 23, "label": "before"}
+]

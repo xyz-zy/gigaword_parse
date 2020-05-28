@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "walk", "to", "my", "theater", "and", "they", "tell", "me", "no", "food", "is", "allowed", ",", "so", "after", "dropping", "$", "200", "on", "dinner", ",", "I", "was", "told", "I", "could", "n't", "keep", "my", "leftovers", "...", "Now", ",", "if", "I", "had", "that", "extra", "25", "minutes", "to", "eat", "and", "really", "enjoy", "my", "dinner", "without", "rushing", ",", "maybe", "I", "would", "n't", "be", "so", "upset", "about", "the", "whole", "experience", "."], "e1_text": "tell", "e1_pos": 8, "e2_text": "dropping", "e2_pos": 17, "label": "after"}
+]

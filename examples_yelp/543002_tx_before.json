@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "biggest", "issue", "with", "uBreakiFix", "is", "that", "when", "I", "asked", "whether", "the", "product", "was", "a", "good", "product", ",", "before", "originally", "buying", "the", "replacement", "cord", ",", "I", "was", "told", "that", "it", "was", "an", "OEM", "product", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "buying", "e2_pos": 20, "label": "before"}
+]

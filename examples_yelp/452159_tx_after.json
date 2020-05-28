@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "drinks", "took", "some", "time", "to", "come", "out", "and", "he", "forgot", "our", "requested", "lemons", "even", "after", "being", "asked", "three", "separate", "times", "by", "us", "."], "e1_text": "forgot", "e1_pos": 10, "e2_text": "being", "e2_pos": 16, "label": "after"},
+{"tokens": ["Overall", ",", "this", "place", "was", "a", "big", "disappointment", "after", "looking", "forward", "to", "it", "all", "week", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "looking", "e2_pos": 9, "label": "after"}
+]

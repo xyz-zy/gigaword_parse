@@ -1,0 +1,5 @@
+[
+{"tokens": ["-LRB-", "She", "'s", "the", "older", "woman", "-RRB-", "that", "does", "NOT", "wash", "her", "hands", "after", "using", "the", "latrine", "."], "e1_text": "wash", "e1_pos": 10, "e2_text": "using", "e2_pos": 14, "label": "after"},
+{"tokens": ["How", "can", "you", "train", ",", "touch", "equipment", ",", "touch", "that", "lady", "...", "Knowing", "you", "did", "n't", "wash", "your", "hands", "after", "going", "to", "the", "bathroom", "!"], "e1_text": "wash", "e1_pos": 16, "e2_text": "going", "e2_pos": 20, "label": "after"},
+{"tokens": ["You", "would", "think", "she", "would", "have", "the", "wisdom", "and", "know", "that", "not", "washing", "your", "hands", "after", "using", "the", "bathroom", "is", "nasty", "as", "heck", "!"], "e1_text": "washing", "e1_pos": 12, "e2_text": "using", "e2_pos": 16, "label": "after"}
+]

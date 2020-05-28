@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "not", "to", "mention", ",", "after", "eating", "this", "burger", ",", "I", "was", "still", "hungry", "."], "e1_text": "mention", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"},
+{"tokens": ["And", "if", "you", "'re", "still", "hungry", "after", "reading", "this", "review", ";", "do", "yourself", "a", "favor", "and", "grab", "a", "burger", "some", "place", "else", "."], "e1_text": "'re", "e1_pos": 3, "e2_text": "reading", "e2_pos": 7, "label": "after"}
+]

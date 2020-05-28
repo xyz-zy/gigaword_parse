@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "has", "to", "be", "the", "oldest", "Wal-Mart", "in", "the", "Mesa\\/Phoenix", "area", "and", "you", "can", "tell", "before", "you", "even", "step", "foot", "into", "the", "store", "!"], "e1_text": "tell", "e1_pos": 14, "e2_text": "step", "e2_pos": 18, "label": "before"}
+]

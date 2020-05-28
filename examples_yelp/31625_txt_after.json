@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "having", "problems", "with", "printing", "a", "baby", "registry", "and", "the", "2", "employees", "at", "the", "registry", "desk", "only", "assisted", "after", "I", "asked", "for", "help", ",", "because", "they", "were", "too", "busy", "playing", "on", "the", "computer", "."], "e1_text": "assisted", "e1_pos": 18, "e2_text": "asked", "e2_pos": 21, "label": "after"}
+]

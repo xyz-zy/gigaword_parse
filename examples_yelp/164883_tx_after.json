@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "friend", "and", "I", "walked", "in", "right", "on", "time", "for", "our", "reservation", "and", "were", "made", "to", "wait", "after", "we", "declined", "to", "sit", "at", "the", "bar", "-LRB-", "the", "hostess", "tried", "to", "convince", "us", "that", "eating", "in", "the", "bar", "was", "an", "option", "for", "reservations", "even", "though", "there", "were", "many", "empty", "tables", "-", "rude", "-RRB-", "."], "e1_text": "wait", "e1_pos": 16, "e2_text": "declined", "e2_pos": 19, "label": "after"}
+]

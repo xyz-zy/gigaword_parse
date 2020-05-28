@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "LOVE", ",", "LOVE", ",", "LOVE", "THIS", "PLACE", "As", "I", "try", "to", "remember", "to", "put", "at", "the", "end", "of", "my", "reviews", "''", "``", "this", "is", "ONLY", "my", "opinion", ",", "check", "it", "out", "for", "yourself", "and", "see", "what", "you", "think", "''", "''", "will", "now", "be", "a", "mandatory", "ending", "to", "all", "my", "reviews", "from", "now", "on", "after", "reading", "the", "negative", "reviews", "about", "this", "establishment", "."], "e1_text": "ending", "e1_pos": 46, "e2_text": "reading", "e2_pos": 55, "label": "after"}
+]

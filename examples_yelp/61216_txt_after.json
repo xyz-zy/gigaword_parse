@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "if", "you", "are", "in", "Vegas", "and", "drunk", "after", "clubbing", "than", "it", "would", "n't", "hurt", "to", "check", "this", "place", "out", "since", "it", "'s", "the", "only", "Pho", "restaurant", "open", "24", "hours", "over", "there", "."], "e1_text": "guess", "e1_pos": 1, "e2_text": "clubbing", "e2_pos": 10, "label": "after"}
+]

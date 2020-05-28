@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "booked", "an", "online", "reservation", "and", "was", "so", "swamped", "before", "i", "left", "that", "it", "was", "n't", "until", "i", "was", "up", "in", "the", "air", "on", "my", "flight", "that", "i", "realized", "I", "NEVER", "CALLED", "TO", "CONFIRM", "!"], "e1_text": "swamped", "e1_pos": 8, "e2_text": "left", "e2_pos": 11, "label": "before"}
+]

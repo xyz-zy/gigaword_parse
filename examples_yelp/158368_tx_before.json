@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "actually", "drive", "the", "vehicle", "off-site", ",", "even", "if", "you", "fill", "up", "with", "gas", "before", "coming", "back", ",", "your", "rate", "will", "be", "double", "or", "triple", "the", "advertised", "rate", "."], "e1_text": "fill", "e1_pos": 11, "e2_text": "coming", "e2_pos": 16, "label": "before"}
+]

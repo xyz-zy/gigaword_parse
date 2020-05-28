@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "saw", "her", "maybe", "one", "more", "time", "waiting", "on", "another", "table", "that", "was", "not", "far", "from", "us", ",", "they", "too", "were", "waiting", "for", "what", "seemed", "like", "a", "while", "like", "we", "did", "for", "service", "after", "they", "were", "seated", "."], "e1_text": "did", "e1_pos": 30, "e2_text": "were", "e2_pos": 20, "label": "after"},
+{"tokens": ["-LRB-", "it", "was", "pretty", "obvious", "we", "were", "ready", "to", "leave", ",", "we", "even", "stacked", "the", "dishes", "out", "of", "boredom", "-RRB-", "and", "after", "asking", "us", "who", "our", "waitress", "was", ",", "that", "'s", "when", "we", "then", "realized", "she", "never", "gave", "us", "her", "name", "-LRB-", "go", "figure", "-RRB-", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "asking", "e2_pos": 22, "label": "after"}
+]

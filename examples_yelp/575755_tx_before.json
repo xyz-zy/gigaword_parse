@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cole", "slaw", "that", "is", "served", "with", "the", "sandwiches", "lacks", "flavor", ",", "in", "part", "because", "it", "is", "dished", "into", "the", "serving", "cups", "long", "before", "it", "is", "served", "so", "the", "dressing", "sinks", "to", "the", "bottom", "."], "e1_text": "dished", "e1_pos": 17, "e2_text": "is", "e2_pos": 4, "label": "before"}
+]

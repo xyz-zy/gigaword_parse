@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "will", "note", "here", "however", "that", "it", "actually", "took", "our", "waiter", "about", "45", "minutes", "to", "actually", "come", "take", "our", "orders", "after", "bringing", "us", "our", "wine", "."], "e1_text": "take", "e1_pos": 17, "e2_text": "bringing", "e2_pos": 21, "label": "after"}
+]

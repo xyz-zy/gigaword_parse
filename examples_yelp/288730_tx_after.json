@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "was", "expecting", "a", "bit", "more", "after", "reading", "the", "description", "."], "e1_text": "expecting", "e1_pos": 3, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["Anyway", ",", "staff", "was", "friendly", "until", "my", "friend", "and", "I", "were", "asked", "to", "leave", "after", "paying", "the", "check", "to", "accommodate", "other", "guests", "."], "e1_text": "leave", "e1_pos": 13, "e2_text": "paying", "e2_pos": 15, "label": "after"}
+]

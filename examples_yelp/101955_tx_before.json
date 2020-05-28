@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "how", "anyone", "else", "does", "it", ",", "but", "when", "I", "am", "paying", "in", "cash", "and", "do", "n't", "want", "to", "open", "a", "tab", ",", "I", "pay", "for", "the", "drinks", "when", "they", "are", "delivered", ",", "then", "leave", "the", "tip", "on", "the", "bar", "top", "right", "before", "I", "leave", "."], "e1_text": "leave", "e1_pos": 37, "e2_text": "leave", "e2_pos": 47, "label": "before"},
+{"tokens": ["So", "I", "pull", "out", "a", "5-dollar", "bill", "and", "give", "it", "to", "him", ",", "once", "again", ",", "because", "I", "always", "leave", "a", "cash", "tip", "on", "the", "bar", "top", "before", "I", "leave", ",", "not", "at", "the", "same", "time", "I", "pay", "for", "the", "drinks", "."], "e1_text": "leave", "e1_pos": 19, "e2_text": "leave", "e2_pos": 19, "label": "before"}
+]

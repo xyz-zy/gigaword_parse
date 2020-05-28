@@ -1,0 +1,4 @@
+[
+{"tokens": ["Good", "thing", "we", "checked", "with", "the", "server", "before", "we", "order", ",", "cuz", "apparently", "u", "ca", "n't", "use", "the", "certificate", "on", "all", "you", "can", "eat", "!!", "Makes", "sense", "for", "the", "business", ",", "but", "sucks", "for", "the", "people", "who", "thought", "they", "got", "a", "deal", "."], "e1_text": "checked", "e1_pos": 3, "e2_text": "order", "e2_pos": 9, "label": "before"},
+{"tokens": ["Plus", ":", "-", "We", "ordered", "a", "couple", "of", "things", ",", "the", "dishes", "came", "out", "pretty", "fast", ",", "I", "think", "we", "only", "waited", "like", "5", "minutes", "before", "our", "first", "dish", "came", "out", "."], "e1_text": "waited", "e1_pos": 21, "e2_text": "came", "e2_pos": 12, "label": "before"}
+]

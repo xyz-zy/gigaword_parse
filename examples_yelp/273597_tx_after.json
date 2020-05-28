@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "it", "'s", "Vegas", "and", "I", "was", "expecting", "it", "but", "we", "walked", "out", "after", "three", "hours", "owing", "more", "than", "what", "it", "cost", "to", "eat", "at", "the", "top", "of", "the", "Eiffel", "Tower", "restaurant", "."], "e1_text": "walked", "e1_pos": 12, "e2_text": "owing", "e2_pos": 17, "label": "after"}
+]

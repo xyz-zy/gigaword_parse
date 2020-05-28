@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "about", "what", "to", "order", "if", "I", "'d", "never", "had", "Salvadoran", "food", "before", "our", "server", "helpfully", "suggested", "a", "few", "sampler", "dinners", "and", "what", "each", "one", "includes", ",", "but", "when", "I", "started", "asking", "about", "food", "off", "the", "sampler", "platter", "he", "could", "n't", "explain", "what", "the", "food", "was", "or", "what", "it", "tastes", "like", "because", "he", "'d", "never", "had", "it", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "suggested", "e2_pos": 18, "label": "before"}
+]

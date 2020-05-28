@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "put", "in", "our", "order", "not", "too", "long", "after", "our", "appetizer", "order", "was", "placed", "."], "e1_text": "put", "e1_pos": 2, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["Needless", "to", "say", ",", "we", "skipped", "dessert", "and", "signed", "our", "check", "an", "hour", "and", "a", "half", "after", "being", "seated", "."], "e1_text": "signed", "e1_pos": 8, "e2_text": "being", "e2_pos": 17, "label": "after"}
+]

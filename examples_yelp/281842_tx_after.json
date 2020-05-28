@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "order", "was", "placed", "by", "someone", "I", "know", "who", "lives", "out", "of", "town", "&", "I", "was", "able", "to", "go", "pick", "it", "up", "after", "they", "gave", "special", "instructions", "when", "placing", "the", "order", "online", "...", "I", "just", "had", "to", "show", "my", "id", "."], "e1_text": "pick", "e1_pos": 19, "e2_text": "gave", "e2_pos": 24, "label": "after"}
+]

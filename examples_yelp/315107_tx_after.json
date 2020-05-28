@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "worst", "part", "came", "about", "two", "hours", "after", "the", "installation", "guys", "left", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "left", "e2_pos": 11, "label": "after"},
+{"tokens": ["Avoid", "Spencer", "'s", "at", "all", "cost", "-", "they", "will", "rope", "you", "in", "with", "outstanding", "customer", "service", "and", "then", "treat", "you", "like", "crap", "even", "after", "installing", "damaged", "parts", "in", "your", "home", "."], "e1_text": "treat", "e1_pos": 18, "e2_text": "installing", "e2_pos": 24, "label": "after"}
+]

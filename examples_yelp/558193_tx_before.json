@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "we", "were", "seated", "we", "waited", "15", "mins", "before", "the", "server", "even", "approached", "our", "table", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "approached", "e2_pos": 12, "label": "before"},
+{"tokens": ["Then", "to", "polish", "the", "whole", "experience", "off", ",", "when", "I", "went", "to", "go", "pay", "for", "the", "check", "I", "was", "not", "acknowledged", "I", "wait", "to", "wait", "for", "the", "server", "to", "get", "their", "change", "before", "the", "cashier", "even", "acknowledged", "me", "."], "e1_text": "wait", "e1_pos": 22, "e2_text": "acknowledged", "e2_pos": 36, "label": "before"}
+]

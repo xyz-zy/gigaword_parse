@@ -1,0 +1,3 @@
+[
+{"tokens": ["Told", "the", "clerk", "at", "the", "jewelry", "counter", "what", "I", "was", "looking", "for", ",", "and", "after", "she", "reviewed", "the", "inventory", ",", "informed", "me", "that", "they", "were", "currently", "out", "of", "that", "item", "."], "e1_text": "counter", "e1_pos": 6, "e2_text": "reviewed", "e2_pos": 16, "label": "after"}
+]

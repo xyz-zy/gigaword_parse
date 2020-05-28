@@ -1,0 +1,3 @@
+[
+{"tokens": ["Andy", "communicated", "with", "me", "a", "few", "days", "before", "my", "move", "date", "to", "confirm", "and", "communicated", "with", "me", "throughout", "the", "day", "on", "the", "scheduled", "move", "date", "to", "keep", "me", "updated", "of", "any", "time", "changes", "."], "e1_text": "communicated", "e1_pos": 1, "e2_text": "date", "e2_pos": 10, "label": "before"}
+]

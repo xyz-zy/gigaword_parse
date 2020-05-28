@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "groupon", "was", "given", "as", "a", "gift", "to", "me", "for", "my", "birthday", "which", "was", "three", "days", "before", "."], "e1_text": "given", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

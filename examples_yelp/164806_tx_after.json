@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "had", "a", "steak", ",", "he", "also", "thought", "was", "okay", ",", "but", "after", "having", "a", "steak", "at", "the", "Mesa", "Grill", "the", "previous", "night", "he", "thought", "his", "steak", "at", "Palm", "did", "not", "compare", "."], "e1_text": "thought", "e1_pos": 8, "e2_text": "did", "e2_pos": 30, "label": "after"}
+]

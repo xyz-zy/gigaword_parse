@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "to", "first", "say", "that", "I", "have", "eaten", "at", "Coal", "Burger", "before", "and", "my", "first", "experience", "was", "a", "good", "one", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "have", "e2_pos": 1, "label": "before"},
+{"tokens": ["My", "wife", "and", "I", "went", "in", "late", "at", "night", "about", "an", "hour-and-a-half", "before", "they", "closed", "to", "order", "a", "grass-fed", "burger", ";", "My", "wife", "ended", "up", "going", "with", "the", "vegetarian", "since", "she", "does", "n't", "eat", "meat", "at", "all", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "closed", "e2_pos": 14, "label": "before"}
+]

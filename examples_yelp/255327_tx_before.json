@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nice", "apartments", ",", "however", "the", "apartment", "had", "a", "problem", "with", "Roaches", "and", "the", "complex", "did", "n't", "believe", "me", "and", "it", "took", "4", "treatments", "before", "they", "were", "completely", "gone", "."], "e1_text": "took", "e1_pos": 20, "e2_text": "were", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "have", "n't", "had", "a", "problem", "in", "months", ",", "but", "they", "should", "have", "taken", "care", "of", "this", "when", "I", "told", "them", "which", "is", "before", "I", "moved", "in", "."], "e1_text": "is", "e1_pos": 22, "e2_text": "moved", "e2_pos": 25, "label": "before"}
+]

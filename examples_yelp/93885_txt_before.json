@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "reviewed", "bids", "from", "several", "remodeling", "contractors", "before", "settling", "on", "Shasta", "."], "e1_text": "reviewed", "e1_pos": 1, "e2_text": "settling", "e2_pos": 8, "label": "before"},
+{"tokens": ["Broken", "stuff", ":", "The", "light", "on", "our", "pool", "worked", "before", "the", "install", ",", "does", "not", "work", "now", ",", "instead", "is", "flooded", "with", "water", "."], "e1_text": "worked", "e1_pos": 8, "e2_text": "is", "e2_pos": 19, "label": "before"}
+]

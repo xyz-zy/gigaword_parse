@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "fiance", "and", "I", "decided", "to", "try", "the", "Wynn", "buffet", "a", "couple", "nights", "after", "trying", "the", "buffet", "at", "the", "Bellagio", "."], "e1_text": "decided", "e1_pos": 4, "e2_text": "trying", "e2_pos": 14, "label": "after"},
+{"tokens": ["Well", ",", "what", "a", "surprise", "...", "they", "did", "n't", "even", "have", "King", "Crab", "Legs", ",", "and", "this", "was", "after", "asking", "the", "cashier", "if", "they", "had", "them", "tonight", "and", "she", "said", "yes", "!"], "e1_text": "was", "e1_pos": 17, "e2_text": "asking", "e2_pos": 19, "label": "after"}
+]

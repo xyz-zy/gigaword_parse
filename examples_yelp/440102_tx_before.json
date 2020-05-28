@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "go", "this", "this", "nail", "salon", "because", "it", "'s", "close", "to", "my", "house", "and", "I", "had", "been", "before", "and", "thought", "it", "was", "a", "nice", "place", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "'s", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "knew", "he", "was", "new", "because", "before", "he", "started", "my", "nails", ",", "he", "had", "just", "walked", "in", "and", "the", "other", "employee", "was", "introducing", "themselves", "to", "him", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "started", "e2_pos": 8, "label": "before"}
+]

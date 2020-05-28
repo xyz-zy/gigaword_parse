@@ -1,0 +1,3 @@
+[
+{"tokens": ["Initially", "the", "reservation", "was", "to", "take", "my", "sick", "member", "of", "the", "family", "on", "a", "weekend", "trip", "before", "they", "started", "chemo", "but", "since", "their", "condition", "worsened", ",", "the", "trip", "was", "a", "no-go", "and", "in", "the", "morass", "of", "the", "illness", ",", "I", "forgot", "about", "the", "reservation", "."], "e1_text": "take", "e1_pos": 5, "e2_text": "started", "e2_pos": 18, "label": "before"}
+]

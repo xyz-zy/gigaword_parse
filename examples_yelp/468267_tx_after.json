@@ -1,0 +1,4 @@
+[
+{"tokens": ["Chips", "and", "salsa", "were", "brought", "out", "after", "we", "ordered", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "had", "to", "flag", "her", "down", "to", "get", "the", "bill", "after", "we", "stopped", "eating", ",", "which", "was", "n't", "easy", "when", "she", "refused", "to", "look", "in", "our", "direction", "most", "of", "the", "time", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "stopped", "e2_pos": 12, "label": "after"}
+]

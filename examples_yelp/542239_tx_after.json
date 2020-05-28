@@ -1,0 +1,3 @@
+[
+{"tokens": ["Server", "asked", "us", "if", "we", "want", "tea", "we", "said", "sure", "why", "not", "...", "First", "of", "all", "he", "did", "n't", "tell", "us", "it", "cost", "$", "5", "for", "the", "pot", "second", "of", "all", "after", "we", "filled", "our", "cups", "he", "took", "the", "pot", "without", "asking", "us", ",", "when", "it", "was", "still", "has", "tea", "."], "e1_text": "cost", "e1_pos": 22, "e2_text": "filled", "e2_pos": 33, "label": "after"}
+]

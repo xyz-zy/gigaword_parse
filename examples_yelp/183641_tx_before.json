@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "took", "forever", "to", "get", "us", "our", "food", "-LRB-", "despite", "the", "fact", "that", "it", "was", "2am", "and", "the", "tables", "were", "mostly", "empty", "...", "he", "could", "have", "at", "least", "come", "to", "us", "to", "apologize", "-RRB-", ",", "he", "did", "n't", "once", "stop", "by", "to", "check", "on", "how", "our", "meal", "was", "going", ",", "and", "we", "sat", "there", "for", "15", "or", "20", "minutes", "with", "empty", "plates", "before", "he", "brought", "our", "check", "."], "e1_text": "sat", "e1_pos": 53, "e2_text": "brought", "e2_pos": 65, "label": "before"},
+{"tokens": ["It", "'s", "a", "good", "thing", "I", "waited", "2", "days", "to", "cool", "off", "before", "writing", "this", "review", "...", "I", "had", "originally", "been", "considering", "giving", "it", "1", "star", "!"], "e1_text": "cool", "e1_pos": 10, "e2_text": "writing", "e2_pos": 13, "label": "before"}
+]

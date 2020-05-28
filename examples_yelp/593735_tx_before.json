@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "minus", "though", "is", "that", "when", "we", "went", "to", "the", "actual", "tepanyaki", "we", "had", "to", "wait", "FOREVER", "!!", "First", "they", "seated", "us", "and", "made", "us", "wait", "10-15", "minutes", "before", "just", "taking", "our", "drink", "order", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "taking", "e2_pos": 30, "label": "before"}
+]

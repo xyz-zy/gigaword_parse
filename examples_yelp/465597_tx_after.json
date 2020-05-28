@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "vehicle", "had", "burnt", "rubber", "pieces", "on", "the", "back", "tires", "after", "they", "were", "-LRB-", "they", "never", "called", "me", "to", "say", "they", "had", "finished", "after", "two", "hours", "-RRB-", "done", "changing", "the", "oil", "."], "e1_text": "burnt", "e1_pos": 3, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

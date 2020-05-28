@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "a", "cute", "diner", "and", "setting", "but", "definitely", "weird", "because", "I", "had", "eaten", "at", "the", "old", "place", "before", "it", "become", "lemongrass", "."], "e1_text": "eaten", "e1_pos": 13, "e2_text": "become", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "restaurant", "only", "had", "maybe", "a", "couple", "more", "people", "in", "it", "and", "we", "had", "to", "wave", "down", "a", "waitress", "two", "times", "before", "finally", "getting", "refills", "."], "e1_text": "wave", "e1_pos": 15, "e2_text": "getting", "e2_pos": 23, "label": "before"}
+]

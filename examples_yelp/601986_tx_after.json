@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "was", "after", "waiting", "for", "someone", "to", "take", "my", "order", "-LRB-", "i", "eventually", "had", "to", "track", "down", "the", "hostess", ",", "who", "eventually", "sent", "a", "waitress", "who", "said", "she", "was", "''", "``", "just", "informed", "''", "''", "there", "was", "a", "customer", "at", "the", "booth", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 3, "label": "after"}
+]

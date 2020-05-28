@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "even", "saw", "a", "kid", "pick", "his", "booger", "out", "before", "using", "the", "same", "hand", "to", "grab", "a", "corn", "on", "the", "cob", "."], "e1_text": "pick", "e1_pos": 5, "e2_text": "using", "e2_pos": 10, "label": "before"}
+]

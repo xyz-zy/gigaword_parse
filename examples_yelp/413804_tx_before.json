@@ -1,0 +1,3 @@
+[
+{"tokens": ["Much", "to", "our", "surprise", "She", "begins", "to", "defend", "her", "staff", "and", "say", "well", "thats", "not", "what", "she", "said", ",", "and", "on", "and", "on", "...", "lady", "look", "at", "the", "pitcher", "and", "examine", "the", "situation", "before", "you", "speak", "...", "then", "she", "goes", "on", "saying", "well", "you", "asked", "for", "a", "pitcher", ".", "."], "e1_text": "examine", "e1_pos": 30, "e2_text": "speak", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "a", "nice", "surprise", "to", "stumble", "upon", "this", "place", "after", "dropping", "someone", "off", "at", "the", "Italian", "restaurant", "next", "door", "."], "e1_text": "stumble", "e1_pos": 5, "e2_text": "dropping", "e2_pos": 10, "label": "after"},
+{"tokens": ["Being", "''", "``", "lightweights", "''", "''", ",", "we", "asked", "them", "to", "take", "it", "easy", "on", "the", "alcohol", "--", "well", ",", "I", "do", "n't", "think", "the", "bartender", "'s", "heavy", "pour", "hand", "got", "the", "message", "since", "we", "both", "felt", "a", "slight", "buzz", "after", "only", "a", "couple", "sips", ":-RRB-", "Warm", "buttered", "bread", "was", "very", "much", "a", "needed", "alcohol", "buffer", "."], "e1_text": "felt", "e1_pos": 36, "e2_text": ":-RRB-", "e2_pos": 45, "label": "after"}
+]

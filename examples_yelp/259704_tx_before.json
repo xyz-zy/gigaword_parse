@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "charged", "me", "an", "extra", "3", "bucks", "for", "bug", "removal", ",", "Ive", "never", "heard", "of", "that", "before", "...", "Not", "a", "big", "deal", ",", "wait", "for", "my", "car", "to", "get", "washed", ",", "everything", "looked", "fine", ",", "except", "a", "letter", "from", "my", "car", "tag", "is", "missing", "that", "definitely", "was", "n't", "missing", "before", "."], "e1_text": "heard", "e1_pos": 13, "e2_text": "was", "e2_pos": 46, "label": "before"}
+]

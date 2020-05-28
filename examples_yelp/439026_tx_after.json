@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "for", "a", "pedicure", "and", "the", "lady", "cut", "my", "toe", "twice", "and", "used", "the", "razor", "on", "my", "feet", "after", "I", "asked", "her", "not", "to", "...", "Do", "not", "recommend", "this", "place", "to", "anyone", "!"], "e1_text": "used", "e1_pos": 13, "e2_text": "asked", "e2_pos": 21, "label": "after"}
+]

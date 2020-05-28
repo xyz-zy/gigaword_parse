@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "drink", "a", "lot", "of", "water", "and", "we", "usually", "stock", "our", "hotel", "room", "fridge", "with", "bottled", "water", "b\\/c", "I", "drink", "before", "I", "sleep", ",", "in", "the", "middle", "of", "the", "night", "and", "first", "thing", "in", "the", "morning", "."], "e1_text": "drink", "e1_pos": 1, "e2_text": "sleep", "e2_pos": 22, "label": "before"}
+]

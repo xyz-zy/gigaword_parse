@@ -1,0 +1,3 @@
+[
+{"tokens": ["Weird", "!!!", "Inside", "a", "fellow", "attendee", "said", "to", "me", "''", "``", "that", "lady", "attacked", "me", "too", ",", "but", "I", "said", "I", "was", "I", "only", "taking", "a", "drink", "before", "I", "enter", "!", "''", "''"], "e1_text": "taking", "e1_pos": 24, "e2_text": "enter", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Chef", "is", "not", "tasting", "his\\/her", "own", "food", "before", "it", "leaves", "the", "kitchen", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "leaves", "e2_pos": 9, "label": "before"}
+]

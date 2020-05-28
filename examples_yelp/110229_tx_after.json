@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "see", "something", "I", "like", ",", "I", "go", "for", "it", "...", ";-RRB-", "Anywho", ",", "I", "found", "this", "place", "last", "year", ",", "after", "I", "checked", "out", "of", "my", "hotel", ",", "on", "the", "way", "to", "the", "airport", "."], "e1_text": "found", "e1_pos": 16, "e2_text": "checked", "e2_pos": 24, "label": "after"}
+]

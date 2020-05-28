@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "guy", "-LRB-", "he", "was", "either", "the", "manager", "or", "the", "owner", "-RRB-", "who", "sold", "it", "to", "her", "the", "day", "before", "was", "n't", "there", "but", "a", "girl", "who", "was", "there", "agreed", "to", "the", "exchange", "."], "e1_text": "sold", "e1_pos": 13, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["The", "first", "box\\/jar", "they", "opened", "was", "spoiled", "...", "the", "second", "box\\/jar", "they", "opened", "was", "spoiled", "...", "this", "went", "on", "6", "more", "times", "-LRB-", "a", "total", "of", "8", "boxes\\/jars", "of", "very", "expensive", "spoiled\\/rancid", "product", "-RRB-", "before", "my", "friend", "decided", "to", "ask", "for", "a", "refund", "."], "e1_text": "went", "e1_pos": 17, "e2_text": "decided", "e2_pos": 37, "label": "before"},
+{"tokens": ["My", "friend", "said", "that", "she", "was", "not", "taking", "a", "rotten", "jar", "of", "cream", "so", "the", "girl", "called", "the", "manager", "who", "sold", "the", "jar", "the", "day", "before", "."], "e1_text": "called", "e1_pos": 16, "e2_text": "sold", "e2_pos": 20, "label": "before"}
+]

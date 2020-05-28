@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "wanted", "to", "have", "a", "late", "dinner", "and", "drinks", "after", "the", "football", "game", "and", "that", "was", "n't", "possible", "at", "the", "Tempe", "z-Tejas", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "was", "e2_pos": 15, "label": "after"},
+{"tokens": ["They", "started", "filling", "in", "the", "tables", "and", "actually", "moved", "other", "patrons", "after", "they", "had", "been", "seated", "so", "they", "could", "accommodate", "another", "table", "??", "Those", "folks", "were", "more", "polite", ",", "I", "felt", "this", "inconsiderate", "to", "their", "experience", "."], "e1_text": "moved", "e1_pos": 8, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "female", "server", "in", "the", "area", "was", "on", "top", "of", "things", "and", "folks", "who", "were", "sat", "after", "us", "had", "drinks", ",", "cornbread", "and", "soup", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "had", "e2_pos": 18, "label": "after"}
+]

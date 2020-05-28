@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "read", "other", "reviews", "before", "we", "stopped", "by", "for", "dinner", "...", "but", "after", "a", "show", "at", "Bell", "Centre", ",", "we", "were", "hungry", "and", "cold", ",", "looking", "for", "a", "warm", "place", "to", "sit", "down", "and", "eat", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "stopped", "e2_pos": 8, "label": "before"},
+{"tokens": ["Try", "other", "places", "before", "you", "stop", "here", ",", "unless", "you", "want", "to", "pay", "a", "lot", "of", "money", "for", "mediocre", "food", "."], "e1_text": "Try", "e1_pos": 0, "e2_text": "stop", "e2_pos": 5, "label": "before"}
+]

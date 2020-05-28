@@ -1,0 +1,4 @@
+[
+{"tokens": ["Do", "n't", "forget", "to", "get", "a", "side", "of", "hot", "au", "jus", "to", "pour", "all", "over", "your", "meat", "before", "you", "get", "down", "and", "dirty", "."], "e1_text": "forget", "e1_pos": 2, "e2_text": "get", "e2_pos": 19, "label": "before"},
+{"tokens": ["If", "you", "want", "a", "good", "meal", "before", "you", "hit", "the", "road", "and", "head", "back", "to", "Socal", ",", "this", "would", "be", "an", "ideal", "stop", "because", "you", "wo", "n't", "be", "eating", "much", "on", "that", "7", "hour", "traffic", "jam", "."], "e1_text": "want", "e1_pos": 2, "e2_text": "hit", "e2_pos": 8, "label": "before"}
+]

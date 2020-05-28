@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "finally", "called", "the", "office", "to", "see", "when", "we", "could", "get", "the", "vacuum", "fixed", ",", "I", "had", "to", "call", "three", "times", "over", "the", "course", "of", "a", "week", "before", "the", "owner", "left", "me", "a", "voicemail", "to", "tell", "me", "the", "price", "of", "the", "repair", "."], "e1_text": "call", "e1_pos": 19, "e2_text": "left", "e2_pos": 31, "label": "before"}
+]

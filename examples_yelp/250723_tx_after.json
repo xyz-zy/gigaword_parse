@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "scheduled", "for", "our", "fence", "to", "be", "installed", "on", "a", "Tuesday", "morning", "and", "after", "no", "one", "showed", "up", "we", "called", "the", "company", "and", "they", "said", "WE", "had", "gotten", "the", "day", "wrong", "and", "they", "were", "actually", "supposed", "to", "come", "Thursday", "-LRB-", "although", "we", "had", "the", "voicemail", "stating", "they", "would", "come", "Tuesday", "-RRB-", "."], "e1_text": "scheduled", "e1_pos": 2, "e2_text": "showed", "e2_pos": 17, "label": "after"}
+]

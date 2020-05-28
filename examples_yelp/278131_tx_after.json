@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "n't", "realized", ",", "until", "now", "after", "looking", "through", "my", "reviews", ",", "that", "tonight", "'s", "visit", "marked", "a", "date", "exactly", "two", "years", "from", "the", "day", "I", "first", "ate", "here", "!", "-RRB-"], "e1_text": "realized", "e1_pos": 3, "e2_text": "looking", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "'ve", "never", "suffered", "headaches", "after", "eating", "pizzas", "from", "Redendo", "'s", "before", ",", "so", "this", "was", "also", "unpleasing", "."], "e1_text": "suffered", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

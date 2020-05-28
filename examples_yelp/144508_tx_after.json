@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "no", "matter", "what", "I", "get", "breakfast", "or", "lunch", "it", "'s", "always", "great", "after", "they", "make", "it", "the", "2nd", "time", "around", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "make", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "have", "no", "idea", "why", "they", "ca", "n't", "get", "it", "correct", "the", "first", "time", "however", "after", "the", "do", "over", "its", "great", "."], "e1_text": "correct", "e1_pos": 10, "e2_text": "do", "e2_pos": 17, "label": "after"}
+]

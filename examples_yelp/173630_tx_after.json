@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "waiting", "about", "10", "minutes", "I", "see", "a", "couple", "that", "arrived", "just", "after", "us", "get", "sat", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "get", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "ended", "up", "getting", "sat", "quickly", "after", "but", "I", "guess", "I", "should", "have", "taken", "the", "seating", "mix-up", "as", "a", "bit", "of", "foreshadowing", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "guess", "e2_pos": 9, "label": "after"}
+]

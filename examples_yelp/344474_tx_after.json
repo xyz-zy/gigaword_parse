@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "connecting", "flight", "was", "delayed", "I", "arrived", "at", "the", "gate", "10", "minutes", "after", "the", "flight", "left", ",", "the", "last", "flight", "to", "Raleigh", "for", "the", "day", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "left", "e2_pos": 15, "label": "after"}
+]

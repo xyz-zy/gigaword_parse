@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "I", "wish", "the", "customers", "that", "spend", "enough", "time", "to", "live", "there", "would", "leave", "after", "a", "couple", "of", "hours", "of", "occupying", "a", "space", ",", "but", "the", "new", "setup", "just", "gives", "me", "the", "feeling", "of", "''", "``", "look", ",", "we", "'ve", "provided", "you", "a", "bar", "to", "lean", "on", "but", "now", "that", "you", "'ve", "got", "your", "drink", "you", "should", "go", "''", "''", "."], "e1_text": "leave", "e1_pos": 14, "e2_text": "occupying", "e2_pos": 21, "label": "after"}
+]

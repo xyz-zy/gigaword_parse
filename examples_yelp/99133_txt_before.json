@@ -1,0 +1,3 @@
+[
+{"tokens": ["Their", "laundry", "service", "has", "ruined", "two", "of", "our", "shirts", "and", "it", "took", "them", "sending", "it", "back", "and", "arguing", "for", "two", "weeks", "before", "they", "finally", "decide", "to", "issue", "a", "claim", "."], "e1_text": "arguing", "e1_pos": 17, "e2_text": "decide", "e2_pos": 24, "label": "before"}
+]

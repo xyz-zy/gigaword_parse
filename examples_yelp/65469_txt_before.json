@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "extended", "period", "of", "time", "before", "they", "came", "to", "our", "table", "to", "give", "us", "the", "menus", "and", "finally", "take", "our", "order", "."], "e1_text": "extended", "e1_pos": 2, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "seemed", "like", "an", "endless", "amount", "of", "time", "before", "our", "food", "arrived", "."], "e1_text": "seemed", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 11, "label": "before"}
+]

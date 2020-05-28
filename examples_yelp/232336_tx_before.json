@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "morning", "we", "just", "needed", "a", "quick", "bite", "before", "we", "started", "the", "day", "with", "some", "friends", "so", "we", "worked", "our", "way", "down", "to", "the", "caf", "\\", "u00e9", "in", "the", "hotel", "l.", "Luckily", "I", "decided", "to", "take", "a", "look", "at", "the", "menu", "before", "we", "were", "seated", "because", "the", "prices", "were", "way", "out", "of", "line", "."], "e1_text": "needed", "e1_pos": 5, "e2_text": "started", "e2_pos": 11, "label": "before"}
+]

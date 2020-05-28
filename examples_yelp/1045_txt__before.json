@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yes", "there", "was", "a", "fireplace", "but", "nothing", "else", "really", "sticks", "out", "besides", "the", "fact", "that", "the", "lights", "would", "dim", "a", "bit", "for", "about", "5", "seconds", "before", "eventually", "brightening", "back", "up", "every", "10", "minutes", "or", "so", "."], "e1_text": "dim", "e1_pos": 18, "e2_text": "brightening", "e2_pos": 27, "label": "before"},
+{"tokens": ["The", "six", "of", "us", "quickly", "finished", "it", "all", "and", "then", "were", "in", "for", "quite", "a", "bit", "of", "a", "wait", "before", "our", "pasta", "with", "vodka", "sauce", "arrived", "."], "e1_text": "were", "e1_pos": 10, "e2_text": "arrived", "e2_pos": 25, "label": "before"}
+]

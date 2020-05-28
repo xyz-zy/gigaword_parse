@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "for", "the", "PRO", "pedicure", "which", "was", "38", "and", "it", "was", "n't", "until", "after", "he", "finished", "doing", "my", "nails", "he", "said", "that", "gel", "cost", "an", "additional", "25", "on", "top", "of", "that", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "finished", "e2_pos": 16, "label": "after"}
+]

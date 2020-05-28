@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "show", "up", "with", "a", "yard-long", "drink", "from", "elsewhere", ",", "you", "'ll", "be", "asked", "to", "chug", "it", "or", "leave", "it", "at", "the", "door", "before", "entering", "."], "e1_text": "leave", "e1_pos": 19, "e2_text": "entering", "e2_pos": 25, "label": "before"},
+{"tokens": ["Watch", "out", "when", "the", "waiter", "offers", "to", "bring", "you", "chips", "and", "salsa", "--", "They", "'re", "$", "4", "each", "and", "they", "'ll", "bring", "you", "''", "``", "enough", "for", "the", "table", "''", "''", "and", "then", "you", "'re", "stuck", "paying", "$", "12", "before", "you", "even", "get", "your", "menu", "."], "e1_text": "paying", "e1_pos": 36, "e2_text": "get", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "accentuated", "by", "it", "having", "two", "entrances", "as", "some", "people", "seem", "to", "just", "drift", "in", "and", "chat", "with", "their", "mates", "before", "leaving", "again", "."], "e1_text": "chat", "e1_pos": 17, "e2_text": "leaving", "e2_pos": 22, "label": "before"},
+{"tokens": ["Black", "Medicine", "is", "definitely", "a", "place", "to", "come", "and", "enjoy", "some", "good", "food", "and", "a", "hot", "drink", "in", "a", "unique", "environment", ",", "just", "try", "and", "get", "there", "before", "everyone", "else", "does", "!"], "e1_text": "get", "e1_pos": 25, "e2_text": "does", "e2_pos": 30, "label": "before"}
+]

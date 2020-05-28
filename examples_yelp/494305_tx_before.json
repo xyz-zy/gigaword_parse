@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "must", "say", "had", "we", "decided", "to", "stay", "in", "the", "library", "-LRB-", "on", "the", "top", "floor", "-RRB-", "before", "they", "hit", "capacity", "I", "think", "I", "might", "have", "enjoyed", "it", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "hit", "e2_pos": 19, "label": "before"}
+]

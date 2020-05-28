@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "crust", "also", "seemed", "to", "be", "thinner", "on", "the", "rest", "of", "the", "pizza", "so", "it", "got", "soggy", "before", "I", "even", "took", "my", "first", "bite", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "took", "e2_pos": 20, "label": "before"}
+]

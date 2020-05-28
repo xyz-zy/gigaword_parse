@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "offense", "all", "you", "PA", "'s", "out", "there", ":-RRB-", "I", "called", "the", "office", "to", "make", "an", "appointment", "and", "the", "staff", "was", "friendly", "and", "I", "opted", "to", "fill", "out", "their", "questionnaire", "online", "before", "showing", "up", "for", "my", "appointment", "to", "speed", "things", "along", "."], "e1_text": "fill", "e1_pos": 26, "e2_text": "showing", "e2_pos": 32, "label": "before"},
+{"tokens": ["I", "turned", "over", "my", "paperwork", "and", "only", "sat", "waiting", "for", "a", "few", "minutes", "before", "being", "taken", "back", "."], "e1_text": "waiting", "e1_pos": 8, "e2_text": "being", "e2_pos": 14, "label": "before"}
+]

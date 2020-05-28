@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "we", "ordered", ",", "it", "took", "about", "10", "minutes", "before", "we", "got", "our", "food", "and", "there", "was", "only", "one", "other", "customer", "ahead", "of", "us", "that", "has", "already", "ordered", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Every", "roll", "I", "had", "was", "made", "right", "in", "front", "of", "me", ",", "which", "I", "had", "never", "experienced", "before", "."], "e1_text": "made", "e1_pos": 5, "e2_text": "had", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "had", "maybe", "5", "different", "rolls", "before", "I", "called", "it", "a", "night", ",", "and", "every", "single", "roll", "was", "great", "!"], "e1_text": "had", "e1_pos": 1, "e2_text": "called", "e2_pos": 8, "label": "before"}
+]

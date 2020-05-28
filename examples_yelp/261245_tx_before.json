@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "wait", "10", "minutes", "before", "I", "finally", "got", "out", "of", "my", "seat", "to", "go", "ask", "someone", "for", "a", "server", "to", "take", "my", "order", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

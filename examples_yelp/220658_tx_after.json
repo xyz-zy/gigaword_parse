@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fries", "lacked", "seasoning", "so", "badly", "I", "literally", "thought", "I", "had", "gotten", "the", "lemon", "pepper", "flavor", "the", "time", "prior", "but", "after", "literally", "ordering", "a", "new", "batch", "of", "fries", "in", "the", "lemon", "pepper", "flavor", "I", "realized", "I", "just", "had", "shitty", "fries", "this", "time", ":-LRB-", "The", "fries", "use", "to", "be", "to", "die", "for", "!"], "e1_text": "seasoning", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 22, "label": "after"}
+]

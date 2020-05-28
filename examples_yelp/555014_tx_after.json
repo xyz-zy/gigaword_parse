@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "never", "received", "a", "refill", "on", "her", "soda", ",", "there", "was", "never", "a", "checkback", "on", "our", "meal", ",", "and", "when", "we", "sent", "our", "appetizer", "back", "because", "it", "came", "after", "the", "meals", "were", "delivered", "we", "were", "shunned", "upon", "."], "e1_text": "came", "e1_pos": 28, "e2_text": "were", "e2_pos": 32, "label": "after"},
+{"tokens": ["We", "watched", "one", "table", "get", "up", "completely", "after", "waiting", "twenty", "minutes", "to", "be", "served", ",", "another", "group", "next", "to", "our", "table", "had", "to", "go", "to", "the", "bar", "to", "order", "their", "drinks", ",", "and", "it", "just", "went", "downhill", "from", "there", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

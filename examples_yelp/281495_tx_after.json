@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "have", "a", "pedicure", "room", "and", "when", "I", "started", "going", "that", "was", "my", "fav", "thing", "they", "had", "a", "huge", "massage\\/spa", "chair", "but", "it", "broke", "soon", "after", "\\*", "sigh", "\\*", "I", "kept", "going", "back", "for", "my", "monthly", "mani\\/pedi", "as", "long", "as", "I", "could", "at", "$", "60", "a", "pop", "."], "e1_text": "broke", "e1_pos": 23, "e2_text": "kept", "e2_pos": 30, "label": "after"}
+]

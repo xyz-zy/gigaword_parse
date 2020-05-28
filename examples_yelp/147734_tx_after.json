@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "even", "purchased", "a", "new", "TV", "for", "the", "upstairs", ",", "after", "shopping", "and", "comparing", "prices", ",", "it", "seemed", "to", "be", "the", "''", "``", "best", "buy", "''", "''", "."], "e1_text": "purchased", "e1_pos": 3, "e2_text": "shopping", "e2_pos": 12, "label": "after"},
+{"tokens": ["When", "we", "left", "us", "to", "go", "find", "some", "information", "for", "us", ",", "my", "husband", "and", "I", "had", "a", "more", "serious", "discussion", "about", "the", "scrapbook", "thing", "and", "after", "looking", "at", "the", "prices", "of", "printer", "ink", ",", "this", "Kodak", "salesman", ",", "had", "us", "sold", "on", "a", "new", "printer", "."], "e1_text": "had", "e1_pos": 16, "e2_text": "looking", "e2_pos": 27, "label": "after"}
+]

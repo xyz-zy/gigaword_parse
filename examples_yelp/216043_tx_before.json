@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waiting", "for", "our", "food", "took", "a", "very", "long", "time", "-LRB-", "a", "couple", "seated", "after", "us", "received", "and", "finished", "their", "entrees", "before", "we", "received", "our", "'s", "-RRB-", ",", "and", "no", "one", "bothered", "to", "explain", "the", "situation", "until", "the", "maitre", "'d", "apologized", "almost", "45", "minutes", "later", "."], "e1_text": "finished", "e1_pos": 17, "e2_text": "received", "e2_pos": 15, "label": "before"}
+]

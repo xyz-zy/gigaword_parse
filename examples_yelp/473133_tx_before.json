@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "flew", "Spirit", "before", "but", "when", "I", "was", "looking", "for", "a", "last", "second", "ticket", "to", "LA", ",", "$", "63", "for", "a", "round", "trip", "ticket", "sounded", "like", "a", "dream", "come", "true", "."], "e1_text": "flew", "e1_pos": 2, "e2_text": "sounded", "e2_pos": 25, "label": "before"},
+{"tokens": ["Luckily", ",", "I", "took", "a", "look", "at", "their", "baggage", "fee", "list", "before", "I", "packed", "for", "my", "trip", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "packed", "e2_pos": 13, "label": "before"}
+]

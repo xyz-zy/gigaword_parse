@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "girl", "seemed", "pretty", "upset", "that", "I", "did", "n't", "want", "a", "picture", "taken", "after", "she", "blocked", "our", "way", "and", "then", "she", "made", "us", "walk", "around", "her", "to", "get", "inside", "."], "e1_text": "taken", "e1_pos": 12, "e2_text": "blocked", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "find", "it", "irritating", "in", "general", "that", "they", "are", "trying", "to", "sell", "you", "something", "right", "after", "you", "pay", "for", "a", "ticket", "and", "before", "you", "ever", "see", "anything", "-LRB-", "I", "find", "the", "idea", "of", "a", "posed", "photo", "at", "the", "bodies", "exhibit", "tacky", "-RRB-", "but", "if", "they", "are", "going", "to", "do", "it", ",", "they", "should", "consider", "at", "least", "getting", "people", "that", "are", "n't", "going", "to", "be", "rude", "about", "it", "."], "e1_text": "sell", "e1_pos": 11, "e2_text": "pay", "e2_pos": 17, "label": "after"}
+]

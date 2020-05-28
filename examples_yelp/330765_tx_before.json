@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "then", "realize", "that", "the", "2", "dirty", "chef", "has", "been", "serving", "all", "the", "clients", "in", "the", "restaurant", "before", "doing", "our", "table", "."], "e1_text": "serving", "e1_pos": 10, "e2_text": "doing", "e2_pos": 18, "label": "before"},
+{"tokens": ["In", "our", "table", "everyone", "has", "order", "1", "or", "2", "appetizer", "each", ",", "meal", ",", "dessert", "so", "i", "can", "understand", "but", "1h30", "and", "everyone", "in", "the", "dinner", "room", "had", "a", "plate", "except", "us", "??", "We", "had", "to", "wait", "2", "hours", "before", "getting", "our", "food", "."], "e1_text": "wait", "e1_pos": 36, "e2_text": "getting", "e2_pos": 40, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "LOVE", "random", "trips", "to", "Las", "Vegas", "and", "this", "is", "probably", "my", "3rd", "one", "???", "Anyways", "...", "came", "here", "with", "a", "friend", "for", "a", "late", "lunch", "since", "we", "were", "out", "the", "entire", "night", "before", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "were", "e2_pos": 28, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "maid", "service", "also", "knocked", "on", "our", "door", "an", "hour", "before", "the", "11am", "check", "out", "to", "make", "sure", "that", "we", "were", "checking", "out", "on", "time", "...", "kind", "of", "annoying", "."], "e1_text": "knocked", "e1_pos": 4, "e2_text": "check", "e2_pos": 13, "label": "before"}
+]

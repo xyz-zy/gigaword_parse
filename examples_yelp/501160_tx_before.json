@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "grabbed", "our", "yogurt", "and", "toppings", ",", "when", "my", "son", "took", "a", "bite", "of", "the", "brownie", "before", "we", "had", "weighed", "it", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "had", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "man", "working", "behind", "the", "counter", "immediately", "quipped", "that", "we", "are", "not", "allowed", "to", "eat", "anything", "before", "we", "weigh", "it", "."], "e1_text": "eat", "e1_pos": 14, "e2_text": "weigh", "e2_pos": 18, "label": "before"},
+{"tokens": ["He", "just", "stared", "at", "me", "and", "told", "me", "it", "is", "policy", "not", "to", "eat", "anything", "before", "it", "is", "weighed", "."], "e1_text": "eat", "e1_pos": 13, "e2_text": "is", "e2_pos": 9, "label": "before"}
+]

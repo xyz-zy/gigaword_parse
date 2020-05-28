@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "previously", "used", "their", "in-home", "repair", "service", "before", "I", "signed", "the", "lease", "and", "so", "I", "was", "already", "very", "pleased", "with", "their", "work", "."], "e1_text": "used", "e1_pos": 3, "e2_text": "signed", "e2_pos": 10, "label": "before"}
+]

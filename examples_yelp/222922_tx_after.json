@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "did", "n't", "come", "in", "to", "check", "on", "us", "after", "she", "took", "our", "order", "except", "to", "bring", "us", "our", "wine", ",", "and", "as", "other", "tables", "trickled", "in", ",", "we", "saw", "that", "they", "all", "got", "complimentary", "french", "fries", ",", "which", "we", "did", "not", "receive", ",", "even", "though", "it", "showed", "up", "on", "our", "check", "as", "''", "``", "Amuse", "fries", ".", "''", "''"], "e1_text": "check", "e1_pos": 7, "e2_text": "took", "e2_pos": 12, "label": "after"}
+]

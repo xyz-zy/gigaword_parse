@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "pretty", "small", "and", "the", "prices", "at", "the", "concession", "stands", "are", "really", "high", ",", "so", "I", "usually", "eat", "before", "I", "come", "see", "a", "movie", "here", "."], "e1_text": "eat", "e1_pos": 18, "e2_text": "come", "e2_pos": 21, "label": "before"}
+]

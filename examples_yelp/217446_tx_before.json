@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "this", "is", "an", "issue", "for", "you", "I", "would", "suggest", "calling", "ahead", "before", "planning", "a", "visit", "."], "e1_text": "calling", "e1_pos": 10, "e2_text": "planning", "e2_pos": 13, "label": "before"}
+]

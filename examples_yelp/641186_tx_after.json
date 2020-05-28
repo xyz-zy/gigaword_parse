@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "a", "while", "after", "they", "did", "to", "see", "if", "they", "liked", "their", "food", ",", "and", "I", "guess", "that", "was", "mistake", "#", "1", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "did", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "know", "for", "a", "fact", "that", "other", "people", "ordering", "after", "me", "got", "food", "before", "me", ",", "because", "the", "number", "they", "received", "to", "identify", "them", "was", "higher", "than", "mine", "."], "e1_text": "ordering", "e1_pos": 8, "e2_text": "got", "e2_pos": 11, "label": "after"}
+]

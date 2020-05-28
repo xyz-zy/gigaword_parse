@@ -1,0 +1,3 @@
+[
+{"tokens": ["Similar", "to", "another", "reviewers", "experience", ",", "we", "ordered", "and", "waited", "1.5", "hours", "after", "the", "promised", "delivery", "time", "before", "we", "saw", "our", "food", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "saw", "e2_pos": 19, "label": "before"}
+]

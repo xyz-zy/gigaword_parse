@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "at", "the", "store", "10", "minutes", "after", "making", "the", "phone", "call", "and", "was", "told", "I", "NEEDED", "to", "make", "an", "appointment", "next", "time", "...", "The", "woman", "I", "spoke", "with", "on", "the", "phone", "came", "to", "what", "I", "thought", "was", "my", "rescue", "and", "began", "helping", "me", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "making", "e2_pos": 8, "label": "after"}
+]

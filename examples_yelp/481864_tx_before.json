@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "''", "``", "crispy", "''", "''", "potatoes", "were", "not", "crispy", "but", "soggy", "and", "old", ",", "and", "my", "eggs", "were", "a", "dark", "yellow", ",", "indicating", "to", "me", "that", "the", "food", "sat", "there", "a", "while", "before", "it", "was", "brought", "to", "me", "."], "e1_text": "sat", "e1_pos": 29, "e2_text": "was", "e2_pos": 35, "label": "before"}
+]

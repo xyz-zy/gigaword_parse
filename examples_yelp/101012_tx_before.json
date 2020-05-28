@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "been", "to", "Phoenix", "before", "so", "I", "was", "excited", "to", "see", "what", "the", "city", "had", "to", "offer", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["After", "entering", "Dos", "Gringos", "we", "sat", "at", "our", "table", "for", "21", "minutes", "before", "a", "waitress", "came", "to", "our", "table", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

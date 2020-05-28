@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "deliberately", "got", "there", "when", "they", "opened", "doors", "at", "5:30", "PM", "since", "we", "wanted", "to", "get", "good", "pics", "of", "the", "ice", "on", "the", "field", "before", "too", "many", "people", "got", "there", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "got", "e2_pos": 2, "label": "before"},
+{"tokens": ["Plus", ",", "we", "wanted", "to", "make", "it", "through", "security", "before", "too", "many", "other", "people", "got", "there", "-LRB-", "there", "were", "65k", "people", "who", "were", "supposed", "to", "be", "there", "-RRB-", "."], "e1_text": "make", "e1_pos": 5, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

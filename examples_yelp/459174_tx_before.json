@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "talk", "to", "their", "own", "friends", "before", "addressing", "your", "needs", "as", "a", "customer", "."], "e1_text": "talk", "e1_pos": 2, "e2_text": "addressing", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "left", "before", "losing", "our", "dignity", "by", "spending", "a", "dime", "in", "this", "place", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "losing", "e2_pos": 3, "label": "before"}
+]

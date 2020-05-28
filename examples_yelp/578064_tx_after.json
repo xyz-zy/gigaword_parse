@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "technician", "said", "he", "would", "have", "the", "part", "ordered", "and", "would", "replace", "it", "after", "it", "came", "in", "."], "e1_text": "replace", "e1_pos": 11, "e2_text": "came", "e2_pos": 15, "label": "after"}
+]

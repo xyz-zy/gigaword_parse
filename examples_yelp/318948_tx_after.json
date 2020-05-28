@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "3.5", "stars", "really", "-RRB-", "Came", "here", "for", "a", "late", "lunch", "last", "Friday", "with", "my", "sister", "after", "we", "checked", "in", "to", "our", "room", "at", "the", "Palm", "Place", "because", "we", "had", "a", "dining", "credit", "there", "with", "our", "stay", "."], "e1_text": "Came", "e1_pos": 5, "e2_text": "checked", "e2_pos": 18, "label": "after"}
+]

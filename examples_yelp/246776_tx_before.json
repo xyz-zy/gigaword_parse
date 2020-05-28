@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "stuck", "as", "I", "was", "already", "in", "route", "to", "the", "airport", "and", "booked", "8", "min", "before", "boarding", "my", "flight", "."], "e1_text": "booked", "e1_pos": 13, "e2_text": "boarding", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "can", "not", "believe", "they", "waited", "to", "contact", "me", "about", "this", "on", "my", "way", "to", "the", "airport", "when", "i", "booked", "days", "before", "."], "e1_text": "contact", "e1_pos": 7, "e2_text": "booked", "e2_pos": 19, "label": "before"}
+]

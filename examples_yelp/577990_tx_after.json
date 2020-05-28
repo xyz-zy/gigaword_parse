@@ -1,0 +1,4 @@
+[
+{"tokens": ["Which", "left", "us", "unattended", "after", "finishing", "our", "meal", "for", "over", "30", "minutes", "."], "e1_text": "unattended", "e1_pos": 3, "e2_text": "finishing", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "could", "have", "left", "without", "paying", "our", "bill", "but", "after", "begging", "someone", "to", "find", "our", "server", ",", "confusion", "amongst", "the", "staff", "as", "to", "who", "had", "our", "table", ",", "she", "brought", "it", "over", ",", "left", "it", "on", "the", "table", "without", "an", "apology", "and", "walked", "away", "."], "e1_text": "paying", "e1_pos": 5, "e2_text": "begging", "e2_pos": 10, "label": "after"}
+]

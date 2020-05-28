@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "and", "my", "girlfriend", "walked", "into", "this", "place", "after", "Mary", "Anns", "diner", "was", "full", "from", "Unofficial", "weekend", "."], "e1_text": "walked", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "chips", "where", "not", "bad", ",", "but", "when", "i", "took", "the", "first", "bite", "after", "dipping", "it", "in", "the", "salsa", "my", "perception", "of", "this", "place", "completely", "changed", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "dipping", "e2_pos": 14, "label": "after"}
+]

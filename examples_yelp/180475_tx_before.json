@@ -1,0 +1,5 @@
+[
+{"tokens": ["What", "I", "really", "want", "to", "talk", "about", "is", "there", "pools", "!!!!", "We", "started", "at", "the", "lazy", "river", "one", "and", "must", "have", "went", "around", "in", "circles", "for", "an", "hour", "before", "it", "got", "a", "bit", "crowded", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "got", "e2_pos": 30, "label": "before"},
+{"tokens": ["Then", "we", "headed", "to", "the", "wave", "pool", "which", "is", "the", "largest", "and", "had", "a", "blast", "just", "hanging", "out", "in", "there", "before", "heading", "to", "the", "super", "shallow", "pool", "to", "the", "side", "-LRB-", "roughly", "a", "foot", "deep", "-RRB-", "and", "just", "sipped", "on", "some", "drinks", "for", "a", "while", "."], "e1_text": "hanging", "e1_pos": 16, "e2_text": "heading", "e2_pos": 21, "label": "before"},
+{"tokens": ["Thankfully", "that", "was", "before", "we", "went", "in", "the", "pools", "so", "the", "day", "turned", "around", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "went", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "wrestling", "back", "and", "forth", "on", "giving", "this", "place", "3", "or", "4", "stars", "before", "reviewing", "...", "but", "I", "feel", "the", "park", "has", "seen", "better", "days", "."], "e1_text": "wrestling", "e1_pos": 2, "e2_text": "reviewing", "e2_pos": 15, "label": "before"},
+{"tokens": ["As", "I", "said", "before", ",", "I", "'ve", "been", "bringing", "my", "dogs", "here", "for", "years", "but", "when", "I", "went", "this", "last", "Saturday", "I", "was", "really", "put", "off", "by", "the", "condition", "of", "the", "water", ",", "I", "have", "never", "seen", "it", "that", "bad", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "server", "did", "not", "return", "after", "delivering", "my", "food", "to", "me", "until", "several", "minutes", "after", "I", "had", "pushed", "my", "plate", "full", "of", "green", "beans", "to", "the", "side", "."], "e1_text": "return", "e1_pos": 4, "e2_text": "delivering", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "worst", "part", "of", "the", "experience", "was", "being", "followed", "out", "into", "the", "parking", "lot", ",", "after", "leaving", "the", "Groupon", "and", "cash", "tip", ",", "to", "be", "told", "that", "we", "needed", "to", "come", "speak", "with", "management", "about", "not", "ordering", "at", "least", "$", "40", "worth", "of", "food", "!"], "e1_text": "followed", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Either", "my", "thirst", "is", "real", "or", "they", "accidentally", "spilled", "the", "salt", "container", "on", "the", "shawarma", "container", "before", "placing", "it", "in", "the", "heating", "dish", "."], "e1_text": "spilled", "e1_pos": 8, "e2_text": "placing", "e2_pos": 17, "label": "before"}
+]

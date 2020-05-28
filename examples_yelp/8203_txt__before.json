@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "actually", "circling", "South", "Park", "for", "a", "place", "to", "eat", "before", "heading", "to", "a", "meeting", "so", "it", "had", "to", "be", "quick", "...", "most", "of", "the", "places", "in", "this", "area", "are", "sit-down", "places", "and", "take", "a", "while", "so", "I", "stopped", "in", "here", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

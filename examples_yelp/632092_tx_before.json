@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "all", "agreed", "it", "was", "a", "great", "experience", ",", "but", "the", "most", "notable", "part", "came", "when", "we", "arrived", "back", "home", "and", "my", "mom", "realized", "she", "lost", "three", "$", "100", "bills", "from", "her", "pocket", "-LRB-", "she", "had", "similarly", "lost", "lottery", "tickets", "from", "her", "jacket", "the", "day", "before", "-RRB-", "."], "e1_text": "realized", "e1_pos": 23, "e2_text": "lost", "e2_pos": 25, "label": "before"}
+]

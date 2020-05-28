@@ -1,0 +1,3 @@
+[
+{"tokens": ["Update", ":", "The", "representative", "who", "contacted", "me", "a", "week", "ago", "called", "me", "today", "after", "two", "emails", "and", "a", "phone", "call", "asking", "for", "a", "resolution", "."], "e1_text": "called", "e1_pos": 10, "e2_text": "call", "e2_pos": 19, "label": "after"}
+]

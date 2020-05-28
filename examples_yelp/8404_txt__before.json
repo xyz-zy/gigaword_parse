@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "this", "adventure", ",", "we", "carefully", "chose", "our", "2:45", "pm", "time", "slot", ",", "Just", "after", "the", "church", "crowd", ",", "and", "just", "before", "the", "early", "birds", "who", "retire", "early", "for", "the", "evening", "."], "e1_text": "chose", "e1_pos": 6, "e2_text": "retire", "e2_pos": 26, "label": "before"}
+]

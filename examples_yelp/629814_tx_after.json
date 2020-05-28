@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "to", "order", "drinks", "and", "after", "they", "were", "made", "they", "were", "very", "good", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "bartender", "asked", "for", "his", "last", "name", "as", "if", "he", "was", "going", "to", "look", "for", "the", "card", "and", "instead", "proceeded", "to", "go", "to", "the", "next", "customer", "and", "take", "a", "drink", "order", "...", "I", "waited", "after", "he", "made", "the", "new", "customer", "their", "drink", ",", "to", "see", "if", "he", "would", "look", "for", "the", "card", ",", "he", "did", "n't", "he", "just", "proceeded", "to", "make", "more", "drinks", "."], "e1_text": "waited", "e1_pos": 33, "e2_text": "made", "e2_pos": 36, "label": "after"}
+]

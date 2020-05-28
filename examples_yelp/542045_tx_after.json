@@ -1,0 +1,5 @@
+[
+{"tokens": ["-", "Walked", "in", "on", "a", "Saturday", "night", "after", "6", "and", "the", "place", "was", "empty", "-LRB-", "perhaps", "this", "was", "a", "sign", "-RRB-", ",", "as", "in", "no", "staff", "to", "be", "found", "anywhere", "either", "."], "e1_text": "Walked", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "eventually", "wandered", "into", "the", "`", "dining", "room", "'", "from", "the", "bar", "to", "find", "someone", "and", "get", "seated", "after", "standing", "around", "for", "a", "few", "minutes", "with", "no", "sign", "of", "anyone", "."], "e1_text": "seated", "e1_pos": 17, "e2_text": "standing", "e2_pos": 19, "label": "after"},
+{"tokens": ["-", "Staff", "then", "completely", "disappeared", "from", "the", "room", "after", "being", "served", "."], "e1_text": "disappeared", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

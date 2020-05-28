@@ -1,0 +1,3 @@
+[
+{"tokens": ["Have", "you", "never", "delivered", "a", "mattress", "before", "???", "I", "told", "them", "to", "leave", "it", "and", "I", "would", "rotate", "it", "later", "-LRB-", "I", "did", "n't", "want", "their", "dirty", "hands", "taking", "the", "plastic", "off", "-RRB-", "The", "PB", "supervisor", "I", "spoke", "with", "over", "the", "phone", "told", "me", "this", "is", "a", "''", "``", "white", "glove", "service", "''", "''", "and", "they", "ALWAYS", "wear", "gloves", "for", "deliveries", "."], "e1_text": "delivered", "e1_pos": 3, "e2_text": "told", "e2_pos": 9, "label": "before"}
+]

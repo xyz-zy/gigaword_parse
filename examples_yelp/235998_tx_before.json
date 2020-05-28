@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "never", "had", "radizio", "before", "so", "we", "were", "excited", "to", "try", "it", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "before"},
+{"tokens": ["When", "we", "arrived", ",", "we", "were", "informed", "it", "would", "be", "~", "20", "mins", "before", "we", "were", "seated", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "were", "e2_pos": 5, "label": "before"}
+]

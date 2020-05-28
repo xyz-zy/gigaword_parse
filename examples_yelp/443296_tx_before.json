@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "he", "was", "making", "the", "announcement", "of", "each", "pair", "in", "our", "bridal", "party", ",", "he", "started", "to", "announce", "us", "before", "he", "announced", "our", "maid", "of", "honor", "and", "best", "man", "."], "e1_text": "announce", "e1_pos": 17, "e2_text": "announced", "e2_pos": 21, "label": "before"},
+{"tokens": ["The", "wedding", "planner", "had", "to", "run", "out", "an", "stop", "him", "before", "he", "said", "our", "names", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "said", "e2_pos": 12, "label": "before"}
+]

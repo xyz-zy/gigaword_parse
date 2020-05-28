@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "were", "staying", "at", "the", "New", "York", "New", "York", "hotel", ",", "and", "we", "stopped", "in", "here", "for", "a", "quick", "no-reservations", "meal", "before", "going", "to", "a", "show", "that", "night", "."], "e1_text": "stopped", "e1_pos": 16, "e2_text": "going", "e2_pos": 25, "label": "before"},
+{"tokens": ["We", "really", "had", "to", "hustle", "to", "make", "it", "to", "our", "show", ",", "even", "though", "we", "felt", "we", "'d", "allowed", "plenty", "of", "time", "before", "we", "stopped", "for", "dinner", "."], "e1_text": "allowed", "e1_pos": 18, "e2_text": "stopped", "e2_pos": 24, "label": "before"}
+]

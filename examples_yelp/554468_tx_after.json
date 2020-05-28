@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "gap", "between", "ordering", "and", "entree", "would", "n't", "have", "been", "so", "bad", "if", "she", "'d", "taken", "our", "order", "shortly", "after", "giving", "us", "the", "cheese", ",", "and", "if", "they", "'d", "held", "the", "soup", "a", "bit", "."], "e1_text": "taken", "e1_pos": 15, "e2_text": "giving", "e2_pos": 20, "label": "after"}
+]

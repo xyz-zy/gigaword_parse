@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "-LRB-", "I", "brought", "a", "friend", "with", "me", "-RRB-", "continued", "our", "`", "investigation", "'", "around", "the", "park", ",", "we", "also", "noticed", "plaques", "on", "stones", "at", "the", "base", "of", "several", "of", "the", "trees", "there", ",", "which", "indicated", "to", "me", "that", "after", "reading", "some", "of", "these", ",", "the", "park", "was", "a", "memorial", "of", "mostly", "old", "people", "."], "e1_text": "indicated", "e1_pos": 36, "e2_text": "reading", "e2_pos": 41, "label": "after"},
+{"tokens": ["As", "we", "sat", "down", "on", "a", "table", "near", "the", "swing", "after", "trying", "to", "make", "contact", "with", "a", "boy", "'s", "spirit", ",", "some", "more", "people", "showed", "up", "and", "we", "began", "conversing", "about", "this", "place", "and", "other", "ghost", "stories", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "trying", "e2_pos": 11, "label": "after"}
+]

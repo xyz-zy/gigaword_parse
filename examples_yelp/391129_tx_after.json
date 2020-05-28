@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "ask", "twice", "for", "the", "sake", "menu", "and", "that", "was", "after", "waiting", "awhile", "the", "first", "time", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 13, "label": "after"},
+{"tokens": ["Based", "upon", "the", "cost", "and", "the", "experience", "I", "would", "definetely", "try", "elsewhere", "and", "as", "for", "the", "emphatic", "recommendation", "from", "the", "white", "suited", "self", "proclaimed", "food", "critic", "from", "now", "on", "his", "recommendations", "will", "only", "be", "given", "the", "weight", "it", "deserves", "...", "after", "researching", "yelp", "!"], "e1_text": "try", "e1_pos": 10, "e2_text": "researching", "e2_pos": 41, "label": "after"}
+]

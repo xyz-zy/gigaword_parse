@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "dumpling", "stayed", "on", "the", "table", "until", "right", "before", "we", "left", "."], "e1_text": "stayed", "e1_pos": 2, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

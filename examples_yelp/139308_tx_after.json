@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "is", "pricey", "for", "sure", ",", "but", "the", "I", "really", "expected", "the", "portions", "to", "be", "smaller", "after", "reading", "other", "Yelper", "reviews", "."], "e1_text": "be", "e1_pos": 14, "e2_text": "reading", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "was", "very", "small", ",", "but", "was", "nice", "to", "split", "after", "having", "filled", "ourselves", "full", "at", "lunch", "."], "e1_text": "split", "e1_pos": 9, "e2_text": "having", "e2_pos": 11, "label": "after"}
+]

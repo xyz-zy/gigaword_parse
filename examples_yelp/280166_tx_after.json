@@ -1,0 +1,3 @@
+[
+{"tokens": ["Given", "it", "was", "a", "Friday", "night", "and", "we", "had", "a", "large", "group", ",", "but", "we", "were", "sat", "at", "a", "table", "that", "was", "n't", "big", "enough", "for", "our", "group", ",", "wait", "approximately", "10", "minutes", "for", "drinks", "after", "sitting", ",", "15", "minutes", "for", "salsa", "to", "go", "with", "the", "chips", "and", "got", "our", "food", "before", "some", "people", "had", "silverware", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "sitting", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "had", "told", "me", "earlier", "that", "week", "that", "he", "was", "going", "to", "get", "me", "an", "iPad", "for", "Christmas", ",", "after", "we", "had", "played", "with", "them", "at", "the", "Apple", "Store", "."], "e1_text": "going", "e1_pos": 11, "e2_text": "had", "e2_pos": 2, "label": "after"},
+{"tokens": ["He", "decided", "to", "get", "it", "at", "Best", "Buy", "after", "seeing", "the", "prices", "were", "the", "same", "as", "at", "the", "Apple", "Store", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "received", "a", "phone", "call", "an", "hour", "after", "she", "ordered", "because", "the", "driver", "said", "he", "'d", "gotten", "lost", "-LRB-", "and", "of", "course", "he", "barely", "spoke", "English", "-RRB-", ",", "so", "she", "had", "to", "direct", "him", "street", "by", "street", "until", "he", "got", "here", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 9, "label": "after"}
+]

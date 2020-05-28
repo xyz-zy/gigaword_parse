@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "recall", "a", "line", "forming", "before", "the", "place", "opened", "for", "dinner", "on", "my", "original", "visit", ",", "so", "it", "is", "probably", "good", "to", "think", "about", "timing", "."], "e1_text": "forming", "e1_pos": 4, "e2_text": "opened", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "is", "now", "darker", ",", "sleeker", ",", "more", "modern", "in", "style", ",", "rather", "than", "more", "of", "an", "Italian", "deli\\/pizzeria", "as", "it", "was", "before", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

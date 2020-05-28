@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "never", "trust", "anyone", "or", "anything", ",", "I", "called", "the", "store", "to", "double", "check", "before", "I", "drive", "25", "miles", "out", "of", "my", "way", "to", "pick", "it", "up", "."], "e1_text": "double", "e1_pos": 13, "e2_text": "drive", "e2_pos": 17, "label": "before"},
+{"tokens": ["Know", "your", "stuff", "before", "stepping", "into", "these", "kind", "of", "places", "."], "e1_text": "Know", "e1_pos": 0, "e2_text": "stepping", "e2_pos": 4, "label": "before"}
+]

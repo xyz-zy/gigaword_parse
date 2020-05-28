@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "to", "Caramba", "'s", "Fresh", "Mexican", "Food", "this", "weekend", "after", "hearing", "about", "it", "from", "some", "friends", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "Chipotle", "loving", "friend", "left", "this", "place", "vowing", "never", "to", "eat", "at", "Chipotle", "again", "after", "eating", "their", "Machaca", "Beef", "Burito", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "eating", "e2_pos": 15, "label": "after"}
+]

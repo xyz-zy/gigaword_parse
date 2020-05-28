@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "stand", "in", "line", "and", "place", "your", "pizza", "order", ",", "and", "as", "you", "walk", "down", ",", "before", "you", "pay", "at", "the", "register", ",", "you", "can", "place", "an", "order", "for", "salad\\/appetizers", "."], "e1_text": "walk", "e1_pos": 13, "e2_text": "pay", "e2_pos": 18, "label": "before"}
+]

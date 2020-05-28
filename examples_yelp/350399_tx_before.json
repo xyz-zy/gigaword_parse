@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "atmosphere", "of", "the", "location", "is", "n't", "bad", "-", "though", "I", "'ve", "attempted", "to", "eat", "here", "on", "the", "weekend", ",", "only", "to", "be", "forced", "to", "sit", "outside", "in", "the", "sun", "because", "there", "was", "no", "room", "to", "eat", "inside", ",", "and", "apparently", "it", "never", "occurred", "to", "them", "to", "let", "me", "wait", "for", "a", "table", "-LRB-", "I", "ended", "up", "leaving", "before", "eating", "during", "that", "visit", "-RRB-", "."], "e1_text": "leaving", "e1_pos": 57, "e2_text": "eating", "e2_pos": 59, "label": "before"}
+]

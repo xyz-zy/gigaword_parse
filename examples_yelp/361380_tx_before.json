@@ -1,0 +1,4 @@
+[
+{"tokens": ["3", "-RRB-", "Housekeeping", "staff", "-", "They", "were", "in", "the", "halls", "before", "9", "am", "just", "carrying", "on", "like", "it", "was", "the", "middle", "of", "the", "day", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "am", "e2_pos": 12, "label": "before"},
+{"tokens": ["That", "'s", "just", "never", "happened", "to", "me", "before", ",", "nobody", "'s", "ever", "come", "to", "my", "room", "before", "10", "in", "other", "hotels", "."], "e1_text": "happened", "e1_pos": 4, "e2_text": "'s", "e2_pos": 1, "label": "before"}
+]

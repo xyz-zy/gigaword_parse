@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "hour", "and", "a", "half", "inconvenienced", "since", "I", "had", "already", "returned", "the", "rental", "before", "this", "problem", "became", "evident", "and", "I", "had", "to", "re-rent", "the", "car", "...", "it", "'s", "hard", "not", "to", "be", "skeptical", "after", "an", "experience", "like", "that", "."], "e1_text": "returned", "e1_pos": 10, "e2_text": "became", "e2_pos": 16, "label": "before"}
+]

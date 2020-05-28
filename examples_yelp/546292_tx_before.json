@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waited", "here", "before", "heading", "to", "The", "Bank", "Nightclub", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "heading", "e2_pos": 3, "label": "before"},
+{"tokens": ["Overall", ",", "it", "was", "nice", "to", "chill", "here", "before", "getting", "in", "line", "at", "the", "Bank", "."], "e1_text": "chill", "e1_pos": 6, "e2_text": "getting", "e2_pos": 9, "label": "before"}
+]

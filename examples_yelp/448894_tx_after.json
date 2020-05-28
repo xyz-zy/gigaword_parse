@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "she", "brought", "our", "drinks", "she", "got", "our", "food", "orders", "after", "that", "it", "kind", "of", "went", "downhill", "."], "e1_text": "got", "e1_pos": 6, "e2_text": "went", "e2_pos": 15, "label": "after"},
+{"tokens": ["It", "took", "20minutes", "to", "get", "our", "food", "-LRB-", "pancakes", "with", "face", "and", "brioche", "french", "toast", "-RRB-", "shortly", "after", "we", "got", "our", "food", "and", "after", "we", "had", "ordered", "a", "2nd", "chocolate", "milk", "my", "daughter", "tells", "me", "she", "has", "to", "use", "the", "restroom", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "got", "e2_pos": 19, "label": "after"}
+]

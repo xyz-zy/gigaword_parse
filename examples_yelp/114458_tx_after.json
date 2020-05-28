@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "German", "Shepherd", "we", "now", "know", "has", "enzyme", "deficiency", ",", "after", "running", "MULTIPLE", "-LRB-", "more", "than", "one", ",", "two", ",", "even", "three", "-RRB-", "tests", "trying", "to", "figure", "out", "what", "it", "was", "that", "was", "causing", "him", "to", "lose", "drastic", "weight", "and", "diarrhea", "."], "e1_text": "has", "e1_pos": 6, "e2_text": "running", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "medication", "for", "him", "is", "very", "expensive", "for", "a", "little", "amount", "so", "naturally", ",", "after", "a", "couple", "months", "of", "ordering", "through", "these", "guys", "we", "attempted", "to", "find", "more", "affordable", "pricing", "through", "other", "prescription", "websites", "for", "pet", "meds", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 19, "label": "after"}
+]

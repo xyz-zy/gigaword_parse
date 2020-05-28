@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "tells", "me", "that", "the", "judges", "from", "the", "observer", "had", "been", "served", "too", "many", "adult", "beverages", "before", "eating", "any", "of", "the", "food", "at", "the", "Liberty", "."], "e1_text": "served", "e1_pos": 11, "e2_text": "eating", "e2_pos": 17, "label": "before"}
+]

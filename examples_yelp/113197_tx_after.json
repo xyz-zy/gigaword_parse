@@ -1,0 +1,4 @@
+[
+{"tokens": ["Meant", "to", "try", "Classic", "Italian", "Pizza", "today", "after", "eating", "at", "The", "Parlor", "on", "Sunday", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["Not", "so", "enchanting", "was", "after", "I", "walked", "around", "the", "building", "I", "realize", "we", "still", "had", "not", "been", "seated", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "walked", "e2_pos": 6, "label": "after"}
+]

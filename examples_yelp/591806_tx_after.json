@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "sitting", "there", "for", "a", "rather", "lengthy", "time", "she", "finally", "stopped", "by", "and", "said", "''", "``", "Oh", ",", "I", "did", "n't", "see", "you", "guys", "over", "here", "''", "''", "after", "walking", "right", "past", "us", "a", "half", "dozen", "times", "."], "e1_text": "see", "e1_pos": 21, "e2_text": "walking", "e2_pos": 29, "label": "after"},
+{"tokens": ["The", "mechanical", "bull", "was", "entertaining", "to", "watch", "after", "the", "sun", "went", "down", "."], "e1_text": "watch", "e1_pos": 6, "e2_text": "went", "e2_pos": 10, "label": "after"}
+]

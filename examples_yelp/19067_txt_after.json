@@ -1,0 +1,4 @@
+[
+{"tokens": ["Updating", "my", "review", "after", "a", "horrible", "experience", "trying", "to", "utilize", "their", "private", "room", ",", "Rendevous", ",", "for", "a", "birthday", "dinner", "."], "e1_text": "Updating", "e1_pos": 0, "e2_text": "trying", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "had", "to", "inform", "my", "27", "guests", "of", "the", "last-minute", "location", "change", "via", "e-mail", "after", "sending", "formal", "invitations", "weeks", "in", "advance", "."], "e1_text": "inform", "e1_pos": 3, "e2_text": "sending", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Before", "remodeling", "they", "deserved", "a", "2", ",", "but", "I", "would", "say", "after", "they", "remodeled", "they", "have", "a", "2.5", "-LRB-", "since", "it", "'s", "in", "my", "area", "I", "'ll", "round", "up", "to", "a", "3", "-RRB-", "."], "e1_text": "say", "e1_pos": 10, "e2_text": "remodeled", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "used", "to", "go", "to", "the", "shop", "before", "it", "closed", "down", "a", "few", "months", "ago", "and", "i", "was", "DEVASTATED", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "closed", "e2_pos": 9, "label": "before"},
+{"tokens": ["PLUS", "i", "was", "there", "AFTER", "the", "lady", "who", "was", "before", "me", "and", "she", "was", "finshed", "AFTER", "i", "was", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

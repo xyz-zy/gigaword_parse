@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "shower", "flooded", "the", "bathroom", "and", "bedroom", "area", "-LRB-", "there", "was", "no", "sealer", "under", "the", "curtain", "-RRB-", "but", "the", "front", "desk", "was", "responsive", "in", "getting", "fresh", "towels", "up", "within", "a", "few", "minutes", "after", "that", "happened", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "happened", "e2_pos": 34, "label": "after"}
+]

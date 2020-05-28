@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "always", "get", "the", "green", "curry", ",", "Thai", "hot", ",", "and", "my", "daughter", "always", "orders", "the", "chicken", "skewers", ",", "we", "put", "out", "order", "in", "before", "other", "people", "had", "even", "ordered", "."], "e1_text": "put", "e1_pos": 21, "e2_text": "had", "e2_pos": 28, "label": "before"},
+{"tokens": ["They", "all", "seemed", "like", "they", "hated", "their", "job", ",", "hated", "life", ",", "and", "at", "any", "moment", "one", "of", "them", "would", "pull", "a", "12", "gauge", "from", "the", "back", "and", "start", "picking", "off", "staff", "and", "customers", "before", "ending", "it", "all", "!"], "e1_text": "picking", "e1_pos": 29, "e2_text": "ending", "e2_pos": 35, "label": "before"}
+]

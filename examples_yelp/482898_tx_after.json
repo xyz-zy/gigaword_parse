@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wandered", "in", "here", "after", "eating", "at", "a", "nearby", "restaurant", "-LRB-", "b\\/c", "Growlers", "was", "dead", "-RRB-", "and", "I", "should", "have", "wandered", "right", "back", "out", "."], "e1_text": "wandered", "e1_pos": 1, "e2_text": "eating", "e2_pos": 5, "label": "after"}
+]

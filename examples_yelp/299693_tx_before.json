@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "also", "left", "40", "minutes", "before", "our", "table", "did", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "did", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "can", "tell", "you", "I", "wo", "n't", "be", "back", "until", "I", "get", "my", "free", "birthday", "meal", ",", "but", "even", "then", ",", "for", "the", "price", "I", "'ll", "pay", "just", "for", "my", "spouse", "'s", "meal", ",", "I", "'ll", "consider", "a", "number", "of", "places", "before", "stopping", "here", "again", "."], "e1_text": "consider", "e1_pos": 36, "e2_text": "stopping", "e2_pos": 42, "label": "before"}
+]

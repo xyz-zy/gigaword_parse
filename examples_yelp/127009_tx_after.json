@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "know", "this", "fact", "because", "the", "couple", "before", "me", "was", "told", "the", "same", "thing", "and", "learned", "the", "hard", "way", "you", "only", "get", "1", "of", "each", "after", "you", "take", "the", "sales", "presenation", "."], "e1_text": "get", "e1_pos": 21, "e2_text": "take", "e2_pos": 27, "label": "after"},
+{"tokens": ["the", "sales", "person", "knew", "right", "after", "he", "met", "me", "i", "was", "no", "sucker", "and", "wasnt", "going", "to", "buy", "any", "thing", ".", "-RRB-"], "e1_text": "knew", "e1_pos": 3, "e2_text": "met", "e2_pos": 7, "label": "after"}
+]

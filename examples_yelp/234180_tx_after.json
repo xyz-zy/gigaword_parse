@@ -1,0 +1,5 @@
+[
+{"tokens": ["Went", "here", "for", "lunch", "the", "other", "day", "after", "getting", "my", "eyes", "checked", "at", "Costco", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "getting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Wait", "times", "were", "short", "to", "get", "in", "and", "after", "paying", "we", "were", "promptly", "seated", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "paying", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "finishing", "my", "first", "plate", ",", "the", "waitress", "finally", "came", "to", "take", "our", "drink", "orders", "after", "clearing", "our", "first", "rounds", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "clearing", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Instead", "of", "offering", "to", "heat", "it", "up", ",", "why", "do", "n't", "you", "just", "remove", "the", "no", "longer", "hot", "items", "from", "the", "belt", "before", "customers", "take", "them", "?"], "e1_text": "remove", "e1_pos": 13, "e2_text": "take", "e2_pos": 24, "label": "before"}
+]

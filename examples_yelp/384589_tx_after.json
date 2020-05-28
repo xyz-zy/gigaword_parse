@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "the", "day", "after", "thanksgiving", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "thanksgiving", "e2_pos": 5, "label": "after"},
+{"tokens": ["Drinks", "were", "n't", "refilled", "ever", ",", "and", "our", "party", "'s", "burger", "was", "served", "with", "no", "condiments", ",", "even", "after", "we", "asked", "for", "them", "."], "e1_text": "served", "e1_pos": 12, "e2_text": "asked", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "my", "2", "small", ",", "inedible", "bites", "of", "starters", "I", "was", "thinking", "of", "telling", "the", "waiter", "that", "we", "were", "going", "to", "go", "somewhere", "else", "and", "not", "to", "bother", "with", "out", "mains", ",", "but", "we", "decided", "to", "stick", "it", "out", "as", "we", "'re", "not", "the", "kinds", "of", "people", "to", "leave", "after", "ordering", "."], "e1_text": "leave", "e1_pos": 48, "e2_text": "ordering", "e2_pos": 50, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Anyways", "despite", "eating", "tomato", "with", "cheese", "it", "was", "n't", "bad", "just", "not", "what", "I", "in", "vision", "-LRB-", "I", "should", "of", "asked", "the", "waiter", "before", "I", "ordered", "it", "-RRB-", "."], "e1_text": "asked", "e1_pos": 20, "e2_text": "ordered", "e2_pos": 25, "label": "before"}
+]

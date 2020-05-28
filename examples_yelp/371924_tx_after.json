@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "choose", "to", "not", "disclose", "pricing", "until", "after", "an", "introductory", "class", "is", "given", "so", "I", "will", "respect", "that", "but", "I", "'ll", "say", "it", "ai", "n't", "cheap", "and", "you", "should", "n't", "expect", "it", "will", "be", "."], "e1_text": "disclose", "e1_pos": 4, "e2_text": "is", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "...", "it", "sounds", "expensive", "because", "it", "is", "but", "with", "the", "exception", "of", "krav", "t-shirts", "those", "expenses", "are", "choices", "that", "you", "as", "a", "customer", "choose", "to", "take", "on", "after", "joining", "."], "e1_text": "take", "e1_pos": 26, "e2_text": "joining", "e2_pos": 29, "label": "after"}
+]

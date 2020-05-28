@@ -1,0 +1,4 @@
+[
+{"tokens": ["From", "start", "to", "finish", ",", "our", "server", "was", "pushy", "toward", "our", "large", "group", "and", "left", "in", "the", "blink", "of", "an", "eye", "after", "he", "said", "everything", "he", "wanted", "to", "say", "without", "giving", "anyone", "a", "chance", "to", "really", "respond", "or", "say", "anything", "back", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "said", "e2_pos": 23, "label": "after"},
+{"tokens": ["We", "were", "all", "definitely", "boiling", "inside", ",", "but", "to", "be", "considerate", "to", "the", "establishment", ",", "we", "did", "n't", "really", "speak", "our", "frustrations", "until", "after", "the", "dining", "experience", "had", "ended", "."], "e1_text": "speak", "e1_pos": 19, "e2_text": "had", "e2_pos": 27, "label": "after"}
+]

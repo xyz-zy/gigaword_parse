@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "stopped", "by", "one", "on", "our", "way", "out", "after", "getting", "massages", "at", "the", "spa", "on", "Super", "Bowl", "Sunday", ".", "''"], "e1_text": "stopped", "e1_pos": 2, "e2_text": "getting", "e2_pos": 10, "label": "after"},
+{"tokens": ["If", "you", "get", "any", "water", "on", "the", "floor", ",", "and", "you", "will", "because", "the", "non", "tub", "showers", "leak", ",", "you", "WILL", "be", "in", "for", "slip", "or", "two", ",", "and", "if", "you", "take", "anything", "from", "this", "review", ",", "just", "be", "careful", "after", "you", "shower", "."], "e1_text": "be", "e1_pos": 21, "e2_text": "shower", "e2_pos": 42, "label": "after"}
+]

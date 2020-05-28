@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "write", "the", "occasional", "review", "on", "different", "restaurants", "but", "I", "do", "n't", "take", "pictures", "of", "my", "food", "before", "I", "eat", "it", "...", "so", "...", "."], "e1_text": "take", "e1_pos": 12, "e2_text": "eat", "e2_pos": 19, "label": "before"}
+]

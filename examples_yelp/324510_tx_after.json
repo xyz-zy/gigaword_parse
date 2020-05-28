@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "swore", "I", "would", "never", "return", "to", "this", "location", "after", "I", "witnessed", "an", "employee", "do", "something", "gross", "-LRB-", "sneezed", "in", "her", "palm", ",", "handled", "money", ",", "and", "then", "bare", "handed", "my", "pita", "-RRB-", ",", "which", "I", "notified", "a", "manager", "of", "and", "it", "was", "rectified", "."], "e1_text": "return", "e1_pos": 5, "e2_text": "witnessed", "e2_pos": 11, "label": "after"}
+]

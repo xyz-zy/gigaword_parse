@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "noticed", "this", "place", "after", "getting", "ramen", "across", "the", "street", "and", "since", "we", "were", "waiting", "for", "a", "taxi", ",", "we", "decided", "to", "check", "it", "out", "."], "e1_text": "noticed", "e1_pos": 1, "e2_text": "getting", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "find", "myself", "craving", "their", "black", "sesame", "snow", "ice", "months", "after", "leaving", "Vegas", "-", "it", "is", "that", "good", "."], "e1_text": "craving", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 11, "label": "after"}
+]

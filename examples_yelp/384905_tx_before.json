@@ -1,0 +1,4 @@
+[
+{"tokens": ["Maybe", "she", "was", "about", "to", "get", "off", "and", "wanted", "this", "the", "tip", "before", "she", "clocked", "out", ",", "I", "do", "n't", "know", "."], "e1_text": "wanted", "e1_pos": 8, "e2_text": "clocked", "e2_pos": 14, "label": "before"},
+{"tokens": ["She", "brought", "our", "check", "out", "before", "the", "pazookie", "arrived", "which", "is", "highly", "unusual", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 8, "label": "before"}
+]

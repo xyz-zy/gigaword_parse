@@ -1,0 +1,5 @@
+[
+{"tokens": ["Late", "night", "munchies", "after", "watching", "the", "Tony", "Awards", "."], "e1_text": "munchies", "e1_pos": 2, "e2_text": "watching", "e2_pos": 4, "label": "after"},
+{"tokens": ["Had", "a", "hard", "time", "understanding", "the", "girl", "'s", "voice", "on", "the", "speaker", "box", ",", "and", "finally", "realized", "after", "getting", "our", "order", "that", "she", "had", "asked", "us", "if", "we", "were", "eating", "in", "our", "car", ",", "when", "I", "thought", "she", "had", "asked", "if", "we", "were", "using", "a", "card", "."], "e1_text": "realized", "e1_pos": 16, "e2_text": "getting", "e2_pos": 18, "label": "after"},
+{"tokens": ["and", "realized", "after", "pulling", "off", "that", "she", "had", "not", "given", "us", "the", "catsup", "and", "mustard", ",", "so", "we", "stopped", "at", "a", "convenience", "store", "and", "got", "mayo", "and", "mustard", "-LRB-", "they", "did", "n't", "have", "catsup", "-RRB-", "and", "paid", "more", "for", "that", "than", "the", "burgers", "."], "e1_text": "realized", "e1_pos": 1, "e2_text": "pulling", "e2_pos": 3, "label": "after"}
+]

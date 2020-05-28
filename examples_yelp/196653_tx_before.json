@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "time", "passed", "before", "we", "were", "greeted", "or", "quite", "frankly", "acknowledged", "period", "."], "e1_text": "passed", "e1_pos": 2, "e2_text": "were", "e2_pos": 5, "label": "before"},
+{"tokens": ["Money", "will", "continue", "to", "flow", "inwards", ",", "but", "I", "will", "happily", "throw", "my", "extra", "cash", "and", "help", "put", "the", "strippers", "through", "college", "before", "I", "return", "to", "this", "cafe", "."], "e1_text": "put", "e1_pos": 17, "e2_text": "return", "e2_pos": 24, "label": "before"}
+]

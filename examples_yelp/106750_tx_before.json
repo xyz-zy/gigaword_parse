@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "food", "took", "far", "to", "long", "to", "come", "out", "and", "I", "suspect", "it", "was", "sitting", "on", "the", "shelf", "awhile", "before", "getting", "to", "my", "table", "due", "to", "the", "waiter", "chatting", "in", "the", "dinning", "room", "with", "his", "co-workers", "."], "e1_text": "sitting", "e1_pos": 14, "e2_text": "getting", "e2_pos": 20, "label": "before"},
+{"tokens": ["Again", "the", "waiter", "was", "so", "busy", "talking", "to", "co-workers", "that", "my", "whole", "family", "finished", "their", "meal", "before", "he", "came", "to", "check", "on", "us\\/when", "we", "got", "his", "attention", "to", "get", "new", "dressing", "."], "e1_text": "finished", "e1_pos": 13, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "was", "so", "disappointed", "because", "we", "love", "Village", "Tavern", ",", "but", "we", "definitely", "will", "be", "thinking", "twice", "before", "coming", "back", "."], "e1_text": "thinking", "e1_pos": 15, "e2_text": "coming", "e2_pos": 18, "label": "before"}
+]

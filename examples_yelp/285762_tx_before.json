@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "only", "sampled", "2", "before", "I", "made", "my", "choice", ",", "but", "my", "friend", "was", "a", "bit", "more", "picky", "and", "had", "to", "sample", "half", "the", "freaking", "choices", "before", "she", "made", "hers", "."], "e1_text": "sampled", "e1_pos": 2, "e2_text": "made", "e2_pos": 6, "label": "before"}
+]

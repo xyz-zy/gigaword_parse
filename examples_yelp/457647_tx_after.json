@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "here", "with", "a", "few", "of", "my", "cousins", "after", "one", "of", "them", "read", "all", "the", "yelp", "reviews", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "read", "e2_pos": 13, "label": "after"}
+]

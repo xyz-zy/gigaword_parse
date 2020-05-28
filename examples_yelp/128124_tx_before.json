@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "our", "last", "day", "in", "Vegas", "we", "had", "time", "to", "kill", "before", "heading", "to", "the", "airport", "so", "we", "made", "a", "stop", "here", "."], "e1_text": "kill", "e1_pos": 10, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

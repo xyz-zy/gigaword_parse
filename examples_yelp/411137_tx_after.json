@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "literally", "laughed", "at", "me", "after", "I", "told", "him", "when", "I", "got", "home", "about", "how", "the", "tub", "of", "popcorn", "I", "bought", "was", "normally", "$", "28", "but", "I", "got", "a", "great", "deal", "because", "I", "had", "a", "20", "%", "golden", "coupon", "from", "Local", "First", "AZ", "'s", "Independent", "'s", "Week", ".", "''"], "e1_text": "laughed", "e1_pos": 3, "e2_text": "told", "e2_pos": 8, "label": "after"},
+{"tokens": ["He", "did", "stop", "laughing", "after", "he", "tried", "some", ",", "though", "."], "e1_text": "laughing", "e1_pos": 3, "e2_text": "tried", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "it", "was", "a", "bad", "night", ",", "maybe", "it", "was", "because", "I", "came", "in", "a", "half", "and", "hour", "before", "they", "were", "closed", "but", "I", "ordered", "the", "pork", "meatball", "spring", "rolls", "and", "the", "rice", "noodles", "with", "grilled", "pork", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "were", "e2_pos": 20, "label": "before"}
+]

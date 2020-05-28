@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mom", "polished", "off", "my", "last", "few", "shrimp", "because", "she", "was", "still", "hungry", "after", "her", "crawfish", "BUT", "she", "did", "n't", "take", "my", "advice", "and", "eat", "the", "rice", "with", "the", "leftover", "sauce", "in", "the", "bag", ",", "which", "I", "definitely", "recommend", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "BUT", "e2_pos": 16, "label": "after"},
+{"tokens": ["Seriously", ",", "invest", "in", "a", "tongue", "scraper", "and", "use", "it", "after", "brushing", "your", "teeth", "that", "night", "!"], "e1_text": "use", "e1_pos": 8, "e2_text": "brushing", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "employee", "working", "the", "counter", "was", "having", "a", "hard", "time", "processing", "my", "order", "in", "the", "register", "and", "finally", "stated", "they", "were", "in", "training", "before", "going", "to", "find", "help", "."], "e1_text": "were", "e1_pos": 20, "e2_text": "going", "e2_pos": 24, "label": "before"},
+{"tokens": ["This", "was", "my", "first", "dine-in", "experience", "and", "it", "may", "be", "awhile", "before", "I", "return", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "return", "e2_pos": 13, "label": "before"}
+]

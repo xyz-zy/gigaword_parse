@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "did", "an", "amazing", "job", "making", "the", "ring", "look", "exactly", "the", "way", "I", "wanted", "it", "to", ",", "sending", "us", "the", "design", "after", "putting", "all", "the", "info", "into", "their", "CAD", "program", "."], "e1_text": "sending", "e1_pos": 17, "e2_text": "putting", "e2_pos": 22, "label": "after"},
+{"tokens": ["Stayed", "in", "contact", "with", "us", "to", "let", "us", "know", "how", "much", "longer", "it", "was", "going", "to", "take", "after", "the", "process", "started", "."], "e1_text": "take", "e1_pos": 16, "e2_text": "started", "e2_pos": 20, "label": "after"}
+]

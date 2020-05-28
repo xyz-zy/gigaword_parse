@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "by", "for", "the", "first", "time", "today", "after", "driving", "by", "this", "place", "1000", "times", ",", "ordered", "a", "chicken", "bbq", "sandwich", "to", "go", "and", "ended", "up", "with", "a", "pulled", "pork", "."], "e1_text": "ordered", "e1_pos": 15, "e2_text": "driving", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "will", "have", "to", "review", "it", "again", "after", "I", "get", "what", "I", "ordered", "since", "I", "occasionally", "crave", "a", "good", "bbq", "sandwich", "."], "e1_text": "review", "e1_pos": 4, "e2_text": "get", "e2_pos": 9, "label": "after"}
+]

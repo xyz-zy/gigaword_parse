@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", ",", "combined", "with", "the", "ideal", "location", ",", "meant", "that", "I", "continued", "to", "come", "back", "here", "for", "the", "first", "couple", "of", "years", "of", "my", "degree", "before", "I", "moved", "to", "the", "other", "side", "of", "town", "."], "e1_text": "continued", "e1_pos": 11, "e2_text": "moved", "e2_pos": 27, "label": "before"}
+]

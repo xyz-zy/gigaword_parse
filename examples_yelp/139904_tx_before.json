@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "3-pack", "set", "of", "ice", "cube", "trays", "and", "already", "cracked", "one", "before", "I", "even", "used", "it", "."], "e1_text": "cracked", "e1_pos": 11, "e2_text": "used", "e2_pos": 16, "label": "before"}
+]

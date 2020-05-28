@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "have", "been", "waxed", "a", "thousand", "times", "before", "and", "this", "has", "never", "happened", "-RRB-", "She", "said", "your", "skin", "can", "lift", "off", "if", "you", "use", "that", "and", "get", "waxed", "."], "e1_text": "waxed", "e1_pos": 4, "e2_text": "said", "e2_pos": 16, "label": "before"},
+{"tokens": ["Never", "did", "she", "ask", "me", "before", "the", "waxing", "began", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "began", "e2_pos": 8, "label": "before"}
+]

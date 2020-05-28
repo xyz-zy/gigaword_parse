@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "either", "need", "to", "pick", "better", "friends", "-LRB-", "probably", "not", "-RRB-", "or", "read", "reviews", "before", "making", "decisions", "like", "paying", "over", "$", "200", "for", "auto", "detailing", "-LRB-", "most", "definitely", "-RRB-", "."], "e1_text": "read", "e1_pos": 12, "e2_text": "making", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "told", "me", "it", "would", "take", "2-2", ".5", "hours", "-LRB-", "or", "possibly", "more", "-RRB-", ",", "but", "you", "could", "tell", "they", "were", "n't", "spending", "anymore", "time", "than", "2", "hours", "on", "this", "before", "they", "had", "to", "get", "going", "to", "the", "next", "victim", ",", "I", "suppose", "."], "e1_text": "spending", "e1_pos": 22, "e2_text": "had", "e2_pos": 32, "label": "before"}
+]

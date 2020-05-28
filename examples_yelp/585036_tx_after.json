@@ -1,0 +1,3 @@
+[
+{"tokens": ["Perhaps", "I", "am", "the", "one", "at", "fault", "for", "ordering", "a", "Salade", "Nic", "\\", "u00e7oise", "at", "an", "''", "``", "Italian", "''", "''", "restaurant", ",", "but", "I", "was", "desperate", "for", "lighter", "fare", "after", "spending", "only", "2", "days", "at", "the", "Venetian", "-LRB-", "seriously", ",", "you", "'ll", "be", "hard-pressed", "to", "find", "non-pasta", "dishes", "at", "this", "place", "-RRB-", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "spending", "e2_pos": 31, "label": "after"}
+]

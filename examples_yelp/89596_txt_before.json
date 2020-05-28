@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "perfectly", "good", "burger", "that", "had", "apparently", "been", "sitting", "too", "long", "before", "the", "waiter", "brought", "it", "out", ":", "the", "bottom", "bun", "had", "turned", "to", "soggy", "mush", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "brought", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "i", "would", "have", "read", "these", "before", "i", "moved", "in", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "moved", "e2_pos": 9, "label": "before"},
+{"tokens": ["i", "moved", "from", "out", "of", "state", "and", "had", "no", "extra", "money", "and", "did", "not", "get", "to", "look", "at", "the", "place", "before", "i", "came", "."], "e1_text": "look", "e1_pos": 16, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

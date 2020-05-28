@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "there", "for", "a", "training", "seminar", ",", "so", "after", "the", "conference", "I", "decided", "to", "have", "a", "cocktail", "before", "going", "to", "the", "after", "conference", "dinner", "with", "the", "other", "colleges", "."], "e1_text": "have", "e1_pos": 15, "e2_text": "going", "e2_pos": 19, "label": "before"}
+]

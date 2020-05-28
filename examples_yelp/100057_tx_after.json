@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "okay", "cool", ",", "I", "'ll", "bring", "her", "back", "the", "day", "after", "I", "come", "back", "from", "Florida", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "come", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "paid", "$", "43.80", "for", "an", "additional", "exam", "and", "$", "19.95", "for", "the", "booster", "shot", "after", "I", "already", "paid", "$", "19.95", "for", "the", "first", "shot", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "paid", "e2_pos": 1, "label": "after"}
+]

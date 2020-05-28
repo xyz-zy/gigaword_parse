@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "have", "gathered", "that", "this", "would", "n't", "be", "the", "right", "practice", "for", "me", "when", "the", "woman", "who", "FINALLY", "answered", "the", "phone", "after", "I", "pressed", "this", "and", "that", "and", "this", "and", "that", "number", "asked", "me", "what", "kind", "of", "insurance", "I", "had", "BEFORE", "she", "even", "asked", "me", "my", "name", "."], "e1_text": "answered", "e1_pos": 19, "e2_text": "pressed", "e2_pos": 24, "label": "after"}
+]

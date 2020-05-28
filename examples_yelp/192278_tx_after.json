@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "decent", "...", "he", "could", "have", "refilled", "my", "water\\/soda", "more", "and", "he", "had", "to", "double", "check", "what", "we", "ordered", "even", "after", "asking", "us", "twice", "when", "he", "originally", "took", "our", "order", "."], "e1_text": "ordered", "e1_pos": 20, "e2_text": "asking", "e2_pos": 23, "label": "after"}
+]

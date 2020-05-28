@@ -1,0 +1,4 @@
+[
+{"tokens": ["Twice", "I", "'ve", "bought", "milk", "that", "has", "been", "spoiled", "despite", "the", "best", "before", "date", "was", "weeks", "away", "and", "twice", "I", "have", "bought", "white", "wine", "that", "'s", "completely", "skunked", "."], "e1_text": "spoiled", "e1_pos": 8, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["Does", "your", "stock", "just", "sit", "on", "palettes", "behind", "the", "store", "for", "hours", "in", "the", "Arizona", "sun", "before", "you", "attend", "to", "it", "?"], "e1_text": "sit", "e1_pos": 4, "e2_text": "attend", "e2_pos": 18, "label": "before"}
+]

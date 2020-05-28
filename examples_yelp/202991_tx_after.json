@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "here", "was", "deplorable", ";", "I", "came", "at", "around", "8AM", "after", "a", "long", "night", "of", "partying", "with", "some", "friends", "I", "was", "showing", "around", "from", "NYC", "and", "I", "could", "n't", "believe", "how", "slow", "the", "service", "was", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "partying", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "took", "them", "30", "minutes", "to", "seat", "us", "even", "though", "there", "was", "more", "than", "enough", "room", ",", "after", "that", "it", "took", "another", "20", "minutes", "for", "them", "to", "get", "out", "orange", "juice", "and", "then", "after", "waiting", "another", "30", "minutes", "for", "our", "food", "we", "decided", "to", "leave", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "took", "e2_pos": 1, "label": "after"}
+]

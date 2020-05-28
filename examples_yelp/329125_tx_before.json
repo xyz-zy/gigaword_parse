@@ -1,0 +1,4 @@
+[
+{"tokens": ["Anyways", ",", "the", "bouncers", "just", "wanted", "us", "to", "give", "them", "a", "tip", "before", "they", "did", "us", "a", "''", "``", "favor", "''", "''", "which", "we", "might", "have", "considered", "if", "they", "were", "n't", "such", "ass", "holes", "."], "e1_text": "give", "e1_pos": 8, "e2_text": "did", "e2_pos": 14, "label": "before"},
+{"tokens": ["Anyways", ",", "they", "eventually", "got", "in", "20", "minutes", "later", "and", "we", "partied", "up", "for", "a", "couple", "of", "hours", "before", "we", "headed", "to", "XS", "at", "Encore", "!"], "e1_text": "partied", "e1_pos": 11, "e2_text": "headed", "e2_pos": 20, "label": "before"}
+]

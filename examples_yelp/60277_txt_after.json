@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "went", "there", "and", "got", "examined", ",", "it", "took", "45-55", "min", "wait", "just", "to", "see", "the", "doctor", ",", "he", "saw", "her", "and", "gave", "a", "prescription", "and", "told", "us", "that", "it", "would", "be", "find", "after", "taking", "the", "medicine", "and", "today", "we", "went", "there", "again", "since", "she", "was", "still", "coughing", "a", "lot", "."], "e1_text": "find", "e1_pos": 32, "e2_text": "taking", "e2_pos": 34, "label": "after"}
+]

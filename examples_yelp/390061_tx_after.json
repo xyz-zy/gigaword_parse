@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "this", "place", "for", "the", "first", "time", "after", "living", "in", "South", "Carolina", "for", "6", "years", "because", "they", "advertise", "gluten", "free", "."], "e1_text": "Tried", "e1_pos": 0, "e2_text": "living", "e2_pos": 8, "label": "after"},
+{"tokens": ["Unfortunately", "I", "has", "a", "severe", "reaction", "after", "eating", "here", "."], "e1_text": "has", "e1_pos": 2, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

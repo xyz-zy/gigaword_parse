@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "the", "one", "exception", "of", "the", "ever", "effervescent", "waitress", "Michelle", ",", "this", "was", "markedly", "so", "downhill", "from", "my", "previous", "visit", "here", "just", "a", "short", "while", "back", "that", "I", "would", "have", "to", "think", "twice", "before", "returning", "to", "Bonsai", "as", "opposed", "to", "going", "elsewhere", "."], "e1_text": "think", "e1_pos": 31, "e2_text": "returning", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "'m", "sure", "there", "'s", "Japanese", "restaurants", "a", "plenty", "out", "there", "and", "Bonsai", "need", "to", "pull", "their", "socks", "up", "before", "it", "'s", "all", "too", "late", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "'s", "e2_pos": 4, "label": "before"}
+]

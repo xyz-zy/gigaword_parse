@@ -1,0 +1,3 @@
+[
+{"tokens": ["Like", "they", "dumped", "two", "cups", "of", "tomato", "sauce", "on", "this", "pie", "before", "cooking", "it", "for", "5", "minutes", "!"], "e1_text": "dumped", "e1_pos": 2, "e2_text": "cooking", "e2_pos": 12, "label": "before"}
+]

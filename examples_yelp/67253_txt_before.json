@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "gone", "to", "a", "few", "different", "stores", "before", "coming", "into", "Tower", "of", "Jewels", "recommended", "by", "a", "professor", "of", "my", "husband", "'s", "at", "UNLV", "."], "e1_text": "gone", "e1_pos": 2, "e2_text": "coming", "e2_pos": 9, "label": "before"},
+{"tokens": ["Gave", "us", "a", "very", "fair", "price", "-LRB-", "better", "than", "we", "had", "been", "offered", "before", "-RRB-", "."], "e1_text": "Gave", "e1_pos": 0, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

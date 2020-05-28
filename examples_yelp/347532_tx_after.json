@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "premise", "of", "unlimited", "meat", "evoked", "memories", "of", "old", "SNL", "sketches", "with", "the", "Chicago", "Bears", "fans", "-LRB-", "''", "``", "da", "Bears", "''", "''", "-RRB-", "--", "visions", "of", "attempting", "cardiac", "resuscitation", "by", "hitting", "my", "chest", "after", "consuming", "15", "pounds", "of", "beef", "danced", "in", "my", "mind", "."], "e1_text": "hitting", "e1_pos": 31, "e2_text": "consuming", "e2_pos": 35, "label": "after"},
+{"tokens": ["I", "had", "the", "lobster", "bisque", "on", "my", "''", "``", "must", "try", "''", "''", "list", "after", "reading", "other", "reviews", "--", "IMO", ",", "it", "had", "nice", "flavor", "but", "I", "'ve", "had", "better", "-LRB-", "and", "yes", "no", "actual", "pieces", "of", "lobster", "or", "anything", "-RRB-", "."], "e1_text": "list", "e1_pos": 13, "e2_text": "reading", "e2_pos": 15, "label": "after"}
+]

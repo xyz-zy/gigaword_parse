@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "grandparents", "went", "to", "get", "lunch", "and", "discuss", "reservations", "options", "for", "a", "group", "of", "our", "size", "months", "before", "thanksgiving", "-LRB-", "in", "September", "-RRB-", "."], "e1_text": "discuss", "e1_pos": 7, "e2_text": "thanksgiving", "e2_pos": 18, "label": "before"},
+{"tokens": ["We", "will", "not", "be", "eating", "there", "again", "and", "I", "caution", "any", "other", "large", "group", "or", "special", "occasion", "to", "think", "twice", "before", "making", "a", "reservation", "."], "e1_text": "think", "e1_pos": 18, "e2_text": "making", "e2_pos": 21, "label": "before"}
+]

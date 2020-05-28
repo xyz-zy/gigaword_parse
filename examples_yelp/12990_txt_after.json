@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "left", "after", "the", "bar", "tender", "insulted", "my", "friend", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "insulted", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "asked", "for", "our", "check", "after", "dealing", "with", "the", "offensive", "bar", "tender", ",", "and", "wrote", "NO", "TIP", "on", "the", "tip", "line", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "dealing", "e2_pos": 6, "label": "after"}
+]

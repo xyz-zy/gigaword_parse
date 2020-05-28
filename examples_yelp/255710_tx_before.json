@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "mention", "that", "another", "exasperated", "customer", "behind", "me", "in", "line", "jumped", "ship", "5", "minutes", "before", "I", "did", "-", "and", "even", "her", "huffing", "and", "puffing", "on", "the", "way", "out", "the", "door", "did", "not", "scare", "the", "employees", "into", "action", "."], "e1_text": "jumped", "e1_pos": 11, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

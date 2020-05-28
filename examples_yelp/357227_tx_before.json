@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "the", "maze", "thing", "means", "you", "will", "be", "lost", "for", "17", "hours", "before", "you", "find", "the", "department", "you", "want", ",", "and", "the", "`", "stuffed", "full", "of", "everything", "'", "aspect", "means", "once", "you", "find", "your", "department", "you", "wont", "find", "the", "item", "you", "are", "looking", "for", "-", "in", "general", "this", "is", "an", "amazing", "shopping", "experience", "."], "e1_text": "lost", "e1_pos": 8, "e2_text": "find", "e2_pos": 14, "label": "before"}
+]

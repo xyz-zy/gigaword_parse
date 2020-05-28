@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "all", "of", "this", "is", "going", "on", ",", "the", "party", "of", "5", "who", "ordered", "before", "us", "informed", "the", "GM", "that", "she", "had", "been", "waiting", "22", "minutes", "for", "2", "milkshakes", "."], "e1_text": "ordered", "e1_pos": 13, "e2_text": "informed", "e2_pos": 16, "label": "before"}
+]

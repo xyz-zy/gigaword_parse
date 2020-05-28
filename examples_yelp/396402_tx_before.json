@@ -1,0 +1,5 @@
+[
+{"tokens": ["For", "example", ",", "the", "ride", "Mammoth", "Falls", "involves", "a", "stairway", "of", "several", "stories", "before", "you", "get", "to", "ride", "the", "raft", "."], "e1_text": "involves", "e1_pos": 7, "e2_text": "get", "e2_pos": 15, "label": "before"},
+{"tokens": ["Today", "we", "waited", ",", "sweating", "on", "the", "sidewalk", "below", ",", "watching", "the", "cool", "mist", "coat", "the", "empty", "stairs", "for", "20", "minutes", "before", "we", "were", "allowed", "to", "hoof", "it", "up", "the", "stairs", "for", "the", "additional", "10", "minute", "wait", "to", "ride", "the", "raft", "."], "e1_text": "watching", "e1_pos": 10, "e2_text": "were", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "do", "not", "comprehend", "why", "this", "new", "system", "would", "have", "been", "implemented", "before", "the", "entire", "line", "area", "is", "in", "the", "shade", "and", "misted", "."], "e1_text": "implemented", "e1_pos": 11, "e2_text": "is", "e2_pos": 17, "label": "before"}
+]

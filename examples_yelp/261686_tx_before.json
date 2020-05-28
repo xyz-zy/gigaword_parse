@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "calling", "I", "was", "told", "that", "in", "order", "to", "get", "a", "reservation", "for", "my", "chosen", "dates", "I", "need", "to", "call", "and", "reserve", "6", "months", "to", "1", "year", "in", "advance", "this", "was", "never", "the", "case", "before", "they", "started", "selling", "to", "Orbitz", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "started", "e2_pos": 36, "label": "before"}
+]

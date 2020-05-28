@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "top", "of", "that", ",", "it", "seemed", "like", "the", "bar", "was", "never", "made", "to", "accommodate", "so", "many", "people", ",", "and", "although", "all", "the", "pots", "were", "constantly", "cooking", "up", "gumbo", "or", "some", "other", "delicious", "dinner", ",", "the", "food", "itself", "took", "about", "10-15", "minutes", "to", "get", "served", "after", "ordering", "."], "e1_text": "served", "e1_pos": 44, "e2_text": "ordering", "e2_pos": 46, "label": "after"}
+]

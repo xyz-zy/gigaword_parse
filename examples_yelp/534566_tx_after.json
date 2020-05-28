@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "brought", "my", "pup", "here", "for", "the", "first", "time", "after", "purchasing", "a", "groupon", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "purchasing", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "picked", "up", "my", "dog", "after", "she", "had", "spent", "the", "day", "there", "."], "e1_text": "picked", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["He", "also", "claimed", "she", "might", "be", "acting", "different", "because", "she", "was", "in", "a", "crate", "after", "she", "got", "groomed", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

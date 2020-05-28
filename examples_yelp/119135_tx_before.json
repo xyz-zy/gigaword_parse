@@ -1,0 +1,4 @@
+[
+{"tokens": ["+1", "more", "star", "for", "the", "fat", "dreaded", "dude", "with", "braces", "who", "asked", "me", "who", "my", "new", "wife", "was", ",", "and", "when", "told", ",", "proceeded", "to", "ogle", "her", "like", "a", "piece", "of", "meat", "before", "gurgling", "a", "monosyllabic", "note", "of", "approval", "...", "What", "the", "hell", ",", "I", "'m", "feeling", "generous", "!"], "e1_text": "ogle", "e1_pos": 25, "e2_text": "gurgling", "e2_pos": 33, "label": "before"},
+{"tokens": ["+2", "stars", "for", "actually", "letting", "us", "get", "on", "to", "an", "airplane", "before", "sending", "us", "back", "out", "to", "rot", "under", "the", "tender", "glow", "of", "a", "billion", "gently", "pinging", "slot", "machines", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "sending", "e2_pos": 12, "label": "before"}
+]

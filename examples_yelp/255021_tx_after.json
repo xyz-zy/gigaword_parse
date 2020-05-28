@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "get", "in", "after", "being", "in", "the", "waiting", "room", "an", "hour", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "being", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "declined", ",", "and", "got", "a", "horrible", "polishing", "job", "by", "the", "bored", "teenage", "girl", "and", "was", "on", "my", "way", "three", "hours", "after", "walking", "in", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "walking", "e2_pos": 22, "label": "after"}
+]

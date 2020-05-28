@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "waiting", "to", "try", "Matt", "'s", "Big", "Breakfast", "after", "seeing", "it", "on", "Diners", ",", "Drive-Ins", "and", "Dives", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "think", "he", "realized", "his", "disgusting", "behavior", "because", "after", "that", "he", "asked", "if", "I", "wanted", "another", "plate", "."], "e1_text": "realized", "e1_pos": 3, "e2_text": "asked", "e2_pos": 11, "label": "after"}
+]

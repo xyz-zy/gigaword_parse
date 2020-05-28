@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wings", "keep", "crispy", "even", "after", "being", "sauced", "."], "e1_text": "keep", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Sweet", "with", "a", "great", "after", "burn", "."], "e1_text": "Sweet", "e1_pos": 0, "e2_text": "burn", "e2_pos": 5, "label": "after"}
+]

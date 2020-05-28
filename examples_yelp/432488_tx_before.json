@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "remembered", "that", "I", "have", "called", "him", "on", "his", "cell", "before", ",", "and", "was", "told", "he", "does", "n't", "take", "appointments", "."], "e1_text": "remembered", "e1_pos": 1, "e2_text": "have", "e2_pos": 4, "label": "before"},
+{"tokens": ["He", "walks", "over", "the", "owner", "of", "the", "shop", "-LRB-", "Chris", "'", "-RRB-", "chair", "and", "whispers", "something", "to", "him", ",", "casually", "strolls", "back", "and", "says", "with", "a", "condescending", "grin", "''", "``", "there", "some", "seating", "open", "over", "there", ",", "man", "''", "''", "before", "sitting", "down", "in", "his", "barber", "chair", "to", "finish", "his", "book", "."], "e1_text": "grin", "e1_pos": 27, "e2_text": "sitting", "e2_pos": 41, "label": "before"},
+{"tokens": ["I", "was", "appalled", ",", "every", "single", "customer", "who", "arrived", "before", "or", "after", "me", "had", "been", "already", "been", "served", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

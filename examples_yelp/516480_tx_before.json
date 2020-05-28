@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "there", "last", "night", "before", "a", "comedy", "show", "and", "there", "were", "many", "empty", "tables", "but", "after", "an", "hour", "of", "waiting", "I", "got", "just", "1", "beer", "and", "had", "to", "run", "down", "to", "5", "guys", "and", "scarf", "down", "a", "burger", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "show", "e2_pos": 8, "label": "before"}
+]

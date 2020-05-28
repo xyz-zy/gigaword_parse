@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "complained", "about", "how", "late", "our", "lunch", "was", "to", "the", "manager", "and", "that", "it", "is", "disappointing", "that", "he", "would", "have", "a", "driver", "make", "an", "extra", "trip", "to", "collect", "the", "money", "for", "the", "sodas", "after", "our", "food", "was", "so", "late", "and", "so", "cold", "and", "terrible", "."], "e1_text": "complained", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

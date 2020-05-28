@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "for", "dinner", "after", "seeing", "O", ",", "which", "was", "AMAZING", ",", "but", "I", "wish", "I", "could", "say", "the", "exact", "same", "about", "the", "meal", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 6, "label": "after"},
+{"tokens": ["My", "boyfriend", "chose", "the", "prosciutto", "wrapped", "rabbit", "for", "his", "entree", "and", "after", "ordering", "we", "just", "sat", "patiently", "waiting", "for", "our", "food", "while", "watching", "the", "water-works", "."], "e1_text": "wrapped", "e1_pos": 5, "e2_text": "ordering", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "was", "starving", "after", "watching", "the", "most", "recent", "Superman", "movie", "at", "the", "Rave", ",", "or", "AMC", "Theaters", "."], "e1_text": "starving", "e1_pos": 3, "e2_text": "watching", "e2_pos": 5, "label": "after"}
+]

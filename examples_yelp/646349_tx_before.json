@@ -1,0 +1,4 @@
+[
+{"tokens": ["Never", "had", "the", "short", "rib", "before", "so", "that", "was", "a", "nice", "tasty", "addition", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"},
+{"tokens": ["Reason", "given", "from", "the", "waiter", "was", "that", "the", "training", "of", "the", "cooking", "staff", "had", "to", "be", "perfected", "before", "''", "``", "secret", "menu", "''", "''", "items", "were", "brought", "out", "."], "e1_text": "perfected", "e1_pos": 16, "e2_text": "were", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Valet", ":", "We", "arrived", "at", "11", "p.m.", "on", "a", "Thursday", "to", "a", "check", "in", "situation", "that", "left", "us", "sitting", "in", "our", "motionless", "vehicle", "for", "a", "good", "45", "minutes", "before", "we", "decided", "to", "take", "it", "upon", "ourselves", "to", "move", "our", "luggage", "ourselves", "."], "e1_text": "sitting", "e1_pos": 18, "e2_text": "decided", "e2_pos": 30, "label": "before"},
+{"tokens": ["We", "waited", "45", "minutes", "for", "our", "new", "key", "to", "arrive", "before", "we", "decided", "to", "call", "the", "front", "desk", "again", "about", "the", "key", "because", "we", "were", "starving", "and", "it", "was", "now", "almost", "2", "a.m.", "Besides", ",", "if", "a", "key", "card", "takes", "almost", "an", "hour", ",", "how", "long", "would", "it", "be", "before", "we", "saw", "room", "service", "?"], "e1_text": "arrive", "e1_pos": 9, "e2_text": "decided", "e2_pos": 12, "label": "before"}
+]

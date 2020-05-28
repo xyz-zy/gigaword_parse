@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "you", "would", "soon", "forget", "the", "adobo", "fried", "rice", "omelette", "after", "suffering", "from", "the", "service", "."], "e1_text": "forget", "e1_pos": 4, "e2_text": "suffering", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "four", "friends", "did", "n't", "get", "their", "food", "after", "waiting", "for", "an", "hour", "and", "one", "of", "them", "just", "got", "spam", "and", "eggs", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

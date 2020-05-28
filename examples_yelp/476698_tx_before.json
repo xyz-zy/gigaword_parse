@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "lucky", "booking", "that", "first", "appointment", "because", "after", "that", "they", "did", "n't", "have", "anything", "available", "for", "6", "weeks", "--", "oddly", "enough", "that", "was", "the", "same", "amount", "of", "time", "before", "the", "deal", "expired", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "expired", "e2_pos": 32, "label": "before"},
+{"tokens": ["I", "have", "taken", "dozens", "of", "private", "reformer", "classes", "at", "a", "different", "NoSco", "gym", ",", "so", "this", "was", "not", "my", "first", "rodeo", ",", "but", "they", "did", "have", "to", "take", "the", "class", "down", "a", "few", "notches", "since", "they", "allow", "newbies", "-LRB-", "people", "who", "have", "never", "used", "a", "reformer", "machine", "before", "-RRB-", "in", "."], "e1_text": "allow", "e1_pos": 36, "e2_text": "have", "e2_pos": 1, "label": "before"}
+]

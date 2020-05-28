@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "hired", "Scott", ",", "The", "Eviction", "King", ",", "to", "evict", "the", "previous", "owners", "after", "I", "bought", "a", "house", "at", "foreclosure", "auction", "."], "e1_text": "evict", "e1_pos": 9, "e2_text": "bought", "e2_pos": 15, "label": "after"}
+]

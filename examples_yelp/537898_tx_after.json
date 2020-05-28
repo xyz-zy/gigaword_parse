@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "did", "n't", "come", "until", "after", "I", "was", "done", "with", "my", "seafood", "starter", "and", "my", "water", "glass", "was", "half", "empty", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "drink", "also", "came", "after", "my", "food", "arrived", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "arrived", "e2_pos": 7, "label": "after"},
+{"tokens": ["Even", "though", "I", "asked", "for", "it", "after", "I", "placed", "my", "food", "order", ",", "server", "should", "have", "coordinated", "it", "to", "assure", "it", "got", "here", "before", "."], "e1_text": "asked", "e1_pos": 3, "e2_text": "placed", "e2_pos": 8, "label": "after"}
+]

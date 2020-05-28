@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ok", "so", "major", "customer", "service", "problem", ",", "ordered", "drinks", "and", "ask", "if", "they", "would", "bring", "them", "out", "to", "us", "because", "we", "are", "on", "the", "patio", ",", "two", "different", "people", "said", "sure", ",", "but", "after", "waiting", "a", "while", "one", "of", "the", "servers", "come", "out", "and", "say", "your", "drinks", "are", "ready", "...", "."], "e1_text": "bring", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 34, "label": "after"}
+]

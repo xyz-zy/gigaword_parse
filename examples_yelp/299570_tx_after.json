@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "never", "came", "back", "to", "check", "on", "us", "after", "we", "ordered", ",", "except", "to", "bring", "us", "our", "food", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 11, "label": "after"},
+{"tokens": ["Checking", "up", "on", "refills", "of", "beverages", "or", "additional", "orders", "only", "occurred", "after", "we", "frantically", "waved", "down", "the", "waitstaff", "."], "e1_text": "occurred", "e1_pos": 10, "e2_text": "waved", "e2_pos": 14, "label": "after"}
+]

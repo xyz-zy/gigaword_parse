@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "so", "many", "phone", "calls", "and", "so", "many", "weeks", "before", "they", "sent", "me", "the", "documents", "I", "needed", ",", "that", "once", "I", "received", "them", "the", "deadline", "for", "the", "rebate", "had", "already", "passed", "-LRB-", "it", "had", "to", "be", "submitted", "within", "30", "days", "of", "ordering", "the", "contacts", "-RRB-", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "sent", "e2_pos": 12, "label": "before"}
+]

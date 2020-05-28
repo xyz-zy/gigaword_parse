@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "I", "said", "I", "went", "there", "for", "Oliver", "Peoples", ",", "as", "I", "have", "had", "these", "frames", "before", "and", "I", "absolutely", "love", "them", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "have", "e2_pos": 12, "label": "before"},
+{"tokens": ["So", "I", "gave", "them", "the", "prescription", "I", "had", "gotten", "the", "day", "before", "in", "20", "20", ",", "but", "as", "they", "could", "n't", "quite", "understand", "it", "they", "phoned", "up", "20", "20", "to", "explain", "it", "to", "them", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

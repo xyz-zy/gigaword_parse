@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "mine", "online", ",", "but", "you", "can", "go", "to", "any", "of", "the", "cashier", "station", "and", "stand", "in", "line", "to", "purchase", "a", "wristband", "right", "before", "you", "dine", "."], "e1_text": "purchase", "e1_pos": 20, "e2_text": "dine", "e2_pos": 26, "label": "before"}
+]

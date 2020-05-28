@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "drive", "can", "take", "a", "bit", "of", "time", "-LRB-", "a", "good", "30-45m", "-RRB-", "from", "the", "strip", "before", "you", "actually", "get", "riding", ",", "so", "be", "forewarned", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "get", "e2_pos": 19, "label": "before"},
+{"tokens": ["Its", "worth", "trying", "if", "you", "'ve", "never", "gone", "atv-ing", "before", "but", "I", "'d", "probably", "recommend", "just", "doing", "a", "free", "ride", "if", "you", "can", "instead", "of", "going", "on", "the", "trail\\/tour", "."], "e1_text": "trying", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 5, "label": "before"}
+]

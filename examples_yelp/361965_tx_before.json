@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "our", "apps", "came", ",", "another", "30", "mins", "passed", "before", "we", "finally", "flagged", "down", "the", "manager", "to", "find", "out", "1", "-RRB-", "where", "our", "waiter", "was", ",", "and", "2", "-RRB-", "where", "the", "rest", "of", "our", "meal", "was", "."], "e1_text": "passed", "e1_pos": 8, "e2_text": "flagged", "e2_pos": 12, "label": "before"},
+{"tokens": ["2", "people", "in", "my", "party", "ordered", "the", "chicken", "-", "did", "n't", "realize", "they", "had", "to", "kill", "the", "chicken", "and", "prep", "it", "before", "cooking", "because", "I", "have", "never", "had", "to", "wait", "over", "45", "mins", "for", "chicken", "-LRB-", "15", "mins", "while", "we", "ate", "our", "apps", "and", "another", "30", "mins", "eating", "our", "2nd", "basket", "of", "bread", "-RRB-", "."], "e1_text": "prep", "e1_pos": 19, "e2_text": "cooking", "e2_pos": 22, "label": "before"}
+]

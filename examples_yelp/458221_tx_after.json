@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "both", "seemed", "very", "confused", ",", "even", "after", "we", "told", "them", "exactly", "what", "we", "wanted", "to", "buy", "from", "what", "they", "had", "shown", "us", "."], "e1_text": "seemed", "e1_pos": 2, "e2_text": "told", "e2_pos": 9, "label": "after"},
+{"tokens": ["-LRB-", "Photos", "are", "taken", "in", "front", "of", "a", "green", "screen", "after", "admission", "is", "paid", "and", "before", "a", "short", "film", "is", "shown", "and", "you", "'re", "let", "loose", "into", "the", "aquarium", "."], "e1_text": "taken", "e1_pos": 3, "e2_text": "is", "e2_pos": 12, "label": "after"}
+]

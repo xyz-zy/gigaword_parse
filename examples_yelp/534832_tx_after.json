@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "never", "arrived", "after", "waiting", "30", "minutes", "for", "a", "burrito", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 4, "label": "after"},
+{"tokens": ["Contacted", "by", "actual", "manager", ",", "the", "day", "after", "posting", ",", "seeking", "resolution", "."], "e1_text": "Contacted", "e1_pos": 0, "e2_text": "posting", "e2_pos": 8, "label": "after"}
+]

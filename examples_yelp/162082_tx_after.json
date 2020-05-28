@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "the", "Paris", "is", "generally", "a", "nice", "looking", "hotel", "with", "decent", "rooms", ",", "they", "tacked", "on", "this", "suspicious", "''", "``", "resort", "fee", "''", "''", "to", "my", "last", "bill", "after", "I", "had", "already", "paid", "the", "initial", "bill", "."], "e1_text": "tacked", "e1_pos": 14, "e2_text": "had", "e2_pos": 30, "label": "after"}
+]

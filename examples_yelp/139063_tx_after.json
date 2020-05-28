@@ -1,0 +1,6 @@
+[
+{"tokens": ["The", "first", "soup", "is", "delivered", "to", "another", "table", "next", "to", "our", "table", "and", "only", "after", "questioning", "where", "our", "soup", "was", "did", "our", "server", "notice", "it", "went", "to", "the", "wrong", "table", "."], "e1_text": "delivered", "e1_pos": 4, "e2_text": "questioning", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "also", "ordered", "soup", "which", "came", "after", "I", "questioned", "where", "my", "soup", "was", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "questioned", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "garlic", "bread", "which", "was", "suppose", "to", "be", "served", "with", "the", "soups", "and", "salad", ",", "it", "came", "after", "we", "had", "received", "our", "salads", "and", "were", "1\\/2", "eaten", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "had", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "questioned", "a", "server", "about", "the", "time", "it", "took", "since", "2", "tables", "arriving", "well", "after", "we", "had", "ordered", "had", "their", "food", "which", "was", "not", "soup", "and", "salad", "and", "I", "was", "given", "a", "flip", "answer", "''", "``", "it", "'s", "coming", ".", "''", "''"], "e1_text": "arriving", "e1_pos": 12, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Most", "movie", "theaters", "seem", "to", "allow", "seating", "at", "least", "half", "an", "hour", "before", "the", "movie", "starts", ",", "and", "those", "places", "do", "n't", "have", "to", "factor", "in", "people", "ordering", "food", "either", "."], "e1_text": "allow", "e1_pos": 5, "e2_text": "starts", "e2_pos": 15, "label": "before"},
+{"tokens": ["As", "long", "as", "you", "'re", "prepared", "to", "have", "the", "first", "part", "of", "your", "movie", "being", "constantly", "interrupted", "by", "your", "neighbors", "ordering", "and", "receiving", "food", "because", "the", "theater", "would", "n't", "seat", "you", "until", "10", "minutes", "before", "the", "movie", "started", "and", "you", "'re", "ok", "with", "the", "occasional", "bright", "LED", "in", "your", "eye", ",", "movie", "watching", "here", "is", "fine", "."], "e1_text": "seat", "e1_pos": 29, "e2_text": "started", "e2_pos": 37, "label": "before"}
+]

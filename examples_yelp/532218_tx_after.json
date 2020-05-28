@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "eat", "something", "after", "getting", "drunk", "on", "that", "5", "oz", "'s", "of", "wine", ",", "for", "safety", "'s", "sake", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "getting", "e2_pos": 6, "label": "after"},
+{"tokens": ["Unfortunately", "I", "received", "a", "text", "later", "from", "my", "friend", "after", "having", "parted", ",", "only", "to", "learn", "that", "she", "had", "already", "made", "multiple", "trips", "to", "the", "bathroom", "after", "her", "''", "``", "lunch", ".", "''", "''"], "e1_text": "received", "e1_pos": 2, "e2_text": "having", "e2_pos": 10, "label": "after"}
+]

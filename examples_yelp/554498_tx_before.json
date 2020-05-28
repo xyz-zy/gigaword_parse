@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "attending", "an", "event", "uptown", ",", "we", "arrived", "at", "Rooster", "'s", "on", "College", "Street", "at", "8:50", "last", "night", "-LRB-", "11\\/17", "-RRB-", "to", "be", "told", "they", "closed", "the", "kitchen", "just", "before", "we", "came", "in", "."], "e1_text": "closed", "e1_pos": 25, "e2_text": "came", "e2_pos": 31, "label": "before"}
+]

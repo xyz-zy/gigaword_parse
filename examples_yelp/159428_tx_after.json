@@ -1,0 +1,4 @@
+[
+{"tokens": [";-RRB-", "Damon", "'s", "show", "was", "off", "the", "hook", ",", "however", ",", "trying", "to", "get", "our", "free", "drink", "after", "was", "a", "pain", "in", "the", "rear", "."], "e1_text": "get", "e1_pos": 13, "e2_text": "was", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "only", "found", "out", "about", "this", "after", "tracking", "down", "the", "hotel", "concierge", "after", "a", "20", "minute", "run-around", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "tracking", "e2_pos": 7, "label": "after"}
+]

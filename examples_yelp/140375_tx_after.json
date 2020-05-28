@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", ",", "I", "met", "the", "woman", "in", "the", "parking", "lot", "and", "had", "her", "follow", "me", "to", "the", "other", "store", ",", "after", "I", "set", "my", "intended", "purchase", "back", "."], "e1_text": "follow", "e1_pos": 13, "e2_text": "set", "e2_pos": 22, "label": "after"}
+]

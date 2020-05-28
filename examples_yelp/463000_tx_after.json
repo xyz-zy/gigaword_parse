@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", "here", "now", "as", "I", "type", "this", ",", "on", "a", "slow", "Monday", "afternoon", ",", "after", "sitting", "at", "our", "table", "for", "20", "minutes", "we", "had", "to", "flag", "someone", "down", "so", "we", "could", "place", "our", "order", "."], "e1_text": "type", "e1_pos": 5, "e2_text": "sitting", "e2_pos": 15, "label": "after"}
+]

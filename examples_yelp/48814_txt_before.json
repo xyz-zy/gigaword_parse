@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "could", "tell", "they", "did", "not", "warm", "up", "the", "noodles", "enough", "before", "cooking", "it", "."], "e1_text": "warm", "e1_pos": 6, "e2_text": "cooking", "e2_pos": 12, "label": "before"}
+]

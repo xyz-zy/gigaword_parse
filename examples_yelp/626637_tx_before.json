@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "dog", "owners", "seriously", "need", "to", "educate", "themselves", "on", "how", "to", "control", "their", "dogs", "before", "they", "attack", "another", "dog", "."], "e1_text": "control", "e1_pos": 11, "e2_text": "attack", "e2_pos": 16, "label": "before"}
+]

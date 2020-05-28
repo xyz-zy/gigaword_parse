@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "concept", "of", "taking", "one", "order", ",", "then", "making", "that", "order", "before", "taking", "or", "starting", "another", "order", "is", "not", "the", "concept", "of", "the", "way", "a", "fast", "food", "restraunt", "should", "be", "run", "."], "e1_text": "making", "e1_pos": 8, "e2_text": "taking", "e2_pos": 3, "label": "before"}
+]

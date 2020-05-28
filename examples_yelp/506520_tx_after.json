@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "One", "of", "us", "ordered", "a", "cup", "of", "gumbo", "as", "an", "appetizer", ",", "which", "the", "waitress", "did", "n't", "bring", "out", "until", "we", "reminded", "her", "after", "our", "entrees", "came", "out", "."], "e1_text": "reminded", "e1_pos": 22, "e2_text": "came", "e2_pos": 27, "label": "after"},
+{"tokens": ["She", "would", "walk", "back", "to", "the", "kitchen", "or", "bar", "after", "only", "helping", "one", "table", "at", "a", "time", "."], "e1_text": "walk", "e1_pos": 2, "e2_text": "helping", "e2_pos": 11, "label": "after"}
+]

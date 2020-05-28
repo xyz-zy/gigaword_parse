@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "shrimp", "and", "grits", "never", "had", "grits", "before", "but", "I", "went", "with", "it", "because", "our", "server", "recommend", "it", "and", "boy", "was", "it", "good", "so", "was", "everything", "else", "our", "table", "had", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "went", "e2_pos": 12, "label": "before"}
+]

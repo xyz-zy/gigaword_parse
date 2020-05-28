@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "our", "first", "visit", "and", "started", "a", "little", "rocky", "in", "the", "lounge", "where", "you", "wait", "when", "my", "sister-in-law", "ordered", "a", "Margarita", "with", "Patron", "and", "took", "a", "drink", "and", "said", "it", "tasted", "like", "rancid", "mixer", ",", "after", "trying", "a", "couple", "of", "sips", "took", "it", "back", "to", "the", "bar", "and", "they", "traded", "it", "for", "a", "different", "drink", "."], "e1_text": "tasted", "e1_pos": 31, "e2_text": "took", "e2_pos": 25, "label": "after"}
+]

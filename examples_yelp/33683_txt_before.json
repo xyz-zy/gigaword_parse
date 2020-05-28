@@ -1,0 +1,4 @@
+[
+{"tokens": ["``", "No", ",", "I", "had", "a", "direct", "deposit", "hit", "my", "account", "Friday", "morning", "and", "show", "in", "my", "AVAILABLE", "balance", "before", "I", "ever", "went", "to", "the", "gas", "station", "or", "the", "grocery", "store", "''", "''", ".", "''"], "e1_text": "had", "e1_pos": 4, "e2_text": "went", "e2_pos": 22, "label": "before"},
+{"tokens": ["``", "Yes", ",", "but", "we", "take", "all", "charges", "out", "of", "your", "account", "before", "crediting", "any", "deposits", "at", "the", "end", "of", "the", "day", "''", "''", ".", "''"], "e1_text": "take", "e1_pos": 5, "e2_text": "crediting", "e2_pos": 13, "label": "before"}
+]

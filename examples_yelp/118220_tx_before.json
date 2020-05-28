@@ -1,0 +1,4 @@
+[
+{"tokens": ["Review", "for", "casino", "only", ":", "I", "'ve", "been", "to", "the", "Fiesta", "Henderson", "many", "times", ",", "mostly", "before", "there", "were", "other", "Station", "casinos", "of", "better", "quality", "and", "nearer", "to", "home", "."], "e1_text": "been", "e1_pos": 7, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "stopped", "here", "Monday", "to", "meet", "hiking", "friends", "and", "I", "went", "in", "to", "use", "the", "bathroom", "before", "leaving", "on", "our", "great", "hike", "."], "e1_text": "use", "e1_pos": 13, "e2_text": "leaving", "e2_pos": 17, "label": "before"}
+]

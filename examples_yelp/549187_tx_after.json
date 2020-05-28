@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "our", "server", "was", "very", "friendly", "and", "well", "meaning", ",", "it", "took", "a", "long", "time", "to", "order", "after", "receiving", "menus", ",", "and", "I", "had", "to", "request", "water", "twice", "before", "any", "arrived", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "receiving", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "was", "skeptical", "about", "the", "quality", "and", "variety", "of", "food", "I", "would", "find", "here", "after", "reading", "one", "low-rated", "review", "."], "e1_text": "find", "e1_pos": 12, "e2_text": "reading", "e2_pos": 15, "label": "after"}
+]

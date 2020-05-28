@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "only", "I", "had", "taken", "a", "picture", "before", "having", "it", "fixed", "elsewhere", "today", "because", "you", "really", "had", "to", "see", "it", "to", "believe", "it", "."], "e1_text": "taken", "e1_pos": 4, "e2_text": "having", "e2_pos": 8, "label": "before"},
+{"tokens": ["It", "will", "be", "years", "before", "my", "hair", "recovers", "from", "this", "disaster", "because", "it", "'s", "down", "to", "my", "waist", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "recovers", "e2_pos": 7, "label": "before"}
+]

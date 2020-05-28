@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "casino", "is", "one", "of", "my", "favorites", "in", "Vegas", ";", "in", "fact", ",", "it", "is", "ALWAYS", "the", "last", "casino", "we", "visit", "before", "we", "jump", "on", "the", "I15", "back", "home", "to", "L.A.", "I", "come", "here", "because", "the", "casino", "bars", "still", "comp", "you", "top", "shelf", "whiskey", "-LRB-", "I", "drink", "bourbon", "-RRB-", "when", "you", "sit", "and", "play", "their", "video", "games", "."], "e1_text": "visit", "e1_pos": 20, "e2_text": "jump", "e2_pos": 23, "label": "before"}
+]

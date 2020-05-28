@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "server", "took", "about", "10", "minutes", "to", "bring", "our", "strawberry", "lemonade", "to", "the", "table", "and", "after", "waiting", "over", "20", "to", "25", "minutes", ",", "we", "received", "our", "food", "but", "never", "received", "out", "appetizer", "."], "e1_text": "bring", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 16, "label": "after"},
+{"tokens": ["We", "opted", "not", "to", "get", "it", "anymore", "as", "we", "had", "seen", "many", "other", "tables", "that", "came", "in", "after", "us", "receive", "multiple", "things", "before", "we", "received", "anything", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "receive", "e2_pos": 19, "label": "after"}
+]

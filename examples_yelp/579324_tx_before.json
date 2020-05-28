@@ -1,0 +1,4 @@
+[
+{"tokens": ["Compared", "to", "other", "gyms", "I", "had", "been", "to", "before", ",", "this", "place", "was", "relatively", "clean", "and", "spacious", "."], "e1_text": "been", "e1_pos": 6, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "usually", "came", "in", "before", "closing", "so", "it", "was", "pretty", "empty", "and", "nice", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "closing", "e2_pos": 5, "label": "before"}
+]

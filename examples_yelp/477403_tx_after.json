@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", ",", "this", "review", "is", "only", "about", "the", "salon", ",", "because", "I", "intended", "to", "go", "to", "the", "spa", "after", "I", "got", "a", "haircut", "."], "e1_text": "go", "e1_pos": 14, "e2_text": "got", "e2_pos": 20, "label": "after"}
+]

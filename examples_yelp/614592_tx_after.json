@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "eating", "at", "the", "now", "closed", "44th", "St", "location", "for", "years", "and", "loving", "the", "food", "and", "the", "staff", "I", "visited", "this", "location", "after", "moving", "to", "this", "neighborhood", "."], "e1_text": "visited", "e1_pos": 19, "e2_text": "moving", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "can", "only", "imagine", "what", "a", "disappointment", "this", "place", "is", "to", "its", "owners", "after", "seeing", "the", "business", "a", "properly", "run", "Good", "Egg", "has", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "seeing", "e2_pos": 14, "label": "after"}
+]

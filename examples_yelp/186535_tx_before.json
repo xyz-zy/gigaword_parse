@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "do", "n't", "get", "me", "wrong", ",", "the", "waitress", "was", "very", "pleasant", "and", "personable", ",", "but", "the", "time", "that", "went", "by", "before", "we", "got", "refills", "or", "that", "my", "dining", "companion", "'s", "DIET", "COKE", "was", "fixed", "to", "a", "regular", "coke", "took", "too", "long", "."], "e1_text": "went", "e1_pos": 19, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

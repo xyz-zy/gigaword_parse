@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "never", "got", "a", "chance", "to", "use", "it", "before", "it", "expired", ",", "but", "I", "figured", "it", "was", "no", "big", "deal", "because", "-LRB-", "like", "most", "Groupons", "-RRB-", "it", "clearly", "says", "in", "the", "fine", "print", "''", "``", "The", "amount", "paid", "for", "this", "voucher", "-LRB-", "$", "89", "-RRB-", "with", "Radisson", "Fort", "McDowell", "Resort", "NEVER", "EXPIRES", ".", "''", "''"], "e1_text": "use", "e1_pos": 6, "e2_text": "expired", "e2_pos": 10, "label": "before"}
+]

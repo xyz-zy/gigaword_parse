@@ -1,0 +1,3 @@
+[
+{"tokens": ["BEWARE", ":", "Our", "''", "``", "free", "cleanings", "''", "''", "cost", "us", "$", "235.00", "We", "wish", "we", "saw", "the", "other", "reviews", "here", "on", "Yelp", "first", "before", "choosing", "this", "office", "."], "e1_text": "saw", "e1_pos": 16, "e2_text": "choosing", "e2_pos": 25, "label": "before"}
+]

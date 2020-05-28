@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "burger", "patties", "was", "so", "thin", "it", "looked", "like", "the", "crust", "of", "the", "burger", "that", "sticks", "to", "the", "pan", "after", "you", "flip", "it", "like", "they", "scraped", "it", "off", "and", "slapped", "it", "on", "a", "bun", "."], "e1_text": "sticks", "e1_pos": 15, "e2_text": "flip", "e2_pos": 21, "label": "after"},
+{"tokens": ["My", "five", "year", "old", "boy", "was", "still", "hungry", "after", "eating", "it", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "eating", "e2_pos": 9, "label": "after"}
+]

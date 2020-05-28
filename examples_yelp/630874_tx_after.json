@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "the", "bartender", "what", "it", "was", "like", "and", "after", "describing", "it", "he", "let", "me", "try", "a", "little", "to", "make", "sure", "I", "liked", "it", "before", "I", "ordered", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "describing", "e2_pos": 10, "label": "after"}
+]

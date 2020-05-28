@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "first", "say", "that", "i", "had", "never", "before", "had", "a", "bad", "experience", "at", "a", "Wynn", "resort", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["they", "took", "off", "2", "buffet", "charges", "for", "my", "sister", "and", "her", "husband-who", "left", "the", "restaurant", "before", "eating", "-", "thanks", "so", "much", "Kyle", "-", "you", "are", "a", "shinning", "star", "."], "e1_text": "left", "e1_pos": 12, "e2_text": "eating", "e2_pos": 16, "label": "before"}
+]

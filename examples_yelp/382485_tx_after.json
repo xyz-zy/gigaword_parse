@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "a", "table", "of", "3", "next", "to", "us", "that", "came", "in", "10", "minutes", "after", "we", "did", "and", "we", "could", "tell", "they", "were", "waiting", "too", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "did", "e2_pos": 16, "label": "after"},
+{"tokens": ["She", "pretty", "much", "gave", "that", "to", "us", "right", "after", "she", "handed", "over", "the", "sundae", "."], "e1_text": "gave", "e1_pos": 3, "e2_text": "handed", "e2_pos": 10, "label": "after"}
+]

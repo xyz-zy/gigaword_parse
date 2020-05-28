@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "shower", "doors", "are", "so", "amazingly", "designed", "that", "after", "I", "took", "a", "shower", ",", "the", "entire", "room", "was", "flooded", "with", "water", "and", "I", "came", "to", "find", "that", "the", "plastic", "seal", "that", "was", "supposed", "to", "seal", "the", "water", "from", "going", "out", "has", "been", "lifted", "."], "e1_text": "are", "e1_pos": 3, "e2_text": "took", "e2_pos": 10, "label": "after"}
+]

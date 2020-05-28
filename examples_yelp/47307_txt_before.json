@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "own", "a", "Tesla", "Model", "S.", "At", "one", "point", "in", "time", ",", "local", "Tesla", "Service", "facility", "contracted", "with", "Shumacher", "to", "perform", "alignments", "on", "the", "Model", "S", "as", "a", "temporary", "measure", ",", "before", "Tesla", "Service", "had", "its", "own", "permanent", "facility", "with", "its", "own", "alignment", "bench", "."], "e1_text": "perform", "e1_pos": 20, "e2_text": "had", "e2_pos": 34, "label": "before"}
+]

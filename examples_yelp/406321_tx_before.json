@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "'m", "a", "big", "fan", "of", "The", "Torch", "Theatre", ",", "I", "often", "frequent", "Hula", "'s", "before", "shows", "to", "grab", "dinner", "and", "a", "drink", "."], "e1_text": "frequent", "e1_pos": 13, "e2_text": "shows", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "called", "Hula", "'s", "the", "day", "before", "and", "they", "told", "me", "they", "could", "n't", "host", "us", "all", "at", "one", "table", "as", "all", "the", "reservations", "had", "been", "booked", ",", "but", "they", "could", "do", "a", "few", "tables", "outside", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "'s", "e2_pos": 3, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "sure", "the", "first", "waitress", "got", "the", "tip", "and", "not", "the", "other", "one", "who", "disappeared", "after", "settling", "the", "bill", "."], "e1_text": "disappeared", "e1_pos": 15, "e2_text": "settling", "e2_pos": 17, "label": "after"}
+]

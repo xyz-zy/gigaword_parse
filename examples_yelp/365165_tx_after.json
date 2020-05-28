@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "outside", "here", "with", "my", "family", "after", "getting", "a", "recommendation", "from", "our", "hotel", "concierge", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "getting", "e2_pos": 8, "label": "after"},
+{"tokens": ["This", "was", "after", "getting", "kicked", "off", "the", "Good", "Egg", "'s", "outdoor", "patio", "on", "a", "strip", "mall", "because", "of", "a", "corporate", "policy", "that", "does", "n't", "allow", "dogs", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "getting", "e2_pos": 3, "label": "after"}
+]

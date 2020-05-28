@@ -1,0 +1,4 @@
+[
+{"tokens": ["People", "sat", "with", "food", "while", "others", "had", "to", "wait", "a", "long", "time", "before", "being", "able", "to", "get", "food", "."], "e1_text": "wait", "e1_pos": 8, "e2_text": "being", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "salad", "bowl", "probably", "could", "serve", "about", "6", "to", "8", "people", ",", "so", "when", "that", "emptied", "-LRB-", "no", "other", "food", "was", "out", "or", "available", "at", "this", "point", "-RRB-", ",", "people", "just", "sat", "their", "for", "a", "good", "20", "minutes", "before", "they", "brought", "out", "more", "."], "e1_text": "sat", "e1_pos": 31, "e2_text": "brought", "e2_pos": 40, "label": "before"}
+]

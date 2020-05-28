@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "almost", "5", "minutes", "to", "clean", "up", "one", "table", "-LRB-", "from", "the", "time", "they", "started", "cleaning", ",", "it", "was", "probably", "a", "good", "half", "an", "hour", "after", "the", "patrons", "had", "left", "-RRB-", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "had", "e2_pos": 29, "label": "after"}
+]

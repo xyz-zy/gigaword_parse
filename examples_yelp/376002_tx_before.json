@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "there", "was", "one", "person", "in", "line", "ahead", "of", "me", "in", "the", "invited", "guest", "check", "in", "line", "and", "the", "regular", "line", "moved", "much", "faster", ",", "helping", "around", "10", "people", "before", "I", "was", "helped", "."], "e1_text": "helping", "e1_pos": 26, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["I", "was", "given", "2", "rooms", "on", "the", "same", "floor", "but", "it", "took", "over", "two", "hours", "before", "the", "problem", "was", "resolved", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

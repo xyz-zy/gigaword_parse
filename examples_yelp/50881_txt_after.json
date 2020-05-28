@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "for", "a", "table", "for", "3", ",", "and", "instead", "of", "simply", "pulling", "an", "extra", "chair", "up", "two", "a", "2-seated", "table", ",", "the", "waitress", "sat", "us", "at", "a", "table", "for", "6", ",", "only", "to", "have", "a", "party", "of", "8", "walk", "in", "the", "door", "a", "minute", "after", "I", "had", "started", "on", "my", "soup", ",", "so", "she", "asked", "us", "to", "move", "to", "a", "different", "table", "so", "they", "could", "have", "our", "table", "."], "e1_text": "walk", "e1_pos": 39, "e2_text": "had", "e2_pos": 47, "label": "after"}
+]

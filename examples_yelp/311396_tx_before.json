@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "had", "to", "flag", "him", "down", "and", "ask", "for", "a", "chair", ",", "again", ",", "before", "I", "got", "one", "."], "e1_text": "ask", "e1_pos": 8, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["she", "'s", "had", "people", "try", "to", "mansplain", "at", "her", "that", "she", "'s", "wrong", "before", ",", "which", "is", "exactly", "what", "this", "dude", "was", "doing", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "'s", "e2_pos": 1, "label": "before"}
+]

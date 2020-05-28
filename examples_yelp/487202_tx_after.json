@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "was", "patient", "with", "my", "lack", "of", "electrical\\/AC", "maintenance", "knowledge", "and", "figured", "out", "the", "problem", "soon", "after", "arriving", "."], "e1_text": "figured", "e1_pos": 11, "e2_text": "arriving", "e2_pos": 17, "label": "after"}
+]

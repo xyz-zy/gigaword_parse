@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "met", "some", "nice", "people", "who", "offered", "to", "buy", "us", "drinks", ",", "which", "I", "turned", "down", "because", "I", "was", "already", "exhausted", "from", "waiting", "in", "line", "in", "heels", "and", "not", "getting", "enough", "sleep", "after", "partying", "the", "night", "before", "."], "e1_text": "getting", "e1_pos": 29, "e2_text": "partying", "e2_pos": 33, "label": "after"},
+{"tokens": ["I", "saw", "her", "talking", "to", "him", "after", "we", "took", "off", "and", ",", "soon", "after", ",", "we", "noticed", "the", "table", "was", "vacant", "...", "guess", "they", "were", "kicked", "out", "for", "being", "offensive", "?"], "e1_text": "saw", "e1_pos": 1, "e2_text": "took", "e2_pos": 8, "label": "after"}
+]

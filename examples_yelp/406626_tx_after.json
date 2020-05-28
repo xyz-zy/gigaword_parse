@@ -1,0 +1,4 @@
+[
+{"tokens": ["Out", "entrees", "arrived", "after", "being", "read", "off", "and", "placed", "in", "front", "of", "what", "we", "assumed", "was", "the", "correct", "person", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "being", "e2_pos": 4, "label": "after"},
+{"tokens": ["Half", "way", "down", "the", "block", "the", "same", "manager", "ran", "after", "us", "stating", "''", "``", "I", "took", "care", "of", "the", "food", "but", "you", "still", "have", "a", "drink", "bill", "''", "''", "."], "e1_text": "ran", "e1_pos": 8, "e2_text": "stating", "e2_pos": 11, "label": "after"}
+]

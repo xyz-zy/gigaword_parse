@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "love", "and", "I", "decided", "to", "drop", "by", "this", "place", "to", "grab", "a", "drink", "before", "blowing", "our", "money", "at", "the", "Casino", "."], "e1_text": "grab", "e1_pos": 11, "e2_text": "blowing", "e2_pos": 15, "label": "before"},
+{"tokens": ["Tip", ":", "Gather", "a", "bunch", "of", "friends", "to", "grab", "a", "few", "drinks", "here", "before", "going", "to", "bigger", "and", "better", "things", "."], "e1_text": "grab", "e1_pos": 8, "e2_text": "going", "e2_pos": 14, "label": "before"}
+]

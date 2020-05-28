@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "think", "''", "``", "a-ok", "''", "''", "perfectly", "describes", "how", "I", "felt", "after", "stopping", "by", "this", "place", "for", "happy", "hour", "."], "e1_text": "felt", "e1_pos": 11, "e2_text": "stopping", "e2_pos": 13, "label": "after"}
+]

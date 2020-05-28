@@ -1,0 +1,4 @@
+[
+{"tokens": ["he", "disappeared", "for", "awhile", "...", "we", "were", "finished", "eating", "for", "at", "least", "an", "hour", "before", "he", "even", "showed", "up", "at", "our", "table", "again", "."], "e1_text": "eating", "e1_pos": 8, "e2_text": "showed", "e2_pos": 17, "label": "before"},
+{"tokens": ["seriously", ",", "how", "is", "it", "that", "a", "different", "group", "that", "came", "in", "at", "least", "an", "hour", "after", ",", "ate", "and", "left", "before", "we", "did", "?"], "e1_text": "left", "e1_pos": 20, "e2_text": "did", "e2_pos": 23, "label": "before"}
+]

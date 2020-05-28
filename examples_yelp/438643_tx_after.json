@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "could", "n't", "get", "in", "two", "words", "and", "then", "they", "hung", "up", "on", "me", "after", "telling", "me", "I", "needed", "to", "contact", "the", "post", "office", "because", "no", "mail", "carrier", "would", "just", "drop", "a", "package", "in", "a", "parcel", "looker", "without", "double", "checking", "the", "name", "-LRB-", "...", "ummm", ",", "yea", "they", "do", ",", "happens", "all", "the", "time", "in", "fact", "-RRB-", "."], "e1_text": "hung", "e1_pos": 10, "e2_text": "telling", "e2_pos": 15, "label": "after"}
+]

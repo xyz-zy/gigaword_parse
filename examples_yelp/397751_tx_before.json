@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bartender", "will", "walk", "past", "you", "and", "skip", "your", "turn", "at", "lest", "five", "times", "before", "you", "even", "get", "a", "drink", "."], "e1_text": "skip", "e1_pos": 6, "e2_text": "get", "e2_pos": 16, "label": "before"}
+]

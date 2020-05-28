@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "here", "specifically", "for", "their", "lunch", "specials", "awhile", "back", "and", "we", "sat", "down", "30", "minutes", "before", "their", "lunch", "period", "was", "over", "and", "ordered", "my", "usual", "soup", "and", "salad", "combo", "."], "e1_text": "sat", "e1_pos": 12, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

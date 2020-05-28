@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "they", "are", "open", "only", "until", "6pm", "on", "weeknights", ",", "which", "means", "I", "can", "barely", "get", "there", "before", "they", "close", "when", "I", "get", "off", "of", "work", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "close", "e2_pos": 19, "label": "before"}
+]

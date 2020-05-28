@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wanted", "a", "veggie", "salad", "and", "the", "first", "guy", "put", "meat", "on", "it", ",", "than", "the", "cashier", "charged", "us", "for", "the", "guacamole", "-LRB-", "which", "comes", "with", "the", "veggie", "option", "-RRB-", "and", "she", "charged", "us", "for", "the", "meat", "after", "we", "told", "someone", "3", "different", "times", "that", "it", "was", "suppose", "to", "be", "veggie", "."], "e1_text": "charged", "e1_pos": 17, "e2_text": "told", "e2_pos": 39, "label": "after"}
+]

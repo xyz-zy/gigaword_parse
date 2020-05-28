@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plus", "I", "ordered", "an", "egg", "dish", "and", "I", "realized", "after", "I", "left", "that", "these", "were", "supposed", "to", "come", "with", "a", "side", "of", "pancakes", "but", "I", "did", "n't", "get", "them"], "e1_text": "realized", "e1_pos": 8, "e2_text": "left", "e2_pos": 11, "label": "after"}
+]

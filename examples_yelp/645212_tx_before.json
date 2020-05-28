@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "had", "anything", "like", "this", "before", "so", "I", "cant", "say", "it", "was", "the", "best", ",", "but", "awesome", "choice", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "say", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "the", "thinner", "kind", "...", "im", "thinking", "maybe", "I", "need", "to", "try", "the", "thick", "noodles", "before", "I", "truely", "render", "my", "verdict", "about", "this", "place", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "render", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Took", "almost", "10", "minutes", "before", "we", "were", "even", "greeted", "then", "when", "we", "asked", "to", "sit", "out", "side", "the", "hostess", "looked", "annoyed", "and", "said", "she", "would", "have", "to", "see", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "were", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "waited", "almost", "20", "minutes", "before", "anyone", "even", "acknowledged", "us", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "acknowledged", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "went", "back", "around", "to", "the", "front", "and", "were", "ignored", "for", "another", "5", "minutes", "before", "the", "hostess", "came", "back", "around", "and", "rudely", "asks", "''", "``", "What", "?!", "''", "''", "We", "asked", "for", "a", "manager", "she", "rolled", "her", "eyes", "and", "replied", "''", "``", "that", "is", "me", ".", "''", "''"], "e1_text": "ignored", "e1_pos": 9, "e2_text": "came", "e2_pos": 17, "label": "before"}
+]

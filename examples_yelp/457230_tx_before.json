@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "used", "to", "be", "DELICIOUS", "!!!", "I", "picked", "up", "my", "food", "to", "go", "and", "waited", "quite", "a", "bit", "before", "anyone", "even", "said", "hello", ",", "or", "took", "my", "order", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "said", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "will", "give", "it", "a", "little", "bit", "before", "I", "return", ",", "IF", "I", "return", ",", "I", "really", "do", "applaud", "the", "owners", "of", "their", "concept", "especially", "on", "the", "GMO", "issue", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "return", "e2_pos": 9, "label": "before"}
+]

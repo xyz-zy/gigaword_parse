@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "that", "I", "am", "looking", "to", "rent", "somewhere", "else", "-LRB-", "after", "being", "out", "of", "this", "place", "for", "a", "while", "now", "-RRB-", ",", "they", "have", "new", "management", "and", "apparently", "I", "'ve", "never", "lived", "here", "."], "e1_text": "rent", "e1_pos": 6, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "-LRB-", "3", "-RRB-", ":", "If", "you", "have", "a", "reservation", ",", "you", "can", "check", "in", "with", "the", "host", "downstairs", "before", "getting", "inside", "the", "elevator", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "getting", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "think", "twice", "before", "you", "dine", "here", "."], "e1_text": "think", "e1_pos": 1, "e2_text": "dine", "e2_pos": 5, "label": "before"}
+]

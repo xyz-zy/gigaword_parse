@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "completed", "the", "job", "in", "about", "30", "minutes", "and", "made", "sure", "all", "drains", "and", "toilets", "were", "draining", "and", "flushing", "properly", "before", "leaving", "."], "e1_text": "flushing", "e1_pos": 18, "e2_text": "leaving", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "told", "her", "I", "felt", "like", "I", "was", "due", "some", "type", "of", "credit", "as", "this", "was", "a", "serious", "hygiene", "issue", "that", "should", "have", "been", "cleaned", "up", "before", "he", "left", "and", "I", "was", "left", "to", "spend", "my", "own", "time", "to", "try", "and", "clean", "the", "mess", "up", "."], "e1_text": "cleaned", "e1_pos": 24, "e2_text": "left", "e2_pos": 28, "label": "before"},
+{"tokens": ["If", "you", "do", "use", "this", "company", ",", "I", "would", "strongly", "advise", "that", "you", "visually", "inspect", "all", "areas", "of", "work", "before", "they", "leave", "."], "e1_text": "inspect", "e1_pos": 14, "e2_text": "leave", "e2_pos": 21, "label": "before"}
+]

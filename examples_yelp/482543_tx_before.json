@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "tell", "it", "family", "owned", "&", "operated", "before", "you", "even", "walk", "in", "the", "door", "."], "e1_text": "operated", "e1_pos": 7, "e2_text": "walk", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "felt", "like", "I", "was", "going", "to", "fall", "into", "a", "food", "coma", "before", "the", "fried", "goodness", "came", "out", "but", "I", "could", "n't", "stop", "putting", "them", "in", "my", "mouth", "."], "e1_text": "fall", "e1_pos": 7, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

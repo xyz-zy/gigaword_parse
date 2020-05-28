@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "ideal", "for", "a", "quick", "drink", "or", "bite", "to", "eat", "before", "heading", "to", "a", "show", "at", "the", "Playhouse", ",", "or", "before", "catching", "a", "train", "at", "Waverley", "station", "located", "5", "minutes", "away", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "suggest", "more", "training", "on", "the", "deli", "equipment", "before", "someone", "is", "in", "need", "of", "stitches", "from", "the", "slicing", "wheel", "."], "e1_text": "suggest", "e1_pos": 2, "e2_text": "is", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "girl", "making", "my", "sandwich", "was", "having", "a", "hard", "time", "as", "a", "result", "of", "the", "previously", "mentioned", "hard", "portion", "and", "nearly", "pushed", "her", "finger", "into", "the", "wheel", "before", "deciding", "to", "shut", "it", "off", "while", "she", "fussed", "over", "the", "meat", "."], "e1_text": "pushed", "e1_pos": 21, "e2_text": "deciding", "e2_pos": 28, "label": "before"}
+]

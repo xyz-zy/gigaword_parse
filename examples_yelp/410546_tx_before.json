@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "order", "a", "salad", "to", "go", "one", "afternoon", ",", "I", "was", "close", "to", "this", "location", ",", "and", "I", "thought", ",", "''", "``", "why", "not", ",", "I", "'ve", "enjoyed", "the", "salad", "at", "hooters", "before", ".", "''", "''"], "e1_text": "order", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 28, "label": "before"},
+{"tokens": ["Other", "locations", "have", "done", "this", "for", "me", "before", "so", "I", "did", "n't", "think", "it", "was", "going", "to", "be", "an", "issue", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

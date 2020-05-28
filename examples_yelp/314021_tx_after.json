@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "time", "wonderful", ",", "second", "time", "ok", ",", "third", "time", "I", "had", "to", "leave", "the", "room", "after", "hearing", "the", "tech", "talk", "about", "a", "co-workers", "pit", "bull", "biting", "her", "and", "wanting", "to", "punch", "the", "owner", "."], "e1_text": "leave", "e1_pos": 13, "e2_text": "hearing", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "'s", "been", "two", "weeks", "my", "dog", "now", "has", "a", "raging", "ear", "infection", "even", "after", "receiving", "no", "help", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "receiving", "e2_pos": 15, "label": "after"}
+]

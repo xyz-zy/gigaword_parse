@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "second", "thing", "is", "he", "would", "n't", "take", "debit", "card", "EVEN", "THOUGH", "it", "was", "a", "`", "visa", "'", "card", ",", "and", "after", "a", "debate", "he", "finally", "got", "his", "manager", "who", "said", "ok", "we", "'ll", "take", "it", "and", "hey", "presto", "the", "charges", "went", "through", "fine", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "ok", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "made", "it", "seemed", "like", "I", "needed", "to", "have", "the", "procedure", "done", "ASAP", "before", "my", "eyes", "got", "worse", "."], "e1_text": "done", "e1_pos": 11, "e2_text": "got", "e2_pos": 16, "label": "before"},
+{"tokens": ["She", "also", "told", "me", "she", "needed", "a", "$", "100", "deposit", "before", "I", "left", "today", "if", "I", "decided", "to", "go", "with", "them", "."], "e1_text": "needed", "e1_pos": 5, "e2_text": "left", "e2_pos": 12, "label": "before"}
+]

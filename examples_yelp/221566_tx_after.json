@@ -1,0 +1,4 @@
+[
+{"tokens": ["Others", "who", "ordered", "after", "me", "got", "theirs", "prior", ",", "so", "an", "''", "``", "F", "for", "service", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "got", "e2_pos": 5, "label": "after"},
+{"tokens": ["needless", "to", "say", "after", "dropping", "over", "25", "bucks", "for", "one", "pie", "and", "some", "water", ",", "I", "will", "not", "be", "back", "there", "again", "!"], "e1_text": "say", "e1_pos": 2, "e2_text": "dropping", "e2_pos": 4, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Excellent", "food", "and", "table", "wait", "staff", "but", "that", "really", "did", "n't", "offset", "the", "52", "minute", "wait", "to", "be", "seated", "after", "being", "told", "the", "wait", "would", "be", "20", "minutes", "."], "e1_text": "seated", "e1_pos": 18, "e2_text": "being", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "do", "n't", "mind", "waiting", "except", "people", "that", "came", "in", "after", "us", "got", "seated", "with", "little", "or", "no", "wait", "...", "seems", "a", "staff", "person", "would", "just", "seat", "people", "he", "saw", "standing", "regardless", "of", "the", "wait", "list", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "some", "reason", ",", "the", "waiter", "did", "not", "take", "our", "entree", "orders", "until", "20", "minutes", "after", "the", "Calamari", "appetizer", "was", "finished", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["Then", "we", "watched", "TWO", "tablefuls", "of", "diners", "who", "came", "in", "after", "we", "had", "already", "been", "seated", "get", "their", "entrees", "served", "before", "us", ",", "finish", "their", "meals", ",", "have", "their", "leftovers", "bagged", ",", "chat", "a", "bit", "while", "sipping", "wine", ",", "and", "then", "leave", "the", "premises", "before", "we", "were", "ever", "served", "any", "of", "our", "entrees", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

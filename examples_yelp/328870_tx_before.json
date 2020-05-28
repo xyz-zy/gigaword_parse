@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "go", "into", "the", "office", "to", "pickup", "packages", "or", "pay", "rent", ",", "-LRB-", "being", "that", "they", "charge", "a", "$", "10", "fee", "if", "you", "pay", "online", "monthly", ",", "which", "is", "a", "total", "joke", "-RRB-", "you", "sit", "in", "the", "front", "office", "for", "a", "ridiculous", "amount", "of", "time", "before", "anyone", "addresses", "you", "...", "theres", "no", ":", "''", "``", "someone", "will", "be", "right", "with", "you", "or", "anything", "''", "''", "."], "e1_text": "sit", "e1_pos": 35, "e2_text": "addresses", "e2_pos": 48, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "visited", "the", "East", "Blvd", "location", "this", "week", "and", "upon", "entering", "the", "noisy", "shop", "I", "proceeded", "to", "wait", "in", "line", "quite", "some", "time", "before", "getting", "my", "order", "taken", "."], "e1_text": "proceeded", "e1_pos": 15, "e2_text": "getting", "e2_pos": 24, "label": "before"}
+]

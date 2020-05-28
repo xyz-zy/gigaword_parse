@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "the", "practical", "girls", "that", "we", "were", ",", "we", "figured", "we", "should", "at", "least", "get", "some", "food", "in", "our", "stomachs", "before", "another", "night", "of", "drinking", "began", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "began", "e2_pos": 25, "label": "before"},
+{"tokens": ["Well", ",", "in", "the", "end", ",", "the", "food", "probably", "made", "us", "feel", "a", "little", "more", "nauseous", "than", "we", "were", "before", "eating", "."], "e1_text": "feel", "e1_pos": 11, "e2_text": "were", "e2_pos": 18, "label": "before"}
+]

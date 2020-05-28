@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "one", "of", "the", "waitresses", "that", "came", "by", "ended", "up", "pouring", "a", "half", "glass", "of", "still", "water", "into", "a", "glass", "of", "sparkling", "water", "without", "asking", "before", "pouring", "."], "e1_text": "asking", "e1_pos": 25, "e2_text": "pouring", "e2_pos": 11, "label": "before"}
+]

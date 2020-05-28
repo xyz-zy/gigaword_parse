@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "to", "watch", "out", "for", ":", "It", "'s", "worth", "it", "to", "do", "a", "quick", "walk-through", "and", "check", "out", "prices", "and", "quality", "before", "you", "commit", "to", "purchasing", "your", "fruits", "and", "veggies", "."], "e1_text": "'s", "e1_pos": 7, "e2_text": "commit", "e2_pos": 23, "label": "before"},
+{"tokens": ["Some", "vendors", "do", "n't", "like", "you", "to", "taste", "their", "fruit", "before", "you", "buy", "it", "."], "e1_text": "taste", "e1_pos": 7, "e2_text": "buy", "e2_pos": 12, "label": "before"}
+]

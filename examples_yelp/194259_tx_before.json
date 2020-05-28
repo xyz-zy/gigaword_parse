@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "the", "chef", "insists", "on", "keeping", "his", "hearty", "menu", ",", "he", "'d", "do", "well", "to", "close", "for", "the", "summer", "and", "wait", "for", "the", "weather", "to", "cool", "off", "before", "serving", "his", "stick-to-your-ribs", "fare", "."], "e1_text": "cool", "e1_pos": 25, "e2_text": "serving", "e2_pos": 28, "label": "before"},
+{"tokens": ["Hopefully", "these", "changes", "will", "occur", "before", "T-C", "shutters", "its", "doors", "for", "good", "."], "e1_text": "occur", "e1_pos": 4, "e2_text": "shutters", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "sent", "my", "bill", "to", "a", "wrong", "address", "-LRB-", "it", "ended", "up", "with", "a", "neighbor", "since", "it", "was", "a", "digit", "off", "-RRB-", "and", "then", "sent", "it", "to", "collections", "before", "talking", "to", "me", "."], "e1_text": "sent", "e1_pos": 1, "e2_text": "talking", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "lady", "came", "in", "while", "I", "was", "waiting", ",", "knew", "someone", "that", "worked", "there", ",", "left", "within", "10", "mins", "after", "that", "with", "her", "smog", "done", "."], "e1_text": "left", "e1_pos": 15, "e2_text": "done", "e2_pos": 24, "label": "after"}
+]

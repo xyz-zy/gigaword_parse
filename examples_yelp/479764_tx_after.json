@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "moving", "back", "to", "da", "burgh", "after", "living", "in", "South", "Florida", ",", "where", "diners", "made", "THE", "best", "burgers", "in", "that", "end", "of", "the", "third-world-state", ",", "I", "was", "really", "disappointed", "in", "my", "options", "for", "getting", "a", "REAL", "burger", "."], "e1_text": "moving", "e1_pos": 1, "e2_text": "living", "e2_pos": 7, "label": "after"}
+]

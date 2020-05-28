@@ -1,0 +1,3 @@
+[
+{"tokens": ["Got", "here", "on", "time", "and", "had", "to", "wait", "45", "minutes", "before", "finding", "out", "our", "customer", "rep", "was", "a", "no", "show", "and", "was", "transferred", "to", "a", "very", "rude", ";", "''", "``", "I", "am", "doing", "you", "a", "favor", "by", "doing", "this", "rep.", "''", "''", "After", "talking", "to", "her", "the", "price", "jump", "to", "nearly", "double", ",", "but", "we", "were", "in", "a", "bind", "and", "needed", "to", "get", "it", "installed", "."], "e1_text": "wait", "e1_pos": 7, "e2_text": "finding", "e2_pos": 11, "label": "before"}
+]

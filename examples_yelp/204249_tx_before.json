@@ -1,0 +1,4 @@
+[
+{"tokens": ["Excellent", "decision", ",", "the", "patio", "was", "perfect", "before", "the", "hot", "hot", "heat", "-LRB-", "not", "the", "band", "-RRB-", "arrived", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 17, "label": "before"},
+{"tokens": ["i", "glanced", "through", "some", "Yelp", "reviews", "before", "heading", "here", "and", "happened", "to", "remember", "someone", "saying", "the", "Garlic", "Knots", "were", "''", "``", "TO", "DIE", "FOR", "''", "''", "."], "e1_text": "glanced", "e1_pos": 1, "e2_text": "heading", "e2_pos": 7, "label": "before"}
+]

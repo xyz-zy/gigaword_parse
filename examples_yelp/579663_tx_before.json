@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sitting", "near", "the", "front", "door", "creates", "a", "more", "pleasing", "a", "friendly", "atmosphere", "for", "big", "groups", ",", "but", "sometimes", "the", "fresh", "plates", "do", "n't", "make", "it", "to", "you", "before", "it", "'s", "picked", "over", "!"], "e1_text": "make", "e1_pos": 23, "e2_text": "'s", "e2_pos": 29, "label": "before"},
+{"tokens": ["Only", "downside", "here", "is", "it", "takes", "quite", "a", "while", "for", "drinks", "to", "arrive", ",", "and", "then", "you", "usually", "have", "to", "ask", "for", "you", "check", "-", "tip", ":", "ask", "for", "your", "check", "5-10", "minutes", "before", "you", "actually", "want\\/need", "to", "leave", "."], "e1_text": "ask", "e1_pos": 20, "e2_text": "want\\/need", "e2_pos": 36, "label": "before"}
+]

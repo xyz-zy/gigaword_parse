@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "times", "I", "came", "-LRB-", "in", "15", "min", "-RRB-", "pizzas", "were", "cold", "or", "almost", "cold", "!!", "Like", "they", "were", "ready", "way", "before", "I", "came", "."], "e1_text": "were", "e1_pos": 10, "e2_text": "came", "e2_pos": 3, "label": "before"}
+]

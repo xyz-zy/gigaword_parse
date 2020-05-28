@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "n't", "want", "to", "complain", "--", "we", "had", "places", "to", "go", "--", "but", "he", "craftily", "split", "everything", "at", "the", "table", "on", "the", "checks", "before", "we", "even", "asked", ";", "he", "split", "the", "massive", "margarita", "into", "6", ",", "the", "nachos", "into", "3", ",", "a", "last-minute", "pitcher", "of", "margz", "into", "2", ",", "and", "another", "entree", "into", "2", "or", "3", "."], "e1_text": "split", "e1_pos": 16, "e2_text": "asked", "e2_pos": 27, "label": "before"}
+]

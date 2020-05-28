@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "damaged", "my", "oil", "pan", ",", "lied", "and", "stated", "it", "was", "dented", "and", "needed", "to", "be", "replaced", ",", "after", "several", "oil", "changes", "that", "required", "me", "to", "go", "back", "as", "my", "car", "continued", "to", "leak", "oil", ",", "I", "was", "finally", "informed", "that", "my", "pan", "was", "stripped", ",", "not", "dented", "at", "all", "."], "e1_text": "needed", "e1_pos": 13, "e2_text": "required", "e2_pos": 23, "label": "after"}
+]

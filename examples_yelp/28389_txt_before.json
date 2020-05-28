@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", "I", "remember", "a", "time", "when", "he", "ordered", "#", "52", "with", "beef", "before", "got", "it", "with", "chicken", "instead", "and", "they", "brought", "him", "an", "entire", "2nd", "meal", "because", "of", "the", "error", "."], "e1_text": "ordered", "e1_pos": 8, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

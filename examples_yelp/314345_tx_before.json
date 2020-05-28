@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "hubby", "and", "I", "headed", "downtown", "and", "were", "STARVING", "so", "before", "dropping", "loads", "of", "cash", "gambling", ",", "we", "popped", "into", "Lucky", "7s", ",", "where", "they", "boast", "a", "full", "buffet", "for", "$", "7.77", "."], "e1_text": "STARVING", "e1_pos": 8, "e2_text": "dropping", "e2_pos": 11, "label": "before"},
+{"tokens": ["Having", "paid", "$", "25", "for", "Imperial", "Palace", "'s", "buffet", "the", "day", "before", ",", "this", "was", "BEYOND", "a", "steal", "and", "while", "I", "expected", "it", "to", "be", "A", "LOT", "worse", ",", "it", "was", "actually", "better", "!!", "Smaller", "...", "yes", "!"], "e1_text": "paid", "e1_pos": 1, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

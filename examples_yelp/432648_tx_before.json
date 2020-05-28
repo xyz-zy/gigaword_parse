@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "all", "came", "out", "and", "had", "their", "names", "on", "the", "list", "with", "their", "songs", "before", "they", "even", "arrived", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "arrived", "e2_pos": 17, "label": "before"},
+{"tokens": ["But", ",", "eat", "before", "you", "come", ",", "cause", "the", "food", "is", "just", "ok", "."], "e1_text": "eat", "e1_pos": 2, "e2_text": "come", "e2_pos": 5, "label": "before"}
+]

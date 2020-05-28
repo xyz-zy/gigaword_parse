@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "driver", ",", "to", "my", "surprise", ",", "pulls", "into", "my", "hotel", "after", "making", "just", "one", "stop", "."], "e1_text": "pulls", "e1_pos": 7, "e2_text": "making", "e2_pos": 12, "label": "after"},
+{"tokens": ["Expecting", "a", "tip", "after", "what", "just", "happened", "?"], "e1_text": "Expecting", "e1_pos": 0, "e2_text": "happened", "e2_pos": 6, "label": "after"}
+]

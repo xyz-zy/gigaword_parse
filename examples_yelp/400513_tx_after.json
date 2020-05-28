@@ -1,0 +1,5 @@
+[
+{"tokens": ["About", "25", "minutes", "later", "several", "people", "are", "now", "sitting", "at", "the", "bar", "high", "tops", "and", "some", "of", "them", "are", "eating", "and", "a", "couple", "of", "guys", "who", "sat", "down", "after", "us", "were", "already", "finished", "with", "their", "meal", "."], "e1_text": "sat", "e1_pos": 26, "e2_text": "were", "e2_pos": 30, "label": "after"},
+{"tokens": ["We", "call", "our", "server", "over", "and", "tell", "him", "that", "people", "who", "sat", "down", "after", "are", "already", "finished", "with", "their", "meal", ",", "he", "says", "''", "``", "Oh", ",", "do", "n't", "worry", "your", "food", "will", "be", "right", "out", ".", "''", "''"], "e1_text": "sat", "e1_pos": 11, "e2_text": "says", "e2_pos": 22, "label": "after"},
+{"tokens": ["At", "this", "point", "we", "ca", "n't", "tolerate", "anymore", "incompetence", "so", "we", "leave", "hungry", "after", "waiting", "over", "45", "mins", "."], "e1_text": "leave", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

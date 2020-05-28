@@ -1,0 +1,3 @@
+[
+{"tokens": ["Another", "example", "a", "store", "I", "shopped", "at", "in", "California", "before", "moving", "here", "had", "Knudsen", "'s", "Organic", "Recharge", "on", "sale", "from", "early", "spring", "to", "the", "end", "of", "fall", "season", "as", "a", "loss", "leader", "for", "$", "1.59", "a", "quart", "for", "six", "months", "."], "e1_text": "shopped", "e1_pos": 5, "e2_text": "moving", "e2_pos": 10, "label": "before"}
+]

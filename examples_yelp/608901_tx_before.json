@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "they", "left", "it", "there", "knowing", "it", "'d", "be", "a", "while", "before", "they", "came", "around", "again", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "came", "e2_pos": 14, "label": "before"},
+{"tokens": ["Since", "it", "was", "a", "large", "group", ",", "they", "presumed", "we", "were", "all", "just", "sitting", "around", "mingling", "except", "we", "waiting", "an", "hour", "before", "getting", "asked", "if", "we", "wanted", "entrees", "."], "e1_text": "waiting", "e1_pos": 18, "e2_text": "getting", "e2_pos": 22, "label": "before"}
+]

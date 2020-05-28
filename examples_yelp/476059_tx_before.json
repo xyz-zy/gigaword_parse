@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "waitress", "actually", "was", "just", "sitting", "up", "front", "wrapping", "silverware", "for", "a", "good", "15", "min", "before", "I", "finally", "hollered", "her", "over", "to", "take", "my", "order", "-LRB-", "never", "done", "that", "before", ",", "next", "time", "I", "will", "leave", "first", "-RRB-", "the", "only", "reason", "I", "bothered", "was", "because", "the", "reviews", "lead", "me", "to", "think", "it", "might", "be", "worth", "it", "."], "e1_text": "sitting", "e1_pos": 5, "e2_text": "hollered", "e2_pos": 18, "label": "before"}
+]

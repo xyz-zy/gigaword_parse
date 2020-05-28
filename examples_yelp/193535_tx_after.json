@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "first", "waited", "for", "her", "to", "finish", "unloading", "the", "car", ",", "assuming", "she", "would", "move", "the", "car", "after", "she", "was", "done", "."], "e1_text": "move", "e1_pos": 14, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

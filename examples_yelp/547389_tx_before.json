@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "there", "a", "few", "nights", "ago", "with", "family", "and", "friends", "and", "we", "literally", "sat", "there", "and", "chatted", "for", "an", "hour", "before", "I", "finally", "made", "eye", "contact", "with", "our", "waitress", "like", "''", "``", "HEY", "WE", "'RE", "READY", "''", "''", "."], "e1_text": "chatted", "e1_pos": 16, "e2_text": "made", "e2_pos": 23, "label": "before"}
+]

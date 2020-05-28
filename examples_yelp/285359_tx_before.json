@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "brownies", "are", "soft", "and", "moist", "and", "taste", "amazing", "if", "you", "take", "them", "out", "of", "the", "fridge", "a", "few", "minutes", "before", "eating", "them", "."], "e1_text": "take", "e1_pos": 11, "e2_text": "eating", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "told", "her", "the", "reason", "we", "came", "in", "was", "to", "try", "the", "brownies", "before", "ordering", "some", "for", "Mothers", "Day", ",", "and", "also", "of", "course", ",", "to", "buy", "some", "for", "ourselves", "and", "she", "did", "n't", "even", "offer", "us", "a", "sample", ",", "and", "there", "was", "a", "tray", "of", "them", "right", "on", "the", "counter", "."], "e1_text": "try", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 14, "label": "before"}
+]

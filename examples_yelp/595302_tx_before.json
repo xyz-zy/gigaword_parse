@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "called", "reservations", "and", "the", "front", "desk", "before", "booking", "the", "room", "to", "confirm", "that", "this", "is", "true", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "booking", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "promptly", "replied", "that", "I", "spoke", "with", "several", "representatives", "of", "the", "hotel", "before", "arriving", "and", "they", "stated", "otherwise", "."], "e1_text": "spoke", "e1_pos": 5, "e2_text": "arriving", "e2_pos": 13, "label": "before"},
+{"tokens": ["Yet", "another", "representative", "said", "they", "could", "not", "move", "us", "to", "a", "different", "room", "-", "even", "though", "the", "room", "we", "were", "in", "should", "have", "been", "cleaned", "before", "we", "arrived", "."], "e1_text": "cleaned", "e1_pos": 24, "e2_text": "arrived", "e2_pos": 27, "label": "before"},
+{"tokens": ["The", "bartenders", "fill", "the", "24oz", "cup", "with", "ice", "and", "pour", "3oz", "of", "liquor", "at", "the", "bottom", "then", "fill", "it", "to", "the", "top", "with", "a", "mixer", "...", "come", "on", "son", "...", "My", "advice", "is", "pre-game", "before", "you", "go", "."], "e1_text": "is", "e1_pos": 32, "e2_text": "go", "e2_pos": 36, "label": "before"}
+]

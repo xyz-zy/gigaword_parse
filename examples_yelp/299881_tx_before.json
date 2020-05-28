@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "quite", "a", "few", "reviews", "before", "I", "ended", "up", "eating", "here", "and", "to", "say", "the", "least", "I", "was", "n't", "excited", "about", "it", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "ended", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "bread", "was", "a", "little", "chewy", "\\/", "soggy", "i", "had", "a", "couple", "bites", "before", "pushing", "it", "aside", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "pushing", "e2_pos": 14, "label": "before"}
+]

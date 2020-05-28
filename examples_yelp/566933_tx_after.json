@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitor", "forgot", "about", "our", "food", ",", "we", "did", "n't", "have", "to", "pay", "for", "it", "in", "the", "end", ",", "but", "we", "had", "a", "very", "exhausting", "day", "and", "were", "starving", "and", "got", "the", "food", "50", "minutes", "after", "we", "ordered", "."], "e1_text": "got", "e1_pos": 30, "e2_text": "ordered", "e2_pos": 37, "label": "after"}
+]

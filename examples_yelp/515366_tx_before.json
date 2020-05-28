@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "try", "this", "place", "on", "a", "quick", "pit", "stop", "while", "running", "errands", "before", "heading", "to", "work", ",", "and", "did", "so", "based", "on", "what", "some", "others", "here", "said", "."], "e1_text": "running", "e1_pos": 12, "e2_text": "heading", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "burgers", "are", "good", ",", "however", "when", "the", "cook", "slapped", "mine", "on", "the", "flattop", "before", "moving", "it", "to", "the", "grill", "I", "was", "n't", "really", "impressed", "."], "e1_text": "slapped", "e1_pos": 9, "e2_text": "moving", "e2_pos": 15, "label": "before"}
+]

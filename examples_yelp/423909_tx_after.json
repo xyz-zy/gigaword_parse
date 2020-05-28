@@ -1,0 +1,5 @@
+[
+{"tokens": ["She", "was", "exasperated", "by", "the", "fact", "that", "they", "had", "n't", "told", "her", "until", "after", "she", "had", "put", "in", "the", "order", "but", "reassured", "my", "fiance", "that", "she", "would", "get", "extra", "shrimp", "in", "her", "meal", "instead", "of", "the", "scallops", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "had", "e2_pos": 8, "label": "after"},
+{"tokens": ["Even", "though", "I", "did", "not", "ask", "my", "fiance", "if", "she", "enjoyed", "her", "meal", "I", "could", "tell", "that", "she", "did", "as", "she", "ate", "all", "of", "the", "pasta", "sauce", ",", "even", "after", "the", "pasta", "was", "gone", "."], "e1_text": "ate", "e1_pos": 21, "e2_text": "was", "e2_pos": 32, "label": "after"},
+{"tokens": ["The", "issue", "with", "waiting", "for", "quite", "a", "long", "time", "after", "we", "were", "finished", "bumped", "down", "the", "overall", "rating", "for", "me", "as", "it", "was", "an", "experience", "I", "hope", "to", "not", "have", "repeated", "again", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["OH", "it", "gets", "better", "there", "a", "smash", "to", "the", "font", "of", "my", "car", "that", "was", "never", "there", "before", "!!!", "My", "boyfriend", "is", "gon", "na", "be", "FURIOUS", "!"], "e1_text": "was", "e1_pos": 14, "e2_text": "!!!", "e2_pos": 18, "label": "before"},
+{"tokens": ["AND", "there", "scratch", "marks", "all", "over", "my", "car", "that", "was", "never", "there", "before", "!"], "e1_text": "scratch", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

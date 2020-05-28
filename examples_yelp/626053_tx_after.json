@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "experience", "got", "worse", "after", "I", "checked", "in", "and", "then", "I", "had", "to", "wait", "in", "line", "another", "20", "minutes", "at", "the", "World", "Tower", "Elevator", "bank", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "checked", "e2_pos": 6, "label": "after"},
+{"tokens": ["After", "almost", "of", "hour", "of", "waiting", "after", "arriving", "at", "the", "hotel", ",", "I", "get", "to", "the", "room", ",", "where", "I", "was", "impressed", "."], "e1_text": "waiting", "e1_pos": 5, "e2_text": "arriving", "e2_pos": 7, "label": "after"}
+]

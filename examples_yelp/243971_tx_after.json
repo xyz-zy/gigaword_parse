@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "pizza", "tonight", "came", "an", "hour", "and", "15", "minutes", "after", "the", "order", "was", "placed", "-LRB-", "we", "were", "told", "30-45", "min", "-RRB-", ",", "and", "the", "pizza", "was", "very", "cold", "when", "it", "finally", "got", "here", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

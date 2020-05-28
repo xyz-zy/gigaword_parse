@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "try", "to", "come", "here", "at", "least", "once", "every", "other", "vegas", "trip", ",", "once", "me", "and", "my", "buddies", "came", "here", "twice", "in", "1", "day", ",", "before", "and", "after", "clubbing", ",", "its", "just", "good", "."], "e1_text": "came", "e1_pos": 18, "e2_text": "clubbing", "e2_pos": 28, "label": "before"},
+{"tokens": ["The", "broken", "rice", "dish", "here", "is", "ok", ",", "nothing", "crazy", "special", ",", "same", "with", "the", "egg", "rolls", ",", "the", "wait", "is", "pretty", "long", "on", "Sundays", "in", "the", "11-12", "time", ",", "I", "guess", "its", "a", "good", "hang", "over", "food", "before", "you", "head", "back", "home", "."], "e1_text": "guess", "e1_pos": 31, "e2_text": "head", "e2_pos": 40, "label": "before"}
+]

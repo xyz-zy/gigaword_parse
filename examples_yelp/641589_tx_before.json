@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "in", "the", "far", "corner", "playing", "video", "poker", ",", "and", "on", "both", "nights", "the", "cocktail", "waitresses", "were", "ready", "to", "take", "my", "drink", "order", "before", "I", "even", "finished", "my", "corona", "!"], "e1_text": "take", "e1_pos": 20, "e2_text": "finished", "e2_pos": 27, "label": "before"}
+]

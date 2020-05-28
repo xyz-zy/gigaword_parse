@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "can", "believe", "how", "overprized", "this", "place", "is", "...", "a", "co-worker", "ordered", "a", "10", "piece", "roll", "and", "a", "drink", "and", "was", "charged", "$", "17", "!!", "I", "paid", "$", "19", "dollars", "!!", "WTF", "!!", "I", "didnt", "even", "get", "a", "drink", "and", "she", "did", "!!!", "Fuck", "this", "place", "first", "and", "last", "time", "!!", "The", "roll", "fell", "apart", "before", "I", "even", "picked", "it", "up", ".", "."], "e1_text": "fell", "e1_pos": 53, "e2_text": "picked", "e2_pos": 58, "label": "before"}
+]

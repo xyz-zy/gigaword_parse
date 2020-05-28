@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "just", "went", "somewhere", "else", "before", "getting", "any", "prices", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "getting", "e2_pos": 7, "label": "before"},
+{"tokens": ["She", "then", "tried", "to", "make", "VERY", "uncomfortable", "small", "talk", "in", "which", "I", "told", "her", "about", "the", "conversation", "I", "'d", "had", "w", "\\/", "Cherish", "the", "week", "before", "in", "which", "she", "informed", "me", "that", "I", "should", "''", "``", "Just", "wait", ",", "since", "were", "doing", "you", "a", "favor", "and", "all", "."], "e1_text": "w", "e1_pos": 20, "e2_text": "informed", "e2_pos": 29, "label": "before"}
+]

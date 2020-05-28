@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "two", "star", "review", "reflects", "my", "disappointment", "after", "having", "such", "high", "hopes", "for", "Tanzy", "."], "e1_text": "reflects", "e1_pos": 4, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["Calamari", "steaks", "cut", "into", "French", "fry", "shapes", "and", "sauteed", "does", "not", "translate", "into", "the", "grilled", "calamari", "I", "had", "deceptively", "perceived", "after", "reading", "the", "menu", "."], "e1_text": "perceived", "e1_pos": 19, "e2_text": "reading", "e2_pos": 21, "label": "after"}
+]

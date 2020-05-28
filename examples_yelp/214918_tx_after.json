@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "the", "English", "IS", "better", "than", "the", "French", "after", "all", "!!!", "Here", ",", "the", "Sandwiches", "were", "OK", "-LRB-", "my", "Friend", "'s", "order", "-RRB-", "!!", "I", "ordered", "the", "French", "Onion", "Soup", "."], "e1_text": "IS", "e1_pos": 4, "e2_text": "!!!", "e2_pos": 11, "label": "after"}
+]

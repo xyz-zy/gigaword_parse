@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "actually", "feels", "pretty", "darn", "good", "o.o", "I", "have", "had", "a", "Sports", "massage", "before", "and", "I", "would", "compare", "this", "massage", "to", "a", "Sports", "and", "Shiatsu", "massage", "."], "e1_text": "feels", "e1_pos": 2, "e2_text": "have", "e2_pos": 8, "label": "before"},
+{"tokens": ["-", "CASH", "ONLY", "-", "I", "would", "call", "and", "make", "a", "reservation", "before", "you", "want", "to", "come", "in", "."], "e1_text": "call", "e1_pos": 6, "e2_text": "want", "e2_pos": 13, "label": "before"}
+]

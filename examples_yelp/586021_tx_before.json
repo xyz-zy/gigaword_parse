@@ -1,0 +1,4 @@
+[
+{"tokens": ["Be", "sure", "to", "check", "in", "at", "the", "front", "before", "you", "wait", "in", "the", "line", "they", "have", "marked", "off", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "wait", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "comes", "with", "duck", "breast", "bacon", "-LRB-", "never", "had", "this", "before", "but", "it", "was", "delicious", "-RRB-", ",", "English", "sharp", "cheddar", ",", "and", "a", "fried", "egg", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

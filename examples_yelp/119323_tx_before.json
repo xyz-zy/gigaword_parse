@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "lot", "of", "drunk", "people", "who", "are", "either", ":", "a", "-RRB-", "at", "the", "end", "of", "a", "weekend", "bender", "b", "-RRB-", "just", "getting", "to", "vegas", ",", "took", "a", "ton", "of", "shots", "before", "boarding", "their", "plane", ",", "and", "got", "hit", "with", "drunkness", "on", "their", "flight", "over", "Also", ",", "I", "hate", "the", "slot", "machines", "."], "e1_text": "took", "e1_pos": 25, "e2_text": "boarding", "e2_pos": 31, "label": "before"}
+]

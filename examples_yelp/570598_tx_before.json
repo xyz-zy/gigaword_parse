@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*\\*", "This", "place", "does", "n't", "deserve", "ANY", "star", ",", "but", "I", "'ll", "put", "one", "on", "in", "order", "to", "complete", "the", "review", "\\*\\*\\*", "This", "place", "is", "effen", "bullshit", "!!!", "They", "would", "schedule", "a", "reservation", "one", "minute", "before", "they", "close", "."], "e1_text": "schedule", "e1_pos": 30, "e2_text": "close", "e2_pos": 37, "label": "before"}
+]

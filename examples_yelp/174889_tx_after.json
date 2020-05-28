@@ -1,0 +1,4 @@
+[
+{"tokens": ["Go", "only", "late", "at", "night", "and", "go", "only", "in", "need", "of", "food", "after", "hitting", "the", "table", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "hitting", "e2_pos": 13, "label": "after"},
+{"tokens": ["s", "We", "came", "here", "for", "our", "first", "meal", "after", "making", "the", "drive", "in", ",", "and", "it", "satisfied", ",", "but", "I", "have", "a", "feeling", "it", "would", "'ve", "have", "been", "even", "better", "after", "we", "were", "a", "smidge", "more", "bleary", "eyed", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "making", "e2_pos": 9, "label": "after"}
+]

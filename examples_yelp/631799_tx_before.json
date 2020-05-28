@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "heard", "the", "lady", "with", "her", "two", "kids", "who", "ordered", "before", "me", "ask", "if", "they", "could", "have", "some", "garlic", "knots", ",", "but", "the", "employee", "said", "they", "did", "n't", "have", "any", "."], "e1_text": "ordered", "e1_pos": 10, "e2_text": "ask", "e2_pos": 13, "label": "before"}
+]

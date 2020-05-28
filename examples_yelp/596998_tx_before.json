@@ -1,0 +1,4 @@
+[
+{"tokens": ["Two", "of", "them", "were", "on", "the", "ramp", "going", "down", "to", "the", "dance", "floor", "and", "the", "other", "two", "slipped", "on", "stairs", "but", "caught", "themselves", "before", "completely", "falling", "."], "e1_text": "caught", "e1_pos": 21, "e2_text": "falling", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "think", "we", "'ll", "wait", "for", "a", "while", "before", "returning", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "returning", "e2_pos": 9, "label": "before"}
+]

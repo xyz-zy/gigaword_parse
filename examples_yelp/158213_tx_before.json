@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "we", "went", "there", "the", "night", "before", "the", "bad", "experience", "-RRB-", "Heres", "how", "the", "night", "went", ":", "-", "After", "just", "taking", "our", "drink", "orders", "the", "waitress", "had", "no", "idea", "who", "'s", "drinks", "went", "where", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "Heres", "e2_pos": 11, "label": "before"},
+{"tokens": ["She", "then", "picks", "up", "the", "check", "and", "says", "''", "``", "you", "have", "to", "figure", "out", "tax", "''", "''", "-LRB-", "which", "in", "all", "of", "the", "times", "we", "have", "been", "there", "we", "have", "NEVER", "had", "to", "do", "before", "-RRB-", "Even", "so", ",", "If", "we", "have", "to", "figure", "out", "tax", "why", "would", "n't", "it", "just", "be", "included", "in", "the", "price", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "had", "e2_pos": 32, "label": "before"}
+]

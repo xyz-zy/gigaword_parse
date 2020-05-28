@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "with", "Bulgogi", "-LRB-", "$", "21.95", "-RRB-", ",", "which", "came", "on", "a", "heated", "platter", "after", "I", "was", "served", "a", "large", "plate", "of", "salad", "leaf", "greens", "with", "a", "vinegar", "chili", "dressing", ",", "and", "6", "side", "dishes", "including", "potato", "salad", ",", "seaweed", "salad", ",", "spicy", "daikon", ",", "kimchee", ",", "and", "Age", "tofu", "slices", ",", "The", "bulgogi", "was", "well", "marinated", "and", "served", "with", "grilled", "green", "and", "yellow", "onions", ",", "with", "sesame", "seeds", "and", "a", "little", "oil", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

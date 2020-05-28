@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "-LRB-", "even", "at", "the", "high", "roller", "bar", "-RRB-", "that", "I", "needed", "to", "move", "3", "feet", "to", "a", "slot", "machine", ",", "order", "my", "drink", "from", "a", "cocktail", "waitress", "-LRB-", "after", "flagging", "them", "down", "-RRB-", "and", "then", "return", "to", "the", "bar", "if", "I", "wanted", "to", "play", "the", "bar", "machines", "."], "e1_text": "order", "e1_pos": 23, "e2_text": "flagging", "e2_pos": 32, "label": "after"}
+]

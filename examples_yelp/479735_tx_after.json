@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "salmon", "sandwich", "was", "good", ",", "as", "were", "the", "fries", "which", "you", "do", "get", "a", "lot", "of", "but", "after", "I", "tipped", ",", "the", "bill", "came", "to", "almost", "$", "17", "!"], "e1_text": "get", "e1_pos": 13, "e2_text": "tipped", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "all", "Allure", "Nails", "are", "created", "equal", "...", "I", "know", "this", "now", "after", "thinking", "I", "could", "go", "to", "the", "South", "Scottsdale", "location", "one", "day", "recently", "to", "save", "time", "."], "e1_text": "know", "e1_pos": 9, "e2_text": "thinking", "e2_pos": 13, "label": "after"}
+]

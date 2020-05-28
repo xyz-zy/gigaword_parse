@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "the", "restaurant", "is", "named", "after", "Michael", "Gaughan", ",", "the", "owner", "of", "the", "Coast", "Casinos", "-LRB-", "South", "Point", ",", "Sun", "Coast", ",", "etc.", "-RRB-", "It", "is", "meant", "to", "model", "old", "school", "Las", "Vegas", "culture", "and", "dining", ",", "and", "the", "place", "is", "decorated", "with", "precisely", "this", "in", "mind", "."], "e1_text": "named", "e1_pos": 7, "e2_text": "is", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "ended", "up", "sitting", "at", "the", "restaurant", "for", "more", "than", "three", "hours", "in", "our", "food-drunken", "splendor", "after", "eating", "by", "no", "exaggeration", ",", "the", "most", "decadent", "meal", "of", "our", "lives", "."], "e1_text": "sitting", "e1_pos": 3, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

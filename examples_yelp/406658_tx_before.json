@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "almost", "two", "weeks", "to", "get", "my", "computer", "back", ",", "even", "though", "it", "didnt", "even", "leave", "the", "city", "as", "it", "was", "under", "warranty", ",", "and", "they", "wanted", "to", "charge", "me", "$", "199.00", "to", "backup", "the", "few", "things", "that", "I", "had", "not", "gotten", "to", "before", "my", "computer", "crashed", "."], "e1_text": "gotten", "e1_pos": 42, "e2_text": "crashed", "e2_pos": 47, "label": "before"}
+]

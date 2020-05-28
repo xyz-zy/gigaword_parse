@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lets", "see", "where", "to", "begin", ":", "I", "arrived", "at", "the", "airport", "rental", "car", "center", "after", "flying", "out", "to", "Vegas", "with", "my", "then-fiance", "-LRB-", "now", "wife", ",", "we", "were", "doing", "the", "vegas", "wedding", "at", "the", "Strat", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "flying", "e2_pos": 15, "label": "after"}
+]

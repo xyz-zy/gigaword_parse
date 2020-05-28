@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "a", "Friday", "night", "at", "7:30", "there", "were", "only", "5", "other", "people", "in", "the", "place", "&", "after", "they", "left", "it", "was", "just", "us", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "left", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "server", "was", "odd", ",", "telling", "us", "she", "was", "a", "vegetarian", "after", "we", "ordered", "steak", "&", "chicken", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 13, "label": "after"}
+]

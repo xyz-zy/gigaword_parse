@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "left", "the", "store", "frustrated", "and", "I", "went", "back", ",", "after", "getting", "a", "text", "message", "photo", "of", "both", "the", "front", "and", "the", "back", "of", "his", "credit", "card", "-LRB-", "same", "last", "name", ",", "same", "bank", "and", "card", "as", "my", "own", "-RRB-", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "getting", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "behind", "me", "got", "my", "heated\\/re-heated", "edamame", ",", "and", "who", "knows", "who", "else", "had", "my", "batch", "heated", "and", "how", "long", "ago", "it", "was", "before", "I", "arrived", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "arrived", "e2_pos": 26, "label": "before"}
+]

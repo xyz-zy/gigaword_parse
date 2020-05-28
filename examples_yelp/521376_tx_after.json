@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "for", "our", "food", "so", "long", "that", "I", "had", "to", "leave", "for", "a", "meeting", "...", "Several", "customers", "who", "came", "in", "well", "after", "us", "received", "their", "food", "as", "we", "waited", ".", "."], "e1_text": "came", "e1_pos": 19, "e2_text": "received", "e2_pos": 24, "label": "after"}
+]

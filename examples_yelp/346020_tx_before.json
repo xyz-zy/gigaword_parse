@@ -1,0 +1,4 @@
+[
+{"tokens": ["Walk", "on", "Jean", "Talon", "to", "Henri", "Julien", "then", "make", "a", "left", "-LRB-", "we", "always", "see", "people", "standing", "lost", "on", "these", "corners", ",", "because", "you", "think", "you", "'re", "going", "to", "see", "the", "market", "before", "you", "do", "."], "e1_text": "see", "e1_pos": 14, "e2_text": "do", "e2_pos": 34, "label": "before"},
+{"tokens": ["Or", "enjoy", "=-RRB-", "http:\\/\\/www.yelp.ca\\/biz\\/plaza-saint-hubert-montreal?rl=fr", "But", "back", "to", "the", "market", "-", "from", "Jean", "Talon", ",", "make", "a", "left", "on", "Henri", "Julien", "-LRB-", "but", "check", "out", "Italmelody", "before", "you", "do", "if", "you", "'re", "a", "music", "lover", ",", "corner", "Jean", "Talon", "and", "Henri", "Julien", "-RRB-", "."], "e1_text": "check", "e1_pos": 22, "e2_text": "do", "e2_pos": 27, "label": "before"}
+]

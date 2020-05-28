@@ -1,0 +1,4 @@
+[
+{"tokens": ["Aioli", "that", "came", "with", "the", "sandwich", "had", "a", "strange", "skin", "on", "the", "top", "and", "may", "have", "sat", "around", "awhile", "before", "being", "served", "?"], "e1_text": "sat", "e1_pos": 16, "e2_text": "being", "e2_pos": 20, "label": "before"},
+{"tokens": ["We", "would", "probably", "try", "one", "of", "the", "other", "eateries", "in", "the", "area", "before", "eating", "here", "again", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "eating", "e2_pos": 13, "label": "before"}
+]

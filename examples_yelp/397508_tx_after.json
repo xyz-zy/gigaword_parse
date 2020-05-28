@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*", "Summary", "\\*\\*", "-", "After", "not", "wanting", "to", "wait", "an", "hour", "at", "Tofu", "Hut", "-LRB-", "I", "probably", "should", "of", "-RRB-", ",", "I", "went", "to", "Sura", "after", "almost", "a", "year", "of", "not", "going", "there", "."], "e1_text": "went", "e1_pos": 22, "e2_text": "going", "e2_pos": 31, "label": "after"},
+{"tokens": ["-", "Brisket", "-", "The", "brisket", "was", "not", "marbled", "well", "and", "came", "out", "tough", "after", "you", "cooked", "it", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "cooked", "e2_pos": 15, "label": "after"}
+]

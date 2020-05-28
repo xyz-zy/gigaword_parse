@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "I", "am", "finding", "it", "hard", "to", "dine", "here", "without", "enjoying", "something", "from", "the", "live", "tank", ",", "such", "as", "Dungeness", "Crab", "sold", "for", "a", "set", "price", "per", "crustacean", "-LRB-", "around", "$", "28", "-RRB-", ",", "or", "fish", "which", "are", "sold", "by", "pound", "weight", "before", "any", "inedible", "parts", "-LRB-", "for", "me", "at", "least", "-RRB-", ",", "like", "head", "or", "tail", ",", "have", "been", "cut", "off", "."], "e1_text": "sold", "e1_pos": 23, "e2_text": "have", "e2_pos": 60, "label": "before"}
+]

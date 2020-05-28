@@ -1,0 +1,4 @@
+[
+{"tokens": ["Dirty", "on", "the", "outside", "with", "sticky", "stuff", "-", "but", "we", "noted", "it", "on", "the", "paper", "before", "leaving", "."], "e1_text": "noted", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 16, "label": "before"},
+{"tokens": ["You", "can", "find", "cheaper", "gas", "within", "10miles", "and", "it", "'s", "easy", "to", "get", "to", "before", "returning", "the", "car", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "returning", "e2_pos": 15, "label": "before"}
+]

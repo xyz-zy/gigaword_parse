@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "had", "to", "call", "a", "server", "-LRB-", "after", "taking", "our", "order", ",", "we", "never", "saw", "our", "original", "server", "again", "-RRB-", "over", "for", "a", "second", "time", "to", "reminding", "him", "that", "we", "needed", "water", ",", "and", "not", "to", "mention", "no", "one", "came", "by", "to", "check", "how", "everything", "was", "at", "least", "once", "...", "the", "service", ".", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "taking", "e2_pos": 9, "label": "after"},
+{"tokens": ["Not", "to", "mention", "after", "receiving", "the", "bill", ",", "no", "server", "came", "by", "to", "take", "the", "bill", "for", "about", "10", "minutes", "."], "e1_text": "mention", "e1_pos": 2, "e2_text": "receiving", "e2_pos": 4, "label": "after"}
+]

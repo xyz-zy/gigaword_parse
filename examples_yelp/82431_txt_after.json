@@ -1,0 +1,3 @@
+[
+{"tokens": ["Told", "me", "to", "go", "by", "one", "item", "somewhere", "else", "after", "telling", "me", "they", "could", "order", "it", "for", "me", "b\\/c", "it", "was", "n't", "in", "their", "catalog", "and", "he", "did", "n't", "want", "to", "have", "to", "''", "``", "look", "for", "it", "''", "''", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "telling", "e2_pos": 10, "label": "after"}
+]

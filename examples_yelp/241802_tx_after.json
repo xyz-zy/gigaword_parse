@@ -1,0 +1,5 @@
+[
+{"tokens": ["Stopped", "in", "here", "after", "refusing", "to", "wait", "for", "Guadalajara", "and", "Gallo", "blancos", "wait", "times", "on", "a", "labor", "day", "weekend", "."], "e1_text": "Stopped", "e1_pos": 0, "e2_text": "refusing", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "tried", "this", "place", "after", "passing", "by", "it", "twice", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "passing", "e2_pos": 5, "label": "after"},
+{"tokens": ["Cashier", "was", "curious", "about", "the", "situation", "and", "took", "care", "of", "us", "otherwise", "after", "explaining", "what", "happened", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "explaining", "e2_pos": 13, "label": "after"}
+]

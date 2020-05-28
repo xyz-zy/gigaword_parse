@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "some", "time", "to", "kill", "before", "we", "caught", "a", "cab", "to", "the", "airport", "so", "we", "stopped", "in", "for", "lunch", "."], "e1_text": "kill", "e1_pos": 5, "e2_text": "caught", "e2_pos": 8, "label": "before"}
+]

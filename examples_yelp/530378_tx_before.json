@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "sometimes", "find", "myself", "imagining", "what", "a", "girl", "will", "look", "like", "in", "a", "nurse", "'s", "outfit", "before", "deciding", "to", "approach", "her", "."], "e1_text": "look", "e1_pos": 9, "e2_text": "deciding", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "cheese", "looked", "like", "it", "had", "been", "placed", "onto", "the", "burger", "the", "moment", "it", "had", "been", "handed", "to", "me", ",", "the", "onions", "had", "the", "texture", "of", "worms", "-LRB-", "Yes", ",", "I", "'ve", "eaten", "worms", "before", ".", "-RRB-"], "e1_text": "had", "e1_pos": 5, "e2_text": "'ve", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "hemmed", "and", "hawed", "at", "booking", "a", "dinner", "at", "Nobhill", "Tavern", "after", "checking", "out", "previous", "reviews", "on", "Yelp", "and", "reading", "the", "anecdotes", "of", "previous", "diners", "and", "their", "inconsistent", "service", "experiences", "."], "e1_text": "booking", "e1_pos": 5, "e2_text": "checking", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "later", "found", "out", "after", "discussing", "with", "our", "waiter", "that", "the", "chicken", "was", "primarily", "prepared", "via", "sous", "vide", ",", "with", "brief", "searing", "prior", "and", "a", "quick", "roast", "in", "the", "oven", "to", "crisp", "up", "the", "skin", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "discussing", "e2_pos": 5, "label": "after"}
+]

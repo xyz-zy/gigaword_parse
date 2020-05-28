@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "original", "plan", "was", "to", "go", "across", "the", "street", "to", "Mate", "Latte", "for", "their", "selection", "of", "waffles", "and", "crepes", ",", "however", ",", "I", "was", "up", "and", "out", "the", "door", "before", "they", "opened", "so", "I", "was", "resigned", "to", "do", "my", "groceries", "BEFORE", "eating", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "opened", "e2_pos": 31, "label": "before"}
+]

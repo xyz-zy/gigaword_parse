@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "made", "a", "reservation", "a", "week", "before", "we", "came", "into", "town", ",", "Sarah", "-LRB-", "I", "believe", "was", "her", "name", "-RRB-", "took", "all", "my", "information", "down", "and", "answered", "all", "my", "questions", "-LRB-", "most", "important", ":", "what", "time", "does", "the", "kitchen", "stop", "serving", "food", "?"], "e1_text": "made", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "were", "told", "before", "we", "left", "to", "check", "out", "the", "smoking", "area", "and", "the", "famous", "seesaw", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "left", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "had", "a", "couple", "of", "bites", "of", "everything", "before", "I", "tapped", "out", "for", "the", "night", "!"], "e1_text": "had", "e1_pos": 1, "e2_text": "tapped", "e2_pos": 10, "label": "before"}
+]

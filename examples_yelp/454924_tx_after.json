@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wanted", "to", "rate", "a", "4", "because", "the", "food", "is", "amazing", ",", "but", "service", "was", "so", "off", "today", "!!!", "We", "were", "greeted", "and", "seated", "right", "away", ",", "which", "is", "a", "plus", "for", "noon", "-LRB-", "we", "came", "at", "just", "the", "right", "time", "-", "right", "after", "the", "restaurant", "filled", "up", "-RRB-", "."], "e1_text": "came", "e1_pos": 35, "e2_text": "filled", "e2_pos": 46, "label": "after"}
+]

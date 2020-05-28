@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "next", "day", "was", "our", "check", "out", "so", "before", "we", "went", "to", "sleep", "I", "told", "my", "boyfriend", "to", "CALL", "and", "make", "sure", "we", "had", "late", "check-out", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["After", "we", "had", "checked", "out", "we", "went", "to", "the", "coffee\\/deli", "area", "to", "get", "food", "before", "we", "went", "to", "the", "airport", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "went", "e2_pos": 6, "label": "before"}
+]

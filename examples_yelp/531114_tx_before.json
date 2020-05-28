@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "they", "ca", "n't", "wipe", "their", "tables", "clean", "before", "they", "open", "for", "business", ",", "I", "can", "only", "imagine", "what", "their", "kitchen", "must", "be", "like", "."], "e1_text": "wipe", "e1_pos": 4, "e2_text": "open", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "left", "before", "even", "placing", "our", "drink", "order", "and", "headed", "over", "to", "another", "nearby", "restaurant", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "placing", "e2_pos": 4, "label": "before"}
+]

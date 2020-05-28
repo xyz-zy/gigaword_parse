@@ -1,0 +1,4 @@
+[
+{"tokens": ["Overall", ",", "it", "is", "a", "fine", "enough", "meal", "for", "a", "large", "group", "before", "going", "to", "enjoy", "the", "arcade", "at", "fairly", "reasonable", "prices", ",", "but", "some", "of", "the", "service", "standards", "are", "poor", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "going", "e2_pos": 13, "label": "before"},
+{"tokens": ["You", "have", "to", "track", "them", "down", ",", "and", "then", "have", "a", "minimum", "of", "interaction", "before", "they", "stomp", "off", "like", "you", "ruined", "their", "life", "."], "e1_text": "have", "e1_pos": 9, "e2_text": "stomp", "e2_pos": 16, "label": "before"}
+]

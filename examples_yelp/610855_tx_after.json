@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "excited", "that", "I", "braved", "the", "parking", "''", "``", "situation", "''", "''", "--", "others", "have", "described", "it", "adequately", ",", "but", "two", "weeks", "after", "opening", "they", "still", "have", "policemen", "to", "wave", "you", "and", "and", "make", "sure", "it", "'s", "safe", "for", "people", "to", "back", "out", "of", "their", "spots", "-LRB-", "if", "they", "were", "lucky", "enough", "to", "get", "one", "-RRB-", "."], "e1_text": "braved", "e1_pos": 4, "e2_text": "opening", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "'m", "glad", "I", "checked", "it", "out", "and", "I", "may", "be", "back", "in", "the", "fall", "after", "the", "novelty", "wears", "off", "--", "it", "'s", "just", "nice", "to", "see", "our", "grocery", "options", "expanding", "!!"], "e1_text": "be", "e1_pos": 10, "e2_text": "wears", "e2_pos": 18, "label": "after"}
+]

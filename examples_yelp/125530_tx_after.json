@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "even", "had", "the", "manager", "call", "back", "and", "apologize", "after", "seeing", "a", "message", "I", "left", "explaining", "my", "situation", "and", "still", "nothing", "was", "done", "."], "e1_text": "apologize", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "eventually", "replaced", "the", "plants", "myself", "after", "getting", "tired", "of", "looking", "at", "the", "dead", "ones", "."], "e1_text": "replaced", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "after"}
+]

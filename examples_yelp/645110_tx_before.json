@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "food", "took", "way", "too", "long", "to", "arrive", "-LRB-", "we", "had", "to", "ask", "the", "waiter", "about", "it", "after", "watching", "two", "tables", "who", "arrived", "after", "us", "get", "their", "food", "before", "we", "did", "-RRB-", "."], "e1_text": "get", "e1_pos": 25, "e2_text": "did", "e2_pos": 30, "label": "before"}
+]

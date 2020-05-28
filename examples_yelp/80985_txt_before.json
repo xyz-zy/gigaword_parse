@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "eventually", "brought", "our", "cat", "home", "and", "he", "survived", "another", "couple", "of", "months", "before", "inevitably", "passing", "away", "."], "e1_text": "survived", "e1_pos": 8, "e2_text": "passing", "e2_pos": 15, "label": "before"}
+]

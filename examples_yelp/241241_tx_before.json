@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "gotten", "plenty", "of", "pedicures", "at", "different", "places", "&", "this", "has", "NEVER", "happened", "before", "."], "e1_text": "gotten", "e1_pos": 2, "e2_text": "has", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "agreed", "to", "get", "callous", "removal", "removal", ",", "and", "she", "pulls", "out", "a", "cheese-grater", "like", "device", ",", "also", "never", "seen", "this", "before", "."], "e1_text": "pulls", "e1_pos": 10, "e2_text": "seen", "e2_pos": 19, "label": "before"}
+]

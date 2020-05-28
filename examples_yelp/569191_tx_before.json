@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "party", "of", "two", "who", "came", "in", "after", "three", "other", "parties", "of", "two-three", "people", "was", "seated", "prior", "to", "us", "because", "they", "asked", "to", "sit", "at", "the", "counter", "-LRB-", "which", "was", "never", "offered", "as", "an", "option", "to", "the", "parties", "who", "arrived", "before", "-RRB-", "."], "e1_text": "offered", "e1_pos": 31, "e2_text": "arrived", "e2_pos": 39, "label": "before"},
+{"tokens": ["Once", "the", "food", "came", ",", "the", "hostess", "approached", "and", "asked", "if", "we", "needed", "boxes", "for", "our", "food", "before", "we", "'d", "taken", "a", "collective", "five", "bites", "."], "e1_text": "needed", "e1_pos": 12, "e2_text": "'d", "e2_pos": 19, "label": "before"}
+]

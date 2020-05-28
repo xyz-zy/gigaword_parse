@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "showed", "me", "a", "picture", "of", "a", "Disney", "Cars", "cake", "they", "'ve", "done", "before", "but", "how", "is", "that", "custom", "if", "I", "have", "to", "pick", "from", "what", "they", "have", "in", "a", "book", "?!?!", "I", "left", "the", "store", "feeling", "frustrated", "because", "now", "I", "do", "n't", "know", "if", "I", "have", "to", "rethink", "the", "design", "."], "e1_text": "done", "e1_pos": 12, "e2_text": "left", "e2_pos": 33, "label": "before"},
+{"tokens": ["I", "guess", "I", "'ve", "never", "felt", "like", "I", "have", "to", "settle", "for", "a", "cake", "design", "before", "."], "e1_text": "felt", "e1_pos": 5, "e2_text": "have", "e2_pos": 8, "label": "before"}
+]

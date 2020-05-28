@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "second", "time", "they", "tried", "to", "do", "it", "again", "but", "I", "double", "checked", "and", "caught", "them", "so", "they", "had", "to", "give", "it", "to", "me", "before", "I", "left", "."], "e1_text": "had", "e1_pos": 18, "e2_text": "left", "e2_pos": 26, "label": "before"},
+{"tokens": ["Today", "they", "tried", "to", "do", "the", "same", "thing", "with", "the", "chunky", "salsa", "but", "I", "caught", "them", "again", "so", "I", "got", "it", "before", "I", "left", "."], "e1_text": "got", "e1_pos": 19, "e2_text": "left", "e2_pos": 23, "label": "before"}
+]

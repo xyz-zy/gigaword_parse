@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", "I", "sent", "a", "demand", "letter", "to", "this", "company", "after", "they", "admitted", "to", "not", "properly", "equipping", "my", "certified", "pre", "owned", "vehicle", "with", "the", "correct", "tires", "I", "was", "left", "with", "no", "response", "."], "e1_text": "sent", "e1_pos": 3, "e2_text": "admitted", "e2_pos": 12, "label": "after"}
+]

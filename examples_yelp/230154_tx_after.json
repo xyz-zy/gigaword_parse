@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "best", "friend", "swore", "by", "this", "place", "after", "she", "went", "the", "last", "few", "weekends", ",", "so", "we", "decided", "to", "hit", "it", "up", "on", "a", "''", "``", "girls", "Sunday", "morning", "out", "''", "''", "."], "e1_text": "swore", "e1_pos": 3, "e2_text": "went", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "went", "just", "after", "11am", "-LRB-", "when", "they", "opened", "-RRB-", "-", "she", "ordered", "off", "their", "breakfast", "menu", "and", "had", "a", "tasty", "breakfast", "burrito", ",", "with", "a", "side", "of", "hash", "browns", "and", "a", "bloody", "mary", "while", "I", "decided", "to", "just", "go", "for", "lunch", "and", "get", "a", "meatball", "sub", "with", "a", "side", "of", "tots", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "opened", "e2_pos": 8, "label": "after"}
+]

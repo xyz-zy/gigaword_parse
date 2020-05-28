@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "not", "a", "medical", "professional", ",", "but", "anyone", "who", "has", "even", "been", "to", "a", "doctor", "has", "seen", "basic", "protocol", "when", "handling", "a", "patient", "-LRB-", "i.e.", ",", "watching", "them", "open", "a", "clean", "pack", "of", "tools", ",", "watching", "them", "wash", "their", "hands", "in", "front", "of", "you", "before", "touching", "you", "-RRB-", ",", "and", "they", "simply", "did", "not", "follow", "it", "here", "."], "e1_text": "watching", "e1_pos": 27, "e2_text": "touching", "e2_pos": 46, "label": "before"}
+]

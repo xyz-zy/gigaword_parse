@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "SERVICE", ":", "Me", "and", "my", "friend", "were", "busy", "chatting", "while", "waiting", "for", "our", "food", "but", "after", "awhile", "we", "noticed", "we", "had", "been", "waiting", "a", "bit", "longer", "than", "usual", "for", "our", "tacos", "and", "sandwich", "."], "e1_text": "chatting", "e1_pos": 9, "e2_text": "noticed", "e2_pos": 19, "label": "after"}
+]

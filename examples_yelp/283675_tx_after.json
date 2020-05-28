@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fourth", "I", "had", "to", "wait", "half", "an", "hour", "after", "I", "finished", "eating", "to", "have", "my", "plate", "cleared", "and", "get", "a", "check", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "finished", "e2_pos": 10, "label": "after"},
+{"tokens": ["There", "were", "several", "other", "tables", "still", "eating", "but", "they", "turned", "out", "the", "lobby", "lights", "after", "I", "left", "-", "closing", "time", "is", "at", "8", "."], "e1_text": "turned", "e1_pos": 9, "e2_text": "left", "e2_pos": 16, "label": "after"}
+]

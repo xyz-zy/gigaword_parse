@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "most", "salons", "i", "have", "never", "heard", "that", "before", "so", "that", "is", "a", "bonus", ".", "-RRB-"], "e1_text": "heard", "e1_pos": 6, "e2_text": "is", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", ",", "I", "did", "n't", "mean", "anything", "negative", "by", "the", "remark", ",", "the", "conversation", "had", "been", "great", "up", "until", "that", "point", ",", "but", "after", "I", "said", "that", ",", "she", "seemed", "to", "feel", "completely", "disrespected", "and", "let", "me", "know", "it", "."], "e1_text": "mean", "e1_pos": 5, "e2_text": "said", "e2_pos": 25, "label": "after"}
+]

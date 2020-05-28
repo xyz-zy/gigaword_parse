@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "our", "food", "immediately", "after", "that", ",", "then", "waited", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "waited", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "manager", "comped", "our", "meal", "after", "hearing", "about", "the", "wait", "and", "the", "bad", "food", ",", "which", "was", "very", "nice", "of", "him", ",", "but", "I", "really", "ca", "n't", "see", "going", "back", "."], "e1_text": "comped", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 6, "label": "after"}
+]

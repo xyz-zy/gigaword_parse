@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "some", "one", "describe", "the", "steak", "as", "''", "``", "good", "for", "reasonably", "priced", "''", "''", "~", "Not", "something", "I", "could", "see", "eating", "twice", "on", "purpose", "~", "So", "service", "is", "interesting", ",", "atmosphere", "less", "than", "threatening", ",", "and", "near", "some", "decent", "places", "for", "a", "meal", "~", "And", "after", "reading", "the", "other", "batch", "of", "opinions", ",", "seems", "like", "the", "most", "complimentary", "thing", "past", "the", "service", "is", "''", "``", "Close", "to", "home", "''", "''", "~"], "e1_text": "is", "e1_pos": 29, "e2_text": "reading", "e2_pos": 48, "label": "after"}
+]

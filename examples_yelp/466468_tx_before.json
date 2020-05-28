@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "asked", "to", "sit", "together", "the", "technician", "said", "it", "was", "not", "possible", ",", "even", "after", "I", "explained", "that", "I", "made", "these", "appointments", "together", "with", "that", "specific", "request", "AND", "over", "a", "week", "before", "."], "e1_text": "explained", "e1_pos": 17, "e2_text": "made", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "asked", "for", "a", "manager", "before", "leaving", "and", "was", "told", "there", "was", "no", "one", "around", "that", "I", "could", "speak", "with", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 6, "label": "before"}
+]

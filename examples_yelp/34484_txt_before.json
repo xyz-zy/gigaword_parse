@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "I", "'ll", "start", "my", "review", "in", "the", "bathroom", ",", "because", "that", "'s", "where", "I", "headed", "first", "to", "check", "on", "my", "lil", "'", "cuz", "who", "really", "had", "to", "go", "before", "we", "got", "there", "I", "guess", "."], "e1_text": "go", "e1_pos": 28, "e2_text": "got", "e2_pos": 31, "label": "before"},
+{"tokens": ["I", "kept", "tasting", "the", "food", "with", "the", "tip", "of", "my", "tongue", "before", "I", "let", "it", "all", "in", "my", "mouth", ",", "afraid", "I", "would", "taste", "something", "extra", "horrid", "."], "e1_text": "kept", "e1_pos": 1, "e2_text": "let", "e2_pos": 13, "label": "before"}
+]

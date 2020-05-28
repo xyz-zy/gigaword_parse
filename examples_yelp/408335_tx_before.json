@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "I", "got", "to", "see", "Purple", "Rain", ",", "One", "Republic", "and", "GooGoo", "Dolls", "perform", "a", "few", "songs", "before", "we", "left", "early", "to", "beat", "the", "crowd", "."], "e1_text": "perform", "e1_pos": 14, "e2_text": "left", "e2_pos": 20, "label": "before"},
+{"tokens": ["As", "I", "said", ",", "we", "left", "1", "hour", "before", "the", "concert", "was", "over", ",", "it", "took", "us", "approximately", "15", "minutes", "to", "get", "to", "the", "vehicle", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

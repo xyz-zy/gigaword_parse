@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "show", "to", "go", "to", "at", "7", "in", "North", "Las", "Vegas", ",", "and", "this", "was", "a", "perfect", "time", "to", "arrive", "and", "enjoy", "the", "Happy", "Hour", "pricing", "and", "have", "a", "good", "dinner", "before", "hopping", "on", "the", "freeway", "for", "the", "short", "drive", "north", "."], "e1_text": "have", "e1_pos": 29, "e2_text": "hopping", "e2_pos": 34, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "two", "missing", "orders", ",", "which", "were", "the", "Sage", "Chicken", "&", "Waffles", "never", "came", "...", "well", "correction", ",", "one", "order", "came", "out", ",", "but", "after", "the", "other", "4", "of", "us", "were", "done", "with", "our", "meals", "."], "e1_text": "came", "e1_pos": 13, "e2_text": "were", "e2_pos": 6, "label": "after"},
+{"tokens": ["So", "the", "last", "order", "actually", "never", "came", ",", "even", "after", "we", "addressed", "all", "of", "this", "with", "the", "Manager", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "addressed", "e2_pos": 11, "label": "after"}
+]

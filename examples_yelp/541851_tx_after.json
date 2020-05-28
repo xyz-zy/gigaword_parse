@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "a", "matter", "of", "fact", "my", "wife", "became", "sick", "and", "one", "other", "person", "did", "not", "feel", "good", "after", "eating", "their", "food", "."], "e1_text": "feel", "e1_pos": 15, "e2_text": "eating", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "LOVE", "ice", "cream", "but", "there", "was", "NO", "WAY", "I", "was", "going", "to", "eat", "it", "after", "all", "the", "kids", "and", "people", "reaching", "in", "there", "to", "dish", "out", "their", "ice", "cream", "."], "e1_text": "eat", "e1_pos": 13, "e2_text": "reaching", "e2_pos": 21, "label": "after"}
+]

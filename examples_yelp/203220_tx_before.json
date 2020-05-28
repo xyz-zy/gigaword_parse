@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "I", "have", "eaten", "at", "Cheeseburger", "before", ",", "a", "few", "years", "back", "...", "But", "I", "do", "n't", "really", "recall", "anything", "about", "that", "visit", "."], "e1_text": "know", "e1_pos": 1, "e2_text": "have", "e2_pos": 3, "label": "before"},
+{"tokens": ["This", "makes", "for", "awesome", "people", "watching", "...", "As", "someone", "that", "used", "to", "vacation", "in", "Vegas", "before", "moving", "here", ",", "I", "love", "seeing", "other", "people", "enjoy", "`", "my", "'", "town", "the", "way", "I", "used", "to", "."], "e1_text": "used", "e1_pos": 10, "e2_text": "moving", "e2_pos": 16, "label": "before"}
+]

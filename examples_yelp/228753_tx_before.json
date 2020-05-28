@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "the", "two", "Starbucks", ",", "food", "court", "and", "the", "cool", "arcade", ",", "but", "one", "thing", "that", "really", "disgusted", "me", "was", "this", ":", "When", "I", "went", "to", "sit", "down", "on", "the", "couch", "to", "put", "on", "my", "shoes", "and", "I", "do", "n't", "know", "if", "it", "'s", "a", "girl", "instinct", "but", "I", "usually", "look", "at", "where", "I", "'m", "siting", "before", "I", "sit", ",", "I", "see", "a", "''", "``", "crusty", "''", "''", "white", "stain", "on", "the", "chair", "."], "e1_text": "siting", "e1_pos": 56, "e2_text": "sit", "e2_pos": 59, "label": "before"}
+]

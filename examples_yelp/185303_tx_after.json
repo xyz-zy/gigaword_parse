@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "I", "went", "after", "9", "pm", "and", "the", "place", "turned", "into", "what", "seemed", "like", "an", "adults", "night", "out", "only", "atmosphere", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "turned", "e2_pos": 9, "label": "after"},
+{"tokens": ["If", "you", "are", "looking", "for", "a", "place", "to", "take", "a", "date", "this", "would", "be", "the", "place", "--", "after", "9", "pm", "is", "best", ",", "I", "think", ",", "if", "you", "want", "to", "just", "sit", "and", "learn", "more", "about", "each", "other", "over", "cocktails", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

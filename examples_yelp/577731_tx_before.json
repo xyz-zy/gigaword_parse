@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "were", "$", "5.00", "instead", "of", "$", "8.00", "-", "maybe", "because", "it", "was", "before", "5:00", "????", "Just", "a", "warning", "when", "you", "go", ",", "the", "building", "is", "not", "marked", "as", "Federal", "Pizza", "and", "the", "entrance", "is", "off", "of", "the", "-LRB-", "free", "!", "-RRB-"], "e1_text": "were", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

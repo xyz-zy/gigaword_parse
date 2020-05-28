@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ll", "go", "back", "a", "-RRB-", "with", "out-of-town", "visitors", "b", "-RRB-", "on", "a", "Thursday", "night", ",", "since", "I", "would", "n't", "pay", "the", "bloated", "regular", "price", ",", "and", "c", "-RRB-", "only", "after", "using", "Google", "Maps", "to", "find", "the", "shortcut", "to", "that", "elevator", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "using", "e2_pos": 31, "label": "after"}
+]

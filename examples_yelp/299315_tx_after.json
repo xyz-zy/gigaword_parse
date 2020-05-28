@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "kept", "saying", "that", "this", "was", "what", "we", "ordered", "even", "after", "suggesting", "several", "times", "that", "perhaps", "it", "was", "for", "the", "other", "end", "of", "our", "large", "party", "who", "had", "n't", "received", "most", "of", "the", "sushi", "they", "had", "ordered", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "suggesting", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "wait", "two", "hours", "after", "getting", "there", "at", "7:05", "am", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "getting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "ran", "out", "of", "there", "after", "signing", "the", "slip", "like", "an", "escapee", "from", "an", "Ebola", "quarantine", "zone", "."], "e1_text": "ran", "e1_pos": 1, "e2_text": "signing", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hotel", "layout", "is", "a", "bit", "strange", "as", "other", "Yelpers", "have", "mentioned", "but", "c'est", "la", "vie", ":-RRB-", "Parking", "was", "expensive", "and", "we", "waited", "a", "long", "time", "for", "our", "car", "after", "requested", "it", "."], "e1_text": "waited", "e1_pos": 22, "e2_text": "requested", "e2_pos": 30, "label": "after"}
+]

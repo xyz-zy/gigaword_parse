@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "I", "said", "before", ",", "Bikram", "is", "a", "part", "of", "my", "daily", "routine", "and", "when", "I", "first", "moved", "here", ",", "I", "immediately", "started", "my", "search", "for", "a", "studio", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "is", "e2_pos": 6, "label": "before"},
+{"tokens": ["So", ",", "I", "decided", "that", "I", "would", "try", "out", "a", "few", "studios", "before", "I", "finally", "settled", "into", "a", "monthly", "plan", "."], "e1_text": "try", "e1_pos": 7, "e2_text": "settled", "e2_pos": 15, "label": "before"}
+]

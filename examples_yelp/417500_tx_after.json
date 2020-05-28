@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "waited", "at", "least", "15", "minutes", "for", "a", "server", ",", "after", "requesting", "one", "twice", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "requesting", "e2_pos": 11, "label": "after"},
+{"tokens": ["we", "were", "served", "the", "same", "cold", "appetizer", ",", "even", "after", "quizzing", "the", "manager-type", "expediter", "on", "how", "long", "they", "had", "been", "sitting", "there", "-LRB-", "we", "knew", "the", "answer", "-RRB-", "."], "e1_text": "served", "e1_pos": 2, "e2_text": "quizzing", "e2_pos": 10, "label": "after"}
+]

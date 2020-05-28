@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "after", "reading", "some", "positive", "reviews", "on", "Yelp", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "reading", "e2_pos": 3, "label": "after"},
+{"tokens": ["Nobody", "in", "charge", "of", "this", "place", ",", "server", "completely", "inexperienced", "and", "no", "support", "from", "anyone", "else", ",", "had", "to", "get", "up", "3", "times", "to", "get", "water", "for", "our", "table", "from", "bar", ",", "after", "chip", "bowls", "emptied", ",", "it", "was", "15", "min", "for", "refill", ",", "two", "of", "our", "guests", "had", "enchiladas", "-LRB-", "after", "asking", "if", "they", "were", "spicy", "and", "told", "''", "``", "no", ",", "totally", "mild", "''", "''", "they", "were", "unbearable", "to", "eat", "."], "e1_text": "get", "e1_pos": 19, "e2_text": "bowls", "e2_pos": 34, "label": "after"}
+]

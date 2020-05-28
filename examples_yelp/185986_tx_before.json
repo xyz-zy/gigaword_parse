@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "even", "knew", "we", "had", "never", "dined", "there", "before", "because", "when", "we", "looked", "accross", "the", "room", ",", "the", "entire", "restaurant", "was", "White", "and", "very", "''", "``", "Apache", "Junction", "''", "''", "if", "you", "know", "what", "I", "mean", "."], "e1_text": "dined", "e1_pos": 7, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

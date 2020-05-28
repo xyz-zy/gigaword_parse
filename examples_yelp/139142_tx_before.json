@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "did", "n't", "they", "take", "my", "order", "before", "having", "me", "pay", "for", "something", "they", "did", "n't", "have", "enough", "of", "?"], "e1_text": "take", "e1_pos": 4, "e2_text": "having", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "'m", "going", "to", "wait", "a", "while", "until", "these", "morons", "get", "fired", "before", "going", "back", "."], "e1_text": "fired", "e1_pos": 11, "e2_text": "going", "e2_pos": 2, "label": "before"}
+]

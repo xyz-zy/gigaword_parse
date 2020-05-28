@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "finally", "got", "our", "orders", "in", ",", "then", "sat", "for", "29", "minutes", "without", "so", "much", "as", "a", "basket", "of", "bread", "-LRB-", "which", "we", "finally", "had", "to", "ask", "for", "since", "we", "were", "starving", "-RRB-", "when", "the", "table", "next", "to", "us", ",", "seated", "after", "we", "were", ",", "had", "already", "enjoyed", "bread", ",", "salad", "and", "were", "digging", "into", "their", "entrees", "."], "e1_text": "seated", "e1_pos": 40, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

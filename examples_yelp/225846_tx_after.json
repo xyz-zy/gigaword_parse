@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "dirty", "plates", "sat", "on", "the", "table", "while", "waiting", "for", "our", "2", "year", "old", "to", "finish", ",", "even", "after", "checking", "on", "us", ",", "refilling", "our", "drinks", ",", "and", "bringing", "our", "checks", "."], "e1_text": "waiting", "e1_pos": 8, "e2_text": "checking", "e2_pos": 19, "label": "after"}
+]

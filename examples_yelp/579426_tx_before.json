@@ -1,0 +1,3 @@
+[
+{"tokens": ["1\\/3", "&", "2\\/3", "pints", "and", "the", "opportunity", "to", "try", "before", "you", "buy", "-LRB-", "no", "gf", "beer", "though", "-RRB-", "."], "e1_text": "try", "e1_pos": 8, "e2_text": "buy", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "I", "was", "brought", "to", "my", "table", ",", "I", "sat", "for", "a", "couple", "minutes", "to", "order", "my", "drink", "before", "I", "started", "the", "smorgasbord", "."], "e1_text": "order", "e1_pos": 15, "e2_text": "started", "e2_pos": 20, "label": "before"},
+{"tokens": ["The", "elderly", "couple", "tried", "to", "flag", "down", "that", "server", "2", "times", "before", "they", "were", "able", "to", "get", "service", "as", "well", "."], "e1_text": "tried", "e1_pos": 3, "e2_text": "were", "e2_pos": 13, "label": "before"}
+]

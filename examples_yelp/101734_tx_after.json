@@ -1,0 +1,4 @@
+[
+{"tokens": ["Being", "the", "procrastinator", "I", "am", ",", "I", "needed", "to", "find", "a", "good", "pediatrician", "quickly", "after", "I", "gave", "birth", "to", "my", "daughter", "two", "weeks", "early", "."], "e1_text": "find", "e1_pos": 9, "e2_text": "gave", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "office", "staff", "is", "super-friendly", "and", "set", "up", "an", "appointment", "for", "my", "daughter", "two", "days", "after", "I", "initially", "called", "-LRB-", "I", "called", "Saturday", "from", "the", "hospital", ";", "I", "got", "an", "appt", ",", "on", "Monday", "-RRB-", "."], "e1_text": "set", "e1_pos": 6, "e2_text": "called", "e2_pos": 18, "label": "after"}
+]

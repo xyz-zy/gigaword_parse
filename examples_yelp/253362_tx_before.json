@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "all", "these", "reviews", "before", "I", "signed", "up", "on", "healthcare", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "signed", "e2_pos": 10, "label": "before"},
+{"tokens": ["gov.", "I", "made", "sure", "to", "check", "doctors", "and", "specific", "plans", "before", "I", "signed", "up", ",", "but", "when", "it", "came", "down", "to", "actually", "making", "an", "appointment", "with", "the", "doctors", "I", "was", "told", "they", "did", "n't", "take", "my", "plan", "and", "did", "n't", "know", "why", "Healthnet", "even", "had", "them", "on", "the", "website", "."], "e1_text": "made", "e1_pos": 2, "e2_text": "signed", "e2_pos": 12, "label": "before"}
+]

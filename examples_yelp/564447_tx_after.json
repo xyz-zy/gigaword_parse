@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "picking", "out", "what", "I", "wanted", "-LRB-", "I", "had", "mint", "chocolate", "chip", "w", "\\/", "mint", "chocolate", "cookies", "-RRB-", ",", "and", "after", "my", "friend", "pays", "for", "his", ",", "we", "were", "about", "to", "walk", "out", "."], "e1_text": "picking", "e1_pos": 1, "e2_text": "pays", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", ",", "I", "'m", "not", "one", "to", "complain", "that", "much", ",", "especially", "because", "I", "'m", "sure", "they", "have", "rough", "nights", "...", "but", "I", "was", "sent", "back", "and", "forth", "about", "3", "times", "before", "I", "finally", "found", "a", "promoter", "that", "listened", ",", "helped", ",", "and", "got", "us", "in", "."], "e1_text": "sent", "e1_pos": 24, "e2_text": "found", "e2_pos": 34, "label": "before"},
+{"tokens": ["So", "do", "n't", "get", "discouraged", "if", "it", "says", "tickets", "are", "sold", "out", "about", "2", "weeks", "before", "-", "they", "'ve", "been", "selling", "out", "and", "re-releasing", "tickets", "for", "all", "the", "past", "and", "upcoming", "shows", "."], "e1_text": "sold", "e1_pos": 10, "e2_text": "'ve", "e2_pos": 18, "label": "before"}
+]

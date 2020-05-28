@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "rest", "of", "the", "dinner", "was", "fairly", "uneventful", "but", "we", "did", "notice", "that", "all", "the", "other", "tables", "seated", "after", "us", "received", "their", "food", "before", "we", "did", "--", "and", "we", "were", "only", "waiting", "on", "4", "meatballs", "."], "e1_text": "seated", "e1_pos": 17, "e2_text": "received", "e2_pos": 20, "label": "after"}
+]

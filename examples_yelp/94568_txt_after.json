@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "8", "items", "to", "Bell", "Auto", "after", "being", "recommended", "to", "them", "by", "a", "friend", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["Needless", "to", "say", ",", "I", "ended", "up", "getting", "a", "refund", "after", "returning", "6", "of", "the", "original", "8", "items", "because", "the", "work", "was", "incorrect", "."], "e1_text": "getting", "e1_pos": 7, "e2_text": "returning", "e2_pos": 11, "label": "after"}
+]

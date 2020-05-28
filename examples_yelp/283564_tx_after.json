@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "we", "stressed", "several", "times", "that", "we", "wanted", "everything", "to", "come", "separately", "so", "we", "could", "enjoy", "the", "food", "and", "beer", "at", "our", "own", "pace", ",", "all", "of", "our", "food", "came", "at", "once", ",", "and", "very", "shortly", "after", "we", "ordered", "."], "e1_text": "came", "e1_pos": 29, "e2_text": "ordered", "e2_pos": 38, "label": "after"}
+]

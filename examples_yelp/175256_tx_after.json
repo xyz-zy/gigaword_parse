@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "first", "thing", "I", "noticed", "after", "being", "seated", "was", "my", "dirty", "napkin", "."], "e1_text": "noticed", "e1_pos": 4, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Our", "main", "waiter", "'s", "service", "was", "somewhat", "standard", "-LRB-", "more", "on", "the", "below", "average", "side", "for", "a", "fine", "dining", "restaurant..friendly-ish", "but", "not", "too", "attentive", "-RRB-", ",", "though", "the", "beverage", "server", "was", "quite", "rude", "-LRB-", "did", "not", "say", "''", "``", "you", "'re", "welcome", "''", "''", "once", "after", "saying", "thanks", "for", "refilling", ",", "like", "he", "was", "doing", "a", "favor", "for", "doing", "his", "job", "-RRB-", "."], "e1_text": "say", "e1_pos": 36, "e2_text": "saying", "e2_pos": 46, "label": "after"},
+{"tokens": ["probably", "the", "best", "part", "of", "this", "dining", "experience", "I", "did", "see", "how", "the", "table", "next", "to", "us", "looked", "like", "after", "the", "party", "left", "and", "''", "``", "cleaned", ".", "''", "''"], "e1_text": "looked", "e1_pos": 17, "e2_text": "left", "e2_pos": 22, "label": "after"}
+]

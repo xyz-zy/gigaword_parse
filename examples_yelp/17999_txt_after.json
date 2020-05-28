@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "find", "it", "amazing", "that", "someone", "can", "see", "you", "dozens", "of", "times", ",", "even", "after", "waiting", "on", "you", ",", "will", "not", "even", "acknowledge", "your", "presence", "."], "e1_text": "see", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "buddy", "even", "commented", "on", "that", "after", "we", "left", "."], "e1_text": "commented", "e1_pos": 3, "e2_text": "left", "e2_pos": 8, "label": "after"}
+]

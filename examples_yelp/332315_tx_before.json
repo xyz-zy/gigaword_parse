@@ -1,0 +1,3 @@
+[
+{"tokens": ["Great", "wine", "selection", ",", "and", "the", "waitress", "was", "really", "friendly", "and", "extremely", "patient", "with", "my", "friend", "who", "tasted", "about", "4", "different", "wines", "before", "he", "finally", "settled", "."], "e1_text": "tasted", "e1_pos": 17, "e2_text": "settled", "e2_pos": 25, "label": "before"}
+]

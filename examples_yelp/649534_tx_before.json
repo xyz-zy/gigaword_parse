@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bar", "service", "was", "incredibly", "slow", ";", "servers", "both", "in", "the", "bar", "area", "and", "the", "dining", "room", "seemed", "like", "they", "had", "never", "worked", "in", "a", "restaurant", "before", ";", "they", "lacked", "basic", "service", "skills", ";", "they", "seemed", "very", "uncomfortable", "waiting", "on", "the", "public", "."], "e1_text": "seemed", "e1_pos": 16, "e2_text": "had", "e2_pos": 19, "label": "before"}
+]

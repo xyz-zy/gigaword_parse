@@ -1,0 +1,3 @@
+[
+{"tokens": ["Overall", "the", "plate", "of", "meat", "was", "lukewarm", "at", "best", "which", "would", "indicate", "that", "they", "did", "not", "slice", "&", "plate", "everything", "at", "the", "same", "time", "leading", "items", "to", "get", "cold", "before", "they", "reached", "the", "table", "."], "e1_text": "get", "e1_pos": 27, "e2_text": "reached", "e2_pos": 31, "label": "before"}
+]

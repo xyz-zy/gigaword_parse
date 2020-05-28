@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "pointed", "out", "the", "coincidence", "that", "he", "was", "not", "able", "to", "identify", "a", "product", "failure", "after", "driving", "out", "to", "the", "home", "on", "a", "Friday", "afternoon", "without", "the", "repair", "part", "in", "hand", ";", "he", "just", "shrugged", "and", "reiterated", "that", "we", "should", "use", "only", "a", "teaspoon", "of", "detergent", "and", "let", "the", "washer", "finish", "its", "cleaning", "cycle", "."], "e1_text": "identify", "e1_pos": 11, "e2_text": "driving", "e2_pos": 16, "label": "after"}
+]

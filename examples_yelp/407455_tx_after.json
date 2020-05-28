@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "worst", "part", "of", "it", "is", "the", "fact", "that", "my", "whole", "family", "got", "food", "poisoning", "after", "eating", "here", "...", "we", "just", "had", "a", "few", "crab", "legs", "and", "ended", "up", "vomiting", "the", "entire", "next", "day", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "an", "omelet", "which", "had", "no", "flavor", "at", "all", "but", "it", "was", "a", "big", "portion", "and", "frankly", "I", "was", "starving", "after", "not", "eating", "for", "over", "24", "hours", "."], "e1_text": "starving", "e1_pos": 20, "e2_text": "eating", "e2_pos": 23, "label": "after"}
+]

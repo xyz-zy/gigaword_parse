@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "and", "I", "were", "hungry", "after", "hitting", "up", "the", "club", "and", "surprisingly", "there", "are", "not", "many", "places", "to", "eat", "at", "that", "are", "24", "hours", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "hitting", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "sandwich", "looked", "really", "good", "but", "after", "tasting", "it", ",", "the", "turkey", "was", "dry", ",", "the", "fries", "werent", "crispy", ",", "and", "the", "soup", "was", "just", "bleh", "."], "e1_text": "looked", "e1_pos": 2, "e2_text": "tasting", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "glass", "was", "never", "more", "than", "1\\/4", "empty", "without", "an", "offer", "of", "a", "refill", ",", "my", "order", "was", "taken", "right", "after", "i", "'d", "decided", "and", "my", "bill", "was", "presented", "just", "as", "i", "was", "reaching", "for", "my", "wallet", "."], "e1_text": "taken", "e1_pos": 18, "e2_text": "'d", "e2_pos": 22, "label": "after"}
+]

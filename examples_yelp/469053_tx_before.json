@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "are", "very", "thin", "breast", "meat", "chicken", "strips", ",", "breaded", "and", "fried", "before", "being", "tossed", "with", "your", "choice", "of", "inventive", "sauces", "."], "e1_text": "are", "e1_pos": 1, "e2_text": "being", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "told", "him", "it", "was", "our", "first", "time", "here", "and", "he", "started", "almost", "arguing", "with", "me", ",", "saying", "that", "he", "knew", "he", "had", "seen", "me", "in", "here", "before", "."], "e1_text": "knew", "e1_pos": 20, "e2_text": "had", "e2_pos": 22, "label": "before"}
+]

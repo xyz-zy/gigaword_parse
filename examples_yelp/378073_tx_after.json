@@ -1,0 +1,5 @@
+[
+{"tokens": ["There", "are", "no", "words", "to", "describe", "how", "bad", "of", "a", "food", "coma", "I", "got", "after", "coming", "here", "."], "e1_text": "got", "e1_pos": 13, "e2_text": "coming", "e2_pos": 15, "label": "after"},
+{"tokens": ["To", "sum", "it", "up", ",", "I", "did", "n't", "eat", "for", "2", "days", "after", "coming", "here", "."], "e1_text": "eat", "e1_pos": 8, "e2_text": "coming", "e2_pos": 13, "label": "after"},
+{"tokens": ["My", "friends", "and", "I", "invented", "a", "new", "term", "for", "the", "level", "of", "awesomeness", "that", "you", "achieve", "after", "experiencing", "Studio", "B", ":", "stomach", "raging", "."], "e1_text": "achieve", "e1_pos": 15, "e2_text": "experiencing", "e2_pos": 17, "label": "after"}
+]

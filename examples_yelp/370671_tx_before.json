@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "been", "doing", "this", "trend", "lately", "where", "I", "wait", "until", "I", "check", "into", "a", "place", "on", "the", "Yelp", "app", "before", "I", "write", "a", "review", ",", "even", "if", "I", "'ve", "been", "to", "the", "place", "before", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "write", "e2_pos": 22, "label": "before"}
+]

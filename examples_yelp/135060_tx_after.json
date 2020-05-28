@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "friend", "got", "sick", "so", "we", "needed", "to", "leave", "...", "6", "of", "us", "...", "One", "of", "our", "friends", "got", "a", "refund", "after", "being", "there", "for", "5", "min", "so", "we", "all", "wanted", "a", "refund", "...", "Well", "that", "didnt", "happen", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "being", "e2_pos": 22, "label": "after"},
+{"tokens": ["Between", "short", "blonde", "girl", ",", "tweeker", "with", "the", "stamp", "and", "asian", "bouncer", "we", "all", "ended", "up", "leaving", "after", "handing", "over", "10", "$", "a", "pop", "for", "5", "min", "...", "One", "friend", "got", "refunded", "."], "e1_text": "leaving", "e1_pos": 16, "e2_text": "handing", "e2_pos": 18, "label": "after"}
+]

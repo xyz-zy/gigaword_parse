@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "she", "pretended", "to", "bring", "them", "over", "after", "already", "knew", "another", "waitress", "had", "already", "helped", "us", "."], "e1_text": "bring", "e1_pos": 4, "e2_text": "knew", "e2_pos": 9, "label": "after"}
+]

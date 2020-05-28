@@ -1,0 +1,5 @@
+[
+{"tokens": ["On", "arrival", "we", "were", "offered", "a", "drink", "and", "seat", "in", "the", "bar", "before", "eating", ",", "which", "we", "politely", "declined", ",", "but", "I", "was", "impressed", "by", "the", "manner", "of", "the", "staff", "and", "the", "general", "idea", "."], "e1_text": "offered", "e1_pos": 4, "e2_text": "eating", "e2_pos": 13, "label": "before"},
+{"tokens": ["Chocolate", "and", "Cranberry", "Brownie", "with", "Bourbon", "Marmalade", "Ice", "Cream", ",", "the", "latter", "of", "which", "just", "so", "happened", "to", "have", "been", "made", "up", "fresh", "a", "few", "minutes", "before", "by", "the", "creative", "chef", ",", "which", "our", "waiter", "asked", "if", "we", "would", "care", "to", "try", "."], "e1_text": "happened", "e1_pos": 16, "e2_text": "asked", "e2_pos": 35, "label": "before"},
+{"tokens": ["Get", "there", "before", "the", "word", "gets", "out", "!"], "e1_text": "Get", "e1_pos": 0, "e2_text": "gets", "e2_pos": 5, "label": "before"}
+]

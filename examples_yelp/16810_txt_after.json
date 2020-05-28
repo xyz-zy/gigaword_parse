@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "on", "a", "Saturday", "for", "a", "quick", "lunch", "before", "running", "errands", "and", "I", "was", "pretty", "excited", "after", "the", "rave", "reviews", "that", "I", "read", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "reviews", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "'ve", "had", "plenty", "of", "barbacoa", "before", "and", "I", "was", "expecting", "to", "be", "blown", "away", "...", "especially", "after", "having", "some", "great", "al", "pastor", ",", "but", "I", "was", "n't", "."], "e1_text": "blown", "e1_pos": 13, "e2_text": "having", "e2_pos": 18, "label": "after"}
+]

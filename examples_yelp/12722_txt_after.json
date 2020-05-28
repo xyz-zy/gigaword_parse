@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "prey", "on", "people", "whose", "animals", "need", "after", "hours", "vet", "care", "and", "take", "advantage", "of", "pet", "owners", "who", "are", "already", "in", "a", "tough", "situation", "."], "e1_text": "need", "e1_pos": 6, "e2_text": "care", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "brought", "my", "dog", "in", "after", "she", "pulled", "out", "some", "stitches", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "pulled", "e2_pos": 7, "label": "after"},
+{"tokens": ["Excuse", "me", ",", "but", "I", "just", "paid", "you", "more", "than", "$", "200", "for", "five", "minutes", "of", "substandard", "treatment", "and", "you", "ca", "n't", "even", "clean", "up", "after", "yourself", "?!?!?", "This", "was", "not", "by", "any", "means", "my", "first", "experience", "at", "the", "AEC", "."], "e1_text": "clean", "e1_pos": 23, "e2_text": "?!?!?", "e2_pos": 27, "label": "after"}
+]

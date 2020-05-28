@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "showed", "up", "15", "minutes", "after", "they", "opened", "and", "EVERY", "item", "I", "tried", "was", "either", "luke", "warm", "or", "cold", "."], "e1_text": "showed", "e1_pos": 1, "e2_text": "opened", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "felt", "sick", "to", "my", "stomach", "after", "I", "left", "because", "I", "kept", "thinking", "how", "bad", "the", "food", "was", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "left", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Did", "n't", "let", "us", "have", "breakfast", ",", "because", "breakfast", "closed", "4", "minutes", "before", "we", "ordered", ",", "and", "we", "were", "waiting", "in", "line", "for", "10", "minutes", "."], "e1_text": "closed", "e1_pos": 9, "e2_text": "ordered", "e2_pos": 14, "label": "before"}
+]

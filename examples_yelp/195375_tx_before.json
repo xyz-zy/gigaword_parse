@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "really", "did", "n't", "want", "to", "stand", "in", "line", "for", "an", "hour", "or", "more", "a", "few", "hours", "before", "we", "were", "supposed", "to", "run", "13.1", "miles", "."], "e1_text": "want", "e1_pos": 4, "e2_text": "were", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "'d", "say", "we", "waited", "about", "half", "an", "hour", "before", "we", "were", "shown", "to", "a", "table", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

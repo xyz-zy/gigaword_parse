@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "wonderful", "Frozen", "Yogurt", "self", "serve", "place", "!!!", "The", "ingredients", "are", "fresh", "and", "the", "vanilla", "yogurt", "is", "the", "best", "vanilla", "I", "have", "ever", "had", "!!", "It", "was", "a", "nice", "surprise", "after", "googling", "for", "a", "place", "to", "go", "to", "that", "was", "open", "after", "9pm", "since", "that", "'s", "the", "time", "we", "were", "craving", "it", "."], "e1_text": "was", "e1_pos": 28, "e2_text": "googling", "e2_pos": 33, "label": "after"}
+]

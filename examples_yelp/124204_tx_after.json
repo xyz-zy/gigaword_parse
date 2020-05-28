@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "garlic", "bread", "was", "pretty", "good", "as", "was", "are", "fried", "calamari", ",", "which", "was", "out", "to", "our", "table", "about", "1", "minute", "after", "we", "ordered", "it", "...", "which", "made", "me", "wonder", "why", "it", "was", "ready", "so", "fast", ".", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 23, "label": "after"}
+]

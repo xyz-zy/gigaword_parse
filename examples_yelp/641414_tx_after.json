@@ -1,0 +1,3 @@
+[
+{"tokens": ["MARK", "KIA", "was", "such", "a", "pleasant", "experience", "that", "I", "went", "to", "their", "dealership", "one", "hour", "after", "leaving", "camelback", "kia", ",", "and", "purchased", "an", "amazing", "car", "at", "an", "amazing", "number", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "leaving", "e2_pos": 16, "label": "after"}
+]

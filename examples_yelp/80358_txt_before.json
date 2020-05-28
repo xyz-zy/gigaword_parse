@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "'s", "better", "is", "that", "they", "have", "some", "of", "the", "best", "desserts", "in", "the", "area", "-LRB-", "we", "'ve", "been", "there", "for", "these", "before", ",", "we", "just", "never", "realized", "that", "they", "had", "a", "Sunday", "brunch", "-RRB-", "."], "e1_text": "been", "e1_pos": 18, "e2_text": "realized", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "were", "able", "to", "get", "our", "mass", "alcohol", "on", "here", "before", "heading", "over", "to", "JET", "for", "some", "booty", "shaking", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "heading", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "ended", "up", "coming", "here", "two", "nights", "in", "a", "row", ",", "once", "before", "heading", "to", "JET", "and", "the", "second", "night", "as", "a", "night-ender", "after", "being", "at", "another", "hotel", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "heading", "e2_pos": 13, "label": "before"},
+{"tokens": ["Because", "of", "that", ",", "we", "felt", "pressure", "to", "get", "as", "many", "drinks", "in", "before", "heading", "to", "JET", "as", "we", "could", ",", "which", "technically", "is", "n't", "a", "horrible", "problem", "to", "have", "in", "Vegas", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

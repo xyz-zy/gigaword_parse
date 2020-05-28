@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wine", "prices", "are", "super", "cheap", ",", "in", "part", "because", "they", "sell", "wine", "for", "retail", "prices", ",", "and", "they", "'ll", "usually", "let", "you", "sample", "a", "few", "wines", "before", "you", "pick", "your", "bottle", "for", "the", "evening", "."], "e1_text": "sample", "e1_pos": 23, "e2_text": "pick", "e2_pos": 29, "label": "before"}
+]

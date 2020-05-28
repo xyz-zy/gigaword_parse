@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "last", "week", "on", "Friday", "-LRB-", "3", "of", "us", ",", "after", "we", "picked", "our", "friend", "who", "'s", "local", "-RRB-", "around", "2:00", "pm", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "picked", "e2_pos": 13, "label": "after"},
+{"tokens": ["A", "lady", "picked", "up", "the", "phone", "and", "after", "explaining", ",", "she", "asked", "me", "the", "server", "'s", "name", "...", "Haha", ",", "I", "looked", "at", "my", "receipt", "...", "''", "``", "PHYRON", "''", "''", "I", "said", "proudly", "and", "with", "high", "hopes", ".", "''"], "e1_text": "picked", "e1_pos": 2, "e2_text": "explaining", "e2_pos": 8, "label": "after"}
+]

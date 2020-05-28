@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "to", "try", "a", "Winchell", "'s", "while", "I", "was", "in", "the", "area", ",", "and", "figured", "I", "would", "hit", "this", "location", "before", "heading", "out", "on", "US", "95", "to", "Death", "Valley", "."], "e1_text": "hit", "e1_pos": 18, "e2_text": "heading", "e2_pos": 22, "label": "before"},
+{"tokens": ["Boo", "Subway", ",", "so", "I", "just", "got", "an", "apple", "donut", "-LRB-", "which", "was", "decent", "-RRB-", "before", "having", "to", "go", "elsewhere", "for", "more", "breakfast", "."], "e1_text": "got", "e1_pos": 6, "e2_text": "having", "e2_pos": 16, "label": "before"}
+]

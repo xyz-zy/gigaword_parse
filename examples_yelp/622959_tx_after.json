@@ -1,0 +1,3 @@
+[
+{"tokens": ["Oh", "I", "did", "n't", "even", "mention", "that", "after", "I", "bought", "the", "ticket", "I", "was", "informed", "that", "the", "elevator", "was", "out", "of", "service", "and", "I", "had", "to", "walk", "6", "flights", "of", "stairs", "."], "e1_text": "mention", "e1_pos": 5, "e2_text": "bought", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "right", "toe", "bled", "for", "over", "20", "minutes", "and", "she", "only", "put", "something", "on", "to", "stop", "the", "bleeding", "after", "she", "put", "the", "base", "coat", "on", "-", "meaning", "my", "foot", "went", "in", "and", "out", "of", "the", "water", "at", "least", "three", "times", "before", "it", "stopped", "."], "e1_text": "went", "e1_pos": 29, "e2_text": "stopped", "e2_pos": 42, "label": "before"},
+{"tokens": ["Basically", "kicked", "me", "out", "of", "the", "chair", "right", "then", "and", "I", "was", "halfway", "to", "the", "cashier", "before", "she", "asked", "if", "I", "wanted", "the", "dryer", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "asked", "e2_pos": 18, "label": "before"}
+]

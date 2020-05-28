@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "just", "a", "little", "stuffy", "for", "my", "liking", "but", "it", "reminded", "me", "that", "we", "had", "actually", "been", "there", "2", "or", "3", "years", "before", "."], "e1_text": "reminded", "e1_pos": 11, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["Did", "n't", "know", "the", "name", "before", "because", "we", "went", "there", "late", "night", "before", "and", "stumbled", "upon", "it", "with", "a", "group", "."], "e1_text": "know", "e1_pos": 2, "e2_text": "went", "e2_pos": 8, "label": "before"}
+]

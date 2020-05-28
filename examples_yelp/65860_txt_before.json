@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "by", "here", "before", "driving", "back", "to", "LA", "for", "a", "drink", "to", "take", "for", "the", "road", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "driving", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "company", "needs", "to", "rethink", "that", "out", "before", "telling", "customers", "that", "."], "e1_text": "rethink", "e1_pos": 4, "e2_text": "telling", "e2_pos": 8, "label": "before"}
+]

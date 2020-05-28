@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "after", "she", "tried", "to", "leave", "dirty", "appetizer", "plates", "that", "we", "had", "used", "for", "wings", "on", "the", "table", "and", "tell", "us", "to", "use", "those", "for", "our", "dinner", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "tried", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "manager", "asked", "us", "20", "min", "after", "we", "received", "our", "wings", "if", "they", "had", "ever", "came", "out", ",", "then", "we", "asked", "her", "for", "utensils", "and", "of", "course", "she", "did", "n't", "remember", "to", "bring", "any", "so", "what", "was", "the", "point", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "received", "e2_pos": 8, "label": "after"}
+]

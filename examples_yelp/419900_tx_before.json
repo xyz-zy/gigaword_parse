@@ -1,0 +1,3 @@
+[
+{"tokens": ["Which", "is", "okay", "-", "better", "to", "find", "out", "now", "-LRB-", "before", "she", "goes", "-RRB-", "than", "go", "and", "flunk", "out", "because", "she", "does", "n't", "want", "to", "be", "there", "."], "e1_text": "find", "e1_pos": 6, "e2_text": "goes", "e2_pos": 12, "label": "before"}
+]

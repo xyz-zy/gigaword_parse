@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "servers", "were", "very", "friendly", "and", "allow", "you", "to", "sample", "what", "they", "have", "before", "you", "order", "."], "e1_text": "allow", "e1_pos": 6, "e2_text": "order", "e2_pos": 15, "label": "before"},
+{"tokens": ["Perhaps", "it", "was", "me", "but", "as", "I", "stated", "before", "the", "food", "simply", "lacked", "flavor", "and", "how", "shameful", "is", "it", "to", "serve", "store", "bought", "naan", "?"], "e1_text": "stated", "e1_pos": 7, "e2_text": "lacked", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "me", "awhile", "before", "I", "ever", "ordered", "soup", "at", "this", "place", "and", "now", "I", "never", "do", "n't", "get", "at", "least", "a", "cup", ",", "even", "when", "its", "110", "degrees", "outside", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "was", "n't", "even", "sure", "what", "leaks", "were", "before", "I", "tried", "it", "and", "now", "I", "ca", "n't", "get", "enough", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "tried", "e2_pos": 10, "label": "before"}
+]

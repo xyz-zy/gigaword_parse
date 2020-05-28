@@ -1,0 +1,3 @@
+[
+{"tokens": ["Half", "of", "our", "party", "got", "their", "food", "before", "the", "rest", "of", "us", "-LRB-", "and", "we", "ordered", "salads", "-RRB-", ",", "when", "we", "finally", "did", "get", "our", "salads", "-LRB-", "an", "hour", "later", "-RRB-", "the", "rest", "of", "our", "party", "was", "done", "eating", "and", "wanted", "desert", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 15, "label": "before"}
+]

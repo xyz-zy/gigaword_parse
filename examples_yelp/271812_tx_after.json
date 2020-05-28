@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "only", "reluctantly", "gave", "us", "a", "hotel", "credit", "after", "we", "asked", ",", "but", "we", "still", "got", "charged", "for", "gratuity", "-LRB-", "Even", "though", "we", "generously", "tipped", "the", "staff", "-RRB-", "."], "e1_text": "gave", "e1_pos": 3, "e2_text": "asked", "e2_pos": 10, "label": "after"}
+]

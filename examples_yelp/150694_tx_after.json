@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "tv", "from", "bestbuy.com", "for", "our", "bedroom", "and", "due", "to", "being", "so", "busy", "at", "work", "and", "summer", "vacations", "and", "have", "to", "hire", "somebody", "to", "install", "it", ",", "I", "did", "not", "have", "the", "chance", "to", "open", "the", "tv", "from", "the", "box", "till", "just", "this", "afternoon", "when", "this", "person", "is", "about", "to", "put", "it", "on", "the", "wall", "after", "the", "wall", "bracket", "was", "in", "place", "."], "e1_text": "put", "e1_pos": 52, "e2_text": "was", "e2_pos": 61, "label": "after"}
+]

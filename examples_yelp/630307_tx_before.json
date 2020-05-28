@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "once", "on", "a", "Sunday", "night", "and", "had", "no", "problem", "getting", "in", "but", "we", "went", "one", "day", "on", "a", "weekend", "and", "that", "was", "another", "story", "...", "We", "were", "in", "the", "GA", "line", "a", "few", "minutes", "before", "they", "opened", "the", "doors", "."], "e1_text": "were", "e1_pos": 28, "e2_text": "opened", "e2_pos": 38, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "was", "the", "last", "of", "him", ",", "I", "did", "n't", "receive", "my", "meal", "till", "after", "the", "rest", "of", "my", "party", "had", "finished", "theirs", ",", "and", "our", "\\*", "new", "new", "\\*", "server", "came", "to", "drop", "off", "our", "check", "."], "e1_text": "receive", "e1_pos": 10, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

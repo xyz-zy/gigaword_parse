@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "was", "very", "nice", ",", "but", "at", "first", ",", "she", "said", "I", "could", "n't", "use", "my", "Groupon", "since", "they", "had", "no", "way", "of", "verifying", "whether", "or", "not", "I", "used", "it", "before", "."], "e1_text": "verifying", "e1_pos": 24, "e2_text": "used", "e2_pos": 29, "label": "before"}
+]

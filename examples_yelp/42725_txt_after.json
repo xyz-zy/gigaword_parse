@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "friend", "my", "mine", "recommended", "it", "after", "I", "had", "a", "bad", "experience", "at", "my", "then-vet", "."], "e1_text": "recommended", "e1_pos": 4, "e2_text": "had", "e2_pos": 8, "label": "after"},
+{"tokens": ["Just", "a", "couple", "of", "weeks", "ago", "we", "took", "our", "10-month-old", "kitten", "ti", "Saguaro", "to", "get", "tested", "after", "he", "was", "exhibiting", "some", "troubling", "symptoms", "-", "wobbly", "walking", ",", "falling", "over", "easily", ",", "loss", "of", "appetite", ",", "staring", "into", "space", "."], "e1_text": "tested", "e1_pos": 15, "e2_text": "was", "e2_pos": 18, "label": "after"}
+]

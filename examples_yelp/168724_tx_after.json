@@ -1,0 +1,3 @@
+[
+{"tokens": ["Alas", ",", "the", "private", "dining", "salon", "was", "not", "so", "private", "because", "shortly", "after", "we", "were", "seated", ",", "a", "loud", "chattering", "group", "occupied", "a", "table", "behind", "us", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "course", "was", "n't", "sent", "out", "until", "the", "course", "before", "was", "completely", "done", "."], "e1_text": "sent", "e1_pos": 4, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["Marvin", "even", "had", "the", "valet", "pull", "our", "car", "around", "before", "we", "left", "so", "it", "would", "be", "there", "when", "we", "exited", "."], "e1_text": "pull", "e1_pos": 5, "e2_text": "left", "e2_pos": 11, "label": "before"}
+]

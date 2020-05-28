@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "rest", "of", "our", "party", "came", "I", "just", "walked", "to", "the", "front", ",", "grabbed", "everyone", "after", "they", "paid", ",", "told", "the", "hostess", ",", "and", "they", "walked", "right", "in", "."], "e1_text": "grabbed", "e1_pos": 14, "e2_text": "paid", "e2_pos": 18, "label": "after"}
+]

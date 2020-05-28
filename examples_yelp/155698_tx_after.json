@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "service", "was", "fabulous", "despite", "being", "packed", "and", "even", "allowed", "me", "to", "change", "my", "skinny", "fries", "to", "sweet", "potato", "fries", "a", "few", "minutes", "after", "I", "ordered", "without", "a", "hiccup", "."], "e1_text": "change", "e1_pos": 12, "e2_text": "ordered", "e2_pos": 25, "label": "after"},
+{"tokens": ["They", "had", "a", "great", "service", "where", "instead", "of", "just", "waiting", "they", "just", "messaged", "us", "when", "our", "table", "was", "free", "and", "we", "were", "seated", "2", "minutes", "after", "we", "put", "our", "names", "down", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "put", "e2_pos": 27, "label": "after"}
+]

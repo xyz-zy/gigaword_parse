@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", ",", "you", "do", "n't", "really", "know", "if", "they", "wash", "their", "hands", "after", "cleaning", "the", "bathrooms", "before", "they", "touch", "your", "stuff", "."], "e1_text": "wash", "e1_pos": 9, "e2_text": "cleaning", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "called", "Friday", "night", "after", "they", "did", "it", ",", "to", "request", "that", "they", "leave", "my", "toiletries", "and", "make", "up", "alone", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "did", "e2_pos": 6, "label": "after"}
+]

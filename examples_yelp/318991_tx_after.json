@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "overcooked", "and", "the", "waiter", "did", "not", "come", "back", "to", "ask", "us", "anything", "after", "it", "was", "served", "-LRB-", "he", "came", "by", "at", "the", "end", "to", "give", "us", "the", "check", "-RRB-", "."], "e1_text": "ask", "e1_pos": 12, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

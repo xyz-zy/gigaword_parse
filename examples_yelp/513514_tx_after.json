@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "when", "I", "went", "through", "the", "apartment", "after", "saying", "goodbye", ",", "I", "noticed", "that", "the", "cleaning", "was", "n't", "thorough", "at", "all", ",", "even", "though", "I", "had", "paid", "for", "a", "''", "``", "deep", "clean", "''", "''", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "saying", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "all", ",", "I", "had", "to", "do", "a", "finish", "clean", "after", "the", "cleaners", "left", "."], "e1_text": "clean", "e1_pos": 9, "e2_text": "left", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "assure", "him", "that", "I", "will", "not", "in", "fact", "take", "the", "car", "on", "the", "road", "trip", "IN", "THE", "FALL", "before", "replacing", "the", "tires", "."], "e1_text": "take", "e1_pos": 9, "e2_text": "replacing", "e2_pos": 20, "label": "before"}
+]

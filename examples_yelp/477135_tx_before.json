@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "dogs", "just", "got", "to", "run", "around", "and", "sniff", "other", "dogs", ",", "but", "most", "people", "here", "pull", "their", "dogs", "away", "before", "the", "dogs", "even", "have", "a", "chance", "to", "say", "''", "``", "Hello", "''", "''", "."], "e1_text": "pull", "e1_pos": 16, "e2_text": "have", "e2_pos": 24, "label": "before"}
+]

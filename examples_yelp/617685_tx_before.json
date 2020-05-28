@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "our", "waiter", "took", "the", "orders", "for", "the", "10", "person", "table", "near", "us", "and", "disappeared", "for", "a", "good", "5", "minutes", "before", "finally", "coming", "back", "to", "take", "our", "drink", "and", "food", "orders", "at", "the", "same", "time", "."], "e1_text": "disappeared", "e1_pos": 14, "e2_text": "coming", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "hate", "to", "say", "it", "but", "our", "waiter", "sucked", ",", "he", "was", "non-existent", "for", "much", "of", "our", "meal", ",", "never", "took", "away", "our", "table", "setup", "plates", "so", "our", "two-person", "table", "was", "a", "little", "crowded", ",", "and", "we", "sat", "for", "a", "full", "10", "minutes", "after", "our", "meals", "were", "done", "before", "he", "returned", "."], "e1_text": "done", "e1_pos": 47, "e2_text": "returned", "e2_pos": 50, "label": "before"}
+]

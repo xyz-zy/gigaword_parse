@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "was", "a", "Mexican", "food", "chain", "where", "the", "waiter", "greeted", "us", "with", "a", "free", "dessert", "sampler", "after", "spending", "countless", "minutes", "describing", "our", "new", "home", "-LRB-", "while", "dealing", "with", "4-5", "other", "tables", ",", "too", "-RRB-", ",", "so", "we", "were", "n't", "expecting", "much", "."], "e1_text": "greeted", "e1_pos": 9, "e2_text": "spending", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Common", "sense", "tells", "you", "that", "a", "table", "with", "small", "children", "will", "most", "likely", "want", "to", "leave", "shortly", "after", "finishing", "but", "no", ",", "after", "clearing", "half", "the", "plates", "she", "disappeared", "for", "another", "15", "minutes", "."], "e1_text": "leave", "e1_pos": 15, "e2_text": "finishing", "e2_pos": 18, "label": "after"}
+]

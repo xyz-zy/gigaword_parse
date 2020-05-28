@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sweetheart", "and", "I", "walked", "in", ",", "we", "were", "seated", "and", "we", "were", "waiting", "15", "minutes", "for", "our", "drinks", "-LRB-", "coke", "and", "iced", "tea", "-RRB-", "before", "we", "decided", "to", "walk", "out", "."], "e1_text": "waiting", "e1_pos": 13, "e2_text": "decided", "e2_pos": 27, "label": "before"}
+]

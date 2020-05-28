@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "not", "order", "any", "cookies", ",", "but", "the", "guy", "who", "helped", "us", "popped", "over", "to", "the", "table", "after", "we", "sat", "down", "to", "ask", "if", "he", "could", "give", "our", "son", "some", "mini", "oatmeal", "chocolate", "chip", "cookies", "."], "e1_text": "popped", "e1_pos": 13, "e2_text": "sat", "e2_pos": 20, "label": "after"}
+]

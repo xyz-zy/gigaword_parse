@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "I", "would", "say", "this", "is", "possibly", "a", "one", "off", "scenario", "except", "right", "before", "she", "received", "our", "sandwich", "another", "person", "who", "had", "been", "waiting", "said", "he", "was", "on", "37", "minutes", ",", "and", "then", "another", "person", "came", "up", "while", "she", "was", "receiving", "her", "sandwich", "and", "said", "''", "``", "how", "long", "does", "it", "take", "to", "get", "a", "tuna", "sandwich", "''", "''", "he", "had", "been", "waiting", "30", "minutes", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "received", "e2_pos": 15, "label": "before"},
+{"tokens": ["And", "although", "we", "typically", "know", "what", "items", "cost", "before", "we", "eat", "anywhere", ",", "so", "initially", "the", "price", "seemed", "okay", "but", "this", "place", "is", "definitely", "OVERPRICED", "."], "e1_text": "cost", "e1_pos": 7, "e2_text": "eat", "e2_pos": 10, "label": "before"}
+]

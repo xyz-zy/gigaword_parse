@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "battery", "in", "my", "car", "was", "factory", "installed", ",", "and", "he", "let", "me", "know", "that", "it", "could", "be", "days", "or", "weeks", "before", "Acura", "processed", "the", "warranty", "info", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "processed", "e2_pos": 23, "label": "before"}
+]

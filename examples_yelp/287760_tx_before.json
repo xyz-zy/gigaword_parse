@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "would", "like", "to", "go", "out", "all", "and", "have", "a", "big", "fancy", "dinner", "before", "heading", "home", ",", "but", "we", "just", "wanted", "to", "relax", "and", "enjoy", "ourselves", "so", "we", "took", "it", "back", "to", "our", "hotel", "room", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

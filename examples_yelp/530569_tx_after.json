@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "real", "food", "stop", "here", "in", "Vegas", "after", "being", "up", "nearly", "24", "hours", "."], "e1_text": "stop", "e1_pos": 3, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["eat", "free", "!!", "Our", "whole", "group", "weighed", "ourselves", "just", "to", "see", "how", "much", "we", "would", "weigh", "after", "eating", "here", "."], "e1_text": "weigh", "e1_pos": 15, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

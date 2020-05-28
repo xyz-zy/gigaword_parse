@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "we", "'re", "going", "to", "an", "event", "at", "the", "arena", "or", "stadium", ",", "then", "we", "make", "sure", "to", "eat", "at", "the", "event", "or", "before", "we", "get", "there", "."], "e1_text": "eat", "e1_pos": 18, "e2_text": "get", "e2_pos": 25, "label": "before"}
+]

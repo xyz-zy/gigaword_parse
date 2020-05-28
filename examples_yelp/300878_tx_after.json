@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "had", "to", "be", "done", "for", "spite", "-", "Manager", "would", "not", "come", "to", "the", "table", "until", "after", "the", "steak", "was", "removed", "and", "offered", "to", "comp", "the", "appetizer", "."], "e1_text": "come", "e1_pos": 11, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

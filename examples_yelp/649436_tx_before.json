@@ -1,0 +1,4 @@
+[
+{"tokens": ["Foods", "comes", "before", "we", "get", "our", "second", "glass", "."], "e1_text": "comes", "e1_pos": 1, "e2_text": "get", "e2_pos": 4, "label": "before"},
+{"tokens": ["Never", "checked", "if", "everything", "came", "out", "ok", "or", "checked", "back", "on", "us", "before", "asking", "if", "we", "wanted", "the", "bill", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "asking", "e2_pos": 13, "label": "before"}
+]

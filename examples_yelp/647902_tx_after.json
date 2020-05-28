@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "salt", "and", "pepper", "fish", "was", "actually", "good", ",", "boring", "but", "good", "after", "I", "got", "a", "lemon", "to", "squeeze", "on", "it", "but", "the", "dessert", "tasted", "old", "and", "very", "pre", "made", "-LRB-", "some", "peanut", "butter", "brownie", "that", "had", "zero", "peanut", "butter", "taste", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

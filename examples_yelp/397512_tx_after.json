@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "talked", "my", "gf", "out", "of", "our", "$", "5", "lil", "arepas", "spot", "for", "this", "place", "after", "seeing", "it", "on", "yelp", ",", "and", "what", "a", "letdown", "."], "e1_text": "talked", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 16, "label": "after"},
+{"tokens": ["and", "the", "shrimp", "I", "cooked", "and", "seasoned", "10", "of", "them", "and", "left", "9", "and", "a", "half", "on", "my", "plate", "...", "I", "was", "pissed", "for", "hours", "after", "we", "left", ",", "especially", "after", "not", "asking", "or", "looking", "at", "prices", "and", "had", "a", "$", "57", "bill", "...", "No", "wonder", "our", "kind", "of", "nice", "waitress", "asked", "us", "leaving", "already", "?"], "e1_text": "pissed", "e1_pos": 22, "e2_text": "left", "e2_pos": 11, "label": "after"}
+]

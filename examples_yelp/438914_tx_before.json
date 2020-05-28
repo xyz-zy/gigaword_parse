@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nothing", "like", "watching", "each", "group", "go", "in", "one", "by", "one", "and", "counting", "who", "was", "here", "before", "you", "hoping", "that", "it", "'s", "your", "turn", "next", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "hoping", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "did", "n't", "want", "to", "miss", "out", "on", "not", "being", "able", "to", "capture", "a", "family", "photo", "before", "my", "little", "gets", "too", "big", "."], "e1_text": "capture", "e1_pos": 12, "e2_text": "gets", "e2_pos": 19, "label": "before"}
+]

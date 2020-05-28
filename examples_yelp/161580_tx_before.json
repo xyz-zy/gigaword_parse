@@ -1,0 +1,4 @@
+[
+{"tokens": ["it", "'s", "not", "the", "best", "nor", "most", "luxurious", "hotel", "on", "the", "strip", "and", "I", "'ve", "stayed", "at", "other", "beautiful", "hotels", "on", "the", "strip", "before", "but", "for", "some", "odd", "reason", ",", "I", "always", "wanted", "to", "experience", "Paris", "as", "a", "guest", "."], "e1_text": "stayed", "e1_pos": 15, "e2_text": "wanted", "e2_pos": 32, "label": "before"},
+{"tokens": ["Eventually", ",", "I", "called", "the", "manager", "on", "site", "and", "let", "him", "have", "it", "but", "I", "know", "how", "this", "kind", "of", "stuff", "works", "-", "that", "assface", "probably", "still", "has", "the", "job", "and", "still", "has", "mental", "issues", "he", "needs", "to", "work", "out", "before", "clocking", "into", "work", "each", "day", "."], "e1_text": "work", "e1_pos": 38, "e2_text": "clocking", "e2_pos": 41, "label": "before"}
+]

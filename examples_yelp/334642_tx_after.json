@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "in", "after", "eyeing", "their", "HUGE", "donuts", "in", "the", "window", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "eyeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "just", "spent", "twice", "that", "on", "`", "gourmet", "'", "donuts", "at", "the", "trendy", "donut", "shop", "Chez", "Boris", "several", "blocks", "away", ",", "and", "was", "kicking", "myself", "for", "wasting", "my", "time", ",", "money", "and", "calories", "at", "Chez", "Boris", "after", "discovering", "Nouveau", "Samos", "."], "e1_text": "wasting", "e1_pos": 26, "e2_text": "discovering", "e2_pos": 37, "label": "after"}
+]

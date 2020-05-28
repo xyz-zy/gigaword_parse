@@ -1,0 +1,4 @@
+[
+{"tokens": ["Furthermore", "when", "you", "sat", "in", "the", "chair", "there", "would", "be", "black", "flecks", "on", "you", "after", "you", "got", "up", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["They", "should", "change", "their", "name", "to", "''", "``", "we", "do", "n't", "give", "a", "fu", "\\*", "k", "about", "you", "after", "the", "sale", "is", "made", "store", "''", "''", "After", "20", "years", "and", "1.6", "Billion", "in", "sales", "you", "would", "think", "they", "would", "care", "about", "their", "clients", "I", "for", "one", "will", "NEVER", "be", "back", "."], "e1_text": "give", "e1_pos": 11, "e2_text": "is", "e2_pos": 21, "label": "after"}
+]

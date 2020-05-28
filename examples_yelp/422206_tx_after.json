@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "when", "the", "marathon", "runners", "hit", "the", "strip", "after", "running", "the", "first", "13", "miles", ",", "unless", "they", "were", "extremely", "fast", ",", "they", "ran", "right", "into", "a", "wall", "of", "much", "slower", "half", "marathon", "runners", "."], "e1_text": "hit", "e1_pos": 5, "e2_text": "running", "e2_pos": 9, "label": "after"}
+]

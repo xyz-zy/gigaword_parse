@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "not", "get", "into", "detail", "but", "some", "trouble", "areas", "were", "the", "lifeguard", "attendant", "who", "checks", "room", "keys", "before", "allowing", "you", "access", "to", "the", "pool", "area", "and", "the", "security", "in", "lost", "and", "found", "."], "e1_text": "checks", "e1_pos": 15, "e2_text": "allowing", "e2_pos": 19, "label": "before"},
+{"tokens": ["So", "hopefully", "you", "find", "your", "things", "before", "you", "return", "home", "."], "e1_text": "find", "e1_pos": 3, "e2_text": "return", "e2_pos": 8, "label": "before"}
+]

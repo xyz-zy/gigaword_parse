@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stayed", "here", "a", "few", "weeks", "after", "it", "opened", "in", "2006", ",", "and", "the", "experience", "was", "not", "positive", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "opened", "e2_pos": 8, "label": "after"},
+{"tokens": ["Or", "that", "cool", "''", "``", "do", "not", "disturb", "''", "''", "light", "that", "broke", "a", "few", "weeks", "after", "the", "place", "opened", ",", "and", "the", "front", "desk", "staff", "could", "not", "provide", "an", "old-fashioned", "''", "``", "do", "not", "disturb", "''", "''", "sign", "?"], "e1_text": "broke", "e1_pos": 12, "e2_text": "opened", "e2_pos": 19, "label": "after"}
+]

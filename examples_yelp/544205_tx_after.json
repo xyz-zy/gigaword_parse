@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "store", "to", "see", "if", "I", "could", "get", "a", "different", "one", "but", "after", "I", "looked", "at", "them", "at", "the", "store", "I", "decided", "to", "keep", "the", "one", "I", "bought", "and", "remodel", "the", "kitchen", "around", "the", "refrigerator", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "looked", "e2_pos": 16, "label": "after"}
+]

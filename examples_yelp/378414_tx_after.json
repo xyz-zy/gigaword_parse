@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "girl", "who", "gave", "me", "the", "pedicure", "left", "for", "the", "day", "after", "painting", "my", "toes", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "painting", "e2_pos": 12, "label": "after"},
+{"tokens": ["They", "let", "the", "people", "who", "walked", "in", "an", "HOUR", "after", "me", "stay", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "stay", "e2_pos": 11, "label": "after"}
+]

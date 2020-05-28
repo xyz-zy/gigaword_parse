@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "furniture", "smell", ",", "the", "rug", "was", "not", "vacuumed", "before", "we", "checked-in", "AND", "the", "place", "was", "full", "of", "ants", "."], "e1_text": "vacuumed", "e1_pos": 8, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

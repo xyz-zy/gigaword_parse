@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "treated", "my", "lower", "back", "n", "after", "I", "came", "in", "."], "e1_text": "n", "e1_pos": 5, "e2_text": "came", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "helped", "ease", "the", "pain", "n", "after", "a", "few", "hours", "later", "it", "was", "much", "better", "."], "e1_text": "ease", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

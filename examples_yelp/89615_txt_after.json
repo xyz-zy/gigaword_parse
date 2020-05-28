@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "to", "the", "place", "15", "minutes", "before", "closing", "time", "and", "spend", "more", "than", "10", "minutes", "after", "their", "closing", "time", "waiting", "."], "e1_text": "spend", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "understand", "that", "auto", "places", "might", "take", "advantage", "of", "me", "because", "I", "am", "a", "female", "and", "assume", "I", "do", "n't", "know", "much", "but", "here", "'s", "the", "thing", ":", "In", "order", "to", "receive", "that", "usual", "good", "service", "from", "a", "good", "auto", "shop", ",", "typically", "the", "mechanics", "are", "expected", "to", "check", "the", "air", "pressure", "on", "each", "tire", "after", "they", "finish", "placing", "a", "new", "tire", "."], "e1_text": "check", "e1_pos": 48, "e2_text": "finish", "e2_pos": 57, "label": "after"}
+]

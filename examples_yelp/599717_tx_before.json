@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "travel", "3", "weeks", "a", "month", "for", "work", "and", "was", "staying", "at", "the", "plaza", "before", "taking", "a", "shot", "at", "the", "Grand", "."], "e1_text": "staying", "e1_pos": 10, "e2_text": "taking", "e2_pos": 15, "label": "before"}
+]

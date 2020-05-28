@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "our", "waitress", "finally", "came", "to", "our", "table", "after", "sitting", "for", "15", "minutes", ",", "she", "proceeded", "to", "take", "two", "drink", "orders", "before", "trying", "to", "walk", "away", "."], "e1_text": "take", "e1_pos": 17, "e2_text": "trying", "e2_pos": 22, "label": "before"},
+{"tokens": ["By", "the", "time", "she", "got", "to", "me", "she", "had", "turned", "to", "walk", "away", "before", "I", "asked", "to", "order", "a", "drink", "myself", "."], "e1_text": "walk", "e1_pos": 11, "e2_text": "asked", "e2_pos": 15, "label": "before"}
+]

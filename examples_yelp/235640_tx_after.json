@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "for", "sure", "the", "young", "lady", "who", "took", "our", "orders", "had", "seen", "us", "sitting", "sandwichless", "for", "much", "too", "long", "after", "the", "cook", "had", "finished", "prior", "orders", "."], "e1_text": "sitting", "e1_pos": 14, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "man", "gave", "us", "our", "requested", "refund", ",", "but", "I", "'m", "upset", "that", "my", "tip", "money", "sat", "in", "that", "jar", "after", "I", "had", "left", "."], "e1_text": "sat", "e1_pos": 16, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

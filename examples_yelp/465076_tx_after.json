@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "surly", "teenager", "magically", "appeared", "as", "we", "approached", "the", "register", ",", "only", "to", "disappear", "again", "soon", "after", "we", "paid", "."], "e1_text": "disappear", "e1_pos": 13, "e2_text": "paid", "e2_pos": 18, "label": "after"}
+]

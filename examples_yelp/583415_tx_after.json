@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "noticed", "that", "it", "is", "a", "taco", "shop", "located", "adjacent", "to", "the", "gas", "station", "and", "after", "browsing", "the", "menu", "I", "made", "note", "to", "come", "back", "."], "e1_text": "located", "e1_pos": 8, "e2_text": "browsing", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "tasted", "like", "it", "had", "been", "cooked", "that", "morning", "&", "then", "reheated", "right", "before", "they", "brought", "it", "it", "to", "me", ",", "not", "to", "mention", "that", "all", "the", "different", "flavors", "just", "really", "did", "n't", "work", "well", "together", "."], "e1_text": "reheated", "e1_pos": 12, "e2_text": "brought", "e2_pos": 16, "label": "before"}
+]

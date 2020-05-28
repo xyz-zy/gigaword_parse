@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "for", "45", "minutes", "after", "finishing", "our", "meals", "for", "him", "to", "come", "back", "for", "boxing", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 6, "label": "after"},
+{"tokens": ["Only", "then", "did", "Dave", "come", "over", "and", "ask", "how", "our", "meals", "were", "an", "hour", "after", "we", "were", "done", ",", "and", "when", "they", "were", "already", "boxed", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

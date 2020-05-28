@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "informed", "as", "we", "were", "sitting", "down", "after", "already", "placing", "our", "order", "that", "out", "dog", "had", "to", "sit", "outside", "the", "fence", "next", "to", "the", "table", "."], "e1_text": "sitting", "e1_pos": 6, "e2_text": "placing", "e2_pos": 10, "label": "after"}
+]

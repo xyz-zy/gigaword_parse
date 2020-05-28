@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "front", "desk", "said", "we", "would", "need", "to", "put", "down", "a", "deposit", "before", "we", "left", "...", "$", "600", "was", "cyphoned", "from", "my", "credit", "card", "faster", "than", "you", "can", "blink", "."], "e1_text": "need", "e1_pos": 6, "e2_text": "left", "e2_pos": 14, "label": "before"},
+{"tokens": ["Now", "comes", "the", "fun", "part", "...", "They", "took", "our", "dog", "with", "her", "collar", "and", "leash", "the", "day", "before", "when", "we", "left", "her", "there", ",", "as", "they", "quickly", "took", "her", "for", "tests", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "left", "e2_pos": 20, "label": "before"}
+]

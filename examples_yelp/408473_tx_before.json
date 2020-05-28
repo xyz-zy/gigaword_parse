@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "realize", "Mac", "sucked", "until", "they", "built", "their", "OS", "ontop", "of", "Unix", "-LRB-", "before", "Unix", "they", "sucked", "balls", "-RRB-", "."], "e1_text": "built", "e1_pos": 6, "e2_text": "sucked", "e2_pos": 3, "label": "before"}
+]

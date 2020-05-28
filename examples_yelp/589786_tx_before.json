@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "order", "for", "delivery", ",", "your", "sandwich", "might", "arrive", "in", "an", "hour", "fifteen", "-LRB-", "if", "it", "arrives", "at", "all", ",", "because", "this", "store", "does", "n't", "seem", "to", "honor", "every", "order", ",", "based", "on", "whether", "or", "not", "they", "feel", "like", "making", "and", "delivering", "it", "--", "seriously", "-RRB-", "wrapped", "in", "aluminum", "foil", ",", "soggy", "because", "of", "poor", "packaging", "and", "cold", "because", "it", "sat", "around", "fully", "dressed", "before", "someone", "felt", "like", "delivering", "it", "."], "e1_text": "dressed", "e1_pos": 64, "e2_text": "felt", "e2_pos": 67, "label": "before"}
+]

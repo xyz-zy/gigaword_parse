@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "soup", "was", "lukewarm", "at", "best", ",", "and", "the", "salad", "had", "approximately", "a", "half", "cup", "of", "dressing", "still", "in", "the", "bowl", "after", "I", "fished", "out", "the", "lettuce", "pieces", "."], "e1_text": "dressing", "e1_pos": 16, "e2_text": "fished", "e2_pos": 23, "label": "after"}
+]

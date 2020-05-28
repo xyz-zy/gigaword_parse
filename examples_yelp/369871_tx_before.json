@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "not", "the", "fault", "of", "the", "restaurant", ",", "-LRB-", "the", "service", "is", "usually", "really", "good", "-RRB-", "the", "pastys", "just", "have", "to", "bake", "for", "awhile", "and", "our", "18", "month", "old", "son", "gets", "antsy", "and", "is", "done", "with", "sitting", "in", "the", "highchair", "before", "the", "food", "arrives", "."], "e1_text": "sitting", "e1_pos": 37, "e2_text": "arrives", "e2_pos": 44, "label": "before"}
+]

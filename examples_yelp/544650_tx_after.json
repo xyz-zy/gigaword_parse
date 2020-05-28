@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "purchasing", "an", "express", "wash", "and", "running", "my", "car", "through", "it", "there", "was", "still", "bird", "poop", "on", "the", "window", "even", "after", "the", "employee", "wiped", "over", "it", "with", "the", "rag", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "wiped", "e2_pos": 23, "label": "after"}
+]

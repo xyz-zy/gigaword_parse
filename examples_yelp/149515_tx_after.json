@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "that", "I", "am", "too", "cheap", "to", "pay", "for", "it", ",", "is", "I", "felt", "the", "food", "was", "not", "fresh", ",", "felt", "sick", "after", "we", "ate", ",", "service", "was", "terrible", ",", "no", "matter", "how", "many", "times", "we", "ask", "them", "to", "take", "the", "order", "."], "e1_text": "felt", "e1_pos": 13, "e2_text": "ate", "e2_pos": 24, "label": "after"},
+{"tokens": ["It", "is", "only", "4", "hours", "after", "we", "ate", "there", "and", "I", "already", "spend", "an", "hour", "in", "and", "out", "of", "the", "bathroom", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "ate", "e2_pos": 7, "label": "after"}
+]

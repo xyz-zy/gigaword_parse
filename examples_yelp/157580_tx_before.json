@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "very", "flavorful", "and", "fresh", ",", "and", "although", "I", "'d", "order", "it", "again", ",", "I", "'d", "love", "to", "try", "a", "variety", "of", "other", "Vietnamese", "options", "that", "I", "'ve", "never", "tried", "before", "."], "e1_text": "love", "e1_pos": 17, "e2_text": "'ve", "e2_pos": 28, "label": "before"},
+{"tokens": ["Next", "time", ",", "though", ",", "we", "'ll", "study", "up", "on", "the", "menu", "before", "we", "go", "."], "e1_text": "study", "e1_pos": 7, "e2_text": "go", "e2_pos": 14, "label": "before"}
+]

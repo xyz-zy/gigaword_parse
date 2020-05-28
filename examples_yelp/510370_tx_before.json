@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "returned", "with", "the", "tire", "and", "was", "shocked", "when", "the", "same", "clerk", "that", "helped", "me", "the", "day", "before", "told", "me", "that", "''", "``", "this", "tire", "was", "not", "sold", "and", "installed", "to", "me", "by", "their", "store", "''", "''", "."], "e1_text": "shocked", "e1_pos": 7, "e2_text": "told", "e2_pos": 18, "label": "before"},
+{"tokens": ["Geez", "...", "I", "would", "drive", "on", "a", "sparking", "rim", "before", "I", "ever", "go", "back", "to", "Big", "O", "again", "."], "e1_text": "drive", "e1_pos": 4, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

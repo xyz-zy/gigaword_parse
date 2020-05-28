@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "raved", "about", "the", "biscuits", ",", "the", "ribs", ",", "and", "the", "apple", "butter", "for", "days", "before", "we", "attended", "my", "ceremony", ",", "and", "I", "was", "really", "excited", "to", "try", "the", "food", "."], "e1_text": "raved", "e1_pos": 1, "e2_text": "attended", "e2_pos": 17, "label": "before"}
+]

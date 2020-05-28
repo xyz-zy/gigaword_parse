@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "been", "turned", "away", "15", "minutes", "before", "the", "posted", "closing", "time", ",", "and", "just", "last", "night", "when", "I", "did", "make", "it", "inside", ",", "on", "time", ",", "I", "-LRB-", "my", "group", "of", "3", "people", "-RRB-", "was", "repeatedly", "reminded", "that", "''", "``", "it", "'s", "practically", "closing", "time", ",", "we", "close", "right", "now", ",", "just", "so", "you", "know", ",", "for", "next", "time", "...", "''", "''", "Two", "of", "the", "three", "orders", "were", "incorrect", "as", "well", "."], "e1_text": "turned", "e1_pos": 3, "e2_text": "posted", "e2_pos": 9, "label": "before"}
+]

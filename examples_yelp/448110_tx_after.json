@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "cops", "arrived", ",", "and", "spoke", "to", "Tammy", "on", "the", "phone", "after", "speaking", "to", "her", "employees", "."], "e1_text": "Tammy", "e1_pos": 7, "e2_text": "speaking", "e2_pos": 12, "label": "after"},
+{"tokens": ["She", "gave", "the", "officer", "a", "hard", "time", "on", "the", "phone", ",", "and", "after", "his", "discussion", "with", "Tammy", "asked", "me", "if", "I", "wanted", "to", "have", "her", "arrested", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "asked", "e2_pos": 17, "label": "after"}
+]

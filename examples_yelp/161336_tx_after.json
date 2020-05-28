@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "n't", "normally", "write", "a", "review", "but", "I", "got", "a", "nice", "surprise", "on", "my", "credit", "card", "bill", "after", "I", "left", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "left", "e2_pos": 20, "label": "after"},
+{"tokens": ["It", "was", "free", "at", "checkin", "and", "after", "I", "leave", "it", "'s", "not", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "leave", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dry", "cleaning", "-LRB-", "if", "effective", "-RRB-", "is", "an", "inconvenience", "for", "me", "which", "gets", "me", "back", "to", "where", "I", "was", "before", "I", "came", "in", ",", "I", "think", "that", "offering", "a", "dessert", "is", "something", "to", "make", "up", "for", "the", "inconvenience", "of", "making", "me", "and", "my", "dinner", "guest", "have", "to", "go", "to", "get", "our", "clothes", "dry", "cleaned", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

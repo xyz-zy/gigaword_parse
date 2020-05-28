@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "a", "playoff", "game", "that", "the", "Steelers", "ended", "up", "winning", "before", "taking", "home", "their", "6th", "Superbowl", "."], "e1_text": "winning", "e1_pos": 10, "e2_text": "taking", "e2_pos": 12, "label": "before"}
+]

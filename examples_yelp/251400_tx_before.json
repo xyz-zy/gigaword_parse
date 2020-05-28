@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "the", "way", "I", "was", "''", "``", "spamming", "''", "''", "their", "facebook", "page", "by", "asking", "for", "someone", "to", "email", "me", "back", "and", "please", "help", "me", "before", "I", "picked", "the", "laptop", "up", "-LRB-", "So", "I", "didnt", "go", "round", "and", "round", "with", "them", "-RRB-", "."], "e1_text": "help", "e1_pos": 23, "e2_text": "picked", "e2_pos": 27, "label": "before"}
+]

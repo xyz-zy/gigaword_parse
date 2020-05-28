@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "was", "before", "I", "even", "got", "to", "see", "what", "kind", "of", "tip", "I", "wanted", "to", "leave", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 5, "label": "before"},
+{"tokens": ["As", "soon", "as", "she", "came", "back", "up", "front", "with", "my", "dog", ",", "she", "started", "to", "help", "that", "person", "before", "she", "even", "handed", "me", "the", "leash", "."], "e1_text": "help", "e1_pos": 15, "e2_text": "handed", "e2_pos": 21, "label": "before"}
+]

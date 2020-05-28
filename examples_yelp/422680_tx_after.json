@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "pretty", "sure", "my", "friends", "and", "I", "stumbled", "into", "a", "coke", "party", "when", "we", "came", "here", "for", "a", "late", "bite", "after", "a", "house", "show", "back", "in", "the", "Neighborhood", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "show", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "slices", "came", "out", "first", ",", "and", "were", "cold", "even", "before", "we", "reminded", "them", "that", "we", "ordered", "garlic", "knots", "-", "which", "took", "an", "unholy", "20", "mintues", ",", "after", "we", "reminded", "them", "."], "e1_text": "took", "e1_pos": 21, "e2_text": "reminded", "e2_pos": 12, "label": "after"}
+]

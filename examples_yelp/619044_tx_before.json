@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "was", "n't", "overly", "friendly", "and", "our", "waitress", "needed", "things", "to", "be", "repeated", "a", "few", "times", "before", "she", "heard", "the", "order", "correctly", ",", "granted", "it", "was", "crowded", "and", "on", "the", "louder", "side", "."], "e1_text": "repeated", "e1_pos": 13, "e2_text": "heard", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "they", "were", "the", "first", "people", "waiting", "at", "the", "door", ",", "and", "were", "there", "about", "20", "minutes", "before", "they", "opened", ",", "another", "group", "of", "people", "strolled", "up", "in", "front", "of", "them", "right", "at", "opening", "and", "were", "seated", "first", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "opened", "e2_pos": 19, "label": "before"}
+]

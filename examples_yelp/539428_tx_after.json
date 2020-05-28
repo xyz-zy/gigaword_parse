@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "new", "renovations", "look", "wonderful", "at", "first", "glance", "but", "after", "some", "time", "things", "just", "started", "falling", "apart", "and", "it", "is", "now", "apparent", "to", "me", "that", "the", "job", "is", "merely", "an", "illusion", "because", "this", "place", "is", "being", "held", "together", "with", "duct", "tape", "-", "when", "in", "reality", "many", "things", "need", "replacing", "-LRB-", "carpet\\/cabinets\\/etc", ".", ".", "-RRB-"], "e1_text": "look", "e1_pos": 3, "e2_text": "started", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "vent", "in", "my", "bathroom", "is", "worthless", "and", "that", "area", "of", "my", "home", "stays", "wet", "and", "humid", "for", "hours", "after", "taking", "a", "shower", "."], "e1_text": "stays", "e1_pos": 13, "e2_text": "taking", "e2_pos": 20, "label": "after"}
+]

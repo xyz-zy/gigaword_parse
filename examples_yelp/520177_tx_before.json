@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "them", "if", "the", "dumplings", "were", "fresh", ",", "and", "they", "said", "that", "they", "make", "their", "dumplings", "from", "scratch", "the", "day", "before", "."], "e1_text": "said", "e1_pos": 11, "e2_text": "make", "e2_pos": 14, "label": "before"},
+{"tokens": ["They", "are", "then", "put", "in", "the", "freezer", "at", "night", "so", "they", "are", "ready", "to", "be", "steamed", "the", "next", "day", "before", "being", "served", "."], "e1_text": "steamed", "e1_pos": 15, "e2_text": "being", "e2_pos": 20, "label": "before"}
+]

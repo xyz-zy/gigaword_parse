@@ -1,0 +1,4 @@
+[
+{"tokens": ["Late", "that", "summer", "'s", "evening", "about", "a", "hundred", "of", "us", "crammed", "our", "way", "into", "its", "doors", "and", "flocked", "to", "the", "bar", "before", "heading", "to", "the", "legendary", "Potterow", "."], "e1_text": "flocked", "e1_pos": 17, "e2_text": "heading", "e2_pos": 22, "label": "before"},
+{"tokens": ["Some", "of", "the", "University", "sports", "teams", "use", "the", "pub", "as", "a", "place", "to", "pre-drink", "in", "before", "heading", "elsewhere", "but", "I", "assume", "they", "get", "discounts", "on", "the", "drinks", "otherwise", "they", "will", "have", "extremely", "expensive", "nights", "out", "!"], "e1_text": "pre-drink", "e1_pos": 13, "e2_text": "heading", "e2_pos": 16, "label": "before"}
+]

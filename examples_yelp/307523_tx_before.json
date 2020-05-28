@@ -1,0 +1,4 @@
+[
+{"tokens": ["People", "go", "out", "for", "breakfast", "on", "the", "weekends", "and", "might", "sleep", "late", "before", "they", "go", "out", ",", "so", "why", "are", "you", "out", "of", "anything", "before", "noon", "on", "a", "Saturday", "or", "Sunday", "?"], "e1_text": "sleep", "e1_pos": 10, "e2_text": "go", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "went", "to", "the", "other", "end", ",", "paid", ",", "and", "waited", "for", "about", "5", "more", "minutes", "before", "someone", "behind", "the", "counter", "flagged", "me", "down", "to", "tell", "me", "they", "were", "now", "out", "of", "asiago", "cheese", "bagels", "and", "what", "would", "my", "second", "choice", "be", "?"], "e1_text": "waited", "e1_pos": 10, "e2_text": "flagged", "e2_pos": 21, "label": "before"}
+]

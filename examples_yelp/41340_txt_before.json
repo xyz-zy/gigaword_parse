@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", "it", "was", "busy", "for", "a", "Sunday", ",", "but", "we", "sat", "for", "a", "good", "ten", "minutes", "before", "anyone", "took", "our", "order", ",", "but", "I", "had", "seen", "a", "couple", "that", "was", "seated", "well", "before", "us", "who", "had", "n't", "order", "yet", "either", "."], "e1_text": "sat", "e1_pos": 10, "e2_text": "took", "e2_pos": 18, "label": "before"}
+]

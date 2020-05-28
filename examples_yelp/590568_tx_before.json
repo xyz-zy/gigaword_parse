@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "speak", "to", "2", "different", "employees", "before", "the", "adjustment", "was", "made", ",", "and", "was", "told", "that", "there", "would", "be", "an", "additional", "$", "5.99", "because", "my", "make\\/model", "needed", "additional", "oil", "...", "When", "I", "pointed", "out", "that", "they", "had", "approached", "me", "after", "seeing", "my", "vehicle", ",", "with", "a", "$", "19.99", "offer", ",", "the", "additional", "oil", "fee", "was", "taken", "off", "."], "e1_text": "speak", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

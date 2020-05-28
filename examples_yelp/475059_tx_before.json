@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "also", "learned", "that", "the", "first", "driver", "was", "n't", "able", "to", "come", "so", "our", "food", "was", "prepared", "about", "an", "hour", "before", "we", "actually", "received", "it", ",", "and", "the", "quality", "showed", "--", "it", "was", "cold", "and", "dry", "."], "e1_text": "prepared", "e1_pos": 16, "e2_text": "received", "e2_pos": 23, "label": "before"}
+]

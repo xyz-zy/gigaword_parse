@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "The", "2", "passes", "cost", "$", "30", "total", ",", "which", "is", "normally", "the", "cost", "for", "a", "single", "green", "fee", ",", "after", "researching", "the", "course", "'s", "website", ".", "-RRB-"], "e1_text": "is", "e1_pos": 10, "e2_text": "researching", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "would", "end", "up", "waiting", "for", "them", "after", "we", "completed", "each", "hole", "."], "e1_text": "waiting", "e1_pos": 4, "e2_text": "completed", "e2_pos": 9, "label": "after"}
+]

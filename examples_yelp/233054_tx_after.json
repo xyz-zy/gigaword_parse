@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "lost", "our", "reservation", ",", "and", "only", "tried", "to", "fix", "the", "situation", "after", "we", "proved", "to", "them", "with", "the", "call", "log", "on", "our", "cell", "phone", "that", "we", "did", "indeed", "call", "them", "two", "weeks", "prior", "."], "e1_text": "fix", "e1_pos": 9, "e2_text": "proved", "e2_pos": 14, "label": "after"}
+]

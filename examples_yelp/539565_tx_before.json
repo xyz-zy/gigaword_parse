@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "a", "mexican", "restaurant", "?!", "\\*", "Cue", "5", "different", "employees", "walking", "by", "our", "table", "with", "long", "dark", "hair", "before", "we", "leave", "\\*", "Laughable", "."], "e1_text": "walking", "e1_pos": 10, "e2_text": "leave", "e2_pos": 20, "label": "before"}
+]

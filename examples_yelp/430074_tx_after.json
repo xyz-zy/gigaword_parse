@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "never", "gave", "me", "a", "manicure", "-LRB-", "which", "I", "realized", "after", "he", "polished", "because", "I", "was", "so", "mad", "about", "the", "drill", "-RRB-", ",", "yet", "they", "charged", "me", "anyway", "."], "e1_text": "realized", "e1_pos": 9, "e2_text": "polished", "e2_pos": 12, "label": "after"}
+]

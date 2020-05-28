@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "booked", "online", "and", "when", "we", "showed", "up", "they", "charged", "us", "an", "additional", "fee", "that", "was", "n't", "mentioned", "before", "."], "e1_text": "charged", "e1_pos": 9, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "give", "you", "coupons", "for", "a", "couple", "of", "on-site", "restaurants\\/bars", ",", "but", "when", "you", "try", "to", "use", "them", "you", "get", "attitude", "from", "the", "people", "working", "at", "the", "restaurants\\/bars", "and", "they", "come", "up", "with", "all", "kinds", "of", "restrictions", "that", "were", "n't", "mentioned", "before", "."], "e1_text": "come", "e1_pos": 30, "e2_text": "were", "e2_pos": 38, "label": "before"}
+]

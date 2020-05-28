@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "host", "was", "wonderful", "and", "attentive", "--", "I", "met", "him", "the", "day", "before", "when", "I", "dropped", "off", "the", "cake", "server", ",", "champagne", "glasses", ",", "cake", "toppers", ",", "and", "placecards", "."], "e1_text": "met", "e1_pos": 8, "e2_text": "dropped", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "chatted", "for", "about", "20", "minutes", "the", "day", "before", "about", "why", "we", "had", "chosen", "Vegas", "to", "get", "married", "and", "that", "sort", "of", "thing", "--", "on", "the", "day", "of", ",", "he", "was", "super", "sweet", "and", "he", "made", "sure", "everyone", "was", "taken", "care", "of", "completely", "."], "e1_text": "chatted", "e1_pos": 1, "e2_text": "was", "e2_pos": 30, "label": "before"}
+]

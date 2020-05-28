@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "after", "they", "have", "finished", "eating", ",", "but", "the", "food", "left", "on", "their", "plates", "did", "not", "appealing", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "have", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "liked", "that", "drink", ",", "but", "the", "waitress", "did", "not", "come", "back", "with", "my", "change", "-LRB-", "after", "I", "gave", "her", "a", "$", "20.00", "-RRB-", "."], "e1_text": "come", "e1_pos": 10, "e2_text": "gave", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "lines", "are", "long", "and", "the", "sandwiches", "are", "pretty", "decent", "at", "lunch", "time", ",", "and", "it", "'s", "certainly", "worth", "a", "try", "if", "you", "'ve", "never", "been", "here", "before", "."], "e1_text": "'s", "e1_pos": 16, "e2_text": "'ve", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "first", "time", "I", "was", "in", "there", ",", "about", "3", "different", "entrees", "were", "ordered", "before", "we", "picked", "something", "they", "were", "n't", "out", "of", "."], "e1_text": "ordered", "e1_pos": 13, "e2_text": "picked", "e2_pos": 16, "label": "before"}
+]

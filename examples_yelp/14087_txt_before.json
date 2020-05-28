@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "arrived", "there", "was", "only", "one", "table", "occupied", ",", "yet", "it", "took", "about", "10", "minutes", "before", "someone", "came", "to", "our", "table", ",", "as", "we", "were", "waiting", "I", "noticed", "a", "fly", "flying", "around", "inside", "the", "sugar", "dispenser", ".", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

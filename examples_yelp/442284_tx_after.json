@@ -1,0 +1,4 @@
+[
+{"tokens": ["Christina", "is", "kind", "of", "the", "after", "sale", "girl", "who", "takes", "care", "of", "customers", "-LRB-", "not", "sure", "what", "her", "official", "title", "is", "-RRB-", ",", "but", "she", "is", "amazing", "!"], "e1_text": "is", "e1_pos": 1, "e2_text": "takes", "e2_pos": 9, "label": "after"},
+{"tokens": ["Since", "they", "are", "the", "ONLY", "Subaru", "dealer", "in", "the", "state", ",", "I", "was", "worried", "about", "the", "service", "they", "would", "provide", "after", "we", "pay", "for", "the", "car", "and", "services", "-LRB-", "a", "lot", "of", "their", "cars", "come", "with", "some", "sort", "of", "service", "package", "-RRB-", ",", "but", "we", "have", "been", "extremely", "satisfied", "so", "far", "."], "e1_text": "provide", "e1_pos": 19, "e2_text": "pay", "e2_pos": 22, "label": "after"}
+]

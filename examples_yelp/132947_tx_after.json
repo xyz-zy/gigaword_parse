@@ -1,0 +1,4 @@
+[
+{"tokens": ["Coming", "in", "the", "late", "morning", "-", "it", "is", "Vegas", "after", "all", "and", "the", "only", "people", "awake", "in", "time", "for", "breakfast", "have", "not", "yet", "slept", "from", "the", "day", "before", "-", "I", "was", "hoping", "to", "have", "some", "eggs", "and", "potatoes", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "have", "e2_pos": 20, "label": "after"},
+{"tokens": ["Now", "the", "IPA", ",", "let", "me", "put", "it", "this", "way", ";", "I", "had", "to", "ask", "the", "waiter", "after", "a", "couple", "sips", "that", "he", "had", "n't", "accidentally", "brought", "me", "the", "Light", "beer", "."], "e1_text": "ask", "e1_pos": 14, "e2_text": "sips", "e2_pos": 20, "label": "after"}
+]

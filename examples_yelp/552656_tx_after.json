@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "was", "AN", "HOUR", "after", "we", "put", "our", "food", "order", "in", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "put", "e2_pos": 6, "label": "after"},
+{"tokens": ["While", "the", "place", "was", "busy", ",", "there", "never", "appeared", "to", "be", "a", "long", "wait", "to", "be", "seated", "and", "many", "tables", "around", "us", "who", "were", "seated", "well", "after", "us", "had", "already", "received", "their", "food", "and", "cashed", "out", "."], "e1_text": "seated", "e1_pos": 16, "e2_text": "had", "e2_pos": 28, "label": "after"},
+{"tokens": ["I", "am", "certain", "we", "wo", "n't", "be", "back", "because", "after", "all", ",", "who", "has", "more", "than", "2", "hours", "to", "wait", "for", "a", "fairly", "average", "hamburger", "?"], "e1_text": "be", "e1_pos": 6, "e2_text": "has", "e2_pos": 13, "label": "after"}
+]

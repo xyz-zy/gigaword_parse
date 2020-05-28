@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "is", "NOT", "SAFE", "!!!", "I", "came", "back", "to", "my", "room", "with", "my", "wife", "&", "her", "two", "friends", "after", "attending", "a", "wedding", "that", "evening", "to", "a", "scroungey", "smoking", "male", "leaving", "OUR", "ROOM", "with", "a", "black", "sack", "full", "of", "OUR", "BELONGINGS", "!"], "e1_text": "came", "e1_pos": 7, "e2_text": "attending", "e2_pos": 20, "label": "after"}
+]

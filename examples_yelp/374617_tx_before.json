@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "gon", "na", "start", "off", "with", "the", "basics", "before", "I", "get", "into", "my", "asinine", "complaint", "."], "e1_text": "start", "e1_pos": 4, "e2_text": "get", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "remember", "sobbing", "through", "many", "sessions", "and", "canceling", "appointments", "right", "before", "the", "wax", "was", "put", "on", "my", "skin", "."], "e1_text": "canceling", "e1_pos": 7, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

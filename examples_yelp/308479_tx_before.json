@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "left", "with", "our", "daughter", "and", "my", "husband", "waited", "ANOTHER", "10", "minutes", "for", "the", "food", "before", "they", "finally", "admitted", "it", "was", "n't", "done", "and", "gave", "us", "our", "money", "back", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "admitted", "e2_pos": 18, "label": "before"}
+]

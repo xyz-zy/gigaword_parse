@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "then", "Mr", "Bartender-Blocker", "tells", "me", "that", "someone", "before", "me", "waited", "45", "minutes", "for", "a", "bloody", "mary", "and", "I", "told", "him", "that", "that", "'s", "unacceptable", "and", "that", "I", "would", "have", "been", "helped", "if", "he", "did", "n't", "keep", "leaning", "in", "front", "of", "me", "and", "blocking", "the", "bartender", "from", "seeing", "me", "."], "e1_text": "tells", "e1_pos": 4, "e2_text": "waited", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "do", "n't", "think", "this", "guy", "had", "ever", "been", "called", "out", "on", "his", "shenanigans", "before", ",", "he", "was", "totally", "shocked", "."], "e1_text": "called", "e1_pos": 9, "e2_text": "was", "e2_pos": 17, "label": "before"}
+]

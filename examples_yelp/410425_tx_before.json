@@ -1,0 +1,3 @@
+[
+{"tokens": ["PS", "-LRB-", "the", "assessment", "employee", "took", "my", "body", "fat", "%", "when", "I", "first", "arrived", "-", "before", "I", "had", "even", "decided", "to", "sign", "up", "-", "and", "admitted", "to", "me", "that", "they", "tell", "potential", "customers", "their", "body", "fat", "%", "is", "higher", "-LRB-", "about", "10", "%", "-RRB-", "just", "to", "make", "them", "feel", "bad", "about", "themselves", "so", "they", "will", "sign", "up", "-RRB-", "BEWARE", "!"], "e1_text": "took", "e1_pos": 5, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

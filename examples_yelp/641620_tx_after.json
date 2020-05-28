@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "get", "greeted", "and", "are", "excited", "-LRB-", "once", "the", "guy", "leaves", "your", "room", "after", "telling", "you", "way", "too", "much", "information", "about", "everything", "...", "but", "he", "is", "very", "nice", "and", "kind", ".", "-RRB-"], "e1_text": "leaves", "e1_pos": 10, "e2_text": "telling", "e2_pos": 14, "label": "after"}
+]

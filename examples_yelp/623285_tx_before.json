@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "sauv", "blanc", "I", "had", "n't", "tried", "before", "-", "Frog", "Head", "I", "think", "-", "and", "it", "was", "really", "good", "."], "e1_text": "tried", "e1_pos": 8, "e2_text": "think", "e2_pos": 14, "label": "before"},
+{"tokens": ["For", "my", "entr", "\\", "u00e9e", ",", "I", "had", "the", "shrimp", ",", "which", "I", "'d", "had", "once", "before", "and", "it", "always", "delivers", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "'d", "e2_pos": 13, "label": "before"}
+]

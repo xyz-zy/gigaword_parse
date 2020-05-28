@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "'d", "say", "that", "we", "waited", "5", "minutes", "before", "they", "seated", "us", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "seated", "e2_pos": 10, "label": "before"},
+{"tokens": ["Half", "of", "the", "table", "was", "still", "dirty", ",", "if", "they", "were", "like", "any", "other", "type", "of", "restaurant", ",", "they", "would", "of", "cleaned", "the", "tables", "before", "seating", "their", "customers", "."], "e1_text": "cleaned", "e1_pos": 21, "e2_text": "seating", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "have", "never", "seen", "a", "restaurant", "that", "dirty", "before", ",", "I", "'ve", "done", "food", "inspections", "in", "another", "state", "."], "e1_text": "dirty", "e1_pos": 7, "e2_text": "'ve", "e2_pos": 11, "label": "before"}
+]

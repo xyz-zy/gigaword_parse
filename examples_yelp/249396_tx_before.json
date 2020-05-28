@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "broken", "before", "they", "were", "cooked", "therefore", "they", "were", "filled", "with", "cooked", "blood", "which", "was", "GROSS", "."], "e1_text": "broken", "e1_pos": 2, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "should", "have", "read", "the", "reviews", "before", "putting", "my", "car", "in", "park", "for", "this", "one", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "putting", "e2_pos": 7, "label": "before"}
+]

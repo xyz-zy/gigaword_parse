@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "star", ":", "He", "forgot", "to", "bring", "the", "wine", "before", "the", "food", ",", "then", "finally", "came", "around", "after", "we", "finished", "eating", "."], "e1_text": "bring", "e1_pos": 6, "e2_text": "came", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "were", "long", "past", "ready-to-go", ",", "so", "we", "had", "to", "just", "forget", "about", "the", "tip", "and", "leave", "barley", "enough", "cash", "for", "the", "bill", "on", "the", "table", "before", "walking", "out", "."], "e1_text": "leave", "e1_pos": 16, "e2_text": "walking", "e2_pos": 27, "label": "before"}
+]

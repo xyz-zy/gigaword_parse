@@ -1,0 +1,6 @@
+[
+{"tokens": ["Close", "the", "store", "before", "you", "get", "a", "worse", "rep", ":", "2", "Negro", "Modelos", ",", "1", "Ice", "Tea", "and", "Burro", "Plate", "-", "I", "miss", "Eddie", ",", "his", "daughter", "and", "Tony", "!!!", "If", "you", "do", "not", "know", "what", "I", "am", "talking", "about", "then", "stop", "reading", "now", ",", "you", "are", "not", "a", "long", "time", "patron", "of", "Los", "Dos", "."], "e1_text": "Close", "e1_pos": 0, "e2_text": "get", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "have", "been", "going", "to", "''", "``", "The", "Los", "''", "''", "since", "before", "they", "accepted", "plastic", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "accepted", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "talked", "for", "so", "long", "and", "ate", "almost", "the", "entire", "basket", "of", "chips", "before", "the", "first", "guy", "who", "told", "us", "the", "booth", "was", "reserved", "asked", "us", "if", "we", "were", "going", "to", "order", "food", "."], "e1_text": "ate", "e1_pos": 6, "e2_text": "asked", "e2_pos": 24, "label": "before"},
+{"tokens": ["So", "the", "only", "patrons", "where", "the", "ones", "that", "were", "there", "before", "."], "e1_text": "patrons", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "before"}
+]

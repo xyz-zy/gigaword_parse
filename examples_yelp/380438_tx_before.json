@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "love", "indian", "food", "and", "had", "reviewed", "the", "menu", "online", "before", "we", "came", "."], "e1_text": "reviewed", "e1_pos": 6, "e2_text": "came", "e2_pos": 12, "label": "before"},
+{"tokens": ["After", "repeating", "myself", "a", "couple", "of", "times", ",", "she", "actually", "took", "the", "menu", "and", "stared", "at", "it", "like", "she", "'d", "never", "seen", "it", "before", "."], "e1_text": "stared", "e1_pos": 14, "e2_text": "'d", "e2_pos": 19, "label": "before"}
+]

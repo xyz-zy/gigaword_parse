@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "assumed", "since", "I", "am", "the", "only", "customer", "there", "that", "it", "would", "be", "quick", "since", "I", "am", "going", "out", "of", "town", "right", "after", "this", "last", "task", "of", "changing", "my", "oil", "."], "e1_text": "going", "e1_pos": 17, "e2_text": "changing", "e2_pos": 27, "label": "after"}
+]

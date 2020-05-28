@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "son", "and", "I", "stood", "waiting", "for", "5", "minutes", "before", "someone", "even", "offered", "to", "help", "us", "without", "any", "other", "customers", "waiting", "ahead", "of", "us", "."], "e1_text": "stood", "e1_pos": 4, "e2_text": "offered", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "have", "at", "least", "5-10", "other", "pizza", "places", "I", "pass", "on", "my", "way", "to", "this", "place", "and", "Grimaldis", "just", "gave", "me", "an", "excuse", "to", "either", "try", "the", "others", "again", "or", "give", "them", "a", "first", "try", "before", "I", "return", "to", "this", "place", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "return", "e2_pos": 37, "label": "before"}
+]

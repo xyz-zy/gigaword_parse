@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "taken", "my", "boyfriend", "with", "me", "before", "because", "as", "part", "of", "my", "membership", "I", "'m", "allowed", "one", "day", "guest", "passes", "that", "I", "thought", "were", "free", "."], "e1_text": "taken", "e1_pos": 2, "e2_text": "'m", "e2_pos": 15, "label": "before"},
+{"tokens": ["Now", ",", "being", "that", "we", "'ve", "done", "this", "before", ",", "half", "the", "time", "without", "even", "having", "to", "give", "my", "guests", "name", "or", "it", "we", "do", ",", "it", "'s", "not", "name", "and", "number", "then", "''", "``", "have", "a", "nice", "day", "''", "''", "and", "we", "are", "off", "to", "workout", "."], "e1_text": "being", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 5, "label": "before"}
+]

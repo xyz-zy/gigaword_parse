@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ended", "up", "receiving", "an", "''", "``", "inconvenience", "''", "''", "credit", "card", "for", "$", "100", "after", "I", "had", "spent", "over", "$", "3,000.00", ",", "which", "was", "nice", "and", "at", "least", "some", "attempt", "at", "trying", "to", "restore", "good", "customer", "service", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "had", "e2_pos": 17, "label": "after"}
+]

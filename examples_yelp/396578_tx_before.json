@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "we", "sat", ",", "we", "took", "about", "5-10", "minutes", "to", "go", "through", "the", "menu", ",", "but", "it", "took", "another", "10", "before", "-LRB-", "maybe", "longer", ",", "I", "'m", "trying", "really", "hard", "here", "not", "to", "exaggerate", ",", "but", "it", "felt", "like", "a", "long", "time", "-RRB-", "someone", "took", "our", "order", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "took", "e2_pos": 5, "label": "before"},
+{"tokens": ["And", "I", "do", "n't", "know", "how", "long", "it", "was", "before", "we", "got", "our", "spring", "and", "summer", "rolls", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "got", "e2_pos": 11, "label": "before"},
+{"tokens": ["There", "were", "4", "of", "us", ",", "and", "a", "table", "of", "2", "who", "got", "seated", "wayyy", "after", "us", "got", "their", "appetizers\\/pho", "way", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "did", "e2_pos": 23, "label": "before"}
+]

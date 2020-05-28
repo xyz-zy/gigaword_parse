@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "reading", "about", "Monta", "here", "on", "Yelp", ",", "I", "was", "in", "the", "general", "area", "on", "Sunday", ",", "7\\/18\\/10", ",", "after", "learning", "another", "resto", "was", "closed", "on", "Sundays", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "learning", "e2_pos": 20, "label": "after"}
+]

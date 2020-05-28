@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "though", "I", "'m", "sure", "it", "'s", "been", "said", "before", ",", "I", "'ll", "say", "it", ":", "I", "LOVE", "LOVELAND", "."], "e1_text": "'m", "e1_pos": 3, "e2_text": "'s", "e2_pos": 6, "label": "before"},
+{"tokens": ["My", "friend", "Tracy", "P.", "had", "been", "raving", "about", "Loveland", "for", "a", "while", "before", "I", "made", "it", "into", "the", "store", "."], "e1_text": "raving", "e1_pos": 6, "e2_text": "made", "e2_pos": 14, "label": "before"}
+]

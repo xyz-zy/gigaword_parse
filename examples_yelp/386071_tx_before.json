@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "the", "brussel", "sprouts", "to", "be", "VERY", "bitter", "and", "could", "only", "eat", "3-4", "before", "the", "overwhelming", "bitterness", "became", "too", "much", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "became", "e2_pos": 18, "label": "before"},
+{"tokens": ["Our", "kids", "were", "halfway", "done", "with", "their", "food", "before", "our", "waitress", "came", "over", "to", "refill", "a", "glass", "and", "I", "asked", "where", "the", "food", "for", "the", "two", "adults", "was", "."], "e1_text": "done", "e1_pos": 4, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["DO", "NOT", "GO", "HERE", "!!", "The", "attendant", "at", "the", "beginning", "of", "the", "wash", "after", "you", "pay", "was", "so", "rude", ",", "he", "braked", "at", "me", "to", "put", "my", "receipt", "in", "the", "window", "with", "a", "''", "``", "How", "could", "you", "not", "know", "that", "you", "big", "idiot", "''", "''", "voice", ",", "then", "he", "banged", "on", "my", "window", "and", "said", "''", "``", "Is", "your", "car", "in", "neutral", "??!", "Is", "your", "foot", "of", "the", "break", "??!", "''", "''", "When", "I", "proceeded", "to", "show", "him", "that", "I", "had", "done", "both", "he", "said", "''", "``", "oh", "it", "is", "now", "?", "''", "''"], "e1_text": "!!", "e1_pos": 4, "e2_text": "pay", "e2_pos": 15, "label": "after"}
+]

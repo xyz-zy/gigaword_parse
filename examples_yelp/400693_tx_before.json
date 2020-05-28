@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "made", "the", "windshield", "dirtier", "than", "it", "was", "before", "I", "drove", "in", ",", "since", "I", "had", "cleaned", "it", "that", "morning", "very", "carefully", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "drove", "e2_pos": 10, "label": "before"}
+]

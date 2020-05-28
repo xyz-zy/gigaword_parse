@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "one", "earlier", "visit", ",", "the", "kitchen", "did", "make", "a", "mistake", "and", "sent", "out", "my", "banana", "pancakes", "with", "nuts", "included", "-LRB-", "before", "I", "knew", "they", "'d", "put", "whatever", "you", "want", "in", ",", "I", "used", "to", "order", "the", "banana", "nut", "pancakes", "sans", "nuts", "-RRB-", "."], "e1_text": "sent", "e1_pos": 12, "e2_text": "knew", "e2_pos": 23, "label": "before"}
+]

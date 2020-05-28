@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "recently", "become", "addicted", "to", "checking", "reviews", "to", "new", "places", "to", "eat", "before", "I", "head", "out", "&", "based", "on", "other", "reviews", "was", "pretty", "optimistic", "about", "trying", "Nick", "'s", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "head", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "busser", "was", "quick", "to", "refill", "beverages", "before", "half", "empty", "and", "offer", "more", "of", "the", "delicious", "bread", "once", "we", "had", "finished", "the", "original", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "empty", "e2_pos": 9, "label": "before"}
+]

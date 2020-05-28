@@ -1,0 +1,4 @@
+[
+{"tokens": ["Erika", "G", "was", "our", "server", "and", "she", "ran", "past", "our", "table", "a", "dozen", "times", "before", "acknowledging", "us", "."], "e1_text": "ran", "e1_pos": 7, "e2_text": "acknowledging", "e2_pos": 15, "label": "before"},
+{"tokens": ["She", "brought", "us", "bread", "-LRB-", "which", "was", "horribly", "stale", "-RRB-", "and", "disappeared", "for", "longer", "before", "buzzing", "by", "again", "to", "speedily", "take", "our", "order", "."], "e1_text": "disappeared", "e1_pos": 11, "e2_text": "buzzing", "e2_pos": 15, "label": "before"}
+]

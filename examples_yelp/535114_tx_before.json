@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "picked", "my", "bike", "up", "the", "next", "day", ",", "and", "the", "guy", "who", "helped", "me", "paused", "before", "giving", "it", "back", "because", "he", "noticed", "he", "had", "to", "make", "more", "adjustments", "to", "it", "."], "e1_text": "paused", "e1_pos": 15, "e2_text": "giving", "e2_pos": 17, "label": "before"},
+{"tokens": ["Next", "time", "I", "need", "something", "done", ",", "I", "think", "I", "will", "try", "another", "shop", "before", "returning", "to", "Broken", "Spoke", "."], "e1_text": "try", "e1_pos": 11, "e2_text": "returning", "e2_pos": 15, "label": "before"}
+]

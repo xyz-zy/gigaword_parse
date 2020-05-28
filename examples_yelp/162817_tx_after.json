@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "I", "really", "hope", "their", "housekeeping", "crew", "enjoy", "my", "gift", ",", "two", "hours", "after", "I", "check", "out", "I", "found", "out", "that", "I", "left", "something", "in", "the", "night", "stand", ",", "call", "their", "Lost", "and", "Found", "Dept", "and", "report", "the", "room", "number", "and", "location", "of", "the", "item", "well", "before", "the", "earliest", "check", "in", "time", ",", "10", "days", "later", "now", "and", "they", "still", "told", "me", "item", "not", "found", ",", "makes", "me", "wonder", "who", "gets", "their", "hand", "on", "it", "."], "e1_text": "enjoy", "e1_pos": 7, "e2_text": "check", "e2_pos": 15, "label": "after"}
+]

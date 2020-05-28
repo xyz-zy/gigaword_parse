@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "line", "was", "about", "an", "hour", "deep", "and", "it", "was", "a", "bit", "disconcerting", "to", "go", "through", "that", "after", "waiting", "an", "hour", "."], "e1_text": "go", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 18, "label": "after"},
+{"tokens": ["So", ",", "instead", "of", "paying", "$", "8\\/day", "with", "minimum", "taxes", ",", "as", "stated", "in", "the", "agreement", ",", "we", "paid", "3", "times", "that", "amount", "and", "that", "'s", "after", "declining", "insurance", "a", "dozen", "different", "ways", "."], "e1_text": "'s", "e1_pos": 25, "e2_text": "declining", "e2_pos": 27, "label": "after"}
+]

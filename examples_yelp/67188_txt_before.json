@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "a", "little", "worried", "this", "place", "might", "not", "be", "the", "cleanest", "of", "places", "and", "I", "want", "to", "kick", "myself", "for", "not", "looking", "into", "other", "birth", "control", "centers", "before", "making", "my", "appointment", "."], "e1_text": "looking", "e1_pos": 22, "e2_text": "making", "e2_pos": 29, "label": "before"},
+{"tokens": ["This", "was", "just", "a", "tiny", "prick", "from", "a", "diabetic", "blood", "testing", "pen", ",", "which", "I", "'ve", "had", "done", "before", "without", "any", "issue", "so", "I", "do", "n't", "know", "why", "my", "finger", "is", "still", "hurting", "unless", "it", "is", "infected", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 15, "label": "before"}
+]

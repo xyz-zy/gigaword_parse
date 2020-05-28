@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "almost", "7", "minutes", "before", "someone", "told", "us", "to", "sit", "wherever", "we", "wanted", "and", "did", "n't", "even", "offer", "us", "menus", "-", "we", "went", "and", "got", "those", "ourselves", "-LRB-", "this", "was", "after", "standing", "there", "staring", "at", "2", "people", "that", "work", "there", "-", "with", "zero", "response", "-", "as", "if", "we", "were", "n't", "even", "there", "!"], "e1_text": "took", "e1_pos": 1, "e2_text": "told", "e2_pos": 7, "label": "before"},
+{"tokens": ["Secondly", ",", "it", "took", "about", "10", "more", "minutes", "before", "someone", "asked", "us", "if", "we", "wanted", "something", "to", "drink", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "asked", "e2_pos": 10, "label": "before"}
+]

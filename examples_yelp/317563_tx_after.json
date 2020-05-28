@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pam", "at", "the", "Payless", "rental", "counter", "was", "constantly", "trying", "to", "upsell", "us", ",", "and", "even", "added", "on", "the", "prepaid", "gas", "tank", "after", "we", "requested", "not", "to", "have", "it", "."], "e1_text": "added", "e1_pos": 15, "e2_text": "requested", "e2_pos": 23, "label": "after"}
+]

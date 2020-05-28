@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "known", "better", "to", "order", "from", "here", "after", "hearing", "that", "the", "people", "that", "once", "owned", "W.G.", "Grinders", "owned", "this", "place", ",", "but", "for", "some", "reason", "I", "still", "ended", "up", "placing", "an", "order", ",", "bad", "mistake", "on", "my", "part", "."], "e1_text": "order", "e1_pos": 6, "e2_text": "hearing", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "next", "thing", "that", "irked", "me", "after", "seeing", "my", "food", "was", "realizing", "that", "I", "spend", "a", "good", "chunk", "of", "change", "for", "such", "a", "little", "amount", "of", "food", "."], "e1_text": "irked", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 7, "label": "after"}
+]

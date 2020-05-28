@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "while", "they", "are", "''", "``", "fast", "''", "''", "food", "-", "you", "could", "design", ",", "build", ",", "and", "crawl", "through", "your", "own", "drive-through", "before", "getting", "to", "the", "window", "of", "theirs", "."], "e1_text": "crawl", "e1_pos": 21, "e2_text": "getting", "e2_pos": 27, "label": "before"},
+{"tokens": ["Again", ",", "the", "food", "was", "n't", "too", "bad", "taste-wise", "-", "but", "if", "you", "want", "what", "you", "actually", "order", ",", "have", "them", "repeat", "it", "to", "you", ",", "repeat", "again", ",", "maybe", "go", "a", "third", "round", ",", "and", "then", "check", "your", "bag", "before", "you", "leave", "."], "e1_text": "check", "e1_pos": 37, "e2_text": "leave", "e2_pos": 42, "label": "before"}
+]

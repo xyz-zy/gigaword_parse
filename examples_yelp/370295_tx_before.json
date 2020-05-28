@@ -1,0 +1,3 @@
+[
+{"tokens": ["AGAIN", "?!?!", "Sure", ",", "it", "'s", "my", "fault", "for", "not", "checking", "before", "using", ",", "but", "is", "that", "the", "expectation", "of", "a", "hotel", "guest", "??", "Even", "after", "I", "had", "left", "a", "note", "for", "housekeeping", "the", "prior", "day", ",", "could", "n't", "they", "have", "double", "checked", "when", "they", "restocked", "the", "towels", "?"], "e1_text": "checking", "e1_pos": 10, "e2_text": "using", "e2_pos": 12, "label": "before"}
+]

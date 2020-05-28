@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "that", "was", "after", "we", "flagged", "her", "down", "to", "take", "it", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "flagged", "e2_pos": 5, "label": "after"},
+{"tokens": ["She", "came", "over", "again", ",", "after", "we", "flagged", "her", "down", ",", "saying", "we", "wanted", "dessert", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "flagged", "e2_pos": 7, "label": "after"}
+]

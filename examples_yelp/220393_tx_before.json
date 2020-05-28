@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "discreet", "and", "had", "taken", "care", "to", "fill", "wine", "glasses", "or", "cocktails", "before", "anyone", "sent", "out", "a", "search", "party", "."], "e1_text": "fill", "e1_pos": 8, "e2_text": "sent", "e2_pos": 15, "label": "before"},
+{"tokens": ["He", "even", "checked", "before", "making", "wine", "recommendations", "to", "see", "if", "we", "needed", "anything", "new", "or", "wanted", "to", "stay", "the", "course", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "making", "e2_pos": 4, "label": "before"}
+]

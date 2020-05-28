@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "this", "point", "-LRB-", "estimated", "10", "minutes", "after", "being", "seated", "-RRB-", ",", "I", "pulled", "out", "my", "phone", "and", "begun", "to", "time", "how", "long", "it", "would", "take", "to", "get", "waited", "on", "."], "e1_text": "estimated", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Three", "of", "our", "guests", "had", "the", "fried", "fish", "tacos", ",", "which", "were", "small", "and", "without", "much", "flavor", ",", "even", "after", "ordering", "additional", "sauce", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "ordering", "e2_pos": 20, "label": "after"}
+]

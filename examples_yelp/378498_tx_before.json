@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "hotel", "being", "the", "first", "of", "many", ",", "which", "really", "drew", "me", "in", "when", "it", "stated", "''", "``", "happy", "hour", "24\\/7", "''", "''", "on", "the", "sign", "outside", "before", "you", "pull", "up", "."], "e1_text": "stated", "e1_pos": 15, "e2_text": "pull", "e2_pos": 29, "label": "before"}
+]

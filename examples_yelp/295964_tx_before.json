@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "no", "spice", "to", "them", "at", "all", ",", "and", "they", "were", "overcooked", "a", "bit", "-LRB-", "I", "think", "the", "restaurant", "probably", "par-cooks", "them", "before", "then", "refries", "them", "to", "order", "to", "make", "sure", "everything", "is", "cooked", "-RRB-", "."], "e1_text": "par-cooks", "e1_pos": 21, "e2_text": "refries", "e2_pos": 25, "label": "before"}
+]

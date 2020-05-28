@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "not", "her", "fault", ",", "but", "I", "think", "it", "'s", "fair", "to", "instill", "a", "basic", "language", "vocabulary", "within", "an", "employee", "before", "they", "hit", "the", "salon", "floor", "."], "e1_text": "instill", "e1_pos": 13, "e2_text": "hit", "e2_pos": 23, "label": "before"},
+{"tokens": ["My", "gels", "lasted", "one", "week", "before", "they", "began", "peeling", ",", "and", "my", "manicure", "was", "such", "a", "nightmare", ",", "I", "do", "n't", "even", "want", "to", "go", "into", "the", "details", "."], "e1_text": "lasted", "e1_pos": 2, "e2_text": "began", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "option", "to", "walk", "around", "the", "shops", "before", "you", "go", "to", "your", "movie", "is", "made", "possible", "by", "Regal", "Fives", "reserved", "seating", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "go", "e2_pos": 9, "label": "before"},
+{"tokens": ["Sat", "in", "the", "third", "row", "because", "we", "got", "there", "20", "minutes", "before", "the", "movie", "started", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "started", "e2_pos": 14, "label": "before"}
+]

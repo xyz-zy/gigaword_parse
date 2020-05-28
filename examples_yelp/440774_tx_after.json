@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "scheduled", "another", "appointment", "after", "I", "found", "out", "I", "was", "pregnant", "."], "e1_text": "scheduled", "e1_pos": 1, "e2_text": "found", "e2_pos": 6, "label": "after"},
+{"tokens": ["So", "I", "called", "the", "office", "and", "was", "told", "they", "Rx", "'s", "are", "generally", "sent", "after", "closing", "at", "5pm", "...", "Sooo", ",", "at", "5pm", "I", "went", "back", "to", "CVS", "and", "waited", "over", "an", "hour", "for", "an", "RX", "that", "was", "never", "sent", "."], "e1_text": "sent", "e1_pos": 13, "e2_text": "closing", "e2_pos": 15, "label": "after"}
+]

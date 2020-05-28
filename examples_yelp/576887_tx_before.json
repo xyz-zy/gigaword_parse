@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "went", "up", "to", "inquire", "about", "my", "pizza", "they", "said", ",", "''", "``", "yup", "you", "got", "the", "two", "slices", "''", "''", "acknowledging", "that", "I", "had", "placed", "an", "order", "even", "before", "I", "had", "spoken", "to", "ask", "where", "my", "pizza", "was", "."], "e1_text": "placed", "e1_pos": 26, "e2_text": "had", "e2_pos": 25, "label": "before"},
+{"tokens": ["Then", "they", "said", ",", "''", "``", "we", "'re", "making", "a", "new", "one", "''", "''", ",", "again", "all", "before", "I", "even", "asked", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "asked", "e2_pos": 20, "label": "before"}
+]

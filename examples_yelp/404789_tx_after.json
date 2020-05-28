@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "talking", "about", "what", "I", "do", ",", "where", "I", "'m", "from", "among", "other", "things", "I", "ended", "up", "with", "the", "Red", "Flight", "as", "I", "was", "trying", "to", "get", "into", "Reds", "at", "the", "time", "and", "after", "my", "flight", "I", "must", "say", "The", "Red", "Flight", "is", "a", "MUST", "!!", "I", "LOVE", "this", "place", ",", "it", "'s", "like", "CHEERS", "everyone", "is", "so", "down", "to", "earth", "and", "friendly", "there", "this", "includes", "the", "staff", "and", "the", "patrons", "."], "e1_text": "talking", "e1_pos": 1, "e2_text": "is", "e2_pos": 42, "label": "after"},
+{"tokens": ["I", "decided", "to", "move", "to", "NC", "after", "working", "in", "NC", "for", "a", "year", "so", "it", "'s", "just", "a", "short", "drive", "-LRB-", "in", "my", "opinion", "-RRB-", "away", "from", "Charlotte", "."], "e1_text": "NC", "e1_pos": 5, "e2_text": "working", "e2_pos": 7, "label": "after"}
+]

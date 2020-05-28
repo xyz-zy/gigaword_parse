@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "suppose", "that", "is", "his", "job", ",", "after", "all", ":", "make", "more", "money", "for", "the", "restaurant", ",", "and", ",", "in", "turn", ",", "more", "in", "tips", "for", "himself", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "make", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "wanted", "to", "sanitize", "my", "hand", "after", "picking", "it", "up", "."], "e1_text": "sanitize", "e1_pos": 3, "e2_text": "picking", "e2_pos": 7, "label": "after"}
+]

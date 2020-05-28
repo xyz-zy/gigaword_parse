@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turn", "it", "back", "down", ",", "it", "would", "be", "warm", "for", "2", "seconds", "before", "getting", "cold", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "getting", "e2_pos": 13, "label": "before"},
+{"tokens": ["There", "is", "a", "card", "key", "device", "where", "you", "have", "to", "swipe", "your", "card", "before", "getting", "access", "to", "guest", "floors", "...", "but", "I", "never", "had", "to", "swipe", "my", "card", "once", "."], "e1_text": "swipe", "e1_pos": 10, "e2_text": "getting", "e2_pos": 14, "label": "before"}
+]

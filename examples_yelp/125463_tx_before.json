@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "my", "husband", "walked", "up", "and", "he", "had", "never", "received", "a", "card", "there", "before", "so", "the", "employee", "Paul", "-LRB-", "I", "believe", "-RRB-", "explained", "the", "benefits", "to", "him", "."], "e1_text": "received", "e1_pos": 9, "e2_text": "explained", "e2_pos": 22, "label": "before"}
+]

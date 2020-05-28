@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "sure", "what", "to", "order", "but", "I", "was", "able", "to", "try", "each", "meat", "before", "I", "made", "my", "decision", "."], "e1_text": "try", "e1_pos": 12, "e2_text": "made", "e2_pos": 17, "label": "before"},
+{"tokens": ["He", "loved", "everything", "on", "his", "plate", "-LRB-", "baked", "beans", "and", "mashed", "potatoes", "-RRB-", "and", "was", "done", "way", "before", "I", "took", "my", "third", "bite", "-LRB-", "so", "it", "seemed", "-RRB-", "."], "e1_text": "done", "e1_pos": 15, "e2_text": "took", "e2_pos": 19, "label": "before"}
+]

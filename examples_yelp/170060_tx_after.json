@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wanted", "to", "be", "with", "my", "family", "on", "the", "same", "floor", "and", "she", "put", "me", "on", "a", "different", "floor", ",", "right", "after", "I", "said", "''", "``", "oh", "I", "want", "to", "be", "with", "the", "family", "!", "''", "''"], "e1_text": "put", "e1_pos": 13, "e2_text": "said", "e2_pos": 23, "label": "after"}
+]

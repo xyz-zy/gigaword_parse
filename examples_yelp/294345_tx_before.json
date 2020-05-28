@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "were", "then", "treated", "to", "the", "history", "of", "the", "restaurant", "and", "how", "Bobby", "Darin", "died", "before", "it", "came", "to", "be", "."], "e1_text": "died", "e1_pos": 14, "e2_text": "came", "e2_pos": 17, "label": "before"},
+{"tokens": ["He", "finished", "his", "steak", "before", "I", "got", "halfway", "through", "the", "pasta", ",", "but", "Jerky", "Unaccented", "Waiter", "cleared", "both", "dishes", "anyway", "."], "e1_text": "finished", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "did", "n't", "have", "the", "heart", "to", "tell", "him", "it", "tasted", "awful", "before", "I", "dropped", "a", "salt", "lick", "over", "it", ",", "and", "basically", "said", "it", "grew", "legs", "and", "disappeared", "before", "I", "could", "finish", "it", "."], "e1_text": "tasted", "e1_pos": 10, "e2_text": "dropped", "e2_pos": 14, "label": "before"}
+]

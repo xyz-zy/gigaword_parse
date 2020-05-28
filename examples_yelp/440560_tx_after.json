@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "attempted", "to", "give", "me", "a", "''", "``", "one", "size", "fits", "all", "''", "''", "haircut", "which", "left", "my", "hair", "a", "mess", "even", "after", "I", "was", "very", "specific", "in", "what", "I", "wanted", "."], "e1_text": "left", "e1_pos": 16, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

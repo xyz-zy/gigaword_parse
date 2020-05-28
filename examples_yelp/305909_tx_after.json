@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "in", "dismay", "as", "people", "seated", "after", "us", "were", "able", "to", "place", "their", "orders", "first", "."], "e1_text": "seated", "e1_pos": 6, "e2_text": "were", "e2_pos": 9, "label": "after"},
+{"tokens": ["While", "they", "were", "seated", "fairly", "quickly", ",", "when", "i", "left", "they", "were", "going", "on", "50", "minutes", "after", "ordering", "to", "receive", "anything", "but", "chips", "."], "e1_text": "going", "e1_pos": 12, "e2_text": "ordering", "e2_pos": 17, "label": "after"}
+]

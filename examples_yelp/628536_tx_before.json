@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "is", "a", "list", "of", "no-no", "'s", "we", "experienced", "in", "our", "visit", ":", "\\*", "No", "greeting", "when", "we", "first", "came", "in", "\\*", "We", "sat", "ourselves", "and", "5-10", "minutes", "went", "by", "before", "she", "acknowledged", "us", "...", "and", "there", "were", "only", "3", "tables", "sat", "at", "the", "time", "\\*", "This", "lady", "was", "flustered", "and", "all", "over", "the", "place", "."], "e1_text": "went", "e1_pos": 28, "e2_text": "acknowledged", "e2_pos": 32, "label": "before"}
+]

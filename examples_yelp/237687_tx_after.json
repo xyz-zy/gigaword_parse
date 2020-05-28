@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", ",", "she", "got", "a", "rash", "all", "over", "her", "neck", "-LRB-", "even", "after", "being", "washed", "down", "at", "home", "afterwards", "-RRB-", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["She", "had", "to", "take", "her", "dog", "to", "the", "vet", "emergently", "because", "she", "would", "n't", "drink", "any", "water", ",", "could", "barely", "get", "up", ",", "and", "was", "breathing", "very", "heavily", "after", "being", "sick", "at", "the", "park", "."], "e1_text": "breathing", "e1_pos": 25, "e2_text": "being", "e2_pos": 29, "label": "after"}
+]

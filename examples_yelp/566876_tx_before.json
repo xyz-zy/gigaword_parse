@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "two", "friends", "order", "two", "beers", ",", "and", "are", ",", "again", ",", "carded", "before", "being", "served", "their", "beers", "."], "e1_text": "carded", "e1_pos": 12, "e2_text": "being", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "have", "many", "doubts", "they", "will", "sell", "through", "500", "differing", "beers", "-LRB-", "x", "however", "many", "cases", "of", "each", "they", "have", "-RRB-", "before", "they", "start", "to", "get", "questionable", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "start", "e2_pos": 23, "label": "before"}
+]

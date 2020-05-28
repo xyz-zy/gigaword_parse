@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "review", "after", "one", "visit", "in", "order", "to", "make", "sure", "that", "I", "did", "n't", "catch", "them", "on", "a", "bad", "night", "-LRB-", "or", "a", "good", "one", "-RRB-", "."], "e1_text": "review", "e1_pos": 2, "e2_text": "visit", "e2_pos": 5, "label": "after"},
+{"tokens": ["-LRB-", "Same", "waiter", "both", "visits", "-RRB-", "There", "are", "four", "of", "us", "and", "when", "taking", "our", "drink", "order", "he", "left", "after", "getting", "two", "drinks", "as", "my", "wife", "and", "daughter", "hesitated", "while", "ordering", "."], "e1_text": "left", "e1_pos": 18, "e2_text": "hesitated", "e2_pos": 28, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "actually", "came", "here", "to", "do", "some", "quick", "shopping", "at", "the", "gift", "store", "and", "was", "going", "to", "stay", "for", "dinner", "but", "the", "line", "was", "way", "too", "long", "to", "eat", "dinner", "and", "make", "it", "to", "the", "club", "before", "the", "guest", "list", "closed", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "closed", "e2_pos": 40, "label": "before"}
+]

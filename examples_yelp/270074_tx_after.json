@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "the", "fireworks", "in", "my", "room", "after", "the", "Strip", "got", "too", "crazy", "."], "e1_text": "watched", "e1_pos": 1, "e2_text": "got", "e2_pos": 10, "label": "after"},
+{"tokens": ["That", "strategy", "did", "n't", "work", "for", "New", "Years", "since", "the", "traffic", "was", "so", "intense", "after", "the", "police", "closed", "the", "strip", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "closed", "e2_pos": 17, "label": "after"}
+]

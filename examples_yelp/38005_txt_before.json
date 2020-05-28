@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "the", "trio", "of", "hummus", "before", "but", "I", "prefer", "the", "original", "flavor", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "prefer", "e2_pos": 10, "label": "before"},
+{"tokens": ["Just", "make", "sure", "if", "you", "order", "to", "go", ",", "check", "your", "bag", "of", "food", "before", "you", "leave", "to", "make", "sure", "you", "have", "gotten", "everything", "you", "have", "paid", "for", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "leave", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "steak", "itself", "was", "super", "small", "and", "had", "the", "consistency", "of", "chewing", "gum", "-LRB-", "but", "after", "you", "have", "chewed", "on", "it", "for", "hours", "and", "it", "has", "lost", "all", "of", "its", "flavor", "-RRB-", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "have", "e2_pos": 17, "label": "after"}
+]

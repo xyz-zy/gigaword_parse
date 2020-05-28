@@ -1,0 +1,4 @@
+[
+{"tokens": ["4", "of", "us", "went", "for", "happy", "hour", ",", "and", "we", "told", "the", "waitress", "before", "we", "ordered", "anything", "that", "we", "wanted", "separate", "checks", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "would", "have", "been", "a", "different", "story", "if", "we", "had", "asked", "her", "for", "split", "checks", "at", "the", "end", "of", "the", "meal", ",", "but", "we", "specifically", "told", "her", "before", "we", "began", "ordering", "that", "we", "wanted", "to", "pay", "separately", "."], "e1_text": "told", "e1_pos": 25, "e2_text": "began", "e2_pos": 29, "label": "before"}
+]

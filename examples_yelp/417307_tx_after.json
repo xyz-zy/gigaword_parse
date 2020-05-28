@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "prices", "were", "not", "too", "outrageous", "considering", "the", "location", "and", "when", "a", "dish", "we", "ordered", "arrived", "super", "late", "after", "we", "had", "already", "finished", "eating", "the", "server", "graciously", "took", "it", "off", "our", "bill", "."], "e1_text": "arrived", "e1_pos": 15, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

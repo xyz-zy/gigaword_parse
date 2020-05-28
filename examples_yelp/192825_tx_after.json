@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "father", "felt", "sick", "all", "night", "after", "eating", "here", "."], "e1_text": "felt", "e1_pos": 2, "e2_text": "eating", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "could", "understand", "why", "after", "looking", "at", "all", "the", "strange", "colored", "meat", "he", "was", "inhaling", "."], "e1_text": "understand", "e1_pos": 2, "e2_text": "looking", "e2_pos": 5, "label": "after"}
+]

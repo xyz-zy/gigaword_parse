@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "My", "best", "friend", "had", "never", "had", "a", "mimosa", "before", "so", "we", "need", "to", "change", "that", "pronto", ".", "-RRB-"], "e1_text": "had", "e1_pos": 6, "e2_text": "need", "e2_pos": 12, "label": "before"}
+]

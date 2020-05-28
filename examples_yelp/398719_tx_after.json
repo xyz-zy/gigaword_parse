@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "not", "that", "anyone", "was", "rude", "-LRB-", "they", "were", "cordial", "-RRB-", ",", "but", "you", "never", "felt", "like", "anything", "you", "mentioned", "was", "thought", "of", "for", "even", "one", "second", "after", "the", "issue", "was", "raised", "."], "e1_text": "thought", "e1_pos": 22, "e2_text": "was", "e2_pos": 5, "label": "after"},
+{"tokens": ["They", "charge", "you", "a", "premium", "for", "limited", "amenities", "and", "you", "are", "pretty", "much", "on", "your", "own", "after", "signing", "your", "contract", "."], "e1_text": "are", "e1_pos": 10, "e2_text": "signing", "e2_pos": 17, "label": "after"}
+]

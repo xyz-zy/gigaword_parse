@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "decided", "to", "eat", "here", "after", "I", "got", "a", "haircut", "at", "Supercuts", "-LRB-", "4\\/20\\/09", "-RRB-", ",", "which", "is", "a", "couple", "of", "doors", "down", "from", "this", "place", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

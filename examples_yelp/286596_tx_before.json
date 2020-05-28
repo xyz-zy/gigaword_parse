@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tried", "to", "claim", "it", "at", "the", "bar", "upstairs", ",", "was", "sent", "4", "different", "places", "before", "a", "bartender", "finally", "told", "me", "the", "correct", "place", "to", "go", ",", "which", "was", "the", "hostess", "booth", "downstairs", "."], "e1_text": "sent", "e1_pos": 10, "e2_text": "told", "e2_pos": 18, "label": "before"}
+]

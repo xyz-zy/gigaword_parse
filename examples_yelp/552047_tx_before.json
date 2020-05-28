@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "started", "most", "games", "before", "everyone", "had", "a", "chance", "to", "enter", "the", "field", ",", "which", "was", "annoying", "."], "e1_text": "started", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["Rather", "they", "having", "red", "and", "blue", "areas", "of", "the", "briefing", "room", "and", "allowing", "players", "to", "see", "who", "'s", "on", "what", "team", "and", "choose", "what", "team", "they", "want", "to", "be", "on", "before", "suiting", "up", ",", "teams", "are", "n't", "decided", "until", "they", "enter", "the", "briefing", "room", "."], "e1_text": "be", "e1_pos": 28, "e2_text": "suiting", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "food", "came", "out", "before", "the", "appetizer", "which", "completely", "defeats", "the", "purpose", ",", "but", "aside", "from", "that", "it", "turns", "out", "our", "server", "never", "put", "in", "the", "order", "so", "our", "appetizer", "ended", "up", "being", "our", "dessert", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "put", "e2_pos": 23, "label": "before"}
+]

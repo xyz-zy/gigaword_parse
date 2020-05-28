@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wine", "bar", "where", "we", "passed", "our", "time", "before", "being", "seated", "was", "charming", ",", "with", "a", "rustic", "theme", "suffusing", "the", "area", "."], "e1_text": "passed", "e1_pos": 5, "e2_text": "being", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "could", "not", "help", "but", "wonder", "whether", "the", "writer", "of", "the", "famous", "New", "York", "Times", "article", "had", "ever", "eaten", "pizza", "before", "."], "e1_text": "wonder", "e1_pos": 5, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

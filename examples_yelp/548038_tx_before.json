@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "night", "I", "decided", "to", "venture", "out", "and", "order", "pizza", "from", "a", "new", "place", "I", "have", "never", "ordered", "before", "and", "after", "reading", "all", "the", "reviews", "from", "Pizza", "Natali", "I", "decided", "to", "give", "this", "place", "a", "chance", "."], "e1_text": "ordered", "e1_pos": 17, "e2_text": "reading", "e2_pos": 21, "label": "before"}
+]

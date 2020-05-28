@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "owner", "only", "cares", "about", "money", "due", "to", "the", "fact", "they", "told", "me", "they", "could", "n't", "wash", "my", "car", "-LRB-", "after", "it", "sat", "in", "their", "parking", "lot", "for", "4", "hours", "-RRB-", "because", "they", "were", "just", "about", "to", "close", "."], "e1_text": "wash", "e1_pos": 16, "e2_text": "sat", "e2_pos": 22, "label": "after"},
+{"tokens": ["After", "talking", "with", "them", "for", "about", "10", "minutes", "about", "it", "they", "washed", "it", ",", "but", "when", "they", "were", "almost", "done", "washing", "it", "another", "customer", "pulled", "up", "saying", "he", "would", "pay", "an", "extra", "20", "$", "if", "they", "would", "wash", "it", ",", "no", "questions", "asked", "they", "pulled", "it", "in", "after", "they", "were", "closed", "and", "washed", "it", "."], "e1_text": "pulled", "e1_pos": 24, "e2_text": "were", "e2_pos": 17, "label": "after"}
+]

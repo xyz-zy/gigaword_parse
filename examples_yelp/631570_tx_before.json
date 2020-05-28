@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "came", "out", "pretty", "quickly", ",", "although", "my", "dish", "came", "out", "a", "few", "minutes", "before", "my", "friends", ",", "which", "was", "a", "little", "annoying", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "was", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "still", "could", "n't", "get", "the", "pork", "belly", "out", "of", "my", "head", ",", "so", "I", "'ll", "likely", "have", "to", "come", "back", "for", "that", ",", "but", "I", "'ve", "learned", "my", "lesson", "and", "will", "call", "in", "advance", "to", "make", "sure", "that", "they", "have", "it", "ready", "before", "coming", "in", "."], "e1_text": "have", "e1_pos": 40, "e2_text": "coming", "e2_pos": 44, "label": "before"}
+]

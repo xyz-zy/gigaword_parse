@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "upset", "because", "it", "is", "very", "unprofessional", ",", "I", "work", "in", "the", "Legal", "field", ",", "before", "threatening", "any", "of", "the", "clients", "with", "''", "``", "aggressive", "action", "''", "''", "we", "give", "out", "various", "warnings", ",", "call", ",", "letters", ",", "emails", ",", "you", "name", "it", "!"], "e1_text": "work", "e1_pos": 10, "e2_text": "threatening", "e2_pos": 17, "label": "before"},
+{"tokens": ["If", "that", "'s", "not", "effective", "then", "we", "either", "turn", "them", "over", "to", "collections", "or", "take", "legal", "action", "before", "we", "tarnish", "their", "credit", "."], "e1_text": "take", "e1_pos": 14, "e2_text": "tarnish", "e2_pos": 19, "label": "before"}
+]

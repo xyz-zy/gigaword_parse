@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "59", "or", "so", "on", "the", "''", "``", "List", "''", "''", "after", "getting", "out", "of", "line", "to", "get", "back", "in", "line", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "getting", "e2_pos": 14, "label": "after"},
+{"tokens": ["-LRB-", "We", "asked", "-RRB-", "But", ",", "were", "told", "it", "was", "going", "to", "be", "''", "``", "overflow", "'", "that", "never", "happened", ",", "because", "after", "raging", "and", "them", "offering", "us", "a", "bench", "seat", "to", "sit", "on", "with", "4", "other", "people", ",", "-LRB-", "yes", ",", "no", "table", ",", "a", "bench", "-RRB-", "we", "went", "back", "to", "the", "bar", "where", "we", "had", "been", "drinking", "earlier", "-LRB-", "and", "were", "told", "to", "clear", "out", "because", "we", "followed", "directions", "-RRB-", "."], "e1_text": "be", "e1_pos": 12, "e2_text": "raging", "e2_pos": 23, "label": "after"}
+]

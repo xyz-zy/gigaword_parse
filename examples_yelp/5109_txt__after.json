@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "03\\/13", "-RRB-", "Starting", "off", "with", "last", "night", "-LRB-", "Wednesday", "-RRB-", ",", "my", "roommate", "and", "I", "planned", "to", "go", "after", "I", "got", "off", "work", "for", "their", "National", "Raviolli", "day", "coupon", "."], "e1_text": "go", "e1_pos": 18, "e2_text": "got", "e2_pos": 21, "label": "after"},
+{"tokens": ["It", "was", "a", "little", "awkward", "for", "us", "and", "after", "waiting", "for", "maybe", "5", "minutes", "while", "discussing", "whether", "we", "should", "stay", "or", "not", ",", "we", "left", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

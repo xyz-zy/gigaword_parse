@@ -1,0 +1,4 @@
+[
+{"tokens": ["Four", "of", "us", "went", "for", "dinner", "and", "drinks", "on", "a", "Saturday", "evening", ",", "before", "it", "got", "busy", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "got", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "went", "into", "the", "main", "bar", "area", "and", "actually", "had", "to", "move", "before", "we", "got", "our", "food", "because", "there", "were", "about", "20", "flies", "just", "attacking", "our", "area", "--", "it", "was", "pretty", "disgusting", "thinking", "that", "we", "were", "going", "to", "try", "to", "eat", "there", "."], "e1_text": "move", "e1_pos": 11, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

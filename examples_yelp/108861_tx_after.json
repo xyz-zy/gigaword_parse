@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "on", "either", "my", "first", "or", "second", "time", "there", ",", "the", "waitress", "brought", "out", "another", "dish", "on-the-house", "after", "we", "finished", "our", "meals", "."], "e1_text": "brought", "e1_pos": 14, "e2_text": "finished", "e2_pos": 21, "label": "after"}
+]

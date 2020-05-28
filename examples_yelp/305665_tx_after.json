@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "super", "excited", "to", "check", "out", "Zada", "Janes", "but", "not", "so", "super", "excited", "after", "waiting", "45", "minutes", "for", "my", "food", "!"], "e1_text": "excited", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "finally", "got", "so", "heated", "that", "I", "walked", "in", "to", "find", "the", "server", "and", "politely", "told", "her", "that", "we", "had", "been", "waiting", "nearly", "40", "minutes", "for", "our", "food", "and", "that", "people", "who", "arrived", "after", "us", "had", "their", "meal", "."], "e1_text": "arrived", "e1_pos": 32, "e2_text": "had", "e2_pos": 19, "label": "after"},
+{"tokens": ["Not", "to", "mention", ",", "after", "reading", "other", "reviews", ",", "I", "'m", "not", "alone", "in", "my", "terrible", "service", "experience", "!"], "e1_text": "mention", "e1_pos": 2, "e2_text": "reading", "e2_pos": 5, "label": "after"}
+]

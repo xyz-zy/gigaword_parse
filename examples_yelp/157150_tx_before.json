@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "needless", "to", "say", "with", "the", "massiveness", "of", "these", "beasts", ",", "a", "mess", "is", "inevitable", "A", "quick", "look", "at", "the", "napkin", "holder", "to", "grab", "as", "many", "as", "you", "can", "before", "anyone", "else", "at", "your", "table", "does", ",", "only", "to", "realize", "it", "'s", "empty", ".", "''"], "e1_text": "is", "e1_pos": 13, "e2_text": "does", "e2_pos": 35, "label": "before"},
+{"tokens": ["...", "In", "a", "monotone", "voice", ",", "&", "an", "obviously", "not", "so", "thrilled", "manner", ",", "she", "replies", "''", "``", "They", "get", "filled", "once", "a", "day", ",", "before", "we", "open", "."], "e1_text": "filled", "e1_pos": 20, "e2_text": "open", "e2_pos": 27, "label": "before"}
+]

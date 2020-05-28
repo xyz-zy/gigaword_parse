@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "anticipated", "either", "having", "to", "wait", "a", "long", "time", "for", "a", "table", "or", "have", "our", "food", ",", "which", "is", "ordered", "at", "the", "counter", ",", "arrive", "before", "we", "had", "a", "table", "."], "e1_text": "arrive", "e1_pos": 24, "e2_text": "had", "e2_pos": 27, "label": "before"}
+]

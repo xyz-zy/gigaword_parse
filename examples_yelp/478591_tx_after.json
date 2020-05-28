@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "one", "point", "I", "forwarded", "a", "letter", "to", "the", "owner", "John", "Flanders", "after", "the", "store", "ignored", "all", "my", "e-mails", "and", "multiple", "phone", "calls", "about", "missing", "medical", "papers", "."], "e1_text": "forwarded", "e1_pos": 4, "e2_text": "ignored", "e2_pos": 15, "label": "after"}
+]

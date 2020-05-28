@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "potatoes", "were", "$", "12", "and", "truly", "nothing", "special", ",", "the", "macaroni", "and", "cheese", "left", "us", "burping", "mushroom", "flavor", "for", "an", "hour", "after", "eating", "2", "bites", "."], "e1_text": "burping", "e1_pos": 16, "e2_text": "eating", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", ",", "my", "fault", "for", "not", "checking", "in", "with", "them", "after", "not", "receiving", "any", "bills", "for", "6", "months", "-LRB-", "life", "lesson", "learned", "-RRB-", "but", "really", "they", "lost", "my", "insurance", "info", ",", "sent", "mail", "to", "the", "wrong", "apartment", "number", "and", "never", "tried", "to", "call", "me", "?"], "e1_text": "checking", "e1_pos": 6, "e2_text": "receiving", "e2_pos": 12, "label": "after"}
+]

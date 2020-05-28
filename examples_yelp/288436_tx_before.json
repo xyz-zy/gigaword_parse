@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "my", "favorite", "drink", "from", "the", "bar", "-LRB-", "amaretto", "sour", "-RRB-", "which", "had", "been", "generously", "portioned", "with", "amaratto", "and", "before", "too", "long", ",", "we", "were", "getting", "a", "variety", "of", "breads", "to", "munch", "on", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "PIC", "had", "ordered", "our", "food", "before", "arriving", "so", "it", "was", "n't", "even", "10", "minutes", "before", "I", "was", "looking", "at", "a", "delicious", "NY", "Strip", "-LRB-", "my", "favorite", "-RRB-", "and", "his", "filet", "as", "well", "as", "the", "most", "exquisite", "macaroni", "and", "cheese", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "arriving", "e2_pos": 7, "label": "before"}
+]

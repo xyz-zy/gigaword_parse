@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "was", "the", "extortionately", "priced", "buffet", "over", "3", "hours", "late", ",", "but", "I", "think", "the", "catering", "staff", "must", "have", "assumed", "that", "they", "were", "feeding", "a", "small", "group", "of", "anorexics", ",", "as", "my", "girlfriends", "were", "starving", "after", "having", "to", "fight", "for", "the", "small", "morsels", "of", "cold", "pasta", "and", "soggy", "pizza", "that", "were", "on", "offer", "."], "e1_text": "starving", "e1_pos": 35, "e2_text": "having", "e2_pos": 37, "label": "after"},
+{"tokens": ["Chips", "were", "cold", "and", "soggy", ",", "but", "to", "be", "honest", ",", "after", "I", "'d", "seen", "what", "the", "rest", "of", "the", "group", "had", "been", "subjected", "to", ",", "I", "was", "oddly", "grateful", "."], "e1_text": "be", "e1_pos": 8, "e2_text": "'d", "e2_pos": 13, "label": "after"}
+]

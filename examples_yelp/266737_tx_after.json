@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "hoping", "she", "washed", "her", "hands", "after", "being", "in", "the", "kitchen", "with", "the", "other", "guy", "ignoring", "customers", "..."], "e1_text": "washed", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

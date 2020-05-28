@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "surprised", "that", "they", "first", "told", "that", "check-in", "is", "at", "4pm", ",", "but", "the", "front", "staff", "offered", "no", "help", "in", "trying", "to", "acquire", "a", "room", ",", "even", "after", "we", "offered", "to", "pay", "for", "the", "previous", "day", ",", "just", "so", "we", "could", "get", "a", "couple", "hours", "sleep", "before", "the", "conference", "started", "."], "e1_text": "sleep", "e1_pos": 47, "e2_text": "started", "e2_pos": 51, "label": "before"}
+]

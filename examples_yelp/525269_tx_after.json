@@ -1,0 +1,4 @@
+[
+{"tokens": ["An", "hour", "of", "jumping", "is", "plenty", "for", "me", ",", "because", "I", "am", "sweating", "buckets", "after", "about", "15", "minutes", "of", "jumping", "."], "e1_text": "am", "e1_pos": 11, "e2_text": "jumping", "e2_pos": 3, "label": "after"},
+{"tokens": ["Beware", ",", "because", "muscles", "you", "did", "n't", "know", "you", "had", "anymore", "will", "hurt", "after", "jumping", "here", "for", "an", "hour", "or", "so", "."], "e1_text": "hurt", "e1_pos": 12, "e2_text": "jumping", "e2_pos": 14, "label": "after"}
+]

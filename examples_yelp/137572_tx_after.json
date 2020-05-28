@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "expect", "much", "when", "eating", "udon", "at", "a", "buffet", "after", "trying", "udon", "at", "Makino", "at", "the", "Premium", "Outlet", "on", "Charleston", "-LRB-", "their", "soup", "for", "udon", "was", "terrible", "-RRB-", "."], "e1_text": "eating", "e1_pos": 6, "e2_text": "trying", "e2_pos": 12, "label": "after"}
+]

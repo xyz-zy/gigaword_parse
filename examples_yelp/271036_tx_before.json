@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "place", "advertises", "''", "''", "the", "most", "authentic", "Vietnamese", "Pho", "on", "the", "strip", "''", "''", "and", "it", "has", "a", "long", "way", "to", "go", "before", "being", "able", "to", "carry", "that", "title", "."], "e1_text": "go", "e1_pos": 22, "e2_text": "being", "e2_pos": 24, "label": "before"},
+{"tokens": ["As", "mentioned", "before", "I", "worry", "that", "people", "will", "go", "here", "and", "being", "turned", "off", "to", "the", "whole", "vietnamese", "cuisine", "because", "they", "are", "taking", "the", "places", "claim", "to", "being", "authentic", "or", "misguided", "by", "the", "staffs", "lack", "of", "knowledge", "of", "the", "cuisine", "."], "e1_text": "mentioned", "e1_pos": 1, "e2_text": "worry", "e2_pos": 4, "label": "before"},
+{"tokens": ["Suggestions", "to", "place", ":", "Cook", "noodles", "separately", "just", "before", "preparing", "the", "bowl", ",", "make", "broth", "at", "a", "higher", "temperature", ",", "add", "more", "seasoning", "in", "broth", "as", "it", "is", "cooking", "."], "e1_text": "place", "e1_pos": 2, "e2_text": "preparing", "e2_pos": 9, "label": "before"}
+]

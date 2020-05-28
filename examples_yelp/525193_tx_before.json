@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "girls", "got", "there", "late", "so", "I", "decided", "to", "hunt", "down", "our", "server", "so", "they", "could", "order", "a", "drink", "before", "we", "left", "."], "e1_text": "order", "e1_pos": 16, "e2_text": "left", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "was", "wandering", "for", "five", "minutes", "-LRB-", "and", "the", "place", "is", "not", "very", "big", "-RRB-", "before", "someone", "FINALLY", "asked", "if", "I", "needed", "help", "."], "e1_text": "wandering", "e1_pos": 2, "e2_text": "asked", "e2_pos": 18, "label": "before"}
+]

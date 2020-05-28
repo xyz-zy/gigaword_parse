@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "beef", "had", "a", "great", "taste", "to", "it", "and", "there", "was", "plenty", "of", "it", "-LRB-", "unlike", "a", "tamale", "he", "'d", "had", "before", "at", "another", "mexican", "food", "restaurant", "where", "he", "had", "to", "''", "``", "hunt", "''", "''", "for", "signs", "of", "meet", "inside", "the", "tamale", "-RRB-", "."], "e1_text": "had", "e1_pos": 20, "e2_text": "had", "e2_pos": 2, "label": "before"}
+]

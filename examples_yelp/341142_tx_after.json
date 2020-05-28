@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "sitting", "us", "down", "at", "the", "table", "I", "had", "no", "other", "interaction", "with", "anyone", "after", "about", "15", "minutes", "I", "asked", "a", "bus", "boy", "-LRB-", "you", "could", "not", "tell", "who", "were", "the", "bus", "boys", "or", "the", "waiters", "-RRB-", "if", "we", "could", "get", "some", "drinks", "and", "he", "said", "he", "will", "get", "us", "some", "he", "came", "back", "promptly", "with", "our", "drinks", "and", "took", "our", "first", "order", "or", "sushi", "for", "us", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "asked", "e2_pos": 19, "label": "after"}
+]

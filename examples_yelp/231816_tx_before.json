@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "quality", "food", "takes", "time", "...", "and", "maybe", "I", "was", "really", "hungry", "as", "I", "was", "at", "the", "gym", "prior", "to", "coming", "here", "but", "it", "felt", "like", "ages", "before", "we", "got", "our", "food", "...", "seriously", "like", "30-40", "minutes", "or", "so", "from", "when", "we", "ordered", "it", "...", "I", "feel", "that", "is", "pretty", "long", "."], "e1_text": "felt", "e1_pos": 25, "e2_text": "got", "e2_pos": 30, "label": "before"}
+]

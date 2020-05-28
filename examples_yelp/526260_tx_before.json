@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "son", "called", "them", "at", "11ish", "in", "the", "morning", "before", "he", "went", "in", "for", "shingles", ",", "they", "told", "him", "to", "wait", "until", "1:00", "so", "they", "could", "go", "to", "lunch", "."], "e1_text": "called", "e1_pos": 3, "e2_text": "went", "e2_pos": 12, "label": "before"}
+]

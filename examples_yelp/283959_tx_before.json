@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "house", "salad", "I", "had", "before", "the", "meal", "was", "forgettable", "-", "seemingly", "a", "bagged", "salad", "a", "few", "days", "old", "-LRB-", "brown", "on", "the", "iceberg", "lettuce", "-RRB-", ",", "with", "long", ",", "awkward", "carrot", "sticks", "and", "hard-to-fork", ",", "chopped", "red", "onions", ",", "alongside", "a", "plastic", "cup", "of", "runny", "bleu", "cheese", "probably", "squeezed", "from", "a", "Ken", "'s", "Steakhouse", "packet", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

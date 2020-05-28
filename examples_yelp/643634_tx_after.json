@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "how", "difficult", "it", "is", "to", "give", "a", "customer", "a", "lemon", "with", "their", "water", "after", "they", "'ve", "asked", "for", "it", "three", "times", "."], "e1_text": "give", "e1_pos": 9, "e2_text": "'ve", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "'m", "a", "customer", "and", "would", "like", "just", "a", "lemon", "and", "after", "I", "explain", "why", ",", "you", "seriously", "just", "need", "to", "stop", "with", "the", "questioning", "and", "give", "me", "a", "lemon", "."], "e1_text": "like", "e1_pos": 6, "e2_text": "explain", "e2_pos": 13, "label": "after"}
+]

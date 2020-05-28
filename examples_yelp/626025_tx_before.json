@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "cleaning", "staff", "was", "courteous", "and", "asked", "if", "we", "needed", "anything", "extra", "before", "she", "left", "."], "e1_text": "needed", "e1_pos": 9, "e2_text": "left", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'ve", "never", "had", "to", "pay", "anything", "else", "at", "another", "hotel", "when", "using", "Priceline", "before", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "using", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "had", "to", "ask", "for", "management", "before", "it", "was", "changed", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

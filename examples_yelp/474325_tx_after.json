@@ -1,0 +1,3 @@
+[
+{"tokens": ["Made", "reservation", "at", "9:30", "p.m.", "for", "9:45", "p.m.", "on", "a", "Friday", "night", "after", "being", "at", "arts", "festival", "all", "day", "."], "e1_text": "Made", "e1_pos": 0, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

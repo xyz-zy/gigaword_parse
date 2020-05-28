@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "here", "for", "the", "first", "time", "last", "month", "after", "seeing", "so", "many", "of", "my", "friends", "eat", "here", "so", "i", "decided", "to", "try", "this", "place", "before", "embarking", "on", "my", "4", "hour", "drive", "back", "to", "Los", "Angeles", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

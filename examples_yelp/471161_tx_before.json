@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "3", "strong", "beers", "before", "arriving", "at", "the", "show", "and", "decided", "a", "Long", "Island", "would", "be", "the", "perfect", "finisher", "to", "give", "me", "the", "buzz", "I", "was", "looking", "for", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 6, "label": "before"},
+{"tokens": ["So", "yeah", ",", "my", "advice", "is", "to", "bring", "a", "cheap", "e-cig", "if", "you", "vape", "and", "if", "you", "have", "a", "DD", ",", "catch", "a", "buzz", "elsewhere", "before", "coming", "to", "the", "show", "-LRB-", "or", "get", "a", "beer", ",", "that", "'s", "probably", "safe", "-RRB-", "."], "e1_text": "catch", "e1_pos": 21, "e2_text": "coming", "e2_pos": 26, "label": "before"}
+]

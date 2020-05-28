@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "now", "I", "'m", "waiting", "again", "with", "nothing", "to", "do", "but", "wonder", "why", "they", "did", "n't", "do", "this", "before", "they", "gave", "me", "the", "order", "."], "e1_text": "do", "e1_pos": 9, "e2_text": "gave", "e2_pos": 20, "label": "before"},
+{"tokens": ["So", "moral", "of", "my", "long-winded", "review", "is", "to", "give", "MPK", "a", "shot", "if", "you", "'re", "a", "popcorn", "lover", ",", "but", "make", "sure", "you", "check", "your", "order", "before", "you", "leave", "."], "e1_text": "check", "e1_pos": 23, "e2_text": "leave", "e2_pos": 28, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Luckily", ",", "I", "had", "been", "starving", "before", "I", "walked", "in", "to", "try", "this", "place", "."], "e1_text": "starving", "e1_pos": 5, "e2_text": "walked", "e2_pos": 8, "label": "before"},
+{"tokens": ["Good", "conversation", ",", "good", "service", ",", "and", "he", "even", "offered", "to", "give", "me", "a", "tour", "of", "the", "place", "when", "I", "told", "him", "that", "I", "had", "been", "curious", "about", "it", "for", "a", "while", "before", "finally", "showing", "up", "to", "try", "it", "out", "."], "e1_text": "curious", "e1_pos": 26, "e2_text": "showing", "e2_pos": 34, "label": "before"}
+]

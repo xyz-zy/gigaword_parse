@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "my", "first", "time", "doing", "any", "kind", "of", "kart", "racing", ",", "and", "the", "operators", "here", "seemed", "more", "interested", "in", "keeping", "the", "races", "going", "non-stop", "one", "after", "another", "than", "making", "sure", "people", "understood", "how", "everything", "worked", "or", "if", "they", "were", "okay", "."], "e1_text": "seemed", "e1_pos": 16, "e2_text": "understood", "e2_pos": 32, "label": "after"}
+]

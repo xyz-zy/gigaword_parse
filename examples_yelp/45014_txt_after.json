@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "your", "waitress", "took", "my", "g\\/f", "'s", "order", "and", "brought", "drinks", ",", "but", "never", "came", "back", "to", "the", "table", "after", "I", "came", "out", "of", "the", "restroom", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "came", "e2_pos": 15, "label": "after"},
+{"tokens": ["And", "my", "g\\/f", "said", "the", "waitress", "was", "n't", "even", "in", "her", "uniform", "yet", ",", "and", "changed", "after", "she", "took", "the", "order", "."], "e1_text": "changed", "e1_pos": 15, "e2_text": "took", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bookmarked", "this", "place", "after", "seeing", "their", "pambazo", "torta", "listed", "in", "an", "issue", "of", "LV", "Weekly", ",", "as", "one", "of", "the", "Top", "10", "Mexican", "Meals", "of", "the", "city", "."], "e1_text": "Bookmarked", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 4, "label": "after"},
+{"tokens": ["Even", "digging", "in", "right", "after", "I", "received", "my", "order", ",", "the", "bread", "was", "soggy", "to", "the", "point", "that", "it", "was", "difficult", "to", "eat", "with", "my", "hands", "."], "e1_text": "digging", "e1_pos": 1, "e2_text": "received", "e2_pos": 6, "label": "after"}
+]

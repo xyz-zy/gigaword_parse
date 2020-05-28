@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "he", "delivered", "our", "appetizers", "he", "told", "us", "about", "the", "dinner", "menu", "after", "hearing", "from", "us", "twice", "that", "we", "only", "wanted", "a", "few", "small", "plates", "and", "beer", ",", "we", "were", "n't", "interested", "in", "dinner", "."], "e1_text": "told", "e1_pos": 6, "e2_text": "hearing", "e2_pos": 13, "label": "after"}
+]

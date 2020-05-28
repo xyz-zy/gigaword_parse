@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "scene", ":", "It", "'s", "3", "o'clock", "on", "Dec", "23", ",", "15", "hrs", "before", "we", "need", "to", "leave", "for", "the", "airport", "to", "fly", "out", "for", "Christmas", ",", "and", "the", "BF", "has", "food", "poisoning", "which", "has", "rendered", "him", "a", "quivering", "lump", "of", "sadness", "in", "bed", "."], "e1_text": "hrs", "e1_pos": 12, "e2_text": "need", "e2_pos": 15, "label": "before"}
+]

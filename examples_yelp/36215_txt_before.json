@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "on", "a", "Wednesday", "of", "the", "forth", "week", "before", "picking", "it", "up", "and", "they", "said", "it", "would", "be", "ready", "in", "two", "days", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "picking", "e2_pos": 10, "label": "before"},
+{"tokens": ["Called", "before", "heading", "over", "."], "e1_text": "Called", "e1_pos": 0, "e2_text": "heading", "e2_pos": 2, "label": "before"}
+]

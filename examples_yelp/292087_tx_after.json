@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "rides", "at", "the", "top", "make", "it", "worth", "the", "admission", "but", "I", "guess", "it", "is", "something", "that", "everyone", "should", "do", "once", ",", "though", "after", "that", "there", "is", "n't", "much", "to", "it", "."], "e1_text": "is", "e1_pos": 14, "e2_text": "is", "e2_pos": 14, "label": "after"},
+{"tokens": ["But", "the", "admission", "comes", "with", "some", "decent", "coupons", "for", "after", "so", "maybe", "that", "ups", "the", "value", "a", "bit", "?"], "e1_text": "comes", "e1_pos": 3, "e2_text": "ups", "e2_pos": 13, "label": "after"}
+]

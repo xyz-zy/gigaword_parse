@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "problem", "came", "when", "I", "tried", "to", "downgrade", "to", "the", "$", "10\\/month", "option", "after", "my", "year", "commitment", "ended", "."], "e1_text": "tried", "e1_pos": 5, "e2_text": "ended", "e2_pos": 17, "label": "after"},
+{"tokens": ["An", "''", "``", "activation", "fee", "''", "''", "after", "having", "been", "a", "member", "for", "14", "months", "?"], "e1_text": "activation", "e1_pos": 3, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["That", "'s", "sort", "of", "insane", "after", "also", "paying", "a", "$", "40", "membership", "fee", "each", "year", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "paying", "e2_pos": 7, "label": "after"}
+]

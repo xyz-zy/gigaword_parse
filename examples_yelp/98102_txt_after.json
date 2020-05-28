@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "heard", "of", "other", "people", "being", "told", "that", "their", "battery", "would", "not", "hold", "a", "charge", "and", "must", "be", "replaced", ",", "only", "to", "find", "their", "car", "starting", "without", "a", "problem", "after", "recharging", "the", "battery", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "recharging", "e2_pos": 31, "label": "after"},
+{"tokens": ["For", "instance", ",", "one", "person", "I", "know", "of", "needed", "a", "jump-start", "from", "AAA", "after", "the", "interior", "light", "was", "left", "on", "over-night", "."], "e1_text": "needed", "e1_pos": 8, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "the", "manager", "CHRIS", "WALTERMAN", "to", "remove", "the", "charge", "because", "it", "was", "2", "small", "kids", "sharing", "and", "explained", "that", "we", "were", "never", "charged", "this", "before", "."], "e1_text": "explained", "e1_pos": 18, "e2_text": "were", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "have", "never", "posted", "a", "review", "before", "but", "I", "feel", "all", "should", "know", "his", "policy", "."], "e1_text": "posted", "e1_pos": 3, "e2_text": "feel", "e2_pos": 9, "label": "before"}
+]

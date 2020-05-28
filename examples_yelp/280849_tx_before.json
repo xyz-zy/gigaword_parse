@@ -1,0 +1,4 @@
+[
+{"tokens": ["Steak", "and", "Eggs", "!!!", "After", "a", "night", "of", "drinking", "and", "dancing", ",", "this", "is", "the", "place", "to", "stop", "by", "before", "heading", "back", "to", "the", "hotel", "."], "e1_text": "stop", "e1_pos": 17, "e2_text": "heading", "e2_pos": 20, "label": "before"},
+{"tokens": ["Usually", "there", "is", "a", "long", "waiting", "line", "because", "everyone", "has", "the", "same", "agenda", "as", "you", "-LRB-", "eat", "before", "going", "back", "to", "their", "hotel", "-RRB-", ",", "but", "if", "you", "put", "your", "name", "on", "the", "list", "and", "wait", "around", ",", "you", "will", "see", "that", "the", "people", "ahead", "of", "you", "in", "line", "will", "start", "to", "disappear", "because", "they", "are", "tired", "of", "waiting", "or", "a", "slot", "machine", "nearby", "was", "calling", "their", "name", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "me", "a", "while", "to", "come", "back", "but", "I", "decided", "to", "give", "this", "place", "another", "shot", "since", "I", "'ve", "never", "had", "a", "problem", "before", "."], "e1_text": "give", "e1_pos": 12, "e2_text": "'ve", "e2_pos": 19, "label": "before"},
+{"tokens": ["But", "now", "the", "last", "time", "I", "went", ",", "they", "again", "sat", "me", "in", "the", "same", "place", "as", "before", "but", "this", "time", "there", "was", "another", "new", "guy", "that", "I", "had", "never", "seen", "."], "e1_text": "sat", "e1_pos": 10, "e2_text": "was", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "knew", "what", "I", "wanted", "and", "I", "told", "him", "before", "he", "started", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "started", "e2_pos": 11, "label": "before"}
+]

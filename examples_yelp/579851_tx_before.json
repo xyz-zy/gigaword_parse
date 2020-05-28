@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "noticed", "that", "once", "our", "server", "arrived", "after", "we", "had", "been", "there", "for", "10", "+", "minutes", "the", "hostess", "had", "sat", "the", "server", "3", "tables", "before", "she", "even", "walked", "on", "the", "floor", ",", "of", "which", "we", "were", "the", "first", ",", "yet", "we", "were", "greeted", "last", "and", "all", "she", "had", "to", "say", "was", ",", "''", "``", "sorry", "I", "just", "got", "on", "the", "floor", "and", "its", "really", "busy", "''", "''", "."], "e1_text": "sat", "e1_pos": 19, "e2_text": "walked", "e2_pos": 27, "label": "before"}
+]

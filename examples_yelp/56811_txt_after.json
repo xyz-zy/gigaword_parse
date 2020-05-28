@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "server", ",", "who", "prepped", "a", "chicken", "burrito", ",", "acted", "like", "a", "robot", ",", "zero", "personality", ",", "and", "after", "scooping", "the", "meat", "immediately", "turned", "and", "walked", "away", "."], "e1_text": "acted", "e1_pos": 10, "e2_text": "scooping", "e2_pos": 20, "label": "after"}
+]

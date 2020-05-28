@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "really", "craving", "Chinese", "food", "after", "a", "long", "weekend", "in", "Vegas", "filled", "with", "drinking", ",", "gambling", ",", "and", "general", "debauchery", "."], "e1_text": "craving", "e1_pos": 3, "e2_text": "filled", "e2_pos": 12, "label": "after"},
+{"tokens": ["What", "I", "ended", "up", "experiencing", "was", "a", "-RRB-", "poor", "service", "-LRB-", "even", "though", "the", "restaurant", "was", "half", "full", "-RRB-", "b", "-RRB-", "bland", "food", "c", "-RRB-", "high", "prices", "Our", "server", "forgot", "our", "waters", "for", "about", "15", "minutes", ",", "brought", "all", "our", "meals", "out", "at", "separate", "times", ",", "and", "took", "20", "minutes", "to", "pick", "up", "our", "check", "after", "she", "brought", "it", "to", "the", "tabe", "."], "e1_text": "pick", "e1_pos": 51, "e2_text": "brought", "e2_pos": 37, "label": "after"}
+]

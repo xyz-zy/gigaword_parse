@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "good", "but", "the", "only", "problem", "is", "that", "it", "took", "forever", "to", "come", "out", "...", "I", "mean", "it", "was", "n't", "like", "they", "were", "super", "busy", "either", "...", "we", "were", "the", "biggest", "party", "in", "the", "restaurant", "among", "about", "5", "other", "smaller", "2-person", "party", "...", "and", "it", "took", "my", "food", "about", "10", "minutes", "after", "all", "other", "people", "'s", "roll", "and", "food", "came", "out", "...", "the", "mackerel", "took", "the", "longest", "and", "it", "should", "have", "been", "pretty", "simple", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "came", "e2_pos": 61, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "agreed", "to", "the", "20", "%", "discount", "so", "we", "could", "at", "least", "have", "something", "to", "eat", "before", "we", "sat", "for", "another", "2", "hours", "without", "food", "."], "e1_text": "eat", "e1_pos": 15, "e2_text": "sat", "e2_pos": 18, "label": "before"}
+]

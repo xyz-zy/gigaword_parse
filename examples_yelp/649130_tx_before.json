@@ -1,0 +1,3 @@
+[
+{"tokens": ["Main", "course", "arrived", "before", "salads", ",", "which", "-LRB-", "salads", "-RRB-", "seem", "to", "be", "a", "bottleneck", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "seem", "e2_pos": 10, "label": "before"}
+]

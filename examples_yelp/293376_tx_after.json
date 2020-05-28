@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "dropped", "in", "here", "after", "hearing", "Sir", "Terry", "Pratchett", "speak", "the", "the", "Glendale", "Council", "Chambers", "."], "e1_text": "dropped", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "really", "lucked", "out", "too", ",", "because", "moments", "after", "I", "ordered", ",", "the", "lunch", "rush", "began", "."], "e1_text": "lucked", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 10, "label": "after"}
+]

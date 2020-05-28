@@ -1,0 +1,3 @@
+[
+{"tokens": ["Went", "through", "the", "drive", "through", "and", "ended", "up", "turning", "off", "my", "car", "after", "waiting", "for", "7", "minutes", "for", "one", "person", "ahead", "of", "me", "to", "get", "their", "food", "."], "e1_text": "turning", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 13, "label": "after"}
+]

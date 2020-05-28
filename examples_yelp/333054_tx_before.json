@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "here", "a", "few", "times", "before", "I", "became", "a", "vegetarian", ",", "and", "I", "'d", "probably", "go", "back", "now", "that", "I", "'m", "a", "big", "meat-eating", "cheater", ",", "because", "the", "steaks", "are", "excellent", ",", "as", "is", "the", "ambiance", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "became", "e2_pos": 8, "label": "before"},
+{"tokens": ["Gibby", "'s", ",", "I", "gather", ",", "is", "something", "of", "an", "institution", "which", "means", "something", "of", "a", "tourist", "trap", ",", "but", "it", "'s", "not", "an", "overrated", ",", "Times", "Square-esque", "tourist", "trap", ",", "so", "I", "'d", "say", "it", "'s", "worth", "a", "visit", "before", "you", "move", "on", "to", "whatever", "secret", "hole", "in", "the", "wall", "your", "French-speaking", "cousin", "wants", "to", "drag", "you", "to", "instead", "."], "e1_text": "'s", "e1_pos": 21, "e2_text": "move", "e2_pos": 42, "label": "before"}
+]

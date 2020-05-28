@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "for", "the", "next", "week", "I", "continued", "to", "get", "daily", "automated", "calls", "telling", "me", "to", "call", "the", "hotline", "and", "get", "my", "results", "-", "which", "of", "course", "were", "never", "there", "-", "until", "I", "guess", "the", "''", "``", "number", "of", "times", "to", "call", "before", "giving", "up", "''", "''", "limit", "was", "reached", "."], "e1_text": "call", "e1_pos": 15, "e2_text": "giving", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "work", "about", "ten", "minutes", "away", "so", "I", "usually", "call", "in", "my", "order", "before", "I", "leave", "the", "office", "and", "it", "'s", "enough", "time", "for", "my", "food", "to", "be", "ready", "when", "I", "arrive", "and", "get", "served", "quickly", "."], "e1_text": "call", "e1_pos": 9, "e2_text": "leave", "e2_pos": 15, "label": "before"},
+{"tokens": ["Unfortunately", ",", "I", "have", "just", "enough", "time", "to", "chat", "a", "little", "and", "eat", "my", "food", "before", "I", "have", "to", "get", "back", "to", "business", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "have", "e2_pos": 3, "label": "before"}
+]

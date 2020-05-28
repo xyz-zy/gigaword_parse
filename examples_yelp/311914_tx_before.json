@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "go", "pick", "it", "up", ",", "and", "there", "was", "a", "sign", "on", "the", "door", "that", "said", "they", "do", "n't", "take", "the", "coupons", "because", "the", "book", "did", "n't", "have", "their", "permission", "to", "print", "it", "or", "something", "-LRB-", "but", "still", "...", "it", "was", "in", "there", "and", "that", "'s", "not", "the", "customer", "'s", "fault", "-RRB-", "...", "so", "that", "kind", "of", "sucked", ",", "I", "wish", "I", "would", "have", "known", "before", "ordering", "such", "a", "big", "pizza", "...", "oh", "well", "."], "e1_text": "known", "e1_pos": 66, "e2_text": "ordering", "e2_pos": 68, "label": "before"}
+]

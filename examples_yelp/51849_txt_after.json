@@ -1,0 +1,4 @@
+[
+{"tokens": ["Dr.", "Simms", "was", "personable", "enough", "and", "after", "evaluating", "me", ",", "told", "me", "that", "he", "would", "like", "to", "treat", "for", "a", "sinus", "infection", "with", "antibiotics", "and", "prednisone", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "evaluating", "e2_pos": 7, "label": "after"},
+{"tokens": ["Dr.", "Simms", "told", "me", "to", "give", "him", "a", "call", "the", "following", "week", "if", "the", "symptoms", "did", "n't", "subside", "after", "I", "was", "done", "with", "the", "meds", ",", "and", "he", "would", "prescribe", "an", "alternate", "antibiotic", "."], "e1_text": "subside", "e1_pos": 17, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

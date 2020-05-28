@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "if", "it", "would", "be", "possible", "to", "be", "seen", "by", "him", "to", "show", "him", "the", "swelling", "the", "nurse", "excused", "herself", "and", "went", "to", "ask", "him", ",", "I", "waited", ",", "after", "a", "few", "minutes", "she", "returned", "to", "tell", "me", "he", "said", "if", "I", "had", "called", "he", "would", "have", "seen", "me", ",", "but", "since", "I", "had", "n't", "I", "'d", "have", "to", "wait", "till", "the", "next", "day", "."], "e1_text": "waited", "e1_pos": 29, "e2_text": "returned", "e2_pos": 36, "label": "after"}
+]

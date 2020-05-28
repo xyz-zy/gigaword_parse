@@ -1,0 +1,3 @@
+[
+{"tokens": ["THEN", "YOU", "TELL", "ME", ",", "that", "you", "will", "not", "serve", "a", "paying", "customer", "because", "she", "will", "order", "5", "minutes", "after", "us", "????", "That", "'s", "a", "joke", "right", "???", "No", "joke", "."], "e1_text": "order", "e1_pos": 16, "e2_text": "????", "e2_pos": 21, "label": "after"}
+]

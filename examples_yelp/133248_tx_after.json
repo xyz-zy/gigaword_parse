@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "told", "me", "my", "sunglasses", "were", "there", "which", "of", "course", "they", "would", "be", "seeing", "as", "i", "called", "5", "minutes", "after", "I", "left", "-LRB-", "we", "were", "with", "a", "big", "group", "-RRB-", "so", "he", "told", "me", "he", "would", "hold", "them", "there", "."], "e1_text": "called", "e1_pos": 16, "e2_text": "left", "e2_pos": 21, "label": "after"}
+]

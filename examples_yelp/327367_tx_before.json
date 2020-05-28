@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "she", "told", "the", "waiter", "that", "she", "had", "the", "Groupon", "before", "we", "ordered", ",", "the", "waiter", "told", "her", "she", "could", "not", "use", "it", "because", "it", "was", "happy", "hour", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "before"}
+]

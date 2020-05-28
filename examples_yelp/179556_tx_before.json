@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "dinner", "at", "Tao", "so", "we", "can", "bypass", "the", "line", "getting", "in", "-", "not", "bad", "...", "but", "dinner", ",", "well", ",", "we", "waited", "an", "hour", "before", "getting", "seated", "even", "though", "we", "had", "reservations", "."], "e1_text": "waited", "e1_pos": 23, "e2_text": "getting", "e2_pos": 11, "label": "before"}
+]

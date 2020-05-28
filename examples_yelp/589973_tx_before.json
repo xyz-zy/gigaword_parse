@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "think", "I", "have", "ever", "seen", "a", "BYOB", "bottle", "of", "wine", "disappear", "into", "the", "restaurant", "before", "but", "it", "ultimately", "did", "n't", "matter", "as", "it", "was", "returned", "about", "5", "minutes", "later", "."], "e1_text": "disappear", "e1_pos": 13, "e2_text": "did", "e2_pos": 21, "label": "before"},
+{"tokens": ["It", "seemed", "to", "take", "entirely", "too", "long", "to", "get", "our", "meals", "ordered", "and", "the", "food", "to", "come", "out", "in", "addition", "to", "the", "fact", "that", "my", "water", "glass", "was", "empty", "from", "before", "we", "finished", "our", "appetizers", "to", "the", "end", "of", "the", "meal", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "finished", "e2_pos": 32, "label": "before"}
+]

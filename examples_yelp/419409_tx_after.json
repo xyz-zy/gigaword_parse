@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "up", "to", "pay", "and", "the", "same", "street", "clothes", "messy", "haired", "girl", "got", "up", "after", "the", "owner", "??", "told", "her", "to", "ring", "us", "up", "since", "she", "was", "busy", "talking", "with", "a", "table", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "told", "e2_pos": 19, "label": "after"},
+{"tokens": ["She", "tried", "to", "charge", "my", "friend", "$", "58", "after", "she", "told", "her", "she", "had", "an", "app", ",", "flavored", "tea", ",", "entree", "and", "dessert", "."], "e1_text": "charge", "e1_pos": 3, "e2_text": "told", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "simply", "told", "him", "that", "the", "job", "his", "car", "dryers", "were", "doing", "was", "n't", "as", "good", "as", "I", "would", "expect", "after", "spending", "over", "30", "dollars", "for", "a", "car", "wash", "."], "e1_text": "expect", "e1_pos": 19, "e2_text": "spending", "e2_pos": 21, "label": "after"},
+{"tokens": ["The", "people", "at", "Country", "Club", "car", "wash", "are", "always", "very", "courteous", "and", "accommodating", "to", "any", "problems", "I", "have", "after", "spending", "my", "there", "."], "e1_text": "have", "e1_pos": 17, "e2_text": "spending", "e2_pos": 19, "label": "after"}
+]

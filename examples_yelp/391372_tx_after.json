@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wanted", "to", "book", "a", "table", "for", "after", "the", "Viva", "Elvis", "show", "-", "the", "only", "option", "was", "9:30", ",", "though", "when", "we", "arrived", "the", "restaurant", "was", "at", "least", "half", "empty", "."], "e1_text": "wanted", "e1_pos": 1, "e2_text": "show", "e2_pos": 11, "label": "after"}
+]

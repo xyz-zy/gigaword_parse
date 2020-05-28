@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guac", "was", "amazing", "--", "we", "actually", "ordered", "more", "after", "finishing", "off", "the", "first", "serving", "--", "but", "it", "never", "came", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "finishing", "e2_pos": 10, "label": "after"}
+]

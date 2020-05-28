@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "made", "a", "comment", "that", "he", "knew", "that", "was", "n't", "what", "she", "ordered", ",", "but", "still", "did", "n't", "correct", "the", "situation", "before", "giving", "her", "the", "wrong", "dish", "."], "e1_text": "correct", "e1_pos": 19, "e2_text": "giving", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "both", "got", "salads", ",", "as", "mentioned", "before", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "mentioned", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "I", "sat", "by", "the", "kitchen", "door", "and", "later", "-LRB-", "after", "I", "ate", "half", "of", "my", "meal", "-RRB-", "noticed", "that", "the", "shelves", "had", "a", "lot", "of", "cans", "-LRB-", "tomatoes", ",", "beans", "?", "-RRB-"], "e1_text": "sat", "e1_pos": 2, "e2_text": "ate", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", ",", "I", "had", "JUST", "finally", "grown", "my", "hair", "back", "to", "shoulder", "length", "after", "I", "decided", "last", "year", "to", "go", "short", "."], "e1_text": "shoulder", "e1_pos": 11, "e2_text": "decided", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "had", "serious", "roots", "after", "waiting", "so", "many", "months", "and", "she", "took", "time", "to", "talk", "to", "me", "about", "my", "hair", "and", "how", "I", "wanted", "it", "done", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 5, "label": "after"}
+]

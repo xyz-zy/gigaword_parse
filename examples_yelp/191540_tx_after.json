@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "assume", "they", "used", "new", "sheets", "but", "after", "what", "happened", "afterwards", "well", "I", "think", "those", "sheets", "were", "n't", "fresh", "afterall", "or", "they", "were", "laced", "with", "bedbugs", "or", "something", "."], "e1_text": "used", "e1_pos": 4, "e2_text": "happened", "e2_pos": 10, "label": "after"},
+{"tokens": ["Upon", "drying", "up", "and", "walking", "into", "the", "living", "room", "I", "would", "call", "it", "I", "hoped", "into", "the", "bed", "and", "started", "watching", "T.V.", "after", "awhile", "I", "started", "to", "noticed", "my", "legs", "getting", "these", "tiny", "bumps", "and", "they", "were", "n't", "goose", "bumps", "and", "started", "to", "feel", "this", "itch", "arise", "."], "e1_text": "watching", "e1_pos": 20, "e2_text": "started", "e2_pos": 25, "label": "after"}
+]

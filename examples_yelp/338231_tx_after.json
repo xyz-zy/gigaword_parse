@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "not", "too", "hungry", "so", "I", "shared", "my", "mate", "'s", "-LRB-", "I", "'m", "suddenly", "speaking", "like", "a", "Brit", "-RRB-", ":-RRB-", "Cesar", "Slade", ",", "initially", "I", "did", "not", "want", "to", "try", "the", "Cesar", "salad", "as", "it", "is", "usually", "made", "with", "raw", "eggs", "and", "I", "was", "nervous", "about", "that", "-", "but", "after", "him", "moaning", "about", "how", "good", "it", "was", "I", "took", "a", "bite", "-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "moaning", "e2_pos": 52, "label": "after"}
+]

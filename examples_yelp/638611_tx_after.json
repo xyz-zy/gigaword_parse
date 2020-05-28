@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "only", "realize", "after", "unwrapping", "it", "of", "how", "truly", "imbalanced", "it", "is", "."], "e1_text": "realize", "e1_pos": 2, "e2_text": "unwrapping", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "was", "disappointed", "even", "more", "because", "I", "expected", "more", "especially", "after", "reading", "the", "reviews", "."], "e1_text": "expected", "e1_pos": 7, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

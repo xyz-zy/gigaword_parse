@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "after", "a", "late", "night", "at", "the", "strip", "looking", "for", "something", "to", "ease", "the", "hangover", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "looking", "e2_pos": 9, "label": "after"},
+{"tokens": ["Type", "of", "place", "you", "need", "to", "be", "rolled", "out", "of", "after", "you", "'re", "done", "eating", "!"], "e1_text": "rolled", "e1_pos": 7, "e2_text": "'re", "e2_pos": 12, "label": "after"}
+]

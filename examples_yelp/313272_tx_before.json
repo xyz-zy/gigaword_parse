@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "yell", "in", "terror", "before", "bringing", "it", "back", "in", "to", "a", "simple", "''", "``", "Nooo", ",", "thanks", ".", "''", "''"], "e1_text": "yell", "e1_pos": 1, "e2_text": "bringing", "e2_pos": 5, "label": "before"},
+{"tokens": ["Sorry", ",", "guys", ",", "I", "do", "n't", "want", "to", "shave", "my", "donut", "before", "I", "eat", "it", "."], "e1_text": "shave", "e1_pos": 9, "e2_text": "eat", "e2_pos": 14, "label": "before"}
+]

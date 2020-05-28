@@ -1,0 +1,5 @@
+[
+{"tokens": ["Went", "to", "Nofo", "with", "a", "group", "of", "friends", "on", "a", "Thursday", "night", "before", "we", "headed", "to", "a", "concert", "at", "The", "Visulite", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "headed", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "waited", "for", "close", "to", "15", "minutes", "before", "someone", "came", "to", "get", "our", "drink", "orders", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "were", "there", "almost", "and", "hour", "and", "a", "half", "before", "our", "food", "arrived", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 12, "label": "before"}
+]

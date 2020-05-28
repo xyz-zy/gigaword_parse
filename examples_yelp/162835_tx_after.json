@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "court", "frequently", "has", "long", "lines", "and", "is", "also", "frequently", "out", "of", "key", "menu", "items", "--", "which", "you", "will", "find", "out", "about", "after", "waiting", "in", "those", "long", "lines", "."], "e1_text": "find", "e1_pos": 20, "e2_text": "waiting", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "tub", "took", "hours", "to", "drain", "after", "each", "shower", "and", "the", "bathroom", "wallpaper", "was", "peeling", "."], "e1_text": "drain", "e1_pos": 5, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

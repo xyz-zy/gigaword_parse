@@ -1,0 +1,5 @@
+[
+{"tokens": ["If", "only", "we", "had", "known", ",", "we", "would", "have", "stopped", "after", "ordering", "beer", "...", "We", "started", "with", "the", "''", "``", "Devils", "on", "Horseback", "''", "''", "-LRB-", "bacon-wrapped", "dates", "-RRB-", "and", "they", "were", "shameful", "and", "bland", "."], "e1_text": "stopped", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "stopped", "ordering", "after", "that", "since", "the", "food", "was", "so", "disappointing", "."], "e1_text": "ordering", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "ended", "up", "having", "Dinner", "Part", "2", "later", "on", "that", "evening", "since", "we", "were", "still", "hungry", "after", "leaving", "Public", "House", "."], "e1_text": "were", "e1_pos": 13, "e2_text": "leaving", "e2_pos": 17, "label": "after"}
+]

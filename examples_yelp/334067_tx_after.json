@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "after", "awkwardly", "being", "greeted", "and", "''", "``", "assisted", "''", "''", "by", "two", "separate", "servers", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "being", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "'ll", "chalk", "it", "up", "to", "a", "bad", "attempt", "at", "humor", "but", "it", "'s", "not", "funny", ",", "not", "anymore", "...", "not", "after", "being", "there", "30", "minutes", "with", "only", "bread", "and", "olives", "."], "e1_text": "chalk", "e1_pos": 2, "e2_text": "being", "e2_pos": 22, "label": "after"}
+]

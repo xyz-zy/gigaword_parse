@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "saw", "that", "it", "had", "a", "''", "``", "Best", "of", "Vegas", "''", "''", "banner", "and", "after", "I", "walked", "in", "I", "realized", "that", "my", "friend", "suggested", "this", "spot", "to", "me", "before", "."], "e1_text": "saw", "e1_pos": 1, "e2_text": "walked", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "time", "I", "watched", "a", "table", "full", "of", "servers", "sit", "and", "have", "lunch", "with", "their", "manager", ",", "while", "we", "sat", "two", "tables", "away", "with", "no", "refills", ",", "food", "taking", "over", "a", "half", "an", "hour", "to", "come", "out", "after", "waiting", "a", "half", "an", "hour", "to", "order", ",", "and", "just", "in", "general", "a", "terrible", "time", "."], "e1_text": "come", "e1_pos": 35, "e2_text": "waiting", "e2_pos": 38, "label": "after"}
+]

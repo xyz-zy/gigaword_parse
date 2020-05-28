@@ -1,0 +1,3 @@
+[
+{"tokens": ["Car", "broke", "down", "on", "the", "freeway", "5", "minutes", "after", "picking", "us", "up", "to", "the", "airport", "but", "took", "30", "min", "to", "get", "another", "cab", "onsite", "."], "e1_text": "broke", "e1_pos": 1, "e2_text": "picking", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriend", "remarked", "on", "our", "way", "out", "that", "''", "``", "the", "best", "part", "of", "the", "meal", "was", "the", "after", "dinner", "mint", "''", "''", "Save", "your", "money", "for", "Carrabba", "''", "``", "s", "which", "has", "much", "better", "food", "."], "e1_text": "remarked", "e1_pos": 2, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

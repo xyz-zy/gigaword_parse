@@ -1,0 +1,3 @@
+[
+{"tokens": ["Date", "night", ":", "went", "to", "joe", "'s", "crab", "shack", "with", "my", "BF", "for", "dinner", "after", "he", "raved", "about", "the", "crab", "steampot", "he", "'d", "eaten", "there", "recently", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "raved", "e2_pos": 16, "label": "after"}
+]

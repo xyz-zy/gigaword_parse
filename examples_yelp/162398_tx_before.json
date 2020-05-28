@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", ".5", "of", "came", "from", "the", "pretty", "statues", "and", "fountain", "outside", "of", "the", "hotel", "-RRB-", "i", "guess", "i", "shoulda", "read", "some", "reviews", "on", "yelp", "before", "booking", "at", "monte", "carlo", ".", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "booking", "e2_pos": 25, "label": "before"}
+]

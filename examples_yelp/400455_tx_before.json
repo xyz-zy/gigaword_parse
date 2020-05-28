@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ate", "here", "a", "few", "weeks", "ago", "and", "while", "I", "was", "waiting", "for", "a", "refill", "I", "saw", "our", "waitress", "pick", "her", "nose", "before", "she", "came", "to", "our", "table", "."], "e1_text": "pick", "e1_pos": 19, "e2_text": "came", "e2_pos": 24, "label": "before"}
+]

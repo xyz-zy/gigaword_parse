@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "been", "going", "to", "the", "restaurant", "formerly", "known", "as", "Tacos", "Atoyac", "for", "a", "few", "years", "-LRB-", "a", "couple", "months", "after", "it", "opened", "-RRB-", "and", "have", "seen", "it", "go", "from", "strength", "to", "strength", "."], "e1_text": "known", "e1_pos": 8, "e2_text": "opened", "e2_pos": 22, "label": "after"}
+]

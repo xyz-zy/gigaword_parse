@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "best", "things", "about", "brunch", "at", "this", "place", ":", "the", "lovely", "patio", "out", "back", ",", "and", "the", "menu", "-", "the", "dishes", "are", "all", "named", "after", "world", "newspapers", ",", "which", "was", "entertaining", "for", "the", "first", "few", "minutes", "of", "our", "visit", "."], "e1_text": "named", "e1_pos": 23, "e2_text": "was", "e2_pos": 29, "label": "after"},
+{"tokens": ["Coffee", "arrived", "about", "20", "minutes", "after", "we", "sat", "down", ",", "and", "a", "good", "five", "minutes", "after", "our", "food", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "sat", "e2_pos": 7, "label": "after"}
+]

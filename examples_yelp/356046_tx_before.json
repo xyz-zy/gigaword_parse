@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "with", "the", "outfit", ",", "it", "was", "so", "friggin", "'", "cold", "in", "there", "that", "I", "wanted", "to", "leave", "even", "before", "I", "had", "finished", "my", "drink", ",", "which", "totally", "sucked", "by", "the", "way", "."], "e1_text": "leave", "e1_pos": 17, "e2_text": "had", "e2_pos": 21, "label": "before"},
+{"tokens": ["It", "'ll", "be", "a", "cold", "day", "in", "hell", "before", "I", "ever", "waste", "my", "money", "in", "that", "place", "again", "!"], "e1_text": "be", "e1_pos": 2, "e2_text": "waste", "e2_pos": 11, "label": "before"}
+]

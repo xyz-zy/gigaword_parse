@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "adventurous", ",", "and", "just", "wanted", "a", "small", "bite", "so", "we", "got", "the", "New", "York", "Steak", "Sandwich", ",", "it", "was", "so", "good", "...", "I", "just", "wish", "the", "steak", "was", "sliced", "on", "the", "roll", "after", "cooking", "to", "make", "eating", "easier", "."], "e1_text": "sliced", "e1_pos": 30, "e2_text": "cooking", "e2_pos": 35, "label": "after"}
+]

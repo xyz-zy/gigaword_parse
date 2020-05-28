@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "new", "management", "company", "also", "does", "n't", "believe", "in", "posting", "how", "much", "you", "owe", "before", "it", "is", "past", "due", "."], "e1_text": "owe", "e1_pos": 13, "e2_text": "is", "e2_pos": 16, "label": "before"},
+{"tokens": ["You", "can", "either", "set", "up", "an", "auto", "withdrawal", "or", "risk", "they", "wo", "n't", "have", "it", "up", "before", "you", "are", "late", "."], "e1_text": "have", "e1_pos": 13, "e2_text": "are", "e2_pos": 18, "label": "before"}
+]

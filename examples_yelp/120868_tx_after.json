@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "wanting", "to", "see", "Blonde", "Redhead", "for", "years", ",", "and", "finally", "get", "a", "chance", "to", "at", "what", "I", "'m", "already", "trusting", "is", "one", "of", "my", "new", "favorite", "venues", ",", "but", "after", "only", "spending", "an", "hour", "waiting", "outside", "with", "a", "drink", "and", "smoke", "in", "hand", "I", "'m", "seeing", "people", "getting", "yelled", "at", "by", "the", "bouncers", "as", "they", "'re", "standing", "in", "line", "outside", "the", "bar", "room", "?"], "e1_text": "trusting", "e1_pos": 22, "e2_text": "yelled", "e2_pos": 51, "label": "after"},
+{"tokens": ["Nope", ",", "I", "get", "in", "line", ",", "flash", "my", "wristband", "after", "being", "barked", "at", "for", "it", ",", "and", "get", "right", "in", "."], "e1_text": "flash", "e1_pos": 7, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

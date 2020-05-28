@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "special-ordered", "some", "scissors", "the", "other", "day", ",", "only", "for", "them", "to", "tell", "me", "that", "they", "lost", "them", "after", "I", "waited", "for", "an", "hour", "while", "they", "searched", "and", "were", "very", "rude", "to", "me", "."], "e1_text": "lost", "e1_pos": 16, "e2_text": "waited", "e2_pos": 20, "label": "after"}
+]

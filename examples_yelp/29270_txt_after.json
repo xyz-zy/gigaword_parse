@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "wearing", "brand", "new", "tennis", "shoes", "--", "Saucony", "--", "and", "still", "it", "was", "a", "long", "walk", "after", "the", "NY", "flight", "landed", "late", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "landed", "e2_pos": 21, "label": "after"}
+]

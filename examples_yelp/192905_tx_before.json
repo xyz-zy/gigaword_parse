@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "we", "were", "there", ",", "we", "actually", "saw", "the", "dancers", "in", "the", "bar", "before", "they", "went", "on", "stage", "."], "e1_text": "saw", "e1_pos": 9, "e2_text": "went", "e2_pos": 17, "label": "before"}
+]

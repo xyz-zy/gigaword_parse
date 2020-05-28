@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wait", "staff", "is", "friendly", ",", "but", "I", "think", "they", "are", "assigned", "way", "too", "many", "tables", "to", "watch", "over", ",", "especially", "the", "busperson", ",", "since", "our", "emptied", "plates", "rarely", "gets", "picked", "up", "after", "we", "finished", "whatever", "dim", "sum", "we", "had", "ordered", ",", "and", "the", "table", "looks", "like", "it", "is", "in", "a", "constant", "state", "of", "disarray", "."], "e1_text": "picked", "e1_pos": 30, "e2_text": "finished", "e2_pos": 34, "label": "after"}
+]

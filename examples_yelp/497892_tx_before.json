@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "purchased", "a", "new", "home", "in", "Feb", "of", "2013", "and", "wanted", "a", "security", "system", "in", "place", "before", "we", "moved", "in", "."], "e1_text": "wanted", "e1_pos": 10, "e2_text": "moved", "e2_pos": 18, "label": "before"},
+{"tokens": ["-LRB-", "We", "found", "out", "later", "the", "company", "had", "been", "sold", "years", "before", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

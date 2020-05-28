@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fast", "forward", "to", "today", ",", "I", "go", "in", "and", "calmly", "explain", "that", "I", "have", "my", "receipt", ",", "show", "them", "the", "photo", "I", "took", "when", "I", "got", "into", "my", "car", "after", "leaving", "the", "salon", ",", "and", "asked", "them", "if", "they", "would", "please", "remove", "the", "nails", "."], "e1_text": "got", "e1_pos": 25, "e2_text": "leaving", "e2_pos": 30, "label": "after"}
+]

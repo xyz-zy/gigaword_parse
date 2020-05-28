@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "a", "person", "who", "always", "wipes", "down", "my", "machine", "before", "and", "after", "I", "use", "it", "but", "I", "sometimes", "feel", "like", "that", "'s", "not", "enough", "."], "e1_text": "wipes", "e1_pos": 6, "e2_text": "use", "e2_pos": 14, "label": "before"}
+]

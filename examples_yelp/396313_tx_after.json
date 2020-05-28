@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "the", "arnold", "palmer", "did", "not", "get", "to", "the", "table", "until", "after", "i", "received", "my", "food", "-LRB-", "because", "the", "tea", "was", "brewing", "apparently", "-RRB-", "when", "i", "was", "dying", "of", "thirst", "and", "extreme", "hunger", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "received", "e2_pos": 14, "label": "after"}
+]

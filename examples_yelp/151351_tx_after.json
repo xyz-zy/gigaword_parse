@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "having", "visiting", "the", "hostess", "stand", "a", "few", "times", ",", "at", "3", "hours", "I", "went", "to", "ask", ",", "''", "``", "Whats", "up", "''", "''", ",", "all", "because", "we", "had", "notice", "people", "who", "arrived", "after", "us", "being", "seated", ",", "Not", "good", "right", "!"], "e1_text": "arrived", "e1_pos": 32, "e2_text": "being", "e2_pos": 35, "label": "after"},
+{"tokens": ["Actually", "one", "of", "the", "groups", "that", "came", "in", "after", "my", "group", "was", "a", "gentlemen", "from", "my", "work", ",", "so", "when", "they", "got", "seated", "immediately", "I", "ask", "WHY", "?"], "e1_text": "came", "e1_pos": 6, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

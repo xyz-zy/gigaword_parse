@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "decided", "to", "return", "there", "with", "my", "parents", "-LRB-", "whom", "have", "never", "been", "to", "Vegas", "before", "-RRB-", "AND", "on", "Thanksgiving", "night", "for", "the", "same", "experience", "and", "it", "was", "AWFUL", "!!!!!", "Our", "server", "-LRB-", "Michael", "-RRB-", "was", "devoid", "of", "any", "emotion", "and", "seemed", "like", "he", "was", "incredibly", "unhappy", "to", "be", "working", "there", "-LRB-", "or", "Thanksgiving", "night", "perhaps", "-RRB-", "."], "e1_text": "return", "e1_pos": 3, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

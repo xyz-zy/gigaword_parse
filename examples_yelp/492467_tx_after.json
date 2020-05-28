@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "so", "excited", "to", "try", "this", "place", "after", "hearing", "people", "rave", "about", "how", "it", "'s", "the", "best", "buffet", "right", "now", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "hearing", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "felt", "like", "I", "needed", "to", "be", "rolled", "out", "of", "there", "after", "eating", "past", "my", "limit", "."], "e1_text": "rolled", "e1_pos": 7, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

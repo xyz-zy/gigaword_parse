@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "got", "off", "the", "phone", "before", "signing", "me", "up", ",", "looked", "at", "his", "partner", ",", "and", "said", ",", "''", "``", "I", "do", "n't", "believe", "this", ".", "''", "''"], "e1_text": "got", "e1_pos": 1, "e2_text": "signing", "e2_pos": 6, "label": "before"},
+{"tokens": ["Learn", "a", "little", "bit", "of", "etiquette", "before", "trying", "to", "reach", "into", "my", "pocket", "."], "e1_text": "Learn", "e1_pos": 0, "e2_text": "trying", "e2_pos": 7, "label": "before"}
+]

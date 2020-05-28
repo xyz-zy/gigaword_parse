@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "there", "just", "before", "they", "reopened", "at", "5:05", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "reopened", "e2_pos": 5, "label": "before"},
+{"tokens": ["Our", "drinks", "were", "empty", "from", "the", "time", "the", "app", "came", "until", "our", "entrees", ",", "mine", "a", "full", "3", "minutes", "before", "the", "rest", "of", "the", "table", "was", "served", "their", "entrees", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "was", "e2_pos": 25, "label": "before"}
+]

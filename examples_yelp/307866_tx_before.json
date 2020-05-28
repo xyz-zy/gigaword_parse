@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "gotten", "take", "out", "from", "here", "once", "before", "but", "never", "dined", "in", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "dined", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "waiter", "did", "a", "good", "job", "answering", "any", "questions", "for", "those", "of", "us", "who", "had", "n't", "had", "persian", "food", "before", "."], "e1_text": "answering", "e1_pos": 6, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

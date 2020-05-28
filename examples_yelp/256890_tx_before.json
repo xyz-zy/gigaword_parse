@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pharmacy", "and", "my", "husband", "both", "tried", "to", "get", "hold", "of", "someone", "at", "this", "urgent", "care", "to", "fix", "the", "prescription", ",", "and", "it", "took", "a", "full", "24", "hours", "before", "I", "was", "able", "to", "get", "it", "filled", ",", "because", "no", "one", "would", "help", "us", "."], "e1_text": "took", "e1_pos": 23, "e2_text": "was", "e2_pos": 30, "label": "before"}
+]

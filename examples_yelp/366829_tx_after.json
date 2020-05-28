@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nobody", "came", "to", "see", "us", "after", "our", "drinks", "got", "dropped", "off", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "plate", "was", "very", "oily", "after", "I", "finished", "my", "plate", "of", "rice", "and", "although", "it", "tasted", "good", ",", "it", "was", "probably", "far", "from", "good", "for", "me", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "finished", "e2_pos": 7, "label": "after"}
+]

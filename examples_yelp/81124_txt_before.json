@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "potato", "cakes", "were", "seriously", "delicious", "...", "I", "had", "honestly", "never", "heard", "of", "-LRB-", "much", "less", "tried", "-RRB-", "one", "of", "these", "delectables", "before", "coming", "to", "Dish", "-LRB-", "I", "know", ",", "I", "know", "...", "Yankee", "-RRB-", ",", "and", "was", "...", "well", ",", "I", "ca", "n't", "say", "pleasantly", "surprised", ",", "because", "there", "'s", "nothing", "surprising", "about", "something", "in", "the", "mashed", "potato", "family", "being", "yummy", ",", "but", "was", "delighted", "nonetheless", "."], "e1_text": "heard", "e1_pos": 11, "e2_text": "coming", "e2_pos": 23, "label": "before"}
+]

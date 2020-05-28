@@ -1,0 +1,3 @@
+[
+{"tokens": ["Hotel", "over", "booked", "and", "told", "me", "I", "had", "to", "go", "to", "another", "hotel", "after", "I", "declined", "a", "room", "upgrade", "for", "a", "couple", "hundred", "more", "for", "one", "night", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "declined", "e2_pos": 15, "label": "after"}
+]

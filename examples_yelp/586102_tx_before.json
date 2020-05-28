@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "had", "them", "put", "the", "goat", "cheese", "for", "her", "Euro", "Burger", "on", "the", "side", ",", "but", "then", "made", "the", "mistake", "of", "smearing", "too", "much", "on", "it", "before", "she", "discovered", "she", "hated", "goat", "cheese", "."], "e1_text": "smearing", "e1_pos": 22, "e2_text": "discovered", "e2_pos": 29, "label": "before"}
+]

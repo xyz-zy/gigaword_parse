@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "right", "after", "happy", "hour", "which", "likely", "explains", "why", "the", "place", "was", "packed", ",", "but", "luckily", ",", "we", "did", "get", "seated", "in", "a", "booth", "inside", "shortly", "after", "we", "arrived", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "explains", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "wait", "staff", "was", "almost", "nonexistent", "...", "our", "menus", "were", "left", "on", "the", "table", "after", "we", "ordered", ",", "our", "dirty", "dishes", "were", "left", "on", "the", "table", "after", "we", "ate", ",", "we", "waited", "a", "very", "long", "time", "to", "get", "the", "check", ",", "and", "the", "bathrooms", "were", "pretty", "filthy", "too", "."], "e1_text": "left", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 16, "label": "after"}
+]

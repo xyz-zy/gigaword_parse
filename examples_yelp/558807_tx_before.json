@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "burger", "was", "raw", "not", "medium", "-LRB-", "before", "everyone", "shouts", "I", "eat", "blue", "steak", "-RRB-", "when", "I", "explained", "this", "to", "my", "waitress", "she", "advised", "me", "that", "this", "is", "how", "they", "cooked", "their", "medium", "burgers", "and", "I", "should", "have", "been", "more", "specific", "on", "how", "I", "wanted", "my", "medium", "burger", "cooked", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "shouts", "e2_pos": 9, "label": "before"}
+]

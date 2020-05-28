@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "waitress", "in", "the", "place", "was", "either", "clueless", "or", "had", "never", "seen", "tall", "or", "chubby", "folks", "before", "because", "when", "asked", "if", "they", "had", "armless", "chair", "she", "just", "shrugged", "and", "walked", "away", "to", "continue", "the", "chat", "we", "interrupted", "upon", "entering", "."], "e1_text": "seen", "e1_pos": 12, "e2_text": "asked", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "mean", "when", "you", "over", "look", "the", "interstate", "running", "right", "outside", ",", "you", "get", "a", "nice", "view", "of", "the", "backside", "of", "Harmon", "tower", "before", "it", "falls", "down", "."], "e1_text": "get", "e1_pos": 13, "e2_text": "falls", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "and", "visited", "their", "southwest", "location", "-LRB-", "located", "on", "S", "Rainbows", "-RRB-", "a", "week", "after", "their", "grand", "opening", "hoping", "for", "some", "delicious", "chicken", "."], "e1_text": "visited", "e1_pos": 3, "e2_text": "hoping", "e2_pos": 19, "label": "after"}
+]

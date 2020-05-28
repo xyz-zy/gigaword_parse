@@ -1,0 +1,3 @@
+[
+{"tokens": ["Will", "I", "go", "back", ",", "Yes", ",", "of", "course", ",", "but", "I", "will", "be", "VERY", "careful", "to", "make", "sure", "my", "food", "is", "on", "the", "counter", "as", "I", "want", "it", "before", "I", "give", "them", "my", "credit", "card", "."], "e1_text": "want", "e1_pos": 27, "e2_text": "give", "e2_pos": 31, "label": "before"}
+]

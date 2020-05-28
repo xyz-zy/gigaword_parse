@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "tacos", "were", "actually", "pretty", "good", ",", "which", "is", "why", "I", "give", "two", "stars", "-", "but", "there", "is", "absolutely", "no", "excuse", "for", "having", "customers", "sit", "at", "a", "table", "for", "an", "hour", "and", "a", "half", "after", "ordering", "before", "their", "food", "comes", ",", "with", "no", "apology", "."], "e1_text": "sit", "e1_pos": 24, "e2_text": "ordering", "e2_pos": 35, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "brisket", "was", "smashing", ",", "the", "pulled", "pork", "was", "very", "good", ",", "ribs", "were", "spot", "on", "-LRB-", "this", "was", "before", "I", "became", "a", "Yelper", "-RRB-", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "became", "e2_pos": 21, "label": "before"}
+]

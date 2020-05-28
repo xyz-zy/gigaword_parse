@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "Chicken", "Marsala", "with", "pasta", ",", "not", "only", "did", "it", "not", "look", "or", "taste", "like", "a", "Marsala", "sauce", ",", "it", "was", "so", "bland", "that", "even", "after", "loading", "it", "up", "with", "salt", ",", "pepper", ",", "and", "parmesan", "I", "could", "barely", "eat", "it", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "loading", "e2_pos": 27, "label": "after"}
+]

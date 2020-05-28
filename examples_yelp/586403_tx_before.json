@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", ":", "There", "are", "signs", "telling", "you", "to", "check", "with", "the", "hostess", "before", "getting", "into", "line", ",", "so", "I", "asked", "the", "surly", "bimbo", "up", "front", "and", "she", "simply", "told", "me", "to", "go", "stand", "in", "line", "."], "e1_text": "check", "e1_pos": 8, "e2_text": "getting", "e2_pos": 13, "label": "before"}
+]

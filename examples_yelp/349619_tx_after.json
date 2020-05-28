@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "in", "the", "bar", "at", "a", "small", "table", "and", "were", "perfectly", "happy", ",", "but", "getting", "kicked", "out", "of", "the", "restaurant", "area", "after", "wandering", "in", "there", "was", "kind", "of", "surprising", "."], "e1_text": "kicked", "e1_pos": 16, "e2_text": "wandering", "e2_pos": 23, "label": "after"}
+]

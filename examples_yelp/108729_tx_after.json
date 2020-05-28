@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "Susan", "who", "send", "the", "messages", "to", "Pre", "Cert", "that", "she", "messaged", "them", "after", "I", "called", "and", "people", "were", "out", "so", "not", "one", "checked", "on", "the", "auth", "."], "e1_text": "messaged", "e1_pos": 12, "e2_text": "called", "e2_pos": 16, "label": "after"}
+]

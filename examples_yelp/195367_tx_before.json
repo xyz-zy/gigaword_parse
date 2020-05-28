@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "thing", "you", "do", "before", "visiting", "le", "village", "--", "buy", "a", "groupon", "-LRB-", "$", "44", "for", "two", "for", "dinner", "with", "a", "bottle", "of", "wine", "-RRB-", "Second", "thing", "you", "must", "do", "before", "coming", "here", "is", "book", "your", "table", "on", "Opentable", "."], "e1_text": "do", "e1_pos": 3, "e2_text": "visiting", "e2_pos": 5, "label": "before"}
+]

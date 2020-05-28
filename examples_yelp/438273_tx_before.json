@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "a", "shower", "before", "getting", "my", "toes", "done", ",", "I", "shave", "everything", "and", "got", "a", "mini", "cut", "which", "is", "common", ",", "but", "on", "my", "foot", "this", "time", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "getting", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "happened", "too", "fast", "before", "I", "let", "the", "lady", "know", "I", "feel", "uncomfortable", "about", "her", "squirting", "anything", "on", "my", "wound", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "let", "e2_pos": 6, "label": "before"}
+]

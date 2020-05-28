@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "has", "been", "a", "real", "disappointment", "after", "investing", "our", "life", "savings", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "investing", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "would", "urge", "anyone", "to", "consider", "who", "built", "your", "house", ",", "their", "history", ",", "quality", "and", "after", "sale", "warranty", "work", "before", "buying", "."], "e1_text": "consider", "e1_pos": 5, "e2_text": "work", "e2_pos": 19, "label": "after"}
+]

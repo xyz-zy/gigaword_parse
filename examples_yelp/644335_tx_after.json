@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "watched", "as", "people", "who", "arrived", "after", "us", "received", "full", "orders", "while", "I", "was", "still", "waiting", "."], "e1_text": "arrived", "e1_pos": 5, "e2_text": "received", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "just", "about", "to", "tell", "them", "nevermind", "when", "it", "arrived", ",", "40", "minutes", "after", "ordering", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "ordering", "e2_pos": 15, "label": "after"}
+]

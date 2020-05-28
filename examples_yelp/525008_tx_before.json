@@ -1,0 +1,4 @@
+[
+{"tokens": ["Luckily", ",", "I", "remembered", "the", "dishes", "I", "enjoyed", "before", "-LRB-", "in", "NY", "and", "growing", "up", "in", "Hawaii", "-RRB-", "and", "I", "also", "got", "a", "heads-up", "text", "from", "Lily", ",", "so", "I", "knew", "exactly", "what", "to", "order", "."], "e1_text": "remembered", "e1_pos": 3, "e2_text": "enjoyed", "e2_pos": 7, "label": "before"},
+{"tokens": ["Advice", ":", "Know", "what", "you", "want", "before", "you", "get", "there", "-LRB-", "whether", "you", "want", "Dim", "Sum", "or", "regular", "plates", "-RRB-", ",", "since", "carts", "will", "swarm", "you", "immediately", "-LRB-", "and", "I", "mean", ",", "you", "have", "n't", "even", "settled", "in", "your", "seat", "or", "placed", "your", "purse", "down", "lol", "-RRB-", "."], "e1_text": "want", "e1_pos": 5, "e2_text": "get", "e2_pos": 8, "label": "before"}
+]

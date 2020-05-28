@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "i", "should", "'ve", "gotten", "it", "done", "earlier", "before", "coming", "to", "Vegas", "but", "i", "had", "no", "time", "...", ":-LRB-", "The", "place", "looks", "decent", "."], "e1_text": "gotten", "e1_pos": 5, "e2_text": "coming", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "was", "just", "sick", "of", "the", "whole", "situation", "and", "trying", "to", "let", "her", "know", "i", "was", "not", "happy", ",", "i", "just", "paid", "my", "money", "with", "no", "tip", "and", "left", ",", "bursting", "into", "tears", "in", "my", "boyfriends", "car", "for", "being", "stupid", "and", "not", "getting", "my", "nails", "done", "before", "i", "got", "here", "."], "e1_text": "done", "e1_pos": 45, "e2_text": "got", "e2_pos": 48, "label": "before"}
+]

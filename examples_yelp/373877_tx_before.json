@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "met", "a", "couple", "friends", "who", "were", "staying", "at", "Luxor", "here", "before", "we", "hit", "the", "town", "."], "e1_text": "staying", "e1_pos": 7, "e2_text": "hit", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "do", "n't", "know", "where", "she", "came", "from", ",", "but", "she", "was", "there", "one", "second", "and", "gone", "for", "about", "10-15", "minutes", "before", "she", "came", "back", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "came", "e2_pos": 6, "label": "before"}
+]

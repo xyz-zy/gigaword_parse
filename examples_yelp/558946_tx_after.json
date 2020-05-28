@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "should", "also", "take", "something", "after", "you", "leave", ",", "to", "help", "with", "the", "pain", "that", "feels", "more", "like", "a", "sun", "burn", "than", "anything", "else", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "leave", "e2_pos": 7, "label": "after"},
+{"tokens": ["Simplicity", "makes", "payment", "plans", "easy", "and", "the", "appointment", "process", "is", "ok", "as", "long", "as", "you", "follow", "up", "with", "the", "facility", "after", "you", "make", "your", "appointment", "to", "ensure", "it", "is", "booked", "properly", "."], "e1_text": "follow", "e1_pos": 15, "e2_text": "make", "e2_pos": 22, "label": "after"}
+]

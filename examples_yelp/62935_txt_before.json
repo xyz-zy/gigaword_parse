@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "say", "''", "``", "surprisingly", "''", "''", "because", "I", "'ve", "never", "heard", "of", "this", "place", "before", "or", "even", "seen", "it", "."], "e1_text": "heard", "e1_pos": 11, "e2_text": "seen", "e2_pos": 18, "label": "before"},
+{"tokens": ["Tips", ":", "-", "Check", "out", "the", "menu", "online", "before", "coming", "in", "if", "you", "have", "the", "chance", "because", "they", "have", "A", "LOT", "of", "items", "."], "e1_text": "online", "e1_pos": 7, "e2_text": "coming", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "I", "am", "one", "of", "those", "travelers", "that", "must", "eat", "and", "drink", "in", "a", "restaurant", "before", "boarding", "a", "plane", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "boarding", "e2_pos": 17, "label": "before"},
+{"tokens": ["Dining", "before", "flying", "eases", "my", "stress", "by", "preparing", "my", "stomach", "and", "brain", "for", "coma", "mode", "."], "e1_text": "Dining", "e1_pos": 0, "e2_text": "flying", "e2_pos": 2, "label": "before"}
+]

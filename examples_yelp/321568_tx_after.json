@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "get", "home", "I", "have", "a", "''", "``", "chai", "latte", "''", "''", "tasty", "...", "not", "bad", ",", "a", "''", "``", "lox", "on", "a", "everything", "bagel", "''", "''", "well", "ok", "I", "can", "live", "with", "that", ",", "and", "a", "''", "``", "vegi", "NO", "avocado", "on", "a", "plain", "bagel", "''", "''", "they", "both", "tasted", "great", "but", "after", "waiting", "15", "minuets", "for", "my", "order", "I", "was", "a", "little", "disappointed", "...", "I", "will", "go", "back", "and", "try", "again", ",", "hoping", "it", "was", "just", "''", "``", "one", "of", "those", "days", "''", "''"], "e1_text": "vegi", "e1_pos": 40, "e2_text": "was", "e2_pos": 62, "label": "after"}
+]

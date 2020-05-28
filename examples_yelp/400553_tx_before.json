@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "been", "going", "here", "for", "almost", "two", "years", ",", "and", "to", "this", "day", "Tiffany", "has", "never", "greeted", "me", "or", "called", "me", "by", "name", "and", "acts", "like", "she", "has", "never", "seen", "me", "before", "when", "I", "walk", "in", "!"], "e1_text": "seen", "e1_pos": 30, "e2_text": "walk", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "sure", "what", "the", "problem", "was", ",", "but", "apparently", "they", "no", "longer", "accept", "them", ";", "fine", ",", "but", "we", "paid", "for", "the", "gift", "cards", "in", "the", "first", "place", "and", "probably", "obtained", "them", "before", "they", "changed", "the", "policy", "."], "e1_text": "obtained", "e1_pos": 30, "e2_text": "changed", "e2_pos": 34, "label": "before"}
+]

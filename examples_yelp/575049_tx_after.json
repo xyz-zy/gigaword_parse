@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "always", "passed", "by", "it", "but", "I", "never", "went", "in", "to", "try", "it", "because", "it", "looked", "more", "like", "a", "house", ",", "but", "I", "decided", "to", "try", "it", "after", "my", "friends", "highly", "recommended", "it", "to", "me", "."], "e1_text": "try", "e1_pos": 11, "e2_text": "recommended", "e2_pos": 31, "label": "after"}
+]

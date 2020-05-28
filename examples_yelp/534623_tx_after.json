@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "n't", "until", "I", "reversed", "a", "charge", "after", "90", "days", "of", "waiting", "for", "a", "simple", "fix", "for", "something", "not", "done", "right", "that", "I", "got", "their", "attention", "."], "e1_text": "reversed", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "wo", "n't", "share", "the", "nasty", "email", "I", "got", "after", "reversing", "the", "charge", ",", "but", "it", "was", "vulgar", "to", "say", "the", "least", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "reversing", "e2_pos": 10, "label": "after"}
+]

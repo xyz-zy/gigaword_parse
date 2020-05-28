@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*", "REVIEW", "UPDATE", "06\\/26\\/14", "\\*\\*", "The", "manager", "finally", "called", "me", "back", "yesterday", "after", "3", "hours", "of", "waiting", "to", "tell", "me", "he", "'d", "call", "me", "back", "tomorrow", "morning", "between", "9:00", "-10:00", "a.m.", "to", "let", "me", "know", "when", "the", "driver", "will", "show", "up", ",", "and", "guess", "what", "?"], "e1_text": "called", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

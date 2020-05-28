@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "time", "I", "went", "to", "their", "salon", "after", "they", "told", "me", "that", "they", "are", "tired", "and", "I", "ca", "n't", "wait", "in", "line", "and", "told", "me", "to", "come", "back", "the", "next", "day", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "told", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "thought", "it", "was", "reasonable", "so", "I", "came", "in", "a", "week", "after", "while", "rashin", "told", "me", "my", "eyebrows", "are", "too", "hard", "for", "her", "to", "do", "so", "I", "should", "just", "go", "somewhere", "else", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "are", "e2_pos": 18, "label": "after"}
+]

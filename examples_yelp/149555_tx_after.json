@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "lady", "manager", "had", "reduced", "it", "to", "half", "the", "order", "of", "California", "rolls", "for", "half", "the", "price", "but", "after", "putting", "up", "a", "fight", "and", "telling", "her", "that", "this", "was", "wrong", "and", "not", "our", "fault", "."], "e1_text": "reduced", "e1_pos": 4, "e2_text": "putting", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "came", "in", "first", "and", "of", "course", "asked", "for", "a", "high", "chair", "and", "asked", "again", "and", "asked", "again", "then", "it", "finally", "came", "after", "asking", "3X", "so", "you", "can", "see", "requesting", "service", "is", "just", "not", "there", "but", "bringing", "the", "food", "we", "ordered", "to", "our", "table", "is", "not", "a", "problem", "but", "requesting", "something", "simple", "obviously", "is", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "is", "e2_pos": 31, "label": "after"}
+]

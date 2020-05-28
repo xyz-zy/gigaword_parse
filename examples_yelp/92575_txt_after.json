@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "told", "me", "it", "would", "be", "$", "130", ",", "but", "he", "could", "give", "me", "a", "5", "%", "discount", "-LRB-", "this", "was", "after", "he", "called", "me", "back", "...", "had", "to", "ask", "his", "boss", "about", "that", "whole", "5", "%", "discount", "!", "-RRB-", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "called", "e2_pos": 23, "label": "after"}
+]

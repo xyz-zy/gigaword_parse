@@ -1,0 +1,4 @@
+[
+{"tokens": ["Best", "advice", "I", "can", "give", "for", "any", "buffet", "including", "this", "one", "is", "to", "make", "a", "circle", "around", "the", "entire", "buffet", "before", "choosing", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "choosing", "e2_pos": 21, "label": "before"},
+{"tokens": ["Sorry", "is", "the", "individual", "who", "chooses", "first", "before", "looking", "."], "e1_text": "chooses", "e1_pos": 5, "e2_text": "looking", "e2_pos": 8, "label": "before"}
+]

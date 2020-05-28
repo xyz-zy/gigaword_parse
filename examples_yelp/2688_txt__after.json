@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "check", "it", "out", "after", "calling", "her", "brother", "Lee", "who", "goes", "often", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "calling", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "stopped", "at", "the", "bar", "for", "a", "nightcap", "after", "dinner", "and", "the", "bartender", "said", "they", "are", "redesigning", "the", "menu", "and", "trying", "hard", "to", "make", "this", "more", "of", "a", "dinner", "spot", "than", "just", "happy", "hour", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "said", "e2_pos": 13, "label": "after"}
+]

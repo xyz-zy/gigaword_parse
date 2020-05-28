@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "crest", "the", "lift", "hill", "as", "the", "chain", "disengages", "and", "for", "a", "second", "we", "can", "see", "the", "horizon", "before", "we", "do", "our", "160", "foot", "drop", "into", "a", "graceful", "swooping", "curve", "."], "e1_text": "see", "e1_pos": 16, "e2_text": "do", "e2_pos": 21, "label": "before"},
+{"tokens": ["Then", "we", "go", "back", "uphill", "into", "a", "sweeping", "fan", "turn", "and", "then", "into", "a", "reverse", "curve", ",", "diving", "thru", "the", "Thunderbolt", "'s", "structure", "a", "second", "time", "before", "doing", "a", "couple", "of", "series", "of", "airtime", "bunny", "hops", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "hops", "e2_pos": 35, "label": "before"}
+]

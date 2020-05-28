@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "presumed", "I", "would", "be", "put", "in", "the", "front", "of", "the", "list", "considering", "I", "already", "paid", ",", "already", "had", "ALL", "the", "rest", "of", "my", "food", ",", "and", "I", "was", "standing", "there", "waiting", "for", "my", "SINGLE", "taco", "...", "but", "I", "waited", "for", "almost", "5min", "before", "it", "came", "out", "."], "e1_text": "waited", "e1_pos": 39, "e2_text": "came", "e2_pos": 45, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Well", ",", "first", "of", "all", "I", "was", "not", "greeted", "when", "I", "walked", "in", "and", "waited", "about", "2-3", "minutes", "before", "a", "hostess", "came", "over", "to", "greet", "me", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

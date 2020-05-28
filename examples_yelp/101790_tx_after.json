@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "review", "gets", "one", "star", "in", "my", "book", ",", "solely", "based", "on", "the", "ghastly", "way", "we", "were", "treated", "by", "management", "after", "already", "receiving", "poor", "service", "all", "night", "."], "e1_text": "treated", "e1_pos": 17, "e2_text": "receiving", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "requested", "a", "table", "outside", ",", "after", "confirming", "that", "there", "would", "be", "ample", "heaters", "should", "it", "get", "chilly", "."], "e1_text": "requested", "e1_pos": 1, "e2_text": "confirming", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "have", "to", "say", ",", "I", "was", "incredibly", "impressed", "at", "his", "quick", "willingness", "to", "throw", "the", "server", "under", "the", "bus", "after", "already", "stating", "they", "were", "''", "``", "short", "staffed", ",", "etc", "''", "''", "."], "e1_text": "throw", "e1_pos": 14, "e2_text": "stating", "e2_pos": 22, "label": "after"}
+]

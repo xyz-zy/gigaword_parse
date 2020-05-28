@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "less", "busy", "than", "most", "people", "have", "experienced", "but", "because", "there", "were", "5", "of", "us", ",", "after", "we", "paid", ",", "we", "had", "to", "wait", "for", "about", "15", "minutes", "before", "we", "were", "seated", "."], "e1_text": "were", "e1_pos": 12, "e2_text": "paid", "e2_pos": 19, "label": "after"}
+]

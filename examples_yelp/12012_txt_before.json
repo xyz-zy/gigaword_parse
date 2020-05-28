@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "only", "went", "to", "Zorba", "'s", "a", "couple", "times", "before", "it", "closed", ",", "and", "I", "remember", "being", "disappointed", "with", "it", "because", "I", "could", "get", "much", "better", "gyros", "back", "home", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "closed", "e2_pos": 11, "label": "before"},
+{"tokens": ["Had", "I", "rated", "Zorba", "'s", "before", "coming", "back", ",", "I", "would", "have", "given", "them", "four", "stars", "."], "e1_text": "rated", "e1_pos": 2, "e2_text": "coming", "e2_pos": 6, "label": "before"}
+]

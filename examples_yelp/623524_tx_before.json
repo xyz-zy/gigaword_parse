@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dentist", "subsequently", "had", "''", "``", "professional", "recommendations", "''", "''", "to", "include", "laser", "treatments", "for", "my", "gums", ",", "an", "oral", "cavity", "screening\\/evaluation", ",", "night", "mouth", "guards", "for", "teeth", "grinding", "and", "the", "like", "-", "and", "the", "selling", "was", "done", "by", "the", "actual", "dentist", "during", "my", "initial", "evaluation", "!!", "and", "before", "the", "cleaning", "began", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "began", "e2_pos": 51, "label": "before"}
+]

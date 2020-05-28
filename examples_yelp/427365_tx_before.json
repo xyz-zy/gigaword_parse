@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "sat", "on", "my", "hotel", "bed", "wondering", "where", "I", "had", "heard", "this", "restaurants", "name", "before", "...", "and", "then", "it", "hit", "me", "...", "Man", "vs.", "Food", "!!!", "So", "I", "just", "had", "to", "try", "it", "."], "e1_text": "wondering", "e1_pos": 6, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["He", "asked", "if", "we", "had", "ever", "ate", "there", "before", "and", "when", "we", "said", "no", "he", "decided", "to", "give", "us", "a", "rundown", "of", "the", "menu", "w\\/out", "boring", "us", "and", "w\\/out", "us", "forgetting", "the", "menu", "items", "he", "suggested", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "before"}
+]

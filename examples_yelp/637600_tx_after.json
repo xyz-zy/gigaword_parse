@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cooks", "have", "always", "been", "rude", "at", "this", "location", "and", "have", "shorted", "me", "food", "even", "after", "I", "verified", "the", "count", "I", "asked", "for", "to", "what", "they", "said", "they", "packed", "."], "e1_text": "shorted", "e1_pos": 11, "e2_text": "verified", "e2_pos": 17, "label": "after"}
+]

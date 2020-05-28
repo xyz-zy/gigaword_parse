@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "our", "food", "and", "my", "girlfriend", "decided", "to", "change", "her", "order", "right", "after", "I", "gave", "mine", "and", "the", "waitress", "made", "the", "change", "but", "showed", "an", "obvious", "frustration", "in", "the", "process", "."], "e1_text": "change", "e1_pos": 9, "e2_text": "gave", "e2_pos": 15, "label": "after"}
+]

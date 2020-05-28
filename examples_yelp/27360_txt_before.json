@@ -1,0 +1,4 @@
+[
+{"tokens": ["and", "then", "chats", "for", "a", "moment", "before", "walking", "over", "to", "the", "table", "where", "she", "started", "pulling", "out", "the", "oil", "blends", "."], "e1_text": "chats", "e1_pos": 2, "e2_text": "walking", "e2_pos": 7, "label": "before"},
+{"tokens": ["And", "I", "proceeded", "to", "be", "something", "I", "have", "never", "been", "in", "a", "retail", "store", "before", "-", "an", "incredibly", "angry", "customer", "."], "e1_text": "been", "e1_pos": 9, "e2_text": "-", "e2_pos": 15, "label": "before"}
+]

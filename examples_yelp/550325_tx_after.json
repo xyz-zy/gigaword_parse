@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "busser", "quickly", "gave", "our", "waters", "and", "breads", ",", "cocktails", "come", "in", "15", "min", ",", "apps", "next", "15", ",", "at", "this", "point", "we", "have", "finished", "apps", ",", "drinks", "and", "half", "the", "bread", "plate", ",", "main", "course", "1", "hour", "48", "min", "after", "cocktails", "were", "served", ",", "dessert", "took", "another", "33", "min", "after", "we", "were", "done", "."], "e1_text": "finished", "e1_pos": 24, "e2_text": "were", "e2_pos": 42, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "this", "location", "and", "ordered", "steak", "and", "lobster", "after", "having", "a", "great", "meal", "at", "Red", "Lobster", "in", "Southern", "California", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "having", "e2_pos": 11, "label": "after"}
+]

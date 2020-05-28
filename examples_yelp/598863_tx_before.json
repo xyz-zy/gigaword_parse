@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "major", "complaint", "is", "that", "we", "did", "n't", "get", "to", "sample", "5", "of", "the", "wines", "because", "they", "ran", "out", "before", "we", "got", "to", "them", "."], "e1_text": "ran", "e1_pos": 17, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

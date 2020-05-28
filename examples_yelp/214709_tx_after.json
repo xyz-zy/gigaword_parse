@@ -1,0 +1,4 @@
+[
+{"tokens": ["Another", "tiny", "complaint", ",", "we", "came", "in", "on", "a", "weekend", "around", "lunchtime", "130-2pm", ",", "and", "we", "were", "the", "only", "people", "there", ",", "even", "after", "we", "were", "done", "with", "our", "food", "."], "e1_text": "were", "e1_pos": 16, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["After", "we", "ordered", ",", "the", "owners", "or", "people", "working", "the", "front", "disappeared", "and", "I", "never", "saw", "them", "after", "they", "dropped", "off", "the", "food", "."], "e1_text": "saw", "e1_pos": 15, "e2_text": "dropped", "e2_pos": 19, "label": "after"}
+]

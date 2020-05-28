@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*\\*", "Make", "sure", "you", "read", "the", "sign", "on", "the", "table", "before", "going", "up", "to", "to", "the", "buffet", ".", "''", "''"], "e1_text": "read", "e1_pos": 4, "e2_text": "going", "e2_pos": 11, "label": "before"}
+]

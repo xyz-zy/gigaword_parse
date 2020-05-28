@@ -1,0 +1,4 @@
+[
+{"tokens": ["Despite", "having", "a", "not-so-great", "experience", "at", "Joe", "Mama", "'s", "-LRB-", "the", "previous", "instantiation", "of", "this", "restaurant", ";", "see", "my", "previous", "review", "-RRB-", "in", "the", "month", "before", "it", "changed", "hands", ",", "I", "was", "eager", "to", "give", "this", "place", "a", "second", "chance", ",", "in", "light", "of", "the", "updated", "menu", "and", "new", "ownership", "."], "e1_text": "having", "e1_pos": 1, "e2_text": "changed", "e2_pos": 27, "label": "before"},
+{"tokens": ["Upon", "entering", ",", "the", "space", "seemed", "cleaner", "than", "before", ",", "which", "was", "encouraging", "."], "e1_text": "seemed", "e1_pos": 5, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

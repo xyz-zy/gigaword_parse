@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "not", "sure", "if", "the", "server", "assumed", "that", "we", "would", "n't", "be", "ordering", "food", "or", "what", ",", "but", "after", "we", "ordered", "the", "cheese", "course", "and", "wine", ",", "he", "came", "back", "only", "to", "attempt", "to", "take", "away", "our", "menus", "not", "to", "take", "our", "order", "."], "e1_text": "assumed", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 21, "label": "after"}
+]

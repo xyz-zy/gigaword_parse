@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "knew", "the", "true", "test", "of", "this", "dish", "was", "the", "broth", "so", "before", "I", "added", "anything", "to", "it", ",", "I", "sipped", "a", "bit", "of", "the", "broth", "and", "...", "it", "totally", "missed", "the", "mark", "on", "the", "flavoring", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "added", "e2_pos": 14, "label": "before"}
+]

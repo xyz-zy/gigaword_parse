@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "our", "server", "only", "showed", "up", "twice", "after", "we", "placed", "our", "order", ":", "once", "to", "see", "if", "our", "meals", "were", "okay", ",", "and", "to", "present", "our", "check", "."], "e1_text": "showed", "e1_pos": 4, "e2_text": "placed", "e2_pos": 9, "label": "after"},
+{"tokens": ["After", "finishing", "our", "main", "courses", ",", "we", "were", "going", "to", "order", "desserts", ",", "however", ",", "after", "again", "requesting", "our", "server", "to", "place", "the", "order", "-LRB-", "and", "her", "not", "showing", "up", ",", "per", "the", "usual", "-RRB-", ",", "the", "busser", "again", "refilled", "our", "water", "-LRB-", "non-revenue", "generating", "drink", "-RRB-", "and", "brought", "us", "our", "dessert", "menu", "."], "e1_text": "order", "e1_pos": 10, "e2_text": "requesting", "e2_pos": 17, "label": "after"}
+]

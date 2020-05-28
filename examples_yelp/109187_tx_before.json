@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "favorite", "main", "dish", "is", "the", "salmon", "BLT", "but", "check", "out", "their", "specials", "online", "ahead", "of", "time", "before", "heading", "in", ",", "these", "are", "usually", "delicious", "things", "you", "ca", "n't", "find", "on", "the", "menu", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "heading", "e2_pos": 18, "label": "before"}
+]

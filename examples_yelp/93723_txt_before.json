@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "drove", "up", "to", "the", "window", "I", "waited", "for", "three", "minutes", "before", "anyone", "showed", "up", "to", "assist", "me", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "showed", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "definetely", "recommend", "you", "keep", "on", "going", "before", "making", "a", "stop", "here", "."], "e1_text": "going", "e1_pos": 6, "e2_text": "making", "e2_pos": 8, "label": "before"}
+]

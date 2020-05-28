@@ -1,0 +1,3 @@
+[
+{"tokens": ["NOPE", "!!", "Same", "story", "!!", "Wilted", "lettuce", "in", "the", "salad", "with", "very", "few", "items", "to", "choose", "from", ",", "the", "shrimp", "were", "n't", "cleaned", "properly", ",", "roaches", "crawling", "on", "the", "wall", "AND", "there", "was", "things", "floating", "in", "the", "glass", "of", "water", "I", "was", "served", "after", "asking", "for", "water", "with", "my", "beverage", "."], "e1_text": "served", "e1_pos": 42, "e2_text": "asking", "e2_pos": 44, "label": "after"}
+]

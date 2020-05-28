@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "only", "had", "to", "wait", "a", "few", "minutes", "before", "being", "sat", "down", "together", "on", "some", "pretty", "awesome", "massage", "chairs", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "polish", "lasted", "over", "3", "weeks", "before", "it", "chipped", "so", "that", "was", "really", "nice", "."], "e1_text": "lasted", "e1_pos": 2, "e2_text": "chipped", "e2_pos": 8, "label": "before"}
+]

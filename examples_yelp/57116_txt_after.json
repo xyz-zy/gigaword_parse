@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "said", "that", "the", "warranty", "only", "covers", "the", "cost", "of", "the", "rental", "after", "they", "diagnose", "the", "problem", "."], "e1_text": "covers", "e1_pos": 6, "e2_text": "diagnose", "e2_pos": 14, "label": "after"}
+]

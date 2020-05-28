@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "in", "there", "today", "about", "12:30", "ordered", "my", "meal", "after", "waiting", "15", "min", "for", "the", "food", "I", "went", "to", "get", "sauces", "and", "was", "informed", "they", "where", "all", "out", "of", "soy", "sauce", "and", "hot", "sauce", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

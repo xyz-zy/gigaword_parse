@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "did", "say", "he", "would", "call", "me", "after", "my", "agent", "returned", "from", "vacation", "to", "work", "things", "out", "."], "e1_text": "call", "e1_pos": 5, "e2_text": "returned", "e2_pos": 10, "label": "after"}
+]

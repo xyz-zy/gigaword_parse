@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "the", "two", "men", "I", "spoke", "to", "before", "about", "this", "situation", "were", "BOTH", "fired", "or", "left", "the", "company", "when", "i", "told", "them", "what", "i", "was", "told", "they", "said", "that", "Ishould", "have", "asked", "for", "a", "supervisor", "and", "will", "not", "give", "me", "my", "fee", "back", "."], "e1_text": "spoke", "e1_pos": 5, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "wish", "I", "knew", "how", "deceitful", "they", "were", "before", "I", "moved", "in", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "moved", "e2_pos": 10, "label": "before"}
+]

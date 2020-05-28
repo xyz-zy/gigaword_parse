@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "pay", "$", "35.00", "for", "each", "luggage", "both", "way", "!!!", "Then", "we", "tried", "to", "check", "in", "online", "for", "our", "returning", "flight", "the", "night", "before", "...", "our", "flight", "time", "changed", "to", "a", "night", "flight", "!"], "e1_text": "tried", "e1_pos": 14, "e2_text": "changed", "e2_pos": 30, "label": "before"},
+{"tokens": ["How", "about", "that", "?!?!", "Then", "I", "called", "Orbitz", ",", "waited", "for", "24mins", "before", "I", "get", "to", "speak", "to", "a", "person", "."], "e1_text": "waited", "e1_pos": 9, "e2_text": "get", "e2_pos": 14, "label": "before"}
+]

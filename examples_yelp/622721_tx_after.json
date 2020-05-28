@@ -1,0 +1,5 @@
+[
+{"tokens": ["After", "the", "waitress", "noticed", "that", "one", "of", "use", "did", "n't", "have", "a", "plate", ",", "she", "asked", "what", "we", "had", "ordered", "and", "then", "after", "checking", "with", "the", "cook", "let", "us", "know", "it", "would", "be", "about", "15", "minutes", "for", "the", "order", "of", "pancakes", "."], "e1_text": "asked", "e1_pos": 15, "e2_text": "let", "e2_pos": 27, "label": "after"},
+{"tokens": ["We", "wanted", "to", "try", "here", "after", "seeing", "it", "on", "Hungry", "Investors", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 6, "label": "after"},
+{"tokens": ["And", "being", "a", "family", "run", "business", "you", "want", "to", "like", "it", ",", "after", "all", "the", "owners", "seem", "to", "be", "good", "people", "."], "e1_text": "run", "e1_pos": 4, "e2_text": "seem", "e2_pos": 16, "label": "after"}
+]

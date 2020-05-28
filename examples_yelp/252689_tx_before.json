@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "this", "rating", "is", "based", "on", "service", "and", "experience", "at", "my", "visit", "only", "as", "the", "food", "never", "came", "...", "The", "place", "was", "not", "busy", "and", "we", "waited", "for", "about", "30min", "for", "breakfast", "before", "deciding", "to", "walk", "out", "."], "e1_text": "waited", "e1_pos": 26, "e2_text": "deciding", "e2_pos": 33, "label": "before"},
+{"tokens": ["I", "'ve", "been", "here", "couple", "of", "times", "before", "but", "this", "place", "has", "definitely", "went", "down", "hill", "since", "my", "last", "visit", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "has", "e2_pos": 11, "label": "before"}
+]

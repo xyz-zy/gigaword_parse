@@ -1,0 +1,4 @@
+[
+{"tokens": ["Myself", "and", "my", "wife", "have", "been", "going", "to", "Famous", "Dave", "'s", "before", "they", "came", "to", "Henderson", "."], "e1_text": "going", "e1_pos": 6, "e2_text": "came", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "have", "traveled", "to", "both", "the", "Rainbow", "and", "Blue", "diamond", "location", "before", "the", "Henderson", "one", "was", "built", "."], "e1_text": "traveled", "e1_pos": 2, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

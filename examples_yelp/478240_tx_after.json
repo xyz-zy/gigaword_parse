@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "down", ",", "she", "brought", "drinks", ",", "took", "our", "order", "and", "10", "minutes", "after", "we", "placed", "our", "order", ",", "she", "said", "''", "``", "it", "'s", "gon", "na", "be", "10", "more", "minutes", ",", "I", "'m", "sorry", ",", "here", "is", "some", "edamame", ".", "''", "''"], "e1_text": "brought", "e1_pos": 5, "e2_text": "placed", "e2_pos": 16, "label": "after"}
+]

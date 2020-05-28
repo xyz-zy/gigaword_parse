@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "n't", "see", "our", "server", "again", "until", "she", "stopped", "by", "the", "table", "with", "the", "receipt", "-LRB-", "check", "was", "already", "paid", ";", "it", "was", "dropped", "off", "by", "the", "hostess", "after", "we", "waited", "unattended", "for", "10-15", "minutes", "-RRB-", "."], "e1_text": "paid", "e1_pos": 20, "e2_text": "waited", "e2_pos": 31, "label": "after"}
+]

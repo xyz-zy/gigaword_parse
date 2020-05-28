@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "the", "front", "desk", "and", "had", "to", "listen", "to", "four", "options", "before", "I", "was", "prompted", "to", "push", "4", "to", "speak", "to", "the", "front", "desk", "-LRB-", "I", "pushed", "the", "front", "desk", "button", "on", "the", "phone", "for", "a", "reason", "-RRB-", "."], "e1_text": "listen", "e1_pos": 8, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "saw", "no", "indication", "that", "you", "are", "supposed", "to", "pay", "at", "the", "counter", ",", "so", "I", "flag", "down", "a", "server", "and", "ask", "for", "the", "bill", "after", "5-10", "minutes", "of", "both", "of", "us", "being", "done", "with", "our", "food", "."], "e1_text": "ask", "e1_pos": 21, "e2_text": "being", "e2_pos": 32, "label": "after"}
+]

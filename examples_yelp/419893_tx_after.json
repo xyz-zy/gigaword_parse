@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "having", "my", "ultrasound", "it", "took", "a", "week", "to", "hear", "back", "from", "a", "staff", "member", "that", "is", "after", "I", "left", "2", "messages", "with", "the", "office", "for", "someone", "to", "call", "me", "back", "."], "e1_text": "is", "e1_pos": 16, "e2_text": "left", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "did", "ask", "a", "nurse", "a", "question", "about", "my", "birth", "control", "and", "she", "still", "didnn", "'", "t", "get", "back", "to", "me", "until", "nearly", "five", "days", "later", "after", "I", "had", "to", "pay", "money", "out", "of", "pocket", "for", "more", "birth", "contol", "pills", "becuase", "I", "am", "taking", "up", "to", "3", "pills", "a", "day", "to", "help", "control", "the", "bleeding", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "had", "e2_pos": 28, "label": "after"}
+]

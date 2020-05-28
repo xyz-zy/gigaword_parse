@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "best", "friend", "and", "I", "went", "here", "for", "an", "impromptu", "birthday", "dinner", "after", "we", "spent", "the", "day", "at", "the", "spa", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "spent", "e2_pos": 14, "label": "after"},
+{"tokens": ["After", "that", ",", "it", "was", "probably", "about", "30", "minutes", "from", "after", "they", "cleared", "our", "lobster", "chowder", "plates", "before", "they", "started", "bringing", "out", "our", "dinner", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "cleared", "e2_pos": 12, "label": "after"}
+]

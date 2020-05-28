@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "pushed", "to", "the", "''", "``", "lounge", "''", "''", "for", "20", "minutes", "before", "being", "seated", "despite", "mulitple", "open", "tables", ",", "just", "like", "another", "reviewer", "."], "e1_text": "pushed", "e1_pos": 2, "e2_text": "being", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "considered", "having", "a", "conversation", "with", "the", "manager", "before", "leaving", ",", "but", "I", "would", "rather", "not", "help", "this", "place", "survive", "...", "it", "needs", "to", "die", ",", "quickly", ",", "before", "anyone", "else", "wastes", "their", "money", "."], "e1_text": "considered", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 9, "label": "before"}
+]

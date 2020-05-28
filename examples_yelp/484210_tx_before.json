@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "walked", "up", "to", "the", "store", "and", "was", "greeted", "before", "I", "even", "entered", "."], "e1_text": "greeted", "e1_pos": 8, "e2_text": "entered", "e2_pos": 12, "label": "before"},
+{"tokens": ["When", "I", "finally", "convinced", "the", "lady", "that", "I", "just", "wanted", "a", "small", "bag", "containing", "2oz", "of", "each", "of", "the", "teas", "I", "had", "selected", ",", "she", "filled", "each", "bag", "with", "nearly", "3oz", "and", "rang", "me", "up", "before", "I", "noticed", "."], "e1_text": "rang", "e1_pos": 32, "e2_text": "noticed", "e2_pos": 37, "label": "before"}
+]

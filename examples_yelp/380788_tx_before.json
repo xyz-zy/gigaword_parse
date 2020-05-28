@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "seeing", "this", "road", "come", "up", ",", "we", "decided", "to", "head", "over", "by", "the", "dam", "in", "order", "to", "stop", "for", "some", "pictures", "before", "making", "our", "way", "along", "route", "88", "heading", "south", "."], "e1_text": "stop", "e1_pos": 18, "e2_text": "making", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "road", "did", "become", "scenic", "again", ",", "taking", "us", "through", "the", "enjoyable", "''", "``", "Devils", "Canyon", "''", "''", "before", "getting", "us", "home", "so", "in", "the", "end", "it", "all", "worked", "out", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "getting", "e2_pos": 19, "label": "before"}
+]

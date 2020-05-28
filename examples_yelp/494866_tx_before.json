@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "started", "with", "the", "diver", "scallops", ",", "tasted", "so", "fresh", ",", "someone", "brought", "them", "up", "24", "hours", "before", "being", "put", "on", "my", "plate", ",", "but", "you", "only", "get", "3", "!"], "e1_text": "brought", "e1_pos": 12, "e2_text": "being", "e2_pos": 18, "label": "before"},
+{"tokens": ["You", "get", "the", "complete", "lobster", "body", "split", "in", "half", "with", "the", "spaghetti", "in", "the", "middle", ",", "so", "get", "ready", "to", "shoot", "a", "picture", "before", "you", "dig", "in", "."], "e1_text": "shoot", "e1_pos": 20, "e2_text": "dig", "e2_pos": 25, "label": "before"}
+]

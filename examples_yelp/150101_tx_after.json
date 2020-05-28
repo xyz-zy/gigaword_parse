@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "especially", "excited", "to", "visit", "after", "finding", "out", "there", "was", "a", "great", "place", "for", "breakfast", "that", "was", "on", "the", "travel", "network", "-LRB-", "man", "vs.", "food", "-RRB-", "."], "e1_text": "visit", "e1_pos": 5, "e2_text": "finding", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "got", "seated", "pretty", "quickly", "after", "my", "girlfriend", "had", "to", "let", "the", "lady", "know", "we", "were", "there", "well", "before", "the", "ambush", "of", "people", "that", "poured", "in", "after", "we", "arrived", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "after"}
+]

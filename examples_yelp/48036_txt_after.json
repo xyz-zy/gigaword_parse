@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "do", "n't", "mess", "with", "a", "770", "credit", "score", "after", "15", "years", "of", "being", "a", "good", "payer", "."], "e1_text": "mess", "e1_pos": 3, "e2_text": "being", "e2_pos": 13, "label": "after"},
+{"tokens": ["What", "the", "hell", "are", "you", "smoking", "thinking", "I", "would", "ever", "do", "that", "in", "a", "million", "years", "after", "you", "just", "finished", "cheating", "me", "out", "of", "35", "bucks", "!!?!?", "The", "nerve", "of", "this", "guy", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "finished", "e2_pos": 19, "label": "after"}
+]

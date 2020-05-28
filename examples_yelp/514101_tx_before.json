@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "she", "told", "me", "if", "I", "wouldve", "gone", "to", "any", "other", "salon", ",", "they", "wouldve", "charged", "me", "no", "matter", "what", "!!", "Such", "an", "unprofessional", ",", "unknowledgable", ",", "rude", ",", "un", "service", "oriented", "receptionist", "!!", "I", "then", "bought", "a", "facial", "creme", "from", "the", "salon", "before", "I", "left", "and", "after", "I", "made", "the", "purchase", ",", "realized", "it", "had", "sunflower", "oil", "which", "I", "can", "not", "consume", "so", "I", "called", "in", "to", "see", "if", "I", "can", "return", "unopened", "products", "!"], "e1_text": "bought", "e1_pos": 36, "e2_text": "left", "e2_pos": 45, "label": "before"}
+]

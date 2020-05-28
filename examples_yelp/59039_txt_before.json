@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "and", "I", "all", "stared", "at", "the", "plate", "for", "a", "minute", "before", "we", "figured", "out", "that", "it", "was", "the", "steak", "I", "had", "sent", "back", ",", "I", "told", "him", "to", "take", "it", "off", "the", "check", "which", "he", "seemed", "upset", "about", "but", "did", "."], "e1_text": "stared", "e1_pos": 5, "e2_text": "figured", "e2_pos": 14, "label": "before"}
+]

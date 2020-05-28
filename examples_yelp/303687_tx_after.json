@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "this", "were", "a", "few", "months", "after", "it", "opened", ",", "I", "would", "have", "given", "five", "stars", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "opened", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "second", "time", "I", "asked", "to", "speak", "with", "a", "manager", ",", "after", "expressing", "my", "displeasure", "with", "the", "porterhouse", "and", "he", "said", "that", "my", "party", "had", "eaten", "enough", "-LRB-", "roughly", "2", "pieces", "between", "3", "people", "~", "10-15", "%", "-RRB-", "to", "be", "charged", "and", "they", "would", "do", "nothing", "about", "it", "on", "the", "bill", "."], "e1_text": "asked", "e1_pos": 4, "e2_text": "expressing", "e2_pos": 12, "label": "after"}
+]

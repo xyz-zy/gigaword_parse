@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "a", "big", "fan", "of", "chicken", "fingers", "however", "I", "usually", "end", "up", "really", "sick", "after", "eating", "them", "because", "most", "of", "the", "time", "chicken", "fingers", "are", "very", "greasy", "and", "have", "a", "really", "bad", "after", "taste", ",", "so", "needless", "to", "say", ",", "it", "'s", "been", "pretty", "long", "since", "I", "'ve", "had", "chicken", "fingers", "."], "e1_text": "end", "e1_pos": 11, "e2_text": "eating", "e2_pos": 16, "label": "after"},
+{"tokens": ["Let", "me", "just", "say", "that", "I", "'ve", "not", "burped", "up", "any", "funky", "tastes", "after", "eating", "here", ",", "or", "burped", "peroid", "for", "that", "matter", "."], "e1_text": "burped", "e1_pos": 8, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "were", "sat", "before", "we", "were", "and", "still", "we", "stood", ",", "tapping", "our", "foot", "with", "our", "child", "growing", "more", "and", "more", "unwieldly", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "made", "sure", "to", "find", "out", "what", "he", "wanted", "before", "he", "left", "so", "we", "could", "order", "quickly", "."], "e1_text": "wanted", "e1_pos": 8, "e2_text": "left", "e2_pos": 11, "label": "before"},
+{"tokens": ["Daddy", "and", "daughter", "returned", "before", "the", "server", "showed", "up", "."], "e1_text": "returned", "e1_pos": 3, "e2_text": "showed", "e2_pos": 7, "label": "before"}
+]

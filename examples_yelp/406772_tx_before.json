@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "tried", "to", "flag", "someone", "so", "we", "could", "get", "food", "order", "in", "before", "the", "late-night", "menu", "started", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "started", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "'ll", "give", "it", "a", "one", "final", "chance", "before", "we", "give", "up", "on", "this", "place", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "give", "e2_pos": 10, "label": "before"}
+]

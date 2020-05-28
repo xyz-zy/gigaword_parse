@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "looking", "for", "a", "place", "I", "could", "take", "my", "employees", "to", "an", "occasional", "dinner", "so", "I", "went", "in", "there", "about", "6", "weeks", "after", "they", "had", "their", "Grand", "Opening", "last", "year", "."], "e1_text": "went", "e1_pos": 17, "e2_text": "had", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "stood", "inside", "the", "front", "door", "waiting", "to", "be", "greeted", "and", "taken", "to", "a", "table", ",", "after", "standing", "there", "for", "a", "little", "bit", "and", "nobody", "came", "over", "to", "me", "I", "walked", "over", "to", "the", "bar", "and", "sat", "down", "and", "decided", "to", "have", "a", "drink", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "standing", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "for", "as", "much", "Thai", "food", "as", "I", "eat", ",", "Lotus", "still", "had", "a", "selection", "of", "Thai", "dishes", "I", "had", "never", "seen", "before", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "highlight", "for", "me", "was", "the", "thai", "dishes", "I", "had", "never", "seen", "before", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

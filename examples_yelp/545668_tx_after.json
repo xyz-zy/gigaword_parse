@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", ",", "if", "I", "misinterpreted", "what", "this", "meant", ",", "that", "is", "fine", ",", "but", "the", "problem", "is", "that", "after", "we", "completed", "our", "purchase", ",", "the", "address", "for", "pick-up", "we", "had", "entered", "wound", "up", "not", "being", "the", "one", "on", "the", "receipt", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "completed", "e2_pos": 20, "label": "after"}
+]

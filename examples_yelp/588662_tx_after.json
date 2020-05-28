@@ -1,0 +1,3 @@
+[
+{"tokens": ["$", "45", "for", "two", "take", "out", "bagel", "sandwiches", "and", "two", "drinks", "??", "The", "bagels", "were", "stale", "AND", "soggy", "...", "Plus", ",", "I", "was", "sick", "for", "a", "whole", "day", "after", "eating", "that", "!!", "Worst", "food", "experience", "ever", "."], "e1_text": "was", "e1_pos": 22, "e2_text": "eating", "e2_pos": 29, "label": "after"}
+]

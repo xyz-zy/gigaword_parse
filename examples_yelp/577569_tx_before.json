@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "it", "was", "unavailable", "like", "the", "BBQ", "ribs", "that", "I", "had", "originally", "asked", "for", ",", "I", "would", "have", "appreciated", "being", "able", "to", "choose", "another", "option", "like", "what", "had", "occurred", "before", ",", "not", "shorted", "on", "my", "meal", "."], "e1_text": "choose", "e1_pos": 22, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["Overall", ",", "I", "am", "going", "to", "come", "back", "and", "try", "the", "fried", "chicken", ",", "but", ",", "am", "disappointed", ",", "the", "one", "and", "only", "thing", "I", "knew", "I", "wanted", "to", "get", "before", "walking", "in", "was", "forgotten", "."], "e1_text": "get", "e1_pos": 29, "e2_text": "walking", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", "spent", "a", "while", "staring", "at", "the", "cash", "register", "before", "counting", "out", "someones", "change", ",", "and", "then", "forgot", "that", "they", "were", "directly", "behind", "her", "."], "e1_text": "register", "e1_pos": 8, "e2_text": "counting", "e2_pos": 10, "label": "before"}
+]

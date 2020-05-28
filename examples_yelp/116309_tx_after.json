@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "after", "a", "few", "minutes", "and", "that", "'s", "when", "trouble", "started", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "'s", "e2_pos": 8, "label": "after"},
+{"tokens": ["A", "couple", "of", "the", "girls", "had", "side", "salads", "which", "were", "brought", "out", "after", "about", "20", "min", "which", "is", "kind", "of", "a", "while", "for", "a", "simple", "salad", "."], "e1_text": "brought", "e1_pos": 10, "e2_text": "is", "e2_pos": 17, "label": "after"}
+]

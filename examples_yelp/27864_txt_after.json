@@ -1,0 +1,4 @@
+[
+{"tokens": ["Did", "not", "make", "the", "customer", "whole", "after", "ruining", "the", "cosmetics", "of", "the", "frame", "."], "e1_text": "make", "e1_pos": 2, "e2_text": "ruining", "e2_pos": 7, "label": "after"},
+{"tokens": ["Beware", "of", "the", "condition", "of", "your", "sunglasses", "before", "you", "drop", "them", "off", "...", "they", "will", "surely", "come", "out", "in", "a", "much", "different", "condition", "after", "they", "are", "''", "``", "fixed", ".", "''", "''"], "e1_text": "come", "e1_pos": 16, "e2_text": "are", "e2_pos": 25, "label": "after"}
+]

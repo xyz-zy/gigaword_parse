@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "did", "this", "joke", "of", "a", "location", "do", "the", "crappiest", "job", "on", "my", "car", "I", "'ve", "ever", "had", ",", "they", "also", "managed", "to", "not", "clean", "the", "interior", "at", "all", "after", "I", "specifically", "asked", "for", "it", "to", "be", "cleaned", "."], "e1_text": "managed", "e1_pos": 22, "e2_text": "asked", "e2_pos": 33, "label": "after"}
+]

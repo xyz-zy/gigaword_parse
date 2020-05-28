@@ -1,0 +1,4 @@
+[
+{"tokens": ["Arrive", "at", "Mrs.", "Whites", "after", "going", "through", "the", "maze", "of", "the", "light", "rail", "and", "one", "way", "traffic", "...", "I", "digress", "that", "is", "not", "their", "fault", "."], "e1_text": "Whites", "e1_pos": 3, "e2_text": "going", "e2_pos": 5, "label": "after"},
+{"tokens": ["She", "did", "not", "start", "my", "order", "until", "10", "mins", "after", "I", "walked", "in", "the", "door", "and", "she", "was", "done", "calling", "out", "her", "boyfriend", "on", "the", "phone", "."], "e1_text": "start", "e1_pos": 3, "e2_text": "walked", "e2_pos": 11, "label": "after"}
+]

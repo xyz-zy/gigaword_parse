@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "found", "this", "place", "by", "''", "``", "yelping", "''", "''", "after", "reading", "reviews", "I", "made", "an", "appointment", "with", "the", "owner", "Michelle", "...", "she", "has", "been", "very", "patience", "with", "my", "need", "to", "have", "natural", "looking", "nails", "but", "using", "a", "product", "to", "keep", "them", "strong", "...", "we", "started", "with", "gel", "...", "seeing", "I", "am", "a", "personal", "chef", "and", "wash", "my", "hands", "a", "TON", "that", "was", "just", "not", "going", "to", "work", ".", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

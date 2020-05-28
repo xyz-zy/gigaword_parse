@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "last", "thing", "I", "would", "like", "to", "say", "is", "for", "the", "employees", "to", "be", "informed", "with", "the", "policies", "before", "presenting", "it", "to", "the", "customer", "."], "e1_text": "informed", "e1_pos": 14, "e2_text": "presenting", "e2_pos": 19, "label": "before"},
+{"tokens": ["It", "is", "very", "important", "to", "know", "everything", "before", "going", "to", "pick", "up", "your", "car", "and", "to", "be", "prepared", "for", "any", "surprises", "."], "e1_text": "know", "e1_pos": 5, "e2_text": "going", "e2_pos": 8, "label": "before"}
+]

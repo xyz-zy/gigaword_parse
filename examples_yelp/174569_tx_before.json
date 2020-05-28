@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "my", "aunt", ",", "she", "loves", "lamb", ",", "that", "'s", "why", "we", "picked", "here", "and", "we", "confirmed", "before", "that", "they", "had", "lamb", ",", "but", "on", "her", "birthday", ",", "when", "we", "got", "there", ",", "they", "said", "there", "was", "no", "lamb", "that", "day", ",", "it", "'s", "seasonal", "item", "."], "e1_text": "confirmed", "e1_pos": 16, "e2_text": "had", "e2_pos": 20, "label": "before"}
+]

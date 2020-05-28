@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "that", ",", "it", "was", "probably", "about", "30", "minutes", "from", "after", "they", "cleared", "our", "lobster", "chowder", "plates", "before", "they", "started", "bringing", "out", "our", "dinner", "."], "e1_text": "cleared", "e1_pos": 12, "e2_text": "started", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "waited", "a", "good", "5", "minutes", "before", "they", "came", "back", "with", "her", "steak", ",", "and", "when", "they", "did", ",", "it", "was", "completely", "overcooked", ",", "almost", "to", "medium", "well", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

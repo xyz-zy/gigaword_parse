@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "5", "minutes", "for", "her", "to", "return", "and", "she", "already", "knew", "the", "error", "because", "she", "picked", "up", "the", "plate", "before", "I", "even", "started", "explaining", "."], "e1_text": "picked", "e1_pos": 16, "e2_text": "started", "e2_pos": 23, "label": "before"}
+]

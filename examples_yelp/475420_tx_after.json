@@ -1,0 +1,4 @@
+[
+{"tokens": ["Five", "minutes", "later", "-LRB-", "8", "min", "after", "being", "sat", "-RRB-", "the", "lady", "came", "to", "take", "the", "order", "."], "e1_text": "min", "e1_pos": 5, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["They", "came", "back", "again", "medium", "-LRB-", "warm", "pink", "center", "-RRB-", "even", "after", "explaining", "that", "medium", "rare", "was", "cool", "red", "center", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "even", "were", "nice", "enough", "to", "stay", "open", "30", "minutes", "after", "closing", "to", "offer", "a", "food", "option", "to", "all", "the", "people", "who", "had", "delayed", "flights", "and", "were", "hungry", "."], "e1_text": "stay", "e1_pos": 6, "e2_text": "closing", "e2_pos": 11, "label": "after"}
+]

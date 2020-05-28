@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "use", "it", "the", "day", "I", "got", "it", "since", "I", "already", "had", "plans", "and", "I", "did", "n't", "end", "up", "using", "it", "until", "today", ",", "which", "is", "over", "a", "month", "after", "getting", "the", "card", "."], "e1_text": "is", "e1_pos": 27, "e2_text": "getting", "e2_pos": 32, "label": "after"},
+{"tokens": ["I", "could", "still", "smell", "the", "stench", "on", "me", "after", "class", "was", "over", "."], "e1_text": "smell", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

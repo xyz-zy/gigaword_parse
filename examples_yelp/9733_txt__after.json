@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "general", "manager", ",", "Chris", "Hefner", ",", "reached", "out", "to", "me", "after", "the", "Darden", "Restaurants", "social", "media", "contact", "made", "him", "aware", "of", "my", "review", "and", "experience", "at", "his", "restaurant", "."], "e1_text": "reached", "e1_pos": 7, "e2_text": "made", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "decided", "that", "after", "writing", "such", "a", "harsh", ",", "but", "accurate", ",", "review", "I", "should", "give", "Longhorn", "Steakhouse", "another", "try", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "writing", "e2_pos": 4, "label": "after"},
+{"tokens": ["We", "had", "just", "gotten", "to", "our", "salads", "after", "finishing", "off", "the", "appetizer", "-LRB-", "ran", "out", "of", "chips", "before", "dip", "-RRB-", "when", "our", "steaks", "arrived", "."], "e1_text": "gotten", "e1_pos": 3, "e2_text": "finishing", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "many", "occasions", "the", "place", "looked", "like", "it", "was", "not", "cleaned", "the", "night", "before", "or", "maybe", "after", "the", "morning", "crowd", "and", "several", "tables", "are", "still", "not", "ready", "or", "set", "up", "for", "service", "."], "e1_text": "cleaned", "e1_pos": 10, "e2_text": "are", "e2_pos": 23, "label": "before"},
+{"tokens": ["Just", "try", "and", "pretend", "you", "are", "on", "a", "top", "secret", "mission", "and", "maybe", "give", "them", "a", "chance", "to", "clean", "up", "before", "you", "get", "there", "."], "e1_text": "clean", "e1_pos": 18, "e2_text": "get", "e2_pos": 22, "label": "before"}
+]

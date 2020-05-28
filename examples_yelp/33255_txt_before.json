@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "sausage", "roll", "came", "out", "10", "minutes", "before", "my", "pizza", "did", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "did", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "'s", "always", "awkward", "when", "you", "go", "out", "to", "eat", "and", "one", "person", "is", "completely", "finished", "with", "their", "food", "before", "the", "other", "even", "receives", "their", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "receives", "e2_pos": 23, "label": "before"}
+]

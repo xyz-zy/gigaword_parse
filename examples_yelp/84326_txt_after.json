@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stress", "MAY", "BE", "-", "because", "after", "we", "asked", "out", "waiter", "-LRB-", "twice", "-RRB-", "to", "find", "out", "if", "they", "were", "available", "or", "not", ",", "he", "came", "back", "to", "let", "us", "know", "they", "were", "in", "fact", ",", "available", "."], "e1_text": "stress", "e1_pos": 1, "e2_text": "asked", "e2_pos": 8, "label": "after"}
+]

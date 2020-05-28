@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "hummed", "and", "hawed", "between", "the", "closest", "choices", "and", "decided", "on", "Tiles", "as", "I", "'d", "not", "eaten", "there", "before", "."], "e1_text": "decided", "e1_pos": 9, "e2_text": "'d", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "server", "also", "asked", "us", "how", "our", "meal", "was", "before", "we", "'d", "even", "taken", "a", "bite", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "'d", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "got", "a", "chance", "to", "go", "for", "some", "sushi", "with", "friends", "after", "7", "months", "of", "being", "in", "Pittsburgh", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "being", "e2_pos": 16, "label": "after"},
+{"tokens": ["Took", "30", "mins", "to", "be", "seated", "-LRB-", "not", "such", "big", "deal", "-RRB-", ",", "took", "forever", "getting", "drinks", ",", "then", "we", "noticed", "people", "that", "came", "in", "after", "us", "were", "getting", "their", "orders", "and", "the", "place", "was", "starting", "to", "clear", "out", "."], "e1_text": "came", "e1_pos": 23, "e2_text": "were", "e2_pos": 27, "label": "after"}
+]

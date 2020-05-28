@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "hearing", "so", "many", "great", "things", "about", "Hot", "N", "Juicy", "from", "friends", ",", "family", "and", "chef", "'s", "I", "was", "really", "looking", "forward", "to", "this", "place", "!!", "I", "knew", "what", "it", "was", "all", "about", "before", "I", "got", "there", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "got", "e2_pos": 35, "label": "before"},
+{"tokens": ["I", "had", "never", "had", "crawfish", "to", "eat", "before", "but", "I", "had", "caught", "these", "lil", "buckaroos", "as", "a", "kid", "when", "my", "ADD", "would", "leave", "me", "catching", "critters", "in", "the", "lakes", "I", "was", "fishing", "in", "INSTEAD", "of", "watching", "my", "fishing", "pole", "."], "e1_text": "eat", "e1_pos": 6, "e2_text": "had", "e2_pos": 1, "label": "before"}
+]

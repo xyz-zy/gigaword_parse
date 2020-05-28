@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wish", "we", "'d", "looked", "at", "the", "buffet", "before", "agreeing", "to", "be", "seated", "in", "the", "dining", "area", "around", "it", "-", "one", "glance", "and", "I", "think", "we", "would", "'ve", "opted", "for", "the", "menu", "dining", "room", "instead", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "agreeing", "e2_pos": 9, "label": "before"}
+]

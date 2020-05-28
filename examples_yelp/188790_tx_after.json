@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", ",", "she", "never", "came", "back", "after", "she", "dropped", "the", "drinks", "off", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "dropped", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "was", "ready", "to", "leave", "after", "biting", "into", "it", ",", "but", "then", "I", "realized", "I", "still", "had", "n't", "tried", "any", "desserts", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "biting", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "like", "the", "large", "bathroom", "with", "the", "soaking", "tub", "-", "I", "took", "3", "bubble", "baths", "!!!", "3", "-RRB-", "Check", "in", "-", "I", "worried", "based", "on", "other", "yelper", "reviews", ",", "but", "we", "literally", "walked", "up", "at", "noon", "on", "Thursday", "-LRB-", "3", "hours", "before", "check", "in", "-RRB-", "and", "were", "greeted", "with", "a", "friendly", "staff", "who", "check", "us", "in", "and", "sent", "us", "on", "our", "way", "in", "less", "than", "10", "minutes", "."], "e1_text": "walked", "e1_pos": 33, "e2_text": "check", "e2_pos": 43, "label": "before"}
+]

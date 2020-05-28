@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "flown", "into", "Vegas", "late", "at", "night", "and", "wanted", "to", "crash", "somewhere", "for", "the", "night", "before", "driving", "to", "Utah", "."], "e1_text": "crash", "e1_pos": 11, "e2_text": "driving", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "remember", "much", "about", "the", "conversation", ",", "except", "for", "some", "lies", "this", "guy", "was", "telling", "us", ",", "saying", "that", "he", "was", "running", "the", "bar", "after", "two", "weeks", "of", "working", "there", ",", "that", "he", "did", "n't", "live", "in", "Phoenix", ",", "he", "lived", "in", "New", "York", "-", "later", ",", "he", "forgot", "that", "he", "said", "that", ",", "and", "told", "us", "he", "lived", "in", "the", "same", "city", "in", "California", "that", "we", "did", "."], "e1_text": "running", "e1_pos": 23, "e2_text": "working", "e2_pos": 30, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wish", "I", "knew", "before", "going", "down", "there", "that", "they", "do", "not", "serve", "both", "together", "."], "e1_text": "knew", "e1_pos": 2, "e2_text": "going", "e2_pos": 4, "label": "before"},
+{"tokens": ["If", "they", "were", "to", "have", "breakfast", "items", "all", "day", ",", "I", "would", "maybe", "give", "it", "a", "chance", "again", "before", "heading", "into", "work", "."], "e1_text": "give", "e1_pos": 13, "e2_text": "heading", "e2_pos": 19, "label": "before"}
+]

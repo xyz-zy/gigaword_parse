@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "not", "the", "newest", "hotel", "in", "Vegas", "but", "then", "service", "wise", ",", "I", "think", "this", "is", "the", "best", "hotel", "in", "Vegas", "after", "staying", "at", "various", "so", "called", "''", "``", "5", "stars", "''", "''", "hotel", "on", "the", "strip", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "staying", "e2_pos": 23, "label": "after"}
+]

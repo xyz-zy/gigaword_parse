@@ -1,0 +1,3 @@
+[
+{"tokens": ["Please", "think", "twice", "before", "you", "stay", "here", "...", "we", "booked", "our", "suite", "on", "the", "internet", "and", "thought", "we", "were", "getting", "a", "good", "rate", ",", "we", "checked", "in", "and", "stayed", "for", "a", "couple", "of", "nights", "then", "on", "check", "out", "we", "find", "out", "they", "raised", "our", "daily", "rates", "!"], "e1_text": "think", "e1_pos": 1, "e2_text": "stay", "e2_pos": 5, "label": "before"}
+]

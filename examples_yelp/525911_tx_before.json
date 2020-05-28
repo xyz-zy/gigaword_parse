@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cashier", "was", "super", "friendly", ",", "and", "my", "food", "was", "placed", "in", "front", "of", "me", "on", "a", "tray", "before", "she", "even", "handed", "me", "my", "reciept", "!"], "e1_text": "placed", "e1_pos": 10, "e2_text": "handed", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Weed", "would", "explain", "why", "it", "took", "20minutes", "after", "ordering", "a", "scoop", "of", "sorbet", "before", "it", "found", "it", "'s", "way", "to", "our", "table", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "ordering", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "was", "the", "most", "sour", ",", "most", "tart", "thing", "I", "have", "ever", "tasted", "...", "to", "the", "point", "where", "it", "was", "literally", "impossible", "to", "NOT", "make", "a", "face", "after", "taking", "a", "bite", "-LRB-", "like", "the", "super-sour-face", "-RRB-", "."], "e1_text": "make", "e1_pos": 24, "e2_text": "taking", "e2_pos": 28, "label": "after"}
+]

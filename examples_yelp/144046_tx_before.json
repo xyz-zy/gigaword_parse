@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "a", "bit", "lackluster", "-", "waited", "for", "a", "bit", "at", "the", "door", "before", "being", "acknowledged", ",", "my", "boxed", "food", "was", "waiting", "at", "a", "table", "with", "a", "manager-looking", "guy", "who", "brought", "over", "my", "receipt", "and", "took", "my", "card", "with", "a", "series", "of", "gestures", ",", "then", "ran", "my", "card", "and", "disappeared", "without", "a", "thank", "you", "or", "asking", "if", "I", "needed", "anything", "else", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "being", "e2_pos": 14, "label": "before"}
+]

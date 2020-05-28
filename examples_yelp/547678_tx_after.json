@@ -1,0 +1,3 @@
+[
+{"tokens": ["Lastly", ",", "nothing", "makes", "me", "want", "to", "buy", "a", "Hilton", "timeshare", "more", ",", "then", "getting", "a", "phone", "call", "solicitation", "at", "8am", ",", "and", "then", "another", "one", "at", "9am", "after", "you", "already", "told", "them", "no", ",", "and", "you", "went", "to", "bed", "at", "4am", "."], "e1_text": "want", "e1_pos": 5, "e2_text": "told", "e2_pos": 31, "label": "after"}
+]

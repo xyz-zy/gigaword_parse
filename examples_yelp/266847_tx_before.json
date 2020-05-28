@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "realized", "there", "was", "an", "oil", "leak", "from", "them", "not", "doing", "good", "work", "and", "verifying", "their", "work", "before", "they", "give", "it", "to", "the", "customer", "."], "e1_text": "verifying", "e1_pos": 15, "e2_text": "give", "e2_pos": 20, "label": "before"}
+]

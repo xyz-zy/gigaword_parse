@@ -1,0 +1,3 @@
+[
+{"tokens": ["Start", "with", "''", "``", "Purist", "''", "''", "tuna", "salad", "and", "if", "someone", "else", "wants", "that", "other", "crap", "in", "their", "tuna", "salad", ",", "it", "can", "be", "added", "in", "before", "serving", "."], "e1_text": "added", "e1_pos": 25, "e2_text": "serving", "e2_pos": 28, "label": "before"}
+]

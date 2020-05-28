@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "I", "signed", "up", "for", "Urban", "Active", "back", "in", "April", "before", "I", "even", "saw", "the", "giant", "gym", "."], "e1_text": "signed", "e1_pos": 3, "e2_text": "saw", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "spinning", "classes", "are", "limited", "sign", "up", ",", "so", "you", "have", "to", "get", "there", "30", "minutes", "before", "class", "is", "started", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "is", "e2_pos": 18, "label": "before"}
+]

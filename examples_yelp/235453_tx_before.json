@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "not", "a", "big", "fan", "of", "Italian", "food", "so", "I", "checked", "out", "the", "menu", "before", "going", "and", "decided", "I", "would", "be", "having", "steak", "instead", "of", "pasta", "for", "my", "dinner", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "going", "e2_pos": 16, "label": "before"},
+{"tokens": ["He", "presents", "to", "us", "the", "meat", "before", "slicing", "it", "into", "strips", "for", "us", "."], "e1_text": "presents", "e1_pos": 1, "e2_text": "slicing", "e2_pos": 7, "label": "before"}
+]

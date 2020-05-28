@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "interesting", "thing", "is", "that", "they", "say", "the", "food", "is", "made", "to", "order", ",", "well", "that", "is", "kind", "of", "hard", "when", "your", "food", "comes", "out", "3", "minutes", "after", "you", "ordered", "it", ",", "and", "the", "remake", "even", "faster", "than", "that", "."], "e1_text": "comes", "e1_pos": 23, "e2_text": "ordered", "e2_pos": 29, "label": "after"}
+]

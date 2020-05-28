@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "longer", "hair", "and", "I", "dont", "think", "she", "had", "much", "experience", "with", "longer", "hair", "because", "my", "hair", "did", "not", "hold", "her", "curl", ",", "and", "looked", "very", "flat", "even", "after", "she", "redid", "it", "."], "e1_text": "have", "e1_pos": 1, "e2_text": "redid", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["my", "boyfriend", "and", "I", "arrived", "in", "Montreal", "hoping", "to", "find", "Hotel", "Gault", "to", "be", "a", "complete", "gem", "--", "especially", "after", "reading", "so", "many", "positive", "reviews", ",", "but", "our", "experience", "was", "completely", "awful", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "reading", "e2_pos": 20, "label": "after"},
+{"tokens": ["Almost", "home", "free", "after", "6", "hours", "of", "driving", "from", "Toronto", "-RRB-", "."], "e1_text": "free", "e1_pos": 2, "e2_text": "driving", "e2_pos": 7, "label": "after"}
+]

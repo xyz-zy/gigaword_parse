@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "spoke", "to", "a", "manager", "who", "said", "that", "he", "was", "surprised", "that", "I", "got", "bad", "service", "because", "of", "all", "the", "compliments", "they", "get", "from", "others", "...", "He", "only", "apologized", "after", "I", "asked", "him", "why", "he", "was", "n't", "sorry", "that", "I", "had", "a", "bad", "experience", "."], "e1_text": "apologized", "e1_pos": 28, "e2_text": "asked", "e2_pos": 31, "label": "after"}
+]

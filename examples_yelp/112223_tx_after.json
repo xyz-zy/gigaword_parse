@@ -1,0 +1,4 @@
+[
+{"tokens": ["Skeptical", "of", "the", "whole", "ordeal", "I", "had", "a", "friend", "call", "the", "establishment", "20mins", "after", "I", "left", "to", "price", "out", "what", "it", "would", "cost", "him", "to", "rent", "the", "same", "days", "and", "the", "same", "equipment", "."], "e1_text": "call", "e1_pos": 9, "e2_text": "left", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "told", "me", "that", "that", "part", "of", "the", "agreement", "was", "emailed", "to", "me", "after", "we", "did", "our", "deal", "."], "e1_text": "emailed", "e1_pos": 10, "e2_text": "did", "e2_pos": 15, "label": "after"}
+]

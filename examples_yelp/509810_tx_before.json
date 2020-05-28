@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "a", "total", "of", "4", "of", "us", "and", "2", "had", "went", "and", "got", "a", "starbucks", "coffee", "before", "being", "seated", "and", "needless", "to", "say", "after", "2", "drinks", "and", "the", "specials", "we", "paid", "a", "total", "of", "$", "32", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "being", "e2_pos": 18, "label": "before"}
+]

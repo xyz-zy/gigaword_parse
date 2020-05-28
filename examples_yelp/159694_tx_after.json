@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yes", ",", "I", "made", "the", "idiot", "mistake", "of", "staying", "there", "the", "year", "after", "I", "swore", "I", "would", "never", "stay", "there", "again", "!"], "e1_text": "made", "e1_pos": 3, "e2_text": "swore", "e2_pos": 14, "label": "after"},
+{"tokens": ["First", "of", "all", ",", "I", "do", "not", "plan", "to", "sit", "in", "a", "little", "cramped", "office", "in", "the", "casino", "my", "first", "night", "after", "all", "I", "have", "been", "through", "already", ",", "filing", "a", "police", "report", "for", "hours", "."], "e1_text": "sit", "e1_pos": 9, "e2_text": "have", "e2_pos": 24, "label": "after"}
+]

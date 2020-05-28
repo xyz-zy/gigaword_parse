@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "chicken", "was", "so", "over", "cooked", "that", "it", "took", "me", "a", "good", "minute", "to", "saw", "through", "it", "after", "I", "took", "it", "off", "the", "sandwich", "so", "I", "could", "eat", "it", "."], "e1_text": "saw", "e1_pos": 14, "e2_text": "took", "e2_pos": 8, "label": "after"}
+]

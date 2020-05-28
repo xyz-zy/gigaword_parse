@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "for", "my", "friend", "'s", "birthday", "because", "he", "claims", "he", "'s", "enjoyed", "this", "place", "before", "."], "e1_text": "claims", "e1_pos": 9, "e2_text": "'s", "e2_pos": 11, "label": "before"},
+{"tokens": ["When", "we", "told", "a", "passing", "server", "about", "it", ",", "she", "responded", "with", "''", "``", "Did", "you", "find", "it", "before", "or", "after", "you", "ate", "the", "biscuits", "?", "''", "''"], "e1_text": "responded", "e1_pos": 10, "e2_text": "Did", "e2_pos": 14, "label": "before"}
+]

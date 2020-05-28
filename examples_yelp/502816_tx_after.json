@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "last", "time", "I", "took", "my", "family", "there", ",", "it", "was", "over10", "minutes", "after", "being", "seated", "before", "anyone", "made", "contact", "with", "us", ";", "it", "took", "us", "nearly", "45", "minutes", "after", "placing", "a", "food", "order", "to", "get", "the", "food", "-LRB-", "the", "place", "was", "not", "really", "busy", "-RRB-", ";", "and", "no", "one", "bothered", "to", "check", "to", "see", "if", "things", "were", "alright", "at", "any", "point", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["Again", ",", "no", "one", "bothered", "to", "check", "on", "us", "after", "the", "food", "was", "served", ",", "even", "for", "new", "drink", "orders", ",", "which", "we", "would", "have", "made", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

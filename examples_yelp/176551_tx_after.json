@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "obviously", "did", "n't", "know", "much", "if", "anything", "about", "Germany", "or", "the", "menu", ",", "seriously", "mispronouncing", "a", "few", "items", "over", "and", "over", "even", "after", "my", "German", "family", "repeated", "it", "back", "the", "right", "way", "."], "e1_text": "mispronouncing", "e1_pos": 15, "e2_text": "repeated", "e2_pos": 27, "label": "after"},
+{"tokens": ["However", "we", "saw", "a", "really", "strange", "pattern", "at", "our", "table", "and", "the", "tables", "around", "us", "...", "Orders", "came", "out", "no", "more", "than", "5-10", "minutes", "after", "being", "placed", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "being", "e2_pos": 25, "label": "after"}
+]

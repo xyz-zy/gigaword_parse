@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dr.", "Cooper", "always", "told", "me", "exactly", "what", "needed", "to", "be", "done", ",", "showed", "me", "the", "issue", "on", "his", "comuputer", "-LRB-", "via", "xrays", "he", "had", "taken", "-RRB-", ",", "and", "documented", "the", "work", "digitally", "so", "I", "could", "see", "before", ",", "during", ",", "and", "after", "shots", "if", "I", "wanted", "to", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "wanted", "e2_pos": 45, "label": "after"}
+]

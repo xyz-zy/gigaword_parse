@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "guests", "did", "not", "receive", "her", "soda", "for", "forty", "minutes", ",", "and", "another", "guest", "did", "not", "receive", "one", "of", "her", "plates", "of", "sushi", "until", "just", "before", "we", "were", "about", "ready", "to", "leave", "."], "e1_text": "receive", "e1_pos": 6, "e2_text": "were", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hungry", "for", "brunch", ";", "stopped", "by", "to", "see", "what", "time", "they", "open", "and", "they", "let", "us", "in", "over", "an", "hour", "before", "the", "posted", "time", "!"], "e1_text": "let", "e1_pos": 14, "e2_text": "posted", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "was", "allowed", "to", "peek", "at", "a", "sample", "of", "the", "dinner", "menu", "before", "they", "finalized", "it", "as", "they", "were", "only", "open", "for", "lunch", "during", "the", "first", "week", "of", "operation", "and", "it", "looks", "very", "dynamic", "."], "e1_text": "allowed", "e1_pos": 2, "e2_text": "finalized", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "catering", "to", "a", "big", "table", "next", "to", "ours", "-LRB-", "she", "visited", "3", "times", "before", "coming", "to", "greet", "us", "-", "as", "in", "pick", "up", "plates", "and", "talk", ",", "come", "back", "offer", "dessert", "and", "talk", ",", "then", "come", "back", "to", "talk", "to", "some", "more", "-RRB-", "over", "ours", "."], "e1_text": "visited", "e1_pos": 12, "e2_text": "coming", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "all", "of", "the", "fees", "added", "up", "it", "was", "around", "$", "40", ",", "after", "waiting", "for", "an", "hour", "we", "called", "to", "find", "out", "where", "the", "food", "was", ",", "and", "the", "employee", "barked", "at", "us", "that", "the", "driver", "was", "on", "his", "way", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

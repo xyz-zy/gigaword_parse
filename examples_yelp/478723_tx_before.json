@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "'d", "never", "been", "before", "but", "I", "had", "been", "next", "door", "to", "Loco", "Lime", "-LRB-", "now", "closed", "-RRB-", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["Long", "story", "short", "...", "I", "'d", "already", "had", "a", "light", "meal", "before", "I", "got", "there", "-LRB-", "knowing", "I", "do", "n't", "eat", "burgers", "...", "-RRB-", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "got", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "were", "stacked", "up", "some", "kind", "of", "way", "and", "when", "they", "got", "to", "me", ",", "one", "fell", "off", "and", "down", "my", "arm", "before", "the", "waitor", "sat", "my", "plate", "down", "in", "front", "of", "me", "."], "e1_text": "fell", "e1_pos": 16, "e2_text": "sat", "e2_pos": 25, "label": "before"}
+]

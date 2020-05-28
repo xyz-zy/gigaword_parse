@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiters", "were", "excellent", "at", "recommending", "different", "wines", "and", "letting", "us", "sample", "a", "few", "before", "deciding", "."], "e1_text": "sample", "e1_pos": 11, "e2_text": "deciding", "e2_pos": 15, "label": "before"}
+]

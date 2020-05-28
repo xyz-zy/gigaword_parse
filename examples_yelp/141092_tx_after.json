@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "whatever", "reason", ",", "some", "of", "the", "vegetables", "were", "just", "thrown", "on", "\\*", "after", "\\*", "the", "pizza", "was", "cooked", "."], "e1_text": "\\*", "e1_pos": 12, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

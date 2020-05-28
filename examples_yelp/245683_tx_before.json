@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "so", "wish", "I", "had", "checked", "Yelp", "before", "going", "to", "this", "dentist", ",", "not", "only", "because", "of", "this", "fee", ",", "but", "also", "because", "of", "the", "''", "``", "plan", "''", "''", "they", "had", "for", "me", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "going", "e2_pos": 8, "label": "before"},
+{"tokens": ["A", "reputable", "company", "would", "work", "around", "the", "misunderstanding", ",", "as", "I", "had", "never", "missed", "an", "appointment", "or", "been", "late", "before", "."], "e1_text": "work", "e1_pos": 4, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "review", "is", "for", "delivery", "only", ",", "and", "I", "'m", "not", "sure", "i", "would", "give", "them", "another", "try", "for", "pick", "up", "...", "My", "order", "arrived", "1", "1\\/2", "after", "I", "ordered", "it", "!"], "e1_text": "arrived", "e1_pos": 24, "e2_text": "ordered", "e2_pos": 29, "label": "after"}
+]

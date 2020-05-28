@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "sent", "us", "new", "burgers", "after", "we", "told", "them", ",", "and", "the", "second", "round", "came", "out", "exactly", "the", "same", "."], "e1_text": "sent", "e1_pos": 1, "e2_text": "told", "e2_pos": 7, "label": "after"}
+]

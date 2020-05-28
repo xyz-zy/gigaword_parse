@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "time", "that", "I", "went", "to", "Autozone", "was", "when", "I", "noticed", "that", "my", "car", "was", "acting", "up", "after", "a", "car", "wash", "from", "across", "the", "street", "."], "e1_text": "acting", "e1_pos": 16, "e2_text": "wash", "e2_pos": 21, "label": "after"}
+]

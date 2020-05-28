@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "here", "is", "really", "good", "and", "I", "hate", "having", "to", "give", "it", "a", "poor", "review", ",", "but", "today", ",", "my", "husband", "and", "I", "waited", "for", "well", "over", "an", "hour", "after", "we", "gave", "our", "order", "to", "get", "our", "food", "."], "e1_text": "waited", "e1_pos": 24, "e2_text": "gave", "e2_pos": 32, "label": "after"}
+]

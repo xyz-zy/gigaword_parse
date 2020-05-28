@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "one", "friend", "explained", "to", "me", "that", "after", "I", "left", ",", "a", "host", "a", "2", "security", "guards", "went", "up", "to", "our", "table", ",", "shined", "lights", "on", "their", "faces", ",", "knocked", "over", "the", "rest", "of", "the", "bottle", "-LRB-", "there", "was", "still", "half", "a", "bottle", "left", "-RRB-", ",", "and", "told", "them", "to", "''", "``", "Get", "the", "fuck", "out", ",", "this", "table", "has", "been", "sold", ".", "''", "''"], "e1_text": "explained", "e1_pos": 3, "e2_text": "left", "e2_pos": 9, "label": "after"}
+]

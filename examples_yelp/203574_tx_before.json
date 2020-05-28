@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "a", "visit", "to", "Arizona", "about", "a", "week", "ago", "I", "stopped", "by", "here", "for", "lunch", "before", "flying", "home", "."], "e1_text": "stopped", "e1_pos": 10, "e2_text": "flying", "e2_pos": 16, "label": "before"},
+{"tokens": ["The", "hostess", "seated", "me", "and", "it", "took", "about", "10", "minutes", "before", "a", "waiter", "showed", "up", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "showed", "e2_pos": 13, "label": "before"}
+]

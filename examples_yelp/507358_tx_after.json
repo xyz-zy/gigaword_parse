@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "picturing", "the", "restaurant", "closed", "after", "hours", "where", "the", "roaches", "walk", "all", "over", "the", "rims", "of", "the", "giant", "pho", "pots", ",", "in", "and", "out", "of", "cooking", "surfaces", ",", "through", "food", "prep", "areas", "."], "e1_text": "closed", "e1_pos": 5, "e2_text": "walk", "e2_pos": 11, "label": "after"}
+]

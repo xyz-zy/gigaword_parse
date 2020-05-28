@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "Kobe", "steak", "which", "after", "about", "40", "minutes", "of", "wondering", "when", "my", "food", "would", "show", "up", ",", "came", "most", "disappointingly", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "wondering", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "tonight", "I", "would", "drive", "an", "1hour", "for", "sushi", "before", "eating", "there", "again", "."], "e1_text": "drive", "e1_pos": 4, "e2_text": "eating", "e2_pos": 10, "label": "before"},
+{"tokens": ["They", "had", "a", "piece", "of", "raw", "wish", "laying", "on", "the", "cutting", "board", "before", "we", "got", "there", "and", "it", "was", "still", "there", "when", "we", "left", "2hrs", "later", "."], "e1_text": "laying", "e1_pos": 7, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

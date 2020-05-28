@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "ordered", "from", "you", "a", "few", "times", "before", "but", "this", "was", "the", "absolute", "worst", "experience", "ive", "ever", "had", "with", "any", "delivery", "service", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["i", "did", "not", "receive", "my", "food", "until", "9:45", "p", "and", "the", "gentleman", "reeked", "of", "weed", "covered", "in", "tattoos", "and", "asked", "for", "me", "to", "give", "him", "my", "license", "number", "i", "said", "no", "since", "this", "was", "never", "asked", "before", "and", "he", "just", "stood", "there", "like", "it", "did", "n't", "process", "then", "eventually", "said", "ok", "and", "left", "."], "e1_text": "said", "e1_pos": 29, "e2_text": "was", "e2_pos": 33, "label": "before"}
+]

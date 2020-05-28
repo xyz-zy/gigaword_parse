@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "client", "service", "department", "gave", "me", "a", "partial", "credit", "back", "3", "weeks", "after", "it", "was", "due", "."], "e1_text": "gave", "e1_pos": 4, "e2_text": "was", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "never", "received", "a", "bill", "until", "3", "months", "after", "furniture", "was", "delivered", ",", "and", "we", "realized", "they", "shorted", "us", "$", "800", "on", "our", "refund", "for", "the", "piece", "that", "we", "canceled", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "so", "profoundly", "uncomfortable", ",", "even", "after", "we", "asked", "them", "to", "turn", "the", "fireplace", "down", "-LRB-", "they", "would", "n't", "turn", "it", "all", "the", "way", "off", "-RRB-", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asked", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "server", ",", "however", ",", "forgot", "to", "bring", "me", "the", "soda", "I", "ordered", "after", "it", "was", "clear", "I", "'d", "had", "plenty", "of", "malbec", ",", "and", "only", "refilled", "our", "party", "'s", "water", "glasses", "once", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

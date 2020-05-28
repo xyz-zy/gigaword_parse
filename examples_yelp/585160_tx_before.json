@@ -1,0 +1,3 @@
+[
+{"tokens": ["contacting", "the", "health", "inspector", "about", "this", "place", "!!!!", "I", "went", "in", "an", "hour", "before", "they", "closed", "hoping", "to", "just", "get", "a", "box", "of", "California", "rolls", "-LRB-", "sushi", "-RRB-", "to", "go", "...", "I", "seen", "what", "was", "already", "made", "and", "the", "avocado", "was", "brown", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "closed", "e2_pos": 15, "label": "before"}
+]

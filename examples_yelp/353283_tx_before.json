@@ -1,0 +1,3 @@
+[
+{"tokens": ["Admissions", "is", "\\", "u00a36", ".60", "-LRB-", "student", "rate", "-RRB-", "and", "\\", "u00a38", ".80", "-LRB-", "regular", "tickets", "-RRB-", "-", "big", "plus", ":", "no", "lines", ",", "friendly", "service", "with", "a", "smile", ",", "and", "there", "'s", "a", "Ben", "Jerry", "'s", "for", "you", "to", "sweeten", "your", "teeth", "before", "heading", "downstairs", "down", "the", "grand", "staircase", "where", "an", "usher", "directs", "you", "to", "the", "proper", "screening", "room", "."], "e1_text": "sweeten", "e1_pos": 40, "e2_text": "heading", "e2_pos": 44, "label": "before"}
+]

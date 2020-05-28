@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", ",", "you", "will", "probably", "play", "with", "the", "kitchen", "faucet", "for", "five", "minutes", "before", "finally", "figuring", "out", "how", "to", "turn", "it", "on", ",", "another", "five", "staring", "at", "a", "5", "`", "x5", "`", "x2", "'", "''", "``", "cube", "''", "''", "and", "wondering", "who", "would", "want", "to", "sit", "on", "that", "until", "you", "try", "it", "and", "yet", "another", "thirty", "trying", "to", "program", "your", "room", "kicking", "yourself", "for", "telling", "the", "bell", "man", "you", "could", "figure", "it", "out", "on", "your", "own", "."], "e1_text": "play", "e1_pos": 5, "e2_text": "figuring", "e2_pos": 15, "label": "before"}
+]

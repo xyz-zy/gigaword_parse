@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "additional", "information", "on", "our", "disastrous", "service", ":", "The", "pepper", "debacle", "part", "II", ":", "Our", "waiter", "came", "by", "after", "I", "was", "told", "the", "restaurant", "ran", "out", "of", "pepper", "and", "I", "asked", "him", "if", "maybe", "I", "could", "get", "some", "pepper", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

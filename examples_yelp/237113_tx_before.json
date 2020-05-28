@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "one", "of", "those", "moments", "where", "I", "'m", "extremely", "disappointed", "in", "myself", "for", "not", "yelping", "some", "places", "before", "I", "go", "to", "them", "."], "e1_text": "yelping", "e1_pos": 15, "e2_text": "go", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "ca", "n't", "even", "remember", "if", "that", "'s", "ever", "happened", "to", "me", "before", "."], "e1_text": "remember", "e1_pos": 4, "e2_text": "'s", "e2_pos": 7, "label": "before"}
+]

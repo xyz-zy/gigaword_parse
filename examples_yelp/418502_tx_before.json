@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "immediately", "stopped", "signing", "my", "paperwork", "and", "told", "her", "we", "had", "not", "even", "completed", "the", "transaction", ",", "and", "why", "did", "n't", "she", "explain", "this", "before", "processing", "my", "account", "."], "e1_text": "explain", "e1_pos": 22, "e2_text": "processing", "e2_pos": 25, "label": "before"}
+]

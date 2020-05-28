@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", ",", "two", "people", "did", "show", "up", "-LRB-", "but", "1\\/2", "hour", "early", "-RRB-", ",", "stayed", "about", "an", "hour", "and", "forty", "five", "minutes", "-LRB-", "but", "claimed", "they", "were", "there", "for", "two", "hours", "-RRB-", ",", "missed", "some", "major", "dirt", "that", "required", "me", "to", "clean", "up", "later", "after", "they", "left", "."], "e1_text": "clean", "e1_pos": 41, "e2_text": "left", "e2_pos": 46, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "xray", "showed", "an", "old", "and", "healed", "hip", "fracture", "that", "probably", "occurred", "when", "she", "was", "a", "feral", "cat", "-LRB-", "before", "we", "adopted", "her", "-RRB-", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "adopted", "e2_pos": 21, "label": "before"},
+{"tokens": ["When", "we", "called", "them", ",", "they", "said", "the", "ashes", "had", "been", "delivered", "to", "CAH", "well", "before", "the", "bill", "was", "mailed", "...", "and", "they", "never", "called", "us", "."], "e1_text": "CAH", "e1_pos": 13, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

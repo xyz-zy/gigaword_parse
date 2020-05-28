@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "park", "was", "pleasant", "to", "walk", "next", "to", "while", "heading", "over", ",", "but", "I", "was", "glad", "to", "have", "someone", "with", "me", "who", "had", "been", "there", "before", "."], "e1_text": "have", "e1_pos": 17, "e2_text": "had", "e2_pos": 22, "label": "before"},
+{"tokens": ["By", "the", "time", "I", "was", "ready", "for", "a", "refill", "on", "my", "diet", "coke", "before", "heading", "out", ",", "there", "was", "a", "small", "line", "at", "the", "register", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

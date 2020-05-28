@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "'ve", "done", "shrimp", ",", "pork", ",", "and", "carne", "asada", "if", "I", "overheard", "that", "before", "I", "ordered", "."], "e1_text": "overheard", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "stood", "at", "the", "hostess", "table", "for", "a", "few", "minutes", "before", "they", "realized", "I", "needed", "a", "table", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "realized", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "a", "little", "parking", "lot", "behind", "Hob", "Nobs", ",", "but", "because", "3rd", "Ave", "is", "a", "one", "way", "street", "going", "the", "opposite", "way", "from", "McDowell", ",", "you", "will", "have", "to", "navigate", "around", "the", "neighborhood", "a", "little", "before", "you", "find", "it", "."], "e1_text": "navigate", "e1_pos": 30, "e2_text": "find", "e2_pos": 38, "label": "before"}
+]

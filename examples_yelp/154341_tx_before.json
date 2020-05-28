@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "so", "disappointed", "with", "our", "visit", "first", "we", "sat", "at", "our", "table", "for", "more", "the", "15", "min", "before", "anyone", "came", "to", "us", "and", "then", "we", "asked", "for", "water", "with", "lemon", "and", "it", "took", "about", "another", "5", "min", "to", "get", "the", "lemon", "had", "to", "ask", "several", "times", "for", "it", "."], "e1_text": "sat", "e1_pos": 9, "e2_text": "came", "e2_pos": 20, "label": "before"}
+]

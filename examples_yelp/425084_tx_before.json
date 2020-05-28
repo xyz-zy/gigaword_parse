@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "salad", "was", "very", "soggy", "it", "look", "like", "it", "was", "made", "the", "day", "before", "I", "asked", "the", "waitress", "to", "take", "it", "back", "due", "to", "the", "soggy", "lettuce", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "asked", "e2_pos": 15, "label": "before"}
+]

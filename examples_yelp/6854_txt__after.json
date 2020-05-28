@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "'s", "my", "tiny", "beef", "with", "them", ":", "I", "went", "there", "as", "someone", "freshly", "moved", "into", "the", "city", ",", "after", "a", "grueling", "four-day", "trip", "through", "the", "snow", "over", "Christmas", "break", "with", "4", "kids", ",", "3", "pets", ",", "and", "2", "vehicles", "."], "e1_text": "moved", "e1_pos": 14, "e2_text": "break", "e2_pos": 29, "label": "after"}
+]

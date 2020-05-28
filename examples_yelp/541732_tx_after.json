@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "we", "asked", "for", "water", ",", "received", "it", "after", "20", "minutes", "of", "asking", "and", "we", "never", "saw", "them", "again", "-", "asked", "for", "soybean", "paste", "never", "got", "it", "As", "we", "started", "getting", "full", "I", "noticed", "that", "we", "had", "only", "gotten", "one", "soy", "bean", "soup", "and", "nothing", "else", ",", "later", "when", "I", "had", "to", "go", "pay", "I", "asked", "about", "our", "soups", "and", "she", "said", "''", "``", "oh", ",", "you", "did", "n't", "get", "it", ",", "I", "guess", "I", "left", "it", "at", "the", "wrong", "table", "''", "''", "like", "wtf", "?"], "e1_text": "received", "e1_pos": 6, "e2_text": "asking", "e2_pos": 12, "label": "after"}
+]

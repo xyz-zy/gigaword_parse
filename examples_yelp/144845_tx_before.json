@@ -1,0 +1,4 @@
+[
+{"tokens": ["Her", "eyes", "looked", "glazed", ",", "maybe", "she", "only", "receive", "a", "little", "sleep", "the", "night", "before", "maybe", "she", "was", "on", "drugs", ".", "."], "e1_text": "receive", "e1_pos": 8, "e2_text": "was", "e2_pos": 17, "label": "before"},
+{"tokens": ["Please", "get", "it", "together", ",", "before", "others", "catch", "on", "and", "get", "the", "quality", "customer", "sales", "associates", "that", "your", "business", "require", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "catch", "e2_pos": 7, "label": "before"}
+]

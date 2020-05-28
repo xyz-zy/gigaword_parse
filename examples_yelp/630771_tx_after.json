@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "lashes", "put", "on", "since", "last", "November", "at", "Cherry", "Lash", "Lounge", "-LRB-", "over-priced", "-RRB-", "and", "left", "after", "many", "attempts", "disappointed", "."], "e1_text": "left", "e1_pos": 17, "e2_text": "disappointed", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "have", "so", "many", "more", "lashes", "and", "got", "compliments", "from", "someone", "immediately", "after", "leaving", "Sola", "Salon", "!"], "e1_text": "got", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 13, "label": "after"}
+]

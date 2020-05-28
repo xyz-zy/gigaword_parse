@@ -1,0 +1,5 @@
+[
+{"tokens": ["Consistently", ",", "my", "food", "did", "n't", "show", "up", "until", "40", "minutes", "after", "I", "had", "ordered", ",", "leaving", "me", "20", "minutes", "to", "scarf", "down", "my", "food", "and", "pay", "."], "e1_text": "show", "e1_pos": 6, "e2_text": "had", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "came", "back", "once", "after", "the", "poker", "tournament", "series", "was", "over", ",", "thinking", "it", "would", "be", "better", "since", "it", "was", "n't", "so", "slammed", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Oh", ",", "and", "the", "bread", "finally", "came", "after", "I", "had", "started", "my", "dinner", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

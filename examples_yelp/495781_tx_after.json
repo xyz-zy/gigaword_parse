@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "if", "I", "agree", "with", "the", "pricing", "structure", "tho", "...", "Each", "slice", "is", "5", "bucks", "-LRB-", "okay", ",", "fine", ",", "we", "r", "on", "the", "strip", "-RRB-", "but", "if", "u", "want", "to", "order", "a", "full", "pizza", "-LRB-", "8", "slices", "-RRB-", ",", "you", "have", "to", "wait", "an", "additional", "30-45", "minutes", "-LRB-", "after", "already", "waiting", "in", "line", "-RRB-", "."], "e1_text": "wait", "e1_pos": 46, "e2_text": "waiting", "e2_pos": 54, "label": "after"}
+]

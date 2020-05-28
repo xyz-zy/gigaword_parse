@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "like", "to", "plan", "before", "I", "head", "to", "go", "out", "to", "eat", ",", "so", "I", "checked", "out", "the", "online", "menu", "to", "save", "time", "and", "find", "all", "the", "possibilities", "for", "possibly", "some", "new", "choices", ",", "not", "get", "there", "and", "find", "out", "the", "online", "menu", "is", "not", "the", "same", "as", "the", "restaurant", "menu", "."], "e1_text": "plan", "e1_pos": 3, "e2_text": "head", "e2_pos": 6, "label": "before"}
+]

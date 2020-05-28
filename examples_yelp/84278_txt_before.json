@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "the", "employee", "never", "acknowledged", "me", "even", "after", "he", "helped", "another", "customer", "before", "me", "and", "he", "began", "greeting", "and", "helping", "someone", "else", "who", "came", "in", "after", "me", "."], "e1_text": "helped", "e1_pos": 10, "e2_text": "began", "e2_pos": 17, "label": "before"}
+]

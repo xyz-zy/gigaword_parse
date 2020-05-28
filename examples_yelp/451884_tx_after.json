@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "been", "going", "there", "for", "just", "a", "couple", "months", "after", "finding", "them", "on", "Mobideals", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "finding", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "ended", "up", "leaving", "while", "promising", "to", "go", "to", "the", "health", "board", ",", "which", "I", "will", "be", "doing", "after", "I", "submit", "this", "post", "."], "e1_text": "doing", "e1_pos": 17, "e2_text": "submit", "e2_pos": 20, "label": "after"}
+]

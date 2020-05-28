@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "the", "while", "a", "couple", "sitting", "at", "a", "table", "next", "to", "the", "bar", "got", "their", "food", "and", "left", "before", "the", "burgers", "even", "came", "to", "the", "bar", "-LRB-", "Keep", "in", "mind", "said", "couple", "was", "seated", "10-15", "min", "AFTER", "us", "-RRB-", "!"], "e1_text": "left", "e1_pos": 17, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

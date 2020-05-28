@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "got", "more", "and", "more", "visibly", "upset", "with", "me", "and", "our", "group", "-", "he", "was", "also", "having", "words", "with", "the", "assistant", "manager", "after", "I", "demanded", "the", "bill", "."], "e1_text": "having", "e1_pos": 16, "e2_text": "demanded", "e2_pos": 24, "label": "after"},
+{"tokens": ["Seriously", ",", "even", "the", "assistant", "manager", "admitted", "it", "was", "a", "long", "time", "to", "wait", "for", "dinner", ",", "yet", "after", "being", "there", "for", "a", "total", "of", "2", "hours", ",", "they", "did", "n't", "even", "comp", "the", "drinks", "."], "e1_text": "wait", "e1_pos": 13, "e2_text": "being", "e2_pos": 19, "label": "after"}
+]

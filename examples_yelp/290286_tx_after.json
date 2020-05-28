@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "15", "minutes", "before", "we", "gave", "our", "drink", "order", "\\*", "15", "more", "before", "we", "gave", "our", "food", "order", "\\*", "30", "before", "our", "salad", "came", "and", "when", "it", "came", "it", "was", "spilled", "all", "over", "me", "\\*", "2", "minutes", "later", "they", "were", "bringing", "our", "entrees", "\\*", "5", "minutes", "after", "that", "we", "brought", "out", "our", "replacement", "salad", "\\*", "no", "bread", "sticks", "\\*", "and", "finally", "my", "glass", "of", "water", "was", "never", "refilled", "."], "e1_text": "were", "e1_pos": 39, "e2_text": "brought", "e2_pos": 49, "label": "after"}
+]

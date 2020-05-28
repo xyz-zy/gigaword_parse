@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "a", "different", "pizza", "than", "I", "'ve", "ever", "had", "before", "but", "it", "was", "very", "tasty", "and", "flavorful", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["Probs", "have", "to", "visit", "a", "couple", "more", "times", "and", "try", "the", "Margherita", "before", "I", "jump", "to", "5", "stars", ",", "but", "this", "place", "is", "pretty", "awesome", "."], "e1_text": "try", "e1_pos": 9, "e2_text": "jump", "e2_pos": 14, "label": "before"}
+]

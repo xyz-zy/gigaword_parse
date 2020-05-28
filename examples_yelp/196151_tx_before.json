@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "just", "need", "to", "teach", "the", "busser", "to", "ask", "first", "if", "we", "are", "done", "with", "our", "dishes", "before", "he", "decides", "to", "take", "them", "away", "."], "e1_text": "done", "e1_pos": 13, "e2_text": "decides", "e2_pos": 19, "label": "before"}
+]

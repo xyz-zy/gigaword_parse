@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "boyfriend", "finished", "his", "food", "before", "I", "got", "back", "to", "the", "car", "."], "e1_text": "finished", "e1_pos": 2, "e2_text": "got", "e2_pos": 7, "label": "before"},
+{"tokens": ["So", "I", "come", "back", "with", "a", "new", "burrito", "-LRB-", "and", "no", "new", "salsa", "since", "I", "'d", "dumped", "the", "salsa", "they", "'d", "given", "me", "onto", "the", "first", "burrito", "before", "seeing", "the", "meat", ":-LRB-", "-RRB-", ",", "dig", "into", "it", "and", "not", "seeing", "any", "meat", ",", "we", "drive", "off", "."], "e1_text": "given", "e1_pos": 21, "e2_text": "seeing", "e2_pos": 28, "label": "before"}
+]

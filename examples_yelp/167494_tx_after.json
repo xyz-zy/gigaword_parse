@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "great", "&", "waiter", "even", "took", "back", "a", "crepe", "my", "friend", "ordered", "after", "it", "had", "arrived", "&", "he", "noticed", "it", "was", "too", "much", "food", "to", "go", "along", "with", "his", "egg", "combo", "."], "e1_text": "ordered", "e1_pos": 12, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

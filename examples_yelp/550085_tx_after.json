@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "a", "little", "note", ",", "this", "restaurant", "does", "n't", "start", "picking", "up", "their", "phones", "until", "after", "5:00", "pm", ",", "which", "is", "the", "time", "they", "open", ",", "so", "if", "you", "need", "to", "change", "you", "'re", "reservation", ",", "it", "is", "better", "to", "call", "the", "Las", "Vegas", "Reservation", "Central", "...", "or", "something", "like", "that", ",", "which", "I", "found", "out", "through", "calling", "different", "hotels", "."], "e1_text": "start", "e1_pos": 9, "e2_text": "is", "e2_pos": 20, "label": "after"}
+]

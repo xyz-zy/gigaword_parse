@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "meal", "which", "was", "the", "carne", "asda", "was", "decent", "however", ",", "I", "could", "n't", "eat", "it", "because", "it", "was", "cooked", "medium", "rare", "after", "I", "requested", "for", "it", "to", "be", "medium", "well", "."], "e1_text": "cooked", "e1_pos": 19, "e2_text": "requested", "e2_pos": 24, "label": "after"}
+]

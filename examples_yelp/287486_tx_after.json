@@ -1,0 +1,4 @@
+[
+{"tokens": ["Earl", "'s", "is", "located", "conveniently", "in", "Planet", "Hollywood", "next", "to", "the", "casino", "in", "PH", "'s", "Miracle", "Mile", "of", "shops", "and", "restaurants", ",", "making", "it", "an", "accessible", "location", "24", "hours", "a", "day", ",", "after", "a", "nice", "walk", "around", "the", "strip", "or", "a", "long", "night", "of", "drinking", "and", "dancing", "at", "the", "club", "!"], "e1_text": "located", "e1_pos": 3, "e2_text": "drinking", "e2_pos": 44, "label": "after"},
+{"tokens": ["Perfect", "to", "eat", "after", "getting", "back", "to", "your", "hotel", "in", "the", "wee", "hours", "of", "the", "morning", "or", "on", "the", "long", "drive", "back", "home", "to", "So", "Cal", "!"], "e1_text": "eat", "e1_pos": 2, "e2_text": "getting", "e2_pos": 4, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["IF", "I", "ever", "want", "to", "eat", "from", "here", "again", ",", "I", "'ll", "make", "a", "point", "to", "open", "up", "the", "sandwich", "and", "check", "before", "I", "leave", "the", "store", "since", "the", "employees", "do", "not", "pay", "attention", "to", "customized", "orders", "."], "e1_text": "check", "e1_pos": 21, "e2_text": "leave", "e2_pos": 24, "label": "before"}
+]

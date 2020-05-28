@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "partner", "and", "I", "got", "to", "talking", "and", "after", "about", "20", "minutes", ",", "started", "to", "wonder", "where", "our", "calamari", "was", ",", "and", "why", "someone", "had", "n't", "taken", "our", "dinner", "order", "yet", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "started", "e2_pos": 13, "label": "after"},
+{"tokens": ["But", "repeatedly", "dropping", "the", "ball", "after", "making", "one", "mistake", "is", "inexcusable", "."], "e1_text": "dropping", "e1_pos": 2, "e2_text": "making", "e2_pos": 6, "label": "after"}
+]

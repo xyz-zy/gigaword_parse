@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "canceled", "one", "complete", "order", "after", "we", "saw", "the", "''", "``", "special", "''", "''", "sign", "on", "the", "counter", ";", "opting", "for", "the", "fish", "special", "."], "e1_text": "canceled", "e1_pos": 1, "e2_text": "saw", "e2_pos": 7, "label": "after"}
+]

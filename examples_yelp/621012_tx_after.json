@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "literally", "cried", "after", "I", "walked", "out", "."], "e1_text": "cried", "e1_pos": 2, "e2_text": "walked", "e2_pos": 5, "label": "after"},
+{"tokens": ["She", "was", "very", "rude", "and", "five", "minutes", "into", "doing", "my", "hair", "another", "appointment", "she", "scheduled", "at", "the", "same", "time", "as", "mine", "walked", "in", "so", "she", "stops", "doing", "my", "hair", "and", "starts", "on", "this", "ladies", "after", "I", "had", "already", "explained", "to", "her", "my", "situation", "."], "e1_text": "starts", "e1_pos": 30, "e2_text": "had", "e2_pos": 36, "label": "after"}
+]

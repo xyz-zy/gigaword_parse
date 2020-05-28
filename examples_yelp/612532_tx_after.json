@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sushi", "takes", "forever", "to", "come", "out", ",", "the", "table", "next", "to", "us", "got", "some", "of", "our", "food", "&", "vice", "versa", ",", "they", "simply", "forgot", "to", "bring", "food", ",", "&", "forget", "about", "making", "a", "speedy", "exit", "cause", "it", "took", "us", "at", "least", "20", "minutes", "to", "get", "the", "check", "after", "asking", "for", "it", "3", "times", "."], "e1_text": "get", "e1_pos": 45, "e2_text": "asking", "e2_pos": 49, "label": "after"}
+]

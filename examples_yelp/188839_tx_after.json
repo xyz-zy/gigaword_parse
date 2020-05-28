@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "This", "review", "is", "for", "Dinner", "only", "-RRB-", "I", "went", "a", "few", "times", "in", "the", "year", "or", "so", "after", "they", "opened", ",", "and", "was", "very", "impressed", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "opened", "e2_pos": 20, "label": "after"}
+]

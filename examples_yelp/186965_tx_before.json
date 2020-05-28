@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "''", "``", "small", "''", "''", "pizza", "for", "two", "took", "40", "minutes", "to", "arrive", ",", "and", "we", "purposely", "ordered", "quickly", "before", "several", "big", "parties", "were", "seated", "."], "e1_text": "ordered", "e1_pos": 18, "e2_text": "were", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "'ll", "come", "back", "again", "but", "we", "'ll", "definitely", "check", "our", "take", "out", "once", "over", "before", "we", "leave", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "leave", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", "apparently", "from", "now", "on", "if", "we", "order", "a", "calzone", "to-go", "we", "will", "make", "sure", "to", "open", "the", "container", "and", "cut", "it", "open", "there", "at", "the", "counter", "before", "we", "leave", "to", "make", "sure", "the", "order", "is", "correct", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "leave", "e2_pos": 29, "label": "before"}
+]

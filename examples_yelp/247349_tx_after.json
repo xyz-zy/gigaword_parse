@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "only", "mention", "that", "because", "this", "place", "charged", "MORE", "to", "clean", "that", "suit", "-", "almost", "$", "30", "for", "a", "two-piece", "suit", "after", "they", "tacked", "on", "their", "$", "6", "''", "``", "designer", "brand", "''", "''", "surcharge", "-LRB-", "no", ",", "I", "am", "not", "kidding", "-RRB-", "."], "e1_text": "charged", "e1_pos": 7, "e2_text": "tacked", "e2_pos": 23, "label": "after"}
+]

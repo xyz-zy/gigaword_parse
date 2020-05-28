@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dishes", "are", "cooked", "fresh", "to", "order", ",", "so", "there", "'s", "a", "little", "bit", "of", "a", "wait", "before", "your", "food", "arrives", ",", "but", "it", "'s", "a", "huge", "portion", "and", "it", "comes", "steaming", "and", "hot", "."], "e1_text": "'s", "e1_pos": 10, "e2_text": "arrives", "e2_pos": 20, "label": "before"}
+]

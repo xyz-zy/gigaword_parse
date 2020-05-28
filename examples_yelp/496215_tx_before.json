@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "complete", "kudos", "to", "the", "owner", "who", "is", "sharp", "enough", "to", "have", "hired", "Hisa-san", ",", "the", "amazing", "chef", "from", "Toranoko", ",", "and", "before", "that", "Tamon", "and", "I", "believe", "Nobu", "in", "NYC", "?"], "e1_text": "complete", "e1_pos": 1, "e2_text": "believe", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "wish", "I", "could", "have", "taken", "a", "snapshot", "of", "his", "face", "when", "I", "gave", "him", "that", "look", "that", "Tsuruta", "Koji", "usually", "wears", "right", "before", "someone", "'s", "head", "-LRB-", "spicy", "hand", "-RRB-", "rolls", "off", "his", "shoulders", "."], "e1_text": "wears", "e1_pos": 21, "e2_text": "rolls", "e2_pos": 31, "label": "before"}
+]

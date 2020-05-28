@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "only", "half", "whipped", "the", "booth", "-LRB-", "we", "suggested", "to", "the", "other", "diners", "they", "might", "want", "to", "finish", "wiping", "before", "they", "sat", "down", ",", "also", "told", "the", "waitress", "to", "move", "the", "poor", "women", "'s", "purse", "considering", "what", "she", "did", "manage", "to", "whip", "went", "right", "into", "the", "purse", ".", "-RRB-", "."], "e1_text": "wiping", "e1_pos": 18, "e2_text": "sat", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,6 @@
+[
+{"tokens": ["After", "the", "first", "time", "she", "said", "it", "...", "a", "table", "of", "4", "that", "arrived", "just", "a", "few", "minutes", "after", "us", "got", "their", "food", "."], "e1_text": "arrived", "e1_pos": 13, "e2_text": "got", "e2_pos": 20, "label": "after"},
+{"tokens": ["Update", ":", "This", "is", "what", "the", "owner", "sent", "to", "me", "after", "reading", "my", "review", "."], "e1_text": "sent", "e1_pos": 7, "e2_text": "reading", "e2_pos": 11, "label": "after"},
+{"tokens": ["You", "did", "look", "at", "the", "wine", "list", "after", "you", "finished", "the", "presume", "raw", "bacon", "flammenk", "\\", "u00fcchen", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "finished", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "could", "see", "the", "waitress", "talked", "to", "you", "after", "you", "looked", "at", "it", "when", "she", "was", "refiling", "your", "ice", "tea", "."], "e1_text": "talked", "e1_pos": 5, "e2_text": "looked", "e2_pos": 10, "label": "after"}
+]

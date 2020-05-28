@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "we", "complained", "she", "asked", "if", "we", "would", "like", "a", "free", "dessert", "and", "we", "accepted", "that", ",", "but", "she", "rolled", "her", "eyes", "at", "her", "after", "we", "asked", "her", "if", "she", "was", "new", "."], "e1_text": "rolled", "e1_pos": 19, "e2_text": "asked", "e2_pos": 4, "label": "after"}
+]

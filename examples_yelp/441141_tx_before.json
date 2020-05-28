@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "example", "I", "showed", "up", "yesterday", "15", "minutes", "before", "closing", "and", "receptionist", "said", "groomers", "all", "left", "for", "the", "day", "which", "makes", "sense", "."], "e1_text": "showed", "e1_pos": 3, "e2_text": "said", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "went", "today", "one", "hour", "before", "they", "close", "and", "receptionist", "tells", "me", "all", "the", "groomers", "left", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "tells", "e2_pos": 10, "label": "before"}
+]

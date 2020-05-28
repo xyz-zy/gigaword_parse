@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "drove", "down", "there", "at", "about", "8", ",", "found", "parking", "at", "9", ",", "stayed", "maybe", "an", "hour", ",", "wading", "through", "a", "bunch", "of", "drunks", ",", "and", "finally", "left", "after", "being", "way", "less", "than", "impressed", "."], "e1_text": "left", "e1_pos": 28, "e2_text": "being", "e2_pos": 30, "label": "after"},
+{"tokens": ["It", "'s", "a", "damn", "good", "thing", "it", "'s", "free", ",", "because", "I", "WOULD", "have", "hit", "someone", "after", "spending", "money", "just", "to", "get", "in", "that", "mess", "."], "e1_text": "hit", "e1_pos": 14, "e2_text": "spending", "e2_pos": 17, "label": "after"}
+]

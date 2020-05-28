@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", ",", "worst", "of", "all", ",", "the", "waitress", "took", "my", "daughter", "and", "wife", "'s", "food", "away", "before", "they", "were", "finished", "while", "they", "were", "in", "the", "bathrooms", "that", "used", "shower", "curtains", "as", "stall", "doors", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["In", "fact", "my", "wife", "did", "n't", "even", "get", "to", "try", "her", "meal", "before", "it", "was", "taken", "since", "we", "'d", "split", "a", "dish", "."], "e1_text": "try", "e1_pos": 9, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

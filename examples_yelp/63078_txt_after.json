@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "got", "lost", "after", "becoming", "a", "victim", "to", "the", "wind", "tunnel", "that", "was", "the", "open", "alley", "in", "between", "the", "hotel", "and", "the", "courtyard", "rooms", ",", "we", "found", "ourselves", "wandering", "the", "floors", "looking", "for", "our", "rooms", "."], "e1_text": "lost", "e1_pos": 3, "e2_text": "becoming", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "finally", "found", "our", "room", "after", "being", "in", "a", "maze", "and", "stepped", "into", "a", "room", "with", "two", "full\\/queen", "size", "beds", ",", "a", "desk", ",", "tv", "that", "swivels", ",", "a", "window", ",", "AC", "and", "bathroom", "with", "a", "single", "shower", "and", "a", "shower", "curtain", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"}
+]

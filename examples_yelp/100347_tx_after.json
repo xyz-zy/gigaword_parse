@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "fun", "part", "begins", "now", "that", "we", "are", "STILL", "starving", "...", "wait", "10", "minutes", "after", "eating", "our", "meal", "to", "track", "down", "a", "waitress", "to", "request", "a", "''", "``", "refill", "''", "''", "serving", "."], "e1_text": "wait", "e1_pos": 11, "e2_text": "eating", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "was", "enough", "information", "to", "pack", "up", "and", "get", "out", "before", "we", "were", "given", "a", "version", "of", "the", "10", "Best", "Burgers", "made", "by", "a", "''", "``", "new", "''", "''", "chef", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

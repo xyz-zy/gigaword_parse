@@ -1,0 +1,3 @@
+[
+{"tokens": ["Update", ":", "Firstly", "the", "doctor", "called", "me", "to", "apologize", "in", "a", "very", "nice", "way", "after", "seeing", "my", "review", "."], "e1_text": "apologize", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 15, "label": "after"}
+]

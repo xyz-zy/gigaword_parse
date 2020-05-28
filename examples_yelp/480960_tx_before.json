@@ -1,0 +1,3 @@
+[
+{"tokens": ["Empty", "glasses", "sat", "empty", ",", "no", "chopsticks", "offered\\/provided", ",", "forgetting", "for", "30", "min", "or", "so", "about", "a", "drink", "order", ",", "bringing", "the", "check", "after", "our", "entrees", "without", "us", "asking", "if", "we", "wanted", "the", "check", "-LRB-", "we", "wanted", "additional", "beverages", "and", "dessert", "-RRB-", ",", "then", "letting", "the", "check", "with", "my", "credit", "card", "on", "top", "sit", "on", "our", "table", "for", "another", "15", "minutes", "before", "picking", "it", "up", "to", "cash", "us", "out", "."], "e1_text": "letting", "e1_pos": 44, "e2_text": "picking", "e2_pos": 62, "label": "before"}
+]

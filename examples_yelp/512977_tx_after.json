@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "felt", "like", "TWEB", "was", "very", "conscious", "of", "my", "well-being", ",", "and", "I", "was", "always", "compensated", "immediately", "after", "I", "completed", "a", "donor", "cycle", "-LRB-", "Becky", ",", "my", "coordinator", ",", "always", "sent", "me", "a", "same-day", "email", "making", "sure", "that", "the", "donor", "procedure", "went", "alright", "and", "confirming", "that", "my", "check", "was", "in", "the", "mail", "-RRB-", "."], "e1_text": "compensated", "e1_pos": 15, "e2_text": "completed", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "left", "the", "rock", "gym", ",", "I", "felt", "there", "was", "no", "point", "in", "arguing", "with", "them", ",", "plus", "after", "feeling", "like", "I", "'ve", "been", "treated", "like", "an", "outsider", "because", "I", "am", "not", "what", "they", "consider", "their", "''", "``", "regular", "''", "''", ",", "I", "had", "no", "further", "interest", "in", "climbing", "at", "their", "gym", "or", "ever", "coming", "back", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "feeling", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "called", "Groupon", "'s", "customer", "service", "the", "day", "after", "and", "Groupon", "confirmed", "my", "understanding", "of", "the", "Groupon", "deal", "and", "they", "confirmed", "that", "nowhere", "in", "the", "fine", "print", "that", "it", "says", "it", "was", "not", "valid", "on", "Tuesdays", "and", "Thursdays", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "confirmed", "e2_pos": 11, "label": "after"}
+]

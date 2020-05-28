@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "and", "I", "decided", "to", "stop", "in", "after", "Tyber", "was", "beat", "."], "e1_text": "stop", "e1_pos": 6, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "card", "got", "declined", "-LRB-", "thank", "god", "somehow", "-RRB-", "after", "he", "tried", "to", "swipe", "it", "for", "the", "5th", "time", "in", "an", "hour", "and", "he", "left", "."], "e1_text": "declined", "e1_pos": 3, "e2_text": "tried", "e2_pos": 11, "label": "after"}
+]

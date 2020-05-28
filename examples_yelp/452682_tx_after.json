@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "our", "lunch", "stop", "after", "visiting", "Hoover", "Dam", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "visiting", "e2_pos": 6, "label": "after"},
+{"tokens": ["A", "typical", "diner", ",", "they", "offered", "us", "a", "limited", "menu", "so", "they", "could", "move", "us", "along", "quickly", "after", "the", "tour", "ended", "."], "e1_text": "move", "e1_pos": 13, "e2_text": "ended", "e2_pos": 20, "label": "after"}
+]

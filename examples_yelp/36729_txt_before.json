@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "next", "ten", "years", "we", "lived", "in", "central", "Mexico", "in", "a", "wonderful", "artsy", "historic", "community", "called", "San", "Miguel", "de", "Allende", ",", "before", "having", "to", "move", "back", "to", "the", "US", "for", "medical", "reasons", "."], "e1_text": "called", "e1_pos": 15, "e2_text": "having", "e2_pos": 22, "label": "before"},
+{"tokens": ["It", "took", "15", "minutes", "from", "our", "finishing", "our", "coke", "and", "iced", "tea", "before", "our", "waitress", "asked", "if", "we", "wanted", "refills", "."], "e1_text": "finishing", "e1_pos": 6, "e2_text": "asked", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "would", "have", "liked", "being", "asked", "how", "things", "were", "so", "that", "I", "could", "request", "some", "hot", "sauce", "before", "I", "was", "two-thirds", "done", "with", "my", "meal", "."], "e1_text": "request", "e1_pos": 13, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

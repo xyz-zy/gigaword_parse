@@ -1,0 +1,3 @@
+[
+{"tokens": ["Jarrod", "did", "a", "cooling", "diagnostic", "and", "verified", "that", "it", "was", "the", "thermostat", "before", "just", "throwing", "parts", "at", "it", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "throwing", "e2_pos": 14, "label": "before"}
+]

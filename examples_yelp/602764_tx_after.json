@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "we", "went", "to", "find", "the", "hostess", "and", "ask", "for", "some", "cream", "and", "sugar", "for", "the", "coffee", "after", "waiting", "another", "5", "or", "so", "minutes", "with", "nothing", "coming", "out", "."], "e1_text": "ask", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 19, "label": "after"},
+{"tokens": ["This", "was", "SUCH", "a", "ridiculous", "disappointment", "after", "having", "such", "a", "good", "experience", "in", "Scottsdale", "."], "e1_text": "SUCH", "e1_pos": 2, "e2_text": "having", "e2_pos": 7, "label": "after"}
+]

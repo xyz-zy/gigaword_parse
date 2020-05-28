@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "there", "is", "a", "standard", "as", "to", "how", "poached", "eggs", "are", "cooked", ",", "that", "should", "have", "been", "explained", "either", "at", "the", "time", "of", "ordering", ",", "or", "at", "least", "after", "it", "was", "sent", "back", "the", "first", "time", "."], "e1_text": "explained", "e1_pos": 17, "e2_text": "was", "e2_pos": 30, "label": "after"},
+{"tokens": ["Most", "would", "certainly", "do", "it", "after", "the", "2nd", "time", "an", "order", "gets", "returned", "to", "the", "kitchen", "."], "e1_text": "do", "e1_pos": 3, "e2_text": "gets", "e2_pos": 11, "label": "after"}
+]

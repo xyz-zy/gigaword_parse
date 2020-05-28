@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "'ve", "never", "had", "these", "things", "below", ",", "all", "are", "worth", "exploring", "after", "checking", "out", "the", "explanations", "on", "the", "menu", "video", "boards", "."], "e1_text": "exploring", "e1_pos": 12, "e2_text": "checking", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "also", "hope", "the", "kitchen", "staff", "works", "together", "a", "bit", "better", ",", "as", "my", "taco", "order", "was", "ready", "well", "in", "advance", "of", "my", "papusas", ",", "which", "were", "only", "ready", "after", "the", "server", "I", "had", "tried", "to", "give", "me", "an", "order", "of", "gorditas", ",", "without", "knowing", "the", "difference", "between", "the", "two", "."], "e1_text": "were", "e1_pos": 26, "e2_text": "had", "e2_pos": 33, "label": "after"}
+]

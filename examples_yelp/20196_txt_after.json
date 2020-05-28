@@ -1,0 +1,4 @@
+[
+{"tokens": ["Thank", "you", "for", "the", "personal", "service", ",", "but", "no", "thank", "you", "for", "not", "giving", "me", "my", "debit", "card", "back", "after", "paying", "."], "e1_text": "giving", "e1_pos": 13, "e2_text": "paying", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "went", "straight", "home", "after", "leaving", "RD", "and", "my", "card", "was", "not", "in", "my", "wallet", "where", "I", "always", "put", "it", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["ignored", "my", "desperate", "glances", "for", "all", "of", "20", "minutes", "before", "he", "finally", "granted", "me", "-LRB-", "the", "sale", "of", "-RRB-", "1", "gift", "card", "."], "e1_text": "ignored", "e1_pos": 0, "e2_text": "granted", "e2_pos": 12, "label": "before"},
+{"tokens": ["So", ",", "round", "two", ",", "today", "...", "was", "told", "upon", "arrival", "-LRB-", "12pm", "-RRB-", "that", "it", "will", "be", "15-25", "minutes", "for", "the", "1st", "available", "table", ",", "wait", "40", "minutes", "before", "the", "pager", "buzzes", "only", "to", "notice", "she", "called", "8", "parties", "that", "arrived", "AFTER", "us", "."], "e1_text": "wait", "e1_pos": 26, "e2_text": "buzzes", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", ",", "luckily", "we", "noticed", "the", "crack", "on", "the", "windshield", "before", "leaving", "their", "premise", "eventhough", "it", "was", "raining", "heavily", "."], "e1_text": "noticed", "e1_pos": 4, "e2_text": "leaving", "e2_pos": 11, "label": "before"},
+{"tokens": ["Look", "elsewhere", "for", "body", "work", "especially", "if", "you", "are", "an", "international", "scholar", "otherwsie", "take", "picture", "of", "your", "vehicle", "before", "leaving", "over", "there", "."], "e1_text": "take", "e1_pos": 13, "e2_text": "leaving", "e2_pos": 19, "label": "before"}
+]

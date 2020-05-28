@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "ending", "my", "meal", "with", "coffee", "and", "mignardises", ",", "after", "walking", "out", "of", "the", "restaurant", "and", "riding", "the", "escalators", "up", "into", "the", "casino", ",", "after", "feeling", "blissful", "from", "having", "dined", "at", "a", "fine", "establishment", ",", "AND", "after", "situating", "myself", "at", "a", "lounge", "to", "drink", "away", "the", "night", ",", "my", "stomach", "decided", "to", "expel", "ALL", "of", "the", "rich", "food", "I", "had", "the", "pleasure", "of", "having", "within", "the", "last", "hour", "."], "e1_text": "ending", "e1_pos": 1, "e2_text": "walking", "e2_pos": 10, "label": "after"}
+]

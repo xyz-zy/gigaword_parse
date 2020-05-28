@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "problem", "is", "...", "I", "was", "either", "called", "to", "come", "in", "early", "after", "making", "an", "appoinment", "-LRB-", "when", "I", "was", "at", "work", "-RRB-", "or", "was", "advised", "she", "was", "off", "work", "a", "day", "or", "two", "after", "making", "an", "appoinment", "."], "e1_text": "come", "e1_pos": 9, "e2_text": "making", "e2_pos": 13, "label": "after"}
+]

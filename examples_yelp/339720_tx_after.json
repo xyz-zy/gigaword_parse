@@ -1,0 +1,5 @@
+[
+{"tokens": ["Do", "after", "a", "long", "time", "of", "waiting", ",", "I", "directly", "went", "to", "one", "server", "myself", "asking", "her", "if", "we", "have", "at", "least", "have", "our", "water", "served", "."], "e1_text": "Do", "e1_pos": 0, "e2_text": "served", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "have", "been", "waving", "my", "hands", "in", "the", "air", "for", "such", "a", "long", "time", "and", "I", "did", "apologize", "to", "those", "customers", "myself", "right", "after", "I", "talked", "to", "the", "server", "."], "e1_text": "did", "e1_pos": 16, "e2_text": "talked", "e2_pos": 25, "label": "after"},
+{"tokens": ["Am", "I", "supposed", "to", "be", "treated", "without", "any", "water", "for", "such", "a", "long", "time", ",", "and", "then", "being", "yelled", "at", "after", "I", "tried", "to", "get", "it", "?!?!!!!!!", "I", "was", "just", "so", "angry", "about", "all", "this", "shit", "."], "e1_text": "yelled", "e1_pos": 18, "e2_text": "tried", "e2_pos": 22, "label": "after"}
+]

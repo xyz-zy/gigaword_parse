@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "explained", "what", "happened", ",", "she", ":", "sighed", ",", "face-palmed", ",", "and", "began", "to", "lecture", "me", "about", "how", "the", "waitresses", "ca", "n't", "focus", "on", "any", "single", "customer", "when", "the", "place", "is", "full", ",", "and", "gave", "a", "lazy", "apology", "before", "walking", "back", "to", "her", "office", "."], "e1_text": "gave", "e1_pos": 35, "e2_text": "walking", "e2_pos": 40, "label": "before"}
+]

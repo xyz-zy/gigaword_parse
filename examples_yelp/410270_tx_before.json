@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "music", "is", "soul", "crushing", "-", "every", "song", "had", "a", "hard", ",", "fast", "techno", "beat", "that", ",", "I", "suppose", ",", "is", "intended", "to", "make", "you", "feel", "upbeat", "and", "invigorated", "to", "charge", "through", "the", "whole", "place", "before", "it", "disappears", "into", "a", "black", "hole", "."], "e1_text": "charge", "e1_pos": 30, "e2_text": "disappears", "e2_pos": 37, "label": "before"},
+{"tokens": ["Next", "time", ",", "I", "will", "make", "a", "point", "to", "take", "three", "deep", "breaths", "before", "going", "in", ",", "because", "the", "music", "+", "crowd", "definitely", "got", "to", "me", "--", "it", "was", "like", "mob", "mentality", "and", "I", "was", "running", "around", "like", "a", "maniac", "."], "e1_text": "take", "e1_pos": 9, "e2_text": "going", "e2_pos": 14, "label": "before"}
+]

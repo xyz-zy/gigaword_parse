@@ -1,0 +1,4 @@
+[
+{"tokens": ["Terrible", "service", "period", ",", "since", "we", "do", "n't", "speak", "taiwanese", "people", "that", "showed", "up", "after", "us", "got", "seated", "before", "us", "."], "e1_text": "showed", "e1_pos": 12, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["Waited", "forever", "for", "the", "food", "after", "waiting", "a", "lifetime", "to", "even", "put", "our", "order", "in", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "waiting", "e2_pos": 6, "label": "after"}
+]

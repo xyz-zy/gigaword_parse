@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lenora", "was", "a", "bright", "spot", "after", "nearly", "wanting", "to", "strangle", "the", "glass", "man", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "wanting", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "next", "morning", ",", "I", "went", "back", "and", "explained", "the", "issue", "-LRB-", "after", "taking", "pictures", "-RRB-", "."], "e1_text": "explained", "e1_pos": 8, "e2_text": "taking", "e2_pos": 13, "label": "after"}
+]

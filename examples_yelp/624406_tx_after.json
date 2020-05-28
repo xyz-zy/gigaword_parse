@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "someone", "literally", "dumped", "the", "salt", "shaker", "on", "my", "potato", "and", "Bar-B-Que", "chicken", "and", "people", "who", "got", "there", "after", "us", "were", "done", "eating", "by", "the", "time", "we", "got", "our", "food", "."], "e1_text": "got", "e1_pos": 17, "e2_text": "were", "e2_pos": 21, "label": "after"},
+{"tokens": ["And", "my", "poor", "daughter", "in", "law", "just", "ordered", "a", "dinner", "salad", "and", "got", "that", "10", "minutes", "after", "we", "got", "our", "food", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "got", "e2_pos": 12, "label": "after"}
+]

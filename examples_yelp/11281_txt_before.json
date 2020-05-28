@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "had", "given", "my", "order", "to", "the", "man", "before", "me", "and", "I", "had", "his", "."], "e1_text": "given", "e1_pos": 2, "e2_text": "had", "e2_pos": 1, "label": "before"},
+{"tokens": ["So", "the", "counter", "lady", "tells", "me", "she", "'ll", "take", "care", "of", "me", "first", "before", "resolving", "his", "issue", ",", "great", "!"], "e1_text": "take", "e1_pos": 8, "e2_text": "resolving", "e2_pos": 14, "label": "before"}
+]

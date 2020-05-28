@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "a", "chicken", "taco", "which", "was", "completely", "soggy", "by", "the", "time", "I", "got", "home", "-LRB-", "only", "about", "5", "minutes", "after", "I", "ordered", "it", "because", "I", "live", "down", "the", "road", "-RRB-", "and", "a", "cheese", "enchilada", "combo", "with", "rice", "and", "beans", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 22, "label": "after"}
+]

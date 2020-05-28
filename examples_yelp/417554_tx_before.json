@@ -1,0 +1,4 @@
+[
+{"tokens": ["Did", "you", "wash", "it", "before", "serving", "?"], "e1_text": "wash", "e1_pos": 2, "e2_text": "serving", "e2_pos": 5, "label": "before"},
+{"tokens": ["Did", "the", "cook", "wash", "his", "hands", "after", "touching", "raw", "meat", "before", "he", "cut", "the", "apple", "?"], "e1_text": "wash", "e1_pos": 3, "e2_text": "cut", "e2_pos": 12, "label": "before"}
+]

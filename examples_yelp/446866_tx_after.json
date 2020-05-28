@@ -1,0 +1,3 @@
+[
+{"tokens": ["Erin", ",", "a", "prior", "reviewer", ",", "said", "she", "did", "n't", "go", "to", "a", "place", "called", "''", "``", "Sportsmans", "''", "''", "-", "the", "image", "of", "a", "sports", "bar", "kept", "me", "out", "of", "here", "for", "7", "years", "after", "I", "moved", "into", "the", "area", "-", "until", "I", "was", "searching", "for", "a", "good", "place", "for", "Spatlese", "the", "1st", "Thanksgiving", "I", "was", "cooking", "for", "my", "new", "family", "."], "e1_text": "kept", "e1_pos": 27, "e2_text": "moved", "e2_pos": 37, "label": "after"}
+]

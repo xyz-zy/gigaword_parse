@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "'m", "kicking", "myself", "for", "not", "checking", "the", "reviews", "before", "going", "to", "the", "Rainforest", "Cafe", "."], "e1_text": "checking", "e1_pos": 6, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "thought", "it", "'d", "be", "a", "fun", "place", "to", "eat", "before", "I", "took", "my", "friend", "back", "to", "the", "airport", "to", "catch", "her", "flight", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "took", "e2_pos": 12, "label": "before"},
+{"tokens": ["Maybe", "they", "had", "just", "had", "a", "lunch", "rush", "before", "we", "got", "there", "?"], "e1_text": "had", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "few", "infos", "first", ":", "-", "read", "all", "reviews", "before", "went", "there", "-", "therefor", "expectations", "were", "quite", "low", "-", "it", "was", "on", "company", "expenses", ";--RRB-", "In", "contrast", "to", "all", "other", "reviews", "I", "tend", "to", "give", "here", "''", "``", "3", "stars", "''", "''", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

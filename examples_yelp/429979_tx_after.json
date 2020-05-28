@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "excited", "after", "hearing", "some", "great", "things", "about", "this", "hospital", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 4, "label": "after"},
+{"tokens": ["It", "took", "forever", "to", "get", "into", "a", "room", "after", "waiting", "in", "labor", "10", "hours", "to", "finally", "have", "a", "planned", "c-section", ",", "and", "we", "were", "put", "in", "a", "holding", "room", "the", "first", "night", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

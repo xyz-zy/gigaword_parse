@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "being", "said", ",", "after", "I", "ordered", ",", "the", "manager", "on", "duty", "proceeded", "to", "call", "me", "rude", "for", "not", "calling", "in", "my", "order", "during", "their", "lunch", "rush", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 6, "label": "after"}
+]

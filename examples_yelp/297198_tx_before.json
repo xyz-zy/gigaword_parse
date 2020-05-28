@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "I", "'ve", "not", "had", "a", "bad", "pizza", "here", ",", "they", "do", "require", "thinking", "ahead", "enough", "to", "call", "in", "my", "order", "before", "I", "walk", "over", ",", "thus", "maximizing", "my", "lunch", "hour", "."], "e1_text": "call", "e1_pos": 17, "e2_text": "walk", "e2_pos": 23, "label": "before"}
+]

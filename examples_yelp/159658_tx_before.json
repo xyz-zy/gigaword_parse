@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "already", "checked", "out", "and", "wanted", "to", "throw", "down", "a", "couple", "hundred", "on", "the", "tables", "before", "I", "left", "."], "e1_text": "throw", "e1_pos": 8, "e2_text": "left", "e2_pos": 18, "label": "before"},
+{"tokens": ["But", "I", "only", "had", "15", "mins", "before", "we", "had", "to", "leave", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "had", "e2_pos": 3, "label": "before"}
+]

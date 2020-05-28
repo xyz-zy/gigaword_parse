@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "finally", "visited", "this", "place", "after", "hearing", "about", "it", "from", "even", "before", "coming", "to", "Arizona", "."], "e1_text": "hearing", "e1_pos": 6, "e2_text": "coming", "e2_pos": 12, "label": "before"}
+]

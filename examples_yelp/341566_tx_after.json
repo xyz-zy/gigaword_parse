@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "only", "discovered", "this", "after", "I", "drove", "the", "20", "miles", "back", "down", "to", "Chandler", "."], "e1_text": "discovered", "e1_pos": 2, "e2_text": "drove", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "just", "wo", "n't", "take", "time", "to", "babysit", "and", "quality", "check", "sandwiches", "after", "I", "get", "them", "from", "here", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "get", "e2_pos": 14, "label": "after"}
+]

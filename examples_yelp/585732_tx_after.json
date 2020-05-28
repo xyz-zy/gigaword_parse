@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "restaurant", "started", "getting", "packed", "and", "30", "+", "minutes", "later", ",", "we", "still", "did", "n't", "get", "our", "food", "while", "everyone", "else", "that", "got", "there", "after", "us", "did", "."], "e1_text": "got", "e1_pos": 22, "e2_text": "did", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "-", "that", "'s", "news", "to", "me", "!!", "So", "I", "called", "over", "to", "Dr.", "Layton", "'s", "office", "to", "ask", "about", "it", "after", "canceling", "the", "order", "."], "e1_text": "ask", "e1_pos": 18, "e2_text": "canceling", "e2_pos": 22, "label": "after"},
+{"tokens": ["And", "for", "two", ",", "what", "if", "I", "had", "gone", "and", "gotten", "a", "mammo", "!?", "Today", "was", "my", "second", "appointment", "after", "not", "hearing", "anything", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "hearing", "e2_pos": 21, "label": "after"}
+]

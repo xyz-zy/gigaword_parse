@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "might", "have", "been", "sliding", "downhill", "before", "I", "went", "to", "dinner", "...", "so", "I", "did", "n't", "want", "to", "unfairly", "hang", "it", "on", "them", "."], "e1_text": "sliding", "e1_pos": 4, "e2_text": "went", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "am", "sure", "they", "will", "undergo", "a", "thorough", "review", "before", "they", "reopen", "."], "e1_text": "undergo", "e1_pos": 5, "e2_text": "reopen", "e2_pos": 11, "label": "before"}
+]

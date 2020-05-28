@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "driven", "sadly", "by", "this", "place", "many", "times", "in", "the", "past", "-LRB-", "they", "close", "just", "when", "I", "need", "my", "afternoon", "caffeine", "fix", "-RRB-", ",", "I", "finally", "got", "to", "eat", "here", "after", "suffering", "the", "misfortune", "of", "giving", "someone", "a", "ride", "early", "in", "the", "morning", "-LRB-", "9", "am", "is", "early", "when", "you", "'re", "in", "college", "!", "-RRB-", "."], "e1_text": "eat", "e1_pos": 28, "e2_text": "suffering", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "paying", "12.99", "was", "already", "pushing", "it", "before", "."], "e1_text": "thought", "e1_pos": 1, "e2_text": "was", "e2_pos": 4, "label": "before"},
+{"tokens": ["Well", "good", "thing", "they", "do", "offer", "a", "seafood", "only", "basket", "for", "12.99", "but", "I", "feel", "shortchanged", "seeing", "the", "portion", "size", "is", "smaller", "than", "what", "was", "served", "before", "."], "e1_text": "is", "e1_pos": 20, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

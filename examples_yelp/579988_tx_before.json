@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tables", "and", "chairs", "and", "napkins", "were", "set", "up", "and", "we", "enjoyed", "our", "food", "before", "walking", "past", "the", "dark", "restaurant", "back", "to", "our", "hotel", "."], "e1_text": "enjoyed", "e1_pos": 10, "e2_text": "walking", "e2_pos": 14, "label": "before"}
+]

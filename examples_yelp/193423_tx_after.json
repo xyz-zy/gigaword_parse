@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "we", "ordered", "at", "the", "register", "after", "all", ",", "which", "then", "negated", "the", "$", "5", "off", "coupon", "because", "it", "had", "to", "be", "online", "or", "at", "said", "kiosk", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "negated", "e2_pos": 11, "label": "after"}
+]

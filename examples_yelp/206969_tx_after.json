@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dirty", "dishes", "sat", "in", "front", "of", "us", "long", "after", "we", "finished", "eating", "...", "When", "I", "visited", "the", "restrooms", ",", "all", "the", "waste", "cans", "were", "overflowing", "and", "there", "was", "trash", "all", "over", "the", "floors", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "finished", "e2_pos": 10, "label": "after"}
+]

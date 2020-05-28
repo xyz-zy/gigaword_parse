@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "the", "waitress", "would", "have", "come", "to", "our", "table", "to", "check", "up", "on", "us", "after", "we", "received", "our", "food", ",", "I", "would", "have", "definitely", "complained", "."], "e1_text": "check", "e1_pos": 10, "e2_text": "received", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "place", "is", "pretty", "small", ",", "but", "she", "never", "came", "to", "our", "table", "until", "after", "we", "had", "stacked", "our", "plates", "and", "pushed", "them", "to", "the", "edge", "of", "the", "table", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

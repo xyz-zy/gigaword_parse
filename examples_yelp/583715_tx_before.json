@@ -1,0 +1,3 @@
+[
+{"tokens": ["Reading", "the", "reviews", "-", "the", "Fish", "and", "Chips", "are", "''", "``", "AMAZING", ",", "''", "''", "I", "am", "not", "sure", "where", "these", "people", "have", "had", "fish", "and", "chips", "before", ",", "or", "maybe", "the", "Chef", "forgot", "to", "drain", "the", "grease", "from", "the", "fish", "before", "plating", "-", "in", "any", "case", "-", "not", "impressed", "."], "e1_text": "am", "e1_pos": 16, "e2_text": "have", "e2_pos": 22, "label": "before"}
+]

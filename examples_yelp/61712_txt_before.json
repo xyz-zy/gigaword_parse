@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "to", "China", "town", "and", "chose", "this", "place", "to", "eat", "because", "we", "were", "too", "tire", ",", "hungry", "and", "was", "in", "a", "hurry", "to", "find", "food", "so", "we", "can", "drive", "back", "home", "before", "it", "'s", "too", "late", "."], "e1_text": "drive", "e1_pos": 28, "e2_text": "'s", "e2_pos": 33, "label": "before"},
+{"tokens": ["Humiliated", ",", "mad", ",", "and", "actually", "threatened", "by", "this", "man", "I", "tipped", "him", "$", "1", "just", "so", "we", "can", "hurry", "and", "get", "out", "before", "they", "shoot", "us", "or", "something", "."], "e1_text": "get", "e1_pos": 21, "e2_text": "shoot", "e2_pos": 25, "label": "before"}
+]

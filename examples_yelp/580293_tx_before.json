@@ -1,0 +1,5 @@
+[
+{"tokens": ["Unfortunately", ",", "I", "did", "not", "read", "some", "of", "the", "Yelp", "posts", "before", "going", "to", "The", "Yard", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "tried", "to", "order", "food", "and", "it", "took", "an", "hour", "before", "a", "server", "ever", "came", "by", "."], "e1_text": "took", "e1_pos": 7, "e2_text": "came", "e2_pos": 14, "label": "before"},
+{"tokens": ["Another", "30", "minutes", "go", "by", "before", "she", "brings", "the", "check", "out", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "brings", "e2_pos": 7, "label": "before"}
+]

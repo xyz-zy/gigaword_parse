@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "even", "though", "it", "DID", "N'T", "have", "that", "problem", "before", "I", "brought", "it", "in", ",", "it", "does", "now", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "brought", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "is", "very", "disappointing", "to", "have", "a", "new", "problem", "that", "did", "n't", "exist", "before", "I", "brought", "it", "in", "."], "e1_text": "exist", "e1_pos": 12, "e2_text": "brought", "e2_pos": 15, "label": "before"}
+]

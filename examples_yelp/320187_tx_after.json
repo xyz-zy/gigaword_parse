@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "some", "reason", ",", "I", "am", "going", "apeshit", "over", "headbands", "but", "missed", "that", "section", "and", "found", "it", "after", "I", "paid", "."], "e1_text": "found", "e1_pos": 15, "e2_text": "paid", "e2_pos": 19, "label": "after"},
+{"tokens": ["After", "paying", "I", "walked", "around", "for", "a", "little", "trying", "to", "meet", "back", "up", "with", "my", "in-laws", "but", "after", "looking", "for", "5", "min", ".", "."], "e1_text": "meet", "e1_pos": 10, "e2_text": "looking", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "before", "purchasing", "a", "Groupon", "to", "get", "the", "details", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "purchasing", "e2_pos": 3, "label": "before"},
+{"tokens": ["So", "we", "walk", "in", "to", "ride", "at", "11am", "and", "we", "'re", "told", "there", "is", "at", "least", "a", "3", "hr", "wait", "and", "they", "have", "a", "reservation", "for", "a", "large", "party", "at", "4pm", "so", "it", "will", "be", "at", "least", "7pm", "before", "we", "get", "on", "and", "she", "could", "n't", "guarantee", "that", "."], "e1_text": "be", "e1_pos": 34, "e2_text": "get", "e2_pos": 40, "label": "before"}
+]

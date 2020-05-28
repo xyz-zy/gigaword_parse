@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "them", "5", "minutes", "or", "more", "to", "make", "two", "drinks", "for", "the", "people", "in", "front", "of", "me", ",", "after", "I", "had", "already", "been", "in", "line", "watching", "two", "other", "customers", "be", "helped", "for", "more", "than", "10", "minutes", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "had", "e2_pos": 21, "label": "after"}
+]

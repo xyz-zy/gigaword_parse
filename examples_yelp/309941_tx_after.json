@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "tried", "three", "times", "now", ",", "to", "visit", "Yen", "during", "this", "time", ",", "and", "have", "walked", "out", "after", "waiting", "10-20", "minutes", "to", "be", "spoken", "to", ",", "or", "seated", "."], "e1_text": "walked", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

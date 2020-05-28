@@ -1,0 +1,5 @@
+[
+{"tokens": ["But", "gave", "them", "the", "benefit", "of", "the", "doubt", "and", "showed", "up", "about", "50", "min", "after", "I", "placed", "the", "order", "."], "e1_text": "showed", "e1_pos": 9, "e2_text": "placed", "e2_pos": 16, "label": "after"},
+{"tokens": ["She", "finally", "finds", "it", "after", "I", "point", "out", "my", "receipt", "on", "the", "top", "of", "the", "stack", "."], "e1_text": "finds", "e1_pos": 2, "e2_text": "point", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "hands", "over", "the", "pizza", "and", "gives", "me", "a", "sheepish", "''", "``", "sorry", "for", "the", "wait", "''", "''", "after", "I", "told", "her", "I", "had", "ordered", "this", "pizza", "1.5", "hrs", "earlier", "and", "been", "waiting", "for", "40", "minutes", "here", "."], "e1_text": "sorry", "e1_pos": 12, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

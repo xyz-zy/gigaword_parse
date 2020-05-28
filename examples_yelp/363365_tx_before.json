@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "to", "grab", "some", "coffee", "and", "a", "cookie", "before", "heading", "over", "to", "the", "Panda", "show", "that", "'s", "right", "next", "to", "this", "cafe", "."], "e1_text": "grab", "e1_pos": 3, "e2_text": "heading", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "took", "nearly", "20", "min", "before", "we", "got", "our", "regular", "coffee", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

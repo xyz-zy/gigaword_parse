@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "only", "2", "-", "one", "of", "which", "I", "would", "have", "cut", "off", "long", "before", "he", "got", "up", "to", "stuble", "out", "to", "his", "car", "-RRB-", "6", "seated", "tables", ".", "."], "e1_text": "cut", "e1_pos": 10, "e2_text": "got", "e2_pos": 15, "label": "before"}
+]

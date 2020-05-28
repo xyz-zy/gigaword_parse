@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "least", "they", "let", "you", "go", "in", "and", "out", ",", "so", "I", "suggest", "leaving", "and", "having", "a", "drink", "elsewhere", "before", "the", "show", "starts", "."], "e1_text": "having", "e1_pos": 15, "e2_text": "starts", "e2_pos": 22, "label": "before"},
+{"tokens": ["We", "came", "back", "with", "about", "10", "minutes", "to", "spare", "before", "Deadmou5", "got", "on", "stage", "."], "e1_text": "spare", "e1_pos": 8, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

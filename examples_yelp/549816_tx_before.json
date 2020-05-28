@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "our", "1", "year", "anniversary", ",", "and", "we", "decided", "to", "have", "lunch", "before", "going", "to", "Disneyland", "at", "the", "Golden", "Corral", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "going", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "had", "never", "been", "to", "one", "before", "so", "this", "was", "our", "first", "time", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "chicken", "fajitas", "with", "corn", "tortillas", "and", "had", "to", "wait", "for", "several", "minutes", "after", "everyone", "at", "my", "table", "received", "their", "orders", "before", "they", "remembered", "I", "had", "ordered", "corn", "instead", "of", "flour", "tortillas", "."], "e1_text": "received", "e1_pos": 19, "e2_text": "remembered", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "was", "only", "able", "to", "eat", "2", "before", "I", "needed", "a", "to", "go", "box", "and", "server", "actually", "took", "my", "plate", "to", "the", "back", "to", "box", "it", "up", "and", "brought", "me", "a", "bag", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "needed", "e2_pos": 9, "label": "before"}
+]

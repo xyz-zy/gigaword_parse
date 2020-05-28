@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "them", "5", "minutes", "before", "they", "even", "acknowledged", "I", "was", "at", "the", "speaker", ",", "and", "when", "I", "finally", "places", "my", "order", "-", "a", "sausage", ",", "egg", "and", "cheese", "on", "a", "croissant", "with", "hash", "browns", "and", "pumpkin", "spice", "coffee", "-", "they", "gave", "me", "a", "regular", "coffee", ",", "no", "hash", "browns", "and", "someone", "else", "'s", "sandwich", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "acknowledged", "e2_pos": 8, "label": "before"}
+]

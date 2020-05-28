@@ -1,0 +1,3 @@
+[
+{"tokens": ["3", ",", "the", "beef", "&", "broccoli", "was", "like", "SOUP", "&", "very", "salty", "!!!!!!", "4", ",", "after", "all", "these", "issues", "the", "other", "person", "I", "was", "with", "found", "hair", "in", "her", "orange", "chicken", "-LRB-", "GROSS", "-RRB-", "+", "her", "glass", "looked", "like", "it", "had", "NOT", "BEEN", "CLEANED", "in", "years", "!!!!!!!!!!!!", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "+", "e2_pos": 34, "label": "after"}
+]

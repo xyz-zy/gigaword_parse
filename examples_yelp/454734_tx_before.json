@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "lot", "of", "people", "who", "were", "waiting", "before", "us", "left", "cause", "they", "were", "so", "slow", ",", "AND", "there", "were", "empty", "tables", "."], "e1_text": "waiting", "e1_pos": 6, "e2_text": "left", "e2_pos": 9, "label": "before"}
+]

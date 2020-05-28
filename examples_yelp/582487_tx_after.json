@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "this", "out", "around", "6:00", "pm", ",", "no", "one", "bothered", "to", "inform", "me", "that", "I", "would", "not", "be", "getting", "my", "package", "because", "after", "a", "day", "of", "riding", "around", "on", "a", "delivery", "truck", ",", "it", "just", "disappeared", "."], "e1_text": "getting", "e1_pos": 19, "e2_text": "riding", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "'m", "just", "blown", "away", "that", "your", "business", "could", "lose", "a", "$", "500", "package", "the", "day", "after", "it", "was", "sent", "out", "to", "be", "delivered", ",", "and", "THEN", "have", "no", "idea", "where", "the", "replacement", "package", "is", "."], "e1_text": "lose", "e1_pos": 9, "e2_text": "was", "e2_pos": 18, "label": "after"}
+]

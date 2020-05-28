@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "washed", "my", "car", "and", "cleaned", "it", "the", "way", "I", "asked", "them", "to", "-LRB-", "no", "smells", "inside", ";", "just", "dust", "with", "a", "damp", "cloth", "-RRB-", "but", "...", "...", "they", "STOLE", "a", "handmade", "seat", "liner", "and", "had", "the", "nerve", "to", "get", "angry", "at", "ME", "because", "I", "accused", "them", "of", "not", "putting", "it", "back", "after", "they", "cleaned", "inside", "."], "e1_text": "putting", "e1_pos": 49, "e2_text": "cleaned", "e2_pos": 5, "label": "after"}
+]

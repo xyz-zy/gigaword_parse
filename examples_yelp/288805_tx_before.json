@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "both", "went", "today", "and", "both", "left", "feeling", "like", "we", "were", "better", "off", "before", "we", "went", "in", "."], "e1_text": "were", "e1_pos": 10, "e2_text": "went", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "read", "the", "other", "yelp", "reviews", "before", "heading", "in", "but", "I", "had", "also", "gotten", "massages", "by", "blind", "people", "in", "China", ",", "which", "were", "awesome", ",", "so", "I", "went", "in", "with", "an", "open", "mind", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "heading", "e2_pos": 7, "label": "before"},
+{"tokens": ["When", "I", "left", "the", "room", ",", "her", "husband", "was", "n't", "sitting", "out", "in", "the", "waiting", "area", "like", "another", "yelper", "had", "mentioned", "before", ",", "but", "he", "was", "in", "the", "salon", "because", "I", "heard", "him", "later", "on", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "had", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "when", "we", "checked", "in", "we", "had", "to", "remind", "her", "or", "the", "offer", "after", "she", "said", "she", "did", "n't", "see", "anything", "like", "that", "."], "e1_text": "remind", "e1_pos": 8, "e2_text": "said", "e2_pos": 15, "label": "after"},
+{"tokens": ["Our", "last", "incident", "came", "when", "we", "left", "the", "next", "day", "and", "called", "for", "our", "room", "to", "be", "service", "after", "we", "left", "around", "3pm", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "left", "e2_pos": 6, "label": "after"}
+]

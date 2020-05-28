@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "was", "really", "great", "about", "my", "dietary", "restrictions", "I", "thought", "at", "the", "time", "-LRB-", "now", ",", "I", "feel", "really", "unhappy", "after", "reading", "another", "Vegan", "review", "below", "-", "her", "waitress", "said", "the", "veggie", "burger", "did", "have", "dairy", "-RRB-", "."], "e1_text": "feel", "e1_pos": 18, "e2_text": "reading", "e2_pos": 22, "label": "after"}
+]

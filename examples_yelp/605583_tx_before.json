@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "technician", "was", "very", "nice", ",", "but", "did", "n't", "check", "the", "temperature", "of", "the", "air", "coming", "out", "of", "the", "vents", "before", "he", "left", "."], "e1_text": "coming", "e1_pos": 15, "e2_text": "left", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "made", "it", "into", "Quips", ",", "but", "you", "can", "tell", "it", "was", "here", "before", "."], "e1_text": "tell", "e1_pos": 10, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "think", "I", "'ll", "give", "them", "some", "time", "to", "get", "into", "the", "swing", "of", "things", "before", "I", "make", "it", "back", "in", ",", "but", "hopefully", "they", "can", "find", "a", "way", "to", "stand", "out", "with", "einsteins", ",", "laurel", ",", "and", "sub", "station", "so", "close", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "make", "e2_pos": 17, "label": "before"}
+]

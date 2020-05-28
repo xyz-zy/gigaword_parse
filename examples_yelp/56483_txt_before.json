@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fish", "was", "salmon", ",", "which", "I", "'ve", "never", "encountered", "in", "a", "fish", "taco", "before", ",", "but", "it", "was", "good", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 7, "label": "before"},
+{"tokens": ["Now", ",", "never", "in", "the", "5", "+", "years", "of", "our", "relationship", "have", "I", "seen", "him", "stop", "eating", "a", "meal", "before", "he", "was", "full", "."], "e1_text": "stop", "e1_pos": 15, "e2_text": "was", "e2_pos": 21, "label": "before"}
+]

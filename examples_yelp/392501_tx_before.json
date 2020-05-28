@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "because", "I", "ate", "too", "much", ",", "because", "I", "honestly", "have", "never", "eaten", "so", "little", "at", "a", "buffet", "before", "."], "e1_text": "ate", "e1_pos": 3, "e2_text": "have", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "pizza", "looked", "decent", ",", "but", "I", "had", "pizza", "in", "Five50", "the", "day", "before", "so", "I", "was", "n't", "really", "into", "pizza", "again", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

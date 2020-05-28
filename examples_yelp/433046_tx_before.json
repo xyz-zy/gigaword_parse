@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "was", "very", "nice", ",", "but", "she", "really", "assumed", "we", "had", "eaten", "there", "before", "and", "we", "were", "all", "confused", "by", "the", "weird", "menu", "."], "e1_text": "assumed", "e1_pos": 9, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["If", "you", "do", "n't", "frequent", "Chili", "'s", "I", "guess", "you", "should", "let", "them", "know", "before", "you", "order", "."], "e1_text": "know", "e1_pos": 13, "e2_text": "order", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bartender", "Jimmy", "was", "kind", "enough", "to", "give", "me", "samples", "of", "two", "reds", "and", "a", "rose", ",", "before", "I", "decided", "on", "a", "Riesling", ",", "instead", "."], "e1_text": "rose", "e1_pos": 14, "e2_text": "decided", "e2_pos": 18, "label": "before"}
+]

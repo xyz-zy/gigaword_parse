@@ -1,0 +1,4 @@
+[
+{"tokens": ["Good", "thing", "I", "did", "n't", "''", "``", "check", "in", "''", "''", "before", "I", "got", "to", "the", "door", "--", "they", "were", "closed", "for", "''", "``", "summer", "hours", "''", "''", "."], "e1_text": "did", "e1_pos": 3, "e2_text": "got", "e2_pos": 13, "label": "before"},
+{"tokens": ["Note", "to", "newer", "people", "in", "Phoenix", "--", "make", "sure", "the", "restaurant", "you", "want", "to", "go", "to", "is", "open", "in", "the", "evening", "before", "beginning", "the", "trek", "!"], "e1_text": "is", "e1_pos": 16, "e2_text": "beginning", "e2_pos": 22, "label": "before"}
+]

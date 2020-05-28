@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "n't", "go", "here", ",", "your", "credit", "card", "info", "could", "be", "stolen", "and", "used", "for", "online", "purchases", "!!!", "I", "went", "for", "lunch", "with", "a", "co-worker", "and", "forgot", "to", "take", "my", "credit", "card", "back", "after", "signing", "the", "receipt", "."], "e1_text": "take", "e1_pos": 28, "e2_text": "signing", "e2_pos": 34, "label": "after"}
+]

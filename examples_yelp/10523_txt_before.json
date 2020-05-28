@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "always", "grab", "a", "bag", "of", "mozzarella", "whips", "-", "the", "kids", "and", "I", "will", "take", "care", "of", "those", "before", "they", "hit", "the", "fridge", "."], "e1_text": "take", "e1_pos": 15, "e2_text": "hit", "e2_pos": 21, "label": "before"},
+{"tokens": ["He", "'ll", "get", "an", "order", "of", "brick", "or", "some", "other", "stinky", "cheese", "before", "heading", "south", "and", "they", "'ll", "give", "it", "a", "couple", "extra", "dips", "in", "wax", "to", "help", "it", "travel", "better", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "heading", "e2_pos": 13, "label": "before"}
+]

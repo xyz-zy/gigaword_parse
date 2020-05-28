@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "our", "waiter", "for", "a", "recommendation", "after", "finishing", "our", "rolls", ",", "and", "wanted", "a", "spicier", "roll", "and", "he", "suggested", "Nuclear", "bomb", "roll", ",", "which", "was", "good", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 8, "label": "after"}
+]

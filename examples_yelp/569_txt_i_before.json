@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "I", "will", "chalk", "some", "of", "it", "up", "to", "my", "mistake", "because", "I", "thought", "they", "closed", "a", "half", "hour", "later", ",", "than", "they", "did", ",", "and", "consequently", "ordered", "about", "10", "minutes", "before", "they", "closed", "."], "e1_text": "ordered", "e1_pos": 28, "e2_text": "closed", "e2_pos": 16, "label": "before"}
+]

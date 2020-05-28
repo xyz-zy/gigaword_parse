@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "sauce", "tasted", "sour", "like", "it", "had", "fermented", "in", "the", "refrigerator", "after", "being", "put", "away", "warm", "."], "e1_text": "fermented", "e1_pos": 7, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["That", "being", "said", ",", "I", "will", "go", "back", "and", "order", "a", "couple", "slices", "and", "try", "to", "give", "an", "honest", "appraisal", "of", "their", "pizza", "even", "after", "Jennifer", "K.", "jumped", "to", "conclusions", "about", "the", "validity", "of", "my", "first", "review", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "jumped", "e2_pos": 27, "label": "after"}
+]

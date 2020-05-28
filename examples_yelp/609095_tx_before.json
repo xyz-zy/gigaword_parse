@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finished", "the", "freaking", "1", "episode", "of", "a", "tv", "series", "before", "they", "come", "all", "together", "."], "e1_text": "finished", "e1_pos": 1, "e2_text": "come", "e2_pos": 12, "label": "before"},
+{"tokens": ["Which", "i", "think", "is", "the", "reason", "why", "our", "soups", "were", "cold", ",", "if", "iam", "not", "wrong", "it", "means", "that", "the", "soups", "were", "sitting", "on", "the", "counter", "but", "they", "were", "waiting", "for", "all", "the", "foods", "to", "be", "finishes", "before", "serving", "them", "."], "e1_text": "finishes", "e1_pos": 36, "e2_text": "serving", "e2_pos": 38, "label": "before"}
+]

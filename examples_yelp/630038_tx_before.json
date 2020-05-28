@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "an", "wrong", "order", "of", "beef", "noodle", "that", "they", "bought", "out", "that", "no", "one", "claimed", "before", "we", "ordered", "and", "our", "order", "came", "pretty", "quick", "after", "ordering", ",", "just", "assuming", "they", "bought", "us", "the", "same", "order", "that", "was", "return", "."], "e1_text": "claimed", "e1_pos": 15, "e2_text": "ordered", "e2_pos": 18, "label": "before"}
+]

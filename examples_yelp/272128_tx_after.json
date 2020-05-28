@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", "the", "safe", "did", "n't", "work", "even", "after", "requesting", "a", "fix", "-LRB-", "we", "have", "no", "idea", "if", "it", "was", "broken", "or", "what", ",", "they", "did", "n't", "leave", "a", "message", "or", "offer", "an", "alternative", "-RRB-", "."], "e1_text": "work", "e1_pos": 5, "e2_text": "requesting", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "clerk", "scribbled", "''", "``", "north", "''", "''", "next", "to", "my", "room", "number", "which", "I", "did", "n't", "notice", "until", "after", "proceeding", "to", "the", "South", "Elevator", "."], "e1_text": "notice", "e1_pos": 17, "e2_text": "proceeding", "e2_pos": 20, "label": "after"}
+]

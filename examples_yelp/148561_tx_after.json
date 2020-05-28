@@ -1,0 +1,3 @@
+[
+{"tokens": ["Received", "salad", "before", "appetizer", "was", "finished", ",", "bottle", "of", "wine", "served", "after", "salad", "was", "served", ",", "and", "received", "entree", "before", "done", "with", "salad", "."], "e1_text": "served", "e1_pos": 10, "e2_text": "was", "e2_pos": 4, "label": "after"}
+]

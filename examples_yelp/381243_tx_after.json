@@ -1,0 +1,4 @@
+[
+{"tokens": ["hands", "down", "the", "best", "sushi", "I", "have", "ever", "had", "...", "GET", "THE", "LAS", "VEGAS", "ROLL", "!!!", "You", "will", "immediately", "evolve", "into", "a", "dashingly", "handsome", "full", "grown", "Charizard", ",", "after", "eating", "this", "evolution", "stone", "called", "sushi", "."], "e1_text": "evolve", "e1_pos": 19, "e2_text": "called", "e2_pos": 33, "label": "after"},
+{"tokens": ["You", "will", "literally", "become", "the", "President", "of", "Your", "mom", "after", "eating", "here", "."], "e1_text": "become", "e1_pos": 3, "e2_text": "eating", "e2_pos": 10, "label": "after"}
+]

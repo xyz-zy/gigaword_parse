@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "fast", ",", "cheap", ",", "pretty", "good", ",", "and", "in", "the", "same", "shopping", "center", "as", "Starbucks", "-LRB-", "perfect", "for", "a", "post-lunch", "stop", "when", "we", "want", "to", "kill", "more", "time", "before", "heading", "back", "to", "the", "office", "-RRB-", "."], "e1_text": "kill", "e1_pos": 27, "e2_text": "heading", "e2_pos": 31, "label": "before"}
+]

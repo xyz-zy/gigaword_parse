@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "stopped", "by", "we", "found", "out", "after", "inquiring", "that", "restaurant", "had", "n't", "opened", "yet", "."], "e1_text": "found", "e1_pos": 5, "e2_text": "inquiring", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "were", "ignored", "for", "quite", "a", "while", ",", "even", "after", "placing", "our", "menus", "closed", "in", "front", "of", "us", "."], "e1_text": "ignored", "e1_pos": 2, "e2_text": "closed", "e2_pos": 13, "label": "after"}
+]

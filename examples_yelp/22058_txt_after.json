@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Lexus", "dealer", "could", "not", "fix", "the", "problem", "-", "my", "car", "still", "pulled", "to", "the", "right", "after", "they", "did", "an", "alignment", "."], "e1_text": "pulled", "e1_pos": 12, "e2_text": "did", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ll", "be", "back", "again", "before", "leaving", "Vegas", "...", "now", "I", "only", "have", "to", "find", "a", "way", "to", "relocate", "them", "to", "Phoenix", "...", "Update", ":", "Went", "back", "again", "on", "2011-04-21", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "still", "like", "this", "place", "and", "need", "to", "try", "more", "items", "before", "settling", "on", "a", "final", "rating", "."], "e1_text": "try", "e1_pos": 8, "e2_text": "settling", "e2_pos": 12, "label": "before"}
+]

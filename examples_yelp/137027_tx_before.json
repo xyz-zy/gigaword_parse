@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "did", "n't", "take", "much", "time", "at", "all", "before", "we", "were", "all", "headed", "up", "to", "our", "room", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "had", "set", "it", "to", "65", "degrees", "before", "we", "left", "to", "go", "out", "for", "dinner", "and", "when", "we", "returned", ",", "it", "was", "the", "same", "temp", "."], "e1_text": "set", "e1_pos": 2, "e2_text": "left", "e2_pos": 9, "label": "before"}
+]

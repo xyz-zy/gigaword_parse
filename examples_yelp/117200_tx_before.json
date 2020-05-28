@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "threatening", "this", "company", "-LRB-", "who", "did", "not", "want", "of", "come", "out", "in", "the", "first", "place", "-RRB-", "we", "were", "made", "to", "wait", "until", "the", "''", "``", "technicians", "''", "''", "finished", "smoking", "their", "cigarettes", "before", "they", "even", "came", "to", "the", "door", "."], "e1_text": "smoking", "e1_pos": 30, "e2_text": "came", "e2_pos": 36, "label": "before"}
+]

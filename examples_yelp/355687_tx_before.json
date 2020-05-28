@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "gotten", "2", "haircuts", "and", "a", "pedicure", "here", "and", "they", "have", "been", "the", "best", "ones", "I", "have", "ever", "had", "!!", "Usually", "when", "I", "got", "a", "haircut", "before", "I", "discovered", "Aveda", "Institute", ",", "it", "was", "never", "what", "I", "wanted", "and", "always", "looked", "worse", "!"], "e1_text": "had", "e1_pos": 19, "e2_text": "discovered", "e2_pos": 29, "label": "before"},
+{"tokens": ["So", "I", "was", "really", "nervous", "about", "a", "student", "cutting", "my", "hair", "but", "the", "teacher", "comes", "before", ",", "during", ",", "and", "after", "your", "haircut", "which", "makes", "the", "experience", "a", "little", "longer", "-LRB-", "1-2hr", "-RRB-", "but", "you", "know", ",", "you", "are", "gon", "na", "look", "good", "after", "."], "e1_text": "comes", "e1_pos": 14, "e2_text": "are", "e2_pos": 38, "label": "before"}
+]

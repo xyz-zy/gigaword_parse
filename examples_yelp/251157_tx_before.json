@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "rather", "late", "and", "I", "was", "n't", "sure", "if", "it", "would", "let", "me", "order", "since", "it", "was", "about", "10", "minutes", "before", "they", "closed", "but", "it", "let", "me", "place", "the", "order", "online", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "closed", "e2_pos": 23, "label": "before"}
+]

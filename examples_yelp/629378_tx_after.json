@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "began", "coughing", "and", "I", "asked", "for", "some", "water", ",", "unfortunately", "after", "she", "drank", "to", "stop", "her", "coughing", "fit", ",", "she", "noticed", "a", "small", "dead", "bug", "stuck", "to", "the", "bottom", "of", "the", "cup", "."], "e1_text": "coughing", "e1_pos": 2, "e2_text": "drank", "e2_pos": 13, "label": "after"}
+]

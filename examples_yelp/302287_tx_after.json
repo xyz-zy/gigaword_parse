@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "was", "sipping", "my", "Bloody", "Mary", ",", "I", "asked", "for", "a", "Mimosa", "next", ",", "and", "the", "server", "told", "me", "she", "could", "only", "give", "it", "to", "me", "after", "I", "'ve", "finished", "my", "first", "drink", ",", "since", "we", "were", "a", "party", "of", "two", "and", "only", "one", "of", "us", "bought", "the", "''", "``", "all", "you", "can", "drink", "''", "''", "."], "e1_text": "give", "e1_pos": 23, "e2_text": "'ve", "e2_pos": 29, "label": "after"}
+]

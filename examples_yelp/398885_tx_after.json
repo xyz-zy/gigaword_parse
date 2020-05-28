@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "stopped", "by", "our", "table", "twice", "the", "whole", "meal", "and", "that", "was", "only", "after", "i", "asked", "another", "a", "waiter", "for", "drink", "refills", "after", "20", "min", "of", "waiting", ",", "second", "was", "to", "give", "us", "the", "checks", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "asked", "e2_pos": 15, "label": "after"}
+]

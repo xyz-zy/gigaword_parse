@@ -1,0 +1,3 @@
+[
+{"tokens": ["Came", "in", "here", "late", "after", "the", "bar", "ordered", "some", "breakfast", "and", "some", "hamburgers", "because", "you", "can", "get", "them", "both", "at", "this", "location", "it", "took", "us", "45", "minute", "wait", "before", "we", "got", "it", "it", "was", "crazy", "ridiculous", "."], "e1_text": "wait", "e1_pos": 27, "e2_text": "got", "e2_pos": 30, "label": "before"}
+]

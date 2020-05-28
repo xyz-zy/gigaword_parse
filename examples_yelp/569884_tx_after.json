@@ -1,0 +1,5 @@
+[
+{"tokens": ["But", "the", "first", "reason", "for", "the", "1-star", "rating", "is", "that", "BOTH", "of", "us", "got", "sick", "right", "after", "eating", "there", "."], "e1_text": "got", "e1_pos": 13, "e2_text": "eating", "e2_pos": 17, "label": "after"},
+{"tokens": ["-LRB-", "Which", "we", "absolutely", "did", "--", "we", "were", "both", "sick", "very", "soon", "after", "eating", "there", "and", "did", "not", "recover", "until", "the", "following", "day", "--", "totally", "ruining", "our", "plans", "to", "go", "out", "that", "night", ".", "-RRB-"], "e1_text": "were", "e1_pos": 7, "e2_text": "eating", "e2_pos": 13, "label": "after"},
+{"tokens": ["The", "least", "they", "could", "have", "done", "was", "to", "refund", "our", "money", "for", "that", "meal", ",", "especially", "after", "all", "the", "time", "I", "had", "to", "spend", "on", "the", "phone", "with", "them", "."], "e1_text": "refund", "e1_pos": 8, "e2_text": "had", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ambience", ":", "We", "arrived", "at", "5:30", "on", "a", "Saturday", "and", "were", "seated", "in", "a", "booth", "after", "a", "very", "short", "wait", "-LRB-", "the", "place", "got", "busy", "around", "6:15", "-RRB-", "."], "e1_text": "seated", "e1_pos": 11, "e2_text": "got", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Too", "bad", "it", "took", "so", "long", "that", "my", "friends", "had", "already", "finished", "their", "dishes", "before", "my", "steak", "even", "came", "back", "so", "I", "ended", "up", "having", "to", "pack", "it", "to", "go", "."], "e1_text": "finished", "e1_pos": 11, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

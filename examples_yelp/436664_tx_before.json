@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ask", "can", "you", "just", "move", "the", "payment", "not", "due", "for", "27", "days", "to", "the", "late", "fee", "and", "I", "'ll", "make", "another", "payment", "before", "it", "is", "due", "."], "e1_text": "make", "e1_pos": 20, "e2_text": "is", "e2_pos": 25, "label": "before"}
+]

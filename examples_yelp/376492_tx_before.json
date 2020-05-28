@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "took", "all", "our", "orders", "and", "went", "to", "throw", "the", "patties", "on", "the", "grill", "before", "helping", "the", "group", "of", "4", "behind", "us", "."], "e1_text": "throw", "e1_pos": 8, "e2_text": "helping", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "'ll", "definitely", "go", "back", "and", "hope", "that", "I", "recieve", "the", "same", "service", "and", "quality", "food", "that", "I", "did", "before", "."], "e1_text": "recieve", "e1_pos": 9, "e2_text": "did", "e2_pos": 18, "label": "before"}
+]

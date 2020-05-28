@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "first", "they", "did", "n't", "accepted", "official", "foreign", "ID", "and", "asked", "for", "my", "passport", "-LRB-", "it", "had", "been", "accepted", "everywhere", "before", "-RRB-", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["While", "waiting", "I", "had", "to", "ask", "the", "waitress", "for", "water", "2", "!!!", "times", "before", "she", "brought", "it", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "brought", "e2_pos": 15, "label": "before"}
+]

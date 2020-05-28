@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "probably", "waited", "until", "we", "left", "the", "room", "after", "dropping", "off", "our", "luggage", "to", "steal", "some", "of", "my", "stuff", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "dropping", "e2_pos": 9, "label": "after"},
+{"tokens": ["My", "family", "left", "the", "room", "for", "about", "an", "hour", "to", "go", "eat", "dinner", "and", "after", "coming", "back", "i", "notice", "my", "laptop", "bag", "was", "gone", "containing", "a", "macbook", "pro", ",", "2", "ipods", ",", "and", "an", "electric", "razor", "."], "e1_text": "go", "e1_pos": 10, "e2_text": "notice", "e2_pos": 18, "label": "after"}
+]

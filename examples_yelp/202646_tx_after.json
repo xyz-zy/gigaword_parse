@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*\\*", "It", "'s", "only", "$", "3.00", "for", "your", "first", "class", "and", "$", "6.00", "after", "that", "\\*\\*\\*", "TIPS", ":", "Call", "ahead", "and", "reserve", "a", "spot", "in", "the", "class", "."], "e1_text": "'s", "e1_pos": 2, "e2_text": "TIPS", "e2_pos": 16, "label": "after"}
+]

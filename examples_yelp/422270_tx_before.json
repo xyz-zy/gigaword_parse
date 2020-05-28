@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fiancee", "and", "I", "drove", "to", "SLS", "early", "to", "ensure", "we", "got", "a", "parking", "space", "before", "the", "roads", "closed", "."], "e1_text": "got", "e1_pos": 10, "e2_text": "closed", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "the", "last", "call", ",", "they", "disconnected", "my", "call", "after", "being", "on", "about", "40", "minutes", "with", "various", "customer", "service", "representatives", "."], "e1_text": "disconnected", "e1_pos": 6, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["However", ",", "for", "some", "reason", ",", "Credit", "One", "did", "not", "process", "this", "payment", "until", "March", "6th", ",", "almost", "two", "weeks", "after", "I", "made", "the", "payment", "over", "the", "phone", "."], "e1_text": "process", "e1_pos": 10, "e2_text": "made", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "took", "my", "car", "here", "and", "realized", "after", "that", "they", "stole", "money", "from", "my", "glove", "compartment", "!"], "e1_text": "realized", "e1_pos": 6, "e2_text": "stole", "e2_pos": 10, "label": "after"},
+{"tokens": ["This", "place", "obviously", "does", "not", "value", "their", "customers", "because", "they", "do", "horrible", "on", "wiping", "the", "car", "down", "after", "its", "been", "through", "the", "tunnel", "."], "e1_text": "wiping", "e1_pos": 13, "e2_text": "been", "e2_pos": 19, "label": "after"},
+{"tokens": ["It", "was", "still", "dripping", "after", "I", "went", "home", "!"], "e1_text": "dripping", "e1_pos": 3, "e2_text": "went", "e2_pos": 6, "label": "after"}
+]

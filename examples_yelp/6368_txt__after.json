@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "employer", "used", "to", "treat", "us", "during", "the", "holidays", "after", "we", "worked", "12-15", "hour", "days\\/nights", "decorating", "the", "lobby", "for", "Christmas", "."], "e1_text": "treat", "e1_pos": 4, "e2_text": "worked", "e2_pos": 11, "label": "after"}
+]

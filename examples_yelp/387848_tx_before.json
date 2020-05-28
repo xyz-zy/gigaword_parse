@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "toilet", "bowl", "has", "stains", "that", "does", "n't", "go", "away", "even", "when", "I", "bought", "Lysol", "cleaner", "and", "cleaned", "it", ",", "the", "air", "filter", "was", "n't", "replaced", "before", "we", "moved", "in", ",", "so", "there", "were", "dust", "everywhere", ",", "the", "screen", "door", "to", "our", "patio", "was", "detached", "until", "the", "day", "of", "our", "move-in", ",", "even", "when", "the", "office", "manager", "told", "the", "maintenance", "people", "to", "fix", "it", ",", "they", "obviously", "did", "n't", "."], "e1_text": "replaced", "e1_pos": 25, "e2_text": "moved", "e2_pos": 28, "label": "before"},
+{"tokens": ["Maybe", "she", "'s", "new", ",", "but", "she", "really", "needs", "to", "be", "trained", "before", "they", "put", "her", "out", "there", "with", "customers", "."], "e1_text": "trained", "e1_pos": 11, "e2_text": "put", "e2_pos": 14, "label": "before"}
+]

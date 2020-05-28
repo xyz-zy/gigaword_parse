@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", "I", "went", "was", "soon", "after", "it", "opened", "and", "my", "boyfriend", "treated", "me", "to", "a", "romantic", "weekend", "-LRB-", "which", "turned", "into", "a", "week", ",", "but", "that", "'s", "another", "story", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "opened", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "decor", "is", "not", "for", "everyone", ",", "but", "I", "find", "it", "awfully", "inviting", "after", "coming", "from", "the", "dimly", "lit", ",", "dingy", "casinos", "elsewhere", "on", "the", "Strip", "."], "e1_text": "find", "e1_pos": 9, "e2_text": "coming", "e2_pos": 14, "label": "after"}
+]

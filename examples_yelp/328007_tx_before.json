@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "location", "does", "not", "even", "compare", ",", "we", "should", "have", "turned", "and", "left", "before", "even", "entering", "due", "to", "all", "the", "dirty", "dishes", "on", "the", "outside", "tables", "."], "e1_text": "turned", "e1_pos": 10, "e2_text": "entering", "e2_pos": 15, "label": "before"}
+]

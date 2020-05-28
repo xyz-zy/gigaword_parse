@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "next", "morning", "...", "I", "went", "in", "to", "brush", "my", "teeth", "and", "turned", "on", "the", "hot", "water", "as", "I", "would", "anywhere", "and", "let", "it", "run", "for", "a", "couple", "of", "seconds", "before", "testing", "it", "out", "."], "e1_text": "run", "e1_pos": 24, "e2_text": "testing", "e2_pos": 31, "label": "before"}
+]

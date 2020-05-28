@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "agreed", "to", "a", "specific", "rate", "before", ",", "my", "friend", "was", "charged", "double", "the", "amount", ",", "so", "we", "got", "a", "bit", "ripped", "off", "in", "that", "regard", ",", "which", "was", "upsetting", "."], "e1_text": "agreed", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["How", "about", "you", "call", "the", "customer", ",", "apologize", "profusely", ",", "and", "make", "sure", "it", "is", "done", "before", "assuming", "?!"], "e1_text": "done", "e1_pos": 15, "e2_text": "assuming", "e2_pos": 17, "label": "before"}
+]

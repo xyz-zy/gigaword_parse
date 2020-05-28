@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "for", "a", "late", "lunch", ",", "around", "1:30", ",", "but", "the", "food", "was", "great", "and", "refreshed", "before", "the", "dish", "was", "emptied", ",", "keeping", "the", "quality", "up", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "was", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "plain", "naan", "arrived", "before", "we", "were", "back", "from", "the", "buffet", "and", "I", "would", "have", "liked", "to", "have", "garlic", "naan", ",", "but", "no", "one", "asked", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

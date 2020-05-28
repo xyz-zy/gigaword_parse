@@ -1,0 +1,4 @@
+[
+{"tokens": ["Message", "to", "Eva", "Longoria", ":", "Eva", ",", "honey", ",", "stick", "to", "acting", ",", "work", "on", "your", "actual", "''", "``", "craft", "''", "''", "first", "before", "you", "attempt", "to", "expand", "your", "horizon", "."], "e1_text": "stick", "e1_pos": 9, "e2_text": "attempt", "e2_pos": 25, "label": "before"},
+{"tokens": ["To", "top", "it", "off", ",", "the", "restaurant", "lost", "out", "reservation", "hours", "before", "we", "were", "set", "to", "arrive", "at", "the", "restaurant", ",", "despite", "our", "confirming", "and", "reconfirming", "weeks", "and", "days", "before", "the", "trip", "."], "e1_text": "lost", "e1_pos": 7, "e2_text": "were", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "recently", "came", "back", "to", "dine", "at", "this", "establishment", "with", "my", "family", "after", "being", "away", "from", "Las", "Vegas", "for", "three", "years", ",", "and", "I", "got", "ta", "say", "...", "the", "service", "certainly", "has", "n't", "improved", "."], "e1_text": "dine", "e1_pos": 6, "e2_text": "being", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "got", "ta", "admit", ",", "it", "'s", "not", "as", "busy", "as", "it", "used", "to", "be", ",", "but", "it", "still", "took", "a", "LONG", "while", "for", "any", "server", "to", "acknowledge", "our", "existence", "after", "we", "got", "seated", "."], "e1_text": "acknowledge", "e1_pos": 27, "e2_text": "got", "e2_pos": 1, "label": "after"}
+]

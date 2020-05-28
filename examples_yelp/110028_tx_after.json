@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "veggie", "pizza", "which", "literally", "was", "a", "thin-crust", "pizza", "that", "someone", "dumped", "a", "bowl", "of", "spinach", "on", "top", "after", "it", "came", "out", "of", "the", "oven", "."], "e1_text": "dumped", "e1_pos": 13, "e2_text": "came", "e2_pos": 22, "label": "after"}
+]

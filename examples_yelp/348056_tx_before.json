@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "before", "the", "valet", "came", "out", "so", "we", "had", "to", "park", "in", "a", "neighborhood", "a", "few", "blocks", "away", "-LRB-", "should", "have", "read", "a", "recent", "Yelp-er", "who", "suggested", "just", "parking", "in", "the", "Starbucks", "lot", "-RRB-", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "came", "e2_pos": 5, "label": "before"}
+]

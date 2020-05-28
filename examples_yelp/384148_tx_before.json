@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "they", "either", "do", "n't", "put", "enough", "ice", "or", "do", "n't", "mix", "it", "before", "pouring", "it", "into", "the", "cup", "-LRB-", "super", "sweet", "-RRB-", "."], "e1_text": "mix", "e1_pos": 11, "e2_text": "pouring", "e2_pos": 14, "label": "before"}
+]

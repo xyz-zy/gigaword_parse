@@ -1,0 +1,3 @@
+[
+{"tokens": ["Across", "the", "parking", "lot", "I", "noticed", "a", "place", "called", "''", "``", "Kid", "to", "Kid", "''", "''", "and", "since", "I", "had", "heard", "it", "mentioned", "by", "my", "daughter", "before", ",", "I", "called", "her", "and", "she", "said", "to", "check", "it", "out", "."], "e1_text": "mentioned", "e1_pos": 22, "e2_text": "called", "e2_pos": 29, "label": "before"}
+]

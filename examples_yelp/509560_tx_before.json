@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "fact", ",", "she", "talked", "to", "me", "more", "in", "two", "minutes", "than", "my", "stylist", "did", "in", "40", ",", "asking", "what", "the", "occasion", "was", "and", "wishing", "me", "good", "luck", "before", "I", "left", "."], "e1_text": "wishing", "e1_pos": 24, "e2_text": "left", "e2_pos": 30, "label": "before"}
+]

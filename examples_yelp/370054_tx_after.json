@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "buddy", "and", "I", "stayed", "here", "a", "month", "after", "we", "graduated", "from", "college", ",", "and", "although", "it", "was", "fine", "for", "a", "couple", "of", "broke", "22", "year", "olds", ",", "I", "would", "n't", "stay", "there", "again", "-", "too", "many", "better", "options", "at", "great", "deals", "in", "this", "town", "!"], "e1_text": "stayed", "e1_pos": 4, "e2_text": "graduated", "e2_pos": 10, "label": "after"}
+]

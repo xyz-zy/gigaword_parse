@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "red", "flag", "was", "an", "employee", "emptying", "container", "after", "container", "of", "store", "bought", "guacamole", "in", "a", "container", "to", "serve", "as", "their", "own", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "bought", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Called", "down", "to", "the", "desk", "for", "a", "late", "check", "out", "and", "was", "placed", "on", "hold", "for", "exactly", "13", "minutes", "before", "I", "hung", "up", "After", "going", "for", "a", "run", ",", "I", "went", "down", "to", "the", "desk", "."], "e1_text": "placed", "e1_pos": 12, "e2_text": "hung", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "was", "incredibly", "slow", "-LRB-", "there", "were", "only", "four", "tables", "filled", "and", "several", "waiters\\/waitresses", ",", "so", "I", "'m", "not", "sure", "what", "the", "holdup", "was", "-RRB-", "and", "at", "one", "point", "completely", "forgot", "that", "I", "had", "ordered", "a", "glass", "of", "wine", "even", "though", "she", "'d", "gone", "over", "to", "the", "bar", "right", "after", "I", "placed", "the", "order", "."], "e1_text": "gone", "e1_pos": 43, "e2_text": "placed", "e2_pos": 51, "label": "after"}
+]

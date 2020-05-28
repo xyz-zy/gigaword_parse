@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "friend", "at", "our", "table", "went", "up", "to", "the", "bar", "to", "get", "the", "half", "priced", "drinks", "after", "we", "told", "him", "about", "the", "happy", "hour", "prices", ",", "the", "bartender", "gave", "him", "a", "hard", "time", "about", "having", "a", "table", ",", "so", "he", "sat", "at", "the", "bar", "and", "said", "''", "``", "Now", "I", "'m", "sitting", "here", "''", "''", ",", "the", "bartender", "had", "no", "argument", "."], "e1_text": "priced", "e1_pos": 14, "e2_text": "told", "e2_pos": 18, "label": "after"}
+]

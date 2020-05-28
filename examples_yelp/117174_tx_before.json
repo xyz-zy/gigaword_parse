@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "if", "he", "had", "used", "it", "before", "and", "he", "said", "yes", "briskly", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["She", "then", "set", "the", "paper", "down", "and", "went", "on", "to", "say", "how", "she", "does", "n't", "know", "how", "to", "return", "the", "deposit", "to", "me", "and", "that", "she", "has", "to", "return", "it", "then", "recharge", "it", "and", "how", "she", "had", "never", "done", "a", "transaction", "with", "these", "machines", "before", "."], "e1_text": "say", "e1_pos": 10, "e2_text": "had", "e2_pos": 36, "label": "before"}
+]

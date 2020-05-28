@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "upped", "the", "heat", "considerable", "after", "tasting", "it", "to", "make", "sure", "the", "heat", "would", "not", "destroy", "the", "flavor", "."], "e1_text": "upped", "e1_pos": 1, "e2_text": "tasting", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "portion", "was", "correct", ":", "I", "was", "wishing", "there", "were", "a", "bit", "more", "but", "after", "sitting", "for", "a", "moment", "or", "two", "discovered", "I", "was", "fully", "satisfied", "."], "e1_text": "wishing", "e1_pos": 7, "e2_text": "discovered", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "someone", "said", "before", ",", "the", "whole", "ordering", "process", ",", "especially", "for", "first", "timers", "needs", "to", "somehow", "be", "streamlined", ",", "it", "'s", "ridiculous", ",", "like", "they", "need", "a", "help", "desk", "or", "something", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "needs", "e2_pos": 14, "label": "before"},
+{"tokens": ["But", "part", "of", "the", "initiation", "is", "you", "get", "to", "taste", "test", "before", "ordering", ",", "so", "I", "guess", "that", "is", "good", "."], "e1_text": "taste", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 12, "label": "before"}
+]

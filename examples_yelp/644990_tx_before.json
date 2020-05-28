@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chicken", "taco", "somehow", "was", "so", "soggy", "that", "the", "tortilla", "was", "soaked", "through", "before", "the", "plate", "got", "to", "the", "table", "."], "e1_text": "soaked", "e1_pos": 11, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

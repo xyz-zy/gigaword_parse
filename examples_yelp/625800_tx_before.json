@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", ",", "if", "that", "was", "the", "case", "how", "come", "at", "least", "two", "other", "tables", "before", "us", "were", "served", "promptly", "and", "AFTER", "we", "had", "sat", "down", "."], "e1_text": "come", "e1_pos": 8, "e2_text": "were", "e2_pos": 16, "label": "before"},
+{"tokens": ["It", "got", "so", "bad", "that", "my", "husband", "and", "I", "were", "about", "to", "walk", "out", "right", "before", "they", "sat", "our", "food", "down", "."], "e1_text": "walk", "e1_pos": 12, "e2_text": "sat", "e2_pos": 17, "label": "before"}
+]

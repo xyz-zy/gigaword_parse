@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "thing", "I", "should", "correct", "in", "my", "previous", "review", "is", "that", "they", "do", "a", "have", "a", "larger", "number", "of", "specials", "rolls", "than", "I", "mentioned", "before", "."], "e1_text": "have", "e1_pos": 14, "e2_text": "mentioned", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "also", "ordered", "grilled", "squid", "and", "was", "shockingly", "tender", ",", "I", "only", "managed", "to", "get", "two", "pieces", "before", "the", "wife", "devoured", "it", "."], "e1_text": "get", "e1_pos": 14, "e2_text": "devoured", "e2_pos": 20, "label": "before"}
+]

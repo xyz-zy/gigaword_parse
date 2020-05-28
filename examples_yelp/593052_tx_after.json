@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "rating", "is", "mostly", "based", "on", "the", "fact", "that", "my", "boyfriend", "booked", "the", "room", "online", "and", "they", "placed", "a", "hold", "on", "his", "credit", "card", "for", "the", "amount", "for", "the", "room", ",", "which", "is", "fine", ",", "but", "they", "did", "not", "release", "the", "hold", "until", "several", "days", "after", "we", "had", "paid", "and", "checked", "out", ",", "and", "it", "required", "multiple", "phone", "calls", "to", "get", "them", "to", "do", "so", "."], "e1_text": "release", "e1_pos": 39, "e2_text": "had", "e2_pos": 47, "label": "after"}
+]

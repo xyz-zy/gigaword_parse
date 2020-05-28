@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "in", "for", "a", "quick", "late", "night", "snack", "before", "going", "back", "to", "our", "hotel", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "going", "e2_pos": 10, "label": "before"},
+{"tokens": ["There", "were", "a", "lot", "of", "people", "eating", "in", "but", "the", "service", "was", "quick", "and", "the", "girls", "working", "behind", "the", "counter", "did", "n't", "seem", "too", "bothered", "that", "us", "and", "another", "couple", "there", "were", "asking", "for", "samples", "before", "making", "a", "decision", "."], "e1_text": "asking", "e1_pos": 32, "e2_text": "making", "e2_pos": 36, "label": "before"}
+]

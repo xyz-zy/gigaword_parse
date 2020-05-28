@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", ",", "my", "friend", "got", "cut", "off", "after", "buying", "a", "round", "of", "shots", "."], "e1_text": "cut", "e1_pos": 5, "e2_text": "buying", "e2_pos": 8, "label": "after"},
+{"tokens": ["Why", "would", "you", "card", "us", "an", "HOUR", "later", "after", "we", "'ve", "all", "already", "ordered", "drinks", "."], "e1_text": "card", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 10, "label": "after"}
+]

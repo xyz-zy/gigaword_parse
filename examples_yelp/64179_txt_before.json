@@ -1,0 +1,3 @@
+[
+{"tokens": ["=-RRB-", "If", "you", "did", "the", "drive", "to", "Vegas", ",", "and", "it", "'s", "your", "last", "day", ",", "I", "would", "totally", "recommend", "this", "place", "as", "your", "last", "stop", "before", "you", "hit", "the", "long", "road", "back", "to", "LA.", "."], "e1_text": "recommend", "e1_pos": 19, "e2_text": "hit", "e2_pos": 28, "label": "before"}
+]

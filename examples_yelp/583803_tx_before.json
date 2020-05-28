@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "two", "glass", "of", "beers", "and", "an", "appetizer", "-LRB-", "we", "already", "had", "lunch", "before", "we", "came", "here", "-RRB-", ";", "since", "I", "was", "already", "full", "so", "the", "husband", "finished", "the", "Deviled", "Eggs", "by", "himself", ",", "he", "said", "it", "was", "quite", "interesting", ",", "in", "a", "good", "way", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

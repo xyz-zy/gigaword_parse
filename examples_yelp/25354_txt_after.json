@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "think", "they", "were", "upset", "that", "I", "turned", "down", "the", "additional", "service", "because", "a", "week", "after", "the", "oil", "change", "I", "found", "out", "that", "none", "of", "my", "fluids", "had", "been", "topped", "off", ",", "that", "my", "battery", "and", "alternator", "were", "almost", "dead", "-LRB-", "no", "one", "bothered", "to", "check", "the", "battery", "at", "all", "during", "a", "16-point", "inspection", "-RRB-", ",", "and", "that", "my", "oil", "change", "gauge", "had", "not", "been", "reset", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "change", "e2_pos": 18, "label": "after"}
+]

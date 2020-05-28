@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "the", "customer", "service", "lady", "towards", "the", "back", "of", "the", "store", ",", "who", "was", "much", "nicer", ",", "but", "after", "going", "back", "up", "front", ",", "she", "said", "sorry", "and", "that", "they", "were", "$", "12.95", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "said", "e2_pos": 27, "label": "after"}
+]

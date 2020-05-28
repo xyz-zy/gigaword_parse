@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "very", "pleasant", "and", "it", "seemed", "obvious", "that", "he", "took", "over", "our", "table", "after", "realizing", "that", "we", "had", "been", "neglected", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "realizing", "e2_pos": 15, "label": "after"},
+{"tokens": ["Our", "main", "courses", "arrived", "an", "hour", "after", "the", "first", "course", "plates", "were", "cleared", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "were", "e2_pos": 11, "label": "after"}
+]

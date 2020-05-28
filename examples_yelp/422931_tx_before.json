@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lived", "in", "303", "W.", "Green", "St.", "in", "a", "1", "bedroom", "for", "1", "year", "before", "moving", "out", "to", "a", "2", "bedroom", "apartment", "that", "was", "closer", "to", "school", "and", "$", "75", "cheaper", "."], "e1_text": "lived", "e1_pos": 1, "e2_text": "moving", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "'ve", "gotten", "police", "called", "on", "them", "before", "but", "that", "did", "n't", "stop", "them", "."], "e1_text": "called", "e1_pos": 4, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

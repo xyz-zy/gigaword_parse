@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "these", "first", "few", "minutes", "we", "took", "about", "four", "or", "five", "bites", "before", "the", "time", "ran", "out", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "ran", "e2_pos": 15, "label": "before"},
+{"tokens": ["But", "as", "I", "said", "before", ",", "just", "the", "thought", "of", "the", "burrito", "brings", "back", "my", "shameful", "failure", "as", "well", "as", "the", "nauseating", "feeling", "I", "had", "for", "the", "rest", "of", "the", "day", "."], "e1_text": "said", "e1_pos": 3, "e2_text": "brings", "e2_pos": 12, "label": "before"}
+]

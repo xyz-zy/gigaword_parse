@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "never", "been", "to", "a", "restaurant", "where", "we", "-LRB-", "a", "party", "of", "6", "with", "a", "reservation", "-RRB-", "sat", "at", "a", "cleared", "table", "with", "no", "water", ",", "no", "bread", ",", "no", "cutlery", ",", "no", "service", "for", "15", "minutes", "before", "receiving", "a", "menu", "...", "when", "we", "finally", "had", "someone", "provide", "a", "menu", ",", "it", "then", "took", "another", "15", "minutes", "to", "get", "the", "wine", "we", "ordered", "."], "e1_text": "sat", "e1_pos": 18, "e2_text": "receiving", "e2_pos": 39, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "My", "waitress", "asked", "me", "if", "I", "was", "ready", "to", "order", "about", "15", "seconds", "after", "I", "was", "seated", "and", "brought", "the", "bill", "with", "my", "feel", "which", "made", "me", "feel", "rushed", ".", "-RRB-"], "e1_text": "order", "e1_pos": 10, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

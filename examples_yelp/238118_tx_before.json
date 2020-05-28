@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mr", "Tofu", "used", "to", "be", "my", "favorite", "restaurant", "in", "Las", "Vegas", "before", "the", "owner", "changed", ":-LRB-", "i", "am", "so", "sad", "because", "I", "knew", "the", "previous", "owner", "and", "they", "were", "so", "nice", "and", "tofu", "soup", "was", "THE", "best", "I", "'ve", "ever", "had", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "changed", "e2_pos": 14, "label": "before"},
+{"tokens": ["Decided", "not", "to", "go", "from", "now", "on", "...", "Where", "can", "I", "find", "a", "place", "with", "the", "same", "taste", "of", "tofu", "soup", "I", "had", "before", "?"], "e1_text": "find", "e1_pos": 11, "e2_text": "had", "e2_pos": 22, "label": "before"}
+]

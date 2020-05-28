@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "order", "never", "ended", "up", "coming", "out", ",", "the", "waiter", "never", "came", "by", "to", "check", "up", "on", "us", ",", "and", "we", "had", "to", "go", "up", "to", "the", "bar", "-LRB-", "after", "waiting", "for", "a", "few", "minutes", "to", "even", "get", "someone", "'s", "attention", "!", "-RRB-"], "e1_text": "go", "e1_pos": 23, "e2_text": "waiting", "e2_pos": 30, "label": "after"}
+]

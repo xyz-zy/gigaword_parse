@@ -1,0 +1,5 @@
+[
+{"tokens": ["Not", "only", "that", ",", "the", "lashes", "used", "to", "last", "me", "at", "least", "a", "month", ",", "and", "now", "they", "are", "almost", "all", "off", "after", "2", "weeks", "-LRB-", "This", "is", "with", "me", "getting", "a", "Fill-PLUS", "every", "3", "weeks", "-RRB-", "."], "e1_text": "are", "e1_pos": 18, "e2_text": "is", "e2_pos": 27, "label": "after"},
+{"tokens": ["I", "recently", "asked", "to", "speak", "with", "the", "district", "manager", ",", "Ivonne", ",", "and", "after", "doing", "so", "was", "in", "tears", "."], "e1_text": "speak", "e1_pos": 4, "e2_text": "doing", "e2_pos": 14, "label": "after"},
+{"tokens": ["She", "was", "extremely", "condescending", ",", "and", "did", "nothing", "to", "help", "the", "situation", "after", "being", "canceled", "on", "for", "the", "9th", "time", ",", "because", "she", "said", "it", "was", "only", "the", "4th", "."], "e1_text": "help", "e1_pos": 9, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

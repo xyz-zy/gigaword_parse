@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "sure", "I", "got", "food", "poisoning", "after", "eating", "the", "route", "66", "burger", "and", "the", "sweet", "potato", "fries", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "have", "been", "ill", "since", "the", "day", "after", "I", "ate", "there", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "ate", "e2_pos": 9, "label": "after"}
+]

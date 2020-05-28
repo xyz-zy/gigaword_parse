@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "up", "front", "was", "very", "nice", "although", "she", "seems", "stressed", "and", "I", "can", "understand", "why", "after", "I", "inquired", "about", "an", "ingredient", "on", "a", "sandwich", "and", "the", "lady", "behind", "her", ",", "I", "'m", "assuming", "the", "owner", ",", "kind", "of", "snapped", "the", "answer", "back", "to", "me", "."], "e1_text": "understand", "e1_pos": 14, "e2_text": "inquired", "e2_pos": 18, "label": "after"}
+]

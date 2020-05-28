@@ -1,0 +1,3 @@
+[
+{"tokens": ["Make", "sure", "you", "use", "the", "bathroom", "before", "you", "get", "there", "if", "possible", "as", "there", "is", "always", "an", "enormous", "line", "and", "the", "restrooms", "are", "quite", "small", "compared", "to", "the", "capacity", "of", "the", "theater", "."], "e1_text": "use", "e1_pos": 3, "e2_text": "get", "e2_pos": 8, "label": "before"}
+]

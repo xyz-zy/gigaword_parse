@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "n't", "have", "menu", "items", "Went", "there", "to", "get", "a", "lobster", "macaroni", "and", "cheese", ",", "the", "last", "time", "I", "went", "they", "did", "not", "have", "lobster", ",", "this", "time", "they", "did", "not", "have", "lobster", "AGAIN", ",", "so", "I", "ordered", "plain", "macaroni", "and", "cheese", ",", "after", "waiting", "10", "minutes", "they", "told", "me", "they", "had", "macaroni", "but", "NO", "CHEESE", "???"], "e1_text": "ordered", "e1_pos": 37, "e2_text": "waiting", "e2_pos": 44, "label": "after"}
+]

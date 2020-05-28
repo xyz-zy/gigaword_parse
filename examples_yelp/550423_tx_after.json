@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "through", "about", "half", "of", "it", ",", "mostly", "because", "we", "were", "really", "hungry", "after", "waiting", "another", "hour", "for", "the", "entr", "\\", "u00e9es", "to", "arrive", ",", "but", "eventually", "decided", "to", "say", "something", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["That", "'s", "true", ",", "but", "she", "checked", "about", "30", "seconds", "after", "the", "food", "came", "out", ",", "so", "our", "answer", "was", "based", "entirely", "on", "the", "mac", "and", "cheese", "at", "the", "time", "."], "e1_text": "checked", "e1_pos": 6, "e2_text": "came", "e2_pos": 13, "label": "after"}
+]

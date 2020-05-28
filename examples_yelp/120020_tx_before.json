@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "had", "our", "bags", "stolen", "in", "2012", ";", "the", "criminals", "just", "took", "the", "first", "few", "bags", "to", "come", "off", "the", "belt", ",", "and", "with", "the", "very", "long", "walk", "from", "plane", "to", "claim", ",", "they", "were", "long", "gone", "before", "we", "had", "even", "gotten", "there", "to", "watch", "our", "own", "bags", "."], "e1_text": "gone", "e1_pos": 39, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "'d", "recommend", "eating", "before", "arriving", "and", "just", "buy", "a", "$", "4.50", "bottle", "of", "water", "once", "you", "'re", "through", "security", "."], "e1_text": "eating", "e1_pos": 3, "e2_text": "arriving", "e2_pos": 5, "label": "before"}
+]

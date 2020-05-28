@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "our", "bartender\\/server", "about", "the", "tardiness", "of", "the", "order", "-LRB-", "30", "minutes", "after", "ordering", "-RRB-", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "insisted", "that", "it", "was", "n't", "from", "the", "chemical", ",", "that", "I", "had", "hurt", "myself", "before", "I", "came", "in", "."], "e1_text": "hurt", "e1_pos": 13, "e2_text": "came", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "showed", "him", "the", "red", "mark", "and", "told", "him", "that", "it", "had", "just", "happened", "a", "moment", "before", "."], "e1_text": "told", "e1_pos": 7, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

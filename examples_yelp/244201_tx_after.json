@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "returned", "after", "lunch", "about", "25", "minutes", "and", "to", "my", "dismay", "my", "car", "was", "still", "in", "the", "same", "spot", "...", "I", "determined", "that", "maybe", "sitting", "inside", "the", "lobby", "would", "help", "."], "e1_text": "returned", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "moved", "my", "car", "about", "5", "minutes", "after", "I", "sat", "in", "the", "waiting", "room", "."], "e1_text": "moved", "e1_pos": 1, "e2_text": "sat", "e2_pos": 9, "label": "after"}
+]

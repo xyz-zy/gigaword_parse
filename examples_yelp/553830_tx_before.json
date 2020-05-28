@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "the", "last", "table", "to", "be", "served", "before", "they", "closed", "!!!", "I", "usually", "dont", "write", "bad", "reviews", "but", "I", "want", "the", "owner", "to", "be", "aware", "of", "what", "'s", "going", "on", ".", "."], "e1_text": "served", "e1_pos": 7, "e2_text": "closed", "e2_pos": 10, "label": "before"}
+]

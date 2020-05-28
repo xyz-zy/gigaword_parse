@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "if", "you", "remember", "going", "to", "the", "dentists", "as", "a", "child", "you", "remember", "waiting", "for", "seemed", "like", "days", "before", "even", "being", "seen", "...", "then", "meeting", "some", "very", "unfriendly", ",", "and", "rough", "hands", "\\*", "shivers", "\\*", "I", "entered", "the", "office", "at", "11am", ",", "and", "left", "by", "12pm", "."], "e1_text": "seemed", "e1_pos": 15, "e2_text": "being", "e2_pos": 20, "label": "before"},
+{"tokens": ["Was", "explained", "the", "costs", "before", "having", "any", "work", "done", ",", "and", "had", "a", "cleaning", ",", "all", "in", "one", "hour", "."], "e1_text": "explained", "e1_pos": 1, "e2_text": "having", "e2_pos": 5, "label": "before"}
+]

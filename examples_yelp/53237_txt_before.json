@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "granddaughter", ",", "who", "is", "almost", "eight", "years", "old", ",", "and", "I", "sat", "for", "a", "good", "ten", "minutes", "before", "the", "waiter", "ever", "said", "anything", "to", "us", ",", "and", "then", "he", "only", "stopped", "long", "enough", "to", "tell", "us", "he", "was", "busy", "...", "AND", "he", "had", "a", "bad", "attitude", "!"], "e1_text": "sat", "e1_pos": 12, "e2_text": "said", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "straw", "is", "when", "I", "scheduled", "an", "appointment", "and", "they", "call", "me", "3", "hours", "before", "telling", "me", "that", "the", "doctor", "has", "to", "leave", "early", "and", "wanted", "to", "know", "if", "I", "could", "come", "in", "now", "."], "e1_text": "call", "e1_pos": 11, "e2_text": "telling", "e2_pos": 16, "label": "before"}
+]

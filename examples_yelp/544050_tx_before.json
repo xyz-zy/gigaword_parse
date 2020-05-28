@@ -1,0 +1,4 @@
+[
+{"tokens": ["Needless", "to", "say", ",", "my", "pizza", "slices", "were", "boxed", "and", "setting", "on", "the", "counter", "quite", "a", "while", "before", "the", "wings", "were", "even", "done", "."], "e1_text": "setting", "e1_pos": 10, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["She", "and", "the", "cashier", "both", "seemed", "frazzled", "when", "two", "more", "people", "showed", "up", "before", "my", "wings", "were", "done", "."], "e1_text": "showed", "e1_pos": 11, "e2_text": "were", "e2_pos": 16, "label": "before"}
+]

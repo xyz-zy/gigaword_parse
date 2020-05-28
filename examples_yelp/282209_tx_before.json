@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "check", "stock", "online", "before", "heading", "to", "the", "store", "."], "e1_text": "check", "e1_pos": 2, "e2_text": "heading", "e2_pos": 6, "label": "before"},
+{"tokens": ["Since", "not", "sold", "in", "Michigan", ",", "I", "tracked", "down", "the", "last", "bottle", "on", "my", "side", "of", "town", "before", "leaving", "."], "e1_text": "tracked", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 18, "label": "before"}
+]

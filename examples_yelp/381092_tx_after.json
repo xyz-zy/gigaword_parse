@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "this", "by", "accident", "after", "reading", "my", "boarding", "pass", "wrong", "-LRB-", "score", "!"], "e1_text": "found", "e1_pos": 1, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "was", "small", "and", "crazy", "overpriced", "at", "~", "$", "9", ",", "but", "it", "was", "perfectly", "fine", "tasting", ",", "especially", "after", "adding", "their", "hot", "green", "salsa", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "adding", "e2_pos": 20, "label": "after"}
+]

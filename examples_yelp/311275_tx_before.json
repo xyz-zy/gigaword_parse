@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "I", "waited", "more", "than", "a", "month", "for", "a", "response", "from", "Brio", "'s", "corporate", "before", "finally", "deciding", "to", "write", "this", "poor", "review", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 16, "label": "before"},
+{"tokens": ["He", "stands", "there", "for", "a", "little", "while", "-LRB-", "very", "awkward", "-RRB-", "before", "finally", "asking", "what", "the", "issue", "was", "."], "e1_text": "stands", "e1_pos": 1, "e2_text": "asking", "e2_pos": 13, "label": "before"}
+]

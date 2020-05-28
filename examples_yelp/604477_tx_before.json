@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "went", "here", "last", "night", "before", "seeing", "K", "\\", "u00e0", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 6, "label": "before"},
+{"tokens": ["It", "'s", "a", "large", "burger", ",", "I", "'m", "figuring", "8", "ounces", "before", "cooking", ",", "served", "on", "a", "bed", "of", "fries", "."], "e1_text": "figuring", "e1_pos": 8, "e2_text": "served", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "was", "brought", "a", "new", "iced", "tea", "before", "my", "other", "one", "was", "finished", ",", "there", "was", "a", "clean", "fork", "brought", "between", "the", "corn", "dogs", "and", "the", "burger", "--", "in", "short", "--", "the", "kind", "of", "attention", "you", "get", "from", "higher", "end", "restaurants", "and", "not", "generally", "associated", "with", "a", "gastropubs", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

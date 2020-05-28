@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "back", "and", "forth", "between", "Mexican", "and", "Chinese", "over", "ten", "times", "before", "I", "just", "put", "it", "under", "both", "categories", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "put", "e2_pos": 15, "label": "before"},
+{"tokens": ["As", "usual", ",", "I", "checked", "out", "Chino", "'s", "menu", "on", "their", "website", "before", "I", "left", "the", "house", "."], "e1_text": "checked", "e1_pos": 4, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

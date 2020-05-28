@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "meals", "were", "enjoyable", ",", "but", "next", "time", "I", "promise", "to", "venture", "out", "of", "my", "comfort", "zone", "and", "get", "something", "like", "the", "lamb", "which", "our", "waiter", "referred", "to", "as", "''", "``", "something", "Fred", "Flinstone", "would", "eat", "after", "he", "slides", "off", "his", "dinosaur", "''", "''", ",", "with", "a", "description", "like", "that", ",", "how", "can", "you", "resist", "?"], "e1_text": "eat", "e1_pos": 35, "e2_text": "slides", "e2_pos": 38, "label": "after"}
+]

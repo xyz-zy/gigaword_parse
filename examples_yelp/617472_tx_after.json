@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "$", "100", "phone", "which", "came", "out", "to", "$", "127", "-LRB-", "and", "before", "that", "price", "they", "said", "it", "was", "$", "175", "but", "after", "an", "hour", "of", "them", "removing", "BS", "fees", "it", "came", "down", "to", "127", "-RRB-", "was", "a", "little", "confusing", "to", "me", "because", "how", "does", "a", "$", "100", "transaction", "come", "out", "to", "$", "127", "and", "when", "I", "asked", "why", "she", "said", "it", "was", "taxes", "."], "e1_text": "said", "e1_pos": 16, "e2_text": "came", "e2_pos": 5, "label": "after"}
+]

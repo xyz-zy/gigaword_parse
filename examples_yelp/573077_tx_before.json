@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "actually", "got", "our", "dessert", "25", "minutes", "before", "we", "got", "the", "sushi", "roll", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "got", "e2_pos": 2, "label": "before"},
+{"tokens": ["The", "bathroom", "was", "nice", "when", "we", "first", "got", "there", "-LRB-", "remember", "we", "were", "there", "for", "almost", "2", "hours", "UGH", "-RRB-", ",", "but", "when", "I", "went", "in", "right", "before", "I", "left", "it", "was", "DISGUSTING", "!!!", "ew", "ew", "ew", "ew", "ew", "ew", "ew", "ew", "!"], "e1_text": "went", "e1_pos": 24, "e2_text": "left", "e2_pos": 29, "label": "before"}
+]

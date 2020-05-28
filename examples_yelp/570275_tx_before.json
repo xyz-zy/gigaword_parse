@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "party", "of", "7", "went", "to", "pay", "before", "being", "seated", ",", "we", "were", "told", "our", "party", "had", "to", "split", "into", "a", "table", "of", "5", "and", "a", "table", "of", "2", "."], "e1_text": "pay", "e1_pos": 7, "e2_text": "being", "e2_pos": 9, "label": "before"}
+]

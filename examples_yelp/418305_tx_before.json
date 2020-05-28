@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "literally", "asked", "our", "waiter", "4", "times", "for", "bread", "and", "he", "kept", "saying", "it", "was", "on", "it", "'s", "way", ",", "before", "we", "finally", "asked", "the", "busboy", "who", "brought", "some", "out", "within", "30", "seconds", "."], "e1_text": "kept", "e1_pos": 11, "e2_text": "asked", "e2_pos": 2, "label": "before"}
+]

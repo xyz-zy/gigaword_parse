@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "tried", "to", "go", "here", "twice", "now", "both", "times", "I", "arrived", "two", "hours", "before", "they", "close", "both", "times", "I", "jave", "been", "told", "that", "they", "would", "not", "do", "my", "nails", "."], "e1_text": "arrived", "e1_pos": 11, "e2_text": "close", "e2_pos": 16, "label": "before"},
+{"tokens": ["Both", "times", "I", "called", "before", "going", "and", "was", "told", "they", "would", "be", "able", "to", "do", "a", "full", "set", "for", "me", "."], "e1_text": "called", "e1_pos": 3, "e2_text": "going", "e2_pos": 5, "label": "before"}
+]

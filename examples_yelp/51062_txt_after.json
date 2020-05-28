@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "first", "started", "going", "to", "warner", "vista", "after", "we", "adopted", "our", "dog", "a", "year", "ago", "."], "e1_text": "warner", "e1_pos": 5, "e2_text": "adopted", "e2_pos": 9, "label": "after"},
+{"tokens": ["Fortunately", ",", "he", "did", ",", "he", "did", "n't", "eat", "or", "drink", "for", "12", "whole", "days", "and", "by", "Wednesday", ",", "after", "13", "days", "of", "being", "sick", ",", "12", "days", "of", "treatment", "-LRB-", "9", "inpatient", "-RRB-", "he", "came", "home", "."], "e1_text": "eat", "e1_pos": 8, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

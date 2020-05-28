@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "an", "extended", "wait", "for", "entrees", ",", "with", "empty", "wine", "glass", "in", "hand", "and", "watching", "tables", "that", "were", "seated", "after", "us", "receive", "their", "meals", ",", "we", "were", "finally", "presented", "with", "our", "steaks", "."], "e1_text": "seated", "e1_pos": 18, "e2_text": "receive", "e2_pos": 21, "label": "after"}
+]

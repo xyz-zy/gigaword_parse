@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "we", "waited", "for", "our", "hotel", "check", "in", "for", "about", "an", "hour", ",", "after", "that", "we", "got", "charged", "12", "percent", "for", "tax", "and", "this", "extra", "service", "charge", "which", "says", "we", "get", "a", "newspaper", "for", "and", "usage", "of", "the", "pool", "and", "two", "small", "tiny", "water", "bottles", "per", "day", "for", "I", "think", "it", "was", "$", "10.95", "or", "$", "11.95", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "got", "e2_pos": 17, "label": "after"}
+]

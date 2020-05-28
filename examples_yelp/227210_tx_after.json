@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "mention", "that", "about", "45", "minutes", "after", "we", "sat", "down", "a", "12", "top", "sat", "down", "right", "behind", "us", ",", "their", "food", "and", "drinks", "arrived", "much", "before", "our", "own", "-", "we", "had", "the", "same", "server", "."], "e1_text": "mention", "e1_pos": 2, "e2_text": "sat", "e2_pos": 9, "label": "after"}
+]

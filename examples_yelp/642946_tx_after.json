@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "called", "Waitress", "World", "after", "spending", "an", "hour", "walking", "into", "every", "shoe", "store", "in", "the", "South", "Outlets", "looking", "for", "black", "close", "toed", "pumps", "appropriate", "to", "wear", "to", "work", "as", "a", "cocktail", "server", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "spending", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "'s", "a", "cocktail", "waitress", "at", "a", "strip", "casino", "so", "she", "has", "great", "insight", "and", "was", "genuinely", "trustworthy", "-", "she", "urged", "me", "to", "try", "on", "other", "shoes", "after", "I", "found", "some", "I", "liked", ",", "and", "really", "seems", "to", "know", "the", "products", "that", "she", "'s", "selling", "."], "e1_text": "try", "e1_pos": 23, "e2_text": "found", "e2_pos": 29, "label": "after"}
+]

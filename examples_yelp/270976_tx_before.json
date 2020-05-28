@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "there", "for", "a", "LONG", "time", "before", "the", "waiter", "took", "our", "order", ",", "and", "we", "did", "n't", "even", "need", "time", "to", "decide", "because", "we", "knew", "what", "we", "wanted", "when", "we", "walked", "through", "the", "door", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "took", "e2_pos": 10, "label": "before"}
+]

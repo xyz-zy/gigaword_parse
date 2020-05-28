@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "ordered", "the", "Fries", ",", "which", "might", "sound", "average", ",", "but", "these", "are", "soaked", "in", "sherry", "vinegar", "before", "frying", ",", "and", "topped", "with", "smoked", "paprika", "."], "e1_text": "soaked", "e1_pos": 14, "e2_text": "frying", "e2_pos": 19, "label": "before"}
+]

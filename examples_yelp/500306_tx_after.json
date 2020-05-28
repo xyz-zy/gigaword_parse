@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "n't", "order", "it", "until", "they", "have", "replaced", "their", "supplier", "...", "it", "'s", "currently", "not", "edible", "and", "even", "our", "server", "acknowledged", "that", "it", "was", "bad", "...", "after", "we", "sent", "it", "back", "to", "the", "kitchen", "."], "e1_text": "order", "e1_pos": 2, "e2_text": "sent", "e2_pos": 28, "label": "after"}
+]

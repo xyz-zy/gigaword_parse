@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "literally", "sit", "and", "wait", "with", "an", "empty", "drink", "for", "20", "minutes", "before", "someone", "comes", "by", "to", "see", "if", "you", "need\\/want", "another", "drink", ",", "and", "then", "it", "might", "be", "another", "10-20", "minutes", "before", "they", "bring", "it", "to", "you", "."], "e1_text": "sit", "e1_pos": 3, "e2_text": "comes", "e2_pos": 15, "label": "before"},
+{"tokens": ["Their", "wait", "staff", "almost", "always", "approaches", "you", "before", "your", "drink", "is", "empty", "."], "e1_text": "approaches", "e1_pos": 5, "e2_text": "is", "e2_pos": 10, "label": "before"}
+]

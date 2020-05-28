@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "about", "a", "30-min", "+", "wait", "to", "get", "to", "the", "front", "to", "pay", "and", "get", "our", "drinks", "-LRB-", "yes", ",", "the", "drink", "dispensers", "are", "at", "the", "front", "before", "you", "pay", "-RRB-", "and", "not", "too", "long", ",", "we", "have", "a", "table", "to", "begin", "feasting", "."], "e1_text": "are", "e1_pos": 24, "e2_text": "pay", "e2_pos": 30, "label": "before"}
+]

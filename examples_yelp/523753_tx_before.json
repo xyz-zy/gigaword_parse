@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "would", "be", "taking", "the", "order", ",", "and", "as", "soon", "as", "I", "'m", "done", "ordering", "and", "paying", "for", "2", "SUPER", "sized", "drinks", ",", "the", "other", "lady", "from", "behind", "the", "counter", "comes", "out", "with", "our", "drinks", "before", "we", "even", "step", "away", "from", "the", "counter", "."], "e1_text": "comes", "e1_pos": 30, "e2_text": "step", "e2_pos": 38, "label": "before"}
+]

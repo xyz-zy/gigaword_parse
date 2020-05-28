@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "been", "going", "here", "for", "four", "years", "for", "school-related", "projects", ",", "but", "today", "I", "went", "with", "my", "aunt", "for", "one", "last", "trip", "before", "I", "leave", "Pittsburgh", "for", "good", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "leave", "e2_pos": 25, "label": "before"}
+]

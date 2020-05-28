@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "just", "tell", "you", "after", "waiting", "over", "an", "hour", "we", "finally", "were", "seated", "in", "one", "area", "three", "different", "tables", "."], "e1_text": "tell", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 6, "label": "after"},
+{"tokens": ["Well", "that", "did", "n't", "sit", "well", "with", "me", "because", "I", "do", "n't", "know", "how", "you", "do", "it", "in", "your", "family", "but", "when", "you", "go", "out", "to", "have", "dinner", "after", "waiting", "an", "hour", "would", "n't", "you", "expect", "to", "sit", "with", "your", "family", "."], "e1_text": "have", "e1_pos": 26, "e2_text": "waiting", "e2_pos": 29, "label": "after"}
+]

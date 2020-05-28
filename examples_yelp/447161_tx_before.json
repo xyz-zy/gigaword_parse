@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "TV", "'s", "at", "the", "bar", "were", "large", "and", "I", "enjoyed", "the", "baseball", "game", "at", "the", "bar", "before", "moving", "on", "to", "the", "next", "bar", "."], "e1_text": "enjoyed", "e1_pos": 10, "e2_text": "moving", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "either", "collect", "the", "cash", "before", "you", "leave", "or", "use", "the", "credit", "towards", "a", "purchase", "at", "the", "hotels", "bars", "or", "restaurants", "."], "e1_text": "collect", "e1_pos": 3, "e2_text": "leave", "e2_pos": 8, "label": "before"}
+]

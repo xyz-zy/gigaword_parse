@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "member", "in", "the", "past", "however", "after", "getting", "into", "a", "car", "accident", "in", "their", "jam", "packed", "parking", "lot", "I", "decided", "the", "membership", "wasnt", "worth", "the", "hassle", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "packed", "e2_pos": 17, "label": "after"},
+{"tokens": ["Fast", "forward", "several", "years", "to", "now", "after", "calling", "Costco", "said", "you", "did", "not", "have", "to", "be", "a", "member", "to", "have", "your", "glasses", "done", "there", "."], "e1_text": "Fast", "e1_pos": 0, "e2_text": "calling", "e2_pos": 7, "label": "after"}
+]

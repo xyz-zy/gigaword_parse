@@ -1,0 +1,4 @@
+[
+{"tokens": ["Zero", "Stars", "!!!", "I", "certainly", "wish", "I", "read", "the", "reviews", "on", "this", "place", "before", "having", "them", "make", "a", "sign", "for", "me", "."], "e1_text": "read", "e1_pos": 7, "e2_text": "having", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "actually", "drove", "around", "to", "different", "businesses", "to", "see", "if", "their", "signs", "were", "as", "uneven", "-LRB-", "just", "in", "case", "this", "was", "common", "and", "I", "never", "noticed", "it", "before", "-RRB-", "and", "guess", "what", "?"], "e1_text": "were", "e1_pos": 12, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

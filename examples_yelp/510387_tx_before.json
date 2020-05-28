@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "came", "a", "half", "an", "hour", "before", "the", "lunch", "buffet", "ended", ",", "I", "recommend", "getting", "there", "a", "bit", "earlier", "because", "they", "seriously", "start", "to", "remove", "food", "at", "three", "on", "the", "dot", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "ended", "e2_pos": 10, "label": "before"}
+]

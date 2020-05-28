@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "go", "back", "to", "the", "desk", "and", "ask", "about", "the", "room", "and", "after", "speaking", "into", "a", "walkie", "talkie", "they", "verify", "the", "room", "has", "been", "serviced", "and", "we", "go", "up", "."], "e1_text": "ask", "e1_pos": 7, "e2_text": "speaking", "e2_pos": 13, "label": "after"}
+]

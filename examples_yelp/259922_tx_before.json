@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "asked", "about", "the", "feces", "&", "dirt", ",", "he", "said", "they", "should", "have", "been", "cleaned", "before", "being", "returned", "and", "offered", "a", "refund", "for", "the", "amount", "of", "two", "baths", "."], "e1_text": "cleaned", "e1_pos": 15, "e2_text": "being", "e2_pos": 17, "label": "before"},
+{"tokens": ["However", ",", "my", "dog", "was", "skin", "&", "bones", "and", "was", "so", "weak", "he", "could", "n't", "even", "walk", "up", "the", "stairs", "which", "was", "never", "an", "issue", "before", "."], "e1_text": "walk", "e1_pos": 16, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

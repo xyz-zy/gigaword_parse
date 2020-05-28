@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "was", "good", "as", "usual", "but", "took", "far", "too", "long", "to", "come", "out", "and", "we", "did", "not", "receive", "bread", "until", "after", "our", "entrees", "were", "served", "."], "e1_text": "receive", "e1_pos": 18, "e2_text": "were", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "asked", "for", "a", "refill", "of", "my", "soda", "when", "the", "entrees", "were", "served", "but", "didnt", "receive", "it", "until", "after", "we", "got", "our", "bill", "and", "I", "had", "to", "ask", "several", "times", "."], "e1_text": "receive", "e1_pos": 15, "e2_text": "got", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "thank", "goodness", "I", "had", "time", "to", "eat", "at", "home", "before", "I", "went", "-RRB-", "A", "couple", "weeks", "ago", "they", "decided", "that", "the", "trivia", "company", "was", "causing", "them", "to", "lose", "money", ",", "and", "fired", "them", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "went", "e2_pos": 12, "label": "before"}
+]

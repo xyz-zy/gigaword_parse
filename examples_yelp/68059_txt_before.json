@@ -1,0 +1,3 @@
+[
+{"tokens": ["Thing", "about", "B&N", "is", "the", "books", "are", "always", "going", "to", "be", "more", "than", "buying", "them", "on", "Amazon", ",", "but", "I", "guess", "sometimes", "you", "just", "want", "to", "go", "to", "a", "bookstore", "and", "actually", "buy", "a", "real", "life", "book", ",", "in", "your", "hands", ",", "and", "flip", "through", "it", "before", "making", "the", "final", "decision", "to", "buy", "."], "e1_text": "flip", "e1_pos": 43, "e2_text": "making", "e2_pos": 47, "label": "before"}
+]

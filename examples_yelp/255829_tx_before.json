@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "saw", "me", "standing", "there", "with", "a", "basket", "full", "of", "stuff", ",", "and", "she", "continued", "to", "sweep", ",", "then", "sweep", "behind", "the", "counter", "...", "for", "over", "5", "minutes", "before", "ringing", "me", "up", "."], "e1_text": "continued", "e1_pos": 14, "e2_text": "ringing", "e2_pos": 29, "label": "before"}
+]

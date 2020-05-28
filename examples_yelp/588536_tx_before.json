@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "called", "to", "inquire", "about", "the", "Groupon", "before", "purchasing", "it", "b\\/c", "I", "had", "questions", "about", "pet", "stains", "which", "was", "the", "main", "reason", "we", "were", "using", "the", "service", "and", "they", "answered", "all", "my", "questions", "and", "even", "scheduled", "my", "appointment", "before", "purchasing", "the", "Groupon", "."], "e1_text": "inquire", "e1_pos": 4, "e2_text": "purchasing", "e2_pos": 9, "label": "before"}
+]

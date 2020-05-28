@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "table", "behind", "us", "was", "empty", "when", "we", "sat", "down", "and", "now", "there", "is", "a", "party", "of", "2", "behind", "us", "after", "we", "had", "already", "ordered", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["The", "waiter", "never", "check", "on", "us", "while", "we", "waited", "for", "our", "food", "my", "soda", "and", "my", "boyfriend", "'s", "beer", "was", "empty", "and", "never", "once", "was", "asked", "if", "we", "wanted", "a", "refill", "until", "after", "our", "food", "was", "delivered", "."], "e1_text": "wanted", "e1_pos": 28, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

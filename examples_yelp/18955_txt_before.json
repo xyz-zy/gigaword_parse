@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "'s", "about", "10", "minutes", "of", "things", "I", "like", "about", "Roscoe", "'s", ":", "It", "'s", "a", "good", "place", "to", "go", "for", "darts", "and", "a", "beer", ",", "and", "the", "music", "is", "above", "average", "before", "it", "gets", "worse", "."], "e1_text": "is", "e1_pos": 29, "e2_text": "gets", "e2_pos": 34, "label": "before"},
+{"tokens": ["As", "I", "find", "out", ",", "I", "pulled", "the", "last", "$", "20", "out", "of", "the", "ATM", "before", "it", "\\*", "ran", "out", "of", "money", "."], "e1_text": "pulled", "e1_pos": 6, "e2_text": "ran", "e2_pos": 18, "label": "before"}
+]

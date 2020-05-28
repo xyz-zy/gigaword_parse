@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "on", "a", "Sunday", "late", "morning", "and", "my", "boyfriend", "and", "i", "spent", "15", "minutes", "waiting", "awkwardly", "in", "a", "corner", "of", "the", "restaurant", "for", "a", "table", "or", "seat", "of", "any", "kind", "to", "open", "up", "before", "ordering", "an", "entire", "breakfast", "."], "e1_text": "open", "e1_pos": 32, "e2_text": "ordering", "e2_pos": 35, "label": "before"}
+]

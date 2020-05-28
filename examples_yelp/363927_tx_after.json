@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "not", "a", "very", "busy", "night", "yet", "when", "we", "asked", "for", "plates", "when", "the", "bread", "was", "served", ",", "we", "did", "n't", "receive", "them", "until", "15", "minutes", "later", ",", "after", "we", "ate", "our", "bread", "."], "e1_text": "served", "e1_pos": 17, "e2_text": "ate", "e2_pos": 31, "label": "after"},
+{"tokens": ["We", "also", "waited", "over", "45", "minutes", "for", "our", "meal", "and", "watched", "a", "table", "of", "4", "that", "came", "in", "20", "minutes", "after", "we", "did", "receive", "their", "food", "first", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "did", "e2_pos": 22, "label": "after"}
+]

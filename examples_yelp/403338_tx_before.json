@@ -1,0 +1,3 @@
+[
+{"tokens": ["Forgot", "drink", "order", "and", "waited", "30", "minutes", "total", "before", "getting", "a", "beer", ",", "even", "though", "the", "place", "was", "barely", "half-full", "when", "we", "got", "there", "."], "e1_text": "total", "e1_pos": 7, "e2_text": "getting", "e2_pos": 9, "label": "before"}
+]

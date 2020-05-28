@@ -1,0 +1,4 @@
+[
+{"tokens": ["so", "we", "finally", "decided", "to", "suck", "it", "up", "and", "stand", "in", "line", "tonight", ",", "which", "was", "n't", "as", "long", "as", "before", "so", "the", "wait", "was", "semi-tolerable", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["The", "other", "food", "was", "mediocre", "an", "most", "of", "the", "noodle", "dishes", "were", "swimming", "in", "goo", "...", ":", "-0", "To", "top", "it", "all", "off", ",", "before", "I", "sat", "back", "down", "at", "the", "table", ",", "I", "spotted", "an", "ant", "crawling", "across", "the", "tabletop", "."], "e1_text": "top", "e1_pos": 19, "e2_text": "sat", "e2_pos": 26, "label": "before"}
+]

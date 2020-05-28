@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "purchased", "a", "car", "that", "had", "roughly", "45k", "miles", "on", "it", ",", "and", "the", "sales", "people", "and", "every", "person", "there", "was", "incredibly", "nice", "while", "and", "before", "I", "bought", "the", "car", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "bought", "e2_pos": 27, "label": "before"},
+{"tokens": ["She", "said", "that", "it", "'s", "common", "for", "used", "car", "dealerships", ",", "when", "they", "get", "a", "car", "that", "has", "certain", "engine", "troubles", ",", "to", "tighten", "or", "loosen", "a", "timing", "chain", "before", "they", "sell", "it", ",", "and", "it", "will", "usually", "last", "for", "10k-30k", "longer", "without", "the", "owner", "noticing", "anything", "."], "e1_text": "tighten", "e1_pos": 23, "e2_text": "sell", "e2_pos": 31, "label": "before"}
+]

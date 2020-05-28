@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "some", "odd", "reason", ",", "I", "was", "served", "my", "sandwich", "without", "my", "fries", "though", "...", "they", "came", "later", ",", "after", "I", "took", "my", "time", "taking", "pics", "of", "both", "entrees", ",", "eating", "bites", "of", "both", "entrees", ",", "and", "starting", "on", "my", "second", "half", "of", "the", "sandwich", ",", "the", "fries", "finally", "came", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "took", "e2_pos": 21, "label": "after"}
+]

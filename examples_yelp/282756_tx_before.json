@@ -1,0 +1,5 @@
+[
+{"tokens": ["Table", "check-backs", "are", "few", "and", "far", "between", ",", "and", "if", "you", "ask", "for", "something", ",", "chances", "are", "your", "meal", "will", "be", "over", "before", "you", "even", "get", "it", "."], "e1_text": "be", "e1_pos": 20, "e2_text": "get", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "was", "somewhat", "embarrassing", "to", "have", "to", "ask", "for", "a", "box", "for", "his", "wife", "just", "as", "her", "meal", "came", "because", "the", "service", "had", "been", "so", "slow", "that", "she", "missed", "her", "dinner", "opportunity", "before", "she", "had", "to", "leave", "for", "work", "."], "e1_text": "missed", "e1_pos": 28, "e2_text": "had", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "place", "does", ",", "however", ",", "have", "take-out", ",", "which", "is", "something", "that", "we", "do", "when", "we", "'re", "in", "the", "mood", "for", "the", "food", "and", "you", "want", "to", "go", "get", "it", "and", "bring", "it", "back", "before", "the", "game", "starts", "."], "e1_text": "bring", "e1_pos": 32, "e2_text": "starts", "e2_pos": 38, "label": "before"}
+]

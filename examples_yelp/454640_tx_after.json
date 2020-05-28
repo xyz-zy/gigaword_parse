@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "i", "returned", "to", "Bachi", "after", "all", "my", "talk", "to", "friends", "about", "the", "famed", "Ronin", "only", "to", "kinda", "feel", "like", "a", "jerk", "off", "for", "bringing", "anybody", "to", "this", "place", "."], "e1_text": "returned", "e1_pos": 2, "e2_text": "feel", "e2_pos": 18, "label": "after"},
+{"tokens": ["Not", "to", "mention", "the", "fact", "that", "the", "waitress", "was", "way", "off", "her", "game", ",", "she", "managed", "to", "mix", "up", "everybody", "'s", "drink", "at", "the", "table", ",", "not", "know", "what", "burger", "went", "to", "who", "when", "they", "FINALLY", "came", "out", "and", "after", "being", "asked", "3", "separate", "times", "for", "''", "``", "NO", "ONIONS", "''", "''", "on", "one", "of", "the", "burgers", "at", "our", "table", "it", "still", "came", "out", "with", "onions", "on", "it", "."], "e1_text": "went", "e1_pos": 30, "e2_text": "being", "e2_pos": 40, "label": "after"}
+]

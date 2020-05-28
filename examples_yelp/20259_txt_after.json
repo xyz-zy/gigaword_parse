@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "Toca", "P.T.", "for", "4", "months", "after", "which", "I", "was", "still", "in", "pain", "but", "they", "released", "me", "and", "said", "''", "``", "do", "the", "exercise", "and", "that", "is", "all", "they", "can", "do", ".", "''", "''"], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

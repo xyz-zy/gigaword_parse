@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "LOVE", "crab", "and", "I", "'ve", "had", "king", "crab", "legs", "at", "a", "buffet", "before", "-LRB-", "the", "wynn", "-RRB-", "but", "these", "did", "n't", "taste", "as", "good", ";", "they", "tasted", "exactly", "the", "same", "as", "the", "snow", "crab", "legs", ",", "which", "was", "really", "disappointing", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "did", "e2_pos": 20, "label": "before"}
+]

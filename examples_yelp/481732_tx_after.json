@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "I", "have", "served", "my", "share", "of", "tables", "in", "the", "restaurant", "industry", "in", "the", "last", "ten", "years", "to", "know", "that", "it", "'s", "rude", "to", "drop", "off", "the", "check", "two", "minutes", "after", "your", "customer", "'s", "food", "arrives", "without", "saying", "anything", ",", "unless", "you", "'re", "working", "at", "Denny", "'s", "-LRB-", "no", "offense", "Denny", "'s", ",", "love", "the", "Moons", "Over", "My", "Hammy", "-RRB-", "."], "e1_text": "drop", "e1_pos": 24, "e2_text": "arrives", "e2_pos": 35, "label": "after"},
+{"tokens": ["Then", "we", "waited", "...", "and", "waited", "...", "until", "finally", "the", "Hostess", "came", "to", "our", "rescue", "after", "baby", "diva", "started", "screaming", "her", "little", "head", "off", "loud", "enough", "to", "be", "heard", "from", "the", "sports", "book", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "started", "e2_pos": 18, "label": "after"}
+]

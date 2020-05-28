@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "bothered", "me", "so", "we", "called", "the", "AJ", "'s", "to", "discuss", "and", "apparently", "this", "has", "happened", "before", "!!", "The", "employees", "count", "on", "the", "-LRB-", "so", "called", "rich", "people", "-RRB-", "that", "come", "in", "to", "never", "pay", "attention", "to", "the", "price", "that", "they", "are", "slipping", "in", "additional", "charges", "for", "items", "for", "themselves", "."], "e1_text": "happened", "e1_pos": 15, "e2_text": "!!", "e2_pos": 17, "label": "before"},
+{"tokens": ["Again", "a", "dollar", "is", "not", "a", "big", "deal", ",", "but", "it", "'s", "a", "problem", "they", "have", "had", "before", "which", "is", "more", "concerning", "."], "e1_text": "had", "e1_pos": 16, "e2_text": "is", "e2_pos": 3, "label": "before"}
+]

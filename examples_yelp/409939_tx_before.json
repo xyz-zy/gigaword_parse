@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "inside", "the", "front", "door", "you", "have", "to", "pass", "through", "a", "mini-mall", "of", "sorts", "with", "assorted", "shops", ",", "food", "offerings", "and", "even", "small", "appliances", "on", "display", "before", "you", "finally", "get", "to", "the", "market", "."], "e1_text": "pass", "e1_pos": 8, "e2_text": "get", "e2_pos": 29, "label": "before"},
+{"tokens": ["They", "do", "offer", "Mexican", "coke", "in", "the", "dairy", "cooler", "which", "caught", "my", "eye", "before", "I", "checked", "out", "the", "seafood", "cases", "."], "e1_text": "caught", "e1_pos": 10, "e2_text": "checked", "e2_pos": 15, "label": "before"}
+]

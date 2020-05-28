@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "fact", "we", "were", "there", "right", "after", "a", "large", "convention", "let", "out", "on", "Tuesday", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "let", "e2_pos": 10, "label": "after"},
+{"tokens": ["The", "portions", "were", "all", "out", "of", "line", "with", "what", "a", "normal", "human", "consumes", "at", "dinner", "which", "made", "us", "search", "for", "a", "hefty", "desert", "after", "we", "left", "."], "e1_text": "search", "e1_pos": 18, "e2_text": "left", "e2_pos": 25, "label": "after"}
+]

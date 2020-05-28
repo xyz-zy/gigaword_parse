@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "the", "morale", "is", "-", "do", "n't", "forget", "to", "read", "Yelp", "before", "going", "anywhere", "."], "e1_text": "read", "e1_pos": 9, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["Everything", "people", "said", "before", "about", "the", "business", "appeared", "right", "!"], "e1_text": "said", "e1_pos": 2, "e2_text": "appeared", "e2_pos": 7, "label": "before"}
+]

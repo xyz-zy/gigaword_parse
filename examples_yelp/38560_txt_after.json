@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "gave", "me", "the", "wrong", "juice", "after", "I", "described", "it", "-LRB-", "she", "told", "me", "it", "was", "n't", "sweet", "-RRB-", "and", "then", "admitted", "she", "gave", "me", "the", "wrong", "one", "and", "I", "asked", "for", "the", "right", "one", "and", "the", "owner", "recharged", "me", "and", "said", "that", "it", "was", "my", "error", "and", "smiled", "at", "me", "very", "rudely", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "described", "e2_pos": 9, "label": "after"}
+]

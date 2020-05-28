@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "intention", "was", "to", "simply", "take", "a", "warm", "beverage", "in", "order", "to", "warm", "up", "and", "after", "leave", "to", "meet", "my", "father", "for", "lunch", "."], "e1_text": "take", "e1_pos": 5, "e2_text": "leave", "e2_pos": 16, "label": "after"}
+]

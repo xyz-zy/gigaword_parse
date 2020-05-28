@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "placed", "my", "order", "after", "waiting", "what", "seemed", "like", "forever", "."], "e1_text": "placed", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "dropped", "my", "check", "only", "after", "I", "had", "to", "flag", "her", "down", "and", "ask", "her", "for", "it", "."], "e1_text": "dropped", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

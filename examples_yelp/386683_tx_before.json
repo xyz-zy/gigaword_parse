@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "about", "four", "chips", "before", "I", "came", "across", "any", "chorizo", ",", "so", "that", "was", "disappointing", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "came", "e2_pos": 7, "label": "before"},
+{"tokens": ["Alas", ",", "the", "shrimp", "was", "as", "bad", "at", "brunch", "as", "it", "had", "been", "the", "night", "before", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

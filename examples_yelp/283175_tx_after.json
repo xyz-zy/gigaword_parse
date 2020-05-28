@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turns", "out", "they", "were", "having", "us", "sign", "up", "for", "auto-billing", "of", "swimming", "lessons", "after", "the", "free", "ones", "expired", "."], "e1_text": "sign", "e1_pos": 6, "e2_text": "expired", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "also", "started", "receiving", "magazines", "in", "the", "mail", "after", "joining", "."], "e1_text": "receiving", "e1_pos": 3, "e2_text": "joining", "e2_pos": 9, "label": "after"}
+]

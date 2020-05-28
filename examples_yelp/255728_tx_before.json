@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriend", "and", "I", "were", "in", "this", "area", "shopping", "and", "we", "both", "have", "quite", "the", "sweet", "tooth", "so", "we", "randomly", "decided", "to", "walk", "in", "right", "before", "they", "closed", "to", "grab", "some", "treats", "."], "e1_text": "have", "e1_pos": 12, "e2_text": "closed", "e2_pos": 27, "label": "before"}
+]

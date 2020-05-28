@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "being", "seated", ",", "we", "got", "our", "orders", "in", "pretty", "fast", "and", "my", "food", "was", "cold", "-LRB-", "I", "expected", "that", "after", "reading", "Bobby", "Y.", "'s", "review", "-RRB-", "so", "I", "got", "to", "eat", "first", "!"], "e1_text": "expected", "e1_pos": 18, "e2_text": "reading", "e2_pos": 21, "label": "after"}
+]

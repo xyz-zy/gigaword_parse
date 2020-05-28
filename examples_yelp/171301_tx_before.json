@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hubby", "and", "I", "wanted", "a", "vacation", "before", "we", "have", "our", "baby", "in", "February", "."], "e1_text": "wanted", "e1_pos": 3, "e2_text": "have", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "someone", "had", "told", "me", "before", "what", "the", "day", "pass", "actually", "was", "I", "'d", "have", "booked", "a", "spa", "service", "separately", ",", "but", "instead", "they", "were", "all", "booked", "."], "e1_text": "told", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

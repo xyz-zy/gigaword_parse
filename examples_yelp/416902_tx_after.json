@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "office", "opens", "at", "8.30", "a", "but", "nobody", "actually", "started", "helping", "people", "until", "about", "8.45", "a.", "And", "then", "it", "was", "only", "ONE", "staff", "person", "--", "and", "she", "was", "visibly", "ill", "-LRB-", "which", "we", "later", "learned", "was", "a", "hangover", "after", "overhearing", "her", "conversation", "with", "a", "co-worker", "-RRB-", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "overhearing", "e2_pos": 39, "label": "after"}
+]

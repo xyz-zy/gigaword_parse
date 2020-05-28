@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "done", "some", "research", "on", "Yelp", "before", "traveling", "to", "Phoenix", "for", "a", "long", "weekend", ",", "we", "were", "looking", "for", "a", "good", "Chinese", "restaurant", "near", "the", "airport", "."], "e1_text": "done", "e1_pos": 1, "e2_text": "traveling", "e2_pos": 7, "label": "before"}
+]

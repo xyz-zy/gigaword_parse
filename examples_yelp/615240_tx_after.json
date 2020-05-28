@@ -1,0 +1,3 @@
+[
+{"tokens": ["Furthermore", ",", "my", "account", "was", "canceled", "after", "I", "asked", "for", "a", "refund", "-LRB-", "which", "their", "website", "policy", "states", "are", "not", "granted", "-RRB-", "without", "my", "asking", "them", "to", "do", "so", "."], "e1_text": "canceled", "e1_pos": 5, "e2_text": "asked", "e2_pos": 8, "label": "after"}
+]

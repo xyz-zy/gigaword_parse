@@ -1,0 +1,5 @@
+[
+{"tokens": ["Maybe", "I", "should", "have", "made", "arrangements", "to", "physically", "pick", "it", "up", "from", "the", "branch", ",", "as", "they", "ca", "n't", "stuff", "envelops", "and", "mail", "it", "after", "forcing", "everyone", "to", "go", "paperless", "."], "e1_text": "mail", "e1_pos": 22, "e2_text": "forcing", "e2_pos": 25, "label": "after"},
+{"tokens": ["Hell", ",", "I", "doubt", "some", "thief", "can", "fraudulently", "access", "the", "$", "200", "-LRB-", "$", "162", "after", "WF", "took", "their", "cut", "-RRB-", "in", "the", "account", ",", "if", "I", "ca", "n't", "even", "get", "to", "it", "."], "e1_text": "access", "e1_pos": 8, "e2_text": "took", "e2_pos": 17, "label": "after"},
+{"tokens": ["Escalated", "this", "to", "their", "new", "branch", "manager", ",", "and", "she", "also", "was", "unable", "to", "do", "anything", ",", "after", "promising", "to", "look", "into", "it", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "promising", "e2_pos": 18, "label": "after"}
+]

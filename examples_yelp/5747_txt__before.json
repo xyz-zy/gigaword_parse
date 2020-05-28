@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sanitation", "score", "for", "this", "place", "was", "93.0", "...", "I", "guess", "that", "was", "a", "red", "flag", "that", "I", "missed", "before", "I", "placed", "my", "order", "."], "e1_text": "missed", "e1_pos": 18, "e2_text": "placed", "e2_pos": 21, "label": "before"}
+]

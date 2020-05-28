@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "even", "claimed", "it", "is", "better", "than", "San", "Diego", "'s", "Mexican", ",", "which", "I", "can", "not", "agree", "with", ";-RRB-", "So", ",", "we", "went", "before", "I", "checked", "Yelp", "...", "The", "patio", "is", "GORGEOUS", "."], "e1_text": "went", "e1_pos": 22, "e2_text": "checked", "e2_pos": 25, "label": "before"}
+]

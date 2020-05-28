@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "scheduled", "8:00", "pm", "reservations", "-LRB-", "after", "being", "denied", "a", "7:30", "pm", "and", "an", "8:30", "pm", "timeslot", "-RRB-", "and", "arrived", "around", "7:58", "pm", "."], "e1_text": "scheduled", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

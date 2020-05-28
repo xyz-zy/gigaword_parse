@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "had", "to", "ask", "for", "the", "menu", "to", "order", "additional", "food", "because", "he", "was", "still", "hungry", "after", "eating", "the", "2", "things", "he", "had", "ordered", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "eating", "e2_pos": 18, "label": "after"}
+]

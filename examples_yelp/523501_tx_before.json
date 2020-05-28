@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "kicker", ",", "is", "that", "they", "never", "let", "us", "know", "the", "package", "we", "paid", "for", "several", "months", "before", "had", "''", "``", "changed", ".", "''", "''"], "e1_text": "paid", "e1_pos": 13, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

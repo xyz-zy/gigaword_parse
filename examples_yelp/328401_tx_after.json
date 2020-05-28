@@ -1,0 +1,4 @@
+[
+{"tokens": ["People", "who", "were", "seated", "after", "I", "was", "are", "being", "served", "tasty", "looking", "pizzas", "and", "I", "got", "nothin", "'", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "was", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "noticed", "that", "Honey", "Boo-Boo", "'s", "family", ",", "who", "were", "seated", "a", "couple", "tables", "away", "from", "me", "about", "ten", "minutes", "after", "I", "arrived", "were", "enjoying", "a", "pie", "that", "was", "identical", "to", "what", "I", "ordered", "."], "e1_text": "seated", "e1_pos": 10, "e2_text": "arrived", "e2_pos": 22, "label": "after"}
+]

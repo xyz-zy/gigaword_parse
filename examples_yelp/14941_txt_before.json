@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "expect", "it", "to", "come", "straight", "off", "the", "BBQ", "but", "at", "least", "microwave", "it", "before", "you", "send", "a", "plate", "out", "."], "e1_text": "microwave", "e1_pos": 14, "e2_text": "send", "e2_pos": 18, "label": "before"}
+]

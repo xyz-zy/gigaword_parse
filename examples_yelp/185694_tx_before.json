@@ -1,0 +1,5 @@
+[
+{"tokens": ["No", "one", "offered", "us", "refills", "of", "water", "-LRB-", "never", "had", "to", "ask", "before", "-RRB-", "."], "e1_text": "offered", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["In", "the", "past", ",", "you", "could", "barely", "bat", "an", "eyelash", "before", "your", "dirty", "plates", "were", "removed", "by", "attentive", "staff", "."], "e1_text": "bat", "e1_pos": 7, "e2_text": "were", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'m", "going", "to", "have", "to", "see", "some", "awesome", "Yelper", "reviews", "before", "going", "back", "..."], "e1_text": "see", "e1_pos": 6, "e2_text": "going", "e2_pos": 2, "label": "before"}
+]

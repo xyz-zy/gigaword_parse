@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "want", "to", "like", "this", "place", ",", "but", "after", "so", "many", "tries", "and", "''", "``", "chances", "''", "''", "it", "becomes", "more", "and", "more", "difficult", "."], "e1_text": "want", "e1_pos": 2, "e2_text": "tries", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "check", "back", "rule", "after", "you", "get", "your", "food", "does", "n't", "exist", "here", "."], "e1_text": "rule", "e1_pos": 3, "e2_text": "get", "e2_pos": 6, "label": "after"}
+]

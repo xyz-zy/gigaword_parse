@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "actually", "spilled", "an", "ICEE", "because", "some", "woman", "that", "jumped", "out", "at", "me", "and", "said", "we", "'re", "doing", "extra", "screening", "today", "mam", "''", "''", "...", "You", "know", "you", "'ll", "have", "to", "throw", "that", "away", "before", "you", "get", "up", "there", ".", "''", "''"], "e1_text": "throw", "e1_pos": 31, "e2_text": "get", "e2_pos": 36, "label": "before"},
+{"tokens": ["She", "scanned", "me", "on", "my", "hand", "and", "right", "before", "I", "went", "up", "to", "the", "line", "I", "threw", "it", "away", "and", "missed", "."], "e1_text": "scanned", "e1_pos": 1, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "have", "spoken", "with", "a", "friends", "of", "my", "mother", "'s", "who", "was", "a", "child", "in", "France", "right", "before", "the", "Nazi", "'s", "invaded", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "invaded", "e2_pos": 21, "label": "before"}
+]

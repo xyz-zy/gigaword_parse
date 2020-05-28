@@ -1,0 +1,3 @@
+[
+{"tokens": ["Purchasing", "the", "ticket", "online", "was", "kind", "of", "tricky", "to", "and", "it", "did", "n't", "show", "where", "our", "seats", "were", "so", "the", "ticket", "attendant", "-LRB-", "after", "sending", "us", "to", "the", "theater", "-RRB-", "had", "to", "run", "down", "and", "find", "our", "seats", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "sending", "e2_pos": 24, "label": "after"}
+]

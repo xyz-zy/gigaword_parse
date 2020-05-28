@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "ladies", "inside", "began", "screaming", "even", "louder", "than", "before", "when", "they", "saw", "the", "groups", "of", "ladies", "walking", "away", "."], "e1_text": "screaming", "e1_pos": 4, "e2_text": "saw", "e2_pos": 11, "label": "before"},
+{"tokens": ["unfortunately", "I", "know", "nothing", "will", "be", "done", "since", "the", "manager\\/owner", "was", "in", "the", "salon", "when", "this", "all", "went", "down", "!!", "Next", "time", "I", "will", "check", "out", "the", "reviews", "before", "going", "to", "get", "a", "pedicure", "last", "minute", "!!!"], "e1_text": "went", "e1_pos": 17, "e2_text": "going", "e2_pos": 29, "label": "before"}
+]

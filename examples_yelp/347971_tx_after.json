@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "problem", "is", "I", "always", "end", "up", "with", "a", "headache", "after", "eating", "the", "food", ",", "so", "they", "must", "be", "using", "the", "dreaded", "MSG", "."], "e1_text": "end", "e1_pos": 5, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

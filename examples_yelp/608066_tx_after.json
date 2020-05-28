@@ -1,0 +1,3 @@
+[
+{"tokens": ["TACOS", "4", "LIFE", "I", "start", "thinking", "about", "tacos", "about", "half", "an", "hour", "after", "I", "wake", "up", ",", "and", "I", "dont", "stop", "until", "tacos", "happen", "."], "e1_text": "start", "e1_pos": 4, "e2_text": "wake", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "there", "'s", "hardly", "any", "information", "online", "on", "hours", "and", "rental", "prices", "so", "after", "getting", "lost", "for", "a", "little", "bit", "trying", "to", "find", "the", "place", "we", "ended", "up", "getting", "there", "at", "2:45", "."], "e1_text": "'s", "e1_pos": 5, "e2_text": "getting", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "did", "that", "and", "got", "back", "at", "3:15", "only", "to", "find", "that", "they", "decided", "to", "close", "early", "for", "the", "day", "after", "specifically", "telling", "us", "that", "they", "would", "be", "open", "until", "3:30", "."], "e1_text": "close", "e1_pos": 15, "e2_text": "telling", "e2_pos": 22, "label": "after"}
+]

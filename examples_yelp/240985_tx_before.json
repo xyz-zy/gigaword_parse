@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "set", "up", "an", "appointment", "time", "for", "3:45", "so", "I", "would", "n't", "have", "to", "wait", "for", "my", "vehicle", "to", "go", "through", "the", "line", ",", "I", "called", "hours", "in", "advance", "and", "when", "I", "got", "there", "they", "were", "very", "nice", "and", "customer", "service", "was", "up", "to", "par", "but", "I", "had", "to", "wait", "1", "hour", "before", "they", "even", "took", "a", "look", "at", "my", "vehicle", "not", "to", "mention", "another", "45", "minutes", "to", "complete", "the", "task", "."], "e1_text": "wait", "e1_pos": 14, "e2_text": "took", "e2_pos": 55, "label": "before"}
+]

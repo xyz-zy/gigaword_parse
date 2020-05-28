@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "the", "salads", ",", "both", "the", "lobster", "and", "filet", "mignon", "-LRB-", "seared", "but", "rare", "-RRB-", "salads", "are", "good", ",", "trust", "me", "you", "have", "never", "had", "salad", "like", "this", "before", "!!!", "The", "chef", "has", "this", "''", "``", "mix", "''", "''", "that", "he", "calls", "''", "``", "Tri", "'s", "''", "''", ",", "it", "'s", "basically", "tobiko", ",", "tempura", "-LRB-", "which", "are", "like", "salty", "rice", "crispies", "-RRB-", "mixed", "with", "your", "selected", "fish", "or", "lobster", "and", "spicy", "mayo", "."], "e1_text": "salad", "e1_pos": 25, "e2_text": "!!!", "e2_pos": 29, "label": "before"}
+]

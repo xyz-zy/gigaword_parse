@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "let", "the", "ice", "melt", "a", "good", "amount", "before", "drinking", "it", "in", "order", "to", "let", "the", "water", "dilute", "the", "Koolaid", "."], "e1_text": "melt", "e1_pos": 4, "e2_text": "drinking", "e2_pos": 9, "label": "before"}
+]

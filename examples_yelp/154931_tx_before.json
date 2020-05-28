@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "on", "a", "hunt", "for", "food", "before", "seeing", "a", "show", "at", "the", "Garden", "and", "settled", "on", "Emeril", "'s", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "chose", "this", "spot", "because", "they", "had", "a", "large", "bar", "and", "a", "TV", "and", "hoped", "to", "catch", "some", "football", "before", "continuing", "on", "with", "our", "night", "'s", "festivities", "and", "get", "some", "tasty", "bites", "."], "e1_text": "catch", "e1_pos": 16, "e2_text": "continuing", "e2_pos": 20, "label": "before"}
+]

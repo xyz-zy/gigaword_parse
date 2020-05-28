@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "went", "here", "after", "our", "favorite", "happy", "hour", "spot", "had", "a", "45", "minute", "wait", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "food", "was", "good", "but", "my", "main", "issue", "was", "that", "my", "credit", "card", "was", "charged", "for", "my", "meal", "and", "my", "neighbors", "table", "placing", "a", "significant", "amount", "of", "money", "on", "hold", "in", "my", "bank", "account", "after", "I", "let", "the", "waitress", "know", "of", "her", "giant", "mistake", ",", "which", "as", "it", "was", "my", "first", "night", "ever", "trying", "this", "place", "did", "not", "impress", "me", "."], "e1_text": "placing", "e1_pos": 22, "e2_text": "let", "e2_pos": 36, "label": "after"}
+]

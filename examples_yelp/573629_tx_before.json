@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "dinner", "service", "took", "quite", "a", "long", "time", ",", "it", "was", "about", "an", "hour", "before", "we", "were", "even", "able", "to", "get", "our", "order", "in", "-LRB-", "and", "had", "to", "request", "to", "do", "so", "-RRB-", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "were", "e2_pos": 16, "label": "before"},
+{"tokens": ["She", "explained", "she", "never", "opened", "a", "bottle", "before", "."], "e1_text": "explained", "e1_pos": 1, "e2_text": "opened", "e2_pos": 4, "label": "before"}
+]

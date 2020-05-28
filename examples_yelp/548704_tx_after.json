@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "right", "after", "the", "driver", "left", ",", "the", "guy", "who", "took", "the", "order", "blamed", "the", "''", "``", "miscommunication", "''", "''", "on", "me", ",", "then", "called", "me", "a", "liar", "about", "the", "wings", ",", "saying", "he", "''", "``", "tossed", "them", "himself", "''", "''", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "left", "e2_pos": 7, "label": "after"}
+]

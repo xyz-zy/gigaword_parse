@@ -1,0 +1,3 @@
+[
+{"tokens": ["Like", "I", "said", ",", "we", "were", "out", "the", "door", "in", "45", "minutes", ",", "even", "after", "waiting", "to", "be", "seated", "and", "the", "cash", "register", "debacle", "of", "taking", "awhile", "to", "process", "our", "debit", "cards", "when", "we", "were", "checking", "out", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

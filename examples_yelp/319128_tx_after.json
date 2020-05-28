@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "food", "arrived", "they", "had", "left", "out", "a", "sauce", "that", "was", "said", "to", "be", "included", "and", "after", "the", "server", "dropped", "it", "off", "he", "seemed", "to", "disappear", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "dropped", "e2_pos": 20, "label": "after"}
+]

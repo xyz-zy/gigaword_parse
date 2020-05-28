@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "never", "spend", "another", "dollar", "at", "this", "establishment", "after", "how", "I", "was", "treated", "today", "."], "e1_text": "spend", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "called", "back", "again", "and", "he", "hung", "up", "on", "me", "again", "after", "proclaiming", "that", "the", "store", "was", "too", "busy", "and", "he", "had", "no", "time", "to", "talk", "to", "me", "."], "e1_text": "hung", "e1_pos": 6, "e2_text": "proclaiming", "e2_pos": 12, "label": "after"}
+]

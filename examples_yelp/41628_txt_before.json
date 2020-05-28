@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "just", "received", "my", "lease", "renewal", "notice", ",", "10", "days", "before", "I", "have", "to", "decide", "to", "give", "my", "60-day", "notice", "or", "not", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "have", "e2_pos": 13, "label": "before"}
+]

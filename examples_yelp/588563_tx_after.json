@@ -1,0 +1,4 @@
+[
+{"tokens": ["Less", "than", "a", "minute", "after", "taking", "my", "order", ",", "a", "small", "bowl", "of", "egg", "drop", "soup", "and", "a", "salad", "was", "placed", "before", "me", "."], "e1_text": "Less", "e1_pos": 0, "e2_text": "taking", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "only", "downer", "so", "far", "was", "that", "I", "got", "my", "drink", "after", "I", "was", "halfway", "through", "the", "soup", "and", "salad", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

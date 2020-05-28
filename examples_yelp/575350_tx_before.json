@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "walk", "up", "to", "the", "counter", ",", "a", "pretty", "nice", "guy", "greeted", "us", "and", "asked", "if", "we", "had", "been", "there", "before", "and", "when", "we", "said", "no", ",", "he", "explained", "the", "menu", "to", "us", "."], "e1_text": "asked", "e1_pos": 15, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

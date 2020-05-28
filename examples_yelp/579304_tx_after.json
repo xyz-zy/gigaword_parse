@@ -1,0 +1,3 @@
+[
+{"tokens": ["Unresponsive", "\\/", "inflexible", "staff", "-LRB-", "eg", "the", "minimum", "number", "of", "personal", "training", "sessions", "that", "you", "can", "purchase", "is", "17", ",", "I", "tried", "to", "call", "to", "change", "a", "misscheduled", "appointment", "and", "after", "three", "calls", "I", "still", "did", "n't", "get", "through", "to", "a", "trainer", "to", "fix", "the", "time", ".", "-RRB-", "."], "e1_text": "eg", "e1_pos": 5, "e2_text": "did", "e2_pos": 35, "label": "after"}
+]

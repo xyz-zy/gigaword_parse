@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", ",", "got", "a", "cocktail", "and", "expected", "-", "based", "on", "what", "I", "'d", "been", "told", "on", "the", "phone", "-", "to", "have", "a", "table", "before", "the", "drink", "was", "finished", "."], "e1_text": "have", "e1_pos": 21, "e2_text": "was", "e2_pos": 27, "label": "before"},
+{"tokens": ["It", "took", "three", "drinks", ",", "an", "hour", "and", "a", "half", "and", "three", "visits", "to", "the", "hostess", "stand", "before", "we", "were", "seated", "!"], "e1_text": "stand", "e1_pos": 16, "e2_text": "were", "e2_pos": 19, "label": "before"}
+]

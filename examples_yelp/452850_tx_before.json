@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "laughed", "at", "my", "girlfriend", "for", "picking", "the", "Shrimp", "Burger", "every", "time", "she", "came", "here", "before", ",", "UNTIL", "I", "took", "the", "first", "bite", "myself", "."], "e1_text": "came", "e1_pos": 13, "e2_text": "took", "e2_pos": 19, "label": "before"}
+]

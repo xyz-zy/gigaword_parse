@@ -1,0 +1,6 @@
+[
+{"tokens": ["Never", "came", "to", "refill", "our", "drinks", "til", "we", "flagged", "someone", "down", "after", "they", "were", "empty", "for", "awhile", "."], "e1_text": "til", "e1_pos": 6, "e2_text": "were", "e2_pos": 13, "label": "after"},
+{"tokens": ["When", "he", "finally", "managed", "to", "grab", "our", "waiters", "attention", "to", "it", ",", "it", "was", "after", "we", "were", "done", "eating", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "were", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "could", "n't", "complain", "about", "the", "overdone", "fries", "til", "that", "time", "since", "our", "waiter", "seemed", "non-existant", "after", "we", "got", "our", "food", "til", "we", "saw", "and", "flagged", "him", "down", "at", "the", "end", "of", "our", "meal", "."], "e1_text": "seemed", "e1_pos": 14, "e2_text": "got", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "literally", "thought", "O.", "M.", "G.", "I", "tell", "him", "after", "the", "waiter", "walked", "away", "that", "this", "is", "the", "same", "waiter", "he", "was", "shocked", "too", "lol", "."], "e1_text": "tell", "e1_pos": 7, "e2_text": "walked", "e2_pos": 12, "label": "after"}
+]

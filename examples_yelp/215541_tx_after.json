@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "one", "small", "thing", "is", "all", "I", "can", "think", "about", "after", "I", "left", "but", "I", "'ll", "talk", "more", "about", "the", "rest", "my", "experience", "."], "e1_text": "think", "e1_pos": 8, "e2_text": "left", "e2_pos": 12, "label": "after"},
+{"tokens": ["Service", ":", "started", "off", "very", "helpful", "but", "after", "ordering", "I", "was", "more", "or", "less", "ignored", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 8, "label": "after"}
+]

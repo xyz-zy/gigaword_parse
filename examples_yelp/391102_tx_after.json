@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "busboy", "would", "refill", "our", "sparkling", "water", "after", "every", "sip", "we", "took", "because", "the", "restaurant", "was", "pretty", "empty", ",", "pretty", "annoying", "."], "e1_text": "refill", "e1_pos": 3, "e2_text": "took", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "'m", "still", "suffering", "days", "after", "as", "I", "'m", "typing", "this", "."], "e1_text": "suffering", "e1_pos": 3, "e2_text": "'m", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "did", "take", "them", "off", "the", "bill", ",", "but", "that", "really", "should", "have", "been", "done", "automatically", "since", "the", "other", "people", "at", "my", "table", "were", "done", "with", "their", "food", "before", "I", "even", "got", "mine", "!"], "e1_text": "done", "e1_pos": 14, "e2_text": "got", "e2_pos": 31, "label": "before"}
+]

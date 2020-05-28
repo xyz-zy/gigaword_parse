@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "never", "got", "a", "return", "call", "so", "in", "frustration", "decided", ",", "if", "this", "is", "the", "way", "I", "'m", "being", "treated", "before", "I", "pay", "for", "services", "how", "will", "it", "be", "after", "I", "give", "them", "my", "money", "."], "e1_text": "treated", "e1_pos": 19, "e2_text": "pay", "e2_pos": 22, "label": "before"},
+{"tokens": ["All", "I", "can", "say", "is", "I", "'ve", "never", "been", "treated", "like", "this", "before", "and", "subsequently", "asked", "for", "my", "MRI", "back", "and", "pursued", "other", "options", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "'ve", "e2_pos": 6, "label": "before"}
+]

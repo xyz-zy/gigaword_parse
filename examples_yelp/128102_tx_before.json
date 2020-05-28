@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "the", "most", "part", "they", "do", "a", "good", "job", "on", "most", "of", "the", "celebs", "but", "then", "you", "got", "a", "couple", "that", "look", "way", "off", "like", "Oprah", "for", "example", ",", "straight", "up", "looked", "like", "they", "punched", "her", "face", "mold", "in", "a", "couple", "of", "times", "before", "the", "wax", "dried", "off", "."], "e1_text": "punched", "e1_pos": 34, "e2_text": "dried", "e2_pos": 46, "label": "before"},
+{"tokens": ["Only", "thing", "I", "could", "'ve", "done", "without", "is", "that", "they", "have", "some", "random", "person", "there", "trying", "to", "sell", "you", "tickets", "to", "shows\\/tours", "and", "dinners", "right", "near", "the", "exit", "so", "you", "got", "ta", "put", "up", "with", "that", "nonsense", "right", "before", "you", "leave", "."], "e1_text": "sell", "e1_pos": 17, "e2_text": "leave", "e2_pos": 40, "label": "before"}
+]

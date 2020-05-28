@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "had", "our", "reservation", "wrong", ",", "despite", "me", "having", "a", "print", "out", "of", "it", "and", "me", "having", "called", "to", "confirm", "it", "after", "booking", "online", "-", "which", "means", "they", "tried", "to", "charge", "us", "more", "."], "e1_text": "confirm", "e1_pos": 19, "e2_text": "booking", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "n't", "see", "her", "for", "a", "while", "after", "the", "pizza", "came", "so", "I", "flagged", "down", "another", "waitress", "when", "we", "realized", "it", "had", "the", "wrong", "toppings", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "came", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "police", "officer", "left", "right", "after", "we", "did", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "did", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "she", "walked", "around", "asking", "other", "people", "to", "do", "my", "nails", "after", "already", "waiting", "a", "half", "hour", "she", "finally", "sat", "down", "to", "give", "my", "pedi", "without", "even", "resolving", "the", "issue", "of", "what", "I", "wanted", "done", "."], "e1_text": "do", "e1_pos": 8, "e2_text": "waiting", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "ca", "n't", "wait", "to", "get", "home", "and", "stick", "my", "feet", "in", "vinegar", "to", "disinfect", "my", "feet", "and", "as", "for", "my", "nails", "she", "did", "an", "ok", "job", "even", "after", "she", "complained", "she", "could", "n't", "do", "it", "."], "e1_text": "did", "e1_pos": 23, "e2_text": "complained", "e2_pos": 30, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "at", "the", "salon", "a", "few", "minutes", "before", "Xiomara", "was", "ready", "for", "me", ",", "so", "I", "scoped", "out", "the", "salon", "a", "bit", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["Sadly", "only", "2", "days", "passed", "before", "a", "section", "of", "the", "lashes", "fell", "off", "when", "I", "was", "brushing", "them", "."], "e1_text": "passed", "e1_pos": 4, "e2_text": "fell", "e2_pos": 11, "label": "before"}
+]

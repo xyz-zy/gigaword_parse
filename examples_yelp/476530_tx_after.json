@@ -1,0 +1,5 @@
+[
+{"tokens": ["In", "their", "defense", "they", "finally", "answered", "my", "email", "after", "I", "left", "the", "review", "claiming", "it", "had", "gone", "to", "their", "spam", "box", "."], "e1_text": "answered", "e1_pos": 5, "e2_text": "left", "e2_pos": 10, "label": "after"},
+{"tokens": ["However", ",", "they", "did", "n't", "offer", "any", "discounts", "or", "an", "incentive", "for", "the", "lousy", "service", "and", "wasting", "my", "time", "on", "the", "first", "visit", "and", "even", "after", "indicating", "my", "intent", "to", "purchase", "maybe", "three", "firearms", "."], "e1_text": "wasting", "e1_pos": 16, "e2_text": "indicating", "e2_pos": 26, "label": "after"},
+{"tokens": ["Instead", "of", "writing", "a", "review", "I", "will", "instead", "copy\\/paste", "a", "copy", "of", "the", "email", "I", "sent", "them", "after", "my", "visit", "which", "they", "never", "responded", "to", "."], "e1_text": "sent", "e1_pos": 15, "e2_text": "responded", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stopped", "by", "to", "try", "their", "boba", "tea", "after", "having", "lunch", "with", "family", "today", "and", "wanted", "something", "sweet", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["So", "I", "'m", "guessing", "I", "came", "in", "after", "a", "rush", "bcs", "the", "place", "was", "a", "hot", "mess", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "bcs", "e2_pos": 10, "label": "after"}
+]

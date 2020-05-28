@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "does", "turn", "this", "all", "into", "a", "FEAST", ",", "but", "...", "My", "sandwich", "platter", "arrived", "before", "the", "Lunch", "Buffet", "was", "in", "place", "-LRB-", "replacing", "the", "breakfast", "version", "-RRB-", "so", "I", "ate", "what", "I", "had", "first", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

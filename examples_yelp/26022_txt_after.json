@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "a", "salad", ",", "I", "did", "n't", "realize", "until", "after", "I", "ordered", "it", "how", "huge", "they", "are", "and", "split", "with", "my", "friend", ",", "it", "was", "very", "fresh", "and", "good", "!"], "e1_text": "realize", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 1, "label": "after"}
+]

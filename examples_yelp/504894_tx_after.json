@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "let", "me", "say", "Customer", "Service", ",", "Yah", "Right", "!!!!!", "This", "pizza", "place", "had", "no", "customer", "service", "at", "all", ",", "the", "Soda", "Machine", "was", "not", "working", "right", ",", "all", "the", "soda", "tasted", "like", "the", "soda", "was", "Soooooooo", "Old", ",", "the", "pizza", "was", "not", "that", "good", "had", "an", "after", "taste", "that", "I", "do", "n't", "care", "to", "taste", "again", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

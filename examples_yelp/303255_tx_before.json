@@ -1,0 +1,5 @@
+[
+{"tokens": ["Something", "had", "apparently", "spilled", "on", "the", "floor", "near", "the", "bar", "long", "before", "we", "arrived", "and", "we", "all", "walked", "through", "it", "."], "e1_text": "spilled", "e1_pos": 3, "e2_text": "arrived", "e2_pos": 13, "label": "before"},
+{"tokens": ["To", "top", "that", ",", "the", "first", "table", "we", "sat", "at", "was", "also", "sticky", ",", "and", "before", "the", "waitress", "came", "back", ",", "we", "had", "found", "ourselves", "a", "new", "table", "."], "e1_text": "top", "e1_pos": 1, "e2_text": "came", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "service", "came", "around", "often", ",", "however", "she", "never", "checked", "to", "see", "what", "everyone", "needed", "before", "darted", "off", "to", "get", "one", "person", "'s", "drink.", ",", "which", "resulted", "in", "her", "needing", "to", "make", "many", "more", "trips", "."], "e1_text": "needed", "e1_pos": 14, "e2_text": "darted", "e2_pos": 16, "label": "before"}
+]

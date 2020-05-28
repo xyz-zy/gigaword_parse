@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "first", "visit", "should", "have", "been", "our", "first", "clue", "when", "we", "were", "there", "an", "hour", "and", "a", "half", "before", "the", "doctor", "even", "came", "in", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

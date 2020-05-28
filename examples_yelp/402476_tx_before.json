@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "Sara", "asking", "if", "she", "can", "make", "it", "down", "there", "before", "they", "close", "today", "and", "she", "said", "yes", "."], "e1_text": "make", "e1_pos": 7, "e2_text": "said", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "explained", "that", "Leah", ",", "our", "san", "portella", "rep", "never", "explained", "that", "we", "had", "to", "be", "there", "together", "to", "pick", "up", "the", "keys", "and", "we", "have", "relatives", "with", "work", "schedules", "who", "are", "helping", "us", "move", "that", "we", "have", "to", "accommate", "including", "our", "own", "work", "schedules", ",", "since", "it", "is", "the", "evening", "before", "moving", "in", ",", "can", "you", "be", "the", "least", "bit", "helpful", "under", "this", "unique", "situation", "?"], "e1_text": "is", "e1_pos": 48, "e2_text": "moving", "e2_pos": 52, "label": "before"}
+]

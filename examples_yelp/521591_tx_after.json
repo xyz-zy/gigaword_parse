@@ -1,0 +1,3 @@
+[
+{"tokens": ["Dr.", "Potter", "was", "very", "friendly", "and", "personable", ",", "he", "even", "took", "the", "time", "out", "to", "recheck", "my", "eyes", "after", "I", "mentioned", "a", "previous", "doctor", "had", "some", "trouble", "diagnosing", "my", "prescription", "-", "he", "wanted", "to", "make", "sure", "I", "was", "comfortable", "with", "the", "strength", "of", "the", "Rx", "and", "not", "have", "to", "come", "back", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "mentioned", "e2_pos": 20, "label": "after"}
+]

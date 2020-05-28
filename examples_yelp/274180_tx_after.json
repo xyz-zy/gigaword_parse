@@ -1,0 +1,3 @@
+[
+{"tokens": ["Three", "people", "ordered", "after", "me", ",", "two", "of", "which", "had", "been", "served", "before", "my", "small", "to", "go", "order", "of", "spicy", "shrimp", "tempura", "-LRB-", "which", "I", "'m", "still", "waiting", "for", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

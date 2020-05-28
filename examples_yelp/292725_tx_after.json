@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "n't", "until", "I", "came", "over", "after", "they", "had", "n't", "moved", "in", "20", "minutes", "-LRB-", "the", "other", "line", "went", "through", "MANY", "people", "by", "this", "time", "-RRB-", "and", "forced", "the", "lady", "to", "start", "taking", "people", "from", "the", "ignored", "line", "that", "it", "started", "to", "move", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

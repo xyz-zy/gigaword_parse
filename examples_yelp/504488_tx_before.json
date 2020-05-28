@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fee", "and", "I", "wanted", "a", "little", "bite", "and", "a", "little", "drinking", "before", "hitting", "the", "club", "acroos", "the", "street", "."], "e1_text": "wanted", "e1_pos": 4, "e2_text": "hitting", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "sugar", "factory", "is", "a", "nice", "place", "to", "eat", "or", "to", "just", "grab", "a", "fun", "drink", "before", "you", "go", "on", "to", "the", "next", "on", "on", "to", "the", "next", "."], "e1_text": "grab", "e1_pos": 12, "e2_text": "go", "e2_pos": 18, "label": "before"}
+]

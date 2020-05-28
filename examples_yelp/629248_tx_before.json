@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "soup", "itself", "was", "''", "``", "fine", ",", "but", "like", "they", "pulled", "it", "off", "before", "it", "was", "done", "cooking", "''", "''", ",", "lacking", "the", "deep", ",", "stewed-for-days", "flavor", "that", "makes", "a", "fantastic", "french", "onion", "soup", "."], "e1_text": "pulled", "e1_pos": 11, "e2_text": "was", "e2_pos": 3, "label": "before"}
+]

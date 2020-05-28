@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "helped", "promptly", "by", "a", "friendly", "and", "cheerful", "young", "man", "who", "told", "us", "it", "would", "be", "30", "minutes", "before", "we", "got", "our", "food", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["Problem", "is", ",", "an", "hour", "went", "by", "before", "our", "entrees", "were", "in", "front", "of", "us", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "were", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": [",", "$", "25", "for", "a", "broken", "towel", "rack", "-LRB-", "which", "had", "been", "wobblly", "since", "day", "one", "and", "repaired", "several", "times", "-RRB-", "and", "a", "carpet", "cleaning", "charge", "on", "carpet", "that", "is", "8", "years", "old", "AND", "I", "know", "you", "replaced", "it", "after", "I", "moved", "out", "."], "e1_text": "replaced", "e1_pos": 37, "e2_text": "moved", "e2_pos": 41, "label": "after"}
+]

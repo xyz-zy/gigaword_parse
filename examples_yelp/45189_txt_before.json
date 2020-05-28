@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "would", "have", "been", "nice", "of", "her", "to", "mention", "we", "'d", "only", "be", "given", "a", "1\\/2", "hr", "to", "scarf", "down", "our", "food", "before", "we", "sat", "down", "to", "eat", "."], "e1_text": "scarf", "e1_pos": 18, "e2_text": "sat", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "think", "she", "was", "lying", "about", "the", "repair", "person", "too", "because", "before", "I", "even", "got", "my", "newborn", "baby", "buckled", "into", "his", "car", "seat", ",", "the", "waitress", "turned", "out", "all", "the", "lights", ",", "locked", "the", "front", "door", "of", "the", "restaurant", ",", "and", "all", "but", "ran", "to", "her", "car", "."], "e1_text": "lying", "e1_pos": 4, "e2_text": "got", "e2_pos": 14, "label": "before"}
+]

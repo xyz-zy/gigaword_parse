@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "staff", "is", "friendly", "and", "flirty", "--", "in", "fact", ",", "my", "friend", "slipped", "the", "waiter", "my", "phone", "number", "after", "we", "noticed", "him", "admiring", "my", "shoes", "."], "e1_text": "slipped", "e1_pos": 12, "e2_text": "noticed", "e2_pos": 20, "label": "after"}
+]

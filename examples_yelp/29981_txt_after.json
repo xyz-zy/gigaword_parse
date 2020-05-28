@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "for", "the", "customer", "service", ",", "my", "order", "was", "taken", "by", "a", "clearly", "inexperienced", "manager", "who", "walked", "away", "from", "the", "register", "no", "less", "than", "4", "times", "after", "asking", "''", "``", "What", "can", "I", "get", "for", "you", "?", "''", "''"], "e1_text": "walked", "e1_pos": 16, "e2_text": "asking", "e2_pos": 27, "label": "after"}
+]

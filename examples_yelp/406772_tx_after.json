@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "for", "few", "minutes", "but", "nobody", "came", "to", "our", "table", ",", "so", "we", "gave", "up", "and", "couple", "of", "us", "got", "drinks", "from", "bar", "-LRB-", "after", "10", "minutes", "of", "waiting", "at", "the", "bar", "too", "-RRB-", "Few", "minutes", "after", ",", "our", "server", "came", "to", "us", "and", "said", "''", "``", "Where", "have", "you", "been", "?"], "e1_text": "got", "e1_pos": 20, "e2_text": "waiting", "e2_pos": 29, "label": "after"}
+]

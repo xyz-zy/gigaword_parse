@@ -1,0 +1,3 @@
+[
+{"tokens": ["5:12", "I", "called", "again", "and", "left", "her", "a", "voicemail", "letting", "her", "know", "I", "'d", "been", "waiting", "and", "would", "wait", "another", "3", "minutes", "before", "leaving", "and", "contacting", "Amazon", "local", "for", "a", "refund", "."], "e1_text": "wait", "e1_pos": 18, "e2_text": "leaving", "e2_pos": 23, "label": "before"}
+]

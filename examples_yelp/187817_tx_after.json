@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "fine", "until", "we", "showed", "our", "waitress", "the", "Groupon", "...", "After", "that", ",", "we", "waited", "a", "half", "an", "hour", "after", "we", "finished", "our", "meal", "before", "we", "got", "any", "attention", "-", "we", "had", "planned", "on", "ordering", "a", "dessert", "but", "ran", "out", "of", "time", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "finished", "e2_pos": 23, "label": "after"}
+]

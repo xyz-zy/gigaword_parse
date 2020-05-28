@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "hurrying", "me", "through", "the", "phone", "call", "and", "peppering", "me", "with", "questions", ",", "she", "asked", "for", "an", "exact", "street", "address", "-LRB-", "even", "after", "asking", "for", "the", "the", "main", "cross", "streets", "-RRB-", ",", "which", "I", "had", "to", "look", "up", "for", "her", "."], "e1_text": "asked", "e1_pos": 14, "e2_text": "asking", "e2_pos": 23, "label": "after"}
+]

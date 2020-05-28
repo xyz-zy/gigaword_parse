@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "do", "I", "get", "yelled", "after", "asking", "for", "a", "refund", "for", "the", "credited", "pizza", "as", "well", "what", "I", "ordered", "on", "this", "ordered", "he", "tells", "me", "I", "do", "n't", "deserve", "the", "refund", "-LRB-", "from", "apparently", "''", "``", "2", "weeks", "ago", "''", "''", "he", "says", "I", "'m", "pretty", "sure", "it", "has", "only", "been", "5", "days", "let", "me", "check", "my", "Yelp", "records", "-RRB-", "for", "the", "credited", "pizza", "I", "never", "received", "."], "e1_text": "yelled", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 19, "label": "after"},
+{"tokens": ["Now", "hes", "saying", "that", "he", "did", "n't", "even", "make", "a", "mistake", "on", "the", "last", "one", "after", "he", "owned", "up", "to", "everything", "in", "the", "last", "review", "."], "e1_text": "hes", "e1_pos": 1, "e2_text": "owned", "e2_pos": 17, "label": "after"}
+]

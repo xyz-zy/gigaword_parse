@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "immediately", "wrote", "the", "letter", "and", "one", "day", "after", "mailing", "it", "off", ",", "I", "get", "a", "call", "from", "the", "store", "warehouse", "manager", "stating", "they", "''", "``", "worked", "something", "out", "with", "Guardian", "people", "and", "will", "finally", "take", "care", "of", "me", "''", "''", "."], "e1_text": "wrote", "e1_pos": 2, "e2_text": "mailing", "e2_pos": 9, "label": "after"}
+]

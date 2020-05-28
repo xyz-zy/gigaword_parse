@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "disregarded", "what", "I", "asked", "and", "after", "he", "hurt", "me", "twice", ",", "I", "firmly", "said", ",", "''", "``", "I", "need", "you", "to", "soak", "my", "nails", ".", "''", "''"], "e1_text": "disregarded", "e1_pos": 1, "e2_text": "hurt", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "pedicure", "was", "rushed", "because", "three", "walk-ins", "arrived", "right", "after", "she", "started", "the", "pedicure", "process", "and", "there", "were", "only", "two", "people", "working", ",", "including", "the", "lady", "that", "was", "doing", "my", "pedicure", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "started", "e2_pos": 11, "label": "after"}
+]

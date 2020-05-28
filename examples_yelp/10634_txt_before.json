@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "my", "friend", "and", "I", "got", "there", ",", "we", "told", "the", "hostess", "that", "we", "were", "meeting", "friends", "and", "had", "a", "reservation", "under", "another", "friend", "'s", "name", ",", "and", "she", "shrugged", "at", "us", "three", "times", "before", "asking", "us", "how", "many", "were", "in", "our", "party", "and", "never", "bothered", "to", "find", "our", "reservation", "."], "e1_text": "shrugged", "e1_pos": 29, "e2_text": "asking", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "want", "to", "go", "to", "a", "range", "where", "the", "few", "guns", "are", "locked", "in", "cages", "-LRB-", "and", ",", "no", ",", "you", "ca", "n't", "see", "them", "or", "their", "condition", "before", "you", "sign", "up", "-RRB-", "and", "every", "step", "is", "pre-choreographed", ",", "-LRB-", "probably", "not", "that", "bad", "an", "idea", "this", "close", "to", "the", "strip", ".", "."], "e1_text": "see", "e1_pos": 24, "e2_text": "sign", "e2_pos": 31, "label": "before"},
+{"tokens": ["But", "I", "'ve", "grown", "up", "at", "gun", "ranges", ",", "am", "a", "life", "NRA", "Member", ",", "reload", "my", "own", "rounds", ",", "and", "I", "want", "to", "#", "1", ":", "see", "the", "guns", "I", "'m", "renting", "before", "I", "rent", "them", "."], "e1_text": "renting", "e1_pos": 32, "e2_text": "rent", "e2_pos": 35, "label": "before"}
+]

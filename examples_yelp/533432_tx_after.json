@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ok", "i", "thought", ",", "but", "the", "lady", "told", "me", "the", "party", "started", "a", "little", "over", "an", "hour", "after", "I", "enquired", "and", "there", "were", "tables", "available", "in", "the", "section", "that", "was", "not", "blocked", "off", "."], "e1_text": "started", "e1_pos": 11, "e2_text": "enquired", "e2_pos": 19, "label": "after"}
+]

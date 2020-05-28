@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "finally", "asked", "him", "for", "a", "refill", "on", "my", "water", "and", "5", "mins", "later", "he", "filled", "it", "for", "me", "after", "taking", "care", "of", "several", "other", "customers", "first", "."], "e1_text": "filled", "e1_pos": 15, "e2_text": "taking", "e2_pos": 20, "label": "after"}
+]

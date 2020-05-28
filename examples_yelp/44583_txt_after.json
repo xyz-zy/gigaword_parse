@@ -1,0 +1,4 @@
+[
+{"tokens": ["Decided", "to", "go", "here", "after", "reading", "the", "great", "reviews", "but", "was", "terribly", "disappointed", "in", "the", "service", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "reading", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "finally", "placed", "our", "order", "after", "flagging", "down", "the", "server", "via", "another", "employee", "."], "e1_text": "placed", "e1_pos": 2, "e2_text": "flagging", "e2_pos": 6, "label": "after"}
+]

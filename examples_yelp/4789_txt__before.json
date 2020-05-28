@@ -1,0 +1,4 @@
+[
+{"tokens": ["In", "spite", "of", "ordering", "it", "last", "second", ",", "it", "still", "came", "out", "before", "our", "hot", "entrees", ",", "which", "were", "general", "tso", "'s", "chicken", "and", "sesame", "beef", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "were", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "server", "was", "conscientious", "about", "keeping", "plates", "and", "other", "implements", "away", "from", "our", "grabby", "baby", "and", "did", "n't", "give", "us", "dirty", "looks", "for", "the", "puffs", "that", "littered", "the", "floor", "beneath", "his", "high", "chair", "-LRB-", "note", ":", "we", "tried", "to", "pick", "up", "as", "many", "as", "we", "could", "before", "we", "left", "-RRB-", "."], "e1_text": "tried", "e1_pos": 37, "e2_text": "left", "e2_pos": 48, "label": "before"}
+]

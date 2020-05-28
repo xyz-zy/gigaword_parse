@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "thinking", "that", "the", "pool", "was", "more", "accessible", "in", "the", "past", "before", "the", "hotel", "did", "renovations", "in", "connecting", "the", "MGM", "Grand", "to", "the", "MGM", "Signature", "Towers", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "did", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "would", "wait", "for", "a", "room", "renovation", "before", "staying", "here", "again", "."], "e1_text": "wait", "e1_pos": 2, "e2_text": "staying", "e2_pos": 8, "label": "before"}
+]

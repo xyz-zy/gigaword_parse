@@ -1,0 +1,4 @@
+[
+{"tokens": ["Margaritaville", "seemed", "like", "the", "perfect", "choice", "after", "listening", "to", "country", "music", "for", "3", "hours", "while", "beginning", "Vegas", "with", "your", "partner", "in", "crime", "from", "Tennessee", "."], "e1_text": "seemed", "e1_pos": 1, "e2_text": "listening", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "nachos", "are", "definitely", "hefty", ",", "I", "'ll", "give", "you", "that", ",", "but", "then", "again", "you", "might", "not", "want", "to", "remember", "after", "downing", "pepto", "bismol", "."], "e1_text": "remember", "e1_pos": 20, "e2_text": "downing", "e2_pos": 22, "label": "after"}
+]

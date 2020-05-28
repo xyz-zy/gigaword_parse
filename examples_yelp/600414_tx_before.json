@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "must", "say", "before", "I", "continue", "that", "my", "lone", "experience", "with", "this", "event", "is", "the", "2013", "iteration", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "continue", "e2_pos": 5, "label": "before"},
+{"tokens": ["So", "they", "could", "have", "checked", "the", "website", "and", "seen", "that", "it", "CLEARLY", "stated", "that", "there", "were", "no", "ins", "and", "outs", "before", "attending", "this", "year", "."], "e1_text": "were", "e1_pos": 15, "e2_text": "attending", "e2_pos": 21, "label": "before"}
+]

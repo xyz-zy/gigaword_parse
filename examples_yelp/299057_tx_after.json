@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "walked", "out", "of", "the", "store", "looking", "over", "my", "shoulder", ",", "thinking", "the", "panhandler", "was", "following", "me", "out", "after", "having", "made", "eye", "contact", "with", "him", "and", "seeing", "him", "do", "a", "quick", "turnabout", "in", "my", "direction", "."], "e1_text": "following", "e1_pos": 15, "e2_text": "having", "e2_pos": 19, "label": "after"}
+]

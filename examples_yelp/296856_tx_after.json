@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Caesar", "salad", "was", "actually", "a", "salad", "with", "bleu", "cheese", "and", "by", "the", "time", "we", "got", "it", "fixed", "-LRB-", "about", "10", "minutes", "later", "-RRB-", ",", "my", "food", "came", "out", "after", "I", "took", "about", "2", "bites", "of", "it", "."], "e1_text": "came", "e1_pos": 27, "e2_text": "took", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Some", "items", "are", "non-refundable", "&", "\\/", "or", "non-exchangeable", ",", "so", "be", "sure", "it", "'s", "what", "you", "want", "before", "you", "pay", "for", "it", "."], "e1_text": "want", "e1_pos": 16, "e2_text": "pay", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "only", "signed", "a", "7", "month", "lease", ",", "but", "they", "require", "60", "day", "notice", "before", "lease", "is", "over", ",", "or", "they", "charge", "you", "market", "rate", "for", "each", "day", "after", "60", "days", "you", "are", "late", "."], "e1_text": "charge", "e1_pos": 21, "e2_text": "are", "e2_pos": 32, "label": "after"}
+]

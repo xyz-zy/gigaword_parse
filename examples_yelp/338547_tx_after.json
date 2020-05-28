@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "did", "not", "take", "order", "until", "30", "minutes", "after", "sitting", "down", ",", "despite", "many", "attempts", "to", "get", "attention", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "sitting", "e2_pos": 10, "label": "after"},
+{"tokens": ["Furthermore", "it", "took", "45", "minutes", "to", "get", "the", "food", "after", "we", "ordered", "and", "then", "they", "forgot", "one", "of", "the", "foods", "so", "we", "had", "to", "wait", "more", "time", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "ordered", "e2_pos": 11, "label": "after"}
+]

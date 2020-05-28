@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "purchased", "a", "membership", ",", "so", "my", "dry", "cleaning", "is", "slightly", "discounted", ",", "and", "i", "get", "a", "rebate", "toward", "future", "cleaning", "costs", "after", "reaching", "a", "certain", "level", "-LRB-", "I", "think", "it", "'s", "$", "100", "-RRB-", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "reaching", "e2_pos": 23, "label": "after"}
+]

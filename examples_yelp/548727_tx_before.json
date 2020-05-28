@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "not", "think", "they", "look", "through", "the", "patients", "chart", "before", "coming", "in", "the", "room", "because", "more", "times", "than", "not", "they", "have", "no", "idea", "what", "meds", "I", "am", "on", ",", "what", "problems", "I", "'ve", "had", "in", "the", "past", "or", "what", "I", "am", "being", "treated", "for", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "coming", "e2_pos": 11, "label": "before"},
+{"tokens": ["And", "this", "is", "because", "they", "go", "through", "so", "many", "students", "and", "doctors", "and", "it", "would", "take", "too", "long", "to", "them", "to", "look", "at", "a", "chart", "before", "seeing", "the", "patient", "."], "e1_text": "look", "e1_pos": 21, "e2_text": "seeing", "e2_pos": 26, "label": "before"}
+]

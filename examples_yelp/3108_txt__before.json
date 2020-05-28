@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "want", "to", "try", "the", "''", "``", "Monster", "Fish", "Sandwich", "''", "''", "which", "is", "supposedly", "Moby", "Dick", "sized", "-LRB-", "eat", "it", "before", "it", "eats", "you", "!", "-RRB-"], "e1_text": "eat", "e1_pos": 19, "e2_text": "eats", "e2_pos": 23, "label": "before"}
+]

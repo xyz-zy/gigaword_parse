@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "start", "by", "saying", "that", "I", "am", "definitely", "a", "fan", "of", "the", "''", "``", "Old", "Vegas", "''", "''", "hotels", "and", "was", "quite", "excited", "to", "be", "staying", "at", "the", "Union", "Plaza", "again", "after", "a", "long", "absence", "...", "boy", ",", "was", "I", "disappointed", "!"], "e1_text": "was", "e1_pos": 21, "e2_text": "was", "e2_pos": 21, "label": "after"},
+{"tokens": ["The", "AC", "worked", "fine", "after", "I", "cleaned", "the", "filth", "from", "the", "filters", ",", "but", "the", "tub", "drained", "so", "slowly", "that", "by", "the", "end", "of", "a", "quick", "shower", "you", "were", "standing", "ankle-deep", "in", "water", "...", "then", "one", "morning", "I", "heard", "something", "and", "looked", "down", "and", "saw", "water", "rising", "up", "out", "of", "the", "tub", "drain", "!"], "e1_text": "worked", "e1_pos": 2, "e2_text": "cleaned", "e2_pos": 6, "label": "after"}
+]

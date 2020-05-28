@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", ",", "if", "there", "were", "the", "option", "to", "choose", "something", "other", "than", "the", "''", "``", "Mother", "'s", "Day", "Brunch", "''", "''", "for", "32", "bucks", "a", "pop", ",", "then", "I", "could", "at", "least", "say", "this", "was", "my", "fault", ",", "but", "we", "were", "told", "that", "was", "the", "only", "option", "-LRB-", "though", "later", ",", "before", "2pm", "when", "brunch", "was", "supposed", "to", "end", ",", "I", "saw", "''", "``", "regular", "''", "''", "food", "on", "other", "tables", "-RRB-", "."], "e1_text": "was", "e1_pos": 34, "e2_text": "2pm", "e2_pos": 52, "label": "before"}
+]

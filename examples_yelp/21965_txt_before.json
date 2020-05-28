@@ -1,0 +1,4 @@
+[
+{"tokens": ["Im", "not", "sure", "what", "the", "hell", "people", "are", "smoking", "before", "they", "come", "here", "to", "give", "this", "place", "anything", "more", "than", "a", "0", "star", "...", "I", "literally", "hated", "this", "place", "."], "e1_text": "smoking", "e1_pos": 8, "e2_text": "come", "e2_pos": 11, "label": "before"},
+{"tokens": ["Okay", "so", "this", "place", "blows", "...", "the", "staff", "is", "running", "around", "like", "animals", "not", "tending", "the", "guest", "and", "its", "just", "chaotic", "...", "so", "we", "start", "and", "the", "lane", "isnt", "work", ",", "its", "not", "starting", "the", "balls", "dont", "come", "back", "when", "we", "throw", "them", "and", "the", "gates", "are", "randomly", "coming", "down", "before", "we", "throw", "the", "ball", ",", "or", "before", "the", "ball", "hits", "the", "pins", "?"], "e1_text": "coming", "e1_pos": 48, "e2_text": "throw", "e2_pos": 41, "label": "before"}
+]

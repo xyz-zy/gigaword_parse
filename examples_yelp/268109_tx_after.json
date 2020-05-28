@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "the", "bread", ",", "then", "the", "drinks", "came", "10-15", "minutes", "after", "they", "were", "just", "ice", "tea", ",", "cokes", "and", "lemonade", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "were", "e2_pos": 12, "label": "after"},
+{"tokens": ["Then", "refills", "never", "came", "till", "the", "food", "arrived", "after", "asking", "for", "more", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "asking", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "opened", "at", "4am", "for", "the", "event", ",", "so", "we", "were", "able", "to", "stop", "in", "for", "coffee", "and", "a", "scone", "after", "we", "dropped", "off", "our", "racers", "."], "e1_text": "stop", "e1_pos": 14, "e2_text": "dropped", "e2_pos": 23, "label": "after"}
+]

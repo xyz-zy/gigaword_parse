@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "going", "to", "Sammy", "'s", "for", "a", "little", "less", "than", "a", "year", "after", "finding", "it", "on", "restaurant.com", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "finding", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "had", "gone", "the", "other", "day", "after", "picking", "up", "a", "friend", "from", "the", "airport", "and", "when", "I", "presented", "my", "coupon", "I", "was", "told", "that", "as", "of", "November", "1st", ",", "he", ",", "the", "owner", "was", "no", "longer", "going", "to", "accept", "the", "coupons", "."], "e1_text": "gone", "e1_pos": 2, "e2_text": "picking", "e2_pos": 7, "label": "after"}
+]

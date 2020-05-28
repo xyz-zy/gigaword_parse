@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "mean", "we", "did", "n't", "even", "receive", "the", "appetizer", "ahead", "of", "time", "...", "and", "no", "explanation", "as", "to", "what", "was", "taking", "so", "long", "until", "2", "hours", "later", "...", "the", "manager", "comes", "out", "to", "make", "sure", "we", "still", "want", "the", "food", "before", "they", "put", "it", "on", "plates", "...", "really", "?"], "e1_text": "want", "e1_pos": 37, "e2_text": "put", "e2_pos": 42, "label": "before"}
+]

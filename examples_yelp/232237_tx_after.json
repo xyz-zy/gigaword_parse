@@ -1,0 +1,4 @@
+[
+{"tokens": ["Having", "to", "ask", "for", "the", "check", "after", "we", "'ve", "been", "done", "eating", "almost", "45", "minutes", "is", "annoying", "."], "e1_text": "ask", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "move", "down", "after", "we", "'re", "done", "playing", "and", "all", "of", "the", "sudden", "the", "bartender", "tells", "us", "she", "has", "to", "take", "her", "cigarettes", "outside", "because", "they", "''", "``", "bother", "people", ".", "''", "''"], "e1_text": "move", "e1_pos": 1, "e2_text": "'re", "e2_pos": 5, "label": "after"}
+]

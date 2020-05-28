@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "rib", "sampler", "and", "was", "only", "able", "to", "eat", "it", "after", "I", "drenched", "in", "one", "of", "there", "''", "``", "spicy", "''", "''", "habenero", "sauces", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "drenched", "e2_pos": 14, "label": "after"}
+]

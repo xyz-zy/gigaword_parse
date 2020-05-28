@@ -1,0 +1,4 @@
+[
+{"tokens": ["Especially", "because", "we", "grabbed", "a", "couple", "beers", "-LRB-", "on", "special", "-RRB-", "at", "the", "bar", "before", "heading", "outside", "."], "e1_text": "grabbed", "e1_pos": 3, "e2_text": "heading", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "was", "another", "15", "minutes", "before", "we", "got", "our", "drinks", "-LRB-", "two", "bottles", "of", "beer", "-", "nothing", "that", "should", "take", "any", "time", "-RRB-", "and", "waters", "-", "our", "server", "threw", "straws", "down", "on", "the", "table", "with", "surprising", "force", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

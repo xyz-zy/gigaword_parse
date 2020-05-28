@@ -1,0 +1,4 @@
+[
+{"tokens": ["she", "said", "to", "me", "''", "``", "when", "i", "am", "done", "its", "still", "going", "to", "look", "like", "a", "mushroom", "''", "''", "!!", "well", "that", "really", "made", "me", "not", "want", "a", "cut", "from", "her", ",", "what", "a", "weird", "strange", "and", "bizzare", "thing", "to", "say", "to", "me", "before", "you", "cut", "my", "hair", "!"], "e1_text": "say", "e1_pos": 41, "e2_text": "cut", "e2_pos": 46, "label": "before"},
+{"tokens": ["the", "only", "good", "thing", "about", "my", "experience", "is", "that", "it", "happened", "before", "i", "got", "a", "terrible", "mushroom", "shaped", "cut", "from", "her", "!"], "e1_text": "happened", "e1_pos": 10, "e2_text": "got", "e2_pos": 13, "label": "before"}
+]

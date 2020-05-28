@@ -1,0 +1,3 @@
+[
+{"tokens": ["Oh", ",", "and", "they", "failed", "to", "mention", "before", "we", "moved", "in", "-LRB-", "or", "after", "-RRB-", "that", "all", "the", "remodeling", "was", "done", "because", "of", "some", "disastrous", "flooding", "-LRB-", "only", "discovered", "this", "after", "my", "insurance", "agent", "was", "looking", "up", "the", "history", "of", "the", "house", "and", "said", "''", "``", "WHOA", ".", "''", "''", "-RRB-"], "e1_text": "mention", "e1_pos": 6, "e2_text": "moved", "e2_pos": 9, "label": "before"}
+]

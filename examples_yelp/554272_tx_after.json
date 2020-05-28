@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "writing", "this", "review", "moments", "after", "receiving", "the", "best", "therapeutic", "massage", "I", "have", "ever", "had", "."], "e1_text": "writing", "e1_pos": 2, "e2_text": "receiving", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "feel", "great", "after", "being", "treated", "by", "him", "."], "e1_text": "feel", "e1_pos": 1, "e2_text": "being", "e2_pos": 4, "label": "after"}
+]

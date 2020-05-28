@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "to", "the", "pick-up", "window", ",", "after", "waiting", "for", "the", "2", "cars", "in", "front", "of", "me", "to", "get", "their", "food", ",", "and", "they", "ask", "me", "to", "park", ",", ",", ",", "FOR", "COFFEE", "!!!!!!", "So", "I", "do", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

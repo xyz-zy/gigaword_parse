@@ -1,0 +1,4 @@
+[
+{"tokens": ["Removed", "the", "utinsils", "I", "did", "n't", "use", "from", "the", "table", ",", "before", "I", "was", "half", "way", "thru", "our", "meal", "."], "e1_text": "use", "e1_pos": 6, "e2_text": "was", "e2_pos": 13, "label": "before"},
+{"tokens": ["Spoke", "w", "\\/", "the", "general", "manager", "before", "I", "left", "about", "our", "experience", "."], "e1_text": "\\/", "e1_pos": 2, "e2_text": "left", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "fantastic", "-", "we", "arrived", "before", "the", "dinner", "rush", "and", "when", "we", "sent", "back", "a", "room-temp", "Pelligrino", "they", "happily", "replaced", "it", "with", "a", "cold", "bottle", "for", "free", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "rush", "e2_pos": 10, "label": "before"}
+]

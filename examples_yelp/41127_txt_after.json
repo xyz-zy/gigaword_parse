@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "ask", "like", "3", "''", "``", "dining", "room", "attendants", "''", "''", "for", "the", "same", "thing", "-LRB-", "just", "some", "salsa", "-RRB-", "before", "one", "of", "them", "actually", "returned", "after", "I", "'d", "basically", "finished", "."], "e1_text": "returned", "e1_pos": 27, "e2_text": "'d", "e2_pos": 30, "label": "after"}
+]

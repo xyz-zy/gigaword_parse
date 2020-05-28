@@ -1,0 +1,3 @@
+[
+{"tokens": ["What", "bothers", "me", "though", "is", "that", "the", "attendant", "started", "the", "clock", "on", "our", "table", "before", "we", "even", "presented", "the", "ID", ",", "let", "alone", "got", "to", "our", "table", "."], "e1_text": "started", "e1_pos": 8, "e2_text": "presented", "e2_pos": 17, "label": "before"}
+]

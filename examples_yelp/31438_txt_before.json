@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "example", ",", "they", "look", "for", "spots\\/stains", "before", "they", "clean", "my", "clothes", ",", "I", "do", "n't", "have", "to", "call", "special", "attention", "to", "them", "."], "e1_text": "look", "e1_pos": 4, "e2_text": "clean", "e2_pos": 9, "label": "before"},
+{"tokens": ["To", "me", "that", "makes", "my", "money", "worth", "it", "and", "it", "also", "makes", "me", "think", "twice", "before", "getting", "something", "dry", "cleaned", ".", "''"], "e1_text": "think", "e1_pos": 13, "e2_text": "getting", "e2_pos": 16, "label": "before"}
+]

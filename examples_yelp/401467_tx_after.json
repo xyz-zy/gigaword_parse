@@ -1,0 +1,3 @@
+[
+{"tokens": ["Maybe", "I", "happened", "to", "come", "on", "an", "''", "``", "off", "''", "''", "day", "but", "nonetheless", ",", "I", "step", "to", "order", "after", "she", "says", "''", "``", "next", "''", "''", "and", "she", "stares", "at", "me", "with", "no", "hello", "or", "smile", "or", "expression", "in", "her", "face", "."], "e1_text": "order", "e1_pos": 19, "e2_text": "says", "e2_pos": 22, "label": "after"}
+]

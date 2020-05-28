@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "made", "it", "with", "only", "minutes", "to", "spare", "before", "they", "closed", "for", "the", "evening", ",", "but", "the", "lady", "behind", "the", "counter", "welcomed", "us", "graciously", "and", "took", "us", "on", "a", "guided", "tour", "of", "all", "the", "delicious", "baked", "offerings", "."], "e1_text": "spare", "e1_pos": 7, "e2_text": "closed", "e2_pos": 10, "label": "before"}
+]

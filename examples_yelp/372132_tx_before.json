@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Slam", "burger", "was", "smashed", "and", "the", "egg", "was", "broken", "leaving", "my", "burger", "bun", "soggy", "and", "when", "i", "asked", "them", "to", "fix", "it", "they", "told", "me", "i", "should", "ve", "ordered", "the", "egg", "differently", "than", "sunny", "side", "up", "like", "in", "the", "picture", "-LRB-", "yet", "i", "never", "had", "this", "problem", "before", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 29, "e2_text": "had", "e2_pos": 45, "label": "before"}
+]

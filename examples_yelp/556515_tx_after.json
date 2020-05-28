@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "ignored", "us", "most", "of", "the", "time", ",", "and", "it", "took", "him", "45", "minutes", "to", "bring", "my", "friend", "water", ",", "after", "she", "ordered", "it", "with", "a", "cocktail", "which", "was", "brought", "out", "to", "her", "after", "5", "or", "10", "minutes", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "ordered", "e2_pos": 23, "label": "after"}
+]

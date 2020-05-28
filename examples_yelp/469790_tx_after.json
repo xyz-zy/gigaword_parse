@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "were", "all", "starving", ",", "so", "we", "had", "memorized", "the", "-LRB-", "nothing", "special", "-RRB-", "menu", "by", "the", "time", "we", "were", "finally", "seated", "-", "after", "one", "of", "my", "friends", "questioned", "the", "wait", "when", "there", "were", "empty", "tables", "everywhere", "."], "e1_text": "memorized", "e1_pos": 8, "e2_text": "questioned", "e2_pos": 28, "label": "after"},
+{"tokens": ["That", "'s", "should", "have", "been", "a", "sign", "for", "how", "long", "the", "food", "would", "take", "...", "When", "we", "finally", "had", "food", "in", "front", "of", "us", "-", "2", "hours", "after", "arriving", "-", "the", "''", "``", "3", "egg", "thing", "''", "''", "actually", "WAS", "an", "omelette", ",", "with", "veggies", ",", "goat", "cheese", "and", "more", "like", "1", "1\\/4", "eggs", "."], "e1_text": "been", "e1_pos": 4, "e2_text": "WAS", "e2_pos": 39, "label": "after"},
+{"tokens": ["I", "was", "still", "hungry", "after", "cleaning", "the", "plate", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "cleaning", "e2_pos": 5, "label": "after"}
+]

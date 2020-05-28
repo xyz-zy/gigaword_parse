@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "I", "'ve", "been", "a", "server", "before", "so", "maybe", "I", "'m", "a", "bit", "critical", "but", "when", "one", "person", "sends", "back", "a", "meal", "that", "is", "missing", "4", "bites", "and", "the", "other", "hardly", "eats", "half", "of", "their", "meal", ",", "there", "is", "your", "sign", "!"], "e1_text": "been", "e1_pos": 4, "e2_text": "'m", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "should", "'ve", "taken", "a", "picture", "of", "our", "plates", "before", "she", "rushed", "them", "off", "."], "e1_text": "taken", "e1_pos": 3, "e2_text": "rushed", "e2_pos": 11, "label": "before"}
+]

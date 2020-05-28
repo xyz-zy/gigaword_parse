@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "indicated", "that", "we", "had", "been", "on", "the", "road", "for", "hours", "and", "we", "had", "an", "important", "function", "that", "evening", ",", "before", "which", "we", "really", "had", "hoped", "to", "catch", "a", "short", "nap", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "had", "e2_pos": 4, "label": "before"},
+{"tokens": ["Apparently", "someone", "had", "mopped", "the", "stairs", ",", "but", "good", ",", "shortly", "before", "we", "left", "our", "room", ",", "and", "they", "were", "slippery", "and", "wet", ",", "but", "we", "were", "not", "aware", "of", "this", ",", "as", "there", "was", "not", "''", "``", "Caution", "Wet", "Floor", "''", "''", "sign", ",", "and", "the", "stairwell", "was", "not", "illuminated", "enough", "to", "be", "able", "to", "see", "quite", "how", "wet", "the", "floor", "was", "."], "e1_text": "mopped", "e1_pos": 3, "e2_text": "left", "e2_pos": 13, "label": "before"}
+]

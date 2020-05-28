@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "for", "another", "5mins", "before", "she", "walked", "over", "to", "2", "girls", "that", "were", "sitting", "beside", "us", "-LRB-", "who", "had", "just", "finished", "their", "meal", ",", "drinks", "and", "were", "getting", "ready", "to", "pay", "the", "bill", "-RRB-", "&", "held", "a", "10min", "convo", "with", "them", ",", "still", "not", "asking", "if", "we", "needed", "to", "order", "or", "cared", "for", "a", "drink", "!"], "e1_text": "sat", "e1_pos": 1, "e2_text": "walked", "e2_pos": 7, "label": "before"}
+]

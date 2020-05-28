@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "I", "had", "was", "my", "AMEX", "card", ",", "and", "now", "after", "waiting", "all", "that", "time", "I", "have", "to", "hand", "over", "my", "rocky", "road", "!!", "I", "told", "her", "how", "sorry", "I", "was", ",", "how", "I", "should", "have", "checked", "before", "they", "took", "my", "order", "."], "e1_text": "checked", "e1_pos": 36, "e2_text": "took", "e2_pos": 39, "label": "before"},
+{"tokens": ["Throughout", "the", "whole", "ordeal", "she", "was", "so", "composed", "and", "friendly", ",", "especially", "considering", "that", "I", "created", "a", "delay", "for", "everyone", "waiting", "and", "I", "should", "have", "checked", "the", "credit", "credit", "card", "options", "before", "going", "in", "there", "."], "e1_text": "checked", "e1_pos": 25, "e2_text": "going", "e2_pos": 32, "label": "before"}
+]

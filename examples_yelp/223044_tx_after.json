@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "comment", "on", "the", "food", "because", "we", "did", "n't", "order", ",", "however", "my", "roommate", "and", "I", "went", "here", "after", "reading", "some", "reviews", "on", "Yelp", "and", "decided", "it", "might", "be", "a", "cool", "little", "joint", "to", "hang", "out", "at", "at", "meet", "some", "locals", "."], "e1_text": "went", "e1_pos": 18, "e2_text": "reading", "e2_pos": 21, "label": "after"},
+{"tokens": ["Maybe", "the", "food", "can", "make", "up", "with", "the", "atmosphere", "but", "I", "myself", "was", "somewhat", "disappointed", "after", "reading", "multiple", "4", "and", "5", "star", "reviews", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "reading", "e2_pos": 16, "label": "after"}
+]

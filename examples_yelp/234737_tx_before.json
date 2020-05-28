@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "park", "in", "the", "lot", ",", "get", "your", "parking", "ticket", "validated", "before", "you", "leave", "it", "'s", "right", "by", "the", "exit", "."], "e1_text": "validated", "e1_pos": 11, "e2_text": "leave", "e2_pos": 14, "label": "before"}
+]

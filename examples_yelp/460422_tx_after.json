@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "did", "not", "acknowledge", "our", "request", "and", "proceeded", "to", "ask", "us", "for", "our", "drink", "orders", "finally", "after", "our", "drink", "order", "was", "made", "he", "wiped", "down", "the", "table", "."], "e1_text": "proceeded", "e1_pos": 7, "e2_text": "was", "e2_pos": 20, "label": "after"},
+{"tokens": ["When", "we", "did", "the", "manager", "hung", "up", "the", "phone", "after", "saying", "her", "assistant", "manager", "would", "never", "do", "that", "."], "e1_text": "hung", "e1_pos": 5, "e2_text": "saying", "e2_pos": 10, "label": "after"}
+]

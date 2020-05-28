@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "my", "favorite", "place", "to", "party", "in", "Montreal", ",", "as", "long", "as", "I", "'ve", "already", "had", "a", "few", "drinks", "in", "me", "before", "I", "get", "there", "!"], "e1_text": "had", "e1_pos": 16, "e2_text": "get", "e2_pos": 24, "label": "before"}
+]

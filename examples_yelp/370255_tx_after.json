@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*", "3", "1\\/2", "Stars", "\\*\\*", "Came", "here", "last", "week", "after", "getting", "a", "great", "deal", "on", "priceline", "."], "e1_text": "Came", "e1_pos": 5, "e2_text": "getting", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "said", "they", "were", "busy", "and", "would", "get", "to", "it", "after", "they", "finish", "the", "vacant", "rooms", "that", "people", "had", "just", "left", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "finish", "e2_pos": 12, "label": "after"}
+]

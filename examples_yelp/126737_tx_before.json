@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "played", "more", "games", "with", "me", ",", "got", "on", "the", "phone", ",", "accused", "me", "of", "interrupting", "him", ",", "hung", "up", "about", "3", "times", "before", "he", "completed", "my", "transaction", "."], "e1_text": "hung", "e1_pos": 18, "e2_text": "completed", "e2_pos": 25, "label": "before"}
+]

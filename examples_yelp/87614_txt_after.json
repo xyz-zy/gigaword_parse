@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "young", "lady", "picked", "up", "the", "phone", ",", "and", "after", "asking", "her", "about", "their", "procedure", "for", "making", "wraps", ",", "an", "elderly", "man", "picked", "up", "the", "phone", ",", "and", "simply", "said", "''", "``", "what", "up", "''", "''", "."], "e1_text": "picked", "e1_pos": 3, "e2_text": "asking", "e2_pos": 10, "label": "after"}
+]

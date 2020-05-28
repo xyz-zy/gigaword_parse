@@ -1,0 +1,3 @@
+[
+{"tokens": ["None", "of", "the", "food", "came", "out", "right", "and", "when", "we", "sent", "it", "back", "someone", "else", "would", "bring", "it", "out", "20", "min", "later", "even", "though", "our", "server", "brought", "us", "the", "right", "food", "shortly", "after", "sending", "it", "back", "."], "e1_text": "brought", "e1_pos": 26, "e2_text": "sending", "e2_pos": 33, "label": "after"}
+]

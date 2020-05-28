@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "i", "went", "i", "was", "quickly", "served", "my", "milkshake", ",", "but", "I", "left", "after", "waiting", "25", "minutes", "for", "my", "food", "-LRB-", "the", "waitress", "never", "came", "by", "and", "there", "was", "no", "one", "else", "eating", "at", "the", "restaurant", "-RRB-", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

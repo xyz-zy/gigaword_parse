@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thought", "maybe", "they", "had", "done", "something", "to", "offend", "her", "earlier", "because", "I", "was", "greeted", "by", "said", "waitress", "only", "moments", "after", "sitting", "down", "."], "e1_text": "greeted", "e1_pos": 14, "e2_text": "sitting", "e2_pos": 21, "label": "after"}
+]

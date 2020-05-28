@@ -1,0 +1,4 @@
+[
+{"tokens": ["Thank", "god", "I", "my", "friend", "had", "been", "there", "before", "and", "directed", "me", "to", "the", "small", "cashier", "booth", "near", "the", "back", "of", "the", "place", "so", "we", "could", "place", "our", "orders", "."], "e1_text": "god", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["That", "'s", "not", "really", "an", "issue", "though", "when", "you", "are", "just", "grabbing", "a", "quick", "bite", "before", "heading", "to", "a", "party", "as", "I", "was", "doing", ",", "but", "for", "sitting", "down", "and", "enjoying", "the", "surroundings", "I", "'d", "recommend", "somewhere", "else", "."], "e1_text": "grabbing", "e1_pos": 11, "e2_text": "heading", "e2_pos": 16, "label": "before"}
+]

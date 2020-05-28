@@ -1,0 +1,3 @@
+[
+{"tokens": ["but", "someone", "else", "called", "me", "multiple", "times", "only", "once", "leaving", "me", "a", "message", "-", "in", "that", "message", "stating", "I", "could", "not", "have", "the", "appointment", "-LRB-", "5", "days", "before", "my", "appointment", "that", "I", "made", "3", "weeks", "prior", "-RRB-", "."], "e1_text": "have", "e1_pos": 21, "e2_text": "made", "e2_pos": 32, "label": "before"}
+]

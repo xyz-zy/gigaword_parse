@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "second", "thing", "that", "is", "wrong", "with", "their", "slogan", "is", "that", "I", "do", "n't", "believe", "anybody", "could", "run", "after", "consuming", "one", "of", "their", "cake", "donuts", "."], "e1_text": "run", "e1_pos": 17, "e2_text": "consuming", "e2_pos": 19, "label": "after"},
+{"tokens": ["Those", "things", "are", "so", "heavy", "that", "after", "you", "do", "consume", "one", ",", "you", "wo", "n't", "have", "the", "energy", "to", "get", "up", "and", "run", "."], "e1_text": "are", "e1_pos": 2, "e2_text": "do", "e2_pos": 8, "label": "after"}
+]

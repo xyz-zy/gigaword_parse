@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "I", "had", "posted", "a", "scathing", "review", "of", "their", "customer", "service", "after", "not", "receiving", "my", "order", "for", "over", "2", "hours", "after", "it", "was", "promised", "-LRB-", "despite", "assurances", "that", "they", "were", "out", "front", "and", "had", "been", "waiting", "-", "they", "were", "n't", "-RRB-", "."], "e1_text": "posted", "e1_pos": 3, "e2_text": "receiving", "e2_pos": 13, "label": "after"},
+{"tokens": ["In", "the", "end", "of", "the", "ordeal", ",", "our", "meal", "was", "free", "-LRB-", "certainly", "should", "be", ",", "after", "waiting", "2.5", "hours", "for", "it", "!", "-RRB-"], "e1_text": "was", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "just", "so", "nice", "to", "come", "back", "to", "a", "big", ",", "clean", ",", "luxurious", "room", "after", "partying", "all", "day", "lol", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "partying", "e2_pos": 17, "label": "after"},
+{"tokens": ["When", "I", "checked", "in", ",", "they", "offered", "me", "this", "tower", "instead", "because", "it", "was", "a", "packed", "weekend", ",", "I", "checked", "in", "late", "after", "taking", "a", "side", "trip", "to", "Death", "Valley", "first", ",", "and", "all", "the", "double", "beds", "in", "the", "main", "tower", "were", "gone", "...", "just", "one", "accessible", "room", "left", "and", "I", "did", "n't", "want", "to", "take", "that", "room", "because", "what", "if", "someone", "really", "needed", "it", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "taking", "e2_pos": 23, "label": "after"}
+]

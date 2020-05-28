@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "had", "the", "opportunity", "to", "visit", "Pure", "this", "year", "after", "a", "long", "time", "of", "wanting", "to", "check", "it", "out", "."], "e1_text": "visit", "e1_pos": 6, "e2_text": "wanting", "e2_pos": 15, "label": "after"},
+{"tokens": ["Positive", ":", "Really", "cool", "security", "guy", "who", "went", "up", "to", "the", "rooftop", "area", "after", "it", "closed", "-LRB-", "at", "2", "am", "Lame", "-RRB-", "to", "grab", "my", "jacket", "because", "I", "left", "it", "at", "my", "friend", "'s", "table", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "closed", "e2_pos": 15, "label": "after"}
+]

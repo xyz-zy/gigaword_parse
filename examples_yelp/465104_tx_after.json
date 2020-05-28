@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "wo", "n't", "sell", "anything", "smaller", "than", "a", "quart", "and", ",", "repeatedly", ",", "after", "two", "weeks", "in", "my", "fridge", "they", "start", "to", "get", "soft", "&", "squishy", "and", "smell", "&", "taste", "less", "than", "optimal", "."], "e1_text": "sell", "e1_pos": 3, "e2_text": "start", "e2_pos": 20, "label": "after"}
+]

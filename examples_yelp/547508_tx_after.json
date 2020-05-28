@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stayed", "at", "this", "hotel", "two", "weeks", "after", "it", "changed", "ownership", "to", "Hilton", ",", "and", "I", "do", "n't", "have", "much", "good", "to", "say", "about", "this", "place", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "changed", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "whirlpool", "tub", "was", "large", "and", "looked", "nice", ",", "but", "I", "noticed", "after", "I", "got", "in", "that", "it", "was", "filthy", "."], "e1_text": "noticed", "e1_pos": 11, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

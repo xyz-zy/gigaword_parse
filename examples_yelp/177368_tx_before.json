@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "the", "end", "of", "the", "show", "I", "jumped", "up", "30", "seconds", "before", "it", "ended", "just", "so", "my", "beau", "and", "I", "could", "get", "out", "of", "the", "auditorium", "before", "everyone", "else", "."], "e1_text": "jumped", "e1_pos": 7, "e2_text": "ended", "e2_pos": 13, "label": "before"}
+]

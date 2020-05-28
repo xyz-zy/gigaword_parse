@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "made", "us", "wait", "outside", ",", "after", "specifically", "barring", "us", "from", "remaining", "indoors", ",", "for", "five", "minutes", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "barring", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "raised", "one", "to", "my", "lips", "after", "dipping", "it", "into", "the", "sauce", "and", "the", "celestial", "bodies", "whizzed", "right", "by", "each", "other", "with", "no", "care", "for", "fulfilling", "their", "fate", "."], "e1_text": "raised", "e1_pos": 1, "e2_text": "dipping", "e2_pos": 7, "label": "after"}
+]

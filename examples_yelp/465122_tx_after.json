@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "let", "me", "note", "that", "after", "detailing", "my", "car", "they", "took", "off", "with", "my", "keys", "."], "e1_text": "note", "e1_pos": 3, "e2_text": "detailing", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "finally", "brought", "them", "to", "me", "after", "finishing", "up", "the", "detail", "of", "another", "car", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "finishing", "e2_pos": 7, "label": "after"}
+]

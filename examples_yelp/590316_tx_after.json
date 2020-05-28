@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "brought", "my", "truck", "through", "after", "a", "long", "work", "day", "that", "took", "me", "out", "to", "a", "dusty", "part", "of", "town", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "took", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "went", "through", "the", "wash", "after", "getting", "a", "moist", "towel", "-", "to", "wipe", "my", "own", "interior", "?"], "e1_text": "went", "e1_pos": 1, "e2_text": "getting", "e2_pos": 6, "label": "after"},
+{"tokens": ["So", "i", "finish", "my", "''", "``", "free", "''", "''", "$", "15", "wash", "after", "my", "$", "8", "wash", "and-no", "surprise", "here", "-", "there", "is", "still", "mud", "on", "the", "back", "of", "the", "truck", "."], "e1_text": "wash", "e1_pos": 11, "e2_text": "is", "e2_pos": 22, "label": "after"}
+]

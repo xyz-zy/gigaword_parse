@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "night", "I", "was", "in", "shopping", "and", "they", "were", "out", "of", "the", "steaks", "they", "had", "on", "sale", "and", "the", "butcher", "said", "oh", "wait", "let", "me", "cut", "you", "some", "before", "I", "leave", "and", "asked", "how", "thick", "I", "wanted", "them", "."], "e1_text": "cut", "e1_pos": 25, "e2_text": "leave", "e2_pos": 30, "label": "before"}
+]

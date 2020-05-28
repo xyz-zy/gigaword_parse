@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "fries", "were", "completely", "brown", "after", "being", "in", "the", "oil", "and", "totally", "soggy", ",", "disgusting", "and", "flavourless", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["Last", ",", "the", "portions", "were", "about", "half", "the", "size", "they", "were", "on", "my", "first", "few", "trips", ",", "I", "know", "it", "has", "been", "a", "couple", "weeks", "since", "my", "last", "visit", "but", "what", "happened", "!?!", "Honestly", ",", "I", "just", "wound", "up", "feeling", "embarrassed", "after", "telling", "our", "friends", "how", "good", "it", "was", "."], "e1_text": "feeling", "e1_pos": 39, "e2_text": "telling", "e2_pos": 42, "label": "after"}
+]

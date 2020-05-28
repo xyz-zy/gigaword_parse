@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "2", "hours", "before", "I", "had", "to", "be", "somewhere", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["Maybe", "she", "just", "got", "out", "of", "beauty", "school", ",", "because", "I", "'ve", "been", "to", "the", "Marinello", "before", "and", "she", "was", "as", "slow", "or", "slower", "than", "someone", "still", "in", "school", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 11, "label": "before"}
+]

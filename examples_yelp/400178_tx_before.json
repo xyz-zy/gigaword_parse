@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "the", "second", "time", ",", "there", "were", "two", "pieces", "of", "lamb", "--", "one", "piece", "was", "cooked", "rare", ",", "but", "still", "cold", "in", "the", "middle", "-LRB-", "so", "i", "suspect", "it", "was", "from", "the", "fridge", "before", "they", "cooked", "it", "-RRB-", ",", "and", "the", "other", "piece", "was", "well", "done", "again", "!"], "e1_text": "was", "e1_pos": 14, "e2_text": "cooked", "e2_pos": 15, "label": "before"}
+]

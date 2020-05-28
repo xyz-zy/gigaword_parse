@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\", "u00a0", "When", "the", "lights", "dimmed", "we", "were", "on", "cloud", "nine", ",", "then", "we", "noticed", "the", "film", "not", "working", ",", "the", "movie", "was", "supposed", "to", "start", "at", "7:30", "but", "it", "never", "did", "because", "the", "copy", "this", "movie", "theater", "got", "was", "not", "working", "...", "Wait", "a", "minute", "this", "is", "AMC", "do", "n't", "you", "think", "they", "would", "check", "out", "the", "movie", ",", "see", "if", "it", "plays", "before", "they", "sell", "out", "a", "movie", "theater", "full", "of", "people", "."], "e1_text": "plays", "e1_pos": 63, "e2_text": "sell", "e2_pos": 66, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": [";-RRB-", "We", "arrived", "before", "it", "opened", "to", "avoid", "a", "ridiculous", "wait", "and", "it", "was", "n't", "too", "bad", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "opened", "e2_pos": 5, "label": "before"},
+{"tokens": ["It", "took", "around", "30", "minutes", "before", "the", "bouncer", "allowed", "us", "to", "squeeze", "through", "onto", "the", "dancefloor", "from", "there", "it", "was", "nirvana", "!"], "e1_text": "took", "e1_pos": 1, "e2_text": "allowed", "e2_pos": 8, "label": "before"}
+]

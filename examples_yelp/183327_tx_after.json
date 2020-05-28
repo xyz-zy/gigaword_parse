@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "and", "waited", "...", "after", "about", "20", "minutes", "I", "asked", "the", "girl", "at", "the", "register", "what", "the", "hold", "up", "was", "...", "she", "turned", "around", "and", "said", "that", "the", "girls", "had", "not", "started", "making", "my", "sandwich", "yet", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "asked", "e2_pos": 10, "label": "after"},
+{"tokens": ["Not", "to", "mention", "I", "had", "to", "watch", "people", "who", "ordered", "about", "15", "minutes", "after", "me", "get", "their", "food", "before", "me", "b\\/c", "the", "girls", "lost", "my", "order", "ticket", "somewhere", "between", "the", "register", "and", "the", "sandwich", "prep", "table", "...", "all", "of", "6", "feet", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "get", "e2_pos": 15, "label": "after"}
+]

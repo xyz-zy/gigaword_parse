@@ -1,0 +1,3 @@
+[
+{"tokens": ["Beginning", "with", "Dave", "who", "ran", "I", "diagnostics", "on", "my", "MAC", "and", "discovered", "my", "battery", "is", "dying", "even", "after", "I", "reported", "a", "problem", "with", "the", "chord", "."], "e1_text": "dying", "e1_pos": 15, "e2_text": "reported", "e2_pos": 19, "label": "after"}
+]

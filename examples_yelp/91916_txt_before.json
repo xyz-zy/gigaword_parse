@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "would", "have", "found", "this", "place", "before", "I", "went", "through", "hell", "and", "back", "with", "Sears", "trying", "to", "get", "my", "Craftsman", "power", "washer", "repaired", "."], "e1_text": "found", "e1_pos": 5, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["Now", "keep", "in", "mind", ",", "I", "had", "the", "unit", "running", "before", "I", "took", "it", "to", "Sears", "."], "e1_text": "running", "e1_pos": 9, "e2_text": "took", "e2_pos": 12, "label": "before"}
+]

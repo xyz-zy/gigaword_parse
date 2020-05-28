@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "'m", "a", "local", "-RRB-", "We", "got", "there", "RIGHT", "before", "the", "dinner", "rush", ",", "which", "was", "awesome", "."], "e1_text": "RIGHT", "e1_pos": 9, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

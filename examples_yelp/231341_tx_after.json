@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "and", "a", "half", "people", "working", "an", "entire", "bar", "and", "grill", "on", "a", "football", "Sunday", "...", "table", "service", "early", "but", "we", "get", "ignored", "for", "the", "rest", "of", "the", "day", "...", "we", "wait", "at", "the", "bar", "for", "ever", "and", "place", "a", "food", "order", "...", "ask", "the", "half", "employee", "to", "put", "a", "game", "on", "and", "get", "a", "snarky", "`", "after", "I", "put", "in", "the", "drink", "order", "!", "'"], "e1_text": "get", "e1_pos": 53, "e2_text": "put", "e2_pos": 59, "label": "after"}
+]

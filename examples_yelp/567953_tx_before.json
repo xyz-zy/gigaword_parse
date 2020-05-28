@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "repeat", "my", "order", "twice", "before", "they", "got", "it", "entered", "into", "the", "system", "-LRB-", "maybe", "I", "have", "an", "asian", "accent", "an", "I", "'m", "hard", "to", "understand", "?"], "e1_text": "repeat", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tonight", "I", "called", "7", "times", ",", "spoke", "with", "a", "supervisor", ",", "and", "still", "had", "to", "wait", "2", "hours", "before", "giving", "up", "on", "a", "driver", "ever", "showing", "up", "at", "my", "house", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "giving", "e2_pos": 19, "label": "before"}
+]

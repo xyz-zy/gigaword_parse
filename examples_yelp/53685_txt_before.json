@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "ice", "cream", "had", "half-melted", "before", "making", "it", "to", "our", "table", ",", "so", "the", "plate", "was", "one", "flat", ",", "gooey", "mess", "."], "e1_text": "half-melted", "e1_pos": 4, "e2_text": "making", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "gotten", "some", "nice", "stuff", "from", "this", "store", ",", "but", "help", "is", "usually", "impossible", "to", "find", "and", "when", "you", "think", "you", "find", "it", ",", "you", "usually", "wait", "awhile", "before", "you", "really", "find", "it", "."], "e1_text": "wait", "e1_pos": 27, "e2_text": "find", "e2_pos": 32, "label": "before"}
+]

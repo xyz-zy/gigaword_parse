@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "by", "someone", "who", "looked", "like", "a", "host", "or", "manager", ",", "but", "then", "it", "was", "10", "minutes", "before", "anyone", "bothered", "coming", "over", "."], "e1_text": "was", "e1_pos": 16, "e2_text": "bothered", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "got", "the", "same", "meal", "as", "the", "day", "before", "because", "I", "knew", "what", "to", "expect", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "knew", "e2_pos": 11, "label": "before"}
+]

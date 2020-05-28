@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "should", "have", "done", "better", "quality", "control", "and", "checked", "the", "room", "before", "giving", "the", "room", "to", "the", "guests", "."], "e1_text": "checked", "e1_pos": 8, "e2_text": "giving", "e2_pos": 12, "label": "before"}
+]

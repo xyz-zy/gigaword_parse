@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "back", "after", "using", "the", "pool", "for", "a", "couple", "of", "hours", "&", "they", "still", "were", "n't", "ready", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "were", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "requested", "additional", "pillows", "-", "housekeeping", "called", "in", "the", "middle", "of", "the", "night", "after", "we", "were", "already", "asleep", "to", "ask", "us", "if", "we", "still", "needed", "pillows", ",", "instead", "of", "bringing", "them", "as", "requested", "."], "e1_text": "called", "e1_pos": 6, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

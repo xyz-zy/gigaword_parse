@@ -1,0 +1,3 @@
+[
+{"tokens": ["Could", "not", "hook", "them", "up", "properly", "so", "one", "switch", "turned", "on", "the", "light", "and", "the", "other", "turned", "on", "the", "fan", "even", "though", "the", "fan", "that", "was", "there", "before", "had", "the", "exact", "same", "set", "up", "."], "e1_text": "turned", "e1_pos": 16, "e2_text": "was", "e2_pos": 25, "label": "before"}
+]

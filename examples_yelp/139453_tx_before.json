@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", ",", "John", "has", "the", "audacity", "to", "put", "the", "caller", "on", "hold", "and", "ask", "the", "customer", "if", "he", "needed", "some", "assistance", "before", "he", "walks", "out", "the", "door", "!"], "e1_text": "needed", "e1_pos": 18, "e2_text": "walks", "e2_pos": 23, "label": "before"}
+]

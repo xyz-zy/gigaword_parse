@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "weather", "was", "horrible", "all", "weekend", "so", "we", "were", "really", "looking", "forward", "to", "Brunch", "on", "Sunday", "before", "our", "flights", "left", "since", "the", "weather", "was", "finally", "nice", "."], "e1_text": "looking", "e1_pos": 10, "e2_text": "left", "e2_pos": 19, "label": "before"},
+{"tokens": ["During", "this", "time", ",", "I", "saw", "a", "few", "people", "get", "up", "and", "leave", "before", "ordering", "food", "as", "well", "."], "e1_text": "leave", "e1_pos": 12, "e2_text": "ordering", "e2_pos": 14, "label": "before"}
+]

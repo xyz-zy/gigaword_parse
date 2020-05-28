@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "spent", "two", "weeks", "in", "ICU", "in", "a", "coma", "after", "delivering", "my", "son", "via", "emergency", "c-section", "followed", "by", "a", "secondary", "surgery", "-", "all", "because", "I", "had", "a", "liver", "disorder", "that", "went", "undiagnosed", "by", "my", "doctors", "."], "e1_text": "spent", "e1_pos": 1, "e2_text": "delivering", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "'ve", "seen", "the", "same", "caring", "MD", "-LRB-", "something", "I", "sought", "after", "the", "DO", "'s", "failed", "me", "-RRB-", "for", "every", "single", "appointment", "including", "pre-conception", "."], "e1_text": "sought", "e1_pos": 10, "e2_text": "failed", "e2_pos": 15, "label": "after"}
+]

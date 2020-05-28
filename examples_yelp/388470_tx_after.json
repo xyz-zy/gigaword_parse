@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "service", "was", "slow", "again", ",", "wine", "going", "dry", "the", "whole", "night", "for", "more", "than", "5min", "+", "at", "a", "time", ",", "I", "waited", "to", "be", "asked", "for", "dessert", "after", "my", "plates", "were", "pulled", ",", "for", "over", "10min", "."], "e1_text": "asked", "e1_pos": 25, "e2_text": "were", "e2_pos": 31, "label": "after"}
+]

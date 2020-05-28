@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "n't", "normally", "chose", "a", "McDonald", "'s", "but", "I", "needed", "fast", "food", "before", "I", "ran", "back", "across", "the", "street", "to", "the", "hospital", "to", "be", "with", "my", "girlfriend", "."], "e1_text": "needed", "e1_pos": 10, "e2_text": "ran", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "one", "complaint", "I", "have", "was", "when", "I", "was", "purchasing", "weights", "and", "was", "waiting", "in", "line", "for", "the", "next", "register", ",", "after", "the", "one", "register", "opened", "that", "the", "manager", "was", "working", "at", ",", "he", "came", "over", "to", "the", "other", "terminal", "and", "did", "n't", "indicate", "if", "he", "was", "open", "or", "what", "."], "e1_text": "waiting", "e1_pos": 13, "e2_text": "opened", "e2_pos": 25, "label": "after"}
+]

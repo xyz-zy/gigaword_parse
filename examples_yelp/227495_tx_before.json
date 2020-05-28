@@ -1,0 +1,4 @@
+[
+{"tokens": ["Salmon", "is", "getting", "smaller", "and", "smaller", "each", "visit", "as", "is", "hubby", "'s", "sandwich", "which", "is", "the", "incredible", "shrinking", "machine", ",", "along", "with", "miniscule", "fries", "that", "used", "to", "be", "heaping", "!!", "Hello", "waitress", "...", "...", "...", "the", "broccoli", "is", "not", "acceptable", "and", "with", "apologies", ",", "another", "order", "of", "broccoli", "appears", "by", "another", "server", "we", "have", "never", "seen", "before", "."], "e1_text": "appears", "e1_pos": 48, "e2_text": "have", "e2_pos": 53, "label": "before"},
+{"tokens": ["Like", "I", "said", "before", ",", "the", "service", "has", "always", "been", "good", ",", "Just", "wish", "the", "quality", "of", "the", "food", "would", "remain", "what", "it", "has", "been", "in", "the", "past", "."], "e1_text": "said", "e1_pos": 2, "e2_text": "has", "e2_pos": 7, "label": "before"}
+]

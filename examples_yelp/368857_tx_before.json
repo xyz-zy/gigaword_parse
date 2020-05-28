@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "have", "a", "quick", "little", "theory", "though", "about", "the", "fact", "that", "this", "place", "was", "n't", "as", "good", "as", "the", "other", "Poke", "I", "'ve", "been", "too", "here", "in", "Vegas", ",", "well", "the", "thing", "is", ",", "we", "came", "in", "here", "about", "10", "minutes", "before", "this", "place", "was", "about", "to", "close", "."], "e1_text": "came", "e1_pos": 36, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "ordered", "the", "usual", "stuff", "just", "more", "of", "it", "because", "we", "just", "came", "here", "right", "before", "we", "left", "back", "home", "to", "the", "bay", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "left", "e2_pos": 17, "label": "before"}
+]

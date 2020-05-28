@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "I", "know", "Raku", "is", "n't", "budget", "food", "and", "I", "did", "n't", "ask", "the", "price", "before", "ordering", ",", "but", "damn", ",", "$", "30", "for", "half", "a", "fish", "?"], "e1_text": "ask", "e1_pos": 12, "e2_text": "ordering", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "have", "no", "quibbles", "about", "the", "quality", "of", "the", "food", ",", "and", "if", "you", "stick", "to", "the", "regular", "menu", ",", "it", "'s", "only", "moderately", "expensive", ",", "but", "it", "will", "be", "a", "long", "time", "before", "I", "drop", "my", "hard-earned", "money", "at", "Raku", "again", "."], "e1_text": "be", "e1_pos": 29, "e2_text": "drop", "e2_pos": 35, "label": "before"}
+]

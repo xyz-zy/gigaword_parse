@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "a", "reservation", "for", "a", "party", "of", "9", "after", "seeing", "some", "of", "the", "reviews", "on", "Yelp", "!"], "e1_text": "made", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "picked", "this", "place", "since", "a", "lot", "of", "the", "reviews", "said", "it", "had", "a", "''", "``", "fun", "vibe", "''", "''", ",", "but", "I", "was", "even", "more", "stoked", "after", "I", "saw", "it", "on", "Keeping", "Up", "With", "The", "Kardashians", "!"], "e1_text": "was", "e1_pos": 23, "e2_text": "saw", "e2_pos": 29, "label": "after"}
+]

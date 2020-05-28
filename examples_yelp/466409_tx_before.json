@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "started", "going", "before", "my", "son", "was", "born", "and", "have", "brought", "him", "with", "me", "the", "last", "4", "times", "."], "e1_text": "going", "e1_pos": 2, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "called", "and", "made", "my", "regular", "appointment", "for", "yesterday", ";", "drove", "all", "the", "way", "from", "North", "Las", "Vegas", ";", "when", "I", "arrived", "there", "was", "a", "sign", "stating", "to", "the", "effect", "''", "``", "kids", "are", "not", "welcome", "...", "please", "find", "daycare", "before", "you", "arrive", ".", "''", "''"], "e1_text": "find", "e1_pos": 38, "e2_text": "arrive", "e2_pos": 42, "label": "before"}
+]

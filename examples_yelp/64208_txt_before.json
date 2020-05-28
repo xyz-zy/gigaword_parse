@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "right", "before", "our", "team", "photo", "shoot", "and", "we", "were", "hungry", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "shoot", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "have", "approximately", "72441675267", "Omelet", "House", "locations", "in", "Vegas", "and", "I", "'ve", "never", "been", "to", "one", "before", "so", "I", "was", "excited", "for", "the", "Yelp", "review", "opportunity", "."], "e1_text": "been", "e1_pos": 13, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

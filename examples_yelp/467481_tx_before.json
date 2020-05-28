@@ -1,0 +1,4 @@
+[
+{"tokens": ["Natalie", "is", "amazing", "and", "discussed", "what", "I", "wanted", "and", "made", "suggestions", "before", "it", "came", "to", "the", "chop", "."], "e1_text": "made", "e1_pos": 9, "e2_text": "came", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "'ve", "had", "haircuts", "before", "where", "I", "'ve", "came", "out", "of", "the", "salon", "thinking", "that", "I", "ca", "n't", "wait", "to", "head", "home", "and", "sort", "my", "hair", "but", "I", "just", "love", "my", "hair", "and", "I", "'ll", "be", "ditching", "the", "student", "haircuts", "and", "booking", "Natalie", "every", "3", "months", "!"], "e1_text": "had", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 1, "label": "before"}
+]

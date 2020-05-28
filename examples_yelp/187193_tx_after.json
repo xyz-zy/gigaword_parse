@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "issue", "was", "that", "they", "tried", "to", "charge", "me", "almost", "$", "300", "on", "checkout", "for", "my", "kids", ",", "after", "I", "'d", "already", "paid", "over", "$", "320", "for", "the", "rooms", "when", "I", "booked", "."], "e1_text": "tried", "e1_pos": 5, "e2_text": "'d", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "talked", "them", "out", "of", "charging", "me", "for", "the", "baby", ",", "but", "it", "still", "brought", "it", "down", "to", "over", "$", "150", "in", "additional", "fees", "after", "they", "put", "the", "food", "credit", "on", "as", "well", "."], "e1_text": "brought", "e1_pos": 14, "e2_text": "put", "e2_pos": 26, "label": "after"}
+]

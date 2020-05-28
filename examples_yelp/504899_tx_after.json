@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "early", "like", "everyone", "said", ",", "not", "at", "6am", "but", "closer", "to", "8:30", ",", "half", "hour", "after", "they", "opened", "."], "e1_text": "said", "e1_pos": 5, "e2_text": "opened", "e2_pos": 19, "label": "after"},
+{"tokens": ["On", "a", "brighter", "note", "-", "to", "get", "my", "plates", "I", "went", "to", "the", "location", "on", "Brookshire", "Blvd", "after", "I", "got", "my", "license", "in", "the", "mail", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "got", "e2_pos": 19, "label": "after"}
+]

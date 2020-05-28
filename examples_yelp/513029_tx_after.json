@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "kind", "man", "took", "my", "order", "after", "I", "was", "overwhelmed", "by", "all", "of", "the", "choices", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "got", "my", "food", "within", "five", "minutes", "after", "sitting", "down", ",", "which", "was", "great", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "sitting", "e2_pos": 8, "label": "after"}
+]

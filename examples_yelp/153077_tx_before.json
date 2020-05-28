@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "same", "thing", "I", "did", "last", "time", "I", "came", "and", "I", "remember", "it", "being", "way", "better", "before", ",", "I", "think", "they", "changed", "the", "recipe", ",", "bad", "decision", "."], "e1_text": "did", "e1_pos": 6, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

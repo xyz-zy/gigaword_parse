@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "close", "to", "25", "out", ",", "I", "had", "my", "Jersey", "on", "expecting", "to", "sit", "somewhere", "inside", "but", ",", "due", "to", "their", "expected", "large", "rush", "of", "customers", "and", "the", "bar", "being", "filled", ",", "they", "awkwardly", "advised", "me", "they", "could", "n't", "let", "me", "sit", "at", "a", "table", "normally", "for", "two", "...", "Even", "after", "I", "insisted", "I", "could", "wait", "until", "a", "seat", "opens", "up", "at", "the", "bar", "."], "e1_text": "sit", "e1_pos": 42, "e2_text": "insisted", "e2_pos": 53, "label": "after"}
+]

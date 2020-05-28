@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "in", "a", "rush", "trying", "to", "catch", "a", "movie", "after", "so", "we", "sat", "in", "the", "bar", "."], "e1_text": "catch", "e1_pos": 6, "e2_text": "sat", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "shrimp", "was", "great", ",", "however", "the", "potato", "skins", "came", "out", "after", "we", "received", "our", "steak", "dinners", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "received", "e2_pos": 13, "label": "after"}
+]

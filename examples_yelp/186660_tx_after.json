@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "over", "10", "minutes", "to", "get", "acknowledged", "by", "a", "waiter", "after", "being", "seated", "and", "then", "another", "10", "minutes", "to", "receive", "our", "cocktails", "."], "e1_text": "acknowledged", "e1_pos": 7, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["After", "our", "food", "again", ",", "it", "took", "foreever", "to", "get", "a", "water", "refill", "and", "a", "second", "beer", "only", "after", "we", "flagged", "the", "waiter", "down", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "flagged", "e2_pos": 20, "label": "after"},
+{"tokens": ["It", "then", "took", "forever", "to", "get", "our", "tab", "to", "leave", "and", "only", "after", "we", "waved", "down", "the", "water", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "waved", "e2_pos": 14, "label": "after"}
+]

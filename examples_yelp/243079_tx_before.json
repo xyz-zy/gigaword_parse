@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "need", "my", "morning", "cup", "of", "joe", "before", "I", "even", "start", "my", "day", "."], "e1_text": "need", "e1_pos": 2, "e2_text": "start", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "drove", "around", "for", "a", "while", "before", "I", "actually", "found", "it", "because", "it", "is", "kind", "of", "tucked", "away", "in", "the", "back", "of", "the", "shopping", "center", "."], "e1_text": "drove", "e1_pos": 1, "e2_text": "found", "e2_pos": 9, "label": "before"}
+]

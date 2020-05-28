@@ -1,0 +1,3 @@
+[
+{"tokens": ["Got", "a", "receptionist", "who", "transferred", "me", "to", "the", "customer", "service", "who", "transferred", "me", "to", "the", "front", "desk", "and", "after", "being", "on", "hold", "for", "five", "minutes", "the", "call", "was", "dropped", "from", "their", "end", "."], "e1_text": "transferred", "e1_pos": 4, "e2_text": "being", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Management", "would", "be", "well-served", "to", "shut", "the", "place", "down", "for", "a", "week", "and", "review", "staffing", ",", "training", "and", "procedures", "before", "claiming", "to", "be", "a", "professional", "restaurant", "."], "e1_text": "review", "e1_pos": 13, "e2_text": "claiming", "e2_pos": 20, "label": "before"},
+{"tokens": ["Please", "think", "before", "you", "speak", ".", "''", "''"], "e1_text": "think", "e1_pos": 1, "e2_text": "speak", "e2_pos": 4, "label": "before"}
+]

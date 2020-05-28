@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "returning", "to", "our", "hotel", "room", "at", "Treasure", "Island", "after", "attending", "a", "wedding", ",", "at", "approximately", "12:30", "am", ",", "a", "disturbing", "man", "was", "exiting", "OUR", "HOTEL", "ROOM", "with", "our", "bottle", "of", "vodka", ",", "a", "black", "laundry", "bag", "full", "of", "our", "valuables", ",", "and", "some", "sort", "of", "keycard", "."], "e1_text": "returning", "e1_pos": 1, "e2_text": "attending", "e2_pos": 10, "label": "after"}
+]

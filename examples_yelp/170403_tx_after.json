@@ -1,0 +1,3 @@
+[
+{"tokens": ["Slow", "drain", "in", "the", "sink", "went", "drip", "drip", "drip", "for", "about", "half", "an", "hour", "after", "the", "water", "stopped", "running", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "stopped", "e2_pos": 17, "label": "after"}
+]

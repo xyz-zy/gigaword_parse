@@ -1,0 +1,4 @@
+[
+{"tokens": ["Masayuki", "threw", "up", "after", "eating", "at", "this", "place", "."], "e1_text": "threw", "e1_pos": 1, "e2_text": "eating", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "can", "tell", "the", "shrimp", "was", "really", "fresh", "because", "I", "had", "allergic", "reaction", "after", "eating", "it", "-LRB-", "allergy", "to", "fresh", "shrimp", "-RRB-", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "eating", "e2_pos": 14, "label": "after"}
+]

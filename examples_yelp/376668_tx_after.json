@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "figured", "I", "would", "be", "forgotten", "about", "again", "after", "our", "drinks", "came", ",", "I", "immediately", "took", "this", "opportunity", "to", "put", "in", "my", "order", "for", "AYCE", "."], "e1_text": "forgotten", "e1_pos": 6, "e2_text": "came", "e2_pos": 12, "label": "after"},
+{"tokens": ["After", "I", "got", "the", "missing", "item", "and", "I", "finished", "everything", "in", "the", "first", "round", ",", "I", "'m", "ready", "for", "round", "two", "but", "unfortunately", "our", "waitress", "did", "n't", "feel", "the", "need", "to", "come", "back", "to", "our", "table", "for", "another", "20", "minutes", "after", "we", "finished", "."], "e1_text": "come", "e1_pos": 31, "e2_text": "finished", "e2_pos": 8, "label": "after"}
+]

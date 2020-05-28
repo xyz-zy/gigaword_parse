@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cashier", "told", "me", "after", "I", "had", "already", "put", "my", "groceries", "on", "the", "belt", "that", "I", "was", "in", "the", "wrong", "lane", "and", "needed", "to", "put", "my", "things", "back", "in", "the", "cart", "and", "move", "down", "to", "another", "aisle", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "had", "e2_pos": 6, "label": "after"}
+]

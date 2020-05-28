@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "chicken", "salad", "sandwich", "was", "completely", "bland", "and", "had", "a", "weird", "after", "taste", "which", "was", "such", "a", "surprise", "after", "the", "great", "avocado", "dip", "."], "e1_text": "had", "e1_pos": 8, "e2_text": "was", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "'d", "had", "really", "high", "expectations", "for", "this", "place", "after", "reading", "all", "the", "reviews", "and", "now", "I", "have", "no", "idea", "why", "anybody", "wants", "to", "go", "back", "here", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "reading", "e2_pos": 10, "label": "after"}
+]

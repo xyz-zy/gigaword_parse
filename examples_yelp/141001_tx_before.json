@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "the", "thing", ",", "brisket", "is", "truly", "the", "easiest", "Q", "there", "is", "and", "this", "was", "not", "up", "to", "the", "standard", "for", "what", "I", "consider", "great", "Q.", "I", "have", "said", "this", "before", ",", "I", "am", "a", "beef", "fanatic", "and", "if", "beef", "ribs", "are", "not", "on", "the", "menu", "I", "do", "n't", "even", "bother", "to", "order", "."], "e1_text": "consider", "e1_pos": 24, "e2_text": "have", "e2_pos": 28, "label": "before"},
+{"tokens": ["Honestly", "this", "cut", "of", "meat", "was", "doomed", "to", "leather", "before", "it", "got", "into", "the", "smoker", "and", "for", "a", "Q", "place", "to", "serve", "this", "is", "an", "INSULT", "."], "e1_text": "doomed", "e1_pos": 6, "e2_text": "got", "e2_pos": 11, "label": "before"}
+]

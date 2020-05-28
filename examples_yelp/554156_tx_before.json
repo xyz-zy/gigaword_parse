@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "virgin", "hair", "till", "about", "a", "year", "ago", "now", "before", "I", "decided", "to", "walk", "into", "Divas", "Xpress", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "decided", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "came", "into", "my", "first", "appointment", "very", "nervous", ",", "&", "she", "offered", "me", "water", "and", "some", "comforting", "words", "before", "she", "started", "working", "on", "me", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "started", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "passed", "it", "several", "times", "before", "realizing", "it", "was", "right", "next", "to", "AM\\/PM", "."], "e1_text": "passed", "e1_pos": 1, "e2_text": "realizing", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "explained", "that", "we", "had", "just", "purchased", "drinks", "and", "a", "hookah", "not", "long", "before", "they", "made", "us", "leave", "it", "at", "the", "table", "to", "come", "outside", "."], "e1_text": "purchased", "e1_pos": 6, "e2_text": "made", "e2_pos": 15, "label": "before"}
+]

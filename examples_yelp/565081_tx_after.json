@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "we", "had", "already", "sat", "there", "for", "10", "minutes", ",", "we", "were", "both", "ready", "to", "order", ",", "but", "right", "after", "we", "had", "placed", "our", "drink", "orders", ",", "the", "waitress", "just", "sped", "off", ",", "so", "we", "had", "to", "wait", "another", "5", "minutes", "."], "e1_text": "were", "e1_pos": 11, "e2_text": "had", "e2_pos": 2, "label": "after"}
+]

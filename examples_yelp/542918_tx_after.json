@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bomb", "!!!", "One", "of", "the", "most", "horrible", "sushi", "place", "in", "vegas", "terrible", "!!!", "too", "much", "rice", "on", "nigiri", "Nigiri", "has", "too", "much", "sauces", "because", "its", "not", "fresh", "I", "had", "sickness", "after", "i", "ate", "naka", "Bad", "service", "More", "than", "10", "tables", "and", "one", "server", ",", "one", "sushi", "man", "Have", "to", "wait", "more", "than", "20", "min", "to", "get", "your", "salad", "Never", "come", "to", "table", ".", "."], "e1_text": "had", "e1_pos": 28, "e2_text": "ate", "e2_pos": 32, "label": "after"}
+]

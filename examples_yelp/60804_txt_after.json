@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "did", "get", "a", "hold", "of", "her", "a", "week", "before", "my", "nuptials", ",", "she", "informed", "me", "that", "the", "AVN", "was", "having", "their", "after", "party", "there", "on", "the", "day", "of", "my", "wedding", "."], "e1_text": "informed", "e1_pos": 15, "e2_text": "was", "e2_pos": 20, "label": "after"},
+{"tokens": ["The", "police", "even", "showed", "up", "to", "eat", "dinner", ",", "waited", "forever", ",", "walked", "into", "the", "kitchen", "to", "find", "someone", ",", "and", "left", "after", "no", "one", "acknowledged", "them", "for", "30", "minutes", "."], "e1_text": "left", "e1_pos": 21, "e2_text": "acknowledged", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "Lulu", "one", "of", "the", "ladies", "that", "answers", "the", "phone", "why", "wo", "n't", "they", "replace", "the", "unit", "after", "15yrs", "She", "stated", "as", "long", "as", "its", "able", "to", "be", "repaired", "they", "will", "not", "!"], "e1_text": "answers", "e1_pos": 8, "e2_text": "stated", "e2_pos": 21, "label": "after"},
+{"tokens": ["Well", "today", "is", "Friday", "I", "have", "n't", "had", "air", "in", "4", "days", "I", "'ve", "seen", "3", "different", "techs", "this", "week", "finally", "after", "All", "of", "this", "unnecessary", "drama", "he", "states", "he", "ca", "n't", "fix", "it", "!"], "e1_text": "seen", "e1_pos": 14, "e2_text": "states", "e2_pos": 28, "label": "after"}
+]

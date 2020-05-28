@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "call", "the", "office", "you", "are", "placed", "on", "a", "never", "ending", "hold", "&", "usually", "hung", "up", "on", "a", "few", "times", "before", "you", "actually", "speak", "to", "someone", "."], "e1_text": "hung", "e1_pos": 15, "e2_text": "speak", "e2_pos": 24, "label": "before"},
+{"tokens": ["My", "health", "insurance", "company", "could", "not", "even", "get", "through-they", "were", "placed", "on", "hold", "for", "18", "minutes", "before", "they", "hung", "up", "."], "e1_text": "placed", "e1_pos": 10, "e2_text": "hung", "e2_pos": 18, "label": "before"}
+]

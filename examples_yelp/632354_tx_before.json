@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", ",", "if", "their", "other", "items", "are", "as", "good", "as", "the", "Le", "Pig", "-LRB-", "$", "9", "-RRB-", "it", "'s", "only", "a", "matter", "of", "time", "before", "they", "'re", "on", "top", "."], "e1_text": "'s", "e1_pos": 18, "e2_text": "'re", "e2_pos": 26, "label": "before"},
+{"tokens": ["It", "'s", "only", "a", "matter", "of", "time", "before", "they", "outgrow", "their", "kiosk", "and", "end", "up", "in", "their", "own", "brick", "and", "mortar", "spot", "just", "like", "Viva", "Las", "Arepas", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "outgrow", "e2_pos": 9, "label": "before"}
+]

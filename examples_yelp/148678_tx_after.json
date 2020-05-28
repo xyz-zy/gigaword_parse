@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "first", "came", "after", "they", "opened", "the", "service", "was", "good", ",", "price", "was", "fair", "and", "the", "food", "was", "great", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "opened", "e2_pos": 6, "label": "after"},
+{"tokens": ["This", "was", "after", "they", "served", "to", "me", "with", "bacon", "that", "I", "then", "had", "to", "send", "back", "and", "have", "remade", "with", "no", "bacon", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "served", "e2_pos": 4, "label": "after"}
+]

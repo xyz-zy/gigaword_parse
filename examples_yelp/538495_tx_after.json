@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "following", "morning", "I", "emptied", "the", "take", "out", "boxes", "into", "a", "skillet", ",", "sauteed", "in", "butter", "and", "minced", "garlic", "then", "after", "adding", "the", "leftovers", "added", "fresh", "lemon", "and", "lemon", "zest", "."], "e1_text": "minced", "e1_pos": 17, "e2_text": "adding", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "had", "missing", "drinks", ",", "missing", "condiments", "...", "heck", "I", "asked", "for", "a", "slice", "of", "lemon", "for", "the", "lobster", "and", "after", "a", "''", "``", "sure", "just", "a", "second", "''", "''", "gave", "up", "entirely", "since", "it", "was", "obvious", "my", "lemon", "was", "with", "the", "live", "lobsters", ",", "and", "maybe", "Cthulu", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "gave", "e2_pos": 30, "label": "after"}
+]

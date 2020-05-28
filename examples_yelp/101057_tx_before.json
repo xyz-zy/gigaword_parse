@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "I", "have", "to", "fulfill", "my", "end", "of", "the", "bargain", "and", "pay", "for", "the", "couch", "before", "I", "even", "receive", "it", "but", "PB", "can", "delay", "shipment", "for", "1", "month", "with", "no", "penalty", "."], "e1_text": "pay", "e1_pos": 12, "e2_text": "receive", "e2_pos": 19, "label": "before"}
+]

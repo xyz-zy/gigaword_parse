@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "wash", "went", "well", "but", "there", "after", "something", "was", "not", "right", "about", "the", "quality", "of", "this", "hair", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["This", "hair", "was", "tampered", "with", "after", "it", "was", "sold", "."], "e1_text": "tampered", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

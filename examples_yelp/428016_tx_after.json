@@ -1,0 +1,4 @@
+[
+{"tokens": ["Grabbed", "some", "dinner", "to", "go", "here", "after", "arriving", "in", "Charlotte", "a", "bit", "after", "most", "restaurants", "close", "-LRB-", "so", "early", "relative", "to", "New", "York", "!", "-RRB-", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "arriving", "e2_pos": 7, "label": "after"},
+{"tokens": ["Winner", "of", "the", "meal", "goes", "to", "the", "massive", "chunk", "of", "bread", ",", "which", "I", "was", "planning", "on", "not", "eating", ",", "but", "after", "taking", "a", "bite", ",", "finished", "almost", "all", "of", "it", "."], "e1_text": "finished", "e1_pos": 26, "e2_text": "taking", "e2_pos": 22, "label": "after"}
+]

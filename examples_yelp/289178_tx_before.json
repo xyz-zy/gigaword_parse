@@ -1,0 +1,4 @@
+[
+{"tokens": ["Plus", ",", "two", "tables", "who", "were", "sat", "after", "us", "initially", "received", "service", "before", "we", "even", "did", "."], "e1_text": "received", "e1_pos": 10, "e2_text": "did", "e2_pos": 15, "label": "before"},
+{"tokens": ["If", "it", "was", "n't", "for", "the", "fact", "that", "this", "place", "is", "24\\/7", "-LRB-", "convenient", "for", "those", "drunken", "late", "nights\\/early", "mornings", "-RRB-", "and", "the", "fact", "that", "I", "came", "here", "before", "when", "it", "was", "far", "less", "busy", "and", "rather", "very", "slow", ",", "I", "would", "'ve", "gave", "it", "one", "star", "."], "e1_text": "came", "e1_pos": 26, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

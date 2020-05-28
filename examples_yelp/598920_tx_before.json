@@ -1,0 +1,4 @@
+[
+{"tokens": ["who", "came", "in", "a", "half", "hour", "after", "the", "movie", "started", "and", "caused", "a", "serious", "ruckus", "for", "about", "10", "minutes", "as", "they", "walked", "around", "looking", "for", "seats", ",", "and", "before", "they", "finally", "sat", "their", "asses", "down", "-LRB-", "next", "to", "me", ",", "of", "course", "-RRB-", "."], "e1_text": "started", "e1_pos": 9, "e2_text": "sat", "e2_pos": 31, "label": "before"},
+{"tokens": ["First", "of", "all", ",", "maybe", "you", "want", "to", "read", "up", "on", "the", "movie", "you", "plan", "to", "go", "see", "before", "you", "buy", "your", "ticket", "."], "e1_text": "see", "e1_pos": 17, "e2_text": "buy", "e2_pos": 20, "label": "before"}
+]

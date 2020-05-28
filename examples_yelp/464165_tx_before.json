@@ -1,0 +1,4 @@
+[
+{"tokens": ["Arrived", "30", "minutes", "before", "they", "opened", ",", "with", "about", "25", "people", "ahead", "of", "us", "."], "e1_text": "Arrived", "e1_pos": 0, "e2_text": "opened", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "'ll", "try", "the", "other", "new", "location", "before", "I", "decide", "on", "whether", "to", "eat", "at", "either", "location", "again", "but", "my", "initial", "experience", "was", "n't", "good", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "decide", "e2_pos": 9, "label": "before"}
+]

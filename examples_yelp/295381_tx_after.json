@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waiter", "was", "exceptional", "until", "after", "our", "entree", "course", "was", "delivered", "."], "e1_text": "exceptional", "e1_pos": 3, "e2_text": "was", "e2_pos": 2, "label": "after"},
+{"tokens": ["We", "would", "have", "ordered", "desert", ",", "but", "after", "waiting", "a", "half", "hour", "for", "someone", "to", "come", "back", "decided", "to", "leave", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "decided", "e2_pos": 17, "label": "after"}
+]

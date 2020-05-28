@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "I", "discovered", "after", "leaving", "the", "tub", "project", "for", "last", ",", "Moen", "no", "longer", "makes", "a", "replacement", "for", "older", "spouts", "."], "e1_text": "discovered", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "was", "reluctant", "to", "use", "Papago", "Plating", "after", "reading", "some", "of", "the", "reviews", "on", "Yelp", ",", "but", "went", "ahead", "with", "the", "order", "anyway", "."], "e1_text": "use", "e1_pos": 4, "e2_text": "reading", "e2_pos": 8, "label": "after"}
+]

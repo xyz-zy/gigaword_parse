@@ -1,0 +1,4 @@
+[
+{"tokens": ["Beyond", "that", ",", "he", "did", "n't", "even", "let", "us", "taste", "the", "wine", "before", "he", "poured", "all", "of", "our", "glasses", "."], "e1_text": "taste", "e1_pos": 9, "e2_text": "poured", "e2_pos": 14, "label": "before"},
+{"tokens": ["Aside", "from", "that", ",", "the", "other", "servers", "were", "delightful", "but", "I", "would", "highly", "highly", "recommend", "that", "you", "think", "a", "few", "times", "before", "coming", "here", "for", "a", "celebratory", "meal", ",", "especially", "if", "you", "'re", "a", "wine", "connoisseur", "and", "a", "foodie", "who", "values", "service", "and", "proper", "dining", "etiquette", "."], "e1_text": "think", "e1_pos": 17, "e2_text": "coming", "e2_pos": 22, "label": "before"}
+]

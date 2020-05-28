@@ -1,0 +1,3 @@
+[
+{"tokens": ["Little", "did", "we", "know", "that", "it", "would", "take", "30", "minutes", "from", "the", "time", "we", "placed", "our", "order", ",", "to", "the", "time", "we", "received", "our", "first", "dish", "-LRB-", "Kobe", "Garlic", "Soy", "Steak", "-RRB-", ",", "then", "another", "30", "minutes", "before", "we", "received", "our", "Sashimi", "Tasting", "and", "plate", "of", "6", "Nigiri", "sushi", "pieces", "."], "e1_text": "received", "e1_pos": 22, "e2_text": "received", "e2_pos": 22, "label": "before"}
+]

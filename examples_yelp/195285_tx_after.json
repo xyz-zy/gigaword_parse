@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "him", "for", "an", "ice", "tea", ",", "after", "he", "forgot", "the", "first", "time", ",", "he", "scolded", "me", "and", "cut", "me", "off", "with", "''", "``", "okay", ",", "do", "n't", "worry", ",", "i", "got", "it", "''", "''", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "forgot", "e2_pos": 11, "label": "after"}
+]

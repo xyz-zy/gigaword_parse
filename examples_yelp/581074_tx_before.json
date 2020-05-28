@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "serious", "kinks", "need", "to", "be", "worked", "out", "before", "the", "Old", "Sweet", "Tomatoes", "becomes", "one", "of", "my", "new", "favorites", "-", "Field", "Kitchen", "."], "e1_text": "worked", "e1_pos": 6, "e2_text": "becomes", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "would", "like", "to", "give", "them", "a", "nice", "long", "list", "of", "kinks", "that", ",", "from", "a", "regular", "customers", "'", "point", "of", "view", ",", "need", "to", "be", "worked", "out", "before", "a", "somewhat", "good", "idea", "becomes", "another", "failed", "restaurant", "!"], "e1_text": "worked", "e1_pos": 26, "e2_text": "becomes", "e2_pos": 33, "label": "before"}
+]

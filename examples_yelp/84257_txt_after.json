@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "a", "call", "from", "her", "a", "few", "minutes", "after", "we", "returned", "to", "our", "room", "-LRB-", "after", "waiting", "for", "the", "bar", "to", "make", "our", "drinks", "-", "the", "Ballantyne", "was", "great", ",", "the", "basil", "one", "was", "disgusting", "and", "we", "dumped", "it", "-RRB-", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "returned", "e2_pos": 11, "label": "after"}
+]

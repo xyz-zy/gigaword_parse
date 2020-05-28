@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bibb", "Wedge", "|", "Avocado", ",", "Bacon", ",", "Oregon", "Smokey", "Blue", "--", "Good", "flavor", ",", "but", "I", "felt", "like", "I", "have", "had", "this", "before", "."], "e1_text": "felt", "e1_pos": 16, "e2_text": "have", "e2_pos": 19, "label": "before"},
+{"tokens": ["Finally", ",", "as", "if", "this", "was", "n't", "enough", ",", "before", "you", "leave", "and", "write", "your", "Yelp", "review", ",", "they", "present", "you", "with", "a", "bag", "of", "Chocolate", "Almond", "Brittle", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "leave", "e2_pos": 11, "label": "before"}
+]

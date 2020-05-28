@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "band", "plays", "while", "some", "of", "the", "show", "'s", "cast", "put", "on", "a", "show", "of", "their", "own", "before", "the", "next", "show", "starts", "."], "e1_text": "put", "e1_pos": 10, "e2_text": "starts", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["With", "two", "people", "...", "we", "ended", "up", "paying", "$", "100", "round", "trip", "for", "baggage", "fees", ",", "received", "extremely", "rude", "service", ",", "and", "sat", "on", "the", "return", "flight", "for", "over", "an", "hour", "while", "they", "replaced", "a", "broken", "radio", "-LRB-", "yes", ",", "they", "boarded", "an", "entire", "flight", "before", "this", "was", "discovered", "-RRB-", "."], "e1_text": "boarded", "e1_pos": 41, "e2_text": "was", "e2_pos": 47, "label": "before"}
+]

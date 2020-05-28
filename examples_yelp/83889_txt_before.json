@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "count", "your", "change", "before", "leaving", "this", "location", "!"], "e1_text": "count", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "was", "not", "given", "the", "correct", "change", "on", "two", "occasions", "and", "notices", "before", "walking", "out", "."], "e1_text": "given", "e1_pos": 3, "e2_text": "walking", "e2_pos": 13, "label": "before"}
+]

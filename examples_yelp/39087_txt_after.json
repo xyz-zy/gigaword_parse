@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "bought", "hair", "products", ",", "mint", "soaps", ",", "and", "after", "shaves", "from", "here", ",", "and", "even", "the", "most-macho", "guys", "grin", "from", "ear-to-ear", "when", "they", "find", "themselves", "the", "lucky", "recipients", "!"], "e1_text": "bought", "e1_pos": 2, "e2_text": "shaves", "e2_pos": 11, "label": "after"},
+{"tokens": ["But", "I", "still", "love", "the", "products", ",", "even", "though", "I", "almost-always", "now", "get", "them", "at", "Tempe", "'s", "Moodswings", "salon", "...", "\\*", "Helpful", "tip", ":", "Epsom", "salt", "baths", "are", "great", "after", "getting", "massages", ";", "a", "soak", "helps", "to", "significantly", "mitigate", "soreness", "you", "may", "sometimes", "experience", "after", "an", "intense", "session", "by", "reducing", "inflammation", "."], "e1_text": "are", "e1_pos": 27, "e2_text": "getting", "e2_pos": 30, "label": "after"}
+]

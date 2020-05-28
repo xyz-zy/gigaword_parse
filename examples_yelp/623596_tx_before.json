@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "just", "walked", "in", "a", "circle", "around", "the", "restaurant", "before", "going", "back", "to", "the", "front", "to", "ask", "another", "hostess", "for", "help", "on", "where", "to", "seat", "us", "?!", "We", "ordered", "the", "mussels", ",", "which", "were", "super", "tiny", "and", "came", "with", "half", "of", "them", "still", "closed", "."], "e1_text": "walked", "e1_pos": 2, "e2_text": "going", "e2_pos": 10, "label": "before"}
+]

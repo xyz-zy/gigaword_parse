@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "said", ",", "I", "rarely", "saw", "my", "female", "server", ",", "and", "most", "of", "my", "interactions", "were", "with", "the", "busser", ",", "who", "brought", ":", "ice", "water", "to", "me", "after", "I", "had", "been", "sitting", "outside", "for", "about", "15", "minutes", ",", "with", "my", "pizza", "order", "already", "placed", "5", "minutes", "ago", ";", "a", "candle", "when", "it", "became", "too", "dark", "to", "see", ";", "and", "table", "bread", "when", "I", "asked", "for", "it", "."], "e1_text": "brought", "e1_pos": 22, "e2_text": "had", "e2_pos": 30, "label": "after"}
+]

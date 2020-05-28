@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "final", "bill", "ended", "up", "being", "$", "88", ",", "$", "32", "to", "disconnect", "my", "phone", "lines", "-LRB-", "2x", "$", "16", "-RRB-", "and", "a", "late", "charge", "of", "$", "11", "because", "after", "i", "moved", "i", "received", "a", "bill", "for", "$", "193", "for", "my", "monthly", "service", "and", "i", "did", "not", "pay", "it", "because", "i", "had", "canceled", "the", "service", "."], "e1_text": "disconnect", "e1_pos": 12, "e2_text": "moved", "e2_pos": 31, "label": "after"}
+]

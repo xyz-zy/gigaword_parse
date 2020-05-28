@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "nice", "enough", "but", "kinda", "disappeared", "when", "we", "were", "finished", "with", "our", "food", "...", "we", "waited", "around", "a", "good", "15", "minutes", "for", "her", "to", "come", "back", "and", "wrap", "Mr.", "'s", "leftovers", "and", "ask", "if", "we", "wanted", "dessert", ",", "then", "another", "10", "minutes", "after", "finishing", "dessert", "for", "her", "to", "come", "back", "with", "the", "check", "."], "e1_text": "waited", "e1_pos": 17, "e2_text": "finishing", "e2_pos": 45, "label": "after"}
+]

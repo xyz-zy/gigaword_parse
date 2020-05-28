@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "the", "veggie", "quesadilla", "after", "waiting", "ample", "time", "that", "the", "food", "should", "have", "been", "on", "it", "'s", "way", "out", ",", "instead", ",", "the", "waitress", "comes", "back", "to", "confess", "that", "it", "would", "be", "10", "more", "minutes", "if", "I", "was", "to", "wait", "on", "the", "tortillas", "that", "they", "were", "out", "of", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 6, "label": "after"},
+{"tokens": ["But", "the", "server", "was", "not", "so", "bright", "either", ",", "she", "brought", "a", "pitcher", "of", "water", "with", "no", "ice", "to", "the", "outdoor", "patio", "after", "we", "waited", "forever", "for", "refills", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "waited", "e2_pos": 24, "label": "after"}
+]

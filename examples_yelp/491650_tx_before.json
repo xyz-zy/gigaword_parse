@@ -1,0 +1,4 @@
+[
+{"tokens": ["Definitely", "dont", "miss", ":", "the", "Gelato", "Bar", "12", "exotic", "flavors", "that", "I", "definitely", "had", "not", "seen", "at", "any", "other", "buffet", "before", "."], "e1_text": "Bar", "e1_pos": 6, "e2_text": "had", "e2_pos": 13, "label": "before"},
+{"tokens": ["Get", "there", "before", "the", "line", "gets", "long", "."], "e1_text": "Get", "e1_pos": 0, "e2_text": "gets", "e2_pos": 5, "label": "before"}
+]

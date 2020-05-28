@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "reservations", "2-3", "times", "over", "the", "phone", "because", "they", "lost", "our", "reservation", "5", "mins", "after", "making", "it", "when", "we", "called", "back", "to", "change", "the", "time", "."], "e1_text": "lost", "e1_pos": 10, "e2_text": "making", "e2_pos": 16, "label": "after"},
+{"tokens": ["When", "we", "got", "there", ",", "they", "told", "us", "to", "wait", "&", "we", "did", "for", "10", "mins", "then", "finally", "after", "observing", "that", "there", "was", "a", "ton", "of", "open", "seating", "available", "my", "friend", "went", "up", "tot", "he", "hostess", "podium", "&", "asked", "how", "much", "longer", "it", "would", "be", "&", "all", "3", "of", "them", "-LRB-", "all", "girls", "-RRB-", "looked", "at", "her", "like", "''", "``", "you", "guys", "were", "waiting", "?", "''", "''"], "e1_text": "wait", "e1_pos": 9, "e2_text": "observing", "e2_pos": 19, "label": "after"}
+]

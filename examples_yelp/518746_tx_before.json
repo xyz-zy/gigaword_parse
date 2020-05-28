@@ -1,0 +1,4 @@
+[
+{"tokens": ["These", "were", "dredged", "in", "flour", "before", "being", "fried", "but", "the", "crust", "flaked", "off", "very", "easily", ";", "it", "did", "n't", "stick", "."], "e1_text": "dredged", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "waitress", "was", "very", "nice", "and", "apologetic", ",", "but", "if", "you", "have", "this", "problem", "often", "like", "it", "seemed", "they", "do", ",", "then", "let", "us", "know", "before", "we", "order", "so", "we", "can", "figure", "something", "out", "."], "e1_text": "know", "e1_pos": 24, "e2_text": "order", "e2_pos": 27, "label": "before"}
+]

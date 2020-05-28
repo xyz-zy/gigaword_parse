@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cooks", "need", "to", "be", "a", "little", "more", "aware", "and", "make", "sure", "nothing", "remains", "on", "the", "wok", "before", "they", "prepare", "the", "next", "meal", "."], "e1_text": "make", "e1_pos": 10, "e2_text": "prepare", "e2_pos": 19, "label": "before"}
+]

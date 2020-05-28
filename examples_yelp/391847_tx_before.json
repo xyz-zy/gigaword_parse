@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "come", "here", "before", "heading", "to", "the", "Palms", "Mid-Summer", "Nights", "."], "e1_text": "come", "e1_pos": 3, "e2_text": "heading", "e2_pos": 6, "label": "before"},
+{"tokens": ["Thank", "goodness", "we", "did", "n't", "read", "the", "review", "before", "going", "here", "."], "e1_text": "read", "e1_pos": 5, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

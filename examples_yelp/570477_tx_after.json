@@ -1,0 +1,3 @@
+[
+{"tokens": ["3", "-RRB-", "Checking", "in", ",", "we", "waited", "in", "a", "line", "for", "15", "minutes", "and", "when", "we", "got", "to", "the", "front", "desk", ",", "they", "said", "we", "needed", "to", "get", "back", "in", "line", "in", "20", "minutes", "because", "the", "line", "to", "get", "in", "after", "that", "line", "was", "too", "long", "-LRB-", "it", "was", "really", "short", "so", "we", "scratched", "our", "heads", "-RRB-", "."], "e1_text": "get", "e1_pos": 27, "e2_text": "was", "e2_pos": 43, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "even", "out", "of", "the", "vehicle", "before", "I", "was", "greeted", "by", "a", "couple", "of", "obnoxious", "drunk", "guys", "spouting", "off", "at", "the", "mouth", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["Thankfully", "they", "were", "ready", "to", "seat", "us", "before", "we", "even", "got", "to", "order", "...", "so", "we", "proceeded", "to", "the", "table", "."], "e1_text": "seat", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["That", "'s", "fine", ",", "but", "it", "was", "several", "minutes", "before", "anyone", "was", "seated", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "waited", "a", "good", "nearly", "10", "minutes", "before", "someone", "came", "to", "the", "table", "and", "we", "ordered", "our", "food", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "couple", "seated", "just", "before", "us", "was", "already", "finished", "eating", "by", "the", "time", "we", "got", "our", "soup", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

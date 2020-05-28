@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "my", "visit", "last", "night", ",", "the", "broiler", "and", "deep", "fryer", "were", "n't", "working", ",", "so", "half", "of", "the", "menu", "items", "were", "unavailable", ",", "something", "that", "was", "n't", "told", "to", "me", "until", "after", "I", "had", "made", "a", "reservation", ",", "after", "I", "had", "been", "seated", "and", "after", "the", "wine", "I", "ordered", "had", "been", "opened", "."], "e1_text": "told", "e1_pos": 28, "e2_text": "had", "e2_pos": 34, "label": "after"},
+{"tokens": ["It", "'s", "normal", "practice", "for", "a", "waiter", "to", "ask", "about", "your", "meal", "shortly", "after", "serving", "it", "."], "e1_text": "ask", "e1_pos": 8, "e2_text": "serving", "e2_pos": 14, "label": "after"}
+]

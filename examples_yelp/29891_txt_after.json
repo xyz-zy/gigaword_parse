@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "the", "filters", "after", "making", "some", "calls", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "making", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "was", "promised", "$", "200", "aps", "rebate", "but", "i", "have", "n't", "got", "it", "yet", "and", "have", "n't", "received", "call", "back", "from", "accutemp", "after", "several", "follow", "up", "call", "."], "e1_text": "call", "e1_pos": 18, "e2_text": "follow", "e2_pos": 24, "label": "after"}
+]

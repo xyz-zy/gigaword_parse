@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "eaten", "here", "many", "times", "before", "when", "they", "were", "their", "own", "restaurant", "and", "was", "not", "part", "of", "Bachi", "burger", ",", "and", "I", "'m", "very", "familiar", "with", "their", "menu", "."], "e1_text": "eaten", "e1_pos": 2, "e2_text": "were", "e2_pos": 9, "label": "before"},
+{"tokens": ["And", "I", "knew", "the", "broth", "was", "mushroom", "based", ",", "but", "since", "I", "ate", "here", "many", "times", "before", "I", "was", "okay", "with", "the", "broth", ",", "I", "was", "just", "allergic", "to", "the", "actual", "mushroom", "."], "e1_text": "ate", "e1_pos": 12, "e2_text": "was", "e2_pos": 5, "label": "before"}
+]

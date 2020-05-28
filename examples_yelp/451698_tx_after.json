@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "after", "driving", "for", "hours", "!!!", "He", "did", "n't", "even", "care", "if", "we", "have", "children", "or", "if", "my", "mom", "has", "her", "oxygen", "stuff", "!"], "e1_text": "is", "e1_pos": 1, "e2_text": "driving", "e2_pos": 3, "label": "after"},
+{"tokens": ["All", "I", "said", "was", "they", "need", "to", "show", "better", "customer", "service", "and", "should", "learn", "how", "to", "treat", "people", "well", "especially", "after", "they", "messed", "up", "our", "reservation", "then", "she", "hang", "up", "!!!", "Too", "bad", "we", "have", "to", "wait", "longer", "to", "check-in", "to", "another", "hotel", "!!!!", "THEY", "DIDNT", "EVEN", "CARE", "IT", "'S", "CHRISTMAS", "!!!!!!"], "e1_text": "treat", "e1_pos": 16, "e2_text": "messed", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "got", "our", "pizza", "and", "wings", "after", "waiting", "a", "reasonable", "time", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "asked", "for", "diet", "coke", ",", "she", "brought", "bought", "of", "us", "coke", "-LRB-", "after", "we", "told", "her", "diet", "coke", "each", "of", "the", "three", "times", "she", "asked", ".", "-RRB-"], "e1_text": "coke", "e1_pos": 11, "e2_text": "told", "e2_pos": 15, "label": "after"}
+]

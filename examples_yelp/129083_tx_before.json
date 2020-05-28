@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "it", "takes", "all", "night", "to", "cool", "down", "before", "it", "heats", "up", "again", "the", "next", "day", "when", "it", "shuts", "off", "while", "you", "are", "away", "."], "e1_text": "cool", "e1_pos": 6, "e2_text": "heats", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Therefore", ",", "your", "battery", "will", "be", "gone", "before", "the", "concert", "is", "over", "."], "e1_text": "gone", "e1_pos": 6, "e2_text": "is", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "charged", "mine", "to", "98", "%", "before", "entering", "the", "concert", "and", "at", "the", "end", "mine", "was", "the", "only", "one", "that", "was", "alive", "at", "all", "."], "e1_text": "charged", "e1_pos": 1, "e2_text": "entering", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "usually", "try", "to", "get", "there", "kind", "of", "early", "and", "leave", "before", "it", "gets", "busy", "so", "I", "'m", "not", "taking", "up", "a", "table", "."], "e1_text": "leave", "e1_pos": 10, "e2_text": "gets", "e2_pos": 13, "label": "before"},
+{"tokens": ["Just", "over", "an", "hour", "later", ",", "I", "was", "approached", "by", "a", "middle-aged", "man", "whom", "I", "assume", "is", "the", "owner", "or", "manager", "but", "whom", "I", "'ve", "never", "seen", "before", "."], "e1_text": "assume", "e1_pos": 15, "e2_text": "'ve", "e2_pos": 24, "label": "before"}
+]

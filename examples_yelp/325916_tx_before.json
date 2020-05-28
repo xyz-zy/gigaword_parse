@@ -1,0 +1,4 @@
+[
+{"tokens": ["Grabbed", "a", "quick", "bite", "here", "before", "a", "show", "and", "the", "burger", "was", "perfectly", "cooked", "."], "e1_text": "Grabbed", "e1_pos": 0, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["Another", "night", "we", "stopped", "in", "to", "eat", "a", "snack", "and", "drink", "some", "caffeine", "before", "going", "back", "to", "the", "tables", "."], "e1_text": "drink", "e1_pos": 10, "e2_text": "going", "e2_pos": 14, "label": "before"}
+]

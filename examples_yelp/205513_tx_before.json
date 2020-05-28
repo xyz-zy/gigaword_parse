@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "going", "to", "ask", "about", "dessert", "before", "the", "entrees", "came", "-LRB-", "perhaps", "that", "was", "the", "martini", "talking", "-RRB-", ",", "but", "the", "cheque", "came", "before", "I", "could", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "came", "e2_pos": 10, "label": "before"}
+]

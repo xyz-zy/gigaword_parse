@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "original", "review", "follows", "below", ",", "and", "the", "rating", "is", "unchanged", ":", "We", "went", "to", "Bei", "after", "hearing", "our", "favorite", "place", ",", "in", "North", "Phoenix", ",", "had", "effectively", "shut", "down", "and", "died", "a", "horrible", "death", "."], "e1_text": "Bei", "e1_pos": 15, "e2_text": "hearing", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "ended", "up", "using", "the", "bathroom", "of", "another", "establishment", "after", "finishing", "our", "meal", "."], "e1_text": "using", "e1_pos": 3, "e2_text": "finishing", "e2_pos": 10, "label": "after"}
+]

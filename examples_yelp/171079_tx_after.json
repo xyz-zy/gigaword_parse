@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'d", "booked", "on", "Priceline", "more", "than", "12", "hours", "in", "advance", ",", "but", "they", "could", "n't", "find", "any", "record", "of", "my", "reservation", ",", "which", "turned", "into", "a", "weird", "bait-and-switch", "of", "having", "me", "pay", "full", "after", "I", "had", "already", "been", "charged", "by", "Priceline", "."], "e1_text": "pay", "e1_pos": 32, "e2_text": "had", "e2_pos": 36, "label": "after"}
+]

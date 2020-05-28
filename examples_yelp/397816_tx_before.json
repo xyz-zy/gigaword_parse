@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "knowing", "that", "barstools", "are", "removed", "from", "the", "bar", "just", "before", "a", "game", "is", "over", ",", "my", "brother", "met", "up", "with", "another", "brother", "there", "-LRB-", "Westgate", "-RRB-", ",", "he", "is", "a", "disabled", "Navy", "vet", ",", "ca", "n't", "stand", "too", "long", "and", "asked", "the", "bartender", "if", "he", "could", "pull", "up", "a", "barstool", "to", "sit", "and", "was", "given", "the", "ok", "."], "e1_text": "removed", "e1_pos": 5, "e2_text": "is", "e2_pos": 13, "label": "before"}
+]

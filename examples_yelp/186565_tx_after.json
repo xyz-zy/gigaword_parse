@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "second", "time", "I", "was", "there", "the", "server", "never", "came", "back", "after", "serving", "our", "food", ",", "she", "did", "n't", "once", "ask", "if", "the", "food", "was", "OK", "and", "we", "were", "out", "of", "water", "for", "what", "seemed", "like", "an", "eternity", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "serving", "e2_pos": 12, "label": "after"}
+]

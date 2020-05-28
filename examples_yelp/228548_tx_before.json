@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unlike", "the", "reviews", "I", "read", "before", "going", "we", "did", "stay", "for", "the", "second", "movie", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "going", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "one", "thing", "we", "did", "not", "know", "and", "could", "not", "find", "a", "bank", "before", "getting", "there", "was", "the", "entrance", "only", "accepts", "cash", ",", "however", "their", "were", "very", "nice", "and", "let", "us", "in", "to", "go", "to", "the", "consession", "stand", "to", "the", "ATM", "to", "get", "cash", "and", "walk", "back", "to", "pay", "."], "e1_text": "find", "e1_pos": 10, "e2_text": "getting", "e2_pos": 14, "label": "before"}
+]

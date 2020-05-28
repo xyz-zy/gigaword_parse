@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "note", "that", "no", "one", "else", "got", "food", "poisoning", "except", "for", "me", ",", "but", "nonetheless", "I", "have", "never", "gotten", "this", "sick", "after", "eating", "sushi", "before", "and", "I", "eat", "it", "quite", "a", "bit", "."], "e1_text": "gotten", "e1_pos": 19, "e2_text": "eating", "e2_pos": 23, "label": "before"}
+]

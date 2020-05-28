@@ -1,0 +1,4 @@
+[
+{"tokens": [":-RRB-", "Back", "to", "my", "hubby", "'s", "care", "...", "less", "than", "an", "hour", "after", "we", "arrived", ",", "we", "were", "on", "our", "way", "out", "with", "a", "kidney", "infection", "diagnosis", "and", "prescription", "for", "antibiotics", "in", "hand", "."], "e1_text": ":-RRB-", "e1_pos": 0, "e2_text": "arrived", "e2_pos": 14, "label": "after"},
+{"tokens": ["What", "impressed", "me", "most", ",", "however", ",", "is", "that", "the", "doctor", "from", "Advantage", "actually", "called", "us", "three", "days", "after", "he", "saw", "my", "husband", ",", "to", "give", "him", "the", "results", "of", "his", "lab", "culture", "-LRB-", "diagnosis", "confirmed", "-RRB-", "and", "to", "make", "sure", "that", "he", "was", "indeed", "feeling", "better", "and", "did", "not", "need", "further", "care", "."], "e1_text": "called", "e1_pos": 14, "e2_text": "saw", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "again", "my", "check", "tire", "light", "come", "on", "so", "before", "driving", "all", "the", "way", "to", "this", "dealership", "i", "had", "my", "tire", "checked", "to", "ensure", "it", "was", "just", "the", "air", "in", "the", "tires", "."], "e1_text": "come", "e1_pos": 6, "e2_text": "driving", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "called", "in", "and", "spoke", "with", "the", "''", "``", "customer", "service", "manager", "''", "''", "as", "I", "had", "spoken", "with", "her", "twice", "before", "and", "she", "was", "very", "interested", "in", "making", "sure", "my", "problems", "were", "fixed", "from", "the", "past", "experience", "."], "e1_text": "spoke", "e1_pos": 4, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

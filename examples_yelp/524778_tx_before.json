@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "the", "lobster", "roll", "-LRB-", "medium", "-", "$", "18", "-RRB-", ",", "Lobster", "Grilled", "cheese", "-LRB-", "I", "believe", "it", "was", "$", "13", "-RRB-", "and", "lobster", "mac", "n", "cheese", "-LRB-", "dang", ",", "I", "was", "tired", "-", "I", "forget", "the", "price", "but", "I", "'m", "guessing", "$", "15", "-RRB-", "Glad", "I", "bought", "a", "large", "can", "of", "Corona", "-LRB-", "$", "10", "-RRB-", "-", "I", "just", "about", "killed", "the", "can", "before", "the", "food", "showed", "up", "."], "e1_text": "killed", "e1_pos": 62, "e2_text": "showed", "e2_pos": 68, "label": "before"}
+]

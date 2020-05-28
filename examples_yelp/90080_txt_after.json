@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Gate", "Attendant", "was", "incredibly", "rude", "and", "disrespectful", "to", "us", "if", "front", "of", "other", "customers", "-LRB-", "and", ",", "this", "was", "after", "we", "volunteered", "to", "give", "up", "our", "window", "seat", "because", "she", "needed", "someone", "to", "sit", "in", "the", "exit", "isle", ".", "-RRB-"], "e1_text": "was", "e1_pos": 3, "e2_text": "volunteered", "e2_pos": 22, "label": "after"}
+]

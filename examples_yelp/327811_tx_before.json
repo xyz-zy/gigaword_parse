@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "sat", "at", "the", "table", "for", "ten", "minutes", "before", "any", "of", "the", "waiters", "recognized", "us", "and", "when", "he", "did", "show", "up", ",", "he", "ignored", "us", "and", "claimed", "to", "have", "not", "seen", "us", "even", "though", "he", "stared", "straight", "at", "my", "brother", "and", "I.", "After", "all", "that", "was", "figured", "out", "we", "each", "ordered", "a", "glass", "of", "ice", "water", "and", "a", "2", "orders", "of", "wings", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "recognized", "e2_pos": 13, "label": "before"}
+]

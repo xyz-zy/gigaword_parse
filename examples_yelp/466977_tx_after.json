@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "hoping", "for", "hot", "food", "but", "realized", "after", "scanning", "the", "menu", "that", "the", "offerings", "are", "all", "raw", "."], "e1_text": "realized", "e1_pos": 7, "e2_text": "scanning", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "was", "expecting", "more", "after", "seeing", "all", "the", "good", "reviews", "but", "left", "disappointed", "."], "e1_text": "expecting", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

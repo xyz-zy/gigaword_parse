@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "finally", "getting", "parked", ",", "after", "waiting", "in", "line", "for", "10", "minuted", "to", "get", "parked", "I", "walked", "into", "the", "Casino", "to", "find", "the", "hotel", "check-in", ",", "but", "there", "was", "no", "directional", "signs", "to", "tell", "me", "where", "to", "go", "."], "e1_text": "parked", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 6, "label": "after"}
+]

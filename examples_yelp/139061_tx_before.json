@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "me", "just", "say", ",", "though", ",", "that", "when", "a", "party", "of", "four", "walks", "into", "a", "restaurant", "two", "hours", "before", "closing", "on", "a", "Friday", "night", "and", "you", "have", "only", "one", "table", "seated", "in", "each", "section", ",", "there", "is", "clearly", "a", "reason", "."], "e1_text": "walks", "e1_pos": 13, "e2_text": "closing", "e2_pos": 20, "label": "before"}
+]

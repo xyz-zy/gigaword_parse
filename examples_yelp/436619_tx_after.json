@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "get", "there", "from", "the", "airport", ",", "you", "have", "to", "take", "the", "shuttle", "to", "the", "rental", "car", "canter", "and", "then", "take", "another", "shuttle", "to", "their", "location", ",", "which", "is", "a", "huge", "waste", "of", "time", "and", "really", "annoying", "after", "being", "on", "a", "plane", "all", "day", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "being", "e2_pos": 38, "label": "after"},
+{"tokens": ["I", "actually", "walked", "out", "without", "going", "through", "with", "the", "rental", "after", "having", "to", "deal", "with", "them", "and", "took", "the", "shuttle", "back", "to", "the", "rental", "terminal", "to", "rent", "with", "budget", "instead", "."], "e1_text": "going", "e1_pos": 5, "e2_text": "having", "e2_pos": 11, "label": "after"}
+]

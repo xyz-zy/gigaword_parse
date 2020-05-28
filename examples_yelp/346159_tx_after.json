@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitress", "did", "n't", "check", "in", "with", "me", "after", "handing", "me", "the", "food", ",", "the", "sausages", "were", "way", "over", "cooked", "and", "seemed", "to", "be", "recooked", "from", "yesterday", "-LRB-", "outer", "crust", "peeling", ",", "dry", "and", "tough", "crust", "and", "dry", "tasteless", "inside", "-RRB-", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "handing", "e2_pos": 8, "label": "after"}
+]

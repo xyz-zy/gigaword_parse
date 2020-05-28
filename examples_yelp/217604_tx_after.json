@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "down", "at", "a", "table", "with", "dirty", "plates", "-LRB-", "after", "hawking", "a", "table", "-RRB-", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "hawking", "e2_pos": 11, "label": "after"},
+{"tokens": ["My", "burger", "was", "ok", ",", "but", "not", "worth", "$", "10", "-LRB-", "after", "adding", "cheese", "and", "tax", "-RRB-", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "adding", "e2_pos": 12, "label": "after"}
+]

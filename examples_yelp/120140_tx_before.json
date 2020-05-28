@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "have", "to", "walk", "-LRB-", "no", "people", "movers", ";", "no", "tram", "like", "you", "had", "when", "you", "arrived", "-RRB-", "at", "least", "100", "yards", "before", "you", "get", "to", "the", "first", "gates", "that", "start", "at", "number", "25", "or", "so", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "get", "e2_pos": 24, "label": "before"}
+]

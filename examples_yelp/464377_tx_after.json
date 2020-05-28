@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "however", "have", "to", "remind", "the", "waitress", "at", "the", "pool", "about", "my", "sandwich", "...", "I", "received", "it", "almost", "a", "hour", "after", "ordering", "so", "good", "thing", "we", "were", "n't", "starving", "or", "in", "a", "hurry", "."], "e1_text": "received", "e1_pos": 16, "e2_text": "ordering", "e2_pos": 22, "label": "after"}
+]

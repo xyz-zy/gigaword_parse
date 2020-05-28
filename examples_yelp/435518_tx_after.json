@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "kind", "of", "seemingly", "sexist", "-LRB-", "all", "girls", "got", "in", "-RRB-", "and", "rude", "treatment", "is", "NOT", "something", "I", "deserve", "after", "shelling", "out", "GOOD", "MONEY", "to", "stay", "here", "as", "a", "guest", "."], "e1_text": "deserve", "e1_pos": 18, "e2_text": "shelling", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "wanted", "to", "try", "more", "but", "after", "my", "experiences", "decided", "against", "it", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "decided", "e2_pos": 9, "label": "after"}
+]

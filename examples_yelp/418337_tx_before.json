@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "told", "that", "I", "would", "have", "to", "pay", "first", ",", "before", "any", "parts", "were", "ordered", "???", "If", "I", "did", "not", "pay", "now", ",", "would", "I", "have", "to", "come", "back", "AGAIN", "later", "and", "thus", "prolong", "the", "repair", "...", "I", "NEED", "my", "computer", "."], "e1_text": "pay", "e1_pos": 8, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

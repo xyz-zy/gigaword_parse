@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "I", "ate", "all", "the", "fries", "-LRB-", "or", "`", "frites", "'", "-RRB-", "at", "MSB", "before", "I", "had", "even", "taken", "two", "bites", "of", "best", "burger", "ever", "."], "e1_text": "ate", "e1_pos": 2, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

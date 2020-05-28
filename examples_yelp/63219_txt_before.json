@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "a", "weekend", "of", "fast", "food", "and", "tasteless", "cafeteria", "food", "at", "the", "Grand", "Canyon", ",", "we", "were", "in", "search", "for", "a", "decent", "dining", "option", "in", "Vegas", "before", "heading", "back", "to", "our", "respective", "home", "cities", "."], "e1_text": "were", "e1_pos": 16, "e2_text": "heading", "e2_pos": 27, "label": "before"}
+]

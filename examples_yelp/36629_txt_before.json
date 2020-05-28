@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", ",", "I", "dropped", "off", "another", "prescription", "and", "before", "leaving", "they", "''", "``", "checked", "''", "''", "the", "prescription", "to", "make", "sure", "there", "were", "n't", "any", "''", "``", "problems", "''", "''", "to", "delay", "it", "being", "filled", "."], "e1_text": "dropped", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 9, "label": "before"},
+{"tokens": ["After", "finally", "speaking", "with", "someone", "about", "who", "I", "was", ",", "I", "was", "again", "placed", "on", "hold", "for", "another", "5", "minutes", "before", "they", "came", "back", "and", "I", "was", "able", "to", "explain", "to", "them", "the", "protocol", "."], "e1_text": "placed", "e1_pos": 13, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

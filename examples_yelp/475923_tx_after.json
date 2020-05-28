@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "not", "about", "getting", "stuff", "for", "free", ",", "but", "you", "'d", "think", "after", "they", "made", "us", "wait", "for", "that", "long", "the", "owner", "would", "send", "everyone", "a", "gift", "card", "or", "something", "."], "e1_text": "think", "e1_pos": 12, "e2_text": "made", "e2_pos": 15, "label": "after"},
+{"tokens": ["Well", "the", "point", "is", "after", "everything", "they", "did", ",", "they", "still", "think", "it", "'s", "not", "their", "fault", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "did", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "all", "the", "other", "Yelpers", "reviews", "before", "driving", "the", "30", "minutes", "from", "my", "house", "to", "this", "locations", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "driving", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "gel", "polish", "only", "lasted", "3", "days", "before", "chipping", "off", "badly", "."], "e1_text": "lasted", "e1_pos": 4, "e2_text": "chipping", "e2_pos": 8, "label": "before"}
+]

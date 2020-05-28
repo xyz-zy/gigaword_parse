@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "was", "yogurt", "on", "which", "I", "happened", "to", "glance", "at", "the", "expiration", "date", "and", "see", "it", "had", "expired", "a", "MONTH", "before", "."], "e1_text": "see", "e1_pos": 14, "e2_text": "had", "e2_pos": 16, "label": "before"}
+]

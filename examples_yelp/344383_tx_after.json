@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "school", "started", ",", "I", "'ve", "slowly", "reverted", "back", "to", "a", "planned", "schedule", "and", "the", "spontaneity", "of", "getting", "the", "tickets", "for", "my", "parents", "on", "the", "day", "of", "meant", "hopping", "on", "a", "couple", "of", "buses", "and", "running", "straight", "for", "the", "theater", "after", "my", "last", "class", "ended", "."], "e1_text": "running", "e1_pos": 35, "e2_text": "ended", "e2_pos": 44, "label": "after"}
+]

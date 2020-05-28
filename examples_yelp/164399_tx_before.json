@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "I", "look", "into", "hotels", "for", "an", "upcoming", "Vegas", "trip", "this", "winter", ",", "I", "considered", "the", "Mirage", ",", "then", "remembered", "our", "last", "stay", "with", "them", "was", "all", "too", "stressful", "and", "that", "I", "would", "have", "to", "run", "out", "of", "other", "hotel", "options", "before", "staying", "with", "them", "again", "."], "e1_text": "run", "e1_pos": 35, "e2_text": "staying", "e2_pos": 42, "label": "before"}
+]

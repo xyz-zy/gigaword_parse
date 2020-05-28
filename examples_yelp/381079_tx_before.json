@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "around", "6:30", "on", "a", "Friday", "when", "my", "husband", "was", "trying", "to", "find", "something", "quick", "to", "get", "just", "before", "our", "plane", "was", "going", "to", "board", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["The", "burrito", "had", "some", "kind", "of", "off", "peanut", "buttery", "taste", "to", "it", ",", "and", "despite", "the", "fact", "that", "I", "was", "starving", ",", "I", "managed", "to", "only", "eat", "a", "couple", "bites", "before", "giving", "up", "."], "e1_text": "eat", "e1_pos": 26, "e2_text": "giving", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "dropped", "by", "Rao", "'s", "about", "a", "half", "hour", "before", "they", "opened", "and", "inquired", "as", "to", "when", "they", "were", "opening", "for", "the", "night", "."], "e1_text": "dropped", "e1_pos": 1, "e2_text": "opened", "e2_pos": 11, "label": "before"},
+{"tokens": ["Their", "food", "may", "be", "wonderful", ",", "but", "I", "will", "never", "eat", "there", "on", "future", "trips", "to", "Vegas", "and", "I", "hope", "this", "gives", "you", "pause", "before", "going", "there", "yourself", "."], "e1_text": "gives", "e1_pos": 21, "e2_text": "going", "e2_pos": 25, "label": "before"}
+]

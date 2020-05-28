@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "'ll", "see", "other", "one", "and", "two", "star", "reviews", "on", "this", "site", "before", "mine", "that", "attest", "to", "the", "same", "thing", "."], "e1_text": "see", "e1_pos": 2, "e2_text": "attest", "e2_pos": 15, "label": "before"},
+{"tokens": ["Know", "the", "store", "policies", "carefully", "before", "you", "buy", "."], "e1_text": "Know", "e1_pos": 0, "e2_text": "buy", "e2_pos": 7, "label": "before"}
+]

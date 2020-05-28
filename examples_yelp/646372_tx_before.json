@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sweet", "potato", "fries", "are", "cold", "and", "soggy", ",", "and", "the", "manly", "burger", "tasted", "like", "it", "was", "sitting", "out", "for", "20min", "before", "they", "brought", "it", "out", "."], "e1_text": "sitting", "e1_pos": 16, "e2_text": "brought", "e2_pos": 22, "label": "before"}
+]

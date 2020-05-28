@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "was", "wayyy", "overpriced", "for", "the", "taste", "of", "an", "ordinary", "restaurant", ",", "I", "should", "'ve", "known", "when", "the", "food", "came", "out", "less", "then", "10", "minutes", "after", "ordering", "."], "e1_text": "came", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 26, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["At", "check", "in", ",", "I", "was", "told", "that", "special", "deal", "had", "run", "out", "even", "though", "when", "I", "booked", "it", "and", "after", ",", "the", "special", "still", "was", "posted", "online", "and", "I", "provided", "a", "copy", "of", "this", "advertisement", "."], "e1_text": "told", "e1_pos": 6, "e2_text": "had", "e2_pos": 10, "label": "after"},
+{"tokens": ["In", "fact", ",", "we", "were", "able", "to", "check", "in", "after", "3pm", ",", "which", "is", "the", "normal", "check", "in", "time", "."], "e1_text": "check", "e1_pos": 7, "e2_text": "is", "e2_pos": 13, "label": "after"},
+{"tokens": ["Thus", "we", "had", "nothing", "to", "drink", "out", "of", "and", "had", "no", "glass", "to", "rinse", "after", "brushing", "."], "e1_text": "rinse", "e1_pos": 13, "e2_text": "brushing", "e2_pos": 15, "label": "after"}
+]

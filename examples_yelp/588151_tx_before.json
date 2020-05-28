@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "expect", "to", "wait", "before", "being", "seated", "and", "that", "was", "fine", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "being", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "servers", "need", "to", "pay", "attention", "to", "what", "their", "customers", "are", "drinking", "or", "at", "least", "ask", "before", "pouring", "anything", "into", "our", "glasses", "."], "e1_text": "ask", "e1_pos": 15, "e2_text": "pouring", "e2_pos": 17, "label": "before"}
+]

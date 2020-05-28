@@ -1,0 +1,3 @@
+[
+{"tokens": ["Negatives", ":", "bean", "dip", "was", "like", "water", ",", "chicken", "fajitas", "has", "microscopic", "pieces", "of", "chicken", "and", "peppers", ",", "poor", "service", "...", "my", "dish", "was", "brought", "out", "5", "minutes", "After", "2", "other", "dishes", "were", "served", "to", "my", "party", ",", "tortillas", "were", "brought", "out", "5", "minutes", "after", "I", "received", "my", "fajitas", ",", "tortillas", "were", "full", "of", "flour", "and", "you", "only", "receive", "2", ",", "inadequate", "parking", "on", "Sat", "."], "e1_text": "brought", "e1_pos": 24, "e2_text": "received", "e2_pos": 46, "label": "after"}
+]

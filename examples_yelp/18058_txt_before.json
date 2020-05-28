@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "steps", "out", ",", "and", "before", "even", "lighting", "his", "cigarette", ",", "slams", "the", "door", "behind", "him", ".", "''"], "e1_text": "slams", "e1_pos": 11, "e2_text": "lighting", "e2_pos": 7, "label": "before"},
+{"tokens": ["To", "keep", "the", "undesirables", "out", "''", "''", "before", "walking", "off", "with", "his", "cigarette", ".", "''"], "e1_text": "keep", "e1_pos": 1, "e2_text": "walking", "e2_pos": 8, "label": "before"}
+]

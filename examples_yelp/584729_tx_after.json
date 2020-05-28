@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "very", "encouraged", "to", "try", "this", "place", "out", "after", "reading", "some", "previous", "reviews", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["Another", "couple", "came", "in", "30", "minutes", "after", "us", "and", "they", "got", "their", "food", "at", "the", "same", "time", "we", "did", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "got", "e2_pos": 10, "label": "after"}
+]

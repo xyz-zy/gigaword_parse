@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "preface", "my", "review", "by", "saying", "that", "my", "breakfast", "here", "came", "after", "waking", "up", "still", "drunk", "from", "the", "night", "before", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "waking", "e2_pos": 13, "label": "before"}
+]

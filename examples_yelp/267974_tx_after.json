@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yesterday", "my", "Mom", ",", "took", "us", "to", "lunch", "at", "this", "Applebees", "after", "shopping", "at", "Target", "in", "Boca", "Park", ",", "it", "was", "empty", "at", "lunchtime", ",", "about", "1:30", "or", "so", "on", "Labor", "day", "."], "e1_text": "took", "e1_pos": 4, "e2_text": "shopping", "e2_pos": 12, "label": "after"}
+]

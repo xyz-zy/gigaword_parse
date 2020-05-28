@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "hear", "it", "but", "after", "it", "happened", "I", "was", "woken", "up", "by", "someone", "that", "I", "was", "there", "with", "."], "e1_text": "hear", "e1_pos": 3, "e2_text": "happened", "e2_pos": 8, "label": "after"},
+{"tokens": ["After", "that", "I", "could", "n't", "fall", "asleep", "so", "I", "just", "laid", "in", "bed", "staring", "at", "the", "wall", "but", "a", "little", "while", "after", "that", "I", "started", "to", "hear", "scratching", ",", "as", "if", "someone", "was", "scratching", "the", "carpet", "."], "e1_text": "fall", "e1_pos": 5, "e2_text": "started", "e2_pos": 24, "label": "after"}
+]

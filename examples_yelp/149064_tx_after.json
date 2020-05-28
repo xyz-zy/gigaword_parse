@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "said", "he", "could", "redo", "my", "pedicure", "-LRB-", "after", "i", "spent", "so", "much", "time", "here", "already", "...", "no", ",", "thank", "you", "-RRB-", ",", "but", "did", "not", "even", "apologized", "."], "e1_text": "redo", "e1_pos": 4, "e2_text": "spent", "e2_pos": 10, "label": "after"}
+]

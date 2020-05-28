@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "means", "lots", "of", "mid", "-", "to", "low-quality", "food", "that", "you", "can", "shove", "into", "your", "pie-hole", "before", "you", "head", "off", "to", "dump", "your", "hard-earned", "dollars", "into", "the", "machines", "specifically", "designed", "to", "take", "advantage", "of", "American", "'s", "poor", "mathematical", "abilities", "."], "e1_text": "shove", "e1_pos": 12, "e2_text": "head", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "mean", ",", "I", "know", "they", "'re", "coming", "out", "of", "a", "carton", "somewhere", ",", "but", "at", "least", "allow", "them", "to", "set", "a", "little", "before", "serving", "them", "."], "e1_text": "set", "e1_pos": 20, "e2_text": "serving", "e2_pos": 24, "label": "before"}
+]

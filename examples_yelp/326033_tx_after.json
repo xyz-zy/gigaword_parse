@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "removed", "one", "by", "hand", "-LRB-", "the", "one", "she", "gave", "to", "me", "-RRB-", "after", "handling", "money", "at", "the", "cash", "register", ",", "without", "washing", "her", "hands", "."], "e1_text": "removed", "e1_pos": 1, "e2_text": "handling", "e2_pos": 14, "label": "after"}
+]

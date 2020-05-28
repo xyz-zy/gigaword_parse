@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "tried", "out", "the", "unit", "later", "in", "the", "evening", ",", "let", "it", "run", "about", "40", "min.", ",", "turned", "it", "off", "and", "found", "the", "problem", "had", "not", "been", "solved", "-LRB-", "water", "continues", "to", "run", "after", "unit", "is", "turned", "off", "."], "e1_text": "run", "e1_pos": 12, "e2_text": "is", "e2_pos": 35, "label": "after"},
+{"tokens": ["Ken", "did", "show", "up", "after", "I", "put", "a", "stop", "payment", "on", "the", "check", "I", "gave", "them", "."], "e1_text": "show", "e1_pos": 2, "e2_text": "put", "e2_pos": 6, "label": "after"}
+]

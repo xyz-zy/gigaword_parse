@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "this", "was", "not", "what", "awoken", "me", "1", "hour", "before", "my", "alarm", "set", "off", "."], "e1_text": "awoken", "e1_pos": 6, "e2_text": "set", "e2_pos": 13, "label": "before"},
+{"tokens": ["You", "see", ",", "each", "room", "is", "connected", "to", "its", "neighbor", "by", "a", "thin", "not-sound-proofed", "door", ",", "and", "I", "woke", "up", "to", "a", "man", "'s", "coughing", "and", "television", "playing", "before", "my", "alarm", "went", "off", "."], "e1_text": "woke", "e1_pos": 18, "e2_text": "went", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "about", "the", "place", "just", "seemed", "subdued", ",", "making", "it", "an", "ideal", "atmosphere", "to", "take", "your", "lady", "for", "an", "intimate", "dinner", "before", "the", "rowdiness", "that", "are", "Vegas", "clubs", "."], "e1_text": "take", "e1_pos": 14, "e2_text": "are", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "had", "never", "had", "poutine", "fries", "before", "but", "they", "made", "me", "a", "believer", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "made", "e2_pos": 9, "label": "before"}
+]

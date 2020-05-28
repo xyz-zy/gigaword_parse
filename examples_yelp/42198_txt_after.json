@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "asked", "my", "last", "name", "and", "after", "I", "gave", "it", "to", "him", "and", "he", "said", "to", "hold", "a", "minute", "he", "said", "''", "``", "it", "left", "awhile", "ago", "and", "should", "be", "there", "soon", "''", "''", "and", "then", "hung", "up", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "gave", "e2_pos": 8, "label": "after"}
+]

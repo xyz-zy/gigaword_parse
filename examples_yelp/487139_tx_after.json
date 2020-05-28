@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "have", "a", "groupon", "for", "the", "restaurant", "that", "'s", "about", "to", "expire", "and", "were", "wondering", "if", "it", "will", "still", "be", "accepted", "after", "it", "reopens", "."], "e1_text": "accepted", "e1_pos": 20, "e2_text": "reopens", "e2_pos": 23, "label": "after"}
+]

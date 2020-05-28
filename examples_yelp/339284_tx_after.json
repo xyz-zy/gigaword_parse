@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "bill", "arrived", "the", "coupon", "was", "not", "deducted", "and", "after", "we", "left", "we", "realized", "that", "we", "where", "charged", "$", "2.99", "for", "a", "kids", "sized", "fountain", "7up", "the", "same", "price", "that", "we", "paid", "for", "the", "adult", "size", ".2", "meals", ",", "one", "fry", "-LRB-", "huge", "portion", "-RRB-", "one", "kids", "meal", "2", "soft", "drinks", "with", "$", "11.00", "coupon", "still", "ran", "us", "$", "55.00", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "left", "e2_pos": 12, "label": "after"}
+]

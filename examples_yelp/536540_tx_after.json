@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "with", "my", "wife", "the", "day", "after", "arriving", "in", "Vegas", "since", "she", "found", "it", "in", "Yelp", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "arriving", "e2_pos": 8, "label": "after"},
+{"tokens": ["Upgraded", "for", "8", "dollars", "more", "for", "a", "longer", "massage", "after", "checking", "in", "which", "was", "n't", "a", "bad", "deal", "."], "e1_text": "Upgraded", "e1_pos": 0, "e2_text": "checking", "e2_pos": 10, "label": "after"}
+]

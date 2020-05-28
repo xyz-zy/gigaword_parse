@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "last", "roll", "actually", "came", "a", "full", "5", "minutes", "after", "finishing", "up", "a", "previous", "roll", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "finishing", "e2_pos": 10, "label": "after"}
+]

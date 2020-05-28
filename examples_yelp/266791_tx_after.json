@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wifey", "went", "first", "and", "her", "expression", "was", "priceless", "after", "she", "shot", "a", "9mm", "for", "the", "first", "time", "."], "e1_text": "priceless", "e1_pos": 7, "e2_text": "shot", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "were", "allowed", "to", "take", "photos", "of", "us", "brandishing", "the", "weapons", "after", "shooting", "since", "we", "purchased", "the", "VIP", "pass", "."], "e1_text": "brandishing", "e1_pos": 8, "e2_text": "shooting", "e2_pos": 12, "label": "after"}
+]

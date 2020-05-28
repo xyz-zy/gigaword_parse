@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "spoke", "to", "the", "manager", "before", "we", "left", ",", "despite", "how", "busy", "he", "clearly", "was", "he", "stopped", "to", "have", "a", "full", "conversation", "with", "us", "."], "e1_text": "spoke", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "before"},
+{"tokens": ["At", "the", "start", "of", "our", "visit", "we", "had", "to", "wait", "a", "5-10", "minutes", "before", "we", "were", "seated", ",", "but", "we", "were", "constantly", "acknowledged", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "were", "e2_pos": 15, "label": "before"}
+]

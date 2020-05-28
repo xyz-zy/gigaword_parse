@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "specifically", "said", "`", "for", "an", "appetizer", "we", "'d", "like", "...", "'", "We", "then", "proceeded", "to", "also", "order", "dinner", "since", "they", "really", "do", "give", "you", "a", "lot", "of", "time", "before", "they", "check", "back", "with", "you", "."], "e1_text": "proceeded", "e1_pos": 14, "e2_text": "check", "e2_pos": 31, "label": "before"},
+{"tokens": ["We", "told", "them", "we", "wanted", "the", "cheese", "crisp", "as", "an", "appetizer", "before", "we", "ate", "and", "then", "somehow", "everything", "disappeared", "."], "e1_text": "wanted", "e1_pos": 4, "e2_text": "ate", "e2_pos": 13, "label": "before"}
+]

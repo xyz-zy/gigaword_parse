@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "the", "table", "were", "any", "closer", "to", "the", "toilet", "door", ",", "people", "using", "the", "toilet", "would", "have", "had", "to", "say", "excuse", "me", "before", "entering", "."], "e1_text": "excuse", "e1_pos": 20, "e2_text": "entering", "e2_pos": 23, "label": "before"},
+{"tokens": ["Comically", ",", "or", "maybe", "not", "so", "much", ",", "a", "few", "of", "the", "patrons", "asked", "us", "if", "there", "was", "anyone", "using", "the", "bathroom", "before", "entering", "."], "e1_text": "using", "e1_pos": 19, "e2_text": "entering", "e2_pos": 23, "label": "before"}
+]

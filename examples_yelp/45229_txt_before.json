@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "alright", ",", "but", "again", "there", "'s", "just", "a", "lot", "to", "know", "about", "the", "melting", "pot", "before", "you", "decide", "to", "spend", "three", "hours", "there", "."], "e1_text": "know", "e1_pos": 12, "e2_text": "decide", "e2_pos": 19, "label": "before"},
+{"tokens": ["If", "you", "'re", "looking", "for", "a", "romantic", "time", "with", "just", "some", "light", "eating", "and", "conversation", "then", "that", "'s", "what", "this", "place", "has", "to", "offer", ",", "but", "men", "before", "you", "bring", "your", "girl", "there", "make", "sure", "to", "request", "a", "normal", "booth", ",", "and", "maybe", "think", "about", "ordering", "a", "la", "carte", "if", "you", "do", "n't", "want", "to", "wait", "hours", "for", "your", "4-course", "meal", "to", "be", "done", "."], "e1_text": "'s", "e1_pos": 17, "e2_text": "bring", "e2_pos": 29, "label": "before"}
+]

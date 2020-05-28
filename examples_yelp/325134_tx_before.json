@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pace", "behind", "the", "bar", "is", "very", "fast", "since", "there", "are", "so", "many", "people", "crowding", "the", "bar", "at", "once", ",", "so", "make", "sure", "you", "know", "what", "you", "want", "before", "the", "Bartender", "gets", "to", "you", "."], "e1_text": "want", "e1_pos": 27, "e2_text": "gets", "e2_pos": 31, "label": "before"},
+{"tokens": ["You", "may", "only", "have", "a", "few", "seconds", "to", "decide", "before", "you", "'re", "skipped", "over", "."], "e1_text": "decide", "e1_pos": 8, "e2_text": "'re", "e2_pos": 11, "label": "before"}
+]

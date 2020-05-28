@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "completed", "my", "paperwork", "and", "then", "waited", "for", "another", "90", "min", "past", "my", "appointment", "time", "before", "going", "to", "the", "front", "desk", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "going", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "have", "already", "notified", "my", "personal", "doctor", "to", "think", "twice", "before", "referring", "anyone", "else", "to", "this", "practice", "and", "I", "intend", "on", "posting", "this", "to", "other", "sites", "to", "warn", "others", "."], "e1_text": "think", "e1_pos": 8, "e2_text": "referring", "e2_pos": 11, "label": "before"}
+]

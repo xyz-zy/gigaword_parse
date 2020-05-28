@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "one", "point", ",", "the", "waitress", "acknowledged", "that", "we", "had", "nothing", "to", "drink", "but", "it", "was", "still", "another", "five", "minutes", "before", "someone", "actually", "brought", "us", "a", "refill", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "brought", "e2_pos": 23, "label": "before"}
+]

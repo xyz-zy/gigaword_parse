@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "relative", "came", "in", "for", "surgery", "-", "they", "were", "running", "behind", "so", "he", "waited", "an", "extra", "90", "minutes", "before", "the", "surgery", "got", "underway", "."], "e1_text": "waited", "e1_pos": 13, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["And", "their", "ICU", "was", "full", "so", "he", "waited", "in", "recovery", "for", "7", "hours", "before", "he", "finally", "got", "into", "the", "ICU", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

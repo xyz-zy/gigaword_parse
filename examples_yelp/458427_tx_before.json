@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", "we", "waited", "in", "line", "for", "about", "10", "minutes", "before", "getting", "in", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "getting", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "had", "been", "pre-authed", "the", "night", "before", "for", "the", "cabana", ",", "I", "had", "confirmed", "it", "twice", ",", "and", "then", "I", "got", "bait-and-switched", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "had", "e2_pos": 1, "label": "before"},
+{"tokens": ["If", "you", "wanted", "to", "sell", "the", "cabana", "for", "a", "higher", "price", "to", "someone", "else", ",", "fucking", "tell", "me", "before", "I", "show", "up", "with", "a", "group", ",", "and", "do", "n't", "you", "dare", "try", "to", "pull", "a", "bait", "and", "switch", "."], "e1_text": "tell", "e1_pos": 16, "e2_text": "show", "e2_pos": 20, "label": "before"}
+]

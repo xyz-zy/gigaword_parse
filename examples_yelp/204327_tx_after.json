@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "with", "what", "we", "got", ",", "this", "place", "was", "STILL", "overpriced", "after", "adding", "in", "the", "savings", "!"], "e1_text": "was", "e1_pos": 10, "e2_text": "adding", "e2_pos": 14, "label": "after"},
+{"tokens": ["Anyway", ",", "if", "you", "are", "after", "burgers", "that", "do", "n't", "run", "40", "bucks", "for", "a", "family", "of", "four", ",", "I", "think", "you", "are", "MUCH", "better", "off", "at", "In", "n", "Out", "or", "Smashburger", "!"], "e1_text": "are", "e1_pos": 4, "e2_text": "do", "e2_pos": 8, "label": "after"}
+]

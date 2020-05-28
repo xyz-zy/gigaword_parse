@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "asked", "what", "was", "wrong", ",", "she", "said", "that", "the", "cooks", "in", "the", "kitchen", "did", "n't", "even", "tell", "her", "that", "they", "were", "out", "of", "an", "item", "and", "waited", "20", "minutes", "after", "she", "had", "put", "in", "that", "order", "to", "tell", "her", "to", "have", "the", "customers", "order", "something", "else", "."], "e1_text": "waited", "e1_pos": 28, "e2_text": "had", "e2_pos": 33, "label": "after"}
+]

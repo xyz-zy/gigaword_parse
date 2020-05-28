@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Frustrating", "-RRB-", "Eric", "called", "me", "after", "two", "weeks", "of", "me", "signing", "up", "and", "said", "he", "had", "a", "NEW", "better", "promotion", "he", "was", "going", "to", "apply", "to", "my", "account", "."], "e1_text": "called", "e1_pos": 4, "e2_text": "signing", "e2_pos": 11, "label": "after"}
+]

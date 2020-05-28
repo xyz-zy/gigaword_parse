@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "gets", "hella-busy", "after", "a", "show", "and", "it", "takes", "forever", "to", "get", "a", "cab", "-LRB-", "the", "taxi", "line", "is", "insane", "!", "-RRB-"], "e1_text": "gets", "e1_pos": 2, "e2_text": "takes", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "casino", "floor", "is", "small", "and", "cramped", "compared", "to", "the", "other", "Vegas", "casinos", "so", "hanging", "out", "after", "a", "show", "is", "kinda", "hard", "if", "rubbing", "up", "against", "skeezy", "looking", "club", "chicks\\/wannabe", "porn", "actresses", "is", "n't", "exactly", "your", "thing", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "is", "e2_pos": 3, "label": "after"}
+]

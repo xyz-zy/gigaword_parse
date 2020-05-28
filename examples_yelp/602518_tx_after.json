@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "looks", "confusing", "but", "trust", "me", "as", "we", "stood", "outside", "after", "taking", "photos", "looking", "like", "to", "dumb", "idiots", "trying", "to", "figure", "out", "how", "to", "get", "inside", "\\*\\*", "Entering", "into", "the", "actual", "restaurant", "was", "even", "more", "beautiful", "!"], "e1_text": "stood", "e1_pos": 8, "e2_text": "taking", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "tried", "my", "hardest", "to", "finish", "the", "whole", "thing", "but", "with", "a", "night", "of", "partying", "after", ",", "I", "decided", "it", "probably", "would", "not", "be", "a", "good", "idea", "to", "be", "Enchilada", "wasted", "!"], "e1_text": "partying", "e1_pos": 14, "e2_text": "decided", "e2_pos": 18, "label": "after"}
+]

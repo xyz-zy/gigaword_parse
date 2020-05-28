@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "5-10", "minutes", "before", "the", "hostess", "came", "over", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "'ll", "probably", "give", "this", "place", "another", "try", "since", "I", "'ve", "had", "good", "experiences", "in", "the", "past", ",", "but", "my", "latest", "visit", "has", "left", "a", "bad", "taste", ",", "so", "it", "will", "probably", "take", "some", "time", "before", "I", "'m", "back", "."], "e1_text": "take", "e1_pos": 32, "e2_text": "'m", "e2_pos": 37, "label": "before"}
+]

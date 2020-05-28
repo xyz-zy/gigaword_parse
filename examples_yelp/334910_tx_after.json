@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "more", "a", "hole-in-the-wall", "sorta", "place", ":", "you", "order", "at", "one", "small", "counter", "after", "waiting", "in", "line", ",", "and", "choose", "from", "maybe", "6", "different", "meal", "options", "written", "above", "the", "counter", "."], "e1_text": "order", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "delivery", "date", "was", "''", "``", "pushed", "back", "''", "''", "many", "times", "until", "it", "finally", "came", "in", "over", "3", "months", "after", "they", "said", "it", "would", ",", "and", "gave", "me", "the", "run-around", "throughout", "the", "entire", "process", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "said", "e2_pos": 22, "label": "after"}
+]

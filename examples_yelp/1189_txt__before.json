@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "made", "7", "PM", "reservations", "for", "us", "and", "we", "arrived", "shortly", "before", "that", "to", "a", "table", "that", "was", "ready", "for", "us", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "was", "e2_pos": 18, "label": "before"},
+{"tokens": ["They", "would", "also", "order", "just", "before", "us", "understandably", "leading", "to", "some", "slower", "service", "times", "for", "us", "which", "I", "would", "guess", "is", "not", "the", "norm", "."], "e1_text": "order", "e1_pos": 3, "e2_text": "is", "e2_pos": 20, "label": "before"}
+]

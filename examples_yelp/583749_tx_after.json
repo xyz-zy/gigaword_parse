@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "was", "fast", "about", "getting", "our", "drinks", "and", "complimentary", "bread", "and", "appetizers", ",", "but", "after", "that", "he", "rarely", "came", "to", "check", "our", "table", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "confronted", "a", "bus", "boy", "about", "how", "long", "our", "food", "-LRB-", "because", "our", "waiter", "Richard", "E", "was", "nowhere", "to", "be", "found", "-RRB-", "was", "taking", "because", "we", "noticed", "a", "table", "of", "4", "that", "got", "seated", "at", "least", "15-20", "mins", "after", "us", "got", "served", "before", "us", "."], "e1_text": "seated", "e1_pos": 33, "e2_text": "got", "e2_pos": 32, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "my", "hubby", "and", "I", "ate", "here", ",", "I", "got", "my", "sushi", "and", "a", "man", "who", "sat", "at", "the", "bar", "after", "us", ",", "ordered", "the", "same", "food", "after", "us", ",", "got", "his", "before", "my", "husband", "."], "e1_text": "sat", "e1_pos": 18, "e2_text": "got", "e2_pos": 11, "label": "after"}
+]

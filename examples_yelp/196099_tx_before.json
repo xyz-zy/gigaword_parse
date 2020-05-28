@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "was", "hoping", "to", "take", "a", "dip", "in", "the", "morning", "before", "we", "left", ",", "but", "there", "were", "such", "high", "gusting", "winds", "that", "it", "would", "'ve", "been", "just", "as", "unbearable", "to", "sit", "through", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "left", "e2_pos": 12, "label": "before"},
+{"tokens": ["Additionally", ",", "I", "had", "to", "ask", "for", "my", "tea", "three", "times", "before", "I", "finally", "got", "it", "...", "at", "the", "end", "of", "my", "meal", ",", "so", "it", "was", "too", "hot", "to", "enjoy", ",", "save", "for", "a", "few", "timid", "sips", "."], "e1_text": "ask", "e1_pos": 5, "e2_text": "got", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "hostess", "and", "waiter", "made", "it", "clear", "to", "me", "that", "the", "continental", "breakfast", "is", "complimentary", "if", "I", "'m", "staying", "at", "the", "hotel", ",", "yet", "the", "receptionist", "tried", "to", "charge", "me", "for", "it", "before", "I", "left", "."], "e1_text": "charge", "e1_pos": 28, "e2_text": "left", "e2_pos": 34, "label": "before"},
+{"tokens": ["He", "had", "to", "ask", "his", "manager", "before", "clearing", "the", "charge", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "clearing", "e2_pos": 7, "label": "before"}
+]

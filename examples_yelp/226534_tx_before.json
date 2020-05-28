@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "saw", "a", "lot", "of", "reviews", "saying", "that", "the", "vibe", "was", "reminiscent", "of", "restaurants", "before", "major", "chains", "were", "the", "norm", ",", "and", "where", "as", "I", "may", "be", "a", "little", "young", "to", "remember", "such", "a", "time", ",", "I", "can", "see", "what", "they", "mean", ",", "and", "agree", "!"], "e1_text": "was", "e1_pos": 10, "e2_text": "were", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "can", "honestly", "say", "I", "'ve", "never", "seen", "escargot", "on", "a", "menu", "before", "!"], "e1_text": "say", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "had", "a", "few", "minutes", "before", "another", "gentleman", "-LRB-", "I", "'m", "sad", "to", "say", "I", "ca", "n't", "remember", "his", "name", "-RRB-", "offered", "me", "advice", "on", "what", "to", "expect", "from", "various", "dishes", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "offered", "e2_pos": 21, "label": "before"}
+]

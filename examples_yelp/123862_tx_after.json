@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "know", "whether", "they", "are", "short", "staffed", "or", "just", "have", "slow", "staff", "???", "Service", "took", "forever", "just", "for", "hot", "tea", "&", "water", "-LRB-", "I", "kept", "asking", "when", "it", "should", "have", "been", "automatic", "when", "you", "sat", "down", "-RRB-", ",", "when", "another", "one", "finally", "brought", "those", "after", "just", "a", "minute", "difference", "of", "delivering", "to", "our", "table", "by", "another", "person", "...", "she", "seemed", "so", "pissed", "!"], "e1_text": "brought", "e1_pos": 44, "e2_text": "delivering", "e2_pos": 52, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "sat", "and", "given", "the", "menu", "right", "away", ",", "our", "waiter", ",", "the", "French", "guy", "I", "believe", ",", "told", "us", "the", "special", "and", "a", "little", "while", "after", ",", "he", "came", "back", "and", "standing", "right", "behind", "the", "table", "waiting", "to", "take", "our", "order", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "came", "e2_pos": 30, "label": "after"},
+{"tokens": ["We", "thought", "that", "he", "should", "at", "least", "put", "our", "check", "down", "a", "little", "bit", "after", "the", "dessert", "came", "out", ".", "."], "e1_text": "put", "e1_pos": 7, "e2_text": "came", "e2_pos": 17, "label": "after"}
+]

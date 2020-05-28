@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "needed", "a", "pelvic", "ultrasound", "and", "he", "wound", "up", "asking", "me", "after", "he", "had", "done", "the", "traditional", "ultrasound", "if", "I", "needed", "or", "if", "my", "doctor", "wanted", "me", "to", "have", "a", "different", "type", "of", "ultrasound", "."], "e1_text": "asking", "e1_pos": 9, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

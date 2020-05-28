@@ -1,0 +1,4 @@
+[
+{"tokens": ["Knowing", "I", "did", "n't", "have", "a", "lot", "of", "time", "before", "we", "depart", ",", "I", "decided", "to", "to", "to", "the", "counter", "check-in", "."], "e1_text": "have", "e1_pos": 4, "e2_text": "depart", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "waited", "5", "minutes", "before", "getting", "to", "the", "counter", "only", "to", "be", "told", "that", "I", "was", "no", "longer", "on", "this", "flight", "b\\/c", "it", "was", "less", "than", "30", "minutes", "before", "departure", "!"], "e1_text": "waited", "e1_pos": 1, "e2_text": "getting", "e2_pos": 5, "label": "before"}
+]

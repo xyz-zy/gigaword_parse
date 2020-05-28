@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "seemed", "that", "the", "lines", "of", "dirt", "and", "food", "crumbs", "were", "there", "for", "quite", "some", "time", "after", "sitting", "down", "."], "e1_text": "were", "e1_pos": 10, "e2_text": "sitting", "e2_pos": 17, "label": "after"},
+{"tokens": ["Still", "sitting", "and", "eating", "after", "the", "sweeping", "was", "done", "I", "wondered", "why", "he", "even", "swept", "in", "the", "first", "place", "or", "if", "he", "did", "."], "e1_text": "eating", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

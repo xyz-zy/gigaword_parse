@@ -1,0 +1,4 @@
+[
+{"tokens": ["Its", "hard", "for", "me", "to", "go", "to", "regular", "movie", "theaters", "after", "going", "to", "the", "AMC", "esplanade", "."], "e1_text": "go", "e1_pos": 5, "e2_text": "going", "e2_pos": 11, "label": "after"},
+{"tokens": ["Its", "hard", "to", "go", "back", "to", "coach", "after", "flying", "first", "class", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "flying", "e2_pos": 8, "label": "after"}
+]

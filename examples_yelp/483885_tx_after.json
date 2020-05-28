@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "visited", "about", "an", "hour", "after", "they", "opened", "in", "the", "morning", "and", "it", "was", "busy", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "opened", "e2_pos": 7, "label": "after"},
+{"tokens": ["Everything", "was", "pricey", "but", "what", "I", "was", "really", "after", "was", "a", "mille", "feuille", "which", "was", "n't", "in", "the", "case", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

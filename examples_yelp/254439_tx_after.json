@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "eggs", "were", "yummy", ",", "the", "potatoes", "a", "little", "dry", ",", "and", "the", "coffee", "I", "would", "have", "preferred", "in", "an", "actual", "mug", "instead", "of", "a", "throw-away", "cup", ",", "although", "it", "did", "allow", "me", "to", "carry", "it", "around", "as", "we", "roamed", "the", "beautiful", "farm", "after", "eating", "."], "e1_text": "roamed", "e1_pos": 39, "e2_text": "eating", "e2_pos": 44, "label": "after"}
+]

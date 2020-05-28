@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "'ll", "get", "an", "email", "a", "week", "or", "so", "before", "your", "b-day", "telling", "you", "to", "stop", "by", "to", "redeem", "your", "free", "gift", ",", "so", "make", "sure", "you", "do", "it", "!"], "e1_text": "get", "e1_pos": 2, "e2_text": "telling", "e2_pos": 12, "label": "before"},
+{"tokens": ["Their", "operations", "run", "smoothly", ",", "which", "is", "something", "you", "definitely", "notice", "the", "few", "days", "before", "each", "semester", "starts", "when", "EVERYONE", "'s", "buying", "their", "textbooks", "."], "e1_text": "notice", "e1_pos": 10, "e2_text": "starts", "e2_pos": 17, "label": "before"}
+]

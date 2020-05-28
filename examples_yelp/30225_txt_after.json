@@ -1,0 +1,3 @@
+[
+{"tokens": ["Oh", "I", "should", "also", "mention", "Mr.", "discount", "tire", "failed", "to", "give", "us", "back", "our", "flat", "tire", "and", "wheel", "when", "we", "returned", "to", "pick", "up", "our", "car", "-LRB-", "after", "we", "told", "him", "to", "leave", "the", "donut", "as", "is", "-RRB-", "."], "e1_text": "pick", "e1_pos": 22, "e2_text": "told", "e2_pos": 29, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "half", "an", "hour", "before", "someone", "came", "back", "to", "take", "our", "order", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "came", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "hope", "theirs", "was", "fresh", "...", "It", "was", "another", "hour", "before", "we", "got", "our", "food", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "got", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "appetizer", "and", "the", "original", "cod", "dish", "-LRB-", "which", "we", "took", "a", "bite", "of", "before", "it", "was", "taken", "away", "-RRB-", "was", "delicious", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

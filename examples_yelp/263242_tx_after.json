@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "asking", "if", "they", "had", "any", "drink", "specials", ",", "the", "waitress", "-LRB-", "not", "Annetta", "-RRB-", "was", "very", "kind", "and", "polite", ",", "however", "after", "I", "ordered", "a", "drink", ",", "Annetta", "had", "to", "pipe", "up", "''", "``", "You", "ask", "about", "specials", "and", "all", "you", "order", "is", "a", "F", "\\*", "&", "$", "ing", "Heineken", "?"], "e1_text": "was", "e1_pos": 15, "e2_text": "ordered", "e2_pos": 24, "label": "after"}
+]

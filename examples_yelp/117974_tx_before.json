@@ -1,0 +1,4 @@
+[
+{"tokens": ["Free", "chips", "and", "salsa", ",", "um", "they", "have", "gone", "to", "using", "these", "small", "bowls", "that", "barely", "fit", "a", "handful", "in", "them", "and", "they", "were", "gone", "before", "we", "received", "our", "drinks", "."], "e1_text": "gone", "e1_pos": 8, "e2_text": "received", "e2_pos": 27, "label": "before"},
+{"tokens": ["Their", "was", "a", "time", "I", "was", "so", "unhappy", "before", "leaving", "at", "the", "hostess", "desk", "I", "spoke", "to", "the", "so", "called", "manager", "on", "duty", ",", "he", "seemed", "as", "if", "I", "was", "interrupting", "his", "busy", "time", "which", "consisted", "of", "not", "doing", "much", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 9, "label": "before"}
+]

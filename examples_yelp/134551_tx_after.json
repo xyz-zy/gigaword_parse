@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "time", "before", "last", ",", "I", "was", "here", "with", "a", "large", "party", ",", "and", "the", "same", "chunky", "guy", "scolded", "my", "stepmom", "for", "saying", "she", "does", "n't", "eat", "beef", ",", "after", "he", "asked", "if", "anyone", "has", "any", "dietary", "restrictions", "."], "e1_text": "eat", "e1_pos": 26, "e2_text": "asked", "e2_pos": 31, "label": "after"},
+{"tokens": ["Really", "crappy", "experience", "after", "I", "built", "it", "up", "to", "my", "friends", "!"], "e1_text": "experience", "e1_pos": 2, "e2_text": "built", "e2_pos": 5, "label": "after"}
+]

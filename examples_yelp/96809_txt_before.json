@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "n't", "really", "prepared", "for", "this", "to", "happen", ",", "as", "I", "had", "anticipated", "it", "lasting", "another", "year", "before", "replacing", "it", "."], "e1_text": "lasting", "e1_pos": 15, "e2_text": "replacing", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "was", "down", "to", "two", "computers", "that", "I", "had", "my", "eye", "on", ",", "and", "figured", "it", "was", "time", "to", "purchase", "before", "the", "sale", "ended", "."], "e1_text": "purchase", "e1_pos": 19, "e2_text": "ended", "e2_pos": 23, "label": "before"}
+]

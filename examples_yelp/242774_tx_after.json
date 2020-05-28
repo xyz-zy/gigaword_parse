@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "use", "to", "use", "them", "all", "the", "time", "as", "a", "cheap", "way", "to", "get", "to", "and", "from", "the", "airport", "but", "after", "having", "to", "be", "picked", "up", "2", "hours", "before", "my", "flight", "and", "sometimes", "stopping", "at", "too", "many", "places", "to", "pick", "up", "other", "passengers", "and", "actually", "wondering", "am", "I", "going", "to", "make", "my", "flight", "?"], "e1_text": "use", "e1_pos": 3, "e2_text": "having", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "swear", "there", "have", "been", "times", "where", "I", "was", "the", "last", "person", "dropped", "off", "after", "riding", "around", "all", "over", "town", "dropping", "off", "others", "."], "e1_text": "dropped", "e1_pos": 12, "e2_text": "riding", "e2_pos": 15, "label": "after"}
+]

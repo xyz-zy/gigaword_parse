@@ -1,0 +1,4 @@
+[
+{"tokens": ["Everything", "here", "was", "so", "varied", ",", "and", "overall", "so", "disturbing", ",", "that", "I", "would", "really", "need", "to", "hear", "that", "things", "have", "changed", "before", "ever", "considering", "staying", "here", "again", "."], "e1_text": "changed", "e1_pos": 21, "e2_text": "considering", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "was", "so", "angry", "that", "I", "had", "to", "leave", "the", "hotel", "before", "I", "made", "matters", "worse", "."], "e1_text": "leave", "e1_pos": 8, "e2_text": "made", "e2_pos": 13, "label": "before"}
+]

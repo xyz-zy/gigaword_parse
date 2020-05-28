@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "did", "n't", "even", "look", "at", "my", "car\\/tire", "before", "she", "printed", "the", "paper", "that", "I", "needed", "to", "sign", "!"], "e1_text": "look", "e1_pos": 4, "e2_text": "printed", "e2_pos": 10, "label": "before"}
+]

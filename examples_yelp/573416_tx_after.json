@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "calling", "to", "schedule", "we", "repeatedly", "played", "phone", "tag", "and", "when", "we", "finally", "spoke", "he", "stated", "that", "he", "was", "too", "busy", "to", "schedule", "me", "for", "my", "deal", "until", "after", "the", "expiration", "-LRB-", "even", "though", "his", "voicemail", "mentioned", "that", "he", "had", "several", "times", "available", "just", "days", "away", ",", "but", "magically", "when", "mentioning", "my", "deal", "he", "was", "booked", "several", "weeks", "out", "-RRB-", "."], "e1_text": "schedule", "e1_pos": 3, "e2_text": "mentioned", "e2_pos": 36, "label": "after"}
+]

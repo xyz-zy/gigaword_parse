@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "couple", "weeks", "ago", "a", "friend", "took", "me", "to", "Braddah", "'s", "next", "door", ",", "and", "someone", "mentioned", "Al", "'s", "after", "seeing", "my", "check-in", "."], "e1_text": "'s", "e1_pos": 18, "e2_text": "seeing", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "do", "n't", "think", "I", "would", "have", "bothered", "coming", "here", ",", "but", "after", "reading", "about", "the", "opening", "on", "Eater", "and", "then", "having", "it", "suggested", "by", "a", "reader", "I", "figured", "I", "might", "as", "well", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "reading", "e2_pos": 13, "label": "after"}
+]

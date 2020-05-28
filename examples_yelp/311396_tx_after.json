@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "host", "said", "he", "'d", "have", "us", "an", "extra", "chair", "in", "''", "``", "just", "a", "second", ",", "''", "''", "after", "which", "I", "saw", "him", "speak", "to", "our", "waiter", "."], "e1_text": "have", "e1_pos": 5, "e2_text": "saw", "e2_pos": 22, "label": "after"}
+]

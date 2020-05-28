@@ -1,0 +1,4 @@
+[
+{"tokens": ["Arthur", "'s", "seat", "is", "beautiful", ",", "and", "you", "will", "see", "the", "loch", "at", "Duddingston", "before", "actually", "reaching", "the", "village", "."], "e1_text": "see", "e1_pos": 9, "e2_text": "reaching", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "advise", "you", "to", "walk", "a", "little", "around", "the", "cobblestone", "streets", "before", "entering", "the", "pub", "."], "e1_text": "walk", "e1_pos": 4, "e2_text": "entering", "e2_pos": 12, "label": "before"}
+]

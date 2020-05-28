@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitress", "warned", "us", "when", "we", "got", "here", "that", "two", "tables", "had", "already", "bailed", "after", "waiting", "an", "hour", "+", "for", "food", "...", "...", "So", "an", "hour", "+", "later", "we", "got", "our", "food", ",", "and", "the", "check", "comped", "by", "the", "manager", "...", "seems", "they", "have", "some", "issues", "in", "the", "kitchen", "and", "with", "communication", "."], "e1_text": "bailed", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "texted", "her", "twice", "before", "I", "got", "a", "response", "that", "I", "'d", "been", "put", "on", "the", "list", "for", "the", "class", "."], "e1_text": "texted", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "before"},
+{"tokens": ["There", "are", "tons", "of", "bakeries", "in", "town", "and", "I", "would", "suggest", "going", "ANYWHERE", "else", "before", "stepping", "foot", "inside", "this", "one", "."], "e1_text": "suggest", "e1_pos": 10, "e2_text": "stepping", "e2_pos": 15, "label": "before"}
+]

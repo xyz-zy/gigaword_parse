@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "3", "times", "before", "I", "was", "able", "to", "speak", "with", "anyone", "regarding", "the", "charge", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "never", "received", "any", "apology", "for", "their", "mistake", "or", "for", "having", "to", "wait", "an", "additional", "6", "weeks", "before", "I", "got", "what", "I", "wanted", "."], "e1_text": "wait", "e1_pos": 12, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

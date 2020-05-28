@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "assured", "me", "that", "whatever", "was", "booked", "before", "the", "lady", "left", "was", "still", "on", "the", "schedule", "and", "there", "were", "no", "worries", "."], "e1_text": "booked", "e1_pos": 6, "e2_text": "was", "e2_pos": 5, "label": "before"},
+{"tokens": ["She", "pulled", "the", "event", "book", "out", "and", "our", "sheet", "was", "not", "in", "there", "even", "though", "I", "had", "been", "reassured", "that", "we", "were", "still", "scheduled", "just", "6", "days", "before", "!"], "e1_text": "reassured", "e1_pos": 18, "e2_text": "were", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "have", "worked", "in", "hospitality", "before", "and", "this", "is", "completely", "unacceptable", "behavior", "for", "customer", "service", "!!"], "e1_text": "worked", "e1_pos": 2, "e2_text": "is", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "just", "like", "to", "know", "about", "it", "before", "I", "go", "instead", "of", "being", "lied", "to", "."], "e1_text": "know", "e1_pos": 5, "e2_text": "go", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "do", "n't", "normally", "write", "reviews", "but", "when", "I", "feel", "like", "I", "have", "been", "scammed", "out", "of", "my", "money", "I", "'d", "like", "to", "warn", "people", "before", "they", "do", "too", "."], "e1_text": "warn", "e1_pos": 23, "e2_text": "do", "e2_pos": 1, "label": "before"}
+]

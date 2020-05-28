@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "told", "they", "did", "n't", "accept", "credit", "cards", "even", "though", "they", "displayed", "the", "VISA", "and", "Mastercard", "logos", "and", "a", "person", "before", "us", "paid", "with", "a", "credit", "card", "."], "e1_text": "displayed", "e1_pos": 12, "e2_text": "paid", "e2_pos": 23, "label": "before"}
+]

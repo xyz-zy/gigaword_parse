@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "for", "ups", ",", "they", "said", "they", "would", "scan", "all", "items", "before", "entering", "their", "truck", ",", "and", "that", "they", "would", "scan", "them", "again", "when", "it", "enters", "into", "their", "warehouse", ",", "and", "there", "'s", "no", "way", "it", "was", "able", "to", "be", "shipped", "from", "the", "warehouse", "without", "it", "being", "scanned", "again", ",", "so", "there", "'s", "no", "way", "it", "bypassed", "3", "scans", "."], "e1_text": "scan", "e1_pos": 8, "e2_text": "entering", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "me", "be", "clear", ",", "I", "know", "mistakes", "happen", "and", "things", "can", "be", "overlooked", "but", "arguing", "with", "a", "customer", "before", "verifying", "with", "the", "mechanic", "if", "a", "service", "was", "completed", "or", "not", "is", "something", "I", "deem", "unacceptable", "."], "e1_text": "arguing", "e1_pos": 15, "e2_text": "verifying", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "a", "reservation", "before", "I", "traveled", "to", "Phoenix", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "traveled", "e2_pos": 6, "label": "before"},
+{"tokens": ["Then", "they", "called", "me", "half", "an", "hour", "before", "the", "pick-up", "time", ",", "when", "I", "was", "on", "my", "way", "to", "their", "store", ",", "that", "they", "would", "not", "have", "any", "available", "car", "for", "me", "!!", "They", "said", "they", "would", "put", "me", "on", "a", "waiting-list", "but", "have", "not", "idea", "when", "they", "can", "give", "me", "a", "car", "!!", "When", "I", "told", "them", "I", "only", "have", "two", "days", "here", "and", "could", "not", "wait", ",", "they", "suggested", "I", "go", "to", "the", "airport", "and", "rent", "a", "car", "there", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

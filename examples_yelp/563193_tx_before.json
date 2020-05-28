@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "popcorn", "is", "in", "Giant", "buckets", "behind", "the", "counter", ",", "so", "I", "'m", "not", "exactly", "sure", "how", "long", "it", "sits", "there", "before", "they", "make", "another", "batch", "."], "e1_text": "sits", "e1_pos": 19, "e2_text": "make", "e2_pos": 23, "label": "before"}
+]

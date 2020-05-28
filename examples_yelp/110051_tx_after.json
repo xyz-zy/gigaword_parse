@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "had", "a", "number", "of", "bad", "experiences", ",", "from", "waiting", "nearly", "an", "hour", "and", "a", "half", "to", "get", "our", "-LRB-", "by", "then", ",", "lukewarm", "-RRB-", "food", "during", "their", "busy", "time", ",", "with", "nary", "a", "care", "from", "our", "waiter", ",", "to", "having", "the", "wait", "staff", "completely", "abandon", "us", "after", "delivering", "the", "check", ",", "despite", "it", "being", "a", "slow", "weeknight", "and", "the", "fact", "that", "we", "were", "clearly", "sticking", "around", "to", "talk", "business", "for", "awhile", "."], "e1_text": "abandon", "e1_pos": 46, "e2_text": "delivering", "e2_pos": 49, "label": "after"}
+]

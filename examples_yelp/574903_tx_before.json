@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "used", "to", "be", "fruit", "orchards", "until", "5", "years", "ago", "so", "obviously", ",", "the", "scorpions", "lived", "here", "before", "this", "place", "was", "built", "."], "e1_text": "lived", "e1_pos": 15, "e2_text": "was", "e2_pos": 20, "label": "before"},
+{"tokens": ["Ask", "management", "questions", "and", "do", "your", "research", "before", "moving", "in", "."], "e1_text": "do", "e1_pos": 4, "e2_text": "moving", "e2_pos": 8, "label": "before"}
+]

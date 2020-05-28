@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "lived", "in", "Raleigh", "for", "about", "5", "years", "before", "moving", "to", "charlotte", ",", "and", "I", "managed", "to", "find", "an", "amazing", "barber", "who", "cut", "hair", "better", "than", "anyone", "i", "had", "been", "to", "even", "in", "NY", "."], "e1_text": "lived", "e1_pos": 1, "e2_text": "moving", "e2_pos": 9, "label": "before"}
+]

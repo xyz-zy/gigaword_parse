@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "like", "having", "to", "watch", "an", "hour", "of", "commercials", "after", "paying", "for", "the", "movie", "in", "the", "theater", "."], "e1_text": "watch", "e1_pos": 5, "e2_text": "paying", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "recommend", "getting", "here", "ON", "TIME", "before", "it", "starts", "get", "your", "glass", "because", "later", "you", "come", "NO", "way", "that", "going", "too", "get", "all", "twenty", "stations", "in", "."], "e1_text": "recommend", "e1_pos": 2, "e2_text": "starts", "e2_pos": 9, "label": "before"},
+{"tokens": ["Make", "sure", "you", "eat", "before", "because", "unlike", "other", "win", "tasting", "events", "this", "one", "has", "no", "food", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "has", "e2_pos": 13, "label": "before"}
+]

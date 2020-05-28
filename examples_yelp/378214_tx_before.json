@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "in", "line", "at", "12pm", "and", "to", "give", "you", "an", "idea", "of", "our", "line", "placement", ",", "the", "line", "wrapped", "around", "twice", "before", "reaching", "the", "front", "."], "e1_text": "wrapped", "e1_pos": 18, "e2_text": "reaching", "e2_pos": 22, "label": "before"},
+{"tokens": ["We", "got", "to", "the", "front", "and", "paid", "at", "1:30", "only", "to", "wait", "in", "a", "second", "line", "before", "getting", "seated", "."], "e1_text": "wait", "e1_pos": 11, "e2_text": "getting", "e2_pos": 17, "label": "before"}
+]

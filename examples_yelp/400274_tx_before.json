@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "guess", "part", "of", "the", "reason", "we", "felt", "this", "way", "was", "because", "my", "friend", "who", "was", "with", "us", "that", "had", "been", "there", "before", "said", "that", "the", "food", "came", "out", "really", "quick", "...", "so", "we", "were", "set", "up", "for", "failure", "!"], "e1_text": "was", "e1_pos": 10, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["When", "the", "food", "arrived", ",", "we", "were", "missing", "my", "friends", "grits", ",", "and", "it", "took", "our", "server", "quite", "awhile", "to", "come", "back", "and", "check", "on", "us", "to", "see", "how", "we", "were", "doing", "...", "so", "our", "food", "was", "about", "half", "gone", "before", "we", "received", "the", "grits", "."], "e1_text": "was", "e1_pos": 36, "e2_text": "received", "e2_pos": 42, "label": "before"}
+]

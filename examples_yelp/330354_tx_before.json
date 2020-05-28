@@ -1,0 +1,3 @@
+[
+{"tokens": ["Most", "of", "the", "cheeses", "are", "priced", "in", "kilograms", ",", "but", "do", "n't", "hesitate", "to", "ask", "the", "staff", "to", "give", "you", "an", "idea", "of", "prices", "for", "your", "wedges", "before", "you", "buy", "-", "they", "will", "grab", "a", "little", "red", "tray", "for", "your", "cheese", "selections", ",", "weigh", "them", "out", ",", "and", "help", "you", "go", "all", "around", "the", "counters", "till", "you", "find", "what", "you", "need", "."], "e1_text": "hesitate", "e1_pos": 12, "e2_text": "buy", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "originally", "did", "not", "plan", "on", "dining", "here", "but", "after", "attending", "a", "time", "share", "meeting", ",", "we", "were", "give", "free", "vouchers", "for", "dining", "-LRB-", "it", "was", "n't", "really", "free", "but", "the", "refunded", "portion", "of", "our", "money", "which", "we", "got", "back", "after", "attending", "the", "timeshare", "presentation", "with", "an", "additional", "$", "25", "-RRB-", "but", "were", "limited", "to", "whatever", "was", "on", "the", "list", "."], "e1_text": "dining", "e1_pos": 6, "e2_text": "attending", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "is", "way", "different", "if", "you", "are", "giving", "an", "honest", "opinion", "as", "myself", "after", "seeing", "almost", "every", "show", "in", "las", "vegas", "including", "multiple", "times", "over", "."], "e1_text": "giving", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "do", "n't", "smoke", "but", "really", "could", "have", "used", "a", "cig", "after", "it", "was", "over", "."], "e1_text": "used", "e1_pos": 8, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Crappy", "car", ",", "but", "what", "was", "really", "maddening", "was", "getting", "charged", "over", "$", "9", "for", "one", "gallon", "of", "gas", "-LRB-", "after", "we", "had", "filled", "up", "at", "$", "3.39", "\\/", "gallon", "-RRB-", "all", "because", "we", "did", "n't", "have", "a", "gas", "receipt", "to", "show", "we", "had", "just", "filled", "the", "tank", "!"], "e1_text": "charged", "e1_pos": 10, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

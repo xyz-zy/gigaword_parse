@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "we", "headed", "upstairs", "to", "take", "down", "the", "dirty", "towels", "and", "encountered", "housekeeping", "...", "who", "-LRB-", "after", "asking", "if", "we", "were", "the", "people", "that", "complained", "-RRB-", "tried", "to", "tell", "us", "that", "the", "towels", "they", "hung", "up", "were", "all", "clean", "."], "e1_text": "encountered", "e1_pos": 11, "e2_text": "asking", "e2_pos": 17, "label": "after"}
+]

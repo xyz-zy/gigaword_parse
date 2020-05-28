@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turns", "out", "that", "the", "computer", "system", "went", "down", "shortly", "after", "they", "placed", "our", "order", "-LRB-", "and", "a", "few", "other", "patrons", "'", "orders", "-RRB-", "and", "they", "could", "n't", "produce", "the", "food", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "placed", "e2_pos": 11, "label": "after"},
+{"tokens": ["And", ",", "to", "top", "it", "off", ",", "people", "who", "were", "seated", "45", "minutes", "after", "us", "got", "their", "food", "before", "us", "and", "we", "got", "to", "enjoy", "watching", "them", "eat", "while", "our", "stomachs", "growled", "."], "e1_text": "seated", "e1_pos": 10, "e2_text": "got", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "minutes", "later", ",", "we", "flagged", "him", "down", "and", "instead", "of", "apologizing", ",", "we", "get", "a", "lecture", "about", "how", "all", "the", "food", "is", "brought", "out", "fresh", "as", "it", "'s", "finished", "--", "that", "'s", "cool", ",", "but", "it", "should", "have", "been", "better", "timed", "and", "he", "could", "have", "at", "least", "given", "us", "a", "heads", "up", "we", "'d", "be", "waiting", "an", "extra", "15", "mins", "after", "everyone", "else", "got", "served", "."], "e1_text": "waiting", "e1_pos": 57, "e2_text": "got", "e2_pos": 65, "label": "after"},
+{"tokens": ["To", "boot", ",", "we", "had", "to", "snag", "a", "hostess", "to", "pour", "coffee", "for", "the", "table", "after", "we", "only", "got", "served", "one", "cup", "in", "the", "45", "minutes", "we", "'d", "been", "sitting", "there", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "got", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "my", "phone", "lit", "up", "half", "way", "through", "the", "movie", ",", "I", "went", "to", "turn", "my", "phone", "off", "after", "realizing", "it", "was", "still", "on", "and", "a", "worker", "came", "up", "from", "behind", "my", "chair", "and", "threw", "me", "out", "of", "the", "theater", "."], "e1_text": "turn", "e1_pos": 14, "e2_text": "realizing", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "walked", "in", "minutes", "after", "the", "movie", "had", "started", "-RRB-", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

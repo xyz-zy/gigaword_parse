@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "owners", "said", "they", "studied", "in", "New", "York", "before", "coming", "back", "to", "Madison", "to", "open", "this", "salon", "."], "e1_text": "studied", "e1_pos": 4, "e2_text": "coming", "e2_pos": 9, "label": "before"}
+]

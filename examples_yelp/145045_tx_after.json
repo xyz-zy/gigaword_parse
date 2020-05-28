@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "staff", "at", "Ciao", "was", "really", "friendly", "even", "though", "I", "was", "not", "sure", "what", "I", "wanted", ",", "which", "after", "seeing", "their", "extensive", "menu", ",", "I", "was", "surprised", "they", "were", "so", "patient"], "e1_text": "wanted", "e1_pos": 15, "e2_text": "seeing", "e2_pos": 19, "label": "after"}
+]

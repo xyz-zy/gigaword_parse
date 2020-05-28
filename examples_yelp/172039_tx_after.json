@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "hard", "going", "back", "to", "those", "small", "rooms", "after", "you", "see", "how", "the", "other", "people", "live", ",", "ya", "know", "?"], "e1_text": "going", "e1_pos": 3, "e2_text": "see", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "arrive", "to", "check", "in", "at", "4:30", "and", "we", "are", "told", "-LRB-", "after", "confirming", "the", "day", "before", "-RRB-", "that", "there", "is", "no", "room", "."], "e1_text": "told", "e1_pos": 10, "e2_text": "confirming", "e2_pos": 13, "label": "after"}
+]

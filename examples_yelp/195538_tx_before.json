@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", "we", "were", "there", "for", "some", "food", "earlier", "before", "anything", "really", "started", "."], "e1_text": "were", "e1_pos": 2, "e2_text": "started", "e2_pos": 11, "label": "before"},
+{"tokens": ["But", "I", "would", "make", "sure", "to", "be", "there", "before", "the", "club", "crowd", "gets", "there", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "gets", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", ",", "it", "was", "the", "only", "thing", "I", "ate", "that", "day", "and", "it", "hit", "shortly", "after", "I", "finished", "the", "meal", "-LRB-", "gone", "about", "24", "hours", "later", "-RRB-", "."], "e1_text": "hit", "e1_pos": 13, "e2_text": "finished", "e2_pos": 17, "label": "after"}
+]

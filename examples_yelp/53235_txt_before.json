@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "not", "ever", "forget", "to", "drain", "the", "ground", "beef", "before", "you", "put", "it", "on", "the", "Mexican", "pizza", "!"], "e1_text": "drain", "e1_pos": 5, "e2_text": "put", "e2_pos": 11, "label": "before"}
+]

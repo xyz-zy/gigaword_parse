@@ -1,0 +1,4 @@
+[
+{"tokens": ["Having", "never", "been", "there", "before", ",", "we", "had", "no", "idea", "that", "you", "had", "to", "make", "an", "appointment", ",", "but", "after", "walking", "up", "and", "asking", "someone", ",", "that", "'s", "what", "we", "were", "told", ",", "so", "we", "walked", "up", "to", "a", "monitor", "and", "made", "an", "''", "``", "appointment", "''", "''", "for", "about", "a", "12", "minute", "'s", "wait", ":", "no", "bad", "right", "?"], "e1_text": "had", "e1_pos": 7, "e2_text": "'s", "e2_pos": 27, "label": "after"},
+{"tokens": ["Except", "we", "waited", "and", "waited", "and", "waited", "and", "by", "chance", ",", "I", "overheard", "that", "even", "after", "you", "make", "an", "appointment", ",", "you", "have", "to", "check", "in", "."], "e1_text": "overheard", "e1_pos": 12, "e2_text": "make", "e2_pos": 17, "label": "after"}
+]

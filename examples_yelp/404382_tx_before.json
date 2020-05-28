@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "time", ",", "they", "brought", "out", "our", "lettuce", "wraps", "and", "the", "meat", "was", "so", "burnt", "you", "could", "smell", "it", "before", "they", "put", "the", "plate", "down", "."], "e1_text": "smell", "e1_pos": 17, "e2_text": "put", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "will", "go", "to", "Panda", "Express", "before", "going", "to", "Pei", "Wei", "!"], "e1_text": "go", "e1_pos": 2, "e2_text": "going", "e2_pos": 7, "label": "before"}
+]

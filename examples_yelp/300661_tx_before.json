@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "game", "we", "decided", "to", "have", "a", "drink", "at", "the", "bar", "before", "retiring", "for", "the", "night", "."], "e1_text": "decided", "e1_pos": 4, "e2_text": "retiring", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "were", "seated", "right", "away", "by", "the", "hostess", "but", "probably", "waited", "10", "minutes", "before", "we", "were", "offered", "a", "drink", "or", "the", "option", "to", "go", "ahead", "and", "get", "the", "buffet", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "were", "e2_pos": 1, "label": "before"}
+]

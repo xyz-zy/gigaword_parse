@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "did", "n't", "seem", "to", "care", "immediately", "after", "we", "got", "our", "food", "."], "e1_text": "care", "e1_pos": 6, "e2_text": "got", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "never", "got", "my", "beer", "and", "the", "only", "time", "after", "that", "she", "was", "interested", "in", "clearing", "off", "our", "table", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

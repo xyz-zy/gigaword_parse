@@ -1,0 +1,3 @@
+[
+{"tokens": ["Have", "you", "ever", "driven", "up", "to", "a", "restaurant", "that", "you", "read", "about", "on", "Yelp", ",", "took", "one", "look", "at", "it", ",", "&", "said", ",", "''", "``", "Oh", "God", ",", "I", "do", "n't", "think", "so", "!?", "''", "''", "That", "'s", "what", "happened", "to", "me", "way", "back", "when", "this", "was", "the", "very", "first", "place", "I", "tried", "to", "go", "after", "I", "joined", "Yelp", "&", "started", "reading", "the", "reviews", "."], "e1_text": "go", "e1_pos": 55, "e2_text": "joined", "e2_pos": 58, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Although", "they", "advertise", "one", "charge", "for", "''", "``", "all", "you", "can", "eat", "''", "''", "desserts", "are", "n't", "included", "and", "they", "did", "n't", "tell", "us", "until", "after", "we", "finished", "them", "-", "they", "also", "were", "n't", "very", "good", "either", "."], "e1_text": "tell", "e1_pos": 22, "e2_text": "finished", "e2_pos": 27, "label": "after"}
+]

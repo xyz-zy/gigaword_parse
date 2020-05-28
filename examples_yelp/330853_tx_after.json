@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hotel", "charged", "us", "for", "two", "nights", "after", "we", "left", "because", "of", "a", "48", "hour", "cancellation", "policy", "they", "have", ",", "which", "applies", "even", "after", "you", "have", "stayed", "a", "while", "."], "e1_text": "charged", "e1_pos": 2, "e2_text": "left", "e2_pos": 9, "label": "after"}
+]

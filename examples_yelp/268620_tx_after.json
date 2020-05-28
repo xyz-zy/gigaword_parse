@@ -1,0 +1,3 @@
+[
+{"tokens": ["OF", "COURSE", "he", "tried", "to", "sell", "me", "the", "additional", "insurance", ",", "then", "argued", "after", "I", "told", "him", "my", "insurance", "company", "covers", "me", "in", "everything", "I", "'m", "behind", "the", "wheel", "on", "...", "said", "he", "doubted", "that", "was", "true", ",", "blabla", "...", "then", "when", "he", "asked", "what", "insurance", "company", "I", "have", ",", "he", "backtracked", "and", "said", "that", "as", "he", "understood", "it", ",", "if", "you", "had", "a", "Platinum", "credit", "card", "with", "them", ",", "you", "were", "covered", "."], "e1_text": "argued", "e1_pos": 12, "e2_text": "told", "e2_pos": 15, "label": "after"}
+]

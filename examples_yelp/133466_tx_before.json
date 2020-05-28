@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mine", "is", "n't", "the", "only", "bed", "bug", "incident", "!!!", "Our", "biggest", "mistake", "was", "that", "we", "ignored", "all", "of", "the", "many", "warnings", "before", "booking", "the", "hotel", "."], "e1_text": "ignored", "e1_pos": 15, "e2_text": "booking", "e2_pos": 22, "label": "before"},
+{"tokens": ["They", "told", "me", "to", "wait", "8-10", "business", "days", "before", "calling", "risk", "management", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "calling", "e2_pos": 9, "label": "before"}
+]

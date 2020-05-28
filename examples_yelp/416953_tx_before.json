@@ -1,0 +1,3 @@
+[
+{"tokens": ["Now", "maybe", "it", "was", "because", "I", "waited", "5", "minutes", "before", "trying", "my", "steak", "that", "caused", "it", "to", "suck", "so", "bad", "-", "but", "I", "was", "hoping", "to", "get", "my", "son", "a", "new", "meal", ",", "-LRB-", "which", "never", "happened", "btw", "-RRB-", "because", "by", "the", "time", "the", "waiter", "came", "back", ",", "my", "boy", "was", "so", "stuffed", "on", "chips", "and", "salsa", ",", "he", "did", "n't", "want", "anything", "else", "."], "e1_text": "waited", "e1_pos": 6, "e2_text": "trying", "e2_pos": 10, "label": "before"}
+]

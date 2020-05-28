@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wrote", "the", "review", "on", "that", "date", "after", "continuously", "being", "charged", "numerous", "times", "after", "I", "believed", "I", "had", "canceled", "the", "membership", "WITHOUT", "being", "notified", "about", "the", "transfer", "to", "begin", "with", "."], "e1_text": "wrote", "e1_pos": 1, "e2_text": "being", "e2_pos": 9, "label": "after"},
+{"tokens": ["Continuously", "being", "charged", "5", "+", "months", "after", "I", "requested", "the", "cancellation", "certainly", "explains", "writing", "the", "review", "on", "3\\/4\\/2012", "."], "e1_text": "charged", "e1_pos": 2, "e2_text": "requested", "e2_pos": 8, "label": "after"}
+]

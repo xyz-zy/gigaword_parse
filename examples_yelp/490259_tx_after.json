@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "high", "expectations", "going", "in", "after", "checking", "out", "the", "menu", "online", "but", "it", "was", "a", "bit", "disappointing", "in", "the", "execution", "."], "e1_text": "going", "e1_pos": 3, "e2_text": "checking", "e2_pos": 6, "label": "after"},
+{"tokens": ["A", "few", "in", "the", "group", "were", "very", "rowdy", "after", "drinking", "all", "day", ",", "but", "the", "wait", "staff", "was", "extremely", "patient", "!"], "e1_text": "were", "e1_pos": 5, "e2_text": "drinking", "e2_pos": 9, "label": "after"}
+]

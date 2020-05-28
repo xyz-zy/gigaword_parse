@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "going", "to", "give", "them", "two", "stars", "because", "they", "quoted", "me", "a", "price", "over", "the", "phone", "for", "an", "extraction", ",", "and", "after", "I", "got", "there", "they", "wanted", "to", "charge", "me", "twice", "as", "from", "what", "was", "originally", "quoted", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "got", "e2_pos": 24, "label": "after"}
+]

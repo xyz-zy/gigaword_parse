@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "show", "up", "and", "check-in", "with", "a", "girl", "and", "proceed", "to", "wait", "for", "thirty", "minutes", "into", "my", "scheduled", "appointment", "...", "She", "then", "comes", "over", "and", "says", "he", "called", "out", "earlier", "that", "morning", "and", "the", "message", "did", "n't", "get", "around", "for", "them", "to", "call", "me", "before", "I", "drove", "all", "the", "way", "there", "."], "e1_text": "call", "e1_pos": 42, "e2_text": "drove", "e2_pos": 46, "label": "before"}
+]

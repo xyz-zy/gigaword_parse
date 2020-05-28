@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "ten", "minutes", "after", "being", "seated", "before", "we", "were", "asked", "for", "our", "order", ",", "at", "which", "time", "we", "asked", "about", "the", "lunch", "specials", "and", "were", "told", ",", "''", "``", "Chicken", "Fried", "Rice", "or", "Sweet", "&", "Sour", "Chicken", ".", "''", "''"], "e1_text": "seated", "e1_pos": 6, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

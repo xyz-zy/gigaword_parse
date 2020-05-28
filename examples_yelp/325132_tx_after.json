@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "picked", "my", "coworker", "and", "I", "up", "from", "the", "airport", "after", "a", "grueling", "day", "of", "traveling", "-LRB-", "ugh", "delta", "-RRB-", "to", "bring", "us", "to", "the", "hotel", "."], "e1_text": "picked", "e1_pos": 1, "e2_text": "traveling", "e2_pos": 15, "label": "after"},
+{"tokens": ["Other", "great", "things", "about", "this", "holiday", "inn", "is", "that", "on", "tues", "and", "wed", "they", "offer", "a", "happy", "hour", "after", "training", "ends", "where", "they", "have", "free", "beer", ",", "cheese", ",", "and", "games", "."], "e1_text": "offer", "e1_pos": 14, "e2_text": "ends", "e2_pos": 20, "label": "after"}
+]

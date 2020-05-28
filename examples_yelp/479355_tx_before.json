@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "of", "our", "noodle", "dishes", "were", "very", "fresh", ",", "the", "waiter", "actually", "came", "out", "before", "they", "started", "cooking", "to", "check", "to", "see", "how", "I", "would", "like", "my", "tofu", "prepared", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "started", "e2_pos": 16, "label": "before"}
+]

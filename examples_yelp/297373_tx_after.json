@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "your", "choices", "are", ":", "Enchiladas", "with", "beef", "Enchiladas", "with", "cheese", "and", "secret", "beef", ",", "of", "which", "you", "become", "aware", "of", "after", "you", "bite", "in", "Enchiladas", "with", "cheese", ",", "secret", "beef", "and", "cream", "Blech", "."], "e1_text": "become", "e1_pos": 18, "e2_text": "bite", "e2_pos": 23, "label": "after"}
+]

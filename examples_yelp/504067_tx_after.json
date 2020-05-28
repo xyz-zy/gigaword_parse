@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "were", "greeted", "to", "sit", "down", "on", "a", "table", "of", "five", ",", "after", "we", "ordered", "food", "we", "were", "rudely", "asked", "to", "switch", "tables", ",", "we", "didnt", "mind", "so", "we", "asked", "to", "be", "seated", "in", "a", "bigger", "table", "since", "our", "options", "were", "to", "move", "to", "a", "much", "smaller", "table", "."], "e1_text": "greeted", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 14, "label": "after"}
+]

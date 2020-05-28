@@ -1,0 +1,3 @@
+[
+{"tokens": ["Check", "in", "is", "at", "4", "and", "our", "room", "was", "n't", "ready", "and", "had", "to", "wait", "30", "min", "after", "we", "got", "there", "til", "5", ",", "not", "cool", "after", "a", "5", "hour", "drive", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "got", "e2_pos": 19, "label": "after"}
+]

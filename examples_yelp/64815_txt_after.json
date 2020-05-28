@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "come", "back", "to", "next", "day", "to", "purchase", "one", "and", "he", "tells", "us", "after", "it", "has", "rung", "up", "that", "there", "is", "a", "sale", "on", "helicopters", "that", "day", "."], "e1_text": "tells", "e1_pos": 11, "e2_text": "has", "e2_pos": 15, "label": "after"}
+]

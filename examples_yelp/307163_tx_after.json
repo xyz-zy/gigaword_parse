@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "example", ",", "I", "ordered", "a", "pizza", "with", "fresh", "basil", "and", "the", "basil", "was", "all", "burnt", "as", "if", "they", "put", "it", "through", "the", "oven", "-LRB-", "usually", "you", "put", "it", "on", "after", "since", "it", "is", "fresh", "and", "all", "...", "-RRB-", "."], "e1_text": "put", "e1_pos": 19, "e2_text": "is", "e2_pos": 33, "label": "after"}
+]

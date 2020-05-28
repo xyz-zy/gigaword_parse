@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "arrived", "late", "on", "Friday", "-LRB-", "around", "midnight", "-RRB-", "after", "driving", "in", "from", "Orange", "County", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "driving", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "finally", "got", "to", "around", "floor", "10", "after", "making", "continuous", "and", "tiny", "circles", "that", "quickly", "made", "us", "dizzy", "and", "noticed", "that", "the", "spots", "were", "no", "longer", "reserved", "for", "valet", ",", "they", "were", "however", "either", "marked", "for", "Enterprise", "rental", "cars", "or", "filled", "with", "furniture", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "making", "e2_pos": 8, "label": "after"},
+{"tokens": ["-LRB-", "I", "called", "a", "manager", "later", "and", "she", "did", "refund", "my", "stay", "after", "much", "hesitation", "and", "negotiation", "-RRB-", "We", "ended", "up", "staying", "at", "the", "Springhill", "Suites", "in", "Las", "Vegas", "."], "e1_text": "refund", "e1_pos": 9, "e2_text": "ended", "e2_pos": 19, "label": "after"}
+]

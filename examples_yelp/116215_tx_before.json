@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "groomer", "who", "worked", "on", "him", "before", "added", "that", "there", "is", "no", "way", "he", "would", "bite", "he", "was", "just", "upset", "and", "had", "a", "lot", "of", "energy", "."], "e1_text": "worked", "e1_pos": 3, "e2_text": "added", "e2_pos": 7, "label": "before"},
+{"tokens": ["So", "the", "manager", "said", "if", "he", "was", "afraid", "of", "the", "dryer", "or", "wriggled", "too", "much", "she", "would", "have", "to", "stop", "and", "send", "him", "home", "-LRB-", "this", "would", "only", "be", "his", "2nd", "groom", ",", "I", "would", "be", "afraid", "of", "the", "dryer", "if", "it", "had", "never", "been", "used", "on", "me", "before", "-RRB-", "So", "I", "said", "are", "you", "saying", "we", "should", "take", "him", "somewhere", "else", "?"], "e1_text": "be", "e1_pos": 28, "e2_text": "had", "e2_pos": 42, "label": "before"}
+]

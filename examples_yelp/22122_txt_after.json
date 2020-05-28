@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "use", "to", "love", "Williams-Sonoma", "until", "we", "started", "having", "the", "worst", "problems", "after", "buying", "their", "coffee", "pots", "."], "e1_text": "having", "e1_pos": 8, "e2_text": "buying", "e2_pos": 13, "label": "after"}
+]

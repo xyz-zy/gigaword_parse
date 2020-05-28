@@ -1,0 +1,3 @@
+[
+{"tokens": ["Check", "your", "reservation", "before", "going", "so", "that", "you", "know", "which", "Tower", "your", "room", "is", "in", "-LRB-", "Venetian", "or", "Palazzo", "-RRB-", "for", "if", "you", "check", "in", "at", "the", "wrong", "Tower", "-", "you", "will", "have", "quite", "the", "hike", "to", "get", "to", "your", "room", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "going", "e2_pos": 4, "label": "before"}
+]

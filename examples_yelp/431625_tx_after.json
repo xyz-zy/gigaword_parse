@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "will", "take", "application", "fees", "after", "they", "have", "already", "approved", "an", "application", "."], "e1_text": "take", "e1_pos": 2, "e2_text": "have", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "looked", "on", "the", "mls", "my", "real", "estate", "agent", "sent", "and", "they", "had", "taken", "the", "house", "off", "the", "market", "not", "even", "an", "hour", "after", "we", "had", "paid", "them", "an", "app", "."], "e1_text": "taken", "e1_pos": 13, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["Fee", "then", "after", "she", "told", "my", "agent", "the", "house", "was", "already", "rented", "to", "someone", ",", "I", "called", "her", "to", "ask", "her", "why", "we", "were", "n't", "approved", "."], "e1_text": "Fee", "e1_pos": 0, "e2_text": "told", "e2_pos": 4, "label": "after"}
+]

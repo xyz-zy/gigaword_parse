@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "tried", "to", "complain", "but", "no", "one", "understood", "what", "we", "were", "saying", ",", "and", "we", "did", "n't", "see", "the", "waiter", "after", "we", "ordered", "until", "we", "got", "our", "check", "."], "e1_text": "see", "e1_pos": 17, "e2_text": "ordered", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "went", "there", "later", "one", "night", "after", "thinking", "about", "getting", "some", "fish", "tacos", "and", "we", "were", "basically", "ignored", "by", "our", "waiter", "all", "night", ",", "which", "in", "retrospect", "was", "probably", "a", "good", "thing", "because", "he", "looked", "like", "he", "was", "about", "to", "set", "the", "place", "on", "fire", "anyway", "and", "we", "didnt", "want", "him", "to", "start", "with", "us", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "thinking", "e2_pos": 7, "label": "after"}
+]

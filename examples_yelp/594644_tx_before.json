@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pizza", "came", "out", "waaaaaaaay", "before", "the", "beers", "did", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "did", "e2_pos": 8, "label": "before"},
+{"tokens": ["They", "bring", "out", "your", "checks", "like", "right", "at", "the", "climax", "of", "the", "movie", "...", "which", "is", "like", "45", "min-hour", "before", "it", "is", "even", "over", "."], "e1_text": "is", "e1_pos": 15, "e2_text": "is", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "he", "finished", "his", "''", "``", "ice", "cream", "soda", "''", "''", "before", "I", "finished", "my", "beer", ",", "the", "bartender", "courteously", "brought", "him", "some", "water", "without", "request", ",", "which", "I", "thought", "was", "a", "great", "touch", "."], "e1_text": "finished", "e1_pos": 2, "e2_text": "finished", "e2_pos": 2, "label": "before"}
+]

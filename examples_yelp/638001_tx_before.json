@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "finally", "got", "inside", "and", "waited", "for", "someone", "available", "to", "take", "our", "order", "the", "man", "did", "n't", "even", "look", "at", "me", "or", "ask", "if", "I", "had", "been", "helped", "before", "he", "greeted", "the", "lady", "behind", "me", "."], "e1_text": "helped", "e1_pos": 28, "e2_text": "greeted", "e2_pos": 31, "label": "before"},
+{"tokens": ["So", "I", "'m", "finally", "called", "up", "to", "pay", "and", "the", "women", "repeats", "my", "order", "back", "to", "me", "before", "charging", "me", "and", "everything", "she", "repeated", "was", "correct", "."], "e1_text": "repeats", "e1_pos": 11, "e2_text": "charging", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "trouble", "finding", "an", "ice", "machine", "in", "the", "tower", "after", "going", "up", "and", "down", "the", "halls", ",", "so", "I", "called", "down", "to", "the", "front", "desk", "."], "e1_text": "finding", "e1_pos": 3, "e2_text": "going", "e2_pos": 11, "label": "after"}
+]

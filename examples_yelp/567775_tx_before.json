@@ -1,0 +1,4 @@
+[
+{"tokens": ["Make", "sure", "you", "stay", "hydrated", "before", "visiting", "!"], "e1_text": "stay", "e1_pos": 3, "e2_text": "visiting", "e2_pos": 6, "label": "before"},
+{"tokens": ["Always", "make", "sure", "that", "you", "take", "off", "your", "shoes", "at", "the", "back", "entry", ",", "where", "they", "have", "a", "huge", "shoe", "rack", ",", "and", "cover", "your", "head", "before", "entering", "."], "e1_text": "cover", "e1_pos": 23, "e2_text": "entering", "e2_pos": 27, "label": "before"}
+]

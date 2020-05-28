@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "could", "n't", "eat", "more", "than", "a", "thumbnail-sized", "sliver", "before", "pushing", "the", "plate", "away", "in", "disgust", "."], "e1_text": "eat", "e1_pos": 4, "e2_text": "pushing", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "fare", "here", "in", "inexcusable", ";", "the", "fact", "that", "we", "waited", "in", "line", "before", "entering", "is", "baffling", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "is", "e2_pos": 15, "label": "before"}
+]

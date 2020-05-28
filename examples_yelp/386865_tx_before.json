@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "also", "try", "to", "call", "me", "to", "cancel", "my", "flight", "and", "hotel", "the", "day", "before", "I", "leave", "to", "Vegas", "...", "Worst", "place", "to", "get", "your", "car", "to", "repair", "."], "e1_text": "cancel", "e1_pos": 7, "e2_text": "leave", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Got", "water", "30", "minutes", "later", ",", "only", "after", "having", "to", "flag", "someone", "down", "because", "our", "waiter", "was", "never", "on", "the", "dining", "floor", "."], "e1_text": "Got", "e1_pos": 0, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["Did", "n't", "see", "waiter", "for", "the", "next", "45", "minutes", "after", "getting", "our", "food", "."], "e1_text": "see", "e1_pos": 2, "e2_text": "getting", "e2_pos": 10, "label": "after"}
+]

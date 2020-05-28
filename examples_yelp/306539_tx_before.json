@@ -1,0 +1,3 @@
+[
+{"tokens": ["--", "Also", ",", "-LRB-", "forgot", "to", "mention", "-RRB-", "--", "on", "Wednesday", "night", "my", "dog", "was", "having", "really", "bad", "diarrhea", "and", "I", "needed", "something", "immediately", ",", "did", "n't", "want", "to", "just", "give", "her", "Immodium", "AD", "--", "-LRB-", "i", "'m", "always", "using", "google", "to", "try", "and", "find", "an", "alternate", "cure", "-RRB-", "-", "they", "said", "I", "'d", "have", "to", "bring", "her", "in", "for", "an", "exam", "since", "she", "had", "n't", "had", "metronidazole", "before", "."], "e1_text": "have", "e1_pos": 54, "e2_text": "had", "e2_pos": 64, "label": "before"}
+]

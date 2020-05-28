@@ -1,0 +1,3 @@
+[
+{"tokens": ["Employees", "were", "using", "hand", "sanitizer", "in", "place", "of", "washing", "their", "hands", "after", "handling", "money", "or", "phone", "orders", "."], "e1_text": "washing", "e1_pos": 8, "e2_text": "handling", "e2_pos": 12, "label": "after"}
+]

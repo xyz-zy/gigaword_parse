@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "enjoyed", "my", "mojito", "and", "my", "friend", "enjoyed", "the", "first", "few", "sips", "of", "her", "sangria", "-LRB-", "after", "awhile", "she", "said", "it", "was", "''", "``", "like", "licking", "a", "candle", "''", "''", "-RRB-", "."], "e1_text": "enjoyed", "e1_pos": 1, "e2_text": "like", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "airplane", "was", "so", "hot", "and", "I", "had", "never", "flown", "in", "such", "a", "little", "plane", "before", "so", "it", "was", "a", "new", "experience", "."], "e1_text": "flown", "e1_pos": 9, "e2_text": "was", "e2_pos": 2, "label": "before"},
+{"tokens": ["I", "do", "however", "wish", "they", "had", "some", "sort", "of", "metal", "detectors", "you", "had", "to", "pass", "through", "before", "boarding", "the", "plane", "."], "e1_text": "pass", "e1_pos": 14, "e2_text": "boarding", "e2_pos": 17, "label": "before"}
+]

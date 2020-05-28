@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "on", "the", "first", "floor", "above", "the", "lobby", "-", "so", "I", "'ve", "had", "to", "take", "the", "elevator", "just", "to", "go", "down", "a", "single", "floor", "-LRB-", "before", "getting", "on", "a", "second", "eleavator", "to", "go", "anywhere", "else", "-RRB-", "."], "e1_text": "go", "e1_pos": 20, "e2_text": "getting", "e2_pos": 27, "label": "before"}
+]

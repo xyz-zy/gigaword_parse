@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "seated", "right", "away", "after", "being", "greeted", "at", "the", "door", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "bill", "was", "about", "$", "75", "after", "that", "$", "17", "steak", "was", "removed", ",", "to", "which", "I", "tipped", "a", "healthy", "$", "20", "-LRB-", "over", "20", "%", "of", "the", "original", "bill", "-RRB-", ",", "Osana", "wished", "us", "a", "good", "evening", "and", "we", "were", "on", "our", "way", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

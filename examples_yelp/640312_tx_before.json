@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "with", "some", "people", "that", "had", "been", "there", "before", ",", "and", "they", "all", "seemed", "to", "enjoy", "it", ",", "but", "this", "place", "was", "not", "for", "us", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["And", "then", "2", "hours", "turned", "into", "2", "1\\/2", "hours", "before", "we", "actually", "got", "seated", "."], "e1_text": "turned", "e1_pos": 4, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

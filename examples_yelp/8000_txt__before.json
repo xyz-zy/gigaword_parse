@@ -1,0 +1,3 @@
+[
+{"tokens": ["Have", "you", "ever", "had", "a", "gate", "agent", "sincerely", "apologize", "for", "a", "delay", "and", "give", "real", "time", "updates", "on", "how", "long", "it", "would", "be", "before", "you", "boarded", "?"], "e1_text": "had", "e1_pos": 3, "e2_text": "boarded", "e2_pos": 25, "label": "before"}
+]

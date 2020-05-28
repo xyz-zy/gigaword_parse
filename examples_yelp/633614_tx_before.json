@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "at", "least", "another", "5", "minutes", "before", "the", "bartender", "addressed", "me", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "addressed", "e2_pos": 10, "label": "before"},
+{"tokens": ["So", "it", "would", "appear", "that", "everything", "that", "existed", "before", "has", "just", "been", "relabeled", "as", "Duke", "'s", "-LRB-", "well", "not", "even", "relabeled", "I", "suppose", "...", "re", "owned", "?", "-RRB-"], "e1_text": "existed", "e1_pos": 7, "e2_text": "has", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "you", "arrive", ",", "there", "are", "three", "lines", "to", "pull", "into", ",", "and", "it", "does", "n't", "matter", "what", "line", "you", "pull", "into", ",", "you", "never", "get", "your", "car", "washed", "before", "someone", "who", "comes", "in", "after", "you", "."], "e1_text": "washed", "e1_pos": 28, "e2_text": "comes", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pool", "and", "shark", "tank", "were", "great", "but", "you", "have", "to", "get", "your", "spot", "early", "before", "all", "the", "chairs", "are", "gone", "-LRB-", "seems", "by", "11:30", "they", "'re", "all", "taken\\/reserved", "-RRB-", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "are", "e2_pos": 19, "label": "before"}
+]

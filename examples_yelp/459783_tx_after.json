@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "Friday", "night", "after", "leaving", "Macy", "'s", "around", "9:20", "pm", "."], "e1_text": "night", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 4, "label": "after"},
+{"tokens": ["Thought", "it", "was", "open", "after", "seeing", "the", "front", "door", "open", "and", "few", "people", "sitting", "around", "the", "bar", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

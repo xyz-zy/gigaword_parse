@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stumbled", "upon", "Angela", "at", "Sweet", "Salon", "after", "I", "had", "a", "terrible", "experience", "getting", "my", "hair", "colored", "for", "my", "wedding", "day", "at", "another", "salon", "."], "e1_text": "stumbled", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"},
+{"tokens": ["And", "I", "'m", "pleased", "to", "say", "that", "the", "color", "stays", "fabulous", "on", "my", "wedding", "day", "and", "long", "after", "!"], "e1_text": "say", "e1_pos": 5, "e2_text": "stays", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "son", "and", "I", "waited", "almost", "10", "minutes", "to", "be", "served", "after", "being", "seated", "."], "e1_text": "served", "e1_pos": 10, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "only", "got", "attention", "after", "I", "flagged", "down", "a", "server", "from", "another", "section", "who", "passed", "by", "and", "made", "a", "conscientious", "effort", "to", "avoid", "eye", "contact", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "flagged", "e2_pos": 6, "label": "after"}
+]

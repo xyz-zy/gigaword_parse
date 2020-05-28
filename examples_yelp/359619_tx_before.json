@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "greeted", "us", "in", "a", "friendly", "manner", "and", "when", "I", "told", "her", "our", "name", "she", "said", "''", "``", "Happy", "Anniversary", "''", "''", "-LRB-", "thanks", "opentable.com", "-RRB-", "We", "arrived", "about", "45", "minutes", "for", "our", "reservation", "and", "they", "said", "it", "would", "be", "closer", "to", "our", "reservation", "time", "before", "we", "sat", "down", "but", "we", "could", "have", "a", "seat", "in", "the", "lounge", "."], "e1_text": "be", "e1_pos": 40, "e2_text": "sat", "e2_pos": 48, "label": "before"}
+]

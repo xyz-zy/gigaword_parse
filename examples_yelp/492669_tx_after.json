@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "slightly", "disappointed", "with", "the", "quality", "of", "the", "food", ",", "especially", "after", "hearing", "so", "many", "great", "reviews", "about", "this", "place", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 13, "label": "after"},
+{"tokens": ["At", "least", "our", "server", "was", "nice", "enough", "to", "personally", "deliver", "macarons", "to", "us", "after", "we", "asked", "her", "if", "there", "were", "any", "that", "day", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "asked", "e2_pos": 15, "label": "after"}
+]

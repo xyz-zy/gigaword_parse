@@ -1,0 +1,3 @@
+[
+{"tokens": ["Grab", "a", "shirt", "and", "you", "might", "wander", "around", "with", "it", "for", "a", "long", "time", "before", "someone", "wants", "to", "put", "it", "on", "the", "fitting", "room", "door", "."], "e1_text": "wander", "e1_pos": 6, "e2_text": "wants", "e2_pos": 16, "label": "before"}
+]

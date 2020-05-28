@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "the", "place", "to", "eat", "a", "hearty", "breakfast", "before", "plowing", "the", "back", "40", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "plowing", "e2_pos": 10, "label": "before"},
+{"tokens": ["First", ",", "the", "portions", "are", "sized", "so", "that", "if", "you", "happen", "to", "be", "a", "black", "bear", "who", "wants", "to", "tank", "up", "before", "hibernating", "for", "the", "winter", ",", "you", "can", "do", "it", "for", "about", "$", "10", "and", "be", "confident", "that", "you", "'ll", "still", "have", "a", "bit", "of", "belly", "fat", "when", "you", "awaken", "in", "March", "."], "e1_text": "tank", "e1_pos": 19, "e2_text": "hibernating", "e2_pos": 22, "label": "before"}
+]

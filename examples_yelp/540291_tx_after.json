@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "it", "called", "in", "after", "I", "called", "around", "11", "am", "the", "next", "day", "?"], "e1_text": "called", "e1_pos": 2, "e2_text": "called", "e2_pos": 6, "label": "after"},
+{"tokens": ["Did", "she", "finally", "call", "me", "back", "after", "I", "called", "the", "following", "week", "to", "follow", "up", "on", "the", "exception", "?"], "e1_text": "call", "e1_pos": 3, "e2_text": "called", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "could", "not", "figure", "out", "the", "register", "for", "the", "order", "after", "me", "and", "it", "took", "her", "10", "minutes", "to", "ring", "up", "my", "food", "and", "then", "since", "she", "was", "serving", "the", "entire", "restaurant", "by", "herself", ",", "my", "takeout", "order", "got", "lost", "in", "the", "shuffle", "."], "e1_text": "figure", "e1_pos": 3, "e2_text": "took", "e2_pos": 14, "label": "after"}
+]

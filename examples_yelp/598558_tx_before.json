@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "before", "heading", "to", "IKEA", "one", "day", "because", "we", "were", "so", "hungry", "and", "this", "was", "one", "of", "the", "places", "that", "was", "rated", "well", "on", "Yelp", "and", "was", "close", "by", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "heading", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "should", "have", "read", "the", "previous", "reviews", "before", "coming", "here", "because", "several", "people", "have", "mentioned", "that", "their", "food", "was", "salty", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "coming", "e2_pos": 8, "label": "before"}
+]

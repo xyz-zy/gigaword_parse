@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", ",", "she", "should", "have", "informed", "us", "after", "I", "clearly", "ordered", "more", "than", "two", "things", ",", "or", "at", "least", "before", "letting", "the", "other", "two", "diners", "order", "."], "e1_text": "informed", "e1_pos": 5, "e2_text": "letting", "e2_pos": 20, "label": "before"}
+]

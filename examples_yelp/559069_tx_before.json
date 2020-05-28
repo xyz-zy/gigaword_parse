@@ -1,0 +1,4 @@
+[
+{"tokens": ["Elle", "described", "it", "perfectly", "as", "''", "``", "chic", "diet", "food", ",", "'", "''", "''", "a", "light", "and", "fresh", "salad", "you", "could", "feel", "good", "eating", "right", "before", "a", "night", "out", "or", "before", "getting", "into", "a", "swimsuit", ",", "since", "it", "was", "healthy", "and", "light", "."], "e1_text": "feel", "e1_pos": 21, "e2_text": "getting", "e2_pos": 31, "label": "before"},
+{"tokens": ["It", "came", "with", "pistachios", ",", "capers", "and", "currants", ",", "and", "Justis", "said", "it", "'s", "simply", "cooked", "by", "poaching", "the", "cruciferous", "vegetable", "in", "milk", "before", "charring", "it", "a", "little", "in", "a", "skillet", ",", "then", "adding", "in", "the", "capers", ",", "currants", "and", "a", "touch", "of", "butter", "and", "herbs", "."], "e1_text": "poaching", "e1_pos": 17, "e2_text": "charring", "e2_pos": 24, "label": "before"}
+]

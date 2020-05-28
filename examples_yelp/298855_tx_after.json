@@ -1,0 +1,4 @@
+[
+{"tokens": ["Having", "read", "multiple", ",", "positive", "reviews", "for", "this", "establishment", ",", "I", "had", "high", "expectations", "when", "arriving", "for", "dinner", ",", "even", "after", "I", "was", "treated", "somewhat", "brusquely", "when", "making", "a", "reservation", "."], "e1_text": "arriving", "e1_pos": 15, "e2_text": "was", "e2_pos": 22, "label": "after"},
+{"tokens": ["The", "three", "of", "us", "waited", "about", "an", "hour", "before", "paying", "our", "drinks", "bill", "and", "leaving", ",", "after", "repeatedly", "being", "told", "that", "our", "chef", "-LRB-", "and", "food", "-RRB-", "were", "''", "``", "almost", "there", ".", "''", "''"], "e1_text": "waited", "e1_pos": 4, "e2_text": "being", "e2_pos": 18, "label": "after"}
+]

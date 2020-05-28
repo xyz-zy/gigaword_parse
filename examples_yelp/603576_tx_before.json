@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "outside", "of", "my", "car", "was", "dirty", "as", "expected", "but", "I", "made", "the", "mistake", "of", "signing", "the", "form", "before", "checking", "the", "mileage", "and", "the", "inside", "of", "my", "car", "-LRB-", "I", "'ve", "shipped", "my", "car", "cross-country", "several", "times", "with", "no", "interior", "issues", "and", "so", "did", "n't", "even", "think", "to", "check", "-RRB-", "."], "e1_text": "signing", "e1_pos": 15, "e2_text": "checking", "e2_pos": 19, "label": "before"}
+]

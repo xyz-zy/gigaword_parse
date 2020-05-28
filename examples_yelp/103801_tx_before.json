@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "to", "this", "location", "a", "few", "times", "before", "because", "I", "am", "in", "this", "area", "often", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "am", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "have", "had", "this", "same", "type", "of", "experience", "at", "this", "store", "once", "before", "where", "I", "felt", "as", "though", "I", "was", "almost", "being", "scolded", "for", "not", "buying", "the", "better", "sale", "that", "they", "had", "at", "the", "time", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "felt", "e2_pos": 15, "label": "before"}
+]

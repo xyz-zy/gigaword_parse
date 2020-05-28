@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*\\*\\*", "Review", "is", "for", "Spring", "2013", "Restaurant", "Week", "menu", "\\*\\*\\*", "First", "the", "food", ":", "The", "bread", "basket", "was", "brought", "a", "fair", "amount", "of", "time", "after", "I", "ordered", "."], "e1_text": "brought", "e1_pos": 18, "e2_text": "ordered", "e2_pos": 26, "label": "after"},
+{"tokens": ["As", "for", "the", "ambience", "of", "the", "place", ",", "it", "was", "nouveau", "dark", "as", "this", "photo", "shows", ":", "http:\\/\\/www.yelp.com\\/biz_photos\\/charlie-palmer-steak-las-vegas-3#ZR8UVgbVry2CagHkQEp4lA", "For", "some", "reason", ",", "after", "I", "was", "there", "for", "about", "15", "minutes", ",", "the", "lights", "came", "up", "half", "bright", "for", "about", "two", "minutes", "and", "then", "went", "back", "down", "to", "this", "level", "."], "e1_text": "shows", "e1_pos": 15, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

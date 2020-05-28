@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "stood", "there", "for", "10", "minutes", "before", "someone", "came", "to", "the", "front", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["At", "that", "point", ",", "another", "young", "couple", "that", "was", "waiting", ",", "said", "to", "us", ",", "''", "``", "That", "'s", "the", "2nd", "couple", "that", "'s", "been", "seated", "since", "we", "arrived", "half", "hour", "ago", ",", "and", "we", "were", "here", "before", "they", "were", "."], "e1_text": "were", "e1_pos": 35, "e2_text": "were", "e2_pos": 35, "label": "before"},
+{"tokens": ["After", "we", "again", "waited", "10", "minutes", "before", "someone", "aknowledged", "we", "were", "even", "there", ",", "we", "were", "seated.", ",", "We", "were", "brought", "a", "wine", "list", "and", "asked", "for", "our", "drink", "order", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "aknowledged", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "back", "to", "breakfast", "--", "after", "we", "seat", "ourselves", ",", "we", "wait", "5", "minutes", "before", "we", "are", "handed", "menus", "."], "e1_text": "wait", "e1_pos": 11, "e2_text": "are", "e2_pos": 16, "label": "before"},
+{"tokens": ["P.S.", "I", "hear", "HHAGG", "has", "a", "second", "location", "in", "Imperial", "Palace", "...", "I", "would", "go", "to", "the", "strip", "before", "going", "back", "to", "the", "craptastic", "Hash", "House", "."], "e1_text": "go", "e1_pos": 14, "e2_text": "going", "e2_pos": 19, "label": "before"}
+]

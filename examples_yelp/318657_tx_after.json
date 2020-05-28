@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "really", "looking", "forward", "to", "eating", "here", "after", "standing", "in", "line", "for", "an", "iPhone", "3G", "for", "three", "hours", "."], "e1_text": "eating", "e1_pos": 6, "e2_text": "standing", "e2_pos": 9, "label": "after"},
+{"tokens": ["My", "husband", "did", "want", "to", "try", "the", "Pina", "Colada", "cake", "that", "he", "saw", "on", "the", "dessert", "tray", "on", "the", "way", "inside", ",", "but", "after", "two", "tries", "to", "get", "more", "water", "-LRB-", "he", "got", "ice", ",", "no", "water", "-RRB-", ",", "we", "paid", "in", "cash", "and", "escaped", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "tries", "e2_pos": 25, "label": "after"}
+]

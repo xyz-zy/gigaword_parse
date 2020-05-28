@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "at", "least", "15", "minutes", "before", "our", "waiter", "came", "to", "take", "or", "order", ",", "and", "judging", "by", "the", "speediness", "of", "the", "staff", "we", "placed", "our", "drink", "appetizer", "and", "entree", "orders", "all", "at", "once", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 9, "label": "before"}
+]

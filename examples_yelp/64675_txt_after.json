@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "ask", "to", "just", "get", "the", "$", "2", "refund", "-LRB-", "I", "paid", "cash", "-RRB-", "they", "acted", "as", "if", "I", "had", "asked", "for", "their", "first", "born", ",", "made", "excuse", "after", "excuse", ",", "told", "me", "that", "it", "would", "''", "``", "Look", "funny", "if", "they", "returned", "the", "$", "31", "item", "and", "gave", "me", "the", "difference", "of", "$", "2", ",", "would", "look", "suspicious", "in", "their", "computer", "''", "''", "...", "really", "?"], "e1_text": "excuse", "e1_pos": 28, "e2_text": "told", "e2_pos": 32, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "I", "would", "suggest", "is", "that", "if", "you", "do", "get", "a", "TV", "in", "there", ",", "make", "sure", "that", "you", "see", "it", "actually", "working", "before", "you", "go", "ahead", "and", "buy", "it", "!"], "e1_text": "working", "e1_pos": 22, "e2_text": "go", "e2_pos": 25, "label": "before"},
+{"tokens": ["But", "it", "does", "seem", "to", "suggest", "that", "the", "staff", "here", "do", "not", "check", "if", "the", "items", "work", "before", "they", "put", "them", "on", "sale", "."], "e1_text": "work", "e1_pos": 16, "e2_text": "put", "e2_pos": 19, "label": "before"}
+]

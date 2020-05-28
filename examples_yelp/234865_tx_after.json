@@ -1,0 +1,4 @@
+[
+{"tokens": ["HOWEVER", "come", "to", "find", "out", "the", "store", "put", "the", "gown", "on", "the", "floor", "for", "$", "195", "-LRB-", "NOT", "the", "near", "$", "300", "they", "had", "indicated", "-RRB-", "and", "THEN", "had", "a", "1\\/2", "off", "sale", "right", "after", "niece", "consigned", "the", "dress", "so", "the", "gown", "sold", "for", "$", "100", "and", "niece", "got", "a", "whopping", "$", "50", "."], "e1_text": "had", "e1_pos": 23, "e2_text": "consigned", "e2_pos": 36, "label": "after"},
+{"tokens": ["They", "wo", "n't", "admit", "they", "promised", "to", "put", "it", "on", "sale", "for", "the", "$", "300", "price", "tag", "and", "they", "failed", "to", "tell", "her", "they", "would", "be", "having", "a", "1\\/2", "off", "anything", "in", "the", "store", "sale", "right", "after", "she", "consigned", "it", "."], "e1_text": "tell", "e1_pos": 21, "e2_text": "consigned", "e2_pos": 38, "label": "after"}
+]

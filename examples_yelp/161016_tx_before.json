@@ -1,0 +1,3 @@
+[
+{"tokens": ["Called", "house", "keeping", "again", "and", "40", "minutes", "later", "someone", "arrived", "to", "run", "the", "faucet", "for", "30", "minutes", "before", "they", "declared", "the", "water", "was", "''", "``", "hot", "''", "''", "."], "e1_text": "run", "e1_pos": 11, "e2_text": "declared", "e2_pos": 19, "label": "before"}
+]

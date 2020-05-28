@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yelpers", "you", "got", "this", "one", "wrong", ":", "-LRB-", "We", "got", "take", "out", "after", "we", "read", "all", "the", "great", "yelp", "reviews", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "read", "e2_pos": 14, "label": "after"}
+]

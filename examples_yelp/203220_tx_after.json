@@ -1,0 +1,3 @@
+[
+{"tokens": ["Cheeseburger", "gives", "you", "4", "sliders", "which", "was", "a", "little", "much", "for", "us", ",", "after", "we", "finished", "-LRB-", "each", "leaving", "a", "full", "slider", "on", "our", "plates", "-RRB-", "we", "agreed", "that", "we", "should", "have", "just", "split", "an", "order", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "finished", "e2_pos": 15, "label": "after"}
+]

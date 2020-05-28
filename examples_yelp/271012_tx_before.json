@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "here", "for", "a", "quick", "pho", "fix", "last", "Saturday", "before", "my", "flight", "left", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "left", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "were", "in", "and", "out", "in", "about", "40", "minutes", "as", "we", "were", "on", "a", "time", "frame", "and", "this", "always", "hits", "the", "spot", "before", "we", "leave", "for", "the", "airport", "."], "e1_text": "hits", "e1_pos": 19, "e2_text": "leave", "e2_pos": 24, "label": "before"}
+]

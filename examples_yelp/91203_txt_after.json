@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "park", "on", "the", "side", "street", "which", "we", "did", "but", "only", "after", "we", "waited", "on", "the", "single", "valet", "to", "park", "2", "cars", "that", "were", "blocking", "us", "."], "e1_text": "park", "e1_pos": 2, "e2_text": "waited", "e2_pos": 14, "label": "after"}
+]

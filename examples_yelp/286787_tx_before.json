@@ -1,0 +1,3 @@
+[
+{"tokens": ["Five", "minutes", "later", "I", "decide", "to", "order", "the", "''", "``", "dawn", "breaker", "''", "''", "special", "with", "fried", "eggs", ",", "the", "waitress", "says", "''", "``", "no", "that", "one", "is", "only", "available", "with", "scrambled", "eggs", "and", "you", "HAVE", "TO", "hurry", "up", "because", "the", "kitchen", "closes", "at", "2:30", "''", "''", "''", "``", "someone", "could", "have", "let", "us", "know", "before", "they", "sat", "us", "down", ",", "outside", "it", "says", "ALL", "day", "''", "''", "she", "answers", "''", "``", "but", "it", "does", "n't", "say", "dinner", "!", "''", "''"], "e1_text": "know", "e1_pos": 54, "e2_text": "sat", "e2_pos": 57, "label": "before"}
+]

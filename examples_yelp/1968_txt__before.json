@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "only", "put", "too", "many", "sugary", "alcohols", "together", "before", "you", "get", "a", "tummyache", ",", "you", "might", "as", "well", "be", "drinking", "the", "syrup", "flavors", "starbucks", "puts", "in", "your", "coffee", "."], "e1_text": "put", "e1_pos": 3, "e2_text": "get", "e2_pos": 11, "label": "before"}
+]

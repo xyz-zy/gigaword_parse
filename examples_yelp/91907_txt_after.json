@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "went", "after", "going", "to", "Glendale", "Glitters", "and", "got", "here", "about", "10pm", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "going", "e2_pos": 3, "label": "after"},
+{"tokens": ["We", "sat", "down", "right", "after", "walking", "in", ",", "they", "were", "n't", "too", "busy", "at", "that", "time", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "walking", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "got", "our", "menus", ",", "we", "had", "to", "wait", "to", "get", "silverware", "until", "after", "our", "food", "came", "because", "they", "said", "they", "did", "n't", "have", "any", ",", "some", "of", "our", "silverware", "was", "still", "a", "bit", "dirty", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "came", "e2_pos": 16, "label": "after"},
+{"tokens": ["Our", "server", "took", "a", "few", "minutes", "to", "bring", "our", "drinks", "and", "that", "was", "after", "he", "had", "to", "come", "back", "and", "ask", "again", "what", "one", "of", "them", "was", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

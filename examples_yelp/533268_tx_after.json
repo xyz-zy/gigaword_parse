@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "a", "place", "called", "''", "``", "cold", "beer", "''", "''", "and", "cheeseburgers", ",", "I", "want", "to", "be", "\\*", "drinking", "\\*", "a", "draught", "beer", "no", "more", "than", "6", "minutes", "after", "I", "sit", "down", "."], "e1_text": "\\*", "e1_pos": 17, "e2_text": "sit", "e2_pos": 30, "label": "after"},
+{"tokens": ["+55", "minutes", "my", "colleagues", "sitting", "at", "a", "nearby", "table", "get", "their", "food", ",", "having", "arrived", "a", "few", "minutes", "after", "we", "did", "#", "+75", "minutes", ",", "i", "have", "to", "flag", "down", "another", "server", "to", "get", "our", "check", "Other", "suggestions", ":", "\\*", "Redesign", "your", "menus", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "did", "e2_pos": 20, "label": "after"}
+]

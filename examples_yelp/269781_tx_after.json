@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "get", "the", "euro", "wrap", "which", "is", "very", "fresh", "and", "good", "but", "after", "today", "i", "am", "done", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "am", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "'s", "bad", "business", "to", "nickel", "and", "dime", "and", "flat", "out", "dishonest", "to", "charge", "more", "after", "you", "said", "the", "price", "no", "matter", "how", "much", "."], "e1_text": "charge", "e1_pos": 13, "e2_text": "said", "e2_pos": 17, "label": "after"}
+]

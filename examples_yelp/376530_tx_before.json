@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "picked", "radish", ",", "but", "there", "'s", "was", "definitely", "frozen", "and", "thawed", "somehow", "before", "serving", "it", "to", "me", ",", "because", "there", "was", "a", "ton", "of", "ice", "left", "in", "my", "dish", "mixed", "in", "with", "the", "radish", "."], "e1_text": "frozen", "e1_pos": 10, "e2_text": "serving", "e2_pos": 15, "label": "before"}
+]

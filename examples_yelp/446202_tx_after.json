@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "waiting", "for", "about", "10", "minutes", ",", "our", "server\\/bartender", "came", "back", "inside", "through", "the", "back", "door", "after", "smoking", "a", "cigarette", "I", "presume", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "smoking", "e2_pos": 17, "label": "after"},
+{"tokens": ["It", "'s", "been", "20", "minutes", "since", "we", "sat", "down", ",", "I", "guess", "she", "'ll", "get", "our", "food", "order", "later", ",", "because", "there", "is", "no", "way", "we", "know", "what", "we", "want", "to", "order", "after", "sitting", "here", "for", "so", "long", "."], "e1_text": "order", "e1_pos": 31, "e2_text": "sitting", "e2_pos": 33, "label": "after"}
+]

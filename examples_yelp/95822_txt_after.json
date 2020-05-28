@@ -1,0 +1,5 @@
+[
+{"tokens": ["Three", "hours", "later", "I", "show", "up", "my", "truck", "looks", "ok", "after", "checking", "for", "the", "items", "I", "mention", "they", "are", "all", "gone", "!!!", "I", "ca", "n't", "believe", "these", "people", "I", "confront", "them", "about", "it", "but", "its", "like", "they", "do", "n't", "care", "."], "e1_text": "looks", "e1_pos": 8, "e2_text": "checking", "e2_pos": 11, "label": "after"},
+{"tokens": ["They", "also", "wet", "my", "bass", "processor", "and", "is", "now", "useless", "this", "after", "they", "washed", "my", "carpet", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "washed", "e2_pos": 13, "label": "after"},
+{"tokens": ["Partially", "my", "fault", "for", "coming", "back", "after", "they", "stole", "from", "me", "the", "first", "time", "."], "e1_text": "coming", "e1_pos": 4, "e2_text": "stole", "e2_pos": 8, "label": "after"}
+]

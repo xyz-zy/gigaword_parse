@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "pretty", "much", "indifferent", "after", "leaving", "Mix", "...", "for", "every", "pro", ",", "there", "seemed", "to", "be", "a", "little", "con", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "really", "went", "out", "and", "bought", "myself", "a", "Madeline", "baking", "sheet", "after", "eating", "the", "ones", "they", "served", "right", "from", "their", "pan", "."], "e1_text": "bought", "e1_pos": 5, "e2_text": "eating", "e2_pos": 12, "label": "after"}
+]

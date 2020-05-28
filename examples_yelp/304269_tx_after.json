@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "so", "disappointed", "especially", "after", "hearing", "and", "reading", "great", "reviews", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "am", "so", "disappointed", "especially", "after", "spending", "$", "75", "!"], "e1_text": "am", "e1_pos": 1, "e2_text": "spending", "e2_pos": 6, "label": "after"}
+]

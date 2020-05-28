@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "them", "up", "front", "I", "would", "be", "paying", "cash", "just", "as", "I", "had", "before", "."], "e1_text": "paying", "e1_pos": 8, "e2_text": "had", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "wanted", "to", "settle", "a", "deal", "for", "the", "new", "Odyssey", "even", "before", "I", "had", "all", "the", "cost", "info", ",", "like", "how", "much", "an", "extended", "warranty", "would", "cost", "-LRB-", "which", "I", "wanted", "in", "the", "deal", "-RRB-", "."], "e1_text": "settle", "e1_pos": 3, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "had", "scoped", "out", "the", "menu", "online", "before", "i", "went", ",", "but", "the", "real", "menu", "has", "more", "items", "than", "online", "for", "w\\/e", "reason", ",", "so", "i", "was", "really", "torn", "w", "\\/", "what", "to", "get", "!"], "e1_text": "scoped", "e1_pos": 2, "e2_text": "went", "e2_pos": 9, "label": "before"},
+{"tokens": ["but", "overall", ",", "i", "was", "n't", "appalled", "by", "my", "meal", ":-RRB-", "oddly", "tho", ",", "before", "it", "was", "time", "for", "me", "to", "leave", ",", "i", "started", "to", "feel", "woozy", "."], "e1_text": "appalled", "e1_pos": 6, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

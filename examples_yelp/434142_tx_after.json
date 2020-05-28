@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "asked", "me", "to", "move", "my", "car", "30", "seconds", "after", "I", "finished", "washing", "my", "car", "so", "others", "can", "use", "the", "vacuums", "only", "because", "they", "decided", "to", "take", "away", "more", "than", "half", "the", "vacuums", "to", "save", "money", "but", "causing", "customers", "to", "take", "more", "time", "cleaning", "with", "one", "vacuum", "."], "e1_text": "move", "e1_pos": 4, "e2_text": "finished", "e2_pos": 11, "label": "after"}
+]

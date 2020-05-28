@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "just", "left", "Home", "Depot", "after", "finding", "out", "they", "did", "n't", "have", "leather", "conditioner", "for", "our", "living", "room", "couch", ",", "so", "I", "figured", "Target", "would", "carry", "it", "."], "e1_text": "left", "e1_pos": 3, "e2_text": "finding", "e2_pos": 7, "label": "after"},
+{"tokens": ["After", "5", "minutes", ",", "an", "employee", "asked", "if", "they", "could", "help", "me", "...", "They", "gave", "me", "three", "options", "to", "where", "I", "''", "``", "might", "find", "leather", "conditioner", ",", "''", "''", "but", "after", "15", "minutes", "of", "trying", "to", "locate", "the", "item", ",", "I", "decided", "to", "check", "an", "aisle", "that", "was", "n't", "recommended", "...", "Found", "it", "!"], "e1_text": "gave", "e1_pos": 14, "e2_text": "trying", "e2_pos": 35, "label": "after"}
+]

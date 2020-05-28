@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ordered", "a", "spinach", "pizza", "and", "waited", "over", "two", "hours", "before", "they", "delivered", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "delivered", "e2_pos": 11, "label": "before"},
+{"tokens": ["This", "is", "completely", "ridiculous", "be", "careful", "when", "you", "order", "from", "this", "place", "it", "was", "5am", "before", "we", "got", "free", "pizza", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

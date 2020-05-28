@@ -1,0 +1,4 @@
+[
+{"tokens": ["By", "the", "time", "everything", "was", "over", ",", "it", "was", "11:00", "am", "before", "I", "walked", "out", "of", "this", "place", "."], "e1_text": "am", "e1_pos": 10, "e2_text": "walked", "e2_pos": 13, "label": "before"},
+{"tokens": ["When", "I", "pointed", "that", "out", ",", "she", "said", "he", "came", "before", "me", "and", "I", "had", "to", "show", "her", "the", "sign", "in", "chart", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

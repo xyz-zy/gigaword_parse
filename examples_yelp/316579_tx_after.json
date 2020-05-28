@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "save", "it", "for", "after", "I", "finished", "my", "food", "because", "it", "tasted", "like", "that", "gum", "in", "the", "Zebra", "package", "I", "used", "to", "chew", "as", "a", "kid", "."], "e1_text": "save", "e1_pos": 3, "e2_text": "finished", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "was", "great", "when", "we", "first", "walked", "in", "the", "door", ",", "but", "became", "nonexistent", "after", "the", "waitress", "brought", "our", "drinks", "."], "e1_text": "became", "e1_pos": 12, "e2_text": "brought", "e2_pos": 17, "label": "after"}
+]

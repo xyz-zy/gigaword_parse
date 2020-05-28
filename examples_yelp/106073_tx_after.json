@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "went", "in", "after", "checking", "out", "My", "Sister", "'s", "Attic", "across", "the", "parking", "lot", "-LRB-", "and", "finding", "nothing", "-RRB-", ",", "and", "enjoyed", "a", "good", "hour", "of", "searching", "all", "the", "different", "vendor", "displays", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "checking", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "was", "looking", "for", "sunglasses", "I", "had", "to", "ask", "4", "employes", "where", "to", "find", "them", "&", "I", "got", "sent", "to", "three", "different", "location", "in", "the", "store", "before", "actually", "finding", "sunglasses", "."], "e1_text": "sent", "e1_pos": 19, "e2_text": "finding", "e2_pos": 29, "label": "before"}
+]

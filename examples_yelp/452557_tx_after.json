@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "visit", "Rock", "&", "Rita", "'s", "-LRB-", "on", "May", "16th", "-RRB-", ",", "after", "finding", "a", "Groupon", "online", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "finding", "e2_pos": 15, "label": "after"},
+{"tokens": ["My", "boyfriend", "is", "convinced", "that", "after", "having", "a", "few", "bites", "of", "the", "cole", "slaw", ",", "it", "did", "n't", "taste", "right", "and", "later", "on", "he", "got", "sick", "from", "it", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "having", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "is", "partially", "true", "after", "experiencing", "it", "first", "hand", "camping", "out", "for", "the", "Jordan", "11", "playoffs", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "experiencing", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "is", "pretty", "obvious", "and", "unfair", "after", "you", "see", "groups", "of", "people", "jump", "in", "front", "of", "you", "after", "you", "'ve", "been", "waiting", "for", "hours", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "see", "e2_pos": 8, "label": "after"}
+]

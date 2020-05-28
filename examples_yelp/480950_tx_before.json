@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "my", "last", "meal", "in", "Charlotte", "this", "go", "`", "round", ",", "after", "another", "extended", "5-day", "weekend", "visiting", "my", "parents", ",", "and", "I", "knew", "I", "really", "wanted", "something", "different", "before", "leaving", "."], "e1_text": "wanted", "e1_pos": 26, "e2_text": "leaving", "e2_pos": 30, "label": "before"},
+{"tokens": ["Hearing", "the", "cute", "little", "J-pop", "voice", "followed", "by", "Cletus", "was", "certainly", "a", "shock", ",", "and", "I", "made", "another", "visit", "before", "leaving", "just", "to", "make", "sure", "I", "was", "n't", "hallucinating", "-LRB-", "and", "I", "had", "to", "rinse", "an", "obscene", "amount", "of", "grease", "from", "my", "beard", "-RRB-", "."], "e1_text": "made", "e1_pos": 16, "e2_text": "leaving", "e2_pos": 20, "label": "before"}
+]

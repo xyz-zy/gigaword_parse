@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "Must", "say", "I", "'ve", "never", "seen", "an", "airport", "with", "slot", "machines", "before", ".", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 4, "label": "before"},
+{"tokens": ["Just", "make", "sure", "your", "batteries", "are", "charged", "and", "that", "you", "eat", "before", "you", "show", "up", ",", "and", "you", "'re", "good", "to", "go", "."], "e1_text": "eat", "e1_pos": 10, "e2_text": "show", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "there", "5", "minutes", "before", "they", "were", "supposed", "to", "open", "at", "9:00", ",", "the", "owner", "opened", "the", "door", "at", "9:05", "no", "biggie", "we", "all", "run", "late", "but", "then", "told", "me", "to", "wait", "another", "5", "minutes", "for", "another", "tech", "to", "show", "up", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["After", "waiting", "10", "mins", "she", "told", "me", "to", "go", "and", "sit", "#", "7", "and", "she", "took", "a", "seat", "took", "one", "look", "at", "my", "nails", "and", "looked", "overwhelmed", "and", "irritated", "b\\/c", "I", "had", "jewels", "she", "needed", "to", "clip", "off", "before", "starting", "."], "e1_text": "clip", "e1_pos": 36, "e2_text": "starting", "e2_pos": 39, "label": "before"}
+]

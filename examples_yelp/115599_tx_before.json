@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "walked", "inside", "to", "the", "bathroom", ",", "and", "they", "magically", "found", "a", "way", "to", "move", "my", "car", "ten", "feet", "forward", "to", "the", "next", "position", "before", "driving", "it", "through", "the", "wash", "."], "e1_text": "move", "e1_pos": 14, "e2_text": "driving", "e2_pos": 25, "label": "before"}
+]

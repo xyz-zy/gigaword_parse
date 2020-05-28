@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "should", "had", "seen", "before", "they", "even", "thinking", "of", "leaving", "that", "something", "was", "wrong", "."], "e1_text": "seen", "e1_pos": 3, "e2_text": "thinking", "e2_pos": 7, "label": "before"},
+{"tokens": ["But", ",", "during", "that", "whole", "time", "not", "one", "server", "came", "by", "to", "ask", "about", "refills", "on", "coffee", "when", "they", "had", "been", "emptied", "long", "long", "before", "."], "e1_text": "ask", "e1_pos": 12, "e2_text": "had", "e2_pos": 19, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "last", "note", ";", "this", "store", "is", "in", "El", "Mirage", ",", "not", "Surprise", ",", "like", "one", "of", "their", "ads", "said", "and", "you", "can", "not", "get", "to", "the", "store", "directly", "from", "Grand", "Ave.", "You", "have", "to", "pull", "off", "before", "you", "get", "to", "the", "store", "and", "drive", "around", "to", "it", "."], "e1_text": "pull", "e1_pos": 35, "e2_text": "get", "e2_pos": 39, "label": "before"}
+]

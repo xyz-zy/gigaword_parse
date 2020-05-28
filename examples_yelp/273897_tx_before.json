@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "moved", "to", "PHX", "from", "Philadelphia", ",", "got", "my", "hair", "cut", "at", "the", "same", "salon", "for", "my", "entire", "life", "before", "coming", "here", "."], "e1_text": "cut", "e1_pos": 10, "e2_text": "coming", "e2_pos": 20, "label": "before"}
+]

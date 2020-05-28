@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "'re", "considering", "a", "workout", "you", "should", "drop", "in", "for", "a", "session", "-", "but", "give", "it", "at", "least", "a", "few", "times", "before", "you", "decide", "it", "'s", "not", "for", "you", "."], "e1_text": "give", "e1_pos": 15, "e2_text": "decide", "e2_pos": 24, "label": "before"}
+]

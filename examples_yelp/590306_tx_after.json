@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "back", "on", "12\\/23\\/2012", "after", "taking", "my", "daughter", "to", "the", "mall", "to", "get", "a", "picture", "with", "Santa", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "taking", "e2_pos": 6, "label": "after"},
+{"tokens": ["He", "told", "me", "someone", "would", "contact", "me", "soon", "after", "they", "do", "their", "''", "``", "investigation", "''", "''", "."], "e1_text": "contact", "e1_pos": 5, "e2_text": "do", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "texted", "Javier", "a", "week", "before", "we", "received", "keys", "to", "our", "new", "house", "to", "make", "sure", "they", "were", "available", "to", "clean", "it", "before", "we", "moved", "in", "that", "weekend", "and", "he", "was", "initially", "very", "responsive", "."], "e1_text": "texted", "e1_pos": 1, "e2_text": "received", "e2_pos": 7, "label": "before"},
+{"tokens": ["We", "purposely", "scheduled", "it", "when", "we", "were", "off", "from", "work", "and", "the", "day", "before", "we", "were", "scheduled", "to", "start", "moving", "."], "e1_text": "were", "e1_pos": 6, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

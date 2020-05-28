@@ -1,0 +1,3 @@
+[
+{"tokens": ["Booked", "on", "Open", "Table", ",", "right", "after", "I", "got", "the", "confirming", "email", "I", "called", "the", "restaurant", "and", "asked", "if", "the", "kitchen", "table", "was", "available", "."], "e1_text": "Booked", "e1_pos": 0, "e2_text": "got", "e2_pos": 8, "label": "after"}
+]

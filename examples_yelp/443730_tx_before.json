@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "right", "when", "it", "was", "opening", "at", "11", ",", "so", "we", "could", "use", "up", "our", "giftcard", "before", "driving", "back", "to", "Fresno", "."], "e1_text": "use", "e1_pos": 14, "e2_text": "driving", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "were", "one", "of", "the", "first", "people", "in", "and", "people", "who", "showed", "up", "much", "later", "than", "us", "were", "eating", "before", "we", "got", "our", "dishes", "."], "e1_text": "eating", "e1_pos": 18, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

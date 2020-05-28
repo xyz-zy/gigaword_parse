@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "excited", "to", "try", "Peking", "Garden", "after", "reading", "numerous", "positive", "reviews", "from", "here", "and", "other", "sites", "."], "e1_text": "try", "e1_pos": 4, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "finally", "had", "the", "opportunity", "to", "try", "it", "out", "after", "suggesting", "it", "to", "a", "roommate", "over", "other", "options", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "suggesting", "e2_pos": 10, "label": "after"}
+]

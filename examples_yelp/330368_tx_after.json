@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "normally", "pretty", "skeptical", "about", "people", "ordering", "for", "me", ",", "which", "is", "exactly", "what", "happened", "after", "the", "dreadful", "words", "''", "``", "we", "do", "n't", "need", "the", "menu", "''", "''", "...", "but", "thank", "god", "it", "went", "down", "that", "way", "cause", "this", "plate", "is", "kind", "of", "epic", "."], "e1_text": "happened", "e1_pos": 15, "e2_text": "do", "e2_pos": 23, "label": "after"},
+{"tokens": ["So", "much", "so", "that", "I", "continued", "eating", "long", "after", "I", "was", "full", ",", "and", "polished", "off", "the", "entire", "portion", "with", "a", "big", "satisfied", "orange", "stained", "grin", "."], "e1_text": "eating", "e1_pos": 6, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

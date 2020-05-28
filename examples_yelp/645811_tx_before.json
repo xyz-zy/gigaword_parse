@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "applied", "the", "night", "before", ",", "then", "spoke", "with", "Frank", "on", "the", "phone", "within", "30", "minutes", "of", "my", "credit", "application", "being", "submitted", "."], "e1_text": "applied", "e1_pos": 1, "e2_text": "spoke", "e2_pos": 7, "label": "before"},
+{"tokens": ["So", ",", "again", ",", "please", "inspect", "any", "used", "vehicle", "before", "you", "take", "delivery", "."], "e1_text": "inspect", "e1_pos": 5, "e2_text": "take", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "purchased", "the", "cable", "and", "am", "now", "waiting", "for", "it", "to", "arrive", "before", "I", "decide", "to", "spent", "$", "125", "at", "the", "dealership", "."], "e1_text": "arrive", "e1_pos": 11, "e2_text": "decide", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "'ll", "just", "be", "extra", "careful", "and", "research", "the", "vehicle", "before", "buying", "it", "and", "ensure", "that", "everything", "on", "it", "works", "as", "designed", "and", "make", "sure", "there", "are", "n't", "any", "mechanical", "or", "cosmetic", "issues", "any", "place", "!"], "e1_text": "research", "e1_pos": 7, "e2_text": "buying", "e2_pos": 11, "label": "before"}
+]

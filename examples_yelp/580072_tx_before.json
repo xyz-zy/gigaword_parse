@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "will", "show", "you", "the", "model", "apartments", "and", "not", "do", "a", "walk", "thru", "before", "signing", "the", "contract", "."], "e1_text": "do", "e1_pos": 9, "e2_text": "signing", "e2_pos": 14, "label": "before"},
+{"tokens": ["Got", "charged", "for", "the", "carpet", "that", "was", "burned", "before", "I", "moved", "in", "."], "e1_text": "burned", "e1_pos": 7, "e2_text": "moved", "e2_pos": 10, "label": "before"}
+]

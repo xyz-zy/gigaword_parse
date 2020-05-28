@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "being", "proven", "wrong", "after", "reading", "Yelp", "reviews", ",", "but", "it", "just", "did", "n't", "happen", "this", "time", "."], "e1_text": "proven", "e1_pos": 3, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "tried", "to", "eat", "there", "a", "week", "before", "we", "actually", "did", ",", "but", "were", "told", "by", "the", "hostess", ",", "after", "discovering", "we", "did", "n't", "have", "reservations", ",", "that", "''", "``", "We", "are", "all", "booked", "."], "e1_text": "told", "e1_pos": 14, "e2_text": "discovering", "e2_pos": 20, "label": "after"}
+]

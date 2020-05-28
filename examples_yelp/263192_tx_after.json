@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "get", "a", "smog", "check", ",", "after", "waiting", "a", "few", "minutes", "inside", "without", "being", "helped", "I", "went", "outside", "to", "let", "them", "know", "they", "had", "a", "line", "waiting", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "shouted", "after", "him", "because", "I", "thought", "I", "had", "heard", "him", "incorrectly", "...", "10", "minutes", "!"], "e1_text": "shouted", "e1_pos": 1, "e2_text": "thought", "e2_pos": 6, "label": "after"}
+]

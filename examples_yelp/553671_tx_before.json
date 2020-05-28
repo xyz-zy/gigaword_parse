@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "knew", "we", "may", "run", "into", "a", "problem", "when", "we", "all", "knew", "what", "we", "wanted", "before", "anyone", "even", "greeted", "us", "at", "our", "table", "because", "we", "sat", "there", "for", "a", "little", "under", "10", "minutes", "without", "anyone", "acknowledging", "us", "at", "the", "table", "."], "e1_text": "wanted", "e1_pos": 14, "e2_text": "greeted", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "it", "takes", "awhile", "to", "get", "used", "to", "raw", "food", ",", "and", "the", "first", "time", "you", "feel", "ill", "or", "something", ",", "but", "I", "do", "n't", "very", "much", "enjoy", "feeling", "ill", "after", "eating", "''", "``", "healthy", "''", "''", "food", "."], "e1_text": "feeling", "e1_pos": 29, "e2_text": "eating", "e2_pos": 32, "label": "after"},
+{"tokens": ["If", "you", "'re", "feeling", "adventurous", "like", "I", "was", ",", "good", "for", "you", ",", "but", "be", "warned", "that", "our", "stomachs", "are", "n't", "made", "to", "handle", "this", "''", "``", "living", "''", "''", "food", "and", "you", "might", "not", "be", "happy", "after", "eating", "there", "!"], "e1_text": "be", "e1_pos": 14, "e2_text": "eating", "e2_pos": 38, "label": "after"}
+]

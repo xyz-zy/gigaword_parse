@@ -1,0 +1,4 @@
+[
+{"tokens": ["Located", "in", "the", "Palazzo", "hotel", ",", "Sushi", "Samba", "is", "a", "''", "``", "sushi", "fusion", "''", "''", "restaurant", "so", "know", "before", "you", "go", "that", "you", "can", "find", "Brazilian", "and", "Peruvian", "food", "as", "well", "on", "the", "menu", "."], "e1_text": "know", "e1_pos": 18, "e2_text": "go", "e2_pos": 21, "label": "before"},
+{"tokens": ["They", "also", "had", "3", "kinds", "of", "raw", "oysters", "on", "the", "menu", "which", ",", "at", "$", "4", "each", "add", "up", "quickly", "so", "be", "sure", "to", "do", "the", "math", "before", "you", "order", "a", "couple", "of", "dozen", "!"], "e1_text": "do", "e1_pos": 24, "e2_text": "order", "e2_pos": 29, "label": "before"}
+]

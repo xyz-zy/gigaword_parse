@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "many", "issues", "picking", "up", "packages", "at", "this", "location", "before", "I", "joined", "Yelp", ",", "but", "I", "will", "keep", "this", "review", "to", "my", "most", "recent", "incident", ",", "which", "was", "yesterday", "4\\/6\\/11", "."], "e1_text": "picking", "e1_pos": 4, "e2_text": "joined", "e2_pos": 12, "label": "before"},
+{"tokens": ["When", "I", "went", "into", "the", "post", "office", "I", "waited", "for", "about", "20", "minutes", "before", "speaking", "with", "a", "postal", "employee", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "speaking", "e2_pos": 14, "label": "before"}
+]

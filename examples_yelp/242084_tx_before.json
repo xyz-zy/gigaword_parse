@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "has", "always", "been", "a", "place", "where", "the", "chain", "trains", "their", "newer", "servers", "before", "they", "go", "to", "other", "locations", ",", "but", "the", "service", "seems", "to", "have", "slowed", "down", "more", "recently", "."], "e1_text": "trains", "e1_pos": 9, "e2_text": "go", "e2_pos": 15, "label": "before"}
+]

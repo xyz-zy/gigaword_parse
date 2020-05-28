@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "there", ",", "we", "opened", "the", "door", "and", "waited", "at", "the", "hostess", "station", "for", "around", "five", "minutes", "before", "anyone", "came", "to", "greet", "us", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "came", "e2_pos": 21, "label": "before"},
+{"tokens": ["Then", "we", "were", "seated", "and", "waited", "a", "few", "more", "minutes", "before", "a", "male", "waiter", "came", "to", "take", "our", "drink", "order", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "came", "e2_pos": 14, "label": "before"}
+]

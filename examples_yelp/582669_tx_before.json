@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "that", ",", "it", "was", "another", "30", "minutes", "before", "we", "got", "served", "our", "ramen", ",", "which", "was", "particularly", "frustrating", "because", "we", "saw", "patrons", "that", "got", "there", "after", "us", "getting", "served", "before", "us", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["Ramen", "bar", "just", "opened", "this", "week", "and", "they", "clearly", "have", "some", "kinks", "to", "work", "out", "in", "their", "speed", "and", "service", "before", "they", "'re", "ready", "for", "prime", "time", "."], "e1_text": "work", "e1_pos": 13, "e2_text": "'re", "e2_pos": 22, "label": "before"}
+]

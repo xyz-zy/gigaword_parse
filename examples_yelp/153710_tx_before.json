@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "my", "first", "time", "staying", "at", "the", "Stratosphere", "and", "before", "coming", "I", "did", "n't", "have", "high", "expectations", "due", "to", "the", "price", "."], "e1_text": "staying", "e1_pos": 5, "e2_text": "coming", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Rewind", "...", "...", "My", "friends", "were", "sitting", "upstairs", "and", "had", "already", "ate", "some", "food", "so", "I", "didnt", "get", "a", "chance", "to", "taste", "before", "I", "ordered", "my", "own", "."], "e1_text": "taste", "e1_pos": 21, "e2_text": "ordered", "e2_pos": 24, "label": "before"}
+]

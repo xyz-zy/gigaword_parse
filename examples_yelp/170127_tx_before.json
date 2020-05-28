@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "to", "stand", "in", "line", "for", "an", "hour", "before", "the", "pool", "even", "opened", "just", "to", "get", "a", "lounge", "chair", "."], "e1_text": "stand", "e1_pos": 3, "e2_text": "opened", "e2_pos": 13, "label": "before"},
+{"tokens": ["Chairs", "and", "carpet", "looks", "VERY", "dirty", ",", "we", "almost", "walked", "out", "before", "the", "show", "started", "due", "to", "the", "state", "of", "the", "room", "."], "e1_text": "walked", "e1_pos": 9, "e2_text": "started", "e2_pos": 14, "label": "before"}
+]

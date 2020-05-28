@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "three", "rooms", "had", "serious", "issues", "fighting", "with", "the", "darn", "card", "reader", "before", "eventually", "getting", "them", "to", "open", "."], "e1_text": "fighting", "e1_pos": 6, "e2_text": "getting", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "front", "desk", "guy", "even", "had", "to", "re-code", "one", "of", "the", "cards", "and", "then", "come", "up", "and", "fight", "with", "it", "before", "it", "opened", "the", "room", "."], "e1_text": "fight", "e1_pos": 17, "e2_text": "opened", "e2_pos": 22, "label": "before"}
+]

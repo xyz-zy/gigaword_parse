@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "have", "asked", "to", "sit", "somewhere", "but", "I", "was", "short", "on", "time", "and", "needed", "to", "eat", "before", "I", "got", "on", "my", "plane", "."], "e1_text": "eat", "e1_pos": 16, "e2_text": "got", "e2_pos": 19, "label": "before"},
+{"tokens": ["Next", "time", "I", "'ll", "eat", "before", "I", "get", "through", "security", "or", "try", "another", "concourse", "."], "e1_text": "eat", "e1_pos": 4, "e2_text": "get", "e2_pos": 7, "label": "before"}
+]

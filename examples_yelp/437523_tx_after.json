@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "went", "over", "what", "I", "wanted", "to", "do", "with", "the", "dress", "and", "I", "asked", "for", "pricing", "and", "she", "said", "''", "''", "I", "'ll", "tell", "you", "after", "we", "are", "all", "done", "''", "''", "."], "e1_text": "tell", "e1_pos": 24, "e2_text": "are", "e2_pos": 28, "label": "after"},
+{"tokens": ["Let", "'s", "just", "say", "after", "that", "he", "sat", "his", "fat", "ass", "down", "and", "no", "one", "helped", "me", "take", "the", "pins", "out", "or", "say", "''", "``", "thank", "you", "for", "coming", "''", "''", "Really", "?"], "e1_text": "say", "e1_pos": 3, "e2_text": "sat", "e2_pos": 7, "label": "after"}
+]

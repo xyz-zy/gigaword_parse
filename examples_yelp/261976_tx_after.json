@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "6\\/30\\/14", "we", "waited", "for", "45", "minutes", "in", "the", "105", "degree", "heat", "for", "a", "shuttle", "and", "only", "after", "complaining", "did", "we", "get", "a", "shuttle", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "complaining", "e2_pos": 18, "label": "after"}
+]

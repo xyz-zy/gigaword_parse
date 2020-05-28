@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "second", "one", "came", "after", "she", "said", "I", "would", "not", "be", "meeting", "the", "surgeon", "at", "all", "prior", "to", "the", "day", "of", "surgery", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "said", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "'m", "assuming", "after", "you", "pay", "in", "full", "you", "are", "then", "allowed", "to", "meet", "the", "surgeon", "."], "e1_text": "assuming", "e1_pos": 2, "e2_text": "pay", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "third", "and", "final", "red", "flag", "came", "after", "she", "said", "she", "would", "schedule", "me", "an", "appointment", "with", "the", "surgeon", "at", "another", "time", "and", "then", "revoked", "that", "offer", ",", "saying", "''", "``", "We", "just", "do", "n't", "do", "that", "here", ".", "''", "''"], "e1_text": "came", "e1_pos": 6, "e2_text": "said", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "van", "met", "me", "at", "my", "car", "even", "before", "I", "finished", "parking", ",", "the", "driver", "loaded", "my", "luggage", ",", "and", "whisked", "me", "to", "the", "airport", "in", "no", "time", "at", "all", "."], "e1_text": "met", "e1_pos": 2, "e2_text": "finished", "e2_pos": 10, "label": "before"}
+]

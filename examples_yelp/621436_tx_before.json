@@ -1,0 +1,3 @@
+[
+{"tokens": ["Soup", "was", "dropped", "at", "the", "table", "and", "the", "food", "runner", "vanished", "before", "we", "noticed", "there", "were", "no", "spoons", "."], "e1_text": "vanished", "e1_pos": 10, "e2_text": "noticed", "e2_pos": 13, "label": "before"}
+]

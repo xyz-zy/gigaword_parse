@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "out", "of", "there", "as", "quickly", "as", "I", "could", "and", "was", "actually", "glad", "that", "I", "never", "had", "to", "eat", "after", "reading", "the", "yelp", "reviews", "about", "roaches", "inside", "the", "pho", "!!", "Gross", "!!", "This", "place", "made", "me", "feel", "dirty", "!!", "There", "are", "too", "many", "pho", "selections", "in", "LV", "that", "no", "one", "needs", "to", "tolerate", "this", "in", "order", "to", "get", "a", "good", "pho", "fixing", "."], "e1_text": "eat", "e1_pos": 19, "e2_text": "reading", "e2_pos": 21, "label": "after"}
+]

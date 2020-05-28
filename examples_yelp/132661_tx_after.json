@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "food", "finally", "arrived", "nearly", "an", "hour", "after", "we", "ordered", "it", "and", "while", "the", "taste", "was", "passable", "in", "my", "eyes", ",", "nearly", "the", "rest", "of", "my", "party", "was", "thoroughly", "disappointed", "with", "the", "food", "we", "had", "wasted", "our", "valuable", "vacation", "time", "waiting", "on", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 9, "label": "after"}
+]

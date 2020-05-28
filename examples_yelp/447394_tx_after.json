@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "loved", "the", "surprise", ";", "initially", "we", "were", "the", "only", "people", "on", "the", "course", "so", "the", "game", "would", "plateau", "at", "points", ",", "but", "shortly", "after", "starting", "another", "group", "of", "4", "had", "arrive", "."], "e1_text": "plateau", "e1_pos": 18, "e2_text": "starting", "e2_pos": 25, "label": "after"},
+{"tokens": ["During", "the", "intermission", "I", "showed", "them", "my", "war", "wound", "and", "said", "I", "was", "ready", "to", "quite", ",", "Mark", "from", "the", "opposing", "team", "said", "if", "I", "quit", "it", "would", "be", "like", "Jordan", "quitting", "after", "missing", "his", "first", "shot", "."], "e1_text": "quitting", "e1_pos": 31, "e2_text": "missing", "e2_pos": 33, "label": "after"}
+]

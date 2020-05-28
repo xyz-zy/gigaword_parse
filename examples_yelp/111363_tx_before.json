@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "experience", "altogether", "was", "not", "even", "an", "A-OK", "it", "was", "kind", "of", "like", "a", "meh", "...", "We", "arrived", "about", "40", "minutes", "before", "show", "time", "just", "incase", "there", "was", "a", "long", "wait", "line", ",", "but", "to", "our", "surprise", "we", "got", "right", "in", "and", "were", "seated", "."], "e1_text": "arrived", "e1_pos": 17, "e2_text": "incase", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "took", "quite", "some", "time", "for", "us", "to", "get", "our", "drinks", ",", "people", "who", "sat", "down", "after", "us", ",", "were", "attended", "to", "first", "received", "their", "drinks", "and", "their", "food", "order", "before", "we", "even", "got", "our", "drink", "order", "."], "e1_text": "received", "e1_pos": 23, "e2_text": "got", "e2_pos": 33, "label": "before"}
+]

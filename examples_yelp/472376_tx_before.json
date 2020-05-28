@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "I", "'m", "not", "a", "stickler", "for", "everyone", "getting", "their", "food", "at", "the", "same", "time", ",", "it", "is", "odd", "for", "one", "person", "'s", "order", "to", "arrive", "with", "enough", "time", "for", "them", "to", "finish", "it", "before", "the", "other", "orders", "are", "brought", "to", "the", "table", "."], "e1_text": "finish", "e1_pos": 32, "e2_text": "are", "e2_pos": 38, "label": "before"},
+{"tokens": ["We", "did", "n't", "have", "time", "to", "send", "it", "back", "as", "it", "had", "taken", "so", "long", "to", "get", "it", "and", "we", "needed", "to", "eat", "something", "before", "going", "in", "for", "the", "show", "."], "e1_text": "eat", "e1_pos": 22, "e2_text": "going", "e2_pos": 25, "label": "before"}
+]

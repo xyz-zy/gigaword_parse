@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "next", "day", ",", "a", "vet", "found", "her", "paw", "had", "multiple", "abscesses", "at", "the", "nail", "bed", "-", "10", "days", "after", "leaving", "North", "Scottsdale", "Animal", "Hospital", "!"], "e1_text": "had", "e1_pos": 9, "e2_text": "leaving", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "said", "goodbye", "to", "Callie", "13", "days", "after", "the", "surgery", "performed", "by", "Dr", "Josh", "."], "e1_text": "said", "e1_pos": 1, "e2_text": "performed", "e2_pos": 10, "label": "after"}
+]

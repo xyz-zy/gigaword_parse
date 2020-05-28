@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walked", "by", "this", "restaurant", "many", "times", "before", "deciding", "to", "go", ",", "it", "looked", "like", "a", "load", "of", "fun", ",", "the", "food", "was", "okay", ",", "not", "the", "greatest", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 8, "label": "before"}
+]

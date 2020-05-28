@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "server", "-LRB-", "which", "I", "did", "n't", "get", "his", "name", "-RRB-", "appeared", "about", "5", "minutes", "after", "we", "got", "seated", ",", "got", "our", "drinks", "and", "then", "we", "ordered", "."], "e1_text": "appeared", "e1_pos": 11, "e2_text": "got", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "did", "n't", "see", "him", "again", "until", "after", "our", "food", "was", "brought", "to", "us", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "only", "saw", "him", "twice", "after", "he", "checked", "to", "see", "if", "we", "had", "our", "food", ",", "and", "one", "of", "those", "two", "times", "was", "to", "hand", "us", "the", "check", "."], "e1_text": "saw", "e1_pos": 2, "e2_text": "checked", "e2_pos": 7, "label": "after"}
+]

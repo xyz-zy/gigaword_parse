@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "beginning", "to", "believe", "it", "was", "n't", "a", "''", "``", "legit", "''", "''", "place", "since", "he", "redeemed", "my", "groupon", "before", "it", "expired", "and", "without", "providing", "service", "!!!", "Like", "the", "others", "that", "had", "a", "hard", "time", "booking", ",", "I", "ran", "into", "the", "same", "problem", "."], "e1_text": "redeemed", "e1_pos": 17, "e2_text": "expired", "e2_pos": 22, "label": "before"}
+]

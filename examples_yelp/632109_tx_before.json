@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", ",", "I", "gave", "them", "several", "chances", "before", "I", "chose", "to", "write", "a", "review", "to", "see", "if", "they", "were", "perhaps", "just", "having", "an", "''", "``", "off", "''", "''", "day", "but", "improvement", "never", "happened", "."], "e1_text": "gave", "e1_pos": 3, "e2_text": "chose", "e2_pos": 9, "label": "before"},
+{"tokens": ["When", "she", "notified", "them", "of", "there", "mistake", ",", "the", "woman", "very", "rudely", "said", "''", "``", "you", "'re", "just", "going", "to", "have", "to", "wait", "a", "minute", "''", "''", "and", "went", "on", "to", "help", "other", "customers", "before", "addressing", "the", "issue", "."], "e1_text": "help", "e1_pos": 31, "e2_text": "addressing", "e2_pos": 35, "label": "before"}
+]

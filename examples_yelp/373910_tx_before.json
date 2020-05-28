@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "amazed", "by", "this", "salad", ",", "it", "was", "a", "mountain", "with", "at", "least", "a", "thousand", "calories", "of", "mozzarella", "and", "salami", "...", "I", "am", "usually", "a", "HUGE", "fan", "of", "both", ",", "but", "there", "literally", "was", "so", "much", "I", "scooped", "up", "a", "bunch", "of", "it", "and", "donated", "it", "to", "J", "'s", "salad", "before", "just", "putting", "the", "superfluous", "stuff", "on", "an", "extra", "plate", "."], "e1_text": "donated", "e1_pos": 45, "e2_text": "putting", "e2_pos": 53, "label": "before"}
+]

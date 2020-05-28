@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "I", "had", "been", "given", "a", "car", "whose", "plates", "would", "expire", "before", "my", "rental", "did", ";", "thankfully", "I", "noticed", "this", "before", "driving", "the", "car", "out", "of", "the", "lot", "."], "e1_text": "expire", "e1_pos": 11, "e2_text": "did", "e2_pos": 15, "label": "before"}
+]

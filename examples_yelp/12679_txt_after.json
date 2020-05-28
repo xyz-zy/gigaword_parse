@@ -1,0 +1,3 @@
+[
+{"tokens": ["EXCEPT", "that", "here", ",", "they", "tell", "you", "they", "gave", "you", "a", "straw", "in", "your", "bag", "but", "you", "look", "in", "it", "after", "you", "drive", "away", "and", "it", "'s", "not", "there", "."], "e1_text": "look", "e1_pos": 17, "e2_text": "drive", "e2_pos": 22, "label": "after"}
+]

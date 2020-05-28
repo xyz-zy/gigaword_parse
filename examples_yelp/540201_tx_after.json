@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "to", "be", "extra", "careful", ",", "we", "had", "them", "do", "a", "one", "day", "trial", "at", "three", "facilities", ",", "after", "reading", "tons", "of", "reviews", "."], "e1_text": "do", "e1_pos": 9, "e2_text": "reading", "e2_pos": 19, "label": "after"},
+{"tokens": ["If", "you", "give", "it", "a", "try", ",", "after", "meeting", "the", "staff", ",", "you", "might", "think", "no", "one", "could", "POSSIBLY", "be", "this", "nice", ",", "they", "must", "be", "faking", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "meeting", "e2_pos": 8, "label": "after"}
+]

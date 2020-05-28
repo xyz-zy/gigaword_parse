@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "of", "us", "surprised", "that", "we", "just", "got", "kicked", "out", "of", "our", "table", "after", "spending", "a", "lot", "on", "dinner", "."], "e1_text": "kicked", "e1_pos": 8, "e2_text": "spending", "e2_pos": 14, "label": "after"},
+{"tokens": ["When", "the", "same", "male", "hostess", "came", "back", "around", ",", "I", "stopped", "him", "to", "say", ",", "''", "``", "I", "'ve", "been", "to", "a", "lot", "of", "restaurants", ",", "and", "never", "have", "I", "ever", "been", "kicked", "out", "of", "the", "table", "after", "spending", "almost", "$", "100", "on", "a", "meal", "''", "''", "."], "e1_text": "kicked", "e1_pos": 32, "e2_text": "spending", "e2_pos": 38, "label": "after"}
+]

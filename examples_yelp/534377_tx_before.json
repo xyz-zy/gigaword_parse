@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "I", "'m", "driving", "I", "figure", "it", "'s", "time", "to", "grab", "a", "couple", "breakfast-y", "type", "things", "before", "I", "reach", "my", "destination", "."], "e1_text": "grab", "e1_pos": 10, "e2_text": "reach", "e2_pos": 18, "label": "before"},
+{"tokens": ["http:\\/\\/www.yelp.com\\/biz_photos\\/dunkin-donuts-scottsdale-8?select=wJUPcEbPDpO4ZD_ql2CenA#E4iy5XisBsDzlG-GZZt88g", "It", "looks", "like", "they", "'ve", "they", "were", "mobbed", "just", "before", "I", "got", "there", "."], "e1_text": "mobbed", "e1_pos": 8, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

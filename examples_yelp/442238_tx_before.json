@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "in", "turn", "my", "daughter", "was", "practicing", "incorrectly", "and", "we", "were", "told", "before", "testing", "that", "if", "our", "children", "did", "not", "have", "the", "moves", "down", ",", "to", "spend", "even", "more", "money", "on", "a", "DVD", ",", "even", "if", "it", "was", "only", "$", "10", ",", "we", "felt", "the", "high", "cost", "we", "already", "paid", "should", "of", "more", "than", "covered", "that", "."], "e1_text": "told", "e1_pos": 11, "e2_text": "testing", "e2_pos": 13, "label": "before"},
+{"tokens": ["And", "then", "we", "were", "told", "we", "needed", "to", "buy", "sparring", "gear", "back", "in", "December", "and", "it", "was", "n't", "used", "at", "all", "before", "our", "contract", "expired", "6", "months", "later", "after", "we", "spent", "$", "250", "on", "it", "."], "e1_text": "used", "e1_pos": 18, "e2_text": "expired", "e2_pos": 24, "label": "before"}
+]

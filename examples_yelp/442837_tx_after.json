@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", "I", "went", "this", "yesterday", "after", "I", "called", "and", "they", "said", "that", "there", "was", "only", "2", "people", "waiting", "in", "the", "lobby", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "called", "e2_pos": 7, "label": "after"},
+{"tokens": ["When", "I", "got", "there", ",", "it", "was", "15", "minutes", "after", "I", "called", ",", "the", "waiting", "room", "was", "full", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "called", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "is", "after", "the", "PA", "confirmed", "that", "the", "pharmacy", "I", "requested", "to", "send", "it", "over", "to", "was", "down", "the", "street", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "confirmed", "e2_pos": 5, "label": "after"}
+]

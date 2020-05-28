@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "literally", "waited", "for", "20", "minutes", "after", "we", "finished", "the", "duck", "entree", "for", "corn", "on", "the", "cob", "."], "e1_text": "waited", "e1_pos": 2, "e2_text": "finished", "e2_pos": 8, "label": "after"},
+{"tokens": ["Service", "was", "non-exsistant", "for", "most", "of", "the", "experience", ",", "the", "server", "was", "nice", "and", "''", "``", "attentive", "''", "''", "at", "first", "but", "after", "he", "took", "our", "orders", "he", "spent", "most", "of", "his", "time", "doing", "side", "work", "making", "us", "feel", "abandoned", "and", "awkward", "-", "the", "restaurant", "was", "pretty", "much", "empty", "-", "you", "think", "you", "'d", "be", "a", "little", "more", "attentive", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "took", "e2_pos": 24, "label": "after"}
+]

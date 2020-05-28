@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "our", "food", "was", "finally", "served", "AN", "HOUR", "LATER", "-LRB-", "at", "12:15", "pm", "and", "after", "numerous", "inquiries", "with", "our", "server", "as", "to", "what", "was", "taking", "so", "long", "-RRB-", ",", "I", "saw", "the", "table", "right", "next", "to", "us", "being", "served", "lunch", "."], "e1_text": "served", "e1_pos": 5, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

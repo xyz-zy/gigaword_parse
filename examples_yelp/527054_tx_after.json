@@ -1,0 +1,3 @@
+[
+{"tokens": ["it", "'s", "ok", "...", "we", "went", "late", "at", "night", "after", "all", "the", "other", "options", "close", "by", "were", "closed", ",", "I", "liked", "that", "it", "'s", "open", "24hrs", ",", "but", "it", "does", "n't", "make", "a", "difference", "when", "you", "have", "to", "wait", "for", "a", "seat", "in", "am", "empty", "restaurant", ",", "then", "wait", "15-20", "minutes", "for", "a", "server", "to", "come", "by", "with", "water", "and", "silverware", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "were", "e2_pos": 16, "label": "after"}
+]

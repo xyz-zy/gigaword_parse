@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "my", "sister", "in", "law", "about", "this", "before", "she", "decided", "to", "go", "to", "them", ",", "but", "she", "went", "anyway", "because", "of", "the", "whole", "idea", "of", "having", "a", "midwife", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "decided", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "told", "seating", "will", "only", "be", "a", "matter", "of", "minutes", ",", "but", "after", "hearing", "that", "many", "times", ",", "an", "hour", "went", "by", "before", "finally", "seated", "."], "e1_text": "went", "e1_pos": 21, "e2_text": "seated", "e2_pos": 25, "label": "before"}
+]

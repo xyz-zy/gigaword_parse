@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "came", "out", "one", "dish", "at", "a", "time", "over", "a", "period", "of", "15", "minutes", ",", "leaving", "one", "person", "finished", "with", "his", "meal", "before", "the", "last", "guy", "was", "served", "."], "e1_text": "finished", "e1_pos": 19, "e2_text": "was", "e2_pos": 27, "label": "before"}
+]

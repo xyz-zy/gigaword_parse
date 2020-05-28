@@ -1,0 +1,4 @@
+[
+{"tokens": ["Um", "...", "THE", "SUCK", "...", "The", "few", "of", "us", "who", "somehow", "woke", "before", "noon", "walked", "about", "the", "Miracle", "Mile", "shops", "in", "search", "of", "some", "breakfast", "eats", "."], "e1_text": "woke", "e1_pos": 11, "e2_text": "walked", "e2_pos": 14, "label": "before"},
+{"tokens": ["Unfortunately", ",", "we", "stumbled", "upon", "this", "joint", "and", "had", "too", "little", "mental", "acuity", "to", "give", "it", "a", "once", "over", "before", "deciding", "...", "The", "decor", "and", "theme", "would", "be", "perfect", "if", "it", "were", "an", "outdoor", "restaurant", ",", "not", "so", "much", "under", "a", "faux", "sky", "in", "a", "darkened", "corner", "of", "a", "mall", "."], "e1_text": "give", "e1_pos": 14, "e2_text": "deciding", "e2_pos": 20, "label": "before"}
+]

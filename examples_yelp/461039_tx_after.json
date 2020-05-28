@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "on", "a", "Saturday", "night", "after", "a", "show", "and", "the", "place", "was", "basically", "empty", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "never", "saw", "our", "waitress", "after", "the", "appetizer", "was", "dropped", "off", "and", "we", "sat", "for", "at", "least", "20", "minutes", "with", "empty", "plates", "before", "we", "asked", "for", "a", "manager", ",", "who", "took", "10", "minutes", "to", "show", "up", "."], "e1_text": "saw", "e1_pos": 2, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "district", "manager", "explained", "my", "fish", "was", "dry", "possibly", "because", "''", "``", "the", "flavor", "may", "have", "come", "off", "before", "cooking", "as", "the", "fish", "was", "pre-seasoned", "."], "e1_text": "come", "e1_pos": 16, "e2_text": "cooking", "e2_pos": 19, "label": "before"}
+]

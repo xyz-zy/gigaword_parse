@@ -1,0 +1,4 @@
+[
+{"tokens": ["=", "=", "=", "=", "=", "=", "I", "have", "been", "back", "to", "#", "1", "Eastern", "here", "since", "my", "last", "update", ",", "but", "it", "'s", "been", "over", "a", "year", "since", "saying", "anything", "about", "it", ",", "so", "here", "goes", ":", "Robyn", "N.", "&", "Mike", "C.", "joined", "me", "today", ",", "&", "both", "of", "them", "have", "been", "here", "before", "as", "well", "."], "e1_text": "joined", "e1_pos": 42, "e2_text": "have", "e2_pos": 7, "label": "before"},
+{"tokens": ["Let", "'s", "hope", "they", "give", "it", "a", "little", "tune-up", "before", "it", "'s", "too", "late", "."], "e1_text": "give", "e1_pos": 4, "e2_text": "'s", "e2_pos": 11, "label": "before"}
+]

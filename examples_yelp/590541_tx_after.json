@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waited", "2", "hours", "as", "my", "husband", "and", "I", "watched", "countless", "people", "with", "no", "reservations", "that", "arrived", "after", "us", "be", "called", "in", "BEFORE", "us", "."], "e1_text": "arrived", "e1_pos": 15, "e2_text": "be", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "staff", "doesnt", "even", "enter", "you", "into", "the", "database", "for", "an", "hour", "or", "more", "after", "you", "arrive", "!"], "e1_text": "enter", "e1_pos": 4, "e2_text": "arrive", "e2_pos": 16, "label": "after"}
+]

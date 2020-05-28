@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "an", "appointment", "around", "1:15", "and", "since", "Gram", "moves", "a", "bit", "slower", "than", "either", "of", "us", "expected", ",", "our", "plan", "to", "have", "lunch", "before", "the", "appointment", "did", "n't", "work", "out", "so", "we", "had", "lunch", "afterward", "."], "e1_text": "have", "e1_pos": 22, "e2_text": "did", "e2_pos": 27, "label": "before"},
+{"tokens": ["The", "waitress", "told", "the", "manager", "who", "came", "over", "to", "tell", "me", "that", "NO", "ONE", "had", "ever", "complained", "about", "the", "strawberries", "before", "."], "e1_text": "tell", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

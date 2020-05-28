@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "scan", "your", "ticket", "an", "hour", "before", "you", "enter", "to", "leave", "you", "with", "no", "choice", "but", "to", "wait", "in", "line", "and", "enter", "the", "club", "."], "e1_text": "scan", "e1_pos": 1, "e2_text": "enter", "e2_pos": 8, "label": "before"}
+]

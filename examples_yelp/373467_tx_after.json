@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waiter", "told", "us", "our", "best", "bet", "was", "to", "cancel", "the", "order", ",", "because", "after", "already", "waiting", "for", "40", "minutes", ",", "our", "food", "would", "n't", "be", "out", "in", "less", "than", "another", "15", "minutes", "."], "e1_text": "cancel", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "New", "Orleans", "ice", "tea", "and", "my", "fiance", "ordered", "sweet", "tea", ",", "it", "took", "a", "while", "before", "the", "drinks", "were", "delivered", "and", "let", "me", "tell", "you", "-", "It", "was", "n't", "nothing", "to", "brag", "about", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "were", "e2_pos": 21, "label": "before"}
+]

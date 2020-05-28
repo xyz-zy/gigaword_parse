@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "smell", "that", "grilled", "smokey", "goodness", "a", "mill", "before", "you", "get", "to", "the", "actual", "drive", "thru", "."], "e1_text": "smell", "e1_pos": 2, "e2_text": "get", "e2_pos": 11, "label": "before"},
+{"tokens": ["So", "make", "sure", "you", "'re", "checking", "your", "food", "before", "leaving", "."], "e1_text": "checking", "e1_pos": 5, "e2_text": "leaving", "e2_pos": 9, "label": "before"}
+]

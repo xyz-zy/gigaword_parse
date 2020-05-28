@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "walked", "in", ",", "were", "seated", "quickly", "and", "the", "server", "asked", "us", "if", "we", "have", "been", "there", "before", "."], "e1_text": "asked", "e1_pos": 10, "e2_text": "have", "e2_pos": 14, "label": "before"},
+{"tokens": ["Are", "you", "guys", "so", "freaking", "well", "known", "that", "you", "are", "appalled", "that", "we", "'ve", "never", "eaten", "there", "before", "?"], "e1_text": "are", "e1_pos": 9, "e2_text": "'ve", "e2_pos": 13, "label": "before"}
+]

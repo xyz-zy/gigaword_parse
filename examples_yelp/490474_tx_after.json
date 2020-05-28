@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tried", "this", "for", "the", "first", "time", "with", "a", "Groupon", "after", "noticing", "my", "hair", "thinning", "and", "having", "scalp", "irritation", "-LRB-", "from", "all", "the", "years", "of", "chemicals", "and", "chemical", "laden", "products", "I", "wondered", "-RRB-", "."], "e1_text": "Tried", "e1_pos": 0, "e2_text": "noticing", "e2_pos": 10, "label": "after"},
+{"tokens": ["It", "is", "also", "difficult", "after", "seeing", "the", "same", "stylist", "for", "decades", "to", "try", "and", "change", "and", "get", "it", "all", "right", "in", "one", "try", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 5, "label": "after"}
+]

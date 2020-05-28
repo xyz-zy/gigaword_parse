@@ -1,0 +1,4 @@
+[
+{"tokens": ["Read", "several", "reviews", "online", "before", "deciding", "that", "this", "would", "be", "where", "my", "husband", "and", "I", "would", "have", "dinner", "on", "our", "last", "night", "in", "Vegas", "."], "e1_text": "Read", "e1_pos": 0, "e2_text": "deciding", "e2_pos": 5, "label": "before"},
+{"tokens": ["A", "manager", "stopped", "by", "and", "asked", "how", "everything", "was", "and", "that", "was", "after", "maybe", "1-2", "bites", "before", "I", "realized", "exactly", "how", "poor", "my", "steak", "was", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "realized", "e2_pos": 18, "label": "before"}
+]

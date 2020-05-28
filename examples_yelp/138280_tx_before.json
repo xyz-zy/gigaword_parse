@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unreal", "!!!", "The", "souffl", "\\", "u00e9", "was", "ok", "at", "best", "-LRB-", "no", "one", "finished", "theirs", "at", "our", "table", "which", "had", "never", "happened", "before", "-RRB-", "."], "e1_text": "finished", "e1_pos": 13, "e2_text": "had", "e2_pos": 19, "label": "before"},
+{"tokens": ["This", "is", "what", "a", "restaurant", "does", "just", "before", "it", "dies", "."], "e1_text": "does", "e1_pos": 5, "e2_text": "dies", "e2_pos": 9, "label": "before"}
+]

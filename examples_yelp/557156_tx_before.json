@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sent", "my", "husband", "to", "pick", "up", "the", "cake", "an", "hour", "before", "the", "party", "and", "whenhe", "got", "there", "they", "told", "him", "that", "the", "order", "must", "have", "gotten", "lost", "because", "they", "never", "made", "the", "cake", "."], "e1_text": "pick", "e1_pos": 5, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

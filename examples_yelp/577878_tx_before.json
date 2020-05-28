@@ -1,0 +1,3 @@
+[
+{"tokens": ["Seven", "employees", "working", "behind", "the", "counter", "but", "all", "orders", "bottleneck", "right", "before", "the", "pick", "up", "counter", "waiting", "for", "one", "person", "to", "inspect", "ingredients", ",", "wrap", "&", "bag", ",", "and", "answer", "all", "customer", "inquiries", "-LRB-", "which", "slows", "this", "person", "down", "even", "more", "-RRB-", "."], "e1_text": "working", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 16, "label": "before"}
+]

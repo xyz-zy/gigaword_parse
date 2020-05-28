@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "girl", "friend", "had", "referred", "me", "to", "this", "car", "wash", "after", "I", "had", "complimented", "on", "how", "clean", "and", "detailed", "her", "car", "was", "."], "e1_text": "referred", "e1_pos": 4, "e2_text": "had", "e2_pos": 3, "label": "after"},
+{"tokens": ["As", "I", "was", "taking", "off", "I", "noticed", "my", "Windows", "still", "had", "water", "marks", ",", "my", "back", "seats", "still", "had", "marks", ",", "just", "little", "flaws", "that", "should", "have", "been", "done", "after", "going", "through", "a", "car", "wash", "."], "e1_text": "done", "e1_pos": 28, "e2_text": "going", "e2_pos": 30, "label": "after"}
+]

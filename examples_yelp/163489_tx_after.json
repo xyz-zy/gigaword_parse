@@ -1,0 +1,3 @@
+[
+{"tokens": ["AGAIN", "!!", "We", "were", "so", "fed", "up", "we", "canceled", "the", "order", "after", "they", "took", "the", "food", "back", "for", "the", "THIRD", "time", "."], "e1_text": "canceled", "e1_pos": 8, "e2_text": "took", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "of", "known", "that", "by", "the", "way", "she", "checked", "me", "in", "typically", "you", "walk", "in", "they", "check", "you", "in", "ASAP", "I", "come", "in", "and", "wait", "at", "the", "counter", "for", "2", "minutes", "or", "so", "after", "she", "greets", "me", "waiting", "for", "her", "to", "check", "me", "in", "once", "checked", "in", "she", "tells", "me", "it", "'ll", "be", "a", "moment", "or", "two", "so", "take", "a", "seat", "."], "e1_text": "checked", "e1_pos": 9, "e2_text": "greets", "e2_pos": 36, "label": "after"},
+{"tokens": ["After", "she", "cleans", "her", "area", "I", "'m", "called", "up", "next", "during", "the", "haircut", "she", "ask", "me", "what", "I", "do", "after", "telling", "her", "I", "work", "for", "a", "financial", "firm", "I", "can", "see", "her", "roll", "her", "eyes", "in", "the", "mirror", "."], "e1_text": "do", "e1_pos": 18, "e2_text": "telling", "e2_pos": 20, "label": "after"}
+]

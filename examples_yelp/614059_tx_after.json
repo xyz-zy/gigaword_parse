@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "times", "I", "sat", "at", "the", "bar", "hoping", "for", "fast", "service", ",", "but", "in", "each", "instance", "I", "was", "forgotten", "for", "about", "five", "minutes", "after", "receiving", "a", "menu", ":-LRB-", "The", "servers", "behind", "the", "bar", "when", "I", "was", "there", "-LRB-", "I", "recognize", "that", "there", "is", "a", "lot", "of", "rotation", "in", "an", "airport", "establishment", "-RRB-", "did", "n't", "do", "a", "very", "good", "job", "of", "scanning", "over", "their", "patrons", "to", "make", "sure", "everyone", "was", "taken", "care", "of", "."], "e1_text": "forgotten", "e1_pos": 18, "e2_text": "receiving", "e2_pos": 24, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "the", "waitress", "about", "10", "minutes", "just", "to", "bring", "water", "after", "being", "seated", ",", "and", "it", "took", "another", "10", "minutes", "to", "get", "the", "check", "."], "e1_text": "bring", "e1_pos": 9, "e2_text": "being", "e2_pos": 12, "label": "after"},
+{"tokens": ["My", "stomach", "was", "upset", "shortly", "after", "eating", "the", "seafood", "pasta", "."], "e1_text": "upset", "e1_pos": 3, "e2_text": "eating", "e2_pos": 6, "label": "after"}
+]

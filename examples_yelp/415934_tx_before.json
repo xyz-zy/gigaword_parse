@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "absolutely", "love", "the", "hip", "bluesy", ",", "laid", "back", ",", "loungy", "atmosphere", "and", "could", "imagine", "it", "must", "be", "a", "fun", "place", "to", "kick", "back", "on", "an", "evening", "before", "hitting", "the", "rest", "of", "the", "town", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "hitting", "e2_pos": 28, "label": "before"},
+{"tokens": ["Sunday", "morning", "and", "limited", "to", "the", "selection", "of", "breakfast", "choices", "to", "go", "to", "and", "not", "craving", "to", "go", "back", "to", "the", "not", "so", "delectable", "Cravings", "buffet", "option", "we", "chose", "before", ",", "this", "seemed", "to", "be", "our", "last", ",", "but", "decent", "resort", "."], "e1_text": "chose", "e1_pos": 28, "e2_text": "seemed", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "tried", "that", "before", "but", "I", "felt", "comfortable", "with", "Tracy", "as", "she", "seemed", "a", "genuine", ",", "warm", "and", "funny", "person", "."], "e1_text": "tried", "e1_pos": 3, "e2_text": "felt", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "have", "never", "had", "a", "professional", "person", "do", "anything", "so", "lazy", ",", "insensitive", "and", "fraudulent", "to", "me", "before", "and", "I", "still", "have", "nightmares", "about", "what", "Tracy", "did", "to", "me", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "do", "e2_pos": 7, "label": "before"}
+]

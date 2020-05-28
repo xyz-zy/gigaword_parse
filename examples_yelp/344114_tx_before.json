@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "told", "me", "to", "get", "''", "``", "My", "Big", "Cracker", "Ass", "''", "''", "out", "of", "the", "bar", "area", "before", "he", "kicked", "me", "out", "which", "he", "eventually", "did", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "kicked", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Where", "do", "I", "begin", "...", "I", "do", "n't", "usually", "write", "reviews", ",", "but", "I", "want", "to", "warn", "people", "before", "then", "spend", "here", "."], "e1_text": "warn", "e1_pos": 16, "e2_text": "spend", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "told", "them", "what", "needed", "to", "be", "moved", "before", "the", "mattress", "was", "set", "up", "."], "e1_text": "moved", "e1_pos": 7, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

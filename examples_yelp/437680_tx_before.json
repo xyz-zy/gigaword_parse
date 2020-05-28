@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "do", "n't", "have", "that", "time", "to", "allocate", "so", "it", "'s", "better", "to", "wash", "my", "hands", "of", "it", "before", "I", "'m", "into", "deep", "."], "e1_text": "'s", "e1_pos": 11, "e2_text": "'m", "e2_pos": 21, "label": "before"},
+{"tokens": ["This", "is", "inaccurate", ",", "the", "show", "tickets", "are", "vouchers", "that", "can", "be", "redeemed", "anytime", "before", "the", "expiration", "date", "listed", "."], "e1_text": "redeemed", "e1_pos": 12, "e2_text": "listed", "e2_pos": 18, "label": "before"}
+]

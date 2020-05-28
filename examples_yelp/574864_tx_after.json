@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "boss", "went", "earlier", "this", "afternoon", "and", "was", "astonished", "by", "how", "good", "of", "a", "time", "he", "had", "there", "-LRB-", "after", "about", "3-4", "of", "his", "own", "terrible", "lunch", "trips", "to", "The", "Rusty", "Onion", "-RRB-", ",", "and", "he", "recommended", "that", "I", "try", "it", "."], "e1_text": "had", "e1_pos": 16, "e2_text": "trips", "e2_pos": 27, "label": "after"}
+]

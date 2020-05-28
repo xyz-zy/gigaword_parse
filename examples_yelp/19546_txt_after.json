@@ -1,0 +1,5 @@
+[
+{"tokens": ["Normally", ",", "the", "servers", "will", "come", "back", "a", "few", "minutes", "after", "dropping", "off", "the", "first", "round", "of", "sushi", "and", "from", "there", "they", "will", "take", "your", "next", "order", "to", "make", "sure", "you", "get", "prompt", "service", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "dropping", "e2_pos": 11, "label": "after"},
+{"tokens": ["After", "sitting", "there", "for", "20", "minutes", "after", "putting", "in", "our", "second", "order", ",", "we", "asked", "the", "bartender", "if", "we", "had", "an", "order", "waiting", "for", "us", "."], "e1_text": "sitting", "e1_pos": 1, "e2_text": "putting", "e2_pos": 7, "label": "after"},
+{"tokens": ["She", "finally", "decided", "to", "come", "over", "and", "give", "us", "an", "ETA", "of", "when", "our", "last", "order", "would", "be", "up", "and", "we", "asked", "for", "our", "bill", "so", "we", "could", "pay", "and", "leave", "after", "we", "ate", "."], "e1_text": "pay", "e1_pos": 28, "e2_text": "ate", "e2_pos": 33, "label": "after"}
+]

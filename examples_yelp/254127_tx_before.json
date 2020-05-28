@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "gone", "through", "self-checkout", "and", "after", "I", "was", "done", "paying", "for", "everything", ",", "I", "examined", "the", "receipt", "before", "I", "left", "the", "store", "."], "e1_text": "examined", "e1_pos": 15, "e2_text": "left", "e2_pos": 20, "label": "before"}
+]

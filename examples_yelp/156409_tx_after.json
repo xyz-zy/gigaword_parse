@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "the", "tiger", "shrimp", "with", "corn", "tamale", ",", "after", "hearing", "so", "much", "about", "it", "from", "various", "sources", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 10, "label": "after"},
+{"tokens": ["Bread", "came", "after", "we", "finished", "our", "appetizer", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "finished", "e2_pos": 4, "label": "after"},
+{"tokens": ["The", "plates", "I", "got", "were", "''", "``", "appetizer-sized", "''", "''", "but", "they", "were", "enough", "to", "stuff", "me", ",", "especially", "after", "I", "devoured", "a", "couple", "pieces", "of", "pastries", "from", "the", "bread", "basket", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "devoured", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "have", "to", "figure", "how", "the", "do", "their", "meat", "here", "before", "ordering", "medium", ",", "medium", "rare", ",", "etc.", "."], "e1_text": "do", "e1_pos": 6, "e2_text": "ordering", "e2_pos": 11, "label": "before"},
+{"tokens": ["More", "expensive", "cut", "here", ",", "more", "expensive", "wine", "there", ",", "trying", "to", "get", "more", "appertizers", "or", "bottles", "of", "wine", "on", "the", "table", "before", "we", "were", "finished", "with", "the", "ones", "we", "had", "-LRB-", "this", "happened", "three", "times", ",", "one", "time", "is", "good", "services", "-RRB-", "as", "we", "were", "winding", "down", "."], "e1_text": "cut", "e1_pos": 2, "e2_text": "were", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "was", "soo", "sick", "after", "i", "ate", "i", "came", "home", "i", "been", "having", "stomach", "problems", "and", "throwing", "up", "it", "had", "to", "of", "been", "the", "meat", "the", "pho", "was", "ok", "and", "the", "asian", "waitor", "didnt", "want", "to", "give", "me", "the", "small", "plate", "of", "lemon", "bean", "sprouts", "and", "mint", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "ate", "e2_pos": 6, "label": "after"},
+{"tokens": ["or", "what", "i", "mean", "it", "was", "a", "bad", "experience", "30", "mins", "after", "i", "eatting", "my", "temp", "was", "up", "to", "101", "and", "i", "was", "coughing", "and", "i", "been", "coughing", "so", "hard", "and", "all", "night", "my", "lungs", "hurt", "this", "is", "horrible", "i", "will", "never", "go", "here", "agian", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "eatting", "e2_pos": 13, "label": "after"}
+]

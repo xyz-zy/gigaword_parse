@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "guy", "next", "to", "me", "was", "shooting", "something", "that", "I", "thought", "was", "a", "high", "powered", "rifle", "and", "it", "was", "deafening", "even", "with", "the", "ear", "muffs", "on", ",", "at", "one", "point", "after", "a", "lull", ",", "the", "neighbor", "'s", "shot", "just", "startled", "me", "."], "e1_text": "deafening", "e1_pos": 19, "e2_text": "startled", "e2_pos": 39, "label": "after"},
+{"tokens": ["Another", "minor", "downside", "was", "the", "protective", "eye", "glasses", "steamed", "up", "after", "a", "while", "making", "it", "hard", "to", "see", "if", "you", "were", "hitting", "the", "target", "at", "all", "."], "e1_text": "steamed", "e1_pos": 8, "e2_text": "making", "e2_pos": 13, "label": "after"}
+]

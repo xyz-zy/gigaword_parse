@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "give", "people", "more", "than", "one", "chance", "so", "I", "went", "back", "and", "this", "time", "I", "got", "a", "pedicure", "first", "then", "the", "nail", "tech", "left", "the", "salon", "and", "I", "sat", "near", "the", "dryer", "for", "45", "min", "before", "approaching", "the", "manager", "about", "the", "length", "of", "time", "I", "had", "been", "waiting", "for", "a", "fill", "."], "e1_text": "sat", "e1_pos": 29, "e2_text": "approaching", "e2_pos": 37, "label": "before"},
+{"tokens": ["He", "replied", "unapologetically", "that", "the", "tech", "had", "to", "leave", "to", "pick", "up", "her", "son", "from", "school", "...", "I", "sat", "another", "15", "min", "before", "I", "was", "seen", "by", "someone", "else", "."], "e1_text": "sat", "e1_pos": 18, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

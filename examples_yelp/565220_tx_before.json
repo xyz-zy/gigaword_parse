@@ -1,0 +1,6 @@
+[
+{"tokens": ["They", "did", "not", "have", "a", "hostess", "when", "we", "walked", "in", "and", "waited10", "minutes", "before", "anyone", "talked", "to", "us", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "talked", "e2_pos": 15, "label": "before"},
+{"tokens": ["There", "were", "3", "other", "couples", "waiting", "before", "us", "too-who", "knows", "how", "long", "they", "were", "waiting", "for", "."], "e1_text": "waiting", "e1_pos": 5, "e2_text": "knows", "e2_pos": 9, "label": "before"},
+{"tokens": ["Next", "we", "decided", "to", "sit", "in", "the", "bar", "and", "waited", "an", "additional", "10", "minutes", "before", "we", "were", "asked", "if", "we", "wanted", "drinks", "."], "e1_text": "waited", "e1_pos": 9, "e2_text": "were", "e2_pos": 16, "label": "before"},
+{"tokens": ["Once", "we", "got", "drinks", ",", "the", "dirty", "martini", "'s", "were", "great", ",", "we", "had", "to", "wait", "another", "15", "minutes", "before", "ordering", "appetizers", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "ordering", "e2_pos": 20, "label": "before"}
+]

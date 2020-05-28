@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "to", "the", "Herb", "Box", "to", "eat", "lunch", "over", "the", "weekend", "after", "doing", "some", "par-oozing", "through", "old", "town", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "doing", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "are", "very", "attentive", "to", "your", "drinks", "however", "they", "are", "not", "as", "attentive", "to", "your", "meal", "after", "it", "arrives", "."], "e1_text": "are", "e1_pos": 1, "e2_text": "arrives", "e2_pos": 18, "label": "after"}
+]

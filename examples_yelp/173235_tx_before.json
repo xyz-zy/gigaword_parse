@@ -1,0 +1,3 @@
+[
+{"tokens": ["Chicken", "and", "Waffles", ":", "Chicken", "is", "brined", "for", "3", "days", ",", "then", "pan-seared", "and", "finally", "roasted", "for", "8", "hours", "before", "being", "served", "with", "a", "light", "tangy", "mushroom\\/vegetable", "sauce", "next", "to", "4", "quarter", "waffles", "infused", "with", "bacon", "and", "chives", "with", "optional", "vanilla", "bean", "whipped", "butter", "and", "a", "sweet", "honey", "syrup", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "being", "e2_pos": 20, "label": "before"}
+]

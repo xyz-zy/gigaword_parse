@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "never", "looked", "looked", "us", "in", "the", "eye", ",", "we", "ate", "all", "of", "our", "appetizers", "with", "empty", "drinks", "-LRB-", "no", "refills", "-RRB-", ",", "he", "never", "ordered", "my", "margarita", ",", "never", "brought", "me", "a", "side", "of", "honey", "mustard", ",", "and", "after", "waiting", "20", "minutes", "after", "finishing", "we", "had", "to", "ask", "another", "server", "for", "boxes", "and", "our", "check", "."], "e1_text": "ate", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 41, "label": "after"}
+]

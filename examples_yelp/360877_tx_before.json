@@ -1,0 +1,3 @@
+[
+{"tokens": ["3", "-RRB-", "The", "men", "'s", "room", "is", "the", "one", "on", "the", "left", ",", "the", "ladies", "is", "on", "the", "right", "-LRB-", "trust", "me", ",", "this", "is", "not", "obvious", "when", "you", "have", "n't", "been", "there", "before", "and", "you", "'ve", "been", "drinking", "-RRB-", "."], "e1_text": "is", "e1_pos": 6, "e2_text": "have", "e2_pos": 29, "label": "before"}
+]

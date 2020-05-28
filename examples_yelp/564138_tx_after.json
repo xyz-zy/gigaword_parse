@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "ordered", "$", "60", "worth", "of", "meal", "to", "my", "hotel", "room", "after", "a", "long", "tiring", "day", ",", "waited", "60", "minutes", "-LRB-", "no", "problem", "with", "waiting", "time", ",", "we", "'ve", "been", "warned", "about", "it", "-RRB-", "finally", "got", "my", "pasta", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "got", "e2_pos": 36, "label": "after"}
+]

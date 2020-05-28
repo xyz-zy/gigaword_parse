@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "food", "for", "3", "adults", ",", "one", "kid", ",", "food", "came", "for", "adults", ",", "after", "a", "couple", "of", "minutes", "my", "mom", "asked", "when", "my", "sons", "food", "would", "be", "coming", ",", "waitress", "said", "she", "would", "check", ",", "came", "back", "and", "said", "his", "pizza", "hadnt", "been", "cooked", "yet", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "asked", "e2_pos": 21, "label": "after"}
+]

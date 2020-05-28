@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "told", "them", "he", "needed", "to", "think", "it", "over", "after", "they", "just", "pissed", "him", "off", "."], "e1_text": "needed", "e1_pos": 4, "e2_text": "pissed", "e2_pos": 12, "label": "after"},
+{"tokens": ["So", "we", "go", "back", "a", "few", "days", "later", "after", "he", "cools", "down", "and", "guess", "what", "...", "the", "car", "is", "still", "there", "!!", "He", "signs", "the", "purchase", "agreement", "and", "gives", "a", "$", "500", "deposit", "check", "-LRB-", "which", "we", "'re", "told", "would", "be", "destroyed", "when", "they", "receive", "our", "bank", "funds", "and", "we", "pick", "up", "the", "car", "-RRB-", ",", "no", "problem", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "cools", "e2_pos": 10, "label": "after"}
+]

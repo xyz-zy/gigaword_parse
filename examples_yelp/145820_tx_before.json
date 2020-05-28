@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "usually", "accommodate", "for", "this", "and", "order", "way", "before", "I", "am", "hungry", ",", "tonight", "I", "ordered", "food", "at", "5:15", "and", "it", "was", "not", "delivered", "to", "my", "house", "until", "7:38", "."], "e1_text": "accommodate", "e1_pos": 3, "e2_text": "am", "e2_pos": 11, "label": "before"},
+{"tokens": ["This", "is", "the", "only", "thai", "place", "in", "my", "area", "that", "delivers", "but", "honestly", "I", "would", "rather", "drive", "to", "the", "other", "end", "of", "the", "city", "and", "eat", "before", "I", "ordered", "here", "again", "."], "e1_text": "eat", "e1_pos": 25, "e2_text": "ordered", "e2_pos": 28, "label": "before"}
+]

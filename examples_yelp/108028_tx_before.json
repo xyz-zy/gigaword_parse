@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "managed", "to", "grab", "some", "lettuce", "before", "they", "took", "it", "to", "the", "kitchen", "."], "e1_text": "grab", "e1_pos": 3, "e2_text": "took", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "figured", "I", "would", "grab", "some", "chocolate", "lava", "cake", "quickly", "before", "they", "pulled", "that", "too", "."], "e1_text": "grab", "e1_pos": 4, "e2_text": "pulled", "e2_pos": 12, "label": "before"}
+]

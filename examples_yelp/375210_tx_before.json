@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", ",", "we", "received", "a", "call", "from", "the", "hotel", "2", "days", "before", "we", "were", "to", "leave", "for", "vacation", "informing", "us", "of", "a", "mistake", "where", "our", "confirmation", "email", "was", "sent", "to", "another", "guest", "."], "e1_text": "received", "e1_pos": 5, "e2_text": "were", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", "I", "came", "here", ",", "I", "browsed", "through", "the", "vegetarian", "menu", "before", "the", "employee", "recommended", "his", "favorite", ",", "the", "Captain", "Kirk", "-LRB-", "An", "item", "from", "their", "San", "Francisco", "menu", ",", "but", "they", "will", "make", "any", "SF", "item", "for", "you", "that", "they", "do", "n't", "have", "in", "the", "Mesa", "menu", "-RRB-", "."], "e1_text": "browsed", "e1_pos": 8, "e2_text": "recommended", "e2_pos": 16, "label": "before"},
+{"tokens": ["That", "is", "n't", "saying", "too", "much", "though", ",", "since", "there", "are", "quite", "a", "few", "other", "menu", "items", "to", "go", "through", "before", "I", "proclaim", "one", "sandwich", "my", "#", "1", "pick", "!"], "e1_text": "go", "e1_pos": 18, "e2_text": "proclaim", "e2_pos": 22, "label": "before"}
+]

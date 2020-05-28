@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "not", "finish", "posting", "this", "review", "because", "I", "wanted", "to", "make", "sure", "I", "had", "all", "my", "information", "before", "doing", "so", "."], "e1_text": "had", "e1_pos": 14, "e2_text": "doing", "e2_pos": 19, "label": "before"},
+{"tokens": ["The", "student", "I", "saw", "was", "professional", "and", "made", "me", "comfortable", "before", "doing", "anything", "."], "e1_text": "made", "e1_pos": 7, "e2_text": "doing", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "have", "not", "been", "able", "to", "chew", "on", "that", "side", "of", "my", "mouth", "because", "I", "want", "to", "make", "sure", "that", "it", "no", "longer", "hurts", "before", "I", "do", "anything", "."], "e1_text": "hurts", "e1_pos": 23, "e2_text": "do", "e2_pos": 26, "label": "before"}
+]

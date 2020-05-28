@@ -1,0 +1,3 @@
+[
+{"tokens": ["Granted", ",", "the", "wait", "time", "between", "each", "course", "was", "quite", "long", "-", "it", "took", "us", "3", "hours", "to", "finish", "dinner", ",", "and", "the", "dishes", "consisted", "of", "such", "tiny", "portions", "that", "80", "%", "of", "the", "time", "was", "spent", "waiting", "-LRB-", "at", "one", "point", "I", "had", "to", "walk", "up", "to", "one", "of", "the", "hostesses", "out", "in", "front", "to", "ask", "when", "the", "entrees", "were", "coming", "because", "there", "were", "no", "servers", "in", "sight", "for", "half", "an", "hour", "after", "we", "finished", "the", "appetizers", "-RRB-", "."], "e1_text": "were", "e1_pos": 60, "e2_text": "finished", "e2_pos": 75, "label": "after"}
+]

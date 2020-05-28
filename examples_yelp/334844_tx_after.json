@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "arrived", "after", "a", "30", "minute", "bicycle", "ride", "to", "meet", "my", "breakfast", "posse", ",", "and", "not", "only", "was", "I", "sweating", ",", "I", "was", "also", "starving", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "ride", "e2_pos": 7, "label": "after"},
+{"tokens": ["Time", "ticked", "on", "...", "tick", "tock...forty-five", "minutes", "later", "our", "server", "brought", "us", "some", "waters", "and", "menus", "...", "and", "this", "was", "only", "after", "I", "had", "tracked", "down", "another", "server", "to", "inquire", "as", "to", "who", "would", "be", "hitting", "up", "our", "table", "."], "e1_text": "was", "e1_pos": 19, "e2_text": "had", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "suppose", "I", "'ll", "return", "to", "L'evidence", "at", "some", "point", "for", "round", "2", "in", "the", "hopes", "that", "we", "wo", "n't", "have", "to", "wait", "ages", "for", "attention", "...", "after", "all", ",", "who", "likes", "waiting", "for", "attention", "?"], "e1_text": "L'evidence", "e1_pos": 6, "e2_text": "likes", "e2_pos": 31, "label": "after"}
+]

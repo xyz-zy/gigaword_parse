@@ -1,0 +1,3 @@
+[
+{"tokens": ["WRONG", "!!", "after", "being", "greeted", "by", "shelby", ",", "i", "bellied", "up", "to", "the", "bar", ",", "ordered", "a", "beer", ",", "ordered", "my", "pizza", ",", "and", "then", "ordered", "spicy", "chicken", "dingers", "while", "i", "waited", "."], "e1_text": "WRONG", "e1_pos": 0, "e2_text": "being", "e2_pos": 3, "label": "after"}
+]

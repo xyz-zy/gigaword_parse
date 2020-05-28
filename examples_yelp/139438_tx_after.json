@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "two", "brothers", "and", "myself", "had", "went", "to", "the", "bar", "to", "order", "some", "drinks", "only", "to", "have", "the", "bartender", "walk", "away", "leaving", "us", "sitting", "there", "after", "we", "had", "ordered", "our", "drinks", "."], "e1_text": "sitting", "e1_pos": 23, "e2_text": "had", "e2_pos": 5, "label": "after"}
+]

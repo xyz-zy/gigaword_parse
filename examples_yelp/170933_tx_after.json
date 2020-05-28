@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "at", "the", "desk", "changed", "our", "room", "after", "we", "complained", "and", "we", "made", "our", "way", "towards", "the", "East", "Tower", "."], "e1_text": "changed", "e1_pos": 5, "e2_text": "complained", "e2_pos": 10, "label": "after"}
+]

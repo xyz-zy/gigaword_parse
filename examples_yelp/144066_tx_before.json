@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "empty", "plates", "when", "we", "were", "finished", "eating", "sat", "in", "front", "of", "us", "at", "least", "10", "minutes", "before", "our", "desert", "came", "and", "the", "waiter", "was", "almost", "a", "ghost", "."], "e1_text": "sat", "e1_pos": 8, "e2_text": "came", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "will", "not", "go", "back", "to", "this", "place", "after", "the", "two", "visits", "I", "had", "this", "past", "weekend", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "visits", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "arrived", "about", "5", "minutes", "after", "my", "order", "was", "scheduled", "to", "be", "ready", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "after"},
+{"tokens": ["Once", "again", "I", "placed", "my", "order", "on-line", "and", "got", "there", "about", "5", "minutes", "after", "my", "order", "was", "scheduled", "to", "be", "ready", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

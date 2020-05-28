@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "3", "stars", ",", "my", "family", "and", "I", "went", "to", "the", "previous", "location", "several", "times", "before", "they", "moved", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "moved", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "will", "come", "back", "to", "Joes", ",", "but", "not", "for", "a", "while", ",", "I", "will", "give", "them", "a", "chance", "to", "get", "their", "footing", "at", "this", "new", "place", "before", "going", "back", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "going", "e2_pos": 28, "label": "before"}
+]

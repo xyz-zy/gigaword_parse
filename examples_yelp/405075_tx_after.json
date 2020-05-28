@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "did", "lose", "out", "on", "probably", "$", "75", "+", "in", "business", "-LRB-", "$", "25", "\\/", "person", "-RRB-", ",", "and", "I", "definitely", "do", "not", "plan", "on", "coming", "back", "after", "the", "customer", "service", "was", "beyond", "poor", "."], "e1_text": "coming", "e1_pos": 25, "e2_text": "was", "e2_pos": 31, "label": "after"},
+{"tokens": ["Fact", "is", ",", "I", "was", "interested", "after", "viewing", "all", "the", "reviews", "from", "Yelpers", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "viewing", "e2_pos": 7, "label": "after"}
+]

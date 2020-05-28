@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "seats", "maybe", "20", "or", "30", "people", "before", "they", "start", "sending", "folks", "over", "to", "the", "bar", "next", "door", "."], "e1_text": "seats", "e1_pos": 1, "e2_text": "start", "e2_pos": 9, "label": "before"},
+{"tokens": ["And", "since", "the", "bar", "is", "n't", "much", "bigger", ",", "it", "does", "n't", "take", "too", "long", "before", "they", "'re", "pretty", "much", "out", "of", "seating", "space", "."], "e1_text": "take", "e1_pos": 12, "e2_text": "'re", "e2_pos": 17, "label": "before"}
+]

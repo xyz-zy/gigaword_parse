@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "a", "lover", "of", "French", "food", ",", "I", "'ve", "eaten", "at", "this", "place", "a", "couple", "times", "and", "wished", "to", "share", "it", "with", "my", "girlfriend", "who", "had", "not", "been", "there", "before", "so", "we", "decided", "to", "go", "for", "restaurant", "week", "."], "e1_text": "share", "e1_pos": 19, "e2_text": "had", "e2_pos": 25, "label": "before"},
+{"tokens": ["Unfortunately", ",", "we", "then", "sat", "for", "40", "minutes", "before", "receiving", "even", "bread", ",", "at", "which", "point", ",", "I", "was", "furious", "since", "no", "one", "had", "stopped", "by", "our", "table", "in", "this", "duration", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "receiving", "e2_pos": 9, "label": "before"}
+]

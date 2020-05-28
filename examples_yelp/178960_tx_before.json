@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "wait", "in", "3", "different", "lines", "before", "you", "get", "seated", "."], "e1_text": "wait", "e1_pos": 1, "e2_text": "get", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "best", "part", "is", "that", "you", "do", "get", "free", "drinks", "all", "night", "so", "it", "'s", "a", "food", "place", "to", "eat", "an", "drink", "for", "a", "couple", "hours", "before", "continuing", "with", "your", "night", "."], "e1_text": "eat", "e1_pos": 19, "e2_text": "continuing", "e2_pos": 27, "label": "before"}
+]

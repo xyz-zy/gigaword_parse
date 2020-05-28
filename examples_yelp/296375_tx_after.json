@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "H", "and", "I", "stopped", "at", "the", "Backstage", "bar", "after", "seeing", "a", "show", "at", "the", "CLO", "and", "before", "reservations", "at", "M&P", "for", "a", "drink", "or", "two", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

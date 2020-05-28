@@ -1,0 +1,4 @@
+[
+{"tokens": ["02\\/21\\/11", "Came", "here", "after", "reading", "Linda", "W.", "'s", "delightful", "review", "."], "e1_text": "Came", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["What", "I", "did", "n't", "like", "was", "finding", "a", "bit", "of", "plastic", "in", "my", "mouth", "after", "taking", "a", "big", "slurp", "--", "the", "shake", "was", "made", "on", "site", ",", "then", "mechanically", "topped", "w", "\\/", "a", "plastic", "wrap", "cover", "that", "had", "to", "be", "broken", "w", "\\/", "a", "straw", "in", "order", "to", "drink", "out", "of", "the", "cup", "-", "blech", "!"], "e1_text": "finding", "e1_pos": 6, "e2_text": "taking", "e2_pos": 15, "label": "after"}
+]

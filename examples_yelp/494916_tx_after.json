@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "it", "arrived", ",", "the", "fish", "was", "divided", "and", "plated", "for", "us", "in", "unequal", "portions", ",", "the", "expensive", "NY", "strip", "was", "served", "well", "done", "after", "ordering", "it", "med", "rare", ",", "and", "the", "fish", "was", "very", "no-frills", "."], "e1_text": "served", "e1_pos": 21, "e2_text": "ordering", "e2_pos": 25, "label": "after"}
+]

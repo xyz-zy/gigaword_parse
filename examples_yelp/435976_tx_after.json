@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "stay", "was", "a", "few", "months", "after", "it", "opened", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "opened", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "left", "the", "pillows", "at", "the", "door", "after", "the", "first", "night", "hoping", "they", "would", "take", "them", "away", "only", "to", "find", "them", "in", "the", "room", "again", "."], "e1_text": "left", "e1_pos": 1, "e2_text": "hoping", "e2_pos": 11, "label": "after"}
+]

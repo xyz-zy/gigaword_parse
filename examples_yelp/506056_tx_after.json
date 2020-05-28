@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "always", "had", "it", "delivered", "to", "my", "work", "-LRB-", "a", "school", "-RRB-", "and", "it", "usually", "gets", "there", "2", "or", "3", "days", "after", "I", "order", "it", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "order", "e2_pos": 24, "label": "after"}
+]

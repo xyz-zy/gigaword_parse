@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "beef", "baja", "chimi", "and", "it", "was", "so", "great", "I", "ate", "the", "whole", "thing", "-LRB-", "even", "after", "I", "promised", "myself", "I", "would", "only", "eat", "half", "-RRB-", ",", "so", "much", "for", "the", "diet", "."], "e1_text": "ate", "e1_pos": 12, "e2_text": "promised", "e2_pos": 20, "label": "after"}
+]

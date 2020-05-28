@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pretzels", "could", "be", "awesome", "except", "they", "always", "seem", "to", "spend", "too", "much", "time", "in", "the", "microwave", "before", "making", "their", "way", "to", "the", "plate", "."], "e1_text": "spend", "e1_pos": 10, "e2_text": "making", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Consistency", "and", "taste", "are", "critical", "elements", "that", "will", "draw", "you", "back", "to", "the", "same", "restaurant", "or", "chain", ",", "after", "all", "decor", "means", "little", "if", "you", "are", "consuming", "a", "sub", "par", "product", "."], "e1_text": "draw", "e1_pos": 8, "e2_text": "means", "e2_pos": 21, "label": "after"},
+{"tokens": ["As", "a", "tradition", "NBC", "news", "will", "spend", "a", "few", "days", "with", "the", "new", "president", "shortly", "after", "taking", "office", "."], "e1_text": "spend", "e1_pos": 6, "e2_text": "taking", "e2_pos": 16, "label": "after"},
+{"tokens": ["With", "the", "other", "major", "chains", "trying", "to", "reinvent", "themselves", "I", "think", "5Guys", "has", "given", "them", "reason", "to", "worry", ",", "after", "all", "they", "have", "taken", "us", "for", "advantage", "all", "these", "years", ",", "time", "for", "someone", "else", "to", "make", "us", "look", "forward", "to", "going", "out", "for", "a", "classic", "fast", "food", "meal", "."], "e1_text": "think", "e1_pos": 10, "e2_text": "have", "e2_pos": 22, "label": "after"}
+]

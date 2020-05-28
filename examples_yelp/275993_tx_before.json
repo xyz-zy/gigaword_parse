@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "did", "enjoy", "the", "show", ",", "I", "found", "the", "theme", "entertaining", "and", "the", "acrobatics", "engaging", ",", "but", "this", "is", "nothing", "I", "have", "n't", "necessarily", "seen", "before", "."], "e1_text": "is", "e1_pos": 19, "e2_text": "have", "e2_pos": 22, "label": "before"},
+{"tokens": ["Much", "like", "watching", "Terry", "Fator", "do", "impressions", "without", "moving", "his", "mouth", "-LRB-", "doing", "ventriloquism", "-RRB-", ",", "it", "'s", "great", "to", "watch", "and", "can", "be", "amazing", "for", "a", "moment", "or", "two", ",", "but", "you", "do", "get", "the", "feeling", "you", "'ve", "seen", "this", "before", "."], "e1_text": "get", "e1_pos": 34, "e2_text": "'ve", "e2_pos": 38, "label": "before"}
+]

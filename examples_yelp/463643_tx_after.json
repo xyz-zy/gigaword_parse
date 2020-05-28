@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "least", "that", "is", "what", "I", "think", "after", "visiting", "Lee", "'s", "post", "their", "officially", "grand", "opening", "."], "e1_text": "think", "e1_pos": 6, "e2_text": "visiting", "e2_pos": 8, "label": "after"},
+{"tokens": ["So", "we", "will", "see", "how", "well", "they", "fare", "after", "the", "novelty", "wears", "out", ",", "because", "without", "a", "course", "correction", "I", "see", "only", "iceberg", "ahead", "for", "this", "Titanic", "of", "a", "Lee", "'s", "Sandwich", "."], "e1_text": "fare", "e1_pos": 7, "e2_text": "wears", "e2_pos": 11, "label": "after"}
+]

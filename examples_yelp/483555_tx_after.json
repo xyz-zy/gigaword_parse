@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "Beckett", "'s", "Table", "on", "a", "Wednesday", "night", "with", "the", "fabulous", "Aileen", "B.", "I", "was", "dying", "to", "try", "this", "place", "because", "she", "made", "my", "mouth", "water", "after", "reading", "her", "review", "."], "e1_text": "made", "e1_pos": 24, "e2_text": "reading", "e2_pos": 29, "label": "after"},
+{"tokens": ["They", "are", "also", "already", "expanding", "the", "patio", "after", "only", "being", "open", "for", "a", "few", "months", "."], "e1_text": "expanding", "e1_pos": 4, "e2_text": "being", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Fortunately", ",", "I", "inadvertently", "avoided", "a", "donut", "with", "powdered", "sugar", "--", "yes", "after", "years", "of", "getting", "powdered", "sugar", "on", "dark", "suits", "I", "have", "not", "learned", "."], "e1_text": "avoided", "e1_pos": 4, "e2_text": "getting", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "'m", "sure", "the", "next", "time", "my", "mileage", "is", "up", "for", "the", "week", "I", "will", "stop", "by", "again", "...", "after", "I", "finishing", "punishing", "myself", "that", "is", "..."], "e1_text": "'m", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 21, "label": "after"}
+]

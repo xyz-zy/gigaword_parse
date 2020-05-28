@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "got", "ta", "try", "this", "place", "before", "you", "leave", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "leave", "e2_pos": 8, "label": "before"},
+{"tokens": ["You", "got", "to", "try", "it", "at", "least", "once", "before", "you", "leave", "Quebec", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "leave", "e2_pos": 10, "label": "before"}
+]

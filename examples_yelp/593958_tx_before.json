@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "came", "here", "last", "night", "-LRB-", "Monday", "-RRB-", "around", "8:00", "before", "going", "to", "see", "Mystere", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "going", "e2_pos": 14, "label": "before"},
+{"tokens": ["We", "had", "both", "finished", "our", "food", "before", "she", "came", "back", "to", "the", "table", "and", "my", "husband", "had", "to", "ask", "for", "the", "refill", "and", "for", "the", "check", "."], "e1_text": "finished", "e1_pos": 3, "e2_text": "came", "e2_pos": 8, "label": "before"}
+]

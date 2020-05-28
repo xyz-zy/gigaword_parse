@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "I", "ca", "n't", "say", "I", "will", "never", "go", "back", ",", "because", "the", "food", "WAS", "good", ";", "I", "CAN", "say", ":", "I", "will", "go", "someplace", "else", "if", "there", "'s", "a", "wait", "because", "while", "it", "was", "at", "least", "30", "minutes", "before", "we", "got", "seated", "it", "was", "45", "before", "our", "food", "arrived", "."], "e1_text": "was", "e1_pos": 34, "e2_text": "got", "e2_pos": 41, "label": "before"}
+]

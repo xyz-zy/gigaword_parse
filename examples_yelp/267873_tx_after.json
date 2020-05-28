@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "really", "good", "I", "had", "filet", "Mignon", "and", "ribeye", "the", "only", "thing", "that", "bad", "bugged", "me", "was", "that", "after", "I", "ordered", "the", "waitress", "said", "veggies", "or", "baked", "potato", "?"], "e1_text": "was", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 22, "label": "after"}
+]

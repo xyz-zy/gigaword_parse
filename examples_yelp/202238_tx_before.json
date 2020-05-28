@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "young", "man", "and", "I", "are", "allergic", "to", "cats", "so", "we", "took", "some", "Benadryl", "before", "going", "in", "--", "we", "survived", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "going", "e2_pos": 15, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "only", "once", ",", "as", "I", "never", "want", "to", "feel", "that", "amazing", "freezing", "sensation", "that", "I", "felt", "about", "five", "minutes", "after", "I", "finished", "the", "race", "."], "e1_text": "felt", "e1_pos": 16, "e2_text": "finished", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "had", "to", "RUN", "into", "Luxor", "-LRB-", "after", "running", "13.1", "miles", "-RRB-", "to", "escape", "the", "36F", "night", "air", "."], "e1_text": "RUN", "e1_pos": 3, "e2_text": "running", "e2_pos": 8, "label": "after"}
+]

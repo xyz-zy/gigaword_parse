@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "in", "the", "market", "for", "a", "new", "computer", "so", "I", "decided", "to", "stop", "into", "Best", "Buy", ",", "after", "waiting", "around", "for", "a", "very", "long", "time", "a", "sales", "person", "finally", "asked", "me", "if", "I", "needed", "help", "."], "e1_text": "decided", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "my", "date", "and", "I", "were", "looking", "for", "some", "dependable", "and", "reasonably", "priced", "Italian", "that", "was", "nearby", "for", "dinner", "before", "we", "headed", "over", "to", "316", "and", "we", "ended", "up", "at", "Carrabba", "'s", "."], "e1_text": "was", "e1_pos": 15, "e2_text": "headed", "e2_pos": 21, "label": "before"},
+{"tokens": ["The", "bread", "that", "comes", "out", "before", "the", "meal", "has", "a", "nice", "toasty", "crust", "and", "soft", "chewy", "inside", "that", "was", "spectacular", "dipped", "into", "the", "seasoned", "evoo", "."], "e1_text": "comes", "e1_pos": 3, "e2_text": "has", "e2_pos": 8, "label": "before"}
+]

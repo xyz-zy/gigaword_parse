@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", "was", "polite", "but", "cool", "after", "he", "realized", "we", "were", "n't", "buying", "tip-inflating", "booze", ",", "and", "we", "tipped", "well", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "realized", "e2_pos": 8, "label": "after"},
+{"tokens": ["But", "it", "was", "our", "mistake", "to", "not", "just", "walk", "out", "after", "seeing", "the", "food", "and", "prices", "."], "e1_text": "walk", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 11, "label": "after"}
+]

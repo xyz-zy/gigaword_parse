@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "arrived", "about", "20", "minutes", "after", "I", "called", "her", "and", "we", "ended", "p", "spending", "approximately", "750.00", "which", "was", "about", "500.00", "more", "than", "I", "had", "suggested", "earlier", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "called", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "were", "then", "informed", "after", "buying", "our", "light", "that", "they", "would", "be", "in", "Approximately", "2", "to", "3", "days", "later", "."], "e1_text": "informed", "e1_pos": 3, "e2_text": "buying", "e2_pos": 5, "label": "after"}
+]

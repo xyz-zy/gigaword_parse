@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "mistakenly", "ordered", "it", "after", "reading", "the", "reviews", "for", "the", "My", "Thai", "crab", "rangoon", ",", "but", "I", "was", "pleasantly", "surprised", "because", "I", "enjoyed", "it", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "reading", "e2_pos": 5, "label": "after"},
+{"tokens": ["On", "top", "of", "that", ",", "our", "server", "decided", "not", "to", "bring", "out", "the", "sushi", "until", "well", "after", "we", "were", "finished", "eating", "the", "rest", "of", "the", "food", "despite", "asking", "for", "the", "sushi", "first", "."], "e1_text": "decided", "e1_pos": 7, "e2_text": "were", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "Bangkok", "roll", ",", "which", "I", "ordered", "after", "reading", "various", "reviews", ",", "was", "a", "heap", "load", "of", "good", "ingredients", "thrown", "together", "into", "one", "mess", "of", "a", "roll", "."], "e1_text": "ordered", "e1_pos": 6, "e2_text": "reading", "e2_pos": 8, "label": "after"}
+]

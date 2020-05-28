@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "show", "up", "at", "9:20", "pm", "-LRB-", "that", "'s", "10", "minutes", "before", "the", "show", "starts", "-RRB-", "and", "get", "our", "tickets", ",", "where", "the", "Hooters", "employee", "stamps", "''", "``", "VIP", "SEATING", "''", "''", "on", "our", "tickets", "but", "proceeds", "to", "tell", "me", "that", "there", "are", "no", "VIP", "seats", "left", "."], "e1_text": "'s", "e1_pos": 8, "e2_text": "starts", "e2_pos": 14, "label": "before"},
+{"tokens": ["And", "they", "gave", "away", "the", "seats", "before", "the", "actual", "show", "started", "."], "e1_text": "gave", "e1_pos": 2, "e2_text": "started", "e2_pos": 10, "label": "before"}
+]

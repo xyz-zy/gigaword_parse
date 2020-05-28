@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "happened", "before", "and", "after", "I", "had", "my", "son", "."], "e1_text": "happened", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "was", "hoping", "that", "the", "worst", "of", "the", "experience", "was", "behind", "me", "after", "I", "had", "my", "son", ",", "so", "I", "went", "back", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "was", "having", "a", "lot", "of", "medical", "problems", "after", "I", "had", "him", "."], "e1_text": "having", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

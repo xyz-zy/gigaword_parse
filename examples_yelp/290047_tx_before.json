@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "Mother", "and", "Son", "to", "try", "it", "out", "before", "we", "recommended", "it", "to", "our", "family", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "recommended", "e2_pos": 12, "label": "before"},
+{"tokens": ["We", "ordered", "a", "side", "of", "Bread", "and", "oil", "because", "we", "were", "hoping", "to", "try", "the", "oil", "before", "purchasing", "the", "bottle", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "purchasing", "e2_pos": 17, "label": "before"}
+]

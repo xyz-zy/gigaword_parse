@@ -1,0 +1,5 @@
+[
+{"tokens": ["he", "said", "there", "was", "a", "late", "party", "the", "night", "before", "so", "they", "didnt", "schedule", "a", "lot", "of", "people", "to", "be", "there", "for", "lunch", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "didnt", "e2_pos": 12, "label": "before"},
+{"tokens": ["It", "took", "forever", "for", "us", "to", "get", "our", "table", "cleaned", "and", "to", "get", "menus", ",", "and", "we", "had", "to", "ask", "for", "things", "a", "few", "times", "before", "we", "got", "them", "."], "e1_text": "ask", "e1_pos": 19, "e2_text": "got", "e2_pos": 27, "label": "before"},
+{"tokens": ["But", "if", "the", "service", "is", "as", "bad", "again", "I", "might", "get", "impatient", "and", "leave", "before", "they", "make", "it", "to", "my", "table", "."], "e1_text": "leave", "e1_pos": 13, "e2_text": "make", "e2_pos": 16, "label": "before"}
+]

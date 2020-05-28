@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "grabbed", "some", "menus", "and", "stood", "there", "for", "a", "few", "minutes", "while", "we", "looked", "at", "the", "menu", "before", "walking", "away", "."], "e1_text": "looked", "e1_pos": 13, "e2_text": "walking", "e2_pos": 18, "label": "before"},
+{"tokens": ["She", "gave", "us", "the", "check", "we", "paid", "and", "she", "did", "n't", "wait", "until", "we", "left", "before", "grabbing", "the", "signed", "copy", "."], "e1_text": "left", "e1_pos": 14, "e2_text": "grabbing", "e2_pos": 16, "label": "before"}
+]

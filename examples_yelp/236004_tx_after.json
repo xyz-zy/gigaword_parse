@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", "suggested", "adding", "the", "salad", "bar", "after", "we", "ordered", "."], "e1_text": "adding", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "second", "night", "when", "we", "walked", "by", "they", "attempted", "to", "entice", "us", "with", "a", "special", ",", "we", "all", "walked", "by", ",", "especially", "after", "I", "apologized", "for", "recommending", "Pampas", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "apologized", "e2_pos": 24, "label": "after"}
+]

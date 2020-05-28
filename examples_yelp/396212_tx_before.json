@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "did", "n't", "they", "mop", "the", "floors", "before", "opening", "so", "the", "diners", "would", "n't", "have", "to", "smell", "lemon", "chemicals", "as", "their", "eating", "?"], "e1_text": "mop", "e1_pos": 4, "e2_text": "opening", "e2_pos": 8, "label": "before"},
+{"tokens": ["If", "it", "takes", "25", "minutes", "for", "al", "carte", "teriyaki", "dishes", "to", "leave", "the", "kitchen", ",", "then", "wait", "on", "putting", "in", "the", "sushi", "order", "!!!!", "We", "had", "half", "of", "our", "party", "FINISH", "their", "dinner", "before", "the", "other", "half", "got", "their", "food", "."], "e1_text": "had", "e1_pos": 25, "e2_text": "got", "e2_pos": 37, "label": "before"}
+]

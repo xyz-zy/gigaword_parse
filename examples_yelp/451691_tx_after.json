@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "comps", "or", "upgrade", "offered", ",", "even", "after", "I", "mentioned", "I", "was", "going", "to", "play", "at", "their", "property", "."], "e1_text": "offered", "e1_pos": 4, "e2_text": "mentioned", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "front", "desk", "people", "were", "not", "very", "helpful", "in", "reducing", "my", "rates", "even", "after", "I", "gambled", "allot", "w\\/the", "TR", "card", "."], "e1_text": "reducing", "e1_pos": 9, "e2_text": "gambled", "e2_pos": 15, "label": "after"}
+]

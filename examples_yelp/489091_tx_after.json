@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "think", "I", "'ve", "ever", "spent", "more", "than", "5", "minutes", "after", "walking", "in", "the", "door", "."], "e1_text": "spent", "e1_pos": 7, "e2_text": "walking", "e2_pos": 13, "label": "after"},
+{"tokens": ["While", "we", "did", "wait", "10", "minutes", "for", "our", "food", "after", "ordering", ",", "it", "was", "n't", "for", "want", "of", "trying", "by", "the", "team", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 10, "label": "after"}
+]

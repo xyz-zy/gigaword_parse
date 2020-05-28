@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "walked", "right", "by", "us", "and", "looked", "at", "the", "tables", "and", "seemed", "to", "remember", "something", "and", "a", "minute", "after", "comes", "back", "with", "a", "martini", "to", "a", "guest", "all", "the", "way", "on", "the", "corner", "."], "e1_text": "remember", "e1_pos": 14, "e2_text": "comes", "e2_pos": 20, "label": "after"},
+{"tokens": ["And", "finally", "I", "want", "to", "thank", "you", ",", "because", "after", "I", "left", "your", "place", "I", "went", "to", "RE", "TAPAS", "and", "had", "a", "wonderful", "dinner", "with", "a", "passionate", "chef", "and", "friendly", "service", "."], "e1_text": "want", "e1_pos": 3, "e2_text": "left", "e2_pos": 11, "label": "after"}
+]

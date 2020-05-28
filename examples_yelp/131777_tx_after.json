@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "reported", "this", "moron", "'s", "attitude", "to", "the", "manager", "who", "barely", "apologized", ",", "switched", "waiter", "on", "us", ",", "did", "not", "offer", "us", "a", "thing", "and", "charged", "us", "full", "price", "-LRB-", "$", "120", "-", "no", "dessert", "-", "2", "persons", "-RRB-", "even", "after", "we", "waited", "another", "40mns", "for", "our", "main", "dish", "."], "e1_text": "reported", "e1_pos": 1, "e2_text": "waited", "e2_pos": 42, "label": "after"}
+]

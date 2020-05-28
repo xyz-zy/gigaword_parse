@@ -1,0 +1,3 @@
+[
+{"tokens": ["Odd", "since", "I", "checked", "out", "their", "website", "before", "visiting", "and", "it", "gives", "no", "indication", "that", "the", "Tempe", "location", "is", "closed", ",", "I", "wonder", "if", "the", "other", "location", "is", "done", "for", "also", "?"], "e1_text": "checked", "e1_pos": 3, "e2_text": "visiting", "e2_pos": 8, "label": "before"}
+]

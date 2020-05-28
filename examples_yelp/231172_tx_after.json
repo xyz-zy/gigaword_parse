@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "water", "sat", "empty", "after", "my", "initial", "gulp", "and", "my", "hot", "tea", "sat", "in", "a", "similar", "fate", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "sat", "e2_pos": 2, "label": "after"},
+{"tokens": ["I", "wanted", "to", "gag", "after", "eating", "that", "until", ".", "."], "e1_text": "gag", "e1_pos": 3, "e2_text": "eating", "e2_pos": 5, "label": "after"}
+]

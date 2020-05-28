@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "the", "privilege", "of", "working", "there", "for", "a", "while", "before", "leaving", "their", "employ", "."], "e1_text": "working", "e1_pos": 6, "e2_text": "leaving", "e2_pos": 12, "label": "before"},
+{"tokens": ["There", "should", "be", "an", "officer", "that", "tells", "people", "what", "to", "do", "before", "entering", "the", "check", "point", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "entering", "e2_pos": 12, "label": "before"}
+]

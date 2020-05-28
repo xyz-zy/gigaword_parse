@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "for", "any", "first", "timers", "out", "there", "do", "n't", "be", "alarmed", "if", "you", "wait", "a", "few", "mins", "before", "having", "the", "privilege", "of", "ordering", "."], "e1_text": "wait", "e1_pos": 13, "e2_text": "having", "e2_pos": 18, "label": "before"},
+{"tokens": ["Until", "they", "learned", "my", "order", "a", "couple", "times", "I", "waited", "until", "someone", "else", "received", "their", "food", "before", "ordering", "."], "e1_text": "received", "e1_pos": 13, "e2_text": "ordering", "e2_pos": 17, "label": "before"}
+]

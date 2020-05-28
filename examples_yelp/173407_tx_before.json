@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "asked", "the", "hostess", "how", "much", "longer", "it", "would", "be", "before", "they", "sat", "us", "and", "she", "actually", "responded", "''", "``", "you", "checked", "in", "at", "12", "and", "we", "told", "you", "20", "minutes", "."], "e1_text": "be", "e1_pos": 10, "e2_text": "sat", "e2_pos": 13, "label": "before"}
+]

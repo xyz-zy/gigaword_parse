@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "should", "have", "been", "taken", "into", "account", "before", "the", "car", "was", "sold", "."], "e1_text": "taken", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "hope", "there", "can", "be", "some", "solution", "before", "someone", "is", "hurt", "or", "worse", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "is", "e2_pos": 9, "label": "before"}
+]

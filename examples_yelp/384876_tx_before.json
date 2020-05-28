@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "last", "night", "we", "left", "the", "Yuletide", "and", "headed", "out", "to", "grab", "a", "bite", "before", "heading", "home", "and", "BJ", "'s", "is", "a", "good", "place", "to", "grab", "a", "bite", "and", "maybe", "a", "great", "drink", "."], "e1_text": "grab", "e1_pos": 11, "e2_text": "heading", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "walked", "in", "and", "were", "seated", "right", "away", "but", "sat", "for", "quite", "some", "time", "before", "ordering", "."], "e1_text": "sat", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 15, "label": "before"}
+]

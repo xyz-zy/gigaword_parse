@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "It", "has", "a", "near", "Fleming", "'s", "-", "like", "ambience", "to", "it", ",", "but", "without", "any", "of", "that", "''", "``", "I-should-have-worn-a-suit", "''", "''", "insecurity", "if", "you", "came", "in", "sporting", "jeans", "-LRB-", "they", "Do", "offer", "a", "buffet", ",", "after", "all", "-RRB-", "."], "e1_text": "came", "e1_pos": 26, "e2_text": "sporting", "e2_pos": 28, "label": "after"},
+{"tokens": [",", "which", "_", "turns", "into", "a", "Chinese", "take-out", "restaurant", "after", "9pm", "_", "has", "the", "sense", "to", "carry", "Uni", "on", "their", "menu", "."], "e1_text": "turns", "e1_pos": 3, "e2_text": "has", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Tried", "the", "quarter", "chicken", "-LRB-", "with", "spicy", "sauce", "-RRB-", "with", "potatoes", "&", "macaroni", "salad", ",", "satisfied", "the", "craving", "for", "some", "roast", "chicken", ",", "but", "was", "expecting", "a", "bit", "more", "`", "oopmh", "'", "from", "the", "spicy", "sauce", "cos", "it", "did", "n't", "send", "the", "`", "spicy", "signals", "'", "to", "my", "brain", "until", "later", ",", "like", "after", "I", "'d", "left", "the", "place", "."], "e1_text": "expecting", "e1_pos": 25, "e2_text": "'d", "e2_pos": 55, "label": "after"}
+]

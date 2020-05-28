@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "finally", "got", "to", "stay", "here", "after", "using", "my", "MyVegas", "Slots", "points", "."], "e1_text": "stay", "e1_pos": 4, "e2_text": "using", "e2_pos": 7, "label": "after"},
+{"tokens": ["They", "deactivate", "it", "soon", "after", "you", "check", "out", "I", "would", "definitely", "stay", "here", "again", "if", "the", "price", "is", "right", "."], "e1_text": "deactivate", "e1_pos": 1, "e2_text": "check", "e2_pos": 6, "label": "after"}
+]

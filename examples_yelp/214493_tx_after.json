@@ -1,0 +1,3 @@
+[
+{"tokens": ["4", "people", "ordered", "meatball", "heroes", ",", "one", "person", "a", "tuna", "hero", "-LRB-", "yes", "at", "a", "place", "called", "Meatballz", "-RRB-", "and", "I", "ordered", "the", "chicken", "parm", "hero", "and", "a", "small", "drink", "for", "$", "9.12", "after", "the", "guy", "at", "the", "counter", "taking", "the", "order", "recommended", "it", "over", "the", "heroes", "I", "was", "considering", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "recommended", "e2_pos": 42, "label": "after"}
+]

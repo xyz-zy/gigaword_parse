@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "arrived", "at", "4:36", "after", "we", "had", "closed", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["While", "I", "do", "n't", "know", "this", "for", "sure", ",", "but", "after", "reading", "the", "review", "on", "here", ",", "it", "leads", "me", "to", "believe", "that", "the", "one", "delivering", "the", "flowers", "is", "actually", "the", "owner", "of", "this", "business", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "reading", "e2_pos": 11, "label": "after"}
+]

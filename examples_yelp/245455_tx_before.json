@@ -1,0 +1,3 @@
+[
+{"tokens": ["Wine", "and", "non-alcoholic", "beverage", "came", "after", "first", "course", ";", "water", "glasses", "refilled", "only", "upon", "request", ";", "bill", "delivered", "before", "requested", "."], "e1_text": "delivered", "e1_pos": 17, "e2_text": "requested", "e2_pos": 19, "label": "before"}
+]

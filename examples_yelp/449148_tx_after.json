@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "seeing", "many", "a", "Flying", "Biscuit", "without", "ever", "trying", "it", ",", "after", "living", "in", "Atlanta", "for", "several", "years", ",", "when", "the", "suggestion", "was", "made", "to", "go", "to", "Flying", "Biscuit", "for", "brunch", "I", "was", "looking", "forward", "to", "it", "."], "e1_text": "seeing", "e1_pos": 1, "e2_text": "living", "e2_pos": 12, "label": "after"}
+]

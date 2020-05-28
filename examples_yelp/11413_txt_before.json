@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "'s", "just", "say", "...", "I", "watched", "a", "cook", "with", "a", "large", "beard", "and", "very", "long", "hair", "-LRB-", "both", "uncovered", "-RRB-", "toss", "a", "uncooked", "frozen", "chicken", "breast", "someone", "ordered", "directly", "on", "a", "dirty", "counter", "before", "putting", "it", "into", "their", "cooking", "machine", "-LRB-", "some", "sort", "of", "microwave", "-RRB-", "...", "ah", "ya", "."], "e1_text": "ordered", "e1_pos": 28, "e2_text": "putting", "e2_pos": 35, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "flew", "in", "from", "Los", "Angeles", "and", "had", "a", "few", "hours", "to", "kill", "before", "my", "girlfriend", "arrived", "I", "needed", "a", "mani", "and", "pedi", "so", "I", "reviewed", "this", "place", "on", "yelp", "and", "decided", "to", "give", "it", "a", "try", "."], "e1_text": "kill", "e1_pos": 12, "e2_text": "arrived", "e2_pos": 16, "label": "before"}
+]

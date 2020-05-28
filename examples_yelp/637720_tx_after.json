@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "looking", "over", "the", "paperwork", "they", "sent", "me", ",", "this", "''", "``", "outstanding", "debt", "''", "''", "is", "a", "$", "300", "down", "payment", "that", "the", "dealership", "was", "suppossed", "to", "automatically", "deduct", "from", "my", "checking", "account", "the", "week", "after", "I", "purchased", "my", "car", "."], "e1_text": "deduct", "e1_pos": 29, "e2_text": "purchased", "e2_pos": 38, "label": "after"}
+]

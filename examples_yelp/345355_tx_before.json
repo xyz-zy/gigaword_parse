@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "there", "for", "3", "hours", "seeing", "people", "arrive", "after", "me", "and", "leave", "before", "me", "which", "was", "unbelievable", "because", "I", "was", "the", "first", "patient", "of", "the", "day", "."], "e1_text": "leave", "e1_pos": 12, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

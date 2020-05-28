@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "and", "atmosphere", "were", "great", ",", "but", "the", "tables", "with", "wooden", "stools", "at", "them", "near", "the", "bar", "area", "were", "a", "disappointment", "where", "we", "were", "seated", "at", "after", "being", "on", "a", "waiting", "list", "."], "e1_text": "seated", "e1_pos": 24, "e2_text": "being", "e2_pos": 27, "label": "after"},
+{"tokens": ["We", "watched", "2", "appetizer", "orders", "of", "pepperoni", "stick", "dippers", "get", "sent", "back", "because", "the", "costumers", "were", "full", "after", "getting", "their", "food", "either", "before", "or", "at", "the", "same", "time", "as", "their", "meal", "."], "e1_text": "were", "e1_pos": 15, "e2_text": "getting", "e2_pos": 18, "label": "after"}
+]

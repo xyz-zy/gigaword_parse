@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "ordered", "from", "them", "for", "eight", "years", "after", "my", "best", "friend", "got", "me", "hooked", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "got", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "called", "and", "spoke", "to", "a", "girl", "at", "the", "counter", "named", "Danielle", "-LRB-", "who", "was", "rude", "and", "rather", "lackadaisical", "about", "the", "situation", "-RRB-", "after", "trying", "to", "place", "a", "NEW", "order", "-LRB-", "what", "can", "i", "say", ",", "they", "have", "great", "pizza", "and", "it", "'s", "my", "non-diet", "day", "-RRB-", ",", "she", "put", "the", "phone", "down", "and", "called", "me", "a", "''", "``", "dumb", "@ss", "b", "!"], "e1_text": "named", "e1_pos": 10, "e2_text": "trying", "e2_pos": 24, "label": "after"}
+]

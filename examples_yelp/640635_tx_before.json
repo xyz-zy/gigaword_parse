@@ -1,0 +1,3 @@
+[
+{"tokens": ["No", "big", "loss", "sine", "I", "'ve", "been", "unhappy", "with", "them", "ever", "since", "they", "replaced", "the", "paradise", "bakery", "on", "alma", "school", "and", "queen", "creek", "and", "opened", "here", "on", "az", "ave.", "at", "first", "I", "was", "optimistic", "even", "though", "PB", "closed", "a", "few", "weeks", "before", "they", "opened", "Panera", "which", "left", "a", "three", "week", "gap", "for", "a", "quick", "healthy", "place", "to", "eat", "."], "e1_text": "closed", "e1_pos": 37, "e2_text": "opened", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "arrived", "Sunday", "and", "did", "n't", "get", "our", "room", "serviced", "until", "Tuesday", "after", "I", "called", "down", "to", "the", "front", "to", "complain", "."], "e1_text": "get", "e1_pos": 6, "e2_text": "called", "e2_pos": 14, "label": "after"},
+{"tokens": ["What", "pissed", "me", "off", "though", "was", "on", "Monday", "around", "4pm", "I", "saw", "whom", "I", "assumed", "was", "some", "sort", "of", "housekeeping", "supervisor", "per", "her", "uniform", "and", "''", "``", "attitude", "''", "''", "walking", "past", "our", "room", "after", "I", "stuck", "my", "head", "out", "of", "our", "room", "to", "ask", "when", "we", "'d", "get", "fresh", "towels", ",", "etc.", "."], "e1_text": "walking", "e1_pos": 30, "e2_text": "stuck", "e2_pos": 36, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "not", "helped", "until", "9p", "after", "waiting", "in", "line", "and", "were", "told", "we", "'d", "have", "to", "wait", "an", "additional", "20", "minuets", "before", "we", "would", "receive", "a", "safety", "instruction", "and", "then", "be", "bussed", "to", "the", "take", "off", "location", "."], "e1_text": "helped", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "helicopter", "lifted", "after", "we", "were", "strapped", "in", "our", "seat", "belts", "and", "we", "were", "surprised", "the", "pilot", "was", "silent", "."], "e1_text": "lifted", "e1_pos": 2, "e2_text": "were", "e2_pos": 5, "label": "after"}
+]

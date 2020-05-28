@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "this", "location", "after", "picking", "up", "a", "friend", "from", "work", ",", "because", "she", "was", "hungry", ",", "and", "it", "was", "on", "the", "way", "home", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "picking", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "also", "did", "not", "give", "us", "any", "straws", ",", "which", "we", "did", "not", "notice", "till", "after", "we", "left", "the", "drive", "thru", "."], "e1_text": "notice", "e1_pos": 13, "e2_text": "left", "e2_pos": 17, "label": "after"}
+]

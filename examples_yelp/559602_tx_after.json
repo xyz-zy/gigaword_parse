@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "special", "lady", "got", "the", "sauteed", "chicken", "which", "she", "said", "tasted", "really", "good", "but", "was", "a", "very", "unsatisfying", "small", "piece", "of", "chicken", "after", "waiting", "for", "over", "1", "HOUR", "!"], "e1_text": "got", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 23, "label": "after"}
+]

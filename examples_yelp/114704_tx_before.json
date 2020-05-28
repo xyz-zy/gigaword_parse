@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "leads", "me", "to", "believe", "it", "was", "already", "made", "before", "I", "got", "it", "."], "e1_text": "made", "e1_pos": 8, "e2_text": "got", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "was", "the", "driest", "most", "flavorless", "beef", "sandwich", "I", "'ve", "eaten", "before", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 9, "label": "before"}
+]

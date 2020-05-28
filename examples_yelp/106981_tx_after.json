@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "ordered", "soon", "after", "-", "my", "friend", "who", "was", "sitting", "next", "to", "me", "wanted", "to", "order", "off", "the", "lunch", "menu", "and", "the", "server", "said", "it", "was", "no", "problem", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "wanted", "e2_pos": 13, "label": "after"},
+{"tokens": ["About", "30", "mins", "after", "we", "all", "had", "ordered", "-", "the", "server", "comes", "up", "to", "my", "friend", "and", "says", "they", "can", "not", "make", "her", "lunch", "order", "after", "all", "."], "e1_text": "mins", "e1_pos": 2, "e2_text": "had", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "do", "not", "understand", "why", "it", "would", "take", "30", "mins", "after", "we", "ordered", "for", "him", "to", "notify", "her", "."], "e1_text": "take", "e1_pos": 7, "e2_text": "ordered", "e2_pos": 12, "label": "after"}
+]

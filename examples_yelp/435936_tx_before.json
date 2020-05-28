@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ll", "try", "not", "to", "have", "a", "raging", "balls-to-the-wall", "party", "in", "my", "room", "since", "you", "'ve", "wagged", "your", "finger", "in", "my", "face", "before", "I", "even", "check", "in", "."], "e1_text": "wagged", "e1_pos": 16, "e2_text": "check", "e2_pos": 25, "label": "before"},
+{"tokens": ["Dearest", "locals", "-", "go", "elsewhere", ",", "lest", "you", "be", "chastised", "before", "you", "even", "get", "a", "chance", "to", "enjoy", "."], "e1_text": "chastised", "e1_pos": 9, "e2_text": "get", "e2_pos": 13, "label": "before"}
+]

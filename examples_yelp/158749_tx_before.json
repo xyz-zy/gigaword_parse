@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "received", "coffee", "in", "a", "hot", "carafe", "at", "our", "table", "before", "our", "seats", "even", "had", "the", "chance", "to", "get", "warm", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["If", "you", "are", "searching", "for", "quality", "food", "for", "a", "great", "breakfast", ",", "I", "would", "highly", "rethink", "before", "you", "decide", "."], "e1_text": "rethink", "e1_pos": 15, "e2_text": "decide", "e2_pos": 18, "label": "before"}
+]

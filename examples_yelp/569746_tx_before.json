@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "at", "the", "bar", "for", "a", "while", "before", "the", "bartender", "acknowledged", "me", ",", "no", "biggie", ",", "I", "was", "narrowing", "down", "my", "selection", "anyway", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "acknowledged", "e2_pos": 11, "label": "before"}
+]

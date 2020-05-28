@@ -1,0 +1,3 @@
+[
+{"tokens": ["Poor", "customer", "service", "i", "called", "them", "a", "week", "after", "i", "dropped", "off", "the", "vacuum", "just", "for", "the", "guy", "to", "say", "that", "they", "had", "to", "order", "a", "part", "and", "it", "would", "be", "at", "least", "10", "more", "days", "."], "e1_text": "called", "e1_pos": 4, "e2_text": "dropped", "e2_pos": 10, "label": "after"}
+]

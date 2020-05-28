@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "checking-in", "&", "REJECTING", "all", "the", "standard", "offers", "to", "upgrade", "the", "vehicle", ",", "insurance", "coverage", ",", "include", "road", "side", "service", ",", "etc", "to", "pad", "up", "my", "low", "billing", "!!", "I", "was", "finally", "offered", "pre-paid", "gasoline", "for", "$", "65", "@", "$", "3.08", "gallon", ",", "which", "was", "not", "well", "explained", "and", "even", "though", "I", "rejected", ",", "they", "still", "billed", "my", "credit", "card", "??", "This", "is", "a", "SCAM", "to", "get", "you", "to", "NOT", "to", "bother", "to", "refuel", "your", "rental", "before", "you", "return", "!"], "e1_text": "refuel", "e1_pos": 73, "e2_text": "return", "e2_pos": 78, "label": "before"}
+]

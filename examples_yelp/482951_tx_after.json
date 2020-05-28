@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "daughter", "and", "I", "stopped", "here", "tonight", "for", "a", "treat", "and", "after", "the", "worker", "explained", "how", "it", "worked", "I", "picked", "chocolate", "ice", "cream", "with", "cherries", "and", "brownies", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "explained", "e2_pos": 14, "label": "after"}
+]

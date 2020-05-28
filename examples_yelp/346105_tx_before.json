@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "have", "to", "admit", "that", ",", "shamefully", ",", "I", "had", "never", ",", "as", "a", "Montrealer", ",", "set", "foot", "in", "the", "Biosph", "\\", "u00e8re", "before", "."], "e1_text": "admit", "e1_pos": 4, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["Go", "see", "the", "dandelion", "before", "it", "'s", "blown", "away", "!"], "e1_text": "see", "e1_pos": 1, "e2_text": "'s", "e2_pos": 6, "label": "before"}
+]

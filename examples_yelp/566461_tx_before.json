@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "been", "standing", "in", "line", "for", "a", "long", "time", ",", "and", "a", "man", "walked", "up", "beside", "me", "right", "before", "we", "got", "to", "the", "counter", "."], "e1_text": "walked", "e1_pos": 14, "e2_text": "got", "e2_pos": 21, "label": "before"},
+{"tokens": ["The", "associate", "took", "the", "man", "before", "serving", "us", ",", "and", "when", "I", "protested", "that", "we", "had", "been", "in", "that", "line", "for", "a", "very", "long", "line", ",", "she", "just", "looked", "at", "me", "and", "said", "nothing", "...", "I", "went", "to", "Adventure", "Landing", "'s", "website", "to", "complain", "directly", "to", "the", "company", ",", "and", "once", "again", "their", "c.s.", "has", "failed", "."], "e1_text": "took", "e1_pos": 2, "e2_text": "serving", "e2_pos": 6, "label": "before"}
+]

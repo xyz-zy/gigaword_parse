@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "10", "minutes", "for", "a", "refill", "on", "our", "drinks", "at", "one", "point", "after", "reminding", "Erin", "twice", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "reminding", "e2_pos": 14, "label": "after"},
+{"tokens": ["3", "tables", "that", "were", "say", "in", "a", "different", "section", "and", "seated", "after", "us", "left", "waaaaaaaaaaaaaay", "before", "us", "."], "e1_text": "seated", "e1_pos": 10, "e2_text": "left", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "girl", "literally", "sighed", "and", "said", "''", "``", "Yes", ",", "have", "you", "been", "here", "before", "?", "''", "''", "."], "e1_text": "sighed", "e1_pos": 3, "e2_text": "Yes", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "walked", "around", "for", "a", "few", "seconds", "and", "figured", "to", "just", "go", "to", "the", "man", "standing", "near", "the", "entrance", "to", "the", "screens", ",", "he", "was", "very", "friendly", "and", "asked", "if", "we", "had", "been", "here", "before", "."], "e1_text": "asked", "e1_pos": 28, "e2_text": "had", "e2_pos": 31, "label": "before"}
+]

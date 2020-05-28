@@ -1,0 +1,4 @@
+[
+{"tokens": ["Of", "course", ",", "people", "have", "to", "degrade", "the", "restaurant", "even", "before", "I", "set", "foot", "into", "it", "by", "saying", "''", "``", "It", "'s", "not", "as", "good", "as", "California", "but", "it", "'s", "the", "best", "in", "Pittsburgh", ".", "''", "''"], "e1_text": "degrade", "e1_pos": 6, "e2_text": "set", "e2_pos": 12, "label": "before"},
+{"tokens": ["But", "I", "think", "imma", "go", "explore", "other", "pho", "shops", "before", "I", "come", "back", "here", "."], "e1_text": "explore", "e1_pos": 5, "e2_text": "come", "e2_pos": 11, "label": "before"}
+]

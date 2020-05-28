@@ -1,0 +1,3 @@
+[
+{"tokens": ["Beef", "Tartar", "--", "We", "'ve", "never", "had", "beef", "tartar", "before", "so", "I", "have", "nothing", "to", "compare", "this", "to", ",", "this", "was", "pretty", "good", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

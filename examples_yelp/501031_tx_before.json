@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "ordered", "the", "all", "you", "can", "eat", "wings", ",", "like", "he", "has", "many", "times", "before", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "has", "e2_pos": 12, "label": "before"},
+{"tokens": ["Needless", "to", "say", "it", "was", "another", "long", "wait", "before", "he", "got", "his", "additional", "order", "of", "wings", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

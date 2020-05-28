@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "say", "-", "''", "``", "Just", "so", "you", "know", "it", "appeared", "when", "i", "got", "it", "home", "that", "the", "box", "was", "opened", "before", "''", "''", ",", "he", "says", "''", "``", "Yes", ",", "they", "all", "are", "''", "''", "-", "puzzled", "I", "say", ",", "''", "``", "they", "all", "are", "?", "''", "''"], "e1_text": "got", "e1_pos": 13, "e2_text": "was", "e2_pos": 19, "label": "before"}
+]

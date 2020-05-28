@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "n't", "even", "get", "to", "experience", "the", "food", "because", "after", "waiting", "two", "hours", "-LRB-", "do", "n't", "expect", "to", "get", "in", "in", "less", "than", "1.5", "hours", "any", "day", "of", "the", "week", "-RRB-", ",", "and", "after", "another", "hour", "of", "waiting", "at", "the", "table", "our", "waiter", "told", "us", "they", "delivered", "our", "pizza", "to", "the", "wrong", "table", "-LRB-", "does", "this", "happen", "?", "-RRB-", "."], "e1_text": "experience", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 11, "label": "after"}
+]

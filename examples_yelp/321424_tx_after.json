@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wo", "n't", "go", "into", "detail", ",", "but", "it", "took", "too", "long", "for", "each", "part", "of", "our", "order", "to", "be", "taken", ",", "too", "long", "with", "empty", "glasses", "on", "the", "table", ",", "too", "long", "to", "deliver", "bread", "-LRB-", "like", "45", "min", "after", "arriving", "-RRB-", ",", "drinks", "delivered", "and", "dirty", "plates", "not", "removed", "-LRB-", "from", "a", "small", "table", "-RRB-", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "arriving", "e2_pos": 41, "label": "after"}
+]

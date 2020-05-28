@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "that", "each", "dessert", "can", "not", "be", "made", "to", "order", ",", "but", "while", "98", "%", "of", "the", "dessert", "is", "made", "in", "advance", ",", "the", "Brulee", "needs", "to", "be", "done", "right", "before", "serving", "."], "e1_text": "done", "e1_pos": 29, "e2_text": "serving", "e2_pos": 32, "label": "before"}
+]

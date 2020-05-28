@@ -1,0 +1,3 @@
+[
+{"tokens": ["Typical", "big", "corporation", ":", "cut", "costs", "down", "to", "last", "nickel", "and", "inflate", "the", "prices", "so", "the", "CEO", "can", "fly", "in", "his", "private", "jet", "-LRB-", "after", "landing", ",", "eat", "at", "a", "REAL", "Italian", "restaurant", "-RRB-", "and", "purchase", "a", "new", "Bentley", "each", "year", "."], "e1_text": "fly", "e1_pos": 18, "e2_text": "eat", "e2_pos": 27, "label": "after"}
+]

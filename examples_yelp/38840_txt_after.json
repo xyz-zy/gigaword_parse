@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server\\/owner\\/manager", "\\/", "whoever", "that", "greeted", "me", "when", "I", "walked", "in", "had", "gone", "in", "the", "back", "and", "after", "waiting", "10", "minutes", "I", "decided", "to", "just", "leave", "."], "e1_text": "gone", "e1_pos": 12, "e2_text": "waiting", "e2_pos": 18, "label": "after"}
+]

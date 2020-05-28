@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "bought", "VIP", "tickets", "to", "see", "Young", "the", "Giant", "because", "I", "wanted", "to", "avoid", "the", "lines", "and", "get", "in", "before", "everyone", ",", "which", "is", "listed", "as", "one", "of", "the", "bonuses", "when", "you", "buy", "the", "ticket", "...", "And", "I", "have", "witnessed", "this", "happen", "before", "at", "other", "shows", "."], "e1_text": "get", "e1_pos": 17, "e2_text": "is", "e2_pos": 23, "label": "before"},
+{"tokens": ["But", "it", "turns", "out", "that", "we", "did", "n't", "get", "in", "before", "everyone", "else", "did", "and", "I", "spent", "the", "extra", "$", "50", "for", "nothing", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "did", "e2_pos": 6, "label": "before"}
+]

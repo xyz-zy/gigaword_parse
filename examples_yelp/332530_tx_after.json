@@ -1,0 +1,3 @@
+[
+{"tokens": ["Despite", "this", ",", "the", "service", "was", "not", "great", "-", "we", "were", "never", "offered", "more", "coffee", "after", "our", "first", "pour", ",", "which", "came", "about", "10", "minutes", "before", "our", "meals", "."], "e1_text": "offered", "e1_pos": 12, "e2_text": "came", "e2_pos": 21, "label": "after"}
+]

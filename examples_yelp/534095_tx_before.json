@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "coffee", "was", "Amazing", "-LRB-", "I", "was", "n't", "very", "surprised", ",", "I", "have", "had", "Not", "just", "Coffee", "before", "-RRB-", "Our", "sushi", "was", "fresh", "and", "filling", "and", "my", "dog", "seems", "to", "like", "his", "hamdemade", "soap", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "have", "e2_pos": 12, "label": "before"}
+]

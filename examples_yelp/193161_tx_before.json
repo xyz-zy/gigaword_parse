@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "complained", "about", "coming", "to", "this", "restaurant", "before", "I", "even", "stepped", "foot", "in", "it", "."], "e1_text": "coming", "e1_pos": 3, "e2_text": "stepped", "e2_pos": 10, "label": "before"},
+{"tokens": ["If", "I", "wanted", "upscale", "tacos", "I", "'d", "go", "to", "20", "other", "places", "before", "coming", "here", ",", "most", "likely", "Gallo", "Blanco", "."], "e1_text": "go", "e1_pos": 7, "e2_text": "coming", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "do", "park", "in", "the", "either", "garage", "though", ",", "you", "may", "get", "a", "$", "20", "parking", "citation", "!!", "You", "can", "park", "anywhere", "else", "after", "7pm", "!!", "WHEN", ":", "The", "library", "times", "are", "always", "changing", ",", "so", "check", "on", "the", "online", "website", "before", "going", "if", "you", "are", "curious", "!!", "When", "you", "do", "get", "there", "though", ",", "the", "closing", "times", "are", "usually", "right", "by", "the", "entrances", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "going", "e2_pos": 43, "label": "before"},
+{"tokens": ["It", "closes", "earlier", "than", "the", "library", "does", "so", "make", "sure", "to", "grab", "some", "coffee", "before", "you", "study", ",", "bec", "you", "'ll", "probably", "need", "it", "!"], "e1_text": "closes", "e1_pos": 1, "e2_text": "study", "e2_pos": 16, "label": "before"}
+]

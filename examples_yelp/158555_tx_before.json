@@ -1,0 +1,3 @@
+[
+{"tokens": ["Verdict", "You", "should", "already", "be", "walking", ",", "biking", ",", "running", ",", "taking", "a", "cab", ",", "a", "bus", "or", "driving", "here", "before", "you", "finish", "reading", "my", "review", "."], "e1_text": "driving", "e1_pos": 18, "e2_text": "finish", "e2_pos": 22, "label": "before"}
+]

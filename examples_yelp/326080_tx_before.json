@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "was", "fast", ",", "reasonable", "and", "I", "was", "so", "confident", "-LRB-", "and", "in", "such", "a", "hurry", "-RRB-", "that", "I", "grabbed", "the", "dress", "from", "her", "shop", "moments", "before", "heading", "to", "the", "airport", "and", "never", "tried", "the", "dress", "on", "until", "a", "couple", "hours", "before", "the", "wedding", "."], "e1_text": "grabbed", "e1_pos": 19, "e2_text": "heading", "e2_pos": 27, "label": "before"}
+]

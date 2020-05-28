@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "meat", "is", "cheap", "and", "after", "we", "eat", "we", "are", "literally", "sick", "now", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "eat", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "son", "threw", "up", "a", "few", "hours", "after", "eating", "the", "carne", "asada", "nachos", "."], "e1_text": "threw", "e1_pos": 2, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "tried", "this", "product", "before", "at", "a", "place", "called", "Kuma", ",", "but", "Snowflake", "is", "superior", "in", "every", "category", "-LRB-", "overall", "taste", ",", "topping", "choices", ",", "speed", "of", "service", ",", "consistent", "product", "-RRB-", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "called", "e2_pos": 9, "label": "before"}
+]

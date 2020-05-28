@@ -1,0 +1,3 @@
+[
+{"tokens": ["Be", "careful", "though", ",", "check", "the", "whole", "buffet", "before", "you", "start", "putting", "food", "on", "your", "plate", "...", "you", "might", "fill", "it", "up", "and", "then", "find", "an", "item", "you", "wish", "you", "had", "room", "for", "!"], "e1_text": "check", "e1_pos": 4, "e2_text": "start", "e2_pos": 10, "label": "before"}
+]

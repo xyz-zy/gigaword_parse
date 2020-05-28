@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "have", "gone", "back", "but", ",", "after", "waiting", "20", "minutes", "for", "my", "order", ",", "I", "was", "starving", "and", "did", "n't", "want", "to", "turn", "a", "simple", "pizza", "trip", "into", "a", "one", "hour", "ordeal", "."], "e1_text": "gone", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

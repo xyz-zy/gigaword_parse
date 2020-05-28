@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "were", "finally", "greeted", "by", "a", "frumpy", "hostess", "after", "she", "finished", "her", "conversation", "with", "a", "co", "worker", "."], "e1_text": "greeted", "e1_pos": 3, "e2_text": "finished", "e2_pos": 10, "label": "after"}
+]

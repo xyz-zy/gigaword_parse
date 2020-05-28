@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "got", "three", "tickets", "from", "the", "cop", "and", "used", "me", "as", "an", "excuse", "for", "his", "speeding", "because", "I", "was", "running", "late", "-LRB-", "he", "did", "n't", "know", "that", "fact", "until", "after", "he", "got", "pulled", "over", "when", "I", "called", "my", "boss", "to", "give", "her", "a", "heads", "up", "that", "I", "would", "be", "late", "-RRB-", "When", "all", "was", "said", "and", "done", "my", "$", "15", "cab", "ride", "was", "doubled", "and", "I", "had", "to", "pay", "every", "single", "cent", "or", "else", "he", "would", "'ve", "kept", "me", "captive", "in", "his", "vehicle", "."], "e1_text": "know", "e1_pos": 25, "e2_text": "got", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Stopped", "here", "to", "grab", "a", "bite", "to", "eat", "before", "seeing", "a", "movie", "-LRB-", "Taken", "2", ",", "which", "was", "very", "good", "by", "the", "way", "-RRB-", "."], "e1_text": "eat", "e1_pos": 7, "e2_text": "seeing", "e2_pos": 9, "label": "before"}
+]

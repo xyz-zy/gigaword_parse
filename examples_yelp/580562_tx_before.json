@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "my", "Dad", "paid", "with", "another", "card", "and", "we", "left", "to", "be", "chased", "down", "by", "the", "rude", "ass", "waiter", "saying", "my", "Dad", "did", "n't", "sign", "the", "bill", "when", "in", "actuality", "he", "did", "but", "the", "manager", "had", "taken", "the", "bill", "before", "the", "waiter", "seen", "it", "."], "e1_text": "taken", "e1_pos": 36, "e2_text": "seen", "e2_pos": 42, "label": "before"}
+]

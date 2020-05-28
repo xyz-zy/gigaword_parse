@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "More", "than", "200", ",", "I", "was", "told", "-RRB-", "I", "know", "that", "I", "'ll", "never", "think", "of", "''", "``", "Something", "''", "''", "in", "the", "same", "way", "after", "watching", "the", "performance", "on", "Saturday", "."], "e1_text": "think", "e1_pos": 15, "e2_text": "watching", "e2_pos": 27, "label": "after"}
+]

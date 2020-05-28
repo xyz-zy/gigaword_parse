@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "only", "negative", "thing", "I", "have", "to", "say", "is", "that", "by", "the", "time", "my", "mom", "and", "bro", "got", "there", "-LRB-", "amazing", "-RRB-", "omelet", "from", "the", "''", "``", "omelet", "station", "''", "''", "and", "ate", "it", ",", "me", "n", "my", "step", "dad", "had", "n't", "even", "gotten", "out", "dish", "!!", "A", "little", "odd", "eating", "your", "meal", "after", "the", "others", "have", "finished", "...", "It", "did", "take", "about", "45", "minutes", "for", "eggs", "."], "e1_text": "eating", "e1_pos": 50, "e2_text": "have", "e2_pos": 5, "label": "after"}
+]

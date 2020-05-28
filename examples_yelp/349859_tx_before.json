@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", ",", "all", "I", "got", "is", "nothing", ",", "because", "that", "'s", "what", "I", "got", "before", "I", "left", "the", "most", "craptastic", "table", "known", "to", "mankind", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "left", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "never", "heard", "of", "this", "place", "before", "until", "a", "friend", "suggested", "that", "I", "go", "because", "they", "were", "having", "their", "5", "year", "anniversary", "special", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "suggested", "e2_pos": 10, "label": "before"}
+]

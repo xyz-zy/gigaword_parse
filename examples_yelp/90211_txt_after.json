@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "some", "reason", ",", "the", "plane", "was", "not", "ready", "until", "15", "minutes", "after", "our", "flight", "was", "supposed", "to", "leave", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "was", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "may", "be", "back", "to", "edit", "this", "review", "...", "So", "i", "am", "back", "to", "report", "that", "after", "arriving", "home", "-LRB-", "finally", "-RRB-", ",", "we", "discovered", "that", "both", "of", "our", "pieces", "of", "luggage", "were", "wet", "inside", "and", "out", "."], "e1_text": "report", "e1_pos": 14, "e2_text": "arriving", "e2_pos": 17, "label": "after"}
+]

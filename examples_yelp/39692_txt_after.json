@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "waited", "for", "our", "food", "-LRB-", "2", "adults", "and", "one", "child", "-RRB-", "the", "table", "behind", "us", "who", "came", "in", "after", "we", "ordered", "got", "served", "first", "-LRB-", "2", "adults", "and", "3", "kids", "-RRB-", "."], "e1_text": "came", "e1_pos": 18, "e2_text": "ordered", "e2_pos": 22, "label": "after"},
+{"tokens": ["It", "used", "to", "be", "awesome", "now", "it", "'s", "a", "place", "I", "will", "not", "goto", "even", "if", "it", "is", "free", "...", "Still", "waiting", "for", "coffee", "after", "asking", "3", "times", "."], "e1_text": "waiting", "e1_pos": 21, "e2_text": "asking", "e2_pos": 25, "label": "after"}
+]

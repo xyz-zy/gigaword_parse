@@ -1,0 +1,4 @@
+[
+{"tokens": ["ahhh", "man", "...", "I", "was", "so", "excited", "after", "reading", "the", "reviews", "that", "I", "think", "my", "expectations", "were", "too", "high", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "reading", "e2_pos": 8, "label": "after"},
+{"tokens": ["After", "being", "seated", "we", "did", "n't", "even", "get", "water", "till", "at", "least", "10min", "after", "being", "seated", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "being", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wished", "I", "read", "the", "reviews", "before", "ordering", "my", "coupon", "."], "e1_text": "read", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "desk", "staff", "were", "actually", "super", "nice", ",", "or", "so", "I", "thought", ",", "and", "let", "me", "redeem", "before", "it", "expired", "so", "I", "could", "get", "my", "massage", "in", "."], "e1_text": "redeem", "e1_pos": 16, "e2_text": "expired", "e2_pos": 19, "label": "before"}
+]

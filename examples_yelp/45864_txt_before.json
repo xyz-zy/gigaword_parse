@@ -1,0 +1,4 @@
+[
+{"tokens": ["Remember", "to", "bring", "your", "own", "coffee", "with", "you", ",", "if", "you", "like", "having", "decent", "coffee", "before", "going", "out", "in", "the", "morning", "."], "e1_text": "having", "e1_pos": 12, "e2_text": "going", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "actually", "felt", "much", "better", "about", "staying", "here", "before", "I", "read", "the", "management", "'s", "responses", "!"], "e1_text": "staying", "e1_pos": 6, "e2_text": "read", "e2_pos": 10, "label": "before"}
+]

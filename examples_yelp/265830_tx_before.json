@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "an", "hour", "and", "a", "half", ",", "and", "realizing", "that", "we", "could", "literally", "wait", "all", "day", "before", "receiving", "a", "car", ",", "we", "went", "across", "the", "lobby", "and", "rented", "a", "car", "from", "a", "competing", "car", "rental", "company", "."], "e1_text": "wait", "e1_pos": 13, "e2_text": "receiving", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "salesman", "at", "the", "counter", "told", "us", "that", "the", "same", "thing", "happened", "the", "day", "before", "and", "security", "had", "to", "be", "called", "because", "the", "Hertz", "customers", "started", "to", "get", "angry", "and", "riot", "."], "e1_text": "told", "e1_pos": 5, "e2_text": "happened", "e2_pos": 11, "label": "before"}
+]

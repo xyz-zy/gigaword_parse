@@ -1,0 +1,3 @@
+[
+{"tokens": ["Salads", "arrived", "about", "45", "minutes", "after", "the", "program", "started", ",", "and", "it", "was", "almost", "two", "hours", "before", "the", "first", "dinner", "plate", "hit", "the", "table", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "started", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "maybe", "another", "sign", "of", "I", "got", "another", "sucker", "today", "and", "this", "one", "going", "to", "die", "when", "they", "try", "this", "food", "-RRB-", "I", "'ve", "been", "here", "before", "and", "thought", "I", "remembered", "it", "being", "better", "and", "maybe", "I", "was", "just", "here", "on", "a", "off", "day", "on", "my", "most", "recent", "visit", "."], "e1_text": "try", "e1_pos": 18, "e2_text": "'ve", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "took", "a", "small", "taste", "and", "pushed", "it", "away", "before", "it", "caused", "damage", "in", "my", "system", "."], "e1_text": "pushed", "e1_pos": 6, "e2_text": "caused", "e2_pos": 11, "label": "before"}
+]

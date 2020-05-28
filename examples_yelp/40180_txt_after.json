@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "location", "is", "right", "next", "to", "the", "Harkins", "movie", "theater", ",", "and", "it", "makes", "a", "great", "place", "to", "stop", "after", "seeing", "a", "flick", "."], "e1_text": "stop", "e1_pos": 18, "e2_text": "seeing", "e2_pos": 20, "label": "after"}
+]

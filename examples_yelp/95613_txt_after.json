@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "booked", "this", "on", "booking.com", "so", "knew", "the", "rate", "but", "the", "woman", "on", "reception", "insisted", "on", "charging", "us", "extra", "even", "after", "I", "showed", "her", "my", "booking", "form", "."], "e1_text": "knew", "e1_pos": 6, "e2_text": "showed", "e2_pos": 22, "label": "after"}
+]

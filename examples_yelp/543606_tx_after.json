@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "time", "it", "'s", "Sunday", "Brunch", "and", "15", "minutes", "for", "some", "one", "to", "take", "our", "order", ",", "another", "5", "minutes", "for", "someone", "to", "come", "by", "and", "tell", "me", "they", "are", "out", "of", "Grits", ",", "then", "30", "more", "minutes", "for", "them", "to", "bring", "one", "order", ",", "after", "20", "more", "minutes", "we", "gave", "up", "all", "hope", "on", "the", "rest", "if", "the", "order", "!!", "The", "BBQ", "is", "good", "but", "it", "'s", "not", "worth", "the", "aggravation", "."], "e1_text": "take", "e1_pos": 13, "e2_text": "gave", "e2_pos": 50, "label": "after"}
+]

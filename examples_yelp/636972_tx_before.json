@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "arrived", "before", "she", "did", "to", "an", "empty", "nail", "salon", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "did", "e2_pos": 4, "label": "before"},
+{"tokens": ["I", "got", "through", "just", "a", "few", "gel", "colors", "before", "my", "hand", "was", "ripped", "away", "by", "the", "man", "starting", "to", "file", "my", "nails", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

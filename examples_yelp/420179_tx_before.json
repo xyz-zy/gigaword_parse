@@ -1,0 +1,3 @@
+[
+{"tokens": ["Was", "ignored", "for", "10", "minutes", "-LRB-", "the", "place", "was", "n't", "busy", "-RRB-", "before", "someone", "had", "to", "ASK", "if", "I", "had", "been", "helped", "...", "with", "what", "10", "tables", "and", "4", "servers", "...", "you", "should", "be", "able", "to", "keep", "track", "of", "who", "has", "been", "helped", "."], "e1_text": "ignored", "e1_pos": 1, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

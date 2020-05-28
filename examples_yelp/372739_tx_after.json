@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "leave", "the", "martini", "shaker", "on", "your", "table", "after", "they", "fill", "your", "glass", "I", "swear", "I", "filled", "up", "my", "martini", "glass", "3", "times", "!!", "It", "was", "a", "small", "shaker", "but", "that", "shaker", "sure", "did", "hold", "alot", "of", "that", "good", "mango", "martini", "."], "e1_text": "leave", "e1_pos": 1, "e2_text": "fill", "e2_pos": 10, "label": "after"},
+{"tokens": ["Stephanie", ",", "our", "fantabulous", "waitress", "took", "the", "pie", "off", "our", "bill", "even", "after", "we", "said", "do", "n't", "worry", "about", "it", "."], "e1_text": "took", "e1_pos": 5, "e2_text": "said", "e2_pos": 14, "label": "after"}
+]

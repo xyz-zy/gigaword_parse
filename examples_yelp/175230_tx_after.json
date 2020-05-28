@@ -1,0 +1,4 @@
+[
+{"tokens": ["Coming", "with", "high", "sushi", "expectations", "after", "reading", "the", "reviews", "and", "seeing", "the", "menu", ",", "our", "dinner", "was", "pretty", "mediocre", "."], "e1_text": "Coming", "e1_pos": 0, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "had", "the", "champagne", "rose", "and", "it", "was", "undrinkable", ",", "even", "after", "the", "ice", "melted", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "melted", "e2_pos": 14, "label": "after"}
+]

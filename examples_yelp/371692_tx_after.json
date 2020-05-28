@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "happened", "to", "be", "visiting", "Edinburgh", "for", "a", "college", "reunion", "during", "the", "time", "of", "the", "Fringe", "Festival", ",", "so", "after", "meeting", "up", "with", "my", "friends", "at", "the", "airport", ",", "we", "all", "headed", "to", "the", "Royal", "Mile", "-LRB-", "which", "I", "fondly", "started", "calling", "the", "High", "Mile", "on", "account", "of", "its", "elevation", "and", "because", "so", "many", "people", "were", "high", "on", "life", ",", "drugs", "or", "alcohol", "!", "-RRB-"], "e1_text": "visiting", "e1_pos": 4, "e2_text": "meeting", "e2_pos": 20, "label": "after"}
+]

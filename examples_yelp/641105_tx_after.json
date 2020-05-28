@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "repair", "was", "scheduled", "for", "today", ",", "one", "week", "after", "I", "scheduled", "it", "."], "e1_text": "scheduled", "e1_pos": 3, "e2_text": "scheduled", "e2_pos": 11, "label": "after"}
+]

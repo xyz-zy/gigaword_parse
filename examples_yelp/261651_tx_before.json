@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "have", "grocery", "services", "and", "will", "stock", "your", "refrigerator", "for", "you", "before", "you", "check", "in", ",", "but", "I", "'m", "not", "sure", "what", "the", "fee", "is", "."], "e1_text": "stock", "e1_pos": 7, "e2_text": "check", "e2_pos": 14, "label": "before"}
+]

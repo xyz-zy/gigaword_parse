@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", ",", "how", "did", "pizza", "taste", "after", "we", "got", "home", "?"], "e1_text": "did", "e1_pos": 3, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["First", "it", "was", "still", "warm", "even", "after", "20-25", "minutes", "and", "it", "was", "definitely", "the", "BEST", "pizza", "we", "had", "in", "AZ", ";", "you", "could", "taste", "meat", ",", "sauce", "was", "not", "overpowering", ",", "it", "was", "fresh", "and", "it", "had", "enough", "meat", "and", "cheese", "on", "it", ",", "crust", "was", "also", "done", "right", "and", "even", "I", "do", "n't", "eat", "the", "crust", "I", "did", "it", "this", "time", "--", "it", "was", "that", "good", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "after"}
+]

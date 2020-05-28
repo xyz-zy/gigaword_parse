@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "best", "advice", "is", "to", "take", "a", "minute", "and", "check", "your", "receipt", "before", "you", "leave", "the", "store", "or", "as", "soon", "as", "you", "get", "outside", "and", "pray", "that", "there", "'s", "not", "a", "long", "line", "if", "there", "'s", "a", "mistake", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "leave", "e2_pos": 14, "label": "before"}
+]

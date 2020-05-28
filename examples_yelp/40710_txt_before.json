@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "on", "my", "trip", "to", "arizona", "i", "had", "my", "front", "brakes", "and", "rotors", "done", "for", "300", "dollars", "in", "my", "town", ",", "when", "arriving", "to", "pick", "a", "trailer", "up", "i", "noticed", "the", "back", "needed", "to", "be", "replaced", "before", "i", "drove", "back", "to", "arizona", "."], "e1_text": "replaced", "e1_pos": 35, "e2_text": "drove", "e2_pos": 38, "label": "before"}
+]

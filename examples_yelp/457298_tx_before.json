@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "country", "potatoes", "are", "made", "there", "-LRB-", "at", "least", "per", "asking", "before", "-RRB-", "but", "they", "were", "kind", "of", "mushy", "before", "so", "I", "did", "n't", "get", "them", "."], "e1_text": "made", "e1_pos": 4, "e2_text": "asking", "e2_pos": 10, "label": "before"}
+]

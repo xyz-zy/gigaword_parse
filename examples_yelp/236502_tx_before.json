@@ -1,0 +1,3 @@
+[
+{"tokens": ["Every", "time", "I", "picked", "up", "the", "phone", "to", "call", "for", "anything", "I", "was", "on", "hold", "for", "at", "least", "5min", "before", "having", "to", "hold", "another", "5min", "to", "speak", "to", "someone", "that", "could", "help", "with", "anything", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "having", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "service", "was", "n't", "very", "attentive", ",", "and", "both", "us", "and", "the", "table", "next", "door", "ended", "up", "stacking", "about", "25", "plates", "on", "an", "empty", "nearby", "table", "before", "someone", "came", "to", "pick", "them", "up", "."], "e1_text": "ended", "e1_pos": 16, "e2_text": "came", "e2_pos": 29, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "carried", "on", "for", "about", "5", "minutes", ",", "before", "we", "realized", "that", "he", "is", "one", "of", "the", "FOH", "managers", "of", "the", "restaurant", "."], "e1_text": "carried", "e1_pos": 1, "e2_text": "realized", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "would", "recommend", "this", "place", "for", "a", "casual", "get", "together", ",", "especially", "before", "or", "after", "shopping", "at", "Boca", "Park", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "shopping", "e2_pos": 15, "label": "before"}
+]

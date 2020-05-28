@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "noticed", "that", "LAVO", "close", "at", "2AM", "that", "day", "as", "they", "did", "not", "allow", "my", "girl", "to", "come", "back", "after", "going", "outside", "to", "talk", "to", "her", "friends", "."], "e1_text": "come", "e1_pos": 17, "e2_text": "going", "e2_pos": 20, "label": "after"}
+]

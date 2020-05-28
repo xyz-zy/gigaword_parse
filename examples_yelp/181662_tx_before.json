@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "should", "not", "stay", "up", "extremely", "late", "playing", "casino", "games", "the", "night", "before", "you", "'re", "scheduled", "to", "attend", "this", "show", "."], "e1_text": "playing", "e1_pos": 7, "e2_text": "'re", "e2_pos": 14, "label": "before"},
+{"tokens": ["You", "may", "kick", "yourself", "later", "for", "the", "irrepressible", "urge", "to", "nod", "off", "during", "O.", "While", "some", "might", "think", "that", "would", "serve", "as", "a", "good", "reason", "to", "attend", "the", "show", "again", ",", "given", "the", "price", "of", "the", "tickets", ",", "it", "'s", "far", "more", "in", "your", "best", "interests", "to", "get", "a", "good", "night", "'s", "rest", "before", "attending", "."], "e1_text": "get", "e1_pos": 47, "e2_text": "attending", "e2_pos": 54, "label": "before"}
+]

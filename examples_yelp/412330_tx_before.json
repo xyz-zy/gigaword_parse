@@ -1,0 +1,4 @@
+[
+{"tokens": ["What", "I", "did", "instead", "-LRB-", "early", "bird", "schedule", "tomorrow", "-RRB-", "was", "checkout", "The", "Gallery", "at", "the", "Planet", "Hollywood", "using", "another", "guest", "list", "connect", "to", "get", "me", "in", "before", "i", "went", "home", "."], "e1_text": "get", "e1_pos": 24, "e2_text": "went", "e2_pos": 29, "label": "before"},
+{"tokens": ["If", "you", "come", "to", "Vegas", "frequently", ",", "then", "call", "your", "promoter", "beforehand", ",", "at", "the", "very", "best", "a", "day", "before", "you", "start", "clubbing", "."], "e1_text": "call", "e1_pos": 8, "e2_text": "start", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "sticks", "a", "fork", "in", "the", "stuff", "and", "I", "have", "to", "attempt", "to", "get", "it", "in", "my", "mouth", "before", "it", "falls", "on", "the", "floor", "-LRB-", "caught", "the", "mac", "salad", "sample", "in", "my", "hand", "-RRB-", "-", "Macaroni", "Salad", "was", "good", ",", "fresh", "and", "homemade", "and", "was", "the", "highlight", ",", "but", "I", "was", "n't", "here", "for", "the", "side", "dish", ",", "I", "was", "here", "for", "a", "good", "sandwich", "and", "that", "did", "not", "materialize", "."], "e1_text": "have", "e1_pos": 10, "e2_text": "falls", "e2_pos": 21, "label": "before"}
+]

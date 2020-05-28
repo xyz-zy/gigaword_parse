@@ -1,0 +1,3 @@
+[
+{"tokens": ["Just", "took", "my", "bike", "here", "to", "get", "a", "new", "pedal", "put", "on", "...", "I", "walked", "in", "and", "the", "guy", "in", "the", "repair", "shop", "barely", "looked", "up", "to", "acknowledge", "me", ",", "after", "i", "sad", "hello", ",", "he", "said", "''", "``", "what", "do", "you", "want", "''", "''", "in", "a", "very", "rough", "and", "abrasive", "manner", "."], "e1_text": "acknowledge", "e1_pos": 27, "e2_text": "sad", "e2_pos": 32, "label": "after"}
+]

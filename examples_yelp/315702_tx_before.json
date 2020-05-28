@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "artichokes", "give", "me", "the", "feeling", "they", "cooked", "them", "earlier", "and", "then", "microwaved", "it", "before", "they", "brought", "it", "."], "e1_text": "microwaved", "e1_pos": 12, "e2_text": "brought", "e2_pos": 16, "label": "before"}
+]

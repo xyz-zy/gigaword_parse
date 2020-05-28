@@ -1,0 +1,4 @@
+[
+{"tokens": ["...", "If", "you", "come", "here", "drunk", "and", "starving", "after", "partying", "all", "night", "at", "3:00", "am", "in", "the", "morning", "when", "everything", "else", "is", "closed", "and", "spend", "less", "than", "10", "dollars", "for", "a", "slice", "of", "pizza", "and", "a", "soda", "on", "the", "strip", "."], "e1_text": "starving", "e1_pos": 7, "e2_text": "partying", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "pizza", "came", "out", "good", ",", "the", "bread", "was", "a", "little", "too", "toasted", "almost", "like", "a", "cracker", "and", "the", "topping", "was", "n't", "bad", "but", "a", "little", "bit", "too", "garlicky", "for", "my", "taste", ",", "it", "kept", "coming", "back", ",", "everything", "I", "ate", "after", "that", "had", "a", "garlic", "taste", "all", "through", "the", "day", "and", "conversations", "were", "kept", "short", "."], "e1_text": "ate", "e1_pos": 40, "e2_text": "had", "e2_pos": 43, "label": "after"}
+]

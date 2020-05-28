@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "last", "time", "I", "came", "to", "LV", "we", "stayed", "at", "Mandalay", "Bay", "and", "after", "staying", "at", "Cosmo", "I", "'m", "spoiled", "...", "''", "``", "The", "right", "amount", "of", "wrong", "''", "''", "I", "was", "happy", "that", "we", "'re", "back", "to", "luxury", "hotel", "this", "trip", "."], "e1_text": "stayed", "e1_pos": 8, "e2_text": "staying", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "'m", "-LRB-", "sensitive", "to", "smell", "-RRB-", "I", "'d", "wait", "an", "hour", "after", "them", "bombs", "before", "I", "go", "in", "for", "a", "shower", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "bombs", "e2_pos": 14, "label": "after"}
+]

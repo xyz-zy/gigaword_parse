@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "agreeing", "to", "the", "$", "25", "a", "day", "rental", "fee", "they", "then", "took", "40", "minutes", "to", "bring", "the", "fridge", "after", "we", "were", "promised", "it", "would", "be", "there", "in", "10", "."], "e1_text": "bring", "e1_pos": 16, "e2_text": "were", "e2_pos": 21, "label": "after"}
+]

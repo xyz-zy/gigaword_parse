@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "chose", "a", "selection", "of", "the", "larger", "bites", ":", "\\*", "samosas", ";", "\\*", "mogo", "fries", "-LRB-", "although", "these", "felt", "a", "little", "undercooked", "-RRB-", ";", "\\*", "pani", "puri", "-LRB-", "little", "pastry", "puffs", "stuffed", "with", "a", "spicy", "hit", "of", "masala", "and", "chick", "peas", ",", "you", "pour", "gravy", "into", "them", "and", "eat", "them", "before", "it", "soaks", "through", "-", "this", "is", "what", "I", "call", "fast", "food", "!", "-RRB-"], "e1_text": "eat", "e1_pos": 48, "e2_text": "soaks", "e2_pos": 52, "label": "before"}
+]

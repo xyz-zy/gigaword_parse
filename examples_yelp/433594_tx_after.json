@@ -1,0 +1,5 @@
+[
+{"tokens": ["Once", "again", ",", "I", "was", "asked", "to", "get", "undressed", ";", "someone", "else", "came", "in", "and", "took", "a", "look", "down", "there", ",", "soon", "after", "I", "got", "my", "blood", "taken", "-LRB-", "by", "a", "real", "nice", "lady", "-RRB-", ",", "and", "then", "got", "left", "alone", "with", "my", "husband", "in", "the", "room", "for", "almost", "30", "min", "."], "e1_text": "took", "e1_pos": 15, "e2_text": "got", "e2_pos": 24, "label": "after"},
+{"tokens": ["When", "my", "husband", "asked", "if", "we", "could", "reschedule", "for", "a", "different", "week", "or", "after", "2", "PM", "that", "Monday", "to", "ensure", "he", "could", "be", "there", ",", "his", "request", "was", "refused", "."], "e1_text": "asked", "e1_pos": 3, "e2_text": "PM", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "finally", "got", "the", "right", "address", "after", "a", "sweet", "lady", "who", "called", "me", "from", "the", "hospital", "because", "I", "was", "running", "late", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "called", "e2_pos": 11, "label": "after"}
+]

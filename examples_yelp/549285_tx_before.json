@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "your", "life", "so", ",", "so", "much", "easier", ",", "download", "the", "store", "map", "and", "list", "of", "product", "locations", "from", "Winco", "'s", "website", "so", "you", "can", "make", "your", "battleplan", "before", "you", "go", "."], "e1_text": "make", "e1_pos": 1, "e2_text": "go", "e2_pos": 31, "label": "before"},
+{"tokens": ["Bottom", "line", ":", "Go", "only", "if", "you", "have", "patience", "and", "preparation", ",", "during", "strange", "hours", ",", "and", "make", "this", "your", "big", ",", "staple", "shopping", "trip", "so", "you", "do", "n't", "have", "to", "go", "back", "before", "your", "patience", "has", "been", "replenished", "."], "e1_text": "go", "e1_pos": 31, "e2_text": "has", "e2_pos": 36, "label": "before"}
+]

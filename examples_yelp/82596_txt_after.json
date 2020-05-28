@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Aveda", "Store", "has", "a", "great", "location", "in", "SouthPark", "Mall", "its", "near", "one", "of", "its", "centers", "-LRB-", "where", "those", "people", "can", "drop", "after", "they", "shopped", "in", "comfy", "couches", "-RRB-", ",", "near", "a", "chocolate", "store", "and", "around", "the", "corner", "from", "the", "food", "court", "."], "e1_text": "drop", "e1_pos": 21, "e2_text": "shopped", "e2_pos": 24, "label": "after"}
+]

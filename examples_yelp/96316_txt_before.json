@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "claimed", "he", "did", "n't", "have", "time", "to", "weigh", "his", "truck", "without", "my", "stuff", "so", "he", "had", "to", "weigh", "it", "after", "loading", "and", "then", "remove", "my", "stuff", "and", "weigh", "it", "then", "to", "get", "the", "weight", "before", "my", "stuff", "was", "loaded", "."], "e1_text": "get", "e1_pos": 32, "e2_text": "was", "e2_pos": 38, "label": "before"}
+]

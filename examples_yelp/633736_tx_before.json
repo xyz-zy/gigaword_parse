@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "server", "was", "nice", ",", "but", "never", "remarked", "us", "with", "new", "silverware", "between", "courses", ",", "and", "our", "main", "course", "came", "out", "before", "we", "finished", "with", "our", "first", "course", "."], "e1_text": "came", "e1_pos": 19, "e2_text": "finished", "e2_pos": 23, "label": "before"}
+]

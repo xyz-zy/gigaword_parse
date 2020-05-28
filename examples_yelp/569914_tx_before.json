@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "at", "wicked", "spoon", "and", "they", "tell", "you", "everything", "before", "you", "stand", "in", "line", "."], "e1_text": "tell", "e1_pos": 7, "e2_text": "stand", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "did", "make", "it", "to", "my", "bday", "dinner", "before", "I", "had", "to", "leave", "and", "spend", "the", "rest", "of", "my", "trip", "and", "a", "few", "min", "before", "my", "flight", "out", "in", "the", "bathroom", "."], "e1_text": "make", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

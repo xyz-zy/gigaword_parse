@@ -1,0 +1,5 @@
+[
+{"tokens": ["On", "one", "occasion", "eating", "in", ",", "our", "server", "went", "home", "after", "taking", "our", "order", "and", "never", "brought", "our", "food", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "taking", "e2_pos": 11, "label": "after"},
+{"tokens": ["On", "another", ",", "we", "waited", "over", "an", "hour", "after", "taking", "our", "order", "to", "get", "our", "pizza", "but", "when", "it", "arrived", "it", "was", "burnt", "to", "a", "crisp", "-LRB-", "and", "had", "the", "wrong", "toppings", "-RRB-", "on", "several", "occasions", "we", "were", "seated", "and", "it", "took", "20", "minutes", "for", "someone", "to", "even", "acknowledge", "us", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "taking", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "can", "forgive", "mediocre", "food", "if", "the", "service", "is", "excellent", "but", "after", "so", "many", "chances", ",", "the", "only", "consistency", "I", "'ve", "found", "here", "is", "frustration", "."], "e1_text": "forgive", "e1_pos": 2, "e2_text": "is", "e2_pos": 8, "label": "after"}
+]

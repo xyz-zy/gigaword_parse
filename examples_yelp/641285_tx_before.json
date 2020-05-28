@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "took", "it", "back", "and", "the", "cook", "was", "noticeably", "upset", "then", "waited", "to", "finish", "cooking", "other", "meals", "before", "he", "started", "cooking", "the", "bacon", "."], "e1_text": "finish", "e1_pos": 13, "e2_text": "started", "e2_pos": 19, "label": "before"}
+]

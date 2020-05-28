@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "will", "be", "a", "good", "while", "before", "I", "order", "though", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "order", "e2_pos": 8, "label": "before"},
+{"tokens": ["From", "what", "I", "see", ",", "they", "seemed", "to", "have", "had", "a", "Grand", "Reopening", "from", "failing", "before", "?"], "e1_text": "had", "e1_pos": 9, "e2_text": "failing", "e2_pos": 14, "label": "before"}
+]

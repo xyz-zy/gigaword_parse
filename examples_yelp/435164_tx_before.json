@@ -1,0 +1,3 @@
+[
+{"tokens": ["Look", "at", "the", "menu", "carefully", "-LRB-", "both", "comments", "and", "prices", "-RRB-", "then", "ask", "to", "walk", "through", "the", "''", "``", "dining", "''", "''", "area", "before", "you", "agree", "to", "sit", "down", "."], "e1_text": "walk", "e1_pos": 14, "e2_text": "agree", "e2_pos": 25, "label": "before"}
+]

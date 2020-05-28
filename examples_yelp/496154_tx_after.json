@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "real", "cherry", "on", "top", "was", "our", "waitress", ",", "who", "was", "pretty", "much", "MIA", "the", "whole", "night", ",", "but", "decided", "to", "pop", "in", "after", "we", "ate", "and", "tell", "me", "that", "my", "friends", "had", "ordered", "a", "dessert", "for", "me", "ahead", "of", "time", "for", "my", "birthday", "."], "e1_text": "pop", "e1_pos": 21, "e2_text": "ate", "e2_pos": 25, "label": "after"}
+]

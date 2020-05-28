@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "10", "minutes", "after", "receiving", "the", "bill", ",", "then", "asked", "the", "bar", "back", "to", "please", "help", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "asked", "e2_pos": 10, "label": "after"},
+{"tokens": ["For", "me", ",", "there", "'s", "nothing", "more", "disappointing", "than", "when", "great", "service", "and", "a", "great", "time", "falls", "apart", "after", "the", "bill", "arrives", "."], "e1_text": "falls", "e1_pos": 16, "e2_text": "arrives", "e2_pos": 21, "label": "after"}
+]

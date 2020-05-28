@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "always", "seem", "to", "get", "my", "order", "right", "even", "in", "the", "drive", "threw", ",", "I", "like", "to", "go", "in", "and", "wash", "my", "hands", "before", "I", "eat", "my", "#", "1", "protein", "style", "burger", "."], "e1_text": "wash", "e1_pos": 20, "e2_text": "eat", "e2_pos": 25, "label": "before"}
+]

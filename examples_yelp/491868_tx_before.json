@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "for", "a", "Sunday", "lunch", "buffet", "and", "stood", "in", "line", "for", "close", "to", "2", "hours", "before", "got", "a", "table", "for", "2", "."], "e1_text": "stood", "e1_pos": 8, "e2_text": "got", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "had", "dinner", "at", "Bellagio", "buffet", "the", "day", "before", "so", "the", "comparison", "is", "evident", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "is", "e2_pos": 12, "label": "before"}
+]

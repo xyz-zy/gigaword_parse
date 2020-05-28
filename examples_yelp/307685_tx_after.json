@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "them", "I", "needed", "to", "be", "back", "in", "Vegas", "for", "work", "and", "the", "7", "hour", "delay", "needed", "to", "tow", "a", "car", "down", "to", "me", "would", "make", "me", "late", "-LRB-", "This", "was", "after", "taking", "2", "hours", "of", "getting", "through", "to", "their", "reps", "on", "the", "phone", "-RRB-", "."], "e1_text": "was", "e1_pos": 31, "e2_text": "taking", "e2_pos": 33, "label": "after"},
+{"tokens": ["When", "I", "finally", "got", "to", "Vegas", "after", "packing", "and", "repacking", "multiple", "cars", ",", "I", "waited", "in", "line", "for", "another", "hour", "at", "the", "help", "desk", "only", "to", "be", "told", "I", "would", "have", "to", "call", "corporate", "about", "my", "reimbursement", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "packing", "e2_pos": 7, "label": "after"}
+]

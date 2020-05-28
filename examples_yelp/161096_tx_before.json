@@ -1,0 +1,3 @@
+[
+{"tokens": ["Fed", "up", "after", "the", "THIRD", "NIGHT", "in", "a", "row", ",", "we", "called", "the", "manager", "-LRB-", "Karen", "-RRB-", ",", "who", "had", "us", "on", "hold", "for", "ten", "minutes", "before", "answering", "only", "to", "rudely", "say", "''", "``", "oh", ",", "they", "'re", "not", "supposed", "to", "serve", "you", "at", "all", "until", "1am", "so", "just", "be", "glad", "you", "got", "any", "food", ".", "''", "''"], "e1_text": "called", "e1_pos": 11, "e2_text": "answering", "e2_pos": 27, "label": "before"}
+]

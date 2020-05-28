@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "walked", "away", "from", "dinner", "thinking", "that", "I", "could", "prepare", "a", "much", "better", "steak", "...", "this", "is", "not", "what", "I", "wanted", "after", "spending", "$", "55", "for", "a", "New", "York", "Steak", "."], "e1_text": "wanted", "e1_pos": 20, "e2_text": "spending", "e2_pos": 22, "label": "after"}
+]

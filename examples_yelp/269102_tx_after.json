@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "told", "us", "to", "find", "a", "table", "''", "``", "wherever", "''", "''", "so", "we", "did", ",", "and", "after", "waiting", "20", "minutes", "a", "waitress", "finally", "stopped", "by", "to", "hand", "us", "a", "menu", "and", "inform", "us", "that", "our", "''", "``", "real", "waitress", "''", "''", "would", "be", "there", "shortly", "."], "e1_text": "find", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

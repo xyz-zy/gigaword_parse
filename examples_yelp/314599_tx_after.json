@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "times", "they", "lost", "our", "order", ",", "the", "1st", "time", "we", "were", "n't", "told", "this", "until", "after", "we", "paid", "!!", "The", "second", "time", "we", "called", "and", "mentioned", "the", "problem", "to", "avoid", "a", "repeat", "missed", "order", ",", "and", "they", "did", "it", "again", "!"], "e1_text": "told", "e1_pos": 13, "e2_text": "paid", "e2_pos": 18, "label": "after"}
+]

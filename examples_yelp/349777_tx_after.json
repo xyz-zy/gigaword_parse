@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "'s", "after", "they", "kept", "us", "waiting", "fifteen", "minutes", "to", "order", "after", "we", "sat", "down", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "kept", "e2_pos": 4, "label": "after"},
+{"tokens": ["When", "they", "did", ",", "they", "brought", "it", "piecemeal", "-LRB-", "for", "example", ",", "they", "brought", "out", "my", "fries", "three", "minutes", "after", "I", "finished", "my", "burger", "-RRB-", "."], "e1_text": "brought", "e1_pos": 5, "e2_text": "finished", "e2_pos": 21, "label": "after"}
+]

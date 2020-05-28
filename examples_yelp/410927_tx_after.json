@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "first", "tried", "this", "place", "several", "years", "ago", "shortly", "after", "they", "opened", ",", "and", "then", "it", "was", "quite", "tasty", "and", "worth", "going", "when", "in", "the", "area", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "opened", "e2_pos": 11, "label": "after"},
+{"tokens": ["Our", "server", "never", "bothered", "to", "come", "back", "after", "she", "dropped", "the", "bill", "to", "see", "if", "we", "needed", "change", "either", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "dropped", "e2_pos": 9, "label": "after"}
+]

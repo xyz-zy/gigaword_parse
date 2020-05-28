@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "see", "why", "this", "place", "Failed", "before", "and", "they", "needed", "to", "be", "''", "``", "rescued", "''", "''", "."], "e1_text": "see", "e1_pos": 1, "e2_text": "Failed", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "give", "this", "place", "2", "months", "after", "the", "bar", "airs", "on", "the", "show", "before", "it", "goes", "back", "to", "the", "way", "it", "was", "."], "e1_text": "airs", "e1_pos": 9, "e2_text": "goes", "e2_pos": 15, "label": "before"}
+]

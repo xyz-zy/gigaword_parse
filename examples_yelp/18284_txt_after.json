@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "also", "noticed", "that", "these", "customers", ",", "who", "arrived", "well", "after", "we", "had", ",", "had", "been", "served", "their", "salads", ",", "soups", "and", "even", "their", "meals", "while", "we", "sat", "there", "waiting", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["If", "you", "enjoy", "sitting", "and", "waiting", "while", "watching", "other", "customers", "who", "walked", "in", "10", "or", "15", "minutes", "or", "more", "after", "you", "did", "get", "their", "orders", "taken", "and", "served", "their", "food", ",", "this", "is", "the", "place", "for", "you", "."], "e1_text": "walked", "e1_pos": 11, "e2_text": "did", "e2_pos": 21, "label": "after"},
+{"tokens": ["Fortunately", ",", "I", "can", "take", "my", "money", "and", "spend", "it", "elsewhere", "and", "that", "'s", "just", "what", "we", "did", "after", "we", "left", "."], "e1_text": "did", "e1_pos": 17, "e2_text": "left", "e2_pos": 20, "label": "after"}
+]

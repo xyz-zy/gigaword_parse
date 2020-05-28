@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "major", "plus", "is", "that", "there", "is", "a", "sink", "and", "the", "employees", "can", "wash", "their", "hands", "before", "getting", "you", "a", "Big", "Bite", "to", "snack", "on", ":-RRB-", "Today", "I", "enjoyed", "a", "yummy", "hot", "chocolate", "."], "e1_text": "wash", "e1_pos": 13, "e2_text": "getting", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "used", "to", "not", "like", "all", "the", "pumps", "out", "of", "order", "before", "the", "store", "changed", "and", "now", "it", "is", "easier", "to", "snatch", "up", "a", "pump", "in", "the", "morning", "."], "e1_text": "like", "e1_pos": 4, "e2_text": "changed", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "realize", "that", "it", "'s", "a", "job", ",", "but", "I", "'m", "used", "to", "the", "ladies", "buttering", "up", "the", "customers", "and", "chatting", "them", "up", "before", "asking", "for", "a", "dance", "-", "not", "asking", "and", "then", "immediately", "leaving", "."], "e1_text": "used", "e1_pos": 11, "e2_text": "asking", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "usually", "play", "a", "game", ",", "like", "''", "``", "the", "next", "lady", "to", "talk", "to", "me", "will", "get", "$", "20", ",", "''", "''", "but", "nobody", "came", "up", "to", "me", "before", "I", "left", "."], "e1_text": "came", "e1_pos": 25, "e2_text": "left", "e2_pos": 31, "label": "before"}
+]

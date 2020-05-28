@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "salesman", "said", "it", "was", "his", "easiest", "sell", "ever", "as", "I", "already", "knew", "what", "I", "wanted", "and", "only", "held", "the", "gun", "for", "a", "minute", "before", "buying", "it", "."], "e1_text": "held", "e1_pos": 18, "e2_text": "buying", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "do", "n't", "use", "the", "range", "any", "more", "because", "the", "tourists", "create", "a", "line", "to", "sign", "in", ",", "and", "I", "do", "n't", "feel", "too", "comfortable", "shooting", "next", "to", "tourists", "who", "have", "never", "held", "a", "gun", "before", ",", "shooting", "full", "auto", "'s", "in", "the", "lane", "next", "to", "me", "."], "e1_text": "feel", "e1_pos": 22, "e2_text": "have", "e2_pos": 30, "label": "before"}
+]

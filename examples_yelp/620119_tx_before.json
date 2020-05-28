@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ladies", "SAVE", "your", "money", "do", "your", "research", "before", "buying", "!!!", "I", "can", "careless", "if", "he", "does", "beautiful", "work", "."], "e1_text": "do", "e1_pos": 4, "e2_text": "buying", "e2_pos": 8, "label": "before"},
+{"tokens": ["This", "place", "is", "the", "BIGGEST", "joke", "ever", "!!!!!!", "Read", "reviews", "before", "buying", "so", "this", "does", "n't", "happen", "to", "you", "!!"], "e1_text": "reviews", "e1_pos": 9, "e2_text": "buying", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "selling", "expensive", "products", "ladies", "and", "gentlemen", ",", "you", "need", "to", "make", "sure", "the", "product", "is", "not", "broken", "before", "delivering", "-", "check", "it", "in", "the", "warehouse", "-", "rather", "simple", "if", "you", "really", "care", "."], "e1_text": "broken", "e1_pos": 17, "e2_text": "delivering", "e2_pos": 19, "label": "before"}
+]

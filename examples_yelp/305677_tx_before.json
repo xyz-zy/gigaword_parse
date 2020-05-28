@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "finally", "everyone", "'s", "arrived", "and", "the", "drink", "orders", "are", "taken", "before", "she", "brings", "any", "water", "around", "."], "e1_text": "taken", "e1_pos": 10, "e2_text": "brings", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "'s", "like", "well", "how", "about", "I", "make", "sure", "everyone", "'s", "happy", "with", "their", "stuff", "before", "I", "get", "around", "to", "you", "okay", "?"], "e1_text": "'s", "e1_pos": 1, "e2_text": "get", "e2_pos": 17, "label": "before"}
+]

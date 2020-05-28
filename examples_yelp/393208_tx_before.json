@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "very", "annoying", "for", "such", "an", "expensive", "place", "to", "rush", "you", "through", "dinner", "...", "the", "waitress", "was", "very", "persistent", "and", "asked", "to", "take", "our", "plates", "away", "before", "we", "had", "even", "finished", "the", "food", "in", "front", "of", "us", ".", "."], "e1_text": "take", "e1_pos": 23, "e2_text": "had", "e2_pos": 29, "label": "before"}
+]

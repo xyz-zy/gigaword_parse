@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "seen", "some", "of", "the", "greatest", "games", "in", "this", "stadium", "during", "Rose", "Bowl", "runs", "in", "the", "80s", "and", "90s", "-LRB-", "nothing", "compares", "to", "the", "site", "of", "goal", "posts", "marching", "down", "5th", "Ave", "after", "OT", "win", "over", "USC", "-RRB-", "and", "Arizona", "Cardinals", "games", "."], "e1_text": "marching", "e1_pos": 29, "e2_text": "win", "e2_pos": 35, "label": "after"},
+{"tokens": ["It", "'s", "crazy", "hot", "in", "the", "''", "``", "fall", "''", "''", "when", "ASU", "starts", "playing", "and", "it", "'s", "frigid", "-LRB-", "to", "us", "Phoenicians", "-RRB-", "in", "the", "winter", ",", "especially", "after", "dark", "with", "a", "breeze", "blowing", "in", "the", "upper", "deck", "."], "e1_text": "frigid", "e1_pos": 18, "e2_text": "blowing", "e2_pos": 34, "label": "after"}
+]

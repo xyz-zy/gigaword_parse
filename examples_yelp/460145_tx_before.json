@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "not", "''", "``", "most", "people", "''", "''", "and", "I", "can", "tell", "that", "if", "they", "are", "going", "to", "be", "this", "difficult", "to", "deal", "with", "before", "you", "sign", "up", ",", "their", "customer", "service", "sure", "is", "n't", "going", "to", "be", "any", "better", "once", "they", "have", "you", "locked", "into", "a", "year", "contract", "."], "e1_text": "be", "e1_pos": 19, "e2_text": "sign", "e2_pos": 27, "label": "before"},
+{"tokens": ["At", "that", "point", ",", "I", "told", "the", "guy", "that", "I", "'d", "like", "to", "get", "a", "guest", "pass", "to", "try", "it", "out", "before", "I", "signed", "up", "."], "e1_text": "pass", "e1_pos": 16, "e2_text": "signed", "e2_pos": 23, "label": "before"}
+]

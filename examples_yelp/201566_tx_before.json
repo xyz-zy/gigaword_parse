@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "I", "'m", "in", "line", "before", "the", "restaurant", "opens", "and", "it", "takes", "40-75", "minutes", "for", "my", "table", "to", "be", "ready", ",", "my", "standards", "rise", "to", "''", "``", "this", "better", "be", "the", "best", "meal", "ever", "in", "the", "history", "of", "mankind", ".", "''", "''"], "e1_text": "'m", "e1_pos": 2, "e2_text": "opens", "e2_pos": 8, "label": "before"},
+{"tokens": ["THE", "WAIT", ":", "Seriously", ",", "plan", "for", "a", "40-75", "minute", "wait", "even", "if", "you", "show", "up", "15", "minutes", "before", "it", "opens", "."], "e1_text": "show", "e1_pos": 14, "e2_text": "opens", "e2_pos": 20, "label": "before"}
+]

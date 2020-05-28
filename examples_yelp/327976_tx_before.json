@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "where", "you", "go", "to", "fill", "up", "that", "rental", "car", "before", "you", "return", "it", "half", "empty", "and", "get", "charged", "$", "10", "per", "gallon", "for", "not", "refilling", "it", "or", "taking", "the", "Fuel", "Option", "at", "rental", "time", "."], "e1_text": "fill", "e1_pos": 6, "e2_text": "return", "e2_pos": 13, "label": "before"}
+]

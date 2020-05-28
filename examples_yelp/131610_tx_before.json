@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ll", "just", "have", "to", "be", "extra", "vigilant", "about", "getting", "that", "second", "drink", "before", "I", "'m", "halfway", "done", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "'m", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "wish", "I", "had", "the", "opportunity", "for", "a", "second", "try", "before", "giving", "this", "review", ",", "just", "in", "case", "it", "was", "one", "streak", "of", "bad", "luck", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "giving", "e2_pos": 11, "label": "before"}
+]

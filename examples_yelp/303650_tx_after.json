@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "my", "$", "150", "dollar", "steak", "wrapped", "up", "and", "they", "brought", "the", "claim", "ticket", "out", ",", "after", "talking", "to", "the", "manager-whatever", "I", "tore", "up", "my", "ticket", "and", "left", "it", "on", "the", "table", "."], "e1_text": "brought", "e1_pos": 11, "e2_text": "talking", "e2_pos": 18, "label": "after"}
+]

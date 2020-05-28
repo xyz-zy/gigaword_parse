@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "noticed", "the", "prices", "were", "very", "good", "during", "Happy", "Hour", "so", "I", "would", "consider", "going", "back", "for", "that", "but", "I", "do", "n't", "think", "I", "could", "take", "those", "horrible", "chairs", "after", "working", "a", "full", "day", "at", "work", "."], "e1_text": "take", "e1_pos": 25, "e2_text": "working", "e2_pos": 30, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "last", "minute", "to", "make", "an", "appointment", "after", "letting", "my", "roommate", "cut", "my", "hair", "and", "they", "fit", "me", "in", "within", "10", "minutes", "!"], "e1_text": "make", "e1_pos": 5, "e2_text": "letting", "e2_pos": 9, "label": "after"}
+]

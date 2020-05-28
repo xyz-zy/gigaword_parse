@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "'ve", "heard", "of", "the", "name", "before", "so", "we", "wanted", "to", "try", "it", "out", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "wanted", "e2_pos": 9, "label": "before"},
+{"tokens": ["Shake", "Shack", "just", "opened", "before", "New", "Year", "'s", "day", "so", "outside", "there", "was", "an", "introductory", "line", "where", "a", "guy", "handed", "out", "menus", "and", "introduced", "the", "items", "they", "had", "to", "offer", "."], "e1_text": "opened", "e1_pos": 3, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

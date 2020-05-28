@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stopped", "in", "here", "needing", "to", "kill", "some", "time", "before", "meeting", "my", "family", "for", "dinner", "at", "Sapporo", "-LRB-", "across", "the", "parking", "lot", "-RRB-", "."], "e1_text": "kill", "e1_pos": 6, "e2_text": "meeting", "e2_pos": 10, "label": "before"}
+]

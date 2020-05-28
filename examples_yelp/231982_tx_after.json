@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stated", "that", "they", "were", "still", "paid", "on", "the", "1st", "when", "the", "money", "was", "due", "...", "then", "they", "procedeed", "to", "tell", "me", "that", "they", "received", "the", "payment", "late", "...", "after", "5pm", "...", "which", "was", "impossible", "since", "I", "work", "in", "the", "evening", "."], "e1_text": "received", "e1_pos": 24, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

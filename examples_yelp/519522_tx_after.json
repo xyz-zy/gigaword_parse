@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "go", "often", "but", "after", "what", "happened", "to", "me", "this", "past", "Friday", "I", "wo", "n't", "be", "returning", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "happened", "e2_pos": 7, "label": "after"},
+{"tokens": ["After", "close", "to", "30", "minutes", "the", "other", "lady", "got", "up", "to", "get", "the", "waiter", "after", "he", "ignored", "us", "waving", "him", "over", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "ignored", "e2_pos": 16, "label": "after"}
+]

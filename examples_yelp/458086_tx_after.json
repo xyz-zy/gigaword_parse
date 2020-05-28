@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "cost", "me", "\\", "u00a3100", "-", "I", "was", "refused", "the", "student", "discount", "on", "the", "price", "list", ",", "even", "after", "showing", "my", "student", "ID", ",", "as", "my", "hair", "is", "thick", "."], "e1_text": "refused", "e1_pos": 8, "e2_text": "showing", "e2_pos": 19, "label": "after"}
+]

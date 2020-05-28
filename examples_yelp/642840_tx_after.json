@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "The", "short", "-RRB-", "-LRB-", "The", "long", "-RRB-", "I", "ordered", "2", "boba", "teas", "for", "me", "and", "my", "little", "sister", "-", "and", "after", "waiting", "20", "minutes", "for", "our", "drinks", "they", "told", "us", "they", "were", "out", "of", "boba", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 22, "label": "after"}
+]

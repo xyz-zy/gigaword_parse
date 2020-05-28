@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "one", "of", "three", "parties", "there", "before", "noon", "&", "she", "annoyingly", "showered", "us", "with", "attention", ",", "asking", "every", "5", "minutes", ",", "''", "``", "and", "how", "are", "things", "tasting", "?", "''", "''"], "e1_text": "were", "e1_pos": 1, "e2_text": "showered", "e2_pos": 12, "label": "before"}
+]

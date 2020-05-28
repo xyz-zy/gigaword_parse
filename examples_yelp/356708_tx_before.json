@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "visiting", "Edinburgh", "last", "Fall", ",", "I", "befriended", "a", "local", "fellow", "who", "recommended", "we", "meet", "up", "for", "drinks", "the", "night", "before", "I", "left", "town", "."], "e1_text": "recommended", "e1_pos": 12, "e2_text": "left", "e2_pos": 22, "label": "before"}
+]

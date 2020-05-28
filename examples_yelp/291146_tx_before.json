@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Boiled", "Beef", "with", "Szechuan", "Sauce", "-LRB-", "$", "9.25", "-RRB-", "-", "We", "knew", "we", "wanted", "something", "with", "their", "specialty", "sauce", ",", "and", "we", "'ve", "ordered", "this", "dish", "twice", "before", "."], "e1_text": "knew", "e1_pos": 12, "e2_text": "wanted", "e2_pos": 14, "label": "before"},
+{"tokens": ["\\*", "Home", "Style", "Potato", "-LRB-", "$", "7.85", "-RRB-", "-", "We", "wanted", "a", "potato", "dish", "and", "thought", "it", "was", "the", "same", "one", "we", "'ve", "ordered", "before", "where", "the", "potatoes", "are", "cut", "into", "strips", "and", "stir-fried", "."], "e1_text": "ordered", "e1_pos": 23, "e2_text": "are", "e2_pos": 28, "label": "before"}
+]

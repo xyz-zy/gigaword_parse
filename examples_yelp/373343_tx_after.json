@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "move", "to", "the", "''", "``", "bar", "''", "''", "area", "-LRB-", "after", "extricating", "my", "flip", "flop", "from", "a", "blob", "of", "syrup", "that", "had", "cemented", "my", "foot", "to", "the", "floor", "-RRB-", ",", "hoping", "to", "get", "a", "bit", "more", "space", ",", "but", "the", "stools", "are", "bolted", "to", "the", "ground", "and", "are", "so", "high", "my", "feet", "dangled", "-LRB-", "and", "I", "am", "not", "a", "short", "person", "-RRB-", "."], "e1_text": "move", "e1_pos": 3, "e2_text": "extricating", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "tofu", "scramble", "was", "edible", "only", "after", "being", "doused", "in", "hot", "sauce", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "being", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "gave", "it", "2", "stars", "because", "I", "'ve", "been", "there", "before", "and", "enjoyed", "it", "...", "however", ",", "today", "was", "the", "pits", "!"], "e1_text": "gave", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 7, "label": "before"},
+{"tokens": ["Finally", "got", "through", "and", "the", "guy", "said", "he", "was", "too", "busy", ",", "he", "had", "30", "golfers", "there", "that", "just", "checked", "in", "that", "had", "never", "been", "there", "before", "and", "he", "had", "to", "take", "care", "of", "them", "and", "to", "call", "back", "in", "a", "half", "hour", "."], "e1_text": "checked", "e1_pos": 19, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

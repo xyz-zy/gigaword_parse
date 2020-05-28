@@ -1,0 +1,4 @@
+[
+{"tokens": ["Okay", ",", "so", "go", "to", "the", "bathroom", "before", "you", "leave", "the", "house", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "leave", "e2_pos": 9, "label": "before"},
+{"tokens": ["Okay", ",", "well", "go", "to", "Taco", "Bell", ",", "McDonald", "'s", ",", "Jack", "in", "the", "Box", ",", "Subway", ",", "or", "a", "gas", "station", "before", "you", "go", "in", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "go", "e2_pos": 24, "label": "before"}
+]

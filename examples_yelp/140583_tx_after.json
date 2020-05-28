@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "was", "after", "dining", "in", "with", "my", "family", "I", "asked", "for", "a", "cup", "to", "put", "my", "son", "'s", "drink", "in", "to", "go", "and", "she", "told", "me", ",", "with", "an", "attitude", ",", "that", "she", "was", "n't", "allowed", "to", "give", "me", "a", "cup", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "dining", "e2_pos": 3, "label": "after"},
+{"tokens": ["You", "can", "just", "ask", "for", "boxes", "to", "box", "up", "your", "ALREADY", "PAID", "FOR", "FOOD", "!!!", "Nope", "!!!!", "It", "'s", "not", "like", "I", "'m", "trying", "to", "be", "greedy", "and", "ask", "for", "a", "box", "at", "an", "all-you-can-eat", "buffet", "after", "piling", "my", "plate", "with", "a", "ton", "of", "food", "!"], "e1_text": "ask", "e1_pos": 3, "e2_text": "piling", "e2_pos": 37, "label": "after"}
+]

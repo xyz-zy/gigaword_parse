@@ -1,0 +1,3 @@
+[
+{"tokens": ["it", "came", "with", "egg", "drop", "soup", "which", "was", "mediocre", "after", "adding", "soy", "sauce", "-LRB-", "so", "i", "guess", "it", "was", "only", "good", "after", "adding", "something", "to", "make", "it", "taste", "like", "something", "else", "therefore", "skip", "the", "soup", "-RRB-", ",", "a", "salad", ",", "plus", "the", "entree", "and", "choice", "of", "rice", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "adding", "e2_pos": 10, "label": "after"}
+]

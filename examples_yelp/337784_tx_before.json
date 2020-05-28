@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "anyway", "as", "my", "husband", "likes", "Indian", "and", "we", "'d", "been", "before", "and", "it", "was", "n't", "too", "bad", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "likes", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "menue", "was", "large", "and", "I", "settled", "on", "something", "I", "had", "not", "tried", "before", "-", "Lamb", "Bahoon", "and", "my", "husband", "had", "Chicken", "Pasanda", "-", "as", "per", "most", "Indian", "places", "the", "rice", "is", "not", "included", "so", "we", "ordered", "that", "and", "the", "Naan", "."], "e1_text": "settled", "e1_pos": 6, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

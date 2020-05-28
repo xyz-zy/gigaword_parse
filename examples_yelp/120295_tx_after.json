@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "went", "to", "pick", "it", "up", "after", "calling", "the", "company", ";", "who", "got", "angry", "with", "FedEx", "and", "City", "Center", "Apartments", ",", "I", "was", "told", "by", "Monica", "that", "they", "do", "not", "have", "to", "call", "the", "tenants", "to", "pick", "up", "their", "packages", ",", "it", "is", "our", "responsibility", "to", "pick", "up", "our", "own", "packages", "and", "to", "know", "when", "they", "will", "be", "delivered", "."], "e1_text": "pick", "e1_pos": 4, "e2_text": "calling", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "am", "contacting", "my", "attorney", "after", "I", "finish", "this", "and", "I", "am", "contacting", "my", "reporter", "friend", "at", "Channel", "13", "news", "."], "e1_text": "contacting", "e1_pos": 2, "e2_text": "finish", "e2_pos": 7, "label": "after"}
+]

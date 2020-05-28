@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "miss", "a", "movie", "before", "it", "hits", "the", "discount", "theaters", ",", "It", "'s", "almost", "worth", "it", "to", "wait", "for", "DVD", ",", "then", "watch", "it", "on", "my", "TV", "at", "home", "."], "e1_text": "miss", "e1_pos": 2, "e2_text": "hits", "e2_pos": 7, "label": "before"}
+]

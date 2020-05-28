@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "stayed", "here", "for", "a", "wedding", "weekend", "and", "although", "the", "room", "was", "nice", "and", "the", "pool", "was", "cute", ",", "we", "were", "very", "disappointed", "with", "what", "happened", "right", "after", "we", "left", "."], "e1_text": "happened", "e1_pos": 28, "e2_text": "left", "e2_pos": 32, "label": "after"},
+{"tokens": ["We", "called", "literally", "3", "hrs", "after", "checking", "out", "and", "the", "clothes", "are", "no", "where", "to", "be", "found", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "checking", "e2_pos": 6, "label": "after"}
+]

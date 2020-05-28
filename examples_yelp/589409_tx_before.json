@@ -1,0 +1,4 @@
+[
+{"tokens": ["Usually", "they", "make", "sure", "you", "look", "ok", "before", "they", "send", "you", "out", "."], "e1_text": "look", "e1_pos": 5, "e2_text": "send", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "called", "after", "the", "new", "pair", "came", "in", "and", "asked", "Chip", "to", "make", "sure", "the", "new", "ones", "were", "ok", "before", "I", "drove", "all", "the", "way", "back", "to", "the", "west", "side", "to", "get", "them", "."], "e1_text": "ok", "e1_pos": 18, "e2_text": "drove", "e2_pos": 21, "label": "before"}
+]

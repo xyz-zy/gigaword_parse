@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriend", "ordered", "dumplings", "and", "was", "made", "to", "wait", "long", "enough", "that", "I", "finished", "my", "burrito", "completely", "before", "she", "got", "her", "6", "dumplings", "."], "e1_text": "finished", "e1_pos": 13, "e2_text": "got", "e2_pos": 19, "label": "before"}
+]

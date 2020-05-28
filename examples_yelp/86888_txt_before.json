@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "seated", "we", "waited", ",", "no", "lie", ",", "about", "10", "minutes", "before", "we", "were", "approached", "by", "a", "server", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "were", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "originally", "wanted", "the", "mango-pineapple", "french", "toast", ",", "but", "they", "were", "out", "of", "the", "mango", ":-LRB-", "so", "I", "had", "the", "banana", "walnut", "french", "toast", "...", "it", "was", "really", "good", ",", "and", "they", "coat", "the", "bread", "in", "some", "type", "of", "crunchy", "crumbs", "before", "they", "grill", "them", "!"], "e1_text": "coat", "e1_pos": 32, "e2_text": "grill", "e2_pos": 43, "label": "before"}
+]

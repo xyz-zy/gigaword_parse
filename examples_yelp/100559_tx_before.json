@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "start", "off", "by", "saying", "I", "'ve", "been", "here", "once", "before", "for", "eyebrows", "and", "they", "did", "n't", "turn", "out", "so", "well", "."], "e1_text": "start", "e1_pos": 2, "e2_text": "saying", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "decided", "to", "go", "with", "gels", ",", "I", "'ve", "done", "them", "before", "so", "I", "knew", "the", "process", "fairly", "well", "."], "e1_text": "done", "e1_pos": 9, "e2_text": "knew", "e2_pos": 14, "label": "before"}
+]

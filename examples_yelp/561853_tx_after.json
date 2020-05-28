@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "added", "fruit", "&", "whipped", "cream", "after", "asking", "how", "much", "fruit", "came", "with", "the", "$", "2.50", "upgrade", "price", "--", "the", "waitress", "told", "us", "a", "large", "handful", "of", "strawberries", ",", "a", "large", "handful", "of", "blueberries", ",", "and", "a", "whole", "banana", "would", "adorn", "each", "of", "our", "now", "-", "$", "6.49", "meals", "."], "e1_text": "added", "e1_pos": 1, "e2_text": "asking", "e2_pos": 7, "label": "after"}
+]

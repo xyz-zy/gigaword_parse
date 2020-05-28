@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "many", "other", "stores", ",", "they", "have", "a", "10", "%", "off", "when", "you", "buy", "6", "bottles", "of", "wine", ",", "but", "unlike", "other", "stores", ",", "they", "will", "really", "mark", "down", "some", "good", "wines", ",", "I", "have", "left", "paying", "less", "than", "half", "price", "for", "bottles", "after", "all", "discounts", "kick", "in", "."], "e1_text": "left", "e1_pos": 35, "e2_text": "kick", "e2_pos": 46, "label": "after"},
+{"tokens": ["I", "'ve", "had", "several", "items", "go", "bad", "the", "day", "after", "I", "'ve", "bought", "them", ",", "and", "once", "I", "opened", "up", "a", "container", "of", "mushrooms", "and", "below", "the", "first", "layer", ",", "was", "a", "layer", "of", "mold", ",", "yuck", "!"], "e1_text": "had", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 1, "label": "after"}
+]

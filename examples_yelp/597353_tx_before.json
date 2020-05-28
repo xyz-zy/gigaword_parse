@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "be", "prepared", "to", "stand", "in", "the", "same", "spot", "for", "a", "long", "time", "before", "getting", "in", "."], "e1_text": "stand", "e1_pos": 4, "e2_text": "getting", "e2_pos": 14, "label": "before"},
+{"tokens": ["If", "there", "is", "a", "headliner", "DJ", "playing", ",", "then", "any", "music", "you", "hear", "before", "2am", "is", "going", "to", "be", "complete", "garbage", "."], "e1_text": "hear", "e1_pos": 12, "e2_text": "is", "e2_pos": 2, "label": "before"}
+]

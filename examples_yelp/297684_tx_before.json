@@ -1,0 +1,3 @@
+[
+{"tokens": ["Proprietor", "grumpy", ",", "dive", "location", ",", "and", "no", "restroom", "-LRB-", "even", "to", "wash", "my", "hands", "before", "eating", "-RRB-", "dropped", "my", "review", "from", "4", "stars", "to", "3", "."], "e1_text": "wash", "e1_pos": 12, "e2_text": "eating", "e2_pos": 16, "label": "before"}
+]

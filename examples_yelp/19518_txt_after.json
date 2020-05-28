@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "co", "worker", "then", "proceeded", "to", "order", "another", "roll", "after", "we", "found", "out", "about", "this", "secret", "menu", "."], "e1_text": "order", "e1_pos": 6, "e2_text": "found", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "'m", "not", "sure", "what", "is", "the", "point", "of", "the", "secret", "menu", "if", "they", "do", "n't", "show", "it", "to", "you", "until", "you", "after", "you", "receive", "your", "food", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "receive", "e2_pos": 24, "label": "after"}
+]

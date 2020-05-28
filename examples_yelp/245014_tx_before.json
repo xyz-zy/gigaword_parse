@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "sent", "me", "to", "Physical", "Therapy", ",", "even", "though", "I", "'d", "already", "been", "once", "before", "."], "e1_text": "sent", "e1_pos": 1, "e2_text": "'d", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "had", "everything", "done", "2", "weeks", "before", "they", "were", "due", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "before"}
+]

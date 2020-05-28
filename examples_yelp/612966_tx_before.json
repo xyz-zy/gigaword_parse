@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "to", "wait", "for", "them", "to", "finish", "cleaning", "before", "they", "make", "our", "order", "."], "e1_text": "cleaning", "e1_pos": 8, "e2_text": "make", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "get", "wanting", "to", "get", "out", "of", "their", "faster", ",", "but", "over", "an", "hour", "before", "you", "close", "you", "should", "n't", "be", "neglecting", "and\\/or", "inconveniencing", "your", "customers", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "close", "e2_pos": 16, "label": "before"}
+]

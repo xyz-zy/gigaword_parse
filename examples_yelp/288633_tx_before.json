@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "asked", "to", "leave", "our", "already-in-hand-drinks", "at", "the", "hostess", "station", "before", "we", "were", "seated", ",", "but", "they", "were", "glad", "to", "let", "us", "finish", "them", "and", "take", "them", "for", "us", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "do", "wish", "they", "would", "have", "just", "given", "it", "to", "us", "immediately", ",", "they", "knew", "where", "we", "'d", "been", "sitting", "and", "we", "were", "standing", "right", "in", "front", "of", "them", "before", "we", "left", "."], "e1_text": "standing", "e1_pos": 23, "e2_text": "left", "e2_pos": 31, "label": "before"}
+]

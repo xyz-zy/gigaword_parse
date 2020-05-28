@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "going", "to", "say", "this", "now", "before", "I", "forget", ":", "My", "mom", "and", "I", "noticed", "that", "for", "the", "2", "hours", "that", "we", "were", "there", "-LRB-", "and", "we", "did", "n't", "want", "to", "be", "there", "for", "2", "hours", ",", "it", "'s", "just", "how", "slow", "everything", "is", "-RRB-", ",", "there", "were", "still", "ample", "amounts", "of", "empty", "tables", "."], "e1_text": "say", "e1_pos": 4, "e2_text": "forget", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Nuggets", "arrived", "after", "20-25", "minutes", ",", "followed", "immediately", "by", "our", "pizza", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "followed", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "funny", "thing", "is", "that", "other", "folks", "arrived", "after", "we", "did", ",", "and", "yet", "their", "pizzas", "arrived", "before", "ours", "did", "."], "e1_text": "arrived", "e1_pos": 7, "e2_text": "did", "e2_pos": 10, "label": "after"}
+]

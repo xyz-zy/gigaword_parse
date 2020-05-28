@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hotel", "offered", "the", "breakfast", "buffet", "at", "half", "price", "if", "you", "bought", "the", "meal", "ticket", "the", "day", "before", "."], "e1_text": "offered", "e1_pos": 2, "e2_text": "bought", "e2_pos": 11, "label": "before"}
+]

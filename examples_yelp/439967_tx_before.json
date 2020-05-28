@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "with", "two", "coworkers", "who", "had", "been", "before", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["Finally", "one", "of", "our", "pedicures", "gets", "started", ",", "then", "a", "little", "while", "later", "mine", "starts", "and", "is", "rushed", "through", "to", "the", "point", "that", "mine", "was", "finished", "before", "the", "one", "that", "was", "started", "first", "."], "e1_text": "finished", "e1_pos": 25, "e2_text": "was", "e2_pos": 24, "label": "before"}
+]

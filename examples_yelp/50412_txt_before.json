@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "with", "no", "scrubbing", "at", "all", ":", "\\/", "I", "was", "reading", "a", "magazine", "and", "saw", "out", "of", "the", "corner", "of", "my", "eye", "that", "she", "placed", "a", "clipper", "tool", "back", "in", "her", "co", "worker", "'s", "station", "...", "who", "just", "finished", "with", "someone", "else", "'s", "pedicure", "so", "it", "was", "already", "used", "w\\/o", "disinfecting", "before", "she", "used", "it", "on", "me", "."], "e1_text": "disinfecting", "e1_pos": 52, "e2_text": "used", "e2_pos": 55, "label": "before"},
+{"tokens": ["I", "did", "n't", "realize", "it", "before", "it", "was", "too", "late", "."], "e1_text": "realize", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "before"}
+]

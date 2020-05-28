@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "considered", "using", "this", "company", "for", "our", "home", "warranty", "since", "she", "had", "used", "them", "before", "when", "she", "had", "her", "own", "house", "."], "e1_text": "used", "e1_pos": 13, "e2_text": "had", "e2_pos": 12, "label": "before"},
+{"tokens": ["She", "contacted", "the", "office", "and", "they", "scheduled", "a", "home", "inspection", "but", "not", "before", "requiring", "a", "$", "200", "payment", "which", "would", "be", "the", "scheduled", "payment", "."], "e1_text": "scheduled", "e1_pos": 6, "e2_text": "requiring", "e2_pos": 13, "label": "before"}
+]

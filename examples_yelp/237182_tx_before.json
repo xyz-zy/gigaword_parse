@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "and", "I", "ate", "here", "for", "lunch", "before", "we", "were", "to", "head", "out", "to", "the", "Airport", "."], "e1_text": "ate", "e1_pos": 4, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "worked", "quite", "well", "in", "a", "pinch", "when", "we", "were", "having", "a", "hard", "time", "trying", "to", "figure", "out", "what", "to", "do", "for", "food", "before", "our", "airport", "shuttle", "arrived", "."], "e1_text": "having", "e1_pos": 10, "e2_text": "arrived", "e2_pos": 27, "label": "before"}
+]

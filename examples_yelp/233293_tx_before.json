@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "the", "type", "of", "shopper", "that", "looks", "around", "before", "I", "bother", "an", "associate", "."], "e1_text": "looks", "e1_pos": 7, "e2_text": "bother", "e2_pos": 11, "label": "before"},
+{"tokens": ["After", "the", "5", "minutes", "were", "up", ",", "we", "walked", "away", "...", "not", "before", "I", "left", "my", "cart", "full", "of", "stuff", "in", "the", "middle", "of", "an", "aisle", "."], "e1_text": "walked", "e1_pos": 8, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

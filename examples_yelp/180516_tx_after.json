@@ -1,0 +1,4 @@
+[
+{"tokens": ["Best", "they", "could", "do", "after", "arguing", "was", "a", "$", "40", "credit", "for", "the", "buffet", "which", "I", "learned", "later", "was", "only", "for", "one", "day", "."], "e1_text": "do", "e1_pos": 3, "e2_text": "was", "e2_pos": 6, "label": "after"},
+{"tokens": ["Later", "I", "had", "to", "visit", "the", "front", "about", "the", "buffet", "and", "after", "more", "arguing", "best", "they", "could", "do", "now", "was", "one", "more", "day", "of", "a", "$", "40", "credit", "."], "e1_text": "visit", "e1_pos": 4, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

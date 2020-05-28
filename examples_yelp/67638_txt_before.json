@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "back", ",", "took", "10", "minutes", "to", "get", "a", "low-level", "operator", ",", "and", "was", "successfully", "transferred", "to", "Retention", "Specialist", "where", "I", "sat", "on", "hold", "for", "46", "minutes", "before", "hanging", "up", "."], "e1_text": "sat", "e1_pos": 22, "e2_text": "hanging", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "called", "back", "a", "while", "later", ",", "and", "sat", "on", "hold", "for", "1", "hour", "16", "minutes", "before", "hanging", "up", "."], "e1_text": "sat", "e1_pos": 8, "e2_text": "hanging", "e2_pos": 17, "label": "before"}
+]

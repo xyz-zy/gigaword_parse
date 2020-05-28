@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bartender", "asked", "my", "sister", "and", "I", "our", "plans", "for", "the", "night", "and", "we", "told", "him", "after", "dinner", "we", "were", "going", "to", "the", "Michael", "Jackson", "One", "show", "at", "Mandalay", "Bay", "and", "then", "we", "wanted", "to", "go", "somewhere", "with", "a", "more", "laid", "back", "feel", ",", "not", "so", "much", "a", "club", "since", "we", "did", "that", "the", "pervious", "nights", "."], "e1_text": "told", "e1_pos": 14, "e2_text": "feel", "e2_pos": 42, "label": "after"},
+{"tokens": ["One", "of", "the", "performers", "came", "on", "about", "10", "minutes", "after", "we", "arrived", "and", "even", "though", "there", "is", "nudity", "it", "was", "very", "classily", "done", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "arrived", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "never", "seen", "that", "before", ",", "some", "restaurants", "here", "the", "hostesses", "are", "the", "best", "thing", "about", "them", "...", "not", "this", "place", "!!!", "The", "food", "is", "great", ",", "but", "I", "heed", "the", "whole", "package", "if", "we", "'re", "paying", "this", "$", "$", "$", "$", "much", "for", "dinner", "."], "e1_text": "seen", "e1_pos": 3, "e2_text": "are", "e2_pos": 12, "label": "before"}
+]

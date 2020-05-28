@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "friend", "and", "her", "husband", "was", "there", "hours", "before", "the", "wedding", "setting", "up", "tables", ",", "chairs", "and", "linens", "and", "stayed", "after", "the", "wedding", "tearing", "it", "down", "."], "e1_text": "stayed", "e1_pos": 19, "e2_text": "tearing", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "entering", "and", "promptly", "being", "seated", "we", "were", "told", "that", "we", "had", "a", "grand", "selection", "of", "salads", "to", "choose", "from", "at", "the", "salad", "bar", "and", "after", "that", "let", "the", "games", "begin", "."], "e1_text": "told", "e1_pos": 8, "e2_text": "let", "e2_pos": 27, "label": "after"},
+{"tokens": ["They", "had", "other", "choices", "of", "meats", "that", "was", "offered", "at", "the", "table", "but", "I", "was", "stuffed", "after", "eating", "so", "much", "food", "."], "e1_text": "stuffed", "e1_pos": 15, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

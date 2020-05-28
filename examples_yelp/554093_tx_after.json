@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "seems", "a", "lot", "spacious", "and", "less", "crammed", "versus", "the", "original", "location", "plus", "there", "'s", "options", "of", "things", "I", "could", "do", "before", "or", "after", "going", "here", "."], "e1_text": "do", "e1_pos": 20, "e2_text": "going", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "'m", "almost", "a", "fan", "but", "only", "after", "I", "add", "stuff", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "add", "e2_pos": 9, "label": "after"}
+]

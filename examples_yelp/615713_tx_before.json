@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "room", "keys", "are", "a", "pain", "since", "they", "'re", "magnetized", "--", "it", "'s", "almost", "impossible", "to", "have", "one", "work", "for", "more", "than", "a", "day", "or", "two", "before", "you", "need", "to", "get", "a", "replacement", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "need", "e2_pos": 28, "label": "before"}
+]

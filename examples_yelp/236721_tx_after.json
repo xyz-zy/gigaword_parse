@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "roll", "in", "the", "single", "bed", "but", "there", "is", "no", "room", "for", "us", "to", "move", "around", "after", "getting", "that", "extra", "bed", "in", "."], "e1_text": "move", "e1_pos": 14, "e2_text": "getting", "e2_pos": 17, "label": "after"},
+{"tokens": ["Ask", "to", "talk", "to", "the", "manager", "but", "no", "one", "is", "available", "...", "Roll", "our", "luggage", "back", "the", "registration", "area", "and", "waiting", "for", "another", "hour", "then", "they", "finally", "give", "us", "the", "Octavius", "room", "with", "2", "beds", "after", "we", "just", "stand", "there", "complaining", "to", "them", "."], "e1_text": "give", "e1_pos": 27, "e2_text": "stand", "e2_pos": 38, "label": "after"}
+]

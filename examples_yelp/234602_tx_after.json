@@ -1,0 +1,3 @@
+[
+{"tokens": ["because", "some", "of", "the", "movies", "suck", "so", "bad", "...", "you", "feel", "dumber", "after", "watching", "them", "."], "e1_text": "feel", "e1_pos": 10, "e2_text": "watching", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "understand", "falling", "behind", "in", "appointments", ",", "but", "waiting", "this", "long", "every", "single", "time", "and", "seeing", "patients", "who", "came", "in", "well", "after", "us", "getting", "called", "before", "we", "did", "was", "not", "cool", "."], "e1_text": "called", "e1_pos": 24, "e2_text": "did", "e2_pos": 27, "label": "before"},
+{"tokens": ["And", "even", "once", "we", "got", "in", "the", "room", ",", "we", "waited", "for", "AT", "LEAST", "another", "30", "minutes", "before", "finally", "seeing", "our", "doctor", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "seeing", "e2_pos": 19, "label": "before"},
+{"tokens": ["On", "my", "last", "visit", ",", "I", "literally", "waited", "for", "an", "hour", "and", "a", "half", "before", "finally", "getting", "into", "the", "back", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "getting", "e2_pos": 16, "label": "before"}
+]

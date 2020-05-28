@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "hostess", "as", "someone", "mentioned", "was", "slow", "to", "appear", "and", "when", "she", "did", "she", "walked", "up", "to", "us", "with", "her", "head", "down", "and", "was", "writing", "something", "for", "like", "2", "mins", "before", "she", "acknowledged", "us", ",", "it", "was", "rather", "rude", "."], "e1_text": "writing", "e1_pos": 24, "e2_text": "acknowledged", "e2_pos": 32, "label": "before"},
+{"tokens": ["In", "fact", "I", "was", "with", "someone", "and", "they", "and", "already", "gotten", "their", "food", "and", "were", "full", "into", "eating", "before", "my", "meal", "came", ",", "though", "it", "was", "ready", "."], "e1_text": "eating", "e1_pos": 17, "e2_text": "came", "e2_pos": 21, "label": "before"}
+]

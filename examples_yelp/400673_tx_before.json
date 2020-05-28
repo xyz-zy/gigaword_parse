@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "got", "in", "we", "noticed", "that", "they", "barely", "vacuumed", "and", "that", "the", "extra", "I", "paid", "for", "there", "interior", "dressing", "was", "really", "not", "worth", "it", ",", "especially", "when", "they", "missed", "large", "spots", "so", "it", "looked", "even", "worse", "then", "before", "they", "started", "."], "e1_text": "looked", "e1_pos": 34, "e2_text": "started", "e2_pos": 40, "label": "before"},
+{"tokens": ["I", "do", "n't", "usually", "write", "bad", "reviews", "but", "I", "'m", "just", "hoping", "more", "people", "will", "read", "before", "they", "go", "and", "not", "use", "Danny", "'s", "carwash", "and", "waste", "their", "money", "like", "we", "did", "."], "e1_text": "read", "e1_pos": 15, "e2_text": "go", "e2_pos": 18, "label": "before"}
+]

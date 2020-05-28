@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "just", "a", "couple", "days", "after", "opening", "and", "as", "expected", ",", "it", "was", "so", "busy", "it", "took", "us", "a", "while", "just", "to", "find", "a", "seat", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "are", "really", "close", "to", "us", ",", "so", "I", "might", "give", "them", "another", "try", ",", "probably", "for", "breakfast", "after", "a", "few", "weeks", "of", "being", "open", "...", "but", "for", "now", ",", "I", "'ll", "pass", "on", "Farmer", "Boys", "."], "e1_text": "give", "e1_pos": 10, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

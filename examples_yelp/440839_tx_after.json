@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "towed", "my", "car", "after", "it", "broke", "down", "on", "the", "freeway", "back", "to", "their", "yard", "after", "I", "requested", "that", "it", "be", "taken", "to", "a", "local", "auto", "service", "."], "e1_text": "towed", "e1_pos": 1, "e2_text": "broke", "e2_pos": 6, "label": "after"}
+]

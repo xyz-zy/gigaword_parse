@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "asked", "for", "some", "lemon", "again", "&", "she", "came", "back", "with", "a", "tiny", "wedge", "of", "lemon", "in", "a", "filthy", "little", "bowl", "-LRB-", "pic", "attached", "-RRB-", "which", "I", "unfortunately", "did", "n't", "notice", "until", "after", "I", "had", "squeezed", "the", "lemon", "into", "my", "water", ":", "\\/", "Then", "I", "realized", "we", "had", "no", "place", "settings", "therefore", "no", "napkins", "to", "wipe", "my", "lemon-juice", "covered", "hands", "on", "."], "e1_text": "notice", "e1_pos": 30, "e2_text": "had", "e2_pos": 34, "label": "after"},
+{"tokens": ["But", "when", "I", "see", "yelp", "review", "after", "yelp", "review", "stating", "pretty", "much", "the", "same", "thing", ",", "I", "get", "a", "little", "ticked", "off", "."], "e1_text": "see", "e1_pos": 3, "e2_text": "stating", "e2_pos": 9, "label": "after"}
+]

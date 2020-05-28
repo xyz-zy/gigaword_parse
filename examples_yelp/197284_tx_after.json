@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "bill", "came", "-LRB-", "and", "unfortunately", "after", "we", "paid", "-RRB-", "I", "noticed", "that", "the", "waiter", "charged", "us", "for", "large", "milks", "."], "e1_text": "unfortunately", "e1_pos": 6, "e2_text": "paid", "e2_pos": 9, "label": "after"}
+]

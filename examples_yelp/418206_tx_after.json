@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "after", "I", "received", "my", "order", ",", "which", "was", "like", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "received", "e2_pos": 4, "label": "after"},
+{"tokens": ["Also", ",", "ordered", "were", "spring", "rolls", "which", "were", "not", "crispy", "and", "oily", "enough", "where", "I", "needed", "to", "wash", "my", "hands", "after", "touching", "them", "."], "e1_text": "wash", "e1_pos": 17, "e2_text": "touching", "e2_pos": 21, "label": "after"}
+]

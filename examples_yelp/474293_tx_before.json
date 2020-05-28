@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "one", "I", "ate", "in", "the", "shop", ",", "and", "the", "owner", "even", "had", "complimentary", "water", "and", "coffee", "set", "out", "for", "patrons", "who", "decided", "to", "enjoy", "her", "deliciousness", "before", "they", "even", "left", "the", "store", "."], "e1_text": "enjoy", "e1_pos": 24, "e2_text": "left", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "guest", "relation", "manager", "arrived", "40", "mins", "after", "notifying", "them", "with", "the", "only", "intention", "to", "have", "the", "complain", "written", "on", "paper", "and", "get", "out", "of", "the", "scene", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "notifying", "e2_pos": 8, "label": "after"}
+]

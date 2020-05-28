@@ -1,0 +1,3 @@
+[
+{"tokens": ["Besides", "that", ",", "we", "can", "hear", "the", "water", "pipe", ",", "people", "talking\\/walking", "on", "the", "hallway", ",", "it", "feels", "like", "the", "wall", "are", "almost", "too", "thin", "??", "-", "The", "room", "is", "almost", "too", "dark", "even", "with", "all", "the", "lights", "turned", "on", "-LRB-", "this", "is", "after", "they", "fixed", "the", "floor", "lamp", "and", "reading", "lamp", "-RRB-", "Opening", "all", "the", "curtain", "helps", ",", "but", "is", "n't", "that", "what", "'s", "lights", "are", "for", "?"], "e1_text": "is", "e1_pos": 29, "e2_text": "fixed", "e2_pos": 45, "label": "after"}
+]

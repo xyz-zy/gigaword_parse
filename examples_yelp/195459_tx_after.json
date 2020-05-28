@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "went", "there", "for", "the", "weekend", "brunch", "and", "it", "ended", "up", "being", "about", "$", "35\\/pp", "after", "waiting", "about", "25", "minutes", "to", "be", "seated", "."], "e1_text": "being", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 16, "label": "after"},
+{"tokens": ["The", "highly", "anticipated", "cr", "\\", "u00eapes", "was", "the", "biggest", "downside", "after", "waiting", "20", "minutes", "in", "line", "to", "order", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "waiting", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "highlight", "of", "the", "meal", "was", "probably", "the", "cr", "\\", "u00e8me", "brulee", "which", "I", "had", "to", "sadly", "force", "down", "-LRB-", "I", "was", "disgustingly", "full", ",", "probably", "after", "drinking", "close", "to", "a", "pitcher", "of", "mimosa", "because", "I", "certainly", "do", "n't", "remember", "eating", "much", "of", "the", "food", "-RRB-", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "drinking", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "my", "dry", "cleaning", "in", "on", "Friday", ",", "April", "12", ",", "2013", "and", "it", "'s", "always", "ready", "the", "next", "day", "after", "5:00", ",", "which", "is", "definitely", "a", "plus", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "is", "e2_pos": 25, "label": "after"},
+{"tokens": ["So", "I", "picked", "up", "my", "clothes", "on", "Monday", "evening", "after", "work", "only", "to", "find", "out", "they", "had", "laundered", ",", "not", "dry", "cleaned", ",", "all", "of", "my", "expensive", "work", "shirts", "."], "e1_text": "picked", "e1_pos": 2, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

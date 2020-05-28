@@ -1,0 +1,4 @@
+[
+{"tokens": ["Perhaps", "I", "have", "high", "standards", "or", "maybe", "I", "just", "got", "my", "hopes", "up", "after", "reading", "fellow", "Yelpers", "'", "reviews", ",", "but", "I", "do", "n't", "feel", "that", "I", "got", "my", "money", "'s", "worth", "with", "Ashley", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "was", "trying", "to", "find", "a", "new", "stylist", "after", "moving", "to", "Scottsdale", "."], "e1_text": "find", "e1_pos": 4, "e2_text": "moving", "e2_pos": 9, "label": "after"}
+]

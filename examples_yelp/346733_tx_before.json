@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "our", "waitress", "about", "what", "obviously", "looked", "like", "a", "billing", "error", "and", "she", "said", "that", "those", "of", "us", "who", "had", "ordered", "an", "iced", "tea", "or", "a", "soda", "before", "ordering", "our", "cocktail", "were", "charged", "separately", "for", "our", "cocktails", "because", "that", "soda", "or", "iced", "tea", "counts", "as", "''", "``", "a", "cocktail", "''", "''", "for", "the", "menu", "'s", "purpose", "."], "e1_text": "ordered", "e1_pos": 21, "e2_text": "ordering", "e2_pos": 29, "label": "before"}
+]

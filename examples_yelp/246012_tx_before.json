@@ -1,0 +1,4 @@
+[
+{"tokens": ["Check", "your", "food", "before", "you", "leave", "the", "drive-up", "!!!", "I", "'ve", "been", "going", "to", "this", "restaurant", "regularly", "for", "over", "5", "years", "and", "can", "count", "on", "one", "hand", "how", "many", "times", "they", "have", "gotten", "my", "order", "right", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "leave", "e2_pos": 5, "label": "before"},
+{"tokens": ["On", "one", "occasion", "I", "did", "n't", "check", "it", "before", "driving", "home", "and", "found", "out", "it", "was", "wrong", "so", "I", "drove", "all", "the", "way", "back", "to", "have", "it", "made", "correctly", ";", "they", "made", "it", "again", "and", "STILL", "SCREWED", "UP", "MY", "ORDER", "!"], "e1_text": "check", "e1_pos": 6, "e2_text": "driving", "e2_pos": 9, "label": "before"}
+]

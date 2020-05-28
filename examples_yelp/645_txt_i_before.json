@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "am", "not", "normally", "one", "to", "complain", "but", "I", "feel", "like", "something", "could", "have", "been", "substituted", "in", "for", "the", "apples", ",", "or", "that", "I", "should", "have", "been", "told", "before", "ordering", "or", "they", "could", "have", "discounted", "the", "salad", "but", "none", "of", "that", "occurred", "."], "e1_text": "told", "e1_pos": 27, "e2_text": "ordering", "e2_pos": 29, "label": "before"},
+{"tokens": ["The", "bottom", "line", "is", "that", "I", "have", "been", "here", "before", "and", "the", "food", "is", "generally", "good", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "have", "e2_pos": 6, "label": "before"},
+{"tokens": ["However", ",", "leaving", "a", "major", "part", "off", "an", "item", "and", "being", "told", "that", "the", "kitchen", "is", "out", "without", "any", "rectification", "will", "make", "me", "think", "twice", "before", "returning", "here", "again", "."], "e1_text": "think", "e1_pos": 23, "e2_text": "returning", "e2_pos": 26, "label": "before"}
+]

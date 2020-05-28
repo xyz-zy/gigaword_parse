@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "in", "to", "this", "bar", "late", "Saturday", "afternoon", "after", "reading", "an", "intriguing", "chalkboard", "boldly", "stating", "2", "for", "1", "shots", "and", "$", "2", "shots", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["Tiki", "Shack", "was", "revisited", "after", "digesting", "an", "over", "indulgent", "lunch", "."], "e1_text": "revisited", "e1_pos": 3, "e2_text": "digesting", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "loved", "Goyemon", "after", "I", "became", "disappointed", "with", "Sushi", "Mon", "-LRB-", "Silverado", "Ranch", "and", "Maryland", "Parkway", "-RRB-", "quality", "several", "years", "back", "."], "e1_text": "loved", "e1_pos": 1, "e2_text": "became", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "know", "the", "wait", "is", "always", "long", ",", "but", "after", "waiting", "that", "long", "i", "would", "expect", "some", "service", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

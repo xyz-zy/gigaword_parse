@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "give", "this", "place", "a", "go", "after", "hearing", "about", "it", "from", "a", "co", "worker", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "couldnt", "eat", "them", "even", "after", "I", "tried", "wiping", "the", "salt", "off", "."], "e1_text": "eat", "e1_pos": 2, "e2_text": "tried", "e2_pos": 7, "label": "after"}
+]

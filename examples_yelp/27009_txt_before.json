@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "into", "this", "Sally", "'s", "at", "8:30", "pm", "-LRB-", "30", "minutes", "before", "they", "close", "-RRB-", "because", "of", "a", "coloring", "Catastrophe", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "close", "e2_pos": 14, "label": "before"}
+]

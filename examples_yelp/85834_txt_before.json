@@ -1,0 +1,4 @@
+[
+{"tokens": ["Check", "their", "website", "for", "coupons", "before", "heading", "down", "there", ",", "there", "'s", "often", "a", "coupon", "for", "clothing", "items", "that", "you", "can", "print", "and", "use", "for", "a", "small", "discount", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "heading", "e2_pos": 6, "label": "before"},
+{"tokens": ["Look", "elsewhere", "before", "you", "buy", "if", "you", "'re", "interested", "in", "saving", "money", "."], "e1_text": "Look", "e1_pos": 0, "e2_text": "buy", "e2_pos": 4, "label": "before"}
+]

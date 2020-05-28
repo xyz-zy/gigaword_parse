@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "thing", "that", "I", "was", "a", "little", "confused", "about", "at", "first", "was", "before", "we", "even", "ordered", "our", "main", "course", ",", "they", "were", "asking", "if", "we", "wanted", "a", "souffle", "for", "dessert", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "ordered", "e2_pos": 15, "label": "before"}
+]

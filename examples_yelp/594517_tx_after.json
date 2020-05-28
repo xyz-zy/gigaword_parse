@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "obviously", "huge", "gaps", "on", "the", "calendar", "open", "on", "her", "computer", "screen", ",", "but", "she", "assured", "me", "they", "were", "all", "booked", "until", "the", "day", "after", "we", "left", "."], "e1_text": "booked", "e1_pos": 21, "e2_text": "left", "e2_pos": 27, "label": "after"},
+{"tokens": ["The", "cherry", "on", "the", "cake", "was", "that", "after", "being", "lied", "to", "and", "offered", "no", "practical", "help", "to", "get", "us", "our", "second", "massage", ";", "I", "was", "chased", "out", "into", "the", "parking", "lot", "by", "the", "desk", "lady", "asking", "for", "a", "tip", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

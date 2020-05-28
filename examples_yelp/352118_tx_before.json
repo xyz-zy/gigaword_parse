@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "one", "asked", "put", "the", "hot", "fudge", "away", "into", "the", "fridge", "before", "we", "even", "decided", "what", "we", "wanted", "."], "e1_text": "put", "e1_pos": 3, "e2_text": "decided", "e2_pos": 14, "label": "before"},
+{"tokens": ["Finally", ",", "the", "girl", "was", "asking", "me", "for", "my", "money", "before", "I", "had", "even", "decided", "if", "I", "wanted", "any", "chocolates", "or", "not", "to", "go", "with", "my", "milkshake", "."], "e1_text": "asking", "e1_pos": 5, "e2_text": "had", "e2_pos": 12, "label": "before"}
+]

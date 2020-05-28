@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "they", "do", "n't", "ever", "mention", "these", "fees", "until", "right", "before", "you", "sign", "the", "lease", "."], "e1_text": "mention", "e1_pos": 5, "e2_text": "sign", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "have", "gone", "into", "the", "office", "to", "pick", "up", "packages", "recently", ",", "and", "it", "'s", "almost", "like", "they", "'re", "playing", "a", "game", "to", "see", "how", "long", "you", "'ll", "wait", "for", "one", "of", "them", "to", "help", "you", "before", "you", "get", "pissed", "."], "e1_text": "help", "e1_pos": 34, "e2_text": "get", "e2_pos": 38, "label": "before"}
+]

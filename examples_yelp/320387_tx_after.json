@@ -1,0 +1,4 @@
+[
+{"tokens": ["really", "??", "The", "most", "disappointing", "part", "of", "our", "meal", "was", "the", "lack", "of", "concern", "by", "our", "waitress", ",", "my", "friend", "almost", "threw", "up", "after", "chewing", "on", "the", "large", "piece", "of", "fat", "and", "she", "did", "n't", "even", "ask", "us", "if", "we", "wanted", "anything", "else", ",", "if", "she", "could", "get", "us", "anything", ".", "."], "e1_text": "threw", "e1_pos": 21, "e2_text": "chewing", "e2_pos": 24, "label": "after"},
+{"tokens": ["But", "she", "was", "very", "quick", "to", "grab", "the", "quesadilla", "off", "our", "table", "after", "seeing", "the", "piece", "of", "fat", "."], "e1_text": "grab", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 13, "label": "after"}
+]

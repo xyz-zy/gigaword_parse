@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "moved", "to", "Charlotte", "and", "after", "driving", "two", "days", "to", "get", "here", ",", "I", "was", "in", "need", "of", "a", "massage", "!"], "e1_text": "moved", "e1_pos": 2, "e2_text": "driving", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "felt", "amazing", "for", "days", "after", "I", "left", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "left", "e2_pos": 7, "label": "after"}
+]

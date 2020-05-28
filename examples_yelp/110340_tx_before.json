@@ -1,0 +1,5 @@
+[
+{"tokens": ["This", "place", "was", "pretty", "good", ",", "but", "parking", "was", "always", "a", "pain", ",", "even", "before", "they", "made", "Tempe", "Town", "Lake", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "made", "e2_pos": 16, "label": "before"},
+{"tokens": ["Sometime", "about", "5-6", "years", "ago", "some", "security", "asshole", "decided", "it", "was", "a", "good", "idea", "to", "strip", "search", "you", "before", "you", "go", "in", "."], "e1_text": "search", "e1_pos": 16, "e2_text": "go", "e2_pos": 20, "label": "before"},
+{"tokens": ["Be", "sure", "to", "drink", "before", "you", "go", "in", "."], "e1_text": "drink", "e1_pos": 3, "e2_text": "go", "e2_pos": 6, "label": "before"}
+]

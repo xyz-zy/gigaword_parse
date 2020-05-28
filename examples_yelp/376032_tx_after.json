@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "really", "was", "n't", "a", "big", "deal", "except", "one", "time", "someone", "at", "hotel", "called", "after", "we", "explained", "that", "we", "did", "n't", "order", "any", "plates", "and", "in", "a", "demanding", "voice", "wanted", "to", "know", "exactly", "what", "we", "ordered", ".", "''"], "e1_text": "called", "e1_pos": 13, "e2_text": "explained", "e2_pos": 16, "label": "after"}
+]

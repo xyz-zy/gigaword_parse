@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "actually", "made", "the", "trip", "up", "from", "the", "strip", "-LRB-", "Im", "not", "a", "local", "-RRB-", "to", "visit", "this", "place", "after", "seeing", "it", "while", "I", "was", "going", "to", "look", "at", "the", "Pawn", "Stars", "pawn", "shop", "."], "e1_text": "visit", "e1_pos": 16, "e2_text": "seeing", "e2_pos": 20, "label": "after"}
+]

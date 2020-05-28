@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "bring", "you", "a", "nice", "size", "basket", "of", "hushpuppies", ",", "like", "bringing", "chips", "elsewhere", ",", "before", "you", "order", "."], "e1_text": "bringing", "e1_pos": 11, "e2_text": "order", "e2_pos": 17, "label": "before"},
+{"tokens": ["??", "We", "got", "them", "before", "we", "ordered", "any", "all", "you", "can", "eat", "dish", "remind", "you", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "hunting", "down", "our", "waitress", "and", "asking", "to", "have", "our", "order", "taken", ",", "our", "food", "finally", "arrived", "-LRB-", "cold", "-RRB-", "an", "hour", "after", "it", "was", "ordered", ",", "it", "was", "so", "dark", "we", "could", "n't", "see", "what", "we", "were", "eating", "and", "we", "could", "n't", "eat", "fast", "enough", "to", "get", "out", "of", "there", "and", "get", "away", "from", "the", "whole", "scene", "."], "e1_text": "arrived", "e1_pos": 16, "e2_text": "was", "e2_pos": 24, "label": "after"}
+]

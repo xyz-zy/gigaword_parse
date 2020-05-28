@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "he", "tried", "to", "leave", "before", "asking", "us", "for", "a", "drink", "order", ",", "i", "quickly", "asked", "him", "if", "the", "sangria", "was", "red", "or", "white", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "asking", "e2_pos": 6, "label": "before"}
+]

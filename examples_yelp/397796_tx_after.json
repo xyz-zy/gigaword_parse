@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "went", "to", "tell", "manager", "after", "a", "couple", "mins", "a", "girl", "came", "over", "and", "said", "the", "food", "is", "ready", ",", "I", "said", "we", "'ll", "take", "it", "in", "boxes", "because", "we", "have", "to", "go", "."], "e1_text": "tell", "e1_pos": 3, "e2_text": "mins", "e2_pos": 8, "label": "after"}
+]

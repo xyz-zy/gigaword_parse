@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "cat", "here", "for", "a", "preliminary", "checkup", "after", "adopting", "her", "from", "the", "animal", "shelter", "&", "then", "again", "to", "have", "her", "declawed", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "adopting", "e2_pos": 10, "label": "after"}
+]

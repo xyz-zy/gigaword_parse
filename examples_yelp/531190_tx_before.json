@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "few", "actors", "came", "out", "to", "interact", "with", "the", "crowd", ",", "one", "was", "great", "and", "doing", "just", "the", "sorts", "of", "things", "that", "key", "up", "an", "audience", "the", "other", "just", "sort", "of", "stood", "behind", "you", "and", "most", "of", "the", "time", "he", "moved", "on", "before", "you", "even", "knew", "he", "had", "been", "there", "."], "e1_text": "moved", "e1_pos": 40, "e2_text": "knew", "e2_pos": 45, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "hope", "the", "next", "time", "he", "'s", "standing", "in", "line", "that", "whomever", "is", "waiting", "on", "him", "takes", "everyone", "else", "before", "they", "take", "him", "."], "e1_text": "takes", "e1_pos": 16, "e2_text": "take", "e2_pos": 21, "label": "before"}
+]

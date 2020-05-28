@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "must", "'ve", "given", "me", "a", "dozen", "signs", "he", "did", "not", "want", "my", "business", ",", "including", "being", "completely", "annoyed", "with", "me", "for", "asking", "questions", "after", "not", "offering", "me", "the", "basic", "information", "...", "Answers", "were", "terse", "and", "made", "no", "eye", "contact", "."], "e1_text": "asking", "e1_pos": 22, "e2_text": "offering", "e2_pos": 26, "label": "after"},
+{"tokens": ["-LRB-", "Also", ",", "he", "took", "2", "days", "just", "to", "LOOK", "at", "the", "vacuum", ",", "gave", "me", "a", "2-3", "week", "timeframe", "for", "repair", ",", "claimed", "his", "loaner", "was", "out", "on", "loan", "--", "but", "then", "said", "it", "was", "broken", ",", "and", "after", "I", "asked", ",", "he", "offered", "to", "rent", "me", "one", "for", "15", "$", "a", "day", "--", "Wow", "."], "e1_text": "said", "e1_pos": 33, "e2_text": "asked", "e2_pos": 41, "label": "after"}
+]

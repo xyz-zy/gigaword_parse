@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "some", "work", "other", "than", "just", "standing", "up", "front", "and", "then", "ducking", "in", "the", "back", "I", "came", "here", "for", "the", "hand", "made", "noodles", "and", "thus", "put", "in", "an", "order", "and", "informed", "only", "after", "I", "ordered", "that", "there", "were", "none", "available", "."], "e1_text": "informed", "e1_pos": 30, "e2_text": "ordered", "e2_pos": 34, "label": "after"}
+]

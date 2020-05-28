@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "I", "had", "to", "ask", "for", "butter", "twice", "before", "it", "came", ",", "and", "wait", "awhile", "for", "replenishment", "of", "my", "glass", "of", "Sprite", "and", "for", "the", "second", "soup", "."], "e1_text": "ask", "e1_pos": 4, "e2_text": "came", "e2_pos": 10, "label": "before"},
+{"tokens": ["At", "least", "I", "saw", "it", "before", "I", "tried", "to", "eat", "it", "!"], "e1_text": "saw", "e1_pos": 3, "e2_text": "tried", "e2_pos": 7, "label": "before"}
+]

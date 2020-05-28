@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "mistakes", "happen", "&", "I", "would", "n't", "mention", "this", "as", "a", "negative", "except", "that", "I", "noticed", "the", "same", "waiter", "had", "the", "same", "''", "``", "mistake", "''", "''", "with", "the", "couple", "two", "tables", "away", "from", "us", "immediately", "before", "we", "paid", "our", "bill", "."], "e1_text": "happen", "e1_pos": 3, "e2_text": "paid", "e2_pos": 39, "label": "before"}
+]

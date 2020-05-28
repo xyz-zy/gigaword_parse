@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "see", ",", "this", "was", "my", "first", "meal", "after", "running", "a", "marathon", "earlier", "in", "the", "day", ",", "and", "I", "was", "ready", "to", "stuff", "my", "face", "with", "protein", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "running", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "figured", "after", "burning", "4,000", "Calories", "in", "one", "day", ",", "I", "deserved", "it", "."], "e1_text": "figured", "e1_pos": 1, "e2_text": "burning", "e2_pos": 3, "label": "after"}
+]

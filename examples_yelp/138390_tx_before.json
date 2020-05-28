@@ -1,0 +1,3 @@
+[
+{"tokens": ["During", "a", "trip", "to", "Vegas", ",", "we", "decided", "to", "enjoy", "a", "nice", "dinner", "out", "at", "the", "Eiffel", "Tower", "Restaurant", "and", "actually", "planned", "ahead", "so", "we", "made", "a", "reservation", "before", "we", "got", "into", "town", "."], "e1_text": "made", "e1_pos": 25, "e2_text": "got", "e2_pos": 30, "label": "before"}
+]

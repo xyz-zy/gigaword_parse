@@ -1,0 +1,3 @@
+[
+{"tokens": ["Later", "that", "same", "day", ",", "I", "went", "to", "another", "bike", "store", ",", "-LRB-", "not", "dna", "related", "-RRB-", "and", "had", "a", "much", "better", "experience", ",", "the", "guy", "that", "helped", "me", "even", "remembered", "my", "brother", "in", "law", "and", "sister", "that", "had", "shopped", "there", "before", ",", "I", "wound", "up", "spending", "a", "little", "over", "$", "500", "on", "a", "bike", ",", "which", "for", "me", "is", "not", "a", "small", "purchase", "."], "e1_text": "shopped", "e1_pos": 39, "e2_text": "wound", "e2_pos": 44, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Server", "dropped", "off", "bill", "before", "we", "were", "halfway", "thru", "our", "meal", "celebrating", "my", "wife", "'s", "birthday", "."], "e1_text": "dropped", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"},
+{"tokens": ["Since", "when", "do", "you", "get", "the", "bill", "before", "you", "are", "asked", "about", "desert", "?"], "e1_text": "get", "e1_pos": 4, "e2_text": "are", "e2_pos": 9, "label": "before"}
+]

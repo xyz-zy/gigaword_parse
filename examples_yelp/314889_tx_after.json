@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "are", "going", "in", "for", "an", "appointment", ",", "you", "need", "to", "be", "aware", "that", "they", "might", "forget", "about", "you", "even", "after", "you", "have", "checked", "in", ",", "again", "they", "are", "very", "busy", "."], "e1_text": "forget", "e1_pos": 17, "e2_text": "have", "e2_pos": 23, "label": "after"}
+]

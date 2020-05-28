@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "and", "did", "not", "get", "our", "food", "until", "exactly", "one", "hour", "after", "placing", "it", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "placing", "e2_pos": 13, "label": "after"},
+{"tokens": ["the", "food", "was", "pretty", "good", ",", "but", "i", "cant", "recommend", "a", "place", "that", "requires", "an", "hour", "after", "placing", "an", "order", ",", "apologizes", "by", "promising", "to", "comp", "the", "meal", "and", "then", "changes", "course", "when", "the", "check", "comes", "."], "e1_text": "requires", "e1_pos": 13, "e2_text": "placing", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "must", "have", "waited", "in", "line", "for", "45", "minutes", "before", "finally", "getting", "seated", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "getting", "e2_pos": 11, "label": "before"},
+{"tokens": ["Whether", "it", "was", "the", "lateness", "of", "the", "hour", "-LRB-", "although", "we", "had", "2", "hours", "before", "the", "buffet", "closed", "-RRB-", "or", "what", ",", "I", "definitely", "like", "my", "food", "hot", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "closed", "e2_pos": 17, "label": "before"}
+]

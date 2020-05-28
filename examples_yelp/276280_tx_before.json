@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "for", "us", "our", "dinner", "experience", "did", "not", "meet", "our", "expectations", "on", "any", "level", "...", "I", "have", "been", "here", "when", "this", "manager", "was", "working", "before", "."], "e1_text": "been", "e1_pos": 18, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["It", "will", "be", "some", "time", "before", "I", "go", "to", "this", "Pei", "Wei", "again", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "go", "e2_pos": 7, "label": "before"}
+]

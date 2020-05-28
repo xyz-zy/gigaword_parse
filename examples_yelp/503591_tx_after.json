@@ -1,0 +1,3 @@
+[
+{"tokens": ["Date", "Attended", ":", "11\\/13\\/14", "Item", "Ordered", ":", "Goat", "Burger", "-LRB-", "white", "cheddar", "substituted", "for", "goat", "cheese", "-RRB-", "and", "Rocky", "Road", "Bread", "Pudding", "Price", ":", "$", "20", "Service", ":", "I", "have", "to", "confess", "this", "is", "my", "fourth", "time", "at", "BLD", "and", "I", "have", "always", "remembered", "to", "write", "a", "review", "after", "eating", "the", "entire", "meal", "."], "e1_text": "write", "e1_pos": 45, "e2_text": "eating", "e2_pos": 49, "label": "after"}
+]

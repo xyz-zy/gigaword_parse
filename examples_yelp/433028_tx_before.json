@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Hindsight", "says", "my", "shellac", "came", "off", "so", "easily", "because", "my", "nails", "were", "NOT", "filed", "before", "painting", "because", "there", "is", "ZERO", "reason", "to", "do", "so", "and", "it", "still", "last", "for", "weeks", "and", "weeks", "-", "without", "nail", "damage", "-RRB-", "She", "grabs", "a", "cuticle", "nipper", "and", "made", "a", "few", "small", "clips", "to", "a", "few", "nails", "then", "asks", "if", "I", "want", "a", "massage", "."], "e1_text": "filed", "e1_pos": 14, "e2_text": "painting", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "so", "simple", ",", "but", "I", "really", "like", "the", "fact", "that", "we", "did", "n't", "have", "to", "wait", "after", "eating", "to", "get", "another", "container", "and", "pack", "up", "my", "food", "."], "e1_text": "wait", "e1_pos": 17, "e2_text": "eating", "e2_pos": 19, "label": "after"},
+{"tokens": ["On", "a", "final", "note", ",", "my", "friend", "definitely", "loved", "his", "sandwich", "as", "much", "as", "I", "enjoyed", "my", "salad", ",", "so", "next", "time", ",", "I", "'m", "planning", "ahead", ",", "not", "coming", "here", "after", "I", "eat", "too", "much", "in", "advance", ",", "and", "giving", "myself", "the", "chance", "to", "try", "some", "of", "what", "smelled", "so", "darn", "good", "when", "I", "walked", "in", "here", "."], "e1_text": "coming", "e1_pos": 29, "e2_text": "eat", "e2_pos": 33, "label": "after"}
+]

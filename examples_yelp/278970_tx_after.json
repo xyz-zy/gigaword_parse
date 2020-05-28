@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "unlike", "my", "Chatty", "Kathy", "doll", "from", "childhood", ",", "they", "actually", "do", "wait", "for", "you", "to", "answer", "after", "you", "pull", "the", "string", ",", "so", "to", "speak", "."], "e1_text": "answer", "e1_pos": 16, "e2_text": "pull", "e2_pos": 19, "label": "after"}
+]

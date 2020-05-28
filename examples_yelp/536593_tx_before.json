@@ -1,0 +1,3 @@
+[
+{"tokens": ["$", "10", "Pizza", "dough", "was", "not", "cooked", "through", "before", "the", "hollandaise", "sauce", "was", "put", "on", "so", "it", "was", "wet", "and", "rubbery", "."], "e1_text": "cooked", "e1_pos": 6, "e2_text": "was", "e2_pos": 4, "label": "before"}
+]

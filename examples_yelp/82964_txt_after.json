@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "waiter", "came", "bringing", "four", "plates", "and", "after", "about", "five", "minutes", "of", "trying", "to", "decide", "who", "'s", "was", "who", "'s", "we", "finally", "had", "to", "explain", "to", "him", "that", "none", "of", "these", "orders", "were", "ours", "and", "he", "was", "at", "the", "wrong", "table", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

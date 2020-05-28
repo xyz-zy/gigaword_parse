@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "does", "n't", "know", "how", "to", "handle", "this", ",", "looks", "uncomfortable", "while", "apologizing", "a", "number", "of", "times", "before", "heading", "to", "the", "hostess", "stand", "."], "e1_text": "apologizing", "e1_pos": 12, "e2_text": "heading", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "predict", "that", "it", "'s", "not", "long", "before", "they", "come", "out", "ask", "us", "just", "what", "it", "was", "you", "ordered", "again", "."], "e1_text": "'s", "e1_pos": 4, "e2_text": "come", "e2_pos": 9, "label": "before"}
+]

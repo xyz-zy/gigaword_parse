@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "another", "15-20", "min", "to", "get", "our", "drinks", "and", "get", "our", "order", "taken", ",", "then", "watched", "as", "people", "who", "came", "in", "several", "minutes", "after", "us", "got", "their", "food", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 26, "e2_text": "did", "e2_pos": 31, "label": "before"},
+{"tokens": ["We", "waited", "for", "more", "than", "15", "minutes", "before", "I", "finally", "went", "inside", "to", "track", "down", "our", "waitress", "who", "looked", "at", "me", "like", "she", "had", "never", "seen", "me", ",", "then", "spent", "the", "next", "5-7", "minutes", "trying", "to", "find", "our", "tab", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "went", "e2_pos": 10, "label": "before"}
+]

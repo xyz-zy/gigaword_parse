@@ -1,0 +1,5 @@
+[
+{"tokens": ["After", "the", "drink", "came", "and", "went", ",", "we", "stood", "and", "watched", "as", "the", "woman", "that", "had", "ordered", "after", "us", "received", "her", "prepared", "bagel", "sandwich", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "received", "e2_pos": 19, "label": "after"},
+{"tokens": ["The", "couple", "that", "ordered", "after", "her", "received", "their", "breakfast", "order", "."], "e1_text": "ordered", "e1_pos": 3, "e2_text": "received", "e2_pos": 6, "label": "after"},
+{"tokens": ["And", "the", "couple", "that", "ordered", "after", "them", "received", "their", "bag", "of", "half", "a", "dozen", "bagels", "all", "sliced", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "received", "e2_pos": 7, "label": "after"}
+]

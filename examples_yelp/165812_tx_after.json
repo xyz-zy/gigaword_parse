@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "back", "to", "hotel", "after", "catching", "a", "show", "around", "12", "AM", ",", "and", "neither", "of", "our", "keys", "worked", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "worked", "e2_pos": 18, "label": "after"},
+{"tokens": ["No", "one", "ever", "showed", "after", "waiting", "for", "30", "minutes", ",", "and", "we", "had", "to", "walk", "all", "the", "way", "back", "down", "to", "the", "front", "desk", "and", "wait", "for", "assistance", "."], "e1_text": "showed", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "and", "I", "decided", "to", "stop", "here", "for", "lunch", "and", "had", "the", "usual", "hour", "before", "we", "had", "to", "go", "back", "to", "work", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["Well", "we", "stood", "at", "the", "hostess", "stand", "for", "about", "5", "minutes", "before", "anyone", "acknowledged", "us", "!"], "e1_text": "stood", "e1_pos": 2, "e2_text": "acknowledged", "e2_pos": 13, "label": "before"}
+]

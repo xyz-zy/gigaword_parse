@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "the", "ladies", "room", "wastebasket", "was", "overflowing", "with", "paper", "towels", "all", "on", "the", "floor", "-", "before", "the", "movie", "started", "."], "e1_text": "overflowing", "e1_pos": 6, "e2_text": "started", "e2_pos": 18, "label": "before"},
+{"tokens": ["I", "liked", "the", "music", "videos", "\\/", "live", "REM", "concert", "video", "before", "the", "movie", "started", "."], "e1_text": "live", "e1_pos": 6, "e2_text": "started", "e2_pos": 13, "label": "before"}
+]

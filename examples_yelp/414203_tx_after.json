@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "was", "great", "at", "answering", "any", "questions", ",", "but", "the", "entrees", "came", "out", "not", "even", "minutes", "after", "getting", "the", "appetizer", "and", "banchan", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "getting", "e2_pos": 18, "label": "after"},
+{"tokens": ["But", "I", "say", "again", "we", "were", "the", "only", "ones", "in", "there", "besides", "the", "carryout", "and", "a", "couple", "that", "came", "in", "alittle", "after", "we", "got", "there", "."], "e1_text": "came", "e1_pos": 18, "e2_text": "got", "e2_pos": 23, "label": "after"}
+]

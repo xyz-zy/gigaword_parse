@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "the", "manager", "the", "next", "day", ",", "he", "assured", "me", "that", "it", "was", "just", "a", "mistake", "and", "the", "money", "would", "go", "back", "on", "my", "account", "after", "the", "bank", "released", "the", "authorization", "."], "e1_text": "go", "e1_pos": 22, "e2_text": "released", "e2_pos": 30, "label": "after"}
+]

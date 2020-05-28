@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "hungry", "and", "wanted", "something", "easy", "so", "after", "looking", "on", "yelp", "and", "saving", "this", "place", "as", "somewhere", "to", "try", "we", "decided", "to", "go", "for", "some", "wings", "."], "e1_text": "wanted", "e1_pos": 4, "e2_text": "decided", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "just", "come", "from", "the", "Valley", "of", "Fire", "about", "40", "minutes", "outside", "of", "Vegas", "and", "were", "dying", "of", "thirst", ",", "but", "no", "one", "came", "to", "ask", "for", "our", "order", "for", "a", "good", "10-15", "minutes", "after", "being", "seated", "."], "e1_text": "ask", "e1_pos": 26, "e2_text": "being", "e2_pos": 36, "label": "after"},
+{"tokens": ["And", "this", "is", "after", "waiting", "almost", "an", "hour", "and", "a", "half", "just", "to", "get", "in", "!!", "The", "line", "hardly", "ever", "moved", "because", "the", "lady", "working", "the", "carving", "station", "moved", "at", "a", "glacial", "pace", "and", "honestly", "looked", "like", "she", "could", "cry", "from", "being", "overwhelmed", "with", "orders", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "moved", "e2_pos": 20, "label": "after"}
+]

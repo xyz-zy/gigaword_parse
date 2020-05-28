@@ -1,0 +1,4 @@
+[
+{"tokens": ["Surprisingly", "a", "lot", "of", "security", "but", "I", "understood", "the", "need", "after", "I", "'ve", "seen", "a", "bad", "drunk", "threatening", "to", "get", "the", "Russian", "mafia", "to", "shoot", "the", "pub", "up", "after", "getting", "thrown", "out", "of", "a", "bar", "."], "e1_text": "understood", "e1_pos": 7, "e2_text": "'ve", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "'ve", "never", "tried", "The", "Rim", "Reaper", "Challenge", "as", "I", "already", "passed", "20", "minutes", "under", "a", "sink", "with", "tears", "rolling", "down", "my", "cheeks", "after", "trying", "Cage", "Aux", "Sports", "'", "9-1-1", "hot", "wings", "and", "did", "n't", "wish", "to", "permanently", "damage", "my", "taste", "buds", "but", "it", "seems", "quite", "fun", "if", "you", "think", "you", "'re", "up", "to", "it", "!"], "e1_text": "rolling", "e1_pos": 19, "e2_text": "trying", "e2_pos": 24, "label": "after"}
+]

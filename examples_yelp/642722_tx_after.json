@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "visit", "was", "on", "Sunday", ",", "June", "8", ",", "at", "around", "7:00", "pm", "after", "an", "afternoon", "spent", "at", "a", "neighborhood", "festival", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "spent", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "came", "here", "for", "a", "birthday", "party", "with", "12", "people", ",", "after", "being", "seated", "we", "waited", "25", "minutes", "for", "drinks", "-LRB-", "never", "even", "got", "water", "until", "we", "complained", "to", "a", "manager", "-RRB-", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "a", "large", "home", "and", "they", "were", "here", "for", "just", "about", "4-1\\/2", "hours", "and", "after", "cleaning", "each", "area", "Nina", "insisted", "that", "I", "look", "it", "over", "to", "make", "sure", "I", "was", "satisfied", ",", "which", "indeed", "I", "was", "!"], "e1_text": "were", "e1_pos": 7, "e2_text": "cleaning", "e2_pos": 16, "label": "after"}
+]

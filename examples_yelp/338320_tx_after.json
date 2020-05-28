@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "got", "to", "go", "here", "after", "ages", "of", "trying", "to", "get", "organised", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "trying", "e2_pos": 8, "label": "after"},
+{"tokens": ["If", "you", "order", "too", "much", "and", "do", "n't", "eat", "it", "all", "you", "might", "get", "charged", "an", "excess", "fee", ",", "but", "we", "had", "a", "few", "pieces", "left", "over", "-LRB-", "about", "6", ",", "after", "ordering", "50", "pieces", "-RRB-", "and", "it", "was", "n't", "and", "issue", "."], "e1_text": "left", "e1_pos": 25, "e2_text": "ordering", "e2_pos": 32, "label": "after"}
+]

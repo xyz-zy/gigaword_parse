@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "he", "stood", "about", "5", "feet", "away", "from", "me", "with", "his", "arms", "crossed", "watching", "very", "disapprovingly", "as", "I", "would", "hit", "the", "side", "of", "an", "Avatar", "machine", "to", "keep", "the", "ball", "from", "exiting", "the", "right", "orbit", "and", "dropping", "into", "the", "right", "sling", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "stood", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "chose", "to", "leave", "on", "my", "own", "after", "the", "second", "warning", "during", "which", "time", "I", "was", "followed", "out", "the", "door", "while", "continuing", "to", "be", "berated", "."], "e1_text": "leave", "e1_pos": 3, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "time", "there", "I", "stood", "at", "the", "bar", "a", "half", "hour", "waiting", "for", "him", "to", "ask", "me", "what", "i", "'d", "like", ",", "in", "that", "half", "hour", "I", "watched", "him", "help", "multiple", "people", "twice", "before", "getting", "around", "to", "me", ",", "even", "stopped", "&", "picked", "up", "his", "phone", "to", "text", "before", "coming", "over", "to", "ask", "what", "i", "'d", "like", "to", "drink", "."], "e1_text": "help", "e1_pos": 29, "e2_text": "getting", "e2_pos": 34, "label": "before"}
+]

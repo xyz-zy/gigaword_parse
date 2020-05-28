@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "usually", "love", "their", "rice", ",", "but", "the", "last", "time", "I", "went", "there", ",", "they", "were", "serving", "a", "yellow", "colored", "rice", ",", "but", "before", "it", "was", "just", "white", "."], "e1_text": "went", "e1_pos": 11, "e2_text": "was", "e2_pos": 25, "label": "before"}
+]

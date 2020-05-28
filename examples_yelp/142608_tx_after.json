@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "a", "fan", "-LRB-", "hence", "the", "4", "stars", "-RRB-", ",", "but", "since", "last", "Sunday", "'s", "two", "hour", "wait", ",", "I", "would", "not", "recommend", "coming", "here", "after", "lunch", "on", "Sunday", "-LRB-", "see", ",", "everyone", "had", "the", "same", "idea", "that", "day", "-RRB-", "."], "e1_text": "coming", "e1_pos": 24, "e2_text": "see", "e2_pos": 31, "label": "after"},
+{"tokens": ["Once", "I", "was", "called", "back", "there", ",", "the", "phlebotomist", "told", "me", "that", "everyone", "left", "and", "did", "n't", "volunteer", "even", "after", "seeing", "that", "the", "waiting", "room", "was", "filled", "almost", "to", "capacity", "."], "e1_text": "volunteer", "e1_pos": 17, "e2_text": "seeing", "e2_pos": 20, "label": "after"}
+]

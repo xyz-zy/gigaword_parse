@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "smoothies", "came", "out", "about", "5", "min", "after", "I", "ordered", "them", ",", "at", "which", "point", "I", "sat", "down", "and", "figured", "the", "food", "would", "take", "a", "while", "longer", "to", "make", "...", "20", "min", "later", "and", "they", "still", "have", "n't", "called", "my", "name", ",", "and", "I", "started", "noticing", "customers", "that", "ordered", "after", "us", "being", "called", "up", "to", "get", "their", "food", "orders", ",", "which", "was", "not", "a", "good", "sign", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 9, "label": "after"}
+]

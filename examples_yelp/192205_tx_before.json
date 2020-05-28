@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "least", "the", "food", "was", "good", "...", "too", "bad", "my", "appetite", "was", "spoiled", "before", "we", "even", "sat", "down", "."], "e1_text": "spoiled", "e1_pos": 12, "e2_text": "sat", "e2_pos": 16, "label": "before"}
+]

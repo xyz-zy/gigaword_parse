@@ -1,0 +1,4 @@
+[
+{"tokens": ["Turns", "out", "after", "almost", "three", "years", "that", "he", "had", "chronic", "renal", "failure", "the", "WHOLE", "time", "."], "e1_text": "Turns", "e1_pos": 0, "e2_text": "had", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "could", "n't", "go", "to", "that", "doctor", "because", "I", "moved", "six", "months", "after", "I", "got", "my", "dog", "."], "e1_text": "moved", "e1_pos": 9, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

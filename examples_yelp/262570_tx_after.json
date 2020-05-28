@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "by", "here", "for", "lunch", "today", "after", "spotting", "it", "from", "the", "road", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "spotting", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "tables", "were", "a", "little", "dirty", ",", "and", "it", "did", "n't", "seem", "they", "were", "in", "any", "hurry", "to", "wipe", "the", "tables", "after", "people", "left", "."], "e1_text": "wipe", "e1_pos": 18, "e2_text": "left", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "the", "veggie", "roti", "again", "with", "the", "warning", "that", "it", "would", "take", "a", "''", "``", "loooooooong", "time", "''", "''", "since", "someone", "before", "me", "just", "ordered", "a", "roti", "."], "e1_text": "loooooooong", "e1_pos": 16, "e2_text": "ordered", "e2_pos": 25, "label": "before"}
+]

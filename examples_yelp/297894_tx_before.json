@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "left", "and", "ran", "a", "few", "errands", "before", "I", "joined", "them", ",", "but", "when", "I", "returned", "about", "an", "hour", "later", ",", "they", "were", "still", "sitting", "in", "the", "main", "area", "on", "the", "tables", "."], "e1_text": "ran", "e1_pos": 3, "e2_text": "joined", "e2_pos": 9, "label": "before"}
+]

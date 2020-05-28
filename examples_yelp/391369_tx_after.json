@@ -1,0 +1,4 @@
+[
+{"tokens": ["Dinner", "came", "out", "40", "minutes", "after", "we", "were", "done", "with", "the", "appetizers", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "thought", "it", "was", "because", "they", "were", "super", "busy", "but", "we", "still", "did", "n't", "receive", "our", "entrees", "after", "2\\/3", "of", "the", "restaurant", "cleared", "out", "."], "e1_text": "receive", "e1_pos": 14, "e2_text": "cleared", "e2_pos": 22, "label": "after"}
+]

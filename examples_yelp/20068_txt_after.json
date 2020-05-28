@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "days", "later", ",", "I", "parked", "my", "car", ",", "turned", "it", "off", ",", "and", "went", "to", "start", "it", "again", "after", "picking", "up", "my", "mail", ",", "and", "the", "car", "would", "not", "start", "."], "e1_text": "start", "e1_pos": 17, "e2_text": "picking", "e2_pos": 21, "label": "after"},
+{"tokens": ["My", "husband", "plugged", "this", "in", "completely", "-LRB-", "like", "it", "should", "have", "been", "doen", "at", "the", "shop", "after", "fixing", "the", "oil", "leak", "-RRB-", ",", "and", "there", "have", "been", "zero", "issues", "since", "."], "e1_text": "doen", "e1_pos": 12, "e2_text": "fixing", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "too", "used", "the", "$", "120", "worth", "of", "services", "for", "$", "60", "Groupon", "for", "my", "visit", "here", "-LRB-", "I", "called", "and", "booked", "my", "appointments", "before", "buying", "it", "just", "to", "be", "safe", "-RRB-", "."], "e1_text": "booked", "e1_pos": 21, "e2_text": "buying", "e2_pos": 25, "label": "before"},
+{"tokens": ["However", ",", "like", "others", "on", "here", ",", "I", "did", "n't", "like", "being", "forced", "to", "tip", "20", "%", ",", "especially", "before", "the", "services", "were", "even", "done", "."], "e1_text": "like", "e1_pos": 10, "e2_text": "were", "e2_pos": 22, "label": "before"}
+]

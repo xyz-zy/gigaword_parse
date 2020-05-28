@@ -1,0 +1,4 @@
+[
+{"tokens": ["Enough", "about", "that", "...", "Gus", "'s", "is", "one", "of", "the", "best", "places", "to", "grab", "pizza", "after", "drinking", "it", "up", "on", "Mill", "Ave.", "Since", "it", "takes", "a", "little", "bit", "more", "energy", "to", "get", "to", "than", "Slices", "does", ",", "the", "crowd", "is", "usually", "a", "bit", "smaller", "-LRB-", "though", "not", "any", "less", "drunk", "-RRB-", "."], "e1_text": "grab", "e1_pos": 13, "e2_text": "drinking", "e2_pos": 16, "label": "after"},
+{"tokens": ["It", "'s", "gigantic", ",", "it", "'s", "cheap", "and", ",", "when", "loaded", "up", "with", "garlic", "powder", ",", "it", "hits", "the", "spot", "after", "making", "poor", "decisions", "at", "the", "bar", "."], "e1_text": "hits", "e1_pos": 17, "e2_text": "making", "e2_pos": 21, "label": "after"}
+]

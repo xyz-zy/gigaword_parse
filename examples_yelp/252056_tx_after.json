@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "at", "this", "one", "not", "long", "after", "it", "first", "opened", ",", "and", "I", "REALLY", "liked", "it", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "opened", "e2_pos": 10, "label": "after"},
+{"tokens": ["One", "person", "came", "in", "after", "that", "picking", "up", "an", "order", "to", "go", ",", "one", "family", "came", "in", "just", "as", "I", "was", "leaving", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "picking", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "ventured", "here", "during", "my", "first", "summer", "in", "Phoenix", ",", "after", "I", "heard", "about", "a", "photography", "display", "that", "piqued", "my", "interest", "."], "e1_text": "ventured", "e1_pos": 1, "e2_text": "heard", "e2_pos": 12, "label": "after"},
+{"tokens": ["Meaning", ",", "after", "you", "'re", "done", "walking", "through", "the", "one", "or", "two", "exhibits", "they", "have", "-LRB-", "no", "matter", "how", "interesting", "they", "may", "be", "-RRB-", ",", "you", "'ll", "have", "plenty", "of", "time", "to", "grab", "a", "coffee", "or", "margarita", "at", "Cafe", "Carumba", ",", "spy", "on", "pool", "beauties", "at", "Mondrian", "or", "camp", "out", "in", "the", "Non-fiction", "section", "of", "the", "Scottsdale", "Public", "Library", "."], "e1_text": "Meaning", "e1_pos": 0, "e2_text": "'re", "e2_pos": 4, "label": "after"},
+{"tokens": ["you", "may", "ask", ",", "after", "an", "hour", "has", "passed", "and", "you", "'ve", "seen", "everything", "there", "is", "to", "see", "here", "."], "e1_text": "ask", "e1_pos": 2, "e2_text": "has", "e2_pos": 7, "label": "after"}
+]

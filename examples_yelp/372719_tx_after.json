@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "tried", "this", "place", "out", "rather", "randomly", "after", "noticing", "its", "existence", "near", "Schnucks", "."], "e1_text": "tried", "e1_pos": 1, "e2_text": "noticing", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "'ll", "see", "how", "the", "leftovers", "are", "after", "a", "night", "of", "sitting", "in", "the", "fridge", ",", "but", "the", "next", "time", "I", "have", "a", "craving", "for", "the", "good", "general", "'s", "fried", "nuggets", "of", "fowl", ",", "I", "'ll", "probably", "be", "looking", "elsewhere", "."], "e1_text": "are", "e1_pos": 6, "e2_text": "sitting", "e2_pos": 11, "label": "after"}
+]

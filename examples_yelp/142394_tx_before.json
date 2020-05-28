@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "came", "here", "to", "kill", "some", "time", "before", "an", "appointment", "we", "had", ",", "and", "at", "the", "end", "when", "we", "were", "all", "finished", "I", "was", "asked", "if", "we", "needed", "anything", "else", ",", "and", "I", "mentioned", "just", "the", "check", "."], "e1_text": "kill", "e1_pos": 4, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "'m", "not", "sure", "why", "she", "seemed", "to", "be", "so", "offended", "when", "I", "asked", "for", "the", "check", ",", "but", "that", "has", "never", "happened", "to", "me", "before", "."], "e1_text": "be", "e1_pos": 8, "e2_text": "has", "e2_pos": 20, "label": "before"}
+]

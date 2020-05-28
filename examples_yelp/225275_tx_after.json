@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "came", "into", "Opa", "after", "purchasing", "a", "Groupon", "back", "in", "November", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "purchasing", "e2_pos": 5, "label": "after"},
+{"tokens": ["When", "the", "waiter", "came", "over", "to", "get", "the", "Groupon", "information", "he", "had", "another", "girl", "help", "him", "out", "...", "I", "handed", "the", "girl", "my", "Blackberry", "after", "pressing", "''", "``", "Use", "Groupon", "''", "''", "and", "the", "screen", "came", "up", "with", "a", "bar", "code", "and", "code", "written", "underneath", "."], "e1_text": "handed", "e1_pos": 19, "e2_text": "pressing", "e2_pos": 25, "label": "after"},
+{"tokens": ["Because", "of", "the", "Groupon", "situation", "she", "did", "n't", "refill", "our", "water", "until", "after", "our", "plates", "had", "been", "cleared", "!"], "e1_text": "refill", "e1_pos": 8, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

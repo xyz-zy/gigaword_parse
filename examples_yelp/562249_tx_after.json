@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "rocket", "shrimp", "and", "the", "bun", "with", "chik\\/pork\\/springrolls", "-LRB-", "after", "they", "informed", "me", "they", "do", "n't", "serve", "the", "banh", "xeo", "listed", "on", "their", "menu", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "informed", "e2_pos": 13, "label": "after"}
+]

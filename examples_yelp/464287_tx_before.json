@@ -1,0 +1,4 @@
+[
+{"tokens": ["Seated", "at", "the", "bar", "meant", "we", "got", "a", "ring", "side", "view", "of", "the", "cooks", ":", "The", "huge", "pots", "of", "broth", "at", "a", "roiling", "boil", ",", "how", "they", "heated", "the", "bowls", "before", "using", "them", ",", "the", "finishing", "of", "the", "bowls", "."], "e1_text": "heated", "e1_pos": 27, "e2_text": "using", "e2_pos": 31, "label": "before"},
+{"tokens": ["Once", "they", "arrived", ",", "we", "slurped", "it", "down", "-", "like", "you", "are", "supposed", "to", ",", "before", "the", "Ramen", "sat", "in", "the", "broth", "too", "long", "and", "the", "texture", "changed", "."], "e1_text": "supposed", "e1_pos": 12, "e2_text": "sat", "e2_pos": 18, "label": "before"}
+]

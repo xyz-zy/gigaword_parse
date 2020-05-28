@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "came", "with", "two", "tacos", ",", "and", "they", "were", "large", ",", "especially", "for", "the", "price", "-", "in", "fact", ",", "I", "was", "full", "after", "eating", "just", "one", ",", "since", "we", "'d", "also", "had", "the", "appetizer", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "eating", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "'ve", "got", "ta", "say", ",", "after", "visiting", "Cabo", "Fish", "Taco", "once", "as", "well", ",", "I", "would", "return", "to", "Krazy", "Fish", "first", "!"], "e1_text": "got", "e1_pos": 2, "e2_text": "visiting", "e2_pos": 7, "label": "after"}
+]

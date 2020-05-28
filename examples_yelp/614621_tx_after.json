@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "can", "get", "your", "burger", "topped", "with", "just", "about", "whatever", "you", "want", ",", "and", "after", "you", "order", "you", "can", "watch", "them", "disassemble", "a", "whole", "potato", "and", "toss", "it", "in", "some", "hot", "oil", "for", "you", "."], "e1_text": "topped", "e1_pos": 5, "e2_text": "order", "e2_pos": 16, "label": "after"}
+]

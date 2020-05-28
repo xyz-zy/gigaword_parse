@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "told", "him", "that", "nobody", "informed", "us", "where", "the", "cooler", "was", ",", "or", "that", "we", "would", "need", "to", "grab", "a", "bottle", "before", "we", "left", "."], "e1_text": "grab", "e1_pos": 18, "e2_text": "left", "e2_pos": 23, "label": "before"},
+{"tokens": ["He", "said", ",", "''", "``", "well", ",", "you", "should", "have", "grabbed", "a", "bottle", "before", "you", "left", "the", "stables", ".", "''", "''"], "e1_text": "said", "e1_pos": 1, "e2_text": "left", "e2_pos": 15, "label": "before"}
+]

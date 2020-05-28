@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", "our", "server", "pops", "up", "out", "of", "nowhere", "saying", "''", "``", "oh", "your", "not", "my", "table", ",", "but", "I", "will", "take", "your", "order", "anyways", "''", "''", "after", "that", "delightful", "experience", "we", "sit", "and", "wait", "and", "notice", "they", "are", "bringing", "bread", "out", "to", "people", "that", "arrived", "after", "us", ",", "so", "we", "ask", "another", "server", "for", "bread", "and", "she", "says", "we", "have", "to", "wait", "for", "our", "appetizer", "to", "come", "out", ",", "seriously", "?"], "e1_text": "take", "e1_pos": 20, "e2_text": "sit", "e2_pos": 31, "label": "after"}
+]

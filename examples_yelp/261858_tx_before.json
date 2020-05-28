@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "guys", "have", "some", "time", "today", "at", "1:30", "pm", ",", "it", "will", "be", "their", "last", "show", "and", "tickets", "are", "distributed", "at", "the", "front", "of", "the", "theater", "2", "hours", "before", "it", "begins", "."], "e1_text": "distributed", "e1_pos": 20, "e2_text": "begins", "e2_pos": 31, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "I", "took", "my", "family", "there", ",", "it", "was", "over10", "minutes", "after", "being", "seated", "before", "anyone", "made", "contact", "with", "us", ";", "it", "took", "us", "nearly", "45", "minutes", "after", "placing", "a", "food", "order", "to", "get", "the", "food", "-LRB-", "the", "place", "was", "not", "really", "busy", "-RRB-", ";", "and", "no", "one", "bothered", "to", "check", "to", "see", "if", "things", "were", "alright", "at", "any", "point", "."], "e1_text": "seated", "e1_pos": 15, "e2_text": "made", "e2_pos": 18, "label": "before"}
+]

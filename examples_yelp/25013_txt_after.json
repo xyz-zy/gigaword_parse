@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "son", "almost", "fell", "after", "sitting", "in", "a", "broken", "chair", "."], "e1_text": "fell", "e1_pos": 3, "e2_text": "sitting", "e2_pos": 5, "label": "after"},
+{"tokens": ["When", "he", "came", "back", "I", "thought", "he", "'d", "pick", "it", "up", "after", "almost", "tripping", "on", "it", "himself", "."], "e1_text": "pick", "e1_pos": 8, "e2_text": "tripping", "e2_pos": 13, "label": "after"}
+]

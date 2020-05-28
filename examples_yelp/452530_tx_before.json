@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "generous", "enough", "to", "give", "us", "free", "drinks", "because", "we", "showed", "up", "right", "when", "they", "arrived", "and", "before", "they", "were", "set", "up", ",", "so", "we", "had", "to", "wait", "."], "e1_text": "give", "e1_pos": 5, "e2_text": "were", "e2_pos": 1, "label": "before"},
+{"tokens": ["First", "off", ",", "when", "the", "hell", "are", "these", "people", "around", "!?!?", "It", "took", "my", "5", "tries", "before", "I", "actually", "managed", "to", "head", "over", "while", "they", "were", "there", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "managed", "e2_pos": 19, "label": "before"}
+]

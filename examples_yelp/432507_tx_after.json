@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "not", "apply", "for", "the", "credit", "card", "either", "its", "a", "trick", "to", "charge", "you", "more", "money", "after", "they", "screw", "up", "on", "ur", "car", "!"], "e1_text": "charge", "e1_pos": 12, "e2_text": "screw", "e2_pos": 18, "label": "after"}
+]

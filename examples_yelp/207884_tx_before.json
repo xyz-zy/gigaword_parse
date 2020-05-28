@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ate", "some", "hush", "puppies", "that", "were", "clearly", "cooked", "once", "before", ",", "were", "not", "eaten", "at", "a", "certain", "dinner", "service", "then", "reheated", "again", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

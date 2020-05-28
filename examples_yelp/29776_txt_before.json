@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "son", "literally", "saw", "the", "lady", "ignore", "many", "incoming", "phone", "calls", "-LRB-", "5", "of", "which", "were", "mine", ",", "before", "I", "finally", "gave", "up", "-RRB-", "!"], "e1_text": "were", "e1_pos": 15, "e2_text": "gave", "e2_pos": 21, "label": "before"}
+]

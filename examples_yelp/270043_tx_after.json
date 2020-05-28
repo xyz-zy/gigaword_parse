@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "a", "lot", "of", "uncertainty", "the", "hotel", "was", "willing", "to", "waive", "the", "fee", "after", "the", "booking", "provider", "made", "a", "phone", "call", "to", "the", "Trump", "Management", "."], "e1_text": "waive", "e1_pos": 10, "e2_text": "made", "e2_pos": 17, "label": "after"},
+{"tokens": ["Now", "one", "would", "think", "after", "a", "guest", "checks", "out", ",", "the", "silverware", ",", "plates", ",", "pots", ",", "and", "glasses", "are", "all", "REPLACED", "or", "at", "least", "inspected", "for", "cleanliness", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "checks", "e2_pos": 7, "label": "after"}
+]

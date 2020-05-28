@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ever", "since", "moving", "from", "Phoenix", "to", "Scottsdale", ",", "I", "have", "n't", "wanted", "to", "drive", "to", "downtown", "Phoenix", "since", "it", "'s", "such", "a", "far", "drive", ",", "especially", "after", "work", "during", "rush", "hour", "."], "e1_text": "wanted", "e1_pos": 11, "e2_text": "work", "e2_pos": 27, "label": "after"},
+{"tokens": ["We", "chose", "outside", "since", "the", "misters", "were", "going", "and", "wanted", "to", "unwind", "after", "being", "inside", "all", "day", "."], "e1_text": "unwind", "e1_pos": 11, "e2_text": "being", "e2_pos": 13, "label": "after"}
+]

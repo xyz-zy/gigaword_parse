@@ -1,0 +1,4 @@
+[
+{"tokens": ["WARNING", ":", "Do", "not", "go", "here", "after", "8pm", "!!!", "I", "usually", "eat", "dinner", "around", "8pm", "and", "have", "usually", "come", "to", "Chino", "Bandido", "around", "830", "or", "so", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "!!!", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "wanted", "to", "also", "try", "the", "machaca", "and", "carnitas", "but", "seconds", "after", "she", "hands", "me", "my", "first", "sample", ",", "-LRB-", "the", "man", "before", "me", "was", "offered", "almost", "everything", "-RRB-", "she", "asked", "me", "if", "I", "was", "ready", "to", "order", "!"], "e1_text": "wanted", "e1_pos": 1, "e2_text": "hands", "e2_pos": 13, "label": "after"}
+]

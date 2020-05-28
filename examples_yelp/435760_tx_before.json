@@ -1,0 +1,3 @@
+[
+{"tokens": ["Booked", "a", "wrap", "around", "suite", "3", "months", "in", "advance", "but", "they", "gave", "us", "a", "call", "a", "ONE", "day", "before", "stating", "that", "they", "overbooked", "our", "room", "...", "so", "they", "ended", "up", "downgraded", "our", "room", "without", "refunding", "the", "difference", "for", "the", "room", "and", "instead", "they", "offered", "a", "$", "200", "food", "and", "beverage", "credit", "when", "the", "difference", "in", "price", "of", "the", "two", "room", "a", "night", "is", "$", "200", "!"], "e1_text": "gave", "e1_pos": 11, "e2_text": "stating", "e2_pos": 19, "label": "before"}
+]

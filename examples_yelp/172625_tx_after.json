@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "and", "this", "was", "after", "the", "yummy", "parker", "rolls", "of", "which", "we", "ate", "at", "least", "two", "portions", "-RRB-", "To", "start", ":", "buffalo", "mozz", "with", "red", "peppers", ",", "caesar", "salad", ",", "shrimp", "cocktail", "and", "the", "yummy", "wagyu", "tartare", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "ate", "e2_pos": 12, "label": "after"}
+]

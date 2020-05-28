@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "recently", "received", "a", "score", "of", "87", "from", "the", "health", "dept", "and", "before", "that", "it", "scored", "a", "90", "."], "e1_text": "received", "e1_pos": 3, "e2_text": "scored", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "the", "manager", "came", "back", "over", "after", "I", "talked", "to", "the", "waitress", "...", "She", "proceeded", "to", "explain", "to", "me", "how", "the", "standards", "of", "Outbacks", "''", "``", "medium", "rare", "''", "''", "and", "''", "``", "medium", "''", "''", "were", "VERY", "different", "from", "ANY", "other", "restaurant", "and", "that", "it", "should", "have", "been", "explained", "to", "me", "when", "we", "ordered", "."], "e1_text": "came", "e1_pos": 3, "e2_text": "talked", "e2_pos": 8, "label": "after"}
+]

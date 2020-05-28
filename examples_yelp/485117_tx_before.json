@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "always", "have", "to", "ask", "for", "refills", "and", "then", "wait", "an", "undertermined", "amount", "of", "time", "before", "we", "get", "them", ",", "and", "remind", "our", "waitress", "of", "any", "condiments", "that", "we", "have", "requested", "."], "e1_text": "wait", "e1_pos": 9, "e2_text": "get", "e2_pos": 17, "label": "before"}
+]

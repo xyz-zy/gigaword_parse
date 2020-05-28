@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "gf", "and", "I", "ordered", "our", "drinks", "-LRB-", "1", "glass", "of", "wine", "and", "a", "Coke", "-RRB-", "a", "few", "minutes", "after", "we", "got", "settled", "and", "then", "waited", "about", "15", "minutes", "for", "one", "of", "the", "3", "waiters", "to", "take", "our", "order", "-LRB-", "1", "appetizer", "and", "1", "side", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 4, "e2_text": "got", "e2_pos": 21, "label": "after"}
+]

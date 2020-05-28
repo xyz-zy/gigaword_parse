@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "hostess", "was", "really", "nice", ",", "but", "we", "waited", "about", "10", "mins", "after", "being", "sat", "for", "a", "server", "to", "come", "over", ",", "pour", "us", "a", "glass", "of", "iceless", "water", "and", "inform", "us", "that", "our", "server", "would", "be", "with", "us", "in", "a", "minute", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "being", "e2_pos": 13, "label": "after"},
+{"tokens": ["About", "20", "mins", "after", "we", "finished", "eating", ",", "we", "had", "to", "ask", "the", "hostess", "for", "our", "check", "-LRB-", "we", "could", "n't", "wait", "to", "get", "out", "of", "there", ",", "keep", "reading", "-RRB-", "Finally", ",", "our", "server", "reappeared", "with", "the", "check", "-LRB-", "she", "'s", "alive", "!!!", "-RRB-", "and", "then", "...", "promptly", "retreated", "to", "the", "back", "."], "e1_text": "mins", "e1_pos": 2, "e2_text": "finished", "e2_pos": 5, "label": "after"}
+]

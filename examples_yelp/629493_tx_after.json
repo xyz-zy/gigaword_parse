@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "stoked", "to", "try", "Chayo", "since", "the", "Linq", "opened", "-LRB-", "after", "seeing", "the", "restaurant", "on", "one", "of", "my", "favorite", "tv", "shows", "in", "California", "-RRB-", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "was", "highly", "displeased", "with", "the", "lack", "of", "service", "and", "mediocre", "foods", "especially", "after", "having", "another", "guest", "served", "my", "food", "before", "brining", "it", "to", "my", "table", "!"], "e1_text": "was", "e1_pos": 1, "e2_text": "having", "e2_pos": 14, "label": "after"}
+]

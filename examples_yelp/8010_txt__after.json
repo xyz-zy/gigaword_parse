@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "centerpiece", "of", "the", "Museum", "is", "the", "US", "Airway", "Airbus", "A320", "which", "was", "force", "to", "crash", "land", "in", "the", "Hudson", "River", "after", "striking", "a", "flock", "of", "birds", "which", "disabled", "both", "engines", "."], "e1_text": "crash", "e1_pos": 15, "e2_text": "striking", "e2_pos": 22, "label": "after"}
+]

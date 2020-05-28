@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "given", "a", "password", "for", "free", "wifi", ",", "but", "code", "never", "worked", "even", "after", "I", "called", "the", "front", "desk", "several", "times", "to", "have", "it", "reset", "."], "e1_text": "worked", "e1_pos": 12, "e2_text": "called", "e2_pos": 16, "label": "after"}
+]

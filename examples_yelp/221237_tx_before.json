@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "a", "40", "mile", "drive", "and", "would", "like", "to", "know", "if", "they", "physically", "have", "one", "in", "stock", "before", "I", "drive", "for", "90", "minutes", "round", "trip", "."], "e1_text": "like", "e1_pos": 8, "e2_text": "drive", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "'ll", "gladly", "take", "the", "chance", "that", "somebody", "might", "buy", "it", "before", "i", "get", "there", "."], "e1_text": "buy", "e1_pos": 9, "e2_text": "get", "e2_pos": 13, "label": "before"}
+]

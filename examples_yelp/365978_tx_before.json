@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "waited", "in", "that", "line", "for", "15", "minutes", "before", "someone", "explains", "that", "we", "actually", "need", "to", "be", "in", "the", "OTHER", "huge", "line", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "explains", "e2_pos": 10, "label": "before"},
+{"tokens": ["More", "waiting", "ensues", "before", ",", "finally", ",", "we", "get", "inside", "...", "...", "where", "things", "got", "worse", "."], "e1_text": "ensues", "e1_pos": 2, "e2_text": "get", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "pelt", "him", "with", "Cheerios", "between", "eating", "sloppy", "handfuls", "before", "hitting", "the", "sack", "."], "e1_text": "eating", "e1_pos": 6, "e2_text": "hitting", "e2_pos": 10, "label": "before"}
+]

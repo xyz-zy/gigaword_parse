@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "We", "spent", "$", "200", "and", "$", "150", "on", "two", "nights", "in", "a", "row", "at", "Mesa", "Grill", "the", "two", "nights", "before", "we", "came", "to", "Jasmine", "-RRB-", "."], "e1_text": "spent", "e1_pos": 2, "e2_text": "came", "e2_pos": 22, "label": "before"}
+]

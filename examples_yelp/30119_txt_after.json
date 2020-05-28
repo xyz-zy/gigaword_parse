@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "brought", "my", "pug", "to", "see", "Dr.", "Plummer", "in", "April", "2014", "after", "receiving", "a", "referral", "from", "my", "regular", "vet", "."], "e1_text": "see", "e1_pos": 5, "e2_text": "receiving", "e2_pos": 12, "label": "after"},
+{"tokens": ["He", "had", "absolutely", "no", "intention", "on", "trying", "to", "determine", "what", "went", "wrong", "after", "I", "paid", "$", "6,000", "for", "a", "surgery", "not", "for", "a", "guarantee", "that", "she", "'d", "get", "better", "but", "for", "the", "peace", "of", "mind", "in", "knowing", "she", "would", "n't", "get", "worse", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "paid", "e2_pos": 14, "label": "after"},
+{"tokens": ["The", "only", "thing", "I", "received", "from", "going", "through", "all", "of", "this", "is", "knowing", "that", "I", "tried", "everything", "I", "could", "for", "Kaluha", "even", "though", "Dr.", "Plummer", "gave", "up", "after", "he", "collected", "his", "fee", "."], "e1_text": "gave", "e1_pos": 25, "e2_text": "collected", "e2_pos": 29, "label": "after"}
+]

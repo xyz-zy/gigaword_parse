@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "one", "told", "us", "this", "before", "being", "seated", "and", "the", "bar", "was", "over", "half", "empty", "!"], "e1_text": "told", "e1_pos": 2, "e2_text": "being", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "can", "understand", "having", "a", "policy", "like", "that", "if", "the", "bar", "was", "full", "and", "it", "was", "a", "busy", "time", ",", "but", "you", "need", "to", "make", "your", "patrons", "aware", "of", "it", "before", "they", "are", "seated", "."], "e1_text": "make", "e1_pos": 24, "e2_text": "are", "e2_pos": 32, "label": "before"}
+]

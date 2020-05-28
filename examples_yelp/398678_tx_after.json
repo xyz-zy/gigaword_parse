@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "had", "a", "party", "of", "12", "that", "was", "here", "before", "us", "but", "they", "were", "getting", "dessert", "after", "we", "sat", "down", "for", "about", "10", "minutes", "."], "e1_text": "getting", "e1_pos": 14, "e2_text": "sat", "e2_pos": 18, "label": "after"},
+{"tokens": ["Seemed", "like", "they", "were", "more", "attentive", "after", "I", "whipped", "out", "my", "yelp", "coupon", "for", "free", "draft", "beer", "for", "checking", "in", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "whipped", "e2_pos": 8, "label": "after"}
+]

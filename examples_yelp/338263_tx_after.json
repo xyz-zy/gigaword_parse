@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "enough", "about", "the", "soup", "...", "The", "staff", "was", "very", "eager", "to", "receive", "us", "even", "though", "we", "were", "dressed", "in", "jeans", "and", "t-shirts", ",", "we", "were", "just", "trying", "to", "grab", "a", "bite", "of", "some", "fine", "french", "cuisine", "after", "a", "long", "day", "of", "site", "seeing", "."], "e1_text": "grab", "e1_pos": 29, "e2_text": "seeing", "e2_pos": 43, "label": "after"},
+{"tokens": ["The", "waitress", "was", "unfamiliar", "with", "this", "wine", "but", "pleasantly", "came", "back", "to", "us", "after", "checking", "with", "her", "manager", "and", "suggested", "a", "similar", "wine", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "checking", "e2_pos": 14, "label": "after"}
+]

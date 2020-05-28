@@ -1,0 +1,3 @@
+[
+{"tokens": ["Stac", "Polly", "came", "highly", "recommended", "by", "our", "hotel", "We", "had", "just", "completed", "a", "tour", "of", "Edinburgh", "Castle", "&", "w", "\\/", "nowhere", "else", "to", "go", "&", "nothing", "else", "in", "the", "vicinity", ",", "we", "ended", "up", "arriving", "about", "15", "min", "early", "&", "consequently", "15", "min", "before", "they", "opened", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "opened", "e2_pos": 45, "label": "before"}
+]

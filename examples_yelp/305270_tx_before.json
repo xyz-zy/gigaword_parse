@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "never", "eaten", "there", "before", "but", "the", "reviews", "seemed", "good", "however", ",", "I", "was", "extremely", "disappointed", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "seemed", "e2_pos": 9, "label": "before"}
+]

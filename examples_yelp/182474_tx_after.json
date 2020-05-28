@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "decided", "to", "order", "regular", "menu", "appetizers", "of", "crab", "cakes", ",", "ahi", "tuna", "tartar", "and", "fried", "calamari", ",", "which", "arrived", "a", "full", "30", "minutes", "after", "being", "ordered", "."], "e1_text": "arrived", "e1_pos": 19, "e2_text": "being", "e2_pos": 25, "label": "after"}
+]

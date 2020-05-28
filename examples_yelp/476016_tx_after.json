@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "it", "turned", "into", "a", "ball", "of", "stress", "because", "it", "took", "10", "minutes", "for", "the", "server", "to", "acknowledge", "us", "after", "the", "hostess", "seated", "us", ",", "and", "then", "over", "40", "minutes", "to", "get", "any", "food", "."], "e1_text": "acknowledge", "e1_pos": 18, "e2_text": "seated", "e2_pos": 23, "label": "after"},
+{"tokens": ["To", "top", "it", "all", "off", ",", "he", "took", "his", "sweet", "sweet", "time", "getting", "us", "the", "bill", "after", "we", "were", "done", ",", "and", "I", "'d", "seen", "him", "look", "at", "our", "empty", "plates", "with", "piled", "silverware", ",", "and", "then", "not", "appear", "with", "the", "bill", "until", "well", "over", "10", "minutes", "later", "."], "e1_text": "getting", "e1_pos": 12, "e2_text": "were", "e2_pos": 18, "label": "after"}
+]

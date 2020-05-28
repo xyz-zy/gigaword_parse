@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "waited", "almost", "a", "half", "hour", "to", "be", "seated", "and", "another", "at", "least", "half", "hour", "for", "our", "food", "to", "arrive", "after", "ordering", ",", "which", "is", "actually", "fairly", "quick", "for", "them", "."], "e1_text": "arrive", "e1_pos": 19, "e2_text": "ordering", "e2_pos": 21, "label": "after"}
+]

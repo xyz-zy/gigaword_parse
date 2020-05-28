@@ -1,0 +1,4 @@
+[
+{"tokens": ["Zero", "Stars", "!!!!", "I", "went", "to", "go", "get", "my", "first", "tattoo", "&", "long", "story", "short", "...", "I", "came", "in", "1", "1\\/2", "hrs", "before", "they", "closed", "-LRB-", "the", "place", "was", "dead", "-RRB-", "everybody", "was", "just", "sitting", "around", ",", "so", "the", "tattoo", "artist", "''", "``", "Jackie", "''", "''", "helped", "me", "pick", "out", "my", "script", "from", "the", "internet", "&", "size", "it", "correctly", "."], "e1_text": "came", "e1_pos": 17, "e2_text": "closed", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "asked", "If", "she", "was", "able", "to", "do", "my", "tattoo", "tonight", "-LRB-", "there", "was", "still", "a", "little", "over", "an", "hr", "before", "they", "closed", "-RRB-", "she", "said", "no", "she", "wanted", "to", "go", "home", "''", "``", "early", "''", "''", "tonight", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "closed", "e2_pos": 22, "label": "before"}
+]

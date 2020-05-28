@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "yelping", "about", "a", "few", "awful", "experiences", "I", "'d", "had", "at", "Steel", "Cactus", "my", "friend", "and", "I", "were", "invited", "to", "come", "back", "and", "try", "the", "food", "again", "after", "they", "'d", "had", "some", "time", "to", "work", "out", "the", "kinks", "in", "the", "kitchen", "."], "e1_text": "try", "e1_pos": 23, "e2_text": "'d", "e2_pos": 8, "label": "after"},
+{"tokens": ["Its", "so", "good", "I", "'m", "convinced", "it", "could", "cure", "cancer", ",", "and", "I", "swear", "after", "eating", "it", "my", "skin", "was", "clearer", ",", "my", "hair", "looked", "inexplicably", "awesome", ",", "and", "my", "dining", "companion", "was", "50", "%", "more", "handsome", "."], "e1_text": "swear", "e1_pos": 13, "e2_text": "eating", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "did", "n't", "have", "all", "our", "towels", "replaced", ",", "nor", "did", "the", "housekeeper", "take", "out", "all", "our", "trash", ";", "glasses", "were", "left", "behind", "after", "the", "room", "was", "`", "cleaned", ".", "'"], "e1_text": "left", "e1_pos": 21, "e2_text": "was", "e2_pos": 26, "label": "after"},
+{"tokens": ["At", "this", "point", "I", "realize", "she", "'s", "essentially", "asking", "for", "a", "tip", ",", "for", "the", "water", "I", "asked", "her", "3", "times", "for", ",", "&", "after", "she", "already", "got", "$", "5", "for", "not", "bringing", "what", "we", "asked", "for", "originally", "."], "e1_text": "asked", "e1_pos": 17, "e2_text": "got", "e2_pos": 27, "label": "after"}
+]

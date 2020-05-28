@@ -1,0 +1,3 @@
+[
+{"tokens": ["Most", "of", "the", "time", ",", "food", "trucks", "operate", "with", "the", "assumption", "that", "their", "customers", ",", "after", "ordering", ",", "will", "linger", "around", "and", "wait", "for", "their", "food", "."], "e1_text": "operate", "e1_pos": 7, "e2_text": "ordering", "e2_pos": 16, "label": "after"}
+]

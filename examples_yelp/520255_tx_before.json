@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", "we", "were", "seated", "where", "we", "continued", "to", "wait", "for", "at", "least", "10", "minutes", "before", "we", "were", "approached", "by", "a", "waiter", "."], "e1_text": "wait", "e1_pos": 8, "e2_text": "were", "e2_pos": 2, "label": "before"},
+{"tokens": ["When", "we", "mentioned", "it", "to", "the", "waiter", ",", "instead", "of", "bringing", "a", "new", "mug", ",", "he", "simply", "said", "that", "he", "had", "spilled", "some", "coffee", "on", "the", "mug", "before", "bringing", "it", "to", "us", "."], "e1_text": "spilled", "e1_pos": 21, "e2_text": "bringing", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", ",", "I", "go", "to", "self", "check", "out", "after", "not", "wanting", "to", "deal", "with", "anyone", ",", "and", "this", "chick", "''", "``", "Mary", "''", "''", "I", "believe", "starts", "getting", "my", "''", "``", "big", "items", "''", "''", "that", "consist", "of", "Bounty", "?"], "e1_text": "check", "e1_pos": 6, "e2_text": "wanting", "e2_pos": 10, "label": "after"},
+{"tokens": ["You", "'re", "just", "thinking", "I", "'m", "going", "to", "steal", ",", "and", "ringing", "up", "all", "my", "items", "for", "me", ",", "and", "then", "proceeds", "to", "ask", "after", "Ive", "paid", "and", "I", "'m", "bagging", "my", "items", ",", "''", "``", "do", "you", "need", "help", "with", "that", "''", "''", "."], "e1_text": "ask", "e1_pos": 23, "e2_text": "paid", "e2_pos": 26, "label": "after"}
+]

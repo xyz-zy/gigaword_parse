@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "we", "preceded", "to", "wait", "another", "20", "minutes", ",", "at", "least", ",", "before", "we", "had", "to", "flag", "down", "the", "girl", "to", "bring", "us", "our", "waters", "."], "e1_text": "preceded", "e1_pos": 2, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "do", "n't", "think", "I", "'ve", "ever", "complained", "about", "a", "meal", "before", ",", "but", "I", "asked", "for", "the", "manager", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 5, "label": "before"}
+]

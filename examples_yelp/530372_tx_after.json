@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "instead", "grabbed", "the", "burger", "from", "in", "front", "of", "my", "buddy", "-LRB-", "after", "he", "had", "already", "handled", "it", "of", "course", "-RRB-", ",", "and", "then", "proceeded", "to", "attempt", "to", "give", "it", "to", "another", "table", "."], "e1_text": "grabbed", "e1_pos": 2, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

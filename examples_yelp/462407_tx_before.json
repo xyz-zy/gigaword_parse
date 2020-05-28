@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "got", "his", "change", "thrown", "at", "him", "at", "the", "bar", "and", "the", "bartender", "seemed", "to", "be", "annoyed", "that", "we", "happened", "to", "be", "ordering", "beer", "...", "at", "a", "bar", "...", "I", "asked", "him", "if", "they", "served", "fries", "-LRB-", "as", "I", "thought", "I", "had", "had", "them", "there", "before", "-RRB-", "."], "e1_text": "thought", "e1_pos": 40, "e2_text": "had", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "ordering", ",", "we", "waited", "20", "minutes", "before", "I", "got", "up", "to", "ask", "if", "the", "waitress", "could", "bring", "our", "salads", "."], "e1_text": "waited", "e1_pos": 4, "e2_text": "got", "e2_pos": 9, "label": "before"},
+{"tokens": ["Here", "response", "when", "I", "walked", "to", "the", "bar", "was", "''", "``", "the", "chef", "is", "working", "on", "them", "''", "''", "...", "it", "was", "another", "8-10", "minutes", "before", "we", "had", "salads", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "had", "e2_pos": 27, "label": "before"}
+]

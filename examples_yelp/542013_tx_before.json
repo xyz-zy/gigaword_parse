@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "though", ",", "let", "me", "remind", "you", "I", "come", "here", "often", "AND", "it", "was", "my", "birthday", "AND", "I", "had", "been", "there", "for", "3", "hours", "and", "I", "had", "a", "table", "but", "upsold", "the", "table", "next", "to", "mine", "just", "moments", "before", "getting", "escorted", "out", "."], "e1_text": "upsold", "e1_pos": 30, "e2_text": "getting", "e2_pos": 39, "label": "before"}
+]

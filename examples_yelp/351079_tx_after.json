@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "to", "wait", "10", "minutes", "after", "my", "friends", "got", "their", "food", "to", "receive", "mine", "and", "then", "my", "filet", "was", "undercooked", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["Our", "server", "did", "not", "check", "on", "us", "after", "our", "food", "was", "delivered", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["After", "our", "main", "course", "was", "taken", "away", "we", "waited", "over", "40", "minutes", "for", "our", "dessert", "choices", ",", "after", "all", "of", "our", "friends", "had", "already", "paid", "!"], "e1_text": "waited", "e1_pos": 8, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

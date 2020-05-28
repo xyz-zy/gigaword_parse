@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "want", "to", "make", "it", "very", "clear", "that", "I", "'ve", "NEVER", "eaten", "here", ",", "and", "here", "'s", "the", "reason", "why", "...", "every", "time", "I", "pull", "into", "the", "shopping", "center", "using", "the", "driveway", "behind", "Sushi", "Loca", ",", "I", "see", "the", "exact", "same", "thing", "...", "plenty", "of", "workers", "-LRB-", "cooks", ",", "wait", "staff", ",", "etc.", "-RRB-", "smoking", "cigarette", "after", "cigarette", "chatting", "away", "."], "e1_text": "smoking", "e1_pos": 54, "e2_text": "chatting", "e2_pos": 58, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Although", "several", "reviews", "seems", "to", "like", "the", "happy", "hour", "aspect", "of", "Ling", "&", "Louie", "'s", ",", "this", "review", "is", "only", "for", "the", "dining", "and", "service", "presented", "after", "coming", "here", "twice", "."], "e1_text": "presented", "e1_pos": 25, "e2_text": "coming", "e2_pos": 27, "label": "after"},
+{"tokens": ["Our", "waiter", "seemed", "to", "be", "friendly", "and", "present", "however", "after", "the", "bill", "was", "paid", ",", "you", "could", "n't", "find", "him", "to", "get", "a", "refill", "on", "our", "water", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "after"}
+]

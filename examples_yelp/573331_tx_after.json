@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "girlfriend", "and", "I", "decided", "to", "try", "this", "place", "after", "seeing", "it", "featured", "in", "a", "food", "magazine", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 10, "label": "after"},
+{"tokens": ["My", "girlfriend", "'s", "order", "was", "wrong", ",", "and", "mine", "took", "an", "additional", "10", "minutes", "after", "hers", "and", "my", "sister", "'s", "came", "out", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "came", "e2_pos": 20, "label": "after"}
+]

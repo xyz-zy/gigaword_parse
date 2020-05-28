@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "11:10", "am", "the", "host", "looks", "over", "at", "us", "and", "asks", "what", "our", "name", "is", "-LRB-", "after", "already", "seating", "about", "4-6", "groups", "who", "had", "come", "in", "after", "us", "-RRB-", ",", "she", "sends", "us", "down", "with", "the", "lunch", "menu", "."], "e1_text": "is", "e1_pos": 14, "e2_text": "had", "e2_pos": 23, "label": "after"}
+]

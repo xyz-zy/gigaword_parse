@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "showed", "up_after", "_", "my", "wedding", "...", "3", "hours", "after", "they", "were", "supposed", "to", "pick", "me", "up", "at", "a", "different", "location", "?"], "e1_text": "_", "e1_pos": 3, "e2_text": "were", "e2_pos": 11, "label": "after"},
+{"tokens": ["Consequently", ",", "that", "'s", "what", "my", "dress", "smelled", "like", "after", "I", "mustered", "up", "the", "strength", "to", "step", "inside", "of", "that", "trash-mobile", "."], "e1_text": "smelled", "e1_pos": 7, "e2_text": "mustered", "e2_pos": 11, "label": "after"}
+]

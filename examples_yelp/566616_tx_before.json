@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "to", "the", "Wise", "several", "times", "before", "and", "I", "know", "folks", "will", "give", "me", "a", "hard", "time", "for", "not", "writing", "about", "the", "more", "positive", "experiences", "I", "'ve", "had", "there", "."], "e1_text": "been", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 1, "label": "before"},
+{"tokens": ["The", "pasta", "dough", "needs", "to", "be", "rolled", "out", "flatter", "before", "it", "'s", "cut", ",", "the", "noodles", "need", "more", "salt", "in", "the", "water", ",", "the", "sauce", "slash", "filling", "slash", "stuff", "that", "popped", "out", "needs", "anything", "...", "like", "vegetables", ",", "spice", ",", "cream", ",", "chicken", "broth", "...", "something", ",", "and", "the", "entire", "dish", "needs", "an", "anchor", "."], "e1_text": "rolled", "e1_pos": 6, "e2_text": "'s", "e2_pos": 11, "label": "before"}
+]

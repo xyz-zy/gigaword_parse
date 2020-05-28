@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "asking", "the", "ticket", "staff", "member", "about", "my", "options", "she", "said", "I", "had", "none", "as", "the", "show", "would", "start", "on", "Saturday", "after", "I", "left", "on", "Thursday", "."], "e1_text": "start", "e1_pos": 18, "e2_text": "left", "e2_pos": 23, "label": "after"}
+]

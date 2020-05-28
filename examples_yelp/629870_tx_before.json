@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "he", "dropped", "the", "drinks", "off", ",", "we", "knew", "we", "'d", "better", "get", "him", "to", "fire", "our", "entrees", "-LRB-", "even", "before", "we", "received", "our", "apps", "-RRB-", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "received", "e2_pos": 22, "label": "before"},
+{"tokens": ["Well", ",", "I", "'ve", "certainly", "prattled", "on", "long", "enough", ",", "but", "suffice", "to", "say", ",", "we", "'ll", "probably", "wait", "a", "few", "weeks\\/months", "before", "giving", "this", "spot", "another", "chance", "."], "e1_text": "wait", "e1_pos": 18, "e2_text": "giving", "e2_pos": 23, "label": "before"}
+]

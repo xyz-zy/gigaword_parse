@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "one", "occasion", "I", "asked", "a", "grocery", "clerk", "if", "they", "carried", "a", "specific", "produce", "item", ",", "after", "not", "even", "looking", "up", "at", "me", ",", "they", "replied", ",", "''", "``", "No.", "''", "''", "I", "then", "asked", "if", "it", "was", "just", "not", "in", "season", ",", "they", "told", "me", "''", "``", "I", "do", "n't", "know", ",", "google", "it", ".", "''", "''"], "e1_text": "carried", "e1_pos": 10, "e2_text": "looking", "e2_pos": 19, "label": "after"}
+]

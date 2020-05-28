@@ -1,0 +1,4 @@
+[
+{"tokens": ["Um", ",", "ok", "I", "guess", "I", "'ll", "follow", "you", "...", "she", "spent", "a", "good", "5", "minutes", "washing", "her", "hands", "before", "beginning", "the", "actual", "massage", "."], "e1_text": "washing", "e1_pos": 16, "e2_text": "beginning", "e2_pos": 20, "label": "before"},
+{"tokens": ["Hey", "I", "'m", "glad", "your", "hands", "are", "going", "to", "be", "clean", "before", "working", "on", "me", "but", "you", "'re", "not", "performing", "surgery", "here", "and", "considering", "it", "'s", "$", "160", "for", "a", "50", "min", "massage", "-", "a", "5", "minute", "hand", "washing", "is", "excessive", "."], "e1_text": "be", "e1_pos": 9, "e2_text": "working", "e2_pos": 12, "label": "before"}
+]

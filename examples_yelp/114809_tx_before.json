@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "next", "day", "as", "I", "looked", "at", "it", "again", "I", "started", "to", "think", "the", "color", "really", "did", "n't", "look", "any", "better", "then", "before", "we", "went", ",", "it", "was", "just", "shiny", "with", "clean", "ends", "."], "e1_text": "look", "e1_pos": 18, "e2_text": "went", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "did", "n't", "want", "to", "bum", "my", "daughter", "out", "so", "I", "waited", "a", "few", "days", "before", "I", "said", "something", "about", "the", "color", "."], "e1_text": "waited", "e1_pos": 11, "e2_text": "said", "e2_pos": 17, "label": "before"}
+]

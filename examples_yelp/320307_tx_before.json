@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "exactly", "a", "special", "menu", ",", "but", "at", "this", "point", "I", "was", "hungry", ",", "and", "as", "I", "said", "before", ",", "the", "last", "time", "I", "had", "been", "there", ",", "the", "food", "was", "really", "good", "."], "e1_text": "said", "e1_pos": 17, "e2_text": "had", "e2_pos": 24, "label": "before"},
+{"tokens": ["The", "restaurant", "has", "such", "great", "potential", ",", "and", "it", "almost", "seems", "like", "the", "owners", "are", "just", "trying", "to", "cut", "their", "losses", "by", "selling", "as", "much", "old", "food", "as", "possible", "before", "they", "decide", "to", "just", "shut", "down", "."], "e1_text": "cut", "e1_pos": 18, "e2_text": "decide", "e2_pos": 31, "label": "before"}
+]

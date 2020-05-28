@@ -1,0 +1,4 @@
+[
+{"tokens": ["felt", "compelled", "to", "do", "so", "after", "being", "screwed", "by", "Pristine", "."], "e1_text": "do", "e1_pos": 3, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["They", "honored", "my", "Living", "Social", "deal", "after", "rescheduling", "once", "."], "e1_text": "honored", "e1_pos": 1, "e2_text": "rescheduling", "e2_pos": 7, "label": "after"}
+]

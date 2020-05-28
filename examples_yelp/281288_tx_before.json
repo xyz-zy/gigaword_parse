@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "from", "the", "kitchen", "brought", "out", "one", "bowl", "of", "chicken", "fried", "rice", "that", "sat", "on", "our", "table", "as", "a", "side", "dish", "15", "minutes", "before", "anything", "else", "came", "out", "."], "e1_text": "sat", "e1_pos": 14, "e2_text": "came", "e2_pos": 27, "label": "before"}
+]

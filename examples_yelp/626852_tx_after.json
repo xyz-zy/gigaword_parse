@@ -1,0 +1,3 @@
+[
+{"tokens": ["Update", ":", "called", "this", "week", "-LRB-", "3", "weeks", "after", "call", "that", "jeans", "were", "delayed", "-RRB-", "and", "they", "said", "my", "jeans", "were", "cut", "this", "week", "and", "I", "should", "be", "getting", "a", "call", "next", "week", "for", "fitting", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "call", "e2_pos": 9, "label": "after"}
+]

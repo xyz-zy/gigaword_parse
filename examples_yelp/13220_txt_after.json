@@ -1,0 +1,3 @@
+[
+{"tokens": ["Pros", ":", "Tastes", "like", "ice", "cream", "Cons", ":", "Custard", "melts", "too", "quickly", ",", "slow", "service", ",", "incompetent", "staff", "My", "Advice", ":", "It", "'s", "worth", "a", "try", ",", "but", "in", "the", "future", "I", "'ll", "likely", "just", "opt", "for", "DQ", "We", "visited", "Jarling", "'s", "last", "night", "for", "the", "first", "time", "after", "reading", "all", "the", "raving", "reviews", "."], "e1_text": "visited", "e1_pos": 39, "e2_text": "reading", "e2_pos": 49, "label": "after"}
+]

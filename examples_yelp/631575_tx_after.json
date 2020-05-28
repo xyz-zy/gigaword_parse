@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "I", "waited", "for", "my", "dish", "to", "arrive", ",", "the", "braised", "pork", ",", "we", "started", "to", "notice", "that", "the", "other", "customers", "who", "came", "way", "after", "we", "ordered", "started", "to", "get", "their", "dish", "before", "mine", "."], "e1_text": "came", "e1_pos": 22, "e2_text": "ordered", "e2_pos": 26, "label": "after"},
+{"tokens": ["We", "asked", "the", "waiter\\/waitress", "where", "my", "order", "was", "as", "it", "had", "already", "been", "ten", "minutes", "after", "the", "pho", "came", "out", "."], "e1_text": "been", "e1_pos": 12, "e2_text": "came", "e2_pos": 18, "label": "after"}
+]

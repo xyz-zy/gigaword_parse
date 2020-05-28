@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "called", "my", "insurance", "company", "three", "weeks", "after", "the", "referral", "was", "supposed", "to", "be", "submitted", "and", "they", "had", "not", "even", "received", "a", "request", "from", "the", "doctor", "yet", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "last", "time", "I", "was", "in", "the", "waiting", "room", ",", "I", "had", "to", "listing", "to", "the", "receptionist", "call", "a", "patients", "awful", "names", "after", "they", "left", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "left", "e2_pos": 24, "label": "after"}
+]

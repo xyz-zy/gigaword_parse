@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "told", "us", "to", "go", "to", "the", "guest", "list", "line", "then", "by", "the", "time", "we", "got", "to", "the", "front", "-LRB-", "which", "took", "over", "an", "hour", "-RRB-", "they", "told", "us", "we", "'re", "not", "on", "that", "list", "...", "Then", "we", "get", "sent", "to", "the", "''", "``", "host", "guest", "list", "''", "''", "but", "after", "talking", "to", "at", "least", "three", "different", "workers", "we", "find", "out", "it", "'s", "the", "same", "line", "that", "we", "were", "in", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "talking", "e2_pos": 51, "label": "after"}
+]

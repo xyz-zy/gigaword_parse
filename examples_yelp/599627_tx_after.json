@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "use", "the", "restroom", "and", "so", "did", "my", "roommate", ",", "so", "after", "hugging", "our", "friends", "goodbye", "I", "tried", "to", "walk", "back", "through", "the", "front", "entrance", "to", "use", "their", "restroom", "but", "I", "was", "abruptly", "stopped", "by", "the", "bouncer-Louie-or", "at", "least", "that", "was", "the", "name", "he", "gave", "us", "."], "e1_text": "did", "e1_pos": 8, "e2_text": "goodbye", "e2_pos": 17, "label": "after"},
+{"tokens": ["And", "she", "screamed", "at", "us", "as", "if", "we", "were", "her", "four", "year", "old", "children", ",", "''", "``", "YOU", "NEED", "TO", "LEAVE", "NOOOOW", "!!!!", "''", "''", "And", "again", ",", "I", "said", ",", "''", "``", "we", "will", "leave", "after", "we", "take", "the", "picture", "''", "''", "."], "e1_text": "leave", "e1_pos": 35, "e2_text": "take", "e2_pos": 38, "label": "after"}
+]

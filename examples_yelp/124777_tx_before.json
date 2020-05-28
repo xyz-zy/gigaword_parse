@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "was", "unhappy", "we", "were", "leaving", "before", "the", "dr", "\\*", "finished", "his", "paperwork", "\\*", "I", "explained", "to", "her", "my", "kids", "ca", "n't", "even", "eat", "."], "e1_text": "leaving", "e1_pos": 5, "e2_text": "finished", "e2_pos": 10, "label": "before"},
+{"tokens": ["She", "replied", "with", "''", "``", "I", "feed", "my", "kids", "before", "I", "come", "''", "''", "."], "e1_text": "feed", "e1_pos": 6, "e2_text": "come", "e2_pos": 11, "label": "before"}
+]

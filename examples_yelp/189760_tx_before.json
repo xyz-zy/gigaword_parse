@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "buffet", "had", "high", "expectations", "through", "the", "past", "reviews", "that", "we", "read", "before", "choosing", "to", "go", "the", "the", "Wynn", "Buffet", "-", "we", "should", "had", "gone", "to", "Wicked", "Spoon", "."], "e1_text": "read", "e1_pos": 11, "e2_text": "choosing", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "service", "was", "okay", "-", "we", "has", "stacks", "of", "plates", "sitting", "at", "the", "table", "for", "at", "least", "15", "minutes", "before", "one", "of", "the", "waitstaff", "came", "to", "pick", "up", "the", "food", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "came", "e2_pos": 24, "label": "before"}
+]

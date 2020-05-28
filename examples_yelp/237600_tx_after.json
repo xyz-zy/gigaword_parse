@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "literally", "had", "to", "go", "track", "him", "down", "to", "get", "our", "check", "20", "minutes", "after", "we", "finished", "our", "meal", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "finished", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "placed", "a", "take", "out", "order", "-LRB-", "after", "I", "sat", "on", "hold", "forever", "-RRB-", "for", "a", "LARGE", "hummus", "and", "LARGE", "garlic", "dip", "and", "what", "we", "got", "was", "ridiculous", ",", "there", "is", "barely", "any", "hummus", "or", "garlic", "dip", "in", "the", "containers", "."], "e1_text": "placed", "e1_pos": 1, "e2_text": "sat", "e2_pos": 9, "label": "after"}
+]

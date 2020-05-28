@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "happily", "slogged", "a", "beer", "halfway", "down", "before", "last", "call", "cast", "its", "gloomy", "shadow", "."], "e1_text": "slogged", "e1_pos": 3, "e2_text": "cast", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "had", "just", "finished", "watching", "Office", "Space", "before", "heading", "out", "for", "happy", "hour", "."], "e1_text": "watching", "e1_pos": 4, "e2_text": "heading", "e2_pos": 8, "label": "before"}
+]

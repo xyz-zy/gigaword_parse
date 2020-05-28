@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "assured", "my", "nails", "would", "look", "fantastic", "after", "getting", "acrylics", "here", "and", "the", "technician", "not", "only", "got", "mad", "because", "I", "wanted", "my", "nails", "painted", "instead", "of", "left", "clear", "but", "she", "also", "was", "irritated", "that", "I", "was", "particular", "about", "their", "shape", "."], "e1_text": "look", "e1_pos": 6, "e2_text": "getting", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "tips", "were", "put", "on", "-LRB-", "after", "she", "cut", "off", "all", "of", "my", "real", "nails", "-RRB-", "in", "such", "a", "way", "that", "they", "look", "like", "they", "grow", "upwards", "instead", "of", "straight", "out", "."], "e1_text": "put", "e1_pos": 3, "e2_text": "cut", "e2_pos": 8, "label": "after"}
+]

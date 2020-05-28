@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husbands", "coffee", "cup", "sat", "empty", "for", "the", "longest", "time", "before", "we", "flagged", "down", "a", "bus", "boy", "so", "he", "could", "get", "a", "refill", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "flagged", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "wish", "I", "had", "seen", "the", "bus", "boy", "before", "we", "left", "cause", "I", "would", "'ve", "left", "him", "the", "20", "%", "tip", "we", "always", "leave", "."], "e1_text": "seen", "e1_pos": 4, "e2_text": "left", "e2_pos": 10, "label": "before"}
+]

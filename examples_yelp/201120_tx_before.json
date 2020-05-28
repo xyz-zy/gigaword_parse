@@ -1,0 +1,4 @@
+[
+{"tokens": ["-", "he", "he", "-RRB-", ",", "pics", "are", "taken", "right", "before", "you", "enter", "the", "attraction", "-LRB-", "just", "like", "most", "theme", "parks", "that", "charge", "about", "$", "15", "per", "picture", "or", "somewhere", "in", "that", "neighborhood", "-RRB-", ",", "gift", "shop", "&", "food", "court", "outside", "the", "attraction", "."], "e1_text": "taken", "e1_pos": 7, "e2_text": "enter", "e2_pos": 11, "label": "before"},
+{"tokens": ["Finish", "your", "drink", "-LRB-", "I", "brought", "a", "bottled", "water", "-RRB-", "before", "entering", ",", "trash", "cans", "are", "located", "near", "the", "ticket", "stand", "."], "e1_text": "Finish", "e1_pos": 0, "e2_text": "entering", "e2_pos": 11, "label": "before"}
+]

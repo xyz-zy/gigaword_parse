@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "returned", "from", "The", "Venetian", "after", "recovering", "from", "sweet", "overindulgence", "at", "the", "sold", "out", "Las", "Vegas", "Chocolate", "Festival", "&", "Pastry", "Show", "after", "unwittingly", "arriving", "one", "hour", "early", "with", "general", "admission", "tickets", ",", "and", "having", "to", "bide", "some", "time", "before", "gaining", "admittance", "to", "the", "highly", "anticipated", "event", "."], "e1_text": "bide", "e1_pos": 35, "e2_text": "gaining", "e2_pos": 39, "label": "before"},
+{"tokens": ["Diane", "and", "I", "ran", "into", "Yelp", "friends", "Nelson", "and", "Sylvia", "Q.", ",", "and", "compared", "notes", "before", "moving", "on", "to", "sample", "more", "sweets", "."], "e1_text": "compared", "e1_pos": 13, "e2_text": "moving", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "receive", "a", "call", "and", "so", "the", "next", "day", "after", "they", "told", "me", "it", "should", "have", "come", "in", "i", "called", "them", "myself", "."], "e1_text": "receive", "e1_pos": 3, "e2_text": "told", "e2_pos": 13, "label": "after"},
+{"tokens": ["i", "came", "back", "at", "the", "appropriate", "time", "and", "was", "told", "they", "found", "out", "after", "opening", "the", "computer", "that", "they", "had", "selected", "the", "wrong", "port", "and", "would", "need", "to", "order", "the", "correct", "one", "."], "e1_text": "found", "e1_pos": 11, "e2_text": "opening", "e2_pos": 14, "label": "after"}
+]

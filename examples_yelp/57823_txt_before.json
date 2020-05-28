@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "had", "also", "asked", "before", "I", "got", "there", ",", "when", "I", "sat", "down", "and", "again", "when", "we", "ordered", ",", "if", "we", "could", "have", "a", "basket", "of", "fries", "as", "a", "starter", "-LRB-", "we", "ordered", "burgers", ",", "so", "it", "was", "part", "of", "our", "food", "-RRB-", "."], "e1_text": "asked", "e1_pos": 4, "e2_text": "got", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "was", "there", "over", "30", "min", "before", "we", "got", "food", "-", "he", "'d", "been", "there", "almost", "10", "min", "before", "me", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "before"}
+]

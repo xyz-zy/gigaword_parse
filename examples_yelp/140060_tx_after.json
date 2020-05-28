@@ -1,0 +1,5 @@
+[
+{"tokens": ["On", "both", "visits", ",", "I", "was", "taken", "aback", "by", "the", "amount", "of", "pretension", "and", "ego", "I", "observed", "in", "two", "associates", "after", "I", "did", "nothing", "more", "than", "say", "hello", "."], "e1_text": "observed", "e1_pos": 16, "e2_text": "did", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "received", "further", "confirmation", "of", "this", "after", "I", "got", "a", "second", "opinion", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["Lastly", ",", "when", "I", "went", "to", "pick", "up", "my", "bike", ",", "after", "I", "told", "them", "not", "to", "do", "repairs", ",", "I", "discovered", "they", "cut", "all", "of", "my", "brake", "and", "shifting", "cables", ",", "rendering", "the", "bike", "useless", "until", "I", "could", "find", "another", "shop", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "told", "e2_pos": 13, "label": "after"}
+]

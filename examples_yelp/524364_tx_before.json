@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "excited", "to", "finally", "try", "it", ",", "but", "I", "went", "a", "while", "before", "I", "actually", "did", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "did", "e2_pos": 16, "label": "before"},
+{"tokens": ["Im", "a", "huge", "fan", "of", "anything", "chicken", "and", "I", "guess", "I", "thought", "this", "was", "a", "wing", "place", "before", "seeing", "that", "it", "was", "literally", "all", "chicken", "fingers", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "seeing", "e2_pos": 18, "label": "before"}
+]

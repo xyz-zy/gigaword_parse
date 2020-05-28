@@ -1,0 +1,4 @@
+[
+{"tokens": ["Most", "of", "my", "unlove", "for", "Hula", "'s", "lies", "in", "the", "fact", "that", "we", "did", "not", "feel", "well", "after", "consuming", "the", "food", "."], "e1_text": "feel", "e1_pos": 15, "e2_text": "consuming", "e2_pos": 18, "label": "after"},
+{"tokens": ["The", "actual", "meal", "is", "what", "i", "have", "the", "most", "issues", "with", "because", "I", "felt", "ill", "after", "eating", "it", ",", "and", "while", "the", "first", "time", "I", "though", "it", "was", "over", "indulging", ",", "my", "take", "home", "box", "of", "pulled", "pork", "informed", "me", "otherwise", "."], "e1_text": "felt", "e1_pos": 13, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

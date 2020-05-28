@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ended", "up", "taking", "a", "taxi", "to", "the", "correct", "hotel", "after", "being", "dropped", "off", "at", "the", "wrong", "one", ",", "and", "the", "taxi", "driver", "proceeded", "to", "tell", "me", "that", "he", "had", "previously", "worked", "for", "super", "shuttle", "and", "that", "he", "quit", "since", "they", "were", "such", "a", "TERRIBLE", "company", "!"], "e1_text": "taking", "e1_pos": 3, "e2_text": "being", "e2_pos": 11, "label": "after"}
+]

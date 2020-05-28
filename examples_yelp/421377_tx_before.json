@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "least", "12", "people", "who", "came", "in", "after", "us", "-LRB-", "and", "two", "who", "even", "came", "in", "after", "we", "ordered", "-RRB-", "received", "their", "food", "before", "we", "did", "."], "e1_text": "received", "e1_pos": 20, "e2_text": "did", "e2_pos": 25, "label": "before"}
+]

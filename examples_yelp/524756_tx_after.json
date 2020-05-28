@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "drink", "machine", "ran", "out", "of", "ice", ",", "which", "happens", ",", "but", "it", "did", "n't", "improve", "my", "impressions", "of", "this", "place", ",", "because", "we", "desperately", "needed", "something", "cool", "to", "drink", "after", "inhaling", "all", "the", "spices", "on", "our", "lobster", "roll", "."], "e1_text": "drink", "e1_pos": 29, "e2_text": "inhaling", "e2_pos": 31, "label": "after"}
+]

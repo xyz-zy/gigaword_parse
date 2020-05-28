@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "got", "the", "haddock", "-LRB-", "maple", "syrup", "batter", "-RRB-", "after", "the", "very", "friendly", "and", "helpful", "waitress", "recommended", "it", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "recommended", "e2_pos": 16, "label": "after"}
+]

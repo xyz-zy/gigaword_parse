@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "good", "but", "the", "kitchen", "clearly", "lost", "our", "order", "as", "the", "table", "that", "was", "seated", "20", "minutes", "after", "us", "received", "their", "entrees", "before", "we", "did", "-LRB-", "both", "tables", "ordered", "sandwiches", "-RRB-", "."], "e1_text": "seated", "e1_pos": 16, "e2_text": "received", "e2_pos": 21, "label": "after"}
+]

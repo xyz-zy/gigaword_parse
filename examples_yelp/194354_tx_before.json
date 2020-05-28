@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "sit", "outside", "as", "we", "got", "there", "early", "enough", "before", "it", "starting", "getting", "too", "hot", "outside", "-LRB-", "misters", "were", "on", "so", "that", "made", "it", "very", "comfortable", "-RRB-", "and", "enjoyed", "the", "live", "music", "on", "the", "patio", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "starting", "e2_pos": 13, "label": "before"},
+{"tokens": ["Until", "11am", "on", "Sundays", "-LRB-", "not", "sure", "if", "this", "is", "always", "the", "case", "so", "make", "sure", "you", "give", "them", "a", "call", "before", "you", "head", "in", "-RRB-", "they", "have", "a", "great", "brunch", "to", "try", "out", "some", "of", "their", "menu", "items", "."], "e1_text": "give", "e1_pos": 17, "e2_text": "head", "e2_pos": 23, "label": "before"}
+]

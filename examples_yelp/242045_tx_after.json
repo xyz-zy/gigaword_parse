@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "to", "tell", "them", "about", "the", "ineffectiveness", "of", "the", "prescription", "and", "was", "told", "there", "was", "nothing", "...", "repeat", "nothing", "further", "they", "could", "do", "for", "me", "until", "I", "got", "the", "xrays", "even", "after", "I", "explained", "I", "would", "not", "be", "able", "to", "get", "xrays", "until", "after", "my", "vacation", "in", "2", "weeks", "."], "e1_text": "got", "e1_pos": 28, "e2_text": "explained", "e2_pos": 34, "label": "after"}
+]

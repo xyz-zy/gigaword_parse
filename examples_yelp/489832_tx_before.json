@@ -1,0 +1,4 @@
+[
+{"tokens": ["Who", "wants", "to", "stand", "in", "front", "of", "Holsteins", "for", "30", "min", "when", "you", "can", "grab", "a", "drink", "and", "sit", "in", "the", "sports", "book", "?!", "I", "received", "the", "text", ",", "although", "we", "snagged", "a", "spot", "at", "the", "bar", "before", "it", "came", "."], "e1_text": "snagged", "e1_pos": 31, "e2_text": "came", "e2_pos": 39, "label": "before"},
+{"tokens": ["It", "tasted", "like", "a", "good", "mac", "n", "cheese", "that", "got", "drowned", "in", "truffle", "oil", "before", "it", "was", "sent", "out", "."], "e1_text": "drowned", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

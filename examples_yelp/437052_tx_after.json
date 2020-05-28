@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "guy", "doing", "my", "nails", "did", "not", "seem", "happy", "to", "be", "working", ",", "was", "very", "rough", "with", "the", "cuticle", "clipper", "and", "would", "not", "scrape", "under", "my", "nails", "after", "I", "requested", "that", "he", "do", "so", "."], "e1_text": "scrape", "e1_pos": 23, "e2_text": "requested", "e2_pos": 29, "label": "after"},
+{"tokens": ["I", "noticed", "that", "after", "he", "used", "a", "brush", "to", "clean", "polish", "from", "around", "my", "nails", "that", "he", "simply", "put", "the", "brush", "back", "into", "the", "cup", "where", "it", "came", "from", "."], "e1_text": "noticed", "e1_pos": 1, "e2_text": "used", "e2_pos": 5, "label": "after"}
+]

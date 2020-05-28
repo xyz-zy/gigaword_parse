@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "Book", "Vault", "after", "searching", "on", "the", "web", "for", "''", "``", "used", "''", "''", "bookstores", "in", "the", "East", "Valley", "...", "it", "'s", "located", "in", "Power", "Square", "Mall", "in", "Mesa", "."], "e1_text": "Book", "e1_pos": 3, "e2_text": "searching", "e2_pos": 6, "label": "after"}
+]

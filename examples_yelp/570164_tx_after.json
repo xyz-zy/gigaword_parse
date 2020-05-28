@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lots", "of", "cakes", ",", "pies", ",", "gelatos", "and", "other", "desserts", "to", "choose", "from", "if", "you", "have", "room", "left", "after", "eating", "everything", "else", "."], "e1_text": "left", "e1_pos": 17, "e2_text": "eating", "e2_pos": 19, "label": "after"},
+{"tokens": ["Something", "just", "does", "n't", "smell", "right", "with", "them", "and", "some", "folks", "have", "complained", "about", "being", "sick", "after", "trying", "one", "."], "e1_text": "being", "e1_pos": 14, "e2_text": "trying", "e2_pos": 17, "label": "after"}
+]

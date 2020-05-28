@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "It", "was", "the", "best", "of", "the", "3", "meats", "we", "ordered", ",", "but", "only", "after", "drowning", "it", "in", "sauce", "."], "e1_text": "ordered", "e1_pos": 10, "e2_text": "drowning", "e2_pos": 15, "label": "after"}
+]

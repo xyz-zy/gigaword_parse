@@ -1,0 +1,4 @@
+[
+{"tokens": ["Terrible", "service", ",", "I", "was", "there", "yesterday", "around", "3:30", "pm", "after", "visiting", "the", "museum", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "visiting", "e2_pos": 11, "label": "after"},
+{"tokens": ["It", "took", "at", "least", "10", "mins", "to", "have", "someone", "ask", "what", "I", "wanted", "to", "drink", ",", "10", "more", "to", "get", "a", "coffee", "and", "10", "more", "minutes", "to", "get", "sugar", "after", "I", "asked", "for", "it", "."], "e1_text": "get", "e1_pos": 19, "e2_text": "asked", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "we", "were", "here", "-LRB-", "which", "happened", "to", "be", "this", "morning", "-RRB-", ",", "we", "waited", "a", "good", "ten", "minutes", "before", "we", "saw", "a", "server", ",", "although", "we", "could", "hear", "them", "chatting", "up", "their", "weekend", "plans", "in", "the", "kitchen", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "saw", "e2_pos": 23, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "car", "in", "front", "of", "us", "had", "several", "gals", "in", "the", "car", "and", "the", "cashier", ",", "a", "guy", ",", "was", "chatting", "away", "for", "at", "least", "ten", "minutes", "and", "a", "few", "minutes", "after", "giving", "them", "their", "coffee", "."], "e1_text": "chatting", "e1_pos": 20, "e2_text": "giving", "e2_pos": 32, "label": "after"}
+]

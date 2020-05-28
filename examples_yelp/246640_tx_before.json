@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "steaks", "were", "cooked", "wrong", ",", "had", "a", "pretty", "blah", "taste", "and", "we", "sat", "in", "the", "restaurant", "for", "20", "min", "before", "anyone", "asked", "us", "about", "drinks", "."], "e1_text": "sat", "e1_pos": 13, "e2_text": "asked", "e2_pos": 22, "label": "before"}
+]

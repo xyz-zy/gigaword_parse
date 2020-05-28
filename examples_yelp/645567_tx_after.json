@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "waiter", "checked", "on", "us", "the", "first", "time", "he", "said", "he", "would", "bring", "back", "hot", "fries", ",", "however", ",", "after", "waiting", "another", "15-20", "minutes", "they", "never", "came", "so", "we", "just", "decided", "to", "take", "off", "."], "e1_text": "bring", "e1_pos": 13, "e2_text": "waiting", "e2_pos": 21, "label": "after"}
+]

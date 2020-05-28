@@ -1,0 +1,3 @@
+[
+{"tokens": ["You", "should", "ask", "for", "a", "takeout", "menu", "before", "you", "order", "because", "they", "have", "coupons", "you", "can", "use", "right", "on", "the", "spot", "like", "2", "x-large", "-LRB-", "which", "is", "actually", "just", "a", "large", "-RRB-", "pizzas", "any", "way", "you", "want", "them", "for", "a", "little", "less", "then", "$", "18", "."], "e1_text": "ask", "e1_pos": 2, "e2_text": "order", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "passed", "it", "up", "once", "before", "I", "found", "out", "the", "exact", "location", "."], "e1_text": "passed", "e1_pos": 1, "e2_text": "found", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "came", "in", "with", "a", "broken", "dj", "mixer", ",", "said", "they", "will", "look", "at", "it", "free", "of", "charge", ",", "and", "let", "me", "know", "how", "much", "it", "will", "cost", "before", "they", "do", "any", "work", "."], "e1_text": "cost", "e1_pos": 27, "e2_text": "do", "e2_pos": 30, "label": "before"}
+]

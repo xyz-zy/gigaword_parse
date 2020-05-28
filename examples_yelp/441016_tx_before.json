@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "get", "the", "car", "towed", "to", "Lee", "'s", "and", "I", "explain", "how", "it", "was", "having", "overheating", "issues", "before", "and", "the", "radiator", "cracking", "open", "is", "prob", "an", "effect", "of", "some", "other", "underlying", "issue", "."], "e1_text": "explain", "e1_pos": 10, "e2_text": "was", "e2_pos": 13, "label": "before"}
+]

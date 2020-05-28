@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "always", "asked", "my", "guests", "to", "tell", "me", "what", "they", "thought", "of", "the", "service", "and", "food", "before", "they", "left", "our", "restaurant", ",", "so", "I", "could", "fix", "the", "problem", "."], "e1_text": "thought", "e1_pos": 10, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

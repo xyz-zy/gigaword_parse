@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "it", "was", ",", "the", "fish", "was", "literally", "in", "a", "small", "metal", "basket", "with", "a", "small", "tub", "of", "tartar", "sauce", "and", "on", "the", "plate", "along", "side", "the", "basket", "was", "about", "15", "chips", "-", "some", "of", "which", "were", "very", "small", "and", "crispy", ",", "looking", "as", "if", "they", "had", "been", "in", "the", "fryer", "for", "several", "rounds", "before", "finding", "my", "plate", "."], "e1_text": "been", "e1_pos": 47, "e2_text": "finding", "e2_pos": 55, "label": "before"},
+{"tokens": ["And", "for", "the", "price", "I", "paid", ",", "I", "'d", "have", "expected", "to", "be", "full", "before", "my", "plate", "was", "empty", "."], "e1_text": "be", "e1_pos": 12, "e2_text": "was", "e2_pos": 17, "label": "before"}
+]

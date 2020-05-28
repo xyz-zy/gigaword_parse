@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "told", "them", "up", "front", "that", "we", "had", "a", "dog", ",", "we", "paid", "extra", "because", "we", "had", "a", "dog", ",", "we", "were", "honest", "and", "responsible", "about", "every", "aspect", "of", "our", "reservation", "as", "one", "could", ",", "but", "she", "treated", "us", "as", "if", "our", "dog", "was", "going", "to", "destroy", "the", "room", "and", "proceeded", "to", "lecture", "us", "about", "what", "we", "would", "be", "responsible", "for", "should", "we", "cause", "any", "damage", ",", "even", "if", "they", "find", "something", "at", "any", "date", "even", "after", "we", "leave", "."], "e1_text": "find", "e1_pos": 70, "e2_text": "leave", "e2_pos": 78, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "pizza", "taste", "almost", "exactly", "like", "a", "street", "corner", "late", "night", "pizza", "joint", "in", "NYC", "which", "you", "would", "also", "frequent", "after", "a", "long", "night", "of", "drinking", "in", "Manhattan", "."], "e1_text": "frequent", "e1_pos": 19, "e2_text": "drinking", "e2_pos": 25, "label": "after"}
+]

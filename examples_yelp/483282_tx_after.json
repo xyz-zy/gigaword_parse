@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "first", "trip", "through", "the", "line", "I", "got", "pot", "stickers", "and", "some", "really", "nice", "sole", ",", "after", "several", "minutes", "I", "returned", "to", "finish", "off", "with", "the", "stuff", "I", "knew", "was", "good", "and", "in", "just", "that", "time", ",", "the", "food", "quality", "dropped", "to", "...", "yuck", "!"], "e1_text": "got", "e1_pos": 7, "e2_text": "returned", "e2_pos": 20, "label": "after"}
+]

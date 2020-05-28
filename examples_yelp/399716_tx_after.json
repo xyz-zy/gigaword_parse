@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "just", "want", "to", "add", "that", "my", "hair", "WAS", "NOT", "left", "shiny", ",", "after", "she", "said", "she", "''", "``", "was", "''", "''", "going", "to", "put", "a", "gloss", "on", "it", ",", "only", "to", "find", "out", "she", "did", "not", "."], "e1_text": "WAS", "e1_pos": 8, "e2_text": "said", "e2_pos": 15, "label": "after"}
+]

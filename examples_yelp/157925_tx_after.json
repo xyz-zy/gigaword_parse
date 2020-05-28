@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "our", "server", ",", "Stephanie", ",", "about", "it", "and", "was", "informed", "by", "her", ",", "after", "she", "looked", "for", "it", ",", "that", "they", "had", "a", "new", "executive", "chef", "and", "must", "have", "removed", "it", "from", "the", "menu", "."], "e1_text": "informed", "e1_pos": 11, "e2_text": "looked", "e2_pos": 17, "label": "after"}
+]

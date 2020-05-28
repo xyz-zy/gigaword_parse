@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "was", "not", "replaced", ",", "but", "returned", "to", "the", "table", "after", "being", "placed", "under", "the", "broiler", "to", "be", "heated", "."], "e1_text": "returned", "e1_pos": 6, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "actually", "arrived", "about", "10", "minutes", "after", "our", "confirmed", "time", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "confirmed", "e2_pos": 8, "label": "after"},
+{"tokens": ["It", "was", "a", "Chinese", "fire", "drill", "to", "get", "us", "seated", "20", "minutes", "later", ",", "30", "minutes", "after", "our", "confirmed", "reserved", "time", ".", "''"], "e1_text": "seated", "e1_pos": 9, "e2_text": "confirmed", "e2_pos": 18, "label": "after"}
+]

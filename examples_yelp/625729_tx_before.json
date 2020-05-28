@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "then", "proceeded", "to", "go", "back", "around", "the", "corner", "towards", "the", "kitchen", ",", "only", "she", "stopped", "to", "chit", "chat", "again", "with", "the", "other", "girl", "for", "a", "full", "5", "min", "before", "she", "even", "made", "my", "pizza", "."], "e1_text": "stopped", "e1_pos": 15, "e2_text": "made", "e2_pos": 32, "label": "before"}
+]

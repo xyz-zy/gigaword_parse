@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "have", "known", "this", "cook", "did", "n't", "know", "how", "to", "cook", "eggs", "since", "he", "kept", "asking", "the", "customers", "if", "the", "eggs", "looked", "cooked", "enough", "before", "he", "took", "them", "off", "the", "stove", "."], "e1_text": "looked", "e1_pos": 22, "e2_text": "took", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "girlfriend", "and", "I", "stopped", "in", "long", "enough", "to", "have", "a", "few", "relaxing", "drinks", "at", "the", "bar", "before", "taking", "in", "a", "show", "at", "the", "Sci", "Fi", "Theater", "-LRB-", "should", "give", "it", "a", "look", "if", "you", "have", "n't", "been", "before", "-RRB-", "."], "e1_text": "stopped", "e1_pos": 4, "e2_text": "taking", "e2_pos": 18, "label": "before"}
+]

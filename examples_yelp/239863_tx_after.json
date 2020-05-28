@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "the", "3", "miles", "from", "my", "hotel", "to", "satisfy", "my", "yearning", "for", "noodle", "soup", "-LRB-", "after", "reading", "about", "this", "spot", "on", "Yelp", "-RRB-", "."], "e1_text": "satisfy", "e1_pos": 9, "e2_text": "reading", "e2_pos": 17, "label": "after"},
+{"tokens": ["Even", "though", "I", "arrived", "after", "it", "was", "closing", "they", "served", "me", "my", "Mi", "Tom", "Cua", "-LRB-", "squid", ",", "prawn", ",", "crabstick", "and", "egg", "noodle", "-RRB-", "without", "complaints", "."], "e1_text": "arrived", "e1_pos": 3, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

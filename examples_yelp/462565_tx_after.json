@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "received", "the", "doors", "only", "on", "first", "delivery", ",", "then", "a", "week", "after", "I", "called", ",", "I", "received", "the", "tracks", "and", "rails", "-LRB-", "which", "I", "had", "to", "go", "pick", "up", "because", "the", "delivery", "service", "cant", "give", "more", "than", "a", "half", "day", "estimate", "for", "delivery", "-RRB-", ",", "but", "never", "received", "the", "screws", "and", "parts", "to", "attach", "the", "handles", "to", "the", "glass", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "called", "e2_pos": 14, "label": "after"}
+]

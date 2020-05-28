@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "things", "happen", "in", "the", "drive", "through", "ever", "now", "and", "then", ",", "it", "was", "just", "frustrating", "for", "my", "order", "was", "repeated", "to", "me", "so", "many", "times", ",", "there", "was", "no", "way", "I", "felt", "I", "even", "needed", "to", "check", "it", "before", "I", "left", "the", "drive", "through", "."], "e1_text": "check", "e1_pos": 38, "e2_text": "left", "e2_pos": 42, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "arrived", "we", "were", "advised", "that", "the", "car", "had", "to", "be", "washed", "before", "we", "returned", "it", "."], "e1_text": "washed", "e1_pos": 12, "e2_text": "returned", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "would", "have", "walked", "away", "or", "at", "least", "rented", "from", "somewhere", "else", "if", "I", "'d", "known", "before", "picking", "up", "the", "car", "."], "e1_text": "known", "e1_pos": 15, "e2_text": "picking", "e2_pos": 17, "label": "before"}
+]

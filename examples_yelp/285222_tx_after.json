@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plane", "landed", "late", "after", "being", "held", "up", "in", "Denver", "waiting", "for", "a", "flight", "crew", ",", "Got", "here", "late", ",", "and", "hunger", ",", "this", "was", "next", "to", "the", "hotel", "we", "were", "in", ",", "so", "we", "headed", "over", ",", "and", "although", "it", "filled", "us", "up", "-LRB-", "and", "did", "not", "feel", "right", "-RRB-", ",", "we", "have", "not", "been", "back", "their", "since", ",", "and", "will", "not", "go", "go", "back", "."], "e1_text": "landed", "e1_pos": 1, "e2_text": "being", "e2_pos": 4, "label": "after"}
+]

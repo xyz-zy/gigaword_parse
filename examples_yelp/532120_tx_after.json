@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Italian", "wedding", "soup", "was", "reasonably", "tasty", "-LRB-", "better", "after", "adding", "salt", "&", "pepper", "-RRB-", ",", "but", "the", "orzo", "in", "it", "was", "mushy", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "adding", "e2_pos": 10, "label": "after"}
+]

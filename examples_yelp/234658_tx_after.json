@@ -1,0 +1,5 @@
+[
+{"tokens": ["her", "water", "-LRB-", "not", "mine", "-RRB-", "showed", "up", "30", "minutes", "after", "we", "asked", "for", "them", "."], "e1_text": "showed", "e1_pos": 6, "e2_text": "asked", "e2_pos": 12, "label": "after"},
+{"tokens": ["Oh", "yea", ",", "it", "took", "Nick", "~", "25", "minutes", "after", "I", "hit", "the", "call", "button", "to", "come", "answer", "it", "."], "e1_text": "took", "e1_pos": 4, "e2_text": "hit", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "almost", "turned", "it", "off", "...", "and", "wish", "that", "I", "did", "because", "10", "minutes", "after", "that", "my", "beer", "came", "."], "e1_text": "did", "e1_pos": 10, "e2_text": "came", "e2_pos": 18, "label": "after"}
+]

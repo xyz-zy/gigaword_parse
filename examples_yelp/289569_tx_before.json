@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "knew", "this", "place", "before", "because", "I", "went", "2", "times", "already", "in", "the", "past", "year", "."], "e1_text": "knew", "e1_pos": 1, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["Later", "on", "that", "day", ",", "my", "boyfriend", "and", "me", "were", "not", "feeling", "really", "good", "...", "He", "vomit", "before", "going", "to", "work", "."], "e1_text": "vomit", "e1_pos": 16, "e2_text": "going", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "will", "try", "to", "double", "bill", "your", "insurance", "and", "then", "send", "you", "to", "collections", "after", "they", "have", "already", "been", "paid", "."], "e1_text": "send", "e1_pos": 10, "e2_text": "have", "e2_pos": 16, "label": "after"}
+]

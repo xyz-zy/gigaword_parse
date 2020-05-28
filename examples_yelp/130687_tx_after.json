@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "seated", "right", "after", "Circo", "opened", "."], "e1_text": "seated", "e1_pos": 2, "e2_text": "opened", "e2_pos": 6, "label": "after"},
+{"tokens": ["After", "15", "minutes", ",", "as", "I", "watched", "people", "at", "other", "tables", "who", "came", "in", "after", "me", "looking", "over", "their", "menus", ",", "I", "turned", "to", "the", "woman", "who", "brought", "the", "bread", "and", "asked", "if", "there", "was", "a", "server", "for", "my", "table", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "looking", "e2_pos": 16, "label": "after"}
+]

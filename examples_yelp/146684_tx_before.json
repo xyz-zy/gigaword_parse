@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walked", "in", "and", "were", "seated", "in", "the", "dining", "area", "by", "the", "bar", ",", "which", "is", "just", "fine", ",", "but", "he", "took", "a", "good", "4-5", "minutes", "before", "stopping", "by", "with", "waters", "and", "to", "take", "our", "drink\\/appetizer", "orders", "."], "e1_text": "took", "e1_pos": 21, "e2_text": "stopping", "e2_pos": 27, "label": "before"}
+]

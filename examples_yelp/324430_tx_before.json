@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "with", "the", "same", "friend", "as", "before", "since", "she", "lives", "up", "in", "Cave", "Creek", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "lives", "e2_pos": 10, "label": "before"},
+{"tokens": ["What", "the", "????????", "The", "dish", "was", "so", "great", "before", "I", "was", "telling", "everyone", "about", "it", "!!", "We", "let", "the", "waitress", "know", "and", "she", "apologized", "and", "said", "she", "would", "take", "the", "dish", "off", "our", "check", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "was", "e2_pos": 5, "label": "before"}
+]

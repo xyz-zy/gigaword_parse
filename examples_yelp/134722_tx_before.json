@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "computer", "decide", "to", "go", "south", "on", "me", "a", "week", "before", "I", "left", "last", "time", ",", "so", "I", "did", "n't", "get", "much", "of", "an", "opportunity", "to", "do", "my", "research", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "left", "e2_pos": 12, "label": "before"}
+]

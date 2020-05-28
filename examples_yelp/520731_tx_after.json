@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Rockin", "'", "Railroad", "class", "is", "great", "but", "beware", "that", "you", "can", "not", "make", "up", "any", "classes", "after", "the", "semester", "is", "over", "."], "e1_text": "make", "e1_pos": 13, "e2_text": "is", "e2_pos": 5, "label": "after"},
+{"tokens": ["We", "have", "attended", "other", "classes", "where", "the", "instructor", "would", "happily", "make", "up", "classes", "after", "the", "session", "was", "over", "."], "e1_text": "make", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

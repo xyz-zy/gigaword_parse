@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "the", "vet", "if", "my", "dog", "would", "be", "fine", "to", "leave", "like", "that", ",", "she", "advised", "that", "they", "just", "took", "the", "bandage", "off", "before", "I", "got", "there", "...", "maybe", "out", "of", "spite", "?"], "e1_text": "took", "e1_pos": 21, "e2_text": "got", "e2_pos": 27, "label": "before"}
+]

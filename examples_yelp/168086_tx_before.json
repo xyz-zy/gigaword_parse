@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "went", ",", "I", "went", "with", "my", "family", "but", "this", "was", "a", "surprise", "dinner", "because", "I", "had", "already", "ate", "before", "we", "got", "here", "."], "e1_text": "ate", "e1_pos": 19, "e2_text": "got", "e2_pos": 22, "label": "before"}
+]

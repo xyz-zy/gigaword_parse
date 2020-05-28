@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "I", "proceeded", "to", "wait", "in", "line", "for", "2", "hours", "before", "I", "was", "able", "to", "see", "the", "front", "desk", "where", "patrons", "were", "paying", "cover", "."], "e1_text": "wait", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "also", "discovered", "that", "you", "can", "get", "the", "pre-sale", "tickets", "online", "before", "8", "pm", "-LRB-", "I", "believe", "...", "-RRB-", "for", "$", "30", "-LRB-", "depending", "on", "the", "event", "-RRB-", "and", "you", "wo", "n't", "have", "to", "wait", "in", "line", "!"], "e1_text": "get", "e1_pos": 6, "e2_text": "believe", "e2_pos": 16, "label": "before"}
+]

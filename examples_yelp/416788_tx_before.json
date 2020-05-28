@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "fact", "he", "does", "n't", "have", "a", "license", "is", "not", "the", "issue", "here", "although", "you", "may", "want", "to", "take", "that", "into", "consideration", "before", "doing", "business", "with", "him", "."], "e1_text": "take", "e1_pos": 18, "e2_text": "doing", "e2_pos": 23, "label": "before"},
+{"tokens": ["Please", "be", "very", "careful", "before", "using", "this", "guy", "."], "e1_text": "be", "e1_pos": 1, "e2_text": "using", "e2_pos": 5, "label": "before"}
+]

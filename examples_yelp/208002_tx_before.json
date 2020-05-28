@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "an", "iced", "tea", "-LRB-", "I", "know", "surprise", "surprise", "I", "did", "n't", "order", "alcohol", ",", "but", "it", "was", "only", "1:00", "and", "I", "still", "had", "to", "hit", "the", "gym", "with", "a", "friend", "at", "5", "-RRB-", ",", "and", "I", "had", "to", "ask", "for", "a", "lemon", "wedge", "four", "times", "before", "receiving", "one", "."], "e1_text": "ask", "e1_pos": 40, "e2_text": "receiving", "e2_pos": 48, "label": "before"}
+]

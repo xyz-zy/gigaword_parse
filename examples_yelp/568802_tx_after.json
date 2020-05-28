@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "understand", "I", "was", "here", "on", "Mother", "'s", "Day", ",", "but", "multiple", "people", "were", "walking", "out", "an", "hour", "after", "ordering", "when", "they", "still", "had", "not", "gotten", "their", "food", "."], "e1_text": "walking", "e1_pos": 14, "e2_text": "ordering", "e2_pos": 19, "label": "after"}
+]

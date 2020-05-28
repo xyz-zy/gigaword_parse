@@ -1,0 +1,3 @@
+[
+{"tokens": ["Regular", "lunch", "specials", "-LRB-", "entree", "and", "side", "-RRB-", "are", "$", "4.99", "before", "3pm", "any", "day", "and", "on", "Tuesdays", "lunch", "specials", "are", "2", "for", "1", "."], "e1_text": "are", "e1_pos": 8, "e2_text": "are", "e2_pos": 8, "label": "before"}
+]

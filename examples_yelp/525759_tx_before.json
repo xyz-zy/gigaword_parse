@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "the", "seared", "salmon", "dinner", "which", "must", "have", "been", "the", "last", "dish", "cooked", "before", "serving", "because", "my", "salmon", "was", "hot", ",", "although", "the", "rice", "and", "veggies", "were", "a", "little", "cool", "."], "e1_text": "cooked", "e1_pos": 13, "e2_text": "serving", "e2_pos": 15, "label": "before"}
+]

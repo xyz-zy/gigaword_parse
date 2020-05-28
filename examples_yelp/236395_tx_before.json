@@ -1,0 +1,4 @@
+[
+{"tokens": ["Another", "3o", "minutes", "pass", ",", "several", "arguements", ",", "and", "a", "lot", "of", "disappointment", "occurred", "before", "the", "check", "in", "attendant", "finally", "found", "my", "correct", "reservation", "."], "e1_text": "occurred", "e1_pos": 13, "e2_text": "found", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "had", "to", "clean", "my", "own", "tub", "before", "I", "got", "in", "."], "e1_text": "clean", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

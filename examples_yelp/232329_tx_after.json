@@ -1,0 +1,3 @@
+[
+{"tokens": ["$", "4.99", "for", "steak", ",", "eggs", ",", "potatoes", ",", "break", "-", "say", "what", "!?", "You", "ca", "n't", "ask", "for", "a", "better", "deal", ",", "especially", "after", "a", "long", "night", "of", "partying", "at", "3", "-", "4", "in", "the", "morning", "."], "e1_text": "ask", "e1_pos": 17, "e2_text": "partying", "e2_pos": 29, "label": "after"}
+]

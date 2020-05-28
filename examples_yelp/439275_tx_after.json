@@ -1,0 +1,4 @@
+[
+{"tokens": ["UPDATE", ":", "This", "company", "charged", "my", "debit", "card", "$", "38.00", "after", "I", "disputed", "the", "charge", "for", "long", "hauling", "and", "paid", "the", "driver", "cash", "."], "e1_text": "charged", "e1_pos": 4, "e2_text": "disputed", "e2_pos": 12, "label": "after"},
+{"tokens": ["Had", "the", "misfortune", "of", "hiring", "car", "#", "765", "on", "Sunday", "April", "28", ",", "2013", ",", "at", "McCarran", ",", "after", "having", "just", "been", "royally", "screwed", "around", "by", "the", "airlines", "."], "e1_text": "Had", "e1_pos": 0, "e2_text": "having", "e2_pos": 19, "label": "after"}
+]

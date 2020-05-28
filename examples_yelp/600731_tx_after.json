@@ -1,0 +1,3 @@
+[
+{"tokens": ["Edit", ":", "I", "found", "after", "I", "went", "home", "that", "this", "place", "sells", "a", "$", "15", "Pinot", "noir", "for", "$", "38", "!!!", "And", "their", "fresh", "squeezed", "orange", "juice", "which", "is", "$", "12", "a", "carafe", "is", "actually", "minute", "maid", "poured", "into", "an", "unnamed", "container", "."], "e1_text": "found", "e1_pos": 3, "e2_text": "went", "e2_pos": 6, "label": "after"}
+]

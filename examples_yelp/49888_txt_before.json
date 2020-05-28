@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "into", "the", "Horse", "and", "Hound", "to", "wet", "my", "whistle", "one", "night", "before", "I", "saw", "a", "show", "at", "the", "Clubhouse", "next", "door", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "saw", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "was", "also", "pretty", "high", "as", "I", "had", "only", "moments", "before", "smoked", "a", "ton", "of", "pot", "and", "that", "was", "a", "major", "buzzkill", "for", "me", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

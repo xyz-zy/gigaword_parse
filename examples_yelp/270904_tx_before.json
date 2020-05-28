@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "are", "coupons", "on", "the", "company", "'s", "website", "that", "do", "n't", "have", "an", "expiration", ",", "so", "just", "double", "check", "with", "your", "waiter", "if", "you", "can", "use", "'em", "before", "ordering", "."], "e1_text": "use", "e1_pos": 25, "e2_text": "ordering", "e2_pos": 28, "label": "before"}
+]

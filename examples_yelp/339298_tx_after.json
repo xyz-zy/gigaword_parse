@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "blown", "three", "separate", "days", "sitting", "around", "waiting", "for", "a", "delivery", "with", "promises", "from", "phone", "reps", "-", "after", "the", "3", "hour", "delivery", "window", "had", "come", "and", "gone", "-", "that", "''", "``", "they", "'ll", "be", "there", "today", ",", "they", "'re", "just", "running", "late", "!", "''", "''"], "e1_text": "sitting", "e1_pos": 6, "e2_text": "had", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "best", "part", "is", "that", "when", "they", "reschedule", ",", "it", "'s", "10", "days", "after", "that", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "'s", "e2_pos": 10, "label": "after"}
+]

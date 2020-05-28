@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "what", "my", "mom", "said", "after", "tasting", "the", "bacon-wrapped", "shrimp", "at", "Wildfish", "."], "e1_text": "said", "e1_pos": 5, "e2_text": "tasting", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "knew", "I", "had", "to", "come", "back", "for", "a", "full", "meal", "after", "swooning", "over", "the", "amazing", "appetizers", "at", "the", "Yelp", "Elite", "event", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "swooning", "e2_pos": 12, "label": "after"}
+]

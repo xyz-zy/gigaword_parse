@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "for", "mint", "jelly", "-LRB-", "someone", "in", "our", "group", "loved", "lamb", "and", "mint", "jelly", "-RRB-", "at", "least", "six", "times", "over", "20", "minutes", "before", "they", "brought", "it", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "brought", "e2_pos": 25, "label": "before"}
+]

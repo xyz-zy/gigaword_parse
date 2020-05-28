@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stood", "around", "outside", "for", "a", "bit", "...", "got", "cold", "and", "went", "inside", "to", "buy", "a", "to-go", "coffee", "-LRB-", "which", "I", "'ve", "always", "been", "able", "to", "do", "before", "-RRB-", "."], "e1_text": "buy", "e1_pos": 13, "e2_text": "'ve", "e2_pos": 20, "label": "before"},
+{"tokens": ["Was", "told", "by", "one", "of", "the", "servers", "that", "it", "was", "''", "``", "discouraged", "''", "''", "to", "get", "coffee", "before", "we", "sat", "down", ",", "so", "we", "can", "go", "get", "coffee", "down", "the", "street", "...", "in", "a", "condescending", "''", "``", "why", "are", "you", "bothering", "me", "''", "''", "tone", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "sat", "e2_pos": 20, "label": "before"}
+]

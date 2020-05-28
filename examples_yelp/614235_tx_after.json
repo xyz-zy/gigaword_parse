@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", ",", "he", "never", "changed", "his", "glove", "which", "would", "not", "normally", "have", "been", "an", "issue", ",", "but", "after", "he", "scooped", "out", "too", "much", "chicken", "for", "1\\/2", "pound", "order", ",", "he", "dug", "his", "gloved", "hand", "into", "my", "chicken", "box", "and", "pulled", "out", "some", "and", "then", "tossed", "it", "back", "into", "the", "original", "pan", "."], "e1_text": "changed", "e1_pos": 4, "e2_text": "scooped", "e2_pos": 19, "label": "after"},
+{"tokens": ["Secondly", ",", "he", "did", "not", "say", "''", "``", "Your", "welcome", "''", "''", "after", "I", "thanked", "him", "."], "e1_text": "say", "e1_pos": 5, "e2_text": "thanked", "e2_pos": 14, "label": "after"}
+]

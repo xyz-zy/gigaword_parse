@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "he", "threw", "raw", "chicken", "on", "the", "grill", ",", "2", "pieces", ",", "then", "pulled", "one", "piece", "off", "and", "put", "it", "back", "into", "the", "raw", "chicken", "after", "it", "sizzled", "on", "the", "grill", "a", "little", "."], "e1_text": "put", "e1_pos": 18, "e2_text": "sizzled", "e2_pos": 27, "label": "after"}
+]

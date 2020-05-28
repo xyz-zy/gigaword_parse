@@ -1,0 +1,6 @@
+[
+{"tokens": ["There", "was", "one", "person", "ahead", "of", "us", ",", "who", "stood", "there", "forever", "before", "he", "was", "waited", "on", "."], "e1_text": "stood", "e1_pos": 9, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["I", "'m", "pretty", "sure", "we", "stood", "there", "five", "full", "minutes", "before", "a", "female", "zombie", "showed", "up", "."], "e1_text": "stood", "e1_pos": 5, "e2_text": "showed", "e2_pos": 14, "label": "before"},
+{"tokens": ["My", "nephew", "stoically", "nibbled", "on", "the", "dog", "before", "asking", "if", "he", "could", "just", "eat", "his", "fries", ",", "to", "which", "I", "agreed", ",", "of", "course", "."], "e1_text": "nibbled", "e1_pos": 3, "e2_text": "asking", "e2_pos": 8, "label": "before"},
+{"tokens": ["My", "nephew", "summed", "it", "up", "when", "he", "said", ",", "''", "``", "Aunt", "T", ",", "Hardee", "'s", "was", "my", "favorite", "place", "before", "."], "e1_text": "summed", "e1_pos": 2, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

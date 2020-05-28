@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "saw", "some", ",", "but", "we", "missed", "it", "because", "after", "seeing", "one", "sign", "that", "was", "it", "!"], "e1_text": "missed", "e1_pos": 6, "e2_text": "seeing", "e2_pos": 10, "label": "after"}
+]

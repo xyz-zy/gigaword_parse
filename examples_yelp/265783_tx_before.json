@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "location", "is", "quick", "to", "point", "out", "any", "blemishes", "on", "the", "returned", "car", "so", "be", "sure", "to", "document", "the", "condition", "before", "leaving", "the", "gate", "."], "e1_text": "document", "e1_pos": 17, "e2_text": "leaving", "e2_pos": 21, "label": "before"}
+]

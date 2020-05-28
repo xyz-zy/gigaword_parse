@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "get", "2", "of", "the", "shrimp", "1st", "and", "after", "waiting", "for", "another", "20", "mins", ",", "got", "the", "chicken", "one", "-LRB-", "for", "the", "person", "in", "our", "group", "who", "avoids", "shrimps", "-RRB-", ",", "which", "had", "shrimp", "at", "the", "bottom", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

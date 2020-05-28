@@ -1,0 +1,3 @@
+[
+{"tokens": ["And", "they", "had", "all", "the", "goodies", "like", "mouthwash", ",", "hairspray", ",", "etc.", "...", "They", "sweep", "the", "stall", "and", "then", "make", "sure", "its", "flushed", "before", "you", "enter", "."], "e1_text": "make", "e1_pos": 19, "e2_text": "enter", "e2_pos": 25, "label": "before"}
+]

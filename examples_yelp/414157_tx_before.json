@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "plan", "on", "trying", "a", "milkshake", ",", "I", "would", "recommend", "not", "eating", "before", "you", "go", "because", "these", "things", "are", "like", "a", "full", "meal", "."], "e1_text": "eating", "e1_pos": 12, "e2_text": "go", "e2_pos": 15, "label": "before"}
+]

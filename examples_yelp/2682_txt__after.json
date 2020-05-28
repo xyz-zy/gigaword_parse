@@ -1,0 +1,4 @@
+[
+{"tokens": ["Moral", "the", "story", ":", "if", "you", "risk", "this", "dude", ",", "only", "pay", "him", "at", "the", "end", "after", "you", "check", "for", "damages", "."], "e1_text": "pay", "e1_pos": 11, "e2_text": "check", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "'d", "had", "a", "bad", "feeling", "about", "the", "place", "after", "I", "called", "for", "the", "quote", "and", "the", "guy", "I", "talked", "to", "the", "did", "n't", "know", "what", "riding", "boots", "looked", "like", "...", "He", "thought", "they", "had", "a", "spiked", "heel", "...", "but", "I", "had", "that", "magical", "Groupon", "to", "use", ",", "so", "I", "went", "anyway", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "called", "e2_pos": 11, "label": "after"}
+]

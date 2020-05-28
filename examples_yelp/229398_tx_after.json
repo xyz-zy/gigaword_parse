@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "4", "of", "us", ",", "two", "adults", "and", "two", "kids", ",", "we", "were", "given", "2", "food", "menus", "and", "a", "drinks", "menu", "to", "use", "and", "a", "third", "food", "menu", "after", "we", "asked", "for", "another", "menu", "for", "our", "daughter", "."], "e1_text": "given", "e1_pos": 14, "e2_text": "asked", "e2_pos": 31, "label": "after"},
+{"tokens": ["We", "ordered", "one", "more", "set", "of", "rolls", "including", "a", "rainbow", "roll", "with", "real", "crab", "meat", "as", "we", "were", "still", "hungry", "and", "after", "30", "minutes", "waiting", "and", "us", "telling", "the", "water", "lady", "to", "just", "cancel", "and", "bring", "us", "the", "check", "the", "rolls", "arrived", "."], "e1_text": "were", "e1_pos": 17, "e2_text": "waiting", "e2_pos": 24, "label": "after"}
+]

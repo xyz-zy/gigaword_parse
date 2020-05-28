@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "be", "honest", ";", "both", "of", "us", "were", "nervous", "and", "were", "on", "a", "look", "out", "before", "entering", "the", "club", "."], "e1_text": "were", "e1_pos": 8, "e2_text": "entering", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", "politely", "he", "told", "her", "that", "we", "just", "chilling", "and", "did", "n't", "want", "to", "waste", "her", "time", ",", "to", "what", "she", "responded", ",", "''", "``", "Well", "I", "have", "nothing", "else", "to", "do", "at", "this", "time", "and", "if", "you", "do", "n't", "mind", "I", "would", "like", "to", "just", "chit", "chat", "with", "you", ",", "before", "I", "go", "on", "the", "stage", ":-RRB-", "''", "''", "."], "e1_text": "have", "e1_pos": 27, "e2_text": "go", "e2_pos": 53, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "will", "rush", "you", "to", "pay", "your", "check", "before", "you", "finish", "chewing", "on", "your", "second", "bite", "of", "your", "burger", "."], "e1_text": "pay", "e1_pos": 5, "e2_text": "finish", "e2_pos": 10, "label": "before"}
+]

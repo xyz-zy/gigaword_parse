@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "check", "arrived", "I", "was", "shocked", "she", "had", "charged", "me", "for", "the", "steak", "fries", ",", "even", "after", "I", "communicated", "I", "probably", "would", "n't", "be", "able", "to", "eat", "the", "new", "batch", "either", "."], "e1_text": "charged", "e1_pos": 9, "e2_text": "communicated", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "at", "the", "airport", "with", "plenty", "of", "time", "-LRB-", "or", "so", "we", "thought", "-RRB-", "but", "due", "to", "the", "enormous", "lines", "that", "only", "plagued", "us", "airways", "customers", "we", "ended", "up", "boarding", "our", "flight", "just", "before", "the", "doors", "closed", "."], "e1_text": "boarding", "e1_pos": 30, "e2_text": "closed", "e2_pos": 37, "label": "before"}
+]

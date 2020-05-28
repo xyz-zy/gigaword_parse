@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "2nd", "shirt", "had", "uneven", "letter", "type", "-LRB-", "the", "''", "``", "L", "''", "''", "is", "same", "height", "as", "lowercase", "''", "``", "e", "''", "''", "-RRB-", "that", "I", "noticed", "after", "checking", "previous", "work", "when", "work", "went", "downhill", "."], "e1_text": "noticed", "e1_pos": 27, "e2_text": "checking", "e2_pos": 29, "label": "after"}
+]

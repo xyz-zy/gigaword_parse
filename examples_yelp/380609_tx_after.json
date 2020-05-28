@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "decided", "to", "have", "an", "early", "dinner", "after", "the", "golf", "round", "was", "over", "."], "e1_text": "have", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["Waitress", "came", "back", "about", "ten", "minutes", "after", "we", "ordered", "saying", "they", "were", "out", "of", "pork", "ribs", "and", "I", "got", "the", "last", "order", ",", "so", "my", "dad", "had", "to", "change", "his", "to", "pulled", "pork", ",", "then", "five", "minutes", "later", "they", "said", "they", "were", "out", "of", "pulled", "pork", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

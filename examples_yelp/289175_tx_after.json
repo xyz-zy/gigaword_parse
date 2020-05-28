@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "about", "to", "leave", "after", "thinking", "about", "the", "rude", "seating", "situation", "but", "the", "guy", "comes", "to", "take", "our", "order", "."], "e1_text": "leave", "e1_pos": 4, "e2_text": "thinking", "e2_pos": 6, "label": "after"},
+{"tokens": ["So", "I", "'m", "never", "one", "to", "bring", "up", "the", "race", "card", "but", "we", "did", "n't", "appreciate", "that", "the", "3", "gentlemen", "seated", "10", "minutes", "after", "us", "some", "how", "get", "their", "soup", "before", "us", "."], "e1_text": "seated", "e1_pos": 20, "e2_text": "get", "e2_pos": 27, "label": "after"}
+]

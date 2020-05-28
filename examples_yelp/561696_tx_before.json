@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "first", "experiences", "was", "the", "bartender", "poured", "my", "draft", "beer", ",", "and", "before", "handing", "it", "to", "me", ",", "wiped", "the", "glass", "with", "a", "dirty", "bar", "towel", "."], "e1_text": "wiped", "e1_pos": 20, "e2_text": "handing", "e2_pos": 15, "label": "before"}
+]

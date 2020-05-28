@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "piece", "of", "meat", "zoomed", "past", "medium", "rare", "ten", "minutes", "before", "they", "took", "it", "off", "the", "grill", "."], "e1_text": "zoomed", "e1_pos": 4, "e2_text": "took", "e2_pos": 12, "label": "before"}
+]

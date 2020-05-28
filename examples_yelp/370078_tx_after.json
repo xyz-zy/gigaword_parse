@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "South", "Beach", "Cafe", "has", "Matzo", "Ball", "chicken", "soup", "that", "taste", "like", "it", "is", "straight", "from", "the", "can", "and", "is", "ruined", "further", "by", "being", "served", "in", "a", "paper", "container", "that", "falls", "apart", "minute", "after", "it", "arrives", "Suffice", "to", "say", "that", "if", "you", "stay", "at", "the", "Tropicana", "you", "need", "to", "plan", "for", "you", "meals", "at", "some", "other", "place", "with", "better", "food", "such", "as", "Denny", "'s", "!"], "e1_text": "falls", "e1_pos": 30, "e2_text": "arrives", "e2_pos": 35, "label": "after"}
+]

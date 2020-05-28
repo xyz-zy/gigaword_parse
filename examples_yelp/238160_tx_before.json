@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "start", "out", "with", "the", "braised", "pork", "Mac", "and", "cheese", "followed", "by", "a", "coffee", "crusted", "mahi", "mahi", "before", "finishing", "with", "a", "coffee", "panna", "cotta", "."], "e1_text": "crusted", "e1_pos": 16, "e2_text": "finishing", "e2_pos": 20, "label": "before"},
+{"tokens": ["Normally", "this", "would", "not", "be", "a", "big", "deal", "except", "for", "the", "fact", "that", "I", "specifically", "asked", "our", "waiter", "if", "the", "panna", "cotta", "had", "any", "chocolate", "in", "it", "before", "ordering", "to", "which", "he", "responded", "that", "it", "did", "not", "."], "e1_text": "had", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 28, "label": "before"}
+]

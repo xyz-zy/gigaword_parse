@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "tired", "and", "starving", "so", "we", "sat", "down", "anyway", "after", "they", "promised", "to", "have", "it", "cleaned", "straight", "away", "."], "e1_text": "sat", "e1_pos": 7, "e2_text": "promised", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "had", "asked", "a", "few", "people", "to", "send", "someone", "out", "to", "take", "our", "order", "and", "the", "table", "next", "to", "us", "that", "had", "been", "seated", "after", "us", "had", "gotten", "menus", "and", "drinks", "."], "e1_text": "seated", "e1_pos": 23, "e2_text": "had", "e2_pos": 1, "label": "after"}
+]

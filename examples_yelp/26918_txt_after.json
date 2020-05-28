@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "after", "waiting", "30", "MINUTES", "to", "get", "someone", "to", "the", "electronic", "area", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 3, "label": "after"},
+{"tokens": ["Finally", ",", "got", "some", "one", "to", "help", "us", ",", "and", "ended", "up", "waiting", "longer", "after", "we", "asked", "to", "speak", "to", "the", "manager", "about", "the", "attitude", ",", "and", "the", "waiting", "for", "a", "worker", "to", "assist", "us", "."], "e1_text": "waiting", "e1_pos": 12, "e2_text": "asked", "e2_pos": 16, "label": "after"}
+]

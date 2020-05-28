@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Red", "Card", "of", "Failure", "states", "that", "they", "will", "keep", "your", "parcel", "for", "18", "days", "before", "returning", "it", "to", "sender", "."], "e1_text": "keep", "e1_pos": 9, "e2_text": "returning", "e2_pos": 16, "label": "before"},
+{"tokens": ["Final", "note", ":", "at", "some", "delivery", "offices", "they", "do", "n't", "bother", "asking", "for", "your", "ID", "before", "giving", "the", "parcel", "."], "e1_text": "asking", "e1_pos": 11, "e2_text": "giving", "e2_pos": 16, "label": "before"}
+]

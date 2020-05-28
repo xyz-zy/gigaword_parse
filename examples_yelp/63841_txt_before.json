@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "husband", "had", "a", "craving", "for", "duck", "so", "we", "decided", "to", "have", "lunch", "there", "before", "heading", "home", "to", "Cali", "."], "e1_text": "have", "e1_pos": 11, "e2_text": "heading", "e2_pos": 15, "label": "before"},
+{"tokens": ["Oh", ",", "and", "before", "we", "even", "ordered", "the", "table", "next", "to", "us", "complained", "about", "a", "hair", "in", "their", "food", "."], "e1_text": "and", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "from", "Charleston", "and", "my", "girlfriend", "and", "I", "were", "in", "Charlotte", "for", "a", "Panther", "game", "and", "we", "elected", "to", "dine", "here", "that", "weekend", "after", "seeing", "the", "restaurant", "on", "EATER", "."], "e1_text": "dine", "e1_pos": 20, "e2_text": "seeing", "e2_pos": 25, "label": "after"}
+]

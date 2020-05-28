@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sat", "down", "at", "the", "bar", "with", "my", "friends", "and", "waited", "5", "minutes", "before", "either", "bartender", "realized", "that", "I", "was", "a", "new", "member", "of", "our", "group", "of", "4", "and", "that", "I", "was", "signaling", "them", "so", "that", "I", "could", "order", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "realized", "e2_pos": 16, "label": "before"}
+]

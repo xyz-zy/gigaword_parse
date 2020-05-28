@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waitress", "came", "back", "twice", "after", "taking", "our", "order", "--", "once", "to", "ask", "what", "one", "of", "us", "had", "ordered", "as", "she", "could", "n't", "read", "her", "writing", "and", "once", "to", "refill", "iced", "tea", "-LRB-", "and", "also", "filled", "soda", "glass", "with", "tea", "-RRB-", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "taking", "e2_pos": 5, "label": "after"},
+{"tokens": ["Then", "she", "disappeared", ",", "evidently", "as", "did", "our", "food", "because", "45", "minutes", "after", "taking", "our", "order", "nothing", "to", "eat", "had", "arrived", "."], "e1_text": "did", "e1_pos": 6, "e2_text": "taking", "e2_pos": 13, "label": "after"}
+]

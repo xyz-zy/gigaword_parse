@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "roommate", "and", "I", "have", "ended", "up", "calling", "the", "office", ",", "sometimes", "twice", "before", "it", "'s", "cleaned", "."], "e1_text": "ended", "e1_pos": 5, "e2_text": "'s", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "ended", "up", "cutting", "her", "check", ",", "but", "not", "before", "a", "lot", "of", "stern", "talk", "."], "e1_text": "cutting", "e1_pos": 3, "e2_text": "talk", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "went", "here", "for", "lunch", "last", "week", ",", "after", "reviewing", "the", "menu", "i", "decided", "on", "the", "meatloaf", "sandwich", "may", "be", "i", "didnt", "read", "the", "discription", "but", "what", "i", "got", "was", "a", "open", "face", "sandwich", "the", "piece", "of", "loaf", "wasnt", "big", "enough", "to", "cover", "the", "bread", "and", "was", "a", "thin", "piece", "as", "well", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reviewing", "e2_pos": 9, "label": "after"}
+]

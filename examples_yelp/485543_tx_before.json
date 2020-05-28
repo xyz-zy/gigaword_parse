@@ -1,0 +1,3 @@
+[
+{"tokens": ["2", "-RRB-", "I", "got", "garlic", "fries", "-LRB-", "which", "I", "have", "ordered", "from", "this", "waitress", "before", "-RRB-", ",", "and", "they", "came", "out", "with", "the", "wrong", "variety", "of", "fries", "!"], "e1_text": "got", "e1_pos": 3, "e2_text": "have", "e2_pos": 9, "label": "before"}
+]

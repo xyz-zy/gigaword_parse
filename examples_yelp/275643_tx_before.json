@@ -1,0 +1,4 @@
+[
+{"tokens": [":-RRB-", "I", "had", "checked", "the", "menu", "online", "and", "knew", "pretty", "much", "what", "we", "wanted", "before", "going", "there", "."], "e1_text": "wanted", "e1_pos": 13, "e2_text": "going", "e2_pos": 15, "label": "before"},
+{"tokens": ["She", "asked", "us", "if", "we", "had", "been", "there", "before", "and", "answered", "questions", "and", "gave", "advice", "as", "we", "asked", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "had", "e2_pos": 5, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "paid", "the", "first", "payment", "for", "the", "service", "call", "with", "my", "debit", "before", "they", "fixed", "it", "and", "then", "after", "it", "was", "fixed", "I", "paid", "again", "."], "e1_text": "paid", "e1_pos": 1, "e2_text": "fixed", "e2_pos": 14, "label": "before"}
+]

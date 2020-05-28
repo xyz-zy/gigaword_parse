@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "a", "vet", "appointment", "for", "our", "dog", "at", "1:45", "pm", ",", "it", "was", "now", "1:05", "pm", ",", "not", "able", "to", "wait", "any", "longer", "and", "seeing", "no", "signs", "of", "our", "food", ",", "watching", "table", "after", "table", "receiving", "theirs", ",", "we", "finally", "flagged", "down", "our", "waitress", "and", "said", ",", "''", "``", "we", "never", "received", "our", "food", ",", "we", "'ve", "been", "waiting", "45", "mins", "!", "''", "''"], "e1_text": "watching", "e1_pos": 32, "e2_text": "receiving", "e2_pos": 36, "label": "after"}
+]

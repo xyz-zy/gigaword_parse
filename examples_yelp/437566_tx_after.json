@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "found", "myself", "here", "after", "completely", "failing", "getting", "drunk", "at", "the", "poker", "table", "at", "the", "Sante", "Fe", "because", "I", "'m", "an", "internet", "kid", "who", "likes", "to", "make", "bad", "poker", "decisions", "due", "to", "spite", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "failing", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "walked", "up", "to", "Johnny", "Rockets", "after", "seeing", "that", "FEAST", "buffet", "was", "closed", "since", "it", "was", "11pm", ",", "I", "thought", "they", "were", "going", "to", "kick", "me", "out", "since", "I", "had", "n't", "shaved", "in", "over", "2", "weeks", "and", "was", "looking", "quite", "homely", "."], "e1_text": "walked", "e1_pos": 1, "e2_text": "seeing", "e2_pos": 7, "label": "after"}
+]

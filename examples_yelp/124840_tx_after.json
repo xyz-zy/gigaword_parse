@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "theater", "-", "#", "12", "-", "was", "located", "down", "the", "right", "hallway", ",", "a", "walk", "down", "further", "after", "taking", "a", "right", "turn", "at", "the", "end", "of", "it", "."], "e1_text": "located", "e1_pos": 7, "e2_text": "taking", "e2_pos": 18, "label": "after"}
+]

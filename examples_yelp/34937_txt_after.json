@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "job", "obviously", "still", "is", "n't", "complete", "3", "months", "after", "the", "job", "was", "done", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "was", "e2_pos": 12, "label": "after"},
+{"tokens": ["Why", "would", "you", "ever", "pay", "a", "contractor", "when", "he", "did", "n't", "complete", "the", "job", "????", "I", "'m", "paying", "you", "and", "your", "company", "to", "look", "after", "my", "property", ",", "would", "you", "do", "this", "if", "this", "was", "YOUR", "property", "????", "I", "do", "n't", "think", "so", "!!!", "You", "'re", "taking", "advantage", "of", "a", "client", "that", "does", "n't", "live", "in", "the", "neighborhood", "and", "ca", "n't", "get", "to", "the", "property", "and", "live", "in", "a", "different", "state", "!!!", "What", "am", "I", "paying", "you", "for", "...", "to", "manage", "my", "property", "."], "e1_text": "look", "e1_pos": 23, "e2_text": "'re", "e2_pos": 45, "label": "after"}
+]

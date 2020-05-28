@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "nice", "touch", "is", "that", "they", "will", "show", "you", "the", "pie", "before", "you", "walk", "out", "the", "door", "with", "it", "."], "e1_text": "show", "e1_pos": 7, "e2_text": "walk", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "make", "sure", "you", "'re", "satisfied", "before", "you", "leave", "."], "e1_text": "'re", "e1_pos": 4, "e2_text": "leave", "e2_pos": 8, "label": "before"}
+]

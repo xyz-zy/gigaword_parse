@@ -1,0 +1,4 @@
+[
+{"tokens": ["Friend", "suggested", "we", "try", "everyday", "noodles", "and", "after", "looking", "at", "the", "menu", ",", "was", "quite", "intrigued", "by", "items", "such", "as", ":", "oxtail", "soup", ",", "and", "chicken\\/beef", "consomme", "."], "e1_text": "suggested", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["My", "friend", "had", "gotten", "the", "dan", "dan", "noodles", ",", "which", "were", "spicy", "in", "a", "great", "way", "along", "with", "a", "sesame\\/oil", "sauce", "that", "he", "wanted", "to", "spoon", "into", "his", "mouth", "after", "he", "finished", "."], "e1_text": "spoon", "e1_pos": 25, "e2_text": "finished", "e2_pos": 31, "label": "after"}
+]

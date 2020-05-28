@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "last", "visit", "went", "somewhat", "like", "this", "...", "They", "refused", "to", "bring", "my", "friend", "brunch", "5", "minutes", "before", "the", "brunch", "hours", "ended", "-LRB-", "which", "used", "to", "be", "until", "2", ",", "and", "is", "now", "12", "apparently", "-RRB-", ",", "yet", "the", "couple", "next", "to", "us", "put", "in", "their", "order", "for", "brunch", "at", "12:10", "with", "the", "same", "waitress", "and", "they", "got", "the", "go-ahead", "."], "e1_text": "bring", "e1_pos": 11, "e2_text": "ended", "e2_pos": 21, "label": "before"}
+]

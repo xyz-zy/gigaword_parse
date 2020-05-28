@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "like", "going", "to", "McDonald", "'s", "and", "being", "told", "that", "this", "particular", "restaurant", "does", "n't", "sell", "big", "macs", "after", "adding", "a", "second", "floor", "."], "e1_text": "sell", "e1_pos": 16, "e2_text": "adding", "e2_pos": 20, "label": "after"}
+]

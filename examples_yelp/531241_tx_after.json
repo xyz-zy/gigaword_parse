@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "I", "even", "watched", "them", "take", "the", "fries", "out", "of", "the", "oven", ",", "salt", "them", "and", "leave", "them", "in", "the", "bin", ",", "just", "2", "minutes", "after", "I", "placed", "the", "order", "."], "e1_text": "leave", "e1_pos": 18, "e2_text": "placed", "e2_pos": 29, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "manager", "asked", "if", "our", "drink", "orders", "had", "been", "taken", "-LRB-", "they", "had", "-RRB-", "as", "he", "noticed", "that", "we", "had", "nothing", "but", "water", "after", "we", "had", "been", "seated", "for", "quite", "some", "time", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "must", "have", "been", "smoking", "crack", "that", "day", "because", "I", "went", "there", "again", "today", "after", "going", "to", "Fry", "'s", "and", "Safeway", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "going", "e2_pos": 15, "label": "after"}
+]

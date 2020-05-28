@@ -1,0 +1,4 @@
+[
+{"tokens": ["Today", ",", "I", "come", "in", "and", "am", "told", "that", "there", "is", "a", "$", "35", "balance", "on", "my", "account", "...", "Never", "having", "a", "balance", "before", ",", "I", "ask", "for", "what", "the", "$", "35", "is", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "ask", "e2_pos": 26, "label": "before"},
+{"tokens": ["When", "telling", "the", "woman", "that", "I", "did", "n't", "get", "a", "call", "the", "day", "before", ",", "-LRB-", "like", "I", "did", "yesterday", ",", "for", "today", "-RRB-", "she", "actually", "got", "really", "Shitty", "with", "me", "."], "e1_text": "telling", "e1_pos": 1, "e2_text": "did", "e2_pos": 6, "label": "before"}
+]

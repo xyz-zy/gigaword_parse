@@ -1,0 +1,3 @@
+[
+{"tokens": ["in", "a", "pizza", "joint", "-LRB-", "no", "matter", "the", "beautiful", "decor-this", "is", "still", "a", "pizza", "joint", "-RRB-", ";", "you", "would", "imagine", "that", "any", "pizza", "served", "with", "jalepenos", "would", "come", "with", "a", "refill", "of", "your", "drink", "-LRB-", "especially", "if", "there", "is", "n't", "anything", "left", "in", "the", "glass", "before", "the", "pizza", "drop", "off", "-RRB-", "it", "took", "about", "15", "minutes", "to", "get", "someone", "-LRB-", "our", "server", "was", "outside", "picking", "his", "nose", "or", "something", "-RRB-", "to", "bring", "me", "a", "refill", "of", "iced", "tea", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "drop", "e2_pos": 48, "label": "before"}
+]

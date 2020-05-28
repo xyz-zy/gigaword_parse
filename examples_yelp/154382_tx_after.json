@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "had", "so", "many", "jam-packed", "1-day", "travels", "that", ",", "I", "might", "check", "in", "to", "a", "hotel", "on", "Yelp", ",", "but", "I", "'ll", "knock", "out", "about", "20", "seconds", "after", ",", "then", "wake", "up", ",", "shower", ",", "and", "leave", "-", "all", "while", "still", "kinda", "sleeping", "."], "e1_text": "knock", "e1_pos": 23, "e2_text": "wake", "e2_pos": 31, "label": "after"}
+]

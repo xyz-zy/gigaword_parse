@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "just", "finished", "watching", "some", "history", "special", "on", "Frank", "Lloyd", "Wright", "before", "making", "the", "visit", "to", "Arizona", "."], "e1_text": "watching", "e1_pos": 4, "e2_text": "making", "e2_pos": 13, "label": "before"}
+]

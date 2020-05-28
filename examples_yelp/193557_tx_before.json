@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "hostess", "was", "rude", ",", "after", "a", "mix", "up", "when", "she", "called", "me", "-LRB-", "the", "name", "she", "called", "before", "me", "did", "n't", "come", "so", "she", "went", "to", "seat", "me", ",", "but", "then", "realized", "that", "she", "said", "the", "name", "wrong", "so", "I", "waited", "ten", "more", "minutes", "and", "then", "she", "called", "tables", "who", "were", "after", "me", "-RRB-", ",", "she", "told", "me", "''", "``", "oh", "there", "'s", "a", "table", "inside", "in", "the", "corner", "you", "can", "go", "now", "''", "''", "."], "e1_text": "called", "e1_pos": 11, "e2_text": "did", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Recently", ",", "I", "was", "there", "on", "at", "Saturday", "night", "and", "was", "told", "the", "wait", "was", "1.5", "hrs", ",", "but", "before", "we", "finished", "our", "first", "margarita", "-LRB-", "45min", "-RRB-", "we", "were", "seated", "at", "a", "nice", "window", "table", "."], "e1_text": "told", "e1_pos": 11, "e2_text": "finished", "e2_pos": 21, "label": "before"}
+]

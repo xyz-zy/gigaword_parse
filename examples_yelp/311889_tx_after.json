@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wings", "take", "forrrrrreeeevvveerrr", "to", "come", "out", ",", "the", "first", "batch", "we", "got", "did", "n't", "come", "out", "til", "30", "min", "later", "after", "we", "ordered", ",", "so", "as", "soon", "as", "we", "got", "our", "first", "order", "we", "decided", "to", "place", "our", "next", "order", "since", "it", "takes", "a", "lifetime", "to", "get", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 23, "label": "after"}
+]

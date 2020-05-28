@@ -1,0 +1,3 @@
+[
+{"tokens": ["Ordered", "at", "200p", "-", "at", "330p", "they", "called", "said", "my", "credit", "card", "was", "wrong", "gave", "them", "the", "same", "card", "magically", "it", "worked", "-", "I", "was", "told", "that", "it", "would", "be", "another", "45", "minutes", "because", "they", "were", "busy", "-", "um", "you", "could", "n't", "say", "that", "before", "you", "charged", "my", "card", "???", "Food", "arrived", "and", "I", "ordered", "1", "with", "a", "brown", "sauce", "one", "with", "a", "cream", "sauce", "-", "I", "got", "1", "box", "of", "rice", "not", "2", "and", "2", "containers", "of", "the", "same", "thing", "."], "e1_text": "say", "e1_pos": 42, "e2_text": "charged", "e2_pos": 46, "label": "before"}
+]

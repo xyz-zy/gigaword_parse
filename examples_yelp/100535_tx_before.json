@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "showed", "me", "everything", "I", "asked", "about", ",", "introduced", "me", "to", "other", "varieties", "and", "before", "it", "was", "over", ",", "gave", "me", "a", "quote", "that", "was", "$", "700", "less", "than", "the", "other", "guy", "."], "e1_text": "asked", "e1_pos": 5, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["Some", "things", "I", "would", "have", "liked", "would", "be", "a", "walkthrough", "by", "the", "team", "lead", "before", "they", "left", "and", "maybe", "a", "follow", "up", "call", "after", "the", "job", "was", "complete", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "left", "e2_pos": 16, "label": "before"}
+]

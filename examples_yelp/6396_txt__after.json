@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "to", "the", "Blumenthal", "Cancer", "Center", "after", "Dr.", "Higgins", "was", "highly", "recommended", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["He", "scheduled", "a", "colpscopy", "and", "then", "when", "I", "came", "in", "for", "my", "procedure", ",", "after", "paying", "$", "40", "co", "pay", "he", "says", ",", "without", "even", "examining", "me", ",", "that", "he", "did", "n't", "think", "I", "needed", "a", "colposcopy", "despite", "a", "bad", "pap", "he", "would", "n't", "check", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "paying", "e2_pos": 15, "label": "after"}
+]

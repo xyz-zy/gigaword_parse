@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bar", "is", "a", "great", "location", "as", "is", "the", "view", "but", "after", "that", "there", "is", "n't", "much", "to", "talk", "about", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "is", "e2_pos": 2, "label": "after"},
+{"tokens": ["Plus", "the", "view", "is", "only", "good", "actually", "for", "the", "10", "minutes", "it", "rotates", "by", "the", "strip", "after", "that", "you", "have", "to", "realize", "the", "rest", "of", "the", "valley", "is", "pretty", "dim", "and", "not", "much", "to", "look", "at", "."], "e1_text": "rotates", "e1_pos": 12, "e2_text": "have", "e2_pos": 19, "label": "after"}
+]

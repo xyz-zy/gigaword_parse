@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "lack", "of", "hipness", "and", "disaffectedness", "made", "me", "leave", "before", "trying", "anything", "on", "."], "e1_text": "leave", "e1_pos": 8, "e2_text": "trying", "e2_pos": 10, "label": "before"},
+{"tokens": ["Still", ",", "if", "you", "can", "hit", "up", "that", "sale", "before", "it", "goes", ",", "I", "would", "suggest", "doing", "so", "."], "e1_text": "hit", "e1_pos": 5, "e2_text": "goes", "e2_pos": 11, "label": "before"}
+]

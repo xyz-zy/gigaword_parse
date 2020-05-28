@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "commented", "that", "they", "should", "have", "sat", "on", "them", "before", "they", "decided", "they", "would", "make", "sense", "for", "seating", "during", "a", "meal", "."], "e1_text": "sat", "e1_pos": 7, "e2_text": "decided", "e2_pos": 12, "label": "before"}
+]

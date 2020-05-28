@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "brother", "and", "his", "wife", "live", "in", "Arizona", ",", "so", "this", "is", "where", "we", "went", "right", "after", "I", "landed", "and", "our", "waiter", "was", "fabulous", "etc", "etc.", "."], "e1_text": "went", "e1_pos": 14, "e2_text": "landed", "e2_pos": 18, "label": "after"}
+]

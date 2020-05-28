@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "spoke", "beautifully", "about", "marriage", "and", "used", "our", "names", "-LRB-", "after", "meeting", "us", "5", "minutes", "before", "-RRB-", "without", "looking", "at", "a", "sheet", "of", "paper", "."], "e1_text": "used", "e1_pos": 6, "e2_text": "meeting", "e2_pos": 11, "label": "before"}
+]

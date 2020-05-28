@@ -1,0 +1,4 @@
+[
+{"tokens": ["Unfortunately", ",", "part", "of", "my", "order", "was", "missing", ",", "even", "after", "I", "questioned", "it", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "questioned", "e2_pos": 12, "label": "after"},
+{"tokens": ["On", "top", "of", "this", ",", "I", "included", "roughly", "a", "20", "percent", "so", "my", "total", "bill", "was", "about", "190", "-", "after", "I", "was", "reassured", "that", "my", "order", "was", "correct", "."], "e1_text": "included", "e1_pos": 6, "e2_text": "was", "e2_pos": 15, "label": "after"}
+]

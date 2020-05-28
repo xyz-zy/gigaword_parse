@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "ordering", "and", "waiting", "25", "minutes", "and", "seeing", "4", "other", "tables", "that", "came", "after", "us", "be", "served", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "be", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "told", "him", "that", "many", "who", "came", "after", "us", "have", "already", "been", "served", "&", "asked", "when", "our", "order", "was", "coming", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "have", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", "when", "you", "walk", "into", "a", "place", "before", "they", "open", "and", "the", "cleaning", "guy", "is", "cranking", "AC\\/DC", "I", "turned", "around", "and", "walk", "out", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "is", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "think", "I", "will", "give", "this", "place", "a", "year", "or", "two", "to", "get", "it", "together", "before", "going", "back", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "going", "e2_pos": 16, "label": "before"}
+]

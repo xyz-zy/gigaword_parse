@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", "the", "entrees", "came", "out", "about", "5", "minutes", "after", "the", "appetizers", "which", "made", "it", "hard", "to", "shuffle", "around", "the", "food", "and", "left", "both", "of", "our", "entrees", "lukewarm", "by", "the", "time", "we", "got", "to", "them", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "made", "e2_pos": 14, "label": "after"}
+]

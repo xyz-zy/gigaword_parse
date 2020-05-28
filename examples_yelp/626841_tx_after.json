@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "site", "itself", "was", "slow", ",", "not", "sure", "what", "was", "going", "on", ",", "took", "30", "seconds", "after", "clicking", "on", "something", ",", "but", "it", "worked", "."], "e1_text": "took", "e1_pos": 13, "e2_text": "clicking", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "showed", "up", "to", "the", "office", "-LRB-", "which", "is", "poorly", "marked", "-RRB-", "before", "my", "appointment", "time", "-LRB-", "showed", "up", "to", "office", "approx", "4:20", ",", "appointment", "was", "at", "4:30", "-RRB-", "."], "e1_text": "showed", "e1_pos": 1, "e2_text": "showed", "e2_pos": 17, "label": "before"}
+]

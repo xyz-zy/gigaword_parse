@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "heard", "some", "items", "do", "not", "have", "free", "refills", "or", "are", "too", "expensive", "so", "please", "ask", "all", "questions", "before", "ordering", "and", "do", "not", "assume", "anything", "."], "e1_text": "ask", "e1_pos": 15, "e2_text": "ordering", "e2_pos": 19, "label": "before"}
+]

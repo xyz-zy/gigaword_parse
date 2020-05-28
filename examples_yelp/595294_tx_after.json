@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "went", "to", "talk", "to", "his", "manager", "-LRB-", "Matthew", "-RRB-", "who", "basically", "told", "me", "that", "he", "would", "do", "what", "he", "could", "but", "if", "his", "superior", "said", "no", "we", "would", "be", "out", "of", "luck", "-LRB-", "that", "meant", "that", "my", "wife", ",", "daughter", ",", "and", "myself", ",", "after", "paying", "and", "making", "reservations", ",", "would", "have", "no", "place", "to", "stay", ".", "-RRB-"], "e1_text": "meant", "e1_pos": 35, "e2_text": "paying", "e2_pos": 46, "label": "after"}
+]

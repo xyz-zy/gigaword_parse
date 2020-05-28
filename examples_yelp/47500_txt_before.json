@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "if", "they", "called", "my", "name", "-LRB-", "as", "it", "was", "quite", "loud", "before", "-", "but", "at", "this", "point", ",", "the", "rush", "had", "passed", "and", "the", "bag", "had", "been", "sitting", "there", "for", "at", "least", "5", "minutes", "-LRB-", "since", "we", "noticed", "-RRB-", "-RRB-", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "had", "e2_pos": 22, "label": "before"}
+]

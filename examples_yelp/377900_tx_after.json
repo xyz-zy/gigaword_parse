@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "wandered", "through", "the", "casino", "and", "were", "promptly", "seated", "after", "we", "paid", "for", "our", "meal", "."], "e1_text": "seated", "e1_pos": 8, "e2_text": "paid", "e2_pos": 11, "label": "after"}
+]

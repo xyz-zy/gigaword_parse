@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "went", "downhill", "after", "our", "server", "had", "2", "more", "tables", "--", "it", "took", "a", "good", "10", "-", "15", "minutes", "to", "get", "our", "check", "-LRB-", "he", "had", "3", "tables", "total", "-", "the", "restaurant", "was", "not", "very", "busy", "-RRB-", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

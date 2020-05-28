@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "requested", "that", "the", "waitress", "bring", "a", "box", "out", "for", "the", "food", "which", "is", "normally", "a", "sign", "of", "''", "``", "hey", "-", "we", "are", "ready", "to", "leave", "''", "''", "but", "it", "was", "at", "least", "15", "minutes", "before", "we", "saw", "her", "again", "to", "request", "the", "check", "after", "bringing", "us", "the", "box", "."], "e1_text": "request", "e1_pos": 42, "e2_text": "bringing", "e2_pos": 46, "label": "after"}
+]

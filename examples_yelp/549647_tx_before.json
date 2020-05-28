@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "do", "n't", "come", "with", "someone", "who", "has", "experienced", "this", "place", "before", ",", "you", "could", "wind", "up", "skimping", "yourself", "on", "your", "meal", "."], "e1_text": "come", "e1_pos": 4, "e2_text": "has", "e2_pos": 8, "label": "before"},
+{"tokens": ["But", ",", "if", "you", "do", "n't", "take", "into", "consideration", "that", "your", "meal", "will", "shrink", "drastically", "once", "it", "is", "fully", "cooked", ",", "your", "overstuffed", "precooked", "bowl", "comes", "to", "your", "table", "cooked", "and", "barely", "half", "the", "size", "it", "was", "before", "."], "e1_text": "comes", "e1_pos": 25, "e2_text": "was", "e2_pos": 36, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "brought", "over", "the", "bottle", "-LRB-", "Penfolds", "Bin", "9", "-RRB-", "immediately", "after", "the", "main", "meal", "was", "ordered", "and", ",", "amazingly", ",", "we", "managed", "to", "finish", "off", "the", "bottle", "of", "wine", "before", "the", "steak", "arrived", "!"], "e1_text": "finish", "e1_pos": 25, "e2_text": "arrived", "e2_pos": 34, "label": "before"}
+]

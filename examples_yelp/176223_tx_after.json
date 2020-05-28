@@ -1,0 +1,4 @@
+[
+{"tokens": ["and", "if", "the", "hostess", "makes", "a", "mistake", "and", "completely", "forgets", "about", "you", "while", "she", "lets", "all", "the", "people", "who", "came", "in", "after", "you", "head", "in", ",", "should", "n't", "she", "at", "least", "offer", "a", "simple", "apology", "??", "The", "waiting", "area", "is", "pretty", "small", "and", "we", "were", "waitng", "the", "whole", "time", "within", "site", "of", "the", "hostess", "."], "e1_text": "came", "e1_pos": 19, "e2_text": "head", "e2_pos": 23, "label": "after"},
+{"tokens": ["If", "she", "were", "doing", "her", "job", "it", "might", "have", "crossed", "her", "mind", "that", "''", "``", "hey", ",", "how", "come", "these", "nice", "folks", "are", "still", "waiting", "when", "i", "'ve", "let", "everybody", "who", "comes", "in", "after", "them", "go", "in", "already", "''", "''", "."], "e1_text": "comes", "e1_pos": 31, "e2_text": "go", "e2_pos": 35, "label": "after"}
+]

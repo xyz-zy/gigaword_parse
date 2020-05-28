@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "thing", "I", "must", "insist", "that", "you", "do", "not", "order", "are", "the", "tacos", "unless", "you", "want", "to", "become", "very", "disappointed", "like", "I", "did", "after", "ordering", "myself", "and", "my", "date", "at", "lunch", "a", "la", "carte", "two", "tacos", "and", "tostada", "de", "ceviche", "."], "e1_text": "did", "e1_pos": 22, "e2_text": "ordering", "e2_pos": 24, "label": "after"}
+]

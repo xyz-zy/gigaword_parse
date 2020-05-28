@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "ordered", "from", "this", "place", "before", "and", "I", "remember", "it", "being", "''", "``", "not", "bad", "''", "''", ".", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "place", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "have", "n't", "gotten", "delivery", "as", "I", "basically", "live", "across", "the", "street", ",", "but", "that", "was", "the", "one", "positive", "thing", "before", "."], "e1_text": "gotten", "e1_pos": 3, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

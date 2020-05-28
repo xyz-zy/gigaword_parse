@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "sucks", ",", "ordered", "a", "pizza", "to", "go", "and", "it", "was", "n't", "ready", "got", "there", "30", "minutes", "after", "I", "ordered", "it", "and", "so", "it", "took", "about", "40", "minutes", "to", "cook", "a", "pizza", ",", "I", "called", "before", "they", "were", "open", "so", "it", "was", "50", "minutes", "total", "."], "e1_text": "called", "e1_pos": 34, "e2_text": "were", "e2_pos": 37, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "2", "minutes", "before", "the", "bus", "arrived", "and", "it", "took", "an", "additional", "10", "minutes", "to", "get", "to", "the", "McCarran", "Rental", "Car", "Center", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "arrived", "e2_pos": 7, "label": "before"},
+{"tokens": ["Returning", "the", "Car", ":", "Make", "sure", "you", "fill-up", "the", "night", "before", "returning", "the", "car", "."], "e1_text": "fill-up", "e1_pos": 7, "e2_text": "returning", "e2_pos": 11, "label": "before"}
+]

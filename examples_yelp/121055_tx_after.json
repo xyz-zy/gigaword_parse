@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "tried", "the", "$", "10", "ox", "tail", "soup", ",", "and", "was", "disappointed", "after", "reading", "all", "of", "the", "hype", "in", "the", "reviews", "."], "e1_text": "was", "e1_pos": 11, "e2_text": "reading", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "immediately", "left", "and", "I", "did", "n't", "appreciate", "being", "treated", "so", "poorly", "after", "I", "had", "been", "so", "put", "off", "by", "such", "a", "low", "quality", "establishment", "."], "e1_text": "treated", "e1_pos": 9, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

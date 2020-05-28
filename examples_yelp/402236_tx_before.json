@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "get", "a", "peek", "inside", "when", "greeted", "by", "the", "host", "before", "heading", "outside", "and", "it", "is", "a", "lovely", "setting", "--", "very", "inviting", "for", "a", "dinner", "date", "--", "so", "I", "want", "to", "come", "back", "for", "that", "option", "."], "e1_text": "greeted", "e1_pos": 7, "e2_text": "heading", "e2_pos": 12, "label": "before"}
+]

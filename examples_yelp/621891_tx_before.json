@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "by", "to", "grab", "a", "quick", "dinner", "before", "moving", "forward", "with", "evening", "activities", "."], "e1_text": "grab", "e1_pos": 3, "e2_text": "moving", "e2_pos": 8, "label": "before"},
+{"tokens": ["This", "place", "reminds", "me", "of", "Chipotle", "or", "Subway", ",", "where", "you", "choose", "your", "cheese", ",", "sauce", ",", "and", "topping", "options", "before", "they", "bake", "the", "sandwich", "."], "e1_text": "choose", "e1_pos": 11, "e2_text": "bake", "e2_pos": 22, "label": "before"}
+]

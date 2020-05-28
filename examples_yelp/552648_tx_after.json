@@ -1,0 +1,3 @@
+[
+{"tokens": ["Aaaaannnd", "the", "food", ":", "I", "ordered", "the", "Rooted", "Burger", ",", "after", "the", "server", "tried", "to", "sell", "me", "on", "a", "salad", "instead", "-LRB-", "I", "wanted", "a", "burger", "...", "not", "a", "salad", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 5, "e2_text": "tried", "e2_pos": 13, "label": "after"}
+]

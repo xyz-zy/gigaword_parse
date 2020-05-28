@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "i", "will", "say", "first", "off", "that", "I", "have", "stayed", "at", "this", "hotel", "before", "and", "I", "thought", "it", "was", "decent", "for", "the", "price", "and", "age", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "have", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "only", "other", "thing", "i", "would", "say", "is", "that", "when", "i", "asked", "for", "a", "few", "extra", "towels", "for", "the", "room", "i", "was", "challenged", "and", "given", "a", "hard", "time", "before", "receiving", "the", "towels", "."], "e1_text": "challenged", "e1_pos": 22, "e2_text": "receiving", "e2_pos": 29, "label": "before"}
+]

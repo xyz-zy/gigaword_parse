@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "during", "their", "grand", "opening", "week", "and", "were", "seated", "right", "by", "two", "roll", "up", "doors", "even", "after", "telling", "the", "hostess", "we", "did", "n't", "want", "to", "sit", "outside", "-LRB-", "it", "was", "quite", "cold", "that", "evening", "-RRB-", "so", "we", "had", "to", "ask", "the", "server", "later", "to", "close", "the", "doors", "for", "us", "."], "e1_text": "seated", "e1_pos": 9, "e2_text": "telling", "e2_pos": 18, "label": "after"}
+]

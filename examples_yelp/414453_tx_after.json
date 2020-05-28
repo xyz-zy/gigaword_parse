@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "we", "asked", "for", "a", "refill", "on", "the", "refillable", "sweet", "tea", "and", "we", "only", "got", "one", "after", "asking", "3", "times", "for", "it", "."], "e1_text": "got", "e1_pos": 14, "e2_text": "asking", "e2_pos": 17, "label": "after"},
+{"tokens": ["We", "felt", "rushed", "out", "after", "not", "feeling", "like", "we", "existed", "to", "the", "waitress", "."], "e1_text": "rushed", "e1_pos": 2, "e2_text": "feeling", "e2_pos": 6, "label": "after"}
+]

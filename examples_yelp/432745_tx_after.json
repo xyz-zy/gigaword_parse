@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "worried", "about", "any", "bugs", "as", "this", "is", "a", "huge", "fear", "of", "mine", "and", "despite", "cleaning", "thoroughly", "and", "keeping", "all", "drains", "plugged", "as", "recommended", "I", "have", "still", "seen", "a", "few", ",", "even", "after", "getting", "the", "interior", "of", "my", "apt", "sprayed", "."], "e1_text": "seen", "e1_pos": 28, "e2_text": "getting", "e2_pos": 34, "label": "after"},
+{"tokens": ["Really", "unfortunately", "the", "bug", "and", "noise", "issues", "are", "the", "only", "things", "that", "make", "me", "reconsider", "staying", "here", "after", "my", "lease", "ends", "."], "e1_text": "staying", "e1_pos": 15, "e2_text": "ends", "e2_pos": 20, "label": "after"}
+]

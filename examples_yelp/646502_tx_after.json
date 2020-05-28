@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "failed", "to", "bring", "any", "butter", "to", "the", "table", "after", "the", "pancakes", "were", "served", ",", "it", "was", "an", "hour", "after", "we", "ordered", "that", "we", "were", "able", "to", "finally", "flag", "someone", "down", "for", "it", "."], "e1_text": "bring", "e1_pos": 3, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

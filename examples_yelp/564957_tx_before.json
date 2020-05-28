@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "take", "the", "half", "filled", "papers", "back", "to", "the", "front", "about", "to", "rinse", "her", "eye", "out", "myself", "and", "walk", "out", "before", "finally", "they", "say", "''", "``", "ok", "we", "will", "see", "her", "now", "''", "''", "."], "e1_text": "walk", "e1_pos": 18, "e2_text": "say", "e2_pos": 23, "label": "before"},
+{"tokens": ["The", "optometrist", "takes", "her", "in", "and", "tries", "to", "look", "at", "the", "eye", "first", "with", "the", "scope", ",", "before", "attempting", "a", "rinse", "!"], "e1_text": "look", "e1_pos": 8, "e2_text": "attempting", "e2_pos": 18, "label": "before"},
+{"tokens": ["If", "they", "are", "reading", "this", ":", "next", "time", "someone", "comes", "in", "with", "an", "urgent", "chemical", "or", "foreign", "object", "in", "their", "eye", ",", "maybe", "try", "to", "immediately", "flush", "them", "and", "stabilize", "the", "patient", "before", "completing", "the", "paperwork", "."], "e1_text": "stabilize", "e1_pos": 29, "e2_text": "completing", "e2_pos": 33, "label": "before"}
+]

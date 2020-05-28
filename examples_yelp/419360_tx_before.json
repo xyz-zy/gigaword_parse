@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "the", "only", "people", "in", "the", "restaurant", "and", "the", "guy", "you", "can", "watch", "making", "sushi", "still", "spent", "10", "mins", "watching", "tv", "before", "making", "my", "new", "order", "."], "e1_text": "watching", "e1_pos": 20, "e2_text": "making", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "was", "really", "annoyed", "and", "disappointed", "and", "honestly", "do", "n't", "know", "why", "she", "did", "n't", "offer", "an", "explanation", "or", "solution", "before", "taking", "my", "food", "."], "e1_text": "offer", "e1_pos": 15, "e2_text": "taking", "e2_pos": 21, "label": "before"}
+]

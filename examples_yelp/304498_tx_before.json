@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "arrived", ",", "I", "thought", "it", "was", "odd", "that", "they", "did", "n't", "have", "me", "fill", "out", "any", "paperwork", "for", "the", "massage", "-LRB-", "that", "was", "a", "first", "for", "me", "-RRB-", "but", "a", "gentleman", "showed", "me", "a", "waiting", "type", "of", "room", "and", "told", "me", "where", "to", "change", "and", "gave", "me", "a", "key", "for", "the", "locker", ",", "so", "I", "changed", "and", "sat", "in", "the", "waiting", "room", "for", "about", "15", "minutes", "before", "the", "massage", "therapist", "greeted", "me", "."], "e1_text": "changed", "e1_pos": 57, "e2_text": "greeted", "e2_pos": 72, "label": "before"}
+]

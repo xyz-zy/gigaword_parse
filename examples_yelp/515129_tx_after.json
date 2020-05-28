@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "long", "story", "short", ",", "I", "got", "the", "vehicle", "in", "January", ",", "the", "entire", "transmission", "went", "out", "the", "beginning", "of", "May", "-LRB-", "$", "1800", "-RRB-", "little", "while", "later", "the", "radiator", "exploded", "-LRB-", "$", "905", "-RRB-", "and", "even", "after", "putting", "$", "304", "into", "a", "new", "air", "conditioning", "system", ",", "I", "am", "still", "sweltering", "in", "the", "109", "heat", "because", "it", "does", "n't", "work", "properly", "."], "e1_text": "went", "e1_pos": 15, "e2_text": "putting", "e2_pos": 38, "label": "after"},
+{"tokens": ["Sorry", "but", "the", "customer", "service", ",", "and", "the", "fact", "that", "I", "was", "sold", "a", "''", "``", "lemon", "''", "''", "even", "after", "I", "was", "guaranteed", "a", "good", "quality", "car", "keep", "my", "review", "negative", "."], "e1_text": "Sorry", "e1_pos": 0, "e2_text": "was", "e2_pos": 11, "label": "after"}
+]

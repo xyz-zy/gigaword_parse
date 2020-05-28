@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "not", "only", "surprised", ",", "but", "also", "furious", "when", "I", "returned", "from", "my", "trip", "&", "checked", "my", "bank", "account", "&", "found", "a", "nearly", "$", "300", "charge", "from", "this", "hotel", "that", "I", "did", "not", "stay", "at", "!!!", "I", "called", "the", "hotel", "right", "away", "&", "sat", "on", "hold", "for", "over", "20", "minutes", "before", "someone", "finally", "answered", "the", "phone", "."], "e1_text": "sat", "e1_pos": 44, "e2_text": "answered", "e2_pos": 54, "label": "before"}
+]

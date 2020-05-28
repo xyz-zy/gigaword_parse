@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "called", "a", "few", "days", "before", "going", "to", "see", "if", "they", "had", "an", "item", "I", "was", "looking", "for", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "going", "e2_pos": 7, "label": "before"},
+{"tokens": ["The", "reason", "for", "only", "4", "stars", "is", "the", "store", "was", "very", "busy", ",", "of", "course", "it", "is", "Saturday", ",", "and", "2", "weeks", "before", "Christmas", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "is", "e2_pos": 6, "label": "before"}
+]

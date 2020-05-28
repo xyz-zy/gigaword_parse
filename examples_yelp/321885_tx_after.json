@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "desk", "said", "they", "would", "call", "someone", "but", "after", "waiting", "I", "finally", "ran", "down", "to", "the", "curb", "to", "call", "a", "taxi", "myself", "cutting", "it", "close", "on", "getting", "to", "the", "airport", "-LRB-", "a", "couple", "of", "drunk", "guests", "leaving", "the", "clubs", "asked", "me", "to", "call", "them", "one", "also", "-RRB-", "."], "e1_text": "call", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "barley", "get", "one", "piece", "down", "before", "sending", "it", "back", ".", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "sending", "e2_pos": 8, "label": "before"},
+{"tokens": ["Maybe", "Howard", "will", "read", "some", "of", "these", "reviews", "and", "come", "back", "before", "the", "restaurant", "goes", "under", ".", "."], "e1_text": "come", "e1_pos": 9, "e2_text": "goes", "e2_pos": 14, "label": "before"}
+]

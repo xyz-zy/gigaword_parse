@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "a", "review", "for", "an", "eyebrow", "wax", "...", "I", "went", "in", "as", "a", "walk", "in", ",", "finally", "after", "two", "months", "growing", "out", "of", "a", "botched", "job", "I", "was", "ready", "to", "give", "someone", "else", "a", "shot", "to", "do", "my", "eyebrows", "."], "e1_text": "went", "e1_pos": 10, "e2_text": "growing", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "decent", "size", "group", "last", "night", "for", "a", "friends", "birthday", "and", "spent", "exactly", "$", "1050", "before", "tip", "and", "about", "$", "500", "of", "that", "was", "on", "wine", ",", "the", "other", "half", "almost", "all", "on", "the", "steak", "."], "e1_text": "spent", "e1_pos": 13, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "was", "also", "undercooked", ",", "which", "seems", "like", "it", "should", "be", "a", "tough", "thing", "to", "do", "since", "they", "slice", "it", "before", "they", "bring", "it", "to", "the", "table", "-LRB-", "Lugers", "style", "-RRB-", "."], "e1_text": "slice", "e1_pos": 18, "e2_text": "bring", "e2_pos": 22, "label": "before"}
+]

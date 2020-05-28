@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "had", "to", "let", "my", "food", "settle", "before", "I", "began", "writing", "."], "e1_text": "settle", "e1_pos": 6, "e2_text": "began", "e2_pos": 9, "label": "before"},
+{"tokens": ["We", "actually", "stood", "outside", "of", "the", "door", "for", "a", "minute", "or", "two", "before", "we", "went", "inside", "to", "see", "if", "your", "name", "was", "called", "."], "e1_text": "stood", "e1_pos": 2, "e2_text": "went", "e2_pos": 14, "label": "before"},
+{"tokens": ["There", "was", "a", "gentleman", "drinking", "a", "starbucks", "coffee", "and", "a", "server", "actually", "stood", "there", "and", "waited", "for", "him", "to", "take", "a", "''", "``", "last", "sip", "''", "''", "before", "he", "had", "to", "hand", "it", "over", "."], "e1_text": "take", "e1_pos": 19, "e2_text": "had", "e2_pos": 29, "label": "before"}
+]

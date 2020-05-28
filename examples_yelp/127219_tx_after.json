@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "kinda", "gross", ",", "but", "in", "my", "hotel", "room", "was", "fine", "after", "I", "opened", "the", "window", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "opened", "e2_pos": 14, "label": "after"},
+{"tokens": ["It", "was", "exactly", "what", "I", "needed", "after", "walking", "a", "trade", "show", "floor", "for", "hours", "on", "end", "."], "e1_text": "needed", "e1_pos": 5, "e2_text": "walking", "e2_pos": 7, "label": "after"}
+]

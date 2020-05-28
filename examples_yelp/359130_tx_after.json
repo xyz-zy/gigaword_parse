@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "for", "the", "first", "time", "after", "tasting", "a", "co-worker", "'s", "turkey", "Reuben", "from", "here", "...", "however", "I", "felt", "as", "though", "I", "were", "bothering", "the", "workers", "by", "coming", "to", "get", "my", "own", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "tasting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Typically", "I", "approach", "my", "clients", "when", "they", "are", "trying", "to", "speak", "to", "me", "...", "after", "I", "repeated", "myself", "three", "times", "''", "``", "Carla", "''", "''", "said", "''", "``", "I", "could", "n't", "hear", "u", "''", "''", "."], "e1_text": "speak", "e1_pos": 10, "e2_text": "repeated", "e2_pos": 16, "label": "after"}
+]

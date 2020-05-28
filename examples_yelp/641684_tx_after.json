@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "posted", "this", "review", "on", "this", "business", "'s", "facebook", "page", "but", "they", "deleted", "the", "entire", "page", "after", "they", "seen", "it", "so", "I", "guess", "that", "tells", "you", "what", "kind", "of", "person", "this", "salon", "owner", "is", "."], "e1_text": "deleted", "e1_pos": 12, "e2_text": "seen", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "have", "never", "been", "here", "and", "I", "WILL", "NEVER", "go", "after", "I", "found", "out", "how", "they", "treat", "their", "employees", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "found", "e2_pos": 12, "label": "after"},
+{"tokens": ["My", "sister", "drove", "up", "to", "Fitchburg", "from", "Janesville", "for", "an", "interview", "then", "the", "owner", "requested", "she", "come", "back", "with", "2", "people", "to", "cut", "their", "hair", "and", "show", "her", "skills", "after", "that", "she", "was", "hired", "at", "the", "salon", "."], "e1_text": "show", "e1_pos": 26, "e2_text": "was", "e2_pos": 32, "label": "after"}
+]

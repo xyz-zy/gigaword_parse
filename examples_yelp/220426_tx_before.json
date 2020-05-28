@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "planning", "our", "trip", "to", "Vegas", ",", "a", "couple", "of", "my", "friends", "suggested", "starting", "our", "night", "off", "with", "a", "bang", "by", "checking", "out", "N9NE", "before", "going", "out", "to", "a", "club", "."], "e1_text": "checking", "e1_pos": 21, "e2_text": "going", "e2_pos": 25, "label": "before"},
+{"tokens": ["If\\/when", "I", "do", "come", "back", "again", ",", "I", "'ll", "be", "sure", "to", "check", "the", "meat", "before", "I", "start", "eating", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "start", "e2_pos": 17, "label": "before"}
+]

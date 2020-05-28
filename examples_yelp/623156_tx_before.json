@@ -1,0 +1,4 @@
+[
+{"tokens": ["Do", "n't", "get", "me", "wrong", ",", "it", "'s", "not", "that", "I", "have", "n't", "been", "here", "before", "--", "I", "have", "."], "e1_text": "'s", "e1_pos": 7, "e2_text": "have", "e2_pos": 11, "label": "before"},
+{"tokens": ["It", "'s", "just", "that", "both", "times", "when", "I", "was", "here", "before", ",", "I", "did", "n't", "get", "the", "appeal", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "before"}
+]

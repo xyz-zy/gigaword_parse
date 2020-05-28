@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "next", "day", ",", "December", "7th", ",", "I", "received", "a", "call", "confirming", "my", "reservation", "for", "two", "people", "on", "December", "31st", "at", "6:30", "p.m.", "I", "thought", "that", "it", "was", "a", "little", "weird", "to", "call", "the", "day", "after", "I", "made", "the", "reservation", "and", "not", "closer", "to", "when", "we", "would", "be", "at", "the", "restaurant", ",", "but", "I", "figured", "since", "it", "was", "a", "big", "and", "busy", "holiday", ",", "they", "might", "be", "doing", "things", "differently", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "made", "e2_pos": 37, "label": "after"}
+]

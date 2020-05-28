@@ -1,0 +1,3 @@
+[
+{"tokens": ["Since", "I", "'ve", "only", "been", "gluten", "free", "for", "two", "weeks", ",", "I", "guess", "I", "was", "not", "specific", "enough", "with", "my", "order", "and", "about", "three", "minutes", "after", "I", "ordered", "I", "realized", "I", "should", "check", "with", "those", "cooking", "behind", "the", "counter", "to", "ensure", "my", "meal", "was", "being", "prepped", "gluten", "free", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "ordered", "e2_pos": 27, "label": "after"}
+]

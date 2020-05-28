@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "finally", "getting", "around", "the", "40MPH-in-the-50MPH-zone", "signtseers", ",", "we", "were", "able", "to", "get", "full", "throttle", "for", "a", "few", "miles", "before", "reaching", "that", "No", "Car", "Fun", "Zone", "called", "Carefree", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "reaching", "e2_pos": 20, "label": "before"},
+{"tokens": ["Wait", "staff", "was", "very", "eager", "to", "please", "and", "gladly", "fulfilled", "every", "request", ",", "but", "usually", "they", "did", "it", "before", "we", "had", "to", "."], "e1_text": "did", "e1_pos": 16, "e2_text": "had", "e2_pos": 20, "label": "before"}
+]

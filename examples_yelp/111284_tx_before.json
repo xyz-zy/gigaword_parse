@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "been", "climbing", "before", "but", "I", "'d", "been", "wanting", "to", "try", "it", "so", "I", "made", "one", "of", "my", "friends", "come", "with", "me", "to", "try", "it", "out", "."], "e1_text": "climbing", "e1_pos": 4, "e2_text": "'d", "e2_pos": 8, "label": "before"},
+{"tokens": ["For", "first", "timers", "they", "make", "you", "watch", "a", "video", "-LRB-", "do", "n't", "be", "worried", "if", "you", "do", "n't", "have", "every", "word", "memorized", "-RRB-", "and", "then", "an", "instructor", "goes", "over", "everything", "with", "you", ",", "making", "sure", "that", "you", "'re", "comfortable", "with", "everything", "before", "they", "leave", "."], "e1_text": "'re", "e1_pos": 37, "e2_text": "leave", "e2_pos": 43, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "I", "went", "they", "kept", "giving", "me", "diet", "soda", "even", "after", "I", "told", "them", "3", "times", "diet", "soda", "makes", "me", "sick", "and", "I", "need", "a", "regular", "cola", "."], "e1_text": "kept", "e1_pos": 6, "e2_text": "told", "e2_pos": 14, "label": "after"}
+]

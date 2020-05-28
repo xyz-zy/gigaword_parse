@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plus", ",", "she", "hit", "my", "daughter", "on", "the", "head", ",", "she", "said", "sorry", "after", "it", "happened", "pretending", "it", "was", "an", "accident", ",", "then", "later", "denied", "that", "she", "hit", "my", "daughter", "."], "e1_text": "said", "e1_pos": 11, "e2_text": "happened", "e2_pos": 15, "label": "after"}
+]

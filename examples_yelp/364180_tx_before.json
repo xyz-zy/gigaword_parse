@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "bartender", "offered", "a", "complimentary", "cheesecake", "-LRB-", "since", "we", "had", "never", "tried", "it", "before", "-RRB-", "and", "let", "me", "tell", "you", ".", "."], "e1_text": "cheesecake", "e1_pos": 5, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

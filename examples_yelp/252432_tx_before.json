@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "walked", "in", "to", "My", "Nails", "&", "Spa", "on", "a", "Sunday", "afternoon", "without", "an", "appointment", "and", "I", "put", "my", "name", "on", "a", "list", ",", "but", "I", "only", "had", "to", "wait", "maybe", "five", "minutes", "before", "they", "had", "a", "spa", "chair", "ready", "for", "me", "."], "e1_text": "wait", "e1_pos": 29, "e2_text": "had", "e2_pos": 27, "label": "before"},
+{"tokens": ["My", "pedicure", "lasted", "a", "good", "2", "weeks", "before", "showing", "any", "wear", "."], "e1_text": "lasted", "e1_pos": 2, "e2_text": "showing", "e2_pos": 8, "label": "before"}
+]

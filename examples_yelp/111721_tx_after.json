@@ -1,0 +1,4 @@
+[
+{"tokens": ["Let", "me", "preface", "this", "by", "saying", "that", "i", "am", "not", "a", "vegan", ",", "but", "would", "LOVE", "to", "be", ";", "hence", ",", "i", "have", "a", "really", "strong", "appreciation", "for", "all", "you", "veggie", "lovers", "out", "there", "and", "i", "try", "to", "eat", "like", "you", "as", "much", "as", "I", "can", "-", "but", "i", "do", "consume", "meat", "...", "so", "maybe", "my", "body", "just", "was", "n't", "used", "to", "all", "this", "soy", "protein", "and", "that", "'s", "why", "i", "had", "really", "bad", "indigestion", "after", "visiting", "Green", "."], "e1_text": "had", "e1_pos": 71, "e2_text": "visiting", "e2_pos": 76, "label": "after"},
+{"tokens": ["Also", ",", "both", "of", "my", "friends", "did", "n't", "feel", "well", "after", "eating", "at", "Green", "either", "."], "e1_text": "feel", "e1_pos": 8, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

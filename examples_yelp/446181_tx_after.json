@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "try", "the", "Sweet", "and", "Spicy", "burger", "after", "hearing", "about", "the", "candied", "jalape", "\\", "u00f1os", ",", "and", "it", "was", "so", "good", "I", "ordered", "it", "during", "a", "return", "visit", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "hearing", "e2_pos": 10, "label": "after"},
+{"tokens": ["In", "order", "to", "feel", "halfway", "human", "after", "eating", "here", ",", "I", "really", "ought", "to", "split", "one", "with", "my", "dining", "partner", "."], "e1_text": "feel", "e1_pos": 3, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

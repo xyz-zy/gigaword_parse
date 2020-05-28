@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "me", "and", "the", "guy", "in", "front", "of", "me", "are", "waiting", "a", "total", "10", "minutes", "before", "they", "decide", "to", "get", "another", "cashier", "to", "help", "us", "along", "with", "the", "other", "6", "people", "that", "walked", "in", "after", "us", "."], "e1_text": "waiting", "e1_pos": 10, "e2_text": "decide", "e2_pos": 17, "label": "before"}
+]

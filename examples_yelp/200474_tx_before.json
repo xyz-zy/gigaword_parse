@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "no", "slick", "talk", "behind", "his", "question", ",", "he", "actually", "paused", "and", "looked", "at", "me", ",", "waiting", "for", "my", "response", "before", "telling", "me", "how", "to", "pay", "for", "the", "vehicle", "."], "e1_text": "waiting", "e1_pos": 17, "e2_text": "telling", "e2_pos": 22, "label": "before"}
+]

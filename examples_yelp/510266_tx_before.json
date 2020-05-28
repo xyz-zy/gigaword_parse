@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "wish", "I", "had", "been", "able", "to", "go", "through", "more", "slowly", "to", "admire", "the", "props", "and", "background", "setup", ";", "everything", "was", "something", "you", "'ve", "seen", "before", ",", "but", "it", "was", "beautifully", "set", "up", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "'ve", "e2_pos": 24, "label": "before"},
+{"tokens": ["One", "thing", "that", "I", "'ll", "admit", "I", "'ve", "never", "seen", "before", "was", "the", "usage", "of", "partially", "closed", "garage", "doors", "placed", "in", "strategic", "areas", "."], "e1_text": "seen", "e1_pos": 9, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

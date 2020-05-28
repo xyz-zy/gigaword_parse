@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "example", "I", "called", "prior", "to", "showing", "up", "earlier", "than", "checkin", "time", "and", "once", "I", "got", "there", "at", "five", "in", "the", "mornin", "I", "had", "to", "sit", "in", "my", "car", "until", "11", "after", "talking", "to", "three", "different", "people", "about", "the", "issue", "and", "they", "still", "made", "me", "pay", "for", "early", "check", "in", "...", "Also", "our", "shower", "did", "n't", "drain", "restraining", "us", "from", "taking", "showers", "."], "e1_text": "sit", "e1_pos": 25, "e2_text": "talking", "e2_pos": 32, "label": "after"}
+]

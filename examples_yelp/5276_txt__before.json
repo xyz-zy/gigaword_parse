@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "even", "called", "before", "I", "went", "there", "to", "see", "if", "maybe", "there", "was", "a", "cancellation", "so", "maybe", "I", "cold", "get", "in", "and", "out", "earlier", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "went", "e2_pos": 5, "label": "before"},
+{"tokens": ["Had", "she", "said", "so", ",", "I", "would", "have", "waited", "45", "minutes", "before", "going", "there", "."], "e1_text": "waited", "e1_pos": 8, "e2_text": "going", "e2_pos": 12, "label": "before"}
+]

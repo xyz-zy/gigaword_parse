@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "brought", "me", "the", "wrong", "food", "and", "he", "told", "me", "you", "should", "take", "it", "and", "after", "sometime", "when", "it", "remained", "on", "the", "table", "he", "took", "it", "."], "e1_text": "told", "e1_pos": 9, "e2_text": "took", "e2_pos": 25, "label": "after"}
+]

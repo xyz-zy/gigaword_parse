@@ -1,0 +1,3 @@
+[
+{"tokens": ["5.99", "seemed", "a", "pretty", "reasonable", "price", "for", "a", "breakfast", "burrito", ",", "however", "the", "grumpy", "girl", "behind", "the", "glass", "partition", "assembling", "our", "burritos", "informed", "us", ",", "after", "she", "'d", "started", "our", "food", ",", "that", "meat", "was", "an", "additional", "$", "1.99", "."], "e1_text": "informed", "e1_pos": 22, "e2_text": "'d", "e2_pos": 27, "label": "after"}
+]

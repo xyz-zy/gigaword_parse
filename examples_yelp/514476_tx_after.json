@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "groupon", "was", "n't", "clear", "and", "the", "cashier", "did", "n't", "tell", "me", "that", "until", "after", "I", "ordered", "and", "bought", "the", "Groupon", ",", "which", "I", "told", "him", "about", "when", "I", "walked", "in", "the", "door", "."], "e1_text": "tell", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 16, "label": "after"}
+]

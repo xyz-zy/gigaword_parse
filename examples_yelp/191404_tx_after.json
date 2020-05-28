@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "opted", "for", "waiting", "the", "5", "minutes", "to", "miss", "the", "breakfast", "menu", "-LRB-", "ends", "at", "11am", "-RRB-", "and", "get", "the", "lunch", "menu", "once", "I", "saw", "the", "kobe", "beef", "sliders", "on", "the", "lunch", "menu", ":--RRB-", "My", "husband", "and", "I", "were", "trying", "to", "''", "``", "keep", "it", "light", "''", "''", "after", "gorging", "at", "Del", "Frisco", "'s", "Steak", "House", "for", "dinner", "the", "night", "before", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "gorging", "e2_pos": 49, "label": "after"},
+{"tokens": ["This", "is", "a", "great", "place", "to", "walk", "up", "to", "after", "lounging", "in", "the", "sun", "by", "the", "pool", "."], "e1_text": "walk", "e1_pos": 6, "e2_text": "lounging", "e2_pos": 10, "label": "after"}
+]

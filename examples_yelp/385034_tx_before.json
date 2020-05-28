@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "turned", "out", "to", "be", "the", "same", "primitive", "haircut", ",", "that", "I", "had", "before", ",", "just", "1-2", "sm", "shorter", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "sm", "e2_pos": 17, "label": "before"},
+{"tokens": ["My", "hair", "is", "long", ",", "but", "not", "super", "long", "on", "anything", "extraordinary", ",", "I", "am", "not", "a", "stylist", "or", "a", "hair", "professional", ",", "but", "would", "think", "that", "it", "is", "possible", "to", "cut", "my", "hair", "with", "me", "sitting", "in", "a", "chair", "-LRB-", "I", "had", "that", "before", "-RRB-", "."], "e1_text": "think", "e1_pos": 25, "e2_text": "is", "e2_pos": 2, "label": "before"}
+]

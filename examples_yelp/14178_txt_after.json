@@ -1,0 +1,4 @@
+[
+{"tokens": ["Immediately", "I", "felt", "it", "on", "my", "back", "and", "neck", ",", "which", "it", "turns", "out", "the", "entire", "thing", "had", "splattered", "on", "my", "back", "after", "hitting", "the", "ground", "."], "e1_text": "splattered", "e1_pos": 18, "e2_text": "hitting", "e2_pos": 23, "label": "after"},
+{"tokens": ["However", ",", "during", "the", "next", "40", "minutes", "at", "the", "restaurant", ",", "not", "once", "did", "this", "waitress", "bother", "coming", "out", "to", "apologize", "after", "she", "ran", "off", "following", "the", "incident", "."], "e1_text": "apologize", "e1_pos": 20, "e2_text": "ran", "e2_pos": 23, "label": "after"}
+]

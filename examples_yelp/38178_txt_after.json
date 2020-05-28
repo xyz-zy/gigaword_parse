@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", ",", "the", "other", "day", "I", "went", "to", "my", "`", "work", "'", "-LRB-", "for", "school", ",", "and", "I", "do", "n't", "get", "paid", "-RRB-", ",", "but", "I", "failed", "to", "get", "an", "e", "mail", "that", "said", "I", "did", "n't", "need", "to", "get", "there", "until", "an", "hour", "after", "I", "normally", "get", "there", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "get", "e2_pos": 20, "label": "after"}
+]

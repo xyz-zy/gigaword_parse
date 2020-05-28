@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "'", "food", "came", "out", "before", "mine", "and", "their", "sandwiches", "and", "burgers", "looked", "great", "-", "upscale", "toppings", ",", "cheeses", ",", "thick", "breads", ",", "nice", "presentation", ",", "etc.", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "looked", "e2_pos": 13, "label": "before"}
+]

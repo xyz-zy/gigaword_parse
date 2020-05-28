@@ -1,0 +1,3 @@
+[
+{"tokens": ["Read", "my", "ratings", "I", "'ve", "VERY", "FAIR", "-", "I", "eat", "out", "a", "lot", "at", "a", "huge", "variety", "of", "places", "...", "hole", "in", "the", "wall", "-LRB-", "like", "Contigo", "-RRB-", "all", "the", "way", "to", "$", "150-200", "person", "meals", "I", "bought", "the", "Yelp", "coupon", "after", "reading", "good", "reviews", "...", "it", "was", "a", "bad", "move", "."], "e1_text": "bought", "e1_pos": 37, "e2_text": "reading", "e2_pos": 42, "label": "after"}
+]

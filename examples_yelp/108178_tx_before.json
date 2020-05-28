@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "read", "the", "reviews", "before", "I", "wrote", "mine", "...", "and", "how", "I", "agree", "with", "Adam", "M.", "...", "-LRB-", "Much", "to", "my", "dismay", "!"], "e1_text": "read", "e1_pos": 3, "e2_text": "wrote", "e2_pos": 8, "label": "before"},
+{"tokens": ["LOL", "-RRB-", "I", "did", "n't", "know", "about", "this", "bar", "before", "I", "came", "here", ",", "so", "I", "do", "not", "know", "much", "about", "the", "history", "."], "e1_text": "know", "e1_pos": 5, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

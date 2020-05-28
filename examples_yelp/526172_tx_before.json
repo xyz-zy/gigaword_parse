@@ -1,0 +1,3 @@
+[
+{"tokens": ["Shantell", "gave", "reminder", "call", "yesterday", "and", "Justin", "called", "before", "coming", "over", "earlier", "than", "scheduled", "time", "to", "make", "sure", "that", "it", "was", "ok", ",", "which", "I", "appreciate", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "coming", "e2_pos": 9, "label": "before"}
+]

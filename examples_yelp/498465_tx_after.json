@@ -1,0 +1,4 @@
+[
+{"tokens": ["2", "bottles", "of", "wine", "and", "34", "games", "of", "gin", "rummy", "later", ",", "our", "food", "arrived", "exactly", "two", "hours", "after", "we", "were", "seated", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "were", "e2_pos": 20, "label": "after"},
+{"tokens": ["Unfortunately", ",", "it", "'s", "not", "possible", "to", "offer", "an", "opinion", "on", "the", "taste", "of", "the", "entrees", "or", "dessert", "as", ",", "after", "biting", "into", "the", "ribeye-cicles", ",", "we", "got", "up", "and", "walked", "out", "."], "e1_text": "'s", "e1_pos": 3, "e2_text": "biting", "e2_pos": 21, "label": "after"}
+]

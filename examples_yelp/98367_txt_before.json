@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "her", "eggs", "had", "been", "cooked", "in", "2", "different", "pans", ",", "which", "means", "the", "cook", "had", "messed", "them", "up", "and", "attempted", "to", "fix", "them", "once", "before", "we", "had", "even", "seen", "them", "-RRB-", "we", "sent", "hers", "back", "and", "received", "over", "medium", "as", "replacement", "."], "e1_text": "fix", "e1_pos": 22, "e2_text": "had", "e2_pos": 3, "label": "before"}
+]

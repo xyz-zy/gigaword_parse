@@ -1,0 +1,3 @@
+[
+{"tokens": ["Given", "the", "bevy", "of", "other", "fine", "dining", "restaurants", "in", "Madison", ",", "I", "will", "be", "trying", "a", "few", "other", "establishments", "before", "heading", "back", "here", "."], "e1_text": "trying", "e1_pos": 14, "e2_text": "heading", "e2_pos": 20, "label": "before"}
+]

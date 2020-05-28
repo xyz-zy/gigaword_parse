@@ -1,0 +1,4 @@
+[
+{"tokens": ["Meanwhile", ",", "someone", "else", "had", "started", "on", "my", "Mom", "...", "and", "they", "actually", "finished", "her", "pedicure", "before", "I", "was", "halfway", "done", "with", "mine", "."], "e1_text": "finished", "e1_pos": 13, "e2_text": "was", "e2_pos": 18, "label": "before"},
+{"tokens": ["Everyone", "was", "VERY", "nice", "...", "but", "my", "finger", "nails", "being", "ruined", "before", "I", "walked", "out", "and", "the", "way", "we", "got", "tossed", "around", "between", "different", "people", ",", "and", "a", "lot", "of", "time", "sitting", "and", "waiting", "for", "our", "persons", "to", "come", "back", "and", "finish", "the", "job", "...", "really", "made", "the", "experience", "frustrating", "and", "not", "as", "relaxing", "."], "e1_text": "ruined", "e1_pos": 10, "e2_text": "walked", "e2_pos": 13, "label": "before"}
+]

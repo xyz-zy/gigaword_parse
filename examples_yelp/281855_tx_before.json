@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "him", "that", "I", "'ve", "had", "it", "before", "and", "it", "definitely", "did", "not", "resemble", "my", "prior", "visits", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "'ve", "e2_pos": 5, "label": "before"},
+{"tokens": ["Too", "bad", "he", "did", "n't", "listen", "to", "me", "the", "first", "time", "...", "To", "the", "owner", ":", "when", "a", "repeat", "customer", "says", "he", "had", "something", "before", ",", "and", "that", "there", "is", "now", "something", "wrong", ",", "have", "your", "people", "pay", "attention", "."], "e1_text": "says", "e1_pos": 20, "e2_text": "had", "e2_pos": 22, "label": "before"}
+]

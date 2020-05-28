@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "walked", "in", "to", "the", "store", ",", "which", "was", "for", "the", "most", "part", "empty", ",", "and", "stood", "at", "the", "counter", "for", "a", "few", "minutes", "before", "a", "gentleman", "reluctantly", "asked", "if", "he", "could", "''", "``", "help", "''", "''", "me", "with", "anything", "."], "e1_text": "stood", "e1_pos": 16, "e2_text": "help", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "was", "shocked", ";", "I", "'d", "never", "paid", "for", "tailoring", "at", "a", "Jos", "A", "Bank", "store", "before", "."], "e1_text": "paid", "e1_pos": 7, "e2_text": "tailoring", "e2_pos": 9, "label": "before"}
+]

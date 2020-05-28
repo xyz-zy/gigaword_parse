@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "second", "Friday", "night", ",", "we", "got", "there", "at", "6:30", "and", "were", "told", "the", "grill", "was", "closed", "because", "`", "it", "had", "to", "cool", "down", "for", "an", "hour", "before", "they", "closed", ".", "'"], "e1_text": "cool", "e1_pos": 22, "e2_text": "closed", "e2_pos": 29, "label": "before"}
+]

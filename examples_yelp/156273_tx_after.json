@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "was", "pleasant", "and", "explained", "everything", "to", "us", "fairly", "promptly", "after", "we", "sat", "down", "."], "e1_text": "explained", "e1_pos": 5, "e2_text": "sat", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "were", "probably", "expecting", "to", "wait", "a", "little", "bit", "for", "our", "food", "to", "arrive", "after", "ordering", ",", "but", "surprisingly", "we", "were", "served", "somewhat", "quickly", "."], "e1_text": "arrive", "e1_pos": 13, "e2_text": "ordering", "e2_pos": 15, "label": "after"}
+]

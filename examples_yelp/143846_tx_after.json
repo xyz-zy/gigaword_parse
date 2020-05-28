@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sucks", "I", "'m", "sure", "the", "line", "up", "was", "2", "hours", "long", ",", "after", "30", "min", "I", "left", "the", "line", "up", "and", "started", "to", "walk", "from", "car", "rental", "counter", "to", "counter", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "counter", "e2_pos": 27, "label": "after"}
+]

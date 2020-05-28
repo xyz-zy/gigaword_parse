@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "friend", "suggested", "Lush", "Burger", "after", "seeing", "it", "mentioned", "on", "''", "``", "Check", "Please", "''", "''", "and", "although", "there", "were", "many", "unfavorable", "reviews", "we", "headed", "out", "to", "see", "for", "ourselves", "."], "e1_text": "suggested", "e1_pos": 2, "e2_text": "seeing", "e2_pos": 6, "label": "after"}
+]

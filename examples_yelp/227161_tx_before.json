@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "sure", "it", "happens", "every", "Saturday", "as", "hordes", "of", "conventioneers", "grab", "breakfast", "before", "heading", "to", "the", "airport", "."], "e1_text": "grab", "e1_pos": 11, "e2_text": "heading", "e2_pos": 14, "label": "before"}
+]

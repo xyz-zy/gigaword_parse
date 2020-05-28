@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "quitting", "my", "job", ",", "I", "did", "n't", "get", "my", "final", "paycheck", "for", "MONTHS", "after", "I", "quit", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "quit", "e2_pos": 16, "label": "after"}
+]

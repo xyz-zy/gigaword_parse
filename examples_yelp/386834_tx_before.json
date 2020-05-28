@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "informed", "our", "server", "of", "my", "food", "allergies", ",", "of", "which", "he", "took", "time", "to", "notate", "down", "before", "heading", "of", "to", "the", "kitchen", "."], "e1_text": "notate", "e1_pos": 16, "e2_text": "heading", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "'ll", "be", "visiting", "again", "before", "flying", "home", "."], "e1_text": "visiting", "e1_pos": 3, "e2_text": "flying", "e2_pos": 6, "label": "before"}
+]

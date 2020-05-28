@@ -1,0 +1,3 @@
+[
+{"tokens": ["but", "other", "two", "attendants", "were", "so", "busy", "talking", "with", "each", "other", "that", "I", "had", "to", "wait", "more", "than", "10", "mnts", "-LRB-", "though", "there", "were", "no", "other", "customer", "-RRB-", "and", "as", "after", "she", "gave", "me", "my", "coffee", "she", "had", "no", "time", "to", "say", "anything", "or", "to", "give", "a", "single", "reply", "of", "thanks", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "gave", "e2_pos": 32, "label": "after"}
+]

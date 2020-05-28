@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", ",", "I", "called", "again", "today", ",", "for", "the", "4th", "time", ",", "and", "STEVE", "told", "me", "there", "was", "no", "way", "it", "would", "happen", "until", "next", "year", "-LRB-", "after", "we", "move", "-RRB-", "."], "e1_text": "happen", "e1_pos": 22, "e2_text": "move", "e2_pos": 29, "label": "after"},
+{"tokens": ["When", "I", "said", "I", "was", "dissatisfied", "at", "having", "to", "wait", "a", "month", ",", "after", "we", "move", ",", "just", "for", "the", "initial", "appointment", ",", "STEVE", "spoke", "to", "me", "like", "he", "was", "doing", "me", "a", "favor", "to", "look", "into", "why", "we", "had", "not", "been", "contacted", "!"], "e1_text": "wait", "e1_pos": 9, "e2_text": "move", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "did", "not", "like", "facts", ",", "and", "was", "even", "more", "rude", "after", "I", "pointed", "this", "out", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "pointed", "e2_pos": 13, "label": "after"}
+]

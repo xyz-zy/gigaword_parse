@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "turnip", "greens", "barely", "made", "it", "past", "my", "lips", "before", "being", "spit", "out", "."], "e1_text": "made", "e1_pos": 4, "e2_text": "being", "e2_pos": 10, "label": "before"},
+{"tokens": ["It", "was", "tangy", "and", "dry", "and", "gross", "...", "and", "again", "barely", "made", "it", "past", "my", "lips", "before", "being", "spit", "out", "."], "e1_text": "made", "e1_pos": 11, "e2_text": "being", "e2_pos": 17, "label": "before"}
+]

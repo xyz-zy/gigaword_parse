@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "love", "the", "salsa", "they", "bring", "with", "the", "chips", ",", "but", "I", "usually", "got", "filled", "up", "with", "them", "before", "the", "meal", "comes", "which", "is", "why", "I", "usually", "split", "one", "entree", "because", "the", "plates", "are", "large", "."], "e1_text": "filled", "e1_pos": 14, "e2_text": "comes", "e2_pos": 21, "label": "before"}
+]

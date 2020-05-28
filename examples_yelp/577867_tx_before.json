@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "spoke", "to", "a", "gentleman", "earlier", "this", "week", "before", "I", "traveled", "to", "Phoenix", ";", "he", "was", "kind", "and", "answered", "my", "questions", "-LRB-", "so", "I", "thought", "-RRB-", "."], "e1_text": "spoke", "e1_pos": 1, "e2_text": "traveled", "e2_pos": 10, "label": "before"},
+{"tokens": ["My", "wife", "was", "at", "work", "an", "not", "able", "to", "get", "home", "in", "time", "to", "look", "up", "the", "information", "before", "the", "store", "closed", "."], "e1_text": "look", "e1_pos": 14, "e2_text": "closed", "e2_pos": 21, "label": "before"}
+]

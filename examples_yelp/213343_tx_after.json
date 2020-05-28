@@ -1,0 +1,5 @@
+[
+{"tokens": ["Needing", "a", "breakfast", "fix", ",", "wifey", "and", "I", "strolled", "up", ",", "after", "noticing", "that", "the", "room", "was", "at", "least", "3\\/4", "empty", "."], "e1_text": "strolled", "e1_pos": 8, "e2_text": "noticing", "e2_pos": 12, "label": "after"},
+{"tokens": ["However", ",", "that", "sentiment", "quickly", "turned", ",", "considering", "that", "after", "we", "received", "the", "food", ",", "our", "waiter", "did", "n't", "come", "back", "with", "the", "check", "."], "e1_text": "considering", "e1_pos": 7, "e2_text": "received", "e2_pos": 11, "label": "after"},
+{"tokens": ["If", "do", "come", "back", ",", "I", "'ll", "be", "totally", "hammered", "so", "I", "can", "vomit", "on", "the", "tables", "after", "I", "eat", "."], "e1_text": "vomit", "e1_pos": 13, "e2_text": "eat", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "to", "see", "a", "fight", "@", "MGM", "and", "after", "a", "little", "research", "decided", "the", "best", "way", "to", "leave", "without", "footing", "it", "or", "waiting", "in", "a", "long", "taxi", "stand", "line", "after", "a", "large", "event", "was", "taking", "the", "monorail", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "decided", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "made", "it", "over", "to", "Paris", "for", "a", "late", "dinner", "within", "15", "mins", "after", "exiting", "the", "arena", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "exiting", "e2_pos": 14, "label": "after"}
+]

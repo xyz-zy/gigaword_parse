@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "started", "off", "in", "New", "Mexico", "my", "first", "flight", "had", "been", "delayed", "3", "different", "times", "even", "before", "I", "had", "gotten", "to", "the", "airport", "."], "e1_text": "delayed", "e1_pos": 11, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "arrived", "at", "the", "airport", "two", "hours", "before", "my", "flight", "which", "was", "supposed", "to", "be", "boarding", "at", "4:30", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

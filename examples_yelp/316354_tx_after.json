@@ -1,0 +1,4 @@
+[
+{"tokens": ["Forget", "about", "the", "salmon", "flavor", "that", "'s", "long", "gone", "after", "being", "popped", "freezer", "to", "freezer", "to", "freezer", "."], "e1_text": "gone", "e1_pos": 8, "e2_text": "being", "e2_pos": 10, "label": "after"},
+{"tokens": ["What", "i", "received", "here", "came", "less", "than", "5", "minutes", "after", "i", "placed", "the", "order", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "placed", "e2_pos": 11, "label": "after"}
+]

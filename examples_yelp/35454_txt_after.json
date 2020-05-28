@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "his", "father", "were", "supposed", "to", "golf", "two", "mornings", ",", "but", "after", "the", "first", "decided", "the", "one", "round", "was", "plenty", "."], "e1_text": "supposed", "e1_pos": 6, "e2_text": "decided", "e2_pos": 16, "label": "after"}
+]

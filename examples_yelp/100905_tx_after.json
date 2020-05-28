@@ -1,0 +1,3 @@
+[
+{"tokens": ["Today", "I", "found", "bug", "legs", "in", "my", "salad", "lettuce", "...", "later", "after", "I", "had", "left", "the", "restaurant", "and", "was", "munching", "on", "leftovers", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "had", "e2_pos": 13, "label": "after"}
+]

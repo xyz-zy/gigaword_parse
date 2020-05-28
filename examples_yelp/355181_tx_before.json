@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "big", "annoyance", "is", "a", "pin-code", "lock", "on", "the", "bathroom", "door", ",", "forcing", "you", "to", "check", "at", "the", "bar", "before", "going", "to", "the", "toilet", "."], "e1_text": "check", "e1_pos": 15, "e2_text": "going", "e2_pos": 20, "label": "before"}
+]

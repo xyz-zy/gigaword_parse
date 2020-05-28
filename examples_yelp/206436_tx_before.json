@@ -1,0 +1,3 @@
+[
+{"tokens": ["Shrimp", "fried", "rice", "-", "This", "one", "arrived", "to", "the", "table", "first", ",", "a", "good", "20", "minutes", "before", "the", "actual", "entrees", "arrived", "."], "e1_text": "arrived", "e1_pos": 6, "e2_text": "arrived", "e2_pos": 6, "label": "before"}
+]

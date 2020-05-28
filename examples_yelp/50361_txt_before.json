@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "ingrown", "nails", "before", "so", "I", "knew", "what", "I", "had", "to", "do", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "knew", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "have", "never", "had", "an", "experience", "like", "that", "before", "and", "even", "though", "she", "has", "''", "``", "experience", ",", "''", "''", "and", "offered", "to", "redo", "my", "manicure", ",", "I", "did", "not", "want", "her", "coming", "anywhere", "near", "my", "nails", "again", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "has", "e2_pos": 13, "label": "before"}
+]

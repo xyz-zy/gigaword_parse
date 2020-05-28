@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "staying", "at", "the", "Indigo", "on", "business", ",", "I", "was", "referred", "to", "this", "place", "by", "my", "hotel", "bartender", "after", "I", "asked", "for", "a", "simple", "sushi", "place", "close", "by", "."], "e1_text": "referred", "e1_pos": 10, "e2_text": "asked", "e2_pos": 20, "label": "after"}
+]

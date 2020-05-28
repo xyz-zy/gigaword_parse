@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walked", "over", "to", "Binion", "'s", "and", "finally", "found", "the", "correct", "elevator", "after", "asking", "a", "few", "employees", ",", "and", "made", "our", "way", "up", "to", "the", "top", "."], "e1_text": "found", "e1_pos": 8, "e2_text": "asking", "e2_pos": 13, "label": "after"}
+]

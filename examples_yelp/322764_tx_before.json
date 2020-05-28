@@ -1,0 +1,4 @@
+[
+{"tokens": ["Hookah", "was", "overpriced", "for", "what", "it", "was", "and", "we", "paid", "before", "we", "even", "got", "the", "hookah", "."], "e1_text": "paid", "e1_pos": 9, "e2_text": "got", "e2_pos": 13, "label": "before"},
+{"tokens": ["We", "smoked", "hookah", "for", "about", "3", "minutes", "before", "it", "got", "harsh", "and", "we", "had", "to", "practically", "hunt", "down", "the", "employee", "to", "fix", "it", "."], "e1_text": "smoked", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

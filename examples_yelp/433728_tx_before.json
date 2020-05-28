@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "something", "small", "like", "a", "clogged", "drain", "needed", "to", "be", "fixed", "before", ",", "they", "used", "to", "have", "someone", "here", "the", "following", "day", ",", "now", "it", "takes", "days\\/weeks", "and", "multiple", "calls", "to", "get", "someone", "to", "stop", "by", "."], "e1_text": "fixed", "e1_pos": 10, "e2_text": "used", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "have", "had", "packages", "delivered", "and", "rushed", "to", "get", "home", "from", "work", ",", "only", "to", "find", "that", "they", "have", "closed", "or", "locked", "the", "doors", "5-10", "minutes", "before", "they", "are", "scheduled", "to", "close", "for", "that", "day", "."], "e1_text": "locked", "e1_pos": 21, "e2_text": "are", "e2_pos": 28, "label": "before"}
+]

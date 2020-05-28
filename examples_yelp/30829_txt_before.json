@@ -1,0 +1,4 @@
+[
+{"tokens": ["Given", "my", "history", "as", "a", "server", "&", "restaurant", "manager", ",", "I", "'m", "guessing", "then", "they", "were", "left", "in", "the", "window", "a", "while", "before", "making", "it", "to", "our", "table", "."], "e1_text": "left", "e1_pos": 16, "e2_text": "making", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "should", "have", "counted", ",", "could", "have", "very", "easily", "and", "quickly", ",", "but", "did", "n't", "think", "about", "it", "before", "I", "dove", "in", "since", "I", "was", "hungry", "."], "e1_text": "think", "e1_pos": 15, "e2_text": "dove", "e2_pos": 20, "label": "before"}
+]

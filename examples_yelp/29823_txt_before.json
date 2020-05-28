@@ -1,0 +1,3 @@
+[
+{"tokens": ["Plus", "I", "like", "to", "avoid", "greasy", "foods", "or", "foods", "that", "might", "upset", "my", "stomach", "before", "I", "fly", ",", "so", "I", "knew", "a", "sandwich", "would", "be", "a", "safe", "bet", "."], "e1_text": "upset", "e1_pos": 11, "e2_text": "fly", "e2_pos": 16, "label": "before"}
+]

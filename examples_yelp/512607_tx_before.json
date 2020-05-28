@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "''", "``", "mix", "it", "before", "we", "wrap", "it", "''", "''", "gimmick", "is", "silly", "and", "does", "n't", "add", "anything", "."], "e1_text": "mix", "e1_pos": 3, "e2_text": "wrap", "e2_pos": 7, "label": "before"}
+]

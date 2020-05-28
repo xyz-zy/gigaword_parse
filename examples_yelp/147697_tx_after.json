@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "and", "I", "were", "very", "upset", "after", "paying", "a", "small", "fortune", "to", "learn", "nothing", "of", "why", "our", "dog", "was\\/is", "so", "sick", ",", "and", "then", "to", "be", "brushed", "aside", "for", "something", "small", "like", "a", "collar", "and", "leash", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "paying", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "have", "never", "been", "treated", "with", "so", "much", "disregard", "after", "paying", "that", "much", "money", "for", "a", "service", "."], "e1_text": "treated", "e1_pos": 4, "e2_text": "paying", "e2_pos": 10, "label": "after"}
+]

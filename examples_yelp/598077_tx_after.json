@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "called", "in", "a", "few", "months", "after", "I", "was", "told", "we", "had", "a", "check", "for", "less", "than", "$", "5", "for", "over", "20", "expensive", "houseware", "items", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Unbelievable", "!!", "This", "is", "after", "we", "brought", "in", "nice", "pillows", ",", "framed", "artwork", ",", "decorative", "home", "accents", ",", "decorative", "candle", "holders", ",", "decorative", "mirrors", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "brought", "e2_pos": 6, "label": "after"}
+]

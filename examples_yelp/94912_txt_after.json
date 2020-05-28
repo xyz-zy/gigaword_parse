@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "the", "Chubb", "representative", "told", "us", "the", "car", "was", "totaled", ",", "she", "said", "she", "would", "send", "an", "email", "right", "after", "the", "phone", "call", "with", "the", "official", "notice", "and", "the", "assessments", "."], "e1_text": "send", "e1_pos": 15, "e2_text": "call", "e2_pos": 22, "label": "after"},
+{"tokens": ["We", "fedexed", "our", "agreement", "and", "car", "title", "a", "week", "after", "we", "had", "expected", "to", "be", "able", "to", "due", "to", "delays", "in", "receiving", "their", "report", "."], "e1_text": "fedexed", "e1_pos": 1, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

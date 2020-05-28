@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "off", ",", "I", "give", "restaurants", "a", "chance", "to", "make", "me", "a", "satisfied", "customer", "before", "I", "type", "up", "a", "negative", "missive", "."], "e1_text": "make", "e1_pos": 9, "e2_text": "type", "e2_pos": 16, "label": "before"},
+{"tokens": ["A", "$", "12", "order", "of", "yellow", "tail", "sashimi", "was", "also", "disappointing", ",", "as", "the", "meat", "was", "a", "cut", "which", "none", "of", "us", "had", "ever", "seen", "before", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "had", "e2_pos": 22, "label": "before"}
+]

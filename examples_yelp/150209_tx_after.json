@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "couple", "sitting", "near", "us", "got", "up", "and", "left", "after", "not", "even", "getting", "menus", "for", "the", "first", "15", "or", "20", "mins", "and", "another", "family", "had", "to", "actually", "get", "up", "from", "the", "table", "to", "go", "get", "the", "waitress", "on", "the", "other", "side", "of", "the", "restaurant", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "getting", "e2_pos": 12, "label": "after"}
+]

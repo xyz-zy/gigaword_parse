@@ -1,0 +1,3 @@
+[
+{"tokens": ["$", "400", "dollars", "later", "I", "find", "that", "my", "desktop", "computer", "will", "not", "reboot", "after", "they", "shut", "off", "power", "to", "house", "."], "e1_text": "reboot", "e1_pos": 12, "e2_text": "shut", "e2_pos": 15, "label": "after"}
+]

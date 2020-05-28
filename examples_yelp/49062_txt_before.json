@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "moved", "here", "5", "years", "ago", "I", "went", "through", "3", "hairdressers", "before", "she", "was", "reccomended", "to", "me", "and", "I", "have", "n't", "looked", "back", "in", "the", "last", "3", "years", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "was", "e2_pos": 14, "label": "before"}
+]

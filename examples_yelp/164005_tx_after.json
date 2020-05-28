@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Bathroom", "fans", "did", "not", "defog", "mirrors", "after", "showering", "or", "get", "rid", "of", "unpleasant", "smells", "."], "e1_text": "defog", "e1_pos": 5, "e2_text": "showering", "e2_pos": 8, "label": "after"},
+{"tokens": ["All", "I", "know", "is", "that", "I", "felt", "super", "self", "conscious", "about", "my", "skin", "at", "the", "pool", "after", "that", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "felt", "e2_pos": 6, "label": "after"}
+]

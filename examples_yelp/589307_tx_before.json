@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "example", ",", "the", "woman", "that", "checked", "me", "out", "today", "had", "said", "to", "me", "before", "I", "left", ",", "''", "``", "Hope", "to", "see", "you", "soon", "and", "not", "a", "year", "from", "now", "!", "''", "''"], "e1_text": "said", "e1_pos": 11, "e2_text": "left", "e2_pos": 16, "label": "before"}
+]

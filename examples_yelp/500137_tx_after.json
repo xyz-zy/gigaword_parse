@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "also", "provides", "some", "useful", "tips", "on", "how", "to", "continue", "maximizing", "the", "benefits", "of", "the", "massage", "long", "after", "you", "'ve", "left", "her", "office", "--", "real", "dedication", "to", "helping", "her", "clients", "as", "much", "as", "possible", "."], "e1_text": "continue", "e1_pos": 9, "e2_text": "'ve", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "visited", "Andrea", "two", "days", "after", "running", "an", "ultramarathon", "and", "I", "walked", "out", "of", "her", "office", "feeling", "totally", "rejuvenated", "and", "relaxed", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "running", "e2_pos": 6, "label": "after"}
+]

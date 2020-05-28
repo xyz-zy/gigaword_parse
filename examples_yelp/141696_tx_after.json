@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "server", ",", "while", "attentive", "in", "the", "beginning", ",", "was", "no", "where", "to", "be", "found", "after", "we", "said", "we", "did", "n't", "want", "the", "dessert", "menu", "."], "e1_text": "found", "e1_pos": 14, "e2_text": "said", "e2_pos": 17, "label": "after"},
+{"tokens": ["Mind", "you", "she", "only", "had", "one", "other", "table", "in", "our", "section", "and", "out", "still", "took", "more", "than", "20", "minutes", "to", "get", "the", "check", "signed", "and", "get", "out", "of", "there", "after", "declining", "the", "dessert", "menu", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "declining", "e2_pos": 30, "label": "after"}
+]

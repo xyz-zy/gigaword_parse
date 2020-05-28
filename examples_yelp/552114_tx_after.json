@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "server", "checked", "in", "a", "few", "times", "but", "empty", "plates", "were", "never", "cleared", "and", "we", "were", "still", "sitting", "amongst", "our", "dirty", "dishes", "when", "the", "check", "was", "both", "first", "dropped", "and", "returned", "after", "our", "charge", "was", "run", "."], "e1_text": "returned", "e1_pos": 30, "e2_text": "was", "e2_pos": 25, "label": "after"}
+]

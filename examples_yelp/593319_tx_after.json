@@ -1,0 +1,3 @@
+[
+{"tokens": ["now", "if", "only", "the", "service", "was", "a", "little", "better", "...", "the", "''", "``", "bartender", "''", "''", "was", "on", "her", "break", "but", "managed", "to", "go", "back", "behind", "the", "bar", "to", "get", "herself", "a", "beer", "this", "was", "about", "10min", "after", "we", "ordered", "our", "second", "pitcher", "...", "she", "finally", "comes", "back", "from", "her", "break", "and", "tells", "us", "there", "'s", "no", "more", "Stella", ",", "does", "n't", "ask", "if", "we", "want", "anything", "else", "and", "about", "5min", "after", "comes", "out", "w", "the", "keg", "to", "serve", "us", "the", "beer", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 39, "label": "after"}
+]

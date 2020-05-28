@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Eggs", "Benedict", "-LRB-", "main", "course", "-RRB-", "was", "consumed", "after", "the", "buffet", "had", "been", "raided", ",", "so", "I", "was", "bordering", "on", "diabetic", "shutdown", "at", "that", "point", "."], "e1_text": "consumed", "e1_pos": 8, "e2_text": "had", "e2_pos": 12, "label": "after"}
+]

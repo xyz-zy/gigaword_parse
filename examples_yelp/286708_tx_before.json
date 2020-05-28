@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "checked", "our", "bill", "before", "we", "left", "and", "asked", "for", "a", "15", "%", "gratuity", ",", "but", "the", "service", "was", "too", "bad", ",", "ruined", "the", "whole", "experience", ",", "we", "could", "only", "give", "10", "%", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "left", "e2_pos": 7, "label": "before"}
+]

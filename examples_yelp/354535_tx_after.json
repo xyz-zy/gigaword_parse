@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "there", "after", "reading", "rave", "reviews", "of", "the", "sticky", "toffee", "pudding", ",", "which", "is", "my", "favorite", "dessert", "in", "the", "world", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"}
+]

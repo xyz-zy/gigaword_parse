@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "can", "never", "meditate", "so", "after", "seeing", "the", "video", "they", "show", "you", "on", "a", "first", "visit", ",", "I", "decided", "to", "just", "count", "my", "breath", "to", "see", "if", "I", "could", "clear", "my", "mind", "."], "e1_text": "meditate", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "had", "a", "laminectomy", "14", "yrs", "ago", "and", "always", "have", "back", "pain", "but", "after", "that", "float", "I", "felt", "no", "pain", "for", "about", "3", "days", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "float", "e2_pos": 15, "label": "after"}
+]

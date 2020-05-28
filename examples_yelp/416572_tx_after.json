@@ -1,0 +1,4 @@
+[
+{"tokens": ["Toward", "the", "end", "of", "my", "meal", ",", "I", "was", "plagued", "by", "a", "swarm", "of", "flies", ",", "probably", "waiting", "for", "me", "to", "drop", "after", "foolishly", "consuming", "the", "Mojo", "'s", "chili", "."], "e1_text": "drop", "e1_pos": 21, "e2_text": "consuming", "e2_pos": 24, "label": "after"},
+{"tokens": ["I", "was", "immediately", "greeted", "and", "my", "server", "kept", "my", "soda", "glass", "full", "and", "checked", "in", "after", "the", "food", "was", "served", "."], "e1_text": "checked", "e1_pos": 13, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["On", "multiple", "occasions", "I", "have", "been", "placed", "on", "hold", "for", "a", "really", "long", "time", "-LRB-", "over", "10", "minutes", "-RRB-", "before", "anyone", "picked", "up", "."], "e1_text": "placed", "e1_pos": 6, "e2_text": "picked", "e2_pos": 21, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "here", "before", "watching", "a", "show", "at", "NYNY", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "watching", "e2_pos": 4, "label": "before"},
+{"tokens": ["Initially", ",", "though", "we", "were", "seated", "right", "away", ",", "it", "took", "a", "good", "ten", "minutes", "before", "a", "server", "came", "by", "to", "take", "even", "a", "drink", "order", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", ",", "I", "did", "and", "in", "New", "York", "walked", "out", "after", "being", "told", "it", "would", "be", "a", "5-6", "hour", "!!!!!", "wait", "."], "e1_text": "walked", "e1_pos": 8, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["Last", "weekend", "it", "was", "fairly", "empty", "but", "after", "seeing", "that", "they", "have", "two", "walk", "up", "counters", "where", "you", "get", "the", "FHC", "-LRB-", "frozen", "hot", "chocolate", "-RRB-", "for", "MORE", "than", "in", "NY", "without", "the", "luxury", "of", "being", "in", "their", "nice", "restaurant", "and", "that", "in", "a", "plastic", "to", "go", "cup", "!"], "e1_text": "was", "e1_pos": 3, "e2_text": "walk", "e2_pos": 13, "label": "after"}
+]

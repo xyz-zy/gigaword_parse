@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "a", "pair", "of", "jeans", "that", "were", "originally", "$", "210", "for", "$", "140", "-LRB-", "I", "know", ",", "but", "I", "'ve", "spent", "$", "210", "on", "jeans", "before", "so", "this", "to", "me", "was", "a", "steal", "-RRB-", "."], "e1_text": "spent", "e1_pos": 21, "e2_text": "was", "e2_pos": 31, "label": "before"}
+]

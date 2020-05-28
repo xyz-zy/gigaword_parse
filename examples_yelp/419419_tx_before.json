@@ -1,0 +1,3 @@
+[
+{"tokens": ["Request", "to", "taste", "an", "item", "before", "ordering", "was", "answered", "''", "``", "no.", "''", "''", "When", "waitress", "asked", "manager", ",", "the", "answer", "was", "''", "``", "no.", "''", "''", "Shrimp", "and", "grits", "were", "not", "low", "country", "style", "but", "the", "shrimp", "were", "not", "frozen", "and", "they", "were", "juicy", "--", "highlight", "!"], "e1_text": "taste", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 6, "label": "before"}
+]

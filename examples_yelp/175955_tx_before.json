@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "walk", "through", "the", "maze", "of", "people", "and", "''", "``", "lines", "''", "''", "and", "find", "ourselves", "in", "the", "main", "dance", "room", "--", "we", "did", "n't", "pass", "anyone", "collecting", "$", "$", "and", "no", "one", "said", "anything", "so", "we", "figured", "we", "just", "got", "in", "for", "free", "somehow", "and", "bolted", "into", "the", "crowd", "before", "anyone", "noticed", "."], "e1_text": "bolted", "e1_pos": 46, "e2_text": "noticed", "e2_pos": 52, "label": "before"},
+{"tokens": ["All", "the", "bars", "were", "5-6", "people", "deep", ",", "we", "were", "already", "3", "sheets", "to", "the", "wind", "before", "coming", "so", "we", "saved", "$", "$", "on", "that", "front", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "coming", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "discharged", "me", "from", "the", "hospital", "after", "my", "c-section", "without", "signing", "the", "pain", "med", "prescription", "!!!", "My", "pharmacy", "was", "closed", "by", "the", "time", "she", "did", "."], "e1_text": "discharged", "e1_pos": 1, "e2_text": "!!!", "e2_pos": 15, "label": "after"},
+{"tokens": ["She", "also", "put", "me", "on", "some", "Level", "4", "blood", "pressure", "medicine", "while", "I", "was", "in", "the", "hospital", "after", "delivery", "that", "caused", "a", "whole", "LAUNDRY", "LIST", "of", "horrible", "side", "effects", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "caused", "e2_pos": 20, "label": "after"}
+]

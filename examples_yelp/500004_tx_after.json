@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "got", "in", "line", "at", "my", "actual", "gate", ",", "where", ",", "after", "waiting", "20", "minutes", ",", "a", "dismissive", "little", "man", "in", "uniform", "told", "to", "get", "in", "the", "''", "``", "correct", "''", "''", "line", ",", "two", "gates", "over", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

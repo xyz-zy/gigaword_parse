@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "enjoying", "our", "drinks", "Bubba", "came", "to", "our", "table", "to", "make", "us", "the", "guacamole", "we", "ordered", ",", "he", "showed", "us", "each", "ingredient", "before", "adding", "it", "and", "a", "few", "minutes", "later", "we", "were", "digging", "into", "our", "guac", "and", "chips", "...", "yummmmm", "We", "shared", "a", "''", "``", "shrimp", "omelete", "''", "''", "which", "had", "baby", "shrimp", ",", "goat", "cheese", "and", "was", "very", "good", "."], "e1_text": "showed", "e1_pos": 18, "e2_text": "adding", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "would", "have", "preferred", "to", "enjoy", "what", "was", "already", "on", "the", "table", "before", "bringing", "more", ",", "especially", "because", "by", "the", "time", "we", "got", "around", "to", "the", "omelette", "it", "was", "not", "hot", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "bringing", "e2_pos": 13, "label": "before"}
+]

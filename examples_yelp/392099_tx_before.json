@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "broke", "rule", "number", "1", "of", "getting", "the", "bang", "for", "you", "buck", "at", "a", "buffet", ",", "I", "did", "n't", "do", "the", "full", "walk", "around", "before", "getting", "my", "plate", "!"], "e1_text": "do", "e1_pos": 19, "e2_text": "getting", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "had", "n't", "even", "waited", "for", "my", "drink", "order", "before", "I", "was", "loading", "up", "on", "a", "plate", "of", "King", "Crab", "legs", "-LRB-", "and", "a", "small", "bowl", "of", "clarified", "butter", "-RRB-", "!"], "e1_text": "waited", "e1_pos": 4, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

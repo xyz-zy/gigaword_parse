@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "did", "n't", "you", "study", "the", "menu", "&", "have", "to", "take", "a", "test", "on", "it", "before", "getting", "a", "section", "?"], "e1_text": "take", "e1_pos": 10, "e2_text": "getting", "e2_pos": 16, "label": "before"},
+{"tokens": ["And", "to", "the", "Server", "whom", "never", "came", "to", "apoligize", "to", "us", "before", "leaving", ",", "if", "you", "ca", "n't", "own", "your", "mistakes", "and", "show", "some", "sympathy", "on", "behalf", "of", "the", "place", "your", "working", "at", ",", "then", "I", "highly", "suggest", "to", "get", "out", "of", "this", "career", "now", ",", "it", "'s", "not", "ment", "to", "be", "."], "e1_text": "apoligize", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 12, "label": "before"}
+]

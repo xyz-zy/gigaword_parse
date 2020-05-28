@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "they", "said", "they", "would", "call", "me", "back", "after", "they", "contacted", "the", "distributor", "."], "e1_text": "call", "e1_pos": 5, "e2_text": "contacted", "e2_pos": 10, "label": "after"},
+{"tokens": ["Then", "I", "go", "to", "their", "FB", "to", "ask", "about", "status", "...", "Got", "a", "snippy", "response", "that", "their", "''", "``", "web", "team", "''", "''", "does", "n't", "work", "on", "the", "weekends", "since", "I", "contacted", "them", "on", "the", "weekends", "...", "I", "asked", "about", "this", "a", "few", "days", "after", "contacting", "them", "on", "the", "weekend", "."], "e1_text": "asked", "e1_pos": 38, "e2_text": "contacting", "e2_pos": 45, "label": "after"}
+]

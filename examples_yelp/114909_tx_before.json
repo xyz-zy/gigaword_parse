@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "most", "recent", "time", ",", "it", "was", "a", "more", "costly", "repair", "-LRB-", "$", "50", "-RRB-", "and", "I", "wish", "he", "would", "have", "called", "before", "he", "spent", "the", "time", "and", "parts", "on", "the", "repair", "because", "I", "probably", "would", "have", "just", "bought", "a", "new", "sweeper", "instead", "of", "having", "the", "repair", "."], "e1_text": "called", "e1_pos": 21, "e2_text": "spent", "e2_pos": 24, "label": "before"}
+]

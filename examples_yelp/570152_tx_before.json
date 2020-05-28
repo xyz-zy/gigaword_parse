@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "30", "minutes", "before", "I", "even", "got", "one", "item", "on", "my", "empty", "plate", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "before"},
+{"tokens": ["There", "were", "assorted", "Mexican", "rice", "dishes", ",", "then", "some", "salads", ",", "soups", ",", "bread", "rolls", "and", "cold", "pastas", "-LRB-", "which", "no", "one", "ventured", "into", "cause", "it", "curved", "inwards", "and", "people", "did", "n't", "want", "to", "lose", "their", "spot", "in", "line", "-RRB-", "before", "hitting", "the", "Memorial", "Day", "sliders", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "hitting", "e2_pos": 41, "label": "before"}
+]

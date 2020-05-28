@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "glad", "to", "find", "a", "dry", "cleaner", "close", "to", "me", "-LRB-", "one", "of", "their", "stores", "is", "at", "Queen", "Creek", "&", "Val", "Vista", "-RRB-", "after", "relocating", "to", "Arizona", "a", "year", "ago", "."], "e1_text": "find", "e1_pos": 4, "e2_text": "relocating", "e2_pos": 25, "label": "after"},
+{"tokens": ["All", "was", "well", "until", "I", "noticed", "a", "small", "brown", "stain", "on", "the", "front", "of", "one", "of", "my", "Tommy", "Bahama", "shirts", "after", "it", "was", "cleaned", "."], "e1_text": "noticed", "e1_pos": 5, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

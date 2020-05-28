@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waiter", "took", "his", "time", "coming", "by", "after", "we", "sat", "down", ",", "then", "only", "brought", "us", "the", "tasting", "menu", "because", "the", "full", "menu", "was", "''", "``", "too", "much", "to", "handle", "all", "at", "once", "''", "''", "Took", "us", "all", "of", "30", "seconds", "to", "read", "the", "five-item", "tasting", "menu", ",", "then", "we", "sat", "around", "waiting", "for", "the", "server", "come", "back", "."], "e1_text": "coming", "e1_pos": 4, "e2_text": "sat", "e2_pos": 8, "label": "after"}
+]

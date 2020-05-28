@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "go", "over", "exactly", "what", "tint", "I", "want", "while", "in", "the", "showroom", "and", "after", "I", "leave", "I", "receive", "3", "phone", "calls", "because", "they", "forgot", "what", "grade", "of", "tint", "I", "wanted", "."], "e1_text": "go", "e1_pos": 2, "e2_text": "leave", "e2_pos": 16, "label": "after"},
+{"tokens": ["Now", ",", "this", "was", "after", "having", "an", "appointment", "and", "dropping", "it", "off", "at", "9am", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "having", "e2_pos": 5, "label": "after"}
+]

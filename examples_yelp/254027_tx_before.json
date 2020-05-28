@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "just", "might", "go", "back", "again", "on", "Saturday", ",", "right", "before", "I", "leave", "town", "again", "so", "I", "have", "good", "toes", "and", "feet", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "leave", "e2_pos": 12, "label": "before"},
+{"tokens": ["Usually", "my", "manicure", "only", "lasts", "about", "2", "days", "before", "it", "chips", "."], "e1_text": "lasts", "e1_pos": 4, "e2_text": "chips", "e2_pos": 10, "label": "before"}
+]

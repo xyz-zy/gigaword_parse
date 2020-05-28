@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "sis", "and", "I", "have", "been", "coming", "here", "for", "several", "years", ",", "before", "they", "changed", "ownership", "."], "e1_text": "coming", "e1_pos": 6, "e2_text": "changed", "e2_pos": 14, "label": "before"},
+{"tokens": ["When", "we", "get", "the", "bill", ",", "we", "see", "it", "'s", "$", "3.00", "for", "the", "extra", "meat", "...", "per", "sandwich", "!!!", "And", "$", "1.25", "for", "the", "dressing", "...", "per", "sandwich", "!!!", "She", "never", "came", "to", "us", "and", "told", "us", "this", "before", "adding", "it", "to", "the", "bill", "."], "e1_text": "told", "e1_pos": 36, "e2_text": "adding", "e2_pos": 40, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "there", "after", "doing", "some", "miniature", "golfing", "and", "got", "seated", ",", "and", "the", "waitress", "promptly", "took", "our", "drink\\/shake", "orders", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "doing", "e2_pos": 3, "label": "after"},
+{"tokens": ["I", "wish", "that", "things", "could", "have", "gone", "better", "or", "that", "I", "could", "have", "liked", "their", "food", "but", "after", "all", "of", "this", "I", "really", "doubt", "that", "I", "will", "even", "give", "johnny", "rockets", "a", "second", "glance", "."], "e1_text": "wish", "e1_pos": 1, "e2_text": "doubt", "e2_pos": 23, "label": "after"}
+]

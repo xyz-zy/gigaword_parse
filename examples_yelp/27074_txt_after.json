@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "spending", "$", "235", ",", "after", "being", "informed", "that", "I", "would", "be", "spending", "less", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "being", "e2_pos": 8, "label": "after"},
+{"tokens": ["So", "I", "return", "it", ",", "after", "I", "learn", "that", "I", "could", "have", "gotten", "a", "much", "better", "deal", "by", "just", "purchasing", "online", "."], "e1_text": "return", "e1_pos": 2, "e2_text": "learn", "e2_pos": 7, "label": "after"}
+]

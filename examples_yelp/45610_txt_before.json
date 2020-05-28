@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "that", "I", "'ve", "been", ",", "I", "know", "with", "absolute", "certainty", "that", "it", "wo", "n't", "be", "long", "before", "I", "go", "back", "."], "e1_text": "be", "e1_pos": 15, "e2_text": "go", "e2_pos": 19, "label": "before"},
+{"tokens": ["Though", ",", "if", "we", "were", "n't", "able", "to", "land", "such", "primo", "parking", ",", "I", "'m", "not", "sure", "how", "far", "we", "would", "have", "had", "to", "venture", "before", "we", "found", "a", "spot", "."], "e1_text": "venture", "e1_pos": 24, "e2_text": "found", "e2_pos": 27, "label": "before"}
+]

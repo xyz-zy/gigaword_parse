@@ -1,0 +1,4 @@
+[
+{"tokens": ["Her", "dropping", "the", "Fbomb", "and", "shouting", "at", "a", "waitress", "for", "not", "removing", "a", "cap", "of", "Perrier", "before", "bringing", "to", "the", "table", "was", "also", "loud", "and", "clear", "."], "e1_text": "removing", "e1_pos": 11, "e2_text": "bringing", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "would", "never", "want", "my", "Perrier", "uncapped", "before", "it", "arrives", "to", "my", "table", "."], "e1_text": "want", "e1_pos": 3, "e2_text": "arrives", "e2_pos": 9, "label": "before"}
+]

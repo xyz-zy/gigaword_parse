@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "wife", "ordered", "a", "flat", "noodle", "meal", "instead", "of", "the", "soup", "since", "she", "'s", "had", "it", "before", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "'s", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "was", "n't", "really", "amazed", "that", "it", "tasted", "good", ",", "but", "that", "it", "tasted", "SO", "good", "AND", "I", "'d", "never", "had", "it", "before", "."], "e1_text": "tasted", "e1_pos": 7, "e2_text": "'d", "e2_pos": 18, "label": "before"}
+]

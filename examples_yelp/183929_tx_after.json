@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "me", "10", "minutes", "to", "find", "what", "I", "wanted", "to", "eat", "and", "that", "also", "after", "scanning", "through", "only", "half", "the", "menu", "-", "maybe", "that", "is", "why", "the", "service", "is", "so", "slow", "-", "they", "like", "to", "give", "you", "time", "to", "go", "through", "the", "entire", "menu", ":-RRB-", "Sourdough", "bread", "is", "complimentary", ",", "however", "it", "was", "hard", "and", "dry", "and", "not", "comparable", "to", "nice", "warm", "bread", "."], "e1_text": "find", "e1_pos": 6, "e2_text": "scanning", "e2_pos": 16, "label": "after"},
+{"tokens": ["We", "waited", "another", "15", "minutes", "after", "finishing", "to", "get", "our", "check", "before", "walking", "out", "satiated", "though", "not", "thoroughly", "happy", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 6, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "it", "dry", ",", "which", "comes", "with", "a", "side", "bowl", "of", "soup", "broth", "to", "pour", "over", "the", "ingredients", "after", "mixing", "."], "e1_text": "pour", "e1_pos": 15, "e2_text": "mixing", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "attended", "again", "after", "getting", "a", "gift", "card", "from", "the", "manager", "after", "my", "previous", "review", "and", "situation", "."], "e1_text": "attended", "e1_pos": 1, "e2_text": "getting", "e2_pos": 4, "label": "after"},
+{"tokens": ["He", "was", "a", "bit", "confused", "on", "the", "menu", "though", "after", "being", "gone", "for", "several", "days", ",", "we", "put", "in", "an", "order", "but", "then", "came", "back", "to", "tell", "us", "that", "it", "was", "no", "longer", "the", "special", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 10, "label": "after"}
+]

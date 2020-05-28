@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "in", "on", "a", "Friday", "night", "with", "a", "group", "of", "5", "after", "seeing", "an", "advertised", "special", "of", "14.99", "all", "you", "can", "eat", "sushi", "."], "e1_text": "Went", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 12, "label": "after"},
+{"tokens": ["After", "being", "seated", ",", "we", "sat", "for", "another", "10", "minutes", "after", "our", "waitress", "disappeared", ",", "without", "any", "notice", "or", "even", "leaving", "of", "any", "menus", "at", "all", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "disappeared", "e2_pos": 13, "label": "after"}
+]

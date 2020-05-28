@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "recieving", "my", "dress", "over", "20", "days", "after", "it", "was", "supposed", "to", "ship", "."], "e1_text": "recieving", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["Of", "course", "this", "was", "after", "I", "was", "lied", "to", "for", "over", "a", "week", "by", "her", "employees", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "was", "e2_pos": 3, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "water", "temps", "were", "not", "to", "our", "liking", "-LRB-", "after", "we", "asked", "for", "it", "to", "be", "adjusted", "-RRB-", "."], "e1_text": "were", "e1_pos": 3, "e2_text": "asked", "e2_pos": 11, "label": "after"}
+]

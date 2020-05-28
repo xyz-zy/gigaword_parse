@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "got", "all", "of", "his", "food", "before", "any", "of", "mine", "came", "out", "-LRB-", "even", "though", "I", "had", "sashimi", "and", "he", "had", "sushi", "-RRB-", "."], "e1_text": "got", "e1_pos": 2, "e2_text": "came", "e2_pos": 11, "label": "before"}
+]

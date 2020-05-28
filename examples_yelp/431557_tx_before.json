@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "turned", "out", "that", "the", "test", "was", "going", "to", "cost", "@", "$", "230", "up", "front", ",", "which", "surprised", "me", "as", "I", "have", "never", "paid", "anything", "up", "front", "before", "besides", "a", "small", "co-pay", "."], "e1_text": "cost", "e1_pos": 9, "e2_text": "have", "e2_pos": 21, "label": "before"}
+]

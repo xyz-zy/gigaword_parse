@@ -1,0 +1,3 @@
+[
+{"tokens": ["In", "good", "company", "and", "enjoying", "a", "bottle", "of", "''", "``", "house", "''", "''", "Cabernet", ",", "we", "were", "more", "than", "halfway", "through", "before", "we", "noticed", "everyone", "else", "being", "served", "before", "us", "."], "e1_text": "were", "e1_pos": 16, "e2_text": "noticed", "e2_pos": 23, "label": "before"}
+]

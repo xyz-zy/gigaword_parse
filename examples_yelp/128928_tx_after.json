@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "they", "did", "make", "us", "happy", "after", "complaining", "."], "e1_text": "make", "e1_pos": 3, "e2_text": "complaining", "e2_pos": 7, "label": "after"},
+{"tokens": ["If", "the", "other", "casinos", "had", "a", "smell", "it", "was", "n't", "noticeable", "after", "being", "in", "Harrah", "'s", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

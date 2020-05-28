@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "She", "was", "n't", "an", "issue", "the", "first", "2", "week", "stay", "-RRB-", "Karen", "told", "me", "a", "new", "dog", "-LRB-", "Pitbull", "-RRB-", "was", "allowed", "in", "even", "after", "her", "own", "dog", "circled", "the", "Pit", "-LRB-", "meaning", "it", "alerted", "her", "there", "might", "be", "an", "issue", "-RRB-", "."], "e1_text": "allowed", "e1_pos": 22, "e2_text": "circled", "e2_pos": 29, "label": "after"}
+]

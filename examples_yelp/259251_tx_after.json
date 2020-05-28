@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "returned", "and", "completed", "the", "orders", "after", "calling", "her", "manager", "asking", "how", "to", "input", "the", "discount", "-LRB-", "probably", "waking", "the", "manager", "up", ",", "but", "good", "for", "them", "if", "they", "do", "n't", "train", "their", "employees", "properly", "-RRB-", "."], "e1_text": "completed", "e1_pos": 3, "e2_text": "calling", "e2_pos": 7, "label": "after"}
+]

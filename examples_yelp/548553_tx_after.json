@@ -1,0 +1,4 @@
+[
+{"tokens": ["With", "a", "child", "and", "another", "one", "on", "the", "way", ",", "I", "was", "too", "busy", "to", "do", "basic", "landscaping", "of", "the", "front", "and", "back", "yard", "of", "my", "home", ",", "after", "a", "long", "term", "landscaper", "moved", "out", "of", "the", "area", "."], "e1_text": "do", "e1_pos": 15, "e2_text": "moved", "e2_pos": 33, "label": "after"},
+{"tokens": ["We", "paid", "him", "$", "100", "to", "fix", "a", "leak", "in", "the", "backyard", ",", "which", "was", "never", "fixed", "and", "we", "never", "got", "our", "money", "back", "after", "multiple", "attempts", "of", "trying", "to", "reach", "him", "."], "e1_text": "got", "e1_pos": 20, "e2_text": "trying", "e2_pos": 28, "label": "after"}
+]

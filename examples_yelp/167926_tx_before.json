@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "really", "good", ",", "the", "kind", "of", "good", "where", "the", "waitress", "was", "bringing", "me", "a", "new", "iced", "tea", "before", "I", "even", "finished", "the", "current", "glass", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "finished", "e2_pos": 23, "label": "before"}
+]

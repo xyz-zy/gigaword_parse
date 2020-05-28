@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "know", "for", "a", "fact", "that", "if", "your", "pizza", "and", "order", "from", "Pizza", "Hut", "shows", "up", "5", "minutes", "after", "it", "promised", "time", "it", "is", "free", "."], "e1_text": "shows", "e1_pos": 14, "e2_text": "promised", "e2_pos": 20, "label": "after"}
+]

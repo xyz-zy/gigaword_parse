@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "only", "complaint", ":", "Their", "call", "center", "was", "calling", "me", "SEVERAL", "times", "a", "day", "for", "a", "few", "days", "after", "I", "canceled", "my", "tentative", "appointment", "to", "come", "back", "."], "e1_text": "calling", "e1_pos": 8, "e2_text": "canceled", "e2_pos": 20, "label": "after"},
+{"tokens": ["I", "thought", "it", "would", "stop", "after", "I", "did", "n't", "answer", "a", "few", "times", "."], "e1_text": "stop", "e1_pos": 4, "e2_text": "did", "e2_pos": 7, "label": "after"}
+]

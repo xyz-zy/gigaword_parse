@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "hate", "to", "give", "a", "bad", "review", "but", "I", "was", "so", "pissed", "off", "after", "leaving", "this", "place", "I", "just", "want", "to", "warn", "anyone", "who", "will", "listen", "."], "e1_text": "pissed", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "filed", "my", "nails", "down", "to", "the", "point", "where", "hey", "started", "to", "hurt", "and", "whenever", "I", "would", "say", "ouch", ",", "he", "would", "stop", "and", "look", "at", "me", "like", "I", "was", "crazy", "...", "To", "top", "it", "off", "after", "hurting", "me", "repeatidly", "my", "nails", "were", "terrible", "."], "e1_text": "top", "e1_pos": 33, "e2_text": "hurting", "e2_pos": 37, "label": "after"}
+]

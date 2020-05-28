@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "of", "the", "employees", "at", "my", "work", "depend", "on", "JJ", "'s", "for", "a", "quick", "and", "tasty", "meal", "...", "and", "when", "I", "say", "quick", ",", "I", "mean", "that", "they", "literally", "deliver", "about", "10", "minutes", "after", "ordering", "!"], "e1_text": "deliver", "e1_pos": 29, "e2_text": "ordering", "e2_pos": 34, "label": "after"}
+]

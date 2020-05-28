@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "make", "sure", "I", "try", "a", "slice", "before", "I", "get", "home", "because", "a", "15-20", "minute", "drive", "can", "do", "terrible", "things", "to", "a", "pizza", "and", "I", "want", "an", "honest", "''", "``", "out", "of", "the", "oven", "''", "''", "opinion", "."], "e1_text": "try", "e1_pos": 5, "e2_text": "get", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "'ve", "worked", "in", "a", "pizza", "shop", "before", "so", "I", "know", "pizza", "does", "n't", "have", "to", "cost", "that", "much", "."], "e1_text": "worked", "e1_pos": 2, "e2_text": "know", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "seen", "many", "shows", "in", "Vegas", "and", "elsewhere", "...", "I", "do", "n't", "know", "what", "these", "people", "are", "smoking", "before", "the", "show", "that", "makes", "them", "think", "this", "show", "is", "good", "because", "I", "thought", "it", "was", "terrible", "."], "e1_text": "smoking", "e1_pos": 18, "e2_text": "makes", "e2_pos": 23, "label": "before"},
+{"tokens": ["Several", "people", "-LRB-", "around", "10", "-RRB-", "left", "before", "the", "show", "was", "over", "-", "I", "do", "n't", "blame", "them", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

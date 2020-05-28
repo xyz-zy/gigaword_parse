@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "being", "presented", "the", "ticket", ",", "the", "woman", "in", "front", ",", "as", "well", "as", "the", "ticket", ",", "very", "clearly", "stated", "that", "we", "were", "to", "come", "back", "at", "that", "specific", "time", "after", "receiving", "the", "text", "message", "to", "be", "seated", "."], "e1_text": "were", "e1_pos": 22, "e2_text": "receiving", "e2_pos": 31, "label": "after"}
+]

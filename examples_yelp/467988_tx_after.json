@@ -1,0 +1,3 @@
+[
+{"tokens": ["there", "was", "some", "live", "music", ",", "but", "this", "ended", "shortly", "after", "we", "arrived", "."], "e1_text": "ended", "e1_pos": 8, "e2_text": "arrived", "e2_pos": 12, "label": "after"}
+]

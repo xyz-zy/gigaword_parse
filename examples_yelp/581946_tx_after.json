@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stood", "there", "a", "good", "3", "minutes", "before", "someone", "finally", "meandered", "over", ",", "after", "placing", "my", "order", "I", "stood", "and", "waited", ",", "there", "was", "no", "one", "cooking", "anything", ",", "and", "now", "a", "few", "others", "placed", "orders", "after", "me", ",", "still", "no", "one", "manning", "the", "wok", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "placing", "e2_pos": 14, "label": "after"}
+]

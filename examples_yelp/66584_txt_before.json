@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "where", "my", "memory", "gets", "fuzzy", "and", "eventually", "it", "just", "goes", "dark", ",", "but", "before", "I", "forget", "who", "I", "am", "I", "decide", "it", "'d", "be", "fun", "to", "call", "home", "and", "tell", "my", "dear", "old", "dad", "who", "I", "ran", "into", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "forget", "e2_pos": 17, "label": "before"},
+{"tokens": ["So", ",", "apparently", "I", "was", "completely", "gone", "like", "I", "'d", "never", "been", "before", "."], "e1_text": "gone", "e1_pos": 6, "e2_text": "'d", "e2_pos": 9, "label": "before"}
+]

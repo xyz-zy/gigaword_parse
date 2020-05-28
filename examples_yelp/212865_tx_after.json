@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "this", "point", "we", "'ve", "downgraded", "the", "score", "to", "3", "stars", "because", "our", "second", "course", "came", "out", "AN", "HOUR", "after", "our", "first", "course", "was", "served", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "was", "e2_pos": 23, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "distinguishing", "factor", "today", "is", "the", "once-common", "coal-fired", "brick", "oven", "running", "about", "900", "degrees", "that", "'s", "capable", "of", "charring", "the", "crust", "before", "it", "browns", "the", "cheese", "."], "e1_text": "charring", "e1_pos": 18, "e2_text": "browns", "e2_pos": 23, "label": "before"},
+{"tokens": ["They", "do", "n't", "have", "a", "line", "out", "the", "door", "yet", ",", "so", "check", "it", "out", "before", "the", "word", "spreads", "."], "e1_text": "check", "e1_pos": 12, "e2_text": "spreads", "e2_pos": 18, "label": "before"}
+]

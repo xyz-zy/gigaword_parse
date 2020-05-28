@@ -1,0 +1,3 @@
+[
+{"tokens": ["Even", "with", "an", "appointment", "u", "are", "still", "waiting", "at", "least", "30", "min", "to", "an", "hour", "before", "the", "doctor", "sees", "u.", "So", "what", "'s", "the", "point", "of", "an", "appointment", "then", "?"], "e1_text": "waiting", "e1_pos": 7, "e2_text": "sees", "e2_pos": 18, "label": "before"}
+]

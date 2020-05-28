@@ -1,0 +1,4 @@
+[
+{"tokens": ["True", "walking", "distance", ",", "you", "dont", "have", "to", "fight", "traffic", "to", "park", "in", "a", "garage", "to", "walk", "10", "min", "before", "getting", "to", "the", "casino", "."], "e1_text": "walk", "e1_pos": 16, "e2_text": "getting", "e2_pos": 20, "label": "before"},
+{"tokens": ["Valet", "was", "free", "and", "self", "parking", "is", "free", "but", "you", "need", "to", "get", "validation", "before", "leaving", "the", "hotel", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 15, "label": "before"}
+]

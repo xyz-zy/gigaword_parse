@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "you", "need", "to", "show", "a", "room", "key", "before", "you", "get", "to", "the", "room", "elevators", "which", "is", "a", "great", "idea", "!!", "We", "probably", "would", "n't", "stay", "here", "again", "just", "because", "it", "gets", "too", "crowded", "."], "e1_text": "show", "e1_pos": 5, "e2_text": "get", "e2_pos": 11, "label": "before"}
+]

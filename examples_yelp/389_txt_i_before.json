@@ -1,0 +1,4 @@
+[
+{"tokens": ["Best", "of", "all", ",", "when", "I", "asked", "if", "they", "could", "ship", "the", "suits", "to", "me", "at", "my", "house", "since", "I", "no", "longer", "live", "in", "Pittsburgh", ",", "they", "asked", "when", "I", "was", "leaving", "town", "and", "promised", "they", "would", "get", "it", "done", "for", "me", "before", "I", "left", "the", "next", "day", "."], "e1_text": "get", "e1_pos": 37, "e2_text": "left", "e2_pos": 44, "label": "before"},
+{"tokens": ["Better", "yet", ",", "they", "had", "the", "suit", "ready", "for", "me", "early", ",", "avoiding", "the", "rush", "for", "me", "to", "pick", "it", "up", "before", "I", "left", "."], "e1_text": "pick", "e1_pos": 18, "e2_text": "left", "e2_pos": 23, "label": "before"}
+]

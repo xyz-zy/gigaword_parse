@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "first", "said", "I", "returned", "the", "car", "late", "and", "then", "after", "I", "explained", "the", "situation", "and", "offered", "to", "send", "the", "photo", "I", "took", "that", "demonstrates", "the", "clock", "discrepancy", ",", "they", "gave", "me", "a", "`", "one-time", "courtesy", "'", "and", "I", "'m", "now", "~", "75", "dollars", "richer", "."], "e1_text": "returned", "e1_pos": 4, "e2_text": "explained", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "was", "one", "of", "the", "many", "places", "to", "try", "on", "my", "list", "when", "in", "Vegas", "and", "after", "leaving", "here", ",", "I", "was", "in", "the", "biggest", "sugar", "coma", "I", "'ve", "ever", "been", "in", "."], "e1_text": "try", "e1_pos": 9, "e2_text": "leaving", "e2_pos": 18, "label": "after"},
+{"tokens": ["Too", "overwhelmed", "by", "the", "sugar", "overload", ",", "I", "did", "n't", "even", "notice", "it", "when", "I", "left", "my", "atm", "card", "behind", "after", "paying", "for", "our", "desserts", "."], "e1_text": "left", "e1_pos": 15, "e2_text": "paying", "e2_pos": 21, "label": "after"}
+]

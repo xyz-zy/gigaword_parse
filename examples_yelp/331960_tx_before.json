@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "heard", "soooo", "much", "about", "this", "place", ",", "so", "I", "was", "super", "amped", "and", "brought", "a", "friend", "with", "me", "before", "we", "headed", "off", "to", "a", "party", "."], "e1_text": "heard", "e1_pos": 2, "e2_text": "headed", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "chicken", "tikka", "was", "dry", "and", "tasted", "like", "it", "was", "frozen", "for", "years", "before", "coming", "out", "of", "hiding", "."], "e1_text": "frozen", "e1_pos": 10, "e2_text": "coming", "e2_pos": 14, "label": "before"}
+]

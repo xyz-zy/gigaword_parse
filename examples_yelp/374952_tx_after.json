@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "that", ",", "we", "did", "n't", "get", "the", "bed", "when", "we", "got", "into", "our", "room", "after", "we", "checked", "in", ",", "we", "got", "it", "after", "midnight", "after", "3", "follow", "up", "calls", "and", "10", "minutes", "spent", "on", "hold", "for", "each", "call", "!"], "e1_text": "got", "e1_pos": 12, "e2_text": "checked", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "wait", "outside", "the", "door", "for", "for", "a", "bit", ",", "before", "I", "was", "allowed", "in", ",", "because", "they", "are", "afraid", "the", "cats", "might", "escape", ",", "then", "I", "was", "stopped", "and", "told", "to", "disinfect", "my", "hands", "with", "the", "Purell", "by", "the", "door", ",", "before", "entering", "a", "very", "narrow", "''", "``", "lounge", "''", "''", "area", "where", "the", "-LRB-", "3", "-RRB-", "cats", "are", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "ordered", "an", "iced", "tea", ",", "-LRB-", "regular", "size", "-RRB-", "at", "a", "whopping", "$", "4.54", "-LRB-", "with", "tax", "-RRB-", ",", "then", "had", "to", "wait", "an", "eternity", "before", "it", "was", "finally", "delivered", "to", "my", "table", "."], "e1_text": "wait", "e1_pos": 23, "e2_text": "was", "e2_pos": 28, "label": "before"}
+]

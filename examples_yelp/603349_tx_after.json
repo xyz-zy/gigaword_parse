@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "three", "tacos", "all", "without", "cheese", "and", "in", "lettuce", "wraps", "rather", "than", "tortillas", "after", "explaining", "my", "food", "allergies", "to", "the", "waitress", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "explaining", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "gave", "her", "our", "card", "and", "she", "came", "back", "with", "the", "check", "but", "not", "after", "she", "seemed", "completely", "inconvenienced", "by", "us", "asking", "her", "to", "box", "our", "left", "overs", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "seemed", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "had", "to", "waive", "her", "down", "from", "another", "table", "and", "she", "ran", "off", "to", "fix", "it", "but", "apparently", "was", "unable", "to", "reverse", "the", "charge", "so", "after", "5", "minutes", "of", "waiting", "at", "the", "table", "she", "gave", "us", "$", "10", "in", "cash", "."], "e1_text": "reverse", "e1_pos": 21, "e2_text": "waiting", "e2_pos": 29, "label": "after"}
+]

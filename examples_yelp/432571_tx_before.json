@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wish", "I", "had", "read", "the", "reviews", "before", "I", "moved", "here", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "moved", "e2_pos": 9, "label": "before"},
+{"tokens": ["Wasps", "fly", "into", "my", "apartment", "It", "'s", "scary", "They", "do", "have", "a", "cool", "media", "center", "that", "my", "kids", "like", "and", "Greg", "in", "the", "office", "is", "a", "sweet", "guy", ",", "but", "other", "than", "that", "I", "do", "n't", "have", "anything", "nice", "to", "say", "about", "this", "place", "and", "you", "should", "heed", "the", "reviews", "and", "think", "twice", "before", "moving", "here", "."], "e1_text": "think", "e1_pos": 51, "e2_text": "moving", "e2_pos": 54, "label": "before"}
+]

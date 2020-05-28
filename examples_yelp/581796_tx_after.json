@@ -1,0 +1,3 @@
+[
+{"tokens": ["would", "like", "to", "write", "a", "review", "as", "was", "looking", "forward", "to", "eating", "at", "Mamas", ",", "but", "after", "driving", "over", "an", "hour", "from", "the", "`", "east", "side", "'", "to", "get", "there", "found", "the", "doors", "were", "locked", "."], "e1_text": "looking", "e1_pos": 8, "e2_text": "driving", "e2_pos": 17, "label": "after"}
+]

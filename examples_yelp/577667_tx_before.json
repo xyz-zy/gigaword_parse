@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "Dukes", "of", "Air", "come", "out", "because", "while", "it", "'s", "new", ",", "the", "house", "had", "sat", "vacant", "for", "a", "year", "before", "we", "bought", "it", ",", "and", "we", "had", "no", "idea", "what", "dust", "or", "debris", "could", "be", "inside", "the", "unit", "from", "sitting", "so", "long", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "bought", "e2_pos": 23, "label": "before"}
+]

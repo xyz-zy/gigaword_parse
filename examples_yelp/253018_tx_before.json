@@ -1,0 +1,4 @@
+[
+{"tokens": ["These", "guys", "have", "unrealistic", "terms", "and", "expect", "you", "to", "fork", "over", "money", "to", "them", "before", "they", "even", "contact", "you", "in", "writing", "."], "e1_text": "fork", "e1_pos": 9, "e2_text": "contact", "e2_pos": 17, "label": "before"},
+{"tokens": ["Just", "think", "twice", "before", "dealing", "with", "them", "."], "e1_text": "think", "e1_pos": 1, "e2_text": "dealing", "e2_pos": 4, "label": "before"}
+]

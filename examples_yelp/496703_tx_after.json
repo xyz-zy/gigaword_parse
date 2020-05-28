@@ -1,0 +1,4 @@
+[
+{"tokens": ["Impossible", "to", "get", "my", "coffee", "right", "even", "after", "returning", "over", "and", "over", "."], "e1_text": "get", "e1_pos": 2, "e2_text": "returning", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "used", "to", "work", "on", "the", "property", "so", "I", "would", "come", "in", "often", "and", "even", "after", "a", "pricey", "coffee", "that", "included", "a", "discount", "it", "still", "would", "not", "live", "up", "to", "Wynn", "'s", "standards", "."], "e1_text": "come", "e1_pos": 10, "e2_text": "included", "e2_pos": 20, "label": "after"}
+]

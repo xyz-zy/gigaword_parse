@@ -1,0 +1,5 @@
+[
+{"tokens": ["But", "we", "just", "sat", "there", "for", "about", "10", "minutes", "before", "we", "were", "even", "acknowledged", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["In", "fact", "a", "few", "minutes", "after", "we", "sat", "down", "a", "couple", "arrived", "and", "sat", "themselves", "and", "were", "served", "before", "us", "-LRB-", "although", "they", "still", "had", "to", "wait", "a", "bit", "-RRB-", "."], "e1_text": "served", "e1_pos": 17, "e2_text": "had", "e2_pos": 24, "label": "before"},
+{"tokens": ["The", "young", "waiter\\/busboy", "that", "brought", "out", "the", "food", "must", "have", "been", "extremely", "high", "because", "he", "tried", "to", "serve", "two", "orders", "from", "different", "tables", "to", "every", "table", "in", "the", "restaurant", "-LRB-", "included", "one", "that", "already", "had", "food", "-RRB-", "before", "he", "asked", "us", "what", "we", "ordered", "and", "figured", "it", "out", "."], "e1_text": "serve", "e1_pos": 17, "e2_text": "asked", "e2_pos": 39, "label": "before"}
+]

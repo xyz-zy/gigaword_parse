@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "husband", "and", "I", "arrived", "at", "the", "hotel", "after", "deciding", "to", "walk", "from", "the", "train", "station", "-LRB-", "not", "so", "wise", "when", "you", "'re", "pulling", "suitcases", "over", "cobblestone", "in", "the", "damp", "dark", "-RRB-", ",", "to", "discover", "that", "there", "were", "stairs", "at", "the", "entrance", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "deciding", "e2_pos": 9, "label": "after"}
+]

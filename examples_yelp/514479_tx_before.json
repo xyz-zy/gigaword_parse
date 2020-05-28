@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "order", "was", "placed", "several", "hours", "before", "pick", "up", ",", "and", "consisted", "of", "one", "gluten", "free", "veggie", "pizza", ",", "and", "one", "traditional", "veggie", "pizza", ",", "for", "my", "niece", "."], "e1_text": "placed", "e1_pos": 3, "e2_text": "pick", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "took", "my", "phone", "out", "of", "my", "purse", ",", "and", "realized", "they", "called", "me", "4", "minutes", "before", "I", "was", "supposed", "to", "pick", "up", "my", "order", "."], "e1_text": "called", "e1_pos": 12, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

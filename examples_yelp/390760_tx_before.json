@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "receiving", "West", "Elm", "catalogs", "since", "well", "before", "there", "was", "an", "actual", "retail", "location", "here", "in", "AZ", ",", "and", "I", "absolutely", "love", "the", "style", "and", "beauty", "of", "many", "of", "their", "items", "."], "e1_text": "receiving", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "mentioned", "that", "I", "did", "n't", "know", "her", "name", ",", "but", "referenced", "the", "rude", "behavior", "of", "the", "employee", "who", "was", "back", "by", "the", "frames", "and", "he", "sarcastically", "said", "''", "``", "oh", ",", "the", "rude", "one", ",", "well", "that", "narrows", "it", "down", "for", "me", "''", "''", "before", "continuing", "to", "check", "me", "out", "."], "e1_text": "said", "e1_pos": 27, "e2_text": "continuing", "e2_pos": 46, "label": "before"}
+]

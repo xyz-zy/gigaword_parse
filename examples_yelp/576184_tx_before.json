@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "To", "be", "fair", ",", "I", "'ve", "since", "heard", "that", "there", "'s", "an", "ATM", "on-site", "...", "but", "if", "you", "want", "to", "avoid", "ATM", "surcharges", ",", "I", "'d", "suggest", "stopping", "at", "your", "bank", "'s", "ATM", "before", "you", "arrive", "-RRB-", "."], "e1_text": "suggest", "e1_pos": 27, "e2_text": "arrive", "e2_pos": 36, "label": "before"}
+]

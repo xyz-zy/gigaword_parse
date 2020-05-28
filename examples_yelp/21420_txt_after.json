@@ -1,0 +1,3 @@
+[
+{"tokens": ["Called", "my", "order", "in", "20min", "ahead", "and", "had", "to", "wait", "another", "30min", "after", "I", "got", "there", "till", "my", "fries", "and", "pita", "were", "ready", "and", "there", "was", "no", "one", "else", "in", "the", "restaurant", "not", "a", "single", "person", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "got", "e2_pos": 14, "label": "after"}
+]

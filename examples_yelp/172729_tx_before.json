@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "last", "trip", "was", "kinda", "special", "for", "me", ",", "as", "I", "brought", "someone", "who", "had", "never", "been", "to", "Vegas", "before", "and", "really", "wanted", "to", "show", "them", "the", "Vegas", "that", "a", "lot", "of", "people", "do", "n't", "get", "to", "see", "."], "e1_text": "brought", "e1_pos": 11, "e2_text": "had", "e2_pos": 14, "label": "before"},
+{"tokens": ["Having", "already", "told", "them", "that", "this", "was", "all", "time", "favorite", "restaurant", ",", "I", "made", "reservations", "before", "I", "left", "home", "."], "e1_text": "made", "e1_pos": 13, "e2_text": "left", "e2_pos": 17, "label": "before"}
+]

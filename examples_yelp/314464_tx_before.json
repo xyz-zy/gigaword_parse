@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "breakfast", "food", "served", "when", "I", "ordered", "the", "scrambled", "eggs", "combo", "was", "probably", "scooped", "out", "of", "a", "buffet", "style", "bin", "dropped", "here", "several", "hours", "-LRB-", "or", "even", "the", "day", "before", "-RRB-", "earlier", "."], "e1_text": "scooped", "e1_pos": 13, "e2_text": "dropped", "e2_pos": 20, "label": "before"}
+]

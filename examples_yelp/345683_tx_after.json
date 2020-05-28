@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "only", "complaint", "is", "that", "the", "food", "can", "sometimes", "take", "a", "long", "time", "to", "come", "out", ",", "and", "on", "three", "separate", "occasions", "I", "'ve", "ordered", "carnitas", "and", "the", "tortillas", "took", "an", "additional", "10", "minutes", "to", "come", "to", "my", "table", "after", "the", "food", "arrived", "."], "e1_text": "come", "e1_pos": 14, "e2_text": "arrived", "e2_pos": 42, "label": "after"}
+]

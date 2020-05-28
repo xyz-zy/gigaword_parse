@@ -1,0 +1,4 @@
+[
+{"tokens": ["Using", "another", "dentist", "office", "as", "a", "reference", ",", "I", "went", "in", "for", "another", "exam", "after", "seeing", "the", "dental", "connection", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "seeing", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "dentist", "was", "shocked", "after", "he", "examined", "me", "to", "hear", "5", "fillings", "had", "been", "prescribed", "by", "the", "dental", "connection", "."], "e1_text": "shocked", "e1_pos": 3, "e2_text": "examined", "e2_pos": 6, "label": "after"}
+]

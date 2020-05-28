@@ -1,0 +1,4 @@
+[
+{"tokens": ["Once", "I", "sat", "down", "I", "let", "the", "waitress", "know", "I", "had", "the", "Restaurant.com", "gift", "card", "and", "she", "made", "sure", "I", "knew", "I", "had", "to", "spend", "at", "least", "$", "30", "to", "use", "it", "and", "I", "told", "her", "I", "knew", "that", "and", "would", "be", "ordering", "food", "to", "go", "for", "some", "friends", "after", "I", "ate", "my", "lunch", "and", "she", "said", "that", "would", "be", "fine", "."], "e1_text": "go", "e1_pos": 45, "e2_text": "ate", "e2_pos": 51, "label": "after"},
+{"tokens": ["I", "honestly", "do", "n't", "know", "how", "this", "place", "is", "ever", "busy", "based", "on", "my", "experience", "and", "apparently", "many", "others", "like", "me", "after", "reading", "through", "several", "other", "posts", "."], "e1_text": "like", "e1_pos": 19, "e2_text": "reading", "e2_pos": 22, "label": "after"}
+]

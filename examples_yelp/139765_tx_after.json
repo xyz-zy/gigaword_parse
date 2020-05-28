@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "only", "that", ",", "but", "I", "watched", "one", "of", "the", "females", "walk", "over", "to", "box", "a", "pizza", "without", "gloves", "after", "handling", "her", "sandwich", "."], "e1_text": "box", "e1_pos": 14, "e2_text": "handling", "e2_pos": 20, "label": "after"}
+]

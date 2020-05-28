@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "low", "lighting", "adds", "a", "nice", "ambience", ",", "which", "is", "necessary", "after", "having", "to", "walk", "through", "the", "Hard", "Rock", "Casino", "to", "get", "there", "."], "e1_text": "is", "e1_pos": 9, "e2_text": "having", "e2_pos": 12, "label": "after"},
+{"tokens": ["Let", "'s", "just", "say", "that", "I", "wo", "n't", "ever", "be", "staying", "in", "the", "Hard", "Rock", "Hotel", "after", "checking", "the", "patrons", "who", "frequent", "the", "public", "areas", "."], "e1_text": "staying", "e1_pos": 10, "e2_text": "checking", "e2_pos": 17, "label": "after"}
+]

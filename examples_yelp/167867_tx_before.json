@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "a", "6:30", "reservation", "yesterday", "but", "were", "told", "it", "was", "first", "come", "first", "served", "for", "the", "patio", ",", "waited", "1:15", "before", "we", "were", "seated", ",", "the", "bar", "area", "was", "so", "small", "and", "jamb", "packed", "it", "was", "impossible", "even", "to", "have", "a", "drink", "."], "e1_text": "waited", "e1_pos": 18, "e2_text": "were", "e2_pos": 6, "label": "before"}
+]

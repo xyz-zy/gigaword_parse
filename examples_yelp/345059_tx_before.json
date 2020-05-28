@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "young", "man", "at", "the", "''", "``", "bar", "''", "''", "took", "notice", "when", "I", "pushed", "it", "away", "but", "before", "doing", "that", "I", "broke", "up", "the", "pieces", "so", "they", "could", "n't", "reuse", "it", "."], "e1_text": "pushed", "e1_pos": 14, "e2_text": "doing", "e2_pos": 19, "label": "before"}
+]

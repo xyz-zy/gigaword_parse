@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "decided", "to", "order", "right", "away", "after", "waiting", "30", "minutes", "with", "nothing", "yet", "accomplished", "."], "e1_text": "order", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 8, "label": "after"},
+{"tokens": ["Not", "to", "metion", "we", "ordered", "my", "niece", "her", "food", "off", "the", "kids", "menu", "and", "asked", "if", "we", "could", "have", "her", "milk", "after", "she", "ate", "because", "then", "she", "wo", "n't", "eat", "."], "e1_text": "have", "e1_pos": 18, "e2_text": "ate", "e2_pos": 23, "label": "after"}
+]

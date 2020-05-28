@@ -1,0 +1,4 @@
+[
+{"tokens": ["Only", "to", "find", "out", ",", "they", "both", "went", "the", "same", "way", "after", "you", "passed", "the", "stupid", "gate", "."], "e1_text": "went", "e1_pos": 7, "e2_text": "passed", "e2_pos": 13, "label": "after"},
+{"tokens": ["Also", ",", "do", "n't", "get", "in", "after", "eating", "a", "big", "meal", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

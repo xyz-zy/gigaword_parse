@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "started", "this", "school", "because", "I", "was", "interested", "in", "cosmetology", ",", "after", "attending", "the", "school", "for", "260", "hours-out", "of", "1800", "course", ",", "I", "decided", "260", "hours", "was", "enough", ",", "cosmetology", "is", "not", "for", "me", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "attending", "e2_pos": 12, "label": "after"}
+]

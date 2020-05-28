@@ -1,0 +1,3 @@
+[
+{"tokens": [":--RRB-", "We", "were", "seated", "promptly", "-LRB-", "we", "opted", "for", "the", "bar", "area", "for", "some", "reason", "...", "we", "were", "n't", "going", "to", "drink", "before", "going", "back", "to", "work", "!", "-RRB-", "."], "e1_text": "drink", "e1_pos": 21, "e2_text": "going", "e2_pos": 19, "label": "before"}
+]

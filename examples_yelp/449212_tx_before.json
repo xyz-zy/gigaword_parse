@@ -1,0 +1,3 @@
+[
+{"tokens": ["Twice", "they", "did", "n't", "vacuum", "the", "car", ",", "twice", "I", "had", "to", "have", "them", "clean", "the", "window", "with", "the", "markings", "before", "I", "drove", "off", "...", "and", "with", "the", "markings", "still", "there", "you", "'d", "think", "they", "'d", "know", "that", "I", "paid", "extra", "to", "get", "the", "scent", "and", "they", "did", "n't", "do", "it", "."], "e1_text": "had", "e1_pos": 10, "e2_text": "drove", "e2_pos": 22, "label": "before"}
+]

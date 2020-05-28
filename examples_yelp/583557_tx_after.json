@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "soy", "milk", "to", "go", "with", "the", "crullers", "but", "it", "never", "came", "after", "we", "finished", "ALL", "our", "foods", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "finished", "e2_pos": 15, "label": "after"}
+]

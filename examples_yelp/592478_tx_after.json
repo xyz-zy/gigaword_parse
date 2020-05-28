@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "an", "Americano", "again", "-", "and", "it", "only", "became", "palatable", "after", "I", "watered", "it", "down", "heavily", "when", "I", "got", "back", "to", "the", "office", "."], "e1_text": "became", "e1_pos": 9, "e2_text": "watered", "e2_pos": 13, "label": "after"}
+]

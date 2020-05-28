@@ -1,0 +1,4 @@
+[
+{"tokens": ["Normally", "I", "would", "n't", "mind", ",", "but", "considering", "I", "have", "seen", "beef", "bones", "before", ",", "I", "know", "that", "THESE", "WERE", "NOT", "FROM", "A", "COW", "."], "e1_text": "considering", "e1_pos": 7, "e2_text": "have", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "tend", "to", "look", "over", "restaurant", "bills", "before", "paying", ",", "and", "in", "this", "case", ",", "I", "thought", "that", "one", "of", "the", "line", "items", "was", "more", "than", "was", "listed", "on", "the", "menu", "."], "e1_text": "look", "e1_pos": 3, "e2_text": "paying", "e2_pos": 8, "label": "before"}
+]

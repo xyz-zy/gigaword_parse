@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "on", "my", "lunch", "break", "and", "not", "once", "did", "the", "server", "come", "over", "to", "apologize", "as", "the", "restaurant", "filled", "up", "and", "other", "patrons", "came", "and", "left", "after", "already", "eating", "."], "e1_text": "came", "e1_pos": 24, "e2_text": "eating", "e2_pos": 29, "label": "after"},
+{"tokens": ["I", "was", "late", "getting", "back", "to", "my", "office", "due", "to", "coming", "in", "at", "11am", "and", "not", "able", "to", "leave", "until", "1230", "after", "shoveling", "the", "food", "in", "my", "mouth", "."], "e1_text": "getting", "e1_pos": 3, "e2_text": "shoveling", "e2_pos": 22, "label": "after"}
+]

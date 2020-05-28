@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "player", "left", "the", "table", "only", "to", "return", "right", "after", "she", "rotated", "tables", "."], "e1_text": "return", "e1_pos": 7, "e2_text": "rotated", "e2_pos": 11, "label": "after"}
+]

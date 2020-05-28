@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "had", "the", "popeye", "and", "said", "she", "never", "wants", "it", "again", "after", "the", "first", "night", "due", "to", "the", "horrible", "gas", "she", "got", "from", "it", "."], "e1_text": "wants", "e1_pos": 9, "e2_text": "got", "e2_pos": 22, "label": "after"}
+]

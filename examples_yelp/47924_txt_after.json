@@ -1,0 +1,3 @@
+[
+{"tokens": ["Clearly", "the", "plate", "had", "been", "sitting", "in", "queue", "for", "some", "time", "-LRB-", "I", "had", "a", "hunch", "since", "the", "folks", "who", "came", "in", "after", "us", ",", "a", "party", "of", "four", ",", "were", "served", "first", ",", "and", "attentively", "at", "that", "-RRB-", "."], "e1_text": "came", "e1_pos": 20, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

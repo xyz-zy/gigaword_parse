@@ -1,0 +1,3 @@
+[
+{"tokens": ["Night", "1", "check", "in", "was", "ok", "then", "drink", "in", "Lobby", "Bar", "arrive", "11:00", "pm", "I", "went", "to", "the", "bar", "for", "a", "night", "cap", "and", "ordered", "a", "beer", ",", "after", "a", "few", "sips", "I", "noticed", "my", "glass", "had", "a", "chipped", "razor", "edge", ",", "most", "likely", "from", "it", "hitting", "the", "tap", "."], "e1_text": "ok", "e1_pos": 5, "e2_text": "noticed", "e2_pos": 33, "label": "after"}
+]

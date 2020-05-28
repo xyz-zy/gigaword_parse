@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "staff", "is", "aware", "that", "many", "people", "will", "need", "to", "be", "done", "by", "a", "certain", "time", ",", "so", "they", "practically", "chase", "you", "out", "and", "give", "you", "the", "bill", "before", "you", "have", "time", "to", "ask", "for", "dessert", "."], "e1_text": "give", "e1_pos": 24, "e2_text": "have", "e2_pos": 30, "label": "before"}
+]

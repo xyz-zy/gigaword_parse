@@ -1,0 +1,3 @@
+[
+{"tokens": ["EDIT", ":", "Two", "women", "standing", "behind", "us", "decided", "after", "waiting", "for", "15", "min", "."], "e1_text": "decided", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

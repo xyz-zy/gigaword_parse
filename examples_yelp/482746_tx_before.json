@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", ",", "he", "considered", "it", "a", "great", "offense", "that", "we", "had", "n't", "told", "him", "of", "this", "before", "the", "meal", "was", "started", "."], "e1_text": "told", "e1_pos": 12, "e2_text": "was", "e2_pos": 19, "label": "before"},
+{"tokens": ["After", "this", ",", "we", "had", "to", "wait", "at", "least", "10", "more", "minutes", "before", "we", "had", "to", "catch", "his", "attention", "AGAIN", "and", "ASK", "to", "be", "able", "to", "pay", "."], "e1_text": "wait", "e1_pos": 6, "e2_text": "had", "e2_pos": 4, "label": "before"}
+]

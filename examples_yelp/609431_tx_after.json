@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "was", "terrible", ",", "took", "over", "20", "minutes", "after", "I", "finished", "my", "drink", "to", "get", "the", "next", ",", "and", "I", "was", "at", "the", "bar", "!!!", "Service", "was", "even", "worse", ",", "there", "'s", "at", "least", "3", "places", "within", "the", "close", "proximity", "that", "are", "cheaper", "and", "better", "."], "e1_text": "took", "e1_pos": 4, "e2_text": "finished", "e2_pos": 10, "label": "after"}
+]

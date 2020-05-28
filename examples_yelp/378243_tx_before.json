@@ -1,0 +1,6 @@
+[
+{"tokens": ["We", "were", "assured", "over", "the", "phone", "that", "we", "will", "have", "more", "than", "enough", "time", "as", "long", "as", "we", "get", "to", "pay", "before", "the", "clock", "strikes", "9", "."], "e1_text": "pay", "e1_pos": 20, "e2_text": "strikes", "e2_pos": 24, "label": "before"},
+{"tokens": ["I", "heard", "him", "but", "as", "I", "was", "going", "through", "my", "rounds", ",", "I", "decided", "to", "get", "everything", "I", "wanted", "before", "sitting", "down", "to", "eat", "."], "e1_text": "wanted", "e1_pos": 18, "e2_text": "sitting", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "literally", "had", "3", "plates", "in", "front", "of", "me", "and", "a", "bowl", "of", "soup", "before", "I", "started", "digging", "in", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "started", "e2_pos": 16, "label": "before"},
+{"tokens": ["Although", "that", "one", "closed", "later", ",", "I", "was", "too", "busy", "eating", "my", "main", "dishes", "before", "it", "got", "cold", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

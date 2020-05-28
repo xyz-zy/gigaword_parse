@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "informed", "the", "waitress", "after", "several", "attempts", "of", "flagging", "her", "down", ",", "she", "took", "the", "plate", "back", "."], "e1_text": "informed", "e1_pos": 2, "e2_text": "flagging", "e2_pos": 9, "label": "after"}
+]

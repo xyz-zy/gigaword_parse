@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "still", "on", "the", "same", "night", ",", "we", "ordered", "a", "crepe", "suzette", ",", "but", "after", "waiting", "about", "35", "minutes", "for", "it", ",", "decided", "to", "cancel", "the", "order", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 16, "label": "after"}
+]

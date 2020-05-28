@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "second", "time", "here", "-LRB-", "1992", "-RRB-", ",", "my", "sister", ",", "older", "brother", "and", "I", "were", "in", "a", "car", "accident", ";", "my", "sister", "&", "I", "were", "rushed", "to", "the", "hospital", "in", "an", "ambulance", ",", "but", "we", "were", "left", "strapped", "in", "the", "gurneys", "for", "a", "few", "hours", "before", "getting", "any", "attention", "."], "e1_text": "left", "e1_pos": 37, "e2_text": "getting", "e2_pos": 47, "label": "before"}
+]

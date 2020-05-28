@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "are", "selling", "our", "house", "so", "I", "called", "wave", "house", "cleaning", "for", "a", "deep", "clean", "right", "before", "putting", "it", "up", "on", "the", "market", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "putting", "e2_pos": 17, "label": "before"},
+{"tokens": ["They", "were", "here", "for", "about", "4", "hours", "and", "the", "house", "was", "clean", ",", "but", "during", "the", "spot", "check", "before", "they", "left", "I", "lifted", "up", "a", "rug", "and", "saw", "tons", "of", "dirt", "underneath", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "left", "e2_pos": 20, "label": "before"}
+]

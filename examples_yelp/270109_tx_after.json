@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "appreciated", "the", "price", "I", "paid", ",", "which", "was", "$", "110\\/night", ",", "and", "for", "last", "weekend", ",", "it", "was", "a", "steal", "compared", "to", "everywhere", "else", ",", "but", "the", "saying", "''", "``", "you", "get", "what", "you", "pay", "for", "''", "''", "came", "into", "play", "after", "my", "Vegas", "trip", "came", "to", "an", "end", "."], "e1_text": "came", "e1_pos": 39, "e2_text": "came", "e2_pos": 39, "label": "after"},
+{"tokens": ["Hotwire", "tells", "you", "after", "you", "purchase", "which", "is", "BS", "."], "e1_text": "tells", "e1_pos": 1, "e2_text": "purchase", "e2_pos": 5, "label": "after"}
+]

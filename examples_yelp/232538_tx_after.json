@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "am", "VERY", "happy", "to", "say", "that", "my", "brother", "'s", "friend", "was", "going", "to", "book", "his", "wedding", "at", "Hotel", "Valley", "Ho", "-LRB-", "they", "are", "inviting", "over", "100", "people", "-RRB-", "but", "I", "easily", "talked", "him", "out", "of", "it", "after", "telling", "him", "about", "the", "horrific", "''", "``", "customer", "service", "''", "''", "we", "encountered", "."], "e1_text": "talked", "e1_pos": 32, "e2_text": "telling", "e2_pos": 38, "label": "after"}
+]

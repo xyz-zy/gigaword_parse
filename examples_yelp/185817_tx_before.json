@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "a", "challenging", "hike", ",", "especially", "if", "you", "have", "never", "hiked", "before", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "have", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "best", "recommendation", "is", "to", "plan", "your", "hike", "so", "that", "you", "can", "finish", "just", "before", "sunset", "-LRB-", "watch", "out", "for", "rattlesnakes", "though", "!", "-RRB-", "."], "e1_text": "finish", "e1_pos": 12, "e2_text": "watch", "e2_pos": 17, "label": "before"}
+]

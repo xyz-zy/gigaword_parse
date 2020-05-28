@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", ",", "of", "course", ",", "begs", "the", "question", "of", "why", ",", "if", "all", "the", "chef", "had", "to", "do", "was", "cut", "a", "chicken", "breast", "into", "20", "+", "pieces", ",", "did", "it", "take", "35", "minutes", "for", "my", "food", "to", "arrive", "after", "ordering", "?"], "e1_text": "arrive", "e1_pos": 37, "e2_text": "ordering", "e2_pos": 39, "label": "after"}
+]

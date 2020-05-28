@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "''", "``", "sandwich", "girl", "''", "''", "-LRB-", "I", "should", "have", "gotten", "her", "name", "-RRB-", "saw", "me", "standing", "there", "but", "waited", "on", "two", "customers", "before", "acknowledging", "me", "."], "e1_text": "waited", "e1_pos": 20, "e2_text": "acknowledging", "e2_pos": 25, "label": "before"}
+]

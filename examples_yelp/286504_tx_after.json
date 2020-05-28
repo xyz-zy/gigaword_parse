@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "chicken", "taquitos", "because", "everything", "else", "was", "over", "$", "15", "and", "it", "was", "just", "lunch", ",", "and", "there", "was", "no", "way", "in", "hell", "I", "could", "live", "with", "myself", "after", "ordering", "a", "$", "17", "burrito", "or", "quesadilla", "."], "e1_text": "live", "e1_pos": 27, "e2_text": "ordering", "e2_pos": 31, "label": "after"}
+]

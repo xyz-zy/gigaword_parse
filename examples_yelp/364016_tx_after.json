@@ -1,0 +1,4 @@
+[
+{"tokens": ["Flavors", "of", "Louisiana", "is", "a", "small", "place", ",", "but", "was", "packed", "when", "we", "walked", "in", "after", "seeing", "a", "movie", "early", "in", "the", "evening", "."], "e1_text": "walked", "e1_pos": 13, "e2_text": "seeing", "e2_pos": 16, "label": "after"},
+{"tokens": ["Oh", ",", "and", "I", "almost", "forgot", ",", "the", "dipping", "sauce", "for", "the", "shrimp", "made", "me", "want", "to", "lick", "the", "cup", "clean", "after", "using", "it", "for", "my", "shrimp", "...", "I", "'m", "not", "even", "sure", "what", "the", "seasonings", "in", "it", "were", ",", "but", "who", "cares", ",", "it", "was", "yummy", "!"], "e1_text": "lick", "e1_pos": 17, "e2_text": "using", "e2_pos": 22, "label": "after"}
+]

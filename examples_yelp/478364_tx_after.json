@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "been", "craving", "Egg", "Foo", "Young", "forever", "and", "after", "reading", "the", "reviews", "on", "Golden", "China", "on", "Flamingo", ",", "decided", "to", "give", "them", "a", "try", "."], "e1_text": "craving", "e1_pos": 3, "e2_text": "reading", "e2_pos": 10, "label": "after"},
+{"tokens": ["We", "wanted", "to", "have", "the", "food", "delivered", "so", "I", "gave", "them", "a", "call", "...", "the", "order", "process", "was", "very", "easy", "...", "my", "order", "was", "easily", "understood", ",", "repeated", "back", "to", "me", "as", "well", "as", "my", "address", "and", "after", "giving", "the", "girl", "my", "debit", "card", "#", ",", "concluded", "quickly", "."], "e1_text": "repeated", "e1_pos": 27, "e2_text": "giving", "e2_pos": 38, "label": "after"}
+]

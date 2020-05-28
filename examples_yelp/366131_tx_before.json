@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "first", "walked", "in", ",", "I", "stood", "at", "the", "front", "desk", "for", "about", "5", "minutes", "before", "anyone", "even", "said", "''", "``", "hi", "''", "''", "to", "me", "."], "e1_text": "stood", "e1_pos": 7, "e2_text": "said", "e2_pos": 19, "label": "before"},
+{"tokens": ["Even", "if", "they", "order", "15", "minutes", "after", "you", "order", ",", "they", "will", "get", "their", "food", "before", "you", "do", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "do", "e2_pos": 17, "label": "before"}
+]

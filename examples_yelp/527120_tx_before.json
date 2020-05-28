@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "no", "genius", "but", "I", "'d", "say", "my", "omelet", "was", "ready", "to", "be", "sent", "out", "at", "least", "15", "minutes", "before", "it", "was", "served", "and", "the", "party", "of", "8", "got", "the", "french", "toast", "we", "'d", "ordered", "and", "the", "chef", "hurriedly", "made", "another", "for", "our", "table", "when", "he", "saw", "my", "order", "still", "sitting", "there", "."], "e1_text": "sent", "e1_pos": 14, "e2_text": "was", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "would", "hesitate", "on", "returning", "after", "reading", "some", "of", "these", "reviews", "indicating", "that", "they", "switched", "from", "counter", "service", "to", "table", "service", "."], "e1_text": "returning", "e1_pos": 4, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "did", "n't", "like", "the", "baklava", "either", ",", "but", "I", "'m", "ruined", "on", "that", "dessert", "after", "going", "to", "Turkey", "."], "e1_text": "ruined", "e1_pos": 11, "e2_text": "going", "e2_pos": 16, "label": "after"}
+]

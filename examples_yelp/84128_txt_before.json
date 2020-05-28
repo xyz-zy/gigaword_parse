@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "hour", "later", "I", "called", "to", "get", "an", "update", "--", "it", "had", "been", "raining", "all", "day", "and", "the", "guy", "who", "took", "my", "order", "seemed", "really", "unsure", "about", "how", "to", "spell", "my", "street", "name", ",", "even", "though", "they", "'ve", "been", "here", "several", "times", "before", "."], "e1_text": "seemed", "e1_pos": 23, "e2_text": "'ve", "e2_pos": 37, "label": "before"}
+]

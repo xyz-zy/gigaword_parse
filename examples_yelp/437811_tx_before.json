@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "a", "technician", "come", "out", "recently", "and", "before", "even", "looking", "at", "my", "garage", "door", ",", "asked", "my", "babysitter", "''", "``", "Are", "you", "the", "homeowner", "?", "''", "''"], "e1_text": "asked", "e1_pos": 15, "e2_text": "looking", "e2_pos": 9, "label": "before"}
+]

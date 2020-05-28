@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "watch", "a", "couple", "of", "young", "ladies", "who", "arrived", "20", "minutes", "after", "we", "have", "receive", "their", "dinners", "and", "we", "are", "still", "waiting", "."], "e1_text": "arrived", "e1_pos": 8, "e2_text": "have", "e2_pos": 13, "label": "after"},
+{"tokens": ["He", "leaves", "to", "check", "and", "then", "our", "waiter", ",", "needs", "to", "find", "a", "different", "profession", ",", "stops", "by", "to", "say", "he", "forgot", "to", "put", "our", "dinner", "order", "in", "until", "after", "we", "had", "spoken", "to", "the", "other", "person", "."], "e1_text": "put", "e1_pos": 23, "e2_text": "had", "e2_pos": 31, "label": "after"},
+{"tokens": ["The", "meal", "finally", "arrives", "more", "than", "an", "hour", "after", "we", "ordered", "and", "suffice", "to", "say", "mine", "still", "was", "n't", "completely", "what", "I", "ordered", "and", "did", "n't", "get", "corrected", "until", "the", "manager", "stopped", "at", "the", "table", "again", "."], "e1_text": "arrives", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 10, "label": "after"}
+]

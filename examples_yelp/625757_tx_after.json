@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "been", "waiting", "for", "an", "hour", ",", "after", "our", "order", "was", "made", "incorrectly", "-LRB-", "partially", "!", "-RRB-"], "e1_text": "waiting", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["The", "owner", "-LRB-", "I", "only", "discovered", "he", "was", "the", "owner", "after", "researching", "and", "finding", "other", "complaints", "giving", "his", "description", "--", "guy", "who", "sits", "in", "back", "if", "restaraunt", "on", "his", "laptop", "-RRB-", "witnessed", "the", "entire", "exchange", "and", "offered", "nothing", "to", "ameliorate", "the", "situation", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "researching", "e2_pos": 11, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "pizza", "took", "almost", "a", "half", "hour", "to", "cook", "so", "i", "recommend", "to", "call", "them", "and", "order", "you", "pizza", "before", "you", "get", "there", "like", "i", "did", "the", "second", "time", "i", "came", "in", "for", "my", "fix", "."], "e1_text": "order", "e1_pos": 16, "e2_text": "get", "e2_pos": 21, "label": "before"}
+]

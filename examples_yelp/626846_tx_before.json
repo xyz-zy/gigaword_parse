@@ -1,0 +1,3 @@
+[
+{"tokens": ["i", "understand", "that", "once", "my", "jeans", "are", "made", "i", "can", "not", "get", "a", "refund", "but", "the", "fact", "that", "i", "tried", "to", "stop", "the", "order", "before", "the", "jeans", "were", "made", "and", "that", "request", "was", "ignored", "is", "what", "angers", "me", "."], "e1_text": "stop", "e1_pos": 21, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

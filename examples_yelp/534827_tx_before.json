@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "it", "was", ",", "it", "is", "not", "anything", "like", "I", "have", "tasted", "before", "-LRB-", "my", "girlfriend", "and", "I", "are", "big", "fans", "of", "good", "prosciutto", "-RRB-", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "have", "e2_pos": 10, "label": "before"},
+{"tokens": ["Yes", ",", "but", "only", "to", "grab", "drinks", "before", "heading", "elsewhere", "or", "if", "we", "have", "our", "dogs", "and", "want", "to", "chill", "for", "a", "couple", "brews", "."], "e1_text": "grab", "e1_pos": 5, "e2_text": "heading", "e2_pos": 8, "label": "before"}
+]

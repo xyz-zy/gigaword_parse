@@ -1,0 +1,3 @@
+[
+{"tokens": ["Whereas", "this", "sounds", "like", "a", "reasonable", "idea", ",", "I", "could", "n't", "help", "but", "think", "of", "just", "how", "many", "people", "had", "touched", "my", "bread", "before", "I", "selected", "it", "."], "e1_text": "touched", "e1_pos": 20, "e2_text": "selected", "e2_pos": 25, "label": "before"}
+]

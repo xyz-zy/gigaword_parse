@@ -1,0 +1,3 @@
+[
+{"tokens": ["--", "This", "place", "has", "maybe", "6", "tables", ",", "2", "parking", "spaces", ",", "and", "located", "next", "to", "an", "oh", "so", "romantic", "Circle", "K.", "--", "We", "were", "brought", "the", "wrong", "pizza", ",", "-LRB-", "which", "I", "started", "to", "eat", "before", "I", "noticed", "-RRB-", "it", "had", "sausage", "and", "broccoli", "."], "e1_text": "eat", "e1_pos": 35, "e2_text": "noticed", "e2_pos": 38, "label": "before"}
+]

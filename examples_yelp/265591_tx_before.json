@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "last", "time", "I", "ordered", ",", "they", "told", "me", "that", "their", "lunch", "specials", "had", "changed", "a", "year", "ago", "and", "they", "no", "longer", "included", "a", "soda", "when", "I", "had", "ordered", "a", "couple", "months", "before", "and", "received", "the", "soda", "."], "e1_text": "included", "e1_pos": 22, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

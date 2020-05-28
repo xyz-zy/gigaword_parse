@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "n't", "that", "busy", "but", "after", "we", "ordered", "there", "were", "a", "few", "other", "guest", "that", "came", "in", "and", "ordered", "and", "got", "their", "food", "before", "we", "did", "...", "what", "'s", "up", "with", "that", "?!?", "As", "we", "were", "wrapping", "up", "we", "felt", "rushed", "along", "...", "apparently", "there", "was", "an", "event", "there", "later", "that", "evening", "that", "they", "were", "setting", "up", "for", "...", "So", "it", "just", "seemed", "like", "we", "were", "in", "the", "way", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "did", "e2_pos": 26, "label": "before"}
+]

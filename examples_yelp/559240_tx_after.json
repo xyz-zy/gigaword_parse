@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "took", "a", "while", "to", "get", "the", "sushi", "menu", ",", "after", "she", "picked", "up", "the", "sushi", "order", ",", "they", "neither", "asked", "if", "we", "'d", "like", "anything", "else", ",", "nor", "took", "the", "menus", "away", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "picked", "e2_pos": 12, "label": "after"}
+]

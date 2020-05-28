@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "fiance", "and", "I", "almost", "walked", "out", "on", "this", "place", "after", "we", "ordered", "our", "food", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "ordered", "e2_pos": 12, "label": "after"},
+{"tokens": ["My", "fiance", "and", "I", "were", "sat", "in", "a", "sparsely", "populated", "dining", "room", "and", "after", "we", "were", "sat", "-", "NO", "ONE", "ELSE", "CAME", "IN", "."], "e1_text": "sat", "e1_pos": 5, "e2_text": "were", "e2_pos": 4, "label": "after"},
+{"tokens": ["No", "other", "tables", "were", "sat", "after", "us", "the", "whole", "time", "we", "waited", "around", "for", "our", "sub-par", "breakfast", "food", ",", "which", "came", "out", "luke", "warm", "by", "the", "way", "."], "e1_text": "sat", "e1_pos": 4, "e2_text": "waited", "e2_pos": 11, "label": "after"}
+]

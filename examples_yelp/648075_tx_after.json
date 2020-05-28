@@ -1,0 +1,3 @@
+[
+{"tokens": ["5", "minutes", "at", "the", "menu", "board", "before", "they", "acknowledged", "me", ",", "another", "5", "before", "anyone", "came", "to", "the", "drive", "thru", "window", "to", "take", "my", "money", ",", "then", "after", "I", "paid", "she", "tells", "me", "it", "'ll", "be", "another", "10", "minutes", "."], "e1_text": "came", "e1_pos": 15, "e2_text": "paid", "e2_pos": 29, "label": "after"}
+]

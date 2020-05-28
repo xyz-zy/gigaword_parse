@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "say", "we", "got", "there", "before", "the", "rush", "was", "right", ",", "and", "now", "everyone", "that", "came", "in", "after", "us", "was", "already", "eating", "their", "pizzas", "...", "We", "asked", "the", "server", "what", "was", "up", "and", "he", "came", "back", "and", "told", "us", "that", "it", "would", "be", "another", "12", "or", "more", "minutes", ",", "we", "asked", "for", "the", "manager", "and", "she", "pretty", "much", "scoffed", "at", "us", "and", "made", "all", "kinds", "of", "excuses", "."], "e1_text": "came", "e1_pos": 16, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

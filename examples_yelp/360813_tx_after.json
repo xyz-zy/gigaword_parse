@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "not", "joking", "when", "I", "say", "we", "did", "not", "get", "the", "filet", "for", "a", "good", "40", "minutes", "even", "after", "we", "talked", "to", "a", "manager", "who", "said", "she", "would", "get", "it", "out", "to", "us", "asap", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "talked", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "were", "paying", "for", "the", "dessert", ",", "although", "it", "should", "have", "been", "comped", "after", "spending", "$", "350", ",", "but", "they", "still", "could", "n't", "get", "it", "right", "."], "e1_text": "comped", "e1_pos": 12, "e2_text": "spending", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "said", "she", "did", "n't", "know", "how", "to", "do", "that", "after", "telling", "me", "she", "had", "been", "doing", "nails", "for", "16", "years", "."], "e1_text": "do", "e1_pos": 8, "e2_text": "telling", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "jumped", "from", "chair", "to", "chair", "and", "had", "to", "keep", "moving", "my", "stuff", "-LRB-", "i.e", "purse", "and", "shopping", "bags", "-RRB-", "My", "nails", "also", "hurt", "for", "an", "entire", "day", "after", "I", "got", "them", "done", "."], "e1_text": "hurt", "e1_pos": 23, "e2_text": "got", "e2_pos": 30, "label": "after"}
+]

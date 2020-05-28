@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "another", "2", "minutes", "for", "a", "third", "chair", "and", "another", "10", "minutes", "before", "a", "waitress", "even", "came", "over", "to", "introduce", "herself", "and", "take", "our", "drink", "orders", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "understand", "that", "I", "should", "n't", "base", "judgement", "on", "the", "waitress", "due", "to", "the", "crowds", ",", "however", "when", "we", "finally", "put", "in", "our", "food", "order", "we", "were", "told", "the", "sushi", "was", "going", "to", "take", "about", "30-45", "minutes", "before", "even", "coming", "out", "."], "e1_text": "take", "e1_pos": 33, "e2_text": "coming", "e2_pos": 39, "label": "before"}
+]

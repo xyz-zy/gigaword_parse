@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "decided", "to", "check", "it", "out", "after", "reading", "several", "people", "who", "posted", "."], "e1_text": "check", "e1_pos": 3, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "also", "had", "a", "coupon", "for", "20", "%", "off", "which", "I", "downloaded", "and", "printed", "after", "clicking", "on", "their", "website", "from", "the", "Yelp", "review", "."], "e1_text": "downloaded", "e1_pos": 11, "e2_text": "clicking", "e2_pos": 15, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "group", "and", "I", "went", "here", "10", "minutes", "before", "they", "were", "about", "to", "switch", "over", "from", "breakfast", "to", "lunch", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "were", "e2_pos": 10, "label": "before"},
+{"tokens": ["Apparently", "they", "sanitize", "the", "grill", "when", "they", "make", "the", "switch", "but", "I", "guess", "I", "'ve", "never", "experienced", "this", "before", "."], "e1_text": "guess", "e1_pos": 12, "e2_text": "'ve", "e2_pos": 14, "label": "before"}
+]

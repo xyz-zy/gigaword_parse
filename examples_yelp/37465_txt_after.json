@@ -1,0 +1,3 @@
+[
+{"tokens": ["Scheduled", "an", "emergency", "maintenance", "order", ";", "nothing", "happened", "after", "waiting", "24", "hours", "for", "it", "!"], "e1_text": "happened", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 9, "label": "after"}
+]

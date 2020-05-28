@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "the", "bartender", "was", "not", "friendly", ",", "our", "drinks", "took", "forever", "and", "he", "brought", "us", "the", "check", "after", "our", "first", "round", "with", "out", "asking", "if", "we", "wanted", "a", "second", "round", "or", "keep", "the", "tab", "open", "?"], "e1_text": "brought", "e1_pos": 14, "e2_text": "asking", "e2_pos": 24, "label": "after"}
+]

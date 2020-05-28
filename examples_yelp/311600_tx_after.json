@@ -1,0 +1,5 @@
+[
+{"tokens": ["Thankfully", ",", "the", "two", "menu", "items", "I", "ordered", "almost", "arrived", "simultaneously", ",", "albeit", "after", "what", "I", "thought", "was", "a", "long", "wait", "for", "an", "app", "dish", "and", "soup", "-LRB-", "15", "minutes", "for", "homemade", "soup", "I", "can", "understand", ",", "but", "15", "minutes", "for", "an", "appetizer", "of", "four", "4", "''", "``", "x1", "''", "''", "skewers", "of", "grilled", "chicken", "skewers", "?", "-RRB-", "."], "e1_text": "ordered", "e1_pos": 7, "e2_text": "thought", "e2_pos": 16, "label": "after"},
+{"tokens": ["Should", "I", "order", "the", "dhal", "curry", "dish", "again", ",", "I", "'ll", "have", "to", "ask", "that", "the", "paratha", "be", "brought", "out", "after", "the", "soup", "'s", "cooled", "for", "a", "few", "minutes", "."], "e1_text": "brought", "e1_pos": 18, "e2_text": "'s", "e2_pos": 23, "label": "after"},
+{"tokens": ["'Twas", "a", "shame", ",", "since", "my", "sweet", "tooth", "was", "raging", "after", "having", "consumed", "the", "spicy", "curry", "soup", "."], "e1_text": "raging", "e1_pos": 9, "e2_text": "having", "e2_pos": 11, "label": "after"}
+]

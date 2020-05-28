@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "4.5-star", "Yelp", "rating", "steered", "me", "to", "this", "place", "after", "I", "'d", "attended", "a", "NASCAR", "race", "outside", "town", "."], "e1_text": "steered", "e1_pos": 4, "e2_text": "'d", "e2_pos": 11, "label": "after"}
+]

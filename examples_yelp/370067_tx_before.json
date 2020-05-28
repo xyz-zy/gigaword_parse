@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "problems", "with", "the", "Tropicana", "since", "before", "even", "arriving", "and", "checking", "in", "at", "the", "hotel", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "booked", "a", "renovated", "suite", "months", "in", "advance", ",", "luckily", "I", "called", "a", "few", "days", "before", "checking", "in", "to", "add", "a", "name", "to", "the", "reservation", "-", "my", "reservation", "was", "still", "in", "the", "computer", "system", ",", "however", "it", "was", "''", "``", "canceled", "''", "''", "."], "e1_text": "called", "e1_pos": 11, "e2_text": "canceled", "e2_pos": 40, "label": "before"}
+]

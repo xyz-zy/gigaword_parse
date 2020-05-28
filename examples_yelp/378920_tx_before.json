@@ -1,0 +1,3 @@
+[
+{"tokens": ["Salsa", "is", "good", "...", "Chips", "need", "to", "have", "the", "oil", "changed", "before", "they", "are", "fried", "."], "e1_text": "changed", "e1_pos": 10, "e2_text": "are", "e2_pos": 13, "label": "before"}
+]

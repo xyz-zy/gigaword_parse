@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "looked", "like", "they", "tossed", "in", "the", "cashews", "after", "it", "was", "all", "cooked", "."], "e1_text": "tossed", "e1_pos": 4, "e2_text": "was", "e2_pos": 10, "label": "after"},
+{"tokens": ["Bland", "in", "flavor", "and", "completely", "uninspiring", ",", "it", "was", "the", "kind", "of", "meal", "that", "I", "regretted", "eating", "after", "I", "was", "done", "."], "e1_text": "eating", "e1_pos": 16, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

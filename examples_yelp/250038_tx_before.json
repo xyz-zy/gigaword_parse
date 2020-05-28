@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "plan", "our", "evening", "out", "in", "advance", "and", "not", "knowing", "if", "the", "bar", "will", "be", "open", "for", "a", "late", "evening", "cocktail", "before", "bed", "is", "critical", "."], "e1_text": "be", "e1_pos": 14, "e2_text": "is", "e2_pos": 23, "label": "before"},
+{"tokens": ["Otherwise", "we", "would", "have", "stayed", "at", "the", "bar", "at", "the", "restaurant", "a", "bit", "longer", "before", "paying", "for", "a", "ride", "back", "to", "the", "hotel", "!"], "e1_text": "stayed", "e1_pos": 4, "e2_text": "paying", "e2_pos": 15, "label": "before"}
+]

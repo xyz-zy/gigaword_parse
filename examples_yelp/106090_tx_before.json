@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "soon", "as", "you", "walk", "in", "the", "door", "they", "rush", "you", "before", "you", "even", "take", "a", "seat", "to", "get", "your", "drink", "order", "...", "they", "use", "terms", "like", "''", "``", "do", "you", "guys", "wan", "na", "do", "a", "shot", "?", "''", "''"], "e1_text": "rush", "e1_pos": 9, "e2_text": "take", "e2_pos": 14, "label": "before"},
+{"tokens": ["He", "hands", "her", "another", "5", "and", "she", "walks", "away", "...", "before", "they", "took", "the", "shot", "!"], "e1_text": "walks", "e1_pos": 7, "e2_text": "took", "e2_pos": 12, "label": "before"}
+]

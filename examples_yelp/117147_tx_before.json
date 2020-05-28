@@ -1,0 +1,3 @@
+[
+{"tokens": ["they", "said", "oil", "change", "would", "take", "1", "1\\/2", "hours", "because", "of", "appointments", "even", "though", "they", "were", "sitting", "their", "for", "15", "minutes", "before", "the", "1st", "appointment", "showed", "up", "."], "e1_text": "sitting", "e1_pos": 16, "e2_text": "showed", "e2_pos": 25, "label": "before"}
+]

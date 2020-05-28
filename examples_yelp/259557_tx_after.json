@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "never", "offered", "straws", "and", "after", "the", "first", "bad", "cup", "of", "coffee", "was", "never", "offered", "a", "second", "till", "halfway", "through", "our", "breakfast", "."], "e1_text": "offered", "e1_pos": 3, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["We", "waited", "and", "never", "saw", "her", "again", "after", "she", "finally", "brought", "us", "the", "bill", "."], "e1_text": "saw", "e1_pos": 4, "e2_text": "brought", "e2_pos": 10, "label": "after"}
+]

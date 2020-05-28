@@ -1,0 +1,4 @@
+[
+{"tokens": ["1.5", "my", "flight", "was", "delayed", "so", "everyone", "was", "going", "to", "do", "wicked", "spoon", "lunch", "after", "checking", "out", "from", "our", "respective", "hotels", ".", "."], "e1_text": "do", "e1_pos": 10, "e2_text": "checking", "e2_pos": 15, "label": "after"},
+{"tokens": ["i", "did", "n't", "think", "i", "was", "going", "to", "make", "my", "flight", "after", "seeing", "the", "long", "line", "at", "wicked", "spoon", "so", "opted", "to", "catch", "a", "cab", ".", "."], "e1_text": "make", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 12, "label": "after"}
+]

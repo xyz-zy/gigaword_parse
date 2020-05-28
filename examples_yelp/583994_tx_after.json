@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "30", "minutes", "for", "the", "food", "to", "arrive", "only", "after", "our", "server", "pointed", "out", "to", "us", "that", "we", "were", "at", "Gordon", "Ramsey", "spot", "and", "not", "Applebees", "or", "Denny", "'s", "."], "e1_text": "arrive", "e1_pos": 8, "e2_text": "pointed", "e2_pos": 13, "label": "after"},
+{"tokens": ["Meanwhile", "folks", "that", "sat", "down", "after", "us", "got", "their", "food", "before", "ours", "ever", "came", "to", "our", "table", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

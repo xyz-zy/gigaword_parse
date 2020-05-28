@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "an", "appointment", "to", "meet", "with", "the", "maintenance", "personnel", "to", "do", "a", "walk-through", "of", "the", "place", "before", "leaving", "because", "we", "had", "heard", "that", "the", "complex", "was", "unfairly", "keeping", "people", "'s", "security", "deposits", "."], "e1_text": "do", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "was", "probably", "broken", "before", "we", "even", "moved", "in", "."], "e1_text": "broken", "e1_pos": 3, "e2_text": "moved", "e2_pos": 7, "label": "before"}
+]

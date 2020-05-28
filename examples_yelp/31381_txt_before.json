@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "will", "just", "say", "I", "have", "never", "been", "treated", "so", "unprofessionally", "by", "anyone", "before", "in", "my", "life", "more", "so", "then", "I", "was", "by", "the", "staff", "at", "this", "establishment", "."], "e1_text": "say", "e1_pos": 3, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["There", "was", "a", "mistake", "made", "from", "a", "previous", "visit", "which", "resulted", "in", "both", "the", "Veterinarian", "and", "the", "lady", "-LRB-", "someone", "I", "have", "never", "seen", "before", "-RRB-", "behind", "the", "counter", "becoming", "very", "hostile", "."], "e1_text": "resulted", "e1_pos": 10, "e2_text": "have", "e2_pos": 21, "label": "before"}
+]

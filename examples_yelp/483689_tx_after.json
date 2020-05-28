@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "ordered", "coffee", "with", "our", "dessert", "and", "asked", "for", "a", "refill", "after", "I", "paid", "the", "bill", "which", "was", "over", "$", "70", "including", "the", "20", "percent", "tip", "."], "e1_text": "asked", "e1_pos": 8, "e2_text": "paid", "e2_pos": 14, "label": "after"},
+{"tokens": ["My", "friend", "said", "do", "you", "think", "they", "charge", "per", "cup", "and", "she", "is", "upset", "we", "asked", "for", "a", "refill", "after", "the", "bill", "was", "paid", "or", "she", "'s", "unhappy", "with", "her", "tip", "?"], "e1_text": "asked", "e1_pos": 15, "e2_text": "was", "e2_pos": 22, "label": "after"}
+]

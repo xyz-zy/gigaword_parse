@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "taking", "our", "order", "asked", "if", "it", "was", "to", "go", "or", "eat", "in", "...", "even", "after", "stating", "we", "were", "eating", "in", ",", "she", "packed", "it", "to", "go", "...", "whatever", "."], "e1_text": "asked", "e1_pos": 5, "e2_text": "stating", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "though", "it", "can", "get", "busy", "the", "lines", "does", "move", "quickly", ",", "after", "all", "it", "'s", "pretty", "much", "a", "no-brainer", "menu", "if", "you", "'ve", "been", "here", "enough", "times", "."], "e1_text": "does", "e1_pos": 8, "e2_text": "'s", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "'m", "hardly", "ever", "disappointed", "with", "Chipotle", ",", "after", "all", "the", "ingredients", "are", "fresh", "and", "the", "meats", "are", "hormone", "free", ",", "etc.", "."], "e1_text": "disappointed", "e1_pos": 4, "e2_text": "are", "e2_pos": 12, "label": "after"}
+]

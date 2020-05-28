@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mostly", "the", "security", "is", "all", "Over", "the", "place", "with", "rules", "the", "lines", "are", "a", "mess", "after", "standing", "a", "long", "line", "for", "how", "ever", "long", "."], "e1_text": "are", "e1_pos": 12, "e2_text": "standing", "e2_pos": 16, "label": "after"},
+{"tokens": ["-LRB-", "Do", "n't", "bring", "back", "packs", "u", "can", "bring", "in", "a", "really", "big", "purse", "-RRB-", "after", "u", "are", "check", "u", "go", "into", "another", "cluster", "and", "lose", "your", "spot", "in", "line", "and", "not", "told", "what", "or", "where", "to", "go", "."], "e1_text": "packs", "e1_pos": 5, "e2_text": "are", "e2_pos": 17, "label": "after"}
+]

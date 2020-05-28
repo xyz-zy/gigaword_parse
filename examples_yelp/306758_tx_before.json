@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "gave", "me", "a", "sample", "of", "my", "drink", "before", "he", "poured", "it", "...", "tasted", "like", "milk", "with", "a", "bad", "unripened", "avocado", "aftertaste", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "poured", "e2_pos": 10, "label": "before"}
+]

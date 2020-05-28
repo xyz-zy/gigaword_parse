@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "ca", "n't", "remember", "the", "last", "time", "I", "felt", "so", "physically", "healthy", "and", "still", "deeply", "satisfied", "after", "leaving", "a", "restaurant", "."], "e1_text": "felt", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 17, "label": "after"},
+{"tokens": ["The", "owner", "was", "really", "friendly", "and", "he", "even", "switched", "out", "my", "complimentary", "smoothie", "for", "another", "after", "he", "learned", "about", "my", "nut", "allergy", "."], "e1_text": "switched", "e1_pos": 8, "e2_text": "learned", "e2_pos": 17, "label": "after"},
+{"tokens": ["Food", "was", "delicious", "and", "I", "stress", "that", "even", "if", "you", "do", "n't", "have", "a", "restricted", "diet", ",", "if", "you", "just", "want", "to", "feel", "good", "and", "energized", "after", "a", "meal", "while", "still", "enjoying", "a", "culinary", "experience", ",", "this", "place", "is", "worth", "checking", "out", "."], "e1_text": "energized", "e1_pos": 25, "e2_text": "enjoying", "e2_pos": 31, "label": "after"}
+]

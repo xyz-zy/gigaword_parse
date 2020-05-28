@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "my", "boyfriend", "and", "I", "had", "dishes", "we", "have", "had", "before", ",", "me", "with", "Hot", "Braised", "Tofu", "and", "him", "with", "the", "staple", "Chicken", "and", "Broccoli", "and", "both", "were", "not", "great", "and", "definitely", "not", "the", "flavor", "and", "quality", "we", "had", "in", "the", "past", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

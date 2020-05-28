@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lady", "sitting", "at", "the", "back", "door", "of", "the", "restaurant", "was", "smoking", "a", "cigarette", "and", "I", "highly", "doubt", "she", "washed", "her", "hands", "before", "going", "back", "to", "cooking", "."], "e1_text": "washed", "e1_pos": 19, "e2_text": "going", "e2_pos": 23, "label": "before"}
+]

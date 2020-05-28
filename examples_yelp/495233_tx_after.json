@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "tried", "this", "place", "out", "after", "hearing", "both", "good", "and", "not", "so", "good", "reviews", "from", "locals", "in", "the", "`", "hood", "."], "e1_text": "tried", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 7, "label": "after"},
+{"tokens": ["This", "was", ",", "of", "course", ",", "after", "we", "both", "added", "a", "generous", "amount", "of", "Siracha", ",", "as", "the", "dish", "was", "pretty", "much", "bland", "without", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "added", "e2_pos": 9, "label": "after"}
+]

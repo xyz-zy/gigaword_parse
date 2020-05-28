@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "placed", "our", "order", "about", "3-5", "minutes", "prior", "to", "the", "start", "of", "happy", "hour", "-LRB-", "after", "waiting", "about", "30", "minutes", "to", "be", "seated", "-RRB-", "."], "e1_text": "placed", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 16, "label": "after"},
+{"tokens": ["Our", "waitress", "was", "new", "and", "she", "admitted", "that", "she", "forgot", "to", "wait", "to", "put", "in", "the", "order", "after", "happy", "hour", "had", "started", "."], "e1_text": "put", "e1_pos": 13, "e2_text": "had", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["but", "we", "had", "to", "change", "rooms", "TWICE", "because", "the", "first", "one", "had", "no", "bathtub", "-LRB-", "special", "access", "-RRB-", "when", "I", "specifically", "had", "called", "days", "before", "and", "requested", "a", "bathtub", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "had", "e2_pos": 2, "label": "before"},
+{"tokens": ["SO", "there", "I", "am", "at", "midnight", "the", "night", "before", "we", "have", "an", "early", "am", "brunch", ",", "running", "to", "a", "grocery", "store", "to", "clean", "the", "bathtub", "myself", "!"], "e1_text": "am", "e1_pos": 3, "e2_text": "have", "e2_pos": 10, "label": "before"}
+]

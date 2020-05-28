@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "is", "a", "letter", "I", "sent", "to", "the", "restaurant", "after", "my", "dining", "experience", "that", "summarizes", "how", "it", "went", ":", "Dear", "General", "Manager", ",", "I", "am", "writing", "to", "express", "my", "deep", "dissatisfaction", "with", "my", "recent", "experience", "at", "DB", "Brasserie", "at", "the", "Wynn", "Las", "Vegas", "hotel", "."], "e1_text": "sent", "e1_pos": 5, "e2_text": "summarizes", "e2_pos": 14, "label": "after"},
+{"tokens": ["At", "this", "point", ",", "what", "the", "kitchen", "should", "have", "done", "is", "complimented", "a", "bottle", "of", "our", "wine", ",", "after", "it", "was", "totally", "and", "absolutely", "clear", "that", "there", "was", "no", "preparation", "that", "was", "made", "to", "accommodate", "us", "as", "we", "had", "been", "promised", "."], "e1_text": "complimented", "e1_pos": 11, "e2_text": "was", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "made", "9:30", "reservations", "to", "enjoy", "a", "relaxed", "dinner", "on", "my", "wife", "'s", "birthday", "after", "seeing", "Love", "."], "e1_text": "enjoy", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 15, "label": "after"},
+{"tokens": ["The", "part", "that", "is", "unforgivable", "is", "that", "our", "waiter", "-LRB-", "Cesar", "-RRB-", "ignored", "us", "after", "taking", "our", "orders", "."], "e1_text": "ignored", "e1_pos": 12, "e2_text": "taking", "e2_pos": 15, "label": "after"},
+{"tokens": ["For", "a", "place", "with", "such", "excellent", "food", "that", "I", "would", "love", "to", "try", "again", ",", "I", "ca", "n't", "imagine", "coming", "back", "after", "terrible", ",", "inept", "service", ",", "especially", "when", "we", "were", "celebrating", "a", "special", "occasion", "that", "they", "knew", "about", "."], "e1_text": "coming", "e1_pos": 19, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

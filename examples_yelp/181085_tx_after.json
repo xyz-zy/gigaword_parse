@@ -1,0 +1,4 @@
+[
+{"tokens": ["Even", "though", "they", "could", "n't", "perfectly", "accommodate", "to", "our", "request", "because", "we", "walked", "in", "without", "a", "reservation", "and", "requested", "a", "patio", "table", ",", "they", "tried", "their", "best", "to", "sit", "us", "at", "a", "good", "view", "table", "after", "they", "learned", "that", "it", "was", "my", "birthday", "."], "e1_text": "sit", "e1_pos": 28, "e2_text": "learned", "e2_pos": 37, "label": "after"},
+{"tokens": ["I", "felt", "that", "your", "employees", "were", "pretty", "racist", "after", "learning", "that", "we", "are", "asian", "."], "e1_text": "were", "e1_pos": 5, "e2_text": "learning", "e2_pos": 9, "label": "after"}
+]

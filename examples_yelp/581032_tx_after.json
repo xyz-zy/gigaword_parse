@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "technician", "called", "me", "at", "2", "after", "I", "waited", "all", "morning", "telling", "me", "that", "he", "would", "n't", "be", "making", "it", "to", "my", "appt", "and", "gave", "some", "excuse", "and", "a", "previous", "call", "and", "the", "bad", "day", "he", "had", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "waited", "e2_pos": 8, "label": "after"}
+]

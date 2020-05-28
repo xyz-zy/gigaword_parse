@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "usually", "have", "to", "go", "through", "3", "or", "4", "plate", "selections", "before", "I", "find", "one", "without", "a", "speck", "of", "old", "food", "on", "it", "."], "e1_text": "go", "e1_pos": 4, "e2_text": "find", "e2_pos": 13, "label": "before"},
+{"tokens": ["-", "the", "whole", "`", "get", "your", "drink", "before", "you", "pay", "'", "thing", "is", "so", "annoying", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "pay", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "the", "water", "came", "in", "after", "45", "mins", "...", "all", "dirty", "!!!", "I", "actually", "brought", "some", "sample", "of", "that", "water", "to", "send", "it", "to", "a", "lab", "!!!", "May", "be", "I", "just", "had", "a", "bad", "weekend", "over", "there", ",", "but", "you", "be", "the", "judge", "...", "how", "should", "I", "rate", "this", "hotel", "when", "I", "experienced", "all", "of", "the", "above", "???", ":", "-", "-RRB-"], "e1_text": "came", "e1_pos": 3, "e2_text": "brought", "e2_pos": 14, "label": "after"}
+]

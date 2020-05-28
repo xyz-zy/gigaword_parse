@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "the", "special", "asparagus", "and", "though", "it", "was", "delicious", ",", "we", "realized", "after", "the", "bill", "came", "that", "it", "was", "$", "28", "and", "there", "were", "only", "about", "5", "pieces", "of", "asparagus", "given", "to", "us", "."], "e1_text": "realized", "e1_pos": 12, "e2_text": "came", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "my", "wife", "and", "I", "found", "some", "dishes", "that", "were", "available", "and", "placed", "our", "order", ",", "we", "had", "a", "50", "minute", "wait", "before", "my", "order", "was", "served", "."], "e1_text": "had", "e1_pos": 17, "e2_text": "was", "e2_pos": 25, "label": "before"},
+{"tokens": ["It", "would", "be", "another", "10", "minutes", "before", "my", "wife", "'s", "meal", "arrived", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "arrived", "e2_pos": 11, "label": "before"}
+]

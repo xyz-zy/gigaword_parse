@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "think", "it", "was", "15", "minutes", "before", "the", "waitress", "-LRB-", "the", "weird", "clingy", "one", "from", "my", "second", "trip", "-RRB-", "came", "to", "our", "table", ",", "we", "had", "no", "drinks", ",", "no", "nothing", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "came", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "realized", "how", "much", "time", "we", "were", "wasting", "and", "discussed", "getting", "our", "food", "to", "go", "before", "the", "waitress", "finally", "appeared", "at", "our", "table", "."], "e1_text": "go", "e1_pos": 14, "e2_text": "appeared", "e2_pos": 19, "label": "before"}
+]

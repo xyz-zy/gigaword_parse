@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "called", "''", "``", "chocolate", "pork", "''", "''", "because", "the", "blood", "takes", "on", "a", "brownish-black", "hue", "after", "it", "'s", "been", "cooked", "."], "e1_text": "called", "e1_pos": 2, "e2_text": "'s", "e2_pos": 1, "label": "after"},
+{"tokens": ["Clarice", "did", "n't", "get", "her", "soy", "sauce", "until", "after", "we", "had", "finished", "our", "entrees", "and", "were", "on", "our", "second", "helping", "of", "rice", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

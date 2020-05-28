@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "guess", "I", "am", "use", "todowntown", "in", "Chicago", "-LRB-", "use", "to", "live", "there", "for", "some", "years", "before", "moving", "to", "Phx", "-RRB-", "or", "Los", "Angeles", "-LRB-", "grew", "up", "there", ",", "because", "these", "downtown", "cities", "are", "busy", "all", "the", "time", "."], "e1_text": "live", "e1_pos": 11, "e2_text": "moving", "e2_pos": 17, "label": "before"}
+]

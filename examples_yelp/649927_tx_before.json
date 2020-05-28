@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "read", "reviews", "before", "going", "but", "kept", "thinking", "that", "it", "could", "n't", "really", "be", "that", "bad", "."], "e1_text": "read", "e1_pos": 1, "e2_text": "going", "e2_pos": 4, "label": "before"},
+{"tokens": ["This", "should", "be", "said", "with", "a", "huge", "disclaimer", "before", "you", "buy", "the", "tickets", "."], "e1_text": "said", "e1_pos": 3, "e2_text": "buy", "e2_pos": 10, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "gets", "thrown", "to", "your", "table", "in", "less", "than", "5", "min", "after", "ordering", ":", "it", "was", "pre-cooked", "!"], "e1_text": "thrown", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 13, "label": "after"}
+]

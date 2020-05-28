@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "joined", "this", "gym", "after", "leaving", "Lifetime", "Fitness", "because", "it", "was", "too", "expensive", "."], "e1_text": "joined", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "after"}
+]

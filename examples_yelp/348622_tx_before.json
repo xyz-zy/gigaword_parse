@@ -1,0 +1,4 @@
+[
+{"tokens": ["Service", "was", "a", "little", "off", ",", "give", "it", "a", "3", ",", "I", "was", "seated", "for", "10", "minutes", "before", "anyone", "came", "to", "take", "a", "drink", "order", "-LRB-", "when", "taking", "my", "order", "she", "also", "asked", "me", "if", "I", "wanted", "a", "quick", "meal", ",", "in", "case", "I", "was", "at", "lunch", "."], "e1_text": "seated", "e1_pos": 13, "e2_text": "came", "e2_pos": 19, "label": "before"},
+{"tokens": ["There", "was", "supposed", "to", "be", "some", "kind", "of", "spicy", "cherry", "sauce", "with", "it", "as", "well", ",", "but", "if", "it", "had", "ever", "been", "there", "it", "had", "soaked", "completely", "into", "the", "bread", "long", "before", "it", "got", "to", "my", "table", "."], "e1_text": "soaked", "e1_pos": 25, "e2_text": "got", "e2_pos": 33, "label": "before"}
+]

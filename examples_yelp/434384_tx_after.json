@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "brought", "in", "my", "truck", "and", "all", "my", "exhaust", "parts", "needed", "to", "the", "shop", "after", "calling", "and", "talking", "to", "Russ", "and", "he", "said", "it", "was", "fine", ",", "they", "didnt", "have", "much", "business", "that", "day", "."], "e1_text": "needed", "e1_pos": 10, "e2_text": "calling", "e2_pos": 15, "label": "after"},
+{"tokens": ["i", "had", "broken", "down", "one", "mile", "from", "their", "shop", ",", "2", "minutes", "after", "leaving", "."], "e1_text": "broken", "e1_pos": 2, "e2_text": "leaving", "e2_pos": 13, "label": "after"}
+]

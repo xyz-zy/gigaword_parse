@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "burger", "was", "then", "served", "to", "someone", "else", "and", "I", "got", "a", "meat", "burger", ",", "which", "i", "was", "able", "to", "tell", "before", "I", "bit", "into", "it", "."], "e1_text": "tell", "e1_pos": 20, "e2_text": "bit", "e2_pos": 23, "label": "before"}
+]

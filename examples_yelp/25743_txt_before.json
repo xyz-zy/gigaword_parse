@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "''", "``", "manager", "''", "''", "apologized", "...", "but", "I", "'ve", "heard", "it", "plenty", "of", "times", "before", "!!!!", "I", "wo", "n't", "be", "going", "back", "..."], "e1_text": "heard", "e1_pos": 11, "e2_text": "!!!!", "e2_pos": 17, "label": "before"}
+]

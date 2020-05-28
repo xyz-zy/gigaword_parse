@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "five", "people", "at", "dinner", ",", "and", "four", "entrees", "came", "out", "10", "minutes", "before", "the", "fifth", "one", ",", "which", "was", "a", "pizza", "which", "was", "burnt", "pretty", "crispy", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "was", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "worked", "for", "24", "hours", "or", "so", "before", "never", "working", "again", "."], "e1_text": "worked", "e1_pos": 1, "e2_text": "working", "e2_pos": 9, "label": "before"},
+{"tokens": ["Another", "major", "annoyance", "is", "they", "run", "a", "credit", "check", "for", "free", "basic", "cable", "-", "-LRB-", "this", "was", "before", "I", "even", "inquired", "about", "internet", "-RRB-", "Why", "I", "asked", "the", "rep", "would", "you", "run", "a", "credit", "check", "for", "a", "free", "service", "being", "paid", "by", "my", "HOA", "?"], "e1_text": "was", "e1_pos": 16, "e2_text": "inquired", "e2_pos": 20, "label": "before"}
+]

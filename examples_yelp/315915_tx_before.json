@@ -1,0 +1,3 @@
+[
+{"tokens": ["Combine", "that", "with", "a", "tasty", "breakfast", "sandwich", "for", "my", "friend", "-LRB-", "she", "decided", "on", "it", "before", "we", "even", "got", "there", "-RRB-", "and", "I", "settled", "on", "the", "special", "of", "the", "day", ",", "a", "green", "chili", "pork", "tostada", "."], "e1_text": "decided", "e1_pos": 12, "e2_text": "got", "e2_pos": 18, "label": "before"}
+]

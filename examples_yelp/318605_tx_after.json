@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "renting", "a", "car", "for", "$", "12.99", "per", "day", "for", "3", "days", "--", "our", "actual", "bill", "ended", "up", "being", "$", "307", "-LRB-", "after", "adding", "taxes", ",", "GPS", ",", "and", "a", "TON", "of", "taxes", "-RRB-", "."], "e1_text": "being", "e1_pos": 18, "e2_text": "adding", "e2_pos": 23, "label": "after"},
+{"tokens": ["When", "we", "went", "to", "talk", "to", "the", "manager", "to", "discuss", ",", "the", "associate", "--", "was", "extremely", "informal", "--", "and", "after", "we", "stated", "we", "wanted", "to", "pay", "no", "more", "than", "what", "we", "initially", "agreed", "to", "pay", "--", "he", "called", "his", "supervisor", "and", "said", "''", "``", "we", "were", "n't", "buying", "his", "explanation", ",", "and", "we", "wanted", "to", "pay", "the", "original", "amount", "''", "''", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "stated", "e2_pos": 21, "label": "after"}
+]

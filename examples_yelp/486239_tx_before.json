@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lordy", ",", "I", "know", "the", "job", "pickings", "are", "tough", ",", "but", "I", "'d", "have", "tested", "out", "people", "heavily", "before", "opening", "a", "store", "with", "their", "products", "hitting", "shelves", "."], "e1_text": "tested", "e1_pos": 14, "e2_text": "opening", "e2_pos": 19, "label": "before"},
+{"tokens": ["Does", "n't", "matter", "if", "100", "or", "1", "million", "people", "are", "listening", "-", "it", "has", "to", "be", "the", "best", "he", "can", "do", "before", "the", "public", "gets", "it", "."], "e1_text": "do", "e1_pos": 20, "e2_text": "gets", "e2_pos": 24, "label": "before"}
+]

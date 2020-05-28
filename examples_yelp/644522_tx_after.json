@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "burgers", "cost", "the", "same", "amount", ":", "\\", "u00a37", ".50", "and", "this", "is", "where", "things", "get", "a", "bit", "...", "erm", "...", "meh", "...", "The", "food", "arrived", "around", "30", "minutes", "after", "we", "sat", "down", "."], "e1_text": "arrived", "e1_pos": 25, "e2_text": "sat", "e2_pos": 31, "label": "after"},
+{"tokens": ["I", "really", "do", "n't", "want", "this", "to", "be", "a", "damning", "review", ",", "after", "all", "the", "3", "guys", "who", "I", "was", "with", "absolutely", "loved", "their", "meals", ",", "but", "I", "just", "came", "away", "feeling", "that", "the", "vegetarian", "option", "was", "simply", "tacked", "on", "to", "appease", "folk", "like", "me", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "loved", "e2_pos": 22, "label": "after"}
+]

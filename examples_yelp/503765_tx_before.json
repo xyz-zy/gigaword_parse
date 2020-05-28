@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "suppose", "it", "was", "my", "fault", "for", "being", "in", "a", "rush", "and", "not", "checking", "the", "end", "result", ",", "but", "I", "assumed", "they", "had", "someone", "on", "staff", "to", "check", "their", "work", "before", "sending", "it", "back", "to", "the", "customer", "-", "my", "bad", "."], "e1_text": "check", "e1_pos": 27, "e2_text": "sending", "e2_pos": 31, "label": "before"}
+]

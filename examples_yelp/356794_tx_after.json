@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "having", "a", "particularly", "weird", "issue", "where", "my", "AC", "would", "n't", "turn", "off", "after", "reaching", "the", "set", "point", ",", "but", "this", "issue", "would", "come", "and", "go", "-LRB-", "usually", "with", "rain", "-RRB-", "."], "e1_text": "turn", "e1_pos": 12, "e2_text": "reaching", "e2_pos": 15, "label": "after"}
+]

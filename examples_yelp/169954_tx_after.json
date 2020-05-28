@@ -1,0 +1,4 @@
+[
+{"tokens": ["Towards", "the", "evening", "hours", "we", "realize", "our", "neighbors", "have", "a", "dog", "-", "dog", "whines", ",", "barks", ",", "yelps", "for", "hours", "after", "being", "left", "alone", "5", "."], "e1_text": "yelps", "e1_pos": 17, "e2_text": "being", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "come", "back", "to", "the", "room", "after", "a", "long", "day", "of", "competition", "and", "dog", "is", "still", "upset", "6", "."], "e1_text": "come", "e1_pos": 1, "e2_text": "is", "e2_pos": 14, "label": "after"}
+]

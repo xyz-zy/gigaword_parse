@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "indoor", "and", "outdoor", "seating", "-LRB-", "with", "misters", "outside", "so", "get", "it", "in", "before", "the", "temps", "hit", "100", "'s", "-RRB-", "with", "a", "mix", "of", "long", "family", "style", "benches", ",", "regular", "seating", ",", "and", "bar", "seating", "."], "e1_text": "get", "e1_pos": 11, "e2_text": "hit", "e2_pos": 17, "label": "before"}
+]

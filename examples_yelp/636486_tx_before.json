@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "made", "sure", "everything", "worked", "properly", "before", "I", "paid", "for", "his", "services", ",", "which", "worked", "like", "new", "."], "e1_text": "worked", "e1_pos": 4, "e2_text": "paid", "e2_pos": 8, "label": "before"}
+]

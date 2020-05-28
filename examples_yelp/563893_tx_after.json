@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "n't", "order", "extra", "beer", "just", "because", "no", "one", "asked", "me", "if", "I", "wanted", "more", "after", "I", "finished", "."], "e1_text": "wanted", "e1_pos": 14, "e2_text": "finished", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "tried", "to", "get", "their", "attention", ",", "got", "pissed", "after", "waving", "several", "times", "so", "in", "the", "end", "when", "they", "finally", "came", "over", "I", "just", "asked", "for", "the", "bill", ",", "I", "did", "n't", "wan", "na", "take", "the", "chance", "to", "spend", "another", "15", "min", "just", "for", "the", "check", "."], "e1_text": "pissed", "e1_pos": 8, "e2_text": "waving", "e2_pos": 10, "label": "after"}
+]

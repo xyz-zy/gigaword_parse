@@ -1,0 +1,3 @@
+[
+{"tokens": ["But", "I", "digress", "...", "Eventually", ",", "a", "more", "chipper", "waitress", "took", "me", "and", "a", "menu", "over", "to", "a", "waiting", "table", "-LRB-", "which", "had", "crumbs", "on", "it", "--", "strike", "number", "1", "-RRB-", "...", "It", "took", "a", "few", "minutes", "before", "my", "server", "came", "over", "to", "me", "to", "take", "my", "drink", "order", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "came", "e2_pos": 40, "label": "before"}
+]

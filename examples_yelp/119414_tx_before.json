@@ -1,0 +1,4 @@
+[
+{"tokens": ["Here", "'s", "a", "tip", ":", "If", "you", "want", "some", "extra", "cash", "before", "you", "leave", "the", "airport", ",", "make", "sure", "you", "head", "to", "the", "Wheel", "of", "Fortune", "quarter", "machines", "in", "the", "Delta", "wing", "."], "e1_text": "want", "e1_pos": 7, "e2_text": "leave", "e2_pos": 13, "label": "before"},
+{"tokens": ["Looks", "like", "I", "'ll", "be", "spinning", "the", "slots", "before", "I", "head", "to", "the", "city", "next", "time", "."], "e1_text": "spinning", "e1_pos": 5, "e2_text": "head", "e2_pos": 10, "label": "before"}
+]

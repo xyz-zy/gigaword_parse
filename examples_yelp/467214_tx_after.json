@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "learned", "things", "I", "never", "knew", "about", "my", "own", "city", "after", "living", "here", "for", "over", "a", "decade", "."], "e1_text": "knew", "e1_pos": 5, "e2_text": "living", "e2_pos": 11, "label": "after"}
+]

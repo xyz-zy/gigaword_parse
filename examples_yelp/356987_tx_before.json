@@ -1,0 +1,4 @@
+[
+{"tokens": ["Me", "and", "the", "b\\/f", "just", "checked", "into", "the", "luxor", "after", "an", "early", "morning", "flight", "and", "just", "wanted", "to", "grab", "something", "quick", "to", "eat", "before", "exploring", "the", "town", "and", "there", "were", "ads", "for", "this", "all", "over", "so", "we", "tried", "it", "out", "and", "it", "was", "actually", "really", "good", "."], "e1_text": "eat", "e1_pos": 22, "e2_text": "exploring", "e2_pos": 24, "label": "before"},
+{"tokens": ["We", "only", "stayed", "in", "LV", "for", "4", "days", "and", "we", "ate", "here", "before", "we", "left", "also", "because", "we", "thought", "it", "was", "just", "that", "good", "we", "had", "to", "go", "again", "before", "leaving", "."], "e1_text": "ate", "e1_pos": 10, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "to", "tell", "them", "that", "I", "wanted", "the", "back", "done", "instead", "of", "the", "front", "yard", "and", "I", "had", "a", "deadline", "that", "it", "needed", "to", "be", "done", "before", "."], "e1_text": "had", "e1_pos": 18, "e2_text": "needed", "e2_pos": 23, "label": "before"},
+{"tokens": ["Almost", "3", "weeks", "went", "by", "before", "I", "got", "a", "text", "that", "they", "could", "get", "the", "back", "yard", "done", "a", "week", "after", "I", "needed", "it", "to", "be", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "got", "e2_pos": 7, "label": "before"}
+]

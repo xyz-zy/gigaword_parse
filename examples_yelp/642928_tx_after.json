@@ -1,0 +1,5 @@
+[
+{"tokens": ["Me", "and", "my", "hubby", "decided", "to", "try", "this", "place", "out", "after", "finding", "it", "on", "yelp", ",", "we", "love", "it", "!"], "e1_text": "try", "e1_pos": 6, "e2_text": "finding", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "...", "I", "wrote", "this", "review", "only", "after", "having", "a", "beer", "and", "their", "awesome", "potatoes", "nachos", "!"], "e1_text": "wrote", "e1_pos": 3, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["And", "the", "fries", "were", "freshly", "cut", "from", "potatoes", "-LRB-", "amazing", "-RRB-", "after", "getting", "to", "meet", "the", "cook", "we", "totally", "understand", "y", "it", "was", "so", "yummy", "!"], "e1_text": "cut", "e1_pos": 5, "e2_text": "getting", "e2_pos": 12, "label": "after"}
+]

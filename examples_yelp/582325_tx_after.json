@@ -1,0 +1,3 @@
+[
+{"tokens": ["Usually", "at", "a", "doctor", "'s", "visit", ",", "I", "get", "some", "medications", "written", "up", "and", "pretty", "much", "get", "thrown", "out", "the", "door", "after", "I", "have", "waited", "an", "hour", "+", "."], "e1_text": "thrown", "e1_pos": 17, "e2_text": "have", "e2_pos": 23, "label": "after"}
+]

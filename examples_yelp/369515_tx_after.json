@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "pr", "owner", "-LRB-", "not", "sure", "which", "one", "he", "was", "-RRB-", "was", "very", "confrontational", "after", "we", "decided", "to", "leave", "and", "even", "followed", "us", "out", "with", "a", "smart", "''", "``", "have", "a", "great", "day", "''", "''", "!"], "e1_text": "was", "e1_pos": 10, "e2_text": "decided", "e2_pos": 17, "label": "after"}
+]

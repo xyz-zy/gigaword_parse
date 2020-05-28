@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "abt", "the", "shuttle", "service", "before", "getting", "to", "Vegas", "and", "they", "said", "there", "is", "no", "waiting", "and", "I", "'d", "be", "the", "3rd", "stop", "."], "e1_text": "abt", "e1_pos": 2, "e2_text": "getting", "e2_pos": 7, "label": "before"},
+{"tokens": ["Further", "we", "had", "to", "wait", "until", "each", "seat", "on", "the", "bus", "was", "full", "before", "leaving", "the", "airport", "!"], "e1_text": "was", "e1_pos": 11, "e2_text": "leaving", "e2_pos": 14, "label": "before"}
+]

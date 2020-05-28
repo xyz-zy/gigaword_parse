@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "co-teacher", "friend", "and", "I", "went", "out", "for", "lunch", "today", "during", "our", "first", "week", "back", "at", "school", ",", "before", "the", "kids", "start", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "start", "e2_pos": 21, "label": "before"}
+]

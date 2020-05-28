@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*", "After", "getting", "seated", ",", "it", "took", "the", "server", "25", "minutes", "before", "saying", "hi", "\\*", "Took", "nearly", "10", "minutes", "for", "water", "\\*", "Server", "forgot", "to", "bring", "my", "friends", "soda", "-LRB-", "she", "had", "to", "ask", "2", "times", "-RRB-", "\\*", "My", "tea", "took", "another", "10", "minutes", "to", "bring", "Ordered", ":", "Calamari", "-", "I", "'m", "a", "big", "fan", "of", "calamari", ",", "but", "this", "was", "chewy", "in", "a", "bad", "way", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "saying", "e2_pos": 12, "label": "before"}
+]

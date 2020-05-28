@@ -1,0 +1,4 @@
+[
+{"tokens": ["Took", "a", "long", "time", "for", "our", "order", "to", "be", "taken", ",", "waited", "and", "waited", "for", "food", "...", "about", "45", "minutes", "later", "we", "were", "given", "our", "bill", "before", "our", "food", "arrived", ",", "then", "our", "appetizer", "and", "salad", "came", "after", "we", "finally", "got", "-LRB-", "and", "finished", "-RRB-", "our", "pizza", "."], "e1_text": "came", "e1_pos": 36, "e2_text": "got", "e2_pos": 40, "label": "after"},
+{"tokens": ["I", "told", "him", "we", "would", "no", "longer", "come", "to", "his", "place", "after", "being", "regular", "customers", "for", "years", "."], "e1_text": "come", "e1_pos": 7, "e2_text": "being", "e2_pos": 12, "label": "after"}
+]

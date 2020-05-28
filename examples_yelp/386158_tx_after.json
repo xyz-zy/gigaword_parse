@@ -1,0 +1,3 @@
+[
+{"tokens": ["2", "-RRB-", "incompetent", "management", "and", "waitstaff", "who", "where", "not", "full", "of", "smiles", "but", "rather", "full", "of", "excuses", "as", "to", "why", "our", "damn", "food", "had", "not", "arrived", "in", "an", "hour", "after", "waiting", "a", "half", "an", "hour", "for", "a", "table", "."], "e1_text": "arrived", "e1_pos": 25, "e2_text": "waiting", "e2_pos": 30, "label": "after"}
+]

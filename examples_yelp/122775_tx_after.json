@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "they", "can", "revoke", "that", "as", "well", "after", "you", "have", "already", "checked", "in", "."], "e1_text": "revoke", "e1_pos": 3, "e2_text": "have", "e2_pos": 9, "label": "after"},
+{"tokens": ["B-connected", "food", "credits", "are", "complicated", ",", "you", "have", "to", "charge", "the", "meal", "to", "the", "room", "and", "then", "they", "comp", "it", "after", "you", "check", "out", "."], "e1_text": "comp", "e1_pos": 18, "e2_text": "check", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Mine", "was", "empty", "for", "5", "minutes", "before", "they", "came", "to", "refill", "it", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "then", "ordered", "a", "deep-fried", "roll", "which", "I", "had", "never", "tried", "before", ",", "and", "stopped", "when", "I", "pulled", "a", "long", "hair", "out", "of", "a", "piece", "of", "my", "sushi", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "had", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "are", "always", "rotating", "their", "menu", "items", ",", "so", "check", "their", "website", "before", "you", "go", "if", "you", "are", "hoping", "for", "a", "specific", "soup", "or", "bakery", "item", "."], "e1_text": "check", "e1_pos": 9, "e2_text": "go", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "dining", "room", "attendant", "was", "good", "about", "coming", "by", "and", "refilling", "our", "waters", ",", "and", "even", "brought", "around", "fresh", "chocolate", "chip", "cookies", ",", "which", "I", "have", "not", "seen", "them", "do", "before", "."], "e1_text": "seen", "e1_pos": 27, "e2_text": "do", "e2_pos": 29, "label": "before"}
+]

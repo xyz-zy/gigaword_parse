@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "made", "an", "appointment", ",", "and", "arrived", "on", "time", ",", "but", "it", "still", "took", "them", "2", "3\\/4", "hours", "to", "complete", "the", "work", ",", "after", "having", "told", "me", "it", "would", "take", "about", "an", "hour", ",", "and", "at", "the", "longest", "an", "hour", "and", "a", "half", "."], "e1_text": "took", "e1_pos": 14, "e2_text": "having", "e2_pos": 25, "label": "after"},
+{"tokens": ["But", "for", "the", "2", "hour", "and", "45", "minute", "wait", ",", "just", "to", "get", "an", "oil", "change", "and", "tire", "rotation", "-LRB-", "after", "having", "been", "told", "1", "to", "1", "1\\/2", "hours", "-RRB-", "and", "the", "generally", "poor", "and", "smug", "attitude", "of", "the", "staff", ",", "I", "take", "away", "3", "stars", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "having", "e2_pos": 21, "label": "after"}
+]

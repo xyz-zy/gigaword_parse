@@ -1,0 +1,5 @@
+[
+{"tokens": ["Finally", "got", "around", "to", "trying", "this", "place", "after", "eagerly", "awaiting", "the", "replacement", "for", "the", "awful", "Cafe", "Really", "."], "e1_text": "trying", "e1_pos": 4, "e2_text": "awaiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "had", "high", "hopes", "after", "hearing", "good", "reviews", "from", "neighbors", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "ordered", "the", "corned", "beef", "hash", "after", "the", "waiter", "recommended", "it", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "recommended", "e2_pos": 9, "label": "after"}
+]

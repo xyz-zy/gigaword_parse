@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "time", "I", "got", "a", "calzone", "that", "was", "cold", "inside", "-", "so", "they", "had", "to", "go", "stick", "it", "back", "in", "the", "oven", "-LRB-", "and", "that", "was", "after", "waiting", "a", "good", "while", "for", "it", "the", "first", "time", "round", "-RRB-", "."], "e1_text": "was", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "do", "n't", "know", "crap", "about", "the", "food", ",", "i", "even", "got", "in", "a", "''", "``", "friendly", "''", "''", "argument", "with", "the", "waitress", "when", "she", "told", "me", "that", "the", "chicken", "fried", "steak", "was", "made", "of", "chicken", "before", "I", "ordered", "it", ",", "''", "``", "honey", "I", "am", "old", "enough", "to", "be", "your", "grandma", "''", "''", "."], "e1_text": "got", "e1_pos": 11, "e2_text": "ordered", "e2_pos": 38, "label": "before"}
+]

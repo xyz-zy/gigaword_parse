@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "at", "Capital", "Tap", "Haus", "after", "finding", "out", "that", "there", "was", "no", "way", "our", "group", "of", "6", "was", "going", "to", "get", "a", "table", "for", "Team", "Trivia", "at", "Tipsy", "Cow", "five", "minutes", "before", "it", "began", "."], "e1_text": "get", "e1_pos": 22, "e2_text": "began", "e2_pos": 35, "label": "before"},
+{"tokens": ["In", "the", "end", ",", "we", "had", "to", "ask", "2", "or", "3", "different", "people", "FOUR", "times", "for", "the", "Brewer", "'s", "game", "before", "they", "turned", "it", "on", "!"], "e1_text": "had", "e1_pos": 5, "e2_text": "turned", "e2_pos": 22, "label": "before"}
+]

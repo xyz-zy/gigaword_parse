@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "relaxed", "after", "I", "kept", "reassuring", "them", "."], "e1_text": "relaxed", "e1_pos": 1, "e2_text": "kept", "e2_pos": 4, "label": "after"},
+{"tokens": ["Well", ",", "it", "is", "Goodyear", "AZ", "after", "all", ",", "not", "known", "for", "its", "restaurants", "or", "epicurean", "elite", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "known", "e2_pos": 10, "label": "after"}
+]

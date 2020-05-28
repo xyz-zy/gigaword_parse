@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "did", "not", "visit", "our", "table", "at", "all", "after", "serving", "our", "meal", ",", "which", "means", "drinks", "were", "n't", "refilled", ",", "plates", "were", "n't", "cleared", ",", "and", "the", "check", "was", "not", "brought", "to", "us", "."], "e1_text": "visit", "e1_pos": 4, "e2_text": "serving", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "is", "a", "saying", "''", "``", "fool", "me", "once", "shame", "on", "me", ",", "fool", "me", "twice", "shame", "on", "you", "''", "''", "I", "definitely", "should", "have", "chose", "another", "place", "to", "grab", "dinner", "on", "my", "way", "home", "but", "I", "figured", "the", "3rd", "visit", "was", "a", "To", "Go", "so", "I", "should", "have", "looked", "in", "the", "bag", "before", "I", "left", "so", "I", "gave", "them", "a", "2nd", "chance", "and", "I", "wish", "I", "did", "n't", "."], "e1_text": "looked", "e1_pos": 49, "e2_text": "left", "e2_pos": 55, "label": "before"}
+]

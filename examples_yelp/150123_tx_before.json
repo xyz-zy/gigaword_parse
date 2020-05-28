@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "did", "my", "research", "before", "I", "came", "here", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "came", "e2_pos": 6, "label": "before"},
+{"tokens": ["My", "mother", "and", "I", "only", "had", "one", "more", "day", "together", "before", "I", "went", "back", "to", "school", ",", "and", "I", "wanted", "the", "meal", "to", "be", "great", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "went", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "knew", "what", "I", "wanted", "to", "order", "before", "I", "even", "opened", "the", "front", "door", "to", "the", "place", ":", "the", "Seafood", "Omelette", "."], "e1_text": "order", "e1_pos": 6, "e2_text": "opened", "e2_pos": 10, "label": "before"},
+{"tokens": ["Like", "I", "told", "my", "mom", ",", "the", "3", "star", "rating", "means", "that", "I", "would", "go", "back", "and", "eat", ",", "but", "I", "would", "defiantly", "try", "somewhere", "else", "in", "the", "area", "before", "I", "go", "back", "."], "e1_text": "try", "e1_pos": 23, "e2_text": "go", "e2_pos": 31, "label": "before"}
+]

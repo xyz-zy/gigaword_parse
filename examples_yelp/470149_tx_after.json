@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "waitress", "kept", "on", "asking", "me", "for", "my", "payment", "even", "after", "I", "gave", "it", "to", "her", "."], "e1_text": "kept", "e1_pos": 2, "e2_text": "gave", "e2_pos": 12, "label": "after"},
+{"tokens": ["She", "also", "short", "changed", "two", "people", "in", "my", "party", "on", "their", "change", "and", "then", "disappeared", "after", "she", "said", "she", "would", "correct", "it", "."], "e1_text": "disappeared", "e1_pos": 14, "e2_text": "said", "e2_pos": 17, "label": "after"}
+]

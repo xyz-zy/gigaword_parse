@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "to", "ask", "2", "times", "for", "sugar", "-LRB-", "which", "isnt", "on", "the", "table", "-RRB-", "for", "my", "wife", "'s", "ice", "tea", "and", "thank", "goodness", "for", "ordering", "water", "cause", "after", "finishing", "our", "drinks", "no", "one", "even", "bothered", "to", "check", "and", "see", "if", "we", "needed", "refills", "or", "even", "how", "our", "meal", "was", "."], "e1_text": "ordering", "e1_pos": 25, "e2_text": "finishing", "e2_pos": 29, "label": "after"}
+]

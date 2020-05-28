@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "was", "one", "issue", "after", "another", "ranging", "from", "no", "calls", "back", ",", "to", "rude", "staff", ",", "to", "hang", "ups", ",", "to", "transfer", "after", "transfer", "to", "answering", "machine", ",", "to", "dial", "tone", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "ranging", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "will", "update", "the", "review", "after", "the", "trip", ",", "which", "I", "sure", "hope", "goes", "better", "than", "the", "entire", "ugly", "experience", "of", "booking", "it", "."], "e1_text": "update", "e1_pos": 2, "e2_text": "hope", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "burger", "arrived", "-LRB-", "points", "for", "splitting", "it", "onto", "two", "plates", "for", "us", ",", "with", "no", "up-charge", "for", "doing", "so", "-RRB-", "after", "about", "40", "minutes", ",", "which", "seemed", "a", "bit", "long", "given", "that", "the", "place", "did", "n't", "have", "many", "people", "eating", "at", "the", "time", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "given", "e2_pos": 31, "label": "after"}
+]

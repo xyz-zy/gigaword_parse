@@ -1,0 +1,4 @@
+[
+{"tokens": ["Been", "here", "an", "hour", "and", "finally", "got", "approached", "for", "my", "second", "cup", "of", "coffee", "after", "waiting", "for", "over", "30", "min", "."], "e1_text": "approached", "e1_pos": 7, "e2_text": "waiting", "e2_pos": 15, "label": "after"},
+{"tokens": ["Watched", "a", "gentleman", "in", "front", "of", "me", "stand", "up", "after", "15", "minutes", "waiting", "to", "get", "his", "order", "taken", "."], "e1_text": "stand", "e1_pos": 7, "e2_text": "taken", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "question", "about", "the", "purse", "I", "had", "fallen", "in", "love", "with", "and", "after", "waiting", "over", "10", "minutes", "for", "someone", "to", "help", "me", "out", ",", "one", "of", "the", "ladies", "reluctantly", "walked", "over", "with", "a", "poor", "attitude", "to", "help", "me", "out", "."], "e1_text": "fallen", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 15, "label": "after"}
+]

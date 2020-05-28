@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "prosecco", "failed", "to", "arrive", "until", "well", "after", "our", "salads", ",", "which", "appeared", "almost", "instantaneously", "."], "e1_text": "arrive", "e1_pos": 4, "e2_text": "appeared", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "walked", "around", "a", "bit", "lost", "before", "we", "finally", "figured", "it", "out", "."], "e1_text": "lost", "e1_pos": 5, "e2_text": "figured", "e2_pos": 9, "label": "before"}
+]

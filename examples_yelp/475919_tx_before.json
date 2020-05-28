@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "purchased", "an", "upholstered", "bed", ",", "and", "because", "I", "was", "moving", "and", "did", "n't", "re-inspect", "the", "furniture", "I", "purchased", ",", "it", "was", "11", "days", "before", "removing", "the", "item", "from", "it", "'s", "original", "box", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "removing", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "time", "I", "decided", "to", "try", "it", "before", "hitting", "the", "town", "with", "some", "girlfriends", "."], "e1_text": "try", "e1_pos": 6, "e2_text": "hitting", "e2_pos": 9, "label": "before"},
+{"tokens": ["Not", "to", "mentioned", "it", "seemed", "like", "she", "had", "never", "used", "a", "round", "brush", "before", "and", "was", "as", "slow", "as", "molasses", "."], "e1_text": "seemed", "e1_pos": 4, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

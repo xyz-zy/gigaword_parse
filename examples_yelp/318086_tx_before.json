@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "time", "during", "the", "warmer", "months", "I", "wanted", "to", "get", "there", "at", "park", "open", "to", "see", "the", "sun", "rise", "--", "which", "I", "did", "--", "however", ",", "while", "I", "waited", "for", "the", "gate", "to", "open", "there", "were", "a", "few", "jumpers", "that", "started", "before", "the", "ranger", "got", "there", "."], "e1_text": "started", "e1_pos": 40, "e2_text": "got", "e2_pos": 44, "label": "before"}
+]

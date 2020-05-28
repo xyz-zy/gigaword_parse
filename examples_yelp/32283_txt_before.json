@@ -1,0 +1,4 @@
+[
+{"tokens": ["Bought", "a", "groupon", "for", "this", "place", ",", "knowing", "how", "good", "the", "food", "is", "since", "I", "had", "been", "here", "before", "!"], "e1_text": "is", "e1_pos": 12, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["When", "I", "called", "the", "day", "before", "our", "dinner", "I", "was", "told", "by", "a", "man", "on", "the", "phone", "-LRB-", "sounded", "Italian", "...", "but", "then", "again", ",", "everyone", "at", "this", "place", "sounds", "Italian", "and", "I", "think", "they", "fake", "that", "accent", ",", "by", "the", "way", "!", "-RRB-"], "e1_text": "called", "e1_pos": 2, "e2_text": "sounded", "e2_pos": 18, "label": "before"}
+]

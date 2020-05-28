@@ -1,0 +1,4 @@
+[
+{"tokens": ["Im", "used", "to", "waitress", "telling", "u", "about", "the", "menu", "before", "discussing", "money", ",", "we", "looked", "at", "each", "other", "with", "a", "puzzled", "look", "and", "answered", "her", "and", "that", "some", "of", "us", "were", "paying", "cash", "and", "some", "were", "paying", "credit", "cards", "."], "e1_text": "telling", "e1_pos": 4, "e2_text": "discussing", "e2_pos": 10, "label": "before"},
+{"tokens": ["we", "tried", "to", "figure", "who", "had", "cash", "and", "if", "we", "needed", "to", "sit", "at", "separate", "tables", "in", "order", "to", "have", "lunch", "-LRB-", "literally", "talked", "about", "payment", "stuff", "for", "ten", "minutes", "before", "we", "were", "allowed", "to", "look", "at", "the", "menu", "-RRB-", "."], "e1_text": "talked", "e1_pos": 23, "e2_text": "were", "e2_pos": 32, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Finally", ",", "the", "bank", "called", "her", "after", "hours", "of", "waiting", ",", "saying", "they", "got", "permission", "from", "aria", "to", "return", "my", "friends", "money", "."], "e1_text": "called", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 9, "label": "after"},
+{"tokens": ["They", "did", "n't", "even", "clean", "our", "room", "one", "day", ",", "even", "after", "we", "requested", "turn", "down", "service", "by", "calling", "."], "e1_text": "clean", "e1_pos": 4, "e2_text": "requested", "e2_pos": 13, "label": "after"}
+]

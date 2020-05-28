@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "pick", "up", "my", "pup", "and", "get", "her", "home", "and", "into", "the", "bathtub", "-LRB-", "because", "she", "smells", "awful", "after", "leaving", "there", "-RRB-", "and", "notice", "her", "nose", "is", "all", "bloody", "and", "raw", "."], "e1_text": "smells", "e1_pos": 16, "e2_text": "leaving", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "contacted", "local", "manager", "the", "store", "before", "I", "left", "they", "just", "kind", "of", "shrugged", "and", "said", "sorry", "you", "were", "n't", "happy", "with", "your", "service", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "left", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "had", "to", "wait", "over", "an", "hour", "before", "I", "was", "actually", "seen", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 9, "label": "before"}
+]

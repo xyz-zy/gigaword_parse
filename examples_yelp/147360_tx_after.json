@@ -1,0 +1,5 @@
+[
+{"tokens": ["Day", "3", ":", "They", "come", "install", "the", "part", "they", "ordered", "after", "inspecting", "your", "toilet", "."], "e1_text": "ordered", "e1_pos": 9, "e2_text": "inspecting", "e2_pos": 11, "label": "after"},
+{"tokens": ["He", "removes", "the", "baseboard", "improperly", ",", "cuts", "the", "wood", "-LRB-", "after", "it", "is", "ordered", "for", "a", "few", "days", "-RRB-", "at", "the", "wrong", "length", "multiple", "times", "after", "first", "trying", "it", "with", "a", "hand", "saw", ",", "and", "then", "of", "course", "installs", "it", "upside", "down", "."], "e1_text": "cuts", "e1_pos": 6, "e2_text": "is", "e2_pos": 12, "label": "after"},
+{"tokens": ["I", "have", "disc", "problems", "in", "my", "lower", "back", "and", "enjoyed", "sitting", "in", "the", "hot", "tub", "in", "order", "to", "relax", ",", "after", "all", "it", "is", "one", "attraction", "to", "renting", "an", "apartment", "instead", "of", "purchasing", "a", "home", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "is", "e2_pos": 23, "label": "after"}
+]

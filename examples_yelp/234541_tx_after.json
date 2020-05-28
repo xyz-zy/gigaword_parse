@@ -1,0 +1,3 @@
+[
+{"tokens": ["Why", "was", "your", "food", "so", "terrible", "??", "I", "went", "there", "with", "a", "coworker", "today", "all", "excited", "after", "reading", "about", "how", "good", "their", "chili", "was", "right", "here", "on", "Yelp", ",", "and", "then", "something", "awful", "happened", "."], "e1_text": "went", "e1_pos": 8, "e2_text": "reading", "e2_pos": 17, "label": "after"}
+]

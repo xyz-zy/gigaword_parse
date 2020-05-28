@@ -1,0 +1,3 @@
+[
+{"tokens": ["Food", "is", "pretty", "expensive", ",", "huge", "variety", "though", "-", "always", "check", "the", "expiration", "dates", "they", "tend", "to", "have", "so", "much", "stuff", "that", "a", "lot", "does", "n't", "get", "bought", "before", "they", "expire", "from", "my", "observation", "."], "e1_text": "bought", "e1_pos": 27, "e2_text": "expire", "e2_pos": 30, "label": "before"}
+]

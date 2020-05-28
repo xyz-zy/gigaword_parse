@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "front", "row", "seats", "for", "the", "firework", "show", "that", "took", "place", "after", "the", "baseball", "game", ",", "which", "was", "pretty", "cool", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "was", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "would", "have", "given", "the", "place", "3", "stars", "however", ";", "after", "we", "ate", "we", "saw", "a", "huge", "cockroach", "make", "his", "way", "across", "the", "outdoor", "patio", "."], "e1_text": "given", "e1_pos": 3, "e2_text": "ate", "e2_pos": 12, "label": "after"}
+]

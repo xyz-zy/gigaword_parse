@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "agree", "with", "a", "few", "other", "reviewers", "in", "that", "you", "should", "eat", "before", "you", "get", "to", "the", "airport", "unless", "your", "idea", "of", "a", "meal", "is", "a", "bag", "of", "overpriced", "chips", "or", "a", "candy", "bar", "."], "e1_text": "eat", "e1_pos": 11, "e2_text": "get", "e2_pos": 14, "label": "before"},
+{"tokens": ["Be", "sure", "to", "make", "sure", "you", "'re", "all", "juiced", "up", "before", "you", "get", "there", "!"], "e1_text": "make", "e1_pos": 3, "e2_text": "get", "e2_pos": 12, "label": "before"}
+]

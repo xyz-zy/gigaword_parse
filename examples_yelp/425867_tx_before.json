@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "lunchtime", ",", "but", "it", "was", "n't", "so", "busy", "so", "as", "to", "justify", "15", "minutes", "passing", "-LRB-", "along", "with", "a", "pint", "of", "beer", "-RRB-", "before", "fries", "arrived", "."], "e1_text": "justify", "e1_pos": 13, "e2_text": "arrived", "e2_pos": 27, "label": "before"},
+{"tokens": ["I", "do", "n't", "really", "blame", "the", "bartender", "either", ",", "though", "he", "seemed", "oblivious", "that", "we", "had", "waited", "that", "long", "until", "a", "minute", "before", "they", "came", "out", "."], "e1_text": "waited", "e1_pos": 16, "e2_text": "came", "e2_pos": 24, "label": "before"}
+]

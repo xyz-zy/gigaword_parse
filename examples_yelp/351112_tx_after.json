@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "even", "used", "a", "bleach", "bottle", "to", "spray", "this", "area", "down", "after", "they", "kicked", "vomit", "boy", "out", "."], "e1_text": "used", "e1_pos": 2, "e2_text": "kicked", "e2_pos": 13, "label": "after"},
+{"tokens": ["But", "she", "did", "thank", "us", "for", "not", "vomiting", "and", "being", "good", "''", "``", "sports", "''", "''", "after", "watching", "the", "guy", "next", "to", "us", "hurl", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "watching", "e2_pos": 17, "label": "after"}
+]

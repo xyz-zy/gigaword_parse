@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "I", "'m", "ever", "in", "Cali", ",", "I", "'ll", "take", "a", "bite", "out", "of", "someone", "else", "'s", "burger", "before", "I", "decide", "it", "'s", "worth", "it", "to", "order", "my", "own", "."], "e1_text": "take", "e1_pos": 9, "e2_text": "decide", "e2_pos": 20, "label": "before"}
+]

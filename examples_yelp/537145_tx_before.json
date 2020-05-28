@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "wife", "and", "I", "had", "breakfast", "plans", "that", "were", "canceled", "at", "the", "last", "minute", ",", "so", "we", "just", "wanted", "something", "quick", "and", "easy", "before", "heading", "into", "a", "store", "in", "the", "huge", "shopping", "center", "Einstein", "is", "conveniently", "located", "in", "."], "e1_text": "wanted", "e1_pos": 18, "e2_text": "heading", "e2_pos": 24, "label": "before"}
+]

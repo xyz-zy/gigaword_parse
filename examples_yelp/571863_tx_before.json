@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "may", "have", "shot", "myself", "in", "the", "foot", "by", "having", "seen", "''", "``", "KA", "''", "''", "the", "night", "before", "I", "saw", "''", "``", "Zarkana", ".", "''", "''"], "e1_text": "shot", "e1_pos": 3, "e2_text": "saw", "e2_pos": 20, "label": "before"},
+{"tokens": ["Again", ",", "I", "may", "be", "entirely", "biased", "because", "like", "I", "mentioned", "before", ",", "I", "had", "seen", "KA", "the", "night", "before", ",", "which", "I", "definitely", "recommend", "!"], "e1_text": "mentioned", "e1_pos": 10, "e2_text": "had", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["Their", "food", "was", "served", "to", "them", "10", "minutes", "before", "ours", "made", "it", "out", "to", "us", "."], "e1_text": "served", "e1_pos": 3, "e2_text": "made", "e2_pos": 10, "label": "before"},
+{"tokens": ["Some", "time", "passed", "before", "we", "spotted", "our", "server", "-LRB-", "or", "A", "server", "for", "that", "matter", "-RRB-", "and", "catching", "her", "to", "let", "her", "know", "of", "the", "mistake", "was", "n't", "an", "easy", "feat", "."], "e1_text": "passed", "e1_pos": 2, "e2_text": "spotted", "e2_pos": 5, "label": "before"},
+{"tokens": ["He", "threw", "his", "arms", "up", "frustrated", "and", "said", ",", "''", "``", "Fine", ",", "you", "'re", "meals", "comped", "''", "''", "before", "storming", "off", "."], "e1_text": "threw", "e1_pos": 1, "e2_text": "storming", "e2_pos": 20, "label": "before"}
+]

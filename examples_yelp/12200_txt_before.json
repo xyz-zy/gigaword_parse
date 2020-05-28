@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "here", "is", "wonderful", "-", "I", "always", "start", "by", "sharing", "the", "smoked", "mozzarella", "fonduta", "before", "moving", "on", "to", "the", "always", "flavorful", "minestrone", "soup", "."], "e1_text": "sharing", "e1_pos": 10, "e2_text": "moving", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "happen", "to", "like", "this", "place", "&", "before", "our", "office", "moved", "it", "used", "to", "be", "across", "the", "street", ",", "now", "it", "'s", "a", "downtown", "adventure", "which", "I", "still", "like", "because", "I", "always", "discover", "new", "things", "."], "e1_text": "like", "e1_pos": 3, "e2_text": "moved", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "staff", "is", "n't", "my", "favorite", "so", "try", "to", "get", "a", "groupon", "before", "you", "come", "to", "get", "the", "best", "discount", "out", "there", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "come", "e2_pos": 14, "label": "before"}
+]

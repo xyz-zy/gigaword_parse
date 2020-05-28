@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "them", "an", "hour", "to", "get", "us", "seated", "even", "after", "we", "made", "a", "reservation", "three", "days", "ago", ",", "AND", "we", "had", "a", "big", "party", "of", "people", "."], "e1_text": "seated", "e1_pos": 8, "e2_text": "made", "e2_pos": 12, "label": "after"},
+{"tokens": ["It", "took", "them", "forever", "to", "take", "our", "order", "even", "after", "they", "take", "an", "hour", "just", "to", "seat", "us", "."], "e1_text": "take", "e1_pos": 5, "e2_text": "take", "e2_pos": 11, "label": "after"}
+]

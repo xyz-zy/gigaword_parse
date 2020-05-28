@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "love", "savory", "crepes", "and", "already", "was", "craving", "it", "for", "days", "now", "after", "looking", "up", "the", "menu", "."], "e1_text": "craving", "e1_pos": 7, "e2_text": "looking", "e2_pos": 13, "label": "after"},
+{"tokens": ["It", "had", "a", "little", "spice", "left", "in", "my", "mouth", "after", "every", "bite", "that", "had", "me", "wanted", "to", "come", "back", "."], "e1_text": "left", "e1_pos": 5, "e2_text": "had", "e2_pos": 1, "label": "after"}
+]

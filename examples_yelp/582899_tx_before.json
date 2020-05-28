@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "there", "by", "default", "because", "the", "korean", "bbq", "next", "door", "was", "closed", "before", "the", "time", "posted", "."], "e1_text": "closed", "e1_pos": 12, "e2_text": "posted", "e2_pos": 16, "label": "before"}
+]

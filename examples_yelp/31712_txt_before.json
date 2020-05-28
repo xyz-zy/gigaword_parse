@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "few", "downfalls", "of", "the", "resort", "1", "-RRB-", "$", "30", "a", "night", "resort", "fee", "...", "included", "is", "entrance", "to", "the", "water", "park", "for", "4", "people", "your", "whole", "stay", "daily", "news", "paper", "free", "valet", "shuttle", "to", "mall", "not", "included", "internet", "2", "-RRB-", "we", "extended", "our", "stay", "a", "few", "days", "before", "checking", "in", ",", "but", "had", "to", "check", "out", "and", "check", "back", "in", "for", "the", "extra", "days", "."], "e1_text": "extended", "e1_pos": 42, "e2_text": "checking", "e2_pos": 49, "label": "before"}
+]

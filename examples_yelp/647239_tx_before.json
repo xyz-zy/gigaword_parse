@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "sole", "employee", "working", "did", "n't", "see", "me", "at", "first", ",", "which", "was", "n't", "his", "fault", ",", "but", "he", "was", "talking", "to", "the", "drive-through", "customer", "for", "quite", "awhile", "before", "he", "bothered", "to", "check", "if", "anyone", "was", "at", "the", "counter", "."], "e1_text": "talking", "e1_pos": 20, "e2_text": "bothered", "e2_pos": 30, "label": "before"}
+]

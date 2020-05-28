@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "friend", "and", "I", "arrived", "just", "after", "12:30", "and", "the", "line", "was", "nearly", "out", "the", "door", "."], "e1_text": "arrived", "e1_pos": 4, "e2_text": "was", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "was", "n't", "surprising", "seeing", "it", "was", "a", "new", "restaurant", ",", "however", ",", "after", "finishing", "my", "meal", "and", "over", "hearing", "the", "comments", "of", "the", "diners", "around", "me", ",", "I", "can", "see", "this", "place", "having", "a", "steady", "20", "person", "line", "from", "11:30", "-", "1:30", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 14, "label": "after"}
+]

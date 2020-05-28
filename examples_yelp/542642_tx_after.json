@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "was", "in", "town", "to", "catch", "a", "few", "spring", "training", "games", "and", "we", "decided", "after", "searching", "on", "yelp", "to", "try", "this", "place", "out", "."], "e1_text": "decided", "e1_pos": 13, "e2_text": "searching", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "asked", "for", "water", "and", "we", "were", "given", "room", "temperature", "water", "after", "10", "minutes", "of", "being", "seated", "."], "e1_text": "given", "e1_pos": 7, "e2_text": "being", "e2_pos": 15, "label": "after"},
+{"tokens": ["They", "brought", "us", "a", "pitcher", "of", "ice", "and", "took", "it", "back", "after", "we", "served", "ourselves", "the", "ice", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "served", "e2_pos": 13, "label": "after"}
+]

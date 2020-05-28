@@ -1,0 +1,5 @@
+[
+{"tokens": ["Let", "me", "give", "you", "some", "prior", "information", "before", "reading", "this", "review", ":", "I", "went", "to", "Paulene", "'s", "Nails", "for", "five", "years", "before", "I", "decided", "I", "will", "never", "step", "foot", "in", "there", "again", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "reading", "e2_pos": 8, "label": "before"},
+{"tokens": ["For", "the", "last", "3", "+", "months", "I", "have", "been", "making", "appointments", "with", "Paulene", "'s", ",", "arriving", ",", "and", "it", "will", "take", "20", "minutes", "before", "they", "take", "me", "."], "e1_text": "take", "e1_pos": 20, "e2_text": "take", "e2_pos": 25, "label": "before"},
+{"tokens": ["I", "decided", "to", "risk", "it", "because", "I", "had", "an", "hour", "and", "a", "half", "before", "I", "had", "to", "be", "home", "."], "e1_text": "decided", "e1_pos": 1, "e2_text": "had", "e2_pos": 7, "label": "before"}
+]

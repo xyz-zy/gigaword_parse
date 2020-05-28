@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "burrito", "was", "tasty", "enough", ",", "but", "a", "-RRB-", "I", "was", "over", "halfway", "through", "it", "before", "I", "got", "a", "bite", "of", "meat", ",", "and", "b", "-RRB-", "I", "ordered", "a", "carne", "asada", "burrito", "with", "guacamole", ",", "and", "not", "only", "was", "there", "no", "guacamole", ",", "but", "there", "was", "chicken", "instead", "of", "beef", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "got", "e2_pos": 17, "label": "before"}
+]

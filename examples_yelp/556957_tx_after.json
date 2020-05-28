@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "an", "Italian", "sausage", "and", "mushroom", "pie", "from", "these", "guys", "not", "too", "long", "after", "they", "opened", "...", "and", "it", "was", "a", "big", "disappointment", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "opened", "e2_pos": 16, "label": "after"}
+]

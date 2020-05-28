@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "and", "I", "stood", "at", "the", "front\\/bar", "for", "a", "good", "10mins", "before", "we", "were", "even", "acknowledged", "even", "tho", "some", "employees", "already", "made", "eye", "contact", "with", "us", "."], "e1_text": "stood", "e1_pos": 4, "e2_text": "were", "e2_pos": 14, "label": "before"}
+]

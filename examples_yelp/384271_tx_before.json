@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "read", "the", "reviews", "before", "we", "went", "so", "I", "was", "a", "little", "anxious", "about", "bringing", "the", "kids", "and", "the", "slow", "service", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "went", "e2_pos": 7, "label": "before"},
+{"tokens": ["Funny", "thing", "was", "they", "did", "n't", "have", "ketchup", ",", "but", "before", "it", "was", "an", "issue", "the", "manager", "had", "already", "figured", "the", "kids", "wanted", "ketchup", "and", "he", "ran", "out", "and", "got", "some", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

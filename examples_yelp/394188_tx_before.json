@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "I", "must", "be", "losing", "my", "vision", ",", "considering", "I", "never", "noticed", "her", "before", ".", "-RRB-"], "e1_text": "considering", "e1_pos": 8, "e2_text": "noticed", "e2_pos": 11, "label": "before"},
+{"tokens": ["Being", "that", "I", "work", "full", "time", ",", "its", "impossible", "for", "me", "to", "get", "to", "her", "before", "she", "closes", "to", "get", "my", "stuff", "back", "."], "e1_text": "work", "e1_pos": 3, "e2_text": "closes", "e2_pos": 17, "label": "before"}
+]

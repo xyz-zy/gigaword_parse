@@ -1,0 +1,4 @@
+[
+{"tokens": ["Both", "our", "steaks", "were", "extremely", "overcooked", "and", "we", "waited", "and", "hour", "to", "get", "them", "before", "they", "even", "come", "out", "."], "e1_text": "get", "e1_pos": 12, "e2_text": "come", "e2_pos": 17, "label": "before"},
+{"tokens": ["Apparently", "they", "have", "to", "kill", "your", "cow", "and", "then", "overcook", "the", "hell", "out", "of", "it", "before", "they", "serve", "it", "."], "e1_text": "overcook", "e1_pos": 9, "e2_text": "serve", "e2_pos": 17, "label": "before"}
+]

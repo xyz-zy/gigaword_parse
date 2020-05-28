@@ -1,0 +1,3 @@
+[
+{"tokens": ["Who", "gives", "checks", "to", "their", "employees", "and", "asks", "them", "to", "wait", "AT", "LEAST", "a", "week", "to", "cash", "them", "?!?!", "Or", "who", "waits", "almost", "a", "month", "to", "give", "an", "employee", "a", "single", "check", "?!", "I", "had", "received", "2", "paychecks", "from", "my", "current", "employer", "before", "I", "got", "my", "first", "check", "from", "her", "!"], "e1_text": "received", "e1_pos": 35, "e2_text": "got", "e2_pos": 44, "label": "before"}
+]

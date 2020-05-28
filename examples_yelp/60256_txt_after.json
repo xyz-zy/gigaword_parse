@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "12:30", "pm", "and", "it", "took", "almost", "20", "min", "to", "get", "our", "food", "after", "we", "paid", "and", "they", "forgot", "our", "drink", "and", "we", "had", "to", "honk", "the", "horn", "to", "get", "their", "attention", "to", "get", "it", "!!"], "e1_text": "get", "e1_pos": 11, "e2_text": "paid", "e2_pos": 16, "label": "after"}
+]

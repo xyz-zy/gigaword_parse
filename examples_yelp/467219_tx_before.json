@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", ",", "it", "'s", "a", "BYOB", "restaurant", ",", "so", "I", "'m", "a", "little", "confused", "as", "to", "why", "the", "staff", "was", "all", "jumbled", "together", "behind", "a", "bar", "with", "no", "alcohol", "...", "We", "waited", "for", "15", "minutes", "before", "actually", "being", "greeted", "and", "asked", "how", "many", "were", "in", "our", "party", "."], "e1_text": "waited", "e1_pos": 32, "e2_text": "being", "e2_pos": 38, "label": "before"}
+]

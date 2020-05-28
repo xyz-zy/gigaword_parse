@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "did", "the", "seafood", "buffet", "on", "Friday", "night", ",", "got", "there", "a", "little", "later", "than", "the", "usual", "dinner", "crowd", "-LRB-", "about", "8pm", "-RRB-", "and", "only", "had", "about", "a", "ten", "minute", "wait", "-LRB-", "at", "the", "most", "-RRB-", "before", "we", "were", "seated", "."], "e1_text": "wait", "e1_pos": 30, "e2_text": "were", "e2_pos": 38, "label": "before"}
+]

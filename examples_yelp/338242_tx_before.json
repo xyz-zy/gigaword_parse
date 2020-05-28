@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "friend", "Heid", "works", "at", "the", "bakery", "so", "we", "thought", "we", "'d", "stop", "by", "in", "the", "morning", "before", "leaving", "for", "Boston", "where", "we", "were", "performing", "that", "night", "."], "e1_text": "stop", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 18, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "very", "high", "hopes", "for", "this", "place", ",", "after", "the", "very", "good", "reviews", "Fate", "got", "and", "that", "Sens", "has", "been", "getting", ",", "but", "I", "was", "terribly", "disappointed", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "got", "e2_pos": 15, "label": "after"},
+{"tokens": ["Maybe", "dinner", "here", "is", "a", "much", "better", "experience", ",", "but", "I", "'m", "not", "sure", "I", "'d", "even", "be", "willing", "to", "give", "it", "a", "try", "after", "the", "lunch", "I", "had", "here", "."], "e1_text": "give", "e1_pos": 20, "e2_text": "had", "e2_pos": 28, "label": "after"}
+]

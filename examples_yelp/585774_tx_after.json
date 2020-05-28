@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "probably", "would", "n't", "have", "minded", "if", "the", "staff", "were", "flat", "chat", "and", "run", "off", "their", "feet", "but", "i", "was", "disgusted", "to", "see", "15", "empty", "tables", "shortly", "after", "i", "was", "seated", "with", "still", "a", "ridiculous", "long", "line", "outside", ".", "."], "e1_text": "see", "e1_pos": 22, "e2_text": "was", "e2_pos": 19, "label": "after"},
+{"tokens": ["The", "meat", "was", "cooked", "well", ",", "the", "ingredients", "were", "fresh", "but", "it", "lacked", "the", "pizzazz", "and", "spice", "that", "you", "would", "expect", "after", "reading", "the", "description", "."], "e1_text": "expect", "e1_pos": 20, "e2_text": "reading", "e2_pos": 22, "label": "after"},
+{"tokens": ["A", "table", "of", "6", "left", "shortly", "after", "we", "were", "seated", "and", "the", "table", "was", "not", "cleared", "the", "entire", "time", "we", "were", "there", ",", "along", "with", "a", "2", "seater", "table", "next", "to", "us", "."], "e1_text": "left", "e1_pos": 4, "e2_text": "were", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "was", "fine", "but", "the", "problem", "was", "when", "I", "received", "the", "meal", ",", "everything", "on", "the", "plate", "was", "luke", "warm", "which", "meant", "it", "sat", "for", "a", "while", "before", "being", "brought", "to", "me", "."], "e1_text": "sat", "e1_pos": 24, "e2_text": "being", "e2_pos": 29, "label": "before"}
+]

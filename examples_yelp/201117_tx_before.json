@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "decided", "to", "stop", "here", "since", "we", "were", "still", "with", "our", "2", "year", "old", "son", ",", "before", "the", "babysitter", "-LRB-", "my", "mom", "-RRB-", "takes", "him", "away", "for", "the", "weekend", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "takes", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "think", "the", "only", "bad", "part", "of", "the", "entire", "place", "was", "that", "they", "force", "you", "to", "have", "your", "picture", "taken", "before", "you", "enter", "the", "Aquarium", "."], "e1_text": "taken", "e1_pos": 19, "e2_text": "enter", "e2_pos": 22, "label": "before"},
+{"tokens": ["Please", "make", "a", "mental", "note", "of", "who", "is", "behind", "you", "before", "you", "just", "stop", "mid-step", "to", "look", "at", "turtles", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "stop", "e2_pos": 13, "label": "before"}
+]

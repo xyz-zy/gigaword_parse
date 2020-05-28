@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apparently", "I", "need", "to", "pick", "my", "friends", "better", "because", "before", "getting", "dirtwashed", "by", "the", "guy", ",", "all", "I", "remember", "was", "his", "left", "hand", "and", "a", "pretty", "flash", "of", "gold", "make", "fireworks", "shoot", "from", "my", "right", "eye", "."], "e1_text": "pick", "e1_pos": 4, "e2_text": "getting", "e2_pos": 10, "label": "before"},
+{"tokens": ["The", "left", "eye", "adjusted", "a", "short", "amount", "of", "time", "before", "the", "other", ",", "which", "gave", "the", "room", "strange", "checkerboard", "appearance", "."], "e1_text": "adjusted", "e1_pos": 3, "e2_text": "gave", "e2_pos": 14, "label": "before"}
+]

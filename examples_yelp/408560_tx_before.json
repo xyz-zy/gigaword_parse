@@ -1,0 +1,4 @@
+[
+{"tokens": ["For", "over", "a", "year", "now", ",", "my", "wife", "and", "I", "have", "talked", "about", "scoutiing", "out", "this", "restaurant", "before", "taking", "the", "kids", "."], "e1_text": "scoutiing", "e1_pos": 13, "e2_text": "taking", "e2_pos": 18, "label": "before"},
+{"tokens": ["Raised", "in", "Korea", "and", "having", "lived", "in", "NY", ",", "Washington", "DC", ",", "and", "in", "Chicago", "before", "moving", "here", ",", "I", "'ve", "had", "some", "great", "Korean", "food", "and", "this", "place", "matches", "many", "of", "the", "restaurants", "that", "serve", "this", "type", "of", "simple", "''", "``", "comfort", "''", "''", "food", "."], "e1_text": "lived", "e1_pos": 5, "e2_text": "moving", "e2_pos": 16, "label": "before"}
+]

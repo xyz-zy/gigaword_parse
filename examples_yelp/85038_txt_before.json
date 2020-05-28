@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "manager", "does", "not", "apologize", "for", "a", "single", "thing", ",", "instead", "he", "made", "excuses", ",", "blamed", "us", "and", "yelled", "at", "my", "sister", "-LRB-", "the", "guest", "of", "honor", "-RRB-", "before", "he", "stormed", "off", "."], "e1_text": "yelled", "e1_pos": 18, "e2_text": "stormed", "e2_pos": 30, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Finally", ",", "when", "we", "ordered", "a", "''", "``", "surprise", "''", "''", "Great", "Wall", "of", "Chocolate", "for", "my", "sister", "'s", "birthday", ",", "it", "did", "n't", "take", "her", "five", "minutes", "before", "she", "went", "up", "to", "my", "sister", ",", "told", "her", "''", "``", "you", "did", "n't", "tell", "me", "it", "was", "your", "birthday", "!", "''", "''"], "e1_text": "take", "e1_pos": 24, "e2_text": "went", "e2_pos": 30, "label": "before"}
+]

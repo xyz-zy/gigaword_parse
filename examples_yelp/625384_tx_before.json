@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "technician", "was", "gentle", "and", "asked", "before", "doing", "anything", "beyond", "a", "normal", "pedicure", "."], "e1_text": "asked", "e1_pos": 5, "e2_text": "doing", "e2_pos": 7, "label": "before"},
+{"tokens": ["For", "example", ",", "I", "had", "heavy", "callousing", "and", "she", "asked", "before", "doing", "a", "callous", "removal", "treatment", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "doing", "e2_pos": 11, "label": "before"}
+]

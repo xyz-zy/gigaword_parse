@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "did", "not", "get", "drinks", "until", "after", "we", "asked", "for", "them", "after", "our", "meal", "was", "served", "."], "e1_text": "get", "e1_pos": 3, "e2_text": "asked", "e2_pos": 8, "label": "after"},
+{"tokens": ["My", "wifes", "steak", "was", "killed", "even", "after", "we", "got", "specific", "with", "them", "how", "we", "like", "it", "cooked", "-LRB-", "Medium", "well", "-RRB-", "."], "e1_text": "killed", "e1_pos": 4, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "asked", "for", "another", "as", "she", "was", "disappointed", "after", "the", "last", "time", "it", "was", "rare", "when", "we", "went", "out", "."], "e1_text": "disappointed", "e1_pos": 7, "e2_text": "was", "e2_pos": 6, "label": "after"}
+]

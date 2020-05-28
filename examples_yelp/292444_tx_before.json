@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "showing", "me", "to", "my", "table", "was", "chatty", "and", "nice", ",", "the", "waitress", "took", "my", "drink", "order", "within", "a", "minute", "of", "sitting", "down", "and", "as", "I", "had", "already", "checked", "the", "menu", "before", "coming", "here", "I", "was", "ready", "to", "order", "when", "she", "returned", "with", "my", "drink", "."], "e1_text": "checked", "e1_pos": 29, "e2_text": "coming", "e2_pos": 33, "label": "before"}
+]

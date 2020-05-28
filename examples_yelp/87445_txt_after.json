@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "believe", "that", "he", "was", "rubbing", "his", "eyes", "with", "his", "hands", "after", "sitting", "at", "the", "table", "for", "no", "more", "than", "ten", "minutes", "and", "must", "be", "from", "the", "traces", "of", "peanuts", "-LRB-", "which", "he", "has", "an", "allergic", "reaction", "to", "-RRB-", "on", "the", "table", "."], "e1_text": "rubbing", "e1_pos": 5, "e2_text": "sitting", "e2_pos": 12, "label": "after"}
+]

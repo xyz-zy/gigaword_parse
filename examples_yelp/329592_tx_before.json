@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "a", "great", "place", "for", "Sunday", "NFL", "football", "-", "they", "have", "a", "boatload", "of", "large", "screen", "TV", "'s", "and", "they", "'re", "labeled", "so", "that", "you", "know", "which", "one", "to", "sit", "at", "before", "the", "game", "starts", "in", "order", "to", "best", "root", "for", "your", "team", "."], "e1_text": "sit", "e1_pos": 30, "e2_text": "starts", "e2_pos": 35, "label": "before"},
+{"tokens": ["They", "'ll", "be", "gone", "before", "you", "know", "it", "."], "e1_text": "gone", "e1_pos": 3, "e2_text": "know", "e2_pos": 6, "label": "before"}
+]

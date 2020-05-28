@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "at", "the", "Venetian", "and", "one", "of", "my", "friends", "had", "already", "tried", "the", "pho", "special", "the", "day", "before", "at", "Noodle", "Asia", "located", "in", "the", "hotel", "and", "it", "was", "terrible", "!"], "e1_text": "tried", "e1_pos": 12, "e2_text": "located", "e2_pos": 22, "label": "before"},
+{"tokens": ["The", "pho", "still", "did", "the", "trick", "because", "before", "I", "knew", "it", "I", "was", "raging", "with", "Diplo", "and", "friends", "at", "EBC", ",", "but", "I", "'ll", "probably", "find", "a", "different", "hangover", "solution", "next", "time", "I", "'m", "in", "that", "neck", "of", "the", "Vegas", "strip", "."], "e1_text": "did", "e1_pos": 3, "e2_text": "knew", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friends", "and", "I", "decided", "to", "check", "this", "place", "out", "because", "it", "was", "nothing", "I", "have", "ever", "experienced", "before", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "have", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "stayed", "for", "maybe", "about", "an", "hour", "before", "it", "got", "way", "too", "cold", "and", "we", "left", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

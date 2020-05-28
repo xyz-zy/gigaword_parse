@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "had", "nothing", "but", "hoops", "to", "jump", "through", "and", "headaches", "since", "purchasing", "a", "dining", "room", "table", "that", "was", "delivered", "damaged", ",", "not", "only", "before", "delivery", "-LRB-", "as", "evidenced", "by", "the", "manufacturer", "'s", "repair", "on", "the", "corner", "-RRB-", ",", "but", "IN", "delivery", "where", "the", "table", "was", "clearly", "dropped", "with", "horrible", "damage", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "evidenced", "e2_pos": 28, "label": "before"},
+{"tokens": ["We", "immediately", "reported", "the", "damage", "and", "were", "told", "they", "'d", "send", "a", "tech", "out", "to", "look", "before", "replacing", "."], "e1_text": "look", "e1_pos": 15, "e2_text": "replacing", "e2_pos": 17, "label": "before"}
+]

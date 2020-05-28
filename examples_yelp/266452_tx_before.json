@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "put", "used", "tires", "from", "llanteras", "on", "my", "cars", ",", "because", "I", "drive", "clunkers", "and", "the", "car", "usually", "dies", "before", "the", "tires", "do", "."], "e1_text": "dies", "e1_pos": 19, "e2_text": "do", "e2_pos": 23, "label": "before"},
+{"tokens": ["It", "'s", "tough", "being", "a", "woman", "in", "a", "mechanic", "shop", ",", "because", "they", "treat", "you", "like", "you", "do", "n't", "know", "any", "better", "...", "and", "I", "guess", "that", "night", "they", "won", ",", "because", "they", "sold", "me", "junk", "and", "I", "did", "n't", "insist", "on", "inspecting", "them", "closely", "before", "I", "handed", "over", "the", "cash", "."], "e1_text": "inspecting", "e1_pos": 42, "e2_text": "handed", "e2_pos": 47, "label": "before"}
+]

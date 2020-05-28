@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "on", "03\\/22\\/2014", "We", "were", "kept", "waiting", "for", "15", "minutes", "before", "our", "`", "server", "'", "brought", "us", "menus", "."], "e1_text": "waiting", "e1_pos": 7, "e2_text": "brought", "e2_pos": 16, "label": "before"},
+{"tokens": ["We", "ended", "up", "waiting", "almost", "an", "hour", "and", "a", "half", "before", "we", "ended", "up", "paying", "for", "our", "drinks", "and", "leaving", "."], "e1_text": "waiting", "e1_pos": 3, "e2_text": "ended", "e2_pos": 1, "label": "before"}
+]

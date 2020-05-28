@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "was", "my", "first", "time", "at", "cartel", ",", "the", "coffee", "was", "good", "but", "they", "gave", "me", "the", "wrong", "cup", "of", "coffee", "and", "asked", "if", "I", "would", "be", "okay", "with", "that", "coffee", "instead", "...", "after", "I", "said", "no", "I", "want", "the", "coffee", "I", "ordered", "they", "took", "45", "mins", "to", "make", "it", "."], "e1_text": "asked", "e1_pos": 22, "e2_text": "said", "e2_pos": 35, "label": "after"}
+]

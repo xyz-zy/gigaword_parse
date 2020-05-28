@@ -1,0 +1,3 @@
+[
+{"tokens": ["Messed", "up", "our", "order", ",", "others", "got", "served", "before", "we", "did", "and", "we", "were", "there", "first", ",", "and", "we", "were", "barely", "checked", "up", "on", "."], "e1_text": "served", "e1_pos": 7, "e2_text": "did", "e2_pos": 10, "label": "before"}
+]

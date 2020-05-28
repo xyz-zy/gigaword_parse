@@ -1,0 +1,4 @@
+[
+{"tokens": ["Think", "very", "carefully", "before", "coming", "here", ",", "you", "could", "save", "your", "child", "'s", "life", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "coming", "e2_pos": 4, "label": "before"},
+{"tokens": ["Shame", "on", "the", "owners", "at", "gold", "medal", "for", "not", "taking", "safety", "in", "mind", "for", "these", "children", "first", "before", "attempting", "to", "make", "the", "pool", "look", "''", "``", "pretty", ".", "''", "''"], "e1_text": "taking", "e1_pos": 9, "e2_text": "attempting", "e2_pos": 18, "label": "before"}
+]

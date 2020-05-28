@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "submitted", "an", "incident", "report", "as", "soon", "as", "realized", "what", "happened", "and", "after", "not", "receiving", "a", "response", "or", "callback", ",", "I", "followed", "up", "and", "was", "was", "told", "that", "the", "room", "was", "inspected", "and", "nothing", "was", "found", "."], "e1_text": "realized", "e1_pos": 8, "e2_text": "receiving", "e2_pos": 14, "label": "after"}
+]

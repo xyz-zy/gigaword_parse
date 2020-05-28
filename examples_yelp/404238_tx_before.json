@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "was", "on", "top", "of", "things", ",", "we", "had", "our", "waiter", "bringing", "bread", "and", "water", "to", "the", "table", "before", "my", "bum", "even", "had", "a", "chance", "to", "get", "comfy", "in", "our", "booth", "."], "e1_text": "had", "e1_pos": 9, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["They", "must", "get", "a", "lot", "of", "coupons", "because", "I", "was", "asked", "if", "we", "had", "one", "before", "we", "ordered", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "ordered", "e2_pos": 17, "label": "before"}
+]

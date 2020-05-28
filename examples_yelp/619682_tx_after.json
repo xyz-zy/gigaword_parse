@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "dog", "in", "&", "she", "called", "me", "after", "I", "dropped", "him", "off", "&", "said", "he", "had", "an", "ear", "infection", "in", "one", "ear", "-LRB-", "thus", "the", "smell", "-RRB-", ",", "his", "nails", "had", "not", "been", "clipped", ",", "his", "anal", "glands", "had", "not", "been", "cleaned", ",", "and", "basically", "he", "was", "a", "disaster", "."], "e1_text": "called", "e1_pos": 7, "e2_text": "dropped", "e2_pos": 11, "label": "after"}
+]

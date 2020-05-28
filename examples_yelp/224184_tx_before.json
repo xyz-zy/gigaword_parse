@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "them", "before", "I", "found", "out", "about", "my", "gluten", "intolerance", ".", "-RRB-"], "e1_text": "had", "e1_pos": 1, "e2_text": "found", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "had", "the", "first", "two", "before", "I", "found", "out", "about", "my", "gluten", "intolerance", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "found", "e2_pos": 7, "label": "before"}
+]

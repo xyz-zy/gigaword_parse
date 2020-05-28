@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "nice", "to", "have", "multiple", "locations", "to", "get", "coffee", "in", "the", "morning", ",", "and", "also", "to", "have", "the", "McDonalds", "open", "24", "hours", "to", "grab", "some", "food", "real", "quick", "before", "heading", "up", "to", "the", "room", "after", "a", "long", "day", "."], "e1_text": "grab", "e1_pos": 24, "e2_text": "heading", "e2_pos": 30, "label": "before"}
+]

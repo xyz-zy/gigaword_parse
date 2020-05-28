@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "the", "waiter", "to", "take", "them", "back", "and", "he", "did", "and", "took", "them", "off", "our", "bill", "but", "instead", "of", "cooking", "us", "another", "meal", "the", "manager", "decide", "to", "give", "us", "one", "of", "every", "desert", "they", "have", ",", "our", "table", "was", "filled", "with", "deserts", "so", "after", "having", "a", "meal", "consisting", "of", "only", "sugar", "and", "starch", "we", "left", "feeling", "sick", "with", "a", "headache", "."], "e1_text": "filled", "e1_pos": 40, "e2_text": "having", "e2_pos": 45, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "do", "n't", "mind", "waiting", ",", "but", "when", "I", "did", "see", "the", "doctor", "-LRB-", "after", "35", "minutes", "more", "of", "waiting", "in", "the", "exam", "room", "-RRB-", ",", "he", "would", "n't", "perform", "the", "cyst", "injection", "that", "I", "specifically", "called", "and", "asked", "if", "he", "would", "perform", "before", "going", "in", "."], "e1_text": "see", "e1_pos": 10, "e2_text": "waiting", "e2_pos": 4, "label": "after"}
+]

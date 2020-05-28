@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "watched", "the", "3rd", "quarter", "of", "the", "game", "before", "I", "got", "my", "food", "...", "that", "'s", "about", "30", "+", "minutes", "-LRB-", "12", "basketball", "minutes", "is", "not", "12", "minutes", "+", "halftime", "parts", "-RRB-", "."], "e1_text": "watched", "e1_pos": 1, "e2_text": "got", "e2_pos": 10, "label": "before"}
+]

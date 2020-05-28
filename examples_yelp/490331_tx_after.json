@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "my", "Jeep", "Patriot", "here", "after", "my", "car", "decided", "it", "did", "not", "want", "to", "run", "any", "more", "while", "driving", "to", "Las", "Vegas", "from", "San", "Diego", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "decided", "e2_pos": 9, "label": "after"},
+{"tokens": ["It", "was", "ready", "only", "2", "hours", "after", "it", "was", "promised", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "supposedly", "did", "a", "full", "''", "``", "check", "''", "''", "before", "giving", "me", "the", "car", ",", "but", "they", "somehow", "did", "not", "check", "to", "see", "how", "full", "the", "tank", "was", "."], "e1_text": "did", "e1_pos": 2, "e2_text": "giving", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "original", "waitress", "disappeared", "for", "awhile", "after", "serving", "us", "initially", "before", "I", "spotted", "her", "standing", "around", "doing", "nothing", "in", "another", "section", "."], "e1_text": "disappeared", "e1_pos": 3, "e2_text": "serving", "e2_pos": 7, "label": "after"},
+{"tokens": ["This", "was", "all", "after", "we", "sat", "around", "for", "10", "minutes", "before", "a", "waitress", "even", "came", "by", "to", "take", "the", "first", "drink", "order", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "sat", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "here", "to", "have", "some", "coffee", "and", "read", "my", "book", ",", "and", "ended", "up", "having", "to", "leave", "after", "finishing", "a", "single", "chapter", "because", "the", "hoards", "of", "flies", "buzzing", "around", "my", "croissant", "made", "it", "hard", "to", "concentrate", "on", "my", "reading", "."], "e1_text": "leave", "e1_pos": 17, "e2_text": "finishing", "e2_pos": 19, "label": "after"}
+]

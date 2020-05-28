@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "even", "have", "a", "pharmacy", "rewards", "program", "where", "every", "time", "you", "fill", "5", "prescriptions", ",", "they", "mail", "you", "a", "5", "%", "off", "discount", "card", "that", "you", "can", "use", "for", "anything", "in", "the", "Target", "store", "-LRB-", "except", "further", "prescriptions", "-RRB-", "the", "entire", "day", "before", "it", "expires", "."], "e1_text": "use", "e1_pos": 27, "e2_text": "expires", "e2_pos": 44, "label": "before"}
+]

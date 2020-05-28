@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "about", "two", "months", "before", "doing", "anything", "about", "it", "since", "I", "did", "n't", "want", "to", "spend", "more", "than", "a", "car", "payment", "alone", "on", "a", "simple", "bulb", "replacement", "at", "the", "BMW", "dealer", "...", "then", "I", "remembered", "the", "sign", "I", "passed", "almost", "everyday", "for", "German", "Motor", "Works", "right", "on", "Scottsdale", "Road", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "doing", "e2_pos": 6, "label": "before"},
+{"tokens": ["``", "Just", "give", "me", "a", "call", "before", "you", "come", "over", "and", "I", "'ll", "take", "care", "of", "it", ",", "''", "''", "was", "all", "he", "said", ",", "and", "I", "knew", "that", "my", "little", "Z4", "was", "going", "to", "be", "in", "good", "hands", "!"], "e1_text": "give", "e1_pos": 2, "e2_text": "come", "e2_pos": 8, "label": "before"}
+]

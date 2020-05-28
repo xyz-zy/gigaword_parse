@@ -1,0 +1,4 @@
+[
+{"tokens": ["but", "then", "I", "got", "sick", "right", "before", "we", "boarded", "our", "plane", ".", "."], "e1_text": "got", "e1_pos": 3, "e2_text": "boarded", "e2_pos": 8, "label": "before"},
+{"tokens": ["not", "good", "...", "guess", "I", "should", "n't", "have", "eaten", "there", "before", "flying", "."], "e1_text": "eaten", "e1_pos": 8, "e2_text": "flying", "e2_pos": 11, "label": "before"}
+]

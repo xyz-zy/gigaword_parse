@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "to", "complain", "and", "the", "lady", "I", "was", "talking", "to", "says", "''", "``", "oh", "my", "god", "''", "''", "after", "try", "to", "explain", "that", "im", "upset", "she", "then", "said", "''", "``", "oh", "my", "god", ",", "all", "I", "can", "do", "is", "give", "you", "10", "%", "off", "''", "''", "I", "then", "start", "to", "tell", "her", "this", "is", "obviously", "not", "a", "concern", "to", "her", ",", "that", "my", "order", "was", "incorrect", "."], "e1_text": "and", "e1_pos": 4, "e2_text": "try", "e2_pos": 20, "label": "after"},
+{"tokens": ["She", "then", "says", "''", "``", "oh", "my", "god", "''", "''", "after", "that", "I", "went", "off", ",", "on", "how", "rude", "she", "was", "to", "tell", "a", "customer", "''", "``", "oh", "my", "god", "''", "''", "three", "times", ",", "like", "its", "an", "inconvenience", "to", "her", "."], "e1_text": "oh", "e1_pos": 5, "e2_text": "went", "e2_pos": 13, "label": "after"}
+]

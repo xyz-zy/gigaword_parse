@@ -1,0 +1,5 @@
+[
+{"tokens": ["That", "'s", "fine", "but", "the", "next", "morning", ",", "housekeeping", "knocked", "on", "my", "door", "at", "9:30", "am", "and", "immediately", "try", "to", "come", "in", "before", "I", "even", "got", "a", "chance", "to", "say", "there", "'s", "someone", "here", "."], "e1_text": "come", "e1_pos": 20, "e2_text": "got", "e2_pos": 25, "label": "before"},
+{"tokens": ["they", "did", "n't", "provide", "me", "with", "one", "of", "those", "''", "``", "do", "not", "disturb", "''", "''", "sign", "to", "hang", "on", "my", "door", "but", "at", "least", "they", "should", "'ve", "checked", "if", "someone", "is", "in", "the", "room", "before", "busting", "in", "!"], "e1_text": "is", "e1_pos": 31, "e2_text": "busting", "e2_pos": 36, "label": "before"},
+{"tokens": ["Why", "do", "n't", "they", "physically", "check", "the", "mini", "bar", "before", "charging", "someone", "???", "That", "'s", "how", "they", "do", "it", "in", "most", "hotels", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "charging", "e2_pos": 10, "label": "before"}
+]

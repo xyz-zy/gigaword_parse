@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "with", "it", ",", "but", "wondered", "if", "it", "really", "took", "20", "minutes", "after", "getting", "my", "cauliflower", "to", "receive", "my", "entre", "."], "e1_text": "took", "e1_pos": 10, "e2_text": "getting", "e2_pos": 14, "label": "after"},
+{"tokens": ["Still", "hungry", ",", "I", "would", "have", "ordered", "dessert", ",", "however", ",", "I", "was", "made", "to", "wait", "another", "20", "minutes", "after", "obviously", "finishing", "my", "meal", "before", "I", "could", "get", "my", "check", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "finishing", "e2_pos": 21, "label": "after"}
+]

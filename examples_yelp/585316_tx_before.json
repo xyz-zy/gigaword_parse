@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "have", "an", "incredible", "selection", "of", "local", "meats", ",", "I", "have", "to", "decide", "what", "I", "'m", "getting", "before", "I", "go", "in", "there", ",", "or", "I", "come", "out", "with", "far", "too", "much", "meat-stuffs", "."], "e1_text": "getting", "e1_pos": 16, "e2_text": "go", "e2_pos": 19, "label": "before"},
+{"tokens": ["No", "worries", "though", ",", "there", "'s", "a", "Citizen", "'s", "Bank", "ATM", "down", "the", "street", "that", "I", "frequent", "before", "grabbing", "meats", "."], "e1_text": "'s", "e1_pos": 5, "e2_text": "grabbing", "e2_pos": 18, "label": "before"}
+]

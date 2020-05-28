@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "contacted", "the", "800", "#", ",", "after", "waiting", "over", "8", "minutes", "on", "hold", ",", "I", "was", "told", ",", "by", "''", "``", "Bob", "''", "''", "who", "barely", "spoke", "English", ",", "that", "I", "would", "have", "to", "contact", "the", "store", "and", "resolve", "the", "issue", "with", "them", "."], "e1_text": "contacted", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 7, "label": "after"}
+]

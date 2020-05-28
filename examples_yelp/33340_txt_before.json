@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "off", ",", "Wednesday", "night", "now", "features", "a", "very", "amusing", "piano", "player", "who", "plays", "lots", "of", "popular", "tunes", "that", "will", "have", "you", "singing", "along", "before", "you", "realize", "what", "you", "'re", "doing", "."], "e1_text": "singing", "e1_pos": 22, "e2_text": "realize", "e2_pos": 26, "label": "before"},
+{"tokens": ["Great", "flavors", "I", "had", "not", "experienced", "before", "."], "e1_text": "flavors", "e1_pos": 1, "e2_text": "had", "e2_pos": 3, "label": "before"}
+]

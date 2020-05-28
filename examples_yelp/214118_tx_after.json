@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "elevator", "was", "full", "of", "the", "people", "in", "my", "office", "and", "I", "made", "a", "comment", "after", "those", "particular", "guests", "got", "off", "the", "elevator", "and", "the", "door", "closed", "-LRB-", "I", "was", "trying", "to", "be", "funny", "-RRB-", "and", "Denny", "started", "yelling", "at", "me", "telling", "me", "they", "were", "guests", "."], "e1_text": "made", "e1_pos": 12, "e2_text": "got", "e2_pos": 19, "label": "after"},
+{"tokens": ["Later", "on", ",", "I", "went", "down", "stairs", "to", "complain", "about", "his", "bad", "behavior", "after", "I", "had", "lengthy", "discussions", "with", "the", "other", "folks", "that", "had", "been", "on", "the", "elevator", "."], "e1_text": "complain", "e1_pos": 8, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["He", "was", "behind", "the", "desk", "and", "after", "I", "asked", "for", "the", "management", "-LRB-", "which", ",", "of", "course", ",", "was", "n't", "there", "-RRB-", "and", "he", "proceeded", "to", "tell", "me", "to", "get", "out", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asked", "e2_pos": 8, "label": "after"}
+]

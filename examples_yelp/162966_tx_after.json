@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friend", "had", "her", "shoes", "stolen", "out", "of", "her", "room", "and", "after", "basically", "accusing", "her", "roomies", "-LRB-", "us", "-RRB-", "stealing", "them", ",", "offered", "her", "50", "bucks", "and", "showed", "no", "care", "or", "empathy", "."], "e1_text": "stolen", "e1_pos": 5, "e2_text": "accusing", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Stayed", "here", "on", "the", "27th", "after", "checking", "out", "of", "Palazzo", "until", "the", "30th", ",", "meaning", "I", "just", "managed", "to", "avoid", "the", "crazy", "New", "Years", "stuff", "for", "the", "most", "part", "."], "e1_text": "Stayed", "e1_pos": 0, "e2_text": "checking", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "room", ":", "The", "standard", "room", "is", "much", "much", "smaller", "than", "the", "standard", "`", "room", "'", "at", "Palazzo", "so", "it", "was", "kinda", "O", "__", "o", "for", "me", "after", "being", "used", "to", "Palazzo", "for", "the", "first", "few", "days", "at", "Vegas", ",", "but", "I", "got", "used", "to", "it", "."], "e1_text": "was", "e1_pos": 20, "e2_text": "being", "e2_pos": 28, "label": "after"}
+]

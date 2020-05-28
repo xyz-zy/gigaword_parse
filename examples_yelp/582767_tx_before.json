@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "were", "promptly", "seated", "and", "seen", "by", "a", "few", "different", "waiters", "before", "actually", "getting", "''", "``", "our", "''", "''", "waitress", "."], "e1_text": "waiters", "e1_pos": 10, "e2_text": "getting", "e2_pos": 13, "label": "before"},
+{"tokens": ["Interestingly", "enough", ",", "my", "hand", "towel", "for", "my", "ribs", "came", "out", "10", "minutes", "before", "any", "food", "was", "served", "...", "which", "does", "n't", "really", "make", "sense", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["Usually", ",", "you", "can", "take", "a", "knife", "and", "break", "apart", "the", "ribs", "like", "melted", "butter", ",", "but", "this", "time", ",", "I", "had", "to", "bend", "back", "a", "rib", ",", "and", "cut", "it", "before", "it", "came", "apart", "."], "e1_text": "cut", "e1_pos": 29, "e2_text": "came", "e2_pos": 33, "label": "before"}
+]

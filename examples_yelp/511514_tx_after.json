@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'ve", "been", "here", "twice", "now", ",", "and", "both", "visits", "have", "ended", "in", "an", "akward", "10-20", "minutes", "after", "the", "show", "waiting", "to", "receive", "our", "bill", "and\\/or", "have", "our", "bill", "cashed", "out", "."], "e1_text": "ended", "e1_pos": 11, "e2_text": "waiting", "e2_pos": 20, "label": "after"},
+{"tokens": ["Our", "server", "was", "extra", "slow", "last", "night", "because", "the", "people", "next", "to", "us", "tried", "to", "skip", "out", "on", "a", "$", "100", "+", "tab", ",", "which", "crossed", "our", "mind", "as", "we", "waited", "after", "the", "show", "and", "half", "the", "place", "cleared", "out", "before", "receiving", "our", "bill", "."], "e1_text": "waited", "e1_pos": 30, "e2_text": "cleared", "e2_pos": 38, "label": "after"}
+]

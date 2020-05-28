@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "ran", "my", "debit", "card", "after", "giving", "me", "the", "reciept", "to", "sign", "i", "asked", "for", "my", "card", "back", "-LRB-", "which", "I", "had", "obviously", "put", "a", "big", "fat", "zero", "in", "the", "tip", "area", "-RRB-", ",", "she", "didnt", "give", "me", "back", "my", "card", "expecting", "a", "tip", "."], "e1_text": "ran", "e1_pos": 1, "e2_text": "giving", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "called", "the", "manager", "after", "leaving", "unhappy", "and", "was", "told", "that", "they", "dont", "discipline", "their", "stylists", "and", "he", "refused", "to", "give", "me", "the", "district", "managers", "number", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "after"}
+]

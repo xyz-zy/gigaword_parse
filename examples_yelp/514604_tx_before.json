@@ -1,0 +1,3 @@
+[
+{"tokens": ["How", "about", "being", "like", "the", "considerate", "airline", "pilot", "who", "makes", "the", "announcement", "to", "give", "you", "15", "minutes", "to", "take", "care", "of", "business", "before", "putting", "the", "seat", "belt", "light", "on", "for", "descent", "?"], "e1_text": "take", "e1_pos": 18, "e2_text": "putting", "e2_pos": 23, "label": "before"}
+]

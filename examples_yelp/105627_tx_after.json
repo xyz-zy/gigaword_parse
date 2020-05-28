@@ -1,0 +1,3 @@
+[
+{"tokens": ["Who", "tells", "a", "party", "of", "8", "after", "waiting", "45", "min", "that", "they", "wo", "n't", "be", "seated", "because", "they", "asked", "if", "the", "table", "was", "ready", "?"], "e1_text": "tells", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 7, "label": "after"}
+]

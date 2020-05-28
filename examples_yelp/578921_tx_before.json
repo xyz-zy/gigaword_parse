@@ -1,0 +1,3 @@
+[
+{"tokens": ["Amazing", "hotel", "and", "in", "such", "a", "great", "location", "!!", "The", "concierge", "sent", "an", "email", "to", "us", "before", "we", "left", "to", "ask", "if", "there", "were", "anything", "we", "anticipated", "needing", "during", "our", "stay", "."], "e1_text": "sent", "e1_pos": 11, "e2_text": "left", "e2_pos": 18, "label": "before"}
+]

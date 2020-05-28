@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "have", "dined", "here", "before", "therefore", ",", "we", "knew", "what", "to", "expect", "at", "this", "restaurant", "."], "e1_text": "dined", "e1_pos": 2, "e2_text": "knew", "e2_pos": 8, "label": "before"},
+{"tokens": ["This", "took", "forever", "to", "come", "and", "when", "it", "finally", "came", ",", "it", "was", "about", "3", "minutes", "before", "the", "food", "came", "."], "e1_text": "was", "e1_pos": 12, "e2_text": "came", "e2_pos": 9, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "was", "slammed", "the", "last", "time", "we", "were", "there", "-LRB-", "about", "10", "minutes", "after", "we", "were", "seated", ",", "a", "whole", "tour", "bus", "arrived", "to", "an", "already", "busy", "restaurant", "-RRB-", ",", "but", "from", "the", "service", "we", "received", ",", "you", "absolutely", "could", "not", "tell", "."], "e1_text": "slammed", "e1_pos": 3, "e2_text": "were", "e2_pos": 8, "label": "after"}
+]

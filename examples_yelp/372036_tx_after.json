@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "stated", "that", "this", "was", "personal", "travel", "and", "that", "I", "did", "n't", "provide", "this", "information", "when", "I", "rented", "cars", "the", "clerk", "asked", "where", "I", "rented", "from", "-LRB-", "Enterprise", "-RRB-", "and", "after", "I", "stated", "hotel", "and", "employer", "the", "clerk", "said", "I", "was", "rude", "and", "to", "go", "rent", "from", "Enterprise", "."], "e1_text": "provide", "e1_pos": 13, "e2_text": "stated", "e2_pos": 2, "label": "after"}
+]

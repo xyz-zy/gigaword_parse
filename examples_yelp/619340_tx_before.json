@@ -1,0 +1,4 @@
+[
+{"tokens": ["Next", "time", "I", "know", "to", "come", "here", "before", "I", "start", "my", "shopping", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "start", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "server", "acknoledged", "the", "mistake", "right", "away", ",", "but", "did", "n't", "make", "the", "effort", "to", "re-plate", "our", "items", "before", "serving", "us", "."], "e1_text": "re-plate", "e1_pos": 15, "e2_text": "serving", "e2_pos": 19, "label": "before"}
+]

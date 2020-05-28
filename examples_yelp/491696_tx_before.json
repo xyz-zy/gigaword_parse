@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "things", "first", ",", "you", "have", "to", "pay", "before", "you", "wait", "in", "line", "."], "e1_text": "pay", "e1_pos": 7, "e2_text": "wait", "e2_pos": 10, "label": "before"},
+{"tokens": ["Again", ",", "you", "have", "to", "pay", "before", "you", "wait", "in", "line", "."], "e1_text": "pay", "e1_pos": 5, "e2_text": "wait", "e2_pos": 8, "label": "before"}
+]

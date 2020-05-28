@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "thing", "that", "gets", "me", "upset", "is", "that", "they", "could", "'ve", "called", "to", "let", "you", "know", "what", "happened", "before", "they", "make", "you", "wake", "up", "at", "5AM", "and", "then", "take", "a", "bus", "ride", "all", "around", "Las", "Vegas", "to", "pick", "up", "other", "people", "...", "only", "to", "have", "a", "representative", "call", "each", "person", "up", "one-by-one", "to", "tell", "you", "your", "trip", "is", "canceled", "."], "e1_text": "happened", "e1_pos": 17, "e2_text": "make", "e2_pos": 20, "label": "before"}
+]

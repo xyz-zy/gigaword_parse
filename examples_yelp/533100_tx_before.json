@@ -1,0 +1,4 @@
+[
+{"tokens": ["Apps", "came", "out", "before", "we", "got", "our", "drinks", ",", "OK", ",", "then", "the", "waitress", "drops", "a", "wineglass", "on", "the", "table", "completely", "shattering", "it", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "got", "e2_pos": 5, "label": "before"},
+{"tokens": ["I", "'ll", "wait", "for", "new", "management", "before", "going", "back", "."], "e1_text": "wait", "e1_pos": 2, "e2_text": "going", "e2_pos": 7, "label": "before"}
+]

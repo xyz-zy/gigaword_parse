@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "last", "weekend", "for", "breakfast", "after", "reading", "a", "review", "for", "the", "other", "location", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 7, "label": "after"},
+{"tokens": ["Unfortunately", "we", "had", "to", "be", "somewhere", "and", "after", "waiting", "as", "long", "as", "possible", ",", "had", "to", "leave", "."], "e1_text": "be", "e1_pos": 4, "e2_text": "waiting", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Was", "really", "looking", "forward", "to", "coming", "here", "after", "seeing", "this", "place", "showcased", "on", "Food", "Network", "and", "reading", "many", "positive", "reviews", "on", "Yelp", "."], "e1_text": "coming", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "burger", "I", "had", "was", "so", "so", ",", "nothing", "I", "would", "come", "back", "for", ",", "the", "after", "taste", "from", "eating", "it", "reminded", "me", "of", "the", "burger", "for", "longer", "than", "I", "would", "have", "liked", "."], "e1_text": "come", "e1_pos": 11, "e2_text": "reminded", "e2_pos": 21, "label": "after"}
+]

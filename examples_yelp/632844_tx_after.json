@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "upgraded", "me", "to", "this", "''", "``", "VIP", "''", "''", "room", "after", "losing", "my", "original", "reservation", "."], "e1_text": "room", "e1_pos": 10, "e2_text": "losing", "e2_pos": 12, "label": "after"}
+]

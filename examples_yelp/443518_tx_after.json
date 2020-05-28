@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "placed", "our", "order", "then", "after", "the", "other", "couple", "we", "were", "with", "received", "their", "food", "we", "proceeded", "to", "wait", "an", "additional", "40", "minutes", "for", "the", "lady", "to", "come", "and", "ask", "us", "''", "``", "if", "we", "needed", "anything", "else", "?", "''", "''"], "e1_text": "placed", "e1_pos": 1, "e2_text": "were", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "will", "still", "admit", "that", "I", "love", "the", "food", "there", ",", "which", "is", "why", "we", "kept", "going", "back", "so", "many", "times", "after", "being", "treated", "so", "terribly", "each", "time", ",", "but", "until", "this", "place", "is", "under", "new", "management", "I", "will", "not", "step", "foot", "in", "there", "again", "."], "e1_text": "kept", "e1_pos": 15, "e2_text": "being", "e2_pos": 22, "label": "after"}
+]

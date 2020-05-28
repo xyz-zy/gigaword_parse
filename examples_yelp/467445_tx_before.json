@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "before", "I", "purchased", "the", "groupons", "to", "make", "sure", "that", "I", "would", "be", "able", "to", "use", "them", "the", "same", "day", "day", "I", "purchased", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "purchased", "e2_pos": 4, "label": "before"},
+{"tokens": ["At", "this", "point", "I", "'m", "frustrated", "and", "asked", "why", "she", "was", "going", "to", "just", "wave", "me", "in", "without", "checking", "anything", "or", "charging", "admission", "before", "I", "reminded", "her", "I", "was", "the", "girl", "who", "called", "about", "the", "groupons", "...", "she", "completely", "tried", "to", "backtrack", "and", "say", "that", "she", "waved", "us", "in", "because", "we", "showed", "her", "the", "groupon", "app", "."], "e1_text": "charging", "e1_pos": 21, "e2_text": "reminded", "e2_pos": 25, "label": "before"}
+]

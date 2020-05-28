@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "ate", "here", "before", "seeing", "a", "show", "at", "the", "Blumenthal", "-LRB-", "which", "is", "conveniently", "located", "right", "next", "door", "-RRB-", "and", "sat", "at", "the", "chefs", "table", "looking", "in", "on", "the", "crew", "preparing", "dinner", "."], "e1_text": "ate", "e1_pos": 4, "e2_text": "seeing", "e2_pos": 7, "label": "before"}
+]

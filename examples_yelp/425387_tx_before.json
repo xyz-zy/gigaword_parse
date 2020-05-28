@@ -1,0 +1,4 @@
+[
+{"tokens": ["Little", "did", "we", "know", "the", "provolone", "fondue", "-LRB-", "our", "appetizer", "-RRB-", "came", "in", "hugeee", "portion", ",", "getting", "us", "full", "before", "our", "main", "dishes", "came", "out", "haha", "But", "of", "course", ",", "this", "didnt", "stop", "us", "for", "digging", "in", "."], "e1_text": "getting", "e1_pos": 16, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "kitchen", "was", "nice", "enough", "to", "split", "the", "meals", "on", "two", "plates", "before", "bringing", "it", "out", "."], "e1_text": "split", "e1_pos": 6, "e2_text": "bringing", "e2_pos": 13, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "the", "calamari", "as", "an", "appetizer", "and", "it", "did", "take", "a", "bit", "before", "we", "got", "it", "but", "it", "was", "very", "tasty", "and", "the", "two", "dipping", "sauces", "were", "excellent", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "got", "e2_pos": 15, "label": "before"}
+]

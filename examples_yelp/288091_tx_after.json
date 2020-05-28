@@ -1,0 +1,3 @@
+[
+{"tokens": ["Chicken", "chipotle", "sandwich", "made", "me", "puke", "less", "than", "10", "minutes", "after", "eating", "it", "."], "e1_text": "puke", "e1_pos": 5, "e2_text": "eating", "e2_pos": 11, "label": "after"}
+]

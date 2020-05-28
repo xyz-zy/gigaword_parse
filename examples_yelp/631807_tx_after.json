@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "and", "complained", "to", "management", ",", "but", "they", "just", "sorta", "blew", "it", "off", "after", "offering", "to", "deliver", "me", "2", "more", "slices", "-LRB-", "this", "was", "takeout", "order", "-RRB-", "."], "e1_text": "blew", "e1_pos": 11, "e2_text": "offering", "e2_pos": 15, "label": "after"}
+]

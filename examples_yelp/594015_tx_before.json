@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "having", "so", "much", "fun", "we", "did", "not", "get", "back", "to", "the", "hotel", "lobby", "until", "almost", "5", "PM", ",", "but", "our", "room", "was", "still", "not", "ready", ",", "even", "after", "it", "was", "''", "``", "rushed", "''", "''", "3", "hours", "before", "-", "that", "was", "upsetting", ",", "so", "we", "had", "to", "wait", "there", "in", "our", "swim", "clothes", "-LRB-", "there", "are", "no", "chairs", "to", "sit", "on", "as", "the", "lobby", "is", "tiny", "-RRB-", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "went", "back", "to", "the", "lobby", "to", "ask", "for", "turndown", "service", "again", "before", "we", "left", "to", "go", "out", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "left", "e2_pos": 14, "label": "before"}
+]

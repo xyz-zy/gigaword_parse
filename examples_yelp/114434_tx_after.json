@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "were", "somewhat", "embarassed", "after", "we", "ordered", ",", "especially", "with", "friends", "from", "Milan", "in", "our", "party", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "waitress", "came", "after", "about", "5", "minutes", "-LRB-", "she", "was", "working", "to", "deliver", "orders", "to", "the", "folks", "at", "tables", "-RRB-", ",", "asking", "how", "many", "were", "dining", "and", "where", "we", "would", "like", "to", "sit", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "was", "e2_pos": 9, "label": "after"},
+{"tokens": ["Leaving", "Big", "Lots", "at", "30", "minutes", "after", "we", "placed", "our", "order", ",", "we", "proceeded", "to", "put", "our", "purchases", "in", "the", "vehicle", "and", "headed", "back", "to", "the", "restaurant", "to", "pick", "up", "dinner", "."], "e1_text": "Leaving", "e1_pos": 0, "e2_text": "placed", "e2_pos": 8, "label": "after"}
+]

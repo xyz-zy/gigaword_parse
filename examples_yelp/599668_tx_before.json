@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "thought", "that", "they", "were", "legitimate", "because", "I", "have", "paid", "for", "a", "similar", "service", "before", "from", "a", "different", "company", "however", "I", "actually", "received", "direct", "contact", "information", "."], "e1_text": "paid", "e1_pos": 9, "e2_text": "received", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "hope", "this", "helps", "someone", "before", "they", "make", "the", "same", "mistake", "I", "did", "."], "e1_text": "helps", "e1_pos": 3, "e2_text": "make", "e2_pos": 7, "label": "before"}
+]

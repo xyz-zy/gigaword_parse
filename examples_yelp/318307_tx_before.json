@@ -1,0 +1,3 @@
+[
+{"tokens": ["Balcony", "was", "locked", "for", "security", "reason", "-", "I", "wish", "I", "had", "read", "the", "Yelp", "reviews", "before", "I", "book", "this", "hotel", "."], "e1_text": "read", "e1_pos": 11, "e2_text": "book", "e2_pos": 17, "label": "before"}
+]

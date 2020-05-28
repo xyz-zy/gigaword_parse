@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "hunt", "down", "a", "waitress", "after", "sitting", "by", "the", "bar", "for", "15", "mins", "."], "e1_text": "hunt", "e1_pos": 1, "e2_text": "sitting", "e2_pos": 6, "label": "after"},
+{"tokens": ["She", "brings", "us", "our", "drinks", "after", "another", "15", "mins", ",", "granted", "they", "were", "busy", "."], "e1_text": "brings", "e1_pos": 1, "e2_text": "granted", "e2_pos": 10, "label": "after"}
+]

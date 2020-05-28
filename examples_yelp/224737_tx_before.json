@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "as", "someone", "looking", "for", "a", "quick", "bite", "to", "eat", "before", "heading", "back", "for", "a", "convention", ",", "I", "ditched", "MGM", "'s", "busy", "food", "court", "and", "came", "here", "."], "e1_text": "eat", "e1_pos": 9, "e2_text": "heading", "e2_pos": 11, "label": "before"},
+{"tokens": ["If", "your", "ever", "in", "vegas", ",", "PLEASE", "YELP", "before", "your", "eat", "at", "any", "place", "."], "e1_text": "YELP", "e1_pos": 7, "e2_text": "eat", "e2_pos": 10, "label": "before"}
+]

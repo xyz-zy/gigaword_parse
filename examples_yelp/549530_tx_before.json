@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stopped", "before", "leaving", "the", "museum", "for", "a", "salad", "and", "the", "warm", "brie", ",", "the", "food", "was", "delicious", ",", "however", "the", "service", "was", "slow", "as", "molasses", ",", "we", "were", "left", "sitting", "for", "long", "amounts", "of", "time", "before", "placing", "our", "drink", "order", ",", "placing", "our", "food", "order", "and", "then", "while", "waiting", "for", "the", "food", ",", "which", "was", "not", "elaborate", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "'ve", "sat", "at", "the", "bar", "before", "and", "just", "had", "drinks", "and", "that", "usually", "goes", "great", "so", "I", "did", "n't", "expect", "such", "long", "waits", "in", "the", "nearly", "empty", "dining", "room", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "before"}
+]

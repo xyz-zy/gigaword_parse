@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "has", "been", "over", "a", "year", "since", "writing", "the", "last", "review", ",", "and", "I", "wrote", "that", "post", "immediately", "after", "I", "returned", "."], "e1_text": "wrote", "e1_pos": 14, "e2_text": "returned", "e2_pos": 20, "label": "after"},
+{"tokens": ["Looking", "back", ",", "after", "we", "went", "to", "the", "front", "desk", "to", "report", "the", "crime", ",", "the", "clerk", "relocated", "us", "to", "another", "room", "."], "e1_text": "Looking", "e1_pos": 0, "e2_text": "went", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "normally", "get", "two", "pizzas", ",", "one", "for", "each", ",", "and", "I", "just", "wonder", "if", "mine", "comes", "out", "first", "and", "sits", "there", "a", "few", "minutes", "before", "the", "other", "comes", "out", "."], "e1_text": "sits", "e1_pos": 20, "e2_text": "comes", "e2_pos": 16, "label": "before"}
+]

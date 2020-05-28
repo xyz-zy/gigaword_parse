@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "so", "happy", "to", "have", "found", "another", "great", "restaurant", "in", "Charlotte", "-", "we", "had", "relatives", "staying", "with", "us", "last", "week", "and", "did", "n't", "want", "to", "take", "them", "anywhere", "we", "had", "n't", "been", "yet", ",", "in", "case", "it", "was", "n't", "good", ",", "and", "we", "went", "to", "Mimosa", "after", "they", "left", "-", "were", "were", "so", "upset", "we", "did", "n't", "take", "them", "here", "!"], "e1_text": "went", "e1_pos": 44, "e2_text": "left", "e2_pos": 49, "label": "after"},
+{"tokens": ["This", "was", "so", "yummy", "that", "I", "totally", "dipped", "into", "his", "dish", "after", "I", "finished", "mine", "."], "e1_text": "dipped", "e1_pos": 7, "e2_text": "finished", "e2_pos": 13, "label": "after"}
+]

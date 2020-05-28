@@ -1,0 +1,4 @@
+[
+{"tokens": ["Glen", "decided", "that", "he", "would", "then", "look", "up", "the", "car", "and", "asked", "for", "make", ",", "model", ",", "color", ",", "time", "it", "was", "returned", "...", "things", "you", "would", "probably", "find", "after", "I", "was", "asked", "for", "my", "rental", "agreement", "number", "several", "times", "."], "e1_text": "find", "e1_pos": 28, "e2_text": "was", "e2_pos": 21, "label": "after"},
+{"tokens": ["We", "go", "back", "to", "talk", "to", "someone", "after", "being", "misinformed", "about", "contacting", "the", "new", "renter", "."], "e1_text": "talk", "e1_pos": 4, "e2_text": "being", "e2_pos": 8, "label": "after"}
+]

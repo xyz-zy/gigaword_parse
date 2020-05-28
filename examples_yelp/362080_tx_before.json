@@ -1,0 +1,5 @@
+[
+{"tokens": ["Now", "just", "this", "morning", "I", "called", "to", "place", "an", "order", "and", "was", "placed", "on", "hold", "three", "times", "before", "my", "call", "was", "taken", "-LRB-", "I", "said", "do", "n't", "place", "me", "back", "on", "hold", "-RRB-", "."], "e1_text": "placed", "e1_pos": 12, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "did", "a", "few", "things", "around", "the", "house", "before", "leaving", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 9, "label": "before"},
+{"tokens": ["Then", "she", "took", "two", "orders", "for", "walk", "in", "customers", "and", "actually", "served", "their", "menudo", "before", "my", "call", "order", "was", "filled", "."], "e1_text": "served", "e1_pos": 11, "e2_text": "was", "e2_pos": 18, "label": "before"}
+]

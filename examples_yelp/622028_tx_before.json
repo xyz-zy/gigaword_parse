@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Same", "bartender", "as", "above", "sat", "laughing", "with", "another", "bartender", ",", "preparing", "several", "other", "drinks", "in", "glasses", ",", "and", "doing", "something", "else", "right", "in", "front", "of", "me", "for", "about", "five", "minutes", "before", "she", "finally", "remembered", "to", "crack", "a", "top", "off", "a", "beer", "put", "it", "in", "front", "of", "me", "and", "hit", "a", "button", "that", "printed", "my", "receipt", "all", "in", "under", "10", "seconds", "."], "e1_text": "doing", "e1_pos": 19, "e2_text": "remembered", "e2_pos": 34, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "do", "n't", "think", "I", "have", "ever", "EVER", "given", "a", "5-star", "review", "before", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["Let", "that", "sink", "into", "your", "head", "before", "I", "tell", "you", "about", "Ranch", "House", "."], "e1_text": "sink", "e1_pos": 2, "e2_text": "tell", "e2_pos": 8, "label": "before"},
+{"tokens": ["So", "we", "came", "back", "a", "second", "time", "just", "before", "we", "hit", "the", "road", "to", "leave", "Scottsdale", "and", "come", "back", "to", "LA.", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "hit", "e2_pos": 10, "label": "before"}
+]

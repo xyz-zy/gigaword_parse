@@ -1,0 +1,4 @@
+[
+{"tokens": ["Though", "the", "customer", "service", "was", "bad", "after", "I", "complained", "that", "a", "few", "items", "was", "missing", "in", "my", "room", "after", "house", "keeping", "was", "in", "there", "."], "e1_text": "was", "e1_pos": 4, "e2_text": "complained", "e2_pos": 8, "label": "after"},
+{"tokens": ["No", "resolution", "was", "done", "after", "I", "checked", "out", "3", "days", "later", "."], "e1_text": "done", "e1_pos": 3, "e2_text": "checked", "e2_pos": 6, "label": "after"}
+]

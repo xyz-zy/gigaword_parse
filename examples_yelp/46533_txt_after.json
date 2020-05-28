@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "condo", "was", "clean", "and", "comfortable", "enough", ",", "but", "found", "two", "of", "the", "lights", "with", "non-working", "lightbulbs", "and", "the", "tv", "remote", "missing", "it", "'s", "batteries", "immediately", "after", "coming", "in", "the", "door", "."], "e1_text": "missing", "e1_pos": 21, "e2_text": "coming", "e2_pos": 27, "label": "after"}
+]

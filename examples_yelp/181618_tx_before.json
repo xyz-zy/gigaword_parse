@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "fun", "to", "see", "it", "with", "people", "who", "had", "never", "gone", "before", "."], "e1_text": "see", "e1_pos": 4, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "is", "an", "event", "to", "add", "to", "your", "to", "do", "list", "while", "in", "Vegas", ",", "just", "get", "tickets", "before", "you", "leave", "home", ",", "or", "you", "just", "might", "miss", "the", "show", "."], "e1_text": "get", "e1_pos": 16, "e2_text": "leave", "e2_pos": 20, "label": "before"}
+]

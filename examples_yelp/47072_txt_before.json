@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "later", "on", "at", "night", ",", "around", "10pm", "or", "so", ",", "and", "waited", "at", "the", "door", "for", "at", "least", "5", "minutes", "-LRB-", "by", "the", "please", "wait", "to", "be", "seated", "sign", "-RRB-", "before", "deciding", "to", "walk", "up", "to", "the", "bartender", "."], "e1_text": "waited", "e1_pos": 14, "e2_text": "deciding", "e2_pos": 34, "label": "before"},
+{"tokens": ["So", "we", "headed", "outside", ",", "picked", "a", "table", ",", "and", "then", "sat", "for", "about", "10", "minutes", "before", "anyone", "came", "up", "to", "us", "."], "e1_text": "sat", "e1_pos": 11, "e2_text": "came", "e2_pos": 18, "label": "before"}
+]

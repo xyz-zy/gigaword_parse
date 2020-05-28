@@ -1,0 +1,3 @@
+[
+{"tokens": ["Later", "the", "promoter", "had", "the", "audacity", "to", "text", "me", "later", "asking", "if", "we", "want", "to", "go", "to", "''", "``", "Light", "''", "''", "after", "he", "ignored", "my", "previous", "texts", "when", "we", "had", "an", "issue", "."], "e1_text": "want", "e1_pos": 13, "e2_text": "ignored", "e2_pos": 24, "label": "after"}
+]

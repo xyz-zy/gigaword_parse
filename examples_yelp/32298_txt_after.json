@@ -1,0 +1,4 @@
+[
+{"tokens": ["Would", "never", "use", "Dr.", "Baumler", "after", "he", "wanted", "to", "put", "my", "little", "dog", "under", "to", "''", "``", "surgically", "''", "''", "remove", "a", "small", "bump", "on", "her", "toe", "."], "e1_text": "use", "e1_pos": 2, "e2_text": "wanted", "e2_pos": 7, "label": "after"},
+{"tokens": ["Long", "story", "short", ",", "she", "could", "not", "walk", "after", "they", "drained", "her", "anal", "glands", "and", "gave", "her", "a", "rectal", "."], "e1_text": "walk", "e1_pos": 7, "e2_text": "drained", "e2_pos": 10, "label": "after"}
+]

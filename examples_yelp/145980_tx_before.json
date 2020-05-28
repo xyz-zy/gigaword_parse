@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "order", "was", "made", "very", "fast", "id", "say", "it", "took", "about", "a", "whole", "3-4", "minutes", "for", "the", "shrimp", "cocktail", "to", "come", "out", "as", "a", "matter", "a", "fact", "the", "shrimp", "cocktail", "came", "out", "before", "the", "water", "which", "baffled", "me", "."], "e1_text": "came", "e1_pos": 30, "e2_text": "baffled", "e2_pos": 36, "label": "before"},
+{"tokens": ["I", "even", "told", "the", "waiter", "the", "cocktail", "came", "out", "before", "the", "drink", "??", "he", "quickly", "replied", "and", "said", "why", "yes", "because", "the", "mango", "water", "has", "to", "be", "freshly", "made", "...", "so", "the", "shrimp", "cocktail", "I", "guess", "was", "waiting", "for", "me", "...", "The", "waiter", "then", "left", "and", "proceeded", "to", "a", "different", "table", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "??", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "were", "sat", "after", "waiting", "an", "additional", "10", "minutes", "to", "be", "sat", "at", "one", "of", "the", "10", "tables", "that", "were", "available", "in", "the", "patio", "area", "."], "e1_text": "sat", "e1_pos": 3, "e2_text": "waiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "rationalized", "that", "she", "did", "not", "start", "serving", "said", "Absinthe", "until", "30", "minutes", "after", "we", "were", "seated", "."], "e1_text": "said", "e1_pos": 8, "e2_text": "were", "e2_pos": 15, "label": "after"}
+]

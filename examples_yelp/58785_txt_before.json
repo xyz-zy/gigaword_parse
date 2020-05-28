@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "understand", "that", "he", "was", "thinking", "of", "their", "safety", "BUT", "I", "did", "n't", "believe", "a", "time", "out", "was", "fair", "because", "honestly", "if", "they", "had", "been", "paying", "more", "attention", "they", "would", "have", "noticed", "her", "standing", "in", "line", "waiting", "to", "be", "helped", "for", "almost", "10mins", "before", "she", "decided", "to", "have", "free", "play", "."], "e1_text": "helped", "e1_pos": 39, "e2_text": "decided", "e2_pos": 45, "label": "before"},
+{"tokens": ["And", "each", "time", "she", "went", "to", "another", "station", "she", "would", "wait", "for", "so", "long", "before", "getting", "bored", "."], "e1_text": "wait", "e1_pos": 10, "e2_text": "getting", "e2_pos": 15, "label": "before"},
+{"tokens": ["Fortunately", "I", "used", "a", "Groupon", "deal", "before", "deciding", "to", "register", "for", "regular", "classes", "."], "e1_text": "used", "e1_pos": 2, "e2_text": "deciding", "e2_pos": 7, "label": "before"}
+]

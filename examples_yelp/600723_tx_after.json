@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "bunch", "of", "us", "got", "the", "`", "cinnamon", "toast", "'", "chicken", "and", "waffles", "after", "it", "got", "a", "high", "recommendation", "from", "the", "waitress", "."], "e1_text": "got", "e1_pos": 4, "e2_text": "got", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "ate", "maybe", "half", "...", "after", "running", "a", "5k", "...", "so", "it", "'s", "not", "like", "I", "was", "n't", "hungry", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "running", "e2_pos": 6, "label": "after"}
+]

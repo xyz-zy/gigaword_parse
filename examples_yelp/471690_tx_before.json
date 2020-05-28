@@ -1,0 +1,5 @@
+[
+{"tokens": ["Fish", ",", "roe", ",", "rice", "and", "dried", "seaweed", "flew", "from", "the", "sides", "our", "mouths", "as", "we", "stuffed", "our", "faces", "via", "chopstick", "power", "until", "the", "beautiful", "sushi", "plate", "before", "us", "was", "completely", "gone", "."], "e1_text": "stuffed", "e1_pos": 16, "e2_text": "was", "e2_pos": 29, "label": "before"},
+{"tokens": ["I", "felt", "like", "a", "special", "client", "and", "I", "guess", "the", "kind", "words", "before", "revealing", "my", "glutenous", "self", "truly", "made", "him", "happy", "."], "e1_text": "guess", "e1_pos": 8, "e2_text": "revealing", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "'m", "sure", "I", "'ll", "be", "able", "to", "talk", "the", "family", "into", "trying", "out", "Ogo", "Sushi", "again", "before", "we", "have", "to", "head", "back", "south", "to", "our", "humble", "abode", "...", "ummm", "Ogo", "Sushi", "!"], "e1_text": "be", "e1_pos": 5, "e2_text": "have", "e2_pos": 19, "label": "before"}
+]

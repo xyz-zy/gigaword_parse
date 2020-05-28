@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "literally", "left", "the", "office", "in", "tears", "today", "after", "she", "implied", "that", "I", "do", "n't", "care", "about", "my", "dog", ",", "because", "I", "did", "not", "want", "to", "pay", "for", "the", "same", "bacterial", "test", "that", "the", "dog", "has", "already", "had", "4", "times", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "implied", "e2_pos": 10, "label": "after"},
+{"tokens": ["This", "was", "after", "waiting", "45", "minutes", "past", "my", "appointment", "time", "while", "my", "dog", "was", "become", "increasingly", "frightened", "and", "uncomfortable", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 3, "label": "after"}
+]

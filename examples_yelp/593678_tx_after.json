@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "high", "expectations", "after", "reading", "other", "reviews", ",", "but", "those", "were", "far", "exceeded", "upon", "first", "bite", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "wanted", "the", "bread", "pudding", ",", "but", "I", "guess", "even", "after", "6", "weeks", "the", "dessert", "is", "becoming", "so", "popular", "that", "she", "was", "sold", "out", "."], "e1_text": "guess", "e1_pos": 8, "e2_text": "is", "e2_pos": 15, "label": "after"}
+]

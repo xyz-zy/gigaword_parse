@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "just", "rec", "'d", "my", "glasses", ",", "less", "than", "2", "wks", "after", "I", "ordered", "them", ";", "-RRB-", "And", "they", "told", "me", "to", "return", "anytime", ",", "for", "a", "free", "adjustment", ",", "if", "I", "start", "to", "feel", "the", "glasses", "start", "to", "slide", "down", "the", "bridge", "of", "my", "nose", "or", "feel", "too", "tight", "around", "my", "ears", "after", "wearing", "them", "a", "bit", "."], "e1_text": "wks", "e1_pos": 10, "e2_text": "ordered", "e2_pos": 13, "label": "after"}
+]

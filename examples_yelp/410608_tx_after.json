@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "night", "was", "a", "service", "disaster", "!!", "I", "asked", "to", "speak", "with", "the", "manager", "but", "he", "never", "arrived", "to", "the", "table", "so", "after", "getting", "another", "server", "to", "take", "our", "bill", "we", "decided", "to", "leave", "."], "e1_text": "arrived", "e1_pos": 17, "e2_text": "getting", "e2_pos": 23, "label": "after"}
+]

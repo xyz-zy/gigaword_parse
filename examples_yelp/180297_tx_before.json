@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "got", "there", "fairly", "early", ",", "just", "before", "12", "spent", "a", "few", "mins", "upstairs", "at", "the", "bar", "over", "by", "the", "restrooms", ",", "just", "to", "get", "a", "good", "buzz", "going", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "spent", "e2_pos": 9, "label": "before"},
+{"tokens": ["If", "you", "are", "visiting", "and", "want", "to", "make", "this", "one", "of", "the", "clubs", "you", "are", "hopping", "around", "to", "before", "you", "hit", "another", "club", "-LRB-", "you", "got", "a", "deal\\/promotion", "etc.", "-RRB-", ",", "by", "all", "means", "go", "to", "it", "."], "e1_text": "hopping", "e1_pos": 15, "e2_text": "hit", "e2_pos": 20, "label": "before"}
+]

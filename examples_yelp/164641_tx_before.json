@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "dining", "alone", "so", "maybe", "the", "server", "did", "n't", "think", "he", "needed", "to", "attend", "to", "me", "but", "the", "night", "before", "I", "had", "amazing", "service", "at", "B&B", "so", "I", "had", "an", "expectation", "of", "what", "a", "$", "100", "dining", "experience", "should", "be", "like", "."], "e1_text": "think", "e1_pos": 10, "e2_text": "had", "e2_pos": 22, "label": "before"},
+{"tokens": ["I", "waited", "ten", "minutes", "before", "it", "was", "brought", "out", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,5 @@
+[
+{"tokens": ["When", "he", "started", "pulling", "away", ",", "she", "holds", "his", "legs", "harder", "at", "first", "and", "slowly", "trims", "little", "by", "little", "as", "if", "she", "'s", "never", "trimmed", "a", "dog", "'s", "nails", "before", "."], "e1_text": "trims", "e1_pos": 15, "e2_text": "'s", "e2_pos": 22, "label": "before"},
+{"tokens": ["Anyway", ",", "I", "ask", "for", "the", "name", "of", "the", "girl", "who", "had", "done", "his", "nails", "before", "."], "e1_text": "ask", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "before"},
+{"tokens": ["He", "has", "been", "favoring", "his", "leg", "-LRB-", "the", "one", "he", "had", "broken", "before", "-RRB-", "ever", "since", "she", "pulled", "on", "him", "."], "e1_text": "favoring", "e1_pos": 3, "e2_text": "had", "e2_pos": 10, "label": "before"}
+]

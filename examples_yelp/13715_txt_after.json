@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "dispatcher", "did", "n't", "ask", "for", "the", "library", "'s", "address", "-LRB-", "in", "fact", ",", "she", "stated", "it", "just", "after", "I", "told", "her", "where", "I", "was", "-RRB-", "and", "did", "n't", "hold", "a", "conversation", "with", "co-workers", "about", "weekend", "exploits", "."], "e1_text": "stated", "e1_pos": 15, "e2_text": "told", "e2_pos": 20, "label": "after"}
+]

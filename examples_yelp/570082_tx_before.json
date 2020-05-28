@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "suggestion", "from", "learning", "lesson", ",", "is", "survey", "the", "whole", "buffet", "before", "you", "start", ",", "otherwise", ",", "you", "can", "miss", "out", "on", "some", "atypical", "buffet", "items", ",", "which", "makes", "Bacchanal", "worth", "your", "while", "."], "e1_text": "survey", "e1_pos": 7, "e2_text": "start", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "carver", "also", "asks", "you", "how", "you", "like", "your", "meat", "before", "carving", "it", ",", "which", "is", "nice", "."], "e1_text": "like", "e1_pos": 7, "e2_text": "carving", "e2_pos": 11, "label": "before"}
+]

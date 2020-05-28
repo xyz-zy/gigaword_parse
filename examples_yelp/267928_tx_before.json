@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "purchased", "tires", "here", "years", "ago", ",", "so", "when", "I", "ran", "into", "a", "''", "``", "split", "''", "''", "tire", "-LRB-", "was", "not", "sure", "what", "was", "going", "on", "before", "I", "brough", "it", "in", "-RRB-", "on", "a", "run-flat", "tire", ",", "I", "kind", "of", "knew", "this", "would", "be", "the", "first", "stop", "to", "attempt", "to", "fix", "."], "e1_text": "going", "e1_pos": 26, "e2_text": "brough", "e2_pos": 30, "label": "before"}
+]

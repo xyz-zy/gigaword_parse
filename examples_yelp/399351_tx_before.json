@@ -1,0 +1,4 @@
+[
+{"tokens": ["Warning", ":", "This", "place", "only", "gives", "you", "one", "free", "drink", "refill", "before", "they", "charge", "you", "for", "another", "drink", "and", "it", "'s", "like", "2.25", "or", "something", "...", "weird", "."], "e1_text": "gives", "e1_pos": 5, "e2_text": "charge", "e2_pos": 13, "label": "before"},
+{"tokens": ["They", "also", "only", "give", "you", "one", "chip", "refill", "before", "they", "charge", "you", "1.99", "and", "they", "do", "n't", "give", "a", "lot", "of", "chips", "."], "e1_text": "give", "e1_pos": 3, "e2_text": "charge", "e2_pos": 10, "label": "before"}
+]

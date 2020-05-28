@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "served", "sour", "and", "half-sour", "pickles", "when", "we", "sat", "down", ",", "and", "since", "I", "have", "a", "very", "difficult", "time", "finding", "anything", "but", "dill", "pickles", "in", "Scottsdale", ",", "we", "finished", "the", "pickles", "before", "we", "even", "ordered", "our", "sandwiches", "-", "no", "worries", "-", "our", "waiter", "quickly", "brought", "over", "more", "pickles", "."], "e1_text": "finished", "e1_pos": 29, "e2_text": "ordered", "e2_pos": 35, "label": "before"}
+]

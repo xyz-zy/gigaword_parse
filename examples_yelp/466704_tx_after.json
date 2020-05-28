@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "turned", "out", "not", "to", "be", "a", "problem", ",", "because", "after", "the", "friendly", "and", "efficient", "waitress", "took", "our", "drink", "and", "food", "orders", ",", "the", "time", "was", "spent", "waiting", "."], "e1_text": "turned", "e1_pos": 1, "e2_text": "took", "e2_pos": 16, "label": "after"}
+]

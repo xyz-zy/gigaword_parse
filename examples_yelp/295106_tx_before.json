@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "were", "still", "sitting", "people", "up", "to", "10", "minutes", "before", "it", "was", "to", "close", "and", "we", "saw", "them", "and", "were", "like", "WTF", ",", "those", "poor", "people", "really", "got", "ripped", "off", "."], "e1_text": "sitting", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "will", "probably", "try", "others", "at", "other", "hotels", "before", "going", "back", "for", "din", "at", "TI", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

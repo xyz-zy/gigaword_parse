@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "sure", "the", "Sonoran", "dog", "came", "before", "they", "did", "the", "same", "dog", "in", "TJ", "and", "Mexicali", ",", "but", "the", "only", "difference", "between", "the", "Sonoran", "and", "a", "TJ", "style", "hot", "dog", "is", "that", "the", "Sonoran", "'s", "bacon", "wrapped", "hot", "dog", "is", "also", "topped", "with", "beans", ",", "whereas", "the", "TJ", "'s", "bacon", "wrapped", "dog", "does", "not", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "did", "e2_pos": 9, "label": "before"}
+]

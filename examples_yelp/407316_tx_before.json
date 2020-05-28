@@ -1,0 +1,3 @@
+[
+{"tokens": ["For", "this", "sample", ",", "I", "was", "punished", "and", "forced", "to", "wait", "12", "minutes", "before", "the", "bartender", "decided", "he", "had", "absolutely", "nothing", "else", "with", "which", "to", "fake", "being", "busy", "and", "he", "was", "practically", "forced", "to", "approach", "me", "again", "."], "e1_text": "wait", "e1_pos": 10, "e2_text": "decided", "e2_pos": 16, "label": "before"}
+]

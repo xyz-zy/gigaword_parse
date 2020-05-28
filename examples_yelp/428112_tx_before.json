@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "needed", "a", "fancy", "place", "to", "dine", "at", "before", "watching", "Mr.", "Olympia", "that", "night", "at", "the", "New", "Orleans", "Hotel", "and", "Casino", "."], "e1_text": "dine", "e1_pos": 6, "e2_text": "watching", "e2_pos": 9, "label": "before"},
+{"tokens": ["It", "may", "have", "been", "because", "it", "just", "opened", ",", "but", "holy", "crap", "we", "were", "sweating", "enough", "that", "we", "had", "to", "sit", "there", "and", "drink", "two", "waters", "each", "before", "actually", "ordering", "any", "alcohol", "."], "e1_text": "drink", "e1_pos": 23, "e2_text": "ordering", "e2_pos": 29, "label": "before"}
+]

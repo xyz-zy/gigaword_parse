@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "noticed", "that", "two", "additional", "tables", "near", "us", "received", "their", "order", "despite", "being", "seated", "after", "us", "-LRB-", "and", "it", "seemed", "their", "orders", "were", "even", "wrong", "but", "yet", "they", "received", "a", "replacement", "in", "a", "timely", "manner", ";", "we", "still", "had", "yet", "to", "receive", "ours", "-RRB-", "."], "e1_text": "seated", "e1_pos": 13, "e2_text": "seemed", "e2_pos": 19, "label": "after"},
+{"tokens": ["We", "started", "to", "get", "a", "little", "frustrated", "that", "we", "still", "had", "n't", "received", "our", "pho", "for", "I", "'d", "say", "30-45min", "after", "initially", "ordering", "and", "then", "even", "notifying", "them", "of", "still", "not", "receiving", "anything", "."], "e1_text": "say", "e1_pos": 18, "e2_text": "ordering", "e2_pos": 22, "label": "after"}
+]

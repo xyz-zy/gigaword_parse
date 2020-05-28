@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "would", "not", "move", "us", "to", "another", "apartment", "even", "after", "3", "attempted", "break", "ins", "."], "e1_text": "move", "e1_pos": 4, "e2_text": "ins", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "did", "not", "receive", "any", "of", "the", "court", "notices", "after", "I", "moved", "out", "so", "obviously", "did", "not", "attend", "court", "and", "automatically", "lost", "."], "e1_text": "receive", "e1_pos": 3, "e2_text": "moved", "e2_pos": 11, "label": "after"}
+]

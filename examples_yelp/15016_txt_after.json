@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "asked", "why", "people", "who", "came", "in", "after", "us", "were", "served", "I", "was", "told", "that", "they", "were", "either", "''", "``", "friends", "''", "''", "or", "investors", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "were", "e2_pos": 10, "label": "after"},
+{"tokens": ["20", "min", "later", "I", "approached", "them", "again", "noticing", "that", "nearly", "everyone", "that", "came", "in", "after", "me", "had", "been", "sat", "."], "e1_text": "came", "e1_pos": 12, "e2_text": "had", "e2_pos": 16, "label": "after"}
+]

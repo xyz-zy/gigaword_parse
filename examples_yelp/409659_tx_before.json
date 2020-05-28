@@ -1,0 +1,4 @@
+[
+{"tokens": ["Where", "the", "previous", "establishment", "reeked", "of", "grease", ",", "now", "the", "smell", "of", "meats", "slowly", "roasting", "over", "charcoal", "hits", "you", "before", "you", "even", "walk", "in", "the", "door", "."], "e1_text": "hits", "e1_pos": 17, "e2_text": "walk", "e2_pos": 22, "label": "before"},
+{"tokens": ["It", "'s", "like", "a", "guy", "hastily", "decorating", "his", "college", "pad", "before", "his", "parents\\/girlfriend", "see", "it", "for", "the", "first", "time", "."], "e1_text": "decorating", "e1_pos": 6, "e2_text": "see", "e2_pos": 13, "label": "before"}
+]

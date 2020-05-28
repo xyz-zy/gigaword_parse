@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "interaction", "was", "with", "one", "waitress", "in", "particular", "who", "forgot", "our", "drink", "order", ",", "then", "forgot", "our", "food", "order", ",", "then", "forgot", "to", "bring", "us", "chips", "and", "water", "-LRB-", "4", "times", "she", "mentioned", "she", "would", "get", "the", "chips", "before", "they", "actually", "arrived", "-RRB-", "."], "e1_text": "get", "e1_pos": 35, "e2_text": "arrived", "e2_pos": 41, "label": "before"}
+]

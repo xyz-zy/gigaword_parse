@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "a", "little", "while", "after", "being", "seated", "for", "someone", "to", "come", "over", "to", "take", "our", "drink", "order", "it", "felt", "like", "forever", "especially", "after", "coming", "out", "of", "100", "degree", "weather", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "being", "e2_pos": 6, "label": "after"},
+{"tokens": ["It", "took", "11", "minutes", "after", "ordering", "our", "food", "to", "get", "our", "soup", "and", "salad", "I", "feel", "like", "that", "is", "a", "little", "ridiculous", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 5, "label": "after"}
+]

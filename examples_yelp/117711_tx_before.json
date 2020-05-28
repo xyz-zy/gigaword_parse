@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "requested", "a", "fridge", "before", "we", "got", "there", ";", "was", "n't", "in", "the", "room", "when", "we", "got", "there", "so", "I", "called", "the", "frog", "desk", "and", "was", "told", ",", "''", "``", "i", "will", "send", "it", "right", "up", "''", "''", "...", "An", "hour", "later", ",", "no", "fridge", "."], "e1_text": "requested", "e1_pos": 1, "e2_text": "got", "e2_pos": 6, "label": "before"}
+]

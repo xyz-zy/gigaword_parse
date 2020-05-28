@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "sure", "after", "I", "left", ",", "they", "all", "continued", "to", "talk", "behind", "my", "back", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "left", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "felt", "like", "after", "reading", "a", "bad", "review", ",", "the", "staff", "would", "be", "nicer", "and", "maybe", "apologize", "for", "last", "time", ",", "but", "just", "the", "opposite", "happened", "."], "e1_text": "felt", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "only", "a", "few", "minutes", "after", "being", "seated", "that", "the", "waiter", "showed", "up", "and", "took", "our", "drink", "orders", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "being", "e2_pos": 7, "label": "after"},
+{"tokens": ["All", "in", "all", "it", "was", "n't", "a", "bad", "experience", "--", "it", "just", "was", "n't", "what", "we", "were", "expecting", "after", "eating", "in", "Ramsay", "'s", "other", "restaurants", "."], "e1_text": "expecting", "e1_pos": 17, "e2_text": "eating", "e2_pos": 19, "label": "after"}
+]

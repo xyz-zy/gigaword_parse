@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "I", "am", "rating", "this", "place", "with", "4", "stars", ",", "only", "because", "it", "was", "my", "first", "time", "going", "here", "and", "I", "want", "to", "go", "back", "before", "I", "add", "the", "extra", "star", "."], "e1_text": "go", "e1_pos": 24, "e2_text": "add", "e2_pos": 28, "label": "before"},
+{"tokens": ["I", "am", "definitely", "one", "who", "is", "weary", "of", "new", "doctor", "offices", ",", "especially", "ones", "that", "I", "have", "never", "been", "to", "before", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "have", "e2_pos": 16, "label": "before"}
+]

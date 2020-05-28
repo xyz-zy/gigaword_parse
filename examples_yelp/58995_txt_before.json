@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "entered", "no", "''", "``", "hello", "''", "''", ",", "no", "''", "``", "just", "a", "minute", "''", "''", ",", "I", "just", "stood", "there", "for", "a", "good", "5", "minutes", "before", "I", "had", "to", "flag", "someone", "down", "and", "let", "them", "know", "I", "was", "there", "to", "pick", "up", "an", "order", "."], "e1_text": "stood", "e1_pos": 21, "e2_text": "had", "e2_pos": 30, "label": "before"}
+]

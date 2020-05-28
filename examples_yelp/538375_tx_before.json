@@ -1,0 +1,4 @@
+[
+{"tokens": ["Please", "be", "warned", "if", "you", "have", "never", "done", "yoga", "before", ",", "the", "basics", "classes", "which", "are", "technically", "beginner", "classes", "are", "not", "the", "same", "depending", "on", "the", "instructor", "."], "e1_text": "warned", "e1_pos": 2, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["The", "first", "day", "I", "went", "the", "instructor", "instructed", "and", "it", "went", "at", "a", "pace", "for", "someone", "that", "has", "never", "done", "yoga", "before", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "has", "e2_pos": 17, "label": "before"}
+]

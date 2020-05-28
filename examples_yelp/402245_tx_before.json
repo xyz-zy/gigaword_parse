@@ -1,0 +1,6 @@
+[
+{"tokens": ["There", "were", "only", "2", "servers", "so", "we", "waited", "a", "bit", "before", "being", "seated", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "being", "e2_pos": 11, "label": "before"},
+{"tokens": ["The", "two", "servers", "seemed", "pretty", "busy", "so", "it", "was", "a", "while", "before", "we", "were", "able", "to", "put", "in", "our", "drink", "orders", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "were", "e2_pos": 13, "label": "before"},
+{"tokens": ["It", "was", "about", "45", "min", "before", "our", "appetizer", "made", "its", "way", "out", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "made", "e2_pos": 8, "label": "before"},
+{"tokens": ["Never", "had", "curry", "with", "green", "beans", "and", "bamboo", "shoots", "before", "but", "it", "was", "good", "."], "e1_text": "curry", "e1_pos": 2, "e2_text": "was", "e2_pos": 12, "label": "before"}
+]

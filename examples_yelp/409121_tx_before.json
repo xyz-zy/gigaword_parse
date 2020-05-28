@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "get", "it", ",", "I", "'ve", "done", "it", ",", "maybe", "you", "'ve", "given", "up", "because", "you", "think", "people", "just", "stop", "in", "for", "a", "bite", "or", "a", "good", "drink", "before", "they", "join", "the", "masses", "at", "another", "bar", "that", "does", "n't", "have", "half", "the", "beer", "selection", ",", "or", "anything", "close", "to", "the", "food", "potential", "-", "but", "if", "you", "make", "my", "experience", "worth", "sticking", "around", "for", ",", "I", "probably", "will", "."], "e1_text": "stop", "e1_pos": 19, "e2_text": "join", "e2_pos": 30, "label": "before"}
+]

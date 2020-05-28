@@ -1,0 +1,4 @@
+[
+{"tokens": ["and", "we", "started", "debating", "whether", "to", "leave", "or", "not", "-LRB-", "we", "did", "buy", "the", "Yelp", "deal", "after", "all", "and", "the", "game", "had", "started", "-RRB-", "."], "e1_text": "buy", "e1_pos": 12, "e2_text": "had", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "will", "say", "that", "the", "male", "bartender", "that", "day", "WAS", "very", "friendly", "and", "welcomed", "us", "as", "newcomers", "-LRB-", "even", "though", "it", "was", "after", "we", "asked", "for", "the", "check", "-RRB-", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "asked", "e2_pos": 24, "label": "after"}
+]

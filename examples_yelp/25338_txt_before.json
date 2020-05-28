@@ -1,0 +1,5 @@
+[
+{"tokens": ["this", "place", "at", "first", "seemed", "like", "it", "was", "n't", "going", "to", "interest", "me", "but", "since", "i", "was", "short", "of", "time", "to", "eat", "before", "getting", "back", "to", "work", "i", "decided", "to", "give", "it", "a", "shot", "."], "e1_text": "eat", "e1_pos": 21, "e2_text": "getting", "e2_pos": 23, "label": "before"},
+{"tokens": ["when", "i", "stepped", "in", "the", "door", "i", "was", "immediately", "greeted", "by", "a", "young", "man", "w", "\\/", "a", "sincere", "smile", ",", "he", "brought", "me", "to", "my", "table", "and", "before", "you", "new", "it", "my", "drink", "was", "ready", "&", "order", "being", "giving", "to", "the", "kitchen", "."], "e1_text": "brought", "e1_pos": 21, "e2_text": "being", "e2_pos": 37, "label": "before"},
+{"tokens": ["I", "was", "amazed", "!!", "he", "also", "asked", "me", "for", "my", "name", "since", "he", "had", "never", "seen", "me", "there", "before", "and", "made", "me", "feel", "very", "welcome", "."], "e1_text": "asked", "e1_pos": 6, "e2_text": "had", "e2_pos": 13, "label": "before"}
+]

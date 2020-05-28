@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "chose", "this", "place", "because", "they", "could", "get", "me", "in", "quick", ",", "within", "a", "week", "or", "so", "-LRB-", "before", "my", "insurance", "changed", "-RRB-", ",", "as", "opposed", "to", "a", "reputable", "doctor", "with", "a", "waiting", "list", "of", "4", "months", "or", "so", "."], "e1_text": "get", "e1_pos": 7, "e2_text": "changed", "e2_pos": 21, "label": "before"}
+]

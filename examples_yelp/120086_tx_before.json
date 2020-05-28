@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "TSA", "agents", "here", "are", "so", "rude", "and", "do", "n't", "even", "give", "you", "an", "opportunity", "to", "put", "your", "items", "in", "the", "bin", "before", "they", "basically", "tell", "you", "to", "hurry", "up", "and", "push", "them", "through", "."], "e1_text": "put", "e1_pos": 16, "e2_text": "tell", "e2_pos": 25, "label": "before"}
+]

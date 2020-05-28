@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "need", "my", "daughters", "Bat", "Mitzvah", "to", "be", "over", "before", "sharing", "my", "awful", "experience", "with", "Living", "Energy", "."], "e1_text": "be", "e1_pos": 7, "e2_text": "sharing", "e2_pos": 10, "label": "before"},
+{"tokens": ["They", "tried", "to", "make", "excuses", ",", "but", "their", "DJ", "'s", "were", "terrible", "!!", "Go", "see", "them", "before", "you", "hire", "them", "!!", "Not", "wanting", "to", "create", "an", "uncomfortable", "situation", ",", "we", "decided", "to", "hire", "a", "band", "-", "Sapphire", "Sky", "-LRB-", "they", "are", "amazing", "!!", "-RRB-", "."], "e1_text": "see", "e1_pos": 14, "e2_text": "hire", "e2_pos": 18, "label": "before"}
+]

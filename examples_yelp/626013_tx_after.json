@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "called", "to", "talk", "to", "someone", "about", "the", "various", "issues", "at", "7pm", "I", "was", "informed", "that", "no", "manager", "was", "on", "duty", "after", "being", "on", "hold", "for", "15", "minutes", "."], "e1_text": "was", "e1_pos": 14, "e2_text": "being", "e2_pos": 23, "label": "after"}
+]

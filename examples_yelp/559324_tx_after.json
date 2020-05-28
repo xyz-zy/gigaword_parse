@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "hopped", "up", "on", "the", "roof", ",", "asked", "to", "see", "where", "the", "leak", "had", "happened", ",", "and", "then", "said", "he", "would", "email", "me", "the", "next", "day", "after", "looking", "into", "the", "price", "of", "the", "shingles", "he", "would", "need", "to", "replace", "should", "he", "need", "to", "investigate", "the", "area", "more", "."], "e1_text": "email", "e1_pos": 21, "e2_text": "looking", "e2_pos": 27, "label": "after"}
+]

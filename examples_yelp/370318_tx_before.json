@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "cantina", "down", "by", "the", "pool", "had", "a", "completely", "incompetent", "bartender", "who", "kept", "walking", "away", "and", "forgetting", "our", "order", ",", "so", "we", "had", "to", "repeat", "it", "3", "times", "before", "he", "thought", "to", "write", "it", "down", "."], "e1_text": "had", "e1_pos": 6, "e2_text": "thought", "e2_pos": 30, "label": "before"},
+{"tokens": ["I", "had", "to", "walk", "away", "before", "I", "snapped", "."], "e1_text": "walk", "e1_pos": 3, "e2_text": "snapped", "e2_pos": 7, "label": "before"}
+]

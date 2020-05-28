@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "did", "n't", "even", "get", "a", "chance", "to", "sit", "down", "in", "this", "restaurant", "before", "being", "treated", "like", "trash", "by", "their", "hostesses", "."], "e1_text": "sit", "e1_pos": 8, "e2_text": "being", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "four", "airhead", "hostesses", "that", "you", "had", "working", "tonight", "need", "to", "learn", "their", "job", "before", "being", "sent", "out", "into", "the", "world", "of", "restaurant", "hostessing", "."], "e1_text": "learn", "e1_pos": 11, "e2_text": "being", "e2_pos": 15, "label": "before"},
+{"tokens": ["My", "boyfriend", "had", "to", "stand", "there", "for", "several", "moments", "before", "they", "acknowledged", "him", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "acknowledged", "e2_pos": 11, "label": "before"}
+]

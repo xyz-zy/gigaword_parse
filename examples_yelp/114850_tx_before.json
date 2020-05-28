@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "referred", "my", "sister", "to", "Firestone", "near", "our", "house", "to", "go", "have", "her", "oil", "changed", "before", "she", "left", "town", "."], "e1_text": "changed", "e1_pos": 14, "e2_text": "left", "e2_pos": 17, "label": "before"},
+{"tokens": ["Think", "twice", "before", "ever", "taking", "your", "car", "in", "for", "service", "there", "."], "e1_text": "Think", "e1_pos": 0, "e2_text": "taking", "e2_pos": 4, "label": "before"}
+]

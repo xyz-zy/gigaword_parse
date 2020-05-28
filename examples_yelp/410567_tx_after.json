@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "graciously", "gave", "me", "my", "food", "order", "without", "charging", "me", "after", "I", "changed", "my", "order", "to", "go", "."], "e1_text": "charging", "e1_pos": 8, "e2_text": "changed", "e2_pos": 12, "label": "after"},
+{"tokens": ["Regardless", ",", "if", "you", "want", "to", "lose", "your", "hearing", "or", "walk", "around", "with", "your", "ears", "buzzing", "even", "after", "you", "leave", "the", "building", ",", "this", "is", "not", "a", "bad", "place", "."], "e1_text": "buzzing", "e1_pos": 15, "e2_text": "leave", "e2_pos": 19, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["You", "can", "do", "yourself", "a", "huge", "favor", "and", "have", "all", "required", "documents", "in", "order", "before", "you", "arrive", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "arrive", "e2_pos": 16, "label": "before"},
+{"tokens": ["Also", ",", "call", "them", "and", "ask", "questions", "before", "you", "drive", "here", "."], "e1_text": "ask", "e1_pos": 5, "e2_text": "drive", "e2_pos": 9, "label": "before"}
+]

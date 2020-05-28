@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "called", "the", "day", "before", "it", "was", "supposed", "to", "be", "finished", "to", "confirm", "that", "it", "would", "be", "ready", "when", "I", "came", "it", "which", "they", "assured", "me", "it", "would", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "arrived", "at", "6:30", "pm", "--", "the", "earliest", "I", "could", "make", "it", "--", "only", "to", "be", "told", "they", "'d", "''", "``", "forgotten", "about", "it", "''", "''", "and", "would", "try", "to", "finish", "it", "before", "they", "closed", "."], "e1_text": "finish", "e1_pos": 30, "e2_text": "closed", "e2_pos": 34, "label": "before"},
+{"tokens": ["Does", "n't", "seem", "legit", "to", "me", "--", "it", "is", "a", "removable", "plate", "and", "I", "only", "ever", "took", "it", "off", "before", "once", "the", "switch", "stopped", "working", "."], "e1_text": "took", "e1_pos": 16, "e2_text": "stopped", "e2_pos": 23, "label": "before"}
+]

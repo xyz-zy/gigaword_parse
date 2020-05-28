@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "am", "only", "writing", "this", "that", "they", "may", "wake", "up", "and", "smell", "the", "coffee", "before", "their", "hired", "help", "runs", "them", "out", "of", "business", "."], "e1_text": "smell", "e1_pos": 11, "e2_text": "runs", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "will", "be", "a", "long", "time", "before", "I", "or", "my", "family", "give", "the", "crab", "corner", "another", "try", "if", "ever", "."], "e1_text": "be", "e1_pos": 2, "e2_text": "give", "e2_pos": 11, "label": "before"}
+]

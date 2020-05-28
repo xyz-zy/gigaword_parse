@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "also", "accidentally", "spilled", "water", "over", "half", "of", "the", "table", ",", "and", "I", "was", "surprised", "that", "the", "waiter", "did", "n't", "notice", "that", "we", "had", "used", "all", "our", "napkins", "to", "wipe", "up", "the", "mess", "before", "assisting", "."], "e1_text": "wipe", "e1_pos": 29, "e2_text": "assisting", "e2_pos": 34, "label": "before"}
+]

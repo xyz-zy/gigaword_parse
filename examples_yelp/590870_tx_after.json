@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "is", "a", "ZOO", "!!!!!!!!!!", "I", "'m", "kind", "of", "happy", "I", "waited", "so", "long", "after", "it", "opened", "because", "although", "it", "'s", "calmed", "down", "greatly", ",", "it", "'s", "still", "very", "hectic", "!"], "e1_text": "waited", "e1_pos": 12, "e2_text": "opened", "e2_pos": 17, "label": "after"}
+]

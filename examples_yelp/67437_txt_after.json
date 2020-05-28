@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "should", "begin", "the", "review", "with", "an", "explanation\\/disclaimer", ";", "growing", "up", ",", "after", "finding", "out", "what", "everything", "was", ",", "in", "filipino", "cuisine", ",", "I", "became", "a", "picky", "eater", "."], "e1_text": "growing", "e1_pos": 9, "e2_text": "finding", "e2_pos": 13, "label": "after"}
+]

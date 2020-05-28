@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "only", "after", "I", "asked", "the", "server", "about", "what", "the", "chef", "said", "that", "the", "situation", "was", "acknowledged", "at", "all", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "asked", "e2_pos": 5, "label": "after"},
+{"tokens": ["It", "was", "actually", "a", "full", "hour", "after", "finding", "the", "crab", "before", "the", "manager", "came", "over", "to", "drop", "off", "our", "check", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "finding", "e2_pos": 7, "label": "after"}
+]

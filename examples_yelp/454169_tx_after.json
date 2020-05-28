@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "morning", "I", "dropped", "of", "the", "car", "at", "8am", "and", "did", "not", "get", "a", "call", "back", "from", "them", "until", "11:15", "am", "-LRB-", "even", "after", "I", "called", "to", "remind", "them", "I", "had", "a", "12:00", "appointment", "-RRB-", "."], "e1_text": "am", "e1_pos": 20, "e2_text": "called", "e2_pos": 25, "label": "after"}
+]

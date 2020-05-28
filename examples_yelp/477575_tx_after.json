@@ -1,0 +1,4 @@
+[
+{"tokens": ["Where", "I", "am", "not", "willing", "to", "cut", "slack", "is", "when", "a", "customer", "returns", "to", "your", "establishment", "ten", "minutes", "after", "leaving", "to", "attempt", "to", "locate", "an", "expensive", "phone", "that", "they", "left", "at", "the", "restaurant", "only", "to", "be", "flippantly", "dismissed", "by", "the", "staff", "."], "e1_text": "returns", "e1_pos": 12, "e2_text": "leaving", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "realized", "it", "shortly", "after", "leaving", "and", "immediately", "returned", "to", "collect", "it", "."], "e1_text": "realized", "e1_pos": 1, "e2_text": "leaving", "e2_pos": 5, "label": "after"}
+]

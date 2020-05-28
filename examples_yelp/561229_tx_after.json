@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "friends", "and", "I", "went", "to", "Custom", "Built", "Pizza", "last", "Friday", "night", "after", "reading", "all", "of", "the", "promising", "reviews", "."], "e1_text": "went", "e1_pos": 4, "e2_text": "reading", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "opted", "for", "traditional", "dough", "and", "after", "reading", "countless", "reviews", "on", "the", "diavola", "-LRB-", "spicy", "-RRB-", "sauce", "I", "had", "to", "try", "it", "."], "e1_text": "opted", "e1_pos": 1, "e2_text": "reading", "e2_pos": 7, "label": "after"}
+]

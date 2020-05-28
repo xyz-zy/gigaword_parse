@@ -1,0 +1,3 @@
+[
+{"tokens": ["Note", ":", "Make", "sure", "you", "read", "all", "the", "rules", "of", "the", "price", "match", "before", "you", "book", "and", "that", "you", "give", "yourself", "enough", "time", "to", "cancel", "if", "Excalibur", "denies", "your", "claim", "."], "e1_text": "match", "e1_pos": 12, "e2_text": "book", "e2_pos": 15, "label": "before"}
+]

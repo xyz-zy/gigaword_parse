@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "a", "back", "pain", "suddenly", "after", "going", "to", "wet", "and", "wild", "on", "Saturday", ",", "I", "called", "them", "took", "the", "appointment", "as", "they", "say", "they", "had", "only", "lady", "at", "the", "time", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "going", "e2_pos": 7, "label": "after"},
+{"tokens": ["neither", "suggest", "to", "some", "one-If", "any", "thing", "policies", "you", "guys", "had", "please", "tell", "when", "we", "call", "for", "appointment", "not", "after", "going", "inside"], "e1_text": "suggest", "e1_pos": 1, "e2_text": "going", "e2_pos": 20, "label": "after"}
+]

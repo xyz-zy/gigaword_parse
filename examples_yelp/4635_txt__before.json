@@ -1,0 +1,4 @@
+[
+{"tokens": ["Under", "no", "circumstances", "should", "you", "sit", "down", "before", "placing", "an", "order", "."], "e1_text": "sit", "e1_pos": 5, "e2_text": "placing", "e2_pos": 8, "label": "before"},
+{"tokens": ["An", "''", "``", "excuse", "me", ",", "but", "you", "need", "to", "order", "first", "before", "you", "sit", "down", "''", "''", "would", "have", "sufficed", "."], "e1_text": "order", "e1_pos": 10, "e2_text": "sit", "e2_pos": 14, "label": "before"}
+]

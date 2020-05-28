@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "highly", "recommend", "this", "gem", "of", "a", "restaurant", "-", "get", "there", "soon", "before", "they", "move", "up", "and", "out", "because", "they", "definitely", "deserve", "to", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "move", "e2_pos": 14, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "just", "drove", "it", "off", ",", "but", "when", "she", "looked", "at", "the", "gauges", "after", "driving", "off", ",", "she", "noticed", "the", "traction", "control", "had", "been", "turned", "off", "by", "the", "valet", "."], "e1_text": "looked", "e1_pos": 9, "e2_text": "driving", "e2_pos": 14, "label": "after"}
+]

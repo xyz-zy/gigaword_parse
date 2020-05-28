@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "of", "my", "friends", "ended", "up", "getting", "a", "live", "maggot", "in", "their", "food", ",", "she", "realized", "after", "eating", "half", "of", "her", "dish", "."], "e1_text": "realized", "e1_pos": 15, "e2_text": "eating", "e2_pos": 17, "label": "after"},
+{"tokens": ["My", "other", "friend", "had", "his", "food", "delayed", "by", "15", "mins", "after", "we", "all", "had", "ours", "and", "eventually", "when", "it", "came", "out", "he", "got", "the", "total", "wrong", "order", "."], "e1_text": "delayed", "e1_pos": 6, "e2_text": "had", "e2_pos": 3, "label": "after"}
+]

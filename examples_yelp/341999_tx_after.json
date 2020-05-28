@@ -1,0 +1,4 @@
+[
+{"tokens": ["Admittedly", ",", "I", "had", "already", "waited", "almost", "2", "hours", ",", "after", "being", "told", "it", "would", "only", "be", "about", "35", "min", "for", "a", "wash", "and", "wax", ",", "so", "I", "was", "eager", "to", "leave", "and", "did", "n't", "give", "the", "car", "a", "full", "inspection", "before", "I", "left", "the", "property", "."], "e1_text": "waited", "e1_pos": 5, "e2_text": "being", "e2_pos": 11, "label": "after"},
+{"tokens": ["This", "was", "after", "waiting", "almost", "25", "minutes", "for", "him", "to", "come", "to", "the", "front", "desk", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 3, "label": "after"}
+]

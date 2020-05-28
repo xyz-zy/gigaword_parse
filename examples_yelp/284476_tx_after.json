@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "a", "few", "people", "who", "ordered", "bottle", "service", ",", "30", "minutes", "later", "VIP", "was", "empty", ";", "I", "guess", "they", "said", "forget", "this", "even", "after", "paying", "several", "hundred", "dollars", "for", "bottle", "service", "."], "e1_text": "forget", "e1_pos": 21, "e2_text": "paying", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waited", "26", "minutes", "in", "line", "after", "paying", "for", "my", "soy", "caramel", "mocchiatto", ",", "then", "finding", "out", "after", "asking", "where", "'s", "my", "drink", "that", "#", "1", "they", "'re", "out", "of", "soy", "and", "#", "2", ",", "they", "did", "n't", "have", "my", "order", "."], "e1_text": "Waited", "e1_pos": 0, "e2_text": "paying", "e2_pos": 6, "label": "after"}
+]

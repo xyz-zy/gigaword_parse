@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "wanted", "street", "tacos", "and", "I", "did", "n't", "think", "that", "I", "had", "been", "to", "Los", "Favoritos", "before", "so", "I", "stopped", "here", "on", "my", "way", "home", "a", "few", "nights", "ago", "."], "e1_text": "been", "e1_pos": 13, "e2_text": "stopped", "e2_pos": 20, "label": "before"},
+{"tokens": ["Once", "I", "got", "home", "and", "started", "eating", ",", "I", "realized", "that", "I", "did", "n't", "think", "that", "I", "had", "been", "there", "before", "because", "it", "'s", "pretty", "forgettable", "."], "e1_text": "think", "e1_pos": 14, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

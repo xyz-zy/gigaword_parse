@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "in", "line", "for", "about", "20", "minutes", "to", "get", "served", "by", "the", "waiters", ";", "the", "long", "wait", "was", "not", "because", "the", "place", "was", "fully", "booked", ",", "but", "because", "many", "tables", "were", "not", "cleaned", "after", "the", "diners", "have", "left", "."], "e1_text": "cleaned", "e1_pos": 33, "e2_text": "have", "e2_pos": 37, "label": "after"},
+{"tokens": ["The", "guy", "who", "gave", "a", "5-star", "ratings", "for", "this", "place", "must", "have", "been", "locked", "in", "a", "cage", "for", "the", "past", "30", "years", "and", "this", "restaurant", "was", "the", "first", "thing", "he", "encountered", "after", "being", "released", "."], "e1_text": "encountered", "e1_pos": 30, "e2_text": "being", "e2_pos": 32, "label": "after"}
+]

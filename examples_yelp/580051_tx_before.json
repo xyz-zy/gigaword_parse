@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "coffee", "tasted", "stale", "and", "there", "was", "no", "froth", "on", "the", "milk", "Get", "your", "fix", "at", "the", "Starbucks", "before", "you", "head", "down", "to", "gate", "C"], "e1_text": "Get", "e1_pos": 12, "e2_text": "head", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "an", "appetizer", "which", "did", "not", "come", "out", "until", "our", "meals", "even", "after", "I", "asked", "the", "serverto", "bring", "it", "before", "."], "e1_text": "asked", "e1_pos": 15, "e2_text": "bring", "e2_pos": 18, "label": "before"},
+{"tokens": ["They", "brought", "the", "kids", "meals", "out", "30", "min", "before", "they", "brought", "any", "thing", "else", "out", "so", "needless", "to", "say", "they", "were", "finished", "before", "the", "rest", "came", "out", "."], "e1_text": "brought", "e1_pos": 1, "e2_text": "brought", "e2_pos": 1, "label": "before"}
+]

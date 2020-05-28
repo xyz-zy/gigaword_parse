@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "insisted", ",", "and", "this", "went", "back", "and", "forth", "several", "times", "before", "we", "said", "that", "we", "will", "leave", "."], "e1_text": "went", "e1_pos": 5, "e2_text": "said", "e2_pos": 13, "label": "before"},
+{"tokens": ["She", "finally", "allowed", "us", "to", "sit", "at", "a", "booth", "but", "then", "made", "a", "dramatic", "show", "about", "placing", "us", "there", "before", "stomping", "off", "."], "e1_text": "placing", "e1_pos": 16, "e2_text": "stomping", "e2_pos": 20, "label": "before"}
+]

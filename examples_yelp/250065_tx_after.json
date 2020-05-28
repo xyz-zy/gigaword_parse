@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "have", "anything", "to", "do", "with", "them", "after", "reading", "this", "-LRB-", "and", "other", "reviews", "here", "-RRB-", "you", "'re", "either", "stupid", "or", "nuts", "."], "e1_text": "do", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["You", "might", "as", "well", "take", "your", "money", "and", "flush", "it", "down", "the", "shitter", ",", "because", "you", "can", "be", "sure", "that", "after", "you", "fork", "it", "over", "to", "these", "clowns", ",", "you", "'ll", "never", "see", "any", "of", "it", "ever", "again", "."], "e1_text": "be", "e1_pos": 17, "e2_text": "fork", "e2_pos": 22, "label": "after"}
+]

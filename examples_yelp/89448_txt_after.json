@@ -1,0 +1,4 @@
+[
+{"tokens": ["-LRB-", "comes", "back", "after", "a", "while", "with", "the", "fries", "-RRB-", "''", "``", "Great", ",", "can", "I", "have", "a", "fork", "for", "this", "?", "''", "''", "''"], "e1_text": "back", "e1_pos": 2, "e2_text": "Great", "e2_pos": 12, "label": "after"},
+{"tokens": ["-LRB-", "comes", "back", "after", "a", "few", "minutes", "-RRB-", "''", "``", "I", "'m", "sorry", ",", "we", "'re", "out", "of", "forks", ".", "''", "''", "''"], "e1_text": "back", "e1_pos": 2, "e2_text": "'m", "e2_pos": 11, "label": "after"}
+]

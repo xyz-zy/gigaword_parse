@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "needs", "to", "go", "back", "to", "wherever", "the", "hell", "he", "came", "from", ",", "and", "maybe", "try", "cooking", "again", "after", "taking", "some", "high", "school", "level", "foods", "classes", "."], "e1_text": "cooking", "e1_pos": 16, "e2_text": "taking", "e2_pos": 19, "label": "after"},
+{"tokens": ["ugh", ":", ":", "UPDATE", ":", ":", "this", "is", "what", "the", "chef", "of", "this", "place", "has", "to", "say", "after", "reading", "a", "bad", "review", "of", "his", "place", "."], "e1_text": "say", "e1_pos": 16, "e2_text": "reading", "e2_pos": 18, "label": "after"}
+]

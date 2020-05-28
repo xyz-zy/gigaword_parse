@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "now", "have", "to", "get", "to", "classes", "early", "before", "they", "fill", "up", "and", "the", "locker", "room", "is", "too", "full", "for", "comfort", "-LRB-", "there", "are", "lines", "at", "the", "shower", "-RRB-", "."], "e1_text": "get", "e1_pos": 4, "e2_text": "fill", "e2_pos": 10, "label": "before"}
+]

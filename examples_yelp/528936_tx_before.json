@@ -1,0 +1,4 @@
+[
+{"tokens": ["Obviously", "we", "were", "n't", "looking", "for", "a", "5", "star", "dining", "experience", ",", "just", "burgers", "and", "fries", "before", "the", "group", "got", "''", "``", "hangry", ".", "''", "''"], "e1_text": "looking", "e1_pos": 4, "e2_text": "hangry", "e2_pos": 22, "label": "before"},
+{"tokens": ["She", "brought", "the", "food", "as", "it", "was", "ready", ",", "so", "half", "of", "the", "group", "was", "finished", "eating", "before", "the", "others", "even", "got", "their", "-LRB-", "similar", "cooking-time", "-RRB-", "meals", "."], "e1_text": "eating", "e1_pos": 16, "e2_text": "got", "e2_pos": 21, "label": "before"}
+]

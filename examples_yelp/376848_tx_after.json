@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "guy", "on", "the", "other", "end", "says", "he", "'d", "get", "in", "touch", "with", "the", "delivery", "driver", "and", "see", "what", "was", "going", "on", ";", "this", "after", "telling", "me", "it", "should", "be", "33", "minutes", "because", "his", "driver", "was", "on", "my", "side", "of", "town", "."], "e1_text": "see", "e1_pos": 17, "e2_text": "telling", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "should", "n't", "have", "tipped", "the", "driver", "but", "I", "did", "after", "he", "said", "that", "he", "'d", "gotten", "lost", "."], "e1_text": "did", "e1_pos": 9, "e2_text": "said", "e2_pos": 12, "label": "after"},
+{"tokens": ["Oh", "and", "how", "they", "justify", "a", "$", "2", "charge", "for", "delivery", "-LRB-", "which", "I", "found", "out", "after", "the", "driver", "was", "long", "gone", "-RRB-", "is", "beyond", "me", "."], "e1_text": "found", "e1_pos": 14, "e2_text": "was", "e2_pos": 19, "label": "after"}
+]

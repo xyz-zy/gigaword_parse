@@ -1,0 +1,4 @@
+[
+{"tokens": ["Really", "guys", ",", "this", "is", "no", "BS", ",", "call", "K", "and", "B", "garage", "before", "you", "go", "with", "any", "other", "company", "."], "e1_text": "call", "e1_pos": 8, "e2_text": "go", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "checked", "2", "other", "companies", "before", "receiving", "a", "referral", "from", "a", "close", "friend", "to", "call", "K", "B", "garage", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "receiving", "e2_pos": 6, "label": "before"}
+]

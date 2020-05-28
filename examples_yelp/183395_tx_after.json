@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "came", "here", "after", "watching", "Cirque", "du", "Soleil", "'s", "new", "musical", "spectacular", ",", "Michael", "Jackson", "The", "Immortal", "World", "Tour", ",", "on", "Yelp", "Night", "in", "the", "Mandalay", "Bay", "Events", "Center", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "watching", "e2_pos": 4, "label": "after"},
+{"tokens": ["Diane", "got", "her", "own", "slice", "of", "Chocolate", "Cake", "after", "her", "requested", "warming", "of", "what", "was", "supposed", "to", "be", "our", "shared", "slice", "ruined", "its", "look", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "requested", "e2_pos": 10, "label": "after"},
+{"tokens": ["Even", "better", ",", "I", "was", "given", "the", "second", "cake", "slice", "by", "our", "server", "without", "extra", "charge", "because", "of", "the", "condition", "of", "our", "ordered", "slice", "'s", "melted", "appearance", "after", "it", "had", "been", "heated", "."], "e1_text": "given", "e1_pos": 5, "e2_text": "had", "e2_pos": 29, "label": "after"}
+]

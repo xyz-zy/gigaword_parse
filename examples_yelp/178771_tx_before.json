@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "got", "so", "stuffed", "on", "food", "before", "I", "even", "made", "it", "to", "the", "mediterranean", "and", "mexican", "section", "."], "e1_text": "got", "e1_pos": 1, "e2_text": "made", "e2_pos": 9, "label": "before"},
+{"tokens": ["Our", "waitress", "was", "very", "nice", ",", "cleaned", "out", "our", "table", "swiftly", "and", "brought", "refills", "for", "our", "drinks", "way", "before", "we", "needed", "them", "."], "e1_text": "brought", "e1_pos": 12, "e2_text": "needed", "e2_pos": 20, "label": "before"}
+]

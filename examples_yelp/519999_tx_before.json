@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "have", "never", "been", "to", "a", "restaurant", "before", "where", "I", "have", "wanted", "to", "leave", "before", "my", "meal", "even", "arrived", "but", "this", "is", "what", "happened", "at", "Tianxia", "."], "e1_text": "been", "e1_pos": 3, "e2_text": "have", "e2_pos": 1, "label": "before"},
+{"tokens": ["You", "can", "imagine", "how", "bad", "the", "food", "must", "have", "been", "for", "us", "both", "to", "only", "be", "able", "to", "take", "a", "few", "bites", "before", "being", "so", "completely", "put", "off", "that", "we", "had", "to", "stop", "."], "e1_text": "take", "e1_pos": 18, "e2_text": "being", "e2_pos": 23, "label": "before"},
+{"tokens": ["I", "will", "never", "go", "back", "here", "again", ",", "and", "I", "hope", "that", "they", "close", "themselves", ",", "before", "they", "are", "forced", "to", "close", "because", "of", "making", "someone", "sick", "."], "e1_text": "close", "e1_pos": 13, "e2_text": "are", "e2_pos": 18, "label": "before"}
+]

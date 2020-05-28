@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "simply", "turned", "around", "and", "handed", "the", "bad", "item", "to", "the", "back", "and", "instructed", "them", "to", "throw", "it", "away", "before", "grabbing", "a", "normal", "looking", "hot", "dog", "for", "our", "order", "."], "e1_text": "throw", "e1_pos": 17, "e2_text": "grabbing", "e2_pos": 21, "label": "before"}
+]

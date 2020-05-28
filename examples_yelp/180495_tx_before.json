@@ -1,0 +1,5 @@
+[
+{"tokens": ["He", "had", "been", "set", "to", "fight", "the", "week", "before", "when", "I", "called", "to", "confirm", "."], "e1_text": "fight", "e1_pos": 5, "e2_text": "called", "e2_pos": 11, "label": "before"},
+{"tokens": ["He", "had", "been", "set", "to", "fight", "the", "day", "before", "when", "I", "called", "to", "confirm", "."], "e1_text": "fight", "e1_pos": 5, "e2_text": "called", "e2_pos": 11, "label": "before"},
+{"tokens": ["Luckily", ",", "our", "great", "friends", "searched", "the", "city", "for", "what", "turned", "out", "to", "be", "an", "even", "better", "penthouse", "suite", "at", "the", "Trump", "Tower", "4", "hours", "before", "the", "wedding", "was", "to", "start", "-LRB-", "go", "there", "!", "-RRB-", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "was", "e2_pos": 28, "label": "before"}
+]

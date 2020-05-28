@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "came", "in", "looking", "for", "a", "replacement", ",", "but", "the", "guy", "that", "''", "``", "helped", "''", "''", "me", "out", "seemed", "to", "be", "too", "concentrated", "on", "organizing", "the", "rest", "of", "the", "shoes", "before", "helping", "me", "."], "e1_text": "organizing", "e1_pos": 25, "e2_text": "helping", "e2_pos": 32, "label": "before"}
+]

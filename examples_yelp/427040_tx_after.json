@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "poured", "a", "glass", "of", "milk", "-LRB-", "yeah", ",", "I", "still", "drink", "milk", "-RRB-", ",", "flicked", "on", "Bloomberg", "and", "took", "a", "bite", "of", "sandwich", "after", "dipping", "an", "edge", "into", "Plochman", "'s", "."], "e1_text": "took", "e1_pos": 19, "e2_text": "dipping", "e2_pos": 25, "label": "after"}
+]

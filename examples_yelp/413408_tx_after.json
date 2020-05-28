@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "made", "me", "wonder", "if", "their", "chef", "even", "try", "to", "taste", "his\\/her", "food", "after", "he\\/she", "had", "made", "them", "."], "e1_text": "taste", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["Well", ",", "that", "'s", "how", "it", "'s", "gon", "na", "taste", "like", "when", "you", "use", "a", "quick", "fix", "method", "like", "that", "after", "the", "soup", "has", "been", "sitting", "out", "for", "at", "least", "15", "minutes", "."], "e1_text": "use", "e1_pos": 13, "e2_text": "has", "e2_pos": 23, "label": "after"}
+]

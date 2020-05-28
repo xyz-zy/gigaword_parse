@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "paid", "a", "crapload", "of", "money", "for", "this", "''", "``", "trendy", "''", "''", "ice", "cream", "and", "she", "just", "throws", "coconut", "in", "after", "I", "say", "I", "do", "n't", "want", "it", "?!", "At", "that", "point", ",", "I", "just", "took", "the", "ice", "cream", "and", "left", "."], "e1_text": "throws", "e1_pos": 18, "e2_text": "say", "e2_pos": 23, "label": "after"},
+{"tokens": ["I", "read", "in", "some", "brochure", "they", "have", "after", "eating", "a", "significant", "amount", "of", "my", "ice", "cream", "that", "it", "causes", "''", "``", "accelerated", "bowel", "movements", "''", "''", "."], "e1_text": "have", "e1_pos": 6, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

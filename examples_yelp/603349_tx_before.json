@@ -1,0 +1,3 @@
+[
+{"tokens": ["As", "a", "person", "with", "food", "allergies", "-LRB-", "dairy", ",", "gluten", "and", "corn", "-RRB-", "I", "try", "to", "be", "as", "straightforward", "and", "responsible", "about", "my", "understanding", "of", "a", "menu", "as", "possible", "before", "visiting", "a", "restaurant", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "visiting", "e2_pos": 30, "label": "before"}
+]

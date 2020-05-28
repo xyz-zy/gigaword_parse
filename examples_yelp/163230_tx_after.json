@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "husband", "and", "I", "are", "in", "town", "for", "CES", ",", "and", "he", "got", "us", "tickets", "for", "the", "show", ",", "after", "reading", "previous", "reviews", "we", "knew", "to", "keep", "an", "open", "mind", "but", "the", "people", "near", "us", "were", "not", "thrilled", "at", "one", "point", "."], "e1_text": "got", "e1_pos": 12, "e2_text": "reading", "e2_pos": 20, "label": "after"}
+]

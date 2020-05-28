@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "obvious", "that", "a", "worker", "stole", "it", "because", "the", "cars", "go", "straight", "to", "cleaning", "before", "going", "out", "for", "rent", "again", "."], "e1_text": "cleaning", "e1_pos": 14, "e2_text": "going", "e2_pos": 16, "label": "before"}
+]

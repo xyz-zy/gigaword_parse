@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "almost", "left", "before", "ordering", "."], "e1_text": "left", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 4, "label": "before"},
+{"tokens": ["A", "table", "near", "us", "ordered", "a", "bottle", "of", "wine", "and", "it", "was", "brought", "out", "opened", ",", "in", "a", "wine", "cooling", "container", ",", "and", "plunked", "on", "the", "table", "before", "the", "server", "rushed", "away", "."], "e1_text": "plunked", "e1_pos": 23, "e2_text": "rushed", "e2_pos": 30, "label": "before"}
+]

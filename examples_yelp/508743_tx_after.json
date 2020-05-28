@@ -1,0 +1,3 @@
+[
+{"tokens": ["a", "guy", "started", "my", "fill", "after", "about", "an", "hour", "of", "waiting", "then", "left", "me", "to", "go", "work", "on", "someone", "else", "without", "polishing", "me", "...", "a", "lady", "polished", "my", "nails", "while", "i", "was", "getting", "a", "pedi", "which", "was", "uncomfortable", ".", "."], "e1_text": "started", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

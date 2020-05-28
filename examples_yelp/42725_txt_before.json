@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "vet", "came", "in", "and", "was", "so", "soothing", "and", "understanding", ",", "giving", "our", "boy", "a", "full", "check-up", "to", "make", "sure", "the", "diagnosis", "was", "correct", "before", "putting", "him", "down", "."], "e1_text": "giving", "e1_pos": 11, "e2_text": "putting", "e2_pos": 25, "label": "before"},
+{"tokens": ["The", "nurse", "at", "the", "front", "gave", "me", "the", "tightest", "of", "hugs", "before", "we", "left", "."], "e1_text": "gave", "e1_pos": 5, "e2_text": "left", "e2_pos": 13, "label": "before"}
+]

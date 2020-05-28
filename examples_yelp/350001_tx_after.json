@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ordered", "from", "the", "fixed", "price", "menu", "and", "were", "really", "surprised", "that", "the", "appetizers", "took", "20", "minutes", "to", "come", "out", ",", "and", "the", "main", "course", "was", "another", "20", "minutes", "after", "they", "took", "the", "appetizers", "away", "."], "e1_text": "was", "e1_pos": 25, "e2_text": "took", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "tried", "to", "get", "our", "waiters", "attention", "to", "let", "him", "know", "about", "the", "steak", ",", "but", "after", "3", "attempts", "and", "over", "15", "minutes", ",", "we", "gave", "up", "-", "signaled", "a", "manager", ",", "and", "the", "meal", "was", "removed", "from", "the", "bill", "."], "e1_text": "let", "e1_pos": 8, "e2_text": "signaled", "e2_pos": 28, "label": "after"}
+]

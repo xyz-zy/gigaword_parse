@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "want", "a", "little", "more", "attention", "you", "could", "sit", "at", "the", "bar", "and", "have", "the", "bartenders", "there", "ignore", "you", "after", "they", "ask", "if", "you", "want", "a", "refill", "and", "walk", "away", "...", "The", "last", "two", "times", "we", "have", "come", "here", "have", "been", "the", "same", "crappy", "bitchy", "services", "...", "If", "you", "want", "decent", "service", "ask", "for", "gina", "as", "a", "bartender", "she", "'s", "the", "only", "one", "who", "seems", "to", "know", "what", "she", "'s", "doing", "."], "e1_text": "ignore", "e1_pos": 18, "e2_text": "ask", "e2_pos": 22, "label": "after"}
+]

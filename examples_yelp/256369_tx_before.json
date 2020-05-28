@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "arrived", "ten", "minutes", "before", "they", "closed", "and", "I", "immediately", "got", "the", "looks", "from", "the", "staff", "up", "front", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "closed", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "do", "n't", "know", "about", "you", ",", "but", "at", "the", "places", "I", "'ve", "worked", "if", "a", "customer", "comes", "in", "before", "closing", "time", "they", "are", "helped", "."], "e1_text": "comes", "e1_pos": 17, "e2_text": "are", "e2_pos": 23, "label": "before"},
+{"tokens": ["If", "you", "show", "up", "at", "the", "DMV", "before", "they", "close", ",", "they", "help", "you", "despite", "it", "being", "after", "their", "advertised", "time", "."], "e1_text": "show", "e1_pos": 2, "e2_text": "close", "e2_pos": 9, "label": "before"}
+]

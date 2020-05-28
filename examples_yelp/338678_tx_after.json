@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "they", "got", "my", "appetizer", "wrong", ",", "then", "our", "food", "came", "after", "the", "whole", "restaurant", "had", "turned", "over", "and", "a", "new", "batch", "of", "customers", "had", "been", "got", "their", "food", "-", "even", "after", "we", "asked", "them", "twice", "where", "our", "food", "was", "."], "e1_text": "came", "e1_pos": 10, "e2_text": "had", "e2_pos": 15, "label": "after"}
+]

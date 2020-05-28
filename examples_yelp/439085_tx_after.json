@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "my", "fifth", "friend", "was", "kept", "waiting", "long", "after", "the", "rest", "of", "us", "finished", "our", "experiences", ",", "with", "no", "explanation", "for", "the", "delay", "."], "e1_text": "waiting", "e1_pos": 7, "e2_text": "finished", "e2_pos": 14, "label": "after"},
+{"tokens": ["I", "would", "have", "rated", "the", "experience", "higher", "if", "the", "customer", "service", "had", "been", "better", ",", "especially", "since", "they", "boast", "throughout", "the", "teaching", "that", "if", "we", "are", "not", "satisfied", ",", "we", "should", "talk", "with", "the", "management", ",", "because", "after", "we", "leave", ",", "they", "can", "not", "address", "the", "issue", "."], "e1_text": "boast", "e1_pos": 18, "e2_text": "leave", "e2_pos": 39, "label": "after"}
+]

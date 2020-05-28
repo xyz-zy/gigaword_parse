@@ -1,0 +1,4 @@
+[
+{"tokens": ["Going", "in", "I", "was", "a", "little", "concerned", "about", "trying", "this", "place", "after", "reading", "some", "of", "the", "reviews", "here", "on", "Yelp", "but", "I", "received", "a", "voucher", "for", "dinner", "for", "two", "as", "a", "gift", "so", "since", "the", "major", "portion", "of", "the", "bill", "would", "be", "covered", "I", "figured", "what", "the", "heck", "."], "e1_text": "trying", "e1_pos": 8, "e2_text": "reading", "e2_pos": 12, "label": "after"},
+{"tokens": ["First", "off", "let", "me", "say", "that", "some", "signage", "would", "make", "it", "easier", "to", "find", "but", "after", "turning", "into", "The", "Biltmore", "Estates", "off", "of", "24th", "just", "head", "towards", "the", "back", "to", "the", "white", "bridge", "and", "cross", "over", "it", "and", "you", "are", "there", "."], "e1_text": "find", "e1_pos": 13, "e2_text": "turning", "e2_pos": 16, "label": "after"}
+]

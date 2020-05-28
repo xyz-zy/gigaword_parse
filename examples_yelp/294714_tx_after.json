@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Southwestern", "Chicken", "Sandwich", "I", "had", "last", "night", "was", "pretty", "good", ",", "but", "for", "some", "reason", "the", "bottom", "bun", "became", "really", "soggy", "shortly", "after", "I", "received", "the", "order", "."], "e1_text": "became", "e1_pos": 19, "e2_text": "received", "e2_pos": 25, "label": "after"}
+]

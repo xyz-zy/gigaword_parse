@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "last", "time", "when", "we", "dropped", "them", "off", "we", "made", "sure", "to", "let", "them", "know", "about", "the", "smell", "from", "their", "previous", "boarding", "and", "to", "be", "sure", "they", "were", "bathed", "before", "picking", "them", "up", "."], "e1_text": "bathed", "e1_pos": 28, "e2_text": "picking", "e2_pos": 30, "label": "before"},
+{"tokens": ["We", "were", "told", "that", "they", "were", "bathed", "a", "couple", "hours", "before", "we", "picked", "them", "up", "."], "e1_text": "bathed", "e1_pos": 6, "e2_text": "picked", "e2_pos": 12, "label": "before"}
+]

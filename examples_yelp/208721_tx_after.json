@@ -1,0 +1,4 @@
+[
+{"tokens": ["But", "the", "line", "did", "show", "up", "right", "after", "I", "got", "in", "so", "this", "was", "the", "only", "plus", "."], "e1_text": "did", "e1_pos": 3, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "only", "think", "that", "was", "ok", "was", "the", "claim", "chowder", "I", "will", "not", "be", "back", "after", "paying", "48.00", "for", "old", "dried", "up", "food", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "dried", "e2_pos": 20, "label": "after"}
+]

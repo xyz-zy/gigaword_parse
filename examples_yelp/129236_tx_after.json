@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "a", "snafu", "with", "some", "show", "tickets", "bought", "through", "our", "Passport", "card", "-LRB-", "I", "realized", "after", "being", "seated", "that", "the", "voucher", "said", "tickets", "must", "be", "picked", "up", "1", "hour", "prior", "to", "show", "time", "-RRB-", "."], "e1_text": "realized", "e1_pos": 15, "e2_text": "being", "e2_pos": 17, "label": "after"}
+]

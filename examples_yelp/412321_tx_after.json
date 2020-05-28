@@ -1,0 +1,4 @@
+[
+{"tokens": ["His", "response", "was", "''", "``", "the", "table", "IS", "the", "same", "size", "''", "''", "...", "well", "yes", ",", "the", "physical", "table", "surface", "area", "was", "the", "same", ",", "but", "please", "do", "n't", "insult", "my", "intelligence", "after", "blatantly", "tricking", "us", "into", "moving", "."], "e1_text": "insult", "e1_pos": 30, "e2_text": "tricking", "e2_pos": 35, "label": "after"},
+{"tokens": ["I", "do", "n't", "appreciate", "being", "lied", "to", ",", "especially", "when", "slightly", "inebriated", "and", "after", "paying", "a", "$", "1300", "bill", "."], "e1_text": "appreciate", "e1_pos": 3, "e2_text": "inebriated", "e2_pos": 11, "label": "after"}
+]

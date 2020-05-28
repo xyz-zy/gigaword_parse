@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "an", "hour", "after", "we", "finished", "our", "appetizers", "-LRB-", "and", "long", "after", "our", "glasses", "were", "empty", "-RRB-", "before", "our", "server", "came", "back", "to", "take", "our", "orders", ",", "and", "then", "another", "hour", "before", "we", "had", "our", "food", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "finished", "e2_pos": 6, "label": "after"},
+{"tokens": ["Every", "drink", "refill", "happened", "at", "least", "20", "minutes", "after", "glasses", "were", "empty", "."], "e1_text": "happened", "e1_pos": 3, "e2_text": "were", "e2_pos": 10, "label": "after"}
+]

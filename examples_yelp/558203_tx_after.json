@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "the", "waiter", "who", "did", "n't", "show", "up", "until", "after", "we", "were", "finished", "-LRB-", "Jose", "P.", "-RRB-", "about", "the", "problem", ";", "he", "asked", "if", "I", "wanted", "fries", "!?", "30", "minutes", "after", "we", "finished", "eating", "you", "do", "n't", "offer", "a", "person", "fries", "...", "talked", "to", "the", "manager", "on", "the", "night", "shift", "she", "really", "did", "n't", "seem", "to", "care", "either", "."], "e1_text": "show", "e1_pos": 7, "e2_text": "were", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sister", "does", "n't", "eat", "anything", "with", "feet", "she", "ordered", "a", "fish", "burrito", "I", "ordered", "a", "chicken", "one", "when", "we", "got", "our", "food", "we", "questioned", "them", "several", "time", "to", "make", "sure", "which", "was", "which", "they", "assured", "us", "we", "had", "it", "right", "my", "sister", "was", "a", "couple", "bites", "in", "before", "I", "realize", "I", "was", "eating", "fish", "...", "My", "sister", "was", "sick", "for", "the", "rest", "of", "the", "night", "very", "upset"], "e1_text": "bites", "e1_pos": 46, "e2_text": "realize", "e2_pos": 50, "label": "before"}
+]

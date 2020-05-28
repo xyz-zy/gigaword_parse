@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "I", "just", "used", "a", "drink", "glass", "after", "my", "friend", "was", "done", "to", "fill", "it", "up", "in", "the", "bathroom", "...", "but", "the", "bouncer", "tried", "to", "convince", "me", "it", "was", "dirty", "water", "so", "I", "would", "buy", "bottled", "water", "."], "e1_text": "used", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

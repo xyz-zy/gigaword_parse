@@ -1,0 +1,4 @@
+[
+{"tokens": ["Third", "night", "finally", "moved", ",", "crawl", "into", "bed", "after", "a", "long", "day", "and", "a", "bloody", "tissue", "falls", "out", "."], "e1_text": "crawl", "e1_pos": 5, "e2_text": "falls", "e2_pos": 16, "label": "after"},
+{"tokens": ["Insist", "on", "having", "bed", "changed", "after", "her", "saying", "no", "one", "is", "available", "."], "e1_text": "changed", "e1_pos": 4, "e2_text": "saying", "e2_pos": 7, "label": "after"}
+]

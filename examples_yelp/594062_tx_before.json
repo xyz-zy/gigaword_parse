@@ -1,0 +1,3 @@
+[
+{"tokens": ["All", "food", "and", "appetizers", "came", "out", "at", "various", "times", "and", "consequently", "some", "of", "our", "diners", "were", "receiving", "their", "entrees", "when", "others", "were", "just", "getting", "their", "appetizers", "and", "8", "of", "our", "diners", "had", "completed", "eating", "their", "entrees", "before", "the", "other", "7", "received", "their", "food", "."], "e1_text": "eating", "e1_pos": 33, "e2_text": "received", "e2_pos": 40, "label": "before"}
+]

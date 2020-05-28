@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", ",", "we", "went", "to", "the", "bathroom", "and", "when", "we", "got", "out", "I", "noticed", "a", "part", "of", "the", "Park", "that", "I", "had", "never", "seen", "before", "."], "e1_text": "noticed", "e1_pos": 13, "e2_text": "had", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "have", "never", "written", "a", "Yelp", "review", "before", "but", "this", "experience", "was", "so", "appalling", "that", "I", "felt", "compelled", "to", "."], "e1_text": "written", "e1_pos": 3, "e2_text": "was", "e2_pos": 11, "label": "before"}
+]

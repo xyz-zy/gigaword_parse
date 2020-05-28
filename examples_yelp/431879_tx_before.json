@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "6", "oz", "Parmesan", "Encrusted", "steak", "was", "gray", "in", "the", "middle", "and", "the", "cheese", "was", "not", "put", "on", "until", "just", "before", "it", "was", "served", ",", "so", "it", "was", "n't", "the", "same", "temp", "and", "did", "n't", "seem", "to", "be", "part", "of", "the", "steak", "."], "e1_text": "put", "e1_pos": 16, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

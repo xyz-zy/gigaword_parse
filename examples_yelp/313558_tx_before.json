@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "The", "saleswoman", "on", "the", "strip", "had", "insisted", "that", "we", "do", "n't", "eat", "before", "we", "go", "so", "we", "were", "totally", "hangry", "at", "this", "point", "and", "annoyed", "that", "the", "hotel", "was", "so", "much", "further", "than", "we", "were", "told", ".", "-RRB-"], "e1_text": "eat", "e1_pos": 12, "e2_text": "go", "e2_pos": 15, "label": "before"}
+]

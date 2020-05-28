@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ahem", ",", "I", "am", "editing", "this", "review", "after", "having", "received", "a", "reply", "from", "the", "owner", ",", "one", "that", "is", "the", "most", "condescending", ",", "officious", "and", "cynical", "I", "have", "ever", "seen", "."], "e1_text": "editing", "e1_pos": 4, "e2_text": "having", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "am", "giving", "this", "place", "2", "stars", "-LRB-", "oops", ",", "not", "after", "seeing", "the", "owner", "'s", "comment", "-RRB-", "because", "the", "groupon", "was", "very", "cheap", "."], "e1_text": "oops", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 12, "label": "after"}
+]

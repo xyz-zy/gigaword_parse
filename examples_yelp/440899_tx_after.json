@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "took", "my", "car", "here", "to", "fix", "my", "manual", "clutch", ",", "but", "decided", "to", "have", "someone", "else", "fix", "it", "after", "being", "quoted", "$", "1000", "less", "from", "another", "shop", "."], "e1_text": "fix", "e1_pos": 6, "e2_text": "being", "e2_pos": 20, "label": "after"}
+]

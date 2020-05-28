@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "interior", ",", "service", ",", "and", "food", "is", "mediocre", "but", "everything", "after", "that", "goes", "way", "downhill", "."], "e1_text": "is", "e1_pos": 7, "e2_text": "goes", "e2_pos": 13, "label": "after"},
+{"tokens": ["I", "came", "in", "expecting", "a", "good", "drink", "after", "seeing", "it", "was", "voted", "best", "margarita", "in", "Charlotte", "and", "left", "wondering", "how", "600,000", "people", "could", "be", "so", "wrong", "."], "e1_text": "expecting", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 8, "label": "after"}
+]

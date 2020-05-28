@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "stated", "to", "us", "twice", "before", "we", "checked", "in", "that", "we", "only", "needed", "to", "give", "a", "$", "100", "deposit", "day", "of", "check-in", "and", "I", "discovered", "they", "charged", "my", "$", "50", "on", "my", "credit", "card", "as", "well", "."], "e1_text": "stated", "e1_pos": 1, "e2_text": "checked", "e2_pos": 7, "label": "before"}
+]

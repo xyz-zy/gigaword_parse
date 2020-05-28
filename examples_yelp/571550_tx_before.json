@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "waited", "in", "the", "waiting", "area", "for", "almost", "an", "hour", "and", "a", "half", "before", "being", "called", "to", "the", "back", "!"], "e1_text": "waited", "e1_pos": 1, "e2_text": "being", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "would", "find", "another", "place", "before", "going", "back", "here", "again", "."], "e1_text": "find", "e1_pos": 2, "e2_text": "going", "e2_pos": 6, "label": "before"}
+]

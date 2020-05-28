@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "n't", "until", "we", "were", "sucking", "on", "ice", "cubes", "before", "the", "waitress", "even", "asked", "if", "we", "wanted", "more", "."], "e1_text": "sucking", "e1_pos": 6, "e2_text": "asked", "e2_pos": 14, "label": "before"},
+{"tokens": ["They", "asked", "us", "if", "we", "wanted", "dessert", "before", "we", "were", "even", "halfway", "done", "with", "our", "entree", "."], "e1_text": "wanted", "e1_pos": 5, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

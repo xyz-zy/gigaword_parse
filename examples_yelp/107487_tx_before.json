@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "elderly", "couple", "lived", "in", "a", "home", "before", "moving", "in", "and", "should", "never", "have", "moved", "into", "an", "apartment", "!"], "e1_text": "lived", "e1_pos": 3, "e2_text": "moving", "e2_pos": 8, "label": "before"}
+]

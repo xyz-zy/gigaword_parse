@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'m", "there", "not", "10", "minutes", "before", "I", "'m", "asking", "for", "the", "key", "to", "the", "restroom", "."], "e1_text": "'m", "e1_pos": 1, "e2_text": "'m", "e2_pos": 1, "label": "before"},
+{"tokens": ["Maybe", "something", "else", ",", "but", "I", "was", "in", "the", "bathroom", "twice", "before", "I", "left", "25", "minutes", "in", "the", "bathroom", "and", "10", "minutes", "shopping", "."], "e1_text": "was", "e1_pos": 6, "e2_text": "left", "e2_pos": 13, "label": "before"}
+]

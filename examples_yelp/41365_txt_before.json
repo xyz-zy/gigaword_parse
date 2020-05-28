@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "claim", "that", "you", "will", "provide", "a", "service", "within", "an", "hour", "and", "a", "half", "you", "should", "probably", "start", "on", "it", "before", "I", "come", "back", "to", "check", "on", "the", "progress", "Three", "hours", "later", "."], "e1_text": "start", "e1_pos": 18, "e2_text": "come", "e2_pos": 23, "label": "before"},
+{"tokens": ["Took", "my", "car", "back", "before", "they", "wasted", "any", "more", "if", "my", "time", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "wasted", "e2_pos": 6, "label": "before"}
+]

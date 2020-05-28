@@ -1,0 +1,4 @@
+[
+{"tokens": ["Well", "that", "'s", "how", "my", "mouth", "felt", "after", "eating", "here", "."], "e1_text": "felt", "e1_pos": 6, "e2_text": "eating", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "only", "good", "thing", "about", "my", "experience", "is", "that", "I", "was", "able", "to", "get", "a", "refund", "from", "Restaurant.com", "after", "telling", "them", "about", "my", "experience", "."], "e1_text": "get", "e1_pos": 13, "e2_text": "telling", "e2_pos": 19, "label": "after"}
+]

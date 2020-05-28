@@ -1,0 +1,3 @@
+[
+{"tokens": ["Arriving", "at", "my", "WH", "Dave", "tried", "to", "light", "the", "pilot", ",", "I", "pointed", "out", "that", "I", "had", "turned", "off", "the", "gas", "line", "to", "prevent", "any", "possible", "danger", "the", "night", "before", "when", "I", "noticed", "the", "issue", "and", "he", "turned", "it", "back", "on", "."], "e1_text": "prevent", "e1_pos": 23, "e2_text": "noticed", "e2_pos": 32, "label": "before"}
+]

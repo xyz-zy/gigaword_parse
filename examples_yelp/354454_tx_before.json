@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "first", "sight", "this", "place", "looked", "so", "pretentious", "that", "I", "spent", "almost", "five", "mins", "before", "to", "decide", "to", "get", "in", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "spent", "e2_pos": 10, "label": "before"},
+{"tokens": ["I", "was", "visiting", "the", "National", "Museum", "and", ",", "after", "exploring", "the", "beautiful", "sections", "focused", "on", "the", "earliest", "human", "settlements", "and", "on", "the", "incredible", "journey", "of", "the", "Scottish", "platform", "throughout", "the", "whole", "emisphere", ",", "I", "went", "to", "the", "last", "floor", ",", "to", "have", "a", "break", "before", "going", "to", "meet", "the", "Vikings", "and", "the", "other", "sections", "and", "hosted", "collections", "."], "e1_text": "have", "e1_pos": 41, "e2_text": "going", "e2_pos": 45, "label": "before"}
+]

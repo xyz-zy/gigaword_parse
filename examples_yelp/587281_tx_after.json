@@ -1,0 +1,3 @@
+[
+{"tokens": ["Drinks", "are", "above", "average", "-LRB-", "fair", "priced", "for", "the", "quality", "-RRB-", "and", "staff", "is", "friendly", ",", "however", "after", "a", "couple", "times", "visits", ",", "I", "can", "confirm", "the", "service", "is", "always", "ridiculously", "slow", "-LRB-", "a", "minimum", "of", "5", "min", "wait", "time", "for", "a", "drink", ",", "sometimes", "almost", "10", "min", "after", "ordering", "-RRB-", "."], "e1_text": "is", "e1_pos": 13, "e2_text": "visits", "e2_pos": 21, "label": "after"}
+]

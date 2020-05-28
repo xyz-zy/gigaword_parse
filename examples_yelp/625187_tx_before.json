@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "camera", "guy", ",", "notice", "I", "did", "n't", "say", "photographer", ",", "was", "nothing", "more", "then", "a", "young", "kid", "with", "a", "cheap", "camera", "who", "was", "probably", "promoted", "from", "the", "position", "of", "the", "person", "that", "originally", "approached", "me", "for", "having", "the", "most", "sales", "the", "month", "before", "."], "e1_text": "approached", "e1_pos": 34, "e2_text": "having", "e2_pos": 37, "label": "before"},
+{"tokens": ["I", "took", "my", "photos", "and", "got", "the", "hell", "out", "of", "there", "before", "someone", "else", "tried", "to", "scam", "me", "into", "something", "rediculious", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "tried", "e2_pos": 14, "label": "before"}
+]

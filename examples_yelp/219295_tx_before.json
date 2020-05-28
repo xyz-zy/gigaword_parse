@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "'d", "just", "like", "to", "start", "out", "by", "saying", "I", "really", "have", "to", "give", "the", "BB", "kudos", "-", "they", "and", "the", "Griffin", "really", "stuck", "out", "their", "necks", "-LRB-", "and", "pocketbooks", "-RRB-", "to", "forge", "ahead", "solo", "on", "Fremont", "East", "before", "it", "became", "established", "as", "the", "hipster", "haven", "it", "is", "becoming", "\\/", "has", "become", "."], "e1_text": "forge", "e1_pos": 32, "e2_text": "became", "e2_pos": 40, "label": "before"},
+{"tokens": ["This", "last", "time", "we", "went", "my", "friend", "asked", "for", "scotch", "-", "and", "they", "stared", "at", "her", "quizzically", "before", "telling", "her", "they", "do", "n't", "have", "scotch", "."], "e1_text": "stared", "e1_pos": 13, "e2_text": "telling", "e2_pos": 18, "label": "before"}
+]

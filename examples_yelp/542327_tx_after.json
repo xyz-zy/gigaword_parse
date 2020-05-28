@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "drove", "to", "downtown", "Mesa", "approx", "13", "mi", "one", "way", "after", "texting", "the", "lady", "that", "I", "was", "coming", "for", "the", "cake", "."], "e1_text": "drove", "e1_pos": 1, "e2_text": "texting", "e2_pos": 11, "label": "after"},
+{"tokens": ["Never", "heard", "back", "and", "it", "was", "after", "the", "time", "the", "cake", "was", "supposed", "to", "be", "ready", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "was", "e2_pos": 5, "label": "after"}
+]

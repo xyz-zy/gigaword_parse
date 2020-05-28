@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "even", "though", "we", "all", "saw", "her", "handing", "us", "off", "to", "the", "manager", "after", "handing", "us", "the", "check", "-LRB-", "she", "pointed", "to", "our", "table", "several", "times", "-RRB-", "no", "one", "came", "to", "our", "table", "."], "e1_text": "saw", "e1_pos": 5, "e2_text": "handing", "e2_pos": 7, "label": "after"},
+{"tokens": ["Finally", ",", "as", "our", "waitress", "walked", "back", "into", "the", "building", "30", "minutes", "after", "she", "left", ",", "we", "were", "finally", "paying", "our", "bill", "and", "leaving", "the", "table", "."], "e1_text": "walked", "e1_pos": 5, "e2_text": "left", "e2_pos": 14, "label": "after"}
+]

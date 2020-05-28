@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "girl", "pops", "her", "head", "out", "from", "the", "back", "and", "says", "...", "Ill", "be", "right", "there", "after", "I", "eat", "my", "lunch", ",", "smh", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "eat", "e2_pos": 18, "label": "after"},
+{"tokens": ["Why", "would", "they", "let", "me", "make", "a", "2pm", "appt", "if", "thats", "lunch", "time", "??", "Finally", "after", "wandering", "around", "like", "a", "weirdo", ",", "they", "put", "me", "in", "the", "spa", "chair", "."], "e1_text": "??", "e1_pos": 13, "e2_text": "wandering", "e2_pos": 16, "label": "after"}
+]

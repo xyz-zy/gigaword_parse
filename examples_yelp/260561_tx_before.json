@@ -1,0 +1,4 @@
+[
+{"tokens": ["Third", ",", "because", "of", "the", "heat", ",", "it", "was", "great", "to", "go", "back", "inside", "this", "air", "cooled", "place", "before", "heading", "to", "the", "car", "."], "e1_text": "cooled", "e1_pos": 16, "e2_text": "heading", "e2_pos": 19, "label": "before"},
+{"tokens": ["We", "then", "had", "a", "nice", "lunch", ",", "and", "walked", "around", "the", "mall", "before", "stepping", "outside", "to", "check", "out", "the", "strip", "which", "is", "old", "hat", "for", "me", "since", "I", "have", "relatives", "here", "in", "Las", "Vegas", "."], "e1_text": "walked", "e1_pos": 8, "e2_text": "stepping", "e2_pos": 13, "label": "before"}
+]

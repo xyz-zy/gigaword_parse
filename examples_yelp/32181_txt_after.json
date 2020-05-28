@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "Bobbie", "-", "B", "+", "It", "was", "a", "really", "good", "sub", "the", "bread", "was", "super", "fresh", "but", "the", "turkey", "was", "a", "bit", "dry", "like", "it", "would", "be", "after", "thanksgiving", "...", "Each", "bit", "reminded", "me", "of", "things", "I", "have", "made", "with", "leftovers", "from", "thanksgiving", "."], "e1_text": "be", "e1_pos": 26, "e2_text": "thanksgiving", "e2_pos": 28, "label": "after"},
+{"tokens": ["I", "will", "be", "back", "again", "to", "get", "another", "Bobbie", "when", "I", "miss", "home", "at", "2am", "after", "the", "bars", "when", "I", "am", "home", "for", "thanksgiving", "and", "have", "only", "leftovers", "to", "work", "with", "."], "e1_text": "miss", "e1_pos": 11, "e2_text": "am", "e2_pos": 20, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "going", "to", "this", "location", "a", "few", "years", "ago", "after", "waiting", "45", "minutes", "in", "an", "empty", "dining", "room", "for", "a", "pizza", "."], "e1_text": "going", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 11, "label": "after"},
+{"tokens": ["I", "recently", "went", "bac", "after", "hearing", "there", "was", "new", "management", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 5, "label": "after"}
+]

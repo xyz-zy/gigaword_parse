@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "office", "placed", "a", "rather", "large", "order", "-LRB-", "15", "people", "-RRB-", "the", "day", "before", "we", "needed", "it", ",", "and", "we", "were", "told", "to", "call", "back", "with", "payment", ",", "even", "though", "we", "were", "prepared", "to", "pay", "right", "then", "."], "e1_text": "placed", "e1_pos": 2, "e2_text": "needed", "e2_pos": 15, "label": "before"},
+{"tokens": ["It", "'s", "now", "about", "an", "hour", "before", "we", "need", "the", "order", "to", "be", "ready", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "need", "e2_pos": 8, "label": "before"}
+]

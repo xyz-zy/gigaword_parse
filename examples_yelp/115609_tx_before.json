@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "must", "'ve", "been", "like", "that", "before", "you", "brought", "it", "here", ".", "''", "''"], "e1_text": "been", "e1_pos": 3, "e2_text": "brought", "e2_pos": 8, "label": "before"},
+{"tokens": ["Even", "though", "I", "had", "no", "trouble", "before", "taking", "it", "in", "and", "it", "was", "clearly", "in", "place", "before", "they", "opened", "it", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "taking", "e2_pos": 7, "label": "before"}
+]

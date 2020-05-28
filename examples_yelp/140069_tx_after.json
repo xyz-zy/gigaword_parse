@@ -1,0 +1,3 @@
+[
+{"tokens": ["UPDATE", "1\\/31\\/14", ":", "Despite", "his", "friendly", "response", "below", ",", "I", "want", "to", "point", "out", "that", "Chris", "knew", "of", "my", "situation", "from", "the", "start", "and", "did", "n't", "do", "anything", "to", "try", "and", "resolve", "it", "until", "2", "days", "ago", "after", "reading", "my", "negative", "Yelp", "review", "."], "e1_text": "want", "e1_pos": 10, "e2_text": "reading", "e2_pos": 38, "label": "after"}
+]

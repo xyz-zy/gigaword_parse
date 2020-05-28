@@ -1,0 +1,4 @@
+[
+{"tokens": ["Before", "I", "get", "down", "and", "dirty", "I", "took", "the", "time", "to", "read", "a", "few", "pages", "of", "reviews", "to", "get", "a", "handle", "on", "things", "before", "I", "made", "my", "review", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "made", "e2_pos": 25, "label": "before"},
+{"tokens": ["So", "I", "decided", "to", "call", "Tempe", "Camera", "before", "they", "closed", "on", "Friday", "and", "they", "told", "me", "to", "come", "in", "Saturday", "Morning", "and", "they", "could", "have", "a", "CMOS", "cleaning", "done", "by", "2pm", "which", "was", "fine", "."], "e1_text": "call", "e1_pos": 4, "e2_text": "closed", "e2_pos": 9, "label": "before"}
+]

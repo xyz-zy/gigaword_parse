@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "decided", "to", "stop", "after", "a", "show", "on", "the", "way", "back", "up", "to", "our", "room", ",", "and", "the", "stupid", "girl", "working", "the", "register", "would", "n't", "take", "my", "card", "after", "asking", "to", "see", "my", "ID", ";", "she", "said", "''", "``", "the", "card", "says", "Bill", ",", "but", "your", "ID", "says", "William", ";", "do", "you", "have", "another", "photo", "ID", "which", "says", "Bill", "?", "''", "''"], "e1_text": "stop", "e1_pos": 3, "e2_text": "working", "e2_pos": 20, "label": "after"}
+]

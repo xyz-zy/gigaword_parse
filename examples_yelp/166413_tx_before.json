@@ -1,0 +1,3 @@
+[
+{"tokens": ["=-LRB-", "My", "man", "and", "I", "decided", "on", "a", "last", "minute", "-LRB-", "booked", "the", "hotel", "on", "Monday", "and", "arrived", "that", "very", "Friday", "-RRB-", "trip", "out", "to", "Vegas", "before", "both", "our", "schedules", "got", "too", "hectic", "."], "e1_text": "decided", "e1_pos": 5, "e2_text": "got", "e2_pos": 30, "label": "before"}
+]

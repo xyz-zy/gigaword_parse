@@ -1,0 +1,5 @@
+[
+{"tokens": ["They", "claim", "the", "bread", "is", "freshly", "made", ",", "but", "something", "about", "heating", "up", "my", "sandwich", "right", "before", "serving", "it", "tells", "me", "its", "not", "so", "fresh", "."], "e1_text": "heating", "e1_pos": 11, "e2_text": "serving", "e2_pos": 17, "label": "before"},
+{"tokens": ["I", "got", "the", "special", "sandwich", ",", "which", "like", "before", "had", "the", "same", "spiciness", "as", "the", "one", "at", "Hue", "Thai", "."], "e1_text": "like", "e1_pos": 7, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["If", "you", "tasted", "Hue", "Thai", "stuff", "before", ",", "you", "tasted", "Mr.", "Sandwich", "."], "e1_text": "tasted", "e1_pos": 2, "e2_text": "stuff", "e2_pos": 5, "label": "before"}
+]

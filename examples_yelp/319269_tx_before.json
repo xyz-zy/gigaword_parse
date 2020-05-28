@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "really", "did", "not", "want", "to", "go", "there", ",", "but", "I", "just", "noticed", "that", "another", "block", "of", "cheese", "was", "spoiled", "-LRB-", "which", "I", "had", "not", "noticed", "before", "-RRB-", ",", "and", "that", "is", "just", "not", "acceptable", "."], "e1_text": "was", "e1_pos": 18, "e2_text": "had", "e2_pos": 23, "label": "before"}
+]

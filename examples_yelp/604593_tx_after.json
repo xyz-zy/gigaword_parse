@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "are", "one", "musical", "''", "``", "hook", "''", "''", "after", "another", ",", "repeated", "until", "a", "crooning", ",", "slow", "finish", "is", "inserted", "."], "e1_text": "musical", "e1_pos": 3, "e2_text": "repeated", "e2_pos": 12, "label": "after"}
+]

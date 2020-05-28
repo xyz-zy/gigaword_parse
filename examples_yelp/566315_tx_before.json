@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "especially", "liked", "that", "the", "lady", "made", "sure", "to", "tell", "me", "the", "price", "before", "I", "picked", "colors", "or", "anything", "-", "just", "since", "it", "was", "my", "first", "time", "there", "."], "e1_text": "made", "e1_pos": 6, "e2_text": "picked", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "am", "hoping", "to", "see", "these", "ladies", "at", "least", "one", "more", "time", "before", "this", "little", "baby", "girl", "gets", "here", "to", "make", "sure", "that", "my", "nails", "are", "in", "tip", "top", "shape", "for", "her", "arrival", "."], "e1_text": "see", "e1_pos": 4, "e2_text": "gets", "e2_pos": 17, "label": "before"}
+]

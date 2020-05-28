@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "in", "on", "Saturday", "May", "19th", ",", "2012", "to", "have", "them", "done", "and", "saw", "Ana", "who", ",", "despite", "them", "being", "busy", ",", "took", "her", "time", "with", "me", "and", "as", "she", "has", "been", "before", "was", "excellent", "at", "calming", "me", "down", "."], "e1_text": "been", "e1_pos": 32, "e2_text": "was", "e2_pos": 34, "label": "before"},
+{"tokens": ["She", "never", "rushes", "and", "always", "makes", "sure", "I", "'m", "in", "the", "right", "headspace", "and", "calm", "enough", "before", "piercing", "me", "."], "e1_text": "'m", "e1_pos": 8, "e2_text": "piercing", "e2_pos": 17, "label": "before"}
+]

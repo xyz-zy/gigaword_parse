@@ -1,0 +1,5 @@
+[
+{"tokens": ["Dinner", "came", "before", "we", "were", "even", "really", "done", "with", "the", "appetizer", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "were", "e2_pos": 4, "label": "before"},
+{"tokens": ["Appetizer", "plates", "should", "be", "clear", "before", "the", "entree", "arrives", "."], "e1_text": "be", "e1_pos": 3, "e2_text": "arrives", "e2_pos": 8, "label": "before"},
+{"tokens": ["After", "dessert", ",", "he", "brought", "the", "check", "and", "then", "we", "waited", "for", "about", "15", "minutes", "before", "he", "showed", "up", "again", "to", "collect", "it", "."], "e1_text": "waited", "e1_pos": 10, "e2_text": "showed", "e2_pos": 17, "label": "before"}
+]

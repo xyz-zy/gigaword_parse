@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "go", "to", "check", "out", "after", "my", "haircut", "-LRB-", "which", "was", "fine", ",", "by", "the", "way", ",", "Courtney", "is", "lovely", "and", "gives", "a", "good", "haircut", "-", "and", "a", "very", "relaxing", "shampoo", "-RRB-", "-", "same", "thing", "!"], "e1_text": "check", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

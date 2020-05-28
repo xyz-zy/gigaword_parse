@@ -1,0 +1,4 @@
+[
+{"tokens": ["Then", "I", "went", "again", "when", "my", "graduate", "program", "was", "celebrating", "in", "Vegas", "after", "finishing", "our", "comp", "exam", "."], "e1_text": "celebrating", "e1_pos": 9, "e2_text": "finishing", "e2_pos": 13, "label": "after"},
+{"tokens": ["One", "of", "my", "friends", "also", "wanted", "to", "try", "the", "clam", "chowder", "so", "we", "ordered", "that", "after", "eating", "the", "other", "things", "."], "e1_text": "ordered", "e1_pos": 13, "e2_text": "eating", "e2_pos": 16, "label": "after"}
+]

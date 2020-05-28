@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "here", "I", "thought", "I", "was", "going", "to", "get", "a", "break", "from", "cold", "weather", "after", "leaving", "Wisconsin", "."], "e1_text": "get", "e1_pos": 8, "e2_text": "leaving", "e2_pos": 15, "label": "after"},
+{"tokens": ["Overall", ",", "The", "Griffin", "is", "pretty", "sweet", ",", "I", "'d", "advise", "you", "stop", "in", "after", "winning", "that", "chicken", "dinner", "."], "e1_text": "stop", "e1_pos": 12, "e2_text": "winning", "e2_pos": 15, "label": "after"}
+]

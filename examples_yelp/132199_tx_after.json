@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "few", "years", "back", "while", "staying", "here", "we", "came", "back", "to", "our", "room", "while", "a", "supervisor", "was", "double", "checking", "the", "room", "after", "the", "maid", "worked", "on", "it", "."], "e1_text": "checking", "e1_pos": 18, "e2_text": "worked", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "supervisor", "told", "us", "she", "did", "random", "checks", "on", "the", "quality", "of", "the", "rooms", "after", "the", "maid", "fixed", "it", "up", "."], "e1_text": "did", "e1_pos": 5, "e2_text": "fixed", "e2_pos": 17, "label": "after"}
+]

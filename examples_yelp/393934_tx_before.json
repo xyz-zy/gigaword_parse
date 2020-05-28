@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ate", "about", "a", "quarter", "of", "my", "burger", ",", "making", "a", "huge", "mess", "because", "of", "the", "astronomical", "proportions", ",", "before", "I", "decided", "that", "it", "just", "was", "n't", "worth", "it", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "decided", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "definitely", "will", "NOT", "be", "coming", "back", "to", "25", "Degrees", "and", "it", "'s", "only", "a", "matter", "of", "time", "before", "this", "lame", "development", "collapses", "into", "its", "own", "filth", "."], "e1_text": "'s", "e1_pos": 12, "e2_text": "collapses", "e2_pos": 22, "label": "before"}
+]

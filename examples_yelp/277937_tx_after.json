@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'s", "easy", "to", "access", "with", "less", "traffic", ",", "it", "'s", "free", ",", "and", "most", "importantly", ",", "there", "'s", "a", "complimentary", "First", "Friday", "shuttle", "service", "that", "runs", "every", "20", "minutes", "and", "an", "hour", "after", "the", "event", "ends", "."], "e1_text": "runs", "e1_pos": 26, "e2_text": "ends", "e2_pos": 36, "label": "after"},
+{"tokens": ["You", "submit", "an", "application", "on", "their", "official", "website", "-LRB-", "the", "due", "date", "is", "typically", "a", "month", "prior", "to", "the", "event", "-RRB-", "and", "you", "still", "have", "the", "option", "to", "accept", "or", "decline", "after", "receiving", "the", "confirmation", "e-mail\\/invitation", "."], "e1_text": "decline", "e1_pos": 30, "e2_text": "receiving", "e2_pos": 32, "label": "after"}
+]

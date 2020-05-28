@@ -1,0 +1,4 @@
+[
+{"tokens": ["we", "finally", "found", "this", "place", "after", "3", "mos", "of", "salivating", "and", "anticipating", "."], "e1_text": "found", "e1_pos": 2, "e2_text": "salivating", "e2_pos": 9, "label": "after"},
+{"tokens": ["we", "accidentally", "stumbled", "in", "after", "riding", "around", "on", "bikes", "looking", "for", "a", "place", "with", "a", "byob", "policy", "."], "e1_text": "stumbled", "e1_pos": 2, "e2_text": "riding", "e2_pos": 5, "label": "after"}
+]

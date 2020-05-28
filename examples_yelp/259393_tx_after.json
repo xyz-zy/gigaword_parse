@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "made", "the", "reservation", "a", "few", "days", "before", ",", "but", "after", "arriving", "I", "do", "n't", "think", "that", "reservation", "would", "have", "mattered", "because", "they", "were", "not", "busy", "at", "all", "and", "the", "bar", "was", "dead", "."], "e1_text": "made", "e1_pos": 1, "e2_text": "arriving", "e2_pos": 11, "label": "after"},
+{"tokens": ["They", "did", "have", "a", "menu", "board", "after", "you", "walk", "inside", "promoting", "Restaurant", "Week", "and", "the", "RW", "menu", "they", "were", "offering", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "walk", "e2_pos": 8, "label": "after"}
+]

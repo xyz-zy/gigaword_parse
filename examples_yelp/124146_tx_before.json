@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "have", "some", "doubt", "right", "before", "I", "got", "my", "brows", "done", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "got", "e2_pos": 8, "label": "before"},
+{"tokens": ["Obviously", "when", "you", "'re", "about", "to", "have", "something", "tattooed", "onto", "your", "face", ",", "you", "want", "to", "be", "100", "%", "sure", "about", "everything", "before", "you", "start", "."], "e1_text": "be", "e1_pos": 16, "e2_text": "start", "e2_pos": 24, "label": "before"}
+]

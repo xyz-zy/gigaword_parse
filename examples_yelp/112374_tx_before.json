@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "purposely", "did", "n't", "read", "the", "Yelp", "reviews", "before", "coming", "here", "so", "that", "I", "would", "n't", "have", "any", "preconceived", "notions", "about", "this", "place", "."], "e1_text": "read", "e1_pos": 4, "e2_text": "coming", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "son", "and", "I", "came", "here", "last", "night", "before", "heading", "to", "Gammage", "for", "a", "play", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "heading", "e2_pos": 9, "label": "before"}
+]

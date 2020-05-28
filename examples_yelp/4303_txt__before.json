@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "take", "my", "info", "and", "then", "do", "god", "knows", "what", "for", "a", "few", "minutes", "before", "telling", "me", "what", "I", "owe", "-", "which", "in", "my", "opinion", "is", "way", "too", "much", "for", "a", "haircut", "of", "this", "quality", "-LRB-", "it", "was", "$", "25", "but", "they", "took", "off", "$", "20", "for", "the", "discount", "plus", "another", "$", "5", "for", "my", "birthday", "which", "means", "they", "charge", "$", "50", "for", "a", "haircut", "?!?", "-RRB-", "."], "e1_text": "knows", "e1_pos": 8, "e2_text": "telling", "e2_pos": 15, "label": "before"},
+{"tokens": ["And", "then", ",", "turns", "out", "you", "ca", "n't", "put", "your", "tip", "on", "your", "card", ",", "which", "they", "do", "not", "indicate", "anywhere", "or", "tell", "you", "about", "at", "any", "time", "before", "you", "show", "up", "."], "e1_text": "tell", "e1_pos": 22, "e2_text": "show", "e2_pos": 30, "label": "before"}
+]

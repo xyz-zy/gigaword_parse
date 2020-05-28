@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "sisters", "said", "that", "Grand", "Lux", "Cafe", "at", "the", "Palazzo", "was", "super", "yummy", "so", "right", "after", "checking", "into", "the", "Venetian", ",", "we", "went", "straight", "to", "Grand", "Lux", "in", "the", "Venetian", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "checking", "e2_pos": 16, "label": "after"}
+]

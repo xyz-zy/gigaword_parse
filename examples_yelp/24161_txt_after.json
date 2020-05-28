@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "arrived", "timely", "for", "our", "reservation", ",", "after", "requesting", "drinks", ",", "the", "waiter", "announced", "that", "he", "had", "''", "``", "never", "heard", "of", "that", "''", "''", ";", "having", "tomato", "juice", "on", "the", "side", "of", "a", "martini", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "heard", "e2_pos": 20, "label": "after"}
+]

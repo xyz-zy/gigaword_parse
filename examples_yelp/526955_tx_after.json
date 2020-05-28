@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "ordered", "the", "chicken", "and", "it", "was", "cooked", "perfectly", "BUT", "oh", "my", "gosh", "it", "was", "so", "salty", "!!!", "-LRB-", "and", "I", "had", "no", "water", "!!!!!!", "-RRB-", "I", "sent", "it", "back", "but", "after", "30", "minutes", "because", "that", "'s", "the", "next", "time", "we", "saw", "the", "server", "!"], "e1_text": "BUT", "e1_pos": 9, "e2_text": "saw", "e2_pos": 41, "label": "after"}
+]

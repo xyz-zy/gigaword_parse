@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "only", "refilled", "once", "during", "the", "meal", ",", "and", "that", "was", "when", "I", "asked", "for", "a", "refill", "after", "the", "glass", "sat", "empty", "for", "a", "few", "minutes", "."], "e1_text": "asked", "e1_pos": 14, "e2_text": "sat", "e2_pos": 21, "label": "after"},
+{"tokens": ["-", "At", "the", "end", "of", "the", "meal", ",", "it", "took", "several", "minutes", "after", "removing", "my", "plate", "to", "ask", "if", "I", "wanted", "dessert", "or", "my", "check", ",", "and", "then", "several", "more", "minutes", "to", "actually", "deliver", "the", "check", "."], "e1_text": "took", "e1_pos": 9, "e2_text": "removing", "e2_pos": 13, "label": "after"}
+]

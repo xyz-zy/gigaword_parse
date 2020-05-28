@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "ordering", ",", "I", "never", "saw", "the", "waiter", "again", "but", "you", "could", "tell", "he", "clearly", "wanted", "me", "out", "of", "there", "because", "I", "was", "offered", "the", "check", "before", "I", "was", "even", "asked", "if", "I", "wanted", "coffee", "and", "dessert", ",", "which", "of", "course", ",", "I", "did", "."], "e1_text": "offered", "e1_pos": 23, "e2_text": "was", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "patronized", "Salo", "Salo", "Grill", "Restaurant", "in", "2", "separate", "times", ",", "the", "first", "one", "when", "they", "first", "opened", "-", "and", "the", "second", "time", "an", "hour", "before", "the", "restaurant", "closes", "."], "e1_text": "patronized", "e1_pos": 2, "e2_text": "closes", "e2_pos": 29, "label": "before"},
+{"tokens": ["The", "second", "time", "we", "went", "was", "a", "complete", "disappointment", "because", "there", "were", "2", "servers", "and", "cook", "and", "we", "ordered", "several", "items", "from", "the", "menu", "and", "with", "only", "like", "an", "hour", "before", "they", "closed", "-", "the", "waitress", "was", "not", "smiling", "and", "was", "in", "a", "rush", "taking", "our", "orders", "."], "e1_text": "ordered", "e1_pos": 18, "e2_text": "closed", "e2_pos": 32, "label": "before"}
+]

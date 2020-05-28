@@ -1,0 +1,3 @@
+[
+{"tokens": ["\\*\\*", "EDIT", "\\*\\*", "BUMPED", "up", "from", "2", "stars", "to", "3", "because", ":", "I", "was", "contacted", "by", "someone", "who", "works", "there", "and", "they", "claim", "to", "of", "washed", "their", "hands", "after", "they", "coughed", "and", "only", "drink", "the", "leftovers", "to", "check", "on", "the", "taste", ",", "I", "did", "n't", "see", ",", "but", "its", "best", "to", "give", "them", "the", "benefit", "of", "the", "doubt", "."], "e1_text": "washed", "e1_pos": 25, "e2_text": "coughed", "e2_pos": 30, "label": "after"}
+]

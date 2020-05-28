@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "online", "reservations", "we", "made", "through", "Yelp", "were", "completely", "worthless", ",", "as", "we", "still", "had", "to", "wait", "nearly", "an", "hour", "before", "we", "were", "seated", "."], "e1_text": "wait", "e1_pos": 16, "e2_text": "were", "e2_pos": 7, "label": "before"}
+]

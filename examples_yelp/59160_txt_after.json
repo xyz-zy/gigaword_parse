@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "person", "informed", "us", "that", "they", "were", "waiting", "for", "the", "driver", "to", "come", "&", "after", "some", "time", "went", "by", "-LRB-", "over", "an", "hour", "-RRB-", "they", "finally", "decided", "to", "get", "someone", "else", "to", "deliver", "the", "subs", "."], "e1_text": "come", "e1_pos": 12, "e2_text": "went", "e2_pos": 17, "label": "after"},
+{"tokens": ["I", "understand", "things", "can", "happen", "but", "I", "do", "n't", "appreciate", "being", "lied", "to", "&", "after", "more", "then", "one", "phone", "call", "&", "over", "an", "hour", "wait", "for", "2", "subs", "-LRB-", "after", "being", "told", "30", "minutes", "-RRB-", "all", "the", "manager", "could", "say", "was", "''", "``", "sorry", ".", "''", "''"], "e1_text": "lied", "e1_pos": 11, "e2_text": "call", "e2_pos": 19, "label": "after"}
+]

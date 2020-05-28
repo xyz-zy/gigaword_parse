@@ -1,0 +1,4 @@
+[
+{"tokens": ["Du", "Pars", "is", "absolute", "solace", "after", "escaping", "the", "kaleidoscopic", "circus", "that", "is", "the", "Fremont", "Street", "experience", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "escaping", "e2_pos": 6, "label": "after"},
+{"tokens": ["Still", ",", "that", "'s", "all", "that", "one", "requires", "after", "waterboarding", "your", "liver", "in", "alcohol", "."], "e1_text": "requires", "e1_pos": 7, "e2_text": "waterboarding", "e2_pos": 9, "label": "after"}
+]

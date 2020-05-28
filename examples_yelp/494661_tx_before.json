@@ -1,0 +1,4 @@
+[
+{"tokens": ["Took", "us", "an", "hour", "before", "we", "made", "it", "into", "the", "club", "."], "e1_text": "Took", "e1_pos": 0, "e2_text": "made", "e2_pos": 6, "label": "before"},
+{"tokens": ["We", "met", "some", "nice", "people", "who", "offered", "to", "buy", "us", "drinks", ",", "which", "I", "turned", "down", "because", "I", "was", "already", "exhausted", "from", "waiting", "in", "line", "in", "heels", "and", "not", "getting", "enough", "sleep", "after", "partying", "the", "night", "before", "."], "e1_text": "getting", "e1_pos": 29, "e2_text": "partying", "e2_pos": 33, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "wrote", "a", "note", "in", "ballpoint", "pen", "and", "attached", "it", "to", "the", "hanger", "after", "cleaning", "and", "pressing", "."], "e1_text": "attached", "e1_pos": 8, "e2_text": "cleaning", "e2_pos": 14, "label": "after"}
+]

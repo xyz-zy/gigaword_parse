@@ -1,0 +1,4 @@
+[
+{"tokens": ["Some", "friends", "and", "I", "booked", "a", "place", "for", "Planet", "Hollywood", "a", "few", "months", "back", "for", "New", "Year", "'s", "Eve", "then", "the", "night", "before", "we", "checked", "in", ",", "we", "got", "an", "email", "saying", "we", "were", "upgraded", "to", "the", "suites", "at", "the", "new", "PH", "Towers", "."], "e1_text": "booked", "e1_pos": 4, "e2_text": "checked", "e2_pos": 24, "label": "before"},
+{"tokens": ["Apparently", ",", "they", "opened", "just", "two", "days", "before", "we", "arrived", "so", "we", "were", "the", "first", "ever", "to", "use", "the", "room", "."], "e1_text": "opened", "e1_pos": 3, "e2_text": "arrived", "e2_pos": 9, "label": "before"}
+]

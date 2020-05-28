@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "our", "visit", "to", "the", "NASCAR", "Hall", "of", "Fame", ",", "we", "figured", "we", "'d", "grab", "a", "quick", "lunch", "before", "heading", "out", "on", "our", "road", "trip", "."], "e1_text": "grab", "e1_pos": 14, "e2_text": "heading", "e2_pos": 19, "label": "before"}
+]

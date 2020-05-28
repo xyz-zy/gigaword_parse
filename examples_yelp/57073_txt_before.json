@@ -1,0 +1,5 @@
+[
+{"tokens": ["Well", ",", "it", "'s", "not", "that", "big", "of", "deal", "to", "walk", "back", "to", "the", "office", "before", "I", "get", "into", "my", "apartment", "."], "e1_text": "walk", "e1_pos": 10, "e2_text": "get", "e2_pos": 17, "label": "before"},
+{"tokens": ["We", "performed", "our", "pre-move", "in", "inspection", ",", "which", "of", "course", "we", "were", "n't", "even", "allowed", "into", "the", "apartment", "before", "we", "were", "given", "keys", "after", "signing", "our", "lease", "."], "e1_text": "allowed", "e1_pos": 14, "e2_text": "were", "e2_pos": 11, "label": "before"},
+{"tokens": ["He", "tried", "for", "about", "20", "minutes", "to", "install", "the", "microwave", "before", "telling", "me", "he", "needed", "to", "leave", "and", "get", "new", "tools", "."], "e1_text": "install", "e1_pos": 7, "e2_text": "telling", "e2_pos": 11, "label": "before"}
+]

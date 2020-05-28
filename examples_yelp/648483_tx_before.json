@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "here", "over", "a", "week", "ago", "but", "it", "was", "before", "the", "business", "was", "open", "for", "the", "day", "so", "I", "knew", "where", "to", "go", "and", "what", "time", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "was", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "wish", "I", "had", "noticed", "the", "lack", "of", "marking", "crust", "flavors", "on", "the", "box", "before", "I", "got", "home", "."], "e1_text": "marking", "e1_pos": 8, "e2_text": "got", "e2_pos": 16, "label": "before"}
+]

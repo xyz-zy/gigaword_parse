@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "some", "scratches", "on", "my", "bumper", "that", "needed", "to", "be", "buffed", "out", ",", "before", "the", "car", "went", "back", "."], "e1_text": "buffed", "e1_pos": 11, "e2_text": "went", "e2_pos": 17, "label": "before"},
+{"tokens": ["She", "told", "me", "that", "I", "should", "hold", "off", "on", "doing", "the", "work", "until", "the", "month", "before", "I", "turned", "it", "in", "so", "that", "way", "in", "case", "another", "scratched", "happened", ",", "I", "would", "have", "to", "pay", "her", "twice", "."], "e1_text": "doing", "e1_pos": 9, "e2_text": "turned", "e2_pos": 17, "label": "before"}
+]

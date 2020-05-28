@@ -1,0 +1,3 @@
+[
+{"tokens": ["Light", "bulb", "burnt", "out", ",", "no", "wet", "bar", "in", "room", ",", "alarm", "clock", "was", "buzzing", "30", "secs", "after", "entering", "room", "-LRB-", "likely", "bugged", "via", "inline", "adapters", "-RRB-", "so", "I", "yanked", "it", "out", "of", "the", "wall", "along", "with", "everything", "else", "plugged", "in", "."], "e1_text": "buzzing", "e1_pos": 14, "e2_text": "entering", "e2_pos": 18, "label": "after"}
+]

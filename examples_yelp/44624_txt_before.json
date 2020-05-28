@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "before", "heading", "out", "to", "be", "assured", "they", "were", "in", "stock", ",", "yay", "!"], "e1_text": "called", "e1_pos": 1, "e2_text": "heading", "e2_pos": 3, "label": "before"},
+{"tokens": ["He", "called", "the", "Kierland", "store", "which", "showed", "them", "in", "stock", "as", "well", "and", "called", "to", "make", "sure", "before", "sending", "me", "further", "afield", "."], "e1_text": "make", "e1_pos": 15, "e2_text": "sending", "e2_pos": 18, "label": "before"}
+]

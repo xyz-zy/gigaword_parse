@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "lost", "my", "golf", "travel", "bag", "after", "putting", "us", "in", "the", "wrong", "room", ";", "the", "bag", "was", "lost", "as", "they", "moved", "our", "luggage", "from", "one", "to", "the", "other", "."], "e1_text": "lost", "e1_pos": 1, "e2_text": "putting", "e2_pos": 7, "label": "after"}
+]

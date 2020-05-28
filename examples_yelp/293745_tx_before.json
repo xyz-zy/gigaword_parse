@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "excited", "to", "show", "my", "boyfriend", "the", "amazing", "wonder", "of", "Pappadeaux", "'s", ",", "as", "he", "'d", "never", "been", "there", "before", "and", "I", "'d", "been", "talking", "it", "up", "for", "weeks", "."], "e1_text": "show", "e1_pos": 4, "e2_text": "'d", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "'ll", "have", "to", "think", "long", "and", "hard", "before", "spending", "my", "money", "there", "again", "."], "e1_text": "think", "e1_pos": 4, "e2_text": "spending", "e2_pos": 9, "label": "before"}
+]

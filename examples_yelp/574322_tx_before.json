@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "would", "advise", "that", "you", "pay", "attention", "to", "your", "itemized", "check", "once", "you", "get", "it", ",", "because", "i", "glanced", "over", "it", "before", "handing", "my", "card", "over", ",", "and", "noticed", "higher", "prices", "on", "the", "check", "than", "I", "had", "seen", "on", "the", "menu", "."], "e1_text": "glanced", "e1_pos": 18, "e2_text": "handing", "e2_pos": 22, "label": "before"}
+]

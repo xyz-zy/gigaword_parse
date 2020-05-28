@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "only", "thing", "wrong", "with", "our", "room", "was", "the", "safe", "did", "n't", "work", "-LRB-", "got", "security", "to", "fix", "it", "within", "half", "an", "hour", "after", "we", "called", "-RRB-", "."], "e1_text": "fix", "e1_pos": 17, "e2_text": "called", "e2_pos": 25, "label": "after"},
+{"tokens": ["I", "saw", "lots", "of", "other", "tourists", "freaking", "out", "after", "getting", "out", "."], "e1_text": "freaking", "e1_pos": 6, "e2_text": "getting", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "I", "sat", "down", ",", "the", "bartender", "served", "us", "right", "away", "and", "asked", "if", "we", "were", "playing", "vp", ",", "I", "said", "yes", "and", "he", "comp", "'d", "us", "our", "beers", "...", "this", "usually", "only", "happens", "when", "you", "max", "bet", ",", "which", "drains", "your", "money", "pretty", "fast", ",", "usually", "before", "you", "even", "finish", "your", "drink", "."], "e1_text": "drains", "e1_pos": 40, "e2_text": "finish", "e2_pos": 50, "label": "before"},
+{"tokens": ["So", "compare", "5", "bucks", "to", "the", "50", "you", "might", "lose", "before", "you", "finish", "a", "beer", "and", "it", "seems", "silly", ",", "but", "hey", ",", "at", "least", "they", "were", "kind", "enough", "to", "offer", "."], "e1_text": "lose", "e1_pos": 9, "e2_text": "finish", "e2_pos": 12, "label": "before"}
+]

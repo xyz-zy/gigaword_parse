@@ -1,0 +1,3 @@
+[
+{"tokens": ["w", "\\/", "respect", "to", "bringing", "an", "order\\/side", "of", "veggies", "we", "ordered", "it", "arrived", "after", "we", "finished", "our", "meal", "."], "e1_text": "arrived", "e1_pos": 12, "e2_text": "finished", "e2_pos": 15, "label": "after"}
+]

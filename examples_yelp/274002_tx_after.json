@@ -1,0 +1,3 @@
+[
+{"tokens": ["Having", "eaten", "some", "really", "good", "-LRB-", "and", "bad", "-RRB-", "biryanis", "across", "many", "states", "-LRB-", "CA", ",", "TX", ",", "IL", ",", "NC", ",", "FL", "etc.", "-RRB-", ",", "I", "did", "n't", "expect", "great", "things", "here", ",", "especially", "after", "seeing", "the", "reviews", "on", "Yelp", "."], "e1_text": "expect", "e1_pos": 29, "e2_text": "seeing", "e2_pos": 36, "label": "after"}
+]

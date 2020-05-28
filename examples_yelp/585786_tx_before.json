@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "if", "you", "are", "going", "for", "dinner", ",", "go", "about", "an", "hour", "before", "you", "want", "to", "eat", ",", "the", "lines", "get", "VERY", "long", "-RRB-", "."], "e1_text": "go", "e1_pos": 8, "e2_text": "want", "e2_pos": 14, "label": "before"}
+]

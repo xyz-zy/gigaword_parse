@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "Ketel", "One", "martinis", ",", "and", "from", "our", "table", "we", "watched", "the", "martinis", "sit", "in", "the", "shaker", "for", "nearly", "ten", "minutes", "before", "the", "bartender", "poured", "them", "into", "glasses", "."], "e1_text": "sit", "e1_pos": 14, "e2_text": "poured", "e2_pos": 25, "label": "before"}
+]

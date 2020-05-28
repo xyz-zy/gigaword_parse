@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "going", "to", "go", "eat", "lunch", "at", "Radio", "Maria", ",", "but", "wanted", "to", "stop", "here", "first", "-LRB-", "in", "case", "they", "closed", "before", "we", "got", "done", "-RRB-", "."], "e1_text": "closed", "e1_pos": 21, "e2_text": "got", "e2_pos": 24, "label": "before"}
+]

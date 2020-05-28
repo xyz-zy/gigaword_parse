@@ -1,0 +1,3 @@
+[
+{"tokens": ["BUT", ",", "You", "might", "need", "to", "examine", "your", "Italian", "hero", "if", "you", "buy", "one", "because", "the", "casing", "was", "n't", "removed", "on", "the", "pepperoni", "in", "the", "sandwich", "and", "had", "to", "be", "removed", "before", "eating", "."], "e1_text": "removed", "e1_pos": 19, "e2_text": "eating", "e2_pos": 32, "label": "before"}
+]

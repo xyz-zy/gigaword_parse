@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "sat", "there", "for", "about", "2", "minutes", "with", "our", "jaws", "on", "the", "table", "before", "we", "finally", "got", "the", "fact", "it", "was", "suppose", "to", "be", "this", "way", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "got", "e2_pos": 16, "label": "before"},
+{"tokens": ["People", "sit", "here", "all", "day", "to", "watch", "their", "confused", "faces", ",", "like", "ours", ",", "before", "they", "get", "the", "joke", "."], "e1_text": "watch", "e1_pos": 6, "e2_text": "get", "e2_pos": 16, "label": "before"}
+]

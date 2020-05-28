@@ -1,0 +1,4 @@
+[
+{"tokens": ["Customer", "Service", "Nightmare", ":", "Key", "cards", "did", "not", "work", "and", "it", "took", "them", "at", "least", "30", "mins", "after", "we", "contacted", "security", "to", "come", "up", "and", "open", "the", "door", "."], "e1_text": "took", "e1_pos": 11, "e2_text": "contacted", "e2_pos": 19, "label": "after"},
+{"tokens": ["No", "new", "keycards", "were", "given", "to", "us", "after", "it", "was", "promised", "."], "e1_text": "given", "e1_pos": 4, "e2_text": "was", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'d", "been", "walking\\/driving", "past", "Sammy", "'s", "for", "several", "months", "after", "moving", "into", "the", "neighborhood", "when", "I", "decided", "to", "finally", "hoof", "it", "over", "and", "try", "one", "of", "their", "''", "``", "famous", "''", "''", "corned", "beef", "sandwiches", "."], "e1_text": "walking\\/driving", "e1_pos": 3, "e2_text": "moving", "e2_pos": 11, "label": "after"}
+]

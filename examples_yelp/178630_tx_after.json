@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "was", "decent", "-", "but", "for", "a", "two", "and", "a", "half", "hour", "wait", "to", "be", "rushed", "out", "of", "the", "buffet", "20", "minutes", "after", "paying", "."], "e1_text": "rushed", "e1_pos": 16, "e2_text": "paying", "e2_pos": 24, "label": "after"},
+{"tokens": ["The", "ice", "cream", "machine", "was", "turned", "off", "less", "than", "20", "minutes", "after", "we", "entered", "the", "buffet", "."], "e1_text": "turned", "e1_pos": 5, "e2_text": "entered", "e2_pos": 13, "label": "after"}
+]

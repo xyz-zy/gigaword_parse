@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "entertained", ",", "he", "paid", "good", "attention", "to", "all", "of", "the", "customers", "on", "that", "side", "of", "the", "bar", ",", "if", "you", "asked", "him", "for", "something", "you", "got", "it", "-LRB-", "the", "blond", ",", "not", "so", "much", ",", "I", "think", "every", "time", "someone", "asked", "her", "for", "something", ",", "she", "looked", "at", "them", "like", "they", "had", "2", "heads", "and", "when", "I", "asked", "for", "a", "napkin", "after", "not", "getting", "one", "when", "served", "my", "food", "she", "looked", "at", "me", "with", "a", "blank", "stare", "and", "said", "''", "``", "you", "need", "a", "napkin", "?", "''", "''"], "e1_text": "asked", "e1_pos": 21, "e2_text": "getting", "e2_pos": 64, "label": "after"}
+]

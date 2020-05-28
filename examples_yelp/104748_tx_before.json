@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitresses", "seemed", "to", "get", "confused", "and", "it", "took", "us", "a", "good", "half", "hour", "after", "we", "sat", "down", "before", "anyone", "stopped", "by", "to", "see", "if", "we", "would", "like", "anything", "."], "e1_text": "sat", "e1_pos": 16, "e2_text": "stopped", "e2_pos": 20, "label": "before"}
+]

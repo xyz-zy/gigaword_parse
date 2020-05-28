@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "in", "around", "7", "pm", "and", "was", "on", "an", "important", "call", "I", "could", "n't", "hang", "up", "on", "but", "the", "girls", "were", "starring", "at", "me", "for", "a", "few", "minutes", "so", "after", "a", "lady", "came", "out", "of", "my", "preferred", "bed", "I", "informed", "her", "that", "'s", "the", "bed", "I", "was", "waiting", "for", "."], "e1_text": "starring", "e1_pos": 22, "e2_text": "came", "e2_pos": 1, "label": "after"},
+{"tokens": ["I", "waited", "for", "5", "minutes", "after", "the", "bed", "was", "cleaned", "while", "she", "talked", "to", "the", "girls", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

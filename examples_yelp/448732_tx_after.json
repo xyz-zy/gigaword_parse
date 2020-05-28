@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "was", "nice", "that", "she", "kept", "checking", "back", "with", "us", "to", "make", "sure", "we", "were", "doing", "well", ",", "even", "after", "we", "finished", "our", "meals", "."], "e1_text": "checking", "e1_pos": 6, "e2_text": "finished", "e2_pos": 21, "label": "after"}
+]

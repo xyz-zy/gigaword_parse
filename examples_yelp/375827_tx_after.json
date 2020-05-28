@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "hotel", "was", "beautiful", "...", "check", "in", "was", "unorganized", "...", "And", "they", "claim", "to", "have", "late", "nite", "room", "service", "...", "But", "really", "what", "it", "is", "basically", "vending", "machine", "food", "...", "Egh", "we", "were", "not", "happy", "eating", "a", "cold", "sandwich", "which", "cost", "us", "$", "30", "after", "wanting", "to", "order", "something", "nice", "and", "delish", "late", "night", "!"], "e1_text": "cost", "e1_pos": 40, "e2_text": "wanting", "e2_pos": 45, "label": "after"}
+]

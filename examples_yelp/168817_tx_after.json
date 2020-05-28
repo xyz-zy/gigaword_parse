@@ -1,0 +1,3 @@
+[
+{"tokens": ["Be", "careful", "with", "what", "time", "you", "check", "in", ",", "b\\/c", "if", "you", "check", "in", "around", "3PM", "either", "one", "hour", "before", "or", "after", ",", "your", "wait", "time", "is", "at", "least", "1\\/2", "hr", ",", "b\\/c", "at", "there", "are", "only", "3", "people", "out", "at", "the", "front", "desk", "around", "the", "time", "I", "checked", "in", "."], "e1_text": "check", "e1_pos": 6, "e2_text": "check", "e2_pos": 6, "label": "after"}
+]

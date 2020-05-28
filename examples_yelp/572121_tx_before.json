@@ -1,0 +1,4 @@
+[
+{"tokens": ["Melrose", "is", "usually", "a", "pretty", "happening", "place", "during", "the", "Spring", "before", "summer", "temps", "hit", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "hit", "e2_pos": 13, "label": "before"},
+{"tokens": ["Did", "n't", "see", "the", "frazzled", "lady", "from", "before", "but", "a", "mid-age", "hipster", "guy", "at", "the", "counter", "who", "did", "n't", "have", "the", "time", "to", "greet", "me", "-LRB-", "sorry", "I", "disrupted", "your", "cell", "phone", "surfing", "-RRB-", "."], "e1_text": "see", "e1_pos": 2, "e2_text": "did", "e2_pos": 17, "label": "before"}
+]

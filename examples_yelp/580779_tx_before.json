@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "never", "showed", "before", "we", "finally", "left", "the", "hotel", "."], "e1_text": "showed", "e1_pos": 2, "e2_text": "left", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "last", "10-15", "minutes", "were", "the", "staff", "pretending", "to", "clean\\/polish", "the", "ice", ",", "because", "some", "sap", "had", "to", "propose", "to", "his", "girlfriend", "on", "the", "empty", "ice", "before", "they", "let", "anyone", "back", "on", "."], "e1_text": "propose", "e1_pos": 18, "e2_text": "let", "e2_pos": 28, "label": "before"}
+]

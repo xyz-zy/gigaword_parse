@@ -1,0 +1,4 @@
+[
+{"tokens": ["A", "couple", "of", "answers", "to", "questions", "we", "had", "before", "we", "went", ":", "They", "have", "changing", "rooms", "and", "an", "area", "to", "keep", "valuables", "."], "e1_text": "had", "e1_pos": 7, "e2_text": "went", "e2_pos": 10, "label": "before"},
+{"tokens": ["On", "the", "boat", ",", "our", "row", "had", "rubber", "bags", "that", "you", "could", "put", "your", "glasses", "in", "right", "before", "you", "go", "down", "the", "rapids", "."], "e1_text": "put", "e1_pos": 12, "e2_text": "go", "e2_pos": 19, "label": "before"}
+]

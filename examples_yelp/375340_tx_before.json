@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "booked", "a", "room", "for", "3", "days", "during", "EDC", "weekend", "-", "had", "an", "early", "flight", "so", "I", "called", "a", "few", "days", "before", "-LRB-", "Thursday", "-RRB-", "to", "see", "if", "they", "allowed", "early", "check-in", ",", "was", "told", "absolutely", "."], "e1_text": "had", "e1_pos": 11, "e2_text": "called", "e2_pos": 17, "label": "before"}
+]

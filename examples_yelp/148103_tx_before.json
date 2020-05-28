@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "stayed", "at", "Sam", "'s", "Town", "and", "paid", "the", "resort", "fee", "there", ",", "but", "did", "n't", "think", "to", "check", "before", "checking", "in", "here", "."], "e1_text": "check", "e1_pos": 19, "e2_text": "checking", "e2_pos": 21, "label": "before"}
+]

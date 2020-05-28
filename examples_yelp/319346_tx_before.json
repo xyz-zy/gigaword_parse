@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "a", "west", "coast", "girl", "so", "I", "'ve", "never", "heard", "of", "this", "place", "before", "until", "I", "saw", "it", "on", "my", "way", "to", "Home", "Depot", "that", "is", "in", "the", "same", "area", "."], "e1_text": "heard", "e1_pos": 10, "e2_text": "saw", "e2_pos": 17, "label": "before"}
+]

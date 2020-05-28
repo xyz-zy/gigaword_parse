@@ -1,0 +1,4 @@
+[
+{"tokens": ["Looking", "for", "an", "easy", "place", "to", "eat", "before", "heading", "home", "on", "a", "Sunday", ",", "we", "found", "the", "Burger", "Bar", "in", "Mandalay", "Place", ",", "between", "Mandalay", "Bay", "and", "Luxor", "."], "e1_text": "eat", "e1_pos": 6, "e2_text": "heading", "e2_pos": 8, "label": "before"},
+{"tokens": ["The", "''", "``", "design", "your", "own", "burger", "''", "''", "concept", "is", "not", "new", ",", "but", "they", "have", "great", "options", ",", "better", "than", "any", "place", "I", "'ve", "seen", "before", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "'ve", "e2_pos": 25, "label": "before"}
+]

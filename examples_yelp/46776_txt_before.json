@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "my", "brother", "and", "our", "friend", "Ron", "asked", "if", "I", "wanted", "to", "join", "them", "for", "lunch", "today", ",", "I", "said", "yes", "before", "I", "realized", "where", "they", "were", "going", "...", "I", "was", "super", "hungry", "!"], "e1_text": "said", "e1_pos": 19, "e2_text": "realized", "e2_pos": 23, "label": "before"},
+{"tokens": ["Although", "I", "'ve", "been", "to", "Chipotle", "just", "a", "couple", "of", "times", "before", ",", "I", "have", "to", "say", ",", "I", "'m", "not", "as", "big", "a", "fan", "as", "everyone", "else", "seems", "to", "be", "."], "e1_text": "Chipotle", "e1_pos": 5, "e2_text": "have", "e2_pos": 14, "label": "before"}
+]

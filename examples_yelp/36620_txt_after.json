@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "only", "did", "he", "patronize", "me", "and", "fail", "to", "try", "to", "work", "with", "me", "on", "the", "phone", ",", "but", "he", "refused", "to", "put", "me", "on", "the", "phone", "to", "his", "supervisor", "stating", "that", "there", "was", "nobody", "to", "direct", "my", "call", "to", "-LRB-", "after", "having", "said", "that", "he", "had", "just", "spoken", "to", "his", "supervisor", "-RRB-", "."], "e1_text": "stating", "e1_pos": 30, "e2_text": "having", "e2_pos": 42, "label": "after"},
+{"tokens": ["I", "clearly", "stated", ",", "''", "``", "We", "would", "like", "to", "discontinue", "our", "subscription", "after", "it", "runs", "out", "."], "e1_text": "discontinue", "e1_pos": 10, "e2_text": "runs", "e2_pos": 15, "label": "after"}
+]

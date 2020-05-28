@@ -1,0 +1,4 @@
+[
+{"tokens": ["While", "we", "gladly", "would", "have", "approved", "had", "she", "notified", "us", "of", "this", "before", "we", "ordered", ",", "we", "were", "not", "happy", "to", "be", "charged", "more", "than", "we", "agreed", "."], "e1_text": "notified", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 14, "label": "before"},
+{"tokens": ["This", "last", "time", ",", "they", "were", "eating", "staff", "meal", "an", "hour", "before", "they", "closed", "-", "again", ",", "in", "the", "dining", "room", "."], "e1_text": "eating", "e1_pos": 6, "e2_text": "closed", "e2_pos": 13, "label": "before"}
+]

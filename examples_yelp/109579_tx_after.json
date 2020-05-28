@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "it", "took", "the", "better", "part", "of", "an", "hour", "after", "we", "ordered", "for", "everyone", "to", "get", "their", "food", ",", "and", "the", "order", "of", "one", "person", "in", "our", "party", "was", "completely", "dropped", "without", "any", "explanation", "or", "warning", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "ordered", "e2_pos": 12, "label": "after"},
+{"tokens": ["He", "finally", "began", "eating", "his", "meal", "after", "pretty", "much", "everyone", "else", "had", "finished", "."], "e1_text": "eating", "e1_pos": 3, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

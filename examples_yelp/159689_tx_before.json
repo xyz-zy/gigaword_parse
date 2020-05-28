@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "told", "him", "before", "we", "sat", "down", "we", "asked", "you", "where", "we", "could", "sit", ",", "we", "were", "directed", "toward", "this", "table", ",", "it", "is", "extremely", "rude", "to", "kick", "your", "customers", "to", "other", "table", ",", "his", "exact", "words", ",", "you", "are", "talking", "to", "me", "and", "I", "am", "a", "human", "reservation", "system", "with", "authority", "and", "I", "want", "you", "to", "leave", "this", "table", "now", "."], "e1_text": "told", "e1_pos": 1, "e2_text": "sat", "e2_pos": 5, "label": "before"}
+]

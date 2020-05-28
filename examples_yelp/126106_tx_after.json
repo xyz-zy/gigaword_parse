@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "Saturday", ",", "I", "decided", "to", "cancel", "my", "order", "after", "the", "lady", "said", "it", "would", "take", "between", "a", "hour", "and", "forty", "minutes", "."], "e1_text": "cancel", "e1_pos": 6, "e2_text": "said", "e2_pos": 12, "label": "after"},
+{"tokens": ["A", "few", "days", "later", "my", "debit", "card", "has", "a", "pending", "charge", "even", "after", "I", "canceled", "."], "e1_text": "has", "e1_pos": 7, "e2_text": "canceled", "e2_pos": 14, "label": "after"}
+]

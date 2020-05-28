@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "the", "bus", "boy", "brought", "the", "water", ",", "he", "poured", "it", "directly", "on", "the", "table", "at", "first", ",", "completely", "missing", "my", "glass", ",", "and", "then", "just", "mumbled", "''", "``", "sorry", "''", "''", "and", "walked", "away", "...", "With", "the", "waiter", "nowhere", "in", "sight", ",", "we", "had", "to", "wipe", "the", "water", "ourselves", "before", "it", "dripped", "over", "the", "edge", "of", "the", "table", "."], "e1_text": "had", "e1_pos": 44, "e2_text": "dripped", "e2_pos": 52, "label": "before"}
+]

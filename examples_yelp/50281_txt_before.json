@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "about", "to", "spend", "the", "night", "in", "a", "conference", "room", "!!!", "I", "figured", "I", "'d", "keep", "an", "open", "mind", "and", "waited", "for", "housekeeping", "to", "open", "the", "sofa", "bed", "before", "deciding", "whether", "I", "'d", "stay", "there", "."], "e1_text": "open", "e1_pos": 25, "e2_text": "deciding", "e2_pos": 30, "label": "before"},
+{"tokens": ["I", "do", "not", "return", "to", "Buttes", "and", "will", "advise", "my", "colleagues", "to", "think", "twice", "before", "booking", "a", "room", "there", "."], "e1_text": "think", "e1_pos": 12, "e2_text": "booking", "e2_pos": 15, "label": "before"}
+]

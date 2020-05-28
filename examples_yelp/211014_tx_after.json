@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "messed", "up", "our", "order", "by", "putting", "in", "the", "wrong", "plate", ",", "this", "after", "she", "told", "my", "daughter", "what", "she", "ordered", "was", "one", "of", "her", "favorites", "!"], "e1_text": "putting", "e1_pos": 7, "e2_text": "told", "e2_pos": 16, "label": "after"}
+]

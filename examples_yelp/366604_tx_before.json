@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "think", "this", "place", "would", "be", "awesome", "if", "you", "'re", "on", "the", "verge", "of", "being", "blacked", "out", "\\/", "really", "plastered", "right", "before", "you", "walk", "in", "the", "door", "."], "e1_text": "be", "e1_pos": 5, "e2_text": "walk", "e2_pos": 23, "label": "before"},
+{"tokens": ["i", "would", "return", "for", "another", "visit", "but", "next", "time", "with", "a", "nice", "drunken", "glaze", "on", "me", "before", "i", "hit", "the", "door"], "e1_text": "return", "e1_pos": 2, "e2_text": "hit", "e2_pos": 18, "label": "before"}
+]

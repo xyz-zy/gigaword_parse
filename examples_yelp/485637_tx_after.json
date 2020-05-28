@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "have", "a", "board", "and", "dry-erase", "markers", "that", "can", "keep", "them", "occupied", "after", "they", "devour", "their", "froyo", "and", "you", "'re", "still", "indulging", "in", "yours", "."], "e1_text": "occupied", "e1_pos": 11, "e2_text": "devour", "e2_pos": 14, "label": "after"}
+]

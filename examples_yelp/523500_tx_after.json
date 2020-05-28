@@ -1,0 +1,4 @@
+[
+{"tokens": ["Because", "they", "deleted", "all", "my", "wedding", "footage", "after", "delivering", "the", "DVD", "before", "I", "had", "a", "chance", "to", "review", "the", "DVD", "."], "e1_text": "deleted", "e1_pos": 2, "e2_text": "delivering", "e2_pos": 8, "label": "after"},
+{"tokens": ["Because", "I", "had", "asked", "for", "some", "footage", "to", "be", "included", "in", "full", "on", "the", "DVD", "after", "the", "fact", "-LRB-", "an", "impromtu", "dance", "from", "the", "wedding", "that", "they", "captured", "-RRB-", ",", "and", "got", "email", "confirmation", "from", "them", "that", "it", "would", "be", "included", "on", "the", "DVD", "before", "they", "made", "the", "DVD", "."], "e1_text": "included", "e1_pos": 9, "e2_text": "captured", "e2_pos": 27, "label": "after"}
+]

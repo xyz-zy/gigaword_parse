@@ -1,0 +1,4 @@
+[
+{"tokens": ["Lucky", "for", "me", ",", "Diane", "had", "a", "Hard", "Rock", "Hotel", "BOGO", "coupon", "for", "Fu", "from", "the", "night", "before", "when", "we", "had", "become", "introduced", "to", "Culinary", "Dropout", ",", "so", "besides", "two", "entrees", "of", "Honey", "Walnut", "Shrimp", ",", "we", "were", "also", "presented", "with", "our", "ordered", "choice", "of", "Kung", "Pao", "Chicken", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "had", "e2_pos": 5, "label": "before"},
+{"tokens": ["This", "was", "a", "great", "way", "for", "us", "to", "bid", "goodbye", "to", "Restaurant", "Week", "just", "before", "we", "left", "for", "California", "."], "e1_text": "bid", "e1_pos": 8, "e2_text": "left", "e2_pos": 16, "label": "before"}
+]

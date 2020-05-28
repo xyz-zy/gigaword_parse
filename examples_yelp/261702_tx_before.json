@@ -1,0 +1,4 @@
+[
+{"tokens": ["Four", "of", "the", "seven", "pools", "have", "a", "one", "foot", "area", "where", "reclining", "chairs", "sit", "in", "the", "water", "before", "the", "stairs", "leading", "into", "the", "swim", "area", "."], "e1_text": "sit", "e1_pos": 13, "e2_text": "leading", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "enjoyed", "jumping", "into", "the", "Jacuzzi", "for", "a", "bit", "before", "rejoining", "the", "float", "."], "e1_text": "jumping", "e1_pos": 2, "e2_text": "rejoining", "e2_pos": 10, "label": "before"}
+]

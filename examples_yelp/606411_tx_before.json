@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "only", "real", "complaint", "is", "that", "it", "looked", "as", "if", "none", "of", "the", "tables", "had", "been", "wiped", "down", "before", "they", "opened", "."], "e1_text": "wiped", "e1_pos": 16, "e2_text": "opened", "e2_pos": 20, "label": "before"},
+{"tokens": ["Since", "they", "'d", "just", "opened", "30", "minutes", "before", "we", "arrived", ",", "and", "we", "were", "the", "only", "ones", "there", "at", "7:30", ",", "it", "seemed", "the", "tables", "were", "dirty", "from", "the", "night", "before", "."], "e1_text": "opened", "e1_pos": 4, "e2_text": "arrived", "e2_pos": 9, "label": "before"}
+]

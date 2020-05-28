@@ -1,0 +1,4 @@
+[
+{"tokens": ["Back", "in", "April", "I", "vowed", "to", "never", "stay", "at", "or", "visit", "HR", "again", "after", "the", "way", "I", "was", "treated", ",", "I", "travel", "to", "Vegas", "6-10", "times", "a", "year", "and", "I", "know", "what", "else", "is", "out", "there", "."], "e1_text": "visit", "e1_pos": 10, "e2_text": "travel", "e2_pos": 21, "label": "after"},
+{"tokens": ["My", "NEW", "casino", "host", "-LRB-", "and", "all", "my", "friends", "I", "was", "with", "'s", "host", "-RRB-", "really", "went", "out", "of", "his", "way", "to", "take", "care", "of", "us", "this", "time", "after", "we", "were", "vocal", "about", "our", "past", "experiences", "."], "e1_text": "take", "e1_pos": 22, "e2_text": "were", "e2_pos": 30, "label": "after"}
+]

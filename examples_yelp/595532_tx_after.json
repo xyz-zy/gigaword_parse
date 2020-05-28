@@ -1,0 +1,3 @@
+[
+{"tokens": ["Cons", ":", "Room", "was", "kind", "of", "dirty", ",", "even", "after", "housekeeping", "came", "in", ",", "they", "did", "n't", "do", "a", "very", "good", "job", "with", "cleaning", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "came", "e2_pos": 11, "label": "after"}
+]

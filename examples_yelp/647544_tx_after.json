@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "thing", "that", "was", "a", "huge", "red", "flag", "for", "me", "was", "that", "they", "did", "n't", "let", "me", "use", "my", "phone", "to", "look", "up", "reviews", "and", "that", "they", "did", "n't", "want", "me", "to", "call", "back", "tomorrow", "after", "looking", "up", "the", "reviews", "."], "e1_text": "call", "e1_pos": 32, "e2_text": "looking", "e2_pos": 36, "label": "after"},
+{"tokens": ["I", "was", "honestly", "interested", "in", "buying", ",", "but", "it", "was", "just", "not", "possible", "to", "call", "back", "later", "to", "buy", "after", "looking", "up", "the", "reviews", "."], "e1_text": "buy", "e1_pos": 18, "e2_text": "looking", "e2_pos": 20, "label": "after"}
+]

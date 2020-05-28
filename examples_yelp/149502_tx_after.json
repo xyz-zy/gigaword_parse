@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "the", "story", "short", ":", "It", "'s", "an", "ok", "AYCE", "joint", "if", "you", "eat", "the", "side", "dishes", "-LRB-", "none", "seafood", "dishes", "-RRB-", "The", "service", "was", "extremely", "attentive", "and", "the", "food", "came", "out", "within", "5", "minutes", "after", "ordering", "."], "e1_text": "came", "e1_pos": 31, "e2_text": "ordering", "e2_pos": 37, "label": "after"},
+{"tokens": ["To", "make", "it", "short", ",", "shortly", "after", "eating", "my", "hubbie", "got", "a", "stomache", "ache", ".", "."], "e1_text": "make", "e1_pos": 1, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Where", "do", "I", "begin", "...", "I", "am", "extremely", "disappointed", "with", "my", "experience", "here", ",", "especially", "after", "hearing", "all", "of", "the", "hype", "about", "Dr.", "Mary", "Deka", "."], "e1_text": "am", "e1_pos": 6, "e2_text": "hearing", "e2_pos": 16, "label": "after"},
+{"tokens": ["Fast", "forward", "to", "after", "the", "delivery", ",", "which", "I", "ended", "up", "having", "to", "have", "a", "c-section", "."], "e1_text": "Fast", "e1_pos": 0, "e2_text": "ended", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "had", "the", "audacity", "to", "show", "my", "wedding", "site", "while", "it", "was", "set", "up", "for", "my", "ceremony", "just", "an", "hour", "before", "I", "was", "to", "get", "married", "there", "to", "another", "couple", "wanting", "to", "get", "married", "at", "the", "hotel", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 11, "label": "before"},
+{"tokens": ["She", "also", "had", "told", "me", "she", "would", "put", "a", "picture", "of", "my", "husband", "and", "I", "up", "on", "a", "screen", "for", "guests", "to", "see", "before", "they", "go", "up", "the", "elevator", "to", "the", "reception", "."], "e1_text": "see", "e1_pos": 22, "e2_text": "go", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["About", "10", "minutes", "went", "by", "before", "our", "waiter", "even", "stopped", "by", "our", "table", "."], "e1_text": "went", "e1_pos": 3, "e2_text": "stopped", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "Problems", ":", "Wine", "came", "before", "water", "Oysters", "served", "with", "trio", "of", "useless", "sauces", "-LRB-", "bland", "cocktail", ",", "soy", ",", "shallot", "mignonette", "."], "e1_text": "came", "e1_pos": 4, "e2_text": "served", "e2_pos": 8, "label": "before"}
+]

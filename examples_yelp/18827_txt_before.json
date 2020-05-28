@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "are", "planning", "a", "move", "to", "CenPho", "and", "trying", "to", "try", "out", "our", "new", "hood", "before", "we", "actually", "get", "there", "so", "it", "'s", "exciting", "to", "try", "some", "new", "places", ",", "hoping", "you", "will", "find", "your", "new", "favorite", "''", "``", "spot", "''", "''", "."], "e1_text": "try", "e1_pos": 10, "e2_text": "get", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "temp", "needs", "to", "be", "high", "enough", "and", "maybe", "I", "just", "got", "one", "that", "had", "a", "bad", "spot", "in", "the", "oven", ",", "we", "had", "to", "throw", "it", "in", "the", "oven", "and", "broil", "the", "top", "for", "a", "few", "minutes", "before", "eating", "which", "is", "kind", "of", "ridiculous", "but", "whatever", ",", "no", "biggie", "."], "e1_text": "broil", "e1_pos": 31, "e2_text": "eating", "e2_pos": 39, "label": "before"}
+]

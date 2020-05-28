@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "paid", "more", "attention", "to", "the", "`", "bad", "'", "reviews", "before", "making", "a", "reservation", "here", ",", "because", "many", "of", "them", "rang", "true", "for", "our", "dinner", "as", "well", "."], "e1_text": "paid", "e1_pos": 3, "e2_text": "making", "e2_pos": 13, "label": "before"},
+{"tokens": ["Bottom", "line", "...", "Think", "twice", "before", "wasting", "your", "money", ",", "but", "even", "more", "so", "-", "your", "time", "-", "at", "this", "restaurant", "."], "e1_text": "Think", "e1_pos": 3, "e2_text": "wasting", "e2_pos": 6, "label": "before"}
+]

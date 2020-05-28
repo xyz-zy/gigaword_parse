@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "mom", "was", "given", "some", "$", "incentive", "-LRB-", "which", "was", "basically", "a", "slap", "in", "the", "face", "after", "what", "she", "has", "been", "through", "-RRB-", "but", "not", "near", "what", "she", "deserved", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "has", "e2_pos": 19, "label": "after"},
+{"tokens": ["Risk", "managements", "investigation", "is", "done", "and", "guest", "relations", "said", "they", "would", "be", "in", "contact", "with", "us", "after", "that", "was", "complete", "and", "see", "what", "more", "."], "e1_text": "be", "e1_pos": 11, "e2_text": "was", "e2_pos": 18, "label": "after"}
+]

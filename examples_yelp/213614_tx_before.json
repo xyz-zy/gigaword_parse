@@ -1,0 +1,3 @@
+[
+{"tokens": ["Off", "to", "the", "left", "is", "a", "gift", "shop", ",", "where", "2", "people", "greet", "you", "with", "a", "camera", "and", "take", "various", "pics", "before", "letting", "you", "through", "the", "next", "door", "and", "into", "the", "rest", "of", "the", "garden", "."], "e1_text": "take", "e1_pos": 18, "e2_text": "letting", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "seats", "and", "tables", "were", "the", "first", "thing", "I", "noticed", "since", "they", "'re", "brightly", "colored", "and", "spattered", "with", "paint", ",", "but", "after", "that", "I", "realized", "I", "came", "to", "eat", "and", "not", "to", "stare", "at", "furniture", ",", "so", "I", "moved", "on", "to", "the", "menu", ",", "which", "was", "about", "as", "straightforward", "and", "simple", "as", "could", "be", "."], "e1_text": "noticed", "e1_pos": 9, "e2_text": "realized", "e2_pos": 24, "label": "after"}
+]

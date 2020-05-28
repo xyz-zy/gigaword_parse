@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "'ve", "ever", "seen", "Portlandia", "with", "the", "episode", "where", "the", "diners", "have", "to", "know", "about", "the", "chicken", "'s", "life", "before", "they", "eat", "it", ",", "this", "is", "a", "version", "of", "that", "."], "e1_text": "know", "e1_pos": 14, "e2_text": "eat", "e2_pos": 22, "label": "before"},
+{"tokens": ["There", "is", "a", "full", "description", "of", "each", "vegetable", "'s", "existence", "before", "being", "placed", "on", "your", "plate", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "being", "e2_pos": 11, "label": "before"}
+]

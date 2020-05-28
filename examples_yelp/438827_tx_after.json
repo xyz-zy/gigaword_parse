@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "that", "I", "have", "discovered", "how", "happy", "my", "taste", "buds", "are", "after", "I", "have", "a", "honeydew", "milk", "tea", "with", "boba", ",", "it", "is", "now", "time", "for", "me", "to", "find", "out", "where", "the", "best", "possible", "place", "to", "get", "one", "of", "these", "tasty", "beverages", "."], "e1_text": "are", "e1_pos": 10, "e2_text": "have", "e2_pos": 3, "label": "after"},
+{"tokens": ["I", "was", "the", "only", "person", "in", "the", "shop", "when", "I", "arrived", "shortly", "after", "the", "store", "opened", "."], "e1_text": "arrived", "e1_pos": 10, "e2_text": "opened", "e2_pos": 15, "label": "after"}
+]

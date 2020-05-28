@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "looked", "at", "me", "for", "a", "while", "as", "if", "she", "was", "annoyed", "and", "said", ",", "''", "``", "well", "the", "food", "is", "already", "cooked", ",", "''", "''", "I", "responded", "with", ",", "''", "``", "well", "I", "would", "like", "my", "food", "at", "the", "end", "after", "we", "finish", "eating", ",", "''", "''", "she", "took", "it", "and", "we", "went", "our", "ways", "me", "to", "my", "table", "and", "her", "to", "the", "counter", "behind", "the", "register", "."], "e1_text": "like", "e1_pos": 35, "e2_text": "finish", "e2_pos": 43, "label": "after"},
+{"tokens": ["I", "went", "back", "to", "my", "table", "and", "even", "asked", "my", "cousins", ",", "''", "``", "did", "n't", "i", "tell", "her", "i", "wanted", "my", "to", "go", "order", "after", "we", "finish", "eating", "?", "''", "''"], "e1_text": "go", "e1_pos": 23, "e2_text": "finish", "e2_pos": 27, "label": "after"}
+]

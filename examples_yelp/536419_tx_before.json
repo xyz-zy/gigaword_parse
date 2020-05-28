@@ -1,0 +1,4 @@
+[
+{"tokens": ["Very", "very", "slow", ",", "and", "maybe", "the", "waitress", "was", "not", "experienced", "enough", "to", "figure", "out", "what", "I", "need", "before", "I", "asked", "for", "it", "."], "e1_text": "need", "e1_pos": 17, "e2_text": "asked", "e2_pos": 20, "label": "before"},
+{"tokens": ["For", "example", ",", "she", "sat", "my", "group", "which", "was", "a", "table", "of", "3", ",", "and", "only", "had", "one", "menu", "for", "about", "5", "minutes", "before", "she", "brought", "out", "another", "one", "."], "e1_text": "had", "e1_pos": 16, "e2_text": "brought", "e2_pos": 25, "label": "before"}
+]

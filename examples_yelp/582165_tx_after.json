@@ -1,0 +1,4 @@
+[
+{"tokens": ["Decided", "to", "try", "Voila", "again", "after", "swearing", "off", "it", "following", "some", "poor", "quality", "meals", "and", "service", "."], "e1_text": "try", "e1_pos": 2, "e2_text": "swearing", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "had", "hoped", "that", "after", "a", "past", "experiences", "at", "Voil", "\\", "u00e0", "that", "the", "service", "what", "is", "improved", "."], "e1_text": "hoped", "e1_pos": 2, "e2_text": "experiences", "e2_pos": 7, "label": "after"}
+]

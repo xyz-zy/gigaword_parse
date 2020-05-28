@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "attempted", "to", "make", "drink", "orders", "-LRB-", "I", "believe", "the", "wait", "staff", "took", "half", "of", "the", "table", "'s", "drink", "orders", "-RRB-", ",", "after", "asking", "the", "waiter", "for", "some", "wine", "recommendations", ",", "he", "said", "he", "would", "send", "the", "sommolier", "in", "."], "e1_text": "attempted", "e1_pos": 1, "e2_text": "asking", "e2_pos": 23, "label": "after"},
+{"tokens": ["After", "15", "minutes", ",", "I", "had", "yet", "to", "even", "receive", "a", "glass", "of", "water", ",", "and", "did", "not", "get", "to", "start", "on", "my", "cupcakes", "until", "after", "asking", "several", "waiters", "-LRB-", "and", "getting", "dirty", "looks", "-RRB-", "for", "a", "glass", "of", "water", "."], "e1_text": "start", "e1_pos": 20, "e2_text": "asking", "e2_pos": 26, "label": "after"}
+]

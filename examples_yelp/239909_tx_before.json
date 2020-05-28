@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bread", "is", "pretty", "good", "but", "it", "seems", "a", "little", "bit", "more", "chewy", "than", "it", "was", "before", "."], "e1_text": "seems", "e1_pos": 7, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["Sometimes", "when", "you", "try", "something", "great", "and", "find", "out", "that", "ownership", "has", "change", ",", "and", "it", "'s", "not", "as", "good", "as", "before", ",", "it", "kinda", "pisses", "me", "off", "."], "e1_text": "find", "e1_pos": 7, "e2_text": "has", "e2_pos": 11, "label": "before"}
+]

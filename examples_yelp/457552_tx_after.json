@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "I", "left", ",", "wishing", "I", "had", "n't", "tipped", "so", "quickly", "after", "receiving", "the", "bill", ",", "not", "knowing", "the", "service", "would", "deteriorate", "exponentially", "soon", "thereafter", "."], "e1_text": "tipped", "e1_pos": 8, "e2_text": "receiving", "e2_pos": 12, "label": "after"},
+{"tokens": ["Oh", "and", "the", "side", "salad", "I", "requested", "in", "lieu", "of", "french", "fries", "came", "with", "no", "salad", "dressing", ",", "a", "fact", "I", "did", "not", "become", "aware", "of", "until", "I", "arrived", "at", "my", "destination", "after", "leaving", "the", "restaurant", "."], "e1_text": "arrived", "e1_pos": 28, "e2_text": "leaving", "e2_pos": 33, "label": "after"}
+]

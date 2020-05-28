@@ -1,0 +1,4 @@
+[
+{"tokens": ["Now", "it", "'s", "late", "and", "only", "an", "hour", "left", "before", "the", "show", "to", "which", "we", "had", "already", "booked", "tickets", ",", "and", "I", "'m", "hungry", "after", "all", "this", "walking", "."], "e1_text": "left", "e1_pos": 8, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["You", "have", "to", "walk", "-LRB-", "you", "guessed", "it", "1.5", "city", "blocks", "-RRB-", "to", "the", "Starbucks", "near", "reception", ",", "get", "your", "coffee", "and", "walk", "back", ",", "try", "that", "before", "you", "'ve", "had", "your", "morning", "joe", "!"], "e1_text": "try", "e1_pos": 25, "e2_text": "'ve", "e2_pos": 29, "label": "before"}
+]

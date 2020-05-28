@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "bestie", "and", "her", "husband", "actually", "discovered", "this", "place", "2", "days", "prior", "after", "working", "out", "at", "LA", "Fitness", "next", "door", "and", "they", "were", "like", "let", "'s", "go", "back", "!"], "e1_text": "discovered", "e1_pos": 6, "e2_text": "working", "e2_pos": 13, "label": "after"},
+{"tokens": ["They", "wanted", "to", "go", "right", "after", "they", "went", ";", "that", "I", "must", "check", "out", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "went", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "driving", "around", "town", "...", "searching", "for", "something", "different", ",", "new", "to", "try", "before", "going", "to", "a", "jazz", "concert", "last", "night", "...", "and", "remembered", "seeing", "Hasaki", "after", "going", "to", "Knights", "Theater", "."], "e1_text": "seeing", "e1_pos": 25, "e2_text": "going", "e2_pos": 15, "label": "after"},
+{"tokens": ["Nearly", "10", "mins", "after", "ordering", "...", "there", "was", "a", "challenge", "uncorking", "the", "bottle", "."], "e1_text": "mins", "e1_pos": 2, "e2_text": "ordering", "e2_pos": 4, "label": "after"}
+]

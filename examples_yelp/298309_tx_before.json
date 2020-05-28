@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "walk", "in", "and", "are", "waiting", "for", "about", "ten", "minutes", "before", "a", "host", "says", ",", "''", "``", "Oh", ",", "are", "you", "dining", "in", "?", "''", "''"], "e1_text": "waiting", "e1_pos": 5, "e2_text": "says", "e2_pos": 13, "label": "before"},
+{"tokens": ["Another", "ten", "minutes", "pass", "before", "we", "see", "a", "server", "."], "e1_text": "pass", "e1_pos": 3, "e2_text": "see", "e2_pos": 6, "label": "before"},
+{"tokens": ["She", "explained", "it", "as", "they", "put", "dry", "rub", "on", "them", "before", "putting", "sauce", "on", "so", "I", "said", "sure", "."], "e1_text": "put", "e1_pos": 5, "e2_text": "putting", "e2_pos": 11, "label": "before"}
+]

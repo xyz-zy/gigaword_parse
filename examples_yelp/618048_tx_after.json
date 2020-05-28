@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "a", "little", "hesitant", "to", "give", "this", "place", "a", "try", "after", "reading", "about", "Nelson", "Q", "'s", "sub-stellar", "experience", ",", "but", "Jenn", "P.", "was", "pretty", "enthused", "and", "convinced", "our", "group", "to", "go", "."], "e1_text": "give", "e1_pos": 6, "e2_text": "reading", "e2_pos": 12, "label": "after"},
+{"tokens": ["We", "were", "n't", "unhappy", "at", "all", "after", "the", "food", "started", "coming", "out", "though", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "started", "e2_pos": 9, "label": "after"}
+]

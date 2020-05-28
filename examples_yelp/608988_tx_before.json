@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "must", "have", "been", "blending", "in", "with", "everyone", "because", "it", "was", "20", "min", "before", "someone", "came", "and", "took", "our", "drink", "order", ",", "ONLY", "after", "we", "flagged", "him", "down", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

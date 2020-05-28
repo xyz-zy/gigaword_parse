@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "thing", "I", "really", "value", "is", "that", "after", "the", "initial", "x-rays", "and", "consultation", "-LRB-", "covered", "at", "100", "%", "by", "my", "insurance", "-RRB-", ",", "a", "clear", "written", "list", "of", "charges", "was", "discussed", "before", "any", "further", "work", "was", "to", "be", "done", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "covered", "e2_pos": 14, "label": "after"}
+]

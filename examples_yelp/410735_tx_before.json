@@ -1,0 +1,4 @@
+[
+{"tokens": ["Why", "ask", "for", "a", "cell", "phone", "number", "if", "you", "are", "n't", "going", "to", "call", "before", "giving", "our", "table", "away", "?"], "e1_text": "call", "e1_pos": 13, "e2_text": "giving", "e2_pos": 15, "label": "before"},
+{"tokens": ["After", "waiting", "an", "hour", "and", "a", "half", "for", "our", "food", "to", "come", "out", "...", "and", "it", "sitting", "in", "the", "window", "for", "15", "mins", "before", "being", "brought", "to", "us", "...", "Nothing", "to", "write", "home", "about", "."], "e1_text": "sitting", "e1_pos": 16, "e2_text": "being", "e2_pos": 24, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "never", "had", "crabs", "in", "the", "shell", "before", "so", "was", "a", "bit", "worried", "when", "we", "arrived", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "was", "e2_pos": 10, "label": "before"},
+{"tokens": ["There", "were", "about", "10", "people", "dining", "when", "we", "arrived", "and", "I", "got", "a", "look", "at", "what", "they", "were", "eating", "before", "we", "ordered", ",", "The", "staff", "was", "very", "friendly", "and", "offered", "suggestions", "on", "what", "to", "try", "."], "e1_text": "eating", "e1_pos": 18, "e2_text": "ordered", "e2_pos": 21, "label": "before"}
+]

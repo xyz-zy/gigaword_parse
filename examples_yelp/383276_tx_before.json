@@ -1,0 +1,4 @@
+[
+{"tokens": ["Right", "upfront", "the", "waitress", "mentioned", "that", "it", "will", "be", "a", "while", "before", "we", "get", "our", "food", "because", "they", "are", "busy", "."], "e1_text": "be", "e1_pos": 8, "e2_text": "get", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "think", "it", "is", "a", "good", "idea", "to", "look", "at", "Yelp", "before", "going", "into", "a", "restaurant", "because", "if", "you", "see", "the", "average", "is", "3", "out", "of", "5", "stars", ",", "its", "safe", "to", "assume", "that", "nearly", "half", "the", "people", "were", "n't", "satisfied", "."], "e1_text": "look", "e1_pos": 8, "e2_text": "going", "e2_pos": 12, "label": "before"}
+]

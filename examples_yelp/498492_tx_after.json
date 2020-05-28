@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "only", "thing", "that", "could", "have", "been", "better", "was", "if", "she", "had", "applied", "a", "drying", "serum", "to", "my", "toenails", "because", "after", "I", "left", "the", "salon", ",", "I", "messed", "up", "the", "polish", "on", "my", "big", "toe", "."], "e1_text": "applied", "e1_pos": 12, "e2_text": "left", "e2_pos": 22, "label": "after"}
+]

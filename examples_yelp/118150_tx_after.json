@@ -1,0 +1,3 @@
+[
+{"tokens": ["By", "the", "way", ",", "I", "brought", "it", "to", "there", "attention", "after", "I", "seen", "what", "was", "on", "my", "plate", "and", ",", "the", "server", "comes", "out", "and", "says", "I", "'m", "sorry", ",", "would", "you", "like", "another", "plate", "of", "the", "same", "?"], "e1_text": "brought", "e1_pos": 5, "e2_text": "seen", "e2_pos": 12, "label": "after"}
+]

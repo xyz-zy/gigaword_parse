@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "chefs", "here", "must", "have", "been", "mathemeticians", "in", "their", "previous", "career", ",", "because", "they", "perfectly", "multiplied", "the", "portion", "of", "each", "entree", "by", "2", ",", "and", "divided", "the", "seasonings", "by", "4", "meticulously", "before", "preparing", "our", "dinner", "."], "e1_text": "divided", "e1_pos": 25, "e2_text": "preparing", "e2_pos": 32, "label": "before"}
+]

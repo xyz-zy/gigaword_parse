@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Traveling", "for", "work", "to", "Vegas", ",", "I", "would", "stop", "here", "after", "meetings", "to", "get", "a", "beverage", "at", "the", "cafe", ",", "update", "records", "on", "the", "day", "and", "peruse", "the", "stacks", "for", "new", "reading", "material", "before", "heading", "back", "to", "the", "hotel", "-RRB-", "."], "e1_text": "peruse", "e1_pos": 27, "e2_text": "heading", "e2_pos": 35, "label": "before"}
+]

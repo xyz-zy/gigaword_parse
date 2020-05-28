@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "When", "you", "place", "the", "order", ",", "you", "are", "shown", "a", "calendar", "and", "can", "select", "the", "date", "of", "delivery", ",", "which", "I", "did", "-RRB-", "You", "can", "imagine", "her", "surprise", "when", "the", "flowers", "were", "delivered", "on", "the", "2nd", ",", "the", "day", "after", "I", "placed", "my", "order", ",", "rather", "than", "on", "the", "9th", "."], "e1_text": "delivered", "e1_pos": 33, "e2_text": "placed", "e2_pos": 42, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "waitress", "brought", "my", "husband", "his", "coffee", "without", "any", "kind", "of", "cream", "or", "milk", ",", "which", "he", "did", "n't", "notice", "until", "after", "she", "walked", "away", "...", "in", "part", "because", "he", "assumed", "it", "would", "already", "be", "on", "the", "table", "next", "to", "the", "sugar", "packets", "...", "as", "USUAL", "."], "e1_text": "notice", "e1_pos": 19, "e2_text": "walked", "e2_pos": 23, "label": "after"}
+]

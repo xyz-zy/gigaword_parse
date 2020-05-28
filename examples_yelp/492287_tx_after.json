@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "'s", "a", "chef", "behind", "the", "seafood", "station", "that", "will", "actually", "steam", "your", "crab", "legs", "for", "you", "-LRB-", "after", "you", "have", "selected", "them", "from", "the", "frozen", "bar", "-RRB-", "."], "e1_text": "steam", "e1_pos": 11, "e2_text": "have", "e2_pos": 20, "label": "after"}
+]

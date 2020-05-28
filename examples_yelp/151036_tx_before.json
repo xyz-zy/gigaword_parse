@@ -1,0 +1,5 @@
+[
+{"tokens": ["It", "took", "three", "times", "calling", "for", "a", "reservation", "before", "I", "got", "one", "...", "last", "night", "the", "hostess", "shed", "some", "light", "on", "why", "...", "they", "only", "take", "one", "reservation", "for", "each", "time", "slot", "."], "e1_text": "calling", "e1_pos": 4, "e2_text": "got", "e2_pos": 10, "label": "before"},
+{"tokens": ["We", "also", "went", "through", "two", "plates", "of", "the", "bread", "and", "olive", "oil", "before", "our", "pizzas", "arrived", "...", "my", "only", "complaint", "was", "that", "I", "prefer", "when", "restaurants", "put", "a", "bit", "of", "seasoning", "in", "the", "olive", "oil", "to", "kick", "the", "flavor", "up", "a", "bit", "."], "e1_text": "went", "e1_pos": 2, "e2_text": "arrived", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "have", "never", "heard", "of", "something", "like", "that", "happening", "before", "."], "e1_text": "heard", "e1_pos": 3, "e2_text": "happening", "e2_pos": 8, "label": "before"}
+]

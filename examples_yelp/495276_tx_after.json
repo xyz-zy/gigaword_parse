@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "liking", "for", "this", "place", "changed", "after", "I", "found", "the", "tail", "of", "a", "bug", "in", "my", "takeout", "food", "!!!!", "The", "manager", "said", "an", "exterminator", "came", "out", "and", "the", "only", "thing", "he", "can", "conclude", "is", "that", "the", "bugs", "came", "out", "to", "breathe", "bc", "they", "were", "suffocating", "from", "the", "fumes", "...", "wtf", "?!?!", "He", "only", "offered", "to", "buy", "me", "another", "meal", "as", "of", "I", "'d", "step", "foot", "in", "there", "again", "."], "e1_text": "changed", "e1_pos": 5, "e2_text": "found", "e2_pos": 8, "label": "after"}
+]

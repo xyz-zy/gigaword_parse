@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "usually", "get", "my", "hair", "cut", "at", "Universal", "Barber", "Shop", "in", "Mesa", "-LRB-", "off", "Stapley", "and", "the", "60", "-RRB-", "by", "Dave", ",", "awesome", "dude", "and", "can", "cut", "hair", "like", "no", "other", ",", "but", "I", "was", "in", "a", "rush", "and", "needed", "something", "close", "to", "work", "before", "heading", "home", "."], "e1_text": "work", "e1_pos": 43, "e2_text": "heading", "e2_pos": 45, "label": "before"},
+{"tokens": ["It", "gets", "worse", "as", "it", "takes", "him", "2", "more", "swings", "of", "snagging", "my", "damn", "scalp", "to", "realize", "''", "``", "hey", "maybe", "I", "should", "try", "changing", "clippers", "before", "I", "rip", "this", "guys", "hair", "out", "''", "''", "."], "e1_text": "try", "e1_pos": 23, "e2_text": "rip", "e2_pos": 28, "label": "before"}
+]

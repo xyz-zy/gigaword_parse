@@ -1,0 +1,3 @@
+[
+{"tokens": ["JASON", "WALLER", ",", "from", "this", "business", "took", "the", "headliner", "down", ",", "hosed", "the", "roof", ",", "found", "2", "small", "pinpoint", "leaks", ",", "fixed", "them", ",", "cleaned", "all", "the", "glue", "gunk", "off", ",", "AND", "scrubbed", "the", "brown", "water", "stains", "off", "the", "headliner", "after", "he", "reinstalled", "it", "."], "e1_text": "scrubbed", "e1_pos": 32, "e2_text": "reinstalled", "e2_pos": 42, "label": "after"}
+]

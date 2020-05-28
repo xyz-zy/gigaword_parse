@@ -1,0 +1,3 @@
+[
+{"tokens": ["BIG", "WONG", "'s", "is", "located", "at", "the", "corner", "of", "Spring", "Mt\\/Decatur", "just", "WEST", "of", "Spring", "Mt", "right", "after", "you", "pass", "''", "``", "Jack", "in", "the", "Crack", "''", "''", "."], "e1_text": "located", "e1_pos": 4, "e2_text": "pass", "e2_pos": 19, "label": "after"}
+]

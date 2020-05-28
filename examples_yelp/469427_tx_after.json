@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "to", "Bombshell", "after", "an", "at", "home", "touch", "up", "gone", "wrong", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "gone", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "called", "the", "salon", "after", "reading", "their", "reviews", "on", "Yelp", "and", "luckily", "Amber", "was", "able", "to", "take", "me", "as", "soon", "as", "I", "could", "get", "there", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "reading", "e2_pos": 5, "label": "after"}
+]

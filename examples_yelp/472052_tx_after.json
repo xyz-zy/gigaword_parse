@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "have", "been", "greeted", "after", "coming", "through", "the", "door", "even", "if", "there", "was", "a", "line", "and", "the", "tellers", "are", "very", "friendly", "and", "ask", "if", "they", "have", "answered", "all", "of", "my", "questions", "."], "e1_text": "greeted", "e1_pos": 3, "e2_text": "coming", "e2_pos": 5, "label": "after"}
+]

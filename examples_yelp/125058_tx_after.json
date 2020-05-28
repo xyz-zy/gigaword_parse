@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "called", "front", "desk", "to", "sent", "up", "a", "worker", "to", "look", "at", "the", "bathroom", "about", "a", "couple", "of", "hours", "after", "we", "checked", "in", "."], "e1_text": "look", "e1_pos": 10, "e2_text": "checked", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "do", "not", "appreciate", "how", "the", "manager", "treated", "me", ",", "how", "he", "talked", "to", "me", "and", "even", "after", "he", "treated", "me", "with", "such", "disrespect", "could", "n't", "even", "fix", "the", "problem", "and", "atleast", "get", "us", "into", "the", "room", "."], "e1_text": "treated", "e1_pos": 7, "e2_text": "treated", "e2_pos": 19, "label": "after"}
+]

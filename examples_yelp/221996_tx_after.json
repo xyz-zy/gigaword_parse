@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "asked", "for", "shrimp", "on", "top", ",", "after", "hearing", "so", "many", "great", "reviews", "about", "the", "shrimp", ",", "they", "gladly", "obliged", "."], "e1_text": "asked", "e1_pos": 2, "e2_text": "hearing", "e2_pos": 9, "label": "after"}
+]

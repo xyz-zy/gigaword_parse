@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "became", "obvious", "that", "they", "did", "n't", "even", "start", "cooking", "the", "bacon", "for", "the", "BLT", "until", "after", "we", "complained", "twice", "."], "e1_text": "start", "e1_pos": 8, "e2_text": "complained", "e2_pos": 18, "label": "after"},
+{"tokens": ["I", "do", "n't", "understand", "why", "we", "had", "to", "wait", "for", "45", "minutes", "after", "we", "ordered", "for", "them", "to", "start", "cooking", "the", "meal", "."], "e1_text": "wait", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 14, "label": "after"}
+]

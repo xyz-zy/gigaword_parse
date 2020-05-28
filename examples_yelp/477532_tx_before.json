@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "think", "this", "is", "where", "they", "came", "from", "before", "they", "moved", "up", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "moved", "e2_pos": 12, "label": "before"},
+{"tokens": ["Even", "Jed", "Clampett", "may", "have", "turned", "his", "nose", "up", "at", "this", "area", ",", "and", "that", "is", "before", "he", "had", "a", "concrete", "swimming", "hole", "!"], "e1_text": "is", "e1_pos": 15, "e2_text": "had", "e2_pos": 18, "label": "before"}
+]

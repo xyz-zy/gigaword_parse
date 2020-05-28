@@ -1,0 +1,3 @@
+[
+{"tokens": ["Customer", "service", "told", "us", "to", "come", "in", "the", "store", "to", "change", "out", "a", "battery", "and", "charger", "it", "took", "them", "over", "an", "hour", "of", "fighting", "with", "us", "in", "store", "before", "they", "finally", "handled", "it", "."], "e1_text": "fighting", "e1_pos": 23, "e2_text": "handled", "e2_pos": 31, "label": "before"}
+]

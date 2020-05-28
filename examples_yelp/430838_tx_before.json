@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "worker", "I", "spoke", "to", "at", "Chandler", "confirmed", "it", "was", "okay", "before", "I", "browsed", "the", "store", ",", "then", "I", "had", "to", "deal", "with", "another", "worker", "after", "a", "long", "line", "with", "the", "store", "closing", "and", "interrogating", "me", "about", "the", "top", "being", "okay", "even", "though", "I", "had", "gotten", "the", "OK", "previously", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "browsed", "e2_pos": 14, "label": "before"}
+]

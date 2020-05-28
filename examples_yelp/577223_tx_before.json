@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "made", "reservations", "at", "CHoP", "for", "7:30", "pm", ",", "showed", "up", "right", "at", "7:30", "pm", "and", "then", "waited", "about", "ten", "minutes", "before", "we", "were", "seated", "."], "e1_text": "waited", "e1_pos": 17, "e2_text": "were", "e2_pos": 23, "label": "before"}
+]

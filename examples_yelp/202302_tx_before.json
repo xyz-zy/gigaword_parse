@@ -1,0 +1,4 @@
+[
+{"tokens": ["And", "yes", ",", "my", "water", "glass", "was", "also", "replenished", "before", "it", "was", "gone", "."], "e1_text": "replenished", "e1_pos": 8, "e2_text": "was", "e2_pos": 6, "label": "before"},
+{"tokens": ["The", "second", "night", "we", "were", "having", "supper", "somewhere", "else", ",", "but", "stopped", "in", "for", "drinks", "before", "hand", "-LRB-", "let", "'s", "face", "it", ",", "cocktails", "at", "the", "casino", "bars", "are", "just", "boring", "-RRB-", "."], "e1_text": "stopped", "e1_pos": 11, "e2_text": "let", "e2_pos": 18, "label": "before"}
+]

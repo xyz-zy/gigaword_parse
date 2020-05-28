@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "go", "pick", "it", "up", "the", "day", "before", "the", "wedding", "-LRB-", "really", "good", "thing", "we", "chose", "to", "fly", "in", "a", "little", "earlier", "than", "planned", "-RRB-", "."], "e1_text": "go", "e1_pos": 1, "e2_text": "chose", "e2_pos": 15, "label": "before"},
+{"tokens": ["But", "that", "was", "an", "extra", "2", "hours", "of", "my", "time", "-LRB-", "plus", "$", "30", "in", "cab", "rides", "-RRB-", "the", "day", "before", "my", "wedding", "that", "was", "completely", "wasted", "to", "''", "``", "fix", "''", "''", "a", "problem", "that", "was", "n't", "my", "fault", "in", "the", "first", "place", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

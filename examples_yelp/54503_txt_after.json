@@ -1,0 +1,3 @@
+[
+{"tokens": ["Poor", "Olivia", "-LRB-", "our", "guest", "of", "honor", "-RRB-", "finally", "got", "her", "food", "after", "most", "of", "us", "were", "about", "1\\/2", "way", "though", "with", "our", "cold", "steaks", "when", "her", "food", "arrived", "and", "John", "-LRB-", "Olivia", "'s", "dad", "-RRB-", "finally", "asked", "about", "his", "dinner", "salad", "which", "finally", "came", "at", "the", "end", "of", "his", "meal", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "were", "e2_pos": 16, "label": "after"}
+]

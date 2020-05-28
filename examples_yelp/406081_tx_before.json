@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "watched", "a", "table", "of", "8", "be", "seated", "after", "us", ",", "served", "their", "meal", ",", "and", "dessert", "before", "we", "got", "our", "food", "."], "e1_text": "dessert", "e1_pos": 16, "e2_text": "got", "e2_pos": 19, "label": "before"},
+{"tokens": ["I", "can", "not", "comment", "on", "the", "food", "because", "we", "ended", "up", "walking", "out", "-LRB-", "something", "I", "'ve", "never", "done", "before", "-RRB-", ",", "which", "is", "too", "bad", "b\\/c", "I", "guess", "it", "is", "suppose", "to", "be", "very", "good", "."], "e1_text": "comment", "e1_pos": 3, "e2_text": "'ve", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "second", "issue", "was", "that", "after", "only", "having", "the", "membership", "about", "2", "months", "they", "charged", "me", "for", "yearly", "maintenance", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "having", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "moved", "to", "California", "after", "losing", "my", "job", "this", "summer", "."], "e1_text": "moved", "e1_pos": 1, "e2_text": "losing", "e2_pos": 5, "label": "after"}
+]

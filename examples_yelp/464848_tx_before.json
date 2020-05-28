@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "dismal", ",", "drinks", "took", "30", "minutes", "to", "arrive", ",", "the", "chef", "arrived", "before", "soup", "and", "drinks", "were", "delivered", "to", "table", ",", "and", "honestly", "the", "food", "was", "not", "good", "."], "e1_text": "arrived", "e1_pos": 14, "e2_text": "were", "e2_pos": 19, "label": "before"}
+]

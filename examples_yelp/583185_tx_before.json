@@ -1,0 +1,4 @@
+[
+{"tokens": ["If", "you", "must", "see", "this", "rip", "off", "for", "yourself", ",", "buy", "your", "tickets", "online", "before", "you", "get", "there", "."], "e1_text": "buy", "e1_pos": 10, "e2_text": "get", "e2_pos": 16, "label": "before"},
+{"tokens": ["Personally", ",", "my", "kids", "were", "over", "zoo", "lights", "before", "we", "even", "stepped", "foot", "in", "the", "door", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "stepped", "e2_pos": 11, "label": "before"}
+]

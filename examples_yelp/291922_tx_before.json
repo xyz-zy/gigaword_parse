@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "preferred", "the", "set", "up", "before", "they", "were", "bought", "out", "."], "e1_text": "preferred", "e1_pos": 1, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["Unlike", "Smith", "'s", "they", "now", "charge", "tax", "on", "these", "items", "whereas", "they", "did", "not", "before", "."], "e1_text": "charge", "e1_pos": 5, "e2_text": "did", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "will", "now", "call", "and", "verify", "before", "I", "bother", "to", "waste", "my", "time", "going", "to", "the", "store", ",", "standing", "in", "line", "and", "then", "being", "told", "it", "'s", "not", "ready", "."], "e1_text": "call", "e1_pos": 3, "e2_text": "bother", "e2_pos": 8, "label": "before"}
+]

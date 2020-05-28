@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Some", "technicians", "do", "n't", "do", "that", "and", "it", "looks", "like", "they", "'re", "grown", "out", "immediately", "after", "getting", "them", "done", ".", "-RRB-"], "e1_text": "grown", "e1_pos": 13, "e2_text": "getting", "e2_pos": 17, "label": "after"}
+]

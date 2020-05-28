@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", ",", "Lisa", "R.", "from", "customer", "service", "who", "contacts", "everyone", ",", "last", "time", "you", "contacted", "me", "due", "to", "an", "unauthorized", "procedure", "at", "another", "Banfield", ",", "after", "you", "said", "to", "''", "``", "call", "us", "''", "''", "--", "your", "response", "was", "''", "``", "and", "exactly", "what", "do", "you", "want", "us", "to", "do", "about", "it", "?"], "e1_text": "contacted", "e1_pos": 14, "e2_text": "said", "e2_pos": 27, "label": "after"}
+]

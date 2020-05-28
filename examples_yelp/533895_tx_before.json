@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "Spaghetti", "Uni", "Tomato", "Cream", "-LRB-", "$", "26.95", "-RRB-", "-", "I", "could", "n't", "remember", "if", "I", "had", "ordered", "this", "before", "and", "I", "was", "dying", "to", "order", "this", "now", "."], "e1_text": "remember", "e1_pos": 13, "e2_text": "had", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "ca", "n't", "believe", "I", "forgot", "that", "I", "had", "eaten", "this", "before", "when", "it", "'s", "just", "so", "good", "and", "rich", "!"], "e1_text": "eaten", "e1_pos": 9, "e2_text": "'s", "e2_pos": 14, "label": "before"}
+]

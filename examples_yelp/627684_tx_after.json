@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "were", "lots", "of", "food", "crumbs", "under", "our", "table", ",", "specks", "of", "who", "knows", "what", "on", "my", "silverware", ",", "my", "seat", "was", "wet", "after", "being", "wiped", "down", "that", "I", "had", "to", "ask", "for", "a", "napkin", "to", "wipe", "it", "dry", ",", "and", "there", "was", "a", "used", "toothpick", "on", "one", "of", "the", "bar", "high", "tops", "where", "we", "were", "sitting", "at", "while", "waiting", "for", "our", "table", "."], "e1_text": "was", "e1_pos": 21, "e2_text": "being", "e2_pos": 24, "label": "after"}
+]

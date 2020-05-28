@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "finally", "put", "our", "name", "down", "after", "they", "told", "us", "it", "would", "be", "a", "wait", "of", "5-10", "minutes", "."], "e1_text": "put", "e1_pos": 2, "e2_text": "told", "e2_pos": 8, "label": "after"},
+{"tokens": ["We", "watched", "as", "people", "who", "came", "after", "us", "received", "their", "meals", "and", "people", "who", "came", "before", "us", "still", "waiting", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "received", "e2_pos": 8, "label": "after"}
+]

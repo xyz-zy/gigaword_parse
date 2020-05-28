@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "had", "a", "beautiful", "room", "with", "a", "beautiful", "bathroom", ",", "but", "the", "bathroom", "was", "so", "unpractical", "it", "was", "so", "tiresome", "having", "to", "do", "prep", "work", "every", "single", "day", "before", "we", "showered", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "showered", "e2_pos": 30, "label": "before"},
+{"tokens": ["When", "you", "call", "housekeeping", "or", "front", "desk", ",", "it", "takes", "forever", "for", "them", "to", "pick", "up", "the", "phone", "so", "often", "you", "'re", "stuck", "on", "the", "line", "for", "a", "good", "5", "minutes", "before", "someone", "picks", "up", "."], "e1_text": "stuck", "e1_pos": 22, "e2_text": "picks", "e2_pos": 33, "label": "before"}
+]

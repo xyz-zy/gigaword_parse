@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "cleaning", "staff", "apparently", "eats", "sunflower", "seeds", ",", "because", "they", "left", "them", "on", "the", "floor", "and", "after", "i", "asked", "again", "for", "them", "to", "vacuum", "the", "seeds", "were", "STILL", "THERE", "."], "e1_text": "eats", "e1_pos": 4, "e2_text": "asked", "e2_pos": 18, "label": "after"}
+]

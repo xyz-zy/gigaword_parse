@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "into", "this", "restaurant", "expecting", "this", ",", "but", "I", "was", "craving", "something", "different", "after", "eating", "mostly", "American", "dishes", "during", "my", "stay", "at", "THEhotel", "in", "Vegas", "."], "e1_text": "was", "e1_pos": 10, "e2_text": "eating", "e2_pos": 15, "label": "after"},
+{"tokens": ["I", "wanted", "to", "try", "their", "Shabu", "Shabu", "after", "seeing", "it", "advertised", "outside", "of", "their", "restaurant", "."], "e1_text": "try", "e1_pos": 3, "e2_text": "seeing", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Last", "time", "I", "was", "there", ",", "literally", "three", "people", "got", "any", "crab", "before", "the", "tray", "was", "empty", "once", "again", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "was", "e2_pos": 3, "label": "before"},
+{"tokens": ["Have", "fun", "waiting", "another", "20", "minutes", "before", "they", "bring", "out", "the", "next", "tray", ",", "only", "to", "see", "it", "all", "disappear", "to", "one", "or", "two", "tables", "."], "e1_text": "Have", "e1_pos": 0, "e2_text": "bring", "e2_pos": 8, "label": "before"}
+]

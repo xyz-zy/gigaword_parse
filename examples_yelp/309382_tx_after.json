@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "into", "Dr.", "Bartells", "office", "today", "to", "let", "him", "know", "I", "'d", "no", "longer", "be", "his", "patient", "after", "finding", "out", "that", "the", "hormone", "therapy", "he", "had", "me", "on", "was", "literally", "turning", "me", "into", "a", "man", "."], "e1_text": "be", "e1_pos": 15, "e2_text": "finding", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "found", "out", "after", "selling", "a", "second", "opinion", "and", "blood", "work", ",", "that", "I", "am", "post", "menopausal", "and", "have", "zero", "estrogen", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "selling", "e2_pos": 4, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["a", "few", "minutes", "later", "the", "manager", "approached", "the", "table", "and", "informed", "me", "they", "were", "out", "of", "the", "bacon", "-LRB-", "one", "would", "think", "they", "would", "know", "that", "before", "the", "meal", "was", "prepared", "and", "attempted", "to", "slide", "this", "past", "the", "diner", "-RRB-", "."], "e1_text": "know", "e1_pos": 24, "e2_text": "was", "e2_pos": 29, "label": "before"}
+]

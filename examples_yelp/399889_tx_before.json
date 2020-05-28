@@ -1,0 +1,3 @@
+[
+{"tokens": ["my", "friend", "lin", "was", "visiting", "me", "from", "albany", ",", "ny", "and", "after", "picking", "her", "up", "at", "the", "airport", ",", "we", "stopped", "by", "about", "6", "o'clock", ",", "before", "going", "to", "my", "home", "close", "by", "."], "e1_text": "stopped", "e1_pos": 20, "e2_text": "going", "e2_pos": 27, "label": "before"}
+]

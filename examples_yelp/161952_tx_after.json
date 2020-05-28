@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "is", "considering", "that", "the", "room", "that", "I", "got", "was", "supposedly", "a", "high", "floor", "corner", "suite", "after", "I", "paid", "$", "40", "to", "be", "upgraded", "to", "it", "-LRB-", "yeah", "I", "know", "after", "the", "horrible", "front", "desk", "experience", "I", "still", "had", "to", "pay", "for", "this", "-RRB-", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "paid", "e2_pos": 18, "label": "after"},
+{"tokens": ["Good", "thing", "they", "took", "out", "the", "resort", "fee", "after", "I", "complained", "about", "this", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "complained", "e2_pos": 10, "label": "after"}
+]

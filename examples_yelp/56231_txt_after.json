@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "disappeared", "and", "did", "not", "come", "back", "for", "10", "min", "after", "we", "started", "to", "eat", "and", "the", "cheese", "was", "in", "a", "bowl", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "started", "e2_pos": 12, "label": "after"},
+{"tokens": ["Oh", "and", "I", "had", "to", "ask", "him", "for", "more", "drinks", "even", "after", "we", "saw", "him", "look", "directly", "at", "the", "empty", "glasses", "."], "e1_text": "had", "e1_pos": 3, "e2_text": "saw", "e2_pos": 13, "label": "after"}
+]

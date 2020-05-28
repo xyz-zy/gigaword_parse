@@ -1,0 +1,3 @@
+[
+{"tokens": ["the", "only", "reason", "there", "are", "not", "5", "stars", "here", "is", "partially", "my", "own", "fault", ",", "I", "ordered", "the", "sweet", "potato", "fries", "but", "I", "had", "never", "had", "sweet", "potatoes", "before", ",", "I", "know", "now", "that", "I", "dont", "like", "them", "but", "the", "regular", "fries", "are", "very", "good", "."], "e1_text": "ordered", "e1_pos": 16, "e2_text": "fries", "e2_pos": 20, "label": "before"}
+]

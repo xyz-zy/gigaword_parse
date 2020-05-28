@@ -1,0 +1,4 @@
+[
+{"tokens": ["Holy", "God", ",", "I", "should", "have", "checked", "the", "reviews", "before", "eating", "here", "."], "e1_text": "checked", "e1_pos": 6, "e2_text": "eating", "e2_pos": 10, "label": "before"},
+{"tokens": ["In", "fact", ",", "I", "used", "to", "look", "forward", "to", "stopping", "in", "the", "mall", "with", "mom", "and", "brother", "to", "cheaply", "nibble", "on", "the", "toothpicked", "free", "samples", "of", "sweet", "&", "sour", "chicken", "before", "buying", "a", "plate", "and", "splitting", "it", "three-ways", "."], "e1_text": "nibble", "e1_pos": 19, "e2_text": "buying", "e2_pos": 31, "label": "before"}
+]

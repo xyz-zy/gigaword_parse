@@ -1,0 +1,4 @@
+[
+{"tokens": ["Funny", "thing", "is", "that", "right", "after", "I", "told", "him", "that", "I", "wanted", "the", "Rosa", "'s", "Rice", "Bowl", ",", "he", "went", "and", "put", "my", "order", "in", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "told", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "guests", "that", "were", "seated", "after", "me", "were", "pretty", "much", "done", "eating", "!"], "e1_text": "seated", "e1_pos": 4, "e2_text": "were", "e2_pos": 3, "label": "after"}
+]

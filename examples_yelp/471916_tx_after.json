@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "third", "was", "when", "our", "food", "came", "after", "what", "seemed", "like", "forever", "and", "the", "last", "time", "was", "for", "our", "check", "."], "e1_text": "came", "e1_pos": 6, "e2_text": "seemed", "e2_pos": 9, "label": "after"},
+{"tokens": ["Yeah", ",", "sure", ",", "it", "'s", "only", "64", "cents", "but", "after", "the", "experience", "we", "had", ",", "it", "was", "just", "the", "icing", "on", "top", "of", "the", "cake", "."], "e1_text": "'s", "e1_pos": 5, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "flatmate", "-LRB-", "who", "is", "male", "-RRB-", "is", "kind", "of", "odd", "and", "after", "the", "cheap", ",", "plastic", "handcuffs", "we", "bought", "him", "for", "his", "birthday", "-LRB-", "as", "a", "joke", "-RRB-", "broke", "he", "decided", "he", "wanted", "new", "ones", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "broke", "e2_pos": 29, "label": "after"}
+]

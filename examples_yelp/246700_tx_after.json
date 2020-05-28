@@ -1,0 +1,3 @@
+[
+{"tokens": ["you", "get", "set", "into", "a", "phone", "maze", ",", "sent", "to", "person", "after", "person", "who", "tell", "you", "the", "exact", "same", "thing", ",", "''", "``", "let", "me", "transfer", "you", "to", "someone", "who", "can", "help\\/the", "office", "''", "''", "and", "then", "you", "are", "back", "to", "someone", "else", "that", "ca", "n't", "help", "you", "."], "e1_text": "sent", "e1_pos": 8, "e2_text": "tell", "e2_pos": 14, "label": "after"}
+]

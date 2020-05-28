@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "get", "there", "and", "are", "seated", "right", "away", "-LRB-", "despite", "being", "a", "little", "late", "due", "to", "traffic", "-RRB-", "but", "our", "waiter", "knew", "nothing", "about", "the", "conversation", "that", "had", "taken", "place", "just", "30", "minutes", "before", "."], "e1_text": "knew", "e1_pos": 21, "e2_text": "had", "e2_pos": 27, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "girl", "who", "took", "my", "order", "over", "the", "phone", "was", "pleasant", ",", "however", "she", "did", "n't", "seem", "very", "knowledgeable", "and", "after", "I", "gave", "her", "my", "whole", "order", "she", "said", "''", "``", "Let", "me", "make", "sure", "we", "have", "everything", "you", "ordered", "...", "we", "'ve", "been", "running", "out", "of", "stuff", "a", "lot", "lately", "!", "''", "''"], "e1_text": "was", "e1_pos": 9, "e2_text": "gave", "e2_pos": 22, "label": "after"}
+]

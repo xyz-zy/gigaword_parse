@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "the", "hash", "before", "so", "I", "was", "not", "surprised", "at", "that", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "before"},
+{"tokens": ["Its", "apparent", "that", "they", "had", "been", "cooked", "earlier", "in", "the", "day", "and", "kept", "warm", "until", "needed", "and", "maybe", "kissed", "the", "flattop", "before", "serving", "."], "e1_text": "kissed", "e1_pos": 18, "e2_text": "serving", "e2_pos": 22, "label": "before"}
+]

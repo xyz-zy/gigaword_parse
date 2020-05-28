@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "my", "dish", "was", "larger", ",", "and", "the", "pork", "and", "mashed", "potatoes", "tasted", "good", ",", "it", "just", "did", "n't", "make", "our", "expectations", "after", "reading", "Yelp", "reviews", "."], "e1_text": "make", "e1_pos": 19, "e2_text": "reading", "e2_pos": 23, "label": "after"}
+]

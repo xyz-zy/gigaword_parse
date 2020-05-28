@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "dinner", "mates", "-LRB-", "a", "strapping", "teenager", "accustomed", "to", "eating", "just", "about", "anything", "and", "a", "grown", "man", "with", "a", "healthy", "appetite", "after", "working", "all", "afternoon", "on", "a", "farm", "-RRB-", "exhibited", "no", "interest", "in", "that", "dish", "and", "ultimately", "we", "sent", "that", "plate", "back", "."], "e1_text": "eating", "e1_pos": 9, "e2_text": "working", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Second", "drink", "cup", "is", "forgot", "after", "they", "ran", "out", "of", "the", "dispenser", ",", "after", "I", "remind", "him", "he", "gets", "a", "fresh", "stock", "of", "cups", "to", "replenish", "his", "dispenser", "but", "first", "takes", "his", "hand", ",", "fingers", "placed", "inside", "the", "cup", "and", "hand", "me", "one", "."], "e1_text": "forgot", "e1_pos": 4, "e2_text": "ran", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "will", "be", "back", "very", "soon", ",", "if", "anything", "just", "to", "see", "if", "changes", "are", "made", "after", "I", "voice", "my", "concerns", "."], "e1_text": "made", "e1_pos": 15, "e2_text": "voice", "e2_pos": 18, "label": "after"}
+]

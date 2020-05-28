@@ -1,0 +1,3 @@
+[
+{"tokens": ["Upon", "waiting", "in", "line", "for", "5", "minutes", "while", "the", "tattoo", "manager", "sat", "messing", "with", "bags", "and", "after", "we", "said", "hello", "how", "'s", "your", "night", "we", "were", "finally", "rung", "up", "."], "e1_text": "waiting", "e1_pos": 1, "e2_text": "said", "e2_pos": 18, "label": "after"}
+]

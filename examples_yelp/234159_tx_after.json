@@ -1,0 +1,4 @@
+[
+{"tokens": ["Did", "n't", "see", "her", "again", "and", "we", "left", "after", "paying", "some", "random", "employee", "."], "e1_text": "left", "e1_pos": 7, "e2_text": "paying", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "do", "n't", "like", "wondering", "if", "I", "'m", "going", "to", "get", "food", "poisoning", "after", "leaving", "a", "restaurant", "and", "the", "service", "was", "terrible", "."], "e1_text": "get", "e1_pos": 10, "e2_text": "leaving", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Do", "not", "go", "to", "Red", "Rock", "...", "staff", "there", "gave", "my", "room", "away", "and", "refused", "to", "get", "me", "another", "room", "when", "I", "arrived", "late", "after", "telling", "them", "I", "would", "arrive", "late", "."], "e1_text": "arrived", "e1_pos": 22, "e2_text": "telling", "e2_pos": 25, "label": "after"}
+]

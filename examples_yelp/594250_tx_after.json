@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "about", "30", "minutes", "another", "couple", "came", "in", "and", "were", "seated", "with", "us", "...", "about", "15", "mins", "after", "they", "sat", "down", "we", "finally", "got", "a", "chef", "."], "e1_text": "mins", "e1_pos": 16, "e2_text": "sat", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "'m", "so", "happy", "they", "serve", "it", "that", "even", "after", "waiting", "almost", "an", "hour", "for", "our", "chef", "to", "start", "cooking", ",", "I", "will", "most", "definitely", "be", "back", "to", "Ryu", "!!", "My", "husband", "had", "the", "steak", "and", "it", "was", "cooked", "perfectly", "."], "e1_text": "serve", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 10, "label": "after"}
+]

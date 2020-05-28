@@ -1,0 +1,3 @@
+[
+{"tokens": ["-LRB-", "Order", "that", "3", "separate", "times", "and", "screwed", "up", "every", "time", "even", "after", "we", "tried", "to", "tell", "him", "the", "correct", "recipe", "after", "the", "first", "time", "-RRB-", "."], "e1_text": "screwed", "e1_pos": 7, "e2_text": "tried", "e2_pos": 14, "label": "after"}
+]

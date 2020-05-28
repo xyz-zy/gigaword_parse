@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "feel", "so", "confident", "about", "her", "work", "that", "I", "do", "n't", "even", "need", "to", "check", "in", "the", "mirror", "after", "she", "does", "my", "touch", "up", "."], "e1_text": "check", "e1_pos": 14, "e2_text": "does", "e2_pos": 20, "label": "after"},
+{"tokens": ["It", "'s", "been", "almost", "a", "year", "since", "I", "'ve", "been", "getting", "my", "lashes", "and", "I", "do", "not", "even", "feel", "them", "-LRB-", "when", "i", "went", "to", "other", "places", ",", "my", "eyes", "felt", "uncomfortable", "after", "getting", "extensions", "-RRB-", "."], "e1_text": "felt", "e1_pos": 30, "e2_text": "getting", "e2_pos": 10, "label": "after"}
+]

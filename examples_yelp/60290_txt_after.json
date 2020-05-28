@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "pretty", "much", "perfect", "for", "me", "since", "I", "'ve", "only", "had", "sushi", "about", "10", "times", "so", "far", "after", "deciding", "I", "like", "it", "as", "an", "adult", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "deciding", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "'ve", "never", "felt", "belchy", "or", "gross", "after", "eating", "here", "3", "times", "-LRB-", "and", "none", "of", "those", "times", "having", "any", "idea", "what", "the", "hell", "I", "was", "eating", "-RRB-", "which", "is", "a", "pretty", "good", "mark", "for", "me", "."], "e1_text": "felt", "e1_pos": 3, "e2_text": "eating", "e2_pos": 8, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "went", "into", "Carmines", "after", "walking", "by", "it", "on", "our", "way", "to", "Trevi", "in", "the", "forum", "shops", "-LRB-", "which", "to", "start", "off", ",", "I", "would", "advise", "you", "to", "go", "there", "instead", "-RRB-", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "walking", "e2_pos": 5, "label": "after"},
+{"tokens": ["Needless", "to", "say", "after", "the", "4", "of", "us", "decided", "we", "were", "eating", "sh", "\\*", "t", ",", "we", "told", "the", "waitress", "and", "she", "immediately", "took", "our", "plates", "and", "the", "pasta", "away", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "decided", "e2_pos": 8, "label": "after"}
+]

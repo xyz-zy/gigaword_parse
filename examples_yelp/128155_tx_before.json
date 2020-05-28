@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "went", "during", "the", "week", "so", "it", "was", "n't", "that", "crowded", "...", "except", "the", "Michael", "Jackson", "figure", "had", "a", "line", "because", "each", "person", "was", "changing", "into", "Smooth", "Criminal", "costumes", "before", "taking", "their", "pictures", "."], "e1_text": "changing", "e1_pos": 24, "e2_text": "taking", "e2_pos": 30, "label": "before"},
+{"tokens": ["Or", "Google", "an", "offer", "online", "before", "you", "make", "the", "trip", "to", "Vegas", "."], "e1_text": "online", "e1_pos": 4, "e2_text": "make", "e2_pos": 7, "label": "before"}
+]

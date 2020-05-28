@@ -1,0 +1,3 @@
+[
+{"tokens": ["Sometimes", "you", "want", "to", "enter", "the", "store", "and", "look", "at", "something", "in", "person", "before", "you", "purchase", "it", ",", "you", "need", "to", "compare", "how", "it", "will", "rest", "on", "your", "shoulder", "or", "is", "that", "color", "you", "saw", "online", ",", "truly", "what", "you", "will", "get", "if", "you", "purchase", "the", "item", "."], "e1_text": "look", "e1_pos": 8, "e2_text": "purchase", "e2_pos": 15, "label": "before"}
+]

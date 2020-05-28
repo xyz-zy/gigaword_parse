@@ -1,0 +1,4 @@
+[
+{"tokens": ["Meanwhile", "back", "in", "the", "line", "...", "we", "stood", "there", "as", "everyone", "else", "that", "was", "in", "the", "line", "we", "were", "in", "before", "she", "summoned", "us", "to", "switch", "...", "got", "seated", "and", "served", ".", "."], "e1_text": "were", "e1_pos": 18, "e2_text": "summoned", "e2_pos": 22, "label": "before"},
+{"tokens": ["even", "people", "that", "came", "in", "behind", "us", "got", "in", "before", "we", "did", "."], "e1_text": "got", "e1_pos": 7, "e2_text": "did", "e2_pos": 11, "label": "before"}
+]

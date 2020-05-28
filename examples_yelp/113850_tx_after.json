@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "out", "Caffe", "Boa", "'s", "happy", "hour", "last", "night", "after", "hearing", "good", "things", "about", "it", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "hearing", "e2_pos": 11, "label": "after"},
+{"tokens": ["Anytime", "you", "can", "go", "someplace", "for", "happy", "hour", "and", "leave", "with", "a", "$", "16", "bill", "after", "ordering", "three", "glasses", "of", "wine", "and", "a", "bruchetta", "appetizer", ",", "you", "know", "it", "'s", "a", "good", "place", "."], "e1_text": "leave", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 16, "label": "after"}
+]

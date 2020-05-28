@@ -1,0 +1,3 @@
+[
+{"tokens": ["perhaps", "my", "mistake", "was", "that", "I", "went", "there", "with", "my", "wife", "on", "a", "''", "``", "date", "''", "''", "we", "both", "love", "pizza", "and", "I", "just", "know", "that", "if", "I", "had", "taken", "her", "to", "Bianco", "she", "would", "have", "been", "happy", ",", "but", "after", "this", "place", "she", "hardly", "wanted", "to", "go", "for", "dates", "anymore", "."], "e1_text": "went", "e1_pos": 6, "e2_text": "place", "e2_pos": 43, "label": "after"}
+]

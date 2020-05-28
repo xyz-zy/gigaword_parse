@@ -1,0 +1,3 @@
+[
+{"tokens": ["1", "-RRB-", "we", "politely", "flagged", "her", "down", "after", "she", "did", "not", "acknowledge", "us", "as", "she", "passed", "by", "our", "table", "more", "than", "a", "dozen", "times", "to", "give", "all", "of", "her", "attention", "and", "flirt", "with", "a", "table", "of", "gents", "-LRB-", "no", "biggie", ",", "flirt", "away", ",", "just", "do", "n't", "ignore", "and", "be", "rude", "to", "all", "your", "other", "tables", "-RRB-", "."], "e1_text": "flagged", "e1_pos": 4, "e2_text": "did", "e2_pos": 9, "label": "after"}
+]

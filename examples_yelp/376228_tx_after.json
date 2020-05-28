@@ -1,0 +1,4 @@
+[
+{"tokens": ["However", ",", "our", "most", "recent", "visit", "ended", "in", "disaster", "after", "we", "had", "encountered", "...", "BED", "BUGS", "-LRB-", "or", "it", "could", "be", "some", "other", "type", "of", "bugs", "-RRB-", "."], "e1_text": "ended", "e1_pos": 6, "e2_text": "had", "e2_pos": 11, "label": "after"},
+{"tokens": ["Once", "we", "called", ",", "they", "came", "after", "almost", "an", "hour", "wait", "and", "we", "had", "to", "wait", "for", "another", "half", "hour", "or", "so", "waiting", "for", "them", "to", "finish", "."], "e1_text": "came", "e1_pos": 5, "e2_text": "wait", "e2_pos": 10, "label": "after"}
+]

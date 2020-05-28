@@ -1,0 +1,4 @@
+[
+{"tokens": ["No", "one", "came", "over", "after", "our", "plates", "were", "dropped", "off", ",", "not", "once", ",", "to", "check", "up", "on", "us", "until", "we", "were", "both", "essentially", "done", "with", "our", "meals", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "after"},
+{"tokens": ["When", "our", "waitress", "finally", "did", "come", "over", ",", "after", "we", "had", "both", "finished", ",", "I", "expressed", "my", "feelings", "and", "voiced", "my", "complaints", "and", "my", "meal", "was", "totally", "comped", "."], "e1_text": "come", "e1_pos": 5, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

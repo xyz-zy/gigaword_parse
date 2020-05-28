@@ -1,0 +1,3 @@
+[
+{"tokens": ["--", "most", "staff", "are", "speaking", "the", "etiquette", ",", "but", "their", "actions", "and", "the", "details", "are", "missing", "-LRB-", "see", "below", "-RRB-", ";", "SERVICE", "DETAIL", "--", "I", "do", "n't", "want", "to", "know", "our", "server", "'s", "name", ",", "and", "I", "especially", "do", "n't", "want", "his", "business", "card", "placed", "in", "front", "of", "me", "before", "I", "leave", "."], "e1_text": "placed", "e1_pos": 44, "e2_text": "leave", "e2_pos": 51, "label": "before"}
+]

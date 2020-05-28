@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "asked", "our", "server", "politely", "for", "refill", "of", "water", "and", "after", "the", "third", "time", "he", "finally", "got", "us", "a", "refill", "but", "he", "took", "our", "cups", "from", "our", "table", "and", "brought", "them", "to", "the", "kitchen", "and", "can", "back", "with", "our", "refills", "but", "before", "coming", "back", "to", "drop", "off", "our", "water", "he", "stopped", "at", "the", "computer", "to", "place", "another", "party", "'s", "order", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "got", "e2_pos": 16, "label": "after"}
+]

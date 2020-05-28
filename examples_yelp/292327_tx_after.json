@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "also", "became", "evident", "after", "waiting", "twenty", "minutes", "for", "any", "kind", "of", "service", "whatsoever", ",", "that", "this", "establishment", "was", "extremely", "under", "staffed", "."], "e1_text": "became", "e1_pos": 2, "e2_text": "waiting", "e2_pos": 5, "label": "after"},
+{"tokens": ["I", "'m", "convinced", "if", "these", "were", "served", "immediately", "after", "preparation", "had", "been", "completed", "I", "would", "have", "had", "absolutely", "no", "complaints", "whatsoever", "."], "e1_text": "served", "e1_pos": 6, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "for", "a", "late", "lunch", "with", "a", "friend", "who", "had", "frequented", "them", "in", "the", "past", "before", "they", "changed", "to", "BBQ", "."], "e1_text": "frequented", "e1_pos": 11, "e2_text": "changed", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "was", "less", "than", "30", "minutes", "before", "closing", "which", "we", "were", "not", "aware", "of", "until", "we", "left", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "closing", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Also", "they", "canceled", "the", "flight", "after", "they", "delayed", "it", "for", "2", "and", "half", "hours", "."], "e1_text": "canceled", "e1_pos": 2, "e2_text": "delayed", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "added", "a", "star", "because", "I", "try", "to", "think", "positively", "that", "we", "had", "a", "few", "extra", "hours", "to", "see", "more", "in", "LV", "after", "we", "went", "through", "all", "of", "this", "incident", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "went", "e2_pos": 24, "label": "after"}
+]

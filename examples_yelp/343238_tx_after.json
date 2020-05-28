@@ -1,0 +1,4 @@
+[
+{"tokens": ["you", "got", "a", "regular", "patron", "drunk", "at", "the", "bar", "bothering", "everyone", "who", "will", "listen", "and", "not", "only", "are", "the", "bartender", "and", "the", "manager", "still", "serving", "him", "but", "he", "'s", "going", "to", "drive", "home", "after", "you", "keep", "serving", "him", ",", "really", "?"], "e1_text": "drive", "e1_pos": 31, "e2_text": "keep", "e2_pos": 35, "label": "after"},
+{"tokens": ["Simply", "made", "us", "go", "elsewhere", "after", "we", "ate", "."], "e1_text": "go", "e1_pos": 3, "e2_text": "ate", "e2_pos": 7, "label": "after"}
+]

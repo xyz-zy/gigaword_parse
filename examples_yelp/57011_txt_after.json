@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "never", "called", "by", "the", "manager", "to", "reschedule", "my", "manicure", "...", "I", "finally", "tried", "calling", "Ulta", "again", "after", "waiting", "a", "week", ",", "and", "was", "able", "to", "make", "an", "appointment", "to", "get", "my", "nails", "redone", "."], "e1_text": "calling", "e1_pos": 15, "e2_text": "waiting", "e2_pos": 19, "label": "after"}
+]

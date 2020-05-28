@@ -1,0 +1,4 @@
+[
+{"tokens": ["Vinegar", "and", "oil", "were", "promptly", "poured", ",", "but", "I", "had", "to", "ask", "for", "butter", "THREE", "times", "before", "any", "was", "brought", "to", "the", "table", "."], "e1_text": "ask", "e1_pos": 11, "e2_text": "was", "e2_pos": 18, "label": "before"},
+{"tokens": ["It", "was", "around", "an", "hour", "of", "dead", "time", "before", "the", "entrees", "were", "at", "last", "brought", "to", "us", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "were", "e2_pos": 11, "label": "before"}
+]

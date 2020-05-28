@@ -1,0 +1,4 @@
+[
+{"tokens": ["When", "we", "checked", "in", "at", "the", "desk", "on", "the", "Casino", "floor", "before", "going", "up", "to", "the", "restaurant", ",", "the", "man", "at", "the", "desk", "asked", "for", "our", "name", "and", "asked", "what", "time", "our", "reservations", "were", "for", "."], "e1_text": "checked", "e1_pos": 2, "e2_text": "going", "e2_pos": 12, "label": "before"},
+{"tokens": ["Luckily", "once", "we", "ordered", "our", "drinks", ",", "they", "arrived", "fairly", "quickly", "and", "we", "were", "able", "to", "have", "one", "drink", "before", "our", "table", "was", "ready", "."], "e1_text": "have", "e1_pos": 16, "e2_text": "was", "e2_pos": 22, "label": "before"}
+]

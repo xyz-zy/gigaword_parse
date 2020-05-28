@@ -1,0 +1,5 @@
+[
+{"tokens": ["My", "hotel", ",", "which", "served", "complimentary", "continental", "breakfast", ",", "was", "actually", "able", "to", "tide", "me", "over", "for", "the", "days", "staying", "in", "AZ", ",", "so", "I", "did", "n't", "really", "have", "to", "go", "out", "and", "eat", "very", "often", ",", "however", ",", "I", "got", "sick", "of", "it", "after", "awhile", ",", "so", "I", "thought", "it", "'d", "be", "really", "cool", "to", "go", "out", "and", "get", "something", "worth", "my", "while", "before", "flying", "back", "out", "."], "e1_text": "get", "e1_pos": 59, "e2_text": "flying", "e2_pos": 65, "label": "before"},
+{"tokens": ["I", "waited", "about", "5", "minutes", "before", "the", "server", "came", "by", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "came", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "intentionally", "paid", "my", "bill", "before", "providing", "feedback", "."], "e1_text": "paid", "e1_pos": 2, "e2_text": "providing", "e2_pos": 6, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "I", "ate", "at", "the", "cafe", "vettro", "for", "breakfast", "before", "I", "had", "to", "go", "to", "work", "and", "it", "took", "FOREVER", "to", "take", "our", "order", ",", "get", "our", "drink", ",", "and", "bring", "our", "food", "."], "e1_text": "ate", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

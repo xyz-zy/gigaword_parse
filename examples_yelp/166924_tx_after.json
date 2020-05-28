@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "off", "I", "got", "food", "poisoning", "at", "the", "buffet", "and", "was", "stuck", "in", "my", "room", "from", "shortly", "after", "I", "checked", "in", "at", "noon", ",", "until", "it", "was", "time", "to", "check", "out", "the", "following", "morning", "."], "e1_text": "stuck", "e1_pos": 11, "e2_text": "checked", "e2_pos": 19, "label": "after"}
+]

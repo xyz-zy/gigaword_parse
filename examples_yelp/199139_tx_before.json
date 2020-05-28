@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "spotty", ",", "with", "us", "waiting", "for", "long", "periods", "of", "time", "to", "order", "...", "so", "much", "so", "that", "although", "we", "got", "there", "at", "5", "and", "HH", "is", "over", "at", "6", "we", "could", "only", "order", "one", "round", "of", "drinks", "before", "it", "was", "over", "."], "e1_text": "order", "e1_pos": 35, "e2_text": "was", "e2_pos": 2, "label": "before"}
+]

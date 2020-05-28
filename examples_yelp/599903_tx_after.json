@@ -1,0 +1,4 @@
+[
+{"tokens": ["1st", "she", "filed", "them", "done", "with", "a", "drill", "even", "after", "telling", "her", "it", "was", "regular", "polish", ".", "."], "e1_text": "filed", "e1_pos": 2, "e2_text": "was", "e2_pos": 13, "label": "after"},
+{"tokens": ["Then", "she", "soaked", "my", "toenails", "in", "acetone", "after", "I", "told", "her", "it", "was", "regular", "polish", "again", "."], "e1_text": "soaked", "e1_pos": 2, "e2_text": "told", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Like", ",", "he", "has", "never", "SEEN", "15", "people", "all", "together", "at", "one", "time", "before", ",", "ASTOUNDED", "."], "e1_text": "SEEN", "e1_pos": 5, "e2_text": "ASTOUNDED", "e2_pos": 15, "label": "before"},
+{"tokens": ["There", "'s", "a", "large", "table", "down", "the", "middle", "of", "the", "restaurant", "that", "'s", "just", "the", "right", "size", "for", "our", "party", ",", "which", "was", "completely", "empty", ",", "until", "you", "sat", "two", "people", "in", "the", "middle", "of", "it", ",", "like", ",", "4", "seconds", "before", "we", "were", "greeted", ",", "could", "they", "potentially", "sit", "somewhere", "else", "?"], "e1_text": "sat", "e1_pos": 28, "e2_text": "were", "e2_pos": 43, "label": "before"}
+]

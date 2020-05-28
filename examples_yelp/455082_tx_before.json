@@ -1,0 +1,5 @@
+[
+{"tokens": ["The", "people", "next", "to", "my", "table", "sent", "a", "burger", "back", "two", "times", "before", "it", "was", "medium", "well", "as", "requested", "by", "the", "lady", "."], "e1_text": "sent", "e1_pos": 6, "e2_text": "was", "e2_pos": 14, "label": "before"},
+{"tokens": ["The", "bill", "was", "dropped", "off", "before", "the", "dessert", "arrived", ",", "three", "people", "hovered", "six", "times", "to", "see", "if", "the", "bill", "was", "signed", "while", "eating", "dessert", "."], "e1_text": "dropped", "e1_pos": 3, "e2_text": "arrived", "e2_pos": 8, "label": "before"},
+{"tokens": ["A", "seriously", "poor", "execution", "...", "and", "the", "place", "was", "at", "about", "20", "%", "capacity", ",", "plenty", "of", "staff", "awaiting", "a", "dinner", "rush", "...", "they", "should", "be", "in", "a", "training", "refresher", "meeting", "before", "the", "rush", "hit", "."], "e1_text": "be", "e1_pos": 25, "e2_text": "hit", "e2_pos": 34, "label": "before"}
+]

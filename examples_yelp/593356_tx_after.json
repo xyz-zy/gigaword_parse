@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "we", "get", "to", "our", "seats", "rather", "quickly", ",", "which", "is", "always", "nice", "especially", "after", "standing", "for", "about", "30", "mins", ",", "BUT", "the", "show", "did", "n't", "start", "until", "11:45", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "standing", "e2_pos": 15, "label": "after"},
+{"tokens": ["You", "would", "of", "thought", "the", "show", "would", "had", "started", "at", "least", "10", "mins", "after", "they", "had", "us", "waiting", "outside", "!"], "e1_text": "started", "e1_pos": 8, "e2_text": "had", "e2_pos": 7, "label": "after"}
+]

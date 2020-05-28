@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "were", "seated", ",", "a", "bus", "boy", "came", "to", "offer", "water\\/tea\\/coffee", "and", "we", "got", "water", "and", "coffee", ";", "then", "we", "waited", "for", "another", "15min", "before", "we", "were", "able", "to", "spot", "our", "server", "to", "take", "our", "orders", ",", "other", "tables", "who", "got", "seated", "after", "us", "had", "already", "ordered", "-LRB-", "ridiculous", "-RRB-", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "had", "e2_pos": 45, "label": "after"}
+]

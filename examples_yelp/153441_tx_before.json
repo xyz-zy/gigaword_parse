@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "lights", "in", "the", "bathroom", "flicker", "for", "about", "5", "seconds", "before", "they", "turn", "on", "-", "which", "does", "n't", "sound", "long", ",", "but", "feels", "every", "bit", "of", "10", "seconds", "."], "e1_text": "flicker", "e1_pos": 5, "e2_text": "turn", "e2_pos": 12, "label": "before"}
+]

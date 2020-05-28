@@ -1,0 +1,4 @@
+[
+{"tokens": ["mild", "just", "lacks", "character", "and", "that", "extra", "oomph", ",", "it", "also", "turns", "out", "to", "be", "too", "salty", "NOW", "...", "on", "to", "the", "other", "stuff", "...", "there", "are", "a", "few", "things", "u", "have", "to", "understand", "before", "u", "go", "to", "the", "oyster", "BAR", "."], "e1_text": "understand", "e1_pos": 33, "e2_text": "go", "e2_pos": 36, "label": "before"},
+{"tokens": ["know", "all", "this", "info", "and", "be", "prepared", "to", "accept", "it", "before", "u", "go", ",", "otherwise", "just", "do", "n't", "bother", "."], "e1_text": "accept", "e1_pos": 8, "e2_text": "go", "e2_pos": 12, "label": "before"}
+]

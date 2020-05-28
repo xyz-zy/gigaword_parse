@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "a", "5-star", "experience", "because", ":", "parmesan", "and", "oregano", "were", "brought", "out", "after", "a", "whole", "pizza", "was", "already", "eaten", ",", "staff", "looked", "really", "tired\\/disgruntled", "when", "they", "walked", "around", ",", "and", "the", "bathroom", "was", "pretty", "dirty", "with", "towels", "all", "over", "the", "floor", "."], "e1_text": "brought", "e1_pos": 10, "e2_text": "was", "e2_pos": 16, "label": "after"}
+]

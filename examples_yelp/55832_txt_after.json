@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "let", "the", "subtle", "dig", "go", "and", "were", "ready", "to", "give", "him", "a", "good", "tip", "after", "providing", "good", "service", "otherwise", ",", "when", "after", "asking", "for", "separate", "checks", "-LRB-", "for", "two", "couples", "-RRB-", ",", "we", "were", "told", "by", "Zlatko", ",", "''", "``", "it", "would", "have", "been", "nice", "if", "you", "told", "me", "that", "in", "the", "beginning", ".", "''", "''"], "e1_text": "give", "e1_pos": 10, "e2_text": "providing", "e2_pos": 16, "label": "after"},
+{"tokens": ["-LRB-", "Note", ":", "this", "is", "after", "we", "spent", "over", "$", "200", "on", "our", "meal", "-RRB-", "."], "e1_text": "is", "e1_pos": 4, "e2_text": "spent", "e2_pos": 7, "label": "after"}
+]

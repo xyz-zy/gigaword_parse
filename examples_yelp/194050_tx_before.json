@@ -1,0 +1,3 @@
+[
+{"tokens": ["Let", "'s", "start", "with", "the", "positives", ":", "1", "-RRB-", "The", "stage", "is", "circular", "and", "everyone", "has", "a", "good", "seat", "2", "-RRB-", "The", "show", "is", "short", "so", "it", "'s", "done", "just", "before", "you", "fall", "asleep", "3", "-RRB-", "The", "performers", "are", "truly", "talented", "Now", "the", "not-so-positives", ":", "1", "-RRB-", "The", "show", "has", "so", "much", "happening", "at", "once", "but", "is", "so", "boring", "at", "the", "same", "time", "2", "-RRB-", "The", "show", "is", "not", "visually", "pleasing", "."], "e1_text": "done", "e1_pos": 28, "e2_text": "fall", "e2_pos": 32, "label": "before"}
+]

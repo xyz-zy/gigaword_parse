@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "suppose", "I", "was", "spoiled", "by", "the", "selection", "I", "had", "in", "the", "liquor", "stores", "in", "Atlanta", "before", "I", "moved", "up", "here", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "moved", "e2_pos": 18, "label": "before"},
+{"tokens": ["Most", "businessmen", "are", "greedy", "fuckers", "who", "only", "care", "about", "money", ",", "but", "at", "least", "the", "worst", "ones", "eventually", "go", "out", "of", "business", "-LRB-", "unless", "they", "'re", "getting", "government", "help", "like", "GM", ",", "AIG", ",", "and", "all", "the", "businesses", "W.", "ran", "before", "becoming", "President", ".", "-RRB-"], "e1_text": "ran", "e1_pos": 39, "e2_text": "becoming", "e2_pos": 41, "label": "before"}
+]

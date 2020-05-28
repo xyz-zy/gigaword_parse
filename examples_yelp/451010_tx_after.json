@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "did", "not", "know", "what", "to", "really", "expect", "after", "looking", "at", "the", "menu", "online", "."], "e1_text": "expect", "e1_pos": 7, "e2_text": "looking", "e2_pos": 9, "label": "after"},
+{"tokens": ["The", "price", "was", "a", "bit", "more", "then", "I", "thought", "it", "was", "going", "to", "be", "but", "it", "was", "well", "spent", "after", "trying", "the", "food", "and", "the", "great", "service", "."], "e1_text": "spent", "e1_pos": 18, "e2_text": "trying", "e2_pos": 20, "label": "after"}
+]

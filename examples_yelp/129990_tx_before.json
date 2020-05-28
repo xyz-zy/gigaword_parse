@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "floors", "were", "stained", "and", "the", "water", "from", "the", "shower", "stayed", "hot", "for", "approximately", "5", "minutes", "before", "it", "became", "almost", "completely", "freezing", "."], "e1_text": "stayed", "e1_pos": 10, "e2_text": "became", "e2_pos": 18, "label": "before"}
+]

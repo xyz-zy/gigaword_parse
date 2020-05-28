@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "slightly", "leery", "about", "renting", "a", "car", "after", "reading", "some", "of", "the", "reviews", "."], "e1_text": "renting", "e1_pos": 5, "e2_text": "reading", "e2_pos": 9, "label": "after"},
+{"tokens": ["Since", "I", "had", "to", "catch", "a", "flight", "immediately", "after", "returning", "my", "rental", ",", "they", "gave", "me", "2", "options", ":", "-LRB-", "1", "-RRB-", "Call", "earlier", "that", "day", "and", "schedule", "someone", "to", "drive", "me", "to", "Skytrain", "for", "free", ",", "-LRB-", "2", "-RRB-", "Call", "10", "minutes", "beforehand", "and", "they", "arrange", "to", "have", "a", "taxi", "waiting", "."], "e1_text": "catch", "e1_pos": 4, "e2_text": "returning", "e2_pos": 9, "label": "after"}
+]

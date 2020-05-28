@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "wife", "at", "that", "table", "got", "her", "burger", "long", "before", "her", "husband", "did", ",", "but", "the", "GM", "came", "by", "and", "said", "he", "was", "comping", "the", "man", "'s", "burger", "."], "e1_text": "got", "e1_pos": 5, "e2_text": "did", "e2_pos": 12, "label": "before"}
+]

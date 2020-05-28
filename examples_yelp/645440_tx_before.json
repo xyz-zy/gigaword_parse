@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "for", "my", "appointment", "5", "minutes", "early", "and", "waited", "a", "total", "of", "65", "minutes", "--", "at", "noon", "--", "before", "being", "escorted", "back", "to", "an", "examining", "room", "where", "I", "was", "told", "the", "doctor", "would", "be", "''", "``", "right", "in", ".", "''", "''"], "e1_text": "waited", "e1_pos": 9, "e2_text": "being", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["-", "Employees", "whom", "you", "have", "never", "met", "before", "turn", "there", "back", "on", "you", ",", "and", "when", "you", "quicken", "your", "step", "and", "say", "''", "``", "Excuse", "me", ",", "could", "I", "ask", "a", "question", "''", "''", "for", "just", "being", "pointed", "the", "right", "direction", ",", "not", "ten", "feet", "in", "front", "of", "you", "turn", "down", "an", "isle", "and", "out", "of", "sight", "."], "e1_text": "met", "e1_pos": 6, "e2_text": "turn", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "one", "of", "Ice", "Pan", "'s", "BIGGEST", "advocates", "when", "they", "were", "located", "in", "West", "Hollywood", ",", "so", "I", "was", "extremely", "excited", "to", "be", "reunited", "with", "the", "ice", "cream", "I", "missed", "so", "much", "after", "they", "decided", "to", "close", "shop", "for", "''", "``", "remodeling", "''", "''", "."], "e1_text": "missed", "e1_pos": 30, "e2_text": "decided", "e2_pos": 35, "label": "after"},
+{"tokens": ["-LRB-", "You", "used", "to", "be", "able", "to", "receive", "a", "free", "Ice", "Pan", "after", "you", "purchased", "ten", "-RRB-", "."], "e1_text": "receive", "e1_pos": 7, "e2_text": "purchased", "e2_pos": 14, "label": "after"}
+]

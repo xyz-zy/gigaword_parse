@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "looked", "at", "it", "after", "they", "washed", "and", "it", "was", "ok", "--", "nothing", "I", "could", "n't", "do", "myself", "or", "nothing", "that", "could", "n't", "have", "been", "accomplished", "by", "taking", "it", "through", "a", "drive-thru", "car", "wash", "at", "a", "gas", "station", "."], "e1_text": "looked", "e1_pos": 1, "e2_text": "washed", "e2_pos": 6, "label": "after"}
+]

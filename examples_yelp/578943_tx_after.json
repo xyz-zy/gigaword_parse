@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "first", "drinks", "took", "a", "while", "to", "get", "to", "us", ",", "and", "she", "did", "n't", "take", "our", "order", "until", "wayyyy", "after", "our", "drinks", "were", "delivered", ",", "despite", "the", "numerous", "attempts", "at", "eye", "contact", "."], "e1_text": "take", "e1_pos": 15, "e2_text": "were", "e2_pos": 23, "label": "after"},
+{"tokens": ["Well", "that", "explains", "why", "it", "took", "forever", "to", "get", "either", "round", "of", "drinks", "...", "the", "waitress", "was", "n't", "putting", "them", "in", "the", "computer", "after", "I", "ordered", "them", "."], "e1_text": "putting", "e1_pos": 18, "e2_text": "ordered", "e2_pos": 25, "label": "after"}
+]

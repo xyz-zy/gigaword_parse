@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "reason", "I", "knew", "it", "was", "missing", "all", "that", "amenities", "because", "they", "gave", "us", "another", "room", "after", "complaining", "that", "housekeeping", "had", "given", "us", "four", "visits", "already", "and", "it", "was", "still", "missing", "items", "so", "the", "hotel", "put", "us", "in", "another", "similar", "room", "that", "was", "nicer", "and", "included", "those", "amenities", "."], "e1_text": "gave", "e1_pos": 12, "e2_text": "complaining", "e2_pos": 17, "label": "after"}
+]

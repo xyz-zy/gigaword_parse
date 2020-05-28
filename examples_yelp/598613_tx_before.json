@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "could", "only", "handle", "living", "at", "this", "place", "for", "four", "months", "before", "I", "decided", "to", "move", "out", "."], "e1_text": "handle", "e1_pos": 3, "e2_text": "decided", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "had", "mold", "in", "my", "apartment", "that", "no", "one", "would", "come", "fix", "for", "a", "month", "and", "a", "half", ",", "and", "it", "took", "me", "to", "hire", "an", "outside", "inspection", "company", "to", "test", "the", "mold", ",", "before", "they", "eventually", "did", "anything", "about", "it", "."], "e1_text": "took", "e1_pos": 21, "e2_text": "did", "e2_pos": 37, "label": "before"}
+]

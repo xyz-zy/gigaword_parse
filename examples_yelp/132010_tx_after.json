@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "first", "lady", "must", "have", "fallen", "asleep", "once", "inside", "the", "car", "because", "there", "was", "no", "movement", "and", "no", "tail", "lights", "after", "the", "door", "closed", "."], "e1_text": "was", "e1_pos": 13, "e2_text": "closed", "e2_pos": 23, "label": "after"}
+]

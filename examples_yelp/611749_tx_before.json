@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "'ve", "been", "to", "all", "the", "other", "major", "bingo", "halls", "around", "Phoenix", "but", "this", "one", "had", "different", "games", "and", "drawings", "taking", "place", "that", "we", "had", "never", "seen", "before", "."], "e1_text": "had", "e1_pos": 15, "e2_text": "had", "e2_pos": 15, "label": "before"},
+{"tokens": ["We", "were", "told", "-LRB-", "not", "politely", "-RRB-", "to", "dump", "out", "or", "chug", "our", "beers", "that", "we", "took", "from", "our", "room", "before", "entering", "the", "casino", "floor", "."], "e1_text": "took", "e1_pos": 16, "e2_text": "entering", "e2_pos": 21, "label": "before"}
+]

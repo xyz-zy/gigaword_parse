@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "first", "course", "of", "small", "plates", "came", "out", "there", "there", "was", "a", "15", "minute", "gap", "after", "we", "were", "done", "with", "our", "first", "plates", "before", "the", "second", "plates", "came", "out", "."], "e1_text": "done", "e1_pos": 18, "e2_text": "came", "e2_pos": 6, "label": "before"},
+{"tokens": ["Then", "once", "the", "second", "round", "arrived", "we", "were", "not", "more", "than", "one", "or", "two", "bites", "in", "before", "our", "third", "course", "hit", "the", "table", "."], "e1_text": "bites", "e1_pos": 14, "e2_text": "hit", "e2_pos": 20, "label": "before"}
+]

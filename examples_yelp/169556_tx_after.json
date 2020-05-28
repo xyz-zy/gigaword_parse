@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "booked", "a", "pet", "room", "as", "I", "was", "traveling", "with", "my", "dog", "and", "after", "checking", "in", "and", "dropping", "all", "my", "stuff", "off", "in", "the", "room", "I", "went", "in", "search", "of", "a", "place", "to", "take", "my", "dog", "so", "he", "could", "''", "``", "do", "his", "business", "''", "''", "."], "e1_text": "booked", "e1_pos": 2, "e2_text": "do", "e2_pos": 42, "label": "after"}
+]

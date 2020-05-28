@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ended", "up", "ordering", "a", "cheese", "omelet", "after", "verifying", "they", "did", "not", "put", "pancake", "batter", "in", "their", "eggs", "."], "e1_text": "ordering", "e1_pos": 3, "e2_text": "verifying", "e2_pos": 8, "label": "after"},
+{"tokens": ["I", "did", "n't", "end", "up", "sick", "after", "eating", "there", "but", "I", "was", "n't", "impressed", "with", "it", "enough", "for", "the", "$", "25", "bill", "."], "e1_text": "end", "e1_pos": 3, "e2_text": "eating", "e2_pos": 7, "label": "after"}
+]

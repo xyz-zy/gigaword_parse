@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "visited", "your", "drive", "thru", "on", "Friday", "1\\/2\\/2015", "@", "7:40", "pm", "and", "the", "young", "boy", "was", "rude", "and", "did", "n't", "respond", "to", "our", "conversation", "with", "him", "and", "after", "we", "ordered", "$", "30.57", "worth", "of", "Taco", "Bell", "we", "did", "not", "receive", "our", "4", "crunchy", "tacos", "and", "cheese", "sauce", "for", "our", "nachos", "."], "e1_text": "visited", "e1_pos": 1, "e2_text": "ordered", "e2_pos": 29, "label": "after"}
+]

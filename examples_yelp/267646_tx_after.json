@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "'s", "possible", "that", "the", "item", "I", "ordered", ",", "the", "Beef", "Curry", ",", "is", "simply", "one", "of", "their", "weaknesses", "-LRB-", "however", ",", "after", "looking", "over", "some", "of", "the", "other", "reviews", ",", "it", "seems", "that", "the", "problems", "I", "had", "with", "the", "food", "were", "the", "same", "problems", "others", "wrote", "about", ",", "so", "...", "-RRB-", ":", "basically", ",", "the", "problem", "is", "the", "food", "was", "bland", "."], "e1_text": "'s", "e1_pos": 1, "e2_text": "looking", "e2_pos": 23, "label": "after"}
+]

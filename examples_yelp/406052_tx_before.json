@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "went", "with", "a", "friend", "who", "had", "been", "before", "so", "that", "'s", "how", "i", "knew", "which", "way", "to", "go", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "had", "e2_pos": 6, "label": "before"},
+{"tokens": ["also", ",", "no", "water", "fountains", "and", "bathrooms", "in", "sight", "so", "take", "care", "of", "all", "that", "before", "you", "go", "!"], "e1_text": "take", "e1_pos": 10, "e2_text": "go", "e2_pos": 17, "label": "before"}
+]

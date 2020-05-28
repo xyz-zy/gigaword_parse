@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ordered", "food", "20", "minutes", "after", "we", "got", "here", "...", "still", "no", "food", ",", "on", "a", "Tuesday", ",", "gwith", "20", "%", "occupancy", "!!!", "Do", "n't", "get", "me", "wrong", ",", "they", "definitely", "deliver", "on", "the", "''", "``", "cocktail", "''", "''", "portion", "of", "their", "name", ",", "but", "not", "the", "''", "``", "kitchen", ".", "''", "''"], "e1_text": "ordered", "e1_pos": 1, "e2_text": "got", "e2_pos": 7, "label": "after"}
+]

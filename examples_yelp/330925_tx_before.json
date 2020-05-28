@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "think", "this", "fact", "may", "have", "been", "explained", "to", "us", ",", "but", "as", "none", "of", "us", "in", "the", "group", "speak", "french", ",", "there", "were", "several", "minutes", "of", "waiting", "for", "a", "waitress", "that", "never", "came", ",", "before", "approaching", "the", "counter", "to", "order", "and", "take", "our", "food", "back", "to", "our", "table", "."], "e1_text": "were", "e1_pos": 23, "e2_text": "waiting", "e2_pos": 27, "label": "before"}
+]

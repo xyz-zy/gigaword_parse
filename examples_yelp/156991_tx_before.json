@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "bar", "sends", "a", "negative", "impression", "before", "you", "even", "order", ",", "with", "a", "rude", "staff", "and", "...", "let", "'s", "call", "it", "''", "``", "low", "air", "quality", "''", "''", "to", "avoid", "the", "more", "colorful", "language", "typically", "associated", "with", "a", "strongly", "negative", "olfactory", "experience", "."], "e1_text": "sends", "e1_pos": 2, "e2_text": "order", "e2_pos": 9, "label": "before"}
+]

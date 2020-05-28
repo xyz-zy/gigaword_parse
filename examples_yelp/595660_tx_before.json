@@ -1,0 +1,4 @@
+[
+{"tokens": ["Yes", "we", "went", "during", "a", "Cardinals", "MNF", "game", "but", "got", "there", "before", "it", "started", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "started", "e2_pos": 13, "label": "before"},
+{"tokens": ["When", "the", "third", "girl", "comes", "with", "the", "beer", "she", "guesses", "two", "random", "tables", "before", "getting", "to", "me", "."], "e1_text": "guesses", "e1_pos": 9, "e2_text": "getting", "e2_pos": 14, "label": "before"}
+]

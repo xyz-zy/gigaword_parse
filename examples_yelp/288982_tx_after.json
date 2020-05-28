@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "first", "she", "forgets", "it", "so", "I", "bring", "it", "up", "when", "I", "double", "check", "my", "order", "-LRB-", "after", "we", "waited", "to", "have", "the", "order", "corrected", "-RRB-", "."], "e1_text": "check", "e1_pos": 13, "e2_text": "waited", "e2_pos": 19, "label": "after"}
+]

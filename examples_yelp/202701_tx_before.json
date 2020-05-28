@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "place", "came", "highly", "recommended", "by", "some", "of", "my", "peers", "before", "I", "moved", "down", "here", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "moved", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "idea", "of", "combining", "Mexican", "and", "Chinese", "foods", "intrigued", "me", ",", "but", "when", "my", "food", "arrived", ",", "it", "came", "in", "a", "aluminum", "to", "go", "container", ",", "looking", "like", "food", "I", "had", "n't", "finished", "from", "the", "night", "before", "that", "I", "reheated", "."], "e1_text": "finished", "e1_pos": 32, "e2_text": "reheated", "e2_pos": 39, "label": "before"}
+]

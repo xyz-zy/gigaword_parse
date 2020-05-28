@@ -1,0 +1,3 @@
+[
+{"tokens": ["UPDATE", ":", "Also", ",", "if", "you", "have", "been", "there", ",", "you", "'ll", "notice", "that", "their", "employees", "do", "n't", "wash", "their", "hands", "after", "handling", "dirty", "dishes", "sometimes", "."], "e1_text": "wash", "e1_pos": 18, "e2_text": "handling", "e2_pos": 22, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["First", "of", "all", ",", "they", "sat", "me", "first", "while", "my", "friends", "were", "still", "paying", "and", "the", "hostess", "said", "they", "would", "tell", "them", "to", "go", "to", "where", "I", "was", "after", "they", "paid", "."], "e1_text": "was", "e1_pos": 27, "e2_text": "paid", "e2_pos": 30, "label": "after"},
+{"tokens": ["I", "went", "here", "after", "being", "turned", "away", "from", "Bacchanal", "Buffet", "in", "Caesars", "palace", "because", "they", "were", "n't", "taking", "any", "more", "people", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "being", "e2_pos": 4, "label": "after"}
+]

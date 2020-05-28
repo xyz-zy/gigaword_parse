@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "meeting", "friends", "for", "dinner", "and", "I", "got", "to", "B&G", "before", "they", "opened", ",", "luckily", "they", "let", "me", "in", "anyway", "."], "e1_text": "got", "e1_pos": 8, "e2_text": "opened", "e2_pos": 13, "label": "before"},
+{"tokens": ["My", "waitor", "Jeff", "was", "very", "nice", ",", "he", "and", "I", "and", "Chef", "Kent", "got", "a", "chance", "to", "talk", "before", "they", "were", "officially", "open", "for", "the", "evening", "."], "e1_text": "talk", "e1_pos": 17, "e2_text": "were", "e2_pos": 20, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "ate", "dinner", "there", "shortly", "after", "they", "changed", "and", "it", "was", "awful", "so", "we", "decided", "to", "give", "them", "time", "to", "get", "themselves", "together", "as", "we", "figured", "it", "must", "be", "due", "to", "the", "transition", "."], "e1_text": "ate", "e1_pos": 1, "e2_text": "changed", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "in", "there", "for", "a", "good", "10-15", "minutes", "before", "someone", "in", "the", "back", "came", "to", "help", "me", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "came", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "would", "say", "blood", "like", "but", "I", "ca", "n't", "say", "with", "any", "certainty", "I", "'ve", "had", "another", "blood", "product", "before", "."], "e1_text": "say", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 14, "label": "before"}
+]

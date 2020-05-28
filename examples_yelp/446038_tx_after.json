@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "Explorer", ",", "affectionately", "named", "Dora", ",", "had", "n't", "been", "washed", "in", "months", ",", "so", "after", "being", "greeted", "by", "the", "friendly", "cashier", ",", "I", "opted", "for", "the", "''", "``", "whole", "hog", "''", "''", "and", "enjoyed", "my", "ride", "."], "e1_text": "washed", "e1_pos": 10, "e2_text": "being", "e2_pos": 16, "label": "after"}
+]

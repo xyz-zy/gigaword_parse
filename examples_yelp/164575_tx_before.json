@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "was", "in", "sharp", "contrast", "to", "my", "earlier", "visits", "to", "Delmonico", "where", "I", "could", "barely", "get", "a", "glass", "down", "to", "half", "full", "before", "it", "was", "refilled", ",", "and", "when", "a", "new", "roll", "appeared", "as", "soon", "as", "an", "old", "one", "disappeared", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "was", "e2_pos": 1, "label": "before"},
+{"tokens": ["But", "I", "'ll", "let", "him", "report", "on", "that", "as", "well", "as", "the", "Traditional", "New", "Orleans", "Gumbo", "that", "he", "also", "ordered", ",", "which", "looked", "delicious", "as", "well", ",", "and", "that", "I", "have", "enjoyed", "before", "."], "e1_text": "report", "e1_pos": 5, "e2_text": "have", "e2_pos": 30, "label": "before"}
+]

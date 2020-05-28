@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "was", "not", "please", "this", "morning", "when", "I", "went", "to", "pick", "up", "a", "new", "blouse", "after", "the", "first", "time", "it", "was", "cleaned", "."], "e1_text": "pick", "e1_pos": 10, "e2_text": "was", "e2_pos": 1, "label": "after"},
+{"tokens": ["Furthermore", ",", "I", "am", "wearing", "a", "pair", "of", "pants", "that", "I", "picked", "up", "2", "days", "prior", "after", "having", "a", "clasp", "sewn", "back", "on", ",", "and", "it", "has", "already", "fallen", "off", "again", "."], "e1_text": "picked", "e1_pos": 11, "e2_text": "having", "e2_pos": 17, "label": "after"}
+]

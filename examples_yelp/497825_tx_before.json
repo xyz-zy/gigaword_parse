@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "I", "was", "mid", "conversation", "all", "lively", "and", "attentive", "and", "then", "the", "next", "thing", "you", "know", "it", "is", "taking", "every", "ounce", "of", "self", "control", "from", "taking", "more", "bites", "before", "properly", "chewing", "and", "eating", "the", "bite", "I", "had", "already", "taken", "."], "e1_text": "taking", "e1_pos": 18, "e2_text": "chewing", "e2_pos": 30, "label": "before"}
+]

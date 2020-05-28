@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "photos", "that", "they", "take", "of", "you", "before", "you", "get", "into", "the", "theater", "are", "presented", "to", "you", "after", "you", "leave", "."], "e1_text": "take", "e1_pos": 4, "e2_text": "get", "e2_pos": 9, "label": "before"}
+]

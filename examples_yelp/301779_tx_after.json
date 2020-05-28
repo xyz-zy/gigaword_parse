@@ -1,0 +1,3 @@
+[
+{"tokens": ["At", "the", "sidewalk", ",", "looking", "at", "the", "menu", "board", ",", "the", "hostess", "ushered", "us", "in", ",", "after", "we", "asked", "if", "we", "could", "get", "in", "and", "out", "in", "45", "minutes", "."], "e1_text": "ushered", "e1_pos": 12, "e2_text": "asked", "e2_pos": 18, "label": "after"}
+]

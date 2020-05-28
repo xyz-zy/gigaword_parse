@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "slices", "came", "out", "first", ",", "and", "were", "cold", "even", "before", "we", "reminded", "them", "that", "we", "ordered", "garlic", "knots", "-", "which", "took", "an", "unholy", "20", "mintues", ",", "after", "we", "reminded", "them", "."], "e1_text": "were", "e1_pos": 7, "e2_text": "reminded", "e2_pos": 12, "label": "before"}
+]

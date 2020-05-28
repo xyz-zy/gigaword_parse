@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "believe", "the", "owner", "was", "there", ",", "or", "some", "older", "gentleman", "but", "he", "made", "me", "feel", "awkward", "because", "I", "used", "a", "groupon", "then", "after", "I", "checked", "in", "I", "got", "a", "check", "in", "deal", "."], "e1_text": "used", "e1_pos": 19, "e2_text": "checked", "e2_pos": 25, "label": "after"},
+{"tokens": ["Well", "this", "was", "after", "we", "began", "to", "eat", "so", "I", "decided", "to", "put", "it", "to", "use", "and", "purchased", "the", "smores", "pizza", "!"], "e1_text": "was", "e1_pos": 2, "e2_text": "began", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Came", "here", "at", "10pm", "last", "night", "after", "my", "buddy", "injured", "himself", "at", "our", "soccer", "game", "only", "to", "realize", "they", "were", "closed", "."], "e1_text": "Came", "e1_pos": 0, "e2_text": "injured", "e2_pos": 9, "label": "after"},
+{"tokens": ["This", "is", "after", "we", "checked", "online", "and", "what", "seemed", "to", "be", "like", "they", "were", "open", "24\\/7", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "checked", "e2_pos": 4, "label": "after"}
+]

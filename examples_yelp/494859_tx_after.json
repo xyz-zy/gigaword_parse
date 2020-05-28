@@ -1,0 +1,4 @@
+[
+{"tokens": ["Refreshing", "ambiance", "after", "walking", "on", "the", "strip", "."], "e1_text": "ambiance", "e1_pos": 1, "e2_text": "walking", "e2_pos": 3, "label": "after"},
+{"tokens": ["We", "witnessed", "an", "on", "the", "job", "training", "evolution", "after", "he", "failed", "to", "properly", "open", "a", "bottle", "of", "champagne", "."], "e1_text": "witnessed", "e1_pos": 1, "e2_text": "failed", "e2_pos": 10, "label": "after"}
+]

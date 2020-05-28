@@ -1,0 +1,4 @@
+[
+{"tokens": ["Upon", "opening", "the", "box", ",", "or", "should", "I", "say", "after", "I", "saw", "the", "box", "opened", "by", "the", "manager", "before", "I", "got", "there", ",", "I", "found", "the", "mesh", "was", "ripped", "."], "e1_text": "say", "e1_pos": 8, "e2_text": "saw", "e2_pos": 11, "label": "after"},
+{"tokens": ["If", "I", "wanted", "a", "new", "one", "after", "I", "left", "the", "store", "I", "would", "have", "had", "to", "pay", "."], "e1_text": "wanted", "e1_pos": 2, "e2_text": "left", "e2_pos": 8, "label": "after"}
+]

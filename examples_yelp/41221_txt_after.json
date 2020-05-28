@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "cheeseburger", "which", "was", "average", ",", "my", "husband", "'", "a", "sandwich", "came", "out", "wrong", "-LRB-", "but", "it", "was", "good", "even", "after", "we", "scrapped", "off", "what", "he", "did", "n't", "want", "-RRB-", "and", "our", "kiddos", "did", "n't", "even", "eat", "their", "food", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "scrapped", "e2_pos": 24, "label": "after"}
+]

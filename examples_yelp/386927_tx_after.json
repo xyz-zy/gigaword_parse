@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "initial", "girl", "that", "brought", "us", "our", "menu", "after", "we", "waited", "when", "we", "first", "arrived", "had", "n't", "taken", "a", "drink", "order", "from", "us", "or", "brought", "us", "water", "."], "e1_text": "brought", "e1_pos": 4, "e2_text": "waited", "e2_pos": 10, "label": "after"},
+{"tokens": ["I", "wipe", "my", "hands", "after", "finishing", "the", "appetizers", "with", "the", "only", "small", "drink", "napkin", "they", "brought", "us", "."], "e1_text": "wipe", "e1_pos": 1, "e2_text": "finishing", "e2_pos": 5, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "car", "has", "been", "vandalized", ",", "stolen", "and", "recovered", "by", "the", "police", ",", "and", "towed", "while", "I", "was", "in", "the", "hospital", "due", "to", "an", "expired", "temp", "moving", "permit", "after", "it", "was", "stolen", "the", "week", "before", "-LRB-", "mentioned", "previously", "-RRB-", "."], "e1_text": "permit", "e1_pos": 27, "e2_text": "was", "e2_pos": 17, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "window", "is", "covered", "by", "large", "stick-on", "ads", "for", "the", "''", "``", "Heavyweight", "''", "''", "sandwich", "-LRB-", "a", "half", "pound", "crossandwhich", "-RRB-", "and", "a", "fancy", "coffee", "beverage", "which", "appeared", "to", "be", "last", "attempts", "to", "appeal", "to", "new", "market", "segments", "before", "Winchell", "'s", "called", "it", "quits", ",", "even", "though", "they", "do", "n't", "offer", "these", "items", "either", "."], "e1_text": "be", "e1_pos": 30, "e2_text": "called", "e2_pos": 42, "label": "before"},
+{"tokens": ["If", "you", "were", "n't", "so", "close", "to", "downtown", ",", "you", "feel", "like", "you", "are", "in", "some", "sort", "of", "horror", "movie", "about", "5", "scenes", "before", "you", "meet", "a", "band", "of", "genetic", "freaks", "hellbent", "on", "torturing", "you", "to", "death", "."], "e1_text": "are", "e1_pos": 13, "e2_text": "meet", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "room", "was", "something", "else", ",", "I", "'ve", "got", "to", "admit", "-", "and", "this", "was", "before", "they", "had", "done", "all", "the", "remodeling", ",", "so", "I", "'m", "anxious", "to", "go", "back", "and", "see", "what", "the", "new", "stuff", "looks", "like", "."], "e1_text": "was", "e1_pos": 2, "e2_text": "had", "e2_pos": 17, "label": "before"}
+]

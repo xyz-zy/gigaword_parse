@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "called", "and", "spoke", "with", "a", "customer", "service", "representative", "before", "reserving", "our", "limo", "just", "to", "clear", "up", "a", "few", "things", "."], "e1_text": "spoke", "e1_pos": 3, "e2_text": "reserving", "e2_pos": 10, "label": "before"},
+{"tokens": ["Or", "are", "you", "going", "to", "wait", "until", "you", "drop", "us", "off", "at", "the", "airport", "before", "charging", "our", "card", "?"], "e1_text": "wait", "e1_pos": 5, "e2_text": "charging", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "was", "gon", "na", "head", "down", "and", "make", "a", "deposit", "before", "our", "trip", "to", "ensure", "all", "funds", "were", "there", "."], "e1_text": "make", "e1_pos": 7, "e2_text": "were", "e2_pos": 17, "label": "before"}
+]

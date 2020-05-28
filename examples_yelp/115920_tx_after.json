@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "searched", "Yelp", "for", "a", "place", "to", "have", "lunch", "in", "the", "Historic", "Glendale", "area", "today", "and", "decided", "on", "Farjardo", "'s", "Cafe", "after", "reading", "through", "some", "reviews", "."], "e1_text": "decided", "e1_pos": 16, "e2_text": "reading", "e2_pos": 22, "label": "after"}
+]

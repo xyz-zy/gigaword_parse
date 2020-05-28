@@ -1,0 +1,4 @@
+[
+{"tokens": ["Honestly", ",", "I", "could", "care", "less", "after", "i", "got", "my", "drink", "."], "e1_text": "care", "e1_pos": 4, "e2_text": "got", "e2_pos": 8, "label": "after"},
+{"tokens": ["The", "prime", "rib", "was", "just", "ok", ",", "Nothing", "to", "write", "home", "about", ",", "I", "grabbed", "more", "crab", "legs", "and", "after", "that", "went", "for", "the", "butterscotch", "cookies", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "went", "e2_pos": 21, "label": "after"}
+]

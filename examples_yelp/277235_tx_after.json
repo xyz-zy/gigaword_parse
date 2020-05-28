@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "juicy", "burger", "cooked", "on", "a", "flat", "top", "is", "bound", "to", "drip", ",", "so", "the", "best", "method", "for", "preventing", "this", "is", "to", "first", "set", "the", "patty", "on", "a", "paper", "towel", "after", "cooking", "to", "absorb", "the", "excess", "liquid", ",", "and", "then", "use", "some", "other", "ingredient", "-LRB-", "or", "ingredients", "-RRB-", "to", "form", "a", "layer", "between", "the", "meat", "and", "the", "bun", "so", "as", "to", "prevent", "the", "bun", "from", "getting", "soggy", ",", "such", "as", "lettuce", ",", "onions", ",", "etc.", "."], "e1_text": "set", "e1_pos": 23, "e2_text": "cooking", "e2_pos": 31, "label": "after"}
+]

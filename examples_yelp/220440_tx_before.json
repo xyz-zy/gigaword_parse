@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "here", "'s", "the", "low-down", ":", "we", "waited", "for", "about", "15", "minutes", "before", "our", "waiter", "materialized", "to", "take", "our", "drink", "and", "dinner", "order", "at", "the", "same", "time", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "materialized", "e2_pos": 15, "label": "before"}
+]

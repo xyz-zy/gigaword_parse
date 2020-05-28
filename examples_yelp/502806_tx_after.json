@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "knew", "what", "we", "wanted", "right", "away", "and", "I", "asked", "if", "we", "could", "put", "in", "our", "meal", "order", "after", "he", "took", "our", "drink", "order", "-LRB-", "3", "waters", ",", "please", "-RRB-", ",", "and", "he", "straight", "up", "said", ",", "''", "``", "No", ",", "I", "'ll", "take", "your", "order", "after", "I", "bring", "your", "drinks", ".", "''", "''"], "e1_text": "put", "e1_pos": 13, "e2_text": "took", "e2_pos": 20, "label": "after"},
+{"tokens": ["Our", "server", "never", "came", "to", "check", "on", "us", "after", "we", "got", "our", "food", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "got", "e2_pos": 10, "label": "after"}
+]

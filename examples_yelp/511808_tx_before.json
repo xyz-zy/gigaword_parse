@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "cake", "was", "so", "dried", "you", "can", "visabley", "tell", "before", "taking", "a", "bite", "into", "the", "cake", "."], "e1_text": "tell", "e1_pos": 8, "e2_text": "taking", "e2_pos": 10, "label": "before"},
+{"tokens": ["Not", "sure", "how", "old", "they", "let", "their", "cake", "sit", "there", "before", "delivering", "their", "cake", ",", "but", "we", "called", "a", "month", "in", "advance", "to", "make", "sure", "the", "cake", "would", "be", "done", "correctly", "."], "e1_text": "sit", "e1_pos": 8, "e2_text": "delivering", "e2_pos": 11, "label": "before"}
+]

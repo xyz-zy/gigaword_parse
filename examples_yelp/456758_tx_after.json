@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "have", "vowed", "never", "to", "use", "a", "Pedicab", "again", "after", "using", "one", "in", "New", "York", "and", "the", "''", "``", "driver", "''", "''", "cycled", "into", "the", "side", "of", "a", "taxi", "on", "Broadway", "."], "e1_text": "use", "e1_pos": 5, "e2_text": "using", "e2_pos": 10, "label": "after"},
+{"tokens": ["One", "night", "my", "flatmate", "decided", "to", "use", "them", "after", "his", "girlfriend", "refused", "to", "walk", "home", "-LRB-", "under", "the", "thumb", "...", "-RRB-", "."], "e1_text": "use", "e1_pos": 6, "e2_text": "refused", "e2_pos": 11, "label": "after"}
+]

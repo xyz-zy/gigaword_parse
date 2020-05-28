@@ -1,0 +1,4 @@
+[
+{"tokens": ["Sadly", ",", "this", "is", "even", "after", "making", "a", "call", "to", "corporate", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "making", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "give", "up", "on", "giving", "them", "chances", ",", "they", "have", "lost", "my", "business", "even", "after", "giving", "them", "WAY", "too", "many", "chances", "to", "improve", "."], "e1_text": "lost", "e1_pos": 10, "e2_text": "giving", "e2_pos": 4, "label": "after"}
+]

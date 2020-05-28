@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "food", "it", "'s", "self", "would", "be", "fine", "if", "served", "separately", "but", "the", "Mac", "and", "cheese", "burger", "was", "an", "overload", "of", "flavors", "that", "would", "have", "taste", "the", "same", "if", "served", "after", "being", "in", "a", "blender", "."], "e1_text": "served", "e1_pos": 9, "e2_text": "being", "e2_pos": 31, "label": "after"}
+]

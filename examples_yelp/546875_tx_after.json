@@ -1,0 +1,4 @@
+[
+{"tokens": ["Needless", "to", "say", "I", "had", "to", "shit", "off", "my", "phone", "after", "noticing", "my", "cell", "was", "n't", "charging", "."], "e1_text": "shit", "e1_pos": 6, "e2_text": "noticing", "e2_pos": 11, "label": "after"},
+{"tokens": ["So", "I", "patiently", "waited", "but", ",", "after", "30mind", "of", "waiting", "&", "bus", "never", "showed", "...", "I", "decided", "to", "call", "the", "877", "#", "for", "an", "update", "."], "e1_text": "waited", "e1_pos": 3, "e2_text": "showed", "e2_pos": 13, "label": "after"}
+]

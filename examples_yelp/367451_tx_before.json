@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "felt", "that", "the", "cleanup", "-LRB-", "digging", "-RRB-", "they", "did", "before", "doing", "the", "filling", "was", "a", "little", "too", "much", "compared", "to", "my", "previous", "dentist", "visits", "."], "e1_text": "did", "e1_pos": 9, "e2_text": "doing", "e2_pos": 11, "label": "before"}
+]

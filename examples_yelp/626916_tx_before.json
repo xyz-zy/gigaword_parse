@@ -1,0 +1,3 @@
+[
+{"tokens": ["While", "I", "'m", "going", "to", "eat", "my", "way", "around", "the", "park", "before", "I", "head", "back", "to", "try", "more", "of", "the", "menu", ",", "I", "will", "be", "back", "100", "%", "."], "e1_text": "eat", "e1_pos": 5, "e2_text": "head", "e2_pos": 13, "label": "before"}
+]

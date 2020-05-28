@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "lost", "5", "lbs", "by", "the", "time", "I", "picked", "it", "up", "2", "days", "before", "I", "was", "suppose", "to", "leave", "for", "Vegas", "."], "e1_text": "picked", "e1_pos": 8, "e2_text": "was", "e2_pos": 15, "label": "before"},
+{"tokens": ["They", "told", "me", "it", "would", "be", "ready", "by", "5", "and", "if", "it", "still", "did", "n't", "fit", ",", "they", "would", "fix", "it", "before", "they", "close", "at", "6", "."], "e1_text": "fix", "e1_pos": 19, "e2_text": "close", "e2_pos": 23, "label": "before"}
+]

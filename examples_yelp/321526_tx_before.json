@@ -1,0 +1,3 @@
+[
+{"tokens": ["If", "you", "go", "to", "the", "first", "show", "of", "the", "day", ",", "expect", "that", "the", "theater", "will", "not", "open", "until", "15", "minutes", "before", "said", "showing", "starts", "."], "e1_text": "open", "e1_pos": 17, "e2_text": "said", "e2_pos": 22, "label": "before"}
+]

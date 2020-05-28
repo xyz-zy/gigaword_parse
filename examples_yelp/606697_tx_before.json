@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "it", "short", ",", "horrible", "horrible", "service", ",", "we", "probably", "read", "the", "entire", "menu", "5", "times", "before", "anyone", "showed", "up", "."], "e1_text": "read", "e1_pos": 11, "e2_text": "showed", "e2_pos": 19, "label": "before"},
+{"tokens": ["Once", "our", "mediocre", "meal", "was", "complete", ",", "we", "decided", "to", "take", "a", "nap", "since", "we", "had", "plenty", "of", "time", "before", "our", "server", "checked", "up", "on", "us", "."], "e1_text": "had", "e1_pos": 15, "e2_text": "checked", "e2_pos": 22, "label": "before"}
+]

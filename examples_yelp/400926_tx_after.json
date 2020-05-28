@@ -1,0 +1,4 @@
+[
+{"tokens": ["One", "person", "finally", "received", "a", "few", "pieces", "of", "the", "sushi", "that", "she", "ordered", "when", "we", "sat", "about", "30", "minutes", "after", "most", "others", "had", "received", "things", "on", "their", "second", "round", "of", "ordering", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "had", "e2_pos": 22, "label": "after"},
+{"tokens": ["I", "received", "a", "roll", "ONE", "HOUR", "after", "it", "was", "ordered", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "was", "e2_pos": 8, "label": "after"}
+]

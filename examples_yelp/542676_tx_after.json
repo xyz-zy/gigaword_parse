@@ -1,0 +1,4 @@
+[
+{"tokens": ["Three", "tables", "which", "had", "been", "seated", "about", "twenty", "minutes", "after", "we", "had", "been", "seated", "were", "served", "their", "meals", "."], "e1_text": "seated", "e1_pos": 5, "e2_text": "had", "e2_pos": 3, "label": "after"},
+{"tokens": ["She", "tells", "me", "that", "there", "was", "a", "big", "party", "-LRB-", "there", "was", "n't", "one", "that", "was", "there", "before", "us", "and", "when", "they", "did", "show", "up", "it", "was", "twenty", "minutes", "after", "we", "were", "seated", "-RRB-", "no", "apology", "did", "n't", "even", "attempt", "to", "make", "it", "up", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "were", "e2_pos": 31, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "also", "thought", "it", "was", "hilarious", "how", "one", "of", "the", "employees", "crumpled", "up", "an", "order", "form", "before", "the", "order", "had", "been", "completed", ",", "and", "then", "had", "to", "UNcrumple", "the", "paper", "so", "she", "could", "re-read", "the", "order", "to", "her", "coworker", "."], "e1_text": "crumpled", "e1_pos": 11, "e2_text": "had", "e2_pos": 19, "label": "before"}
+]

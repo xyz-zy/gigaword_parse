@@ -1,0 +1,4 @@
+[
+{"tokens": ["Food", "options", "are", "bad", "too", ",", "so", "if", "you", "'re", "hungry", ",", "eat", "before", "you", "come", "in", ",", "I", "ended", "up", "getting", "a", "bag", "of", "chips", "and", "a", "bottle", "of", "water", "when", "I", "really", "wanted", "a", "sit", "down", "restaurant", "where", "I", "could", "relax", "for", "a", "bit", "by", "myself", "."], "e1_text": "eat", "e1_pos": 12, "e2_text": "come", "e2_pos": 15, "label": "before"},
+{"tokens": ["TIP", ":", "travel", "early", "in", "the", "day", ",", "the", "weather", "could", "mess", "up", "your", "flight", "schedule", "and", "eat", "outside", "of", "the", "airport", "before", "coming", "in", "."], "e1_text": "eat", "e1_pos": 17, "e2_text": "coming", "e2_pos": 23, "label": "before"}
+]

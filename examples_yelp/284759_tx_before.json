@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "took", "our", "orders", "in", "a", "timely", "fashion", "and", "refilled", "our", "waters", "before", "it", "hit", "the", "bottom", "of", "the", "glass", ",", "but", "the", "thing", "that", "bothered", "me", "was", "that", "they", "rushed", "our", "party", "a", "little", "bit", "toward", "the", "end", "of", "our", "meal", "."], "e1_text": "refilled", "e1_pos": 9, "e2_text": "hit", "e2_pos": 14, "label": "before"}
+]

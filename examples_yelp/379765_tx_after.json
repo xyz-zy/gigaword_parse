@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "shuttle", "from", "the", "airport", "to", "the", "rental", "car", "place", "is", "nice", ",", "but", "after", "that", "it", "kinda", "went", "down", "hill", "...", "There", "was", "only", "2", "people", "serving", "customers", "at", "the", "counter", ",", "and", "it", "took", "over", "half", "an", "hour", "to", "get", "through", "3", "people", "...", "Thankfully", "I", "had", "made", "my", "reservation", "online", "and", "i", "was", "done", "at", "the", "counter", "in", "a", "couple", "of", "minutes", "."], "e1_text": "is", "e1_pos": 10, "e2_text": "went", "e2_pos": 18, "label": "after"}
+]

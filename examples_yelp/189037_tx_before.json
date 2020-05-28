@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "know", "what", "I", "like", "of", "the", "seafood", ",", "but", "as", "for", "the", "rest", ",", "I", "usually", "try", "a", "tablespoon-sized", "portion", "of", "everything", "that", "seems", "appealing", "before", "deciding", "what", "to", "actually", "eat", ".", "."], "e1_text": "appealing", "e1_pos": 25, "e2_text": "deciding", "e2_pos": 27, "label": "before"},
+{"tokens": ["Everything", "is", "so", "pretty", "to", "look", "at", "and", "they", "have", "so", "many", "options", "it", "makes", "your", "head", "spin", "...", "I", "usually", "like", "to", "share", "them", "-", "that", "way", ",", "I", "can", "get", "a", "taste", "of", "each", "of", "the", "10", "most", "appealing", "options", "before", "committing", "to", "a", "single", "one", "-LRB-", "assuming", "I", "have", "space", "by", "then", "-RRB-", "."], "e1_text": "get", "e1_pos": 31, "e2_text": "committing", "e2_pos": 43, "label": "before"}
+]

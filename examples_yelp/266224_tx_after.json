@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "met", "with", "Dr.", "Wolfson", ",", "and", "granted", ",", "my", "issue", "was", "very", "minor", ",", "I", "only", "saw", "him", "for", "5", "minutes", "after", "waiting", "1.5", "hours", "."], "e1_text": "saw", "e1_pos": 17, "e2_text": "waiting", "e2_pos": 23, "label": "after"}
+]

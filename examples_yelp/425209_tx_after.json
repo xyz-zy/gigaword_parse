@@ -1,0 +1,3 @@
+[
+{"tokens": ["plus", ",", "our", "waitress", "was", "actually", "bitchy", "about", "the", "fact", "that", "we", "questioned", "the", "fact", "that", "they", "were", "out", "of", "so", "many", "beers", "and", "waited", "to", "order", "food", "until", "our", "whole", "party", "arrived", "-", "there", "were", "a", "decent", "amount", "of", "tables", "available", "and", "after", "she", "took", "our", "order", ",", "she", "basically", "disappeared", "until", "it", "was", "time", "for", "a", "check", "and", "handed", "them", "to", "us", "with", "the", "most", "unattractive", "bitchface", "."], "e1_text": "arrived", "e1_pos": 32, "e2_text": "took", "e2_pos": 45, "label": "after"}
+]

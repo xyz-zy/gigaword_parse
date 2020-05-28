@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "sat", "for", "another", "15", "minutes", "before", "my", "fiance", "went", "up", "to", "the", "bar", "to", "order", "me", "a", "beer", "."], "e1_text": "sat", "e1_pos": 1, "e2_text": "went", "e2_pos": 9, "label": "before"},
+{"tokens": ["The", "waitress", "passed", "us", "three", "more", "times", "before", "she", "brought", "out", "a", "beer", "for", "me", ",", "Ska", "Pinstripe", "red", "ale", "in", "a", "bottle", "."], "e1_text": "passed", "e1_pos": 2, "e2_text": "brought", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "'m", "sure", "this", "place", "will", "pick", "up", "some", "supportive", "regulars", "and", "turn", "out", "to", "be", "an", "awesome", "joint", ",", "just", "give", "it", "a", "little", "bit", "of", "time", "before", "you", "head", "in", "there", ",", "or", "at", "least", "be", "prepared", "to", "spend", "2", "+", "hours", "of", "your", "patience", "on", "the", "staff", "."], "e1_text": "give", "e1_pos": 21, "e2_text": "head", "e2_pos": 30, "label": "before"}
+]

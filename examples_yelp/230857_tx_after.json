@@ -1,0 +1,3 @@
+[
+{"tokens": ["An", "item", "we", "ordered", "was", "forgotten", ",", "the", "lady", "gave", "us", "the", "bill", "RIGHT", "after", "she", "gave", "us", "our", "food", "which", "I", "thought", "was", "quite", "tacky", "since", "I", "want", "to", "stuff", "my", "face", "first", ",", "then", "see", "the", "bill", "and", "pay", "."], "e1_text": "gave", "e1_pos": 9, "e2_text": "gave", "e2_pos": 9, "label": "after"}
+]

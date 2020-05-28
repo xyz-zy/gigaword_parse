@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "seated", "us", "a", "good", "30", "minutes", "after", "our", "reservation", "time", "-LRB-", "which", "was", "the", "last", "time", "slot", "at", "which", "they", "would", "take", "one", "-RRB-", ",", "and", "I", "think", "they", "might", "have", "even", "kept", "the", "kitchen", "open", "for", "us", "."], "e1_text": "seated", "e1_pos": 1, "e2_text": "was", "e2_pos": 13, "label": "after"}
+]

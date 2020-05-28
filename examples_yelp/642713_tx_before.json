@@ -1,0 +1,4 @@
+[
+{"tokens": ["Aside", "from", "the", "rule", "about", "not", "touching\\/waking", "up", "sleeping", "cats", ",", "the", "weirdest", "one", "is", "''", "``", "clean", "your", "hands", "before", "touching", "the", "cats", "''", "''", ",", "and", "they", "even", "have", "sanitizer", "around", "for", "you", "."], "e1_text": "hands", "e1_pos": 19, "e2_text": "touching", "e2_pos": 21, "label": "before"},
+{"tokens": ["I", "doubt", "that", "people", "working", "at", "the", "SPCA", "or", "at", "any", "cat", "shelter", "will", "wash", "their", "hands", "before", "touching", "each", "cat", "...", "Oh", "!"], "e1_text": "wash", "e1_pos": 14, "e2_text": "touching", "e2_pos": 18, "label": "before"}
+]

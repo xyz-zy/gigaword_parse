@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "added", "roadside", "assistance", "to", "my", "bill", ",", "even", "after", "I", "declined", "it", "."], "e1_text": "added", "e1_pos": 1, "e2_text": "declined", "e2_pos": 11, "label": "after"}
+]

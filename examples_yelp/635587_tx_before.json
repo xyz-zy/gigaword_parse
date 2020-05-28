@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "wait", "probably", "thirty", "minutes", "before", "we", "were", "taken", "to", "the", "chairs", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "were", "e2_pos": 9, "label": "before"},
+{"tokens": ["I", "'ve", "read", "some", "of", "the", "reviews", "of", "this", "place", "on", "here", "before", "I", "went", "and", "some", "have", "said", "that", "they", "did", "have", "to", "wait", "a", "little", ",", "so", "that", "did", "n't", "bother", "me", "initially", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "went", "e2_pos": 14, "label": "before"}
+]

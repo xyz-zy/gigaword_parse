@@ -1,0 +1,4 @@
+[
+{"tokens": ["All", "I", "could", "see", "were", "people", "coming", "through", "the", "door", "and", "immediately", "taken", "in", "before", "me", "and", "I", "was", "surprised", "-", "but", "perhaps", "they", "either", "made", "an", "appointment", "or", "they", "were", "top", "paying", "and", "regular", "customers", "to", "which", "were", "shown", "a", "much", "different", "type", "of", "treatment", "because", "of", "the", "latter", "."], "e1_text": "taken", "e1_pos": 12, "e2_text": "was", "e2_pos": 18, "label": "before"},
+{"tokens": ["So", "while", "I", "sat", "down", "I", "watched", "him", "do", "my", "nails", ",", "I", "intently", "watched", "him", "because", "I", "never", "have", "gotten", "my", "nails", "done", "before", "so", "I", "figured", "why", "not", "watch", "and", "see", "how", "it", "is", "done", "."], "e1_text": "done", "e1_pos": 23, "e2_text": "figured", "e2_pos": 27, "label": "before"}
+]

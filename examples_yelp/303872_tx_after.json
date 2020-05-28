@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "hate", "cold", "fries", "when", "they", "get", "all", "soggy", ",", "but", "somehow", "these", "fries", "retained", "their", "uber-crispness", "even", "after", "they", "'d", "been", "at", "the", "table", "for", "a", "while", "."], "e1_text": "retained", "e1_pos": 14, "e2_text": "'d", "e2_pos": 20, "label": "after"},
+{"tokens": ["A", "small", "loaf", "of", "truffle", "oil-brushed", "focaccia", "appeared", "on", "our", "table", "shortly", "after", "we", "placed", "our", "order", ",", "but", "I", "had", "to", "request", "that", "the", "fries", "be", "left", "behind", "as", "the", "server", "whisked", "them", "away", "."], "e1_text": "appeared", "e1_pos": 7, "e2_text": "placed", "e2_pos": 14, "label": "after"},
+{"tokens": ["We", "have", "a", "Michael", "Mina", "restaurant", "in", "San", "Jose", ",", "and", "I", "would", "definitely", "try", "it", "after", "eating", "at", "Bourbon", "Steak", "."], "e1_text": "try", "e1_pos": 14, "e2_text": "eating", "e2_pos": 17, "label": "after"}
+]

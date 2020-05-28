@@ -1,0 +1,4 @@
+[
+{"tokens": ["This", "definitely", "did", "n't", "happen", "tonight", "as", "we", "waited", "for", "the", "entire", "VIP", "line", "of", "perhaps", "50", "or", "so", "people", "-LRB-", "about", "12", "-", "15", "different", "groups", "-RRB-", "to", "be", "seated", "before", "us", "which", "took", "about", "25", "minutes", "."], "e1_text": "seated", "e1_pos": 30, "e2_text": "took", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "drive", "a", "cab", "here", "in", "town", "so", "I", "'ll", "ask", "my", "customers", "about", "their", "experiences", "at", "the", "buffet", "before", "I", "start", "recommending", "the", "place", "."], "e1_text": "ask", "e1_pos": 10, "e2_text": "start", "e2_pos": 21, "label": "before"}
+]

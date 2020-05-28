@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "'ll", "be", "on", "the", "rails", "for", "a", "fortnight", "then", "it", "'s", "whisked", "away", "to", "the", "''", "``", "get", "it", "now", "before", "it", "'s", "gone", "!!!!", "''", "''", "range", "where", "you", "feel", "rushed", "into", "buying", "."], "e1_text": "get", "e1_pos": 18, "e2_text": "'s", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "feel", "like", "such", "a", "skinflint", "these", "days", "but", "you", "have", "no", "time", "to", "save", "for", "desirables", "in", "here", "because", "they", "are", "usually", "off", "the", "rails", "before", "you", "get", "your", "next", "pay", "."], "e1_text": "have", "e1_pos": 10, "e2_text": "get", "e2_pos": 28, "label": "before"}
+]

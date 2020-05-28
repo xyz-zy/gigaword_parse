@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "did", "n't", "get", "on", "my", "ticket", "until", "it", "went", "into", "a", "warrant", "status", "8", "days", "after", "they", "received", "the", "ticket", "then", "wanted", "to", "up", "the", "price", "."], "e1_text": "went", "e1_pos": 9, "e2_text": "received", "e2_pos": 18, "label": "after"}
+]

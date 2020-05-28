@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stood", "up", "front", "for", "5-10", "minutes", "before", "waving", "someone", "down", "to", "be", "seated", "."], "e1_text": "stood", "e1_pos": 1, "e2_text": "waving", "e2_pos": 8, "label": "before"},
+{"tokens": ["We", "stuck", "around", "just", "to", "see", "how", "long", "it", "would", "take", "before", "someone", "took", "our", "drink", "order", ",", "it", "was", "like", "being", "in", "the", "Twilight", "Zone", "."], "e1_text": "take", "e1_pos": 10, "e2_text": "took", "e2_pos": 13, "label": "before"}
+]

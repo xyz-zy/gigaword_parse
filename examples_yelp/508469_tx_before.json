@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "complaint", "for", "my", "return", "trip", "actually", "comes", "from", "the", "fact", "that", "a", "lady", "bartender", "snubbed", "my", "friend", "before", "I", "got", "there", "."], "e1_text": "snubbed", "e1_pos": 15, "e2_text": "got", "e2_pos": 20, "label": "before"},
+{"tokens": ["Overall", ",", "I", "do", "love", "Insert", "Coins", ",", "but", "just", "a", "word", "to", "the", "owner", ":", "Make", "sure", "your", "bartenders", "check", "themselves", "before", "they", "wreck", "your", "venue", "."], "e1_text": "love", "e1_pos": 4, "e2_text": "wreck", "e2_pos": 24, "label": "before"}
+]

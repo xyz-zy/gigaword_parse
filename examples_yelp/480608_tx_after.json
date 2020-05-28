@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "pancakes", "were", "good", "--", "a", "tad", "too", "chocolatety", "...", "More", "so", "than", "I", "remember", ",", "but", "I", "could", "have", "just", "been", "in", "a", "bad", "mood", "after", "waiting", "1\\/2", "hour", "for", "pancakes", "."], "e1_text": "been", "e1_pos": 21, "e2_text": "waiting", "e2_pos": 27, "label": "after"},
+{"tokens": ["To", "add", "insult", "to", "injury", ",", "they", "put", "the", "check", "on", "my", "table", "literally", "3", "minutes", "after", "I", "got", "my", "food", "."], "e1_text": "put", "e1_pos": 7, "e2_text": "got", "e2_pos": 18, "label": "after"}
+]

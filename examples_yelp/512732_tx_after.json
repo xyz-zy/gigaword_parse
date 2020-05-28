@@ -1,0 +1,4 @@
+[
+{"tokens": ["\\*", "3.5", "stars", "\\*", "We", "checked", "this", "little", "food", "stand", "out", "after", "our", "friend", "raved", "about", "it", "and", "mentioned", "that", "it", "was", "featured", "on", "Diners", ",", "Drive-Ins", ",", "and", "Dives", "."], "e1_text": "stand", "e1_pos": 9, "e2_text": "raved", "e2_pos": 14, "label": "after"},
+{"tokens": ["That", "said", ",", "I", "almost", "feel", "bad", "about", "giving", "Viva", "Las", "Arepas", "a", "3.5", "rating", ",", "after", "seeing", "all", "the", "great", "reviews", "here", "."], "e1_text": "feel", "e1_pos": 5, "e2_text": "seeing", "e2_pos": 17, "label": "after"}
+]

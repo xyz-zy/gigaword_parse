@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waiter", "forgot", "to", "bring", "my", "drink", "and", "was", "impossible", "to", "catch", "afterwards", "so", "I", "got", "my", "drink", "by", "the", "end", "of", "the", "meal", "after", "asking", "a", "different", "waiter", "."], "e1_text": "got", "e1_pos": 15, "e2_text": "asking", "e2_pos": 25, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "came", "here", "after", "a", "good", "friend", "said", "that", "I", "ca", "n't", "leave", "Arizona", "without", "eating", "here", "first", "."], "e1_text": "came", "e1_pos": 1, "e2_text": "said", "e2_pos": 7, "label": "after"},
+{"tokens": ["I", "dragged", "my", "boss", "here", "during", "a", "business", "trip", ",", "and", "we", "had", "the", "foie", "gras", "and", "souffl", "\\", "u00e9", "after", "reading", "the", "reviews", "on", "Yelp", "!", "."], "e1_text": "had", "e1_pos": 12, "e2_text": "reading", "e2_pos": 21, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "bread", "they", "offered", "us", "after", "ordering", "our", "meal", "came", "after", "the", "salad", "and", "seconds", "before", "our", "main", "course", "."], "e1_text": "offered", "e1_pos": 3, "e2_text": "ordering", "e2_pos": 6, "label": "after"},
+{"tokens": ["We", "were", "given", "1", "half", "filled", "ramekin", "of", "ketchup", "to", "share", "between", "2", "people", "-LRB-", "and", "this", "was", "only", "after", "requesting", "it", "after", "I", "meal", "came", "...", "btw", ",", "we", "ordered", "french", "fries", "...", "-RRB-", "."], "e1_text": "was", "e1_pos": 17, "e2_text": "requesting", "e2_pos": 20, "label": "after"}
+]

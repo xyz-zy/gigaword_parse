@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "was", "so", "slow\\/nonexistent", "that", "we", "left", "after", "15", "minutes", "and", "a", "server", "still", "had", "n't", "stopped", "by", "even", "though", "they", "were", "n't", "busy", "."], "e1_text": "left", "e1_pos": 6, "e2_text": "had", "e2_pos": 14, "label": "after"}
+]

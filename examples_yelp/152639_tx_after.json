@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "say", "I", "will", "never", "return", "after", "waiting", "1.5", "hours", "to", "eat", "mediocre", "food", ",", "but", "I", "do", "it", "anyway", ",", "Maybe", "it", "is", "me", "hoping", "that", "It", "will", "be", "better", "the", "next", "time", "I", "go", "."], "e1_text": "return", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 7, "label": "after"}
+]

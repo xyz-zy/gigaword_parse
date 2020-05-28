@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "main", "gripe", "here", "is", "with", "the", "space", "itself", ":", "after", "any", "treatment", ",", "you", "are", "ushered", "back", "into", "a", "fairly", "public", "waiting", "area", "by", "the", "door", ",", "before", "being", "picked", "up", "and", "guided", "somewhere", "else", ",", "which", "undermined", "any", "relaxation", "for", "me", "."], "e1_text": "ushered", "e1_pos": 16, "e2_text": "being", "e2_pos": 29, "label": "before"}
+]

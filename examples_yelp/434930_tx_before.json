@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "a", "TOGO", "of", "what", "I", "usually", "get", "and", "a", "smoothie", "that", "I", "'ve", "gotten", "before", "that", "I", "really", "liked", "."], "e1_text": "gotten", "e1_pos": 15, "e2_text": "liked", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "'ve", "gotten", "it", "a", "lot", "of", "times", "before", "so", "I", "'m", "not", "sure", "if", "they", "changed", "the", "vegan", "cheese", "on", "it", "or", "what", "happened", "."], "e1_text": "gotten", "e1_pos": 2, "e2_text": "'m", "e2_pos": 11, "label": "before"}
+]

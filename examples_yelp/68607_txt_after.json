@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "told", "her", "I", "did", "n't", "mind", "paying", "for", "the", "beer", ",", "after", "all", "I", "did", "drink", "it", ",", "but", "that", "I", "was", "n't", "going", "to", "pay", "for", "the", "food", "."], "e1_text": "mind", "e1_pos": 6, "e2_text": "did", "e2_pos": 4, "label": "after"},
+{"tokens": ["They", "asked", ",", "after", "we", "paid", ",", "if", "we", "still", "wanted", "them", "to", ",", "we", "both", "just", "wanted", "to", "leave", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "paid", "e2_pos": 5, "label": "after"}
+]

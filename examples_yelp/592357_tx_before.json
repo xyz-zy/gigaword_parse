@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "manager", "\\", "u00a0finishes", "enjoying", "a", "few", "fries", "from", "his", "plate", "before", "coming", "by", "."], "e1_text": "enjoying", "e1_pos": 4, "e2_text": "coming", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "asked", "him", "if", "he", "ever", "cooked", "before", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "cooked", "e2_pos": 6, "label": "before"}
+]

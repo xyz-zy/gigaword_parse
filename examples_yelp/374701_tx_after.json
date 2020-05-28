@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "respond", "after", "a", "few", "moments", "ignored", "on", "the", "opposite", "end", ".", "''"], "e1_text": "respond", "e1_pos": 1, "e2_text": "ignored", "e2_pos": 6, "label": "after"},
+{"tokens": ["When", "I", "stepped", "foot", "inside", "the", "Turf", "Bar", ",", "after", "enjoying", "a", "leisurely", "bikeride", "in", "the", "winter", "sunshine", ",", "I", "spot", "Justin", "and", "Anthony", "bellied", "up", "to", "the", "bar", "."], "e1_text": "stepped", "e1_pos": 2, "e2_text": "enjoying", "e2_pos": 10, "label": "after"},
+{"tokens": ["They", "were", "unmistakable", ",", "and", "belligerently", "drunk", ",", "after", "a", "morning", "spent", "in", "various", "Irish", "bars", "in", "the", "downtown", "area", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "spent", "e2_pos": 11, "label": "after"},
+{"tokens": ["All", "in", "all", "I", "have", "to", "thank", "the", "Turf", "Bar", "for", "an", "interesting", "Sunday", "afternoon", "that", "ended", "in", "my", "brother", "and", "his", "friend", "passed", "out", "on", "my", "front", "lawn", "and", "a", "brand", "new", "pair", "of", "my", "clothes", "with", "permanent", "grass", "and", "mud", "stains", "on", "them", "after", "angrily", "wrestling", "my", "brother", "into", "submission", "."], "e1_text": "passed", "e1_pos": 23, "e2_text": "wrestling", "e2_pos": 47, "label": "after"}
+]

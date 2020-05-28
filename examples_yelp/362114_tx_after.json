@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "checked", "out", "Mike", "'s", "after", "reading", "Matt", "H", "'s", "review", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "reading", "e2_pos": 6, "label": "after"},
+{"tokens": ["Nobody", "checked", "on", "our", "table", "after", "food", "was", "dropped", "off", ",", "but", "I", "know", "they", "are", "just", "getting", "the", "kinks", "out", "."], "e1_text": "checked", "e1_pos": 1, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

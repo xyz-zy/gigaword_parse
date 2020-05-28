@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "politely", "reminded", "him", "that", "\\*", "we", "\\*", "did", "not", "send", "back", "the", "first", "-LRB-", "unopened", "-RRB-", "bottle", ",", "but", "that", "the", "waitress", "said", "we", "would", "not", "enjoy", "it", "and", "who", "would", "drink", "a", "wine", "after", "the", "waitress", "says", "it", "'s", "not", "good", "?"], "e1_text": "drink", "e1_pos": 32, "e2_text": "says", "e2_pos": 38, "label": "after"}
+]

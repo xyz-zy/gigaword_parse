@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "stood", "there", ",", "looked", "at", "my", "car", "for", "a", "second", ",", "and", "concluded", "that", "after", "paying", "$", "206", "for", "a", "battery", "and", "labor", ",", "which", "ultimately", "had", "created", "a", "new", "problem", ",", "that", "I", "would", "be", "going", "elsewhere", "."], "e1_text": "concluded", "e1_pos": 13, "e2_text": "paying", "e2_pos": 16, "label": "after"}
+]

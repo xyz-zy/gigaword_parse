@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "received", "water", "fairly", "quickly", ",", "then", "was", "given", "soup", "before", "we", "ordered", "."], "e1_text": "given", "e1_pos": 8, "e2_text": "ordered", "e2_pos": 12, "label": "before"},
+{"tokens": ["I", "then", "saw", "the", "group", "of", "2", "who", "were", "seated", "just", "before", "us", "finishing", "up", "their", "meals", "as", "well", "."], "e1_text": "seated", "e1_pos": 9, "e2_text": "finishing", "e2_pos": 13, "label": "before"},
+{"tokens": ["I", "asked", "her", "why", "our", "order", "took", "so", "long", "and", "why", "a", "table", "that", "had", "10", "people", "seated", "after", "us", "were", "able", "to", "get", "their", "food", ",", "eat", ",", "and", "pay", "before", "we", "even", "received", "our", "dishes", "."], "e1_text": "pay", "e1_pos": 30, "e2_text": "received", "e2_pos": 34, "label": "before"}
+]

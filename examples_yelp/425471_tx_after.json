@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "place", "really", "ruined", "my", "friends", "birthday", "dinner", ",", "canceled", "our", "reservation", "30", "min", "before", "we", "got", "there", "after", "they", "called", "me", "2", "hours", "before", "to", "confirm", "it", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "called", "e2_pos": 20, "label": "after"}
+]

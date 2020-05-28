@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "carousing", "the", "aisles", "after", "finding", "what", "we", "needed", "."], "e1_text": "carousing", "e1_pos": 1, "e2_text": "finding", "e2_pos": 5, "label": "after"},
+{"tokens": ["The", "sales", "people", "continuously", "followed", "and", "hounded", "us", "even", "after", "we", "repeatedly", "said", "we", "'re", "just", "looking", "."], "e1_text": "hounded", "e1_pos": 6, "e2_text": "said", "e2_pos": 12, "label": "after"}
+]

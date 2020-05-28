@@ -1,0 +1,4 @@
+[
+{"tokens": ["Taking", "a", "$", "60,000", "luxury", "vehicle", "-LRB-", "BMW", "X5", "-RRB-", "to", "a", "body", "shop", "and", "receiving", "mediocre", "work", "while", "incurring", "additional", "damages", "while", "under", "the", "shop", "'s", "care", "is", "the", "last", "thing", "I", "expected", "when", "choosing", "Scott", "'s", "Coach", "Works", "after", "my", "car", "was", "rear-ended", ",", "especially", "after", "having", "a", "friend", "recommend", "the", "place", "and", "also", "reading", "other", "positive", "reviews", "online", "."], "e1_text": "choosing", "e1_pos": 35, "e2_text": "was", "e2_pos": 43, "label": "after"},
+{"tokens": ["They", "called", "me", "a", "few", "days", "after", "telling", "me", "that", "all", "the", "repairs", "were", "finished", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "telling", "e2_pos": 7, "label": "after"}
+]

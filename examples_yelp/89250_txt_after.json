@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "finally", "were", "seated", "at", "7:30", ",", "after", "watching", "a", "couple", "without", "a", "reservation", "being", "seated", "before", "us", ",", "as", "well", "as", "several", "larger", "parties", "wh", "arrived", "after", "us", "being", "seated", "before", "us", "."], "e1_text": "seated", "e1_pos": 3, "e2_text": "watching", "e2_pos": 8, "label": "after"}
+]

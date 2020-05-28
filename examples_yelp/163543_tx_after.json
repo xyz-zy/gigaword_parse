@@ -1,0 +1,4 @@
+[
+{"tokens": ["Its", "bad", "enough", "when", "your", "sober", ",", "I", "think", "people", "just", "give", "up", "trying", "to", "get", "back", "to", "their", "rooms", "after", "partying", "all", "night", "."], "e1_text": "get", "e1_pos": 15, "e2_text": "partying", "e2_pos": 21, "label": "after"},
+{"tokens": ["I", "did", "n't", "even", "notice", "the", "burnt", "out", "light", "bulbs", "in", "the", "room", ",", "but", "an", "employee", "came", "by", "to", "replace", "them", "after", "we", "checked", "in", "."], "e1_text": "replace", "e1_pos": 20, "e2_text": "checked", "e2_pos": 24, "label": "after"}
+]

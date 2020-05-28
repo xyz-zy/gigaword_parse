@@ -1,0 +1,6 @@
+[
+{"tokens": ["I", "have", "to", "admit", "I", "was", "skeptical", "about", "this", "place", "before", "going", "there", "last", "weekend", "for", "the", "first", "time", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "going", "e2_pos": 11, "label": "before"},
+{"tokens": ["We", "took", "our", "seats", "and", "our", "waitress", "asked", "if", "we", "had", "been", "here", "before", "."], "e1_text": "asked", "e1_pos": 7, "e2_text": "had", "e2_pos": 10, "label": "before"},
+{"tokens": ["They", "promptly", "cleaned", "and", "scrubbed", "the", "grill", ",", "then", "sectioned", "it", "off", "before", "placing", "my", "creation", "down", ",", "which", "I", "liked", "."], "e1_text": "sectioned", "e1_pos": 9, "e2_text": "placing", "e2_pos": 13, "label": "before"},
+{"tokens": ["The", "guy", "at", "the", "table", "behind", "us", "had", "a", "bowl", "of", "raw", "meat", "sitting", "on", "his", "table", "for", "10", "minutes", "before", "one", "of", "the", "hostesses", "told", "him", "what", "he", "was", "supposed", "to", "do", "."], "e1_text": "sitting", "e1_pos": 13, "e2_text": "told", "e2_pos": 25, "label": "before"}
+]

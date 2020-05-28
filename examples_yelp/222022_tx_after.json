@@ -1,0 +1,3 @@
+[
+{"tokens": ["Had", "coupon", "for", "dessert", ",", "waitress", "would", "not", "take", "-LRB-", "after", "spending", "450", "on", "dinner", "-RRB-", "then", "came", "back", "to", "say", "she", "would", "."], "e1_text": "take", "e1_pos": 8, "e2_text": "spending", "e2_pos": 11, "label": "after"}
+]

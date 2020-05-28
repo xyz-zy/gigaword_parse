@@ -1,0 +1,3 @@
+[
+{"tokens": ["we", "went", "all", "the", "way", "up", "the", "`", "inclinator", "'", "-LRB-", "since", "it", "'s", "a", "pyramid", ",", "the", "elevator", "has", "to", "do", "some", "pretty", "weird", "stuff", "that", "warrants", "a", "different", "name", "-RRB-", "to", "our", "room", "before", "we", "discovered", "this", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "discovered", "e2_pos": 37, "label": "before"}
+]

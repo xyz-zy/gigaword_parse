@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ordered", "online", "and", "after", "about", "an", "hour", "and", "15", "min", "i", "finally", "decided", "to", "call", "and", "say", "hey", ".", "."], "e1_text": "ordered", "e1_pos": 1, "e2_text": "decided", "e2_pos": 13, "label": "after"},
+{"tokens": ["my", "food", "arived", "about", "80", "minutes", "after", "i", "ordered", "and", "the", "delivery", "guy", "was", "pretty", "nice", "and", "even", "apoligized", "for", "the", "wait", "."], "e1_text": "arived", "e1_pos": 2, "e2_text": "ordered", "e2_pos": 8, "label": "after"}
+]

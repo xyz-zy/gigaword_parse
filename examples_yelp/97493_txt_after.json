@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "sent", "multiple", "emails", "and", "never", "heard", "back", "from", "management", "after", "I", "moved", "out", "."], "e1_text": "heard", "e1_pos": 6, "e2_text": "moved", "e2_pos": 12, "label": "after"}
+]

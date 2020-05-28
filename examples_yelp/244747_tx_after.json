@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "I", "went", "to", "the", "UPS", "Store", "and", "they", "refused", "to", "take", "the", "document", ",", "even", "after", "their", "customer", "called", "them", "for", "permission", "."], "e1_text": "refused", "e1_pos": 9, "e2_text": "called", "e2_pos": 19, "label": "after"}
+]

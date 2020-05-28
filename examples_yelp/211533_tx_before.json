@@ -1,0 +1,4 @@
+[
+{"tokens": ["Valentine", "'s", "evening", "2013", ",", "my", "wonderful", "husband", "surprised", "me", "with", "dinner", "at", "this", "restaurant", "as", "we", "had", "never", "been", "to", "either", "the", "Stratosphere", "or", "the", "restaurant", "before", "."], "e1_text": "surprised", "e1_pos": 8, "e2_text": "had", "e2_pos": 17, "label": "before"},
+{"tokens": ["Without", "letting", "that", "situation", "put", "a", "bias", "on", "my", "review", "of", "their", "food", ",", "it", "was", "mediocre", "at", "best", "and", "seriously", "over-priced", "for", "what", "we", "had", "tried", "to", "consume", "before", "being", "rudely", "interupted", "by", "the", "manager", "."], "e1_text": "consume", "e1_pos": 28, "e2_text": "being", "e2_pos": 30, "label": "before"}
+]

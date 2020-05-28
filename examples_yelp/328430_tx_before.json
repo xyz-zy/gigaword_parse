@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "had", "some", "time", "-LRB-", "40", "minutes", "-RRB-", "before", "our", "movie", "started", "so", "we", "thought", "it", "would", "be", "a", "good", "spot", "to", "grab", "some", "food", ",", "and", "it", "was", "not", "busy", "at", "all", "on", "a", "Friday", "night", "so", "we", "thought", "that", "would", "help", "with", "time", "too", "."], "e1_text": "had", "e1_pos": 1, "e2_text": "started", "e2_pos": 11, "label": "before"}
+]

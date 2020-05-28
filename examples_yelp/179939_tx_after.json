@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "made", "a", "reservation", "for", "dinner", "because", "they", "have", "a", "deal", "that", "if", "you", "eat", "at", "the", "restaurant", ",", "you", "get", "into", "the", "club", "for", "free", "and", "after", "seeing", "the", "ridiculous", "line", "outside", ",", "it", "sounded", "like", "a", "steal", "."], "e1_text": "have", "e1_pos": 8, "e2_text": "seeing", "e2_pos": 28, "label": "after"},
+{"tokens": ["I", "talked", "to", "the", "same", "friend", "who", "recommended", "TAO", "after", "I", "went", "and", "she", "swears", "that", "I", "just", "went", "on", "the", "wrong", "night", ",", "so", "I", "'m", "willing", "to", "give", "it", "another", "shot", "the", "next", "time", "I", "head", "to", "Vegas", "."], "e1_text": "recommended", "e1_pos": 7, "e2_text": "went", "e2_pos": 11, "label": "after"}
+]

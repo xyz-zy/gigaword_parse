@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "bought", "a", "groupon", ",", "and", "made", "3", "visits", "before", "I", "finally", "found", "something", "I", "liked", "-LRB-", "probably", "because", "the", "groupon", "was", "expiring", "the", "next", "day", "-RRB-", "."], "e1_text": "made", "e1_pos": 6, "e2_text": "found", "e2_pos": 12, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "used", "this", "cleaners", "and", "was", "fairly", "happy", "before", "I", "encountered", "the", "owners", "son", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "encountered", "e2_pos": 10, "label": "before"},
+{"tokens": ["After", "talking", "to", "them", "and", "workers", "there", ",", "I", "found", "out", "similar", "incidents", "of", "early", "closures", "where", "tenants", "could", "n't", "get", "clothes", "before", "leaving", "to", "go", "on", "vacation", "."], "e1_text": "get", "e1_pos": 20, "e2_text": "leaving", "e2_pos": 23, "label": "before"}
+]

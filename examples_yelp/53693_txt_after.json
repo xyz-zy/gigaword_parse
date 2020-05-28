@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "here", "with", "some", "friends", "after", "getting", "some", "drinks", "up", "the", "road", "at", "Chilleens", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "getting", "e2_pos": 7, "label": "after"},
+{"tokens": ["The", "waitress", "was", "very", "nice", "and", "even", "gave", "me", "a", "fresh", "brewed", "cup", "after", "realizing", "the", "coffee", "was", "not", "fresh", "."], "e1_text": "gave", "e1_pos": 7, "e2_text": "realizing", "e2_pos": 14, "label": "after"}
+]

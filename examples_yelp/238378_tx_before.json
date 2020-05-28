@@ -1,0 +1,4 @@
+[
+{"tokens": ["Our", "waitress", "took", "our", "orders", "and", "then", "came", "around", "twice", "before", "handing", "us", "our", "checks", "-LRB-", "our", "total", "bill", "came", "out", "to", "close", "to", "$", "100", "-RRB-", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "handing", "e2_pos": 11, "label": "before"},
+{"tokens": ["My", "beer", "sat", "empty", ",", "as", "well", "as", "two", "other", "drinks", ",", "for", "about", "10", "minutes", "before", "she", "noticed", "."], "e1_text": "sat", "e1_pos": 2, "e2_text": "noticed", "e2_pos": 18, "label": "before"}
+]

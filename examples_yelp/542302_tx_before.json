@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "told", "me", "he", "would", "refund", "me", "my", "money", "-LRB-", "which", "he", "did", "-RRB-", "but", "before", "he", "handed", "me", "the", "check", "he", "yelled", "one", "last", "time", "''", "``", "SHUT", "UP", "&", "LISTEN", "OR", "I", "WILL", "RIP", "THIS", "CHECK", "!!!", "Do", "n't", "you", "ever", "come", "back", "in", "my", "store", "asking", "for", "any", "service", "!!", "''", "''", "I", "felt", "very", "disrespected", "!"], "e1_text": "told", "e1_pos": 1, "e2_text": "handed", "e2_pos": 17, "label": "before"}
+]

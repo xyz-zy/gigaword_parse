@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "only", "complaint", "was", "that", "the", "place", "is", "a", "bit", "cramped", "and", "after", "we", "were", "finished", "eating", "our", "waitress", "kept", "checking", "back", "to", "see", "if", "we", "were", "all", "set", "with", "the", "check", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "were", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "note", "on", "the", "service", "...", "I", "spilled", "a", "glass", "of", "water", "before", "we", "rec", "'d", "our", "food", "and", "the", "entire", "spilled", "mess", "remained", "on", "our", "table", "for", "the", "entire", "meal", "!!"], "e1_text": "spilled", "e1_pos": 7, "e2_text": "'d", "e2_pos": 15, "label": "before"}
+]

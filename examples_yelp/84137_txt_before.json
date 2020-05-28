@@ -1,0 +1,3 @@
+[
+{"tokens": ["Both", "times", "in", "this", "restaurant", ",", "the", "appetizers", "came", "out", "very", "fast", "-LRB-", "within", "minutes", "of", "ordering", "-RRB-", "and", "the", "main", "entrees", "came", "out", "before", "the", "appetizers", "were", "finished", "."], "e1_text": "came", "e1_pos": 8, "e2_text": "were", "e2_pos": 27, "label": "before"}
+]

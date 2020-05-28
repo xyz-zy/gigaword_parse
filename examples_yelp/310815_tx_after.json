@@ -1,0 +1,4 @@
+[
+{"tokens": ["People", "that", "ordered", "way", "after", "me", "that", "had", "huge", "complicated", "orders", "received", "their", "food", "before", "I", "did", "."], "e1_text": "ordered", "e1_pos": 2, "e2_text": "had", "e2_pos": 7, "label": "after"},
+{"tokens": ["Once", "I", "received", "my", "food", "-LRB-", "15", "minutes", "after", "my", "friends", "had", "already", "gotten", "theirs", "-RRB-", ",", "it", "was", "okay", "."], "e1_text": "received", "e1_pos": 2, "e2_text": "had", "e2_pos": 11, "label": "after"}
+]

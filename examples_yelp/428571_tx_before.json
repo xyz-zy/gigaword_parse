@@ -1,0 +1,3 @@
+[
+{"tokens": ["Failure", "#", "1", "-", "drink", "orders", "were", "taken", "from", "the", "ladies", "and", "those", "came", "out", "quickly", "-LRB-", "within", "5-10", "minutes", "-RRB-", ";", "they", "did", "n't", "take", "drink", "orders", "from", "the", "guys", "for", "another", "5-10", "minutes", "and", "we", "waited", "a", "good", "15", "minutes", "before", "they", "came", "out", "."], "e1_text": "waited", "e1_pos": 37, "e2_text": "came", "e2_pos": 13, "label": "before"}
+]

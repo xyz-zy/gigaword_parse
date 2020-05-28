@@ -1,0 +1,4 @@
+[
+{"tokens": ["Really", "wish", "I", "would", "have", "looked", "at", "yelp", "before", "booking", "here", "."], "e1_text": "looked", "e1_pos": 5, "e2_text": "booking", "e2_pos": 9, "label": "before"},
+{"tokens": ["AND", "I", "knew", "they", "were", "under", "construction", "before", "we", "booked", "in", "June", ",", "and", "we", "were", "promised", "that", "the", "construction", "would", "be", "done", "before", "hand", "."], "e1_text": "were", "e1_pos": 4, "e2_text": "booked", "e2_pos": 9, "label": "before"}
+]

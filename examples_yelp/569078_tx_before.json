@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "n't", "a", "problem", "for", "me", "but", "we", "arrived", "at", "10", "minutes", "before", "11", "were", "handed", "a", "breakfast", "menu", ",", "and", "then", ",", "when", "the", "waitress", "showed", "up", "15", "minutes", "later", ",", "she", "said", "we", "could", "n't", "order", "any", "breakfast", "items", ",", "even", "the", "berries", "which", "does", "n't", "involve", "any", "breakfast", "cooking", "."], "e1_text": "arrived", "e1_pos": 9, "e2_text": "were", "e2_pos": 15, "label": "before"}
+]

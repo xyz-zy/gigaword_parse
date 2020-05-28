@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'ve", "never", "had", "sushi", "where", "the", "fish", "was", "cooked", "before", "putting", "it", "in", "the", "roll", "."], "e1_text": "cooked", "e1_pos": 9, "e2_text": "putting", "e2_pos": 11, "label": "before"}
+]

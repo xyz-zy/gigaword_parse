@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "took", "a", "look", "at", "the", "menu", "and", "he", "asked", "if", "I", "'d", "ever", "been", "there", "before", "."], "e1_text": "asked", "e1_pos": 9, "e2_text": "'d", "e2_pos": 12, "label": "before"},
+{"tokens": ["The", "burrito", "was", "a", "good", "size", "and", "I", "took", "a", "few", "bites", "before", "deciding", "to", "add", "some", "salsa", "to", "kick", "it", "up", "a", "little", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "deciding", "e2_pos": 13, "label": "before"}
+]

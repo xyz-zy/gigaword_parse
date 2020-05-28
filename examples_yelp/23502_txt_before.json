@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "always", "make", "my", "trip", "to", "OfficeMax", "first", "before", "I", "try", "anywhere", "else", "."], "e1_text": "make", "e1_pos": 2, "e2_text": "try", "e2_pos": 10, "label": "before"},
+{"tokens": ["Check", "them", "out", "before", "you", "go", "to", "other", "places", "."], "e1_text": "Check", "e1_pos": 0, "e2_text": "go", "e2_pos": 5, "label": "before"}
+]

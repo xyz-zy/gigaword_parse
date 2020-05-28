@@ -1,0 +1,3 @@
+[
+{"tokens": ["They", "are", "supposed", "to", "close", "at", "2", "am", "however", "when", "I", "came", "before", "that", "time", "I", "was", "told", "they", "already", "started", "to", "break", "things", "down", "and", "was", "closed", "for", "the", "night", "."], "e1_text": "came", "e1_pos": 11, "e2_text": "was", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Since", "I", "'ve", "dined", "here", "before", "I", "had", "to", "switch", "to", "a", "gluten", "free", "diet", ",", "I", "'ll", "just", "go", "ahead", "and", "tell", "you", "about", "all", "the", "food", ",", "versus", "just", "what", "I", "ate", "yesterday", "."], "e1_text": "dined", "e1_pos": 3, "e2_text": "had", "e2_pos": 7, "label": "before"},
+{"tokens": ["I", "also", "have", "to", "rave", "about", "their", "pecan", "crusted", "trout", "with", "peach", "salsa", "that", "I", "'ve", "has", "before", "."], "e1_text": "have", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 15, "label": "before"}
+]

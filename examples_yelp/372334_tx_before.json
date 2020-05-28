@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "do", "n't", "know", "why", "I", "never", "ate", "the", "roast", "pork", "loco", "moco", "before", "but", "it", "all", "just", "make", "sense", "!!", "Amazing", "!!!!", "I", "guess", "it", "just", "really", "big", "and", "I", "ca", "n't", "eat", "as", "much", "as", "I", "used", "to", "."], "e1_text": "ate", "e1_pos": 7, "e2_text": "make", "e2_pos": 18, "label": "before"},
+{"tokens": ["Soooo", "good", "!!", "I", "'ve", "tried", "their", "desserts", "before", "too", ".", "."], "e1_text": "!!", "e1_pos": 2, "e2_text": "'ve", "e2_pos": 4, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Service", "is", "ok", ",", "but", "if", "they", "forget", "part", "of", "your", "order", ",", "like", "the", "creamed", "horseradish", "for", "my", "husband", "'s", "prime", "rib", ",", "you", "can", "actually", "finish", "your", "meal", "before", "they", "bring", "it", "to", "you", "."], "e1_text": "finish", "e1_pos": 27, "e2_text": "bring", "e2_pos": 32, "label": "before"}
+]

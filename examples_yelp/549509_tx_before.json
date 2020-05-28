@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "went", "to", "the", "locker", "room", "to", "wash", "my", "face", "before", "leaving", "and", "there", "were", "no", "paper", "towels", "."], "e1_text": "wash", "e1_pos": 7, "e2_text": "leaving", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "is", "by", "far", "the", "WORST", "Starbucks", "that", "I", "kno", "of", "...", "I", "'ve", "never", "sat", "in", "a", "line", "so", "long", "before", "just", "got", "a", "coffee", "...", "I", "was", "in", "line", "for", "over", "20", "mins", "a", "few", "times", "and", "they", "never", "say", "thanks", "for", "waiting", "how", "may", "I", "take", "your", "order", "they", "just", "go", "straight", "into", "ordering", ".", "."], "e1_text": "sat", "e1_pos": 15, "e2_text": "got", "e2_pos": 23, "label": "before"}
+]

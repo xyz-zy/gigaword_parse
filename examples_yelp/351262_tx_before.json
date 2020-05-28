@@ -1,0 +1,4 @@
+[
+{"tokens": ["At", "least", "dont", "cube", "our", "steak", "...", "I", "wonder", "what", "it", "looked", "like", "before", "they", "cooked", "it", "!"], "e1_text": "looked", "e1_pos": 11, "e2_text": "cooked", "e2_pos": 15, "label": "before"},
+{"tokens": ["I", "hope", "you", "see", "this", "before", "you", "try", "to", "go", "here", ",", "I", "made", "the", "mistake", "of", "not", "checking", "yelp", "before", "I", "went", "and", "learned", "my", "lesson", "!"], "e1_text": "see", "e1_pos": 3, "e2_text": "try", "e2_pos": 7, "label": "before"}
+]

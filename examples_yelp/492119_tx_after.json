@@ -1,0 +1,3 @@
+[
+{"tokens": ["Bottom", "line", ":", "I", "give", "this", "buffet", "a", "3.5", "but", "am", "rounding", "down", "to", "3", "after", "having", "gone", "to", "the", "Bacchanal", "Buffet", "."], "e1_text": "rounding", "e1_pos": 11, "e2_text": "having", "e2_pos": 16, "label": "after"}
+]

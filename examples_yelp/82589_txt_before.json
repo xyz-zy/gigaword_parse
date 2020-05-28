@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "a", "''", "``", "tough", "case", "''", "''", "due", "to", "my", "sight", ",", "so", "said", "my", "Optometrist", "before", "referring", "me", "for", "corrective", "surgery", "."], "e1_text": "said", "e1_pos": 15, "e2_text": "referring", "e2_pos": 19, "label": "before"}
+]

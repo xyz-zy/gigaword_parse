@@ -1,0 +1,4 @@
+[
+{"tokens": ["Do", "n't", "get", "me", "wrong", ",", "I", "was", "immediately", "brought", "new", "silverware", ",", "but", "the", "lack", "of", "attention", "to", "catch", "that", "before", "rolling", "it", "up", "in", "a", "napkin", "makes", "me", "wonder", "what", "else", "gets", "over", "looked", "."], "e1_text": "catch", "e1_pos": 19, "e2_text": "makes", "e2_pos": 28, "label": "before"},
+{"tokens": ["I", "'ll", "give", "it", "another", "try", "before", "completely", "washing", "my", "hands", "over", "it", ",", "but", "it", "is", "going", "to", "have", "to", "work", "a", "little", "harder", "to", "change", "my", "mind", "completely", "."], "e1_text": "give", "e1_pos": 2, "e2_text": "washing", "e2_pos": 8, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Had", "talked", "about", "getting", "a", "puppy", "for", "some", "time", "and", "today", "ended", "up", "being", "the", "day", "after", "playing", "with", "a", "friend", "'s", "dog", "."], "e1_text": "ended", "e1_pos": 11, "e2_text": "playing", "e2_pos": 17, "label": "after"},
+{"tokens": ["Finally", "found", "our", "puppy", "after", "walking", "through", "5", "buildings", "full", "of", "dogs", "."], "e1_text": "found", "e1_pos": 1, "e2_text": "walking", "e2_pos": 5, "label": "after"}
+]

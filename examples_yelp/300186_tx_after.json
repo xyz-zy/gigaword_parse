@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "were", "offered", "7", "different", "alcoholic", "bevs", "to", "try", "and", "I", "have", "to", "admit", "I", "had", "to", "stop", "after", "trying", "4", "of", "them", "."], "e1_text": "stop", "e1_pos": 17, "e2_text": "trying", "e2_pos": 19, "label": "after"},
+{"tokens": ["I", "gave", "him", "a", "nice", "tip", "after", "ordering", "4", "drinks", ";-RRB-", "OH", "HAI", "CUTE", "ASIAN", "BARTENDER", "!!!", "Such", "a", "spacious", "club", "."], "e1_text": "gave", "e1_pos": 1, "e2_text": "ordering", "e2_pos": 7, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "literally", "waited", "months", "for", "my", "signs", "to", "come", "in", "...", "all", "this", "and", "they", "charged", "my", "credit", "card", "long", "before", "I", "received", "my", "signs", "."], "e1_text": "charged", "e1_pos": 15, "e2_text": "received", "e2_pos": 22, "label": "before"},
+{"tokens": ["Take", "my", "advice", ";", "there", "are", "a", "lot", "of", "sign", "companies", "out", "there", ",", "DONOT", "use", "this", "company", "!!!", "I", "wish", "I", "had", "looked", "on", "Yelp", "before", "I", "placed", "my", "order", ";", "I", "would", "have", "never", "used", "this", "company", "!"], "e1_text": "looked", "e1_pos": 23, "e2_text": "placed", "e2_pos": 28, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Then", "this", "woman", "wants", "to", "argue", "w", "us", "that", "she", "did", "n't", "see", "us", "playing", "so", "she", "refused", "to", "validate", "even", "after", "we", "explained", "that", "we", "were", "on", "the", "other", "side", "of", "the", "floor", "when", "we", "played", "."], "e1_text": "validate", "e1_pos": 19, "e2_text": "explained", "e2_pos": 23, "label": "after"}
+]

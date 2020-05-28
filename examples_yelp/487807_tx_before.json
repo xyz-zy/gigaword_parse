@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "I", "first", "attempted", "to", "contact", "Debbie", "back", "in", "May", ",", "it", "took", "5", "calls", ",", "2", "voicemails", ",", "and", "multiple", "emails", "over", "the", "course", "of", "two", "weeks", "before", "I", "even", "got", "an", "initial", "response", "."], "e1_text": "took", "e1_pos": 12, "e2_text": "got", "e2_pos": 31, "label": "before"}
+]

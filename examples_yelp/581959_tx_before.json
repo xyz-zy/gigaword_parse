@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "read", "an", "article", "a", "while", "back", "that", "the", "current", "-LRB-", "maybe", "not", "by", "the", "time", "you", "read", "this", "-RRB-", "New", "York", "Jets", "coach", ",", "Rex", "Ryan", ",", "would", "eat", "12", "tacos", "for", "dinner", "before", "he", "had", "gastric", "bypass", "."], "e1_text": "eat", "e1_pos": 29, "e2_text": "had", "e2_pos": 36, "label": "before"}
+]

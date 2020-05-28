@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "'m", "going", "to", "preface", "this", "review", "by", "saying", "that", "I", "stayed", "here", "for", "a", "few", "nights", "after", "receiving", "a", "special", "offer", "for", "a", "$", "22\\/night", "rate", "-LRB-", "plus", "an", "$", "18\\/night", "''", "``", "resort", "fee", "''", "''", "which", "gets", "you", "wifi", "--", "for", "one", "device", "--", "and", "not", "a", "whole", "heck", "of", "a", "lot", "else", "-RRB-", ",", "so", "consider", "that", "the", "entire", "trip", "was", "done", "somewhat", "on", "the", "cheap", "when", "reading", "the", "following", "."], "e1_text": "stayed", "e1_pos": 11, "e2_text": "receiving", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "brought", "out", "half", "of", "our", "fondue", ",", "and", "then", "served", "someone", "else", "before", "bringing", "the", "rest", "!"], "e1_text": "served", "e1_pos": 10, "e2_text": "bringing", "e2_pos": 14, "label": "before"}
+]

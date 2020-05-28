@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "make", "sure", "the", "dry", "puff", "did", "not", "get", "stuck", "in", "my", "esophagus", ",", "I", "washed", "it", "down", "with", "a", "glass", "of", "water", "after", "carefully", "chewing", "the", "ice", "cream", "and", "fudge", "into", "it", "."], "e1_text": "washed", "e1_pos": 15, "e2_text": "chewing", "e2_pos": 25, "label": "after"},
+{"tokens": ["In", "Sugar", "Bowl", "'s", "defense", ",", "however", ",", "it", "did", "not", "claim", "anywhere", "in", "the", "menu", "that", "the", "ice", "cream", "served", "here", "was", "hand-made", "in", "the", "store", ",", "but", "I", "only", "realized", "this", "after", "re-studying", "the", "menu", "following", "my", "first", "unsatisfying", "bite", "."], "e1_text": "realized", "e1_pos": 31, "e2_text": "re-studying", "e2_pos": 34, "label": "after"}
+]

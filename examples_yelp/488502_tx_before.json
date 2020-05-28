@@ -1,0 +1,4 @@
+[
+{"tokens": ["They", "did", "n't", "say", "that", "they", "were", "going", "to", "sit", "on", "the", "gun", "for", "two", "weeks", "before", "sending", "it", "back", ".", "''"], "e1_text": "sit", "e1_pos": 9, "e2_text": "sending", "e2_pos": 17, "label": "before"},
+{"tokens": ["Having", "worked", "for", "an", "FFL", ",", "I", "know", "exactly", "what", "'s", "involved", "in", "processing", "incoming", "and", "outgoing", "firearms", ",", "so", "I", "gave", "AZ", "Firearms", "three", "hours", "before", "I", "pinged", "them", ".", "''"], "e1_text": "gave", "e1_pos": 21, "e2_text": "pinged", "e2_pos": 28, "label": "before"}
+]

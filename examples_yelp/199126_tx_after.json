@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "should", "have", "known", "things", "would", "go", "wrong", "after", "the", "conversation", "I", "had", "with", "the", "girl", "trying", "to", "make", "my", "reservation", "...", "I", "told", "her", "I", "wanted", "it", "for", "Saturday", "March", "26th", "at", "7:30", "pm", "for", "16", "people", "."], "e1_text": "go", "e1_pos": 6, "e2_text": "had", "e2_pos": 12, "label": "after"},
+{"tokens": ["And", "you", "would", "think", "after", "the", "manager", "was", "so", "rude", "to", "begin", "with", ",", "he", "would", "have", "just", "let", "it", "go", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "was", "e2_pos": 7, "label": "after"}
+]

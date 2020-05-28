@@ -1,0 +1,6 @@
+[
+{"tokens": ["The", "espresso", "tasted", "like", "it", "had", "either", "been", "burned", "or", "sitting", "for", "a", "while", "before", "she", "added", "it", "to", "the", "water", "."], "e1_text": "sitting", "e1_pos": 10, "e2_text": "added", "e2_pos": 16, "label": "before"},
+{"tokens": ["Neither", "of", "us", "took", "more", "than", "a", "couple", "of", "sips", "before", "deciding", "to", "throw", "our", "drinks", "away", "."], "e1_text": "took", "e1_pos": 3, "e2_text": "deciding", "e2_pos": 11, "label": "before"},
+{"tokens": ["To", "add", "insult", "to", "injury", ",", "I", "gave", "the", "girl", "a", "100", "%", "tip", "before", "she", "was", "rude", "to", "me", "and", "made", "us", "2", "undrinkable", "beverages", "."], "e1_text": "gave", "e1_pos": 7, "e2_text": "was", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "ended", "up", "throwing", "my", "drink", "out", "before", "I", "got", "back", "to", "the", "tire", "shop", ",", "a", "mere", "1", "min", "walk", "from", "Xtreme", "Bean", "'s", "front", "door", "to", "the", "tire", "shops", "entrance", "."], "e1_text": "ended", "e1_pos": 1, "e2_text": "got", "e2_pos": 9, "label": "before"}
+]

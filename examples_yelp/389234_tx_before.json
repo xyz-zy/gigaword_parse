@@ -1,0 +1,4 @@
+[
+{"tokens": ["Tip", ":", "There", "are", "mini", "sample", "cups", "at", "the", "front", "so", "you", "can", "try", "before", "you", "buy", "."], "e1_text": "try", "e1_pos": 13, "e2_text": "buy", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "like", "to", "sample", "every", "flavor", "twice", "before", "I", "make", "my", "decision", "."], "e1_text": "sample", "e1_pos": 3, "e2_text": "make", "e2_pos": 9, "label": "before"}
+]

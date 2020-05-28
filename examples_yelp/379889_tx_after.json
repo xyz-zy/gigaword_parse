@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "was", "just", "after", "brunch", "...", "about", "1:15", "or", "so", "-LRB-", "they", "serve", "until", "1:00", "pm", "...", "last", "call", "brunch", "is", "at", "12:45", ".", "-RRB-"], "e1_text": "was", "e1_pos": 1, "e2_text": "serve", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "one", "thing", "I", "did", "n't", "like", "was", "how", "crunchy", "my", "focaccia", "was", "at", "first", "...", "but", "then", "noticed", "how", "easily", "it", "was", "to", "bite", "in", "after", "I", "tried", "it", "."], "e1_text": "bite", "e1_pos": 24, "e2_text": "tried", "e2_pos": 28, "label": "after"}
+]

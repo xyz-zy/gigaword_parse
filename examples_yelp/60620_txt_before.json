@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "folks", "were", "fast", "and", "courteous", "I", "came", "in", "45minutes", "before", "they", "closed", "and", "they", "brought", "in", "the", "SUV", "within", "30minutes", "of", "closing", "."], "e1_text": "came", "e1_pos": 7, "e2_text": "closed", "e2_pos": 12, "label": "before"}
+]

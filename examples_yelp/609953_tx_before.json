@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "stopping", "in", "for", "a", "quick", "-LRB-", "or", "not", "so", "quick", "-RRB-", "lunch", "right", "before", "day", "club", "and", "the", "whole", "experience", "was", "quite", "disappointing", "."], "e1_text": "stopping", "e1_pos": 3, "e2_text": "was", "e2_pos": 23, "label": "before"},
+{"tokens": ["We", "ended", "up", "having", "only", "10", "minutes", "to", "eat", "before", "we", "had", "to", "rush", "out", "because", "it", "took", "the", "food", "so", "much", "longer", "than", "we", "expected", "to", "come", "out", "."], "e1_text": "eat", "e1_pos": 8, "e2_text": "had", "e2_pos": 11, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["Not", "once", "did", "they", "check", "on", "us", "after", "we", "got", "our", "food", "btw", "."], "e1_text": "check", "e1_pos": 4, "e2_text": "got", "e2_pos": 9, "label": "after"},
+{"tokens": ["We", "were", "all", "dressed", "decent", ",", "respectful", "the", "whole", "time", "but", "we", "were", "treated", "like", "we", "could", "n't", "afford", "food", "even", "after", "we", "paid", "$", "70", "for", "our", "foods", "."], "e1_text": "afford", "e1_pos": 18, "e2_text": "paid", "e2_pos": 23, "label": "after"}
+]

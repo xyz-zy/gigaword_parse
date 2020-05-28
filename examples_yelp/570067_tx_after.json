@@ -1,0 +1,4 @@
+[
+{"tokens": ["Wicked", "spoon", "is", "by", "far", "by", "favorite", "Vegas", "buffet", ",", "but", "after", "reading", "reviews", "about", "how", "it", "'s", "''", "``", "fallen", "off", "''", "''", "we", "decided", "to", "try", "Cesar", "'s", "."], "e1_text": "is", "e1_pos": 2, "e2_text": "decided", "e2_pos": 25, "label": "after"},
+{"tokens": ["Standing", "in", "line", "eagerly", ",", "even", "after", "we", "heard", "it", "'d", "be", "a", "45", "minute", "wait", "."], "e1_text": "Standing", "e1_pos": 0, "e2_text": "heard", "e2_pos": 8, "label": "after"}
+]

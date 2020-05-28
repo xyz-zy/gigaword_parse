@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "like", "to", "think", "of", "it", "as", "a", "little", "exercise", "before", "filling", "up", "on", "crab", "legs", ",", "steak", "and", "gelato", "."], "e1_text": "think", "e1_pos": 3, "e2_text": "filling", "e2_pos": 11, "label": "before"},
+{"tokens": ["Be", "sure", "you", "factor", "in", "wait", "times", "before", "coming", "here", "."], "e1_text": "factor", "e1_pos": 3, "e2_text": "coming", "e2_pos": 8, "label": "before"}
+]

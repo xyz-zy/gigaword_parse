@@ -1,0 +1,4 @@
+[
+{"tokens": ["Went", "to", "pre-drink", "here", "before", "we", "headed", "to", "the", "Wynn", "."], "e1_text": "pre-drink", "e1_pos": 2, "e2_text": "headed", "e2_pos": 6, "label": "before"},
+{"tokens": ["Pretty", "decent", "bar", "to", "hang", "before", "heading", "to", "the", "''", "``", "fancy", "''", "''", "clubs", "."], "e1_text": "hang", "e1_pos": 4, "e2_text": "heading", "e2_pos": 6, "label": "before"}
+]

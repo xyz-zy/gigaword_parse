@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "lady", "brought", "out", "my", "water", "quickly", ",", "took", "my", "order", "quickly", ",", "and", "before", "I", "knew", "it", ",", "my", "bowl", "of", "pho", "arrived", "at", "my", "table", "."], "e1_text": "brought", "e1_pos": 2, "e2_text": "knew", "e2_pos": 16, "label": "before"},
+{"tokens": ["I", "went", "straight", "in", "and", "tried", "the", "broth", "before", "adding", "any", "hot", "sauce", "."], "e1_text": "tried", "e1_pos": 5, "e2_text": "adding", "e2_pos": 9, "label": "before"}
+]

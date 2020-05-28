@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "handed", "the", "clerk", "my", "card", ",", "after", "he", "grabbed", "it", ",", "he", "stared", "at", "it", "for", "at", "least", "20", "seconds", "before", "swiping", "it", "through", "-LRB-", "he", "also", "stared", "at", "the", "back", "for", "a", "few", "seconds", ",", "probably", "to", "memorize", "the", "card", "number", "and", "the", "secure", "code", "-RRB-", "."], "e1_text": "handed", "e1_pos": 1, "e2_text": "grabbed", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "feel", "so", "strongly", "in", "giving", "a", "1-star", "review", ",", "that", "I", "'m", "taking", "the", "time", "out", "to", "write", "this", "at", "midnight", "after", "just", "flying", "back", "from", "Arizona", "."], "e1_text": "write", "e1_pos": 18, "e2_text": "flying", "e2_pos": 24, "label": "after"},
+{"tokens": ["Could", "n't", "he", "just", "do", "that", "after", "we", "checked", "out", "?"], "e1_text": "do", "e1_pos": 4, "e2_text": "checked", "e2_pos": 8, "label": "after"}
+]

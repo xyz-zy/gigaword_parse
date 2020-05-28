@@ -1,0 +1,3 @@
+[
+{"tokens": ["It", "came", "with", "a", "side", "of", "fries", "and", "so", "I", "asked", "for", "a", "side", "of", "ranch", "but", "the", "waitress", "did", "not", "mention", "that", "it", "would", "be", "an", "extra", "fifty", "cents", "...", "it", "'s", "only", "fifty", "cents", "but", "it", "would", "have", "been", "polite", "if", "she", "mentioned", "it", "before", "bringing", "it", "out", "...", "...", "Didnt", "even", "know", "until", "she", "brought", "the", "check", "out", "."], "e1_text": "mentioned", "e1_pos": 44, "e2_text": "bringing", "e2_pos": 47, "label": "before"}
+]

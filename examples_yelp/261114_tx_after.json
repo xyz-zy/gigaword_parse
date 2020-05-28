@@ -1,0 +1,3 @@
+[
+{"tokens": ["With", "my", "last", "three", "appointments", ",", "I", "'ve", "waited", "at", "least", "45", "minutes", "in", "the", "waiting", "room", "as", "patients", "who", "arrived", "after", "me", "got", "called", "back", "first", "."], "e1_text": "arrived", "e1_pos": 20, "e2_text": "got", "e2_pos": 23, "label": "after"}
+]

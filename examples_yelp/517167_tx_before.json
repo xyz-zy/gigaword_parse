@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "briefly", "read", "a", "review", "before", "going", "to", "my", "appointment", ",", "and", "-LRB-", "silly", "me", "-RRB-", "thought", "the", "reviewer", "might", "be", "exaggerating", "with", "their", "note", "about", "''", "``", "Three", "hours", "''", "''", "to", "have", "her", "hair", "done", "."], "e1_text": "read", "e1_pos": 2, "e2_text": "going", "e2_pos": 6, "label": "before"}
+]

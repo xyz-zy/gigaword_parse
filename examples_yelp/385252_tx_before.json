@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "went", "on", "Friday", "night", "specifically", "for", "happy", "hour", "got", "there", "10", "minutes", "before", "it", "ended", "by", "the", "time", "they", "seated", "us", ",", "it", "was", "7:00", "and", "we", "were", "told", "happy", "hour", "was", "over", "no", "exceptions", "."], "e1_text": "got", "e1_pos": 9, "e2_text": "ended", "e2_pos": 15, "label": "before"}
+]

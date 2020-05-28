@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "exit", "and", "drive", "from", "the", "Grandview", "Resort", "Front", "Desk", "to", "the", "Primrose", "Building", "#", "2", "...", "something", "felt", "amiss", "after", "leaving", "the", "Front", "Desk", "."], "e1_text": "felt", "e1_pos": 18, "e2_text": "leaving", "e2_pos": 21, "label": "after"},
+{"tokens": ["However", ",", "to", "my", "utter", "dismay-a", "sales", "rep", "approaches", "me", "at", "the", "Front", "Desk", "when", "I", "asked", "for", "my", "lunch", "voucher", "after", "waiting", "so", "long-45", "MINUTES", "LATER", ";", "it", "'s", "12:30", "PM", "."], "e1_text": "asked", "e1_pos": 16, "e2_text": "waiting", "e2_pos": 22, "label": "after"}
+]

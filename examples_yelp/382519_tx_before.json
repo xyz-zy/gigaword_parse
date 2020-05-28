@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "wanted", "some", "Ketchup", "but", "had", "finished", "my", "fries", "before", "it", "came", "."], "e1_text": "finished", "e1_pos": 6, "e2_text": "came", "e2_pos": 11, "label": "before"},
+{"tokens": ["I", "wanted", "a", "napkin", ",", "but", "the", "cheese", "already", "dried", "on", "my", "hands", "before", "it", "came", "!"], "e1_text": "dried", "e1_pos": 9, "e2_text": "came", "e2_pos": 15, "label": "before"}
+]

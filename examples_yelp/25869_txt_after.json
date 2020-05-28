@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "walk", "up", "to", "the", "bar", "to", "get", "my", "food", "warmed", "up", "and", "had", "to", "wait", "10-15", "mins", "to", "get", "a", "refill", "on", "salsa", "after", "I", "initially", "requested", "it", "."], "e1_text": "get", "e1_pos": 9, "e2_text": "requested", "e2_pos": 29, "label": "after"},
+{"tokens": ["It", "also", "took", "him", "another", "10", "mins", "or", "so", "to", "bring", "the", "bill", "after", "I", "initially", "requested", "it", "."], "e1_text": "bring", "e1_pos": 10, "e2_text": "requested", "e2_pos": 16, "label": "after"}
+]

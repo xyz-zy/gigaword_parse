@@ -1,0 +1,3 @@
+[
+{"tokens": ["Little", "does", "she", "know", "that", "after", "a", "ton", "of", "discounts", "applied", "to", "my", "purchase", ",", "I", "actually", "got", "that", "dress", "for", "significantly", "less", "than", "she", "credited", "me", "."], "e1_text": "know", "e1_pos": 3, "e2_text": "applied", "e2_pos": 10, "label": "after"}
+]

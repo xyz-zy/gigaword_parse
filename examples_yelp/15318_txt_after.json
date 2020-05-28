@@ -1,0 +1,3 @@
+[
+{"tokens": ["These", "are", "routine", "tests", "that", "are", "usually", "done", "a", "few", "hours", "after", "they", "are", "ordered", "."], "e1_text": "done", "e1_pos": 7, "e2_text": "are", "e2_pos": 1, "label": "after"}
+]

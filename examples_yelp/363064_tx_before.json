@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "waited", "10", "minutes", "for", "water", "before", "I", "approached", "the", "hostess", "."], "e1_text": "waited", "e1_pos": 1, "e2_text": "approached", "e2_pos": 8, "label": "before"},
+{"tokens": ["There", "were", "plenty", "of", "servers", "walking", "around", "but", "no", "one", "ever", "checked", "in", "on", "us", "before", "we", "left", "."], "e1_text": "checked", "e1_pos": 11, "e2_text": "left", "e2_pos": 17, "label": "before"}
+]

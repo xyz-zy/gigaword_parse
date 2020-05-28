@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "made", "sure", "to", "grab", "three", "to", "four", "cups", "of", "the", "salsa", "from", "the", "salsa", "bar", "before", "lugging", "my", "brick", "of", "a", "burrito", "home", "to", "devour", "it", "."], "e1_text": "grab", "e1_pos": 4, "e2_text": "lugging", "e2_pos": 17, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "purchased", "the", "beef", "teriyaki", "combo", "-LRB-", "which", "was", "rung", "up", "wrong", "and", "had", "to", "be", "fixed", "after", "I", "waited", "for", "my", "food", "for", "20", "mins", "-RRB-", "."], "e1_text": "had", "e1_pos": 13, "e2_text": "waited", "e2_pos": 19, "label": "after"}
+]

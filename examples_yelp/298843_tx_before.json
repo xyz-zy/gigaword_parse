@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "received", "my", "chirashi", "probably", "20-30", "minutes", "at", "least", "if", "not", "longer", ",", "before", "anything", "else", "came", "out", "of", "the", "kitchen", "-LRB-", "my", "wife", "sent", "it", "back", "to", "be", "chilled", "since", "it", "was", "out", "so", "long", "-RRB-", "."], "e1_text": "received", "e1_pos": 1, "e2_text": "came", "e2_pos": 16, "label": "before"}
+]

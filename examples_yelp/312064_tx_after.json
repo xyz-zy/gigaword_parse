@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "to", "wait", "considerably", "longer", "for", "the", "salad", "-LRB-", "a", "big", "disappointment", ";", "a", "lump", "of", "greasy", "seaweed", "on", "top", "of", "a", "huge", "pile", "of", "oily", "lettuce", "-RRB-", ",", "and", "my", "carpaccio", "came", "out", "20", "minutes", "or", "so", "after", "Jamie", "had", "finished", "his", "second", "course", "."], "e1_text": "came", "e1_pos": 33, "e2_text": "had", "e2_pos": 1, "label": "after"},
+{"tokens": ["Jamie", "also", "had", "to", "stop", "the", "waitress", "to", "ask", "for", "his", "soda", "to", "be", "refilled", ",", "after", "she", "walked", "past", "his", "empty", "glass", "several", "times", "."], "e1_text": "be", "e1_pos": 13, "e2_text": "walked", "e2_pos": 18, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "had", "n't", "eaten", "Ethiopian", "in", "over", "a", "decade", "before", "visiting", "this", "cozy", "spot", "in", "Tempe", "so", "I", "was", "expecting", "to", "be", "wowed", "."], "e1_text": "eaten", "e1_pos": 3, "e2_text": "visiting", "e2_pos": 10, "label": "before"},
+{"tokens": ["Even", "though", "we", "were", "standing", "at", "the", "entrance", "for", "a", "little", "while", "before", "a", "table", "was", "cleaned", "off", ",", "the", "waiter", "cordially", "greeted", "and", "seated", "us", "."], "e1_text": "standing", "e1_pos": 4, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

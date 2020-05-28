@@ -1,0 +1,4 @@
+[
+{"tokens": ["i", "have", "to", "say", "i", "had", "incredibly", "low", "expectations", "of", "spirit", "after", "reading", "all", "the", "negative", "reviews", "on", "here", "."], "e1_text": "had", "e1_pos": 5, "e2_text": "reading", "e2_pos": 12, "label": "after"},
+{"tokens": ["it", "made", "me", "forget", "about", "how", "banged", "up", "i", "was", "after", "spending", "a", "few", "days", "partying", "in", "vegas", "."], "e1_text": "was", "e1_pos": 9, "e2_text": "spending", "e2_pos": 11, "label": "after"}
+]

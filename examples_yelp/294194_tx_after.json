@@ -1,0 +1,3 @@
+[
+{"tokens": ["After", "paying", "for", "our", "food", ",", "me", "and", "the", "boyfriend", "waited", "for", "a", "long", "time", ",", "everyone", "before", "us", "had", "gotten", "their", "order", "and", "people", "after", "us", "started", "to", "get", "their", "orders", "."], "e1_text": "gotten", "e1_pos": 20, "e2_text": "started", "e2_pos": 27, "label": "after"}
+]

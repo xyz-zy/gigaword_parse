@@ -1,0 +1,4 @@
+[
+{"tokens": ["Several", "months", "ago", "my", "husband", "left", "after", "waiting", "more", "than", "an", "hour", ",", "STILL", "waiting", "to", "be", "called", "back", "!"], "e1_text": "left", "e1_pos": 5, "e2_text": "waiting", "e2_pos": 7, "label": "after"},
+{"tokens": ["We", "did", "after", "all", "have", "to", "make", "plans", "for", "a", "sitter", "and", "readjust", "our", "day", ",", "we", "expect", "the", "same", "respect", "in", "return", "."], "e1_text": "did", "e1_pos": 1, "e2_text": "have", "e2_pos": 4, "label": "after"}
+]

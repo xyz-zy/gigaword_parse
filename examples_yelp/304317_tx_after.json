@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "stopped", "by", "this", "location", "after", "having", "tried", "a", "previous", "Black", "Bear", "Diner", "in", "Tulare", ",", "CA", "while", "traveling", "."], "e1_text": "stopped", "e1_pos": 1, "e2_text": "having", "e2_pos": 6, "label": "after"},
+{"tokens": ["I", "came", "with", "a", "group", ",", "and", "everybody", "was", "satisfied", "after", "dining", "here", "."], "e1_text": "was", "e1_pos": 8, "e2_text": "dining", "e2_pos": 11, "label": "after"}
+]

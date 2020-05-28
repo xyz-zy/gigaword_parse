@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "driver", "was", "really", "kinda", "late", "-LRB-", "she", "called", "about", "20", "minutes", "before", "she", "showed", "up", "at", "my", "door", "saying", "she", "was", "going", "to", "be", "late", "-RRB-", "."], "e1_text": "called", "e1_pos": 8, "e2_text": "showed", "e2_pos": 14, "label": "before"}
+]

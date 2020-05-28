@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "did", "n't", "go", "inside", "to", "inspect", "the", "house", "until", "after", "the", "girl", "left", "but", "when", "I", "did", ",", "I", "was", "sorely", "disappointed", "."], "e1_text": "inspect", "e1_pos": 6, "e2_text": "left", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "to", "ask", "her", "to", "give", "me", "a", "cup", "for", "the", "drink", "I", "ordered", "after", "she", "just", "turned", "away", "from", "us", "to", "help", "the", "next", "customer", "."], "e1_text": "ordered", "e1_pos": 14, "e2_text": "turned", "e2_pos": 18, "label": "after"}
+]

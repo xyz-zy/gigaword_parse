@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "mentioned", "to", "the", "waitress", "that", "my", "buckwheat", "crepe", "-LRB-", "which", "was", "cooked", "perfectly", "-RRB-", "was", "cold", "inside", "-LRB-", "I", "do", "n't", "think", "they", "warmed", "up", "the", "ham", "in", "any", "way", "before", "filling", "-RRB-", "she", "kindly", "comped", "our", "coffees", "."], "e1_text": "warmed", "e1_pos": 24, "e2_text": "filling", "e2_pos": 32, "label": "before"}
+]

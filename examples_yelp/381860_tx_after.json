@@ -1,0 +1,3 @@
+[
+{"tokens": ["Many", "times", ",", "when", "I", "first", "drive", "up", "to", "a", "place", "and", "I", "see", "3", "or", "more", "of", "the", "staff", "outside", "the", "back", "door", "smoking", "cigarettes", "I", "will", "hop", "back", "in", "my", "car", "and", "leave", ",", "but", "this", "place", "had", "really", "good", "write", "ups", "and", "we", "were", "in", "the", "mood", "for", "some", "super", "Italian", "food", "after", "working", "all", "day", "so", "we", "decided", "to", "give", "it", "a", "try", "anyway", "."], "e1_text": "were", "e1_pos": 46, "e2_text": "working", "e2_pos": 56, "label": "after"}
+]

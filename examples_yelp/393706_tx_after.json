@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "get", "full", "easily", "so", "after", "eating", "all", "the", "noodles", "+", "the", "meat", ",", "I", "do", "n't", "want", "to", "touch", "the", "broth", "."], "e1_text": "get", "e1_pos": 1, "e2_text": "eating", "e2_pos": 6, "label": "after"},
+{"tokens": ["The", "second", "time", "that", "I", "went", ",", "I", "took", "a", "party", "of", "12", "with", "me", "-LRB-", "after", "watching", "Fast", "Five", "-RRB-", "."], "e1_text": "took", "e1_pos": 8, "e2_text": "watching", "e2_pos": 17, "label": "after"}
+]

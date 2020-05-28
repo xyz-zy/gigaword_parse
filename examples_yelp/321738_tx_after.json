@@ -1,0 +1,4 @@
+[
+{"tokens": ["Just", "went", "today", "after", "reading", "the", "reviews", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "reading", "e2_pos": 4, "label": "after"},
+{"tokens": ["I", "ate", "the", "cream", "filled", "round", "bread", "with", "powdered", "sugar", "on", "top", "-LRB-", "Sorry", ",", "I", "do", "n't", "remember", "the", "name", "-RRB-", "right", "after", "I", "got", "home", "and", "it", "was", "yummy", "!"], "e1_text": "filled", "e1_pos": 4, "e2_text": "got", "e2_pos": 25, "label": "after"}
+]

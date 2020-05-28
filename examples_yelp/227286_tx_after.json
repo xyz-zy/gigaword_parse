@@ -1,0 +1,3 @@
+[
+{"tokens": ["Further", ",", "a", "''", "``", "new", "''", "''", "Yelp", "member", "-LRB-", "0", "reviews\\/comments", "-RRB-", "has", "accessed", "my", "messages", "-LRB-", "after", "I", "blocked", "the", "owner", "-RRB-", "and", "continued", "the", "rant", "...", "."], "e1_text": "accessed", "e1_pos": 15, "e2_text": "blocked", "e2_pos": 21, "label": "after"}
+]

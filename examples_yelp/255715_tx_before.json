@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "was", "looking", "forward", "to", "getting", "a", "piece", "of", "wedding", "cake", "-LRB-", "my", "husband", "and", "I", "got", "married", "the", "day", "before", "we", "went", "to", "the", "bakery", "-RRB-", "."], "e1_text": "got", "e1_pos": 16, "e2_text": "went", "e2_pos": 22, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["To", "eat", "it", ",", "miners", "would", "hold", "the", "pasty", "at", "the", "crimped", "edge", ",", "and", "then", "discard", "that", "part", "after", "eating", "the", "rest", "of", "the", "pasty", "."], "e1_text": "discard", "e1_pos": 16, "e2_text": "eating", "e2_pos": 20, "label": "after"},
+{"tokens": ["Filled", "with", "creamy", "peanut", "butter", ",", "raspberry", "preserves", "and", "sliced", "banana", ",", "the", "sweet", "goodness", "oozed", "out", "after", "the", "first", "cut", "was", "made", "."], "e1_text": "oozed", "e1_pos": 15, "e2_text": "was", "e2_pos": 21, "label": "after"}
+]

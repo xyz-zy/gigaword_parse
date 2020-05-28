@@ -1,0 +1,3 @@
+[
+{"tokens": ["Three", "''", "``", "No", "'s", "''", "''", "during", "the", "initial", "conversation", ",", "coupled", "with", "three", "''", "``", "No", "'s", "''", "''", "when", "I", "checked", "in", ",", "compounded", "by", "another", "two", "''", "``", "No", "'s", "''", "''", "after", "checking", "in", "when", "an", "Agent", "called", "my", "room", "is", "not", "acceptable", "."], "e1_text": "No", "e1_pos": 32, "e2_text": "checking", "e2_pos": 37, "label": "after"}
+]

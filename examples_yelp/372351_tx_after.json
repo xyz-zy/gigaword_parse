@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "were", "told", "that", "usually", "the", "owner", "would", "have", "checked", "out", "our", "order", "before", "it", "went", "out", ",", "but", "on", "that", "particular", "day", ",", "she", "came", "in", "after", "we", "picked", "up", "the", "order", "."], "e1_text": "came", "e1_pos": 25, "e2_text": "picked", "e2_pos": 29, "label": "after"}
+]

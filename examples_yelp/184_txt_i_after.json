@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "place", "is", "gigantic", ",", "with", "tables", "and", "serving", "areas", "everywhere", ",", "yet", "on", "a", "Saturday", "at", "6PM", ",", "the", "hostess", "told", "us", "-LRB-", "after", "interrupting", "us", "three", "times", "to", "chat", "with", "the", "other", "hostess", "-RRB-", "told", "us", "it", "would", "be", "a", "three", "hour", "wait", ",", "despite", "the", "fact", "that", "there", "were", "empty", "tables", "all", "over", "the", "dining", "room", "."], "e1_text": "told", "e1_pos": 21, "e2_text": "interrupting", "e2_pos": 25, "label": "after"}
+]

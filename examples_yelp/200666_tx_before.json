@@ -1,0 +1,4 @@
+[
+{"tokens": ["...", "Other", "guests", "were", "approached", "and", "and", "served", "before", "they", "were", "even", "finished", "with", "their", "current", "drinks", "."], "e1_text": "served", "e1_pos": 7, "e2_text": "were", "e2_pos": 3, "label": "before"},
+{"tokens": ["Ok", "...", "I", "'m", "gon", "na", "let", "this", "bartender", "pass", "me", "one", "more", "time", "before", "I", "get", "up", "and", "leave", "."], "e1_text": "pass", "e1_pos": 9, "e2_text": "get", "e2_pos": 16, "label": "before"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "overpriced", "pasta", "I", "had", "was", "tasty", ",", "but", "I", "was", "certainly", "still", "very", "hungry", "after", "finishing", "it", "."], "e1_text": "was", "e1_pos": 5, "e2_text": "finishing", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "understand", "that", "pasta", "is", "traditionally", "a", "mid-course", "in", "many", "fine", "dining", "restaurants", ",", "and", "that", "it", "is", "not", "always", "large", "in", "size", ",", "but", "after", "serving", "hearty", "portions", "of", "pasta", "for", "years", "and", "years", ",", "to", "completely", "change", "your", "concept", "by", "giving", "us", "less", "food", "for", "more", "money", "seems", "pretty", "unintelligent", ",", "especially", "in", "an", "economic", "slump", "."], "e1_text": "understand", "e1_pos": 1, "e2_text": "seems", "e2_pos": 49, "label": "after"}
+]

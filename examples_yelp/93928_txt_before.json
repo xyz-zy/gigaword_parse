@@ -1,0 +1,4 @@
+[
+{"tokens": ["Made", "my", "order", "wrong", "and", "I", "failed", "to", "check", "it", "before", "I", "left", "."], "e1_text": "check", "e1_pos": 8, "e2_text": "left", "e2_pos": 12, "label": "before"},
+{"tokens": ["Fortunately", "I", "had", "checked", "before", "I", "left", "!"], "e1_text": "checked", "e1_pos": 3, "e2_text": "left", "e2_pos": 6, "label": "before"}
+]

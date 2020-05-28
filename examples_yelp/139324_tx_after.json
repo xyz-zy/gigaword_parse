@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "food", "arrived", "pretty", "soon", "after", "with", "some", "brightly", "colored", "melamine", "plates", "but", "--", "still", "no", "napkins", "or", "silverware", ",", "which", "was", "a", "bummer", "since", "of", "course", "chips", "'n'", "salsa", "can", "be", "a", "bit", "messy", "."], "e1_text": "arrived", "e1_pos": 2, "e2_text": "colored", "e2_pos": 9, "label": "after"},
+{"tokens": ["She", "never", "did", "take", "away", "our", "menus", "after", "we", "'d", "ordered", "so", "I", "finally", "moved", "them", "to", "an", "adjacent", "table", "."], "e1_text": "take", "e1_pos": 3, "e2_text": "'d", "e2_pos": 9, "label": "after"}
+]

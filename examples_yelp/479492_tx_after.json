@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "make", "sure", "not", "to", "miss", "it", "!!", "I", "became", "acquainted", "with", "this", "sweet", "bakery", "after", "getting", "a", "fruit", "tart", "from", "a", "good", "friends", "."], "e1_text": "became", "e1_pos": 9, "e2_text": "getting", "e2_pos": 16, "label": "after"},
+{"tokens": ["So", "I", "decided", "after", "having", "such", "sweet", "treat", ",", "I", "had", "to", "share", "some", "of", "this", "goodness", "with", "others", ",", "and", "who", "better", "than", "my", "family", "?!", "That", "is", "why", "I", "decided", "to", "order", "a", "full", "size", "fruit", "tart", "and", "have", "it", "decorated", "in", "honor", "of", "my", "brother", "'s", "graduation", "!!", "It", "was", "great", "!!", "My", "brother", "really", "liked", "it", ",", "and", "so", "did", "the", "rest", "of", "my", "family", "."], "e1_text": "decided", "e1_pos": 2, "e2_text": "had", "e2_pos": 10, "label": "after"}
+]

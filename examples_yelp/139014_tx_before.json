@@ -1,0 +1,3 @@
+[
+{"tokens": ["There", "was", "one", "couple", "sitting", "at", "the", "bar", "when", "we", "walked", "in", ",", "and", "another", "couple", "who", "sat", "in", "back", "of", "us", "right", "before", "we", "left", "."], "e1_text": "sat", "e1_pos": 17, "e2_text": "left", "e2_pos": 25, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["probably", "had", "a", "prize", "to", "the", "waiter", "who", "could", "sell", "it", "before", "it", "hit", "the", "trash", "bin", "."], "e1_text": "sell", "e1_pos": 9, "e2_text": "hit", "e2_pos": 13, "label": "before"}
+]

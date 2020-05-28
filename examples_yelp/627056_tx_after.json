@@ -1,0 +1,3 @@
+[
+{"tokens": ["She", "came", "to", "our", "table", "TWICE", ",", "once", "to", "get", "our", "orders", "and", "once", "to", "give", "us", "the", "bill", "-LRB-", "after", "we", "had", "to", "track", "her", "down", "to", "ask", "for", "it", "-RRB-", "."], "e1_text": "give", "e1_pos": 15, "e2_text": "had", "e2_pos": 22, "label": "after"}
+]

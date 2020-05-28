@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "turned", "out", ",", "after", "all", "of", "my", "waiting", ",", "that", "the", "''", "guest", "optometrist", "''", "got", "my", "prescription", "wrong", "."], "e1_text": "turned", "e1_pos": 1, "e2_text": "got", "e2_pos": 16, "label": "after"},
+{"tokens": ["I", "needed", "the", "glasses", "quickly", ",", "within", "one", "week", "of", "ordering", ",", "because", "I", "was", "leaving", "to", "Iowa", "for", "Christmas", ",", "and", "moving", "to", "Denver", "the", "day", "after", "I", "returned", "to", "Tempe", "."], "e1_text": "moving", "e1_pos": 22, "e2_text": "returned", "e2_pos": 29, "label": "after"}
+]

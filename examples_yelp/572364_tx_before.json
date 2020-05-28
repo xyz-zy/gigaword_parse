@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "then", "said", "to", "us", "''", "``", "Hold", "on", "''", "''", ",", "and", "then", "ran", "off", "to", "the", "back", "to", "grab", "some", "menus", ",", "which", "she", "promptly", "brought", "to", "the", "people", "who", "just", "walked", "into", "the", "door", "before", "coming", "back", "to", "the", "table", "."], "e1_text": "walked", "e1_pos": 34, "e2_text": "coming", "e2_pos": 39, "label": "before"}
+]

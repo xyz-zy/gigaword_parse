@@ -1,0 +1,3 @@
+[
+{"tokens": ["This", "hotel", "does", "not", "have", "a", "decent", "night", "club", "!!", "We", "finally", "moved", "after", "two", "days", "stay", "to", "Ceasers", "Palace", ",", "not", "too", "far", "from", "this", "dump", "hotel", "."], "e1_text": "moved", "e1_pos": 12, "e2_text": "stay", "e2_pos": 16, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Also", ",", "I", "should", "have", "checked", "the", "takeout", "bag", "before", "I", "left", "the", "restaurant", "because", "they", "gave", "us", "the", "appetizer", "size", "of", "the", "soup", "rather", "than", "the", "entree", "size", "."], "e1_text": "checked", "e1_pos": 5, "e2_text": "left", "e2_pos": 11, "label": "before"}
+]

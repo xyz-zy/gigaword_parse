@@ -1,0 +1,4 @@
+[
+{"tokens": ["On", "this", "occasian", "I", "did", "not", "want", "to", "see", "anything", "so", "I", "dropped", "the", "kids", "off", "and", "started", "yelping", "to", "find", "a", "place", "for", "a", "quick", "bite", "before", "picking", "them", "up", "."], "e1_text": "find", "e1_pos": 20, "e2_text": "picking", "e2_pos": 28, "label": "before"},
+{"tokens": ["Two", "not", "so", "good", "points", ":", "I", "waited", "more", "than", "a", "few", "minutes", "before", "I", "was", "told", "''", "``", "sit", "wherever", "you", "like", "''", "''", "."], "e1_text": "waited", "e1_pos": 7, "e2_text": "was", "e2_pos": 15, "label": "before"}
+]

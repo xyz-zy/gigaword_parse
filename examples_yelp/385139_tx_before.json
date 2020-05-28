@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "called", "the", "day", "before", "to", "ensure", "they", "had", "an", "opening", "for", "a", "TravelZoo", "voucher", "since", "others", "on", "that", "website", "noted", "they", "had", "limited", "availability", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "noted", "e2_pos": 20, "label": "before"},
+{"tokens": ["I", "took", "a", "shower", "before", "my", "treatment", "and", "the", "white", "tea", "products", "were", "nice", "and", "the", "double", "showerhead", "was", "nice", "."], "e1_text": "took", "e1_pos": 1, "e2_text": "were", "e2_pos": 12, "label": "before"}
+]

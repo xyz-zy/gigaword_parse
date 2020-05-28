@@ -1,0 +1,4 @@
+[
+{"tokens": ["Smelling", "bull", "s", "--", "before", "I", "walked", "in", "the", "door", "did", "nothing", "to", "whet", "my", "appetite", "."], "e1_text": "Smelling", "e1_pos": 0, "e2_text": "walked", "e2_pos": 6, "label": "before"},
+{"tokens": ["When", "our", "entrees", "were", "finally", "delivered", "to", "our", "table", ",", "they", "were", "put", "on", "a", "tray", "and", "left", "to", "sit", "for", "about", "5", "minutes", "before", "yet", "another", "server", "came", "to", "serve", "us", "."], "e1_text": "sit", "e1_pos": 19, "e2_text": "came", "e2_pos": 28, "label": "before"}
+]

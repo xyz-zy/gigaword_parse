@@ -1,0 +1,3 @@
+[
+{"tokens": ["Waitresses", "all", "night", "never", "asked", "if", "anyone", "in", "our", "group", "wanted", "a", "drink", ",", "after", "3", "hours", "we", "left", "the", "tables", "because", "we", "needed", "something", "to", "drink", "."], "e1_text": "asked", "e1_pos": 4, "e2_text": "left", "e2_pos": 18, "label": "after"}
+]

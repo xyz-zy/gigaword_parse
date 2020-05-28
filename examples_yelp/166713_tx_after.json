@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "stayed", "here", "on", "a", "whim", "after", "driving", "through", "Death", "Valley", "and", "Mount", "Whitney", "."], "e1_text": "stayed", "e1_pos": 1, "e2_text": "driving", "e2_pos": 7, "label": "after"},
+{"tokens": ["My", "friend", "said", "the", "rates", "would", "be", "really", "low", "and", "low", "and", "behold", "after", "checking", "priceline.com", "we", "got", "an", "incredible", "rate", "."], "e1_text": "be", "e1_pos": 6, "e2_text": "got", "e2_pos": 17, "label": "after"}
+]

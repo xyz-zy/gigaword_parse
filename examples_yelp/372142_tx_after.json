@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "Pumpkin", "Coffee", ",", "which", "we", "have", "ordered", "several", "times", ",", "suddenly", "does", "n't", "come", "with", "refills", "unless", "you", "pay", ",", "and", "she", "did", "n't", "tell", "us", "until", "after", "we", "drank", "the", "first", "cup", "."], "e1_text": "tell", "e1_pos": 25, "e2_text": "drank", "e2_pos": 30, "label": "after"}
+]

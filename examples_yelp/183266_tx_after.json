@@ -1,0 +1,3 @@
+[
+{"tokens": ["When", "we", "got", "here", "to", "check", "in", ",", "after", "calling", "a", "week", "in", "advance", "for", "an", "early", "check", "in", ",", "we", "were", "informed", "that", "our", "room", "was", "n't", "ready", "and", "that", "we", "would", "be", "getting", "a", "king", "bed", "only", "after", "reserving", "two", "queens", "."], "e1_text": "check", "e1_pos": 5, "e2_text": "calling", "e2_pos": 9, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "mistakenly", "collected", "a", "rodizio", "plate", "from", "one", "of", "the", "party", "who", "ordered", "the", "meat", "rodizio", "-LRB-", "the", "all", "you", "can", "eat", "meat", "-RRB-", "and", "when", "the", "diner", "informed", "him", "that", "he", "should", "n't", "have", "taken", "the", "plate", "away", ",", "argued", "with", "the", "diner", "for", "5", "minutes", "before", "checking", "what", "he", "himself", "had", "written", "down", "for", "the", "meal", "order", "."], "e1_text": "argued", "e1_pos": 40, "e2_text": "checking", "e2_pos": 48, "label": "before"}
+]

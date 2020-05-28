@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "service", "was", "absolutly", "terrible", "the", "waitress", "too", "ten", "minutes", "to", "ask", "fir", "our", "drinks", "ten", "minutes", "to", "bring", "them", "then", "she", "left", "and", "ten", "minutes", "later", "she", "came", "back", "for", "our", "order", "after", "a", "manager", "asked", "if", "we", "had", "put", "it", "in", "."], "e1_text": "came", "e1_pos": 28, "e2_text": "asked", "e2_pos": 36, "label": "after"}
+]

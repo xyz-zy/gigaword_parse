@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "cousin", "waited", "was", "next", "in", "line", "but", "waited", "10", "minutes", "to", "put", "her", "order", "in", "where", "they", "then", "over", "charged", "her", "for", "oatmeal", "-LRB-", "the", "menu", "clearly", "states", "that", "fruit", "is", "included", "in", "the", "price", "but", "was", "charged", "extra", "for", "it", "even", "after", "she", "questioned", "the", "price", "-RRB-", "and", "then", "we", "waited", "an", "additional", "10", "minutes", "for", "it", "to", "arrive", "!"], "e1_text": "charged", "e1_pos": 38, "e2_text": "questioned", "e2_pos": 45, "label": "after"}
+]

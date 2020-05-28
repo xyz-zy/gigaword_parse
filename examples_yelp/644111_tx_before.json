@@ -1,0 +1,4 @@
+[
+{"tokens": ["So", "check", "your", "bag", "before", "you", "leave", ",", "at", "least", "until", "they", "get", "the", "kinks", "worked", "out", "."], "e1_text": "check", "e1_pos": 1, "e2_text": "leave", "e2_pos": 6, "label": "before"},
+{"tokens": ["I", "will", "probably", "wait", "a", "few", "months", "before", "I", "go", "back", "since", "they", "only", "recently", "opened", "for", "business", "."], "e1_text": "wait", "e1_pos": 3, "e2_text": "go", "e2_pos": 9, "label": "before"}
+]

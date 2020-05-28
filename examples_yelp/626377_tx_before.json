@@ -1,0 +1,4 @@
+[
+{"tokens": ["The", "staff", "told", "us", "that", "those", "crabs", "were", "live", "before", "cooked", "."], "e1_text": "told", "e1_pos": 2, "e2_text": "were", "e2_pos": 7, "label": "before"},
+{"tokens": ["There", "was", "one", "blue", "crab", "that", "did", "n't", "taste", "like", "it", "was", "live", "before", "cooked", "but", "it", "'s", "still", "fresh", "enough", "for", "us", "to", "enjoy", "it", "."], "e1_text": "taste", "e1_pos": 8, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

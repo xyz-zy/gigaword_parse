@@ -1,0 +1,3 @@
+[
+{"tokens": ["Yes", "the", "pizza", "is", "premade", "and", "half", "cooked", ",", "sat", "out", ",", "and", "then", "is", "finished", "cooking", "right", "before", "you", "eat", "it", "."], "e1_text": "cooking", "e1_pos": 16, "e2_text": "eat", "e2_pos": 20, "label": "before"}
+]

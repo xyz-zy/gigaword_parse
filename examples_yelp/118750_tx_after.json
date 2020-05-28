@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "asked", "him", "if", "I", "did", "something", "wrong", "by", "giving", "him", "a", "$", "20", ",", "like", "3", "more", "people", "after", "me", "did", "also", ",", "and", "he", "says", "''", "``", "No", ",", "that", "'s", "the", "just", "the", "way", "I", "am", ",", "have", "a", "nice", "day", "!", "''", "''"], "e1_text": "giving", "e1_pos": 9, "e2_text": "did", "e2_pos": 5, "label": "after"}
+]

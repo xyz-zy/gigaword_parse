@@ -1,0 +1,4 @@
+[
+{"tokens": ["Ordered", "pizza", "from", "here", "tonight", "and", "decided", "to", "call", "after", "an", "hour", "and", "a", "half", "had", "passed", "by", "."], "e1_text": "call", "e1_pos": 8, "e2_text": "had", "e2_pos": 15, "label": "after"},
+{"tokens": ["We", "called", "back", "ten", "minutes", "later", "after", "the", "food", "had", "still", "not", "arrived", "and", "talked", "to", "the", "same", "girl", "who", "proceeded", "to", "put", "us", "on", "hold", "for", "3", "minutes", "."], "e1_text": "called", "e1_pos": 1, "e2_text": "had", "e2_pos": 9, "label": "after"}
+]

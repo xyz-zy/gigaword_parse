@@ -1,0 +1,4 @@
+[
+{"tokens": ["There", "were", "just", "too", "many", "minor", "annoyances", "night", "after", "night", "that", "were", "n't", "solved", "around", "our", "room", "."], "e1_text": "were", "e1_pos": 1, "e2_text": "were", "e2_pos": 1, "label": "after"},
+{"tokens": ["-", "They", "only", "stocked", "two", "towels", "each", "night", "-", "even", "after", "we", "asked", "for", "more", "."], "e1_text": "stocked", "e1_pos": 3, "e2_text": "asked", "e2_pos": 12, "label": "after"}
+]

@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "really", "hope", "they", "take", "these", "reviews", "to", "heart", "before", "they", "go", "and", "convert", "all", "the", "Sweet", "Tomatoes", "in", "the", "valley", "to", "this", "new", "format", "."], "e1_text": "hope", "e1_pos": 2, "e2_text": "go", "e2_pos": 11, "label": "before"},
+{"tokens": ["Really", "test", "this", "concept", "for", "6-12", "months", "before", "investing", "more", "."], "e1_text": "test", "e1_pos": 1, "e2_text": "investing", "e2_pos": 8, "label": "before"}
+]

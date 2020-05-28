@@ -1,0 +1,3 @@
+[
+{"tokens": ["Busser", "grabbed", "my", "drink", "before", "I", "was", "finished", ",", "unattentive", "bartender", "needed", "to", "be", "flagged", "down", "before", "I", "could", "get", "another", ",", "30", "minutes", "later", ",", "we", "asked", "for", "a", "menu", ",", "and", "decided", "since", "our", "table", "was", "n't", "ready", "-LRB-", "half", "of", "the", "table", "were", "empty", "mind", "you", "-RRB-", "that", "we", "'d", "get", "apps", "at", "the", "bar", "."], "e1_text": "grabbed", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

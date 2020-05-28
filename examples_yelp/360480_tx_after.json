@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "also", "let", "in", "two", "other", "people", "about", "five", "minutes", "after", "I", "showed", "up", "-LRB-", "9:50", "pm", "-RRB-", "."], "e1_text": "let", "e1_pos": 2, "e2_text": "showed", "e2_pos": 12, "label": "after"},
+{"tokens": ["But", ",", "of", "course", ",", "nobody", "could", "be", "bothered", "to", "take", "her", "money", "and", "it", "would", "have", "been", "a", "huge", "imposition", "to", "mess", "with", "cash", "after", "they", "put", "away", "the", "cash", "drawer", "."], "e1_text": "been", "e1_pos": 17, "e2_text": "put", "e2_pos": 27, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "wish", "I", "had", "looked", "for", "reviews", "on", "this", "hotel", "before", "I", "booked", "because", "I", "would", "'ve", "rather", "stayed", "at", "a", "cheap", "hotel", "off", "the", "strip", "than", "be", "robbed", "like", "this", "."], "e1_text": "looked", "e1_pos": 4, "e2_text": "booked", "e2_pos": 12, "label": "before"}
+]

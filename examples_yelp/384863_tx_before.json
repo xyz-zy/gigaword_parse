@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "restaurant", "only", "takes", "reservations", "for", "groups", "larger", "than", "10", ",", "but", "if", "you", "call", "ahead", "about", "an", "hour", "before", "you", "want", "to", "eat", ",", "the", "greeter", "will", "put", "your", "name", "on", "the", "wait", "list", "and", "you", "'ll", "get", "a", "table", "pretty", "quickly", "."], "e1_text": "call", "e1_pos": 14, "e2_text": "want", "e2_pos": 21, "label": "before"}
+]

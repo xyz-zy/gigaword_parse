@@ -1,0 +1,4 @@
+[
+{"tokens": ["As", "we", "awaited", "our", "appetizers", "and", "salads", ",", "an", "older", "gentleman", "stopped", "by", "the", "table", "with", "his", "acoustic", "guitar", "to", "sing", "some", "songs", ",", "he", "played", "three", "-LRB-", "including", "happy", "birthday", "-RRB-", "and", "wished", "our", "friend", "another", "happy", "birthday", "before", "he", "went", "to", "another", "table", "."], "e1_text": "wished", "e1_pos": 33, "e2_text": "went", "e2_pos": 41, "label": "before"},
+{"tokens": ["The", "ravioli", "and", "alfredo", "I", "skipped", "the", "night", "before", "were", "really", "tasty", "and", "I", "wished", "I", "had", "tried", "them", "the", "first", "night", "."], "e1_text": "skipped", "e1_pos": 5, "e2_text": "were", "e2_pos": 9, "label": "before"}
+]

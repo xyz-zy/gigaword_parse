@@ -1,0 +1,4 @@
+[
+{"tokens": ["He", "said", "they", "will", "start", "serving", "biscuits", "like", "the", "ones", "at", "Red", "Lobster", ",", "he", "had", "just", "tried", "it", "in", "the", "kitchen", "...", "HOW", "UNPROFESSIONAL", "!!", "A", "total", "of", "1", "1\\/2", "before", "we", "finally", "got", "our", "dinner", "."], "e1_text": "!!", "e1_pos": 25, "e2_text": "got", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "hope", "some", "of", "you", "people", "read", "this", "before", "going", "there", "...", "good", "luck", "."], "e1_text": "read", "e1_pos": 6, "e2_text": "going", "e2_pos": 9, "label": "before"}
+]

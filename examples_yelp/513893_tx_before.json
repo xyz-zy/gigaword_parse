@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "finally", "asked", "for", "a", "water", "and", "was", "really", "grossed", "out", "when", "I", "saw", "that", "the", "server", "was", "carrying", "a", "tub", "for", "dirty", "dishes", "around", "and", "did", "not", "wash", "his", "hands", "before", "pouring", "us", "water", "."], "e1_text": "wash", "e1_pos": 28, "e2_text": "pouring", "e2_pos": 32, "label": "before"}
+]

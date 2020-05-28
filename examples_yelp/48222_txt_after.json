@@ -1,0 +1,3 @@
+[
+{"tokens": ["Get", "the", "soup", "in", "a", "bread", "bowl", ",", "Or", "a", "bag", "of", "chips", "if", "you", "please", ",", "Add", "a", "cookie", "for", "your", "hole", ",", "I", "'ll", "say", "bless", "you", "after", "you", "sneeze", "."], "e1_text": "bless", "e1_pos": 27, "e2_text": "sneeze", "e2_pos": 31, "label": "after"}
+]

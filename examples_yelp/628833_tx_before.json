@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "knew", "we", "wanted", "to", "try", "the", "table", "side", "guacamole", ",", "so", "we", "ordered", "that", "and", "he", "ran", "away", "before", "asking", "or", "taking", "our", "drink", "order", "."], "e1_text": "ran", "e1_pos": 17, "e2_text": "asking", "e2_pos": 20, "label": "before"}
+]

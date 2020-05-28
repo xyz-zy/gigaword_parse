@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "had", "a", "Groupon", "for", "90", "minutes", ",", "I", "thought", "that", "'s", "going", "to", "be", "a", "long", "massage", ",", "but", "it", "was", "over", "before", "I", "knew", "it", "!"], "e1_text": "was", "e1_pos": 21, "e2_text": "knew", "e2_pos": 25, "label": "before"}
+]

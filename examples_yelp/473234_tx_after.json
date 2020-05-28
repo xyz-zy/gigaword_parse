@@ -1,0 +1,4 @@
+[
+{"tokens": ["God", "help", "you", "if", "you", "'re", "reading", "this", "review", "after", "you", "'ve", "booked", "a", "Spirit", "Airlines", "flight", "."], "e1_text": "reading", "e1_pos": 6, "e2_text": "'ve", "e2_pos": 11, "label": "after"},
+{"tokens": ["That", "amazing", "price", "is", "not", "so", "amazing", "after", "you", "add", "70", "bucks", "of", "baggage", "fees", "each", "way", ",", "plus", "10", "bucks", "to", "choose", "your", "seat", "-LRB-", "each", "way", "-RRB-", "."], "e1_text": "is", "e1_pos": 3, "e2_text": "add", "e2_pos": 9, "label": "after"}
+]

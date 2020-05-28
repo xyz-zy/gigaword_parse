@@ -1,0 +1,3 @@
+[
+{"tokens": ["He", "pointed", "it", "out", "to", "the", "server", "and", "she", "proceeded", "to", "tell", "him", "that", "'s", "how", "eggs", "Benedict", "are", "served", "and", "continued", "to", "argue", "with", "him", "even", "after", "he", "told", "her", "that", "was", "not", "true", "."], "e1_text": "argue", "e1_pos": 23, "e2_text": "told", "e2_pos": 29, "label": "after"}
+]

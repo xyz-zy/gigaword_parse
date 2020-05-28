@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "fondly", "remember", "the", "original", "Matta", "'s", "down", "on", "Main", "St.", "...", "Anyway", ",", "it", "was", "very", "slow", "around", "1pm", "and", "no", "one", "seated", "me", "after", "5", "minutes", "of", "standing\\/waiting", "in", "the", "main", "dining", "area", "-LRB-", "several", "other", "frustrated", "patrons", "just", "left", "-RRB-", "."], "e1_text": "seated", "e1_pos": 23, "e2_text": "standing\\/waiting", "e2_pos": 29, "label": "after"}
+]

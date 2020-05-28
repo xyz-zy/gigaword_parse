@@ -1,0 +1,3 @@
+[
+{"tokens": ["Last", "time", "we", "ate", "here", ",", "my", "friend", "and", "I", "got", "food", "poisoning", ";", "she", "threw", "up", "in", "the", "parking", "lot", "and", "I", "at", "least", "made", "it", "home", "before", "I", "lost", "it", "."], "e1_text": "made", "e1_pos": 25, "e2_text": "lost", "e2_pos": 30, "label": "before"}
+]

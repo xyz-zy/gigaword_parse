@@ -1,0 +1,3 @@
+[
+{"tokens": ["However", ",", "I", "went", "yesterday", "at", "9:30", "pm", "with", "a", "big", "group", "of", "friends", "to", "introduce", "them", "to", "the", "awesome", "ice", "cream", ",", "but", "much", "to", "my", "dismay", "they", "did", "not", "update", "their", "new", "hours", "on", "their", "website", ",", "yelp", "info", ",", "or", "phone", "voice", "message", ",", "so", "I", "was", "shocked", "that", "they", "were", "closed", "because", "I", "had", "double", "checked", "before", "the", "group", "of", "us", "headed", "over", "."], "e1_text": "checked", "e1_pos": 59, "e2_text": "headed", "e2_pos": 65, "label": "before"}
+]

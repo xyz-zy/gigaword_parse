@@ -1,0 +1,3 @@
+[
+{"tokens": ["My", "friends", "and", "I", "did", "n't", "know", "where", "to", "go", "after", "one", "of", "the", "staff", "members", "told", "us", "we", "can", "walk", "to", "the", "other", "side", "of", "the", "line", ";", "the", "line", "'s", "split", "because", "of", "the", "walkway", "."], "e1_text": "go", "e1_pos": 9, "e2_text": "told", "e2_pos": 16, "label": "after"}
+]

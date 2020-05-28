@@ -1,0 +1,4 @@
+[
+{"tokens": ["Funny", "though", "after", "seeing", "the", "huge", "line", "out", "the", "door", "at", "11.30", "that", "the", "place", "was", "half", "empty", "."], "e1_text": "Funny", "e1_pos": 0, "e2_text": "seeing", "e2_pos": 3, "label": "after"},
+{"tokens": ["We", "went", "upstairs", "to", "where", "Chuck", "Liddel", "of", "UFC", "fame", "was", "having", "an", "after", "party", "and", "things", "were", "decent", "for", "a", "while", "."], "e1_text": "went", "e1_pos": 1, "e2_text": "was", "e2_pos": 10, "label": "after"}
+]

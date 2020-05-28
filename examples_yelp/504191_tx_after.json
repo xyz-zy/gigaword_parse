@@ -1,0 +1,4 @@
+[
+{"tokens": ["We", "ended", "up", "hear", "after", "a", "friend", "told", "me", "she", "had", "free", "passes", ",", "so", "of", "course", "we", "went", "."], "e1_text": "hear", "e1_pos": 3, "e2_text": "told", "e2_pos": 7, "label": "after"},
+{"tokens": ["Yes", ",", "its", "not", "super", "fancy", "like", "XS", "or", "Tryst", "or", "Marquee", ",", "but", "it", "is", "fun", "and", "there", "are", "actual", "places", "where", "you", "can", "sit", "for", "a", "few", "minutes", "after", "you", "'ve", "been", "dancing", "your", "feel", "away", "."], "e1_text": "sit", "e1_pos": 25, "e2_text": "'ve", "e2_pos": 32, "label": "after"}
+]

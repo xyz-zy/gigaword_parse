@@ -1,0 +1,3 @@
+[
+{"tokens": ["First", "of", "all", ",", "how", "nice", "was", "it", "for", "me", "that", "it", "was", "a", "short", "walk", "from", "my", "hotel", "room", "at", "Delano", ",", "followed", "by", "another", "short", "walk", "to", "the", "Michael", "Jackson", "One", "show", "after", "dinner", "?!", "Had", "a", "nice", "start", "to", "our", "dinner", "as", "my", "reservation", "request", "was", "honored", "and", "we", "were", "seated", "at", "a", "very", "spacious", "booth", "with", "a", "great", "view", "of", "the", "whole", "restaurant", "."], "e1_text": "show", "e1_pos": 33, "e2_text": "Had", "e2_pos": 37, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["One", "of", "my", "friend", "'s", "is", "a", "vegetarian", ",", "so", "she", "was", "counting", "on", "another", "trip", "up", "but", "before", "we", "knew", "it", "it", "had", "been", "whisked", "away", "."], "e1_text": "'s", "e1_pos": 4, "e2_text": "knew", "e2_pos": 20, "label": "before"}
+]

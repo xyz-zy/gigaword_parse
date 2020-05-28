@@ -1,0 +1,4 @@
+[
+{"tokens": ["She", "picks", "up", "her", "list", "and", "says", "''", "``", "well", ",", "there", "'s", "still", "20", "people", "in", "front", "of", "you", "''", "''", "and", "shows", "me", "a", "completely", "different", "and", "new", "page", "of", "names", "that", "was", "n't", "there", "before", "."], "e1_text": "shows", "e1_pos": 23, "e2_text": "was", "e2_pos": 34, "label": "before"},
+{"tokens": ["I", "mentioned", "to", "her", "that", "list", "was", "n't", "there", "before", "and", "showed", "her", "where", "our", "name", "was", "written", "."], "e1_text": "mentioned", "e1_pos": 1, "e2_text": "was", "e2_pos": 6, "label": "before"}
+]

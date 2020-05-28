@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "thanked", "her", "when", "i", "for", "my", "cup", "after", "paying", "10", "bucks", "for", "2", "cups", ",", "she", "did", "n't", "say", "your", "welcome", ",", "said", "happy", "holidays", "and", "nada", "."], "e1_text": "thanked", "e1_pos": 1, "e2_text": "paying", "e2_pos": 9, "label": "after"}
+]

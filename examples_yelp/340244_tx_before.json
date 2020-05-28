@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "waitress", "let", "them", "know", "they", "had", "about", "25", "minutes", "before", "the", "restaurant", "closed", "to", "change", "over", "from", "lunch", "to", "dinner", ",", "and", "they", "might", "want", "to", "consider", "ordering", "to", "go", "so", "they", "would", "not", "feel", "rushed", "."], "e1_text": "know", "e1_pos": 4, "e2_text": "had", "e2_pos": 6, "label": "before"}
+]

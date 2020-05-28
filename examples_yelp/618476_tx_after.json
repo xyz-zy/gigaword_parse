@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "negatives", ":", "we", "waited", "nearly", "an", "hour", "for", "our", "breakfast", "to", "be", "served", "-LRB-", "scrambled", "eggs", ",", "toast", "etc.", "...", "nothing", "time", "intensive", "-RRB-", ",", "the", "service", "was", "haphazard", ",", "my", "eggs", "were", "not", "cooked", "to", "order", "-LRB-", "I", "asked", "for", "sunny", "side", "up", ",", "but", "the", "yolks", "came", "out", "hard", "...", "disappointing", "after", "waiting", "nearly", "an", "hour", "-RRB-", ",", "and", "my", "husband", "found", "hair", "on", "his", "sausage", "."], "e1_text": "came", "e1_pos": 49, "e2_text": "waiting", "e2_pos": 55, "label": "after"}
+]

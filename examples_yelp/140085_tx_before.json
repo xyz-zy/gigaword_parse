@@ -1,0 +1,4 @@
+[
+{"tokens": ["Echoing", "my", "previous", "reviews", ",", "I", "find", "that", "the", "best", "restaurants", "and", "treasures", "in", "Vegas", "definitely", "come", "from", "the", "locals", ",", "and", "it", "was", "n't", "long", "before", "buddy", "Francis", "C.", "took", "me", "here", "for", "a", "late", "lunch", "."], "e1_text": "was", "e1_pos": 23, "e2_text": "took", "e2_pos": 30, "label": "before"},
+{"tokens": ["Our", "food", "took", "a", "bit", "for", "it", "to", "come", "out", ",", "which", "confused", "us", "because", "a", "couple", "of", "other", "parties", "received", "theirs", "before", "ours", "-LRB-", "and", "we", "felt", "it", "was", "a", "pretty", "small", "meal", "-RRB-", "."], "e1_text": "received", "e1_pos": 20, "e2_text": "felt", "e2_pos": 27, "label": "before"}
+]

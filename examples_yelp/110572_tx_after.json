@@ -1,0 +1,3 @@
+[
+{"tokens": ["The", "decision", "to", "never", "order", "from", "Gus", "'", "again", "came", "today", "when", ",", "after", "ordering", "two", "18", "inch", "pizzas", ",", "we", "were", "delivered", "one", "18", "inch", "and", "one", "that", "was", "n't", "even", "15", "inch", "."], "e1_text": "came", "e1_pos": 9, "e2_text": "ordering", "e2_pos": 14, "label": "after"}
+]

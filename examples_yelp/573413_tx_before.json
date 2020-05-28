@@ -1,0 +1,5 @@
+[
+{"tokens": ["I", "really", "wish", "she", "had", "her", "act", "together", "before", "putting", "me", "through", "all", "this", "bs", "but", "fine", "."], "e1_text": "had", "e1_pos": 4, "e2_text": "putting", "e2_pos": 9, "label": "before"},
+{"tokens": ["My", "pain", "doctor", "already", "knew", "dr.", "Grier", "and", "had", "already", "okayed", "her", "writing", "me", "certain", "scripts", "as", "she", "had", "already", "done", "so", "only", "two", "weeks", "ago", "without", "a", "problem", "and", "before", "I", "had", "told", "my", "pain", "specialist", "about", "her", "."], "e1_text": "writing", "e1_pos": 12, "e2_text": "had", "e2_pos": 8, "label": "before"},
+{"tokens": ["I", "was", "assured", "that", "my", "place", "in", "line", "was", "as", "it", "was", "before", ",", "she", "would", "see", "me", "next", "for", "sure", "."], "e1_text": "was", "e1_pos": 1, "e2_text": "was", "e2_pos": 1, "label": "before"}
+]

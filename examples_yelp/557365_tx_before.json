@@ -1,0 +1,5 @@
+[
+{"tokens": ["So", "I", "visited", "this", "place", "2", "more", "times", "after", "my", "first", "visit", "and", "it", "just", "went", "downhill", "each", "time", ",", "and", "everything", "was", "as", "I", "stated", "before", "except", "the", "service", "."], "e1_text": "was", "e1_pos": 22, "e2_text": "stated", "e2_pos": 25, "label": "before"},
+{"tokens": ["She", "was", "beyond", "friendly", "and", "when", "we", "wanted", "to", "order", "from", "the", "Chinese", "menu", "5", "minutes", "before", "they", "stop", "that", "service", "she", "ran", "into", "the", "back", "to", "ask", "him", "if", "he", "would", "squeeze", "in", "a", "couple", "of", "orders", "...", "which", "he", "was", "glad", "to", "do", "."], "e1_text": "order", "e1_pos": 9, "e2_text": "stop", "e2_pos": 18, "label": "before"},
+{"tokens": ["The", "next", "time", "we", "go", "is", "basically", "my", "last", "night", "out", "in", "Vegas", "before", "I", "moved", "."], "e1_text": "is", "e1_pos": 5, "e2_text": "moved", "e2_pos": 15, "label": "before"}
+]

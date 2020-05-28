@@ -1,0 +1,4 @@
+[
+{"tokens": ["It", "took", "40", "minutes", "to", "get", "water", "to", "our", "table", "after", "we", "asked", "for", "it", "repeatedly", "and", "nicely", "-LRB-", "while", "sitting", "outside", "in", "the", "heat", ",", "in", "a", "group", "of", "6", "people", "-RRB-", "."], "e1_text": "get", "e1_pos": 5, "e2_text": "asked", "e2_pos": 12, "label": "after"},
+{"tokens": ["The", "food", "order", "started", "40", "minutes", "after", "we", "got", "there", "-LRB-", "when", "the", "water", "finally", "came", "-RRB-", "."], "e1_text": "started", "e1_pos": 3, "e2_text": "got", "e2_pos": 8, "label": "after"}
+]

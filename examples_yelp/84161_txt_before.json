@@ -1,0 +1,3 @@
+[
+{"tokens": ["Originally", "the", "car", "was", "running", "fine", ",", "I", "actually", "drove", "it", "to", "Charlotte", "from", "Charleston", "the", "morning", "I", "dropped", "it", "off", ",", "no", "issue", "except", "the", "brake", "light", "which", "was", "on", "before", "I", "left", "Charleston", "."], "e1_text": "was", "e1_pos": 3, "e2_text": "left", "e2_pos": 33, "label": "before"}
+]

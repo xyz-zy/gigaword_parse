@@ -1,0 +1,4 @@
+[
+{"tokens": ["After", "the", "Cardinals", "game", "tonight", ",", "my", "girlfriend", "and", "I", "decided", "to", "grab", "a", "late", "dinner", "before", "we", "headed", "home", "."], "e1_text": "grab", "e1_pos": 12, "e2_text": "headed", "e2_pos": 18, "label": "before"},
+{"tokens": ["They", "cut", "the", "patty", "melt", "before", "bringing", "it", "to", "the", "table", "and", "you", "can", "see", "that", "the", "hair", "had", "been", "cut", "because", "it", "was", "sticking", "out", "on", "both", "halves", "."], "e1_text": "melt", "e1_pos": 4, "e2_text": "bringing", "e2_pos": 6, "label": "before"}
+]

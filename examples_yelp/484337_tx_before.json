@@ -1,0 +1,3 @@
+[
+{"tokens": ["Here", "'s", "how", "it", "is", "at", "this", "Mc", "Donald", "'s", ":", "You", "want", "to", "wash", "your", "hands", "before", "you", "eat", ",", "so", "you", "go", "in", "the", "rest", "room", "&", "do", "so", "."], "e1_text": "wash", "e1_pos": 14, "e2_text": "eat", "e2_pos": 19, "label": "before"}
+]

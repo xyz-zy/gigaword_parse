@@ -1,0 +1,4 @@
+[
+{"tokens": ["Russ", "stated", "that", "unfortunately", "I", "was", "the", "last", "person", "they", "helped", "before", "the", "ownership", "changed", "from", "Samir", "to", "Russ\\/Dan", "."], "e1_text": "helped", "e1_pos": 10, "e2_text": "changed", "e2_pos": 14, "label": "before"},
+{"tokens": ["I", "just", "do", "n't", "understand", "if", "he", "knew", "about", "this", "on", "Monday", "why", "did", "n't", "he", "tell", "me", "this", "Tuesday", "morning", "when", "I", "picked", "up", "my", "car", "and", "before", "I", "paid", "???", "After", "I", "threw", "a", "fit", "Russ", "called", "the", "owner", "and", "they", "gave", "me", "the", "option", "for", "fixing", "my", "car", "for", "just", "the", "cost", "of", "the", "parts", "."], "e1_text": "understand", "e1_pos": 4, "e2_text": "paid", "e2_pos": 30, "label": "before"}
+]

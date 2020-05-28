@@ -1,0 +1,4 @@
+[
+{"tokens": ["Find", "a", "different", "#", "on", "their", "website", "and", "after", "listening", "for", "5", "mins", "."], "e1_text": "Find", "e1_pos": 0, "e2_text": "listening", "e2_pos": 9, "label": "after"},
+{"tokens": ["I", "can", "probably", "take", "another", "year", "off", "my", "life", "after", "yet", "another", "health", "insurance", "experience", "!"], "e1_text": "take", "e1_pos": 3, "e2_text": "experience", "e2_pos": 14, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Once", "we", "finally", "did", "order", ",", "we", "waited", "another", "10", "minutes", "for", "our", "coffee", "which", "was", "delivered", "with", "cream", "but", "no", "sugar", "-", "after", "asking", "for", "it", "from", "the", "waitress", ",", "he", "was", "halfway", "through", "eating", "before", "she", "actually", "brought", "it", "."], "e1_text": "eating", "e1_pos": 35, "e2_text": "brought", "e2_pos": 39, "label": "before"}
+]

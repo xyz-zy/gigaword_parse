@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "called", "in", "and", "the", "sales", "person", "asked", "the", "name", "of", "the", "hotel", "and", "said", "I", "would", "be", "called", "back", "within", "5", "min", "after", "she", "has", "had", "a", "chance", "to", "talk", "to", "the", "local", "delivery", "service", "they", "used", "."], "e1_text": "called", "e1_pos": 18, "e2_text": "has", "e2_pos": 25, "label": "after"}
+]

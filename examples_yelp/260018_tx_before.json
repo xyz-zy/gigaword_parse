@@ -1,0 +1,4 @@
+[
+{"tokens": ["My", "friend", "and", "I", "had", "booked", "our", "treatments", "around", "1pm", "so", "we", "had", "a", "light", "breakfast", "and", "planned", "to", "spend", "the", "whole", "day", "at", "the", "Spa", "before", "heading", "over", "to", "Maestros", "for", "dinner", "."], "e1_text": "spend", "e1_pos": 19, "e2_text": "heading", "e2_pos": 27, "label": "before"},
+{"tokens": ["So", "remember", "to", "eat", "well", "before", "you", "come", "here", "."], "e1_text": "eat", "e1_pos": 3, "e2_text": "come", "e2_pos": 7, "label": "before"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["We", "called", "in", "at", "9:00", "in", "the", "morning", "...", "first", "they", "did", "n't", "answer", ",", "then", "when", "we", "called", "back", "...", "they", "put", "us", "on", "hold", "-LRB-", "set", "the", "phone", "on", "the", "counter", "so", "we", "could", "hear", "everything", "happening", "-RRB-", "and", "after", "10", "minutes", "-LRB-", "yes", ",", "10", "minutes", "-RRB-", "we", "decided", "they", "forgot", "us", "and", "we", "hung", "up", "."], "e1_text": "put", "e1_pos": 22, "e2_text": "decided", "e2_pos": 51, "label": "after"}
+]

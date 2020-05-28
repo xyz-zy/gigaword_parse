@@ -1,0 +1,3 @@
+[
+{"tokens": ["I", "arrived", "on", "time", "for", "the", "flight", "waiting", "at", "the", "gate", "-", "and", "45", "before", "the", "flight", "we", "are", "told", "to", "move", "to", "another", "gate", "-", "no", "worries", "-", "hoofed", "it", "over", "to", "next", "gate", "-", "arrive", "at", "new", "departure", "gate", "and", "we", "are", "told", "our", "plane", "is", "being", "taken", "over", "by", "flight", "to", "Chicago", "-", "WTF", "why", "?", "."], "e1_text": "arrived", "e1_pos": 1, "e2_text": "are", "e2_pos": 18, "label": "before"}
+]

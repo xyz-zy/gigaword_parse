@@ -1,0 +1,3 @@
+[
+{"tokens": ["That", "'s", "pretty", "hefty", "because", "we", "decided", "to", "cancel", "only", "4", "hours", "after", "making", "the", "reservation", "!"], "e1_text": "cancel", "e1_pos": 8, "e2_text": "making", "e2_pos": 13, "label": "after"}
+]

@@ -1,0 +1,3 @@
+[
+{"tokens": ["Our", "meals", "came", "with", "soup", "that", "our", "waitress\\/bartender", "forgot", "about", "and", "she", "but", "after", "we", "reminded", "her", "she", "brought", "them", "out", "and", "it", "was", "basically", "just", "broth", "no", "tofu", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "reminded", "e2_pos": 15, "label": "after"}
+]

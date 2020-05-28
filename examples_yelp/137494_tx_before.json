@@ -1,0 +1,4 @@
+[
+{"tokens": ["That", "is", "probably", "why", "I", "have", "never", "eaten", "at", "Rainforest", "before", "."], "e1_text": "is", "e1_pos": 1, "e2_text": "have", "e2_pos": 5, "label": "before"},
+{"tokens": ["We", "waited", "45", "minutes", "for", "an", "appetizer", "and", "if", "we", "had", "n't", "made", "three", "unsuccessful", "attempts", "to", "alert", "management", "before", "finally", "getting", "their", "attention", "a", "fourth", "time", "then", "we", "probably", "would", "have", "never", "received", "it", "."], "e1_text": "alert", "e1_pos": 17, "e2_text": "getting", "e2_pos": 21, "label": "before"}
+]

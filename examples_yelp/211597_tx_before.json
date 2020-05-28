@@ -1,0 +1,4 @@
+[
+{"tokens": ["Waiting", "for", "the", "elevator", "took", "awhile", "plus", "when", "you", "finally", "arrive", ",", "you", "have", "to", "wait", "in", "a", "long", "line", "before", "reaching", "the", "hostess", "."], "e1_text": "wait", "e1_pos": 15, "e2_text": "reaching", "e2_pos": 21, "label": "before"},
+{"tokens": ["After", "ordering", "our", "meal", "...", "it", "took", "another", "20-25", "minutes", "before", "we", "got", "our", "food", "."], "e1_text": "took", "e1_pos": 6, "e2_text": "got", "e2_pos": 12, "label": "before"}
+]

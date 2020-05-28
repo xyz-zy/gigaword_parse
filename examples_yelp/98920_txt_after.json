@@ -1,0 +1,3 @@
+[
+{"tokens": ["A", "recent", "install", "of", "a", "small", "piece", "of", "vinyl", "was", "poorly", "done", "and", "I", "had", "to", "clean", "up", "after", "the", "workers", "left", "."], "e1_text": "clean", "e1_pos": 16, "e2_text": "left", "e2_pos": 21, "label": "after"}
+]

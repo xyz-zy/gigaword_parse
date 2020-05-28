@@ -1,0 +1,3 @@
+[
+{"tokens": ["THEN", ",", "when", "checking", "out", "of", "the", "hotel", "-LRB-", "minutes", "after", "leaving", "our", "room", "-RRB-", ",", "I", "realized", "I", "left", "my", "heirloom", "ring", "on", "the", "nightstand", ",", "but", "they", "would", "n't", "allow", "me", "back", "in", "the", "room", "to", "retrieve", "it", ",", "the", "maid", "said", "there", "was", "no", "ring", "there", "-LRB-", "I", "know", "there", "was", "-RRB-", "and", "I", "was", "told", "that", "someone", "would", "call", "me", "to", "help", "me", "retrieve", "it", "."], "e1_text": "checking", "e1_pos": 3, "e2_text": "leaving", "e2_pos": 11, "label": "after"}
+]

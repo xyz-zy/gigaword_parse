@@ -1,0 +1,3 @@
+[
+{"tokens": ["So", "...", "buyers", "beware", "...", "if", "you", "'re", "out", "of", "town", "or", "unable", "to", "get", "to", "Fry", "'s", "to", "pick", "up", "one", "of", "their", "advertised", "bargains", "with", "store", "delivery", "before", "-LRB-", "1", "-RRB-", "the", "ad", "expires", "or", "-LRB-", "2", "-RRB-", "72", "hours", ",", "you", "will", "not", "get", "the", "bargain", "."], "e1_text": "pick", "e1_pos": 19, "e2_text": "expires", "e2_pos": 35, "label": "before"}
+]

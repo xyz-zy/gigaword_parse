@@ -1,0 +1,4 @@
+[
+{"tokens": ["I", "ca", "n't", "comment", "about", "the", "food", "since", "we", "left", "after", "waiting", "1.5", "hours", "without", "being", "served", "."], "e1_text": "left", "e1_pos": 9, "e2_text": "waiting", "e2_pos": 11, "label": "after"},
+{"tokens": ["We", "asked", "about", "our", "order", "-LRB-", "4", "burgers", "and", "fries", "-RRB-", "after", "waiting", "45", "minutes", "and", "were", "told", "it", "would", "be", "up", "soon", "."], "e1_text": "asked", "e1_pos": 1, "e2_text": "waiting", "e2_pos": 12, "label": "after"}
+]

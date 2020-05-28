@@ -1,0 +1,5 @@
+[
+{"tokens": ["We", "showed", "up", "early", "to", "make", "sure", "we", "gave", "them", "enough", "time", "before", "closing", "-LRB-", "for", "THEIR", "convenience", "-RRB-", "."], "e1_text": "gave", "e1_pos": 8, "e2_text": "closing", "e2_pos": 13, "label": "before"},
+{"tokens": ["All", "4", "of", "us", "get", "attacked", "by", "mosquitos", "regularly", "-LRB-", "as", "im", "sure", "a", "lot", "of", "other", "people", "do", "too", ",", "based", "on", "the", "amount", "of", "fb", "posts", "I", "see", "daily", "due", "to", "all", "the", "rain", "we", "'ve", "had", "in", "mesa", "-RRB-", ",", "we", "would", "have", "liked", "to", "relax", "during", "our", "pedicure", ",", "instead", "we", "had", "to", "keep", "our", "gaurd", "up", "and", "kill", "mosquitos", "before", "they", "got", "us", "."], "e1_text": "kill", "e1_pos": 62, "e2_text": "got", "e2_pos": 66, "label": "before"},
+{"tokens": ["I", "have", "had", "my", "nails", "done", "by", "him", "before", ",", "I", "think", "hes", "the", "owner", "."], "e1_text": "had", "e1_pos": 2, "e2_text": "think", "e2_pos": 11, "label": "before"}
+]

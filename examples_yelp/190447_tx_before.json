@@ -1,0 +1,5 @@
+[
+{"tokens": ["Our", "main", "waiter", ",", "who", "was", "efficient", "and", "polite", "throughout", "the", "night", ",", "brought", "our", "drinks", "before", "taking", "our", "orders", "."], "e1_text": "brought", "e1_pos": 13, "e2_text": "taking", "e2_pos": 17, "label": "before"},
+{"tokens": ["The", "dish", "came", "with", "foie", "gras", ",", "which", "I", "had", "never", "tried", "before", "."], "e1_text": "came", "e1_pos": 2, "e2_text": "had", "e2_pos": 9, "label": "before"},
+{"tokens": ["As", "for", "the", "chocolate", "chip", "pecan", "cookie", ",", "it", "had", "a", "peculiar", ",", "unpleasant", "flavor", "to", "it", "that", "took", "me", "some", "time", "before", "I", "knew", "what", "it", "was", "."], "e1_text": "took", "e1_pos": 18, "e2_text": "knew", "e2_pos": 24, "label": "before"}
+]

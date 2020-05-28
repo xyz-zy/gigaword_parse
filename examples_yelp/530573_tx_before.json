@@ -1,0 +1,3 @@
+[
+{"tokens": ["Not", "even", "30", "seconds", "of", "being", "there", "or", "even", "getting", "a", "full", "look", "at", "the", "menu", ",", "the", "host", ",", "notices", "we", "have", "an", "outside", "drink", ",", "and", "asks", "us", "to", "step", "outside", "to", "finish", "them", "before", "coming", "back", "in", "."], "e1_text": "finish", "e1_pos": 34, "e2_text": "coming", "e2_pos": 37, "label": "before"}
+]
