@@ -1,11 +1,9 @@
+import argparse
 import glob
 import os
 
 from distant import Example, get_relation
 from nltk import Tree, ParentedTree
-
-PATH = "tree/"
-
 
 def process_tree(tree_str, label):
     # print(tree_str)
@@ -37,15 +35,18 @@ def get_label(filename):
         return "during"
     return None
 
-def process_trees(filename):
+def process_trees(filename, out_dir):
     num_examples = 0
     label = get_label(filename)
 
-    output_filename = "examples/" + filename[len(PATH):-5] + ".json"
+    basename = os.path.basename(filename)
+    basename = basename.split(".")[0]
+
+    output_filename = out_dir + basename + ".json"
     if os.path.exists(output_filename):
         return
-    output_file = open(output_filename, "w")
-    print("[", file=output_file)
+    output_file = None
+    has_tree = False
 
     with open(filename) as file:
 
@@ -56,28 +57,36 @@ def process_trees(filename):
             example = process_tree(tree, label)
 
             if example:
+                if not has_tree:
+                    output_file = open(output_filename, "w")
+                    has_tree = True
+                    print("[", file=output_file)
+                    print(example.to_json(), file=output_file, end="")
                 if num_examples > 0:
                     print(",\n" + example.to_json(), file=output_file, end="")
-                else:
-                    print(example.to_json(), file=output_file, end="")
 
                 num_examples += 1
             else:
                 print("error")
 
             tree = get_next_tree(file)
+    if has_tree:
+        print("\n]", file=output_file)
 
-    print("\n]", file=output_file)
 
-
-def main():
-
-    for filename in glob.glob(PATH + "*.tree"):
+def main(path, out_dir):
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+    for filename in glob.iglob(path):
         print(filename)
-        process_trees(filename)
+        process_trees(filename, out_dir)
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--tree_path', help="will be glob'd")
+    parser.add_argument('--out_dir')
+    args = parser.parse_args()
+    main(args.tree_path, args.out_dir)
 
 
