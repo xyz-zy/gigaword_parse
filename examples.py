@@ -170,7 +170,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length,
     return features
 
 
-def get_examples(EXAMPLE_DIR="examples/", num_examples=None, ratio=False):
+def get_examples(EXAMPLE_DIR="examples/", num_examples=None, ratio=False, during=True):
     example_files = glob.glob(EXAMPLE_DIR + "*.json")
 
     d = 0.04
@@ -184,6 +184,8 @@ def get_examples(EXAMPLE_DIR="examples/", num_examples=None, ratio=False):
     during_exs = []
 
     for FILE in example_files:
+        if not during and "during" in FILE:
+            continue
         if ratio:
             if "after" in FILE:
                 exs = after_exs
